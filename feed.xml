@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Nöron Haber</title>
+<link>https://efevuralmetu.github.io/haberbot-podcast/</link>
+<language>tr</language>
+<description>Dünya, teknoloji, ekonomi ve Türkiye'den öne çıkan başlıkların kısa sesli özeti. Her gün güncellenir. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
+<itunes:author>Nöron Haber</itunes:author>
+<itunes:summary>Dünya, teknoloji, ekonomi ve Türkiye'den öne çıkan başlıkların kısa sesli özeti. Her gün güncellenir. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
+<itunes:subtitle>Türkiye ve dünya gündemi, her gün</itunes:subtitle>
+<itunes:owner><itunes:name>Nöron Haber</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/cover.jpg"/>
+<image><url>https://efevuralmetu.github.io/haberbot-podcast/cover.jpg</url><title>Nöron Haber</title><link>https://efevuralmetu.github.io/haberbot-podcast/</link></image>
+<itunes:category text="News"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<lastBuildDate>Sat, 13 Jun 2026 18:29:25 +0000</lastBuildDate>
+<item>
+<title>GÜNDEM — 13 Haziran 2026</title>
+<description>Dünya, teknoloji, ekonomi ve Türkiye'den öne çıkan başlıkların kısa sesli özeti. Her gün güncellenir. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
+<pubDate>Sat, 13 Jun 2026 21:28:44 +0300</pubDate>
+<enclosure url="https://efevuralmetu.github.io/haberbot-podcast/episodes/gundem-2026-06-13.mp3" length="1558124" type="audio/mpeg"/>
+<guid isPermaLink="false">gundem-2026-06-13</guid>
+<itunes:duration>2:10</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
