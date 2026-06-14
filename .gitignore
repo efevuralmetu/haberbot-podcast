@@ -1,3 +1,5 @@
-# Pages'e gitmemeli — deneme/kaynak dosyalar (feed yalnız cover*.jpg + episodes + feed.xml kullanır)
+# Pages'e gitmemeli — deneme/kaynak/ara dosyalar (feed yalnız cover*.jpg + episodes/*.mp3 + *.json + feed.xml kullanır)
 cover-options/
 *.png
+*.wav
+*.dur
