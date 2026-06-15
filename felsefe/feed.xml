@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Nöron Felsefe</title>
+<link>https://efevuralmetu.github.io/haberbot-podcast/felsefe/</link>
+<language>tr</language>
+<description>Filozoflar, fikirler ve büyük sorular üzerine belgesel tadında, anlaşılır anlatılar. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
+<itunes:author>Nöron Medya</itunes:author>
+<itunes:summary>Filozoflar, fikirler ve büyük sorular üzerine belgesel tadında, anlaşılır anlatılar. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
+<itunes:subtitle>Düşüncenin izinde</itunes:subtitle>
+<itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/felsefe/cover.jpg"/>
+<image><url>https://efevuralmetu.github.io/haberbot-podcast/felsefe/cover.jpg</url><title>Nöron Felsefe</title><link>https://efevuralmetu.github.io/haberbot-podcast/felsefe/</link></image>
+<itunes:category text="Society &amp; Culture"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<lastBuildDate>Sun, 14 Jun 2026 17:44:48 +0000</lastBuildDate>
+</channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Nöron Sesli Kitap</title>
+<link>https://efevuralmetu.github.io/haberbot-podcast/seslikitap/</link>
+<language>tr</language>
+<description>Telif hakkı sona ermiş (kamu malı) klasik eserlerin sesli anlatımı. Bu içerik yapay zekâ ile seslendirilir.</description>
+<itunes:author>Nöron Medya</itunes:author>
+<itunes:summary>Telif hakkı sona ermiş (kamu malı) klasik eserlerin sesli anlatımı. Bu içerik yapay zekâ ile seslendirilir.</itunes:summary>
+<itunes:subtitle>Kamu malı klasikler</itunes:subtitle>
+<itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/seslikitap/cover.jpg"/>
+<image><url>https://efevuralmetu.github.io/haberbot-podcast/seslikitap/cover.jpg</url><title>Nöron Sesli Kitap</title><link>https://efevuralmetu.github.io/haberbot-podcast/seslikitap/</link></image>
+<itunes:category text="Arts"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<lastBuildDate>Sun, 14 Jun 2026 16:34:51 +0000</lastBuildDate>
+</channel>
+</rss>

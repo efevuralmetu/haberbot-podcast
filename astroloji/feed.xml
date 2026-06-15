@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Nöron Astroloji</title>
+<link>https://efevuralmetu.github.io/haberbot-podcast/astroloji/</link>
+<language>tr</language>
+<description>Günlük burç yorumları ve astroloji üzerine özgün içerikler. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
+<itunes:author>Nöron Medya</itunes:author>
+<itunes:summary>Günlük burç yorumları ve astroloji üzerine özgün içerikler. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
+<itunes:subtitle>Yıldızların dilinden</itunes:subtitle>
+<itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/astroloji/cover.jpg"/>
+<image><url>https://efevuralmetu.github.io/haberbot-podcast/astroloji/cover.jpg</url><title>Nöron Astroloji</title><link>https://efevuralmetu.github.io/haberbot-podcast/astroloji/</link></image>
+<itunes:category text="Religion &amp; Spirituality"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<lastBuildDate>Sun, 14 Jun 2026 16:34:51 +0000</lastBuildDate>
+</channel>
+</rss>
