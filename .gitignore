@@ -3,3 +3,7 @@ cover-options/
 *.png
 *.wav
 *.dur
+
+# Ses dosyalari artik Cloudflare R2den servis ediliyor (cdn.noronmedia.com).
+# Yerelde dururlar (yedek + feed boyut hesabi) ama Pages/gite GIRMEZLER.
+*.mp3
