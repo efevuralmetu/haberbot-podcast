@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Tarih</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/tarih/</link>
+<link>https://podcast.noronmedia.com/tarih/</link>
 <language>tr</language>
 <description>Her gün, yapay zekâ tarafından seçilen bir tarih konusu üzerine derinlemesine, belgesel tadında bir anlatı. Ağırlıklı olarak savaş ve askeri tarih; dünyadan ve Türk tarihinden, ayrıca bilim ve sanat tarihinden konular. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>Her gün, yapay zekâ tarafından seçilen bir tarih konusu üzerine derinlemesine, belgesel tadında bir anlatı. Ağırlıklı olarak savaş ve askeri tarih; dünyadan ve Türk tarihinden, ayrıca bilim ve sanat tarihinden konular. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Her gün bir tarih hikâyesi</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/tarih/cover.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/tarih/cover.jpg</url><title>Nöron Tarih</title><link>https://efevuralmetu.github.io/haberbot-podcast/tarih/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/tarih/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/tarih/cover.jpg</url><title>Nöron Tarih</title><link>https://podcast.noronmedia.com/tarih/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/tarih/feed.xml</itunes:new-feed-url>
 <itunes:category text="History"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Tue, 18 Aug 2026 19:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 20:01:53 +0000</lastBuildDate>
 <item>
 <title>Tsuşima: Dünyayı Dolaşıp Ölüme Giden Filo — tarih, deniz savaşları, tsushima, japonya, rus japon savaşı</title>
 <description>1904-1905 Rus-Japon Savaşı'nda Çar II. Nikolay'ın Baltık Filosu'nu yedi ay boyunca on sekiz bin mil öteye, Uzak Doğu'ya göndermesini ve bu filonun 27 Mayıs 1905'te Tsuşima Boğazı'nda Amiral Togo tarafından bir gün içinde yok edilişini anlatır. Belgesel, savaşın kökeninden Portsmouth Antlaşması'na ve yenilginin Rus İmparatorluğu ile sömürge dünyasında yarattığı sarsıntıya uzanır.</description>

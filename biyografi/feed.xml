@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Biyografi</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/biyografi/</link>
+<link>https://podcast.noronmedia.com/biyografi/</link>
 <language>tr</language>
 <description>Tarihe ve dünyaya yön vermiş insanların etkileyici hayat hikâyeleri. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>Tarihe ve dünyaya yön vermiş insanların etkileyici hayat hikâyeleri. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Hayatların hikâyesi</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/biyografi/cover.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/biyografi/cover.jpg</url><title>Nöron Biyografi</title><link>https://efevuralmetu.github.io/haberbot-podcast/biyografi/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/biyografi/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/biyografi/cover.jpg</url><title>Nöron Biyografi</title><link>https://podcast.noronmedia.com/biyografi/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/biyografi/feed.xml</itunes:new-feed-url>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Tue, 18 Aug 2026 19:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 20:01:53 +0000</lastBuildDate>
 <item>
 <title>Ellerini Yıka: Semmelweis'in Reddedilen Keşfi — semmelweis, tıp tarihi, lohusa humması, hijyen, viyana</title>
 <description>Macar hekim Ignaz Semmelweis'in 1847'de Viyana'da lohusa hummasının kaynağını bulup el yıkamayla ölümleri düşürmesi, meslektaşlarınca reddedilişi ve 1865'te bir akıl hastanesinde ölümü. Haklı olmanın yetmediği, kanıtın otoriteye çarptığı bir bilim trajedisi.</description>

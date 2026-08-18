@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Bilim</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/bilim/</link>
+<link>https://podcast.noronmedia.com/bilim/</link>
 <language>tr</language>
 <description>Her gün, yapay zekâ tarafından seçilen bir bilim konusu üzerine belgesel tadında derinlemesine bir anlatı. Uzaydan fiziğe, biyolojiden teknolojiye. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>Her gün, yapay zekâ tarafından seçilen bir bilim konusu üzerine belgesel tadında derinlemesine bir anlatı. Uzaydan fiziğe, biyolojiden teknolojiye. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Her gün bir bilim hikâyesi</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/bilim/cover.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/bilim/cover.jpg</url><title>Nöron Bilim</title><link>https://efevuralmetu.github.io/haberbot-podcast/bilim/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/bilim/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/bilim/cover.jpg</url><title>Nöron Bilim</title><link>https://podcast.noronmedia.com/bilim/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/bilim/feed.xml</itunes:new-feed-url>
 <itunes:category text="Science"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Tue, 18 Aug 2026 19:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 20:01:53 +0000</lastBuildDate>
 <item>
 <title>Suda Patlayan Kabarcığın İçindeki Küçük Yıldız — sonolüminesans, kabarcık, akustik, plazma, fizik</title>
 <description>Bir kap suda ses dalgalarıyla hapsedilen minik bir kabarcığın çökerken binlerce derecelik sıcaklığa ulaşıp pikosaniyelik ışık çakması yayması olan sonolüminesans olgusunu anlatır; mekanizmanın neden hâlâ tam çözülemediğini ve abartılı masaüstü</description>

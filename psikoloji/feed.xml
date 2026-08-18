@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Psikoloji</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/psikoloji/</link>
+<link>https://podcast.noronmedia.com/psikoloji/</link>
 <language>tr</language>
 <description>İnsan zihni, davranışlar ve duygular üzerine merak uyandıran, anlaşılır anlatılar. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>İnsan zihni, davranışlar ve duygular üzerine merak uyandıran, anlaşılır anlatılar. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Zihnin haritası</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/psikoloji/cover.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/psikoloji/cover.jpg</url><title>Nöron Psikoloji</title><link>https://efevuralmetu.github.io/haberbot-podcast/psikoloji/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/psikoloji/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/psikoloji/cover.jpg</url><title>Nöron Psikoloji</title><link>https://podcast.noronmedia.com/psikoloji/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/psikoloji/feed.xml</itunes:new-feed-url>
 <itunes:category text="Health &amp; Fitness"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Tue, 18 Aug 2026 19:30:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 20:01:53 +0000</lastBuildDate>
 <item>
 <title>Duyguyu Adlandır, Küçülsün: Beynin Sessiz Freni — duygu düzenleme, kaygı, öz farkındalık, isimlendirme, sinirbilim</title>
 <description>Bir duyguyu kelimeyle adlandırmanın (affect labeling) onun bedensel ve zihinsel şiddetini düşürdüğünü anlatır; kaygılıyım yerine daha ince kelimeler bulmanın neden işe yaradığını ve günlük hayatta nasıl uygulanacağını gösterir.</description>

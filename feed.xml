@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Haber</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/</link>
+<link>https://podcast.noronmedia.com/</link>
 <language>tr</language>
 <description>Dünya, teknoloji, ekonomi ve Türkiye'den öne çıkan başlıkların kısa sesli özeti. Her gün güncellenir. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>Dünya, teknoloji, ekonomi ve Türkiye'den öne çıkan başlıkların kısa sesli özeti. Her gün güncellenir. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Türkiye ve dünya gündemi, her gün</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/cover-v2.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/cover-v2.jpg</url><title>Nöron Haber</title><link>https://efevuralmetu.github.io/haberbot-podcast/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/cover-v2.jpg"/>
+<image><url>https://podcast.noronmedia.com/cover-v2.jpg</url><title>Nöron Haber</title><link>https://podcast.noronmedia.com/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/feed.xml</itunes:new-feed-url>
 <itunes:category text="News"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Tue, 18 Aug 2026 19:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 20:01:53 +0000</lastBuildDate>
 <item>
 <title>Akşam Haberleri — 18 Ağustos 2026</title>
 <description>ABD-İran müzakerelerinde 60 günlük sürenin anlaşmasız dolması Hürmüz Boğazı'nda gemi trafiğini çökertti, Brent petrol 91 dolar bandına yükseldi; Kızıldeniz'de Husi saldırısı ve Rusya-Ukrayna hattındaki yoğun İHA taarruzları gerilimi artırdı. Yurt içinde Türkiye Yapay Zeka Eylem Planı Resmî Gazete'de yayımlanarak yürürlüğe girdi, Merkez Bankası konut fiyatlarında yıllık %25 nominal artışa karşılık reelde %5,1 düşüş bildirdi, BIST 100 dar bantta hafif eksiyle kapandı. Sporda Fenerbahçe Şampiyonlar Ligi play-off'unda Lyon'u ağırlarken, 17 Yaş Altı Kız Voleybol Millî Takımı dünya ikincisi oldu.</description>
