@@ -2,18 +2,29 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Edebiyat</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/edebiyat/</link>
+<link>https://podcast.noronmedia.com/edebiyat/</link>
 <language>tr</language>
 <description>Yazarlar, akımlar ve eserler üzerine belgesel tadında incelemeler; kamu malı eserlerden örneklerle, özgün bir bakışla. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>Yazarlar, akımlar ve eserler üzerine belgesel tadında incelemeler; kamu malı eserlerden örneklerle, özgün bir bakışla. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Edebiyatın izinde</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/edebiyat/cover.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/edebiyat/cover.jpg</url><title>Nöron Edebiyat</title><link>https://efevuralmetu.github.io/haberbot-podcast/edebiyat/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/edebiyat/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/edebiyat/cover.jpg</url><title>Nöron Edebiyat</title><link>https://podcast.noronmedia.com/edebiyat/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/edebiyat/feed.xml</itunes:new-feed-url>
 <itunes:category text="Arts"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 14 Jun 2026 16:34:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 14:32:00 +0000</lastBuildDate>
+<item>
+<title>El Yazmaları Yanmaz: Bulgakov'un Yakılan Romanı — bulgakov, usta ile margarita, rus edebiyatı, sansür, sovyet</title>
+<description>Mihail Bulgakov'un 1930'da kendi elleriyle yaktığı, sonra yeniden yazıp ölümüne kadar bitiremediği Usta</description>
+<itunes:subtitle>Mihail Bulgakov'un 1930'da kendi elleriyle yaktığı, sonra yeniden yazıp ölümüne kadar bitiremediği Usta</itunes:subtitle>
+<pubDate>Wed, 19 Aug 2026 03:46:58 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/edebiyat/edebiyat-2026-08-19.mp3" length="11567276" type="audio/mpeg"/>
+<guid isPermaLink="false">edebiyat-2026-08-19</guid>
+<itunes:duration>16:07</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 </channel>
 </rss>
