@@ -2,18 +2,29 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nöron Oyun</title>
-<link>https://efevuralmetu.github.io/haberbot-podcast/oyun/</link>
+<link>https://podcast.noronmedia.com/oyun/</link>
 <language>tr</language>
 <description>Video oyunları, tasarımları ve oyun tarihi üzerine inceleme ve sohbetler; yorum ve analiz. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</description>
 <itunes:author>Nöron Medya</itunes:author>
 <itunes:summary>Video oyunları, tasarımları ve oyun tarihi üzerine inceleme ve sohbetler; yorum ve analiz. Bu içerik yapay zekâ ile hazırlanır ve seslendirilir.</itunes:summary>
 <itunes:subtitle>Oyun dünyası</itunes:subtitle>
 <itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://efevuralmetu.github.io/haberbot-podcast/oyun/cover.jpg"/>
-<image><url>https://efevuralmetu.github.io/haberbot-podcast/oyun/cover.jpg</url><title>Nöron Oyun</title><link>https://efevuralmetu.github.io/haberbot-podcast/oyun/</link></image>
+<itunes:image href="https://podcast.noronmedia.com/oyun/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/oyun/cover.jpg</url><title>Nöron Oyun</title><link>https://podcast.noronmedia.com/oyun/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/oyun/feed.xml</itunes:new-feed-url>
 <itunes:category text="Leisure"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 14 Jun 2026 17:44:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 14:34:14 +0000</lastBuildDate>
+<item>
+<title>Tetris: Soğuk Savaş'ın Kayıp Telif Savaşı — tetris, oyun tarihi, soğuk savaş, game boy, nintendo</title>
+<description>Alexey Pajitnov'un 1984'te Moskova'da yazdığı Tetris'in Demir Perde'yi aşıp Game Boy'a ulaşana kadar geçtiği lisans savaşı; Robert Stein, Maxwell ailesi, Henk Rogers ve ELORG arasındaki hak kavgası ve mucidin on iki yıl boyunca tek kuruş alamaması.</description>
+<itunes:subtitle>Alexey Pajitnov'un 1984'te Moskova'da yazdığı Tetris'in Demir Perde'yi aşıp Game Boy'a ulaşana kadar geçtiği lisans savaşı; Robert Stein, Maxwell ailesi, Henk Rogers ve ELORG arasındaki hak kavgası ve mucidin on iki yıl boyunca tek kuruş alamaması.</itunes:subtitle>
+<pubDate>Wed, 19 Aug 2026 04:03:43 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/oyun/oyun-2026-08-19.mp3" length="11895020" type="audio/mpeg"/>
+<guid isPermaLink="false">oyun-2026-08-19</guid>
+<itunes:duration>16:35</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 </channel>
 </rss>
