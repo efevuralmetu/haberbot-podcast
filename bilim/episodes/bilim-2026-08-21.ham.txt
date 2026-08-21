@@ -1,0 +1,73 @@
+[MOOD: kesif]
+Elinizdeki nüfus listesine, elektrik faturalarına, nehir uzunluklarına bakın; ilk rakamları sayın. 1'ler, 9'lardan altı kat fazla çıkacak — ve bu bir tesadüf değil, matematiksel bir zorunluluk.
+
+[JINGLE] jingle/haberjingle.mp3
+
+[MOOD: kesif]
+
+1881 yılında, Washington'daki Deniz Yıllığı Bürosu'nun kütüphanesinde, bir gökbilimci elindeki kitabı kapatmadan önce bir an duraksadı. Simon Newcomb o dönemin en tanınmış bilim insanlarından biriydi; Ay'ın hareketini, gezegenlerin yörüngelerini, ışığın hızını hesaplamakla uğraşıyordu. Elektronik hesap makinesi diye bir şey yoktu. Büyük sayıları çarpmak isteyen herkesin başvurduğu tek alet, logaritma cetvelleriydi: binlerce satırlık, ince baskılı, sıkıcı tablolar. Ve o kitaplar, sürekli kullanılmaktan yıpranırdı.
+
+Newcomb'un dikkatini çeken şey tablonun içindeki sayılar değildi. Kitabın kendisiydi. Ön taraftaki sayfalar, arkadakilerden gözle görülür biçimde daha kirliydi. Kenarları yağlanmış, köşeleri kıvrılmış, kâğıdı incelmişti. Arka sayfalar ise neredeyse yeni gibi duruyordu. Logaritma tablolarında sayfalar, sayının ilk basamağına göre sıralanır: 1 ile başlayan sayılar başta, 9 ile başlayanlar sonda. Yani kitabın yıpranma deseni sessiz bir istatistik tutuyordu. Bilim insanları, mühendisler, muhasebeciler, denizciler yıllardır o kitabı açıp duruyordu ve hepsinin birlikte yaptığı şey şuydu: 1 ile başlayan sayılara, 9 ile başlayanlardan çok daha sık bakıyorlardı.
+
+Bu tuhaftı. Doğadan devşirilmiş rastgele bir sayının ilk basamağı neden 1 olsun? Sezgi der ki dokuz olasılık vardır ve hepsi eşit şansa sahiptir; her biri yaklaşık yüzde 11. Ama o kirli sayfalar başka bir şey söylüyordu.
+
+Newcomb oturdu ve bir formül yazdı. Bir sayının d rakamıyla başlama olasılığının, 1 artı 1 bölü d'nin logaritmasına eşit olduğunu öne sürdü. Bu formülü uyguladığınızda ortaya çıkan tablo şudur: sayıların yaklaşık yüzde 30,1'i 1 ile başlar. Yüzde 17,6'sı 2 ile. Sonra sırasıyla yüzde 12,5, yüzde 9,7, yüzde 7,9, yüzde 6,7, yüzde 5,8, yüzde 5,1 ve en sonda yüzde 4,6 ile 9. Yani doğadan toplanmış sayıların kabaca üçte biri 1 ile başlıyor, ve 9 ile başlayanlar bunun altıda biri kadar bile değil.
+
+Newcomb bulgusunu "Doğal Sayılarda Farklı Rakamların Kullanım Sıklığı Üzerine Not" başlığıyla, American Journal of Mathematics dergisinde iki sayfalık kısa bir yazı olarak yayımladı. Tek bir veri kümesi vermedi. Tek bir kanıt sunmadı. Bunun neden böyle olduğunu da açıklamadı. Sadece "öyle görünüyor ki" dedi ve konuyu kapattı. Yazı, matematik dünyasının derinliklerinde kayboldu. Yaklaşık 60 yıl kimse ona dönüp bakmadı.
+
+Sonra 1938'de, New York eyaletinin Schenectady kasabasındaki General Electric araştırma laboratuvarında çalışan bir fizikçi, tam olarak aynı şeyi fark etti. Frank Benford da logaritma tablolarına bakıyordu ve o da ilk sayfaların daha çok yıprandığını gördü. Newcomb'un yazısından haberi yoktu. Ama Benford'un Newcomb'da olmayan bir şeyi vardı: inat.
+
+Benford, gözlemi bir merak olmaktan çıkarıp ampirik bir yasaya dönüştürmeye karar verdi. Eline geçirebildiği her sayı listesini toplamaya başladı. Sonunda 20 farklı veri kümesinden 20.229 sayı biriktirdi ve bunların ne kadar birbirinden kopuk olduğu, işin bütün güzelliğidir. 335 nehrin havza yüzölçümü vardı listesinde. 3.259 Amerikan yerleşiminin nüfusu. 104 fiziksel sabit. 1.800 molekül ağırlığı. Bir matematik el kitabından alınmış 5.000 kayıt. Reader's Digest dergisinin tek bir sayısında geçen 308 sayı. Amerikan Bilim İnsanları rehberinde listelenen ilk 342 kişinin sokak adresleri. 418 ölüm oranı. Beysbol istatistikleri. Elektrik faturaları. Gazete sayfalarından rastgele toplanmış rakamlar.
+
+Bunların birbiriyle hiçbir ilgisi yoktu. Nehirler ile molekül ağırlıkları arasında ortak bir mekanizma yok. Adreslerle ölüm oranları arasında da yok. Buna rağmen Benford hepsinde ilk basamakları saydığında, aynı eğri karşısına çıktı. 1'ler tepede, sonra düzenli bir düşüş, 9'lar dipte. Kimi veri kümesi eğriden biraz sapıyordu, ama hepsinin toplamı formüle şaşırtıcı bir sadakatle oturuyordu.
+
+Benford bu çalışmayı "Anormal Sayılar Yasası" başlığıyla, Amerikan Felsefe Derneği'nin bildirilerinde yayımladı. Bu kez kimse görmezden gelemedi. Ve tarihin küçük bir adaletsizliği olarak, yasa bugün bulgunun 57 yıl önce yayımlanmış ilk sahibinin değil, ikinci kâşifin adını taşıyor: Benford Yasası.
+
+[MOOD: sakin]
+
+Peki neden? Bir nehir havzasının kaç kilometrekare olduğunu belirleyen jeoloji ile bir molekülün ağırlığını belirleyen kimya arasında ortak bir komplo olamayacağına göre, bu düzenin kaynağı sayıların kendi doğasında olmalı.
+
+Cevabı görmek için ölçeğe bakmak gerekiyor. Sıradan bir cetvelde 1 ile 2 arasındaki mesafe, 8 ile 9 arasındaki mesafeyle aynıdır. Ama logaritmik bir cetvelde değildir. Orada 1'den 2'ye giden aralık, tüm cetvelin yüzde 30'unu kaplar; 8'den 9'a giden aralık ise yüzde 5'ini bile bulmaz. Logaritmik cetvel, sayıları büyüklüklerine göre değil, oranlarına göre yerleştirir. Ve doğa, sayıları çoğu zaman tam olarak böyle üretir: toplayarak değil, çarparak.
+
+Şunu düşünün. Elinizde 100 lira var ve her yıl yüzde 10 büyüyor. 1 ile başlayan bir sayıdan 2 ile başlayan bir sayıya varmanız için paranızın ikiye katlanması gerekir; bu 7 yılı aşkın sürer. Ama sayı 900 liraya ulaştığında, 9'dan çıkıp 1.000'e, yani yeniden 1'e dönmesi için sadece yüzde 11 büyümesi yeter; bu bir yıldan kısa sürer. Yani büyüyen her nicelik, hayatının çok daha uzun bir kısmını 1 ile başlayarak geçirir ve 9'lu bölgeden apar topar geçer. Bir şehrin nüfusu, bir şirketin cirosu, bir dosyanın boyutu, bir bakteri kolonisinin sayısı: hepsi bu asimetrik merdiveni tırmanır. Rastgele bir anda fotoğrafını çekerseniz, onu büyük olasılıkla merdivenin geniş basamağında yakalarsınız.
+
+Bunun daha derin ve daha zarif bir ifadesi var: ölçek bağımsızlığı. Benford'un nehir havzalarını kilometrekare yerine mil kare, dönüm ya da futbol sahası cinsinden ölçtüğünüzü varsayın. Bütün sayılar değişir. Ama ilk basamakların dağılımı değişmez. 1961'de matematikçi Roger Pinkham bunu tersinden kanıtladı: eğer ilk basamaklar için evrensel, ölçü biriminden bağımsız bir yasa varsa, o yasa logaritmik olmak zorundadır. Başka bir aday yoktur. Doğa bize metre ya da inç kullanmamızı söylemediğine göre, birim seçimimizden etkilenmeyen tek dağılım budur. Aynı şey sayı tabanı için de geçerli: yasa onlu sistemde de, ikili ya da altmışlı sistemde de aynı biçimde çalışır.
+
+1995'te Georgia Tech'ten matematikçi Theodore Hill, işin en can alıcı parçasını yerine oturttu. Hill'in kanıtladığı şey şuydu: tek bir dağılımdan çekilmiş verilerin Benford'a uyması gerekmez, ama rastgele seçilmiş dağılımlardan rastgele örnekler alıp bunları bir araya getirdiğinizde, sonuç kaçınılmaz olarak logaritmik yasaya yakınsar. Yani karışım, yasayı doğurur. Bu, Benford'un neden nehirleri, molekülleri ve gazete sayfalarını aynı torbaya attığında bu kadar temiz bir eğri elde ettiğini açıklar. Yasa, tek bir olgunun değil, olguların çeşitliliğinin bir sonucudur.
+
+Matematiğin içinde de aynı desen var. 2'nin kuvvetlerini yazmaya başlayın: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024. İlk basamakları saymaya devam edin, milyonlarca terime kadar gidin; dağılım Benford'a tam olarak oturur. Fibonacci sayıları da öyle davranır. Bunlar rastgele değildir, içlerinde hiçbir belirsizlik yoktur, yine de aynı yasaya boyun eğerler, çünkü hepsi çarpımsal olarak büyür.
+
+Ama burada çok önemli bir sınır var ve yasayı yanlış kullanan herkes tam olarak bu sınırı ihlal eder. Benford Yasası her sayı yığını için geçerli değildir. Çalışması için verinin birkaç büyüklük mertebesine yayılması gerekir; yani listede hem yüzlü hem milyonlu sayılar bulunmalıdır. Verinin yapay bir alt ya da üst sınırla kesilmemiş olması gerekir. Ve sayıların insan eliyle atanmış etiketler değil, ölçülmüş ya da birikmiş nicelikler olması gerekir.
+
+Bu yüzden insan boyları Benford'a uymaz: neredeyse herkes 1 ile 2 metre arasındadır, dağılım dar bir bandın içine sıkışmıştır. Zekâ testi puanları uymaz, çünkü ortalaması 100 olacak şekilde tasarlanmışlardır. Telefon numaraları uymaz, çünkü onlar sayı değil, sayı kılığına girmiş adreslerdir. Loto çekilişleri uymaz, çünkü tam da uymamak için tasarlanmışlardır. Ayakkabı numaraları, sınav notları, bir maçtaki forma numaraları: hiçbiri uymaz.
+
+Yasanın gücü de zayıflığı da buradadır. Doğru veriye uygulandığında olağanüstü keskindir. Yanlış veriye uygulandığında ise size hiçbir şey söylemez, ama bir şey söylüyormuş gibi görünür. Ve bu ikisi arasındaki fark, çok pahalı sonuçlar doğurabilir.
+
+[MOOD: gerilim]
+
+Yasanın gerçek dünyada bir silaha dönüşmesi, muhasebe alanından geldi. Fikir basit ama acımasızdı: eğer doğal ekonomik veriler Benford dağılımına uyuyorsa ve insanlar sayı uydurmakta kötüyse, uydurulmuş sayılar ele verir kendini.
+
+İnsanlar sayı uydurmakta gerçekten kötüdür. "Rastgele" bir rakam yazması istenen bir kişi, rakamları kabaca eşit dağıtmaya çalışır. Aynı rakamı arka arkaya kullanmaktan kaçınır, çünkü bu ona "rastgele görünmez". Yuvarlak sayılardan uzak durur. Ve dikkat çekmemek için tasarlanmış tutarlarda, ortadaki ve yüksek rakamlara doğru kayar. Bunların hepsi, logaritmik eğriden sapma demektir.
+
+Bu yaklaşımı sistemli bir denetim aracına çeviren isim, muhasebe akademisyeni Mark Nigrini oldu. 1990'ların başında yaptığı doktora çalışmasında, vergi beyannamelerindeki ve muhasebe kayıtlarındaki ilk basamak dağılımlarını Benford eğrisiyle karşılaştırmayı önerdi. Yöntem hızla yayıldı; vergi idareleri, savcılıklar ve denetim şirketleri, milyonlarca satırlık defterleri saniyeler içinde tarayıp "buraya bakın" diyen bir filtre kazandılar.
+
+En çok anlatılan örneği, 1993'te Arizona'da görülen bir dava sağladı. Eyalet hazine dairesinde yönetici olarak çalışan Wayne James Nelson, hayali bir tedarikçiye kesilmiş 23 çekle eyaleti 2 milyona yakın dolar zarara uğratmakla suçlandı. Nelson savunmasında, yeni bilgisayar sisteminin güvenlik açıklarını göstermek istediğini öne sürdü. Çeklerin tutarları ilk bakışta gelişigüzel duruyordu. Ama Nigrini'nin sonradan dikkat çektiği gibi, gelişigüzel değillerdi. Nelson ilk iki çeki küçük tutmuş, sonra hızla büyütmüştü ve tutarların ezici çoğunluğu 7, 8 ve 9 ile başlıyordu; yani Benford dağılımının en seyrek bölgesinde toplanmışlardı. Ayrıca hiçbir tutar tekrarlanmıyor, sayılar fazla "dağınık" görünüyordu. Doğal bir defterde bu desen ortaya çıkmaz. İnsan zihninin rastgelelik taklidi, matematiksel bir imza bırakmıştı. Nelson mahkûm oldu.
+
+Yöntem sonraki yıllarda muhasebe denetiminin standart araç setine girdi. Bilimsel makalelerdeki verilerin tutarlılığını sınamak, dijital görüntülerde oynama izi aramak, sigorta taleplerini taramak için kullanıldı. 2011'de Alman ekonomistlerin yayımladığı bir çalışma, Avrupa Birliği üyelerinin Brüksel'e bildirdiği makroekonomik verilere aynı testi uyguladı ve o dönem borç krizinin merkezindeki Yunanistan'ın rakamlarının Benford dağılımından diğer tüm üyelerden daha fazla saptığını buldu.
+
+Ama işte tam burada, yasanın en tehlikeli tarafı devreye giriyor. Benford testi bir mahkûmiyet değildir. Duman dedektörüdür. Duman dedektörü çaldığında yangın olabilir, ama tost da yanmış olabilir. Yunanistan örneğinde sapma, veri toplama yöntemlerindeki değişikliklerden, ekonominin yapısından ya da raporlama pratiklerinden de kaynaklanabilirdi. Sapma bir soru işaretidir; cevap değil, cevabı aramaya nereden başlanacağının işaretidir.
+
+Ve yanlış elde ne olduğunu görmek için çok beklemek gerekmedi. 2020 Amerikan başkanlık seçiminin ardından, sandık bölgesi düzeyindeki oy sayılarına Benford Yasası uygulanmış grafikler internette hızla yayıldı; eğriye uymayan histogramlar hile kanıtı olarak sunuldu. İstatistikçiler bu iddiaları reddetti, çünkü hata yöntemin kendisinde değil, uygulandığı yerdeydi.
+
+Sebep, ikinci bölümde konuştuğumuz o sınırın tam kalbinde yatıyor. Sandık bölgeleri kabaca eşit büyüklükte olacak şekilde çizilir; bir bölgede birkaç yüz ya da birkaç bin seçmen vardır ve bu sayı yukarıdan kesilmiştir. İki ana adayın oyları da çoğu yerde birbirine yakın oranlarda bölünür. Yani veri, birkaç büyüklük mertebesine yayılmaz; dar bir bandın içinde toplanır. Bin seçmenli bölgelerde oylar yarı yarıya bölünüyorsa, sayıların 4, 5 ve 6 ile başlaması beklenen sonuçtur, 1 ile başlaması değil. Böyle bir veride Benford eğrisinin çıkmaması bir anormallik değil, matematiğin öngördüğü normal durumdur. Testin varsayımları karşılanmadığında, testin sonucu hiçbir şey ifade etmez.
+
+Bu uyarının en yüksek sesle geldiği yerlerden biri, seçim adli istatistiği üzerine yıllarını vermiş bir isim olan Michigan Üniversitesi'nden Walter Mebane oldu; kendi geliştirdiği araçların bu biçimde basitleştirilerek kullanılmasına açıkça karşı çıktı. Yasanın kâşifleri değil, onu en iyi bilenler frene bastı.
+
+Buradan çıkan ders, sayılardan daha geniş bir şeye uzanıyor. Yeterince veri kümesine yeterince test uygularsanız, bazıları saf şans eseri sapacaktır. Bir aracın matematiksel olarak sağlam olması, her soruya cevap verdiği anlamına gelmez. Bir grafiğin ikna edici görünmesi, doğru soruya cevap verdiği anlamına hiç gelmez. Benford Yasası, kendisinin nerede geçerli olduğunu söylemez; bunu söyleme sorumluluğu onu kullanana aittir.
+
+Newcomb'un kirli sayfalarından bugünün adli denetim yazılımlarına uzanan bu yol, aslında ölçmenin kendisi hakkında bir şey öğretiyor. Benford Yasası doğanın sayıları sevdiğini söylemiyor. Doğanın çarparak, katlanarak, oranlarla büyüdüğünü ve bizim onu onlu sistemin basamaklarıyla parçalara ayırdığımızı söylüyor. O eğri, evrenin bir özelliği ile insanın icat ettiği bir sayma sisteminin kesiştiği yerde beliren bir gölge. Ve o gölgenin şeklini bilmek, birinin defterinde gölgeyi taklit etmeye çalıştığını fark etmenize yetiyor.
+
+[MOOD: sakin]
+Nöron Bilim'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.
+
+[JINGLE] jingle/haberjingle.mp3
