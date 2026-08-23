@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /feed.xml
+Disallow: /*/feed.xml
+Disallow: /episodes/
+Disallow: /*/episodes/
+Sitemap: https://podcast.noronmedia.com/sitemap.xml
