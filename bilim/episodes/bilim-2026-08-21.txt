@@ -1,9 +1,4 @@
-[MOOD: kesif]
 Elinizdeki nüfus listesine, elektrik faturalarına, nehir uzunluklarına bakın; ilk rakamları sayın. 1'ler, 9'lardan altı kat fazla çıkacak — ve bu bir tesadüf değil, matematiksel bir zorunluluk.
-
-[JINGLE] jingle/haberjingle.mp3
-
-[MOOD: kesif]
 
 1881 yılında, Washington'daki Deniz Yıllığı Bürosu'nun kütüphanesinde, bir gökbilimci elindeki kitabı kapatmadan önce bir ân duraksadı. Simon Newcomb o dönemin en tanınmış bilim insanlarından biriydi; Ay'ın hareketini, gezegenlerin yörüngelerini, ışığın hızını hesaplamakla uğraşıyordu. Elektronik hesap makinesi diye bir şey yoktu. Büyük sayıları çarpmak isteyen herkesin başvurduğu tek alet, logaritma cetvelleriydi: binlerce satırlık, ince baskılı, sıkıcı tablolar. Ve o kitaplar, sürekli kullanılmaktan yıpranırdı.
 
@@ -23,8 +18,6 @@ Bunların birbiriyle hiçbir ilgisi yoktu. Nehirler ile molekül ağırlıkları
 
 Benford bu çalışmayı "Anormal Sayılar Yasası" başlığıyla, Amerikan Felsefe Derneği'nin bildirilerinde yayımladı. Bu kez kimse görmezden gelemedi. Ve tarihin küçük bir adaletsizliği olarak, yasa bugün bulgunun 57 yıl önce yayımlanmış ilk sahibinin değil, ikinci kâşifin adını taşıyor: Benford Yasası.
 
-[MOOD: sakin]
-
 Peki neden? Bir nehir havzasının kaç kilometrekare olduğunu belirleyen jeoloji ile bir molekülün ağırlığını belirleyen kimya arasında ortak bir komplo olamayacağına göre, bu düzenin kaynağı sayıların kendi doğasında olmalı.
 
 Cevabı görmek için ölçeğe bakmak gerekiyor. Sıradan bir cetvelde 1 ile 2 arasındaki mesafe, 8 ile 9 arasındaki mesafeyle aynıdır. Ama logaritmik bir cetvelde değildir. Orada 1'den 2'ye giden aralık, tüm cetvelin yüzde 30'unu kaplar; 8'den 9'a giden aralık ise yüzde 5'ini bile bulmaz. Logaritmik cetvel, sayıları büyüklüklerine göre değil, oranlarına göre yerleştirir. Ve doğa, sayıları çoğu zaman tam olarak böyle üretir: toplayarak değil, çarparak.
@@ -42,8 +35,6 @@ Ama burada çok önemli bir sınır var ve yasayı yanlış kullanan herkes tam 
 Bu yüzden insan boyları Benford'a uymaz: neredeyse herkes 1 ile 2 metre arasındadır, dağılım dar bir bandın içine sıkışmıştır. Zekâ testi puanları uymaz, çünkü ortalaması 100 olacak şekilde tasarlanmışlardır. Telefon numaraları uymaz, çünkü onlar sayı değil, sayı kılığına girmiş adreslerdir. Loto çekilişleri uymaz, çünkü tam da uymamak için tasarlanmışlardır. Ayakkabı numaraları, sınav notları, bir maçtaki forma numaraları: hiçbiri uymaz.
 
 Yasanın gücü de zayıflığı da buradadır. Doğru veriye uygulandığında olağanüstü keskindir. Yanlış veriye uygulandığında ise size hiçbir şey söylemez, ama bir şey söylüyormuş gibi görünür. Ve bu ikisi arasındaki fark, çok pahalı sonuçlar doğurabilir.
-
-[MOOD: gerilim]
 
 Yasanın gerçek dünyada bir silaha dönüşmesi, muhasebe alanından geldi. Fikir basit ama acımasızdı: eğer doğal ekonomik veriler Benford dağılımına uyuyorsa ve insanlar sayı uydurmakta kötüyse, uydurulmuş sayılar ele verir kendini.
 
@@ -67,7 +58,4 @@ Buradan çıkan ders, sayılardan daha geniş bir şeye uzanıyor. Yeterince ver
 
 Newcomb'un kirli sayfalarından bugünün adli denetim yazılımlarına uzanan bu yol, aslında ölçmenin kendisi hakkında bir şey öğretiyor. Benford Yasası doğanın sayıları sevdiğini söylemiyor. Doğanın çarparak, katlanarak, oranlarla büyüdüğünü ve bizim onu onlu sistemin basamaklarıyla parçalara ayırdığımızı söylüyor. O eğri, evrenin bir özelliği ile insanın icat ettiği bir sayma sisteminin kesiştiği yerde beliren bir gölge. Ve o gölgenin şeklini bilmek, birinin defterinde gölgeyi taklit etmeye çalıştığını fark etmenize yetiyor.
 
-[MOOD: sakin]
 Nöron Bilim'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.
-
-[JINGLE] jingle/haberjingle.mp3
