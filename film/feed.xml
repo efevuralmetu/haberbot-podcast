@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Film</title>
 <link>https://podcast.noronmedia.com/film/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="TV &amp; Film"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:32:38 +0000</lastBuildDate>
+<item>
+<title>Psycho: Stüdyonun Reddettiği, Sinemayı Değiştiren Film</title>
+<description>Alfred Hitchcock'un 1960 tarihli Psycho'sunun, Paramount'un finanse etmeyi reddetmesi üzerine yönetmenin maaşından vazgeçip kendi TV ekibiyle çektiği yapım hikâyesini; duş sahnesinin kurgu ve Bernard Herrmann'ın yaylılarıyla kurulan gerilim dilini; ve filmin hem seyirci alışkanlıklarını hem de korku sinemasının kurallarını kalıcı olarak değiştirişini anlatıyor.
+
+Konular: hitchcock, psycho, korku sineması, duş sahnesi, hollywood.</description>
+<itunes:subtitle>Alfred Hitchcock'un 1960 tarihli Psycho'sunun, Paramount'un finanse etmeyi reddetmesi üzerine yönetmenin maaşından vazgeçip kendi TV ekibiyle çektiği yapım hikâyesini; duş sahnesinin kurgu ve Bernard Herrmann'ın yaylılarıyla kurulan gerilim dilini; ve filmin hem seyirci alışkanlıklarını hem de korku sinemasının kurallarını kalıcı olarak değiştirişini anlatıyor.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/film/episodes/film-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 04:32:36 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/film/film-2026-08-24.mp3" length="10893356" type="audio/mpeg"/>
+<guid isPermaLink="false">film-2026-08-24</guid>
+<itunes:duration>15:11</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Serseri Âşıklar: Kuralları Kesip Atan Film</title>
 <description>Jean-Luc Godard'ın 1960 tarihli ilk uzun metrajı À bout de souffle'un stüdyosuz, ışıksız, dört haftalık gerilla çekimini; Raoul Coutard'ın tekerlekli sandalyeden omuz kamerasıyla yakaladığı belgesel dokuyu; ve fazla uzun bulunan filmi sahneleri atmak yerine sahnelerin içinden keserek doğan jump
