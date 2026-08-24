@@ -1,0 +1,585 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.170
+Tek bir hücre topundan başlıyorsunuz — her yeri aynı, hiçbir yerinde "buraya çizgi çiz" yazmıyor.
+
+2
+00:00:07.170 --> 00:00:10.020
+Sonra bir zebra çıkıyor ortaya.
+
+3
+00:00:10.020 --> 00:00:17.990
+Turing, ölümünden iki yıl önce, bu düzenin dışarıdan bir plana hiç ihtiyaç duymadan matematikten doğabileceğini gösterdi.
+
+4
+00:00:26.190 --> 00:00:28.720
+Bir zebra embriyosunu düşünün.
+
+5
+00:00:28.720 --> 00:00:34.450
+Gebeliğin daha ilk haftaları; canlı, tırnağınızın ucuna sığacak kadar küçük.
+
+6
+00:00:34.450 --> 00:00:38.900
+Sırtında henüz tüy yok, renk yok, siyah yok, beyaz yok.
+
+7
+00:00:38.900 --> 00:00:42.710
+Deri hücreleri birbirinin neredeyse tıpatıp aynısı.
+
+8
+00:00:42.710 --> 00:00:45.400
+Hiçbiri nerede durduğunu bilmiyor.
+
+9
+00:00:45.400 --> 00:00:51.610
+Hiçbirinin elinde "sen çizginin içinde kalacaksın, sen dışında" diyen bir kroki yok.
+
+10
+00:00:51.610 --> 00:01:00.220
+Ve buna rağmen, aylar sonra doğacak tayın postunda, tek bir çizgisi bile ötekinin üstüne binmeyen, ritmi şaşmayan bir desen olacak.
+
+11
+00:01:00.220 --> 00:01:04.350
+Bu, biyolojinin en eski rahatsız edici sorularından biri.
+
+12
+00:01:04.350 --> 00:01:08.160
+Düzgün bir şeyden düzgünsüz bir şey nasıl çıkar?
+
+13
+00:01:08.160 --> 00:01:10.850
+Simetriden asimetri nasıl doğar?
+
+14
+00:01:10.850 --> 00:01:18.180
+Bir yumurta küreseldir; ondan çıkan hayvanın başı, kuyruğu, benekleri, parmakları vardır.
+
+15
+00:01:18.180 --> 00:01:21.350
+Bir yerlerde tekdüzelik bozulmak zorunda.
+
+16
+00:01:21.350 --> 00:01:26.600
+Soruyu ilk kez ciddiye alıp matematiğe döken kişi ise bir biyolog değildi.
+
+17
+00:01:26.600 --> 00:01:34.570
+1952'de Alan Turing, Manchester'da, bugün adını duyduğumuz her şeyden bambaşka bir konu üzerinde çalışıyordu.
+
+18
+00:01:34.570 --> 00:01:43.340
+Krâliyet Cemiyeti'nin dergisinde yayımladığı yazının adı Morfogenezin Kimyâsal Temeli'ydi; yâni biçimin kimyâdan nasıl doğduğu.
+
+19
+00:01:43.340 --> 00:01:50.190
+Yaşarken yayımlanan son büyük çalışmasıydı ve iddiâsı, ilk duyuşta yanlış gelecek kadar terstir.
+
+20
+00:01:50.190 --> 00:01:55.600
+Difüzyon, yâni yayınım, hepimizin sezgisinde bir düzleştiricidir.
+
+21
+00:01:55.600 --> 00:02:03.250
+Bir bardak suya mürekkep damlatın; leke dağılır, sınırlar silinir, sonunda her yer aynı soluk mâviye döner.
+
+22
+00:02:03.250 --> 00:02:05.460
+Yayınım farkı yok eder.
+
+23
+00:02:05.460 --> 00:02:15.830
+Turing'in gösterdiği şey şuydu: birbiriyle tepkimeye giren iki madde varsa ve bu iki madde farklı hızlarda yayılıyorsa, yayınım tam tersini yapabilir.
+
+24
+00:02:15.830 --> 00:02:19.320
+Farkı silmek yerine, yoktan fark yaratabilir.
+
+25
+00:02:19.320 --> 00:02:21.530
+Mekanizma şöyle işler.
+
+26
+00:02:21.530 --> 00:02:24.220
+Elinizde iki kimyâsal olsun.
+
+27
+00:02:24.220 --> 00:02:32.030
+Birincisine etkinleştirici diyelim: kendi üretimini kendisi tetikler, yâni bir yerde birazcık fazlaysa daha da fazlalaşır.
+
+28
+00:02:32.030 --> 00:02:36.320
+Aynı zamânda ikinci maddeyi, engelleyiciyi de üretir.
+
+29
+00:02:36.320 --> 00:02:40.450
+Engelleyicinin işi ise etkinleştiriciyi bastırmaktır.
+
+30
+00:02:40.450 --> 00:02:46.980
+Şimdi kritik koşul: engelleyici, etkinleştiriciden belirgin biçimde daha hızlı yayılmalı.
+
+31
+00:02:46.980 --> 00:02:49.990
+Kuru bir otlakta çıkan yangını düşünün.
+
+32
+00:02:49.990 --> 00:02:53.640
+Ateş kendi kendini besler, büyüdükçe büyür.
+
+33
+00:02:53.640 --> 00:02:59.530
+Ama alevin önünden koşan, ateşten daha hızlı hareket eden itfâiyeciler de var.
+
+34
+00:02:59.530 --> 00:03:08.780
+Yangın merkezde tutuşur, kendini besler, ayakta kalır; çevresine ise itfâiyecilerden oluşan geniş bir güvenlik halkası yayılır.
+
+35
+00:03:08.780 --> 00:03:12.110
+O halkanın içinde yeni bir yangın çıkamaz.
+
+36
+00:03:12.110 --> 00:03:15.600
+Ama halkanın bittiği yerde, engel biter.
+
+37
+00:03:15.600 --> 00:03:18.130
+Orada yeni bir ateş tutuşabilir.
+
+38
+00:03:18.130 --> 00:03:24.820
+Sonuç, rastgele dağılmış yangınlar değil, birbirinden düzenli aralıklarla ayrılmış yangınlardır.
+
+39
+00:03:24.820 --> 00:03:26.870
+İşte desen budur.
+
+40
+00:03:26.870 --> 00:03:30.520
+Yakında etkinleştirme, uzakta bastırma.
+
+41
+00:03:30.520 --> 00:03:37.850
+Bu ikisinin gerilimi, sistemin kendi kendine seçtiği bir mesâfe doğurur; fizikçilerin dalga boyu dediği şey.
+
+42
+00:03:37.850 --> 00:03:41.180
+Ve bu mesâfe hiçbir yere yazılı değildir.
+
+43
+00:03:41.180 --> 00:03:45.790
+Bir haritadan, bir plandan, bir şablondan gelmez.
+
+44
+00:03:45.790 --> 00:03:52.000
+Yalnızca maddelerin ne kadar hızlı tepkimeye girdiğinden ve ne kadar hızlı yayıldığından çıkar.
+
+45
+00:03:52.000 --> 00:03:57.410
+Turing bu varsayımsal maddelere morfojen adını verdi; biçim doğuran anlamında.
+
+46
+00:03:57.410 --> 00:04:01.220
+Kelime bugün gelişim biyolojisinin sözlüğünde duruyor.
+
+47
+00:04:01.220 --> 00:04:05.190
+Paradoksun adı da güzeldir: yayınım kaynaklı kararsızlık.
+
+48
+00:04:05.190 --> 00:04:12.200
+Bu iki maddeyi bir kaba koyup sürekli karıştırırsanız, sistem tekdüze bir dengede oturur, hiçbir şey olmaz.
+
+49
+00:04:12.200 --> 00:04:17.770
+Karıştırmayı bırakır, yâni maddelerin yayılmasına izin verirseniz, denge bozulur.
+
+50
+00:04:17.770 --> 00:04:25.740
+Genellikle düzeni bozan hareketsizlik değildir; burada düzeni kuran şey, tam da her şeyi eşitlemesi beklenen süreçtir.
+
+51
+00:04:25.740 --> 00:04:28.430
+Turing hesapları elle yapmadı.
+
+52
+00:04:28.430 --> 00:04:37.680
+Manchester'daki Ferranti Mark I bilgisayarını kullandı; bu, bir bilgisayarın canlı biçiminin kökenini anlamak için kullanıldığı ilk örneklerden biridir.
+
+53
+00:04:37.680 --> 00:04:43.250
+Makinenin ürettiği sayı tablolarında, tekdüze bir yüzeyden çıkan lekeler vardı.
+
+54
+00:04:43.250 --> 00:05:22.140
+Denklemin en şaşırtıcı tarafı ise şu: aynı kimyâ, üzerine yazıldığı yüzeyin ölçüsüne ve şekline göre bambaşka desenler verir. 1980'lerde matematikçi James Murray'in ayrıntılı biçimde işlediği gibi, geniş ve düz bir yüzeyde sistem benek üretmeye yatkındır; dar, uzun, sivrilen bir yüzeyde ise beneğe yer kalmaz, desen çizgiye dönüşür. Bundan test edilebilir, hoş bir sonuç çıkar: benekli bir hayvanın çizgili kuyruğu olabilir, ama çizgili bir hayvanın benekli kuyruğu olamaz. Leoparın kuyruğunun ucuna bakın; benekler orada halkalara dönüşür.
+
+55
+00:05:22.140 --> 00:05:23.710
+Ve zebra?
+
+56
+00:05:23.710 --> 00:05:28.000
+Zebranın çizgileri yetişkin postuna sonradan çizilmez.
+
+57
+00:05:28.000 --> 00:05:32.290
+Karâr, o desen görünür hâle gelmeden çok önce verilmiştir.
+
+58
+00:05:32.290 --> 00:06:10.670
+Bu fikrin zebraya ilk kez ciddî biçimde uygulanması 1977'de oldu. Zoolog Jonathan Bard, güzel bir tersine mühendislik yaptı. Yetişkin zebrada çizgiler santimetrelerce geniştir; ama desen embriyoda, hayvan minicikken kurulduysa, o zamânki aralık da minicik olmalıydı. Bard üç zebra türünün çizgi sayılarını ve gövde geometrisini alıp geriye doğru hesapladı ve dikkat çekici bir sadelik buldu: üçünde de desenin ilk kurulduğu andaki aralık aşağı yukarı aynıydı, 0,4 milimetre. Kabaca 20 hücre boyu.
+
+59
+00:06:10.670 --> 00:06:14.640
+Türler arasındaki fark aralıkta değil, zamanlamadaydı.
+
+60
+00:06:14.640 --> 00:06:26.130
+Ova zebrasında desen gebeliğin üçüncü haftasında kuruluyordu; dağ zebrasında dördüncü haftada; en çok ve en ince çizgiye sâhip Grevy zebrasında ise beşinci haftada.
+
+61
+00:06:26.130 --> 00:06:40.180
+Mantık şu: desen ne kadar geç kurulursa, embriyo o anda o kadar büyüktür, 0,4 milimetrelik aralığa o kadar çok çizgi sığar ve hayvan büyüdüğünde ortaya o kadar sık, o kadar ince bir desen çıkar.
+
+62
+00:06:40.180 --> 00:06:46.390
+Tek bir mekanizma, tek bir sâbit aralık, üç farklı takvim; üç farklı zebra.
+
+63
+00:06:46.390 --> 00:06:50.360
+Üstelik bu karâr, sonucundan aylarca önce verilir.
+
+64
+00:06:50.360 --> 00:06:59.930
+Zebranın gebeliği yaklaşık 12 ay sürer ve pigment, yâni gerçekten görülebilen siyah, tayın derisinde ancak sekizinci ay dolaylarında belirir.
+
+65
+00:06:59.930 --> 00:07:07.260
+Yâni desen, henüz hiçbir rengi olmayan bir deride, görünmez bir mürekkeple yazılır ve aylarca öyle bekler.
+
+66
+00:07:07.260 --> 00:07:09.310
+Zarif bir hikâyeydi.
+
+67
+00:07:09.310 --> 00:07:12.480
+Sorun şuydu ki hikâyeden ibâretti.
+
+68
+00:07:12.480 --> 00:07:16.930
+Bard'ın elinde ölçülmüş bir kimyâsal yoktu; çıkarım vardı.
+
+69
+00:07:16.930 --> 00:07:22.340
+Kimse bir zebra embriyosunda etkinleştiriciyi de engelleyiciyi de görmemişti.
+
+70
+00:07:22.340 --> 00:07:30.790
+Onlarca yıl boyunca Turing'in modeli tam olarak bunun bedelini ödedi: her şeyi açıklayabilen, ama hiçbir şeyi kanıtlayamayan bir matematik.
+
+71
+00:07:30.790 --> 00:07:34.280
+Biyologların çoğunun gönlü başka bir fikirdeydi.
+
+72
+00:07:34.280 --> 00:07:45.930
+Lewis Wolpert'in 1969'da ortaya koyduğu konumsal bilgi yaklaşımına göre hücreler, dokuya yayılmış bir madde gradyanını okuyup "ben neredeyim" sorusunu yanıtlıyordu.
+
+73
+00:07:45.930 --> 00:07:51.820
+Bu, deneyle iç içe geçmiş, elle tutulur bir çerçeveydi ve hızla benimsendi.
+
+74
+00:07:51.820 --> 00:07:57.870
+Turing'in kendi kendini örgütleyen deseni ise yanında bir matematikçi rüyâsı gibi duruyordu.
+
+75
+00:07:57.870 --> 00:08:02.160
+İlk sağlam kanıt biyolojiden değil, kimyâdan geldi.
+
+76
+00:08:02.160 --> 00:08:16.850
+1990'da Bordeaux'da Patrick De Kepper'ın ekibi, jelle doldurulmuş açık bir reaktörde klorit-iyodür-malonik asit tepkimesini çalıştırdı ve jelde duran, kımıldamayan, düzenli aralıklı lekeler gördü.
+
+77
+00:08:16.850 --> 00:08:21.140
+Salınıp sönen dalgalar değil; yerinde sâbit duran bir desen.
+
+78
+00:08:21.140 --> 00:08:28.470
+Turing'in târif ettiği yapının laboratuvarda ilk kez üretilmesiydi bu; makâlenin üzerinden 38 yıl geçmişti.
+
+79
+00:08:28.470 --> 00:08:32.920
+İşin en güzel tarafı, koşulun nasıl sağlandığıdır.
+
+80
+00:08:32.920 --> 00:08:42.810
+Teorinin şart koştuğu şey, engelleyicinin etkinleştiriciden çok daha hızlı yayılmasıydı ve bu, gerçek moleküller için fazla keyfi görünen bir talepti.
+
+81
+00:08:42.810 --> 00:08:50.140
+Bu tepkimede iyodür etkinleştirici gibi davranır ve klorit ile arasında kayda değer bir yayılma hızı farkı yoktur.
+
+82
+00:08:50.140 --> 00:08:55.230
+Ama araştırmacılar deseni gözle görebilmek için jele nişasta katmıştı.
+
+83
+00:08:55.230 --> 00:09:06.880
+Nişasta iyodürle birleşerek onu ağırlaştırdı, yavaşlattı; yâni rengi görünür kılmak için eklenen madde, farkında olmadan teorinin istediği hız farkını yarattı.
+
+84
+00:09:06.880 --> 00:09:11.490
+Ulaşılmaz sanılan koşul, bir boya numarasıyla sağlanmıştı.
+
+85
+00:09:11.490 --> 00:09:13.540
+Sıra canlılara geldi.
+
+86
+00:09:13.540 --> 00:09:21.190
+1995'te Shigeru Kondo ve Rihito Asai, bir melek balığının derisindeki çizgilere baktı.
+
+87
+00:09:21.190 --> 00:09:27.880
+Memeli postundan farklı olarak bu balığın çizgileri, hayvan büyürken orantılı biçimde genişlemiyordu.
+
+88
+00:09:27.880 --> 00:09:36.810
+Aralarındaki mesâfeyi koruyorlar, bunun için de sürekli yeniden düzenleniyorlardı: çizgiler çatallanıyor, aralarına yenileri sokuluyordu.
+
+89
+00:09:36.810 --> 00:09:46.060
+Kondo ve Asai bu yeniden düzenlenmeyi Turing denklemleriyle benzetimledi ve model, balığın aylar sonra alacağı deseni doğru tahmîn etti.
+
+90
+00:09:46.060 --> 00:09:52.590
+Bu artık bir benzerlik değil, bir öngörüydü; sistemin durağan görüntüsü değil, hareketi tutuyordu.
+
+91
+00:09:52.590 --> 00:09:58.640
+Asıl darbe 2012'de geldi ve zebranın postundan değil, farenin elinden.
+
+92
+00:09:58.640 --> 00:10:08.530
+Rushikesh Sheth, Marian Ros ve James Sharpe'ın öncülüğündeki ekip, gelişmekte olan fare uzuvlarında bir grup Hox geninin dozunu kademeli olarak azalttı.
+
+93
+00:10:08.530 --> 00:10:11.220
+Parmaklar kaybolmadı; çoğaldı.
+
+94
+00:10:11.220 --> 00:10:16.150
+Doz düştükçe parmak sayısı arttı, parmaklar inceldi ve sıklaştı.
+
+95
+00:10:16.150 --> 00:10:23.960
+Bir Turing sisteminin dalga boyunu kısaltırsanız tam olarak bunu beklersiniz: aynı alana daha çok, daha dar şerit.
+
+96
+00:10:23.960 --> 00:10:28.410
+Genetik bir düğme çevrilmiş ve denklemin öngördüğü şey olmuştu.
+
+97
+00:10:28.410 --> 00:10:32.860
+Ama bu zaferin biçimi, Turing'in tahmîn ettiği biçim değildi.
+
+98
+00:10:32.860 --> 00:10:35.070
+Ve asıl ilginç olan da bu.
+
+99
+00:10:35.070 --> 00:10:41.440
+Kondo'nun laboratuvarı yıllar sonra zebra balığının çizgilerinin altında ne olduğunu tek tek söktü.
+
+100
+00:10:41.440 --> 00:10:53.890
+2009'da yayımlanan çalışmada ortaya çıkan tablo şuydu: iki pigment hücresi türü, siyah melanoforlar ve sarı ksantoforlar, yan yana geldiklerinde birbirini iterler;
+
+101
+00:10:53.890 --> 00:11:01.220
+ama melanoforların hayatta kalıp gelişebilmesi için daha uzakta bir ksantofor kütlesine ihtiyâçları vardır.
+
+102
+00:11:01.220 --> 00:11:04.230
+Yakında itme, uzakta destek.
+
+103
+00:11:04.230 --> 00:11:07.560
+Bu, tam olarak Turing'in koşuludur.
+
+104
+00:11:07.560 --> 00:11:11.850
+Fark şudur ki ortada yayılan bir kimyâsal çift yoktur.
+
+105
+00:11:11.850 --> 00:11:16.780
+Hücrelerin kendisi, uzun uzantılarıyla birbirine dokunarak haberleşir.
+
+106
+00:11:16.780 --> 00:11:23.310
+Denklemdeki "yayınım", moleküllerin suda dağılması değil, hücrelerin birbirine uzanmasıdır.
+
+107
+00:11:23.310 --> 00:11:27.920
+Turing'in kimyası yanlıştı; matematiği ayakta kaldı.
+
+108
+00:11:27.920 --> 00:11:39.090
+Çünkü denklemlerin anlattığı şey aslında hiçbir zamân belirli iki madde değildi, bir ilişkiydi: kısa menzilde kendini besleyen bir etki, uzun menzilde onu bastıran bir başkası.
+
+109
+00:11:39.090 --> 00:11:46.580
+Bu ilişkiyi ister moleküller, ister hücreler, ister bitki kökleri kursun, desen aynı yasaya uyar.
+
+110
+00:11:46.580 --> 00:11:53.910
+Bir teorinin somut içeriğinin çürütülüp soyut iskeletinin daha da güçlenmesi, bilimde sık rastlanan bir şey değildir.
+
+111
+00:11:53.910 --> 00:11:58.840
+Memelilere en çok yaklaşan sonuç 2021'de kedilerden geldi.
+
+112
+00:11:58.840 --> 00:12:10.810
+Christopher Kaelin ve Gregory Barsh'ın ekibi kedi embriyolarına baktı ve daha kıl folikülleri bile oluşmadan, üst deride geçici bir kalın-ince bölgeler örüntüsü buldu: pigmentsiz, tüysüz,
+
+113
+00:12:10.810 --> 00:12:14.140
+çıplak gözle desen sayılmayacak bir desen.
+
+114
+00:12:14.140 --> 00:12:17.630
+Yetişkin kedinin tekir çizgilerinin haritasıydı bu.
+
+115
+00:12:17.630 --> 00:12:24.320
+Karanlık bölgeleri işaretleyen genlerden biri, bir Wnt engelleyicisi olan Dkk4'tü.
+
+116
+00:12:24.320 --> 00:12:33.730
+Ve tekir deseni taşımayan, Abisinya kedisi gibi tek renk görünen ırklardaki hayvanların hepsinde bu genin işlevini yitirmiş sürümleri vardı.
+
+117
+00:12:33.730 --> 00:12:37.380
+Engelleyiciyi bozarsanız desen kayboluyordu.
+
+118
+00:12:37.380 --> 00:12:41.190
+Turing'in senaryosuyla fazlasıyla uyumlu bir tablo.
+
+119
+00:12:41.190 --> 00:12:42.920
+Peki ya zebra?
+
+120
+00:12:42.920 --> 00:12:48.810
+Zebranın kendisinde, o çizgileri kuran molekülleri kimse hâlâ göstermiş değil.
+
+121
+00:12:48.810 --> 00:12:54.700
+Bir teorinin amblemi hâline gelen hayvan, o teoriyi bizzat doğrulamamış tek örnektir.
+
+122
+00:12:54.700 --> 00:13:04.270
+Elimizdeki, Bard'ın geometrisi ve kedide, farede, balıkta çalıştığını bildiğimiz ilkedir; zebra embriyosundan çıkarılmış bir kimyâsal değil.
+
+123
+00:13:04.270 --> 00:13:08.240
+Modelin eleştirisi de yerinde durmayı sürdürüyor.
+
+124
+00:13:08.240 --> 00:13:17.650
+Klasik iki morfojenli Turing sistemi, ancak yayılma hızları arasında büyük bir fark varsa ve parametreler dar bir aralıkta tutulursa desen üretir.
+
+125
+00:13:17.650 --> 00:13:25.460
+Buna ince ayar sorunu deniyor ve her seferinde hatâsız çalışmak zorunda olan bir embriyo için fazla kırılgan bir târif.
+
+126
+00:13:25.460 --> 00:13:37.750
+Son yılların çalışmaları, üç ya da daha fazla bileşenli gerçek gen ağlarının bu kırılganlığı büyük ölçüde çözdüğünü gösterdi; desenin özelliklerini belirleyen şeyin tek tek moleküller değil,
+
+127
+00:13:37.750 --> 00:13:41.080
+ağın bağlantı topolojisi olduğu anlaşıldı.
+
+128
+00:13:41.080 --> 00:13:51.770
+İkinci eleştiri daha da keskindir: çizgi üreten çok sayıda farklı mekanizma vardır, dolayısıyla ekranda zebraya benzeyen bir benzetim üretmek hiçbir şeyi kanıtlamaz.
+
+129
+00:13:51.770 --> 00:13:59.740
+Bugün geçerli ölçüt görüntü benzerliği değil, müdâhaledir; sistemi bozup denklemin söylediği şeyin olup olmadığına bakmak.
+
+130
+00:13:59.740 --> 00:14:05.790
+Fare parmakları ve tekir kedi tam olarak bu sınavdan geçtiği için ağır basıyor.
+
+131
+00:14:05.790 --> 00:14:12.640
+Bir ayrımı da yerine koymak gerek: denklem çizginin nasıl oluştuğunu anlatır, niçin oluştuğunu değil.
+
+132
+00:14:12.640 --> 00:14:25.410
+Zebranın neden çizgili olduğu, yâni hangi seçilim baskısının bu deseni koruduğu, kan emen sineklerden ısı düzenlemesine uzanan ve mekanizmadan tamâmen bağımsız yürüyen ayrı bir tartışmadır.
+
+133
+00:14:25.410 --> 00:14:28.100
+Turing bunların hiçbirini görmedi.
+
+134
+00:14:28.100 --> 00:14:34.630
+Makalesinin yayımlanmasından iki yıl bile geçmeden, 1954 Hazîran'ında öldü.
+
+135
+00:14:34.630 --> 00:14:42.760
+Yazısı biyologlar arasında uzun süre pek okunmadı; matematikçilerin ilgi duyduğu, deneycilerin omuz silktiği bir kenar metniydi.
+
+136
+00:14:42.760 --> 00:14:51.210
+Bugün aynı denklem takımı parmak izlerinin kıvrımlarında, kıl foliküllerinin aralığında, damaktaki sırtların diziliminde kullanılıyor.
+
+137
+00:14:51.210 --> 00:15:04.140
+Dahası, biyolojinin sınırlarını da aştı: kurak bölgelerde bitki örtüsünün havadan bakınca göründüğü o düzenli benekli ve şeritli dağılım, midye yataklarının kümelenmesi, kum sırtlarının ritmi,
+
+138
+00:15:04.140 --> 00:15:09.230
+hepsi aynı yakında besleme-uzakta bastırma mantığıyla inceleniyor.
+
+139
+00:15:09.230 --> 00:15:14.000
+Çölün yüzeyiyle bir kedinin sırtını aynı çerçeveye sokan bir fikir.
+
+140
+00:15:14.000 --> 00:15:18.770
+Turing'in gerçek iddiâsı, sonuçta zebrayla ilgili bile değildi.
+
+141
+00:15:18.770 --> 00:15:25.940
+İddiâ şuydu: biçim için bir tasarımcıya, bir plana, her hücreye yerini söyleyen bir haritaya gerek yoktur.
+
+142
+00:15:25.940 --> 00:15:31.190
+Doğru kural ve doğru hız oranı yeterlidir; gerisi kendiliğinden çöker yerine.
+
+143
+00:15:31.190 --> 00:15:36.120
+Zebranın çizgileri çizilmiş bir resim değil, kaçınılmaz bir sonuçtur.
+
+144
+00:15:36.120 --> 00:15:45.690
+O tayın postundaki desen, henüz görünmeden aylar önce, birkaç milimetrelik bir embriyoda, kimsenin bakmadığı bir anda çoktan hesaplanmıştır.
+
+145
+00:15:45.690 --> 00:15:49.020
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+146
+00:15:49.020 --> 00:15:52.030
+Yeni bir hikâyede yeniden buluşmak üzere.
