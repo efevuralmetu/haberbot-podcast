@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Oyun</title>
 <link>https://podcast.noronmedia.com/oyun/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="Leisure"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:33:03 +0000</lastBuildDate>
+<item>
+<title>Doom: Üniversite Ağlarını Çökerten Disket</title>
+<description>id Software'in Softdisk'ten kaçıp bir göl evinde kurduğu ekibin Doom'u yazması, 10 Aralık 1993'te oyunun bir üniversite FTP sunucusuna yüklendiği gece ağların çökmesi ve shareware modeliyle yayılan oyunun deathmatch ile modding kültürünü doğurup FPS türünü kurması.
+
+Konular: doom, id software, fps, shareware, john carmack.</description>
+<itunes:subtitle>id Software'in Softdisk'ten kaçıp bir göl evinde kurduğu ekibin Doom'u yazması, 10 Aralık 1993'te oyunun bir üniversite FTP sunucusuna yüklendiği gece ağların çökmesi ve shareware modeliyle yayılan oyunun deathmatch ile modding kültürünü doğurup FPS türünü kurması.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/oyun/episodes/oyun-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 04:48:22 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/oyun/oyun-2026-08-24.mp3" length="10669004" type="audio/mpeg"/>
+<guid isPermaLink="false">oyun-2026-08-24</guid>
+<itunes:duration>14:52</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Nintendo'nun İhaneti: PlayStation Böyle Doğdu</title>
 <description>Sony mühendisi Ken Kutaragi'nin SNES'in ses çipini gizlice yapmasıyla başlayan Sony-Nintendo ortaklığının, 1991 CES'te Nintendo'nun Philips'e geçmesiyle bir gecede çökmesi ve bu ihanetin sektörün tahtını deviren PlayStation'ı doğurması.
