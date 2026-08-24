@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Felsefe</title>
 <link>https://podcast.noronmedia.com/felsefe/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="Society &amp; Culture"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:32:16 +0000</lastBuildDate>
+<item>
+<title>Nerede Doğacağını Bilmeseydin Hangi Dünyayı Seçerdin?</title>
+<description>John Rawls'un cehalet
+
+Konular: adalet, rawls, cehalet peçesi, eşitlik, liyakat.</description>
+<itunes:subtitle>John Rawls'un cehalet</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/felsefe/episodes/felsefe-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 03:49:53 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/felsefe/felsefe-2026-08-24.mp3" length="15921260" type="audio/mpeg"/>
+<guid isPermaLink="false">felsefe-2026-08-24</guid>
+<itunes:duration>22:10</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Zaman Neden Yaşlandıkça Hızlanır?</title>
 <description>Saatin ölçtüğü zaman ile insanın yaşadığı zamanın neden birbirini tutmadığını işleyen bölüm; Augustinus'un zamanın
