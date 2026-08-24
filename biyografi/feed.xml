@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Biyografi</title>
 <link>https://podcast.noronmedia.com/biyografi/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="Society &amp; Culture"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:31:31 +0000</lastBuildDate>
+<item>
+<title>Havadan Ekmek, Rüzgârdan Zehir: Fritz Haber</title>
+<description>Alman kimyager Fritz Haber'in (1868-1934) havadaki azottan gübre üreterek dünyayı açlıktan kurtaran buluşunu, aynı bilgiyle 1915'te Ypres'te klor gazını savaş alanına sokuşunu, karısı Clara Immerwahr'ın intiharını ve Nobel'i aldıktan yıllar sonra Nazi Almanyası tarafından Yahudi diye ülkesinden kovulup Basel'de ölmesini anlatıyor. Tek bir zihnin hem milyarları doyurup hem de zehiri icat edebildiğinin hikâyesi.
+
+Konular: fritz haber, kimya, birinci dünya savaşı, amonyak, bilim etiği.</description>
+<itunes:subtitle>Alman kimyager Fritz Haber'in (1868-1934) havadaki azottan gübre üreterek dünyayı açlıktan kurtaran buluşunu, aynı bilgiyle 1915'te Ypres'te klor gazını savaş alanına sokuşunu, karısı Clara Immerwahr'ın intiharını ve Nobel'i aldıktan yıllar sonra Nazi Almanyası tarafından Yahudi diye ülkesinden kovulup Basel'de ölmesini anlatıyor. Tek bir zihnin hem milyarları doyurup hem de zehiri icat edebildiğinin hikâyesi.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/biyografi/episodes/biyografi-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 03:11:53 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/biyografi/biyografi-2026-08-24.mp3" length="18459980" type="audio/mpeg"/>
+<guid isPermaLink="false">biyografi-2026-08-24</guid>
+<itunes:duration>25:42</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Berlin'de Zafer, Evinde Arka Kapı: Jesse Owens</title>
 <description>Alabama'da ortakçı bir ailenin oğlu olarak doğan Jesse Owens'ın 1935'te Ann Arbor'da 45 dakikada dünya rekorlarını art arda kırışını, 1936 Berlin Olimpiyatları'nda Nazi tribünlerinin gözü önünde dört altın madalya kazanışını ve ülkesine döndüğünde amatörlük hakkı elinden alınıp para için atlarla yarışmak zorunda kalışını anlatıyor. Dünyanın en hızlı adamının kendi ülkesinde otel asansörüne bile binemediği yılların hikâyesi.
