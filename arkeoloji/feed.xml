@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Arkeoloji</title>
 <link>https://podcast.noronmedia.com/arkeoloji/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="History"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:30:25 +0000</lastBuildDate>
+<item>
+<title>Karahantepe: Kayanın İçinden Bakan Yüz</title>
+<description>Şanlıurfa'nın Tek Tek Dağları'nda 2019'dan beri kazılan Karahantepe'nin, tarım ve çömlek daha icat edilmemişken ana kayaya oyulmuş odalarını, 250'yi aşan T biçimli dikilitaşını ve duvardan çıkan insan başı heykelini anlatır. Bölüm, avcı-toplayıcıların neden bu devasa yapıları kurup sonra kendi elleriyle doldurup terk ettiği sorusunu ve 2025'te bulunan ilk insan yüzlü dikilitaşın bu bilmeceyi nasıl değiştirdiğini işler.
+
+Konular: karahantepe, neolitik, taş tepeler, şanlıurfa, avcı toplayıcı.</description>
+<itunes:subtitle>Şanlıurfa'nın Tek Tek Dağları'nda 2019'dan beri kazılan Karahantepe'nin, tarım ve çömlek daha icat edilmemişken ana kayaya oyulmuş odalarını, 250'yi aşan T biçimli dikilitaşını ve duvardan çıkan insan başı heykelini anlatır. Bölüm, avcı-toplayıcıların neden bu devasa yapıları kurup sonra kendi elleriyle doldurup terk ettiği sorusunu ve 2025'te bulunan ilk insan yüzlü dikilitaşın bu bilmeceyi nasıl değiştirdiğini işler.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/arkeoloji/episodes/arkeoloji-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 03:30:16 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/arkeoloji/arkeoloji-2026-08-24.mp3" length="17160236" type="audio/mpeg"/>
+<guid isPermaLink="false">arkeoloji-2026-08-24</guid>
+<itunes:duration>23:54</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Cahokia: Mississippi'nin Unutulan Piramit Şehri</title>
 <description>Bugünkü St. Louis'in karşısında, MS 1050 civarında neredeyse bir gecede kurulan ve 1350'ye kalmadan tamamen boşaltılan Cahokia'nın yükselişini ve çöküşünü anlatır; Monks Mound'un devasa toprak mimarisini, 72 No'lu Höyük'teki Boncuklu Mezar ile toplu kurban çukurlarını, ahşap güneş takvimini ve şehri kimin, neden terk ettiğine dair kuraklık, iç çatışma ve inanç krizi tartışmalarını işler.
