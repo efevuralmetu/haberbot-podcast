@@ -1,0 +1,493 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.450
+10 Aralık 1993 gecesi Wisconsin'deki bir üniversite sunucusu, tek bir dosya yüzünden dizlerinin üstüne çöktü.
+
+2
+00:00:08.450 --> 00:00:12.900
+Binlerce insan aynı anda aynı diski indirmeye çalışıyordu.
+
+3
+00:00:12.900 --> 00:00:17.990
+Ertesi sabâh şirketler ağlarında bu oyunu yasaklamaya başlamıştı bile.
+
+4
+00:00:26.190 --> 00:00:36.720
+1990 yılının sonbahârında, Louisiana eyâletindeki Shreveport'ta, Cross Lake kıyısındaki kiralık bir evde her hafta sonu aynı manzara yaşanıyordu.
+
+5
+00:00:36.720 --> 00:00:46.770
+Yirmili yaşlarının başındaki dört genç, çalıştıkları şirketin ofisinden bilgisayarları kucaklarında taşıyıp arabalara yüklüyor, göl kenarındaki eve götürüyor,
+
+6
+00:00:46.770 --> 00:00:51.540
+pazartesi sabâhı ofis açılmadan önce hepsini yerine geri koyuyordu.
+
+7
+00:00:51.540 --> 00:00:57.910
+Çalıştıkları yer, abonelerine her ay disketle yazılım gönderen Softdisk adlı bir şirketti.
+
+8
+00:00:57.910 --> 00:01:04.280
+Maaşları düzenliydi, işleri güvenliydi ve yaptıkları iş onları hiç tatmîn etmiyordu.
+
+9
+00:01:04.280 --> 00:01:15.930
+John Carmack, John Romero, Adrian Carmack ve Tom Hall, şirketin donanımını gece boyunca kendi oyunları için kullanıyor, sabâh olduğunda hiçbir şey olmamış gibi masalarına oturuyorlardı.
+
+10
+00:01:15.930 --> 00:01:20.060
+Göl evi bir tâtil yeri değil, gizli bir atölyeydi.
+
+11
+00:01:20.060 --> 00:01:28.510
+O atölyede çözülen teknik problem, birkaç yıl sonra bilgisayar târihinin en tuhaf ağ krizini doğuracak zincirin ilk halkasıydı.
+
+12
+00:01:28.510 --> 00:01:40.000
+John Carmack, kişisel bilgisayarlarda o güne kadar imkânsız sayılan bir şeyi başarmıştı: ekranın tamamını her karede yeniden çizmek yerine yalnızca değişen kısımları güncelleyerek,
+
+13
+00:01:40.000 --> 00:01:44.450
+oyun konsollarındaki gibi pürüzsüz bir yatay kaydırma elde etmek.
+
+14
+00:01:44.450 --> 00:01:48.580
+Bunu bir gecede yazdıkları bir gösterim programında kanıtladılar.
+
+15
+00:01:48.580 --> 00:01:55.430
+Ortaya çıkan oyun, 14 Aralık 1990'da yayımlanan Commander Keen, yâni Komutan Keen oldu.
+
+16
+00:01:55.430 --> 00:01:58.280
+Oyunu bir mağaza rafına koymadılar.
+
+17
+00:01:58.280 --> 00:02:10.090
+Apogee adlı küçük yayıncının sâhibi Scott Miller'ın önerdiği yöntemi kullandılar: oyunun ilk bölümünü tamâmen bedâva dağıt, insanlar beğenirse devâmını posta yoluyla satın alsın.
+
+18
+00:02:10.090 --> 00:02:16.940
+Bu dağıtım biçimine paylaşımlı yazılım deniyordu ve o dönemde ciddî bir iş modeli olarak görülmüyordu.
+
+19
+00:02:16.940 --> 00:02:22.510
+Komutan Keen'den gelen para, göl evindeki gizliliğin sona ermesi anlamına geldi.
+
+20
+00:02:22.510 --> 00:02:28.560
+1 Şubat 1991'de kendi şirketlerini kurdular: id Software.
+
+21
+00:02:28.560 --> 00:02:34.610
+Şirketin kuruluşundaki o kaçak ruh, sonradan alacakları neredeyse her karârı belirledi.
+
+22
+00:02:34.610 --> 00:02:42.420
+Aracıya güvenmiyorlardı, dağıtımcıya güvenmiyorlardı, oyunun kutusunu bir markete taşıyan kamyona hiç güvenmiyorlardı.
+
+23
+00:02:42.420 --> 00:02:46.710
+Ürünlerini doğrudan insanların diskine ulaştırmak istiyorlardı.
+
+24
+00:02:46.710 --> 00:02:51.000
+Küçük bir ekip, kapalı bir oda, ve arada hiç kimse.
+
+25
+00:02:51.000 --> 00:02:55.930
+1992 Mayıs'ında Wolfenstein isimli oyunu çıkardılar.
+
+26
+00:02:55.930 --> 00:03:04.060
+Birinci şahıs bakış açısıyla, elinizde silah, koridorlarda ilerlediğiniz bu oyun beklenmedik bir ticârî başarı kazandı.
+
+27
+00:03:04.060 --> 00:03:16.990
+Ama Carmack o motorun sınırlarını herkesten iyi biliyordu: duvarlar yalnızca dik açılarla birleşebiliyor, zemîn ve tavan tek renk bir yüzey olarak kalıyor, dünyânın hiçbir yerinde yükseklik farkı bulunmuyordu.
+
+28
+00:03:16.990 --> 00:03:24.320
+Ekibin bir sonraki oyunu bu kısıtların hepsini kırmak üzerine kuruldu, ve adını en baştan koydular: Doom.
+
+29
+00:03:24.320 --> 00:03:29.730
+Şirket bu sırada Teksas'ın Mesquite kasabasındaki bir ofis binâsına taşınmıştı.
+
+30
+00:03:29.730 --> 00:03:37.700
+Oda numarası, oyunun havasına fena hâlde uyduğu için ekibin çok hoşuna gitmişti: 666.
+
+31
+00:03:37.700 --> 00:03:44.070
+Perdeler kapalıydı, çalışma saatleri geceye kaymıştı, ve içeride altı yedi kişi vardı.
+
+32
+00:03:44.070 --> 00:03:53.000
+Programlama tarafında John Carmack, John Romero ve Dave Taylor; görsel tarafta Adrian Carmack ve Kevin Cloud çalışıyordu.
+
+33
+00:03:53.000 --> 00:04:02.890
+Kurucu ekipten Tom Hall'un oyun için tasarladığı hikâye ağırlıklı çerçeve, ekibin geri kalanının istediği hızlı ve sert oyun anlayışıyla uyuşmadı;
+
+34
+00:04:02.890 --> 00:04:11.500
+Hall 1993 sonbahârında şirketten ayrıldı ve yerine masa oyunu tasarımından gelen Sandy Petersen geçti.
+
+35
+00:04:11.500 --> 00:04:16.270
+Carmack'in yeni motoru, akademik bir literatürden besleniyordu.
+
+36
+00:04:16.270 --> 00:04:28.720
+1980'de yayımlanmış bir makâlede târif edilen ikili uzay bölümleme tekniğini kullanarak, bir odanın hangi parçasının hangi sırayla çizileceğini önceden hesâplayan bir yapı kurdu.
+
+37
+00:04:28.720 --> 00:04:39.730
+Sonuç, dönemin mütevâzı işlemcilerinde bile akıcı çalışan, eğik duvarları, merdivenleri, farklı yüksekliklerdeki zemînleri, yanıp sönen ışıkları olan bir dünyâydı.
+
+38
+00:04:39.730 --> 00:04:44.020
+Karanlık, oyunun ilk kez bir malzeme hâline geldiği yerdi.
+
+39
+00:04:44.020 --> 00:04:48.630
+Ama Doom'u üniversite ağlarının kâbusu yapan şey grafikler değildi.
+
+40
+00:04:48.630 --> 00:04:56.120
+Oyunun içine, aynı yerel ağa bağlı dört kişinin aynı dünyâda aynı anda bulunmasını sağlayan bir kod yazılmıştı.
+
+41
+00:04:56.120 --> 00:05:02.970
+Oyuncular isterlerse birlikte canavarlara karşı savaşabilir, isterlerse birbirlerini avlayabilirdi.
+
+42
+00:05:02.970 --> 00:05:08.060
+Romero bu ikinci moda bir isim buldu: deathmatch, yâni ölüm maçı.
+
+43
+00:05:08.060 --> 00:05:16.030
+Ve id'nin 1993 Ocak ayında dağıttığı basın bülteninde, ekibin şaka olarak yazdığı bir cümle vardı.
+
+44
+00:05:16.030 --> 00:05:22.720
+Doom'un dünyâ genelinde iş yerlerinde verimliliği düşüren bir numaralı sebep olmasını beklediklerini söylüyorlardı.
+
+45
+00:05:22.720 --> 00:05:26.690
+On bir ay sonra o cümle bir şaka olmaktan çıkacaktı.
+
+46
+00:05:26.690 --> 00:05:33.540
+1993'ün son aylarında Doom, henüz kimsenin oynamadığı hâliyle bile bir efsâneydi.
+
+47
+00:05:33.540 --> 00:05:42.630
+Ekip aylar önce oyunun teknolojisini gösteren kısa görüntüler sızdırmıştı; çevirmeli bağlantıyla erişilen elektronik îlân panolarında,
+
+48
+00:05:42.630 --> 00:05:51.240
+üniversitelerin haber gruplarında ve dünyânın dört bir yanındaki bilgisayar laboratuvarlarında oyunun ne zamân çıkacağı tartışılıyordu.
+
+49
+00:05:51.240 --> 00:05:53.930
+Yayın târihi birkaç kez kaydı.
+
+50
+00:05:53.930 --> 00:05:58.700
+Aralık başında id, oyunun 10 Aralık gecesi yayımlanacağını duyurdu.
+
+51
+00:05:58.700 --> 00:06:01.390
+O gece ofiste kimse uyumadı.
+
+52
+00:06:01.390 --> 00:06:07.440
+Ekibin son dokunuşları yaklaşık 30 saatlik kesintisiz bir çalışmayla tamamladığı anlatılır.
+
+53
+00:06:07.440 --> 00:06:17.010
+Oyunun paylaşımlı sürümü, yâni ilk bölüm olan Knee-Deep in the Dead, Türkçesiyle Ölülere Diz Boyu, sıkıştırılmış tek bir dosyaya konuldu.
+
+54
+00:06:17.010 --> 00:06:25.620
+Boyutu 2 megabaytın biraz üzerindeydi; bugünün ölçüsüyle bir fotoğraf, o günün ölçüsüyle sabırla indirilecek bir hazîne.
+
+55
+00:06:25.620 --> 00:06:30.550
+Dosyanın yükleneceği yer, Wisconsin Üniversitesi'ne bağlı bir sunucuydu.
+
+56
+00:06:30.550 --> 00:06:38.040
+id'nin kendi sunucusu yoktu; internetin bu ilk yıllarında büyük dosyalar üniversitelerin arşivlerinde barınırdı.
+
+57
+00:06:38.040 --> 00:06:46.010
+Gece yarısı, id'nin iş tarafını yürüten Jay Wilbur dosyayı yüklemek için sunucuya bağlanmayı denedi ve bağlanamadı.
+
+58
+00:06:46.010 --> 00:06:54.140
+Sebebi basitti ve kimse öngörmemişti: sunucu, oyunu indirmek için saatler öncesinden gelip bekleyen insanlarla dolmuştu.
+
+59
+00:06:54.140 --> 00:06:57.950
+Dosya henüz orada değildi, ama insanlar oradaydı.
+
+60
+00:06:57.950 --> 00:07:05.920
+Sunucunun yöneticisi eş zamânlı bağlantı sınırını yükseltti; boşalan yerler sâniyeler içinde yeniden doldu.
+
+61
+00:07:05.920 --> 00:07:13.410
+Wilbur, o gece herkesin toplandığı sohbet kanalına girip durumu anlattı ve kalabalıktan çekilmelerini istedi.
+
+62
+00:07:13.410 --> 00:07:16.740
+Yönetici mevcût bağlantıların çoğunu kesti.
+
+63
+00:07:16.740 --> 00:07:21.510
+Yaklaşık yarım saat sonra dosyanın son parçası sunucuya ulaştı.
+
+64
+00:07:21.510 --> 00:07:27.240
+Ondan sonra olan şey, dönemin altyapısının kaldırabileceğinin çok ötesindeydi.
+
+65
+00:07:27.240 --> 00:07:33.930
+On bine yakın kişinin aynı anda indirmeye çalıştığı, bunun da üniversitenin ağını çökerttiği aktarılır.
+
+66
+00:07:33.930 --> 00:07:40.140
+Dosya oradan aynalara, aynalardan îlân panolarına, panolardan disketlere yayıldı.
+
+67
+00:07:40.140 --> 00:07:42.830
+Ama asıl mesele bu değildi.
+
+68
+00:07:42.830 --> 00:07:47.920
+Asıl mesele, insanların indirdikleri şeyi nereye kurduklarıydı.
+
+69
+00:07:47.920 --> 00:07:57.010
+Doom'un ilk sürümündeki ağ kodu, o yıllarda yerel ağlarda yaygın olarak kullanılan IPX adlı protokolün yayın paketlerini kullanıyordu.
+
+70
+00:07:57.010 --> 00:08:07.060
+Bunun anlamı şuydu: bir oyuncunun her hareketi, her ateşi, her adımı, oyunu oynayanlara değil, o ağ parçasındaki bütün makinelere gönderiliyordu.
+
+71
+00:08:07.060 --> 00:08:16.630
+Laboratuvarın öbür ucunda tez yazan bir bilgisayar da, bordro hesâplayan bir terminal de, oynanan maçın her tek verisini almak zorunda kalıyordu.
+
+72
+00:08:16.630 --> 00:08:20.600
+Üstelik bu, sâniyede onlarca kez tekrârlanıyordu.
+
+73
+00:08:20.600 --> 00:08:25.850
+Dört kişinin oynadığı bir maç, yüzlerce makinelik bir ağı tıkamaya yetiyordu.
+
+74
+00:08:25.850 --> 00:08:33.820
+Oyunun çıkışının üzerinden birkaç saat geçmişken, Carnegie Mellon Üniversitesi'nin bilgi işlem birimi bir duyuru yayımladı.
+
+75
+00:08:33.820 --> 00:08:43.710
+Duyuruda, Doom'un yayımlanmasından bu yana kampüs ağının durma noktasına geldiği belirtiliyor, oyuncuların oyunu ağ modunda oynamamaları ricâ ediliyordu.
+
+76
+00:08:43.710 --> 00:08:53.280
+Metinde, ağ modunun ciddî performans kaybına yol açtığı, üstelik final haftasında ağ kullanımının zâten en yüksek seviyede olduğu hatırlatılıyor,
+
+77
+00:08:53.280 --> 00:08:58.850
+ağ modunda oynayanların bilgisayarlarının bağlantısının kesilebileceği söyleniyordu.
+
+78
+00:08:58.850 --> 00:09:10.500
+Duyuru, bir üniversitenin kendi öğrencilerinden bir video oyununu oynamamasını isteyen ilk resmî belgelerden biriydi ve bugün Doom'un târihinin ayrılmaz bir parçası olarak anılıyor.
+
+79
+00:09:10.500 --> 00:09:12.870
+Carnegie Mellon yalnız değildi.
+
+80
+00:09:12.870 --> 00:09:25.960
+Dünyânın dört bir yanındaki kampüslerde sistem yöneticileri aynı haftalarda benzer yasaklar koydu, oyunun çalıştırılabilir dosyasını sunuculardan sildi, ağ trafiğinde oyunun imzâsını aramaya başladı.
+
+81
+00:09:25.960 --> 00:09:34.090
+Kurumsal tarafta da aynı sahne yaşandı; dönemin basınına Intel ve Lotus gibi büyük şirketlerin de oyunu yasakladığı yansıdı.
+
+82
+00:09:34.090 --> 00:09:40.940
+Ocak 1993'teki o şaka gibi basın bülteni, tam anlamıyla gerçekleşmişti.
+
+83
+00:09:40.940 --> 00:09:44.750
+id Software sorunun teknik olduğunu kabûl etti.
+
+84
+00:09:44.750 --> 00:09:52.720
+Ağ kodu yeniden yazıldı ve veriler artık ağdaki herkese değil, yalnızca oyundaki makinelere gönderilecek şekilde düzenlendi.
+
+85
+00:09:52.720 --> 00:09:58.290
+Düzeltmeyi içeren sürüm 17 Şubat 1994'te yayımlandı.
+
+86
+00:09:58.290 --> 00:10:04.500
+Ama o târihe gelindiğinde yasakların bir hükmü kalmamıştı: oyun çoktan içerideydi.
+
+87
+00:10:04.500 --> 00:10:11.030
+1994 Mayıs'ında paylaşımlı sürümün bir milyondan fazla dağıtıldığı bildiriliyordu.
+
+88
+00:10:11.030 --> 00:10:15.320
+Yasaklanabilecek bir şey değildi artık; bir altyapı gerçeğiydi.
+
+89
+00:10:15.320 --> 00:10:23.610
+Doom'un asıl uzun ömrü, ağları çökerten geceden değil, oyunun içinde çok daha sessizce duran bir tasarım karârından geldi.
+
+90
+00:10:23.610 --> 00:10:27.900
+Carmack, oyunun kodunu ve içeriğini birbirinden ayırmıştı.
+
+91
+00:10:27.900 --> 00:10:37.630
+Bölümlerin şekli, duvar dokuları, canavarların görüntüleri, sesler, hepsi motorun içine gömülü değildi; ayrı bir arşiv dosyasında duruyordu.
+
+92
+00:10:37.630 --> 00:10:46.880
+Bu dosya biçimine ekip WAD adını verdi; açılımı, mizah duygularına uygun biçimde, bütün verinin nerede olduğunu soran bir cümleydi.
+
+93
+00:10:46.880 --> 00:10:53.410
+Sonuç şuydu: oyunun içeriğini değiştirmek için oyunun kodunu değiştirmeniz gerekmiyordu.
+
+94
+00:10:53.410 --> 00:10:56.100
+Bu, bilinçli bir tercihti.
+
+95
+00:10:56.100 --> 00:11:05.350
+Wolfenstein çıktığında oyuncular oyunun dosyalarını kırıp kendi bölümlerini yapmayı denemiş, Carmack bunu bir tehdit değil bir armağan olarak görmüştü.
+
+96
+00:11:05.350 --> 00:11:08.360
+Doom'da kapıyı en baştan açık bıraktı.
+
+97
+00:11:08.360 --> 00:11:20.970
+Oyunun çıkışından haftalar sonra, dünyânın farklı yerlerindeki programcılar dosya biçimini çözmeye girişti; 1994'ün ilk aylarında ortaya çıkan Doom Editor Utility, yâni Doom Düzenleme Aracı ve benzerleri sâyesinde,
+
+98
+00:11:20.970 --> 00:11:29.900
+herhangi bir oyuncu kendi koridorlarını çizip kendi tuzaklarını kurabilir hâle geldi.
+
+99
+00:11:29.900 --> 00:11:41.710
+Kısa süre sonra tek tek bölümlerin ötesine geçildi; oyunun bütün canavarlarını, silahlarını ve seslerini değiştiren, ortaya bambaşka bir eser çıkaran tam dönüşümler yapıldı.
+
+100
+00:11:41.710 --> 00:11:51.120
+id bu üretimi engellemedi; yalnızca bu yapımların oynanabilmesi için asıl oyunun gerekli olmasını ve ticârî olarak satılmamasını istedi.
+
+101
+00:11:51.120 --> 00:12:00.850
+Kendi ürünlerini korurken insanların üzerine inşâ etmesine izin veren bu denge, bugün pek çok stüdyonun taklît ettiği bir modelin ilk örneğiydi.
+
+102
+00:12:00.850 --> 00:12:03.540
+Bunun sektöre etkisi kalıcı oldu.
+
+103
+00:12:03.540 --> 00:12:11.510
+Boş vakitlerinde kendi bölümlerini yapan üniversite öğrencilerinden bir kısmı, birkaç yıl içinde profesyonel tasarımcı olarak işe alındı.
+
+104
+00:12:11.510 --> 00:12:20.120
+Oyuncunun aynı zamânda üretici olabileceği fikri, o gün bir tuhaflıkken bugün oyun endüstrisinin standart varsayımlarından biri.
+
+105
+00:12:20.120 --> 00:12:23.450
+Anahtarın tamâmı ise yıllar sonra verildi.
+
+106
+00:12:23.450 --> 00:12:35.740
+id Software, oyunun motorunun kaynak kodunu 1997 Aralığında kamuya açtı, 1999'da ise özgür yazılım lisansıyla yeniden yayımladı.
+
+107
+00:12:35.740 --> 00:12:42.110
+Bu, oyunun ticârî ömrü bittikten sonra kendi kendine yaşamaya devâm etmesi demekti.
+
+108
+00:12:42.110 --> 00:12:55.200
+Kodu eline geçiren programcılar Doom'u akla gelebilecek her makineye taşıdı: cep telefonlarına, dijital fotoğraf makinelerine, yazıcıların ekranlarına, hesâp makinelerine, banka otomatlarına,
+
+109
+00:12:55.200 --> 00:12:57.570
+arabaların bilgi ekranlarına.
+
+110
+00:12:57.570 --> 00:13:06.980
+Yeni bir işlemcinin ya da ekranı olan herhangi bir cihazın karşısında sorulan ilk şaka soru, bu yüzden onlarca yıldır aynı: peki Doom çalışıyor mu?
+
+111
+00:13:06.980 --> 00:13:13.670
+Bu, bir oyunun ulaşabileceği en sıra dışı ölçüt hâline geldi; teknik bir sınavın adı oldu.
+
+112
+00:13:13.670 --> 00:13:16.680
+Rakamlar da bu yaygınlığı doğruladı.
+
+113
+00:13:16.680 --> 00:13:23.850
+1996 Hazîran'ına gelindiğinde paylaşımlı sürümün 20 milyon kez indirildiği bildiriliyordu.
+
+114
+00:13:23.850 --> 00:13:37.100
+1990'ların ortasında sık dile getirilen bir karşılaştırmaya göre Doom, dünyâda Microsoft'un yeni işletim sistemi Windows 95'in kurulu olduğu bilgisayardan daha fazla bilgisayarda bulunuyordu.
+
+115
+00:13:37.100 --> 00:13:48.590
+Bir yazılım şirketinin milyarlarca dolarlık pazarlama bütçesiyle yaptığı işi, Teksas'ta perdeleri kapalı bir odadaki birkaç kişi, bedâva dağıtılan 2 megabaytlık bir dosyayla yapmıştı.
+
+116
+00:13:48.590 --> 00:13:54.480
+Ama en kalıcı mîrâs, o final haftasında yazılan uyarı metninin içinde saklı.
+
+117
+00:13:54.480 --> 00:14:05.330
+Sistem yöneticileri o gece haklıydı: ağlar, insanların birbiriyle aynı anda, gerçek zamânlı, sürekli veri alışverişi içinde oynamasına hazır değildi.
+
+118
+00:14:05.330 --> 00:14:09.300
+Doom onlara hazır olmadıkları şeyin ne olduğunu gösterdi.
+
+119
+00:14:09.300 --> 00:14:16.790
+Sonraki on yılda üniversite ağları da, ev bağlantıları da, tam olarak o trafiği taşımak üzere yeniden kuruldu.
+
+120
+00:14:16.790 --> 00:14:27.640
+Bugün milyonlarca insanın aynı anda bağlandığı çevrimiçi oyun altyapısının atası, 1993'ün aralık ayında bir kampüs ağını felç eden o dört kişilik ölüm maçıdır.
+
+121
+00:14:27.640 --> 00:14:34.650
+Kapatılmaya çalışılan şey, kapatanların üzerine kurulu olduğu dünyânın kendisi hâline geldi.
+
+122
+00:14:34.650 --> 00:14:37.660
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+123
+00:14:37.660 --> 00:14:40.830
+Yeni bir hikâyede yeniden buluşmak üzere.
