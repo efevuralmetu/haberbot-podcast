@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Bilim</title>
 <link>https://podcast.noronmedia.com/bilim/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="Science"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:31:02 +0000</lastBuildDate>
+<item>
+<title>Zebranın Çizgilerini Yazan Denklem</title>
+<description>Alan Turing'in 1952'de öne sürdüğü, birbirini besleyip bastıran iki maddenin farklı hızlarda yayılmasıyla düzgün bir yüzeyde kendiliğinden çizgi ve leke oluşabileceğini söyleyen reaksiyon-difüzyon modelini anlatır; kimyasal deneylerden fare damağındaki sırtlara ve parmak oluşumuna uzanan doğrulamaları, zebra balığında mekanizmanın difüzyon değil hücre etkileşimi çıkmasını ve hangi desenlerin hâlâ bu modelle açıklanamadığını açıklar.
+
+Konular: turing desenleri, morfogenez, reaksiyon-difüzyon, matematiksel biyoloji, hayvan desenleri.</description>
+<itunes:subtitle>Alan Turing'in 1952'de öne sürdüğü, birbirini besleyip bastıran iki maddenin farklı hızlarda yayılmasıyla düzgün bir yüzeyde kendiliğinden çizgi ve leke oluşabileceğini söyleyen reaksiyon-difüzyon modelini anlatır; kimyasal deneylerden fare damağındaki sırtlara ve parmak oluşumuna uzanan doğrulamaları, zebra balığında mekanizmanın difüzyon değil hücre etkileşimi çıkmasını ve hangi desenlerin hâlâ bu modelle açıklanamadığını açıklar.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/bilim/episodes/bilim-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 04:03:38 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/bilim/bilim-2026-08-24.mp3" length="11523500" type="audio/mpeg"/>
+<guid isPermaLink="false">bilim-2026-08-24</guid>
+<itunes:duration>16:04</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Bir Milimetre Yükseklikte Zaman Nasıl Yavaşlar</title>
 <description>Yerçekiminin zamanı yavaşlatmasının artık gökyüzünde değil, tek bir atom bulutunun içinde, yalnızca bir milimetrelik yükseklik farkında ölçülebildiğini anlatır; JILA'nın stronsiyum optik kafes saatiyle 2022'de ulaştığı 7,6×10⁻²¹ hassasiyeti, ölçümün nasıl yapıldığını ve bunun görelilik ile kuantum mekaniğinin kesişimine açtığı kapıyı açıklar.
