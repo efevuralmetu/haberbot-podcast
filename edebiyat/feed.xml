@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Nöron Edebiyat</title>
 <link>https://podcast.noronmedia.com/edebiyat/</link>
@@ -15,7 +15,20 @@
 <itunes:category text="Arts"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 23 Aug 2026 19:00:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:31:52 +0000</lastBuildDate>
+<item>
+<title>Don Kişot: Zindanda Doğan İlk Modern Roman</title>
+<description>Miguel de Cervantes'in Lepanto'da sakat kalan eli, Cezayir'de beş yıl süren esareti ve borç yüzünden düştüğü hapishaneden çıkıp dünyanın ilk modern romanına dönüşen Don Kişot'un hikâyesi. Elli yedi yaşında yayımladığı kitabın sahte bir devamıyla çalınmaya çalışılması ve buna verdiği cevapla ölümsüzleşmesi.
+
+Konular: cervantes, don kişot, ispanyol edebiyatı, roman tarihi, esaret.</description>
+<itunes:subtitle>Miguel de Cervantes'in Lepanto'da sakat kalan eli, Cezayir'de beş yıl süren esareti ve borç yüzünden düştüğü hapishaneden çıkıp dünyanın ilk modern romanına dönüşen Don Kişot'un hikâyesi. Elli yedi yaşında yayımladığı kitabın sahte bir devamıyla çalınmaya çalışılması ve buna verdiği cevapla ölümsüzleşmesi.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/edebiyat/episodes/edebiyat-2026-08-24.vtt" type="text/vtt" language="tr" rel="captions"/>
+<pubDate>Mon, 24 Aug 2026 04:20:55 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/edebiyat/edebiyat-2026-08-24.mp3" length="11956940" type="audio/mpeg"/>
+<guid isPermaLink="false">edebiyat-2026-08-24</guid>
+<itunes:duration>16:40</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Gılgamış: Kil Tabletlerde Uyuyan İlk Destan</title>
 <description>Dünyanın bilinen ilk büyük edebî eseri Gılgamış Destanı'nın kil tabletlerde binlerce yıl uyuduktan sonra 1872'de Londra'da yeniden okunmasının hikâyesi; banknot hakkakı iken kendi kendine çivi yazısı öğrenen George Smith'in tufan tabletini çözüşü, 1873'te Ninova'da kayıp parçayı bulması ve 1876'da Halep'te otuz altı yaşında ölümü.
