@@ -1,0 +1,67 @@
+[MOOD: kesif]
+Elinizde bir buçuk sayfalık yazıya ancak yetecek kadar bellek var; içine bir galaksi koymanız isteniyor. İki öğrencinin bulduğu cevâp şuydu: gezegenleri saklama, gerektiğinde hesapla. Sonra hesap makinesi bir evren doğurdu — ve iki yüz seksen iki trilyon galaksiyle ne yapacaklarını bilemediler.
+
+[JINGLE] jingle/haberjingle.mp3
+
+[MOOD: sakin]
+
+bin dokuz yüz seksen iki sonbahârında Cambridge Üniversitesi'ne bağlı Jesus College'ın öğrenci odalarından birinde, iki genç birbirine oyunlarını gösteriyordu. İkisi de lisans öğrencisiydi, ikisi de bilgisayarların o sıralar İngiltere'de yeni yeni ev eşyâsına dönüşen küçük kutularıyla saplantılı biçimde uğraşıyordu. Ian Bell matematik okuyordu ve şansı zâten dönmüştü: yazdığı bir oyunu, Acorn adlı bilgisayar üreticisinin oyun yayıncısı Acornsoft'a satmayı başarmıştı. David Braben ise doğa bilimleri okuyordu ve elinde bitmemiş bir uçak dövüşü oyunu vardı; asıl gurûr duyduğu şey oyunun kendisi değil, içine gömdüğü şeydi. Ekranda üç boyutlu bir nesneyi döndürebiliyordu. Gerçek zamanlı olarak. iki megahertz hızında çalışan, çarpma komutu bile bulunmayan bir işlemciyle.
+
+O nesneyi döndüren rutin, sonraki iki yılın çekirdeği olacaktı.
+
+Üzerinde çalıştıkları makine, BBC'nin eğitim yayınları için ısmarladığı ve Acorn'un ürettiği ev bilgisayarı BBC Micro'ydu. Modeli B olan sürümde otuz iki kilobayt bellek vardı ve bu, o günün ölçüsüyle cömert sayılırdı. Ama cömertlik göreliydi. Belleğin üçte birine yakınını işletim sistemi, ekran görüntüsü ve sistemin kendi çalışma alanları yiyordu. Geriye oyun yazarına kalan, iyi bir hesapla yirmi iki kilobayt civârıydı. Bugün bir cep telefonuyla çekilmiş tek bir fotoğraf, o alanın yüzlerce katını kaplıyor.
+
+Braben ve Bell'in aklındaki oyun ise bu sınırla açıkça alay eden bir şeydi. Atari'nin makinesinde çıkan Star Raiders, yâni Yıldız Akıncıları, ikisini de etkilemişti; kokpitten bakılan bir uzay savaşıydı ve dönemin en heyecân verici işlerinden biriydi. Ama onlar bir adım ötesini istiyordu. Yalnızca vurup kaçılan bir atış poligonu değil, gidilebilen bir yer. Gemisi olan, parası olan, alıp satan, istediği yöne gidebilen bir oyuncu. Yıldızlar arasında bir ekonomi. Ve en önemlisi: hiç kimsenin oyuncuya nereye gitmesi gerektiğini söylemediği bir oyun.
+
+Sorun, bu isteğin doğrudan aritmetiğe çarpmasıydı. Bir uzay oyununda yüzlerce yıldız sistemi olsun istiyorsanız, her sistemin bir adı, bir konumu, bir hükümeti, bir ekonomisi, kendine göre fiyatları olmalı. Bunları saklamak gerekir. Tek bir gezegen için birkaç düzine bayt harcasanız, bin gezegende bellek çoktan tükenmiş olur. Üstelik oyunun kendisi, yâni gemiler, silahlar, ticâret ekranları, üç boyut matematiği, henüz yazılmamıştır bile.
+
+İkili işe, o dönemde ciddî iş yapmanın tek yolu olan yöntemle koyuldu: baştan sona makine dili. Her bayt elle sayılıyordu. Aynı işi yapan iki kod parçası varsa biri siliniyor, ortak bir yordama bağlanıyordu. Ekranı bile kandırmayı öğrendiler. Uzay görüntüsünün keskin ve hızlı olması için tek renkli, yâni siyah beyaz bir ekran kipi gerekiyordu; ama alttaki gösterge paneli, yâni hız, kalkan, yakıt, radar, renkli olmadan okunmuyordu. İki farklı ekran kipi aynı anda kullanılamazdı. Onlar da kullanılabilir hâle getirdiler: ekran çizilirken tam olarak doğru anda devreye giren bir zamanlayıcı kesmesi kuruldu, görüntü çipi kadranın başladığı satırda renkli kipe geçirildi. Sonuç, tek bir ekranda iki ayrı dünyâydı: üstte iki yüz elli altıya iki yüz kırk sekiz çözünürlükte siyah beyaz uzay, altta renkli kokpit. Bu numara için özel olarak daraltılan görüntü alanı yedi bin dokuz yüz otuz altı bayt yer kaplıyordu.
+
+Bu titizliğin nereye vardığını gösteren rakam şudur: kaset sürümünün ana oyun kodu on sekiz bin yüz yetmiş bayt tutuyordu ve o bloğun içinde kullanılmadan kalan yer yalnızca otuz dört bayttı. Bütün oyun boyunca boşa giden toplam alan yüz kırk dört baytı geçmiyordu. Radar göstergesi, tam anlamıyla, geriye kalan son birkaç baytın içine sığdırıldı.
+
+Ama asıl tasarruf kodun içinde değildi. Asıl tasarruf, evreni hiç saklamamaya karâr vermelerindeydi.
+
+[MOOD: kesif]
+
+Fikir basit göründüğü kadar da radikaldi: gezegenleri hâfızada tutma, gerektiğinde hesapla.
+
+İlham matematikten geldi. Fibonaççi dizisinde her sayı kendinden önceki iki sayının toplamıdır; yâni diziyi saklamanıza gerek yoktur, başlangıcı ve kuralı bilmeniz yeter, gerisi kendiliğinden gelir. Braben ve Bell aynı mantığı bir yıldız sistemine uyguladılar. Bir sistemi târif eden her şeyi altı sayıya indirdiler. Bu altı sayı bir tohumdu. Sâbit bir kuralla işlendiğinde, o tohum hem içinde bulunduğunuz sistemin bütün özelliklerini veriyor, hem de bir sonraki sistemin tohumunu üretiyordu. Zincirin ilk halkasını verin, gerisi kendini döşesin.
+
+Bu altı baytın içinden çıkanlar şaşırtıcı biçimde zengindi. Sistemin galaksi haritasındaki koordinatları oradan geliyordu. Adı oradan geliyordu; heceler o sayılardan türetiliyordu. Hükümet biçimi, anarşiden çok partili demokrasiye kadar, oradan geliyordu. Ekonomisinin tarıma mı sanâyîye mi dayandığı, teknoloji düzeyi, nüfûsu, üretkenliği ve dolayısıyla limanındaki bütün mal fiyatları da oradan. Sanâyî gezegeninde bilgisayar ucuz, gıdâ pahalıydı; tarım gezegeninde tam tersi. Ticâretin bütün mantığı, hiçbir yere yazılmamış, sâdece hesaplanan sayılardan doğuyordu.
+
+Ve bu yöntemin bir yan etkisi vardı ki, oyunun bugün hâlâ etkileyici bulunan yanı odur: hesap her makinede aynı sonucu verdiği için, evren rastgele değildi. Sâbitti. Sizin Lave'inizle bir başkasının Lave'i aynı gezegendi. Kimse bunu bir yere kaydetmemişti; sâdece herkesin bilgisayarı aynı aritmetiği yapıyordu.
+
+Bu yöntem o kadar verimliydi ki, ilk tasarımda evren pratikte sonsuzdu. İkilinin hesâbına göre üretilebilecek galaksi sayısı iki üzeri kırk sekize, yâni yaklaşık iki yüz seksen iki trilyona çıkıyordu. Yayıncıları onları bundan vazgeçirdi. Gerekçe mantıklıydı: bu kadar büyük bir sayı, evreni keşfedilecek bir yer olmaktan çıkarıp bir sayı üretecine dönüştürüyor, işin matematikten ibâret olduğunu oyuncunun yüzüne vuruyordu. Sekiz galakside karâr kılındı. Her galakside iki yüz elli altı gezegen; toplamda iki bin kırk sekiz dünyâ. Bir öğrenci odasında yazılmış, bir kasede sığan bir oyun için hâlâ akıl almaz bir sayı.
+
+Sayıların soğukluğunu kıran şey ise gezegen târifleriydi. Her sisteme, yine aynı tohumdan üretilen, kalıplara sözcük yerleştirerek kurulan kısa bir açıklama iliştirilmişti. Lave'in yağmur ormanları ve ağaç kurtçukları, Leesti'nin adı çıkmış içkisi, Reidquat'taki iç savaş. Bu cümlelerin oynanışa hiçbir etkisi yoktu. Ama işlevleri büyüktü: gezegenleri birbirinden ayırt edilebilir, hatırlanabilir, hakkında konuşulabilir kılıyorlardı. Bellekte yer tutmayan bir kültür.
+
+Üretilen bir evrenin kendi kendine iyi olmadığını da orada öğrendiler. Denemeler sırasında, çevresindeki her şey sıçrama menzili olan yedi ışık yılının ötesinde kalan yalıtılmış sistemler bulundu; oyuncu oraya gidiyor, geri dönmek için gereken donanımı satmayan bir limanda mahsur kalıyordu. Bir galaksi ise tamâmen elendi, çünkü üretici, hiç istenmeyecek bir sözcüğe denk düşen bir gezegen adı ortaya çıkarmıştı. Yâni makine evreni kuruyordu ama son sözü yine insan söylüyordu.
+
+Oyuncunun bu evrene açıldığı yer hep aynıydı. Lave gezegeninin yörüngesindeki istasyonda, Cobra Mark üç adlı orta boy bir ticâret gemisinin içinde, yüz kredi parayla ve hiçbir tâlimât almadan başlıyordunuz. Ne yapacağınız size kalmıştı. Ucuz aldığınız malı pahalıya satabilir, yasadışı yük taşıyıp gümrüğe yakalanma riskini göze alabilir, korsan avlayıp ödül toplayabilir, asteroit kırıp mâden çıkarabilir ya da doğrudan korsanlığa soyunabilirdiniz. Kâr ettikçe gemiye kalkan, füze, daha güçlü lazer, otomatik yanaşma bilgisayarı takıyordunuz. Karanlıkta çıkan telsiz sinyalleri ve sekizgen gövdeli Thargoid gemileri, evrenin yalnızca ticâretten ibâret olmadığını hatırlatıyordu.
+
+Bir tek sayaç vardı ve o da paranız değildi: dövüş sicili. Zararsız diye başlıyordunuz, sonra sırasıyla ortalama, yeterli, tehlikeli, ölümcül. En tepede, yalnızca binlerce gemi düşürerek varılan tek bir basamak duruyordu ve oyunun adı da oydu: Elite.
+
+[MOOD: zafer]
+
+Bitmiş oyunu ilk götürdükleri kapı Acornsoft değildi. Plak ve elektronik devi Thorn'un yazılım kolu Thorn EMI'ye başvurdular ve elleri boş döndüler. Gelen ret gerekçesi, bin dokuz yüz seksen dörtün oyun anlayışının belgesi gibidir: oyun fazla karmaşık bulunmuştu, on dakîkada bitirilebilmesi ve oyuncuya üç can verilmesi isteniyordu.
+
+Bu, o günün ölçüsüne göre kaba bir yargı da değildi. Ev bilgisayarı oyunlarının anası atari salonuydu; salonda amaç oyuncuyu on beş dakîkada tüketip yeni bir jeton attırmaktı. Oyun demek, sınırlı can, artan zorluk ve en tepede bir yüksek skor tablosu demekti. Braben ile Bell'in getirdiği şeyde bunların hiçbiri yoktu. Skor yoktu, can yoktu, kazanma ekranı yoktu, oyunun bittiği bir yer yoktu. Ürünü değerlendiren kişinin gözünde bu bir yenilik değil, eksiklikti.
+
+Acornsoft'un kapısında sonuç değişti. Şirketin yöneticisi David Johnson-Davies'e ve ekibine yaptıkları gösteri, iki sahneden ibâretti: gemiyi dönen istasyona yanaştırmak ve bir dövüş. O iki sahne yetti. Yayıncının içinde de kuşkular vardı; iş fazla hırslı bulunuyor, tek oyunun iki yazar taşıması tuhaf karşılanıyordu. Yine de anlaşma imzâlandı. İkiliye bin sterlin peşinat ve satıştan yüzde yedi virgül beş telif verildi.
+
+Skoru ve canı olmayan bir oyunun nasıl satılacağı sorusuna verilen cevâp, kutunun içindeydi ve oyun târihinde kendi başına bir dönüm noktasıdır. Kasetin yanına, tanınmış bilimkurgu yazarı Robert Holdstock'a yazdırılan The Dark Wheel, yâni Kara Çark adlı bir kısa roman kondu. Yanına altmış dört sayfalık bir Uzay Tüccarı Uçuş Eğitim Kılavuzu, bir hızlı başvuru kartı ve gemi tiplerini gösteren bir poster eklendi. Bunların bir kısmı korsan kopyaya karşı önlemdi, doğru; kaseti kopyalayabilirsiniz ama kitabı kopyalayamazsınız. Ama etkisi bambaşka oldu. Oyuncu daha oyunu yüklemeden o evrenin içindeydi. Kılavuzu okuyup gemisini öğreniyor, romanı okuyup o galaksinin efsânelerini duyuyordu. Anlatı, oyunun içine sığmayan yerde kutunun içine yerleşmişti.
+
+yirmi Eylül bin dokuz yüz seksen dörtte oyun, Thorpe Park adlı eğlence parkında düzenlenen bir törenle piyasaya çıktı. O yıllarda bir bilgisayar oyunu için böyle bir lansman neredeyse görülmemiş şeydi. Yayıncı tanıtıma elli bin sterlinlik bir bütçe ayırdı, televizyon reklamı bile verdi. Bir de yarışma açıldı: en tepedeki dövüş sicilini ilk kim elde edecekti? O basamağa ulaşan oyuncunun ekranında beliren kısa İngilizce tebrik, "Right on, Commander", yâni "Helal olsun, Komutan", bir kuşak için parola gibi bir cümleye dönüştü.
+
+Rakamlar sözü tamamlar. Yalnızca BBC Micro sürümü yüz yedi bin sekiz yüz doksan sekiz kopya sattı; o dönemde ülkede kaç tâne BBC Micro bulunduğu düşünülürse, makine başına düşen oran alışılmadık derecede yüksekti. Oyun kısa sürede başka bilgisayarlara uyarlandı. Ian Bell bütün sürümlerin toplamını altı yüz bin dolayında tahmîn ediyor; Braben'in bugünkü şirketi ise satışları bir milyon civârında anıyor. bin dokuz yüz seksen dörtün en iyi özgün oyunu seçilerek Golden Joystick, yâni Altın Joystick ödülünü aldı.
+
+Asıl mîrâs satış listelerinde değil. Elite'ten sonra "oyun" sözcüğünün tanımı genişledi. Skoru ve canı olmayan, oyuncunun kendi amacını kendisinin belirlediği, dünyânın oyuncuyu beklemek yerine kendi işine baktığı yapılar, yayıncı masasında savunulabilir bir fikir hâline geldi. Bugün açık dünyâ dediğimiz her şeyin, dükkânından çıkıp istediğin yöne gittiğin her oyunun soy ağacında bu kaset var. İçeriğin elle döşenmek yerine kurallarla üretilmesi de öyle: bugün onlarca oyunun evrenini kuran teknik, sınırsız hayâl gücünden değil, yetmeyen bellekten doğdu.
+
+Bu belki de hikâyenin en ters köşesi. Braben ve Bell'in evreni hesaplama fikri bir zafer planı değildi, bir çaresizlik çözümüydü. yirmi iki kilobayta iki bin kırk sekiz gezegen sığmıyordu; sığdırmanın tek yolu onları saklamamaktı. Kısıt, tasarımı bozan bir engel olmaktan çıkıp tasarımı bulan şeye dönüştü. Bugün paketleri yüz gigabaytı aşan oyunlar yapılıyor ve o oyunların çoğu, bir öğrenci odasında bir kilobaytın onda birine pazarlık edilerek bulunmuş bir fikri kullanıyor.
+
+Braben o günden sonra Cambridge'de kendi stüdyosu Frontier'i kurdu ve aynı fikri kırk yıl boyunca büyütmeye devâm etti; iki bin on dörtte çıkan Elite Dangerous, aynı üretme mantığını bu kez gerçek Samanyolu'nun yüz milyarlarca yıldızına uyguluyor. Ian Bell ise oyun dünyâsının uzağında kaldı ve bin dokuz yüz doksan dokuzda, oyunun on beşinci yılında, eski sürümlerin kodunu kendi sitesinden yayımladı. O kod hâlâ orada duruyor. İsteyen açıp bakabilir: bir evrenin, satır satır, nasıl saklanmadan var edildiğini görmek için.
+
+[MOOD: sakin]
+Nöron Oyun'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.
+
+[JINGLE] jingle/haberjingle.mp3

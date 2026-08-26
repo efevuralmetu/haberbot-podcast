@@ -1,0 +1,553 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.010
+Elinizde bir buçuk sayfalık yazıya ancak yetecek kadar bellek var; içine bir galaksi koymanız isteniyor.
+
+2
+00:00:07.010 --> 00:00:13.060
+İki öğrencinin bulduğu cevâp şuydu: gezegenleri saklama, gerektiğinde hesapla.
+
+3
+00:00:13.060 --> 00:00:21.030
+Sonra hesap makinesi bir evren doğurdu — ve 282 trilyon galaksiyle ne yapacaklarını bilemediler.
+
+4
+00:00:29.230 --> 00:00:39.600
+1982 sonbahârında Cambridge Üniversitesi'ne bağlı Jesus College'ın öğrenci odalarından birinde, iki genç birbirine oyunlarını gösteriyordu.
+
+5
+00:00:39.600 --> 00:00:49.810
+İkisi de lisans öğrencisiydi, ikisi de bilgisayarların o sıralar İngiltere'de yeni yeni ev eşyâsına dönüşen küçük kutularıyla saplantılı biçimde uğraşıyordu.
+
+6
+00:00:49.810 --> 00:01:00.820
+Ian Bell matematik okuyordu ve şansı zâten dönmüştü: yazdığı bir oyunu, Acorn adlı bilgisayar üreticisinin oyun yayıncısı Acornsoft'a satmayı başarmıştı.
+
+7
+00:01:00.820 --> 00:01:11.510
+David Braben ise doğa bilimleri okuyordu ve elinde bitmemiş bir uçak dövüşü oyunu vardı; asıl gurûr duyduğu şey oyunun kendisi değil, içine gömdüğü şeydi.
+
+8
+00:01:11.510 --> 00:01:15.160
+Ekranda üç boyutlu bir nesneyi döndürebiliyordu.
+
+9
+00:01:15.160 --> 00:01:17.210
+Gerçek zamanlı olarak.
+
+10
+00:01:17.210 --> 00:01:22.620
+2 megahertz hızında çalışan, çarpma komutu bile bulunmayan bir işlemciyle.
+
+11
+00:01:22.620 --> 00:01:27.230
+O nesneyi döndüren rutin, sonraki iki yılın çekirdeği olacaktı.
+
+12
+00:01:27.230 --> 00:01:36.480
+Üzerinde çalıştıkları makine, BBC'nin eğitim yayınları için ısmarladığı ve Acorn'un ürettiği ev bilgisayarı BBC Micro'ydu.
+
+13
+00:01:36.480 --> 00:01:42.690
+Modeli B olan sürümde 32 kilobayt bellek vardı ve bu, o günün ölçüsüyle cömert sayılırdı.
+
+14
+00:01:42.690 --> 00:01:45.060
+Ama cömertlik göreliydi.
+
+15
+00:01:45.060 --> 00:01:52.550
+Belleğin üçte birine yakınını işletim sistemi, ekran görüntüsü ve sistemin kendi çalışma alanları yiyordu.
+
+16
+00:01:52.550 --> 00:01:57.960
+Geriye oyun yazarına kalan, iyi bir hesapla 22 kilobayt civârıydı.
+
+17
+00:01:57.960 --> 00:02:03.850
+Bugün bir cep telefonuyla çekilmiş tek bir fotoğraf, o alanın yüzlerce katını kaplıyor.
+
+18
+00:02:03.850 --> 00:02:09.100
+Braben ve Bell'in aklındaki oyun ise bu sınırla açıkça alay eden bir şeydi.
+
+19
+00:02:09.100 --> 00:02:20.750
+Atari'nin makinesinde çıkan Star Raiders, yâni Yıldız Akıncıları, ikisini de etkilemişti; kokpitten bakılan bir uzay savaşıydı ve dönemin en heyecân verici işlerinden biriydi.
+
+20
+00:02:20.750 --> 00:02:23.600
+Ama onlar bir adım ötesini istiyordu.
+
+21
+00:02:23.600 --> 00:02:28.210
+Yalnızca vurup kaçılan bir atış poligonu değil, gidilebilen bir yer.
+
+22
+00:02:28.210 --> 00:02:33.140
+Gemisi olan, parası olan, alıp satan, istediği yöne gidebilen bir oyuncu.
+
+23
+00:02:33.140 --> 00:02:35.670
+Yıldızlar arasında bir ekonomi.
+
+24
+00:02:35.670 --> 00:02:41.080
+Ve en önemlisi: hiç kimsenin oyuncuya nereye gitmesi gerektiğini söylemediği bir oyun.
+
+25
+00:02:41.080 --> 00:02:44.890
+Sorun, bu isteğin doğrudan aritmetiğe çarpmasıydı.
+
+26
+00:02:44.890 --> 00:02:56.220
+Bir uzay oyununda yüzlerce yıldız sistemi olsun istiyorsanız, her sistemin bir adı, bir konumu, bir hükümeti, bir ekonomisi, kendine göre fiyatları olmalı.
+
+27
+00:02:56.220 --> 00:02:58.430
+Bunları saklamak gerekir.
+
+28
+00:02:58.430 --> 00:03:04.800
+Tek bir gezegen için birkaç düzine bayt harcasanız, bin gezegende bellek çoktan tükenmiş olur.
+
+29
+00:03:04.800 --> 00:03:12.930
+Üstelik oyunun kendisi, yâni gemiler, silahlar, ticâret ekranları, üç boyut matematiği, henüz yazılmamıştır bile.
+
+30
+00:03:12.930 --> 00:03:19.940
+İkili işe, o dönemde ciddî iş yapmanın tek yolu olan yöntemle koyuldu: baştan sona makine dili.
+
+31
+00:03:19.940 --> 00:03:22.790
+Her bayt elle sayılıyordu.
+
+32
+00:03:22.790 --> 00:03:29.160
+Aynı işi yapan iki kod parçası varsa biri siliniyor, ortak bir yordama bağlanıyordu.
+
+33
+00:03:29.160 --> 00:03:31.850
+Ekranı bile kandırmayı öğrendiler.
+
+34
+00:03:31.850 --> 00:03:45.580
+Uzay görüntüsünün keskin ve hızlı olması için tek renkli, yâni siyah beyaz bir ekran kipi gerekiyordu; ama alttaki gösterge paneli, yâni hız, kalkan, yakıt, radar, renkli olmadan okunmuyordu.
+
+35
+00:03:45.580 --> 00:03:48.910
+İki farklı ekran kipi aynı anda kullanılamazdı.
+
+36
+00:03:48.910 --> 00:04:01.040
+Onlar da kullanılabilir hâle getirdiler: ekran çizilirken tam olarak doğru anda devreye giren bir zamanlayıcı kesmesi kuruldu, görüntü çipi kadranın başladığı satırda renkli kipe geçirildi.
+
+37
+00:04:01.040 --> 00:04:11.250
+Sonuç, tek bir ekranda iki ayrı dünyâydı: üstte 256'ya 248 çözünürlükte siyah beyaz uzay, altta renkli kokpit.
+
+38
+00:04:11.250 --> 00:04:17.620
+Bu numara için özel olarak daraltılan görüntü alanı 7936 bayt yer kaplıyordu.
+
+39
+00:04:17.620 --> 00:04:30.070
+Bu titizliğin nereye vardığını gösteren rakam şudur: kaset sürümünün ana oyun kodu 18.170 bayt tutuyordu ve o bloğun içinde kullanılmadan kalan yer yalnızca 34 bayttı.
+
+40
+00:04:30.070 --> 00:04:34.520
+Bütün oyun boyunca boşa giden toplam alan 144 baytı geçmiyordu.
+
+41
+00:04:34.520 --> 00:04:40.250
+Radar göstergesi, tam anlamıyla, geriye kalan son birkaç baytın içine sığdırıldı.
+
+42
+00:04:40.250 --> 00:04:43.420
+Ama asıl tasarruf kodun içinde değildi.
+
+43
+00:04:43.420 --> 00:04:48.030
+Asıl tasarruf, evreni hiç saklamamaya karâr vermelerindeydi.
+
+44
+00:04:48.030 --> 00:04:55.040
+Fikir basit göründüğü kadar da radikaldi: gezegenleri hâfızada tutma, gerektiğinde hesapla.
+
+45
+00:04:55.040 --> 00:04:57.250
+İlham matematikten geldi.
+
+46
+00:04:57.250 --> 00:05:08.740
+Fibonacci dizisinde her sayı kendinden önceki iki sayının toplamıdır; yâni diziyi saklamanıza gerek yoktur, başlangıcı ve kuralı bilmeniz yeter, gerisi kendiliğinden gelir.
+
+47
+00:05:08.740 --> 00:05:13.350
+Braben ve Bell aynı mantığı bir yıldız sistemine uyguladılar.
+
+48
+00:05:13.350 --> 00:05:17.800
+Bir sistemi târif eden her şeyi altı sayıya indirdiler.
+
+49
+00:05:17.800 --> 00:05:20.170
+Bu altı sayı bir tohumdu.
+
+50
+00:05:20.170 --> 00:05:29.580
+Sâbit bir kuralla işlendiğinde, o tohum hem içinde bulunduğunuz sistemin bütün özelliklerini veriyor, hem de bir sonraki sistemin tohumunu üretiyordu.
+
+51
+00:05:29.580 --> 00:05:33.870
+Zincirin ilk halkasını verin, gerisi kendini döşesin.
+
+52
+00:05:33.870 --> 00:05:38.000
+Bu altı baytın içinden çıkanlar şaşırtıcı biçimde zengindi.
+
+53
+00:05:38.000 --> 00:05:42.450
+Sistemin galaksi haritasındaki koordinatları oradan geliyordu.
+
+54
+00:05:42.450 --> 00:05:47.060
+Adı oradan geliyordu; heceler o sayılardan türetiliyordu.
+
+55
+00:05:47.060 --> 00:05:52.630
+Hükümet biçimi, anarşiden çok partili demokrasiye kadar, oradan geliyordu.
+
+56
+00:05:52.630 --> 00:06:01.880
+Ekonomisinin tarıma mı sanâyîye mi dayandığı, teknoloji düzeyi, nüfûsu, üretkenliği ve dolayısıyla limanındaki bütün mal fiyatları da oradan.
+
+57
+00:06:01.880 --> 00:06:08.410
+Sanâyî gezegeninde bilgisayar ucuz, gıdâ pahalıydı; tarım gezegeninde tam tersi.
+
+58
+00:06:08.410 --> 00:06:14.780
+Ticâretin bütün mantığı, hiçbir yere yazılmamış, sâdece hesaplanan sayılardan doğuyordu.
+
+59
+00:06:14.780 --> 00:06:25.470
+Ve bu yöntemin bir yan etkisi vardı ki, oyunun bugün hâlâ etkileyici bulunan yanı odur: hesap her makinede aynı sonucu verdiği için, evren rastgele değildi.
+
+60
+00:06:25.470 --> 00:06:27.040
+Sâbitti.
+
+61
+00:06:27.040 --> 00:06:31.330
+Sizin Lave'inizle bir başkasının Lave'i aynı gezegendi.
+
+62
+00:06:31.330 --> 00:06:37.540
+Kimse bunu bir yere kaydetmemişti; sâdece herkesin bilgisayarı aynı aritmetiği yapıyordu.
+
+63
+00:06:37.540 --> 00:06:42.950
+Bu yöntem o kadar verimliydi ki, ilk tasarımda evren pratikte sonsuzdu.
+
+64
+00:06:42.950 --> 00:06:51.560
+İkilinin hesâbına göre üretilebilecek galaksi sayısı 2 üzeri 48'e, yâni yaklaşık 282 trilyona çıkıyordu.
+
+65
+00:06:51.560 --> 00:06:54.250
+Yayıncıları onları bundan vazgeçirdi.
+
+66
+00:06:54.250 --> 00:07:06.060
+Gerekçe mantıklıydı: bu kadar büyük bir sayı, evreni keşfedilecek bir yer olmaktan çıkarıp bir sayı üretecine dönüştürüyor, işin matematikten ibâret olduğunu oyuncunun yüzüne vuruyordu.
+
+67
+00:07:06.060 --> 00:07:08.910
+Sekiz galakside karâr kılındı.
+
+68
+00:07:08.910 --> 00:07:14.800
+Her galakside 256 gezegen; toplamda 2048 dünyâ.
+
+69
+00:07:14.800 --> 00:07:21.650
+Bir öğrenci odasında yazılmış, bir kasede sığan bir oyun için hâlâ akıl almaz bir sayı.
+
+70
+00:07:21.650 --> 00:07:25.780
+Sayıların soğukluğunu kıran şey ise gezegen târifleriydi.
+
+71
+00:07:25.780 --> 00:07:33.590
+Her sisteme, yine aynı tohumdan üretilen, kalıplara sözcük yerleştirerek kurulan kısa bir açıklama iliştirilmişti.
+
+72
+00:07:33.590 --> 00:07:40.440
+Lave'in yağmur ormanları ve ağaç kurtçukları, Leesti'nin adı çıkmış içkisi, Reidquat'taki iç savaş.
+
+73
+00:07:40.440 --> 00:07:43.610
+Bu cümlelerin oynanışa hiçbir etkisi yoktu.
+
+74
+00:07:43.610 --> 00:07:51.260
+Ama işlevleri büyüktü: gezegenleri birbirinden ayırt edilebilir, hatırlanabilir, hakkında konuşulabilir kılıyorlardı.
+
+75
+00:07:51.260 --> 00:07:53.950
+Bellekte yer tutmayan bir kültür.
+
+76
+00:07:53.950 --> 00:07:58.720
+Üretilen bir evrenin kendi kendine iyi olmadığını da orada öğrendiler.
+
+77
+00:07:58.720 --> 00:08:11.970
+Denemeler sırasında, çevresindeki her şey sıçrama menzili olan 7 ışık yılının ötesinde kalan yalıtılmış sistemler bulundu; oyuncu oraya gidiyor, geri dönmek için gereken donanımı satmayan bir limanda mahsur kalıyordu.
+
+78
+00:08:11.970 --> 00:08:20.580
+Bir galaksi ise tamâmen elendi, çünkü üretici, hiç istenmeyecek bir sözcüğe denk düşen bir gezegen adı ortaya çıkarmıştı.
+
+79
+00:08:20.580 --> 00:08:25.510
+Yâni makine evreni kuruyordu ama son sözü yine insan söylüyordu.
+
+80
+00:08:25.510 --> 00:08:29.000
+Oyuncunun bu evrene açıldığı yer hep aynıydı.
+
+81
+00:08:29.000 --> 00:08:39.690
+Lave gezegeninin yörüngesindeki istasyonda, Cobra Mark 3 adlı orta boy bir ticâret gemisinin içinde, 100 kredi parayla ve hiçbir tâlimât almadan başlıyordunuz.
+
+82
+00:08:39.690 --> 00:08:42.060
+Ne yapacağınız size kalmıştı.
+
+83
+00:08:42.060 --> 00:08:55.630
+Ucuz aldığınız malı pahalıya satabilir, yasadışı yük taşıyıp gümrüğe yakalanma riskini göze alabilir, korsan avlayıp ödül toplayabilir, asteroit kırıp mâden çıkarabilir ya da doğrudan korsanlığa soyunabilirdiniz.
+
+84
+00:08:55.630 --> 00:09:02.640
+Kâr ettikçe gemiye kalkan, füze, daha güçlü lazer, otomatik yanaşma bilgisayarı takıyordunuz.
+
+85
+00:09:02.640 --> 00:09:10.930
+Karanlıkta çıkan telsiz sinyalleri ve sekizgen gövdeli Thargoid gemileri, evrenin yalnızca ticâretten ibâret olmadığını hatırlatıyordu.
+
+86
+00:09:10.930 --> 00:09:15.540
+Bir tek sayaç vardı ve o da paranız değildi: dövüş sicili.
+
+87
+00:09:15.540 --> 00:09:21.750
+Zararsız diye başlıyordunuz, sonra sırasıyla ortalama, yeterli, tehlikeli, ölümcül.
+
+88
+00:09:21.750 --> 00:09:29.720
+En tepede, yalnızca binlerce gemi düşürerek varılan tek bir basamak duruyordu ve oyunun adı da oydu: Elite.
+
+89
+00:09:29.720 --> 00:09:33.690
+Bitmiş oyunu ilk götürdükleri kapı Acornsoft değildi.
+
+90
+00:09:33.690 --> 00:09:40.060
+Plak ve elektronik devi Thorn'un yazılım kolu Thorn EMI'ye başvurdular ve elleri boş döndüler.
+
+91
+00:09:40.060 --> 00:09:53.150
+Gelen ret gerekçesi, 1984'ün oyun anlayışının belgesi gibidir: oyun fazla karmaşık bulunmuştu, on dakîkada bitirilebilmesi ve oyuncuya üç can verilmesi isteniyordu.
+
+92
+00:09:53.150 --> 00:09:57.120
+Bu, o günün ölçüsüne göre kaba bir yargı da değildi.
+
+93
+00:09:57.120 --> 00:10:05.410
+Ev bilgisayarı oyunlarının anası atari salonuydu; salonda amaç oyuncuyu on beş dakîkada tüketip yeni bir jeton attırmaktı.
+
+94
+00:10:05.410 --> 00:10:11.780
+Oyun demek, sınırlı can, artan zorluk ve en tepede bir yüksek skor tablosu demekti.
+
+95
+00:10:11.780 --> 00:10:16.070
+Braben ile Bell'in getirdiği şeyde bunların hiçbiri yoktu.
+
+96
+00:10:16.070 --> 00:10:21.800
+Skor yoktu, can yoktu, kazanma ekranı yoktu, oyunun bittiği bir yer yoktu.
+
+97
+00:10:21.800 --> 00:10:26.730
+Ürünü değerlendiren kişinin gözünde bu bir yenilik değil, eksiklikti.
+
+98
+00:10:26.730 --> 00:10:29.580
+Acornsoft'un kapısında sonuç değişti.
+
+99
+00:10:29.580 --> 00:10:40.430
+Şirketin yöneticisi David Johnson-Davies'e ve ekibine yaptıkları gösteri, iki sahneden ibâretti: gemiyi dönen istasyona yanaştırmak ve bir dövüş.
+
+100
+00:10:40.430 --> 00:10:42.320
+O iki sahne yetti.
+
+101
+00:10:42.320 --> 00:10:49.810
+Yayıncının içinde de kuşkular vardı; iş fazla hırslı bulunuyor, tek oyunun iki yazar taşıması tuhaf karşılanıyordu.
+
+102
+00:10:49.810 --> 00:10:52.340
+Yine de anlaşma imzâlandı.
+
+103
+00:10:52.340 --> 00:10:57.270
+İkiliye 1000 sterlin peşinat ve satıştan yüzde 7,5 telif verildi.
+
+104
+00:10:57.270 --> 00:11:07.000
+Skoru ve canı olmayan bir oyunun nasıl satılacağı sorusuna verilen cevâp, kutunun içindeydi ve oyun târihinde kendi başına bir dönüm noktasıdır.
+
+105
+00:11:07.000 --> 00:11:16.570
+Kasetin yanına, tanınmış bilimkurgu yazarı Robert Holdstock'a yazdırılan The Dark Wheel, yâni Kara Çark adlı bir kısa roman kondu.
+
+106
+00:11:16.570 --> 00:11:25.980
+Yanına 64 sayfalık bir Uzay Tüccarı Uçuş Eğitim Kılavuzu, bir hızlı başvuru kartı ve gemi tiplerini gösteren bir poster eklendi.
+
+107
+00:11:25.980 --> 00:11:33.950
+Bunların bir kısmı korsan kopyaya karşı önlemdi, doğru; kaseti kopyalayabilirsiniz ama kitabı kopyalayamazsınız.
+
+108
+00:11:33.950 --> 00:11:36.160
+Ama etkisi bambaşka oldu.
+
+109
+00:11:36.160 --> 00:11:40.290
+Oyuncu daha oyunu yüklemeden o evrenin içindeydi.
+
+110
+00:11:40.290 --> 00:11:46.180
+Kılavuzu okuyup gemisini öğreniyor, romanı okuyup o galaksinin efsânelerini duyuyordu.
+
+111
+00:11:46.180 --> 00:11:51.430
+Anlatı, oyunun içine sığmayan yerde kutunun içine yerleşmişti.
+
+112
+00:11:51.430 --> 00:11:58.760
+20 Eylül 1984'te oyun, Thorpe Park adlı eğlence parkında düzenlenen bir törenle piyasaya çıktı.
+
+113
+00:11:58.760 --> 00:12:04.330
+O yıllarda bir bilgisayar oyunu için böyle bir lansman neredeyse görülmemiş şeydi.
+
+114
+00:12:04.330 --> 00:12:10.220
+Yayıncı tanıtıma 50 bin sterlinlik bir bütçe ayırdı, televizyon reklamı bile verdi.
+
+115
+00:12:10.220 --> 00:12:15.790
+Bir de yarışma açıldı: en tepedeki dövüş sicilini ilk kim elde edecekti?
+
+116
+00:12:15.790 --> 00:12:27.440
+O basamağa ulaşan oyuncunun ekranında beliren kısa İngilizce tebrik, "Right on, Commander", yâni "Helal olsun, Komutan", bir kuşak için parola gibi bir cümleye dönüştü.
+
+117
+00:12:27.440 --> 00:12:29.650
+Rakamlar sözü tamamlar.
+
+118
+00:12:29.650 --> 00:12:42.740
+Yalnızca BBC Micro sürümü 107.898 kopya sattı; o dönemde ülkede kaç tâne BBC Micro bulunduğu düşünülürse, makine başına düşen oran alışılmadık derecede yüksekti.
+
+119
+00:12:42.740 --> 00:12:46.230
+Oyun kısa sürede başka bilgisayarlara uyarlandı.
+
+120
+00:12:46.230 --> 00:12:56.280
+Ian Bell bütün sürümlerin toplamını 600 bin dolayında tahmîn ediyor; Braben'in bugünkü şirketi ise satışları 1 milyon civârında anıyor.
+
+121
+00:12:56.280 --> 00:13:03.770
+1984'ün en iyi özgün oyunu seçilerek Golden Joystick, yâni Altın Joystick ödülünü aldı.
+
+122
+00:13:03.770 --> 00:13:06.780
+Asıl mîrâs satış listelerinde değil.
+
+123
+00:13:06.780 --> 00:13:10.750
+Elite'ten sonra "oyun" sözcüğünün tanımı genişledi.
+
+124
+00:13:10.750 --> 00:13:23.200
+Skoru ve canı olmayan, oyuncunun kendi amacını kendisinin belirlediği, dünyânın oyuncuyu beklemek yerine kendi işine baktığı yapılar, yayıncı masasında savunulabilir bir fikir hâline geldi.
+
+125
+00:13:23.200 --> 00:13:30.690
+Bugün açık dünyâ dediğimiz her şeyin, dükkânından çıkıp istediğin yöne gittiğin her oyunun soy ağacında bu kaset var.
+
+126
+00:13:30.690 --> 00:13:41.540
+İçeriğin elle döşenmek yerine kurallarla üretilmesi de öyle: bugün onlarca oyunun evrenini kuran teknik, sınırsız hayâl gücünden değil, yetmeyen bellekten doğdu.
+
+127
+00:13:41.540 --> 00:13:44.550
+Bu belki de hikâyenin en ters köşesi.
+
+128
+00:13:44.550 --> 00:13:51.400
+Braben ve Bell'in evreni hesaplama fikri bir zafer planı değildi, bir çaresizlik çözümüydü.
+
+129
+00:13:51.400 --> 00:13:58.570
+22 kilobayta 2048 gezegen sığmıyordu; sığdırmanın tek yolu onları saklamamaktı.
+
+130
+00:13:58.570 --> 00:14:04.300
+Kısıt, tasarımı bozan bir engel olmaktan çıkıp tasarımı bulan şeye dönüştü.
+
+131
+00:14:04.300 --> 00:14:15.150
+Bugün paketleri 100 gigabaytı aşan oyunlar yapılıyor ve o oyunların çoğu, bir öğrenci odasında bir kilobaytın onda birine pazarlık edilerek bulunmuş bir fikri kullanıyor.
+
+132
+00:14:15.150 --> 00:14:25.680
+Braben o günden sonra Cambridge'de kendi stüdyosu Frontier'i kurdu ve aynı fikri kırk yıl boyunca büyütmeye devâm etti; 2014'te çıkan Elite Dangerous,
+
+133
+00:14:25.680 --> 00:14:31.410
+aynı üretme mantığını bu kez gerçek Samanyolu'nun yüz milyarlarca yıldızına uyguluyor.
+
+134
+00:14:31.410 --> 00:14:41.940
+Ian Bell ise oyun dünyâsının uzağında kaldı ve 1999'da, oyunun on beşinci yılında, eski sürümlerin kodunu kendi sitesinden yayımladı.
+
+135
+00:14:41.940 --> 00:14:44.310
+O kod hâlâ orada duruyor.
+
+136
+00:14:44.310 --> 00:14:51.320
+İsteyen açıp bakabilir: bir evrenin, satır satır, nasıl saklanmadan var edildiğini görmek için.
+
+137
+00:14:51.320 --> 00:14:54.330
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+138
+00:14:54.330 --> 00:14:57.340
+Yeni bir hikâyede yeniden buluşmak üzere.
