@@ -1,0 +1,489 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.930
+Oyunu ilk kez oynayan herkes aynı şeyi hissetti: uzaylılar azaldıkça hızlanıyor, üzerine geliyor, nefesini kesiyordu.
+
+2
+00:00:08.930 --> 00:00:12.900
+Yıllarca bunun kusursuz bir gerilim tasarımı olduğu sanıldı.
+
+3
+00:00:12.900 --> 00:00:21.190
+Oysa o hızlanma bir tasarım değildi — işlemcinin yetişememesiydi, ve bir mühendisin onu düzeltmemeye karâr vermesiydi.
+
+4
+00:00:29.390 --> 00:01:15.580
+1977 yılının sonlarında Tokyo'da bir çalışma masasının üzerinde, o güne kadar Japonya'da çok az mühendisin eline almış olduğu bir parça duruyordu: Amerika'dan getirtilmiş, tırnak büyüklüğünde bir mikroişlemci. Masanın başındaki adamın adı Tomohiro Nishikado'ydu. Çalıştığı şirket Taito, o yıllarda henüz dünyâ çapında bir isim değil, Japonya'nın eğlence salonlarına elektromekanik makineler yerleştiren bir üreticiydi. O makinelerin içinde çip yoktu; röleler, aynalar, ampuller, dişliler vardı. Bir hedefe nişan aldığınızda arkada dönen bir kam mili takırdar, bir lamba yanar, bir zil çalardı. Oyun, elektroniğin değil, saat ustalığının işiydi.
+
+5
+00:01:15.580 --> 00:01:18.750
+Nishikado bu dünyânın içinden geliyordu.
+
+6
+00:01:18.750 --> 00:01:32.960
+Birkaç yıl önce tasarladığı bir kovboy düellosu oyunu, Amerika'da lisanslanıp yeniden yapıldığında ilginç bir şey olmuştu: Amerikalı ekip, oyunu klasik devrelerle değil, Intel'in yeni mikroişlemcisiyle kurmuştu.
+
+7
+00:01:32.960 --> 00:01:40.930
+Sonuç, Nishikado'nun kendi özgün sürümünden gözle görülür biçimde daha akıcı, daha yumuşak, daha canlıydı.
+
+8
+00:01:40.930 --> 00:01:43.620
+Bu, onun için bir uyarı fişeğiydi.
+
+9
+00:01:43.620 --> 00:01:49.350
+Oyun makinesinin geleceği tel ve röle yığınında değil, o küçük siyah parçadaydı.
+
+10
+00:01:49.350 --> 00:01:58.760
+Sorun şuydu ki 1977 Japonya'sında bir mikroişlemciyle oyun yazmak isteyen birinin başvuracağı hazır bir âlet çantası yoktu.
+
+11
+00:01:58.760 --> 00:02:03.370
+Ne geliştirme kartı, ne derleyici, ne hatâ ayıklayıcı.
+
+12
+00:02:03.370 --> 00:02:07.340
+Nishikado bunları satın alamadığı için kendisi yaptı.
+
+13
+00:02:07.340 --> 00:02:11.630
+Oyunun kodunu yazmadan önce, kodu yazacağı düzeneği kurdu.
+
+14
+00:02:11.630 --> 00:02:19.920
+Devre kartını tasarladı, işlemciyi elle programlayacağı araçları îmâl etti, ekrana nokta basmanın yolunu kendi buldu.
+
+15
+00:02:19.920 --> 00:02:25.970
+Bir oyun geliştirmeye başlamadan önce, o oyunun geliştirileceği fabrikayı kurmuş oldu.
+
+16
+00:02:25.970 --> 00:02:27.860
+Peki ne yapacaktı?
+
+17
+00:02:27.860 --> 00:02:34.230
+Fikrin tohumu, Atari'nin 1976'da çıkardığı duvar yıkma oyunundan geliyordu.
+
+18
+00:02:34.230 --> 00:02:49.240
+Nishikado o oyunda kendisini asıl yakalayan şeyin grafikler ya da hız olmadığını fark etmişti: Tuğlaların teker teker eksilmesi, ekranın yavaş yavaş boşalması, her vuruşun geri dönülmez biçimde bir şeyi eksiltmesiydi.
+
+19
+00:02:49.240 --> 00:02:54.810
+Buna bir de nişan alma duygusunu ekleyebilirse ortaya bambaşka bir şey çıkabilirdi.
+
+20
+00:02:54.810 --> 00:02:56.860
+Ateş eden bir oyun.
+
+21
+00:02:56.860 --> 00:02:59.230
+Ama neye ateş eden?
+
+22
+00:02:59.230 --> 00:03:05.120
+İlk aklına gelenler dönemin alışkanlıklarıydı: uçaklar, tanklar, askerler.
+
+23
+00:03:05.120 --> 00:03:11.810
+Şirket içinde bu fikre îtirâz geldi; insanların hedef alındığı bir oyun huzursuzluk yaratabilirdi.
+
+24
+00:03:11.810 --> 00:03:14.500
+Nishikado bir başka yöne döndü.
+
+25
+00:03:14.500 --> 00:03:17.990
+O sıralar Japonya'da uzay her yerdeydi.
+
+26
+00:03:17.990 --> 00:03:28.840
+Birkaç yıl önce yayımlanan Uzay Kruvazörü Yamato adlı çizgi dizi kuşakları peşine takmıştı, denizaşırı dergilerde ise Yıldız Savaşları filminin görüntüleri dolaşıyordu.
+
+27
+00:03:28.840 --> 00:03:32.650
+Hedef, insan olmayacaksa uzaylı olabilirdi.
+
+28
+00:03:32.650 --> 00:03:37.580
+Kimsenin karşı çıkamayacağı, kimsenin ölümüne üzülmeyeceği bir düşman.
+
+29
+00:03:37.580 --> 00:03:41.550
+Şimdi o uzaylıların neye benzeyeceği sorusu vardı.
+
+30
+00:03:41.550 --> 00:03:46.480
+Nishikado'nun kafasındaki uzaylı imgesi, çocukluğunda tanıştığı H.
+
+31
+00:03:46.480 --> 00:03:47.890
+G.
+
+32
+00:03:47.890 --> 00:03:53.620
+Wells romanı The War of the Worlds'ten, yâni Dünyalar Savaşı'ndan kalmaydı.
+
+33
+00:03:53.620 --> 00:03:59.670
+O kitaptan aklında kalan, insansı bir figür değil, deniz canlısına benzeyen bir şeydi.
+
+34
+00:03:59.670 --> 00:04:06.840
+Böylece milimetrik kareli kâğıdın üzerine, kutucukları tek tek boyayarak, ahtapota benzeyen bir yaratık çizdi.
+
+35
+00:04:06.840 --> 00:04:10.010
+Sonra kolları yana açılmış bir yengeç.
+
+36
+00:04:10.010 --> 00:04:12.700
+Sonra da bir mürekkep balığı.
+
+37
+00:04:12.700 --> 00:04:20.350
+Üç figür, hepsi avuç içi kadar bir alana sığan, on altıya sekiz noktalık kafeslere hapsedilmiş desenlerdi.
+
+38
+00:04:20.350 --> 00:04:30.240
+Bugün dünyânın her yerinde tanınan o piksel silüetler, bir sanat yönetmeninin eskiz defterinden değil, bir mühendisin kareli kâğıdından çıktı.
+
+39
+00:04:30.240 --> 00:04:39.970
+Oyunun ilk adı Uzay Canavarları anlamına gelen bir isimdi; şirket yönetimi bunu değiştirtti ve bugün bildiğimiz ad ortaya çıktı: Space Invaders.
+
+40
+00:04:39.970 --> 00:04:46.180
+Ekrana 5 sıra hâlinde, her sırada 11 tâne olmak üzere 55 yaratık dizildi.
+
+41
+00:04:46.180 --> 00:04:54.310
+Altta oyuncunun yanlamasına kayan topu, onun önünde de mermiler değdikçe aşınan, delik deşik olan 4 siper vardı.
+
+42
+00:04:54.310 --> 00:04:59.080
+Kurallar sayfalar tutmuyordu: Onlar iner, sen ateş edersin.
+
+43
+00:04:59.080 --> 00:05:01.930
+Onlar dibe ulaşırsa biter.
+
+44
+00:05:01.930 --> 00:05:09.740
+İşte tam burada, kâğıt üzerinde kusursuz görünen tasarımın içinde, hiçbir tasarım toplantısında konuşulmamış bir şey belirdi.
+
+45
+00:05:09.740 --> 00:05:16.430
+Nishikado'nun elindeki işlemcinin, oyunun kullandığı ekranı çizmek için özel bir yardımcı devresi yoktu.
+
+46
+00:05:16.430 --> 00:05:25.040
+Bugünün donanımları bir görüntüyü ekrana yerleştirmeyi neredeyse bedâva hâle getirir; o düzenekte böyle bir şey yoktu.
+
+47
+00:05:25.040 --> 00:05:33.170
+55 yaratığın her biri, her karede, nokta nokta, işlemcinin kendisi tarafından siliniyor ve yeniden çiziliyordu.
+
+48
+00:05:33.170 --> 00:05:39.540
+Bunun anlamı basitti: Ekranda ne kadar çok uzaylı varsa, işlemcinin yükü o kadar ağırdı.
+
+49
+00:05:39.540 --> 00:05:46.710
+Oyun başladığında 55 hedef birden vardı ve o kalabalık, işlemciyi dizlerinin üstüne çöktürüyordu.
+
+50
+00:05:46.710 --> 00:05:50.520
+Yaratıklar ağır ağır, hantal biçimde yana kayıyordu.
+
+51
+00:05:50.520 --> 00:05:57.210
+Ama oyuncu ateş etmeye başlayıp sıralar seyreldikçe, işlemcinin sırtındaki yük hafifliyordu.
+
+52
+00:05:57.210 --> 00:06:02.300
+Aynı kod, aynı makine, aynı ayarlar; sâdece daha az iş.
+
+53
+00:06:02.300 --> 00:06:05.790
+Ve daha az iş, daha hızlı bir kare demekti.
+
+54
+00:06:05.790 --> 00:06:08.000
+Uzaylılar hızlanıyordu.
+
+55
+00:06:08.000 --> 00:06:11.330
+Bu, kelimenin tam anlamıyla bir kusurdu.
+
+56
+00:06:11.330 --> 00:06:18.020
+Oyunun temposu, tasarımcının verdiği bir karâra değil, donanımın o anki nefes darlığına bağlıydı.
+
+57
+00:06:18.020 --> 00:06:28.550
+Herhangi bir mühendisin ilk tepkisi bunu düzeltmek olurdu: Hızı sâbitle, tempoyu kontrol altına al, makinenin yorgunluğunun oyuna sızmasına izin verme.
+
+58
+00:06:28.550 --> 00:06:32.040
+Nishikado da önce bunu bir sorun olarak gördü.
+
+59
+00:06:32.040 --> 00:06:33.770
+Sonra oynadı.
+
+60
+00:06:33.770 --> 00:06:37.900
+Ve fark etti ki oyun, hatâsıyla birlikte daha iyiydi.
+
+61
+00:06:37.900 --> 00:06:43.150
+Çünkü o hızlanma, bir aksaklık gibi değil, bir tehdit gibi hissettiriyordu.
+
+62
+00:06:43.150 --> 00:06:48.240
+Düşman sanki hırslanıyor, sanki köşeye sıkıştıkça saldırganlaşıyordu.
+
+63
+00:06:48.240 --> 00:06:55.410
+Oyuncu kazandıkça oyun kolaylaşmıyor, tam tersine zorlaşıyordu; başarının ödülü daha büyük bir baskıydı.
+
+64
+00:06:55.410 --> 00:07:06.260
+En sondaki tek uzaylı, ekranın bir ucundan diğerine, gözle tâkip edilmesi zor bir hızla süzülüyor ve o son atış, tüm turun en gergin ânına dönüşüyordu.
+
+65
+00:07:06.260 --> 00:07:08.950
+Nishikado hatâyı düzeltmedi.
+
+66
+00:07:08.950 --> 00:07:11.160
+Onu oyunun kalbi yaptı.
+
+67
+00:07:11.160 --> 00:07:14.810
+Aynı hızlanma, oyunun sesine de bulaştı.
+
+68
+00:07:14.810 --> 00:07:24.540
+Space Invaders'ın ses tarafında dört notalık, aşağı doğru inen, son derece basit bir döngü vardı; bir melodiden çok bir ayak sesiydi.
+
+69
+00:07:24.540 --> 00:07:27.550
+O döngü de uzaylıların temposuna bağlıydı.
+
+70
+00:07:27.550 --> 00:07:37.760
+Oyun başlarken ağır ağır giden o dört nota, sıralar eridikçe hızlanıyor, sonlara doğru bir yürüyüş marşından çıkıp panikleyen bir nabza dönüşüyordu.
+
+71
+00:07:37.760 --> 00:07:42.850
+Oyuncu ekrana bakmadan bile ne kadar zor durumda olduğunu duyabiliyordu.
+
+72
+00:07:42.850 --> 00:07:52.580
+Bir video oyununun, oyuncunun beden ritmini böyle doğrudan hedef aldığı ilk anlardan biriydi bu ve kimse bunu bir ses tasarımı toplantısında planlamamıştı.
+
+73
+00:07:52.580 --> 00:07:57.670
+Ortaya çıkardığı gerilim, işlemcinin yetersizliğinin yan ürünüydü.
+
+74
+00:07:57.670 --> 00:08:00.680
+Görüntü de aynı el yordamıyla kurulmuştu.
+
+75
+00:08:00.680 --> 00:08:05.130
+Ekran siyah beyazdı; renk üretecek bir donanım yoktu.
+
+76
+00:08:05.130 --> 00:08:12.460
+Çözüm neredeyse çocukça bir hîleydi: Cam tüpün üzerine renkli şeffaf jelatin şeritler yapıştırıldı.
+
+77
+00:08:12.460 --> 00:08:15.630
+Üst tarafa turuncu, alt tarafa yeşil.
+
+78
+00:08:15.630 --> 00:08:24.400
+Uzaylılar o şeritlerin önünden geçtiklerinde renk değiştirmiş gibi görünüyordu; oyuncunun topu ve siperleri ise yeşil bir zemînde duruyordu.
+
+79
+00:08:24.400 --> 00:08:28.050
+Renk, oyunun içinde değil, camın üstündeydi.
+
+80
+00:08:28.050 --> 00:08:36.820
+Bir de o güne kadar salonlarda pek görülmemiş bir ayrıntı vardı: Ekranın üstünde, o makinede kaydedilmiş en yüksek puan duruyordu.
+
+81
+00:08:36.820 --> 00:08:41.750
+Kimin yaptığı yazmıyordu, isim girilmiyordu; sâdece bir sayı.
+
+82
+00:08:41.750 --> 00:08:49.560
+Ama o sayı, oyunu tek kişilik bir uğraş olmaktan çıkarıp mahalledeki herkesin dâhil olduğu sessiz bir yarışa çeviriyordu.
+
+83
+00:08:49.560 --> 00:08:57.850
+Makinenin başına oturan çocuk artık uzaylılara karşı değil, o makineyi ondan önce oynamış tanımadığı birine karşı oynuyordu.
+
+84
+00:08:57.850 --> 00:09:07.100
+Oyun 1978 yılının temmuz ayında Japonya'da piyasaya çıktı ve olan biteni ne Taito ne de Nishikado öngörebilmişti.
+
+85
+00:09:07.100 --> 00:09:11.550
+Makineler önce eğlence salonlarına, sonra kahvehânelere girdi.
+
+86
+00:09:11.550 --> 00:09:17.760
+Masa biçimli dolaplar özellikle etkiliydi: Üstü cam bir kafe masası, altında ekran.
+
+87
+00:09:17.760 --> 00:09:22.210
+İnsanlar kahvelerini fincanı ekranın kenarına koyup içiyordu.
+
+88
+00:09:22.210 --> 00:09:34.180
+Talep o kadar hızlı büyüdü ki Japonya'da sıradan dükkânlar raflarını boşaltıp içeriye sıra sıra makine dizmeye başladı; sokaklara, kapıdan taşan o dört notalık yürüyüş sesi yayıldı.
+
+89
+00:09:34.180 --> 00:09:39.590
+Yılın sonuna gelindiğinde Japonya'da kurulu makine sayısı 100 bini geçmişti.
+
+90
+00:09:39.590 --> 00:09:48.200
+1979 bittiğinde dünyâ genelindeki rakam 750 bine yaklaşıyordu ve bunun yaklaşık 400 bini Japonya'daydı.
+
+91
+00:09:48.200 --> 00:10:00.010
+İşte bu curcunanın içinde, oyun târihinin en meşhur hikâyesi doğdu: Space Invaders'ın Japonya'da 100 yenlik bozuk paraları tükettiği, ülkenin mâdenî para kıtlığına düştüğü,
+
+92
+00:10:00.010 --> 00:10:03.980
+darphânenin üretimi katlamak zorunda kaldığı anlatısı.
+
+93
+00:10:03.980 --> 00:10:11.950
+Hikâye kusursuz biçimde çekici olduğu için onlarca yıl boyunca kitaptan kitaba, yazıdan yazıya atlayarak yaşadı.
+
+94
+00:10:11.950 --> 00:10:16.080
+Ne var ki darphâne kayıtları bu anlatıyı doğrulamıyor.
+
+95
+00:10:16.080 --> 00:10:28.050
+1978'de basılan 100 yenlik sayısı yaklaşık 292 milyondu ve bu rakam, hem kendisinden önceki hem de sonraki yılların üretiminin altında kalıyordu.
+
+96
+00:10:28.050 --> 00:10:33.300
+Yâni oyunun zirve yaptığı dönemde mâdenî para basımında bir patlama olmadı.
+
+97
+00:10:33.300 --> 00:10:46.710
+Dönemin bâzı bölgelerinde bozuk para sıkıntısı yaşandığı doğru, ama bunun arkasında oyun salonları değil, paranın alaşımında yapılan değişiklikle bağlantılı düşük üretim gibi çok daha sıkıcı sebepler vardı.
+
+98
+00:10:46.710 --> 00:10:54.520
+Efsânenin yayılmasında, oyunun popülerliğini abartmakta çıkarı olan tanıtım dilinin de payı olduğu düşünülüyor.
+
+99
+00:10:54.520 --> 00:10:57.690
+Kısacası: 100 yenlikler tükenmedi.
+
+100
+00:10:57.690 --> 00:11:06.460
+Ama insanların buna inanmaya bu kadar hevesli olması, oyunun kültürel ağırlığı hakkında belki de gerçek bir kıtlıktan daha çok şey söylüyor.
+
+101
+00:11:06.460 --> 00:11:43.270
+Gerçek olan başka bir tepki daha vardı ve o hiç eğlenceli değildi. 1979'a gelindiğinde Japon basınında oyunun gençliği bozduğuna dâir haberler çoğaldı; okulu asan, harçlığını makinelere yatıran, para bulmak için hırsızlığa karışan çocukların hikâyeleri manşetlere taşındı. Mainichi gazetesinin İngilizce baskısı gibi yayınlarda çıkan bu haberler, yeni bir eğlence biçiminin karşısına dikilen ahlâkî paniğin ilk büyük örneklerindendi. Video oyunlarının bugün hâlâ karşılaştığı o tartışma kalıbı, tam da bu makinelerin başında şekillendi.
+
+102
+00:11:43.270 --> 00:11:53.800
+Oyun aynı yılın kasım ayında Amerika'ya, Midway'in dağıtımıyla girdi ve orada da benzer bir eğri izledi; ilk yılında Birleşik Devletler'de 60 bin makine kuruldu.
+
+103
+00:11:53.800 --> 00:12:04.650
+Toplam tablo bugünden bakınca bile şaşırtıcı: 1982'ye gelindiğinde oyunun toplam hâsılâtı 3,8 milyar dolara ulaşmıştı.
+
+104
+00:12:04.650 --> 00:12:08.780
+Ama asıl kırılma 10 Mart 1980'de yaşandı.
+
+105
+00:12:08.780 --> 00:12:14.190
+Atari, oyunu kendi ev konsolu Atari 2600 için lisansladı.
+
+106
+00:12:14.190 --> 00:12:21.680
+Bu, bir salon oyununun eve resmen taşındığı ilk büyük örnekti ve etkisi hesaplanandan çok daha büyük oldu.
+
+107
+00:12:21.680 --> 00:12:27.730
+İnsanlar oyunu oynamak için konsol satın aldı; donanım, oyunun peşine takıldı.
+
+108
+00:12:27.730 --> 00:12:37.300
+Kartuş 1981 sonuna kadar 4,2 milyonu, 1983'e gelindiğinde 6,1 milyona yakın adedi buldu.
+
+109
+00:12:37.300 --> 00:12:46.870
+Bir tek oyunun bir donanımı sırtlayıp taşıyabileceği fikri, yâni bugün hâlâ bütün sektörün üzerine kurulduğu o mantık, ilk kez burada kanıtlandı.
+
+110
+00:12:46.870 --> 00:12:51.160
+Geride bıraktığı iz, satış rakamlarından daha kalıcı oldu.
+
+111
+00:12:51.160 --> 00:12:59.770
+Japonya'da bir süre boyunca bu tarz oyunların tümüne kısaca "istilâcı oyunları" dendi; tür, doğduğu eserin adıyla anıldı.
+
+112
+00:12:59.770 --> 00:13:09.980
+Ekranın altında sâbit duran bir nişancı, yukarıdan gelen düzenli bir tehdit ve giderek artan bir tempo formülü, ardından gelen sayısız oyunun omurgası oldu;
+
+113
+00:13:09.980 --> 00:13:14.750
+salonların altın çağı denen dönemin kapısını bu makineler araladı.
+
+114
+00:13:14.750 --> 00:13:27.040
+Londra'da yayımlanan gazete The Times, 2007'de hazırladığı bir listede oyunu şimdiye kadarki en etkili video oyunu olarak andı; 2016'da ise Dünya Video Oyunları Şöhret Salonu'na alındı.
+
+115
+00:13:27.040 --> 00:13:36.610
+Ve bugün, o üç piksel yaratıktan biri, oyun oynamayı hiç sevmeyen birinin bile baktığında anlamını çözebildiği evrensel bir işâret.
+
+116
+00:13:36.610 --> 00:13:44.260
+Tîşörtlerde, duvarlarda, sokak sanatında, ekranın ne olduğunu anlatmak isteyen her yerde karşımıza çıkıyor.
+
+117
+00:13:44.260 --> 00:13:54.950
+Bütün bunların merkezinde ise şu duruyor: Oyunu unutulmaz kılan asıl duygu, yâni düşmanın üzerinize hızlanarak gelmesi, kimsenin tasarladığı bir şey değildi.
+
+118
+00:13:54.950 --> 00:13:59.880
+Yeterince güçlü olmayan bir işlemcinin, yükü hafifledikçe hızlanmasıydı.
+
+119
+00:13:59.880 --> 00:14:08.650
+Nishikado'nun dehâsı o hatâyı yapmakta değil, onu gördüğünde düzeltmemekte, bir yetersizliğin oyuna kattığı şeyi tanıyabilmekteydi.
+
+120
+00:14:08.650 --> 00:14:14.060
+İstilâ, bir mühendislik zaferinden değil, bir mühendislik sınırından doğdu.
+
+121
+00:14:14.060 --> 00:14:17.230
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+122
+00:14:17.230 --> 00:14:20.560
+Yeni bir hikâyede yeniden buluşmak üzere.

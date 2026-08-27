@@ -1,0 +1,65 @@
+[MOOD: kesif]
+Oyunu ilk kez oynayan herkes aynı şeyi hissetti: uzaylılar azaldıkça hızlanıyor, üzerine geliyor, nefesini kesiyordu. Yıllarca bunun kusursuz bir gerilim tasarımı olduğu sanıldı. Oysa o hızlanma bir tasarım değildi — işlemcinin yetişememesiydi, ve bir mühendisin onu düzeltmemeye karâr vermesiydi.
+
+[JINGLE] jingle/haberjingle.mp3
+
+[MOOD: kesif]
+
+bin dokuz yüz yetmiş yedi yılının sonlarında Tokyo'da bir çalışma masasının üzerinde, o güne kadar Japonya'da çok az mühendisin eline almış olduğu bir parça duruyordu: Amerika'dan getirtilmiş, tırnak büyüklüğünde bir mikroişlemci. Masanın başındaki adamın adı Tomohiro Nişikado'ydu. Çalıştığı şirket Taito, o yıllarda henüz dünyâ çapında bir isim değil, Japonya'nın eğlence salonlarına elektromekanik makineler yerleştiren bir üreticiydi. O makinelerin içinde çip yoktu; röleler, aynalar, ampuller, dişliler vardı. Bir hedefe nişan aldığınızda arkada dönen bir kam mili takırdar, bir lamba yanar, bir zil çalardı. Oyun, elektroniğin değil, saat ustalığının işiydi.
+
+Nişikado bu dünyânın içinden geliyordu. Birkaç yıl önce tasarladığı bir kovboy düellosu oyunu, Amerika'da lisanslanıp yeniden yapıldığında ilginç bir şey olmuştu: Amerikalı ekip, oyunu klasik devrelerle değil, Intel'in yeni mikroişlemcisiyle kurmuştu. Sonuç, Nişikado'nun kendi özgün sürümünden gözle görülür biçimde daha akıcı, daha yumuşak, daha canlıydı. Bu, onun için bir uyarı fişeğiydi. Oyun makinesinin geleceği tel ve röle yığınında değil, o küçük siyah parçadaydı. Sorun şuydu ki bin dokuz yüz yetmiş yedi Japonya'sında bir mikroişlemciyle oyun yazmak isteyen birinin başvuracağı hazır bir âlet çantası yoktu. Ne geliştirme kartı, ne derleyici, ne hatâ ayıklayıcı. Nişikado bunları satın alamadığı için kendisi yaptı. Oyunun kodunu yazmadan önce, kodu yazacağı düzeneği kurdu. Devre kartını tasarladı, işlemciyi elle programlayacağı araçları îmâl etti, ekrana nokta basmanın yolunu kendi buldu. Bir oyun geliştirmeye başlamadan önce, o oyunun geliştirileceği fabrikayı kurmuş oldu.
+
+Peki ne yapacaktı? Fikrin tohumu, Atari'nin bin dokuz yüz yetmiş altıda çıkardığı duvar yıkma oyunundan geliyordu. Nişikado o oyunda kendisini asıl yakalayan şeyin grafikler ya da hız olmadığını fark etmişti: Tuğlaların teker teker eksilmesi, ekranın yavaş yavaş boşalması, her vuruşun geri dönülmez biçimde bir şeyi eksiltmesiydi. Buna bir de nişan alma duygusunu ekleyebilirse ortaya bambaşka bir şey çıkabilirdi. Ateş eden bir oyun. Ama neye ateş eden?
+
+İlk aklına gelenler dönemin alışkanlıklarıydı: uçaklar, tanklar, askerler. Şirket içinde bu fikre îtirâz geldi; insanların hedef alındığı bir oyun huzursuzluk yaratabilirdi. Nişikado bir başka yöne döndü. O sıralar Japonya'da uzay her yerdeydi. Birkaç yıl önce yayımlanan Uzay Kruvazörü Yamato adlı çizgi dizi kuşakları peşine takmıştı, denizaşırı dergilerde ise Yıldız Savaşları filminin görüntüleri dolaşıyordu. Hedef, insan olmayacaksa uzaylı olabilirdi. Kimsenin karşı çıkamayacağı, kimsenin ölümüne üzülmeyeceği bir düşman.
+
+Şimdi o uzaylıların neye benzeyeceği sorusu vardı. Nişikado'nun kafasındaki uzaylı imgesi, çocukluğunda tanıştığı H. G. Wells romanı The War of the Worlds'ten, yâni Dünyalar Savaşı'ndan kalmaydı. O kitaptan aklında kalan, insansı bir figür değil, deniz canlısına benzeyen bir şeydi. Böylece milimetrik kareli kâğıdın üzerine, kutucukları tek tek boyayarak, ahtapota benzeyen bir yaratık çizdi. Sonra kolları yana açılmış bir yengeç. Sonra da bir mürekkep balığı. Üç figür, hepsi avuç içi kadar bir alana sığan, on altıya sekiz noktalık kafeslere hapsedilmiş desenlerdi. Bugün dünyânın her yerinde tanınan o piksel silüetler, bir sanat yönetmeninin eskiz defterinden değil, bir mühendisin kareli kâğıdından çıktı.
+
+Oyunun ilk adı Uzay Canavarları anlamına gelen bir isimdi; şirket yönetimi bunu değiştirtti ve bugün bildiğimiz ad ortaya çıktı: Space Invaders. Ekrana beş sıra hâlinde, her sırada on bir tâne olmak üzere elli beş yaratık dizildi. Altta oyuncunun yanlamasına kayan topu, onun önünde de mermiler değdikçe aşınan, delik deşik olan dört siper vardı. Kurallar sayfalar tutmuyordu: Onlar iner, sen ateş edersin. Onlar dibe ulaşırsa biter.
+
+[MOOD: gerilim]
+
+İşte tam burada, kâğıt üzerinde kusursuz görünen tasarımın içinde, hiçbir tasarım toplantısında konuşulmamış bir şey belirdi.
+
+Nişikado'nun elindeki işlemcinin, oyunun kullandığı ekranı çizmek için özel bir yardımcı devresi yoktu. Bugünün donanımları bir görüntüyü ekrana yerleştirmeyi neredeyse bedâva hâle getirir; o düzenekte böyle bir şey yoktu. elli beş yaratığın her biri, her karede, nokta nokta, işlemcinin kendisi tarafından siliniyor ve yeniden çiziliyordu. Bunun anlamı basitti: Ekranda ne kadar çok uzaylı varsa, işlemcinin yükü o kadar ağırdı.
+
+Oyun başladığında elli beş hedef birden vardı ve o kalabalık, işlemciyi dizlerinin üstüne çöktürüyordu. Yaratıklar ağır ağır, hantal biçimde yana kayıyordu. Ama oyuncu ateş etmeye başlayıp sıralar seyreldikçe, işlemcinin sırtındaki yük hafifliyordu. Aynı kod, aynı makine, aynı ayarlar; sâdece daha az iş. Ve daha az iş, daha hızlı bir kare demekti. Uzaylılar hızlanıyordu.
+
+Bu, kelimenin tam anlamıyla bir kusurdu. Oyunun temposu, tasarımcının verdiği bir karâra değil, donanımın o anki nefes darlığına bağlıydı. Herhangi bir mühendisin ilk tepkisi bunu düzeltmek olurdu: Hızı sâbitle, tempoyu kontrol altına al, makinenin yorgunluğunun oyuna sızmasına izin verme. Nişikado da önce bunu bir sorun olarak gördü.
+
+Sonra oynadı.
+
+Ve fark etti ki oyun, hatâsıyla birlikte daha iyiydi. Çünkü o hızlanma, bir aksaklık gibi değil, bir tehdit gibi hissettiriyordu. Düşman sanki hırslanıyor, sanki köşeye sıkıştıkça saldırganlaşıyordu. Oyuncu kazandıkça oyun kolaylaşmıyor, tam tersine zorlaşıyordu; başarının ödülü daha büyük bir baskıydı. En sondaki tek uzaylı, ekranın bir ucundan diğerine, gözle tâkip edilmesi zor bir hızla süzülüyor ve o son atış, tüm turun en gergin ânına dönüşüyordu. Nişikado hatâyı düzeltmedi. Onu oyunun kalbi yaptı.
+
+Aynı hızlanma, oyunun sesine de bulaştı. Space Invaders'ın ses tarafında dört notalık, aşağı doğru inen, son derece basit bir döngü vardı; bir melodiden çok bir ayak sesiydi. O döngü de uzaylıların temposuna bağlıydı. Oyun başlarken ağır ağır giden o dört nota, sıralar eridikçe hızlanıyor, sonlara doğru bir yürüyüş marşından çıkıp panikleyen bir nabza dönüşüyordu. Oyuncu ekrana bakmadan bile ne kadar zor durumda olduğunu duyabiliyordu. Bir video oyununun, oyuncunun beden ritmini böyle doğrudan hedef aldığı ilk anlardan biriydi bu ve kimse bunu bir ses tasarımı toplantısında planlamamıştı. Ortaya çıkardığı gerilim, işlemcinin yetersizliğinin yan ürünüydü.
+
+Görüntü de aynı el yordamıyla kurulmuştu. Ekran siyah beyazdı; renk üretecek bir donanım yoktu. Çözüm neredeyse çocukça bir hîleydi: Cam tüpün üzerine renkli şeffaf jelatin şeritler yapıştırıldı. Üst tarafa turuncu, alt tarafa yeşil. Uzaylılar o şeritlerin önünden geçtiklerinde renk değiştirmiş gibi görünüyordu; oyuncunun topu ve siperleri ise yeşil bir zemînde duruyordu. Renk, oyunun içinde değil, camın üstündeydi.
+
+Bir de o güne kadar salonlarda pek görülmemiş bir ayrıntı vardı: Ekranın üstünde, o makinede kaydedilmiş en yüksek puan duruyordu. Kimin yaptığı yazmıyordu, isim girilmiyordu; sâdece bir sayı. Ama o sayı, oyunu tek kişilik bir uğraş olmaktan çıkarıp mahalledeki herkesin dâhil olduğu sessiz bir yarışa çeviriyordu. Makinenin başına oturan çocuk artık uzaylılara karşı değil, o makineyi ondan önce oynamış tanımadığı birine karşı oynuyordu.
+
+[MOOD: cosku]
+
+Oyun bin dokuz yüz yetmiş sekiz yılının temmuz ayında Japonya'da piyasaya çıktı ve olan biteni ne Taito ne de Nişikado öngörebilmişti.
+
+Makineler önce eğlence salonlarına, sonra kahvehânelere girdi. Masa biçimli dolaplar özellikle etkiliydi: Üstü cam bir kafe masası, altında ekran. İnsanlar kahvelerini fincanı ekranın kenarına koyup içiyordu. Talep o kadar hızlı büyüdü ki Japonya'da sıradan dükkânlar raflarını boşaltıp içeriye sıra sıra makine dizmeye başladı; sokaklara, kapıdan taşan o dört notalık yürüyüş sesi yayıldı. Yılın sonuna gelindiğinde Japonya'da kurulu makine sayısı yüz bini geçmişti. bin dokuz yüz yetmiş dokuz bittiğinde dünyâ genelindeki rakam yedi yüz elli bine yaklaşıyordu ve bunun yaklaşık dört yüz bini Japonya'daydı.
+
+İşte bu curcunanın içinde, oyun târihinin en meşhur hikâyesi doğdu: Space Invaders'ın Japonya'da yüz yenlik bozuk paraları tükettiği, ülkenin mâdenî para kıtlığına düştüğü, darphânenin üretimi katlamak zorunda kaldığı anlatısı. Hikâye kusursuz biçimde çekici olduğu için onlarca yıl boyunca kitaptan kitaba, yazıdan yazıya atlayarak yaşadı.
+
+Ne var ki darphâne kayıtları bu anlatıyı doğrulamıyor. bin dokuz yüz yetmiş sekizde basılan yüz yenlik sayısı yaklaşık iki yüz doksan iki milyondu ve bu rakam, hem kendisinden önceki hem de sonraki yılların üretiminin altında kalıyordu. Yâni oyunun zirve yaptığı dönemde mâdenî para basımında bir patlama olmadı. Dönemin bâzı bölgelerinde bozuk para sıkıntısı yaşandığı doğru, ama bunun arkasında oyun salonları değil, paranın alaşımında yapılan değişiklikle bağlantılı düşük üretim gibi çok daha sıkıcı sebepler vardı. Efsânenin yayılmasında, oyunun popülerliğini abartmakta çıkarı olan tanıtım dilinin de payı olduğu düşünülüyor. Kısacası: yüz yenlikler tükenmedi. Ama insanların buna inanmaya bu kadar hevesli olması, oyunun kültürel ağırlığı hakkında belki de gerçek bir kıtlıktan daha çok şey söylüyor.
+
+Gerçek olan başka bir tepki daha vardı ve o hiç eğlenceli değildi. bin dokuz yüz yetmiş dokuza gelindiğinde Japon basınında oyunun gençliği bozduğuna dâir haberler çoğaldı; okulu asan, harçlığını makinelere yatıran, para bulmak için hırsızlığa karışan çocukların hikâyeleri manşetlere taşındı. Mainiçi gazetesinin İngilizce baskısı gibi yayınlarda çıkan bu haberler, yeni bir eğlence biçiminin karşısına dikilen ahlâkî paniğin ilk büyük örneklerindendi. Video oyunlarının bugün hâlâ karşılaştığı o tartışma kalıbı, tam da bu makinelerin başında şekillendi.
+
+Oyun aynı yılın kasım ayında Amerika'ya, Midway'in dağıtımıyla girdi ve orada da benzer bir eğri izledi; ilk yılında Birleşik Devletler'de altmış bin makine kuruldu. Toplam tablo bugünden bakınca bile şaşırtıcı: bin dokuz yüz seksen ikiye gelindiğinde oyunun toplam hâsılâtı üç virgül sekiz milyar dolara ulaşmıştı.
+
+Ama asıl kırılma on Mart bin dokuz yüz seksende yaşandı. Atari, oyunu kendi ev konsolu Atari iki bin altı yüz için lisansladı. Bu, bir salon oyununun eve resmen taşındığı ilk büyük örnekti ve etkisi hesaplanandan çok daha büyük oldu. İnsanlar oyunu oynamak için konsol satın aldı; donanım, oyunun peşine takıldı. Kartuş bin dokuz yüz seksen bir sonuna kadar dört virgül iki milyonu, bin dokuz yüz seksen üçe gelindiğinde altı virgül bir milyona yakın adedi buldu. Bir tek oyunun bir donanımı sırtlayıp taşıyabileceği fikri, yâni bugün hâlâ bütün sektörün üzerine kurulduğu o mantık, ilk kez burada kanıtlandı.
+
+Geride bıraktığı iz, satış rakamlarından daha kalıcı oldu. Japonya'da bir süre boyunca bu tarz oyunların tümüne kısaca "istilâcı oyunları" dendi; tür, doğduğu eserin adıyla anıldı. Ekranın altında sâbit duran bir nişancı, yukarıdan gelen düzenli bir tehdit ve giderek artan bir tempo formülü, ardından gelen sayısız oyunun omurgası oldu; salonların altın çağı denen dönemin kapısını bu makineler araladı. Londra'da yayımlanan gazete The Times, iki bin yedide hazırladığı bir listede oyunu şimdiye kadarki en etkili video oyunu olarak andı; iki bin on altıda ise Dünya Video Oyunları Şöhret Salonu'na alındı.
+
+Ve bugün, o üç piksel yaratıktan biri, oyun oynamayı hiç sevmeyen birinin bile baktığında anlamını çözebildiği evrensel bir işâret. Tîşörtlerde, duvarlarda, sokak sanatında, ekranın ne olduğunu anlatmak isteyen her yerde karşımıza çıkıyor.
+
+Bütün bunların merkezinde ise şu duruyor: Oyunu unutulmaz kılan asıl duygu, yâni düşmanın üzerinize hızlanarak gelmesi, kimsenin tasarladığı bir şey değildi. Yeterince güçlü olmayan bir işlemcinin, yükü hafifledikçe hızlanmasıydı. Nişikado'nun dehâsı o hatâyı yapmakta değil, onu gördüğünde düzeltmemekte, bir yetersizliğin oyuna kattığı şeyi tanıyabilmekteydi. İstilâ, bir mühendislik zaferinden değil, bir mühendislik sınırından doğdu.
+
+[MOOD: sakin]
+Nöron Oyun'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.
+
+[JINGLE] jingle/haberjingle.mp3
