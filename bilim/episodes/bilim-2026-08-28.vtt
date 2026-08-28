@@ -1,0 +1,729 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.410
+Bir sokak lambasının altında sarhoş bir adam düşünün: her adımda hangi yöne gideceğine yazı tura atarak karâr veriyor, sonsuza kadar.
+
+2
+00:00:09.410 --> 00:00:16.100
+Matematik diyor ki bu adam er ya da geç lambanın dibine geri dönecek — hem de kesinlikle.
+
+3
+00:00:16.100 --> 00:00:24.870
+Ama aynı oyunu havada, üç boyutta oynayan bir kuşun geri dönme şansı yalnızca üçte bir; gerisi sonsuza kadar uzaklaşmak.
+
+4
+00:00:33.070 --> 00:00:37.200
+Gece yarısını çoktan geçmiş bir sokak düşünün.
+
+5
+00:00:37.200 --> 00:00:46.130
+Tek bir sokak lambası yanıyor, ışığı ıslak asfaltın üzerine sarı bir dâire çiziyor ve o dâirenin tam ortasında bir adam duruyor.
+
+6
+00:00:46.130 --> 00:00:50.420
+Adamın evi bu sokakta, hattâ belki yüz adım ötede.
+
+7
+00:00:50.420 --> 00:00:54.550
+Ama adamın bir sorunu var: hangi yöne gideceğini seçemiyor.
+
+8
+00:00:54.550 --> 00:01:03.960
+Attığı her adımda cebinden bir mâdenî para çıkarıyor, havaya atıyor, yazı gelirse bir adım sağa, tura gelirse bir adım sola gidiyor.
+
+9
+00:01:03.960 --> 00:01:05.850
+Sonra tekrâr.
+
+10
+00:01:05.850 --> 00:01:08.380
+Sonra tekrâr.
+
+11
+00:01:08.380 --> 00:01:11.870
+Ne bir hedefi var, ne bir hâfızası.
+
+12
+00:01:11.870 --> 00:01:17.280
+Az önce nereden geldiğini hatırlamıyor, bir sonraki adımın nereye düşeceğini bilmiyor.
+
+13
+00:01:17.280 --> 00:01:24.450
+Matematikçiler bu yürüyüşe rastgele yürüyüş diyorlar ve bu, ilk bakışta sanıldığından çok daha ciddî bir konu.
+
+14
+00:01:24.450 --> 00:01:27.940
+Çünkü o sarhoş adam aslında bir metafor.
+
+15
+00:01:27.940 --> 00:01:33.670
+Bir su bardağının içindeki mürekkep damlasının her bir molekülü tam olarak böyle yürüyor.
+
+16
+00:01:33.670 --> 00:01:38.760
+Bir hücrenin sitoplazmasında amacını arayan bir protein böyle yürüyor.
+
+17
+00:01:38.760 --> 00:01:43.370
+Bir hisse senedinin fiyatı, kaba bir yaklaşımla, böyle yürüyor.
+
+18
+00:01:43.370 --> 00:01:48.300
+Doğa, yön duygusu olmayan bu yürüyüşü şaşırtıcı biçimde çok seviyor.
+
+19
+00:01:48.300 --> 00:01:50.510
+Şimdi ilk soruyu soralım.
+
+20
+00:01:50.510 --> 00:01:56.080
+Adam yeterince uzun süre yürürse başlangıç noktasından ne kadar uzaklaşır?
+
+21
+00:01:56.080 --> 00:02:03.890
+Sezgi genellikle şunu fısıldar: hiç uzaklaşmaz, çünkü sağa gittiği kadar sola da gidecektir, hepsi birbirini götürür.
+
+22
+00:02:03.890 --> 00:02:06.580
+Sezgi burada yarı yarıya haklı.
+
+23
+00:02:06.580 --> 00:02:10.710
+Ortalama konumu gerçekten de başladığı yerdir, evet.
+
+24
+00:02:10.710 --> 00:02:21.560
+Ama ortalama konum aldatıcı bir ölçüdür, çünkü sağa 50 adım gitmiş bir yürüyüşle sola 50 adım gitmiş bir yürüyüşün ortalaması sıfırdır ve bu sıfır,
+
+25
+00:02:21.560 --> 00:02:26.810
+iki yürüyüşün de kimseyi başlangıç noktasında bulamayacağı gerçeğini örter.
+
+26
+00:02:26.810 --> 00:02:33.340
+Doğru soru şu: adam ortalama olarak evinden ne kadar uzakta olur, yönü hiç umursamadan?
+
+27
+00:02:33.340 --> 00:02:36.190
+Cevâp şaşırtıcı derecede zarif.
+
+28
+00:02:36.190 --> 00:02:39.040
+Attığı adım sayısının karekökü kadar.
+
+29
+00:02:39.040 --> 00:02:43.010
+100 adım atarsa tipik olarak 10 adım uzakta olur.
+
+30
+00:02:43.010 --> 00:02:46.180
+10 bin adım atarsa 100 adım uzakta.
+
+31
+00:02:46.180 --> 00:02:49.990
+Yâni uzaklaşır, ama tembelce uzaklaşır.
+
+32
+00:02:49.990 --> 00:02:55.240
+Mesâfeyi 10 katına çıkarmak için adım sayısını 100 katına çıkarmanız gerekir.
+
+33
+00:02:55.240 --> 00:02:58.730
+Rastgelelik ilerler, ama sürünerek ilerler.
+
+34
+00:02:58.730 --> 00:03:06.060
+Bu problemin bilim târihine resmî girişi, 1905 yılında, hiç beklenmeyecek bir yerden oldu.
+
+35
+00:03:06.060 --> 00:03:13.230
+İngiliz istatistikçi Karl Pearson, bilim dergisi Nature'a, yâni Doğa dergisine kısa bir mektûp yazdı.
+
+36
+00:03:13.230 --> 00:03:26.960
+Mektûpta neredeyse bir yardım çağrısı vardı: bir varlık bir noktadan yola çıkıp rastgele bir yöne belli bir mesâfe gitse, sonra durup yine rastgele bir yöne dönüp aynı mesâfeyi gitse ve bunu defâlarca tekrârlasa,
+
+37
+00:03:26.960 --> 00:03:32.210
+belli bir süre sonra başlangıçtan şu kadar uzakta bulunma olasılığı nedir?
+
+38
+00:03:32.210 --> 00:03:43.540
+Pearson bunu soyut bir eğlence olsun diye sormuyordu; canlı türlerinin bir bölgeye nasıl yayıldığını, örneğin sivrisineklerin bir arâziye nasıl dağıldığını modellemeye çalışıyordu.
+
+39
+00:03:43.540 --> 00:03:46.230
+Cevâp bir hafta bile beklemedi.
+
+40
+00:03:46.230 --> 00:03:56.280
+Lord Rayleigh dergiye kısa bir not gönderdi ve nâzikçe, bu problemi kendisinin 25 yıl önce tamâmen başka bir bağlamda çözdüğünü hatırlattı.
+
+41
+00:03:56.280 --> 00:04:04.250
+Rayleigh, rastgele fazlara sâhip çok sayıda ses dalgasının üst üste binmesini incelerken aynı matematiği kurmuştu.
+
+42
+00:04:04.250 --> 00:04:11.900
+Yâni doğa aynı deseni bir kez sivrisineklerde, bir kez ses dalgalarında kullanıyordu ve kimse fark etmemişti.
+
+43
+00:04:11.900 --> 00:04:15.710
+Pearson bunun üzerine, o meşhur cümleyi kurdu.
+
+44
+00:04:15.710 --> 00:04:27.680
+Rayleigh'in çözümünün asıl dersi şuydu diye yazdı: açık arâzide, ayakta durmayı hâlâ becerebilen sarhoş bir adamı aramanız gereken en olası yer, onu bıraktığınız yerin yakınlarıdır.
+
+45
+00:04:27.680 --> 00:04:29.890
+Aramaya oradan başlayın.
+
+46
+00:04:29.890 --> 00:04:33.700
+İşte sarhoş adam bilim literatürüne böyle girdi.
+
+47
+00:04:33.700 --> 00:04:37.190
+Ama Pearson'ın sorduğu soru hâlâ eksikti.
+
+48
+00:04:37.190 --> 00:04:40.040
+O soru "nerededir" sorusuydu.
+
+49
+00:04:40.040 --> 00:04:46.890
+Asıl derin soru daha sorulmamıştı: bu adam, sonsuza kadar yürümeye devâm etse, hiç eve döner mi?
+
+50
+00:04:46.890 --> 00:04:52.140
+Sâdece bir kez, tek bir kez, o sokak lambasının altına geri basar mı?
+
+51
+00:04:52.140 --> 00:04:56.270
+Bu soruyu soran adam, Macar matematikçi George Pólya oldu.
+
+52
+00:04:56.270 --> 00:05:02.320
+Ve Pólya'nın kendi anlattığına göre soru ona bir masa başında değil, bir ormanda geldi.
+
+53
+00:05:02.320 --> 00:05:06.290
+Pólya o sırada Zürih yakınlarında bir otelde kalıyordu.
+
+54
+00:05:06.290 --> 00:05:10.900
+Öğleden sonraları oteli çevreleyen ormanda yürüyüşe çıkıyordu.
+
+55
+00:05:10.900 --> 00:05:14.550
+O ormanda nişanlı bir çift de yürüyordu.
+
+56
+00:05:14.550 --> 00:05:20.920
+Ve Pólya, patika patika, dönemeç dönemeç, o çiftle tekrâr tekrâr karşılaştı.
+
+57
+00:05:20.920 --> 00:05:24.410
+Bir kez, iki kez, üç kez.
+
+58
+00:05:24.410 --> 00:05:31.420
+Bir noktada gerçekten utandı; çiftin, kendisinin onları kasten tâkip ettiğini düşünmesinden korktu.
+
+59
+00:05:31.420 --> 00:05:34.590
+Sonra matematikçi refleksi devreye girdi.
+
+60
+00:05:34.590 --> 00:05:43.520
+Otelden aynı anda çıkan, birbirinden bağımsız hareket eden iki yürüyüşçünün bu kadar sık karşılaşması gerçekten ne kadar olasıydı?
+
+61
+00:05:43.520 --> 00:05:50.690
+Onları rastgele yürüyen iki nokta gibi düşünürsek, bu tesâdüfler beklenmedik miydi, yoksa kaçınılmaz mıydı?
+
+62
+00:05:50.690 --> 00:06:00.900
+1921'de yayımlanan makâlesinde Pólya bu soruyu son derece keskin bir biçime soktu ve cevâbı, matematiğin en güzel sonuçlarından biri oldu.
+
+63
+00:06:00.900 --> 00:06:04.550
+Cevâbın kalbinde tek bir kelime var: boyut.
+
+64
+00:06:04.550 --> 00:06:08.040
+Önce en basit durum, yâni tek boyut.
+
+65
+00:06:08.040 --> 00:06:12.810
+Sarhoş adamımız sâdece bir sokak boyunca, ileri geri gidiyor.
+
+66
+00:06:12.810 --> 00:06:17.100
+Pólya'nın gösterdiği şey şu: bu adam kesinlikle eve döner.
+
+67
+00:06:17.100 --> 00:06:23.630
+Olasılık yüzde 99 değil, yüzde 99,99 değil, tam olarak 1.
+
+68
+00:06:23.630 --> 00:06:26.320
+Yâni matematiksel kesinlik.
+
+69
+00:06:26.320 --> 00:06:29.170
+Üstelik iş bununla da bitmiyor.
+
+70
+00:06:29.170 --> 00:06:32.820
+Döndükten sonra yürümeye devâm ederse yine döner.
+
+71
+00:06:32.820 --> 00:06:34.230
+Ve yine.
+
+72
+00:06:34.230 --> 00:06:36.120
+Sonsuz kere döner.
+
+73
+00:06:36.120 --> 00:06:41.370
+O adam, o sokak lambasının altına sonsuz sayıda kez basacaktır.
+
+74
+00:06:41.370 --> 00:06:47.420
+Nedeni, adımların sayısıyla olasılıkların nasıl eridiği arasındaki ince bir yarışta gizli.
+
+75
+00:06:47.420 --> 00:06:53.790
+Bir yürüyüşün eve dönüp dönmediğini anlamanın zekice bir yolu var: kaç kez döndüğünü saymak.
+
+76
+00:06:53.790 --> 00:07:01.760
+Yürüyüşün her bir ânı için "tam bu anda evde olma olasılığı" diye bir sayı yazın ve bu sayıların hepsini toplayın.
+
+77
+00:07:01.760 --> 00:07:06.210
+Bu toplam, yürüyüş boyunca beklenen ziyâret sayısını verir.
+
+78
+00:07:06.210 --> 00:07:13.380
+Eğer bu toplam sonsuza gidiyorsa, yürüyüş eve sonsuz kez uğruyor demektir; dolayısıyla dönüş kesindir.
+
+79
+00:07:13.380 --> 00:07:20.710
+Eğer toplam sonlu bir sayıda duruyorsa, yürüyüş eve ancak birkaç kez uğrar ve sonra sonsuza dek kaybolur.
+
+80
+00:07:20.710 --> 00:07:23.240
+Şimdi o olasılıklara bakalım.
+
+81
+00:07:23.240 --> 00:07:32.970
+Tek boyutta, çok sayıda adım attıktan sonra tam başlangıç noktasında bulunma olasılığı kabaca adım sayısının kareköküyle ters orantılıdır.
+
+82
+00:07:32.970 --> 00:07:37.420
+Bu sayılar küçülür, evet, ama yeterince yavaş küçülürler.
+
+83
+00:07:37.420 --> 00:07:40.430
+Toplandıklarında toplam sonsuza gider.
+
+84
+00:07:40.430 --> 00:07:42.000
+Adam döner.
+
+85
+00:07:42.000 --> 00:07:43.890
+İki boyuta geçelim.
+
+86
+00:07:43.890 --> 00:07:48.660
+Artık adam bir sokakta değil, sonsuz büyüklükte bir şehir ızgarasında.
+
+87
+00:07:48.660 --> 00:07:53.750
+Her köşede dört seçeneği var: kuzey, güney, doğu, batı.
+
+88
+00:07:53.750 --> 00:07:55.960
+Sezgi burada isyân eder.
+
+89
+00:07:55.960 --> 00:08:00.570
+Dört yön var, kaybolma ihtimâli çok daha yüksek görünüyor.
+
+90
+00:08:00.570 --> 00:08:03.100
+Ama Pólya'nın sonucu değişmez.
+
+91
+00:08:03.100 --> 00:08:06.910
+İki boyutta da dönüş olasılığı tam olarak 1'dir.
+
+92
+00:08:06.910 --> 00:08:12.480
+Şehir sonsuz büyük olsa bile o adam evini bulur, hem de sonsuz kere bulur.
+
+93
+00:08:12.480 --> 00:08:15.010
+Buradaki hesâp kıl payı geçer.
+
+94
+00:08:15.010 --> 00:08:22.500
+İki boyutta, çok sayıda adım sonra başlangıç noktasında bulunma olasılığı, adım sayısıyla ters orantılıdır.
+
+95
+00:08:22.500 --> 00:08:26.150
+Bu sayılar tek boyuttakinden çok daha hızlı erir.
+
+96
+00:08:26.150 --> 00:08:30.440
+Ama yine de, tam sınırda, toplamları sonsuza gider.
+
+97
+00:08:30.440 --> 00:08:40.170
+Matematikte bu, ünlü harmonik toplamın ıraksaması dediğimiz durumdur ve iki boyutlu yürüyüş, sâdece ve sâdece bu ıraksama sâyesinde kurtulur.
+
+98
+00:08:40.170 --> 00:08:46.860
+Ama bu kesinliğin çok acımasız bir bedeli var, çünkü kesinlik hızla ilgili hiçbir şey söylemez.
+
+99
+00:08:46.860 --> 00:08:53.710
+İki boyutta adamın eve dönmesi kesindir, fakat eve dönmesi için beklenen adım sayısı sonsuzdur.
+
+100
+00:08:53.710 --> 00:08:59.120
+Bir düşünün: kesinlikle olacak bir olayın beklenen bekleme süresi sonsuz.
+
+101
+00:08:59.120 --> 00:09:01.010
+Bu bir çelişki değil.
+
+102
+00:09:01.010 --> 00:09:13.940
+Şu demek: adam neredeyse her seferinde mâkul bir sürede döner, ama arada bir öyle uzun, öyle uzak, öyle geniş dolaşmalar yaşanır ki bunlar ortalamayı tek başlarına havaya uçurur.
+
+103
+00:09:13.940 --> 00:09:17.910
+Ona söz verebilirsiniz, döneceksin diyebilirsiniz.
+
+104
+00:09:17.910 --> 00:09:20.760
+Ne zamân döneceğini söyleyemezsiniz.
+
+105
+00:09:20.760 --> 00:09:23.770
+Ve sonra üçüncü boyut geliyor.
+
+106
+00:09:23.770 --> 00:09:29.500
+Yerçekimini kaldırın, adamı havaya bırakın; artık yukarı ve aşağı da seçenek.
+
+107
+00:09:29.500 --> 00:09:30.910
+Altı yön.
+
+108
+00:09:30.910 --> 00:09:33.760
+Yürüyüş bir kuşun uçuşuna dönüşüyor.
+
+109
+00:09:33.760 --> 00:09:35.330
+Ve büyü bozuluyor.
+
+110
+00:09:35.330 --> 00:09:44.260
+Üç boyutta, çok sayıda adım sonra başlangıç noktasında bulunma olasılığı, adım sayısının karekökünün küpüyle ters orantılı olarak erir.
+
+111
+00:09:44.260 --> 00:09:47.430
+Bu, artık kritik eşiğin öbür tarafıdır.
+
+112
+00:09:47.430 --> 00:09:53.640
+Bu sayılar toplandığında toplam sonsuza gitmez; sonlu bir sayıya yakınsar.
+
+113
+00:09:53.640 --> 00:10:02.410
+Yâni üç boyutlu yürüyüş, yuvasını ancak sonlu sayıda kez ziyâret eder ve ondan sonra bir daha aslâ dönmemek üzere uzaklaşır.
+
+114
+00:10:02.410 --> 00:10:12.940
+Sayı da bellidir ve matematikte kendi adıyla anılır: üç boyutlu bir rastgele yürüyüşün başlangıç noktasına en az bir kez geri dönme olasılığı yaklaşık yüzde 34'tür.
+
+115
+00:10:12.940 --> 00:10:17.070
+Daha kesin söylersek yüzde 34,05.
+
+116
+00:10:17.070 --> 00:10:24.560
+Yâni yolculuğuna başlayan bir kuşun yüzde 66'lık ezici çoğunluğu, o noktayı bir daha hayâtı boyunca görmez.
+
+117
+00:10:24.560 --> 00:10:32.370
+Bu sayının kapalı bir formülle, gama fonksiyonları cinsinden yazılabildiği ancak 1970'lerde gösterildi;
+
+118
+00:10:32.370 --> 00:10:40.820
+sayının kendisi ise bir buçuk asra yaklaşan bir süredir fizikçilerin kristal örgülerdeki hesâplarında karşılarına çıkıyordu.
+
+119
+00:10:40.820 --> 00:10:43.990
+Boyut arttıkça durum daha da acımasızlaşır.
+
+120
+00:10:43.990 --> 00:10:54.200
+4 boyutta dönüş olasılığı yüzde 19'a, 8 boyutta yüzde 7'ye iner ve boyut büyüdükçe kabaca boyutun iki katının tersine yaklaşır.
+
+121
+00:10:54.200 --> 00:10:58.970
+Yâni sonsuz boyutlu bir evrende hiçbir şey hiçbir yere geri dönmez.
+
+122
+00:10:58.970 --> 00:11:12.220
+Bütün bu sonuç, yıllar sonra Japon asıllı matematikçi Shizuo Kakutani'nin tek bir cümlesinde damıtıldı; bugün olasılık kitaplarının en çok tekrarlanan cümlesi olmuştur: sarhoş bir adam eve dönme yolunu bulur,
+
+123
+00:11:12.220 --> 00:11:15.710
+ama sarhoş bir kuş sonsuza dek kaybolabilir.
+
+124
+00:11:15.710 --> 00:11:19.680
+Bu, kulağa hoş bir matematik fıkrası gibi gelebilir.
+
+125
+00:11:19.680 --> 00:11:20.770
+Değil.
+
+126
+00:11:20.770 --> 00:11:27.780
+Bu, içinde yaşadığımız evrenin bir tasarım kısıtı ve doğa milyarlarca yıldır bu kısıtla pazarlık ediyor.
+
+127
+00:11:27.780 --> 00:11:30.790
+Çünkü moleküller de sarhoş kuşlardır.
+
+128
+00:11:30.790 --> 00:11:44.520
+Einstein'ın 1905'te ortaya koyduğu ve Jean Perrin'in birkaç yıl sonra mikroskop altında tek tek parçacıkların zikzaklarını ölçerek doğruladığı şey tam olarak buydu: bir sıvıdaki asılı parçacık,
+
+129
+00:11:44.520 --> 00:11:52.170
+çevresindeki moleküllerin çarpmalarıyla rastgele yürür ve kat ettiği tipik mesâfe, geçen sürenin kareköküyle büyür.
+
+130
+00:11:52.170 --> 00:11:56.620
+Perrin bu ölçümlerle atomların gerçekliğini tartışmaya kapattı.
+
+131
+00:11:56.620 --> 00:12:02.030
+Ama aynı ölçüm, sessizce, çok daha rahatsız edici bir şeyi de söylüyordu.
+
+132
+00:12:02.030 --> 00:12:08.720
+Üç boyutlu bir sıvıda salıverilen bir molekül, bıraktığınız noktaya büyük olasılıkla bir daha uğramaz.
+
+133
+00:12:08.720 --> 00:12:10.770
+Uzayda kaybolur.
+
+134
+00:12:10.770 --> 00:12:14.420
+Şimdi bunun bir hücre için ne anlama geldiğini düşünün.
+
+135
+00:12:14.420 --> 00:12:19.030
+Hücrenin içinde, birbirini bulmak zorunda olan iki molekül var.
+
+136
+00:12:19.030 --> 00:12:22.680
+İkisi de sarhoş, ikisi de üç boyutta yürüyor.
+
+137
+00:12:22.680 --> 00:12:26.010
+Kaybolmaları kural, buluşmaları istisnâ.
+
+138
+00:12:26.010 --> 00:12:38.460
+Kimyânın diliyle söylersek, üç boyutlu difüzyonla kontrol edilen bir tepkimenin hızının bir üst sınırı vardır ve bu sınır, hayâtın bâzı işleri yapması için fazlasıyla yavaştır.
+
+139
+00:12:38.460 --> 00:12:47.070
+Doğanın buna verdiği cevâp, bu bölümün en güzel fikri: eğer üç boyut çok cömert bir kaçış imkânı sunuyorsa, boyutu düşür.
+
+140
+00:12:47.070 --> 00:12:56.480
+1968'de Manfred Eigen'in çevresinde şekillenen tartışmalara Gerald Adam ve Max Delbrück çarpıcı bir öneriyle katıldı.
+
+141
+00:12:56.480 --> 00:12:59.970
+Hücre zarı, iki boyutlu bir yüzeydir.
+
+142
+00:12:59.970 --> 00:13:06.500
+Bir molekül zarın üzerine tutunduğu anda, artık üç boyutta değil iki boyutta yürümeye başlar.
+
+143
+00:13:06.500 --> 00:13:13.670
+Ve Pólya'nın teoremi tam burada devreye girer: iki boyutta arama artık kaçışa değil, kesinliğe mahkûmdur.
+
+144
+00:13:13.670 --> 00:13:19.240
+Hücre, hedefini bulma olasılığını artırmak için arama uzayının boyutunu düşürür.
+
+145
+00:13:19.240 --> 00:13:21.450
+Buna boyut indirgeme dendi.
+
+146
+00:13:21.450 --> 00:13:26.380
+Aynı hîle, hücrenin en kritik işlerinden birinde daha karşımıza çıkıyor.
+
+147
+00:13:26.380 --> 00:13:33.710
+Bir düzenleyici protein, milyonlarca harflik bir DNA zincirinin içindeki tek bir kısa diziyi bulmak zorunda.
+
+148
+00:13:33.710 --> 00:13:44.400
+1970'te yapılan ölçümler, bakterilerdeki bir düzenleyici proteinin hedefini, saf üç boyutlu difüzyonun izin verdiğinden çok daha hızlı bulduğunu gösterdi.
+
+149
+00:13:44.400 --> 00:13:48.370
+Bu, âdeta fizik yasasının delinmesi gibi görünüyordu.
+
+150
+00:13:48.370 --> 00:13:53.300
+Sonraki on yılda çözüldü: protein sâdece üç boyutta yüzmüyordu.
+
+151
+00:13:53.300 --> 00:14:05.110
+DNA'ya rastgele bir yerinden tutunuyor, sonra iplik boyunca bir boyutlu olarak kayıyor, kısa bir mesâfe tarıyor, kopuyor, tekrâr üç boyutta zıplayıp başka bir yerden tutunuyordu.
+
+152
+00:14:05.110 --> 00:14:11.320
+Bir boyutlu tarama ile üç boyutlu sıçramanın bu karışımına kolaylaştırılmış difüzyon adı verildi.
+
+153
+00:14:11.320 --> 00:14:18.170
+Doğa, boyutlar arasında gidip gelerek hem tek boyutun titizliğini hem üç boyutun hızını satın alıyordu.
+
+154
+00:14:18.170 --> 00:14:20.220
+Peki ya gerçek kuşlar?
+
+155
+00:14:20.220 --> 00:14:23.230
+Gerçek hayvanlar rastgele yürüyor mu?
+
+156
+00:14:23.230 --> 00:14:27.200
+Tam olarak değil, ve bu da hikâyenin öbür yarısı.
+
+157
+00:14:27.200 --> 00:14:38.370
+Bir bakteri, örneğin bağırsak bakterisi, kamçılarını çevirerek yaklaşık bir sâniye düz gider, sonra kısa bir an takla atıp yönünü tamâmen rastgele değiştirir.
+
+158
+00:14:38.370 --> 00:14:40.740
+Saf bir rastgele yürüyüş.
+
+159
+00:14:40.740 --> 00:14:48.230
+Ama besin derişiminin arttığı yöne doğru giderken düz gitme süresini biraz uzatır, kötü yönde biraz kısaltır.
+
+160
+00:14:48.230 --> 00:14:55.560
+Tek başına küçücük bir müdâhale; sonucu ise, tamâmen kör bir hücrenin gıdâyı sistematik biçimde bulması.
+
+161
+00:14:55.560 --> 00:15:00.490
+Yâni doğa rastgeleliği yok etmiyor, ona hafif bir yanlılık ekliyor.
+
+162
+00:15:00.490 --> 00:15:06.220
+Kaybolmanın matematiğini bulmanın matematiğine çeviren şey, o küçücük yanlılıktır.
+
+163
+00:15:06.220 --> 00:15:09.230
+Buna bir de bellek ve duyu eklenir.
+
+164
+00:15:09.230 --> 00:15:19.280
+Bir arı yuvasının yönünü güneşe göre hesaplar, bir güvercin manyetik ve görsel ipuçlarını birleştirir, bir albatros rüzgârı ve koku izlerini okur.
+
+165
+00:15:19.280 --> 00:15:24.210
+Bunların hepsi, açık denizde sarhoş kuş olmayı reddetmenin yollarıdır.
+
+166
+00:15:24.210 --> 00:15:31.220
+Nitekim hayvanların arama desenlerinin ne kadar rastgele olduğu, biyolojinin hâlâ tartıştığı bir konudur.
+
+167
+00:15:31.220 --> 00:15:43.190
+1990'ların ortasında albatrosların, ara sıra çok uzun sıçramalar içeren özel bir rastgele desenle beslendiği öne sürülmüş, bu iddiâ yıllarca yaygın biçimde alıntılanmıştı.
+
+168
+00:15:43.190 --> 00:15:54.520
+2000'lerin sonunda aynı veriler yeniden incelendiğinde, uzun sıçramalar sanılan kayıtların bir bölümünün kuşun yuvada geçirdiği süreden kaynaklanan bir ölçüm yanılsaması olduğu görüldü.
+
+169
+00:15:54.520 --> 00:15:56.570
+Sonuç düzeltildi.
+
+170
+00:15:56.570 --> 00:16:05.020
+Konu bugün hâlâ açık bir araştırma alanı; hangi hayvanın hangi koşulda hangi desenle aradığı, veriye bakılarak tartışılıyor.
+
+171
+00:16:05.020 --> 00:16:09.150
+Ve geriye, o ilk sokak lambasının altındaki adam kalıyor.
+
+172
+00:16:09.150 --> 00:16:13.280
+Onun hikâyesinin asıl dersi, sarhoşlukla ilgili değil.
+
+173
+00:16:13.280 --> 00:16:18.530
+Aynı kurallara uyan, aynı körlükte, aynı hâfızasızlıkta iki gezgin düşünün.
+
+174
+00:16:18.530 --> 00:16:21.860
+Birini bir çizgiye, birini bir hacme koyun.
+
+175
+00:16:21.860 --> 00:16:26.470
+Birinin dönüşü kesin, öbürününki neredeyse imkânsız.
+
+176
+00:16:26.470 --> 00:16:31.240
+Aralarındaki tek fark, içinde bulundukları uzayın kaç yön sunduğu.
+
+177
+00:16:31.240 --> 00:16:35.530
+Kaderlerini karakterleri değil, geometrileri belirliyor.
+
+178
+00:16:35.530 --> 00:16:45.580
+Belki de üç boyutlu bir evrende yaşıyor olmamız, canlılığın neden bu kadar çok zar, bu kadar çok yüzey, bu kadar çok iplik ve kanal îcât ettiğini açıklıyor.
+
+179
+00:16:45.580 --> 00:16:49.070
+Üç boyut, kaybolmanın kolay olduğu bir yerdir.
+
+180
+00:16:49.070 --> 00:16:54.960
+Hayât, kaybolmayı zorlaştırmak için sürekli olarak kendine daha alçak boyutlar inşâ eder.
+
+181
+00:16:54.960 --> 00:16:58.610
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+182
+00:16:58.610 --> 00:17:01.780
+Yeni bir hikâyede yeniden buluşmak üzere.
