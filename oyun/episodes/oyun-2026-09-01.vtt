@@ -1,0 +1,525 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.570
+1976'da bir konsol satın aldığınızda içindeki oyunlar neyse ömür boyu oydu; kutuyu değiştirmeden oyunu değiştiremezdiniz.
+
+2
+00:00:09.570 --> 00:00:19.940
+Bir mühendis, oyunu sekiz kanallı kaset kutusuna benzeyen bir plastiğin içine kapatıp bu kuralı yıktı — ve onayı alabilmek için Washington'da bir lobide üç gün oturdu.
+
+3
+00:00:19.940 --> 00:00:28.710
+Bugün oynadığınız her oyunun satın alınabilir bir "şey" olmasını ona borçlusunuz, ama adını muhtemelen hiç duymadınız.
+
+4
+00:00:36.910 --> 00:00:44.560
+1976'nın başında bir televizyonun karşısına oturup oyun oynamak, tek bir oyunu oynamak demekti.
+
+5
+00:00:44.560 --> 00:00:48.050
+Aldığınız kutunun içinde ne varsa o kadardı.
+
+6
+00:00:48.050 --> 00:00:55.380
+Pong'un ev sürümünü satın aldıysanız, ekranda ömrünüzün sonuna kadar iki çubuk ve bir nokta olacaktı.
+
+7
+00:00:55.380 --> 00:01:06.550
+Çünkü oyun, kelimenin en fiziksel anlamında makinenin içine gömülmüştü: mantık devreleri baskı devre kartına lehimlenmişti, kurallar bakır yolların geometrisiydi.
+
+8
+00:01:06.550 --> 00:01:13.080
+Oyunu değiştirmek istiyorsanız devreyi değiştirmeniz gerekiyordu, yani yeni bir kutu almanız.
+
+9
+00:01:13.080 --> 00:01:19.770
+Magnavox'un Odyssey adlı makinesi bu duvarı aşmak için yaratıcı ama zorlama bir yol denemişti:
+
+10
+00:01:19.770 --> 00:01:27.420
+kutunun içindeki bağlantıları farklı biçimlerde köprüleyen kartlar ve televizyon ekranına yapıştırılan renkli asetat şablonlar.
+
+11
+00:01:27.420 --> 00:01:34.590
+Odyssey'de oyunu değiştiren şey aslında yazılım değildi; kablolamaydı, bir de sizin hayal gücünüzdü.
+
+12
+00:01:34.590 --> 00:01:39.360
+Bu duvarı yıkma fikri, oyun sektöründen çok uzak bir yerde doğdu.
+
+13
+00:01:39.360 --> 00:01:47.650
+Connecticut'ta, Alpex Computer Corporation adında küçük bir araştırma geliştirme şirketi vardı; kısaca Alpex.
+
+14
+00:01:47.650 --> 00:02:00.420
+Alpex bir oyun şirketi değildi, kurumsal müşterilere elektronik sistemler tasarlıyordu ve 1973'ün sonunda büyük bir sözleşmeyi kaybedince elinde hem boş mühendis hem de zaman kaldı.
+
+15
+00:02:00.420 --> 00:02:09.030
+1974'ün başında iki mühendis, Wallace Kirschner ve Lawrence Haskel, kendi başlarına bir şeyin peşine düştüler.
+
+16
+00:02:09.030 --> 00:02:16.360
+Projeye Remote Access Video Entertainment adını verdiler; baş harfleri RAVEN, yani Kuzgun oluyordu.
+
+17
+00:02:16.360 --> 00:02:23.530
+Kuzgun'un mantığı, bugün bize apaçık görünen ama o gün kimsenin ticari bir üründe denemediği bir şeydi.
+
+18
+00:02:23.530 --> 00:02:32.940
+Oyun makinesinin içine, önceden pişirilmiş devreler yerine gerçek bir mikroişlemci koydunuz, o zamanın yeni Intel yongalarından birini.
+
+19
+00:02:32.940 --> 00:02:36.110
+İşlemci tek başına hiçbir oyun bilmiyordu.
+
+20
+00:02:36.110 --> 00:02:42.160
+Ne oynayacağını, dışarıdan takılan bir devre kartındaki salt okunur bellek yongaları söylüyordu.
+
+21
+00:02:42.160 --> 00:02:47.250
+Kartı çıkarıp başka bir kart takınca makine başka bir şeye dönüşüyordu.
+
+22
+00:02:47.250 --> 00:02:49.460
+Oyun artık donanım değildi.
+
+23
+00:02:49.460 --> 00:02:54.550
+Oyun, bir yonganın içine yazılmış komut dizisiydi ve o yonga taşınabilirdi.
+
+24
+00:02:54.550 --> 00:02:57.560
+Fikir sağlamdı, prototip değildi.
+
+25
+00:02:57.560 --> 00:03:06.650
+Kuzgun bir laboratuvar hayvanıydı: açıkta duran devre kartları, kenarındaki bakır temas noktaları, dikkatli parmaklar isteyen bir bağlantı.
+
+26
+00:03:06.650 --> 00:03:11.260
+Alpex'in bunu bir ürüne çevirecek fabrikası da yoktu, satış ağı da.
+
+27
+00:03:11.260 --> 00:03:21.310
+Yonga arıyorlardı, ortak arıyorlardı; böylece Kaliforniya'ya, yarı iletken devi Fairchild Semiconductor'a, yani Fairchild'a geldiler.
+
+28
+00:03:21.310 --> 00:03:28.000
+Prototipi değerlendirmesi istenen mühendisin adı Gerald Lawson'dı; herkes ona Jerry diyordu.
+
+29
+00:03:28.000 --> 00:03:33.090
+1 Aralık 1940'ta Brooklyn'de doğmuş, Queens'te büyümüştü.
+
+30
+00:03:33.090 --> 00:03:38.820
+Babası liman işçisiydi ama bilime meraklıydı, oğlunun merakını beslemişti.
+
+31
+00:03:38.820 --> 00:03:46.950
+Lawson 13 yaşında telsiz amatörü ehliyetini almış, komşuların televizyonlarını tamir ederek harçlığını çıkarmıştı.
+
+32
+00:03:46.950 --> 00:03:55.560
+New York'ta iki üniversiteye başladı, ikisini de bitirmedi; öğrendiği her şeyi kendi kendine, elini devrenin içine sokarak öğrenmişti.
+
+33
+00:03:55.560 --> 00:03:58.890
+1970'te Fairchild'a girdi.
+
+34
+00:03:58.890 --> 00:04:08.780
+Silikon Vadisi'nde çalışan ilk siyah mühendislerden biriydi ve mesai dışında, Steve Jobs ile Steve Wozniak'ın da uğradığı Homebrew Computer Club'ın,
+
+35
+00:04:08.780 --> 00:04:14.350
+yani Ev Yapımı Bilgisayar Kulübü'nün toplantılarında oturan tek siyah insandı.
+
+36
+00:04:14.350 --> 00:04:21.840
+Wozniak'la ilk karşılaşması da tuhaftı: Lawson onunla Fairchild'da bir iş görüşmesi yapmış, işe almamıştı.
+
+37
+00:04:21.840 --> 00:05:12.860
+Lawson'ın Kuzgun'a bakarken sahip olduğu avantaj, oyunun ne olduğunu içeriden bilmesiydi. 1975'in başında kendi garajında, jetonla çalışan bir atari makinesi kurmuştu; adı Demolition Derby, yani Hurda Yarışı'ydı. Piyasaya hiç çıkmadı ama mikroişlemciyle çalışan ilk oyun makinelerinden biriydi ve Lawson'a, bir oyunun sıcak bir mekânda gerçek insanların elinde nasıl davrandığını öğretmişti. Prototipi görünce ne olduğunu hemen anladı ve şirkete lisans almasını önerdi. Gene Landrum adlı pazarlama uzmanı 26 Kasım 1975'te bu fikri anlatan bir iş fırsatı raporu yazdı; Fairchild'ın patronu Wilfred Corrigan işi onayladı ve şirket Ocak 1976'da Alpex'in teknolojisini lisansladı.
+
+38
+00:05:12.860 --> 00:05:21.630
+Asıl iş bundan sonra başlıyordu, çünkü Alpex'in çözdüğü problem fikirdi; Lawson'ın çözmesi gereken problem ise oturma odasıydı.
+
+39
+00:05:21.630 --> 00:05:27.680
+Ekibinde endüstriyel tasarımcı Nick Talesfore ve makine mühendisi Ronald Smith vardı.
+
+40
+00:05:27.680 --> 00:05:36.290
+Önce beyin değişti: Intel işlemcinin yerine Fairchild'ın kendi F8 mimarisi geçti, iki yongaya bölünmüş bir tasarım.
+
+41
+00:05:36.290 --> 00:05:40.900
+Sonra sıra asıl mesele olan o çıkarılıp takılabilir parçaya geldi.
+
+42
+00:05:40.900 --> 00:05:48.230
+Bir laboratuvar kartını bir tüketici ürününe çevirmek, insanın mühendislik hesabına insanı katmasını gerektiriyordu.
+
+43
+00:05:48.230 --> 00:05:51.080
+Çocuk kartı ters takarsa ne olacaktı?
+
+44
+00:05:51.080 --> 00:05:56.650
+Makine açıkken çekip çıkarırsa temas noktalarında kıvılcım oluşur, yonga ölür müydü?
+
+45
+00:05:56.650 --> 00:06:02.540
+Halının üzerinde sürterek biriktirdiği statik elektrik, parmağından devreye atlar mıydı?
+
+46
+00:06:02.540 --> 00:06:08.750
+Kart cebe atılıp okul çantasında dolaştırılırsa, üzerine oturulursa, ısırılırsa?
+
+47
+00:06:08.750 --> 00:06:22.800
+Talesfore devreyi kalın sarı bir plastik kabuğun içine kapattı ve kabuğa o yılların otomobillerinde dinlenen sekiz kanallı kasetlerin biçimini verdi; insanlar bu nesneyi zaten tanıyordu, nasıl tutulacağını biliyordu.
+
+48
+00:06:22.800 --> 00:06:27.730
+Ağzında yaylı bir kapak vardı, takılınca açılıyor, çıkınca kapanıyordu.
+
+49
+00:06:27.730 --> 00:06:39.860
+Smith ise kilitleme ve topraklama düzeneğini tasarladı: kartuş yuvaya girerken önce topraklanıyor, sonra veri hatlarına değiyordu; yani elektrik, temas etmesi gereken sırayla temas ediyordu.
+
+50
+00:06:39.860 --> 00:06:44.470
+Ortaya çıkan şeye Videocart, yani Video Kartuş adı verildi.
+
+51
+00:06:44.470 --> 00:06:52.600
+Alpex bir prensip bulmuştu; Lawson'ın ekibi o prensibi milyonlarca kez takılıp çıkarılmaya dayanan bir nesneye dönüştürdü.
+
+52
+00:06:52.600 --> 00:06:59.770
+Oyun ilk kez donanımdan ayrılıp elle tutulur, satın alınabilir, hediye edilebilir bir şeye dönüşüyordu.
+
+53
+00:06:59.770 --> 00:07:09.500
+Ama makinenin oturma odasına girebilmesi için önce bambaşka bir kapıdan geçmesi gerekiyordu ve o kapıda oyunlardan hiç anlamayan insanlar oturuyordu.
+
+54
+00:07:09.500 --> 00:07:21.950
+Bir oyun konsolunun televizyona bağlanma biçimi, o yıllarda tek bir yoldan geçiyordu: makine kendi içinde minik bir televizyon vericisi barındırıyor, ürettiği görüntüyü boş bir kanalın frekansına bindiriyor,
+
+55
+00:07:21.950 --> 00:07:25.440
+anten girişinden televizyona veriyordu.
+
+56
+00:07:25.440 --> 00:07:31.010
+Yani her konsol, tanımı gereği, evin içinde çalışan küçük bir radyo istasyonuydu.
+
+57
+00:07:31.010 --> 00:07:34.340
+Bu sinyalin kutunun içinde kalması gerekiyordu.
+
+58
+00:07:34.340 --> 00:07:40.070
+Kaçarsa komşunun televizyonuna, telsize, uçak bandına karışabilirdi.
+
+59
+00:07:40.070 --> 00:07:47.560
+Amerika'da bunu denetleyen kurum Federal Communications Commission, yani Federal İletişim Komisyonu'ydu.
+
+60
+00:07:47.560 --> 00:07:51.050
+Fairchild'ın makinesi bu testten geçemedi.
+
+61
+00:07:51.050 --> 00:07:56.300
+Kutu, olması gerekenden fazla yayın yapıyordu; sinyal sızıyordu.
+
+62
+00:07:56.300 --> 00:08:02.990
+Bu, tasarımın bir köşesindeki küçük bir hata değildi, bütün sistemin karakteriyle ilgili bir sorundu.
+
+63
+00:08:02.990 --> 00:08:14.160
+İçeride yüksek hızda çalışan bir mikroişlemci vardı, sürekli anahtarlanan sayısal hatlar vardı ve bu hatların her biri kendi başına minik bir anten gibi davranabiliyordu.
+
+64
+00:08:14.160 --> 00:08:17.490
+Ekip aylarca bu sorunun etrafında döndü.
+
+65
+00:08:17.490 --> 00:08:23.860
+Kutunun içine metal kalkan levhaları yerleştirdiler; sinyali kaynağında hapsetmeye çalıştılar.
+
+66
+00:08:23.860 --> 00:08:27.510
+Ölçüm yaptılar, biraz kazandılar, yetmedi.
+
+67
+00:08:27.510 --> 00:08:31.800
+Lawson'ın kendi anlattığına göre çözüm bir gece yarısı geldi.
+
+68
+00:08:31.800 --> 00:08:39.290
+Uykusunun ortasında aklına bir şey düştü, ekip arkadaşını o saatte arayıp ofise gittiler ve bir hesap yaptılar.
+
+69
+00:08:39.290 --> 00:08:45.980
+Sorunun büyük kaynağı kutunun kendisi değildi; kutudan dışarı uzanan uzun kumanda kablolarıydı.
+
+70
+00:08:45.980 --> 00:08:53.630
+O kablolar, tam da işe yarayacak uzunlukta birer anten gibi davranıyor, içerideki sinyali alıp odaya yayıyorlardı.
+
+71
+00:08:53.630 --> 00:08:58.720
+Çözüm, mühendisliğin en sinir bozucu türündendi: kabloları kısaltmak.
+
+72
+00:08:58.720 --> 00:09:05.090
+Kullanıcı için bir kayıptı, koltuğa biraz daha yakın oturacaktı; ama sayılar tutuyordu.
+
+73
+00:09:05.090 --> 00:09:10.340
+Komisyonun titizliği yalnızca radyo sinyaliyle de sınırlı kalmadı.
+
+74
+00:09:10.340 --> 00:09:21.030
+Kutunun üstünde, kullanıcının parmağını sokup metal temaslı bir elektronik parçayı çekip çıkaracağı bir delik vardı; böyle bir şey daha önce hiçbir ev cihazında yoktu.
+
+75
+00:09:21.030 --> 00:09:29.800
+Bu yüzden üretilen kartuşların denetime sunulması, kimsenin kartuş değiştirirken elektrik çarpması riski taşımadığının gösterilmesi gerekti.
+
+76
+00:09:29.800 --> 00:09:38.250
+Smith'in topraklama tasarımı burada yalnızca bir mühendislik zarafeti olmaktan çıkıp yasal bir zorunluluğun cevabı haline geldi.
+
+77
+00:09:38.250 --> 00:09:40.460
+Sonra beklemek kaldı.
+
+78
+00:09:40.460 --> 00:09:51.310
+Fairchild makineyi 14 Haziran 1976'da Chicago'daki tüketici elektroniği fuarında duyurmuştu; sözü verilmişti, üretim planlanmıştı,
+
+79
+00:09:51.310 --> 00:09:57.520
+yılbaşı alışveriş sezonu yaklaşıyordu ve bir onay kâğıdı olmadan tek bir kutu satılamazdı.
+
+80
+00:09:57.520 --> 00:10:11.890
+Lawson'ın bu bekleyişe verdiği cevap, anlatıldığı biçimiyle mühendislikten çok inatla ilgilidir: komisyonun binasına gidip lobiye oturdu ve üç gün boyunca oradan kalkmadı, biri çıkıp evrakını imzalayana kadar bekledi.
+
+81
+00:10:11.890 --> 00:10:15.540
+Onay 20 Ekim 1976'da geldi.
+
+82
+00:10:15.540 --> 00:10:28.150
+Makine, Kasım ayında Video Entertainment System, yani Video Eğlence Sistemi adıyla raflara çıktı; fiyatı 169,95 dolardı, bugünün parasıyla neredeyse bin dolar.
+
+83
+00:10:28.150 --> 00:10:35.000
+İçinde iki oyun gömülü geliyordu, tenis ve hokey; ikisi de Pong'un geliştirilmiş akrabalarıydı.
+
+84
+00:10:35.000 --> 00:10:47.930
+Kumanda, Lawson'ın kabaca çizdiği tuhaf bir nesneydi: avuca giren üçgen başlı bir kol, sekiz yöne itilebiliyor, aşağı bastırılabiliyor, yukarı çekilebiliyor ve kendi ekseninde döndürülebiliyordu.
+
+85
+00:10:47.930 --> 00:10:59.420
+Hokeyde bu döndürme hareketi çubuğunuzu eğik bir yüzeye çeviriyor, topu açıyla kesmenizi sağlıyordu; Pong'un dümdüz mantığından sonra bu, neredeyse fizik gibi hissettiriyordu.
+
+86
+00:10:59.420 --> 00:11:04.990
+Bir de o zamana kadar hiçbir ev konsolunda olmayan bir düğme vardı: duraklat.
+
+87
+00:11:04.990 --> 00:11:08.320
+Oyunu dondurup kapıyı açmaya gidebiliyordunuz.
+
+88
+00:11:08.320 --> 00:11:15.010
+Bugün her oyunun sahip olduğu, kimsenin varlığını sorgulamadığı o düğme, ilk kez burada belirdi.
+
+89
+00:11:15.010 --> 00:11:18.980
+Fairchild'ın makinesi piyasada bir yıl boyunca yalnızdı.
+
+90
+00:11:18.980 --> 00:11:31.750
+Sonra Eylül 1977'de Atari, Video Computer System, yani Video Bilgisayar Sistemi adını verdiği ve sonradan Atari 2600 diye anılacak kutuyu çıkardı.
+
+91
+00:11:31.750 --> 00:11:34.120
+O da kartuşla çalışıyordu.
+
+92
+00:11:34.120 --> 00:11:43.850
+Atari'nin bu makineyi geliştirmeye Fairchild'ın ürününü görmeden başladığı doğrudur; ama rakibin raflara çıkması Atari'yi hem hızlandırdı hem korkuttu.
+
+93
+00:11:43.850 --> 00:11:54.220
+Şirketin kurucusu, projeyi bitirecek parayı bulmak için 1976'da Atari'yi Warner Communications'a, yani Warner'a 28 milyon dolara sattı.
+
+94
+00:11:54.220 --> 00:12:04.270
+Kartuşlu konsol yarışı artık bir mühendislik yarışı değil, bir sermaye yarışıydı ve Fairchild o sahaya yarı gönüllü girmiş bir yarı iletken şirketiydi.
+
+95
+00:12:04.270 --> 00:12:13.840
+Rakibinin adına verdiği karşılık, kendi makinesinin adını değiştirmek oldu: Video Eğlence Sistemi, Channel F, yani Kanal F adını aldı.
+
+96
+00:12:13.840 --> 00:12:21.970
+Baştaki harf İngilizce "eğlence" sözcüğünden geliyordu; televizyonunuzdaki kanallardan birinin adı artık Eğlence Kanalı'ydı.
+
+97
+00:12:21.970 --> 00:12:26.740
+Ad değişikliği işe yaramadı, çünkü savaş başka bir yerde kaybedildi.
+
+98
+00:12:26.740 --> 00:12:32.950
+Kartuşun asıl anlamı şuydu: makineyi satmak artık işin başlangıcıydı, sonu değil.
+
+99
+00:12:32.950 --> 00:12:39.000
+Bir konsolun değerini, o konsol için satın alabileceğiniz oyunların sayısı belirliyordu.
+
+100
+00:12:39.000 --> 00:12:42.970
+Kanal F için ömrü boyunca 27 kartuş çıktı.
+
+101
+00:12:42.970 --> 00:12:47.580
+Atari 2600 için bu sayı yüzlerle ölçülecekti.
+
+102
+00:12:47.580 --> 00:12:53.470
+Kanal F yaklaşık 350 bin adet satıldı; rakibi milyonlarla konuşuyordu.
+
+103
+00:12:53.470 --> 00:13:01.920
+Fairchild, ana işi olan yarı iletkende sıkışınca Nisan 1979'da oyun işinden tamamen çekildi.
+
+104
+00:13:01.920 --> 00:13:10.850
+Hakları Zircon adlı bir şirkete geçti, Zircon makineyi biraz yenileyip birkaç yıl daha yaşattı, hikâye 1983'te bitti.
+
+105
+00:13:10.850 --> 00:13:24.420
+Lawson da Fairchild'dan ayrıldı ve 1980'de kendi şirketi VideoSoft'u kurdu; sektörün ilk siyah sahipli oyun geliştirme şirketlerinden biriydi ve ironik biçimde kendisini pazardan silen makine için,
+
+106
+00:13:24.420 --> 00:13:28.070
+Atari 2600 için yazılım üretiyordu.
+
+107
+00:13:28.070 --> 00:13:30.760
+Şirket birkaç yıl sonra kapandı.
+
+108
+00:13:30.760 --> 00:13:35.050
+Lawson'ın adı da sektörün kurucu anlatısından yavaşça silindi.
+
+109
+00:13:35.050 --> 00:13:39.660
+Bu silinmenin bir kısmı, hikâyenin hukuk tarafında yazılıydı.
+
+110
+00:13:39.660 --> 00:13:47.470
+Kartuşlu oyun sisteminin patenti Alpex'in adınaydı ve o belgede mucit olarak Kirschner ile Haskel görünüyordu.
+
+111
+00:13:47.470 --> 00:13:55.280
+Alpex hiçbir zaman büyük bir oyun şirketi olamadı ama o kâğıt parçası, sektörün tamamının üstünde asılı kaldı.
+
+112
+00:13:55.280 --> 00:14:05.650
+Şirket yıllar boyunca lisans anlaşmaları yaptı, uyarı mektupları gönderdi; Atari 1983'te 400 bin dolarlık bir lisans ödemesi yaptı.
+
+113
+00:14:05.650 --> 00:14:14.900
+1990'larda sıra Nintendo'ya geldi ve dava, Amerikan oyun tarihinin en büyük patent davalarından birine dönüştü: jüri,
+
+114
+00:14:14.900 --> 00:14:23.190
+Nintendo'nun ihlalde bulunduğuna karar verdi ve faiziyle birlikte 253 milyon doları aşan bir tazminata hükmetti.
+
+115
+00:14:23.190 --> 00:14:32.280
+Nintendo temyize gitti ve 1996'da üst mahkeme, patentin geçerli olduğunu kabul etmekle birlikte ihlal kararını bozdu.
+
+116
+00:14:32.280 --> 00:14:35.450
+Alpex bu paranın hiçbirini görmedi.
+
+117
+00:14:35.450 --> 00:14:39.740
+O patentte Lawson'ın adı yoktu, çünkü fikri o bulmamıştı.
+
+118
+00:14:39.740 --> 00:14:45.630
+Yıllar sonra kendisine "kartuşun babası" denmesi tam da bu yüzden zaman zaman tartışıldı.
+
+119
+00:14:45.630 --> 00:14:58.080
+Ama iki iş vardır ve ikisi aynı iş değildir: bir şeyin mümkün olduğunu göstermek, bir de o şeyin milyonlarca evde, çocuk ellerinde, halı üstünde, on yıllar boyunca çalışmasını sağlamak.
+
+120
+00:14:58.080 --> 00:15:00.290
+Kuzgun ilkini yaptı.
+
+121
+00:15:00.290 --> 00:15:05.700
+Lawson'ın ekibi ikincisini yaptı ve sektör hangisinin üstüne kurulduysa odur.
+
+122
+00:15:05.700 --> 00:15:15.910
+Bugün bir oyunu indirip yarın başka bir oyunu indirebiliyorsak, bunun sebebi 1976'da birinin oyunu makineden söküp elimize verebilmiş olmasıdır.
+
+123
+00:15:15.910 --> 00:15:18.280
+Tanınma çok geç geldi.
+
+124
+00:15:18.280 --> 00:15:26.890
+2011'in Mart ayında Uluslararası Oyun Geliştiriciler Derneği, Lawson'ı sektörün öncülerinden biri olarak onurlandırdı.
+
+125
+00:15:26.890 --> 00:15:33.260
+Şeker hastalığı yıllardır onu yıpratıyordu; bir bacağını ve bir gözünün görüşünü kaybetmişti.
+
+126
+00:15:33.260 --> 00:15:38.350
+Törenden yaklaşık bir ay sonra, 9 Nisan 2011'de öldü.
+
+127
+00:15:38.350 --> 00:15:51.920
+Ölümünden sonra adı hızla geri döndü: Güney Kaliforniya Üniversitesi'nin oyun programı 2021'de onun adını taşıyan bir burs fonu kurdu, siyah ve yerli öğrencilerin bu sektöre girmesini kolaylaştırmak için.
+
+128
+00:15:51.920 --> 00:16:02.290
+2022'de, seksen ikinci doğum gününde, Google arama sayfasının logosunu bir gün boyunca ona ve Kanal F'e ayırdı; milyonlarca insan o gün,
+
+129
+00:16:02.290 --> 00:16:08.500
+adını hiç duymadıkları bir mühendisin kutusundan çıkan sarı plastik kartuşu ekranlarında gördü.
+
+130
+00:16:08.500 --> 00:16:11.670
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+131
+00:16:11.670 --> 00:16:14.680
+Yeni bir hikâyede yeniden buluşmak üzere.
