@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+<title>Nöron History</title>
+<link>https://podcast.noronmedia.com/history/</link>
+<language>en</language>
+<description>Every day, one history topic explored in documentary style. This is the English edition of Nöron Tarih; each episode is a translation of the same day's Turkish episode. Written and narrated by AI.</description>
+<itunes:author>Nöron Medya</itunes:author>
+<itunes:summary>Every day, one history topic explored in documentary style. This is the English edition of Nöron Tarih; each episode is a translation of the same day's Turkish episode. Written and narrated by AI.</itunes:summary>
+<itunes:subtitle>A daily history story, translated from Nöron Tarih.</itunes:subtitle>
+<itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://podcast.noronmedia.com/history/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/history/cover.jpg</url><title>Nöron History</title><link>https://podcast.noronmedia.com/history/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/history/feed.xml</itunes:new-feed-url>
+<itunes:category text="History"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<lastBuildDate>Tue, 01 Sep 2026 14:31:29 +0000</lastBuildDate>
+<item>
+<title>The Ten Thousand: An Army Stranded Inside Persia</title>
+<description>Tells how the more than ten thousand Greek mercenaries hired by Cyrus the Younger to take the Persian throne from his brother in four hundred and one BC were left leaderless and friendless in the very heart of the empire when Cyrus died at Cunaxa, and how they marched fifteen hundred miles back to the Black Sea. The episode ranges from the ambush and killing of the generals at a banquet to Xenophon's election to command, from the winter crossing of the Anatolian mountains to the way this march exposed Persian weakness to the Greek world.
+
+Konular: ancient greece, persian empire, xenophon, ten thousand, mercenaries.</description>
+<itunes:subtitle>Tells how the more than ten thousand Greek mercenaries hired by Cyrus the Younger to take the Persian throne from his brother in four hundred and one BC were left leaderless and friendless in the very heart of the empire when Cyrus died at Cunaxa, and how they marched fifteen hundred miles back to the Black Sea. The episode ranges from the ambush and killing of the generals at a banquet to Xenophon's election to command, from the winter crossing of the Anatolian mountains to the way this march exposed Persian weakness to the Greek world.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/history/episodes/history-2026-09-01.vtt" type="text/vtt" language="en" rel="captions"/>
+<pubDate>Tue, 01 Sep 2026 05:19:05 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/history/history-2026-09-01.mp3" length="21242348" type="audio/mpeg"/>
+<guid isPermaLink="false">history-2026-09-01</guid>
+<itunes:duration>29:34</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
