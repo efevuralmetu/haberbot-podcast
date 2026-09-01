@@ -1,0 +1,138 @@
+sira	karakter	saniye	kar_sn	metin
+1	95	6.560	14.48	Bir sinir ağı, ezberlemesi gereken her şeyi çoktan ezberlemi
+2	104	7.040	14.77	Araştırmacılar eğitimi kapatmayı unuttu — ve on binlerce adı
+3	52	3.520	14.77	Makine, hiç kimse ona bir şey öğretmezken anlamıştı.
+4	45	3.040	14.80	Bir masanın üzerinde tek bir soru kâğıdı var.
+5	96	6.560	14.63	Sorular birbirinin aynı biçimde: iki sayı veriliyor, bir işl
+6	38	2.400	15.83	Ama bu işlem bildiğimiz toplama değil.
+7	87	5.760	15.10	Saat aritmetiği diyebileceğimiz bir şey: sayılar belli bir n
+8	97	6.880	14.10	Saatte ona beş eklediğinizde on beş demiyorsunuz, üç diyorsu
+9	70	4.800	14.58	Aynısını on iki yerine asal bir sayıyla, mesela doksan yedi 
+10	81	5.440	14.89	doksan yediye göre modüler aritmetikte doksan artı yirmi, yü
+11	81	5.600	14.46	Kural son derece basit, istisnası yok, gürültüsü yok, tartış
+12	54	3.200	16.88	Tam da bu yüzden bir laboratuvar için biçilmiş kaftan.
+13	143	8.960	15.96	Bu tabloyu bir sinir ağına öğretmeye kalkıştığınızda ortaya,
+14	74	4.800	15.42	Tablodaki bütün eşleşmelerin, diyelim, üçte birini modele gö
+15	28	1.760	15.91	Geri kalanını saklıyorsunuz.
+16	129	8.000	16.12	Model gördüklerinde giderek iyileşiyor, hata payı düşüyor, b
+17	10	0.960	10.42	Yüzde yüz.
+18	29	1.920	15.10	Bir tanesini bile kaçırmıyor.
+19	124	7.360	16.85	Sonra saklamış olduğunuz soruları soruyorsunuz ve model töke
+20	55	3.520	15.62	Rastgele tahminden daha iyi bir performans göstermiyor.
+21	107	6.400	16.72	Sanki o soruları hiç görmemiş, sanki doksan yediye göre topl
+22	15	1.440	10.42	Aslında yok da.
+23	54	3.360	16.07	Bu aşamada ağın içinde bir kural değil, bir liste var.
+24	91	6.400	14.22	Kendi kendine devasa bir arama tablosu kurmuş: şu sayıyla bu
+25	93	6.240	14.90	Bir öğrencinin çarpım tablosunu, çarpmanın ne demek olduğunu
+26	138	8.960	15.40	Ezber son derece işlevsel bir stratejidir, sınırı da bellidi
+27	124	8.320	14.90	Öğrenci yedi kere sekizi bilir, ama on üç kere on dörtte çar
+28	90	6.080	14.80	Makine öğrenmesinde bu duruma aşırı uyum deniyor ve on yılla
+29	99	6.400	15.47	Eğitim başarısı tavan yapmış, sınama başarısı yerlerde sürün
+30	48	3.840	12.50	Model veriyi içselleştirmemiş, üstünü örtmüştür.
+31	42	3.200	13.12	Klasik reçete de belliydi: erken durdurma.
+32	141	8.960	15.74	Sınama başarısı bir süre iyileşmiyorsa eğitimi kesin, elektr
+33	48	3.520	13.64	Bu, bir sezgi değil, neredeyse bir alışkanlıktı.
+34	103	6.560	15.70	Ders kitaplarına girmiş, kütüphanelere gömülmüş, her araştır
+35	45	2.880	15.62	Refleksin arkasında makul bir varsayım vardı.
+36	66	4.000	16.50	Eğrilerin bize modelin içinde olup biteni gösterdiğini sanıy
+37	156	10.240	15.23	Sınama başarısı düz bir çizgi hâlinde ilerliyorsa, içeride d
+38	48	3.520	13.64	Grafiğin sessizliği, modelin sessizliği demekti.
+39	36	2.560	14.06	Şimdi o iki eğriyi yan yana düşünün.
+40	54	3.520	15.34	Biri hızla yükselip tavana yapışıyor ve orada kalıyor.
+41	73	4.640	15.73	Diğeri dibe yakın bir yerde, gürültülü ama umutsuz bir düzlü
+42	61	4.320	14.12	Yatay eksende adımlar birikiyor: on bin, yirmi bin, elli bin
+43	128	8.800	14.55	İki eğri arasındaki boşluk, bir modelin bildikleriyle anladı
+44	88	5.600	15.71	Herhangi bir makul araştırmacı bu noktada bilgisayarı kapatı
+45	64	4.320	14.81	Çünkü bu tabloyu ezberlemek, kuralı bulmaktan çok daha kolay
+46	96	6.720	14.29	Ağın önündeki en kısa yol, gördüğü her çifti ayrı ayrı işare
+47	161	10.240	15.72	Kuralı bulmak ise bambaşka bir şey ister: sayıları birer ad 
+48	48	3.040	15.79	Optimizasyon süreci böyle bir şeyi neden yapsın?
+49	38	2.720	13.97	Eğitim verisindeki hatası zaten sıfır.
+50	42	2.880	14.58	Gidecek yeri yok, düzeltecek bir şeyi yok.
+51	36	2.560	14.06	Görünüşe bakılırsa hikâye bitmiştir.
+52	19	1.280	14.84	Görünüşe bakılırsa.
+53	145	8.800	16.48	Bu deneyde eğrinin düzlüğü bir bitiş değil, bir bekleme odas
+54	206	13.280	15.51	iki bin yirmi ikinin başında OpenAI'da çalışan Alethea Power
+55	77	4.960	15.52	Bildirinin anlattığı şey, o güne kadar biriken sezgiye açıkç
+56	63	3.840	16.41	Ekip, tam da yukarıda tarif edilen düzlükte eğitimi kesmemiş
+57	130	8.960	14.51	Adımlar on binleri geçti, yüz binlere tırmandı, ezber çoktan
+58	146	8.960	16.29	Aktarıldığına göre bu uzatmanın ilk örneği bilinçli bir tasa
+59	57	4.000	14.25	Anlatının ayrıntısı ne olursa olsun, işin özü değişmiyor.
+60	75	4.800	15.62	Bu bulguyu görebilmenin tek yolu, herkesin doğru bildiği kur
+61	19	1.920	9.90	Sonra eğri kırıldı.
+62	151	9.600	15.73	Ezberin tamamlanmasından çok sonra, ölçeği büyüklük mertebel
+63	69	4.800	14.38	Önce birkaç puan, sonra bir ivme, sonra neredeyse dikey bir 
+64	123	8.800	13.98	Model, daha önce hiç görmediği çiftlerde de doğru cevabı ver
+65	53	3.680	14.40	Ağ, ezberlediği listenin dışına ilk kez adım atmıştı.
+66	112	7.680	14.58	Aradaki uçurum bir anda kapanmıştı ve bunu sağlayan hiçbir y
+67	23	1.760	13.07	Sadece devam edilmişti.
+68	57	3.680	15.49	Bu davranışa, İngilizcede yerleşen adıyla grokking dendi.
+69	161	10.880	14.80	Kelime Robert Haynlayn'ın bin dokuz yüz altmış bir tarihli r
+70	127	8.000	15.88	Romanda uydurulan bu fiil, bir şeyi öyle derinden anlamayı t
+71	62	4.000	15.50	Türkçede "kavrama" ya da "jetonun düşmesi" karşılıyor sanırı
+72	158	11.040	14.31	Adın seçimi şairane, ama kastedilen şey son derece somut: mo
+73	36	2.880	12.50	İlk tepki, haklı olarak, kuşku oldu.
+74	58	4.000	14.50	Bir hata mı, bir rastlantı mı, tek bir koşunun cilvesi mi?
+75	8	0.800	10.00	Değildi.
+76	99	6.240	15.87	Farklı işlemlerde, farklı asal sayılarda, farklı başlangıç n
+77	72	4.960	14.52	Dahası, ne zaman ortaya çıkacağı gelişigüzel değildi; ayarla
+78	57	3.840	14.84	Modele tablonun ne kadarını gösterdiğiniz belirleyiciydi.
+79	126	8.000	15.75	Veri payını azalttıkça kavrama anı geriye doğru kayıyor, gec
+80	75	4.960	15.12	Yani ezberin listesi ne kadar seyrekse, kuralı bulmak o kada
+81	51	3.520	14.49	İkinci ve daha ilginç ayar, ağırlık sönümlemesiydi.
+82	126	8.000	15.75	Bu, eğitim sırasında modele sürekli uygulanan hafif bir bask
+83	64	4.000	16.00	Uzun süre bunun basit bir düzenleyici numara olduğu düşünülü
+84	97	6.400	15.16	Bu deneylerde ise sönümlemenin şiddeti, kavrama anının ne za
+85	72	4.800	15.00	Baskıyı artırdığınızda uçurumun kapanması dramatik biçimde h
+86	75	5.120	14.65	Baskı yokken kavrama, ulaşılamayacak kadar uzakta bir yerler
+87	76	5.120	14.84	Sadelik yönündeki o sessiz itki, ezberi yavaş yavaş pahalı h
+88	65	4.000	16.25	Buradaki gerilim, tuhaf bir sonucun ötesinde bir şeyle ilgil
+89	205	12.320	16.64	Eğer bir modelin içindeki değişimi dışarıdan ölçtüğümüz başa
+90	71	4.640	15.30	Erken durdurma, kaç deneyde tam da olacak şeyin eşiğinde fiş
+91	94	6.240	15.06	Kaç kez "bu model bu işi öğrenemiyor" dedik ve aslında "biz 
+92	206	13.600	15.15	Sınama kaybının, kavramadan hemen önceki dönemde daha da köt
+93	41	2.880	14.24	Ama bütün bunlar hâlâ dışarıdan bakmaktı.
+94	93	6.080	15.30	Eğriyi kaç kere çizerseniz çizin, size sadece ne zaman olduğ
+95	122	7.360	16.58	O gece kırılan şeyi anlamak için ağın kapağını açmak, içerid
+96	58	3.680	15.76	Bu işi iki bin yirmi üçte Neel Nanda ve arkadaşları yaptı.
+97	108	7.200	15.00	Bilerek en sade kurulumu seçtiler: tek katmanlı küçük bir dö
+98	123	7.840	15.69	Amaç, modelin ne yaptığını tahmin etmek değil, devresini sök
+99	60	4.000	15.00	Ortaya çıkan yanıt, hem şaşırtıcı hem de son derece zarifti.
+100	49	3.200	15.31	Kavramış model, sayıları sayı olarak işlemiyordu.
+101	140	8.960	15.62	Her sayıyı bir çember üzerindeki bir açıya çeviriyor, o açın
+102	160	10.560	15.15	İki açıyı toplamak için lisede öğretilen o eski özdeşlikleri
+103	166	11.040	15.04	Ağ, girdilerini birkaç seçili frekansta dalgalara ayrıştırıy
+104	79	4.640	17.03	dalgalar tam olarak orada üst üste bindiği için diğerlerinin
+105	96	6.240	15.38	Bir bakıma model, sırf gradyan inişiyle itilerek, ayrık bir 
+106	34	2.400	14.17	Kimse ona çemberden söz etmemişti.
+107	65	4.480	14.51	Çemberi, tabloyu sıkıştırmanın en ucuz yolu olduğu için kurm
+108	45	3.040	14.80	Asıl kritik bulgu ise zamanlamayla ilgiliydi.
+109	180	11.200	16.07	Araştırmacılar, bu dalga devresinin ne kadar oluştuğunu ölçe
+110	56	4.000	14.00	tersine o frekansları devreden çıkardığınızda ne oluyor.
+111	103	6.560	15.70	Bu göstergelerle bakıldığında, sınama eğrisinin bomboş görün
+112	60	4.480	13.39	Dalga devresi ta baştan, yavaş yavaş, adım adım kuruluyordu.
+113	109	8.000	13.62	Süreç üç evreye ayrılıyordu: önce ezber, sonra ezberle yan y
+114	161	10.240	15.72	Üçüncü evrede model, artık ihtiyaç duymadığı ezber devresini
+115	162	10.720	15.11	Genel doğruluk oranının aniden fırlaması, bir anda bir şeyin
+116	66	4.160	15.87	Buradan çıkan sonuç yalnızca modüler aritmetiği ilgilendirmi
+117	144	9.600	15.00	Ziming Liu, Eric Mişo ve Max Tegmark'ın çalışması, gecikmeli
+118	215	13.760	15.62	Başlangıçtaki ağırlıkların ölçeğini olağandan çok daha büyük
+119	109	7.200	15.14	Yani mesele işlemin cinsi değil, modelin başladığı yerle iyi
+120	116	6.560	17.68	Bu, bugün kullandığımız büyük modeller hakkında da bir uyarı
+121	163	9.600	16.98	Son yıllarda büyük dil modellerinde "ortaya çıkan yetenekler
+122	196	11.680	16.78	seçtiğimiz ölçütün keskinliğinden doğan bir yanılsama olduğu
+123	145	8.960	16.18	Kavrama olayı ise bunun tersi bir örnek: orada içeride gerçe
+124	39	3.360	11.61	İkisinin ortak dersi aynı yere çıkıyor.
+125	42	3.200	13.12	Çizdiğimiz eğri, modelin kendisi değildir.
+126	139	9.760	14.24	Eğrinin düz olması içeride bir şey olmadığı anlamına gelmedi
+127	95	5.920	16.05	Kavramanın neden olduğuna dair tek bir yerleşik açıklama hen
+128	89	5.600	15.89	Ağırlık büyüklüğüne dayanan açıklamalar, sadeliğe yönelik ya
+129	133	7.840	16.96	sayısal kararlılığın sınırlarında işleyen mekanizmalara işar
+130	139	9.120	15.24	Kesin olan şey, bunun mistik bir sıçrama olmadığı: her adımd
+131	38	2.720	13.97	Geriye kalan ise kavramsal bir kazanç.
+132	177	11.200	15.80	Ezber ile anlama arasındaki fark, uzun süre insana ait bulan
+133	47	3.040	15.46	hangisinin ne zaman ağır bastığı ölçülebiliyor.
+134	69	4.320	15.97	Bir öğrencinin kafasında jetonun düştüğü ana ne yazık ki bak
+135	213	12.320	17.29	Ama yüz on üçe göre toplamayı öğrenen küçük bir ağın içinde 
+136	45	2.880	15.62	Nöron Bilim'de bugünkü bölümün sonuna geldik.
+137	41	2.560	16.02	Yeni bir hikâyede yeniden buluşmak üzere.

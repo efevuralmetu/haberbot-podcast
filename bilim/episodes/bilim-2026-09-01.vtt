@@ -1,0 +1,549 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.010
+Bir sinir ağı, ezberlemesi gereken her şeyi çoktan ezberlemişti; testte hâlâ sınıfta kalıyordu.
+
+2
+00:00:07.010 --> 00:00:14.500
+Araştırmacılar eğitimi kapatmayı unuttu — ve on binlerce adım sonra, tek bir gecede eğri yukarı fırladı.
+
+3
+00:00:14.500 --> 00:00:18.470
+Makine, hiç kimse ona bir şey öğretmezken anlamıştı.
+
+4
+00:00:26.670 --> 00:00:30.160
+Bir masanın üzerinde tek bir soru kâğıdı var.
+
+5
+00:00:30.160 --> 00:00:37.170
+Sorular birbirinin aynı biçimde: iki sayı veriliyor, bir işlem işareti konuyor, cevap isteniyor.
+
+6
+00:00:37.170 --> 00:00:40.020
+Ama bu işlem bildiğimiz toplama değil.
+
+7
+00:00:40.020 --> 00:00:46.230
+Saat aritmetiği diyebileceğimiz bir şey: sayılar belli bir noktadan sonra başa dönüyor.
+
+8
+00:00:46.230 --> 00:00:53.560
+Saatte 10'a 5 eklediğinizde 15 demiyorsunuz, 3 diyorsunuz, çünkü 12'de çember kapanıyor.
+
+9
+00:00:53.560 --> 00:00:58.810
+Aynısını 12 yerine asal bir sayıyla, mesela 97 ile yapın.
+
+10
+00:00:58.810 --> 00:01:04.700
+97'ye göre modüler aritmetikte 90 artı 20, 110 değil, 13'tür.
+
+11
+00:01:04.700 --> 00:01:10.750
+Kural son derece basit, istisnası yok, gürültüsü yok, tartışmalı hiçbir yanı yok.
+
+12
+00:01:10.750 --> 00:01:14.400
+Tam da bu yüzden bir laboratuvar için biçilmiş kaftan.
+
+13
+00:01:14.400 --> 00:01:23.810
+Bu tabloyu bir sinir ağına öğretmeye kalkıştığınızda ortaya, yapay zekâ araştırmasının son yıllarda gördüğü en tuhaf grafiklerden biri çıkıyor.
+
+14
+00:01:23.810 --> 00:01:29.060
+Tablodaki bütün eşleşmelerin, diyelim, üçte birini modele gösteriyorsunuz.
+
+15
+00:01:29.060 --> 00:01:31.270
+Geri kalanını saklıyorsunuz.
+
+16
+00:01:31.270 --> 00:01:39.720
+Model gördüklerinde giderek iyileşiyor, hata payı düşüyor, birkaç bin adım sonra gösterdiğiniz her soruya kusursuz cevap veriyor.
+
+17
+00:01:39.720 --> 00:01:41.130
+Yüzde 100.
+
+18
+00:01:41.130 --> 00:01:43.500
+Bir tanesini bile kaçırmıyor.
+
+19
+00:01:43.500 --> 00:01:51.310
+Sonra saklamış olduğunuz soruları soruyorsunuz ve model tökezlemiyor bile, çünkü tökezlemek için önce yürüyor olmak gerekir.
+
+20
+00:01:51.310 --> 00:01:55.280
+Rastgele tahminden daha iyi bir performans göstermiyor.
+
+21
+00:01:55.280 --> 00:02:02.130
+Sanki o soruları hiç görmemiş, sanki 97'ye göre toplamanın ne olduğuna dair aklında hiçbir şey yok.
+
+22
+00:02:02.130 --> 00:02:04.020
+Aslında yok da.
+
+23
+00:02:04.020 --> 00:02:07.830
+Bu aşamada ağın içinde bir kural değil, bir liste var.
+
+24
+00:02:07.830 --> 00:02:14.680
+Kendi kendine devasa bir arama tablosu kurmuş: şu sayıyla bu sayı geldiğinde şu cevabı ver.
+
+25
+00:02:14.680 --> 00:02:21.370
+Bir öğrencinin çarpım tablosunu, çarpmanın ne demek olduğunu hiç kavramadan ezberlemesi gibi.
+
+26
+00:02:21.370 --> 00:02:30.780
+Ezber son derece işlevsel bir stratejidir, sınırı da bellidir: ezberlenen listenin dışına bir adım attığınızda hiçbir şey kalmaz elinizde.
+
+27
+00:02:30.780 --> 00:02:39.550
+Öğrenci 7 kere 8'i bilir, ama 13 kere 14'te çaresizdir, çünkü çarpmayı değil, çarpımların adlarını öğrenmiştir.
+
+28
+00:02:39.550 --> 00:02:46.080
+Makine öğrenmesinde bu duruma aşırı uyum deniyor ve on yıllardır teşhis kolay sayılıyordu.
+
+29
+00:02:46.080 --> 00:02:52.930
+Eğitim başarısı tavan yapmış, sınama başarısı yerlerde sürünüyorsa hikâyenin sonuna gelmişsinizdir.
+
+30
+00:02:52.930 --> 00:02:57.220
+Model veriyi içselleştirmemiş, üstünü örtmüştür.
+
+31
+00:02:57.220 --> 00:03:00.870
+Klasik reçete de belliydi: erken durdurma.
+
+32
+00:03:00.870 --> 00:03:10.280
+Sınama başarısı bir süre iyileşmiyorsa eğitimi kesin, elektrik parasını boşa harcamayın, elinizdeki en iyi kopyayı saklayın, yola devam edin.
+
+33
+00:03:10.280 --> 00:03:14.250
+Bu, bir sezgi değil, neredeyse bir alışkanlıktı.
+
+34
+00:03:14.250 --> 00:03:21.260
+Ders kitaplarına girmiş, kütüphanelere gömülmüş, her araştırmacının parmaklarına yerleşmiş bir refleks.
+
+35
+00:03:21.260 --> 00:03:24.590
+Refleksin arkasında makul bir varsayım vardı.
+
+36
+00:03:24.590 --> 00:03:29.040
+Eğrilerin bize modelin içinde olup biteni gösterdiğini sanıyorduk.
+
+37
+00:03:29.040 --> 00:03:39.730
+Sınama başarısı düz bir çizgi hâlinde ilerliyorsa, içeride de hiçbir şey ilerlemiyordur; öğrenme durmuştur; kalan tek şey ezberin biraz daha cilalanmasıdır.
+
+38
+00:03:39.730 --> 00:03:43.700
+Grafiğin sessizliği, modelin sessizliği demekti.
+
+39
+00:03:43.700 --> 00:03:46.710
+Şimdi o iki eğriyi yan yana düşünün.
+
+40
+00:03:46.710 --> 00:03:50.680
+Biri hızla yükselip tavana yapışıyor ve orada kalıyor.
+
+41
+00:03:50.680 --> 00:03:55.770
+Diğeri dibe yakın bir yerde, gürültülü ama umutsuz bir düzlükte uzanıyor.
+
+42
+00:03:55.770 --> 00:04:00.540
+Yatay eksende adımlar birikiyor: on bin, yirmi bin, elli bin.
+
+43
+00:04:00.540 --> 00:04:09.790
+İki eğri arasındaki boşluk, bir modelin bildikleriyle anladıkları arasındaki mesafedir ve bu deneyde o mesafe kapanmak bilmiyor.
+
+44
+00:04:09.790 --> 00:04:15.840
+Herhangi bir makul araştırmacı bu noktada bilgisayarı kapatır ve haklı olduğunu düşünür.
+
+45
+00:04:15.840 --> 00:04:20.610
+Çünkü bu tabloyu ezberlemek, kuralı bulmaktan çok daha kolaydır.
+
+46
+00:04:20.610 --> 00:04:27.780
+Ağın önündeki en kısa yol, gördüğü her çifti ayrı ayrı işaretlemek, her birine bir raf açmaktır.
+
+47
+00:04:27.780 --> 00:04:38.470
+Kuralı bulmak ise bambaşka bir şey ister: sayıları birer ad olmaktan çıkarıp birbirleriyle ilişkili konumlara dönüştürmeyi, çemberin kendisini icat etmeyi ister.
+
+48
+00:04:38.470 --> 00:04:41.960
+Optimizasyon süreci böyle bir şeyi neden yapsın?
+
+49
+00:04:41.960 --> 00:04:45.130
+Eğitim verisindeki hatası zaten sıfır.
+
+50
+00:04:45.130 --> 00:04:48.460
+Gidecek yeri yok, düzeltecek bir şeyi yok.
+
+51
+00:04:48.460 --> 00:04:51.470
+Görünüşe bakılırsa hikâye bitmiştir.
+
+52
+00:04:51.470 --> 00:04:53.200
+Görünüşe bakılırsa.
+
+53
+00:04:53.200 --> 00:05:02.450
+Bu deneyde eğrinin düzlüğü bir bitiş değil, bir bekleme odasıydı ve bunu fark etmek için birinin, o refleksi bir kereliğine unutması gerekiyordu.
+
+54
+00:05:02.450 --> 00:05:16.180
+2022'nin başında OpenAI'da çalışan Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin ve Vedant Misra, küçük ölçekli aritmetik görevlerde eğitilen ağlarla ilgili kısa bir bildiri yayımladı.
+
+55
+00:05:16.180 --> 00:05:21.590
+Bildirinin anlattığı şey, o güne kadar biriken sezgiye açıkça ters düşüyordu.
+
+56
+00:05:21.590 --> 00:05:25.880
+Ekip, tam da yukarıda tarif edilen düzlükte eğitimi kesmemişti.
+
+57
+00:05:25.880 --> 00:05:35.290
+Adımlar on binleri geçti, yüz binlere tırmandı, ezber çoktan tamamlanmıştı, sınama başarısı hâlâ dipteydi ve süreç devam ediyordu.
+
+58
+00:05:35.290 --> 00:05:44.700
+Aktarıldığına göre bu uzatmanın ilk örneği bilinçli bir tasarım değil, gözden kaçmış bir koşuydu: durdurulması gereken bir eğitim durdurulmamıştı.
+
+59
+00:05:44.700 --> 00:05:49.150
+Anlatının ayrıntısı ne olursa olsun, işin özü değişmiyor.
+
+60
+00:05:49.150 --> 00:05:54.400
+Bu bulguyu görebilmenin tek yolu, herkesin doğru bildiği kuralı çiğnemekti.
+
+61
+00:05:54.400 --> 00:05:56.770
+Sonra eğri kırıldı.
+
+62
+00:05:56.770 --> 00:06:06.820
+Ezberin tamamlanmasından çok sonra, ölçeği büyüklük mertebeleriyle konuşulacak kadar geç bir noktada, dipteki o gürültülü düzlük yukarı doğru kıvrıldı.
+
+63
+00:06:06.820 --> 00:06:12.070
+Önce birkaç puan, sonra bir ivme, sonra neredeyse dikey bir tırmanış.
+
+64
+00:06:12.070 --> 00:06:21.320
+Model, daha önce hiç görmediği çiftlerde de doğru cevabı vermeye başladı ve durmadı: sınama başarısı da yüzde 100'e dayandı.
+
+65
+00:06:21.320 --> 00:06:25.450
+Ağ, ezberlediği listenin dışına ilk kez adım atmıştı.
+
+66
+00:06:25.450 --> 00:06:33.580
+Aradaki uçurum bir anda kapanmıştı ve bunu sağlayan hiçbir yeni veri, hiçbir yeni mimari, hiçbir müdahale yoktu.
+
+67
+00:06:33.580 --> 00:06:35.790
+Sadece devam edilmişti.
+
+68
+00:06:35.790 --> 00:06:39.920
+Bu davranışa, İngilizcede yerleşen adıyla grokking dendi.
+
+69
+00:06:39.920 --> 00:06:51.250
+Kelime Robert Heinlein'ın 1961 tarihli romanı Stranger in a Strange Land'den, yani Türkçedeki adıyla Yabancı Bir Diyarda Yabancı'dan geliyor.
+
+70
+00:06:51.250 --> 00:06:59.700
+Romanda uydurulan bu fiil, bir şeyi öyle derinden anlamayı tarif ediyor ki anlayan ile anlaşılan artık birbirinden ayrılamıyor.
+
+71
+00:06:59.700 --> 00:07:04.150
+Türkçede "kavrama" ya da "jetonun düşmesi" karşılıyor sanırım.
+
+72
+00:07:04.150 --> 00:07:15.640
+Adın seçimi şairane, ama kastedilen şey son derece somut: modelin dışarıdan ölçülen davranışında, uzun bir sessizlikten sonra gelen ani bir nitelik sıçraması.
+
+73
+00:07:15.640 --> 00:07:18.970
+İlk tepki, haklı olarak, kuşku oldu.
+
+74
+00:07:18.970 --> 00:07:23.420
+Bir hata mı, bir rastlantı mı, tek bir koşunun cilvesi mi?
+
+75
+00:07:23.420 --> 00:07:24.670
+Değildi.
+
+76
+00:07:24.670 --> 00:07:31.360
+Farklı işlemlerde, farklı asal sayılarda, farklı başlangıç noktalarında tekrar tekrar ortaya çıktı.
+
+77
+00:07:31.360 --> 00:07:36.770
+Dahası, ne zaman ortaya çıkacağı gelişigüzel değildi; ayarlanabiliyordu.
+
+78
+00:07:36.770 --> 00:07:41.060
+Modele tablonun ne kadarını gösterdiğiniz belirleyiciydi.
+
+79
+00:07:41.060 --> 00:07:49.510
+Veri payını azalttıkça kavrama anı geriye doğru kayıyor, gecikme hızla büyüyordu; belli bir eşiğin altında ise hiç gelmiyordu.
+
+80
+00:07:49.510 --> 00:07:54.920
+Yani ezberin listesi ne kadar seyrekse, kuralı bulmak o kadar zorlaşıyordu.
+
+81
+00:07:54.920 --> 00:07:58.890
+İkinci ve daha ilginç ayar, ağırlık sönümlemesiydi.
+
+82
+00:07:58.890 --> 00:08:07.340
+Bu, eğitim sırasında modele sürekli uygulanan hafif bir baskıdır: parametrelerini büyütme, mümkün olduğunca küçük ve sade kal.
+
+83
+00:08:07.340 --> 00:08:11.790
+Uzun süre bunun basit bir düzenleyici numara olduğu düşünülürdü.
+
+84
+00:08:11.790 --> 00:08:18.640
+Bu deneylerde ise sönümlemenin şiddeti, kavrama anının ne zaman geleceğini doğrudan belirliyordu.
+
+85
+00:08:18.640 --> 00:08:23.890
+Baskıyı artırdığınızda uçurumun kapanması dramatik biçimde hızlanıyordu.
+
+86
+00:08:23.890 --> 00:08:29.460
+Baskı yokken kavrama, ulaşılamayacak kadar uzakta bir yerlere savruluyordu.
+
+87
+00:08:29.460 --> 00:08:35.030
+Sadelik yönündeki o sessiz itki, ezberi yavaş yavaş pahalı hâle getiriyordu.
+
+88
+00:08:35.030 --> 00:08:39.480
+Buradaki gerilim, tuhaf bir sonucun ötesinde bir şeyle ilgiliydi.
+
+89
+00:08:39.480 --> 00:08:52.250
+Eğer bir modelin içindeki değişimi dışarıdan ölçtüğümüz başarı eğrisiyle takip ediyorsak ve o eğri düzken içeride büyük bir inşaat sürebiliyorsa, elimizdeki ölçü aletine olan güvenimiz sarsılıyor demektir.
+
+90
+00:08:52.250 --> 00:08:57.340
+Erken durdurma, kaç deneyde tam da olacak şeyin eşiğinde fişi çekmişti?
+
+91
+00:08:57.340 --> 00:09:04.030
+Kaç kez "bu model bu işi öğrenemiyor" dedik ve aslında "biz yeterince beklemedik" demiş olduk?
+
+92
+00:09:04.030 --> 00:09:18.080
+Sınama kaybının, kavramadan hemen önceki dönemde daha da kötüleşebildiği düşünülürse, tablo iyice rahatsız edici hâle geliyor: model, anlamaya en çok yaklaştığı anda dışarıdan bakana en umutsuz görünüyordu.
+
+93
+00:09:18.080 --> 00:09:21.410
+Ama bütün bunlar hâlâ dışarıdan bakmaktı.
+
+94
+00:09:21.410 --> 00:09:27.940
+Eğriyi kaç kere çizerseniz çizin, size sadece ne zaman olduğunu söyler, ne olduğunu söylemez.
+
+95
+00:09:27.940 --> 00:09:35.750
+O gece kırılan şeyi anlamak için ağın kapağını açmak, içeride ezberin yerini tam olarak neyin aldığına bakmak gerekiyordu.
+
+96
+00:09:35.750 --> 00:09:39.880
+Bu işi 2023'te Neel Nanda ve arkadaşları yaptı.
+
+97
+00:09:39.880 --> 00:09:47.530
+Bilerek en sade kurulumu seçtiler: tek katmanlı küçük bir dönüştürücü ağ ve 113'e göre modüler toplama.
+
+98
+00:09:47.530 --> 00:09:55.820
+Amaç, modelin ne yaptığını tahmin etmek değil, devresini sökmek, hangi parçanın hangi hesabı yaptığını tek tek göstermekti.
+
+99
+00:09:55.820 --> 00:10:00.270
+Ortaya çıkan yanıt, hem şaşırtıcı hem de son derece zarifti.
+
+100
+00:10:00.270 --> 00:10:03.920
+Kavramış model, sayıları sayı olarak işlemiyordu.
+
+101
+00:10:03.920 --> 00:10:13.330
+Her sayıyı bir çember üzerindeki bir açıya çeviriyor, o açının sinüs ve kosinüs değerlerini taşıyor, hesabı bu dalgalar üzerinden yapıyordu.
+
+102
+00:10:13.330 --> 00:10:24.340
+İki açıyı toplamak için lisede öğretilen o eski özdeşlikleri kullanıyordu: iki açının toplamının kosinüsü, tek tek kosinüs ve sinüslerin belli bir birleşimidir.
+
+103
+00:10:24.340 --> 00:10:35.830
+Ağ, girdilerini birkaç seçili frekansta dalgalara ayrıştırıyor, bu dalgaları çarpıp topluyor ve sonuçta her olası cevap için bir puan üretiyordu; doğru cevabın puanı,
+
+104
+00:10:35.830 --> 00:10:40.920
+dalgalar tam olarak orada üst üste bindiği için diğerlerinin üzerine çıkıyordu.
+
+105
+00:10:40.920 --> 00:10:47.610
+Bir bakıma model, sırf gradyan inişiyle itilerek, ayrık bir Fourier analizini yeniden keşfetmişti.
+
+106
+00:10:47.610 --> 00:10:50.460
+Kimse ona çemberden söz etmemişti.
+
+107
+00:10:50.460 --> 00:10:55.390
+Çemberi, tabloyu sıkıştırmanın en ucuz yolu olduğu için kurmuştu.
+
+108
+00:10:55.390 --> 00:10:58.880
+Asıl kritik bulgu ise zamanlamayla ilgiliydi.
+
+109
+00:10:58.880 --> 00:11:10.530
+Araştırmacılar, bu dalga devresinin ne kadar oluştuğunu ölçen göstergeler tasarladılar: modelin cevabını yalnızca o birkaç frekansa dayanarak verdirdiğinizde performansı ne oluyor,
+
+110
+00:11:10.530 --> 00:11:14.980
+tersine o frekansları devreden çıkardığınızda ne oluyor.
+
+111
+00:11:14.980 --> 00:11:21.990
+Bu göstergelerle bakıldığında, sınama eğrisinin bomboş göründüğü o uzun düzlükte hiçbir şey durmuyordu.
+
+112
+00:11:21.990 --> 00:11:26.920
+Dalga devresi ta baştan, yavaş yavaş, adım adım kuruluyordu.
+
+113
+00:11:26.920 --> 00:11:35.370
+Süreç üç evreye ayrılıyordu: önce ezber, sonra ezberle yan yana ilerleyen devre oluşumu, en sonunda temizlik.
+
+114
+00:11:35.370 --> 00:11:46.060
+Üçüncü evrede model, artık ihtiyaç duymadığı ezber devresini söküp atıyordu ve bu sökme işini yaptıran şey, tam olarak ağırlık sönümlemesinin sadelik baskısıydı.
+
+115
+00:11:46.060 --> 00:11:57.230
+Genel doğruluk oranının aniden fırlaması, bir anda bir şeyin doğması değildi; çoktan çalışır hâle gelmiş bir mekanizmanın, üzerini örten molozdan kurtulduğu andı.
+
+116
+00:11:57.230 --> 00:12:01.840
+Buradan çıkan sonuç yalnızca modüler aritmetiği ilgilendirmiyordu.
+
+117
+00:12:01.840 --> 00:12:11.890
+Ziming Liu, Eric Michaud ve Max Tegmark'ın çalışması, gecikmeli genellemenin oyuncak matematik problemlerine özgü bir tuhaflık olmadığını gösterdi.
+
+118
+00:12:11.890 --> 00:12:26.100
+Başlangıçtaki ağırlıkların ölçeğini olağandan çok daha büyük seçtiklerinde, el yazısı rakamları tanımak gibi bildik bir görevde bile aynı desen ortaya çıkıyordu: erken ezber, uzun bir düzlük, ardından ani genelleme.
+
+119
+00:12:26.100 --> 00:12:33.750
+Yani mesele işlemin cinsi değil, modelin başladığı yerle iyi çözümlerin bulunduğu bölge arasındaki mesafeydi.
+
+120
+00:12:33.750 --> 00:12:40.760
+Bu, bugün kullandığımız büyük modeller hakkında da bir uyarı taşıyor, ama dikkatli çerçevelenmesi gereken bir uyarı.
+
+121
+00:12:40.760 --> 00:12:50.810
+Son yıllarda büyük dil modellerinde "ortaya çıkan yetenekler" başlığı altında tartışılan ani sıçramaların bir bölümünün, modelin içindeki gerçek bir dönüşüm değil,
+
+122
+00:12:50.810 --> 00:13:02.940
+seçtiğimiz ölçütün keskinliğinden doğan bir yanılsama olduğu savunuldu; tamamen doğru ya kesinlikle yanlış diye puanlayan bir ölçüt, düzgün ilerleyen bir yetkinliği bile basamak gibi gösterebilir.
+
+123
+00:13:02.940 --> 00:13:12.350
+Kavrama olayı ise bunun tersi bir örnek: orada içeride gerçekten yapısal bir değişim oluyor, üstelik bu değişim devre düzeyinde gösterilebiliyor.
+
+124
+00:13:12.350 --> 00:13:16.160
+İkisinin ortak dersi aynı yere çıkıyor.
+
+125
+00:13:16.160 --> 00:13:19.810
+Çizdiğimiz eğri, modelin kendisi değildir.
+
+126
+00:13:19.810 --> 00:13:30.020
+Eğrinin düz olması içeride bir şey olmadığı anlamına gelmediği gibi, eğrinin dik olması da o anda bir mucize gerçekleştiği anlamına gelmez.
+
+127
+00:13:30.020 --> 00:13:36.390
+Kavramanın neden olduğuna dair tek bir yerleşik açıklama henüz yok, bunu açıkça söylemek gerek.
+
+128
+00:13:36.390 --> 00:13:42.440
+Ağırlık büyüklüğüne dayanan açıklamalar, sadeliğe yönelik yapısal eğilimi öne çıkaranlar,
+
+129
+00:13:42.440 --> 00:13:50.730
+sayısal kararlılığın sınırlarında işleyen mekanizmalara işaret edenler yan yana duruyor ve hangisinin genel resmi verdiği tartışmalı.
+
+130
+00:13:50.730 --> 00:14:00.300
+Kesin olan şey, bunun mistik bir sıçrama olmadığı: her adımda sıradan bir eniyileme yürüyor, sadece ödüllendirdiği çözüm zamanla değişiyor.
+
+131
+00:14:00.300 --> 00:14:03.470
+Geriye kalan ise kavramsal bir kazanç.
+
+132
+00:14:03.470 --> 00:14:15.120
+Ezber ile anlama arasındaki fark, uzun süre insana ait bulanık bir sezgi sayılırdı; artık bir sistemin içinde iki ayrı devre olarak, biri liste öteki kural olarak görülebiliyor,
+
+133
+00:14:15.120 --> 00:14:18.610
+hangisinin ne zaman ağır bastığı ölçülebiliyor.
+
+134
+00:14:18.610 --> 00:14:23.380
+Bir öğrencinin kafasında jetonun düştüğü ana ne yazık ki bakamıyoruz.
+
+135
+00:14:23.380 --> 00:14:36.150
+Ama 113'e göre toplamayı öğrenen küçük bir ağın içinde o anın nasıl hazırlandığını, hangi çarkın ne zaman yerine oturduğunu ve gereksiz hâle gelen ezberin nasıl temizlendiğini artık adım adım izleyebiliyoruz.
+
+136
+00:14:36.150 --> 00:14:39.480
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+137
+00:14:39.480 --> 00:14:42.490
+Yeni bir hikâyede yeniden buluşmak üzere.
