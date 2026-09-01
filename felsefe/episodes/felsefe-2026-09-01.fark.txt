@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-01.mp3
+
+beklenen 2186 kelime | duyulan 2190 kelime | eşleşme %97.2
+sayı ifadesi: metinde 241, duyulanda 207  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yılını düşün sen yoktun
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...satın alan filozoftu epikuros
+      metin  : mö
+      duyulan: minati
+  REPLACE  ...yine aynı kasılmayı yaşar
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...sinsi biçimde yeniden kurdu
+      metin  : lukretius
+      duyulan: lucretius
+  REPLACE  ...kurdu lukretius aşağı yukarı
+      metin  : mö
+      duyulan: melodice
+  INSERT   ...talya yı kasıp kavururken
+      metin  : (yok)
+      duyulan: pös
+  DELETE   ...eski fotoğraf albümünü aç
+      metin  : annenin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...annenin ya da babanın
+      metin  : (yok)
+      duyulan: li
+  DELETE   ...tatlı kıskançlık belki şefkat
+      metin  : ama dehşet değil
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...de tam buraya yerleştirir
+      metin  : sağduyu
+      duyulan: sadu yu
+  REPLACE  ...kişi derek parfit oldu
+      metin  : parfidin
+      duyulan: parfit in
+  REPLACE  ...soruyorsun diyor ki bu
+      metin  : koğuşta
+      duyulan: kovuşta
+  REPLACE  ...insanı üşüten sonuç doğurur
+      metin  : lukretius
+      duyulan: lucretius
+  REPLACE  ...zihnin tam ortasına yerleştirmek
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...bugünkü i ran topraklarındaki
+      metin  : tus ta
+      duyulan: tuzda
+  INSERT   ...topraklarındaki tus ta doğdu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nin en parlak müderrisiydi
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...nın en son bölümü
+      metin  : kırkıncısı
+      duyulan: si
+  REPLACE  ...ölüme ve sonrasına ayrılmıştır
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...yöntemi gibi görünüyor ama
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...düşün çünkü o eşiktir
+      metin  : metotlar
+      duyulan: metodlar
+  REPLACE  ...geçmedi mi bu cümle
+      metin  : lukretius
+      duyulan: lucretius
+  INSERT   ...nagel in yoksunluk kuramının
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kadar çok korkar olduk
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...eseri üzerinden girdi karel
+      metin  : čapeğin
+      duyulan: çapay ın
+  REPLACE  ...karel čapeğin yazdığı ve
+      metin  : leoš janáčeğin
+      duyulan: leos yanaçay ın
+  REPLACE  ...leoš janáčeğin operaya dönüştürdüğü
+      metin  : vyets
+      duyulan: viet
+  REPLACE  ...sonuç çıkarır yaşamayı sürdürmek
+      metin  : isteyişimiz
+      duyulan: isteşimiz
+  REPLACE  ...bu dayanılmazdır ya da
+      metin  : yüzyıllar
+      duyulan: yıllar
+  INSERT   ...sonra da görebilirdin kavgayı
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...diye şey de yoktur
+      metin  : (yok)
+      duyulan: neck
+  REPLACE  ...durum kural değil istisna
+      metin  : epikuros
+      duyulan: epikros
+  REPLACE  ...böbrek taşı sancıları içindeyken
+      metin  : i domeneus
+      duyulan: idomenius
+  REPLACE  ...yapılacak sürü iş var
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: felsefe-2026-09-01.duyulan.txt

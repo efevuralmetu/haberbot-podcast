@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-08-31.mp3
+
+beklenen 1630 kelime | duyulan 1648 kelime | eşleşme %95.6
+sayı ifadesi: metinde 291, duyulanda 192  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ayağınızın
+      metin  : kilometer ay ın
+      duyulan: km ayın te ü
+  REPLACE  ...delik kola yarımadası ndaki
+      metin  : sondaj
+      duyulan: sondaş
+  INSERT   ...yıllarca süren çalışmanın sonunda
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...plastikleşmiş hamurun içinde dönüyordu
+      metin  : kilometer dünya nın yarıçapı kilometer
+      duyulan: don km dünyanın yarı çapı km
+  REPLACE  ...değil buna rağmen bugün
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...i lk büyük ipucu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bölgeye gölge bölgesi dendi
+      metin  : beno
+      duyulan: te benno
+  REPLACE  ...nerede başladığını hesapladı yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...akan demir çekirdek sonra
+      metin  : kopenhag
+      duyulan: copenhagen
+  INSERT   ...dalgası varışları vardı özellikle
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sinyaller göndermişti leman ın
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çekirdek diyoruz yarıçapı yaklaşık
+      metin  : kilometer ay ın yarıçapının
+      duyulan: km ayın yarı çapının
+  INSERT   ...ay ın yarıçapının kabaca
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...gelir kaynaktan değil güney
+      metin  : sandviç
+      duyulan: sandwich
+  REPLACE  ...için dünyadaki en cömert
+      metin  : laboratuvarlardan
+      duyulan: laboratuarlardan
+  REPLACE  ...sismik dizileer ulaşıyor elinizde
+      metin  : altmışlardan
+      duyulan: lardan
+  REPLACE  ...bu yana arşiv oluyor
+      metin  : şiaodong
+      duyulan: da xiaodong
+  REPLACE  ...gibi görünüyordu buna aşırı
+      metin  : dönüş dendi
+      duyulan: dönüştendi
+  REPLACE  ...bu rakam sürekli küçüldü
+      metin  : bugün konuşulan
+      duyulan: sonuç olan
+  INSERT   ...konuşulan değerler yılda derecenin
+      metin  : (yok)
+      duyulan: da leri
+  INSERT   ...ve hala tam kapanmadı
+      metin  : (yok)
+      duyulan: kiki te
+  REPLACE  ...kapanmadı yi yang ve
+      metin  : şiaodong
+      duyulan: xiaodong
+  REPLACE  ...ediyordu benzer dönüm noktası
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...başında da yaşanmış görünüyordu
+      metin  : (yok)
+      duyulan: kiki te
+  REPLACE  ...da yaşanmış görünüyordu john
+      metin  : vidale
+      duyulan: widdel
+  REPLACE  ...görünüyordu john vidale ve
+      metin  : vey vang
+      duyulan: wei wang
+  REPLACE  ...dayandırdı ile arasında güney
+      metin  : sandviç adaları nda
+      duyulan: sandwich adalarında
+  INSERT   ...arasında hızlanarak öne geçmiş
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...için yüzlerce yıl gerekir
+      metin  : küer de
+      duyulan: kürede
+  REPLACE  ...manyetik alan çizgileri iç
+      metin  : çekirdeğe
+      duyulan: çekirdeye
+  REPLACE  ...akım örüntüsü değiştikçe iç
+      metin  : çekirdeğe
+      duyulan: çekirdeye
+  REPLACE  ...kah hızlandıran kah yavaşlatan
+      metin  : tork
+      duyulan: torque
+  REPLACE  ...ve gidebileceği tek yer
+      metin  : manto ile
+      duyulan: mantoyla
+  REPLACE  ...durduğumuz zeminin dönüşü de
+      metin  : kılpayı
+      duyulan: kılı payı
+  INSERT   ...en kısa gün temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dönüşle bile ilgili değil
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ettiğimiz gibi kusursuz cilalı
+      metin  : bilye
+      duyulan: bilge
+  REPLACE  ...hala açık soru yıllık
+      metin  : periyottan
+      duyulan: periyoddan
+  REPLACE  ...farkı açıklamaya çalıştı ayağımızın
+      metin  : kilometrenin
+      duyulan: km nin
+  REPLACE  ...ay büyüklüğünde demir küer
+      metin  : yüzyıllık tempoyla
+      duyulan: yıllık tempo ile
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: bilim-2026-08-31.duyulan.txt

@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-01.mp3
+
+beklenen 1554 kelime | duyulan 1571 kelime | eşleşme %97.2
+sayı ifadesi: metinde 184, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bildiğimiz toplama değil saat
+      metin  : aritmetiği
+      duyulan: aritmeti
+  INSERT   ...kalmaz elinizde öğrenci keer
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...keer bilir ama keer
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...grafiğin sessizliği modelin sessizliği
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...görünüşe bakılırsa bu deneyde
+      metin  : eğrinin
+      duyulan: eyrinin
+  INSERT   ...refleksi kereliğine unutması gerekiyordu
+      metin  : (yok)
+      duyulan: gobi nin
+  REPLACE  ...başında openai da çalışan
+      metin  : alethea
+      duyulan: aletea
+  REPLACE  ...alethea power yuri burda
+      metin  : harri
+      duyulan: harry
+  REPLACE  ...burda harri edwards igor
+      metin  : babuşkin
+      duyulan: babushkin
+  REPLACE  ...ezberin tamamlanmasından çok sonra
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...sınama başarısı da dayandı
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...i ngilizcede yerleşen adıyla
+      metin  : grokking
+      duyulan: groking
+  REPLACE  ...grokking dendi kelime robert
+      metin  : haynlayn ın
+      duyulan: heinlein in
+  REPLACE  ...daha ilginç ayar ağırlık
+      metin  : sönümlemesiydi
+      duyulan: sönümlemesi idi
+  REPLACE  ...olduğunca küçük ve sade
+      metin  : kal
+      duyulan: kaldı
+  REPLACE  ...ediyorsak ve o eğri
+      metin  : düzken içeride
+      duyulan: düzgen içerde
+  REPLACE  ...için ağın kapağını açmak
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...bakmak gerekiyordu bu işi
+      metin  : neel
+      duyulan: te neil
+  INSERT   ...küçük dönüştürücü ağ ve
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...o eski özdeşlikleri kullanıyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...ve sinüslerin belli birleşimidir
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...gradyan inişiyle itilerek ayrık
+      metin  : furye
+      duyulan: furya
+  REPLACE  ...asıl kritik bulgu ize
+      metin  : zamanlamayla
+      duyulan: zamanlama ile
+  REPLACE  ...ilgilendirmiyordu ziming liu eric
+      metin  : mişo
+      duyulan: michaud
+  REPLACE  ...gösterdi başlangıçtaki ağırlıkların ölçeğini
+      metin  : olağandan
+      duyulan: olağından
+  REPLACE  ...içindeki gerçek dönüşüm değil
+      metin  : seçtiğimiz
+      duyulan: sesleştiğimiz
+  REPLACE  ...bunun tersi örnek orada
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...değildir eğrinin düz olması
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...olmadığı her adımda sıradan
+      metin  : eniyileme
+      duyulan: eniileme
+  REPLACE  ...kavramsal kazanç ezber ile
+      metin  : anlama
+      duyulan: anlamı
+  INSERT   ...yazık ki bakamıyoruz ama
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...küçük ağın içinde o
+      metin  : anın
+      duyulan: ağının
+  REPLACE  ...artık adım adım izleyebiliyoruz
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: bilim-2026-09-01.duyulan.txt

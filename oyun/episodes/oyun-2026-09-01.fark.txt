@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-01.mp3
+
+beklenen 1675 kelime | duyulan 1701 kelime | eşleşme %95.4
+sayı ifadesi: metinde 293, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...adını muhtemelen hiç duymadınız
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...televizyon ekranına yapıştırılan renkli
+      metin  : asetat
+      duyulan: acetat
+  REPLACE  ...çok uzak yerde doğdu
+      metin  : connecticut ta
+      duyulan: konektik itsta
+  INSERT   ...elektronik sistemler tasarlıyordu ve
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...hem de zaman kaldı
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...kaldı başında mühendis wallace
+      metin  : kirschner
+      duyulan: kirchner
+  REPLACE  ...yarı iletken devi fairchild
+      metin  : semiconductor
+      duyulan: semikonductor
+  INSERT   ...herkes jerry diyordu aralık
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...devrenin içine sokarak öğrenmişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...öğrenmişti fairchild a girdi
+      metin  : silikon
+      duyulan: silicon
+  REPLACE  ...wozniak ın da uğradığı
+      metin  : homebrew
+      duyulan: homebrief
+  REPLACE  ...yapmış işe almamıştı lawson
+      metin  : ın kuzgun a
+      duyulan: un kuzguna
+  INSERT   ...ne olduğunu içeriden bilmesiydi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...piyasaya hiç çıkmadı ama
+      metin  : mikroişlemciyle
+      duyulan: mikro işlemci ile
+  INSERT   ...adlı pazarlama uzmanı kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...iş fırsatı raporu yazdı
+      metin  : fairchild
+      duyulan: firechild
+  INSERT   ...onayladı ve şirket ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çözdüğü problem fikirdi lawson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...ekibinde endüstriyel tasarımcı nick
+      metin  : talesfoer
+      duyulan: talesford
+  REPLACE  ...değişti intel işlemcinin yerine
+      metin  : fairchild
+      duyulan: firechild
+  DELETE   ...yerine fairchild ın kendi
+      metin  : fsekiz
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kendi fsekiz mimarisi geçti
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...dolaştırılırsa üzerine oturulursa ısırılırsa
+      metin  : talesfoer
+      duyulan: talesford
+  REPLACE  ...ediyordu ortaya çıkan şeye
+      metin  : videocart
+      duyulan: videokart
+  REPLACE  ...yani federal i letişim
+      metin  : komisyonu ydu fairchild
+      duyulan: komisyonuydu fireshield
+  REPLACE  ...karakteriyle ilgili sorundu i
+      metin  : çeride
+      duyulan: çerde
+  REPLACE  ...yaptılar kazandılar yetmedi lawson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...geldi sonra beklemek kaldı
+      metin  : fairchild
+      duyulan: firechild
+  INSERT   ...kaldı fairchild makineyi haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olmadan tek kutu satılamazdı
+      metin  : lawson ın
+      duyulan: liao son un
+  INSERT   ...imzalayana kadar bekledi ekim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...geliyordu tenis ve hokey
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...un geliştirilmiş akrabalarıydı kumanda
+      metin  : lawson ın
+      duyulan: lao son un
+  REPLACE  ...ilk kez burada belirdi
+      metin  : fairchild
+      duyulan: fier shield
+  INSERT   ...boyunca yalnızdı sonra eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bitirecek parayı bulmak için
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bulmak için atari yi
+      metin  : warner
+      duyulan: warmer
+  REPLACE  ...satıldı rakibi milyonlarla konuşuyordu
+      metin  : fairchild
+      duyulan: firechild
+  INSERT   ...yarı iletkende sıkışınca nisan
+      metin  : (yok)
+      duyulan: da
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-09-01.duyulan.txt

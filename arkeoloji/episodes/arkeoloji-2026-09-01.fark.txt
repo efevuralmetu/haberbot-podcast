@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-01.mp3
+
+beklenen 2446 kelime | duyulan 2469 kelime | eşleşme %96.0
+sayı ifadesi: metinde 340, duyulanda 238  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...kayda değer kıymeti yoktur
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olan ve artık kendini
+      metin  : akhenaten
+      duyulan: akenaten
+  REPLACE  ...bu düzlüğe geldi sınır
+      metin  : stellerinden
+      duyulan: sitelerinden
+  REPLACE  ...etmediğini de ayrıca kayda
+      metin  : geçirtti
+      duyulan: geçirdi
+  REPLACE  ...kadar önemliydi şehrin adını
+      metin  : akhetaten
+      duyulan: aket aten
+  INSERT   ...çevreledi bugün bilinen sayıları
+      metin  : (yok)
+      duyulan: dır
+  REPLACE  ...ölürse bedeninin buraya getirilip
+      metin  : akhetaten de
+      duyulan: aket atende
+  REPLACE  ...ın idari merkezi kuzeyde
+      metin  : memfis
+      duyulan: menfis
+  REPLACE  ...ve zanaat mahalleleri vardı
+      metin  : akhetaten
+      duyulan: aket aten
+  REPLACE  ...boyu beklemeye niyetli değildi
+      metin  : akhetaten
+      duyulan: aket aten
+  REPLACE  ...az örneği vardır ve
+      metin  : akhetaten
+      duyulan: aket aten
+  REPLACE  ...tapınağı ağırlıkla inşa edilir
+      metin  : karnağın
+      duyulan: karnı ın
+  REPLACE  ...yöntem görkemlidir ama yavaştır
+      metin  : akhenaten
+      duyulan: akken aten
+  INSERT   ...yapar standart ölçüleri yaklaşık
+      metin  : (yok)
+      duyulan: ye ye
+  REPLACE  ...öder standartlaşmanın kazandırdığı şey
+      metin  : hızdı
+      duyulan: hızlı
+  REPLACE  ...çölün kilometer kadar içinde
+      metin  : hatnub
+      duyulan: hatnup
+  REPLACE  ...yola çıkılarak yapılan hesaplar
+      metin  : akhetaten in
+      duyulan: aketatenin
+  REPLACE  ...şehrin doğusunda ana yerleşimden
+      metin  : buçuk kilometer
+      duyulan: km
+  REPLACE  ...sırtta taşınmıştır bu ayrıntı
+      metin  : akhetaten in
+      duyulan: aketatenin
+  REPLACE  ...şehrin gömdüğü insanlarda duruyor
+      metin  : amarna nın
+      duyulan: ammarnanın
+  REPLACE  ...bazıları bitkisel liften örülmüş
+      metin  : sedyelerle
+      duyulan: sediyelerle
+  REPLACE  ...yanlarına konan eşya sınırlıdır
+      metin  : çömlek
+      duyulan: ömlek
+  INSERT   ...erişkin alın kemiklerinin yaklaşık
+      metin  : (yok)
+      duyulan: ünde
+  REPLACE  ...c vitamini eksikliğine yani
+      metin  : skorbüte
+      duyulan: skorbite
+  REPLACE  ...geldi i ncelenen erişkinlerin
+      metin  : yedisinde
+      duyulan: sinde
+  REPLACE  ...erişkinlerin yedisinde yani kişinin
+      metin  : dördünde
+      duyulan: ünde
+  REPLACE  ...bireylerin yarısından fazlasında omurlarda
+      metin  : dejeneratif
+      duyulan: degeneratif
+  REPLACE  ...birbirinden meter uzaklıkta farklı
+      metin  : akhetaten
+      duyulan: aketaten
+  REPLACE  ...görevlilerin başka kaya mezarı
+      metin  : öbeği
+      duyulan: öbeyi
+  INSERT   ...mezar bulunduğu tahmin ediliyor
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...cinstendi yaşı belirlenebilen bireylerin
+      metin  : üçünden
+      duyulan: ünden
+  INSERT   ...duraklaması izleri bireylerin yaklaşık
+      metin  : (yok)
+      duyulan: ünde
+  REPLACE  ...boy ortalamaları kadınlarda yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...yaklaşık santimeter erkeklerde yaklaşık
+      metin  : santimetreydi
+      duyulan: cm idi
+  INSERT   ...bu yıl yaşamış nüfusu
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yaşadığı kadar da gömüyordu
+      metin  : akhenaten
+      duyulan: aken aten
+  REPLACE  ...çıkan çocuk kral adını
+      metin  : tutankhaten
+      duyulan: tutankaten
+  REPLACE  ...kral adını tutankhaten den
+      metin  : tutankhamun
+      duyulan: tutankamun
+  REPLACE  ...a çevirdi ve saray
+      metin  : akhetaten
+      duyulan: aket aten
+  REPLACE  ...dönük temizlik ile kuruldu
+      metin  : akhenaten
+      duyulan: aken aten
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 64 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: arkeoloji-2026-09-01.duyulan.txt

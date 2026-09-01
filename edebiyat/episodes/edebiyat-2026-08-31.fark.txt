@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-08-31.mp3
+
+beklenen 1926 kelime | duyulan 1933 kelime | eşleşme %95.2
+sayı ifadesi: metinde 270, duyulanda 228  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bugün i ran ın
+      metin  : meşhed
+      duyulan: meşhet
+  REPLACE  ...orta halli eşraf sınıfı
+      metin  : ebü l
+      duyulan: ebul
+  INSERT   ...dünyada şey sessizce ölüyordu
+      metin  : (yok)
+      duyulan: yıl
+  DELETE   ...hükümdarına kadar uzanan kral
+      metin  : silsilesiydi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kral silsilesiydi mitle tarihi
+      metin  : efsaneyle
+      duyulan: efsane ile
+  REPLACE  ...birleştiren hafıza deposu yılında
+      metin  : tus
+      duyulan: tuz
+  REPLACE  ...yalnızca önsözü kaldı ama
+      metin  : tus
+      duyulan: tuz
+  REPLACE  ...ilk kalkışan firdevsi değildi
+      metin  : dakiki
+      duyulan: dakiiki
+  REPLACE  ...şair işe girişti yaklaşık
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...eleştirel basımlarda eser yaklaşık
+      metin  : beyittir
+      duyulan: beyttir
+  REPLACE  ...kral keyumers ateşi bulan
+      metin  : huşeng
+      duyulan: hüşenk
+  REPLACE  ...yönetip sonra kibrinden düşen
+      metin  : cemşid
+      duyulan: cemşit
+  REPLACE  ...kibrinden düşen cemşid sonra
+      metin  : dahhak
+      duyulan: da hak
+  REPLACE  ...i kinci kat kahramanlık
+      metin  : çağıdır
+      duyulan: çağdır
+  REPLACE  ...sahnelerinden sayılır rüstem ile
+      metin  : sührab
+      duyulan: sührap
+  REPLACE  ...kendi bileziğidir kat tarihtir
+      metin  : sasani
+      duyulan: saasani
+  INSERT   ...metin yılında bitti firdevsi
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...en uzun destanlarından tek
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...tek nüshası vardı şimdi
+      metin  : hami
+      duyulan: hamil
+  INSERT   ...de oturuyordu sultan mahmud
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mükemmel eşleşmeydi gerçekte ize
+      metin  : firdevsi
+      duyulan: firidevsi
+  REPLACE  ...düşman tarafına koyuyordu üstelik
+      metin  : firdevsi
+      duyulan: firidevsi
+  REPLACE  ...neredeyze hiçbir kelime kalmıyordu
+      metin  : firdevsi
+      duyulan: firidevsi
+  REPLACE  ...çıkardığı savaş sahnesine kahraman
+      metin  : giv
+      duyulan: giyv
+  REPLACE  ...işaret ettiği şey doğrudur
+      metin  : firdevsi
+      duyulan: firidevsi
+  REPLACE  ...pazarlık şudur sultan her
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...dinar vaat etti kitabın
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...olarak geçer bu rakamın
+      metin  : bugünkü metinden
+      duyulan: bugün kumetinden
+  INSERT   ...ama efsanenin çalıştığı sayı
+      metin  : (yok)
+      duyulan: dir
+  REPLACE  ...sözü verilen tutarın küçük
+      metin  : kesrine
+      duyulan: kesine
+  REPLACE  ...çevresindeki saray şairlerinin kıskançlığıdır
+      metin  : sultana firdevsi nin
+      duyulan: sultan a fir defsinin
+  INSERT   ...zafer destanı beklerken eline
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kendisi ait değildi rivayet
+      metin  : firdevsi nin
+      duyulan: fir defsinin
+  REPLACE  ...anlatılara göer yıllarca saklandı
+      metin  : herat
+      duyulan: berat
+  INSERT   ...kazvin e uzanan kaçış
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...gömülmesine izin vermedi gerekçe
+      metin  : ateşperest
+      duyulan: ateşperes
+  REPLACE  ...a vardı ve şehrin
+      metin  : rudbar
+      duyulan: rutbar
+  REPLACE  ...bu anlatının kaynağı belli
+      metin  : nizami i
+      duyulan: nizamiye
+  INSERT   ...yuvarlaktır tesadüfler fazla düzgündür
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...olduğunu gösteren dizeler vardır
+      metin  : ve
+      duyulan: mevh
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: edebiyat-2026-08-31.duyulan.txt

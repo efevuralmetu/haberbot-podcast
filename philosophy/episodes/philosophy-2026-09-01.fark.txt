@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-01.mp3
+
+beklenen 3370 kelime | duyulan 3355 kelime | eşleşme %99.2
+sayı ifadesi: metinde 128, duyulanda 104  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...stil bears his name
+      metin  : women
+      duyulan: men
+  REPLACE  ...to a student named
+      metin  : menoeceus
+      duyulan: minosius
+  DELETE   ...al over again epicurus
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yor father in their
+      metin  : twenties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the most quoted image
+      metin  : in
+      duyulan: and
+  REPLACE  ...was born in in
+      metin  : tus
+      duyulan: tuss
+  REPLACE  ...brilliant teacher at the
+      metin  : nizamiyya
+      duyulan: nizamiya
+  REPLACE  ...a colossal work the
+      metin  : ihya ulum
+      duyulan: ayah uloom
+  REPLACE  ...its most human form
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...circulate in turkish today
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...as poetry centuries earlier
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...the women of the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...heroine of the play
+      metin  : věc
+      duyulan: vek
+  REPLACE  ...into an opera by
+      metin  : leoš janáček
+      duyulan: ljos šanaczek
+  REPLACE  ...darkness befoer that never
+      metin  : costs
+      duyulan: cost
+  REPLACE  ...to a friend named
+      metin  : idomeneus
+      duyulan: edomanias
+  DELETE   ...work to be done
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 16
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-09-01.duyulan.txt

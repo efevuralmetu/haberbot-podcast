@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-08-31.mp3
+
+beklenen 1669 kelime | duyulan 1676 kelime | eşleşme %94.2
+sayı ifadesi: metinde 239, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hapishanesi nde idam mahkumu
+      metin  : koğuşunda
+      duyulan: kovuşunda
+  REPLACE  ...kurtuluş cephesi nin kısaca
+      metin  : fln
+      duyulan: efele
+  INSERT   ...kurşuna dizilmedi savaş bitti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nasıl anlatacağı sorusuydu yasef
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i talya daydı cillo
+      metin  : pontekorvo i kinci
+      duyulan: ponte corvo
+  REPLACE  ...damarında yetişmiş yönetmendi senaristi
+      metin  : franko
+      duyulan: franco
+  REPLACE  ...kötüler şehitler ve cellatlar
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...geri adım attı ve
+      metin  : pontekorvo ile
+      duyulan: ponte corvo yla
+  REPLACE  ...arşivleri taradı hem eski
+      metin  : fln
+      duyulan: efelen
+  REPLACE  ...çıkan filmin adı la
+      metin  : battalya
+      duyulan: battaglia
+  INSERT   ...yani cezayir savaşı oldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kendisine dayanan karakteri yani
+      metin  : fln nin kazbah taki
+      duyulan: efelenin kazbahtaki
+  REPLACE  ...da meslekten oyunculardan oluşmuyordu
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...filmin merkezindeki karakter ali
+      metin  : la puant
+      duyulan: lapoint
+  REPLACE  ...tanışmış gençti canlandıran brahim
+      metin  : hacac
+      duyulan: hacaç
+  REPLACE  ...bulundu okuma yazması yoktu
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...şeyi olan adamın bakışı
+      metin  : filmde
+      duyulan: filimde
+  REPLACE  ...meslekten tek oyuncu vardı
+      metin  : jan marten
+      duyulan: jean martin
+  REPLACE  ...paraşütçü birliklerin başındaki albay
+      metin  : matyö yü
+      duyulan: mathieu yu
+  REPLACE  ...albay matyö yü oynadı
+      metin  : matyö
+      duyulan: mathieu
+  REPLACE  ...de şehri temizlemekle görevlendirilen
+      metin  : jak massü marsel bijar
+      duyulan: jacques massu marcel bichard
+  REPLACE  ...gibi subayların birleştirilmiş halidir
+      metin  : jan marten
+      duyulan: jean martin
+  REPLACE  ...reddetme hakkını savunan meşhur
+      metin  : bildirisi ni
+      duyulan: ler bildirisini
+  INSERT   ...nsanlar perdedeki görüntülerin gerçekten
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaratan adam görüntü yönetmeni
+      metin  : marçello
+      duyulan: marcello
+  REPLACE  ...beyaz negatifi yeniden basarak
+      metin  : taneciği
+      duyulan: taneciyi
+  REPLACE  ...de nefes nefese kalıyor
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  INSERT   ...gerçekte bu eylem eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kentin merkezindeki bar adlı
+      metin  : süthane
+      duyulan: sütane
+  REPLACE  ...üzeer yeer bomba kondu
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...gerçekleşmiş ve şehirdeki şiddet
+      metin  : sarmalını
+      duyulan: sarmalığını
+  REPLACE  ...merkezi ize işkence sahneleridir
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...arka arkaya gösterilir ve
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...ve pontekorvo bu görüntülerin
+      metin  : yohan sebastyan bah
+      duyulan: johann sebastian bach
+  REPLACE  ...sebastyan bah ın matta
+      metin  : passiyonu ndan
+      duyulan: pasiyonundan
+  REPLACE  ...filmin bütün argümanını tek
+      metin  : jestte
+      duyulan: jeste
+  REPLACE  ...geri kalan müziğini ennio
+      metin  : morrikone
+      duyulan: morricone
+  REPLACE  ...müziğini ennio morrikone ile
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...ile pontekorvo birlikte yazdı
+      metin  : ısrarlı
+      duyulan: israrlı
+  REPLACE  ...atan kalp gibi albay
+      metin  : matyö
+      duyulan: mathew
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: film-2026-08-31.duyulan.txt

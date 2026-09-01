@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-08-31.mp3
+
+beklenen 2521 kelime | duyulan 2539 kelime | eşleşme %90.9
+sayı ifadesi: metinde 334, duyulanda 214  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...günü çin in güneyinde
+      metin  : guangdung
+      duyulan: guangdong
+  REPLACE  ...in güneyinde guangdung eyaletinde
+      metin  : kanton
+      duyulan: canton
+  REPLACE  ...çocuk doğdu adını hung
+      metin  : huoşiu
+      duyulan: huo xu
+  REPLACE  ...ezberi ölçüyordu köylü çocuğu
+      metin  : konfüçyüs
+      duyulan: confucius
+  REPLACE  ...ilk basamağı bile iğne
+      metin  : deliğiydi
+      duyulan: deliydi
+  INSERT   ...aday giriyor içlerinden ancak
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...içlerinden ancak en alttaki
+      metin  : paye
+      duyulan: paya
+  REPLACE  ...olan alt derece bilginlik
+      metin  : unvanını
+      duyulan: ünvanını
+  REPLACE  ...derece bilginlik unvanını alabiliyordu
+      metin  : hung
+      duyulan: hunk
+  INSERT   ...para toplayıp tekrar gönderdi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tekrar gönderdi girdi kazanamadı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kazanamadı girdi yine kazanamadı
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...sınav salonunun önündeki kalabalıkta
+      metin  : hung
+      duyulan: hunk
+  DELETE   ...fa nın kaleme aldığı
+      metin  : çüenşı liangyen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...günah olduğuna dair uyarılar
+      metin  : hung
+      duyulan: hunk
+  INSERT   ...kaldırdı yıl orada durdular
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...düşündü o gün boyunca
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...tapmaya başlamışlardı i htiyar
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...orta yaşlı adam vardı
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...öğreten adam ateşi düştüğünde
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...sonra iyileştiğine karar verdiler
+      metin  : hung
+      duyulan: hunk
+  INSERT   ...yıl daha sessizce yaşadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...broşürleri indirip okudu ve
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...a daha bakmasını söyledi
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...okudukça gün süren o
+      metin  : hummanın
+      duyulan: hunmanın
+  REPLACE  ...nın oğlu i sa
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...kurulduktan sonra geri alınamazdı
+      metin  : hung
+      duyulan: hunk
+  REPLACE  ...vaftiz etti adını hung
+      metin  : şiuçüen
+      duyulan: xiuquen
+  REPLACE  ...çocukluk arkadaşı ve akrabası
+      metin  : fıng yünşan
+      duyulan: feng yunshan
+  REPLACE  ...olmayan yeteneğe sahipti örgütçülük
+      metin  : guangdung
+      duyulan: te guangdong
+  REPLACE  ...batıya yoksul ve karmakarışık
+      metin  : guangşi
+      duyulan: guangxi
+  REPLACE  ...dönüp yazmaya koyuldu ama
+      metin  : fıng
+      duyulan: feng
+  REPLACE  ...koyuldu ama fıng kaldı
+      metin  : fıng yünşan
+      duyulan: feng yunshan
+  REPLACE  ...yünşan ın gittiği yer
+      metin  : dzıcing
+      duyulan: dizicing
+  REPLACE  ...vergi toplarken hatırladığı nüfus
+      metin  : fıng tanrı ya
+      duyulan: feng tanrıya
+  REPLACE  ...dolayısıyla bütün insanlar kardeşti
+      metin  : klan
+      duyulan: kalan
+  REPLACE  ...zenginin fakier üstünlüğü hatta
+      metin  : mançu hanedanının
+      duyulan: manchu hanedanı nın
+  INSERT   ...deviriyordu yıl içinde sayıları
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...içinde sayıları aştı hung
+      metin  : kanton
+      duyulan: de canton
+  REPLACE  ...a gidip amerikalı misyoner
+      metin  : issachar jacox roberts ın
+      duyulan: issacar jackox robertson
+  ... ve 105 fark daha
+
+metinde olup DUYULMAYAN: 172 kelime | duyulup metinde OLMAYAN: 196
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: tarih-2026-08-31.duyulan.txt

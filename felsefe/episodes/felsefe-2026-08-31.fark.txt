@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-08-31.mp3
+
+beklenen 2269 kelime | duyulan 2271 kelime | eşleşme %97.0
+sayı ifadesi: metinde 292, duyulanda 239  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...dinlenme saat kendine günü
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...avrupa da hemen tutmadı
+      metin  : atlantiği
+      duyulan: atlantiyi
+  INSERT   ...için de karlı çıktı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...getiriyordu türkiye de ize
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...de ize kabul edilip
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cevap o isim o
+      metin  : kimlik de
+      duyulan: kimlikte
+  REPLACE  ...ödeyen gazeteciydi yılında karl
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...karalıyordu o defterler yayımlanmadı
+      metin  : marks
+      duyulan: marx
+  INSERT   ...yıl arşivde bekledikten sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bekledikten sonra basıldıklarında dünyanın
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...ruh hali tarif ediliyordu
+      metin  : almancası entfremdung türkçesi yabancılaşma marks
+      duyulan: marx
+  REPLACE  ...karşınıza dikilen güce dönüşür
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...kincisi üretme eylemine yabancılaşma
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...itirafı en felsefi olanı
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...özellik elinden alınmış olur
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...olmaktan çıkıp sıralamaya dönüşür
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...sorun emeğin kime ait
+      metin  : olduğuydu
+      duyulan: olduydu
+  INSERT   ...içine tıktıysak hannah arendt
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...siyaseti bile yönetim tekniğine
+      metin  : indirgiyoruz
+      duyulan: indiriyoruz
+  REPLACE  ...aristoteles te kelime vardır
+      metin  : skhole
+      duyulan: sicole
+  REPLACE  ...kelime vardır skhole ve
+      metin  : askholia skhole
+      duyulan: ascolia sicole
+  REPLACE  ...de atası olan kelime
+      metin  : askholia
+      duyulan: ascolia
+  REPLACE  ...olan kelime askholia ize
+      metin  : skhole nin
+      duyulan: sicolenin
+  REPLACE  ...zaman hamakta uzanmak değil
+      metin  : nikomakhos a
+      duyulan: nicomacosa
+  REPLACE  ...birbiriyle tam olarak uyuşmuyor
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...mertlik kur an da
+      metin  : ashab
+      duyulan: aşab
+  REPLACE  ...an da ashab ı
+      metin  : kehf
+      duyulan: keften
+  REPLACE  ...kabul edilen düşünür ve
+      metin  : debbağ
+      duyulan: debba
+  REPLACE  ...kalfa ustalığa yükselirken beline
+      metin  : şed
+      duyulan: şet
+  REPLACE  ...ahlakını aynı yeer koydular
+      metin  : deriyi
+      duyulan: dereyi
+  REPLACE  ...geçici olarak dükkanın kapatılması
+      metin  : en ağırında
+      duyulan: dna rında
+  INSERT   ...faslı gezgin i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...gezgin i bn battuta
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...soruya bambaşka yerden giriyor
+      metin  : marks
+      duyulan: aristoteles
+  REPLACE  ...mümkün kılıyor diye soruyor
+      metin  : arendt
+      duyulan: arent
+  REPLACE  ...katlanılan ara bölge değil
+      metin  : i şin
+      duyulan: bu
+  REPLACE  ...sabrı müşteriyle konuşurken dürüstlüğü
+      metin  : çırağa
+      duyulan: çırağı
+  INSERT   ...işe şu soruyu sorabilirsiniz
+      metin  : (yok)
+      duyulan: i kincisi
+  REPLACE  ...arkamdan gelen var mı
+      metin  : ahiliğin belkemiği
+      duyulan: ahiliyin bel kemiği
+  REPLACE  ...eksiklikler öğrettikleriniz ve öğretmedikleriniz
+      metin  : sizi
+      duyulan: bu iş
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: felsefe-2026-08-31.duyulan.txt

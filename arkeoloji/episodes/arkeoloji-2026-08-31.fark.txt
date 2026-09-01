@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-08-31.mp3
+
+beklenen 2163 kelime | duyulan 2179 kelime | eşleşme %96.5
+sayı ifadesi: metinde 317, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...peru nun kuzey kıyısında
+      metin  : lambayeke
+      duyulan: lambayeque
+  REPLACE  ...bakan tepe sanır değildirler
+      metin  : adobe
+      duyulan: adoba
+  REPLACE  ...uaka rahada yani yarık
+      metin  : piramit der
+      duyulan: piramitler
+  REPLACE  ...vardı ama bunların hangi
+      metin  : çağa
+      duyulan: çağ
+  REPLACE  ...şubat gecesi yaşındaki arkeolog
+      metin  : valter
+      duyulan: walter
+  REPLACE  ...madencilikte olağanüstü ustalaşmış halk
+      metin  : o
+      duyulan: çedo
+  INSERT   ...durduğunu kimse bilmiyordu nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nisan alva meslektaşı luis
+      metin  : çero
+      duyulan: cerro
+  REPLACE  ...bilim seferi değildi kurtarma
+      metin  : girişimiydi
+      duyulan: girişimi idi
+  REPLACE  ...kadardı ekip aylarca bağışlanan
+      metin  : makarnayla
+      duyulan: makarna ile
+  REPLACE  ...zorundaydılar çünkü tünel hala
+      metin  : oradaydı
+      duyulan: oraydı
+  REPLACE  ...altındaki mirasa el konulması
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...mesajlar geldi gerilim nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alır gerisini bırakır arkeolog
+      metin  : yatay
+      duyulan: yata
+  REPLACE  ...işaretiydi tahtalardan çakılmış tabut
+      metin  : moçe
+      duyulan: moça
+  REPLACE  ...çizildi kaydedildi sonra kaldırıldı
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...hilal biçiminde başlık vardı
+      metin  : moçe
+      duyulan: moça
+  REPLACE  ...olanlar sol tarafta duruyordu
+      metin  : moçe
+      duyulan: moche
+  REPLACE  ...adı bilinmiyordu ve bilinemeyecekti
+      metin  : moçe
+      duyulan: moç a
+  REPLACE  ...adam daha başında bakır
+      metin  : miğfer
+      duyulan: mifer
+  REPLACE  ...devam eden kısmına gelelim
+      metin  : moçe
+      duyulan: moche
+  REPLACE  ...biçimdeki kadehi kaldırıp karşısındaki
+      metin  : figüer
+      duyulan: figuer
+  REPLACE  ...her seferinde aynıdır konik
+      metin  : miğferin
+      duyulan: miferin
+  REPLACE  ...odayla kapattı alva ve
+      metin  : donnan
+      duyulan: donan
+  REPLACE  ...çünkü o biçimdeki asa
+      metin  : moçe
+      duyulan: moça
+  INSERT   ...kazı burada da durmadı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...motifleriyle anılan görevliyle örtüşüyordu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yöneticilerin gömüldüğü hanedan mezarlığıydı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...tespit edilen mezar sayısı
+      metin  : dördü
+      duyulan: ü
+  INSERT   ...ulaştı kaçakçılardan david swetnam
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yıl sonra oldu yarık
+      metin  : piramit
+      duyulan: piramitten
+  REPLACE  ...fiyat dolardı levha ekim
+      metin  : filadelfiya
+      duyulan: de philadelphia
+  INSERT   ...ele geçirildi ve temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gövdesine öykünerek çıktı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kasım açıldı ve müdürlüğünü
+      metin  : valter
+      duyulan: walter
+  INSERT   ...halde sipan efendisi vardır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...platformun olduğu için kurtuldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düzgün yapılsaydı polis hiç
+      metin  : çağrılmayacak
+      duyulan: çağırılmayacak
+  REPLACE  ...telefon hiç çalmayacak yarık
+      metin  : piramit
+      duyulan: piramid
+  REPLACE  ...sessizce boşaltılacak ve bugün
+      metin  : moçe
+      duyulan: moche
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-08-31.duyulan.txt

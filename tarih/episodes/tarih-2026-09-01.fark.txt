@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-01.mp3
+
+beklenen 2401 kelime | duyulan 2407 kelime | eşleşme %95.2
+sayı ifadesi: metinde 239, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...vardı nasıl eve dönülür
+      metin  : mö
+      duyulan: minallodio
+  INSERT   ...yuvarlak kalkanlı uzun mızraklı
+      metin  : (yok)
+      duyulan: den
+  DELETE   ...kiros tu pers kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in küçük oğlu henüz
+      metin  : altısındayken
+      duyulan: sındayken
+  REPLACE  ...tüm askeri yetkisiyle donatılmış
+      metin  : peloponez
+      duyulan: pelopones
+  REPLACE  ...hızlandırmış genç vali babası
+      metin  : mö
+      duyulan: te
+  REPLACE  ...babası mö ölünce taht
+      metin  : ağabeyi
+      duyulan: ağabey
+  REPLACE  ...ölünce taht ağabeyi i
+      metin  : kinci artakserkses
+      duyulan: artakserxes
+  REPLACE  ...anadolu daki rakibi satrap
+      metin  : tissafernes
+      duyulan: tiszafernes
+  REPLACE  ...ölümden annesi parisatis kurtardı
+      metin  : artakserkses
+      duyulan: artakserxes
+  REPLACE  ...tane kılıf üretti dağlık
+      metin  : pisidya
+      duyulan: pisidia
+  REPLACE  ...nın haydutlarını cezalandıracaktı ve
+      metin  : tissafernes
+      duyulan: tiszafernes
+  REPLACE  ...cezalandıracaktı ve tissafernes ile
+      metin  : i yonya
+      duyulan: ionia
+  REPLACE  ...sırada piyasadaydı yıl süren
+      metin  : peloponez
+      duyulan: pelopones
+  REPLACE  ...yıl süren peloponez savaşı
+      metin  : mö
+      duyulan: mitlüa te
+  REPLACE  ...çevirdi sürgün spartalı olan
+      metin  : klearkhos
+      duyulan: kliarkos
+  REPLACE  ...trakya da adam toplattı
+      metin  : boiotialı proksenos
+      duyulan: boyotyalı proxenos
+  REPLACE  ...boiotialı proksenos teselyalı menon
+      metin  : akhaialı
+      duyulan: akayalı
+  REPLACE  ...menon akhaialı sokrates arkadyalı
+      metin  : agias
+      duyulan: adiyas
+  REPLACE  ...darik konuşulmuştu iyi paraydı
+      metin  : proksenos
+      duyulan: proxenos
+  REPLACE  ...proksenos un atina da
+      metin  : ksenofon
+      duyulan: casenofon
+  REPLACE  ...görmüş ama komuta etmemiş
+      metin  : proksenos
+      duyulan: proxenos
+  REPLACE  ...kiros la tanıştırayım dedi
+      metin  : ksenofon
+      duyulan: casenofon
+  REPLACE  ...derde sokabileceğini söyledi ve
+      metin  : delfi kahinine
+      duyulan: delphi kahine ne
+  REPLACE  ...ve delfi kahinine yolladı
+      metin  : ksenofon
+      duyulan: casenofon
+  REPLACE  ...ama iş işten geçmişti
+      metin  : ksenofon
+      duyulan: casenofon
+  REPLACE  ...a varıldığında yunanlar durdu
+      metin  : pisidya
+      duyulan: pisidia
+  REPLACE  ...taşladı i şte burada
+      metin  : klearkhos
+      duyulan: klerkos
+  REPLACE  ...çıkarıldığını duyurdu ordu yürüdü
+      metin  : miriandos
+      duyulan: myriandos
+  REPLACE  ...miriandos ta yunan komutan
+      metin  : ksenias
+      duyulan: casenias
+  REPLACE  ...yakasından çölün içine girdi
+      metin  : ksenofon
+      duyulan: casenofon
+  REPLACE  ...mızrak uçları görünmeye başladı
+      metin  : ksenofon
+      duyulan: kasenofon
+  REPLACE  ...sesleriyle silahların birbirine sürtünmesiydi
+      metin  : ksenofon
+      duyulan: kasenofon
+  REPLACE  ...piyade hafif piyade ve
+      metin  : ksenofon
+      duyulan: kasenofon
+  REPLACE  ...kanatta fırada yaslanmış halde
+      metin  : klearkhos
+      duyulan: klarkos
+  REPLACE  ...pers komutanı ariaios kiros
+      metin  : klearkhos
+      duyulan: klarkos
+  REPLACE  ...savaşın kaderi orada düğümlenecekti
+      metin  : klearkhos
+      duyulan: klarkos
+  REPLACE  ...daldı dağıttı ve kumandan
+      metin  : artagerses
+      duyulan: arta gerces
+  REPLACE  ...yaraladı kralın knidoslu hekimi
+      metin  : ktesias
+      duyulan: hitesyas
+  REPLACE  ...iddia eden askerlerin sonu
+      metin  : parisatis
+      duyulan: parisates
+  ... ve 45 fark daha
+
+metinde olup DUYULMAYAN: 90 kelime | duyulup metinde OLMAYAN: 95
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: tarih-2026-09-01.duyulan.txt

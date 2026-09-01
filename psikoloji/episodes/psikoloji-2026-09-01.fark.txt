@@ -1,0 +1,61 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-01.mp3
+
+beklenen 1373 kelime | duyulan 1382 kelime | eşleşme %98.9
+sayı ifadesi: metinde 139, duyulanda 131  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...var ve sen gece
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...arkadaşına mesaj atıp gece
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...engel koyma diyorlar kavramı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...diyorlar kavramı amerikalı psikolog
+      metin  : steven
+      duyulan: stephen
+  INSERT   ...korku var bu kazaydı
+      metin  : (yok)
+      duyulan: i kinci
+  REPLACE  ...korktuğu cümledir yetmedim eğitim
+      metin  : psikoloğu
+      duyulan: psikologu
+  INSERT   ...zorlaştırır herhangi yarın akşam
+      metin  : (yok)
+      duyulan: den a
+  INSERT   ...üniteyi çalışacağım de sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olur niyeti karara dönüştürmek
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...karara dönüştürmek psikolog peter
+      metin  : golvitser
+      duyulan: golwitzer
+  REPLACE  ...oysa akşam yemeği bittiğinde
+      metin  : tabağı
+      duyulan: tabağa
+  REPLACE  ...yeri ve tetikleyicisi vardır
+      metin  : golvitser
+      duyulan: golwitzer
+  REPLACE  ...başarısızlıktan sonra kendine nasıl
+      metin  : davrandığın
+      duyulan: davrandı
+  REPLACE  ...yapmıyor daha çok kaçırıyor
+      metin  : kristin
+      duyulan: christine
+  REPLACE  ...üzerine yaptığı araştırmalar ve
+      metin  : ertelemeyle
+      duyulan: erteleme ile
+  REPLACE  ...kadar sağlam yerde durur
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 10 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: psikoloji-2026-09-01.duyulan.txt

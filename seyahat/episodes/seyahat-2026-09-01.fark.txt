@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-01.mp3
+
+beklenen 2078 kelime | duyulan 2066 kelime | eşleşme %95.2
+sayı ifadesi: metinde 220, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu dağ köyünde
+      metin  : büyükanne
+      duyulan: büyüken ne
+  REPLACE  ...denizi arkanızda bırakır güney
+      metin  : sulawesi
+      duyulan: sulavesi
+  REPLACE  ...yaylaya varırsınız burası tana
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...burası tana toraja yani
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...ortasında dev ahtapotu andıran
+      metin  : sulawesi
+      duyulan: sulavesi
+  REPLACE  ...oturmuş tekne gibi durur
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...durur toraja halkı buna
+      metin  : tongkonan
+      duyulan: tonkonan
+  REPLACE  ...gelen kökten gelir çünkü
+      metin  : tongkonan
+      duyulan: tonkonan
+  REPLACE  ...o ailenin dünyadaki adresidir
+      metin  : torajalılar
+      duyulan: toracalılar
+  REPLACE  ...boynuzları alt alta dizilir
+      metin  : tongkonan ın
+      duyulan: ton konanın
+  REPLACE  ...sahip yapılar durur bunlar
+      metin  : alang
+      duyulan: alan
+  REPLACE  ...kendilerine bu adı vermedi
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...çıkmadı her vadi kendi
+      metin  : tongkonan larıyla
+      duyulan: ton konanlarıyla
+  INSERT   ...hollanda sömürge ordusu ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sömürge ordusu ve güney
+      metin  : sulawesi ye
+      duyulan: sulabesiye
+  REPLACE  ...aldı kıyıdaki krallıkların aksine
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...müslümandı yayla değildi bugün
+      metin  : torajalıların
+      duyulan: toracalıların
+  REPLACE  ...şey basit putperestlik değildi
+      metin  : aluk to dolo
+      duyulan: aluctodolo
+  REPLACE  ...ayrıntısını düzenleyen sistem tanrı
+      metin  : puang matua nın
+      duyulan: puank matuanın
+  INSERT   ...yolu hiçbirine sığmıyordu çözüm
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hiçbirine sığmıyordu çözüm geldi
+      metin  : aluk to dolo
+      duyulan: aluctodolo
+  REPLACE  ...bunların en makbulü olan
+      metin  : saleko
+      duyulan: saleco
+  REPLACE  ...ve para çoğu zaman
+      metin  : toraja dan
+      duyulan: toracadan
+  REPLACE  ...en büyük ihracatı gençleridir
+      metin  : torajalılar
+      duyulan: toracalılar
+  REPLACE  ...şantiyelerine makassar ın ve
+      metin  : cakarta
+      duyulan: jakarta
+  REPLACE  ...ölü artık ölüdür beden
+      metin  : tongkonan dan
+      duyulan: ton konandan
+  REPLACE  ...pirinç ve şeker taşır
+      metin  : hoparlörden
+      duyulan: poparlörden
+  REPLACE  ...yükselir törenin kalbi ize
+      metin  : ma badong
+      duyulan: mabadon
+  REPLACE  ...sonra mandalar gelir kesim
+      metin  : ma tinggoro tedong
+      duyulan: mahtingorotedon
+  REPLACE  ...de karanlık tarafı var
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...zamanlar bağımlı konumdaki insanlar
+      metin  : aluk to dolo nun
+      duyulan: aluctodolon un
+  INSERT   ...düzeninde izleri hala okunabilir
+      metin  : (yok)
+      duyulan: öl
+  REPLACE  ...daha büyük tören verebiliyor
+      metin  : toraja nın
+      duyulan: toracanın
+  REPLACE  ...o beden toprağa gömülmez
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...yıllar alırdı aile mezarı
+      metin  : tongkonan
+      duyulan: tonkonan
+  REPLACE  ...mezarlar mağaranın derinliğine iner
+      metin  : içeride
+      duyulan: i çerde
+  REPLACE  ...içeride eski ahşap tabutlar
+      metin  : erong
+      duyulan: eron
+  REPLACE  ...bazıları aşağı düşmüştür ama
+      metin  : toraja
+      duyulan: toraca
+  REPLACE  ...sığ oyuk açılır bebek
+      metin  : eğrelti
+      duyulan: eyrilti
+  REPLACE  ...yerleştirilir ve delik palmiye
+      metin  : lifiyle
+      duyulan: lifi ile
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 71
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: seyahat-2026-09-01.duyulan.txt

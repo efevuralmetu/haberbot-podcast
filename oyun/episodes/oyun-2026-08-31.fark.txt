@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-08-31.mp3
+
+beklenen 1886 kelime | duyulan 1914 kelime | eşleşme %96.1
+sayı ifadesi: metinde 299, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu makineler şirketin bütün
+      metin  : nakdini
+      duyulan: naktini
+  REPLACE  ...amerika kolunun başındaki minoru
+      metin  : arakava ydı
+      duyulan: arakawa idi
+  REPLACE  ...biterdi sorunun adı radar
+      metin  : scope tu
+      duyulan: scoped u
+  REPLACE  ...fena iş yapmayan uzay
+      metin  : nişancısıydı arakava
+      duyulan: nişancısı idi arakawa
+  REPLACE  ...donanımı başka oyuna çevirmekti
+      metin  : arakava
+      duyulan: arakawa
+  REPLACE  ...daki merkeze yani kayınpederi
+      metin  : hiroşi yamauçi
+      duyulan: hirohashi yamauchi
+  REPLACE  ...koyabileceğimiz yeni oyun lazım
+      metin  : yamauçi
+      duyulan: yamauchi
+  INSERT   ...hepsi meşguldü bunun yerine
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...programlama bilmeyen o güne
+      metin  : dek
+      duyulan: de
+  REPLACE  ...uğraşmış genç çalışanı görevlendirdi
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...şigeru miyamoto teknik tarafta
+      metin  : donanım
+      duyulan: donanın
+  INSERT   ...aslında ödünç alınacaktı nintendo
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...alınacaktı nintendo mart ayında
+      metin  : popeye ın
+      duyulan: hoppein
+  REPLACE  ...de bilinen adıyla temel
+      metin  : reis
+      duyulan: race
+  REPLACE  ...o tanıdık karakterleri ekrana
+      metin  : taşımak da
+      duyulan: taşımakta
+  INSERT   ...de dönemin alışkanlıklarına aykırıydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...goril tırmanılacak çelik iskeleler
+      metin  : aradaysa
+      duyulan: arada ize
+  INSERT   ...oyun japonya da temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...japonya da yalnızca jumpman
+      metin  : di
+      duyulan: dı
+  INSERT   ...aklındaki bağlantı basitti universal
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...buraya bağlamıştı sheinberg nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...la ilgili net satışlarının
+      metin  : (yok)
+      duyulan: ünü
+  REPLACE  ...üretiminin durdurulmasını elde kalan
+      metin  : stokların
+      duyulan: sitokların
+  REPLACE  ...edilen karın devrini istedi
+      metin  : arakava
+      duyulan: arakawa
+  REPLACE  ...howard lincoln vardı lincoln
+      metin  : ün
+      duyulan: un
+  DELETE   ...davaya girmek kazansa bile
+      metin  : o
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o oyunun ömrünü tüketebilirdi
+      metin  : universal
+      duyulan: üniversal
+  INSERT   ...ömrünü tüketebilirdi universal haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...in köklü hukuk bürolarından
+      metin  : mudge
+      duyulan: maj
+  REPLACE  ...de bu alanda geçmemişti
+      metin  : altmışlarda
+      duyulan: larda
+  INSERT   ...universal baskıyı artırdı ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sözleşmelerinde nintendo ya ödemeyi
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...cümle kurmadan kesilmişti tablo
+      metin  : dışarıdan
+      duyulan: dışardan
+  INSERT   ...önünde engel vardı hikayeyi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...seyir izledi hikayenin yaratıcısı
+      metin  : merian c cooper
+      duyulan: marion j kuyper
+  REPLACE  ...kurdu universal ile rko
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...yazılı olarak savunmuştu aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tüketiciyi karıştıracak yakınlık yoktu
+      metin  : oyun
+      duyulan: king kong un
+  REPLACE  ...kendi lisans işlerinden geldi
+      metin  : stüdyo
+      duyulan: studio
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-08-31.duyulan.txt

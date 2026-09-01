@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-01.mp3
+
+beklenen 2363 kelime | duyulan 2396 kelime | eşleşme %94.2
+sayı ifadesi: metinde 479, duyulanda 283  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...komitesi moskova ya sordu
+      metin  : sputniği
+      duyulan: sputny i
+  REPLACE  ...değiştiğini defterine yazıyordu adı
+      metin  : sergey pavloviç korolyov du
+      duyulan: sergei pavlovich korolyovtu doğun
+  INSERT   ...pavloviç korolyov du ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olan babasından ayrılan annesi
+      metin  : mariya
+      duyulan: maria
+  REPLACE  ...tutmadığı kesindir annesi mühendis
+      metin  : grigoriy
+      duyulan: grigori
+  INSERT   ...balanin le evlenince aile
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...artık başkalarının uçaklarını temizlemiyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kırım havacılık derneğine katılmış
+      metin  : k
+      duyulan: te
+  REPLACE  ...gerisi hızlı geldi kiev
+      metin  : politeknik
+      duyulan: polyteknik
+  INSERT   ...nde başladığı mühendislik eğitimini
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ismi andrey tupolev di
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da iddialıydı motorsuz planörle
+      metin  : akrobasi
+      duyulan: akrobası
+  REPLACE  ...yapılmıştı ve sonbaharında pilot
+      metin  : vasiliy stepançonok
+      duyulan: vasili stepanchonok
+  REPLACE  ...kanatların yetmediği yerdeydi konstantin
+      metin  : tsiolkovski
+      duyulan: tyolkovski
+  INSERT   ...atarak ilerleyen makine çıkabilirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...almadılar grubun fikir babası
+      metin  : fridrih tsander
+      duyulan: friedrich zander
+  REPLACE  ...bu uğurda tüketen adamdı
+      metin  : martında tifüsten
+      duyulan: mart ında tifüs
+  INSERT   ...göremedi o roket ağustos
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kime gidecek bu tartışmalar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dalga yükseliyordu enstitünün müdürü
+      metin  : i van kleymyonov
+      duyulan: ivan klemyonov
+  REPLACE  ...dizildiler motor tasarımcısı valentin
+      metin  : gluşko
+      duyulan: gulushko
+  REPLACE  ...daki evine gelindi karısı
+      metin  : ksenya
+      duyulan: kasenya
+  REPLACE  ...ksenya ve yaşındaki kızı
+      metin  : nataşa
+      duyulan: natasha
+  REPLACE  ...geçip magadan sonra kuzeye
+      metin  : kolıma
+      duyulan: koloma
+  REPLACE  ...nın içlerine vardığı yer
+      metin  : maldyak
+      duyulan: maldiyak
+  REPLACE  ...vardığı yer maldyak madeniydi
+      metin  : kolıma
+      duyulan: koloma
+  REPLACE  ...cevher taşıyordu yiyecek yetersizdi
+      metin  : iskorbüt
+      duyulan: iskorbut
+  INSERT   ...sallanmaya sonra dökülmeye başladı
+      metin  : (yok)
+      duyulan: gözü
+  REPLACE  ...sırada kampa gönderilen mihail
+      metin  : usaçev
+      duyulan: usachev
+  REPLACE  ...ve moskova ya geri
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  REPLACE  ...ya geri çağrıldı ama
+      metin  : kolıma
+      duyulan: koloma
+  REPLACE  ...da aktarma noktasında dişsiz
+      metin  : iskorbütten
+      duyulan: iskorbuttan
+  INSERT   ...durduğu anıdan moskova ya
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...mahkum olan eski hocası
+      metin  : andrey
+      duyulan: andrei
+  INSERT   ...tepkili motor projeleri önerdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu büronun başında valentin
+      metin  : gluşko
+      duyulan: grushko
+  REPLACE  ...motorları takmaktı ağır yüklü
+      metin  : pe
+      duyulan: p
+  INSERT   ...çıktı serbest bırakılması temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olarak almanya ya gönderildi
+      metin  : türingen
+      duyulan: turingen
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 112
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: biyografi-2026-09-01.duyulan.txt

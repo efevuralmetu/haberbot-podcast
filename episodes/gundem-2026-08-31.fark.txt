@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-08-31.mp3
+
+beklenen 1305 kelime | duyulan 1321 kelime | eşleşme %94.3
+sayı ifadesi: metinde 260, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yolcu gemisinde ölü sayısı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...verilerine göer can kaybı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kayıpların sayısı ize dolayında
+      metin  : rasuwa
+      duyulan: rasuva
+  REPLACE  ...ize dolayında rasuwa ve
+      metin  : nuwakot
+      duyulan: nuvakot
+  REPLACE  ...çin in tibet bölgesindeki
+      metin  : gyirong
+      duyulan: geyrong
+  REPLACE  ...ayına girerken enerji koridoru
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...oil company yani abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...can kaybı yaşanmadı ancak
+      metin  : kuveyt
+      duyulan: kuwait
+  REPLACE  ...yangın günlerce gündemde kaldı
+      metin  : kuveyt
+      duyulan: kuwait
+  REPLACE  ...istihbarat servisinin başkanı john
+      metin  : ratcliffe
+      duyulan: radcliffe
+  REPLACE  ...da rusya dışişleri bakanı
+      metin  : sergey
+      duyulan: sergei
+  INSERT   ...tamamını senato nun sandalyesinden
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...valilik yarışını karara bağlayacak
+      metin  : ekonomi
+      duyulan: ekonomik
+  REPLACE  ...araya getiriyor toplantıya openai
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...toplantıya openai anthropic ve
+      metin  : alphabet
+      duyulan: alfabet
+  REPLACE  ...donanım cephesinde rekabet kızışıyor
+      metin  : anthropic
+      duyulan: antropik
+  INSERT   ...yeni modeli claude opus
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ilk özel çıkarım çipi
+      metin  : halapenyo
+      duyulan: halapenio
+  REPLACE  ...üretiliyor ve watt güç
+      metin  : tüketimiyle
+      duyulan: tüketimi ile
+  REPLACE  ...göer daha düşük enerji
+      metin  : vaadi
+      duyulan: vadi
+  REPLACE  ...apple ilk nanometrelik işlemcisi
+      metin  : maltıyı
+      duyulan: malta yı
+  DELETE   ...işlemcisi maltıyı ve yongalı
+      metin  : mbeş
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ultra yı tanıttı şirket
+      metin  : maltının
+      duyulan: malta nın
+  REPLACE  ...dalgası arasında gidip geldi
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...ve gerileyen petrol fiyatlarının
+      metin  : desteğiyle
+      duyulan: desteği ile
+  REPLACE  ...bilançosunda dolar dolayında gelir
+      metin  : beklentisiyle
+      duyulan: beklentisi ile
+  REPLACE  ...gördü ay içinde doların
+      metin  : üzerini
+      duyulan: üzerine
+  REPLACE  ...kazası ağustos öğleden sonra
+      metin  : girne limanı ndan
+      duyulan: yirne limanından
+  REPLACE  ...helikopter ve savaş gemilerinin
+      metin  : desteğiyle
+      duyulan: desteği ile
+  REPLACE  ...baştan geçersiz sayan mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...özgür özel temmuz da
+      metin  : milletvekiliyle
+      duyulan: milletvekili ile
+  REPLACE  ...bugün kırgızistan da bişkek
+      metin  : arena stadı nda
+      duyulan: arenası tadında
+  INSERT   ...ait büyüme verisi saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...raporunda yıl sonu tahmini
+      metin  : (yok)
+      duyulan: dan e
+  REPLACE  ...sonu beklentisi ize seviyesinde
+      metin  : kurlarda
+      duyulan: kurularda
+  REPLACE  ...karşıladı gram lira dolayında
+      metin  : bist
+      duyulan: beastie
+  REPLACE  ...yönünü bu veri belirleyecek
+      metin  : adli
+      duyulan: haddi
+  REPLACE  ...veri belirleyecek adli tatilin
+      metin  : bitmesiyle
+      duyulan: bitmesi ile
+  REPLACE  ...mutlak butlan dosyasındaki incelemesi
+      metin  : girne
+      duyulan: yerne
+  REPLACE  ...bekleniyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: gundem-2026-08-31.duyulan.txt

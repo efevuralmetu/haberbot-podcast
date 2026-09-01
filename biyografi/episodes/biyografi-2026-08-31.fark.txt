@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-08-31.mp3
+
+beklenen 2573 kelime | duyulan 2591 kelime | eşleşme %94.3
+sayı ifadesi: metinde 387, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...keskin dilli ordu cerrahı
+      metin  : düello
+      duyulan: duello
+  REPLACE  ...imparatorluğun en yüksek tıp
+      metin  : rütbesine
+      duyulan: rükbesine
+  REPLACE  ...kardeşi adı da james
+      metin  : barry ydi
+      duyulan: berry idi
+  INSERT   ...parasız ve inatçı adamdı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olduğunu erken fark etti
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...kadının tıbba dokunabileceği tek
+      metin  : yer ebelikti
+      duyulan: yeer belikti
+  REPLACE  ...anne ve kız süreliğine
+      metin  : cork tan
+      duyulan: korktan
+  REPLACE  ...yok akrabalar söz etmiyor
+      metin  : cork
+      duyulan: jork
+  REPLACE  ...aramıyor polize haber vermiyor
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...genç ize kendini james
+      metin  : barry
+      duyulan: berry
+  REPLACE  ...arkasında isim var david
+      metin  : steuart
+      duyulan: stuart
+  REPLACE  ...fikirler taşıyan adam diğeri
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...kılık geçici olacaktı yeni
+      metin  : ad da
+      duyulan: atta
+  REPLACE  ...adamı taşıyordu james miranda
+      metin  : steuart barry
+      duyulan: stowart berry öt
+  REPLACE  ...hemen sonra geldi aralık
+      metin  : barry
+      duyulan: da berry
+  REPLACE  ...londra daki avukatı daniel
+      metin  : reardon
+      duyulan: riardon
+  REPLACE  ...mektup yazdı mektupta margaret
+      metin  : bulkley
+      duyulan: buckley
+  REPLACE  ...olduğunu anlatıyordu mektubu james
+      metin  : barry
+      duyulan: berry
+  REPLACE  ...barry diye imzaladı avukat
+      metin  : reardon
+      duyulan: riardon
+  REPLACE  ...olduğunu not düştü bayan
+      metin  : bulkley
+      duyulan: buckley
+  INSERT   ...tek fiziksel bağdı kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kasım i skoçya nın
+      metin  : başkenti
+      duyulan: başkentiyi
+  REPLACE  ...nın başkenti edinburgh yani
+      metin  : edinburg
+      duyulan: edinburgh
+  REPLACE  ...iyi tıp okuluna sahipti
+      metin  : barry
+      duyulan: berry
+  REPLACE  ...ve tıp öğrencisi olarak
+      metin  : kaydoldu
+      duyulan: kayboldu
+  REPLACE  ...konuştu ve karar bozuldu
+      metin  : barry
+      duyulan: berry de
+  REPLACE  ...bozuldu barry tıp doktoru
+      metin  : unvanını
+      duyulan: ünvanını
+  REPLACE  ...ve buchan ardından londra
+      metin  : barry
+      duyulan: berry
+  REPLACE  ...hastanesi guy s ve
+      metin  : st
+      duyulan: sid
+  REPLACE  ...st thomas yani guy
+      metin  : hastanesi ile
+      duyulan: hastanesiyle
+  REPLACE  ...ünlü cerrahlarıydı aralarında henry
+      metin  : cline
+      duyulan: c lyne
+  INSERT   ...ve astley cooper vardı
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...astley cooper vardı temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...geçti gün sonra temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...planı çoktan çökmüştü miranda
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gönderilmişti daha özgür kalmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i spanyol hapishanesinde öldü
+      metin  : barry
+      duyulan: berry
+  REPLACE  ...geri adım atamayacaktı ağustos
+      metin  : barry
+      duyulan: da berry
+  REPLACE  ...koloninin valisi lord charles
+      metin  : somersede
+      duyulan: somerset e
+  REPLACE  ...aylarca uzakta liman şehriydi
+      metin  : barry
+      duyulan: berry
+  ... ve 56 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 117
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: biyografi-2026-08-31.duyulan.txt

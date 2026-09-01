@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-01.mp3
+
+beklenen 1635 kelime | duyulan 1650 kelime | eşleşme %93.7
+sayı ifadesi: metinde 209, duyulanda 146  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çiçeklerini inekler yemişti aynı
+      metin  : kareyi
+      duyulan: karayı
+  INSERT   ...reklam ajansının çizim masasında
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...toplantılarında kravatını düzeltiyordu adı
+      metin  : satyacit
+      duyulan: satyajit
+  REPLACE  ...öncüydü babası sukumar ray
+      metin  : bengalce nin
+      duyulan: bengalçenin
+  INSERT   ...ve sayfayla kurduğu ilişkiydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i ngiliz reklam ajansı
+      metin  : d j keymer
+      duyulan: dj kaymer
+  REPLACE  ...iç çizimler istiyordu kitap
+      metin  : bibutibuşan
+      duyulan: bibuti bushan
+  INSERT   ...kitap bibutibuşan bandopadhay ın
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ın yayımlanmış romanı pater
+      metin  : pançali
+      duyulan: panchali
+  REPLACE  ...haliydi bu kısaltmaya aam
+      metin  : antir bhepu
+      duyulan: antirbepu
+  REPLACE  ...brahman ailenin çocukları apu
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...hevesliden ibaretti arkadaşlarıyla kurdukları
+      metin  : kalküta
+      duyulan: calcutta
+  REPLACE  ...teknik ustalığına hayranlık duyuyor
+      metin  : hint
+      duyulan: hind
+  REPLACE  ...şarkı sekanslarına abartılı oyunculuğuna
+      metin  : içerliyordu
+      duyulan: içeriliyordu da
+  REPLACE  ...oyunculuğuna içerliyordu fransız yönetmen
+      metin  : jan rönuar
+      duyulan: jean renoir
+  REPLACE  ...da aklındaki projeyi anlattı
+      metin  : rönuar
+      duyulan: renoir
+  REPLACE  ...onaydan fazlasıydı nehir setinde
+      metin  : rönuar
+      duyulan: renoir
+  REPLACE  ...yakın film izledi bunlardan
+      metin  : vittoryo dö sika
+      duyulan: vittorio d osica
+  REPLACE  ...dönüş yolculuğunu gemide pater
+      metin  : pançali
+      duyulan: panchali
+  INSERT   ...vardı haklardı romanın yazarı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elden çıkardı sıra eşi
+      metin  : bicoya nın
+      duyulan: big choi anın
+  REPLACE  ...sorumlusu anil çaudri istedi
+      metin  : bicoya
+      duyulan: big choi e
+  REPLACE  ...hiç film çekmemişti fotoğrafçıydı
+      metin  : rönuar ın
+      duyulan: rönüvarın
+  REPLACE  ...çocukların hiçbiri tutmadı sonunda
+      metin  : bicoya
+      duyulan: bikoya
+  REPLACE  ...rol yaşlı teyze indir
+      metin  : thakrun du
+      duyulan: takrundu
+  REPLACE  ...bırakmış tiyatro oyuncusunu buldu
+      metin  : çunibala devi
+      duyulan: cuni baladevi ine
+  REPLACE  ...sığırları bütün otları yemişti
+      metin  : kaş
+      duyulan: nakkaş
+  REPLACE  ...sahneyi tamamlayabilmek için sonraki
+      metin  : mevsimi
+      duyulan: mevsim
+  REPLACE  ...yapım hikayesinin özetidir pater
+      metin  : pançali
+      duyulan: panchali
+  REPLACE  ...en popüler şarkıcılarından olan
+      metin  : kişoer
+      duyulan: kishoer
+  REPLACE  ...parça haline getirdi anil
+      metin  : çaudri
+      duyulan: chaudhry
+  REPLACE  ...gitmeyi önerdi başbakan bidhan
+      metin  : çandra
+      duyulan: chandra
+  REPLACE  ...filmin adı imdada yetişti
+      metin  : pater pançali
+      duyulan: serpanjali
+  REPLACE  ...küçük yolun şarkısı demektir
+      metin  : ödenek
+      duyulan: ödönek
+  INSERT   ...açılması tamamlanmasından önce başladı
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...museum of modern art
+      metin  : ın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nin küratörü monroe wheeler
+      metin  : kalküta
+      duyulan: calcutta
+  REPLACE  ...sonra da bitirilirse dünya
+      metin  : prömiyerini
+      duyulan: premierini
+  REPLACE  ...masaya koydu ay sonra
+      metin  : kalküta
+      duyulan: calcutta
+  REPLACE  ...a döndüğünde modern sanat
+      metin  : müzesi ne kalküta
+      duyulan: müzesine calcutta
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: film-2026-09-01.duyulan.txt

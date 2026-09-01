@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-01.mp3
+
+beklenen 1375 kelime | duyulan 1409 kelime | eşleşme %94.7
+sayı ifadesi: metinde 290, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...durur silah mektup imza
+      metin  : onunkinde
+      duyulan: kinde
+  REPLACE  ...ortasında sürat motorunun üstünde
+      metin  : romen
+      duyulan: roman
+  REPLACE  ...ben türk şairi nazım
+      metin  : hikmedim
+      duyulan: hikmet im
+  REPLACE  ...sandıklarının dibinde palto ceplerinde
+      metin  : koğuş
+      duyulan: kovuş
+  REPLACE  ...kitapların çoğunun kapağında aynı
+      metin  : ad
+      duyulan: at
+  REPLACE  ...vardı nazım hikmet o
+      metin  : ad
+      duyulan: at
+  INSERT   ...ve en tanınmış adıydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adıydı selanik te doğmuş
+      metin  : heybeliada
+      duyulan: heybeliyada
+  REPLACE  ...bahriye mektebi nde okumuş
+      metin  : sağlık
+      duyulan: i talık
+  INSERT   ...ya geçmiş oradan da
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...değil teknik de getirdi
+      metin  : aruzu
+      duyulan: ağruzu
+  INSERT   ...diliyle yazılmış serbest nazım
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kovuşturmalar da birbirini izledi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...izledi ve sonrasında hapis
+      metin  : yattı
+      duyulan: yaptı
+  INSERT   ...kitapları toplatıldı davalar açıldı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...çıkmayacaktı kopuş ocağında geldi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...yerleştirilen öğrencinin ifadesiydi mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yola çıkmıştı yargılama ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yalnızca üyesi hukukçuydu kalanı
+      metin  : muvazzaf
+      duyulan: muvazzap
+  INSERT   ...ve okunmaktı karar ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ağustos açıklandı mahkeme nazım
+      metin  : hikmedi
+      duyulan: hikmet i
+  REPLACE  ...yıl ay aralık ayında
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...şehir önermesi üzerine aralık
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...portreler ve manzaralar çizdi
+      metin  : toska
+      duyulan: tosca
+  REPLACE  ...manzaralar çizdi toska ve
+      metin  : kavalleria rustikana
+      duyulan: cavalleria rusticana
+  REPLACE  ...kalıcı biçimde değiştirdi aynı
+      metin  : koğuşta
+      duyulan: kovuşta
+  REPLACE  ...üretim yerine dönüşmüştü nazım
+      metin  : hikmedin
+      duyulan: hikmet in
+  REPLACE  ...yazdıkları yalnızca manzaralar değildi
+      metin  : rubailer ferhad
+      duyulan: rubay iler ferhat
+  REPLACE  ...ancak şairin ölümünden sonra
+      metin  : altmışlarda
+      duyulan: larda
+  INSERT   ...sadece söylenti olarak dolaştı
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...bedenini ortaya koydu nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kaldırıldı ve grevi mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kalbi artık sağlam değildi
+      metin  : (yok)
+      duyulan: büs
+  INSERT   ...artık sağlam değildi temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...cezası kalktı ve temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...özgürlük kısa sürdü kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ülkesinin sınırlarından dışarı çıkamıyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...krizi geçirmiş adam askeer
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  INSERT   ...den çıkmasaydı öldürüleceğini düşünüyordu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...sonunda yük gemisi göründü
+      metin  : romen bandıralı plehanov
+      duyulan: roman bandralı plihanov
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: edebiyat-2026-09-01.duyulan.txt
