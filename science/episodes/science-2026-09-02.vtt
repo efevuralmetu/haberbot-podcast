@@ -1,0 +1,681 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.770
+It lasts a thousandth of a second, travels billions of light years, and in a single flash releases as much energy as the Sun puts out in a day.
+
+2
+00:00:08.770 --> 00:00:17.700
+For years nobody knew where these things came from — on one occasion the source of the signal turned out to be the microwave oven in the observatory kitchen.
+
+3
+00:00:17.700 --> 00:00:25.030
+But the real ones achieved something remarkable: they weighed the universe's long-missing matter and showed us where it was hiding.
+
+4
+00:00:33.230 --> 00:00:42.320
+It lasts one thousandth of a second, it has travelled billions of light years, and in a single flash it dumps out as much energy as the Sun radiates in a day.
+
+5
+00:00:42.320 --> 00:00:51.730
+For years nobody could say where these things came from — on one memorable occasion the source of the signal turned out to be the microwave oven in an observatory kitchen.
+
+6
+00:00:51.730 --> 00:00:59.700
+But the genuine ones managed something remarkable: they weighed the matter the universe had been hiding for decades, and showed us where it was.
+
+7
+00:00:59.700 --> 00:01:07.350
+One of the drearier jobs in astronomy is going back over data that other people looked at years ago and moved on from.
+
+8
+00:01:07.350 --> 00:01:17.080
+In two thousand seven, at West Virginia University, Duncan Lorimer handed exactly that job to an undergraduate named David Narkevic.
+
+9
+00:01:17.080 --> 00:01:27.770
+What they had was an archive collected years earlier with the sixty-four metre dish of the Parkes Observatory, in the Australian state of New South Wales, and the task was to sift through it for overlooked,
+
+10
+00:01:27.770 --> 00:01:35.260
+isolated pulses from pulsars — neutron stars that spin many times a second and send out regular radio beats.
+
+11
+00:01:35.260 --> 00:01:39.070
+Nobody was expecting a new class of celestial object.
+
+12
+00:01:39.070 --> 00:01:41.600
+It was a matter of patience.
+
+13
+00:01:41.600 --> 00:01:48.610
+In a recording dated the twenty-fourth of August, two thousand one, Narkevic ran into something he had not been looking for.
+
+14
+00:01:48.610 --> 00:01:56.580
+While the telescope was pointed near the edge of the Small Magellanic Cloud, there had been a flash lasting less than five milliseconds.
+
+15
+00:01:56.580 --> 00:02:03.270
+Brevity aside, the truly odd thing was its brightness: strong enough to swamp everything else in that patch of sky.
+
+16
+00:02:03.270 --> 00:02:05.640
+And it had never repeated.
+
+17
+00:02:05.640 --> 00:02:11.210
+But what made the signal genuinely interesting was not its brightness — it was its shape.
+
+18
+00:02:11.210 --> 00:02:18.060
+Radio telescopes do not listen to the sky at one single frequency; they listen across an entire band at once.
+
+19
+00:02:18.060 --> 00:02:24.750
+This flash reached the top of the band, the high frequencies, first, and arrived at the low frequencies later.
+
+20
+00:02:24.750 --> 00:02:34.960
+The lower you went, the larger the delay, and not in a haphazard way but with mathematical cleanliness: the delay was inversely proportional to the square of the frequency.
+
+21
+00:02:34.960 --> 00:02:37.970
+The reason for this is well understood.
+
+22
+00:02:37.970 --> 00:02:45.780
+The space between the stars is not empty; it holds an extraordinarily thin plasma of free electrons torn away from their nuclei.
+
+23
+00:02:45.780 --> 00:02:52.790
+As radio waves cross that plasma they slow down slightly, and low frequencies slow a little more than high ones.
+
+24
+00:02:52.790 --> 00:03:00.280
+The longer the path, the more electrons the wave has to pass through, and the wider the spread in arrival times.
+
+25
+00:03:00.280 --> 00:03:09.370
+Astronomers measure that spread with a single number: the dispersion measure, which is essentially a count of how many electrons the beam crossed along its journey.
+
+26
+00:03:09.370 --> 00:03:13.500
+For this burst, that number was three hundred and seventy-five.
+
+27
+00:03:13.500 --> 00:03:19.390
+Roughly fifteen times what the models predicted the Milky Way ought to contribute in that direction.
+
+28
+00:03:19.390 --> 00:03:26.400
+In other words, the signal had passed through far more layers of matter than the plasma of our own galaxy could possibly account for.
+
+29
+00:03:26.400 --> 00:03:33.570
+There was only one reasonable conclusion: the source lay outside the Milky Way, probably billions of light years away.
+
+30
+00:03:33.570 --> 00:03:41.540
+And if that was right, then within a few milliseconds that source had released a burst of radio energy approaching what the Sun emits over days.
+
+31
+00:03:41.540 --> 00:03:50.310
+The delay between the top and the bottom of the band came close to a quarter of a second; that quarter of a second was the signature of the distance the signal had covered.
+
+32
+00:03:50.310 --> 00:03:55.720
+The astronomical community did not believe it straight away, and they were right not to.
+
+33
+00:03:55.720 --> 00:04:00.170
+One telescope, one event, a recording with no repeat.
+
+34
+00:04:00.170 --> 00:04:06.860
+What is more, the same observatory's data had for years contained another strange family of signals.
+
+35
+00:04:06.860 --> 00:04:12.270
+These too lasted milliseconds, and these too spread out with frequency.
+
+36
+00:04:12.270 --> 00:04:20.720
+They had been given the name perytons, after a mythical creature that was part stag and part bird, and the choice was apt, because nobody knew what they were.
+
+37
+00:04:20.720 --> 00:04:24.370
+The perytons had two unsettling properties.
+
+38
+00:04:24.370 --> 00:04:30.580
+First, their dispersion measures were always close to one another, clustering around four hundred and ten.
+
+39
+00:04:30.580 --> 00:04:36.150
+There is no reason for signals arriving from every corner of the universe to agree on a number like that.
+
+40
+00:04:36.150 --> 00:04:45.240
+Second, and worse: the observatory's receiver watched the sky with thirteen separate beams, and the perytons turned up in every one of them at once.
+
+41
+00:04:45.240 --> 00:04:49.850
+Light coming from a point on the sky falls into only one or two beams.
+
+42
+00:04:49.850 --> 00:04:54.460
+Something that arrives from everywhere at once is not coming from the sky.
+
+43
+00:04:54.460 --> 00:04:58.750
+Suspicion deepened, because the perytons were fond of office hours.
+
+44
+00:04:58.750 --> 00:05:02.240
+They clustered on weekdays, around the middle of the day.
+
+45
+00:05:02.240 --> 00:05:12.130
+In two thousand fifteen, a team including Emily Petroff installed a monitor at the observatory to keep continuous watch on electromagnetic interference at the site.
+
+46
+00:05:12.130 --> 00:05:21.060
+In January of that year three perytons were caught, and sitting right on top of each one was a signal blazing at around two point four gigahertz.
+
+47
+00:05:21.060 --> 00:05:25.030
+That is the operating frequency of microwave ovens.
+
+48
+00:05:25.030 --> 00:05:28.680
+The source was the observatory kitchen.
+
+49
+00:05:28.680 --> 00:05:38.730
+When a microwave door is opened before the timer runs out, the magnetron inside is still winding down, and for an instant it leaks a short burst of radio energy into the room.
+
+50
+00:05:38.730 --> 00:05:43.500
+The team was able to reproduce the signal over and over by doing it deliberately.
+
+51
+00:05:43.500 --> 00:05:49.550
+Some of the mysterious bursts that had occupied astronomers for years were coming from reheated lunches.
+
+52
+00:05:49.550 --> 00:05:54.800
+But this discovery did not discredit the real bursts; if anything it cleaned them up.
+
+53
+00:05:54.800 --> 00:06:03.410
+Because the way the perytons spread across frequency did not quite obey the physical law that governs plasma, whereas the real bursts fitted it perfectly.
+
+54
+00:06:03.410 --> 00:06:08.180
+Perytons fell into all of the beams; the real bursts into only one.
+
+55
+00:06:08.180 --> 00:06:18.870
+And in November of two thousand twelve, on the other side of the world, the Arecibo Observatory in Puerto Rico caught a burst in a single beam, with a clean frequency sweep,
+
+56
+00:06:18.870 --> 00:06:22.680
+and a dispersion measure of five hundred and fifty-seven.
+
+57
+00:06:22.680 --> 00:06:27.290
+Local noise cannot imitate the same physics in two hemispheres at once.
+
+58
+00:06:27.290 --> 00:06:31.100
+Today we call these events fast radio bursts.
+
+59
+00:06:31.100 --> 00:06:41.630
+The CHIME telescope in Canada, the Canadian Hydrogen Intensity Mapping Experiment, which came online in two thousand eighteen and sweeps the sky with fixed half-cylindrical antennas,
+
+60
+00:06:41.630 --> 00:06:48.000
+listed more than five hundred bursts in its first catalogue, and the number has run into the thousands since.
+
+61
+00:06:48.000 --> 00:06:54.530
+Estimates suggest that across the whole sky, thousands of fast radio bursts go off every single day.
+
+62
+00:06:54.530 --> 00:06:58.340
+So they are not rare; they are simply very short.
+
+63
+00:06:58.340 --> 00:07:03.910
+Once you accept that a signal is real, a much harder question begins: what is making it?
+
+64
+00:07:03.910 --> 00:07:06.600
+Duration is a brutal constraint here.
+
+65
+00:07:06.600 --> 00:07:14.890
+If an object brightens and fades in less than a millisecond, then light must be able to cross from one end of that object to the other in less than a millisecond.
+
+66
+00:07:14.890 --> 00:07:20.300
+Otherwise the flash would be blurred out by the delays coming from different parts of the source.
+
+67
+00:07:20.300 --> 00:07:24.590
+Light travels three hundred kilometres in a millisecond.
+
+68
+00:07:24.590 --> 00:07:34.800
+So the thing that hurls out, in a single instant and from billions of light years away, as much energy as the Sun produces in days, is roughly the size of a city.
+
+69
+00:07:34.800 --> 00:07:45.170
+What is more, this radiation cannot be the kind a hot body gives off as heat; the temperature you would need for such brightness corresponds to no meaningful value in physics.
+
+70
+00:07:45.170 --> 00:07:49.140
+That leaves only one option: coherent emission.
+
+71
+00:07:49.140 --> 00:07:58.070
+Charged particles oscillating not one by one, but in vast swarms, in step with one another, stacking their radio waves on top of each other.
+
+72
+00:07:58.070 --> 00:08:03.640
+And we know of one place in nature that can do this: extreme magnetic fields.
+
+73
+00:08:03.640 --> 00:08:06.330
+Which brings us to magnetars.
+
+74
+00:08:06.330 --> 00:08:12.380
+A magnetar is an extreme kind of neutron star, what remains of the collapsed core of a massive star.
+
+75
+00:08:12.380 --> 00:08:22.270
+It is about twenty kilometres across, close to one and a half times the mass of the Sun, and a single teaspoon of its material would weigh hundreds of millions of tonnes on Earth.
+
+76
+00:08:22.270 --> 00:08:30.400
+Its defining feature is its magnetic field: trillions of times stronger than Earth's, the most violent magnetic structure in the known universe.
+
+77
+00:08:30.400 --> 00:08:34.210
+This field squeezes the star's crust like a vice.
+
+78
+00:08:34.210 --> 00:08:41.860
+The crust of a neutron star is a layer in which atomic nuclei are locked into crystalline order, incomparably harder than steel.
+
+79
+00:08:41.860 --> 00:08:50.470
+But as the magnetic field decays over time it bends the crust, stretches it, and eventually loads it with more stress than it can carry.
+
+80
+00:08:50.470 --> 00:09:02.120
+The result is a starquake: the crust cracks, the magnetic field lines anchored to that crack lash outward like whips, reconnect, and fling out waves of charged particles at close to the speed of light.
+
+81
+00:09:02.120 --> 00:09:07.530
+At the shock front these waves create, coherent radio emission can be produced.
+
+82
+00:09:07.530 --> 00:09:11.340
+For a long time this was a plausible scenario on paper.
+
+83
+00:09:11.340 --> 00:09:15.310
+In April of two thousand twenty it turned into evidence.
+
+84
+00:09:15.310 --> 00:09:28.080
+In the direction of the constellation Vulpecula, inside the Milky Way, some thirty thousand light years from us, a magnetar named SGR nineteen thirty-five plus twenty-one fifty-four had turned restless in those days;
+
+85
+00:09:28.080 --> 00:09:32.530
+space telescopes were seeing X-ray bursts from it one after another.
+
+86
+00:09:32.530 --> 00:09:41.140
+On the twenty-eighth of April, in the middle of that X-ray storm, came a radio burst short enough to last a single millisecond.
+
+87
+00:09:41.140 --> 00:09:47.670
+The Canadian telescope caught it from outside its main field of view, through a side lobe of its sensitivity.
+
+88
+00:09:47.670 --> 00:09:56.760
+At the same moment a second system in the United States, built from a handful of small antennas that look almost primitive on their own, recorded the very same burst.
+
+89
+00:09:56.760 --> 00:10:03.450
+And within that same second, several space telescopes saw a hard X-ray flash from the magnetar.
+
+90
+00:10:03.450 --> 00:10:07.900
+The timing was far too precise to be left to coincidence.
+
+91
+00:10:07.900 --> 00:10:13.310
+This was the first fast radio burst to come not from beyond our galaxy but from within it.
+
+92
+00:10:13.310 --> 00:10:19.200
+Its power was about thirty times weaker than even the faintest extragalactic burst seen up to that day.
+
+93
+00:10:19.200 --> 00:10:23.970
+Yet it was still far stronger than anything an ordinary pulsar could come close to.
+
+94
+00:10:23.970 --> 00:10:29.220
+So magnetars, even if only at the lower end of the scale, could do the job.
+
+95
+00:10:29.220 --> 00:10:34.150
+From here on it is still open-ended, and that has to be said honestly.
+
+96
+00:10:34.150 --> 00:10:42.600
+Some of the bursts repeat; the source of the event the Arecibo Observatory caught flared again, over and over, in two thousand sixteen.
+
+97
+00:10:42.600 --> 00:10:45.130
+Others never come back at all.
+
+98
+00:10:45.130 --> 00:10:52.460
+Whether these two groups come from the same kind of object, or represent two separate physical processes, is still debated.
+
+99
+00:10:52.460 --> 00:11:04.110
+And so is the question of exactly where the emission is generated: inside the magnetar's magnetosphere, or much further out, at the shock front where the ejected material slams into the surrounding medium?
+
+100
+00:11:04.110 --> 00:11:07.120
+There are no answers to these questions yet.
+
+101
+00:11:07.120 --> 00:11:12.690
+There is one more thing missing: any evidence whatsoever in favour of an artificial source.
+
+102
+00:11:12.690 --> 00:11:21.620
+When the bursts were discovered that possibility was raised as well, but the frequency sweep of the signals follows the law of natural plasma to the letter,
+
+103
+00:11:21.620 --> 00:11:27.350
+and the sources are scattered in every direction across the sky and through different depths of the universe.
+
+104
+00:11:27.350 --> 00:11:30.200
+These are natural phenomena.
+
+105
+00:11:30.200 --> 00:11:35.130
+And in any case, what comes after this is the truly astonishing part.
+
+106
+00:11:35.130 --> 00:11:40.860
+Up to now, with these bursts, we have been looking at the carrier — at the signal itself.
+
+107
+00:11:40.860 --> 00:11:50.110
+And yet the real place fast radio bursts hold in the history of science lies not in the message they carry, but in what happens to them along the way.
+
+108
+00:11:50.110 --> 00:11:54.400
+To see this, we need to look at the universe's ledger.
+
+109
+00:11:54.400 --> 00:12:01.410
+Roughly sixty-eight percent of the universe's energy content is dark energy, and twenty-seven percent is dark matter.
+
+110
+00:12:01.410 --> 00:12:06.980
+What is left, about five percent, is the matter we know: protons and neutrons.
+
+111
+00:12:06.980 --> 00:12:10.790
+Stars, planets, gas, us.
+
+112
+00:12:10.790 --> 00:12:13.960
+That five percent figure is not a guess.
+
+113
+00:12:13.960 --> 00:12:24.810
+Both the abundances of the light elements forged in the first three minutes and the measured patterns of the cosmic microwave background arrive at the very same number, by two completely independent routes.
+
+114
+00:12:24.810 --> 00:12:30.220
+The problem was this: when astronomers tried to count that matter, they could not find it.
+
+115
+00:12:30.220 --> 00:12:42.510
+When they added up the stars in the nearby universe, the gas inside galaxies, the hot gas in galaxy clusters, the clouds drifting between galaxies, they came away with only about half of what should have been there.
+
+116
+00:12:42.510 --> 00:12:45.840
+This became known as the missing baryon problem.
+
+117
+00:12:45.840 --> 00:12:49.330
+Note carefully: this is not dark matter.
+
+118
+00:12:49.330 --> 00:12:54.100
+Dark matter is a separate puzzle, and it is already accounted for in the tally.
+
+119
+00:12:54.100 --> 00:12:59.190
+What went missing here is ordinary matter, whose nature we understand perfectly well.
+
+120
+00:12:59.190 --> 00:13:02.200
+We simply did not know where it was.
+
+121
+00:13:02.200 --> 00:13:04.410
+Theory had an answer ready.
+
+122
+00:13:04.410 --> 00:13:14.460
+This matter had to be sitting outside the galaxies, inside the filaments that weave the universe together like a web, heated to somewhere between one hundred thousand and ten million degrees,
+
+123
+00:13:14.460 --> 00:13:17.950
+in the form of an extraordinarily thin gas.
+
+124
+00:13:17.950 --> 00:13:29.600
+But that puts the gas in precisely the hardest state to see: hot enough to emit X-rays, yet not dense enough to emit a measurable amount of them, and not substantial enough to leave an absorption line either.
+
+125
+00:13:29.600 --> 00:13:35.330
+For decades, the efforts to reveal this gas hovered right at the edge of detectability.
+
+126
+00:13:35.330 --> 00:13:39.300
+And here is where the gift of fast radio bursts comes in.
+
+127
+00:13:39.300 --> 00:13:43.430
+The dispersion measure does not care about the temperature of the gas.
+
+128
+00:13:43.430 --> 00:13:48.840
+It does not care how thin it is, what phase it is in, or whether it radiates at all.
+
+129
+00:13:48.840 --> 00:13:55.210
+It counts one thing and one thing only: how many free electrons lie along the path of the beam.
+
+130
+00:13:55.210 --> 00:14:01.100
+A fast radio burst weighs the entire column of matter stretching from its source to us, all at once.
+
+131
+00:14:01.100 --> 00:14:04.910
+Including the part we cannot see.
+
+132
+00:14:04.910 --> 00:14:08.560
+Only one thing was missing: distance.
+
+133
+00:14:08.560 --> 00:14:15.730
+On its own, the dispersion measure cannot distinguish thin gas along a long path from dense gas along a short one.
+
+134
+00:14:15.730 --> 00:14:21.140
+To solve the equation, you had to know exactly where the burst came from.
+
+135
+00:14:21.140 --> 00:14:24.150
+And for that a single dish is not enough.
+
+136
+00:14:24.150 --> 00:14:35.320
+You have to run antennas separated by kilometres in concert, pin down the burst's position to within an arcsecond, then find the galaxy sitting at that spot, take its spectrum with an optical telescope,
+
+137
+00:14:35.320 --> 00:14:38.650
+and read off its distance from the redshift.
+
+138
+00:14:38.650 --> 00:14:44.220
+In May of two thousand twenty, a team led by Jean-Pierre Macquart pulled this off.
+
+139
+00:14:44.220 --> 00:14:54.590
+The radio array in Western Australia, ASKAP, the Australian Square Kilometre Array Pathfinder, had delivered a handful of bursts whose positions they could pin down.
+
+140
+00:14:54.590 --> 00:15:00.480
+For each one, the team laid two numbers side by side: the dispersion measure and the redshift.
+
+141
+00:15:00.480 --> 00:15:03.810
+The relationship that emerged was simple.
+
+142
+00:15:03.810 --> 00:15:08.260
+The more distant the burst, the more electrons its signal had passed through.
+
+143
+00:15:08.260 --> 00:15:16.070
+The slope of that line gave, directly and immediately, the average density of ordinary matter in intergalactic space.
+
+144
+00:15:16.070 --> 00:15:21.160
+The result came out at around five percent of the total energy content of the universe.
+
+145
+00:15:21.160 --> 00:15:26.410
+In other words, exactly the number the cosmic microwave background had given.
+
+146
+00:15:26.410 --> 00:15:35.980
+The missing baryons were not missing at all; they were sitting in the void between the galaxies, precisely where theory said they would be, and now they had been weighed.
+
+147
+00:15:35.980 --> 00:15:46.190
+Today this relationship is known as the Macquart relation, because the astronomer who gave it his name died unexpectedly in two thousand twenty, very shortly after the paper was published.
+
+148
+00:15:46.190 --> 00:15:50.000
+What is truly lovely is that the story does not stop there.
+
+149
+00:15:50.000 --> 00:15:57.330
+The scatter around the relation, the deviation of individual bursts from the average line, looked at first like a margin of error.
+
+150
+00:15:57.330 --> 00:15:59.220
+It is not.
+
+151
+00:15:59.220 --> 00:16:03.510
+That scatter is the lumpy structure of the cosmic web itself.
+
+152
+00:16:03.510 --> 00:16:10.520
+If a burst's beam passed through a dense filament, its delay grows; if it crossed a void, the delay shrinks.
+
+153
+00:16:10.520 --> 00:16:17.370
+Accumulate enough bursts, and those deviations turn into a map of how matter between the galaxies is clustered.
+
+154
+00:16:17.370 --> 00:16:27.900
+And indeed, work in recent years has gathered enough data to show that the matter outside galaxies is not scattered at random; it favours the regions where galaxy density runs high.
+
+155
+00:16:27.900 --> 00:16:31.870
+The same method reaches toward a finer question too.
+
+156
+00:16:31.870 --> 00:16:39.680
+If a burst's beam grazes the edge of a foreground galaxy along its path, there is an unexpected jump in the dispersion measure.
+
+157
+00:16:39.680 --> 00:16:45.730
+The size of that jump tells you how full the halo of gas is that the galaxy has flung out around itself.
+
+158
+00:16:45.730 --> 00:16:54.660
+How much matter galaxies blow outward through the supernovae and black holes inside them has been one of the hardest quantities in galaxy evolution to measure.
+
+159
+00:16:54.660 --> 00:17:00.230
+Now, with flashes lasting a millisecond, those halos can be probed one by one.
+
+160
+00:17:00.230 --> 00:17:03.240
+The scale is growing too.
+
+161
+00:17:03.240 --> 00:17:14.090
+In two thousand twenty-three, the Australian array caught a burst with a redshift greater than one; its light had travelled for nearly eight billion years before reaching us, and the relation held there as well.
+
+162
+00:17:14.090 --> 00:17:25.420
+Today the number of bursts whose host galaxy has been pinned down runs to a few dozen, but with the new generation of arrays that number is expected to reach the hundreds, and then the thousands, before long.
+
+163
+00:17:25.420 --> 00:17:35.150
+Once enough examples have accumulated, these bursts could become a tool not only for mapping where the matter is, but for measuring the expansion rate of the universe by an independent route.
+
+164
+00:17:35.150 --> 00:17:41.200
+Notice this: what makes all of it possible is not the brightness or the power of the burst.
+
+165
+00:17:41.200 --> 00:17:43.730
+It is the corruption of the signal.
+
+166
+00:17:43.730 --> 00:17:54.100
+That delay it picks up along the way, the one that plagued astronomers at the outset, that smeared the signal, that was treated as a flaw to be corrected for in archive searches.
+
+167
+00:17:54.100 --> 00:18:02.710
+The scale that weighs the invisible matter of the universe turned out to be the quarter of a second a millisecond-long flash loses between one frequency and another.
+
+168
+00:18:02.710 --> 00:18:08.440
+In science, the thing you want to measure is sometimes hidden inside the noise you are trying to clean away.
+
+169
+00:18:08.440 --> 00:18:12.250
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+170
+00:18:12.250 --> 00:18:15.580
+Yeni bir hikâyede yeniden buluşmak üzere.
