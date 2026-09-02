@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-02.mp3
+
+beklenen 2640 kelime | duyulan 2650 kelime | eşleşme %94.0
+sayı ifadesi: metinde 410, duyulanda 274  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gölüydü finlandiya estonya livonya
+      metin  : i ngria pomeranya
+      duyulan: ingria pomerania
+  REPLACE  ...bölümü ve alman topraklarındaki
+      metin  : piskoposluk
+      duyulan: psikoposluk
+  INSERT   ...süer birbirine düşman kalmasıydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kalmasıydı kral karl öldüğünde
+      metin  : tahta oğlu
+      duyulan: tahtoğlu
+  DELETE   ...öldüğünde tahta oğlu geçti
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...avı ve matematiği seviyordu
+      metin  : şarap
+      duyulan: karap
+  DELETE   ...ve polonya kralı olan
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hızlı biçimde vurmak yazında
+      metin  : kopenhag ın
+      duyulan: copenhagen
+  INSERT   ...uzun hilal gibi yayılmış
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...vardı sayı üstünlüğü bazen
+      metin  : zaaftır
+      duyulan: zaftır
+  REPLACE  ...yeni gelen yabancı komutanda
+      metin  : dük de kruy de
+      duyulan: dükte kuruyda
+  REPLACE  ...yakını ya nehirde ya
+      metin  : esaretteydi
+      duyulan: esareteydi
+  REPLACE  ...den söz edilmeye başlandı
+      metin  : karl
+      duyulan: carl
+  REPLACE  ...orada tam yıl kaldı
+      metin  : i kinci augustus
+      duyulan: okustus
+  REPLACE  ...u tahttan indirdi yerine
+      metin  : stanislav leşçinski
+      duyulan: stanislaw leszczynski
+  REPLACE  ...stanislav leşçinski yi geçirdi
+      metin  : saksonya yı
+      duyulan: saxonyayı
+  INSERT   ...yı işgal etti ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gerçek dönüm noktasıydı çünkü
+      metin  : karl
+      duyulan: carl
+  INSERT   ...kanlı eğitimden geçirdi ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yeni başkentin temelini attı
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...bedeli kazananın yanlış dersi
+      metin  : çıkarmasıydı
+      duyulan: çıkartmasıydı
+  REPLACE  ...ve orada müttefik bekliyordu
+      metin  : zaporijya
+      duyulan: zaporizya
+  REPLACE  ...adamı olduktan sonra kazak
+      metin  : özerkliğinin
+      duyulan: özelliğinin
+  INSERT   ...üst üste geldi ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kolu lesnaya da yakalandı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...bu durumdaki ordu baharında
+      metin  : vorskla
+      duyulan: worscla
+  REPLACE  ...sveç tarafına geçip tahkimli
+      metin  : ordugah
+      duyulan: orduga
+  INSERT   ...kılan da bu oldu
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...ortadan kalkmıştı komuta mareşal
+      metin  : renşöld e
+      duyulan: renchölde
+  REPLACE  ...rusların açık araziye diktiği
+      metin  : tabya
+      duyulan: tabia
+  REPLACE  ...i sveç planı bu
+      metin  : tabyaları
+      duyulan: tabiaları
+  REPLACE  ...karanlıkta emirler karıştı komutan
+      metin  : roos
+      duyulan: ross
+  REPLACE  ...un yaklaşık kişilik kolu
+      metin  : tabyalara
+      duyulan: tabialara
+  INSERT   ...isabetiyle parçalandı taşıyan muhafızdan
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...o gün i sveç
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yaşandı ordunun kalıntısı güneye
+      metin  : vorskla
+      duyulan: worsicla
+  REPLACE  ...kalıntısı güneye vorskla nın
+      metin  : dinyeper e
+      duyulan: dinye peer
+  REPLACE  ...nın dinyeper e döküldüğü
+      metin  : perevoloçna
+      duyulan: peer voloçna
+  INSERT   ...temmuz da menşikov un
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...doğudaki ordusu artık yoktu
+      metin  : karl ın
+      duyulan: karlı nın
+  ... ve 63 fark daha
+
+metinde olup DUYULMAYAN: 118 kelime | duyulup metinde OLMAYAN: 121
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-09-02.duyulan.txt

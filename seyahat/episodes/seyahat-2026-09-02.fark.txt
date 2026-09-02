@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-02.mp3
+
+beklenen 1709 kelime | duyulan 1726 kelime | eşleşme %96.7
+sayı ifadesi: metinde 233, duyulanda 154  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yüzyıllar boyunca kıyıya bırakarak
+      metin  : yükselttiği
+      duyulan: yükseltiği
+  INSERT   ...buradan gelir hilal şehri
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hilal şehri fransız subay
+      metin  : jan batist lö muayn dö biyanvil
+      duyulan: jean baptiste le moyne de bienville
+  REPLACE  ...su gibi doluyordu ama
+      metin  : biyanvil
+      duyulan: bienville
+  REPLACE  ...büyük su kütlesine yani
+      metin  : pontchartrain
+      duyulan: ponchartrain
+  REPLACE  ...kolunun bütün ticaretini tutuyordu
+      metin  : biyanvil
+      duyulan: bienville
+  REPLACE  ...ticaretini tutuyordu biyanvil kenti
+      metin  : orlean
+      duyulan: orlayan
+  REPLACE  ...nehir kıyısına toprak yığmaya
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...ize mezarlıklarda ortaya çıktı
+      metin  : yer
+      duyulan: yeraltı
+  INSERT   ...ölülerini toprağa gömemiyordu çözüm
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gömemiyordu çözüm açılan numaralı
+      metin  : saint
+      duyulan: st
+  INSERT   ...pazarlığın şartlarını değiştirmeye kalktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...meydanda bulacaktı fransız yönetimi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fransız yönetimi louisiana için
+      metin  : kod nuar
+      duyulan: cote noir
+  INSERT   ...buldukları gündü kent yönetimi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adı congo squaer yani
+      metin  : kongo meydanı ydı
+      duyulan: congo meydanıydı
+  REPLACE  ...mimarlarından benjamin henry latrobe
+      metin  : dur şubatında
+      duyulan: dür şubat ında
+  REPLACE  ...de dışarıdan takviye aldı
+      metin  : sen domeng
+      duyulan: da saint domenque
+  REPLACE  ...haiti den kaçıp önce
+      metin  : küba
+      duyulan: cuba
+  REPLACE  ...da siyah new orleans
+      metin  : lılar
+      duyulan: lular
+  REPLACE  ...alayı yürütecek bandonun ücreti
+      metin  : demekti
+      duyulan: demektir te
+  REPLACE  ...cemaatinin kendi cebinden ödediği
+      metin  : garantiydi
+      duyulan: garanti idi
+  REPLACE  ...geleneğe getirdiği asıl fikirdir
+      metin  : yas
+      duyulan: yaz
+  INSERT   ...insanı tanımak şart değildir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ağustos sabahı katrina kasırgası
+      metin  : louisiana
+      duyulan: lüzyana
+  INSERT   ...noktada yarıldı su kentin
+      metin  : (yok)
+      duyulan: ini
+  INSERT   ...çünkü new orleans pompaların
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...içindeydi ve çanak dolmuştu
+      metin  : louisiana
+      duyulan: lüzyana
+  REPLACE  ...eski siyah mahallelerinden sayılan
+      metin  : tremey
+      duyulan: tremei
+  REPLACE  ...a atlanta ya baton
+      metin  : ruj
+      duyulan: rouge
+  INSERT   ...baton ruj a dağıldı
+      metin  : (yok)
+      duyulan: t
+  REPLACE  ...orleans ın en tanınmış
+      metin  : creole aşçılarından
+      duyulan: kriyolaşçılarından
+  INSERT   ...kalp krizinden öldü ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...i kincisi kalabalık geldi
+      metin  : (yok)
+      duyulan: doğum
+  INSERT   ...kincisi kalabalık geldi ocak
+      metin  : (yok)
+      duyulan: da dan
+  REPLACE  ...eğlence kulübü araya geldi
+      metin  : saten
+      duyulan: zaten
+  INSERT   ...geçerek saat boyunca yürüdü
+      metin  : (yok)
+      duyulan: nok den
+  INSERT   ...yürüdü fazla insan katıldı
+      metin  : (yok)
+      duyulan: çoğu
+  INSERT   ...için istediği eskort ücretini
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...eskort ücretini dolar seviyesinden
+      metin  : (yok)
+      duyulan: da
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: seyahat-2026-09-02.duyulan.txt

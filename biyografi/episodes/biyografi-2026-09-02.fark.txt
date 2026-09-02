@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-02.mp3
+
+beklenen 2302 kelime | duyulan 2349 kelime | eşleşme %94.3
+sayı ifadesi: metinde 442, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...atılmış aç iş arayan
+      metin  : katip
+      duyulan: kağıtip
+  REPLACE  ...o düzenler çocuğun adı
+      metin  : srinivasa ramanujan dır
+      duyulan: srinivasar ramanujandır
+  INSERT   ...srinivasa ramanujan dır aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...üniversite öğrencilerine oda kiralamaktadır
+      metin  : ramanujan
+      duyulan: ramanujand
+  INSERT   ...kütüphaneden kitap getirtmeye başlamıştır
+      metin  : (yok)
+      duyulan: ton
+  REPLACE  ...kolejin kütüphanesinden ödünç alınmış
+      metin  : kapağı
+      duyulan: kapağa
+  REPLACE  ...yıpranmış ciltlik derleme g
+      metin  : s carr
+      duyulan: z jar
+  REPLACE  ...matematikte temel sonuçların özeti
+      metin  : carr
+      duyulan: jar
+  INSERT   ...hazırlayan özel hocaydı kitabı
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...çinde yaklaşık sonuç vardır
+      metin  : cebir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ispat neredeyze hiç yoktur
+      metin  : carr
+      duyulan: jar
+  INSERT   ...öğretilen matematik böyleydi çünkü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...böyleydi çünkü kasaba lisesini
+      metin  : derece ile
+      duyulan: dereceyle
+  INSERT   ...aile katkısı da gitti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gitti evden kaçtı kuzeye
+      metin  : visakhapatnam a
+      duyulan: visa kapatnama
+  REPLACE  ...geri geldi madras ta
+      metin  : paçayappa koleji ne
+      duyulan: paça yapma kolejine
+  REPLACE  ...yük zengin ailelerin çocuklarına
+      metin  : rupi
+      duyulan: rupee
+  INSERT   ...tek satır ispat yok
+      metin  : (yok)
+      duyulan: genel
+  INSERT   ...satır ispat yok temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gerçekleşti gelin komşu kasabadan
+      metin  : janaki
+      duyulan: canaki
+  INSERT   ...artık para kazanmak zorundaydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adama defteri uzattı ve
+      metin  : katiplik
+      duyulan: kağıt iplik
+  REPLACE  ...nin kurucusu v ramaswamy
+      metin  : aiyer
+      duyulan: ayyer
+  REPLACE  ...memurlarına yönlendirdi zincirin ucunda
+      metin  : nelloer un
+      duyulan: nel oray ın
+  INSERT   ...ucunda nelloer un tahsildarı
+      metin  : (yok)
+      duyulan: r
+  REPLACE  ...bu hayır değil tür
+      metin  : bahisti
+      duyulan: bahisdi de
+  REPLACE  ...uzun yazısı çıktı konu
+      metin  : bernulli
+      duyulan: bernoulli
+  INSERT   ...çözümü kendisi verdi mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mart nihayet maaş madras
+      metin  : port
+      duyulan: sports
+  REPLACE  ...spring ve baş muhasebeci
+      metin  : narayana iyer
+      duyulan: narayan ayer
+  REPLACE  ...ne yaptığını fark etti
+      metin  : narayana iyer
+      duyulan: narayan ayer
+  INSERT   ...ngilteer ye mektup yazmaktı
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...mektup yazmaktı sonunda ve
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...diğer hiç cevap vermedi
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...hiç cevap vermedi ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mektup gitti alıcı trinity
+      metin  : koleji nde
+      duyulan: college inde
+  REPLACE  ...nde ders veren yaşındaki
+      metin  : g
+      duyulan: genç
+  REPLACE  ...yaşındaki g h hardy
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...toplam da uydurma değildi
+      metin  : ıraksak
+      duyulan: iraksak
+  REPLACE  ...cambridge li matematikçi e
+      metin  : h
+      duyulan: ha
+  ... ve 53 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 117
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: biyografi-2026-09-02.duyulan.txt

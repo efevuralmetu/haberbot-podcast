@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-02.mp3
+
+beklenen 2250 kelime | duyulan 2262 kelime | eşleşme %97.2
+sayı ifadesi: metinde 239, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...verilen şeyin karşılığı istenemez
+      metin  : immanuel
+      duyulan: i manuel
+  REPLACE  ...şaşırtıcı sonuca varır ahlak
+      metin  : metafiziği nin
+      duyulan: metafizinin
+  REPLACE  ...borç değilse nedir aristoteles
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...nedir aristoteles nikomakhos a
+      metin  : etiğin
+      duyulan: et in
+  REPLACE  ...kişi ödemek zorundadır ve
+      metin  : oğulun
+      duyulan: oğlun
+  INSERT   ...hesap kapanmaz i tiraz
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bitirmedi christina hoff sommers
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ödevleri vardır keyfimize göer
+      metin  : feshedemeyiz
+      duyulan: fes edemeyiz
+  REPLACE  ...yine borçlusun i ki
+      metin  : uç da
+      duyulan: uçta
+  REPLACE  ...yol vardır o anne
+      metin  : baba ile
+      duyulan: babayla
+  REPLACE  ...baba ile çocuk arasındaki
+      metin  : bağı
+      duyulan: bağ
+  REPLACE  ...meselesi değildir çinliler buna
+      metin  : şiao
+      duyulan: şao
+  REPLACE  ...şiao der okunuşu kabaca
+      metin  : şiao
+      duyulan: şao
+  REPLACE  ...da anlatılan tartışmada yıllık
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...bağın adı iyilik vefa
+      metin  : dosdoğru
+      duyulan: doz doğru
+  REPLACE  ...anne babayla ilgili kullanıldığında
+      metin  : valideyne
+      duyulan: valideyine
+  INSERT   ...burada ödemeyi kendi üstlenmez
+      metin  : (yok)
+      duyulan: ötle
+  REPLACE  ...edip yükü yukarı devreder
+      metin  : peygamber e
+      duyulan: peygambeer
+  REPLACE  ...edilen ve buhari ile
+      metin  : müslim
+      duyulan: müslüm
+  INSERT   ...cevap kez annen olur
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...baban yine i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yüzyılda yaşamış i bn
+      metin  : miskeveyh
+      duyulan: i miskevey
+  REPLACE  ...kutsal hak katına yerleştirir
+      metin  : öte
+      duyulan: ötete
+  REPLACE  ...yerleştirir öte yandan yusuf
+      metin  : has
+      duyulan: haz
+  REPLACE  ...in ile arasında tamamladığı
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...fark dayanağında yükümlülük haktır
+      metin  : ilişkinin doğasından
+      duyulan: annesinden
+  REPLACE  ...anne babanın liyakatine bakmaz
+      metin  : feshedilemez
+      duyulan: feşedilemez
+  INSERT   ...faturalandırılabilir fatura gerçekten kesildi
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...fatura gerçekten kesildi yılında
+      metin  : pennsylvania
+      duyulan: pensilvanya
+  REPLACE  ...pennsylvania da mahkeme john
+      metin  : pittas
+      duyulan: pitas
+  DELETE   ...istisnai vaka değil türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  INSERT   ...nüfusun toplam nüfusa oranı
+      metin  : (yok)
+      duyulan: u
+  INSERT   ...kapasitesi yaş üstü nüfusun
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...olan kapanmayan şeye borç
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...çok daha ağır şey
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: www feyyaz tv
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-09-02.duyulan.txt

@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-02.mp3
+
+beklenen 2931 kelime | duyulan 2912 kelime | eşleşme %98.6
+sayı ifadesi: metinde 189, duyulanda 141  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...an undergraduate named david
+      metin  : narkevic
+      duyulan: narkovich
+  REPLACE  ...meter dish of the
+      metin  : parkes
+      duyulan: parks
+  REPLACE  ...dated the of august
+      metin  : narkevic
+      duyulan: narkovich
+  DELETE   ...burst that number was
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...is moer the same
+      metin  : observatory s
+      duyulan: observatories
+  DELETE   ...family of signals these
+      metin  : too
+      duyulan: (YOK — atlanmış)
+  DELETE   ...lasted milliseconds and these
+      metin  : too
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...been given the name
+      metin  : perytons
+      duyulan: peritons
+  REPLACE  ...what they weer the
+      metin  : perytons
+      duyulan: peritons
+  DELETE   ...to another clustering around
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...that and worse the
+      metin  : observatory s
+      duyulan: observatories
+  REPLACE  ...separate beams and the
+      metin  : perytons
+      duyulan: peritons
+  REPLACE  ...suspicion deepened because the
+      metin  : perytons
+      duyulan: peritons
+  REPLACE  ...a team including emily
+      metin  : petroff
+      duyulan: petrov
+  REPLACE  ...january of that year
+      metin  : perytons
+      duyulan: peritons
+  REPLACE  ...signal blazing at around
+      metin  : point gigahertz
+      duyulan: ghz
+  REPLACE  ...because the way the
+      metin  : perytons
+      duyulan: peritons
+  REPLACE  ...bursts fitted it perfectly
+      metin  : perytons
+      duyulan: peritons
+  DELETE   ...a dispersion measuer of
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the source light travels
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...star it is about
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...hundreds of millions of
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...restless in those days
+      metin  : space
+      duyulan: desk based
+  REPLACE  ...even the faintest extragalactic
+      metin  : burst
+      duyulan: bursts
+  REPLACE  ...neutrons stars planets gas
+      metin  : us
+      duyulan: bus
+  REPLACE  ...run antennas separated by
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...with an optical telescope
+      metin  : and
+      duyulan: til you
+  REPLACE  ...led by jean pierer
+      metin  : macquart
+      duyulan: macart
+  REPLACE  ...array in western australia
+      metin  : askap
+      duyulan: ascap
+  REPLACE  ...is known as the
+      metin  : macquart
+      duyulan: macart
+  REPLACE  ...scattered at random it
+      metin  : favours
+      duyulan: favors
+  REPLACE  ...than its light had
+      metin  : travelled
+      duyulan: traveled
+  DELETE   ...trying to clean away
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-02.duyulan.txt

@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-02.mp3
+
+beklenen 1844 kelime | duyulan 1866 kelime | eşleşme %95.5
+sayı ifadesi: metinde 230, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...geçtiği verileer yeniden bakmaktır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verileer yeniden bakmaktır batı
+      metin  : virginia
+      duyulan: virjinya
+  REPLACE  ...lorimer lisans öğrencisi david
+      metin  : narkevic
+      duyulan: narkeviç
+  REPLACE  ...avustralya nın yeni güney
+      metin  : galler
+      duyulan: galer
+  REPLACE  ...gözlemevi nin metrelik dev
+      metin  : çanağıyla
+      duyulan: çanayla
+  REPLACE  ...sınıfı beklemiyordu sabır işiydi
+      metin  : narkevic
+      duyulan: narkeviç
+  REPLACE  ...radyo teleskopları gökyüzünü tek
+      metin  : frekansta
+      duyulan: frekansla
+  REPLACE  ...bu patlamada o sayı
+      metin  : samanyolu nun
+      duyulan: ti samanyolunun
+  REPLACE  ...da frekansa göer yayılıyordu
+      metin  : peryton
+      duyulan: peryoton
+  REPLACE  ...ne olduklarını kimse bilmiyordu
+      metin  : perytonların
+      duyulan: peretonların
+  REPLACE  ...huzme ile bakıyordu ve
+      metin  : perytonlar
+      duyulan: peryotonlar
+  REPLACE  ...gelmiyordur şüphe büyüdü çünkü
+      metin  : perytonlar
+      duyulan: peryotonlar
+  INSERT   ...öğle saatleri civarında yoğunlaşıyorlardı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...o yılın ocak ayında
+      metin  : peryton
+      duyulan: peryoton
+  REPLACE  ...ve her tam üstünde
+      metin  : gigahertz
+      duyulan: ghz
+  INSERT   ...patlamalar tek huzmeye ve
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...dünyanın öbür ucunda porto
+      metin  : riko
+      duyulan: rico
+  REPLACE  ...ucunda porto riko daki
+      metin  : aresibo
+      duyulan: arecibo
+  INSERT   ...patlaması diyoruz kanada da
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...teleskobu yani kanada hidrojen
+      metin  : yoğunluğu
+      duyulan: yohunluğu
+  INSERT   ...haritalama deneyi ilk kataloğunda
+      metin  : (yok)
+      duyulan: ü
+  DELETE   ...kadardır kütlesi güneş in
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kağıt üstünde makul senaryoydu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...ayında kanıta dönüştü tilki
+      metin  : takımyıldızı
+      duyulan: takımı yıldızı
+  DELETE   ...ışık yılı uzakta duran
+      metin  : sgr
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...x ışını fırtınasının içinde
+      metin  : milisaniye
+      duyulan: saniye
+  REPLACE  ...gerekiyor patlamaların kısmı tekrarlıyor
+      metin  : aresibo gözlemevi nin
+      duyulan: arecibo gözlemevinin
+  INSERT   ...nin yakaladığı olayın kaynağı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kanıt patlamalar keşfedildiğinde bu
+      metin  : ihtimal de
+      duyulan: ihtimalle
+  INSERT   ...evrenin enerji içeriğinin kabaca
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...içeriğinin kabaca karanlık enerji
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...nötronlar yıldızlar gezegenler gaz
+      metin  : biz
+      duyulan: bis
+  INSERT   ...kaymasından uzaklığını okumak gerekiyordu
+      metin  : (yok)
+      duyulan: çi nin
+  REPLACE  ...okumak gerekiyordu mayıs ayında
+      metin  : jan piyer makar
+      duyulan: john pierer macar
+  INSERT   ...evrenin toplam enerji içeriğinin
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yapısının ta kendisi patlamanın
+      metin  : ışını
+      duyulan: ışığını
+  REPLACE  ...soruya da uzanıyor patlamanın
+      metin  : ışını
+      duyulan: ışığını
+  INSERT   ...yoklanabiliyor ölçek de büyüyor
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...kayması aşan patlama yakaladı
+      metin  : ışık
+      duyulan: işık
+  REPLACE  ...çalıştığınız gürültünün içinde saklıdır
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: bilim-2026-09-02.duyulan.txt

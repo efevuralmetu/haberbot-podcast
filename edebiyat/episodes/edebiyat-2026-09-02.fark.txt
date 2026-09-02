@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-02.mp3
+
+beklenen 1573 kelime | duyulan 1584 kelime | eşleşme %94.5
+sayı ifadesi: metinde 207, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kyoto dediğimiz şehrin adı
+      metin  : heyan
+      duyulan: heian
+  REPLACE  ...nın en güçlü ailesi
+      metin  : fucivara
+      duyulan: fujiwara
+  REPLACE  ...ya da kocalarının memuriyet
+      metin  : unvanlarıyla
+      duyulan: ünvanlarıyla
+  REPLACE  ...yazarının adını bilmiyoruz murasaki
+      metin  : şikibu
+      duyulan: shikibu
+  REPLACE  ...isim değil parçalı takma
+      metin  : ad şikibu
+      duyulan: adı shikibu
+  REPLACE  ...japoncada mor demek hem
+      metin  : fucivara
+      duyulan: fujiwara
+  REPLACE  ...hiçbir zaman kesinleşmeyecek babası
+      metin  : fucivara no tametoki fucivara
+      duyulan: fujiwara notametoki fujiwara
+  REPLACE  ...çince öğrenmek ilerletmeyecek aksine
+      metin  : tehlikeye
+      duyulan: tehlikeyi
+  INSERT   ...da parlak geçmedi babası
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...geçmedi babası başkentten uzaktaki
+      metin  : eçizen
+      duyulan: ecizen
+  DELETE   ...gelen rüzgarın kestiği taşra
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...için sıra dışı değildi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...değildi kızları oldu sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...aldı evlilikleri yıl sürmüştü
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...az kadın kalıyor geriye
+      metin  : heian sarayının
+      duyulan: heyyan sarayı nın
+  REPLACE  ...güçlü adamı fucivara no
+      metin  : miçinaga
+      duyulan: michinaga
+  REPLACE  ...miçinaga bunu duydu kızı
+      metin  : şoşi
+      duyulan: shoshi
+  REPLACE  ...çeken şey siyasi olarak
+      metin  : miçinaga
+      duyulan: michinaga
+  REPLACE  ...bilinmeyen dul kadın saraya
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  REPLACE  ...kadın eli diye anıyordu
+      metin  : sebep
+      duyulan: sebeb
+  REPLACE  ...yazmayı kendilerine yakıştırmıyordu murasaki
+      metin  : şikibu
+      duyulan: shikibu
+  REPLACE  ...diye alay etti ve
+      metin  : vakayiname
+      duyulan: wakainame
+  REPLACE  ...güzel sahnelerinden gelir genç
+      metin  : imparatoriçe şoşi
+      duyulan: imparatorice shoshi
+  REPLACE  ...ders yaparlar çinli şair
+      metin  : bo cüyi
+      duyulan: bocui
+  REPLACE  ...nin toplumsal adaletsizliği anlatan
+      metin  : baladlarını
+      duyulan: balatlarını
+  REPLACE  ...adaletsizliği anlatan baladlarını okurlar
+      metin  : imparatoriçe
+      duyulan: imparatorice
+  REPLACE  ...yaptıkları duyulmasın diye saklanıyorlar
+      metin  : miçinaga
+      duyulan: michinaga
+  REPLACE  ...aksine metinlerin özenle hazırlanmış
+      metin  : nüshalarını
+      duyulan: nüşalarını
+  REPLACE  ...olan yazarın yapabileceği şeydi
+      metin  : miçinaga
+      duyulan: michinaga
+  REPLACE  ...kızının dairesinde üretiliyordu sabırsız
+      metin  : hamiydi
+      duyulan: hamidi
+  REPLACE  ...sabırsız hamiydi üstelik günlükte
+      metin  : miçinaga
+      duyulan: michinaga
+  INSERT   ...hikayeleri değildir bölüm boyunca
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...ve edebiyat tarihçileri bu
+      metin  : unvanı
+      duyulan: invanı
+  REPLACE  ...kuşağa geçer giderek kararır
+      metin  : ırmak
+      duyulan: irmak
+  REPLACE  ...tek sayfa bugüne ulaşmadı
+      metin  : romanın
+      duyulan: roma mın
+  DELETE   ...istemişti diye yapılmış düzeltme
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şairi ve titiz filologu
+      metin  : fucivara
+      duyulan: fujiwara
+  INSERT   ...fucivara no teika oldu
+      metin  : (yok)
+      duyulan: dokton
+  REPLACE  ...oldu yüzyılın başında elindeki
+      metin  : nüshaları
+      duyulan: nuşa ları
+  REPLACE  ...bu derlemeye mavi kapaklı
+      metin  : nüsha
+      duyulan: nuşa
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: edebiyat-2026-09-02.duyulan.txt

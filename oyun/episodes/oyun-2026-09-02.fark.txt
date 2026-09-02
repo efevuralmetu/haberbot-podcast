@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-02.mp3
+
+beklenen 1772 kelime | duyulan 1793 kelime | eşleşme %95.8
+sayı ifadesi: metinde 372, duyulanda 226  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...televizyona bağlı garip kutuyla
+      metin  : pinpon
+      duyulan: pimpon
+  REPLACE  ...neden olmasın adamın adı
+      metin  : ralf ber di
+      duyulan: ralph berdy
+  INSERT   ...rodalben adında küçük kasabada
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adında küçük kasabada rudolf
+      metin  : haynrih
+      duyulan: heinrich
+  INSERT   ...haynrih adıyla doğmuştu yaşındayken
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...için okuldan atıldı ailesi
+      metin  : kristal gece
+      duyulan: de kristallgece
+  INSERT   ...kurslarını takip etti ve
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...enstitüsü ne girdi ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o otobüs terminalinde gelmemişti
+      metin  : loral
+      duyulan: de laurel
+  INSERT   ...tamamen başka dünyada geçti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...görüntüleme donanımı üretiyordu ber
+      metin  : (yok)
+      duyulan: er
+  REPLACE  ...oyuncakla eğlenceyle çocuklarla hiçbir
+      metin  : mesleki
+      duyulan: mesteki
+  DELETE   ...aygıt kategorisinin tarifi vardı
+      metin  : ber
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve üniversitenin bütçesini yiyordu
+      metin  : ber
+      duyulan: behrer
+  REPLACE  ...kısım geliyordu bunu savunma
+      metin  : sanayii
+      duyulan: sanayiyi
+  REPLACE  ...sanayii yapan şirkete anlatmak
+      metin  : ber
+      duyulan: behr
+  REPLACE  ...ihtimalle merak edilecek kenar
+      metin  : işiydi
+      duyulan: işi idi
+  REPLACE  ...kenar işiydi yine de
+      metin  : ber
+      duyulan: behr
+  REPLACE  ...kadar yer tutan rakamla
+      metin  : ber
+      duyulan: behr
+  REPLACE  ...tarafında çalışan mühendis bil
+      metin  : rusch tı
+      duyulan: rush dı
+  INSERT   ...çıktı i lk kutu
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...yoktu ses yoktu ama
+      metin  : ber
+      duyulan: bear
+  REPLACE  ...yoldan elde edildi aşamada
+      metin  : ber
+      duyulan: bear
+  INSERT   ...aksesuarı doğdu asıl sıçramayı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...doğdu asıl sıçramayı bil
+      metin  : rusch
+      duyulan: rush
+  REPLACE  ...sıçramayı bil rusch getirdi
+      metin  : rusch
+      duyulan: rush
+  INSERT   ...oyuncu artık birbirini kovalamıyordu
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...nesneyle yani topla uğraşıyordu
+      metin  : rusch
+      duyulan: rush
+  REPLACE  ...tamamen analog dever vardı
+      metin  : ön
+      duyulan: önü
+  REPLACE  ...hepsi bilinçli maliyet kararıydı
+      metin  : ber
+      duyulan: behr
+  INSERT   ...ve ana patent nisan
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...anlaşmaya varmadan dağıldı sonunda
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...anlaşması imzalandı cihaz eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yılında adet sattı ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...çalışmak üzerine kurulmuştu mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önce magnavox kaliforniya da
+      metin  : bayileri
+      duyulan: bayilleri
+  INSERT   ...boş değildi yıl önce
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...alcorn a alıştırma verdi
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...un yaptığı makine kasım
+      metin  : kaliforniya
+      duyulan: de california
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-09-02.duyulan.txt

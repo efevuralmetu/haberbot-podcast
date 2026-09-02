@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-02.mp3
+
+beklenen 2561 kelime | duyulan 2582 kelime | eşleşme %95.9
+sayı ifadesi: metinde 312, duyulanda 235  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...saatlik yolun sonunda arazi
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...diz boyu duran çeltik
+      metin  : coğrafyacılar
+      duyulan: goğrafyacılar
+  REPLACE  ...delik deşiktir maros ve
+      metin  : pangkep
+      duyulan: pankep
+  REPLACE  ...uzanan bu bölgeye maros
+      metin  : pangkep
+      duyulan: pankep
+  INSERT   ...ve bugüne kadar burada
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...dolaşmadıkları yönünde kayıtlı mağaraların
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...lekeler bölgenin bölümü bantimurung
+      metin  : bulusaraung
+      duyulan: bulusarong
+  INSERT   ...bulusaraung parkı sınırları içinde
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...karst alanı unesco küresel
+      metin  : jeoparkı
+      duyulan: geopark ı
+  REPLACE  ...yeri var çünkü ada
+      metin  : wallace hattı nın
+      duyulan: wallis hattının
+  INSERT   ...göze almış topluluğun eseridir
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...yapılıyordu maros ilçesine bağlı
+      metin  : samangki
+      duyulan: samanki
+  REPLACE  ...mağaranın adı yerel dilde
+      metin  : leang
+      duyulan: liang
+  REPLACE  ...karampuang yani karampuang mağarası
+      metin  : leang
+      duyulan: liang
+  REPLACE  ...gibi nemli ılık karanlık
+      metin  : tavanda
+      duyulan: tabanda
+  REPLACE  ...kabuk kalkmış yer yer
+      metin  : üzerini
+      duyulan: üzerine
+  REPLACE  ...gözü önce yeer ve
+      metin  : duvarlara
+      duyulan: duvara
+  REPLACE  ...doğaya sadık biçimde çizilmiş
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...biçimde çizilmiş santimeter uzunluğunda
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...türü büyük olasılıkla sus
+      metin  : selebensis
+      duyulan: selebensiz
+  REPLACE  ...sus selebensis yani sulavesi
+      metin  : siğilli
+      duyulan: siilli
+  REPLACE  ...de aynı ormanlarda yaşıyor
+      metin  : siğilli
+      duyulan: sihilli
+  REPLACE  ...hem de en çok
+      metin  : resmettikleri
+      duyulan: resmedikleri
+  REPLACE  ...olay yoktur sadece vardır
+      metin  : karampuang
+      duyulan: karampuan
+  REPLACE  ...griffith üniversitesi nden adam
+      metin  : brumm
+      duyulan: brum
+  REPLACE  ...resimlerini tarihlendirmenin klasik yolu
+      metin  : radyokarbondur
+      duyulan: radiyokarbondur
+  REPLACE  ...ama burada işe yaramaz
+      metin  : radyokarbon
+      duyulan: radiokarbon
+  REPLACE  ...olabilir kabuğun oluşmaya başlaması
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...çökerken uranyum kristale girer
+      metin  : toryum
+      duyulan: thorium
+  REPLACE  ...oluştuktan sonra uranyum yavaşça
+      metin  : bozunup toryuma
+      duyulan: bozulup thoriuma
+  REPLACE  ...olmamasıdır griffith üniversitesi nden
+      metin  : maksim ober
+      duyulan: maxime auber
+  REPLACE  ...southern cross üniversitesi nden
+      metin  : rönö joanes buayo nun
+      duyulan: rené johannes bouillon un
+  REPLACE  ...her adımda uranyum ile
+      metin  : toryum
+      duyulan: thorium
+  REPLACE  ...karbonat katmanından yaş okuyabiliyorsunuz
+      metin  : karampuang
+      duyulan: karampuan
+  REPLACE  ...uyguladı bunların en önemlisi
+      metin  : leang
+      duyulan: liang
+  INSERT   ...önemlisi leang bulu sipong
+      metin  : (yok)
+      duyulan: iv
+  INSERT   ...sipong yani bulu sipong
+      metin  : (yok)
+      duyulan: iv
+  INSERT   ...sipong mağarası ndaki paneldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve uzuvlarla çizilmiş figürler
+      metin  : siğilli
+      duyulan: i ki sihirli
+  REPLACE  ...ile cüce mandayı yani
+      metin  : anoayı
+      duyulan: anuayı
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: arkeoloji-2026-09-02.duyulan.txt

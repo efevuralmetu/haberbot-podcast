@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-02.mp3
+
+beklenen 1695 kelime | duyulan 1726 kelime | eşleşme %96.6
+sayı ifadesi: metinde 277, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...türkiye
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...vardır yürüyerek uçtan öbür
+      metin  : uca
+      duyulan: uça
+  REPLACE  ...filmleri karara bağlandı sonunda
+      metin  : ad sokağa
+      duyulan: at sokağı
+  INSERT   ...üretken film hatlarından kurdu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yaklaşık sinema çalışıyordu zirve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...adana ya bakmak yeter
+      metin  : (yok)
+      duyulan: tan
+  INSERT   ...merkezi olan bu şehirde
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...salon ve yazlık sinema
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...bu tekrar çekim neredeyze
+      metin  : lüks
+      duyulan: lük
+  INSERT   ...bu tempoyu mutfağa dönüştürdü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ses kaydı için gereken
+      metin  : donanım
+      duyulan: donanın
+  REPLACE  ...filmleri türkçe konuşturmaya başlamış
+      metin  : otuzlardan
+      duyulan: lardan
+  REPLACE  ...yıldızlarını seslendirenler arasında adalet
+      metin  : cimcoz
+      duyulan: cimkos
+  REPLACE  ...adalet cimcoz nevin akkaya
+      metin  : tijen
+      duyulan: ticen
+  REPLACE  ...akkaya tijen par ve
+      metin  : jeyan mahfi
+      duyulan: ceyhan mahvi
+  INSERT   ...kadın kahramanlarına ses verdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yaşına yaklaşırken öldü adalet
+      metin  : cimcoz
+      duyulan: cimkos
+  INSERT   ...kibar keskin hafif alaycı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...arkın a pek çok
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...pek çok başrolü konuşturdu
+      metin  : sadettin
+      duyulan: saadettin
+  INSERT   ...ses değildi salonlardı ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ekran küçüktü yayın saati
+      metin  : saatti
+      duyulan: saattir
+  INSERT   ...olmadığını fark etmeye başladı
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...boşalan gişeyi doldurmak için
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...ya da el değiştirdi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...giden seyirci geri gelmedi
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...çöküşü acımasız düzlükle anlatır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...de sinema salonu vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...salonu vardı bu sayı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...vardı bu sayı indi
+      metin  : (yok)
+      duyulan: de e da e
+  INSERT   ...da aynı yönde eridi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...olan yıllık seyirci sayısı
+      metin  : (yok)
+      duyulan: te da
+  INSERT   ...kadar geriledi yılda seyircinin
+      metin  : (yok)
+      duyulan: de si
+  INSERT   ...son darbe dağıtımdan geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...denenmiş filmi almak daha
+      metin  : akıllıcaydı
+      duyulan: akıllıca idi
+  REPLACE  ...hat yalnızca sipariş üretmedi
+      metin  : aynı
+      duyulan: yeni
+  INSERT   ...ucuz sıkışık düzenin içinden
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...güney in yazdığı şerif
+      metin  : gören in
+      duyulan: göer nin
+  REPLACE  ...gören in yönettiği yol
+      metin  : palmiye yi
+      duyulan: de palmiyeyi
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: film-2026-09-02.duyulan.txt

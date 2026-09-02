@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-01.mp3
+
+beklenen 1414 kelime | duyulan 1426 kelime | eşleşme %95.1
+sayı ifadesi: metinde 399, duyulanda 202  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...arap emirlikleri ndeki el
+      metin  : minhad
+      duyulan: minhat
+  REPLACE  ...bildirdi i ran cumhurbaşkanı
+      metin  : mesud
+      duyulan: mesut
+  REPLACE  ...yeniden vurabileceklerini ifade etti
+      metin  : amerika birleşik devletleri
+      duyulan: abd
+  INSERT   ...geçti gazze de ekim
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ağustos ve eylül de
+      metin  : şanghay
+      duyulan: şangay
+  REPLACE  ...birleşmiş milletler genel sekreteri
+      metin  : antonyo
+      duyulan: antonio
+  REPLACE  ...genel sekreteri antonyo guterres
+      metin  : de
+      duyulan: te
+  REPLACE  ...ontario gölü nün adını
+      metin  : kararnameyle
+      duyulan: kararname ile
+  REPLACE  ...ile bağımsız araştırma kuruluşları
+      metin  : metr
+      duyulan: mtsarp
+  REPLACE  ...yer alan yaklaşık yapay
+      metin  : zeka ajanının
+      duyulan: zekayı canının
+  REPLACE  ...mac studio satın aldı
+      metin  : anthropic
+      duyulan: anthropik
+  INSERT   ...halinde küresel yıllık gelirin
+      metin  : (yok)
+      duyulan: sına
+  REPLACE  ...uzay teleskobu falcon heavy
+      metin  : roketiyle
+      duyulan: roketi ile
+  DELETE   ...işlem gününü düşüşle kapattı
+      metin  : esenpi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...endeksi gerileyerek puana nasdaq
+      metin  : composite
+      duyulan: kompozit
+  DELETE   ...puana geriledi buna karşın
+      metin  : esenpi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...merkez bankası başkanı kevin
+      metin  : warsh
+      duyulan: varsh
+  REPLACE  ...kevin warsh ın jackson
+      metin  : hole da
+      duyulan: holder
+  REPLACE  ...puandan kapandı endeksteki hissenin
+      metin  : dördü
+      duyulan: ü
+  INSERT   ...hissenin dördü değer kaybederken
+      metin  : (yok)
+      duyulan: sı
+  DELETE   ...lira oldu serbest piyasada
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  DELETE   ...serbest piyasada dolar lira
+      metin  : euro
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...lira seviyesinde küresel piyasalarda
+      metin  : euro dolar
+      duyulan: eurd
+  DELETE   ...piyasalarda euro dolar paritesi
+      metin  : dolar yen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bölge adliye mahkemesi mayıs
+      metin  : partinin
+      duyulan: da parti nin
+  REPLACE  ...tüzel kişiliği adına yapılan
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...kurulan yeni parti temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...antlaşması nın yıl dönümünde
+      metin  : milletvekilinin
+      duyulan: milletvekilenin
+  REPLACE  ...ndan geçti düzenleme örgütün
+      metin  : feshini
+      duyulan: feşiğini
+  REPLACE  ...tanınıyor ve yaklaşık üst
+      metin  : düzey
+      duyulan: düze
+  INSERT   ...temmuzda olan yıllık enflasyon
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...yıl sonu enflasyon beklentisi
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...oranı temmuzda puan artışla
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...gıda fuarına ulaştırma bakanı
+      metin  : abdulkadir
+      duyulan: abdülkadir
+  INSERT   ...var eylül perşembe saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...enflasyonu eylül perşembe saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sporda ize avrupa kadınlar
+      metin  : voleybol
+      duyulan: vole bol
+  REPLACE  ...orta ve doğu karadeniz
+      metin  : kıyıları ile
+      duyulan: kıyılarıyla
+  REPLACE  ...anadolu nun doğusu için
+      metin  : sağanak
+      duyulan: sağnak
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: gundem-2026-09-01.duyulan.txt

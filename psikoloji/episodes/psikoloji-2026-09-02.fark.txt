@@ -1,0 +1,49 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-02.mp3
+
+beklenen 1288 kelime | duyulan 1287 kelime | eşleşme %98.2
+sayı ifadesi: metinde 143, duyulanda 129  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sessizce bizim yerimize veriyor
+      metin  : dakikadasın
+      duyulan: daki kadasin
+  DELETE   ...inatla sonuna kadar izliyorsun
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...en zarif gösteren çalışmalardan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yayımlandı hal arkes ve
+      metin  : catherine blumer
+      duyulan: katherine bloomer
+  DELETE   ...satılamıyor hangisine gideceksin katılımcıların
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...neden çünkü bırakmak kaybı
+      metin  : resmileştiriyor
+      duyulan: resmiyleştiriyor
+  REPLACE  ...daniel kahneman ve amos
+      metin  : tverski
+      duyulan: tversky
+  INSERT   ...insana özgü aptallık değil
+      metin  : (yok)
+      duyulan: g de
+  REPLACE  ...minnesota üniversitesi nden brian
+      metin  : sweis
+      duyulan: swize
+  REPLACE  ...odaya giriyor orada bekleme
+      metin  : süresi ile
+      duyulan: süresiyle
+  REPLACE  ...o oranda büyük görünüyor
+      metin  : o
+      duyulan: bu
+  REPLACE  ...an hala tamamen senin
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 14
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: psikoloji-2026-09-02.duyulan.txt
