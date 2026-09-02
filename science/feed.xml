@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+<title>Nöron Science</title>
+<link>https://podcast.noronmedia.com/science/</link>
+<language>en</language>
+<description>Every day, one science topic explored in documentary style — from space to physics, biology to technology. This is the English edition of Nöron Bilim; each episode is a translation of the same day's Turkish episode. Written and narrated by AI.</description>
+<itunes:author>Nöron Medya</itunes:author>
+<itunes:summary>Every day, one science topic explored in documentary style — from space to physics, biology to technology. This is the English edition of Nöron Bilim; each episode is a translation of the same day's Turkish episode. Written and narrated by AI.</itunes:summary>
+<itunes:subtitle>A daily science story, translated from Nöron Bilim.</itunes:subtitle>
+<itunes:owner><itunes:name>Nöron Medya</itunes:name><itunes:email>efevuralmetu@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://podcast.noronmedia.com/science/cover.jpg"/>
+<image><url>https://podcast.noronmedia.com/science/cover.jpg</url><title>Nöron Science</title><link>https://podcast.noronmedia.com/science/</link></image>
+<itunes:new-feed-url>https://podcast.noronmedia.com/science/feed.xml</itunes:new-feed-url>
+<itunes:category text="Science"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<lastBuildDate>Wed, 02 Sep 2026 14:31:58 +0000</lastBuildDate>
+<item>
+<title>A Millisecond Crackle Weighed the Universe's Missing Matter</title>
+<description>Explains the evidence that magnetars are the source of fast radio bursts — thousandth-of-a-second flashes arriving from billions of light years away — and how the frequency delay these signals accumulate along the way (the dispersion measure) weighs the universe's missing
+
+Konular: fast radio bursts, frb, magnetar, missing baryons, cosmology.</description>
+<itunes:subtitle>Explains the evidence that magnetars are the source of fast radio bursts — thousandth-of-a-second flashes arriving from billions of light years away — and how the frequency delay these signals accumulate along the way (the dispersion measure) weighs the universe's missing</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-09-02.vtt" type="text/vtt" language="en" rel="captions"/>
+<pubDate>Wed, 02 Sep 2026 05:19:05 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-02.mp3" length="13246028" type="audio/mpeg"/>
+<guid isPermaLink="false">science-2026-09-02</guid>
+<itunes:duration>18:27</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
