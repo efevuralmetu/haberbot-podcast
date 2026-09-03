@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-03.mp3
+
+beklenen 2607 kelime | duyulan 2644 kelime | eşleşme %94.8
+sayı ifadesi: metinde 387, duyulanda 264  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sonra saray mensubu olmuştu
+      metin  : aleksander
+      duyulan: da alexander
+  INSERT   ...kardeş aynı masada oturuyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...oturuyordu yaş büyük olan
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...doğmuştu ve öğretmenlerin gözdesiydi
+      metin  : aleksander
+      duyulan: alexander
+  REPLACE  ...yılları frankfurt an der
+      metin  : oder e
+      duyulan: o deer
+  REPLACE  ...humboldt birlikte yola çıktılar
+      metin  : ren
+      duyulan: rennes
+  REPLACE  ...beklentiyi şaşırtıcı enerjiyle karşıladı
+      metin  : frayberg deki
+      duyulan: freiburg daki
+  INSERT   ...yıl süren eğitimi bitirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaraya metal değdirdi kaslarının
+      metin  : seğirmesini
+      duyulan: seyirmesini
+  REPLACE  ...arasındaki sınırın nerede olduğu
+      metin  : yena
+      duyulan: te jena
+  REPLACE  ...nerede olduğu yena da
+      metin  : göte
+      duyulan: göthe
+  REPLACE  ...da göte ile tanıştı
+      metin  : göte
+      duyulan: göthe
+  REPLACE  ...ki adam günlerce konuştu
+      metin  : göte
+      duyulan: göthe
+  INSERT   ...burada aldı sonra kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başladı aramak yıl sürdü
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...beklenmedik kapı açıldı kral
+      metin  : karlos
+      duyulan: carlos
+  DELETE   ...yapabilecek aletlerini serbestçe kullanabilecekti
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kıta imzayla açılmıştı haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...spanya nın kuzeyindeki a
+      metin  : korunya
+      duyulan: coruña
+  REPLACE  ...kuzeyindeki a korunya yani
+      metin  : koruña
+      duyulan: coruña
+  REPLACE  ...koruña limanından pizarro adlı
+      metin  : gemiyle
+      duyulan: gemi ile
+  INSERT   ...botanikçi eme bonplan ve
+      metin  : (yok)
+      duyulan: tan
+  INSERT   ...limana gidemediler ve temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...temmuz bugünkü venezuela kıyısındaki
+      metin  : kumana
+      duyulan: cumana
+  REPLACE  ...venezuela kıyısındaki kumana yani
+      metin  : kumana
+      duyulan: cumana
+  REPLACE  ...gökyüzünde hayatında hiç görmediği
+      metin  : takımyıldızlar
+      duyulan: takımı yıldızlar
+  REPLACE  ...takımyıldızlar vardı ve o
+      metin  : takımyıldızların
+      duyulan: takımı yıldızların
+  DELETE   ...ölçmek için bakmanın biçimiydi
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...iç bölge yolculuğuna şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şubat çıktılar yolları önce
+      metin  : valensiya
+      duyulan: valencia
+  REPLACE  ...başladı kanoya bindiler ve
+      metin  : orinoko
+      duyulan: orinoco
+  REPLACE  ...ve kayıp nehri buldular
+      metin  : coğrafyacılar
+      duyulan: koğrafyacılar
+  REPLACE  ...coğrafyacılar yüzyıllardır söylentiyi tartışıyordu
+      metin  : orinoko ile
+      duyulan: orinoco yla
+  REPLACE  ...bonplan o su yolunu
+      metin  : kasikiaer
+      duyulan: kasikyaer
+  REPLACE  ...su yolunu kasikiaer yani
+      metin  : kasikiaer
+      duyulan: kasikyaer
+  REPLACE  ...bütün güzergahı ölçüp haritaladılar
+      metin  : kasikiaer
+      duyulan: kasikyaer
+  REPLACE  ...ölçüp haritaladılar kasikiaer gerçekti
+      metin  : orinoko
+      duyulan: orinoco
+  INSERT   ...kesinliği ölçüm defteriyle yıkmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...defteriyle yıkmıştı kıtanın batısına
+      metin  : andlar
+      duyulan: antlar
+  REPLACE  ...sonra katırların bile geçemediği
+      metin  : kindiyo
+      duyulan: kindio
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: biyografi-2026-09-03.duyulan.txt

@@ -1,0 +1,103 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-03.mp3
+
+beklenen 2337 kelime | duyulan 2339 kelime | eşleşme %97.7
+sayı ifadesi: metinde 253, duyulanda 231  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...iş değişir sen omuz
+      metin  : silkip
+      duyulan: silküp
+  INSERT   ...görür kimse yanılmıyordur öte
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...düğümü çözmek için don
+      metin  : kişot tan
+      duyulan: quixote dan
+  REPLACE  ...tan sahne ödünç aldı
+      metin  : sanço
+      duyulan: sancho
+  REPLACE  ...eski deri kayış hume
+      metin  : un
+      duyulan: nin
+  REPLACE  ...edici biçimde soran adam
+      metin  : köniksberg
+      duyulan: königsberg
+  INSERT   ...söylenen filozoftu immanuel kant
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...cümlenin doğal yeri bana
+      metin  : göer dir
+      duyulan: göredir
+  REPLACE  ...göer aynı şeye bakan
+      metin  : herkeste
+      duyulan: herkes de
+  REPLACE  ...olmalıdır kant buna ortak
+      metin  : duyu
+      duyulan: duy
+  DELETE   ...der herkeste bulunduğunu varsaydığımız
+      metin  : ama
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ama iddiadan da vazgeçemeyiz
+      metin  : (yok)
+      duyulan: i kisi
+  INSERT   ...kendine göredir i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...sebepsiz çekim i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...sanat ders kitabıyla değil
+      metin  : meşkle
+      duyulan: meşk ile
+  REPLACE  ...yani kulak terbiye edilir
+      metin  : hat
+      duyulan: had
+  REPLACE  ...bütün bu tartışmanın son
+      metin  : yüzyıldır
+      duyulan: yıldır
+  INSERT   ...uzatmıyoruz yeer kaydediyoruz şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sadece sinyal istiyor bunun
+      metin  : ölçeği
+      duyulan: ölçeyi
+  INSERT   ...netflix in kendi araştırmacılarının
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...platformda izlenen saatlerin yaklaşık
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yöneticisi neal mohan da
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...platformdaki izlenme süresinin yaklaşık
+      metin  : (yok)
+      duyulan: inin
+  INSERT   ...doğru getiriliyor eli pariser
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tabloya aynı filme aynı
+      metin  : türküye
+      duyulan: türkiye
+  REPLACE  ...gazali nin ya da
+      metin  : meşk
+      duyulan: meş
+  DELETE   ...algoritmanın böyle ısrarı yoktur
+      metin  : ilk
+      duyulan: (YOK — atlanmış)
+  DELETE   ...şeyin herkes adına savunulması
+      metin  : hiçbir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ortak nesneyi elinizle kuruyorsunuz
+      metin  : ama bu direniş
+      duyulan: beğeniş
+  REPLACE  ...inandığımızın en sağlam kanıtı
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: felsefe-2026-09-03.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-03.mp3
+
+beklenen 1706 kelime | duyulan 1708 kelime | eşleşme %93.6
+sayı ifadesi: metinde 294, duyulanda 202  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...öfkeyle ve adamla açılır
+      metin  : tanrıçadan akhilleus
+      duyulan: tanrıç a dan akileus
+  INSERT   ...anlatmasını i kisi birlikte
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...fazla dizedir i lyada
+      metin  : odysseia
+      duyulan: odiseya
+  REPLACE  ...söyler i zmir sakız
+      metin  : kolophon
+      duyulan: kolopfon
+  REPLACE  ...iddiasını üretmiştir hiçbiri kanıtlayamamıştır
+      metin  : tarih de
+      duyulan: tarihte
+  REPLACE  ...anlattığı truva savaşından da
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...da oturan kör adam
+      metin  : thukydides
+      duyulan: tukidides
+  REPLACE  ...içinde de ipucu vardı
+      metin  : odysseia
+      duyulan: odysseya
+  REPLACE  ...ipucu vardı odysseia da
+      metin  : phaiak sarayında
+      duyulan: fayak sarayı nda
+  REPLACE  ...hiçbir zaman konuşmadığı dildir
+      metin  : i yon
+      duyulan: ion
+  REPLACE  ...dildir i yon lehçesiyle
+      metin  : aiol
+      duyulan: ayol
+  REPLACE  ...çok garip alışkanlıkları vardır
+      metin  : akhilleus
+      duyulan: achilleus
+  REPLACE  ...agamemnon u öldüren adam
+      metin  : aigisthos
+      duyulan: aegistos
+  INSERT   ...da uyku hali sayıldı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hali sayıldı alman filolog
+      metin  : fridrih
+      duyulan: friedrich
+  REPLACE  ...alman filolog fridrih august
+      metin  : volf
+      duyulan: wolf
+  REPLACE  ...çalışmasıyla bu rahatlığı bozdu
+      metin  : volf
+      duyulan: wolf
+  REPLACE  ...elimizdeki i lyada ve
+      metin  : odysseia
+      duyulan: odysseya
+  REPLACE  ...hiçbir yeer varmadı çünkü
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...aramaktan vazgeçmiş genç amerikalıydı
+      metin  : parry kaliforniya
+      duyulan: paris de california
+  REPLACE  ...da oakland da doğdu
+      metin  : berkeley
+      duyulan: belkele
+  REPLACE  ...en büyük karşılaştırmalı dilbilimcilerinden
+      metin  : antuan meye nin
+      duyulan: antoine mayen in
+  INSERT   ...meye nin öğrencisi oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kütüphane tartışmasının zeminini kaydırdı
+      metin  : parry nin
+      duyulan: paris in
+  REPLACE  ...düzenli olarak kullanılan sözcük
+      metin  : öbeği
+      duyulan: öbeyi
+  REPLACE  ...işi gören onlarca farklı
+      metin  : deyiş
+      duyulan: değiş
+  REPLACE  ...söylemek zorunda olan şair
+      metin  : parry
+      duyulan: pari
+  REPLACE  ...susmuştu tam o yıllarda
+      metin  : sorbon
+      duyulan: sorbonne
+  REPLACE  ...bu adamı dinlemesini söyledi
+      metin  : parry
+      duyulan: pari
+  INSERT   ...değil canlı gelenekte sınayacaktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaptı ardından haziran eylül
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...gusle şairi olan nikola
+      metin  : vuynoviç
+      duyulan: vujnovic
+  INSERT   ...işin içinden olması gerekiyordu
+      metin  : (yok)
+      duyulan: al
+  REPLACE  ...ozan aksatmadan devam eder
+      metin  : parry
+      duyulan: pari
+  REPLACE  ...söyleyiciydi yüzyılın yarısında yaşamış
+      metin  : parry
+      duyulan: pari
+  REPLACE  ...çok önce ölmüştü kimse
+      metin  : parry
+      duyulan: pari
+  REPLACE  ...bütün büyük şarkılar geliyordu
+      metin  : parry
+      duyulan: pari
+  REPLACE  ...olmayan kör ata yazında
+      metin  : parry karadağ ın
+      duyulan: pari karadağın
+  REPLACE  ...döneminde akova denen kasabaya
+      metin  : biyelo polye ye
+      duyulan: bielopolya ya
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: edebiyat-2026-09-03.duyulan.txt

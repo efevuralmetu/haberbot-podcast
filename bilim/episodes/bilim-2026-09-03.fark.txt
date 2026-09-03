@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-03.mp3
+
+beklenen 1597 kelime | duyulan 1618 kelime | eşleşme %94.4
+sayı ifadesi: metinde 240, duyulanda 182  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ancak genomlarına bakınca anlayabildik
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anlayabildik oxford da çalışan
+      metin  : epidemiyolog
+      duyulan: epidemiolog
+  REPLACE  ...sormadığı soruyu sordu richard
+      metin  : peto
+      duyulan: petto
+  DELETE   ...ama vücudunuzda çok fazla
+      metin  : hücer
+      duyulan: (YOK — atlanmış)
+  DELETE   ...her hücrenin kanseer dönüşme
+      metin  : riski
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dönüşme riski türden tüer
+      metin  : aynıysa
+      duyulan: aynı ize
+  REPLACE  ...ama dışarıda dünyayla uyuşmuyor
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...uzun ömrüne insanın katı
+      metin  : hücreyle
+      duyulan: hücer ile
+  REPLACE  ...çoktan onlarca tümörle ölmüş
+      metin  : olmalıdır
+      duyulan: olur
+  INSERT   ...azından bizim ölçümüzde ölmüyorlar
+      metin  : (yok)
+      duyulan: tiki te
+  REPLACE  ...ölmüyorlar utah üniversitesi nden
+      metin  : lisa abegglen
+      duyulan: liza abeglen
+  REPLACE  ...lisa abegglen ve joshua
+      metin  : şifman
+      duyulan: schiffman
+  INSERT   ...sonuç şuydu fillerin yaklaşık
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...ölme ihtimali bizim hatta
+      metin  : (yok)
+      duyulan: az
+  REPLACE  ...o kalkan en azından
+      metin  : ilke
+      duyulan: ilki
+  REPLACE  ...yer aslında belliydi kanser
+      metin  : biyolojisinde
+      duyulan: öncesinde
+  REPLACE  ...genomun bekçisi lakabını takmışlar
+      metin  : tpelli
+      duyulan: teppelli
+  REPLACE  ...hücrede dna hasarı oluştuğunda
+      metin  : tpelli
+      duyulan: teppeli ün
+  DELETE   ...şüpheli hücreyi tamir etmek
+      metin  : yerine
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...anneden ve babadan gelen
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...kalıtsal durum var kişi
+      metin  : tpelli
+      duyulan: teppeli ün
+  REPLACE  ...doğuyor elinde değil işleyen
+      metin  : nüsha
+      duyulan: nüşa
+  INSERT   ...yaşam boyu kanser riskinin
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...kanser riskinin aşması tek
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...bulduğu şey buydu kopya
+      metin  : tpelli nüsha
+      duyulan: teppeli nüşa
+  REPLACE  ...taraftan giriyordu ve daha
+      metin  : tuhaf
+      duyulan: hafif
+  INSERT   ...ayrıntı buldu fildeki kopyanın
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...gen kopyası değil bunlara
+      metin  : retrogen
+      duyulan: retrojen
+  REPLACE  ...daha attı ve filin
+      metin  : akrabalarına
+      duyulan: adımlarına
+  REPLACE  ...dalın üstündeki küçük hayvanlar
+      metin  : onlarda
+      duyulan: da
+  REPLACE  ...gövde büyüdükçe artıyor bu
+      metin  : korelasyondan
+      duyulan: korrelasyondan
+  REPLACE  ...o vücudu koruyacak yedek
+      metin  : nüshalar
+      duyulan: nüsyalar
+  REPLACE  ...da birikmiş ekip fil
+      metin  : retrogenlerini
+      duyulan: retrojenlerini
+  REPLACE  ...fil retrogenlerini faer hücrelerine
+      metin  : aktardığında
+      duyulan: aldığında
+  INSERT   ...dekoratif değil işlevsel sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...de var ama tanesi
+      metin  : lifaltı
+      duyulan: lif
+  REPLACE  ...şey de tam olarak
+      metin  : tpelli
+      duyulan: tp
+  REPLACE  ...hücrede dna hasarı oluşuyor
+      metin  : tpelli
+      duyulan: tp
+  REPLACE  ...hasarı oluşuyor tpelli uyanıyor
+      metin  : tpelli
+      duyulan: tp
+  REPLACE  ...tpelli uyanıyor tpelli gidip
+      metin  : lifaltıyı
+      duyulan: lif yı
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-09-03.duyulan.txt

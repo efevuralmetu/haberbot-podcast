@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-03.mp3
+
+beklenen 1819 kelime | duyulan 1826 kelime | eşleşme %94.8
+sayı ifadesi: metinde 267, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...diye oysa ay önce
+      metin  : prömiyerde
+      duyulan: promiyerde
+  REPLACE  ...evrendeki yerinin nasıl çekileceği
+      metin  : dr
+      duyulan: doctor
+  INSERT   ...nasıl çekileceği dr strangelove
+      metin  : (yok)
+      duyulan: a
+  DELETE   ...hollywood da tartışmasız yönetmen
+      metin  : olarak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tanıtım yöneticisi olan roger
+      metin  : caras
+      duyulan: carras
+  REPLACE  ...yazarının kim olduğunu sordu
+      metin  : caras
+      duyulan: carras
+  REPLACE  ...caras ın cevabı arthur
+      metin  : c clarke
+      duyulan: che çınarki
+  REPLACE  ...clarke oldu ancak eklediği
+      metin  : uyarıyla
+      duyulan: uyarı ile
+  REPLACE  ...gitti cevap geldi ve
+      metin  : clarke uçağa
+      duyulan: clark a
+  INSERT   ...ve clarke uçağa nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...oteli nin bodrumundaki trader
+      metin  : vic s
+      duyulan: wicks
+  REPLACE  ...zeka hakkında film yapmak
+      metin  : istediğiydi clarke ın
+      duyulan: istediydi clark e nin
+  INSERT   ...kendi kısa öyküsü oldu
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...için yazdığı yarışmayı kazanamayan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çok uzaktaki haber vermek
+      metin  : alarm
+      duyulan: alar
+  REPLACE  ...kubrick her fikri sürekli
+      metin  : değiştiriyordu
+      duyulan: yürüyordu
+  DELETE   ...tavsiyesi netti gerçekten bizden
+      metin  : çok
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...önce piramit düşünüldü sonra
+      metin  : saydam
+      duyulan: saydan
+  DELETE   ...hiçbir şey anlatmayan hiçbir
+      metin  : şeye
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...prizma kaldı kenar oranları
+      metin  : dörde
+      duyulan: e e
+  DELETE   ...duyulmaz son dakikada da
+      metin  : öyle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kimse açıklamaz metro goldwyn
+      metin  : mayer
+      duyulan: meyer
+  INSERT   ...yaklaşık dolardı ve filmin
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...henüz var olmayan araçlarla
+      metin  : çekilmesi
+      duyulan: konuşması
+  INSERT   ...zaten biliyordu çekimler aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...nasıl yapıldı cevap yapılmadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olarak kaydedildi bunun en
+      metin  : gösterişli
+      duyulan: ilginçli
+  REPLACE  ...bunun en gösterişli örneği
+      metin  : santrifüjdü
+      duyulan: santrifüydü
+  REPLACE  ...çelik çember üretti maliyeti
+      metin  : dolardı
+      duyulan: liraydı
+  REPLACE  ...yani filmin başlangıçtaki bütçesinin
+      metin  : birinden
+      duyulan: de inden
+  REPLACE  ...sırasında içeri giremiyordu dışarıda
+      metin  : monitörden
+      duyulan: doktordan
+  REPLACE  ...monitörden izliyor telsizle konuşuyordu
+      metin  : keir
+      duyulan: cahir
+  REPLACE  ...telsizle konuşuyordu keir dullea
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...görünüyordu sürüyü yöneten ve
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...şeridinin defalarca kamera içinden
+      metin  : geçirilmesiyle
+      duyulan: geçirilmesi ile
+  REPLACE  ...üzerinden değil doğrudan orijinal
+      metin  : negatif
+      duyulan: efekt
+  REPLACE  ...çalışmaları toplamda buçuk yılı
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...sesin tarafında da vardı
+      metin  : gemiyi
+      duyulan: gemiği
+  REPLACE  ...kanadalı tiyatro oyuncusu douglas
+      metin  : rain e
+      duyulan: reynolds a
+  REPLACE  ...douglas rain e verildi
+      metin  : rain
+      duyulan: ryan
+  ... ve 31 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: film-2026-09-03.duyulan.txt

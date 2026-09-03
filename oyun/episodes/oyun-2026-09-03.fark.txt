@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-03.mp3
+
+beklenen 1369 kelime | duyulan 1386 kelime | eşleşme %94.0
+sayı ifadesi: metinde 224, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve neredeyze şirketini alacaktı
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...başında tokyo nun batısındaki
+      metin  : maçida
+      duyulan: machida
+  REPLACE  ...batısındaki maçida kasabasında yani
+      metin  : maçida
+      duyulan: machida
+  REPLACE  ...yürüyen çocuk vardı adı
+      metin  : satoşi taciri ydi
+      duyulan: satoshi tacciri idi
+  REPLACE  ...böcek doktoru diyordu çünkü
+      metin  : maçida
+      duyulan: machida
+  REPLACE  ...geçen ince dereler vardı
+      metin  : taciri
+      duyulan: tacciri
+  REPLACE  ...kayboldu tokyo büyüdü ve
+      metin  : maçida
+      duyulan: machida
+  REPLACE  ...apartmanlar ve otoparklar dikildi
+      metin  : taciri nin
+      duyulan: taccirinin
+  INSERT   ...yer buldu atari salonları
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...stilacıları japonya yı sardığında
+      metin  : taciri
+      duyulan: taccir i
+  REPLACE  ...duruyordu mühendis olan babası
+      metin  : nissan
+      duyulan: nistan
+  REPLACE  ...da işe yerleştirmek istedi
+      metin  : taciri
+      duyulan: taccir i
+  REPLACE  ...buluyordu sonra bu notları
+      metin  : başkalarıyla
+      duyulan: başkaları ile
+  INSERT   ...notları başkalarıyla paylaşmak istedi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...evinde elle yazılmış ve
+      metin  : fotokopiyle
+      duyulan: fotokopi ile
+  REPLACE  ...derginin görünüşü çirkindi ve
+      metin  : taciri
+      duyulan: taccir i
+  REPLACE  ...adamın adı ken sugimori
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...sıçraması uzay oyunu olan
+      metin  : xevious
+      duyulan: x avius
+  REPLACE  ...hazırlanan kalın rehber oldu
+      metin  : taciri
+      duyulan: taccir i
+  REPLACE  ...bu kolay geçiş değildi
+      metin  : taciri
+      duyulan: taccir i
+  INSERT   ...bu amatör çıraklık dönemi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aynı yılın nisan ayında
+      metin  : taciri
+      duyulan: taccir i
+  INSERT   ...ve yine aynı yıl
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...savaş aracı olarak görüyordu
+      metin  : taciri
+      duyulan: taccir i
+  REPLACE  ...gerçeğe dönüştürmek yıl sürecekti
+      metin  : taciri
+      duyulan: da taccir i
+  REPLACE  ...adı capsule monsters yani
+      metin  : kapsül canavarları ydı
+      duyulan: capsule canavarlarıydı
+  REPLACE  ...projeyi ayakta tutan şey
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...oldu miyamoto da çocukluğunu
+      metin  : kyoto
+      duyulan: kikyoto
+  REPLACE  ...yaktı miyamoto danışman olarak
+      metin  : taciri
+      duyulan: taccir i
+  REPLACE  ...taciri nin ekibine bağlandı
+      metin  : kapsül
+      duyulan: capsule
+  REPLACE  ...yani cep canavarları kısaltması
+      metin  : pokémon
+      duyulan: pokemon
+  REPLACE  ...derece kısıtlı makineydi ve
+      metin  : taciri
+      duyulan: taccir i
+  INSERT   ...devasa şey sıkıştırmaya çalışıyordu
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...elden geçiriyor ekipteki atsuko
+      metin  : nişida
+      duyulan: nishida
+  REPLACE  ...nişida pikachu yu çiziyor
+      metin  : cuniçi
+      duyulan: junichi
+  REPLACE  ...ortada satılacak ürün yoktu
+      metin  : taciri
+      duyulan: taccir i
+  INSERT   ...için başka işler yaptı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yoshi li bulmaca oyunu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...oyunu mario lu başkası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nintendo nun yakın çalıştığı
+      metin  : hal
+      duyulan: hay
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 79
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: oyun-2026-09-03.duyulan.txt

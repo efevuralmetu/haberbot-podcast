@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-03.mp3
+
+beklenen 2706 kelime | duyulan 2714 kelime | eşleşme %95.6
+sayı ifadesi: metinde 329, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yerinde kirpikleri sayılabiliyor boynuna
+      metin  : tutam
+      duyulan: tutan
+  REPLACE  ...rüzgarın örttüğünü rüzgar açmıştı
+      metin  : ördeğin
+      duyulan: öt ördek in
+  REPLACE  ...arkeoloji tarihine girdi ama
+      metin  : ördeğin
+      duyulan: ördek in
+  INSERT   ...loulan dan süer sonra
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...anlamına gelen adı verdi
+      metin  : şiyaohe
+      duyulan: şiaohe
+  REPLACE  ...yeer de ad verdi
+      metin  : ördeğin nekropolü
+      duyulan: ördek in nekropolu
+  INSERT   ...bergman tepede hafta çalıştı
+      metin  : (yok)
+      duyulan: doniki
+  INSERT   ...çekti ve gitti gördüklerini
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yabancı araştırmacılara tamamen kapanması
+      metin  : bergman
+      duyulan: berkman
+  INSERT   ...her yıl yer değiştiriyordu
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...tarım ın suyu çekildikçe
+      metin  : bergman
+      duyulan: berkman
+  REPLACE  ...çıktı ve boş döndü
+      metin  : bergman
+      duyulan: berkman
+  INSERT   ...boyunca ortadan kayıp kaldı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...eşlik eden çinli arkeologlar
+      metin  : bergman
+      duyulan: berkman
+  REPLACE  ...definecilerin izleri her yerdeydi
+      metin  : şinciang
+      duyulan: xinjiang
+  INSERT   ...arkeoloji enstitüsü sistematik kazıya
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...yerlisi olan arkeolog idelisi
+      metin  : abuduresule
+      duyulan: abdüresul e
+  REPLACE  ...yakıtını kilometrelerce öteden taşıdı
+      metin  : bergman
+      duyulan: berkman
+  REPLACE  ...tahtaların üstüne yapışmış ve
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...gömüyorlar i sviçreli arkeolog
+      metin  : cino kaspari
+      duyulan: gino caspari
+  INSERT   ...arkeolog cino kaspari nin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gözlemcinin uydurması olmadığını savunuyor
+      metin  : kaspari
+      duyulan: caspari
+  DELETE   ...babası işlevi görüyor olabilir
+      metin  : ölü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aynı zamanda oraya bağlanıyor
+      metin  : kaspari
+      duyulan: caspari
+  INSERT   ...en geçlerini milattan önce
+      metin  : (yok)
+      duyulan: leer
+  REPLACE  ...yapılmış kısa etekler yanlarına
+      metin  : saz
+      duyulan: sas
+  INSERT   ...kasıtlı mumyalamanın çoğundan iyi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kazı sırasında ekibin verdiği
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ailenin doğuda beklenmeyecek kadar
+      metin  : arkaik
+      duyulan: arkayık
+  REPLACE  ...soru şuydu milattan sonra
+      metin  : yüzlerde
+      duyulan: lerde
+  INSERT   ...yazılan belge milattan önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oldu amerikalı sinolog victor
+      metin  : mair
+      duyulan: mayer
+  REPLACE  ...varsayılan çerçevesi haline geldi
+      metin  : cilin
+      duyulan: da jilin
+  REPLACE  ...sonuç tabloyu netleştirmek yerine
+      metin  : gerdi
+      duyulan: geldi
+  REPLACE  ...gerdi anne soyunu izleyen
+      metin  : mitokondri
+      duyulan: mitochondri
+  REPLACE  ...çıkıyordu baba soyunu izleyen
+      metin  : y kromozomunda
+      duyulan: yay kromozomu nda
+  DELETE   ...tamamı tek hat taşıyordu
+      metin  : rbirabira
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nın bitkileriydi aynı sepetlerdeki
+      metin  : darı
+      duyulan: dağrı
+  INSERT   ...çıkıp genom olduğunda geldi
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...paleontolojisi ve paleoantropoloji enstitüsü
+      metin  : maks plank
+      duyulan: max planck
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 81
+bölme/birleşme farkı (hata değil, elendi): 33
+
+duyulan metin: arkeoloji-2026-09-03.duyulan.txt

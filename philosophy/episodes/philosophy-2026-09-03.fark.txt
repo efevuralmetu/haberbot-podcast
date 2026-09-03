@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-03.mp3
+
+beklenen 3778 kelime | duyulan 3776 kelime | eşleşme %99.4
+sayı ifadesi: metinde 115, duyulanda 111  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...this is that the
+      metin  : palate
+      duyulan: palette
+  REPLACE  ...his whole life in
+      metin  : königsberg and
+      duyulan: konigsberg in
+  REPLACE  ...the tongue is personal
+      metin  : and
+      duyulan: then
+  REPLACE  ...the weight the word
+      metin  : zevk
+      duyulan: zev
+  REPLACE  ...this tradition comes from
+      metin  : zevk
+      duyulan: zevke
+  REPLACE  ...through textbooks but through
+      metin  : meşk
+      duyulan: mesk
+  REPLACE  ...in turkish classical music
+      metin  : meşk
+      duyulan: mesk
+  REPLACE  ...a rod and the
+      metin  : brake
+      duyulan: break
+  REPLACE  ...compel nobody can force
+      metin  : meşk
+      duyulan: mesch
+  REPLACE  ...youtube s product manager
+      metin  : neal
+      duyulan: neil
+  REPLACE  ...ghazali or by the
+      metin  : meşk
+      duyulan: mesh
+  REPLACE  ...no such persistence it
+      metin  : sees
+      duyulan: means
+  REPLACE  ...thing beautiful to be
+      metin  : hurt
+      duyulan: heard
+  REPLACE  ...give up because that
+      metin  : hurt
+      duyulan: heard
+  REPLACE  ...world held in common
+      metin  : nöron philosophy
+      duyulan: neuron philosophie
+  REPLACE  ...common nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: bugunkubudimun sonunagaldik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: hikaya de yenidan balushmakuzeer
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-03.duyulan.txt

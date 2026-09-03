@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-03.mp3
+
+beklenen 2125 kelime | duyulan 2146 kelime | eşleşme %94.9
+sayı ifadesi: metinde 281, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve her yılda baştan
+      metin  : aşağı
+      duyulan: aşağıya
+  INSERT   ...yeniden dikiliyor aynı kıyıda
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...kıyıda gelmiş kadınlar hala
+      metin  : tüpsüz
+      duyulan: tüksüz
+  REPLACE  ...değildir randevudur japonya nın
+      metin  : mie
+      duyulan: mi
+  REPLACE  ...japonya nın mie bölgesindeki
+      metin  : i se cingu
+      duyulan: ize jingu
+  REPLACE  ...ilk uygulama yılında i
+      metin  : mparatoriçe
+      duyulan: mparatorice
+  INSERT   ...mparatoriçe cito döneminde yapılmıştır
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...döneminde yapılmıştır gerçekleşen sıranın
+      metin  : ikincisiydi
+      duyulan: siydi sü te
+  INSERT   ...hepsi üretilir bunların sayısı
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...elde eski yöntemle yapılır
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...kendisi şaşırtıcı derecede yalındır
+      metin  : şinmei
+      duyulan: shinmei
+  REPLACE  ...yapı üzerine edileceği taş
+      metin  : temele
+      duyulan: temeli
+  REPLACE  ...ormanda başlar i lk
+      metin  : ayin
+      duyulan: ayın
+  REPLACE  ...boyda ağaç veremez olmuştu
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...yanlarında flütün ince sesiyle
+      metin  : yalnızca
+      duyulan: puanlızca
+  REPLACE  ...kısmı isuzu irmağı üzerindeki
+      metin  : uci köprüsü nün
+      duyulan: ucu köprüsünün
+  REPLACE  ...ya da imparator değil
+      metin  : keykoin
+      duyulan: k coin
+  INSERT   ...topladılar i ç tapınak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...en ikna edici açıklama
+      metin  : takvimle
+      duyulan: takvim ne
+  REPLACE  ...ahşap değil elin bilgisidir
+      metin  : japoncada
+      duyulan: japonya da
+  REPLACE  ...bu fikrin adı var
+      metin  : tokowaka
+      duyulan: tokovaka
+  REPLACE  ...bu köyün i se
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...günden beri kuzaki tapınağa
+      metin  : noşi
+      duyulan: noshi
+  REPLACE  ...girenler sığ suda çalışır
+      metin  : tekneyle
+      duyulan: tekne ile
+  REPLACE  ...ıslığa benzer nefes verişe
+      metin  : isobue
+      duyulan: isobühe
+  REPLACE  ...baş etme yöntemi çok
+      metin  : eskidir
+      duyulan: eskiyidir
+  REPLACE  ...ve kafes gibi ızgara
+      metin  : seiman
+      duyulan: seyman
+  REPLACE  ...çıkmaktır bu meslek yalnızca
+      metin  : folklor
+      duyulan: folkloer
+  INSERT   ...bugün dalanların yaş ortalaması
+      metin  : (yok)
+      duyulan: ın
+  INSERT   ...elinden çıktı toba da
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dükkanı sahibinin oğlu mikimoto
+      metin  : kokiçi
+      duyulan: kokichi
+  INSERT   ...yıllarca hiçbir şey çıkmadı
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...hiçbir şey çıkmadı temmuz
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...i nci adası adıyla
+      metin  : anılıyor
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sayılıyor en büyük darbe
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...edison la tanıştığında edison
+      metin  : ın
+      duyulan: un
+  INSERT   ...şamandırayla kaplı bu manzara
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...park ilan edildi ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilan edildi ve körfezdeki
+      metin  : kaşikocima adasında
+      duyulan: kaşıkocuma adası nda
+  REPLACE  ...büyük ekonomilerinin liderleri toplandığında
+      metin  : o inci
+      duyulan: no oyuncu
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 79
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: seyahat-2026-09-03.duyulan.txt

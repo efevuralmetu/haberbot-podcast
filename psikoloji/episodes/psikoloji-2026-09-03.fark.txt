@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-03.mp3
+
+beklenen 1357 kelime | duyulan 1378 kelime | eşleşme %97.9
+sayı ifadesi: metinde 220, duyulanda 163  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...duman kasıtlı olarak salınıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...psikolog john darley ve
+      metin  : bibb
+      duyulan: bib
+  INSERT   ...başına oturan insanların yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...york un queens ilçesindeki
+      metin  : kew gardens
+      duyulan: q garden
+  INSERT   ...mesafe adım kadar saat
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...polis çağrıldığında ve komşulardan
+      metin  : sophia
+      duyulan: sofia
+  DELETE   ...yüzlerce cinayetten olarak kalabilirdi
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  DELETE   ...gazetenin yayın yönetmeni a
+      metin  : m
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çıkarıp ölçülebilir yeer taşıma
+      metin  : girişimiydi
+      duyulan: girişimi idi
+  INSERT   ...başa sanan katılımcıların yaklaşık
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...olduğunu düşünenlerde bu oran
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...aritmetikti kişi varsa sorumluluğun
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...düzeltilmesi gereken tarafı var
+      metin  : araştırmacı
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kişi polisi aramıştı ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...biçimde teselli edici yardım
+      metin  : etmeyişi
+      duyulan: etme işi
+  INSERT   ...sizi sorumluluktan kurtarır oysa
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ciddi biçimde zayıfladığını gösterdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sokak kavgası incelendiğinde vakaların
+      metin  : doksanından
+      duyulan: ından
+  INSERT   ...mavi montlu beyefendi siz
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...i kincisi siz seyircilerden
+      metin  : biriyseniz
+      duyulan: iseniz
+  REPLACE  ...numarası fikri yıllardır tartışılıyordu
+      metin  : kew
+      duyulan: hugh
+  INSERT   ...gardens ın yarattığı sarsıntı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...moseley cezaevinde kaldı ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...konuşmaları kaydetti ve bunu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olmayı göze alır mısınız
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 14 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-09-03.duyulan.txt

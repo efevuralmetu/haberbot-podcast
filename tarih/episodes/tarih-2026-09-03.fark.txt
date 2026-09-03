@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-03.mp3
+
+beklenen 2677 kelime | duyulan 2683 kelime | eşleşme %93.8
+sayı ifadesi: metinde 424, duyulanda 276  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...insana mal oldu ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...inkar edilen gizli ek
+      metin  : protokoldü
+      duyulan: protokoldu
+  REPLACE  ...letonya ve besarabya sovyet
+      metin  : nüfuz
+      duyulan: nüfus
+  REPLACE  ...sanayi kalbi ve baltık
+      metin  : filosu nun üssü
+      duyulan: filosunun üstü
+  REPLACE  ...üssü finlandiya sınırına yalnızca
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...sınırına yalnızca kilometer uzaktaydı
+      metin  : karelya kıstağı na
+      duyulan: karelia kıstağına
+  REPLACE  ...büyük devletin finlandiya toprağını
+      metin  : üs
+      duyulan: üst
+  REPLACE  ...katlanılamaz açıklıktı helsinki nin
+      metin  : gözündeyze
+      duyulan: gözünde ize
+  INSERT   ...teslim etmesi isteniyordu ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ülkenin en deneyimli diplomatlarından
+      metin  : juho kusti paasikivi
+      duyulan: juhokusti pasi kivi
+  REPLACE  ...sonraki turlarda maliye bakanı
+      metin  : vaynö tanner
+      duyulan: vainö thanner
+  REPLACE  ...masaya konulan istekler açıktı
+      metin  : karelya kıstağı ndaki
+      duyulan: karelia kıstağındaki
+  REPLACE  ...yıllığına sovyet donanmasına deniz
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...kiralanacaktı karşılığında sovyetler doğu
+      metin  : karelya
+      duyulan: karelia
+  REPLACE  ...duruyordu tur görüşme yapıldı
+      metin  : fin
+      duyulan: fi f in
+  REPLACE  ...hanko da diretti deniz
+      metin  : üssünü
+      duyulan: üstünü
+  INSERT   ...göer tarafsızlığın sonu demekti
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...ye döndü i ki
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...sonra sınırın sovyet tarafındaki
+      metin  : mainila
+      duyulan: manila
+  REPLACE  ...arasındaki tarihli saldırmazlık paktını
+      metin  : feshetti
+      duyulan: fessetti
+  INSERT   ...binlerce zırhlı araç ve
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...hafta süreceğini hesaplamıştı birlikleer
+      metin  : fin
+      duyulan: finn
+  REPLACE  ...yıllardır sovyetler nde yaşayan
+      metin  : fin
+      duyulan: finn
+  REPLACE  ...yaşayan fin komünisti otto
+      metin  : ville kuusinen
+      duyulan: wille kusinen
+  REPLACE  ...tezi buydu sovyetler finlandiya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...finlandiya ile savaşmıyordu meşru
+      metin  : fin
+      duyulan: finn
+  INSERT   ...olarak da işe yaramadı
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...da başkomutanlık yaşındaki karl
+      metin  : gustaf
+      duyulan: gustav
+  REPLACE  ...yaşındaki karl gustaf emil
+      metin  : mannerhaym
+      duyulan: manerheim
+  INSERT   ...yı at sırtında geçmiş
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...en iddialı kısmı güneyde
+      metin  : karelya kıstağı nda
+      duyulan: karelia kıstağında
+  REPLACE  ...sınırından botni körfezi kıyısındaki
+      metin  : oulu
+      duyulan: oğlu
+  REPLACE  ...şehrine kadar kuş uçuşu
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...gönderilen fin albay yalmar
+      metin  : siilasvuo
+      duyulan: silas vuo
+  REPLACE  ...kadar ince çizgiye dönüşüyordu
+      metin  : finler
+      duyulan: finliler
+  REPLACE  ...adı sonradan askeri literatüer
+      metin  : fince
+      duyulan: finci
+  REPLACE  ...ormanın içinden konvoyun yanlarına
+      metin  : sızıyor
+      duyulan: geliyor
+  REPLACE  ...o soğuk olağanüstüydü kışı
+      metin  : yüzyılın
+      duyulan: bu yılın
+  REPLACE  ...yerin kilometer doğusuydu ocak
+      metin  : siilasvuo
+      duyulan: ta silas vuo
+  REPLACE  ...ardından aynı yöntemle yaklaşık
+      metin  : kişiyle tümen i
+      duyulan: kişi ile tümeni
+  ... ve 67 fark daha
+
+metinde olup DUYULMAYAN: 132 kelime | duyulup metinde OLMAYAN: 136
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: tarih-2026-09-03.duyulan.txt

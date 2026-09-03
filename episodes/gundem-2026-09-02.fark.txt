@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-02.mp3
+
+beklenen 1242 kelime | duyulan 1235 kelime | eşleşme %92.5
+sayı ifadesi: metinde 264, duyulanda 143  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ran ın ürdün deki
+      metin  : üsleer
+      duyulan: üstleer
+  REPLACE  ...birlikte göz atalım trump
+      metin  : tehdidin
+      duyulan: tehdit in
+  REPLACE  ...ın yapay zekayla üretilmiş
+      metin  : harg
+      duyulan: halk
+  REPLACE  ...değil i ran cumhurbaşkanı
+      metin  : mesud
+      duyulan: mesut
+  REPLACE  ...dışişleri bakanlıkları ağustos başında
+      metin  : laypsig
+      duyulan: leipzig
+  DELETE   ...bakanı anton siluanov un
+      metin  : gyirmi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...un gyirmi maliye bakanları
+      metin  : toplantısı na
+      duyulan: toplantısına den
+  REPLACE  ...chris sidoti sahadaki tabloyu
+      metin  : ateşkes
+      duyulan: teşkes
+  REPLACE  ...eski başbakan keir starmer
+      metin  : ın
+      duyulan: in
+  REPLACE  ...i spanya başbakanı pedro
+      metin  : sançez
+      duyulan: sanchez
+  REPLACE  ...dair işaretler olduğunu bunun
+      metin  : avrupa
+      duyulan: abd
+  REPLACE  ...ize kara kuvvetleri bakanı
+      metin  : dan driscol
+      duyulan: dandris kol
+  REPLACE  ...dan driscol savunma bakanı
+      metin  : pete hegseth
+      duyulan: pitek set
+  REPLACE  ...istifa etti yüksek mahkeme
+      metin  : oyla
+      duyulan: lü koyla
+  REPLACE  ...yüksek mahkeme oyla beyaz
+      metin  : saray
+      duyulan: sarayı
+  REPLACE  ...önünü açtı teknoloji tarafında
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...temmuz ayında yaşanan ve
+      metin  : kamuoyuna
+      duyulan: kamu oyunu
+  REPLACE  ...olayın ardından yapay zeka
+      metin  : eğitimi ile
+      duyulan: eğitimiyle
+  REPLACE  ...durdurduğunu duyurdu şirket ayrıca
+      metin  : claude
+      duyulan: klot
+  REPLACE  ...turuyla değerlemesini dolara taşımıştı
+      metin  : openai
+      duyulan: epon ai
+  REPLACE  ...sayıda kuruluşa açılacak gpt
+      metin  : nokta cyber
+      duyulan: zayber
+  DELETE   ...cyber modelini tanıttı aralarında
+      metin  : bu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mektuba imza attı google
+      metin  : ceminay
+      duyulan: gemini
+  REPLACE  ...etmeye başladı nvidia nın
+      metin  : veri
+      duyulan: yardım
+  REPLACE  ...de düzenleyeceği etkinlikte iphone
+      metin  : serisi ile
+      duyulan: serisiyle
+  REPLACE  ...modelini tanıtması bekleniyor yenilenen
+      metin  : siri nin
+      duyulan: serinin
+  REPLACE  ...google ın nvidia blackwel
+      metin  : biki çip
+      duyulan: chip
+  INSERT   ...bildirildi gartner a göer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...toplam dolar ayırması bekleniyor
+      metin  : öte
+      duyulan: etö
+  REPLACE  ...yandan ftc yani abd
+      metin  : federal
+      duyulan: federallik
+  REPLACE  ...itmesi kasım vadeli brent
+      metin  : petrolün
+      duyulan: gün
+  INSERT   ...devlet tahvilleri göstergesinin getirisi
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...nin yıllık tahvil faizi
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...üzerine yıllık faiz ize
+      metin  : (yok)
+      duyulan: ya
+  DELETE   ...faiz ize çıktı avrupa
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...euro bölgesi nde tüketici
+      metin  : enflasyonu ağustosta
+      duyulan: ağustos ta
+  INSERT   ...tüketici enflasyonu ağustosta yıllık
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...de temmuz enflasyonunun yıllık
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...enflasyonunun yıllık dörde çekirdek
+      metin  : enflasyonun
+      duyulan: enflasyonunun e
+  DELETE   ...hala olasılıkla fiyatlıyor fiyatı
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: gundem-2026-09-02.duyulan.txt

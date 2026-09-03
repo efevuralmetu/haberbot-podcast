@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-03.mp3
+
+beklenen 2364 kelime | duyulan 2341 kelime | eşleşme %98.2
+sayı ifadesi: metinde 171, duyulanda 124  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...asking out loud richard
+      metin  : peto
+      duyulan: pato
+  REPLACE  ...that breaks the growth
+      metin  : brake
+      duyulan: break
+  REPLACE  ...do that was what
+      metin  : peto
+      duyulan: pato
+  REPLACE  ...an african elephant sometimes
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...a human s cells
+      metin  : run
+      duyulan: learn
+  REPLACE  ...died with dozens of
+      metin  : tumours
+      duyulan: tumors
+  REPLACE  ...at moer than a
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...team led by lisa
+      metin  : abegglen
+      duyulan: abiglan
+  DELETE   ...a separate database covering
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...result was this about
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...a this is called
+      metin  : peto
+      duyulan: pitot
+  REPLACE  ...the real force of
+      metin  : peto
+      duyulan: pitot
+  REPLACE  ...of repairing it means
+      metin  : cancelling
+      duyulan: canceling
+  REPLACE  ...an inherited condition called
+      metin  : li fraumeni
+      duyulan: lefromini
+  REPLACE  ...cells from people with
+      metin  : li fraumeni
+      duyulan: lefromini
+  REPLACE  ...human cells did the
+      metin  : li fraumeni
+      duyulan: lefromini
+  REPLACE  ...damage in the middle
+      metin  : ours
+      duyulan: hours
+  REPLACE  ...copies they aer called
+      metin  : retrogenes
+      duyulan: retrogenies
+  REPLACE  ...team transferred the elephant
+      metin  : retrogenes
+      duyulan: retrogenies
+  REPLACE  ...in it as vera
+      metin  : gorbunova
+      duyulan: gorbinova
+  REPLACE  ...mice cancer went down
+      metin  : in
+      duyulan: and
+  DELETE   ...into a single analysis
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...and necropsy records from
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the result ran against
+      metin  : peto
+      duyulan: pitot
+  REPLACE  ...the rate at which
+      metin  : tumours
+      duyulan: tumors
+  DELETE   ...risk climbed by about
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...tumor risk fel by
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...published a study of
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bush no evidence for
+      metin  : peto
+      duyulan: pitot
+  REPLACE  ...in july of antoine
+      metin  : dujon
+      duyulan: dujan
+  REPLACE  ...dujon and his team
+      metin  : reanalysed
+      duyulan: reanalyzed
+  INSERT   ...a moer cautious conclusion
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...from zoos whereas these
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...is going to add
+      metin  : retrogenes
+      duyulan: retrogenies
+  REPLACE  ...of carrying cells of
+      metin  : ageing
+      duyulan: aging
+  DELETE   ...is precisely this knowledge
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-09-03.duyulan.txt
