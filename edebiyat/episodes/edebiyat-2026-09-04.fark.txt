@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-04.mp3
+
+beklenen 1666 kelime | duyulan 1690 kelime | eşleşme %96.5
+sayı ifadesi: metinde 303, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...vasiyeti vardı mektuplarımı yak
+      metin  : lavinia
+      duyulan: lavinya
+  REPLACE  ...ve fazla şiir massachusetts
+      metin  : in
+      duyulan: ın
+  REPLACE  ...in üzerinde yolun kenarındaki
+      metin  : çitin
+      duyulan: çetin
+  INSERT   ...kasabasının en gösterişli evlerinden
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...güneybatı köşe odasında aralık
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...dışına taştı kurutulmuş çiçeklerden
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...çiçeklerden aşkın örnek içeren
+      metin  : herbaryum
+      duyulan: herbarium
+  INSERT   ...her adını latince yazdı
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...latince yazdı yaşındayken çektirdiği
+      metin  : dagerotip
+      duyulan: daguerotip
+  INSERT   ...kesinleşmiş tek fotoğrafı budur
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çemberi yavaş yavaş daraldı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...diyelim ki yeşil ev
+      metin  : gelin
+      duyulan: gilin
+  INSERT   ...çok yürüdüğü yol oldu
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...gitmeyi de sonunda bıraktı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...olarak konuşmaya başladı ama
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...sonra yeğeni halasının anahtarı
+      metin  : kilitte
+      duyulan: kilitle
+  INSERT   ...çekmeceli yazı masası sayısı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...bu defterlerden tane yaptı
+      metin  : içlerinde
+      duyulan: i çlerinde ü
+  INSERT   ...dönemde gözleri bozuldu ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...okuyordu bahçenin öbür ucundaki
+      metin  : susan
+      duyulan: suzan
+  INSERT   ...susan emily ömrü boyunca
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...diye başlayan şiirin kıtasını
+      metin  : susan
+      duyulan: suzan
+  INSERT   ...çalışmaydı dışarıya açılan kapı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yazısı çıkmıştı emily nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...samuel bowles ailenin dostuydu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...şiirin soluğunun kesildiğini yazdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...girdi hepsi bu son
+      metin  : yılı
+      duyulan: yıllı
+  INSERT   ...yılı kayıplarla doldu babası
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...emily ve lavinia baktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve lavinia baktı austin
+      metin  : in
+      duyulan: ın
+  INSERT   ...e girdi kendisi mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...el yazısını okuyamıyordu önce
+      metin  : susan
+      duyulan: suzan
+  REPLACE  ...önce susan a gitti
+      metin  : susan
+      duyulan: suzan
+  REPLACE  ...yıllarca oyalandı sonra austin
+      metin  : in
+      duyulan: ın
+  REPLACE  ...daktiloya çekti ve higginson
+      metin  : ı
+      duyulan: u
+  INSERT   ...hazırladığı ilk kitap kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kasım yayımlandı emily dickinson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...tireleri sildiler emily dickinson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...böylece dünya emily dickinson
+      metin  : ı
+      duyulan: u
+  REPLACE  ...todd un elindeydi bölümü
+      metin  : susan
+      duyulan: suzan
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: edebiyat-2026-09-04.duyulan.txt

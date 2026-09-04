@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-04.mp3
+
+beklenen 3277 kelime | duyulan 3275 kelime | eşleşme %98.7
+sayı ifadesi: metinde 80, duyulanda 74  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...s novel the trial
+      metin  : josef k
+      duyulan: joseph kay
+  REPLACE  ...the verse of the
+      metin  : hujurat
+      duyulan: hujrat
+  REPLACE  ...most kinds of suspicion
+      metin  : tecessüs
+      duyulan: tesesus
+  REPLACE  ...backbiting the middle word
+      metin  : tecessüs
+      duyulan: tesesus
+  REPLACE  ...a violation as grave
+      metin  : as
+      duyulan: is
+  REPLACE  ...turkish when we say
+      metin  : mahrem
+      duyulan: mahram
+  REPLACE  ...of the words haram
+      metin  : hürmet
+      duyulan: hermit
+  REPLACE  ...haram hürmet harem and
+      metin  : ihram
+      duyulan: herram
+  REPLACE  ...is something shameful theer
+      metin  : mahrem
+      duyulan: maram
+  REPLACE  ...method theer was an
+      metin  : offence
+      duyulan: offense
+  REPLACE  ...the existence of the
+      metin  : offence
+      duyulan: offense
+  REPLACE  ...is manifest that is
+      metin  : at
+      duyulan: that
+  REPLACE  ...to this as wel
+      metin  : setr
+      duyulan: cetra
+  REPLACE  ...the registers of the
+      metin  : kadis
+      duyulan: kaidis
+  REPLACE  ...what did you read
+      metin  : aleecia
+      duyulan: alicia
+  REPLACE  ...read aleecia mcdonald and
+      metin  : lorrie
+      duyulan: laurie
+  REPLACE  ...was handing over their
+      metin  : born
+      duyulan: firstborn
+  REPLACE  ...it in turkey law
+      metin  : no
+      duyulan: number
+  REPLACE  ...scoer you have been
+      metin  : labelled
+      duyulan: labeled
+  REPLACE  ...nothing the legal scholar
+      metin  : jonathon penney
+      duyulan: jonathan penny
+  REPLACE  ...a given video these
+      metin  : produce
+      duyulan: produced
+  REPLACE  ...of the curtain lies
+      metin  : erving
+      duyulan: irving
+  REPLACE  ...certainly not a lie
+      metin  : that
+      duyulan: the
+  REPLACE  ...also has a room
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...room nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: buggen küberlümen sono nagaldik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: hikaya de yeni dan bulushma kuzeer
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-09-04.duyulan.txt

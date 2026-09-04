@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-04.mp3
+
+beklenen 1531 kelime | duyulan 1555 kelime | eşleşme %92.3
+sayı ifadesi: metinde 231, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ellerinde senaryo yoktu sadece
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...da gösterilecek kopyanın kurgusu
+      metin  : prömiyer
+      duyulan: premier
+  REPLACE  ...senaryo adı vermekle biter
+      metin  : vong kar vay nin
+      duyulan: von karvay nın
+  REPLACE  ...göer her şeyin çekirdeğinde
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...bitecek kadar kısa metin
+      metin  : vong
+      duyulan: wong
+  REPLACE  ...kalmış hesap da vardı
+      metin  : vong
+      duyulan: wong
+  INSERT   ...aradan yıllar geçti ve
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...sır paylaşan kadınla erkek
+      metin  : vong
+      duyulan: wong
+  INSERT   ...hikayeyi pekin den alıp
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...hong konglu yazar liu
+      metin  : yiçang
+      duyulan: yichang
+  REPLACE  ...kitabıdır kitabın adı duidao
+      metin  : fransızcada tet
+      duyulan: fransızca da tetbech
+  REPLACE  ...aynı yöne bakmazlar liu
+      metin  : yiçang
+      duyulan: yichang
+  REPLACE  ...insanın birbirine değmeyen düşünceleri
+      metin  : vong
+      duyulan: wong
+  INSERT   ...olduğunu tek kelimeyle anlatır
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...anlattığı şeydir çekilmez biriktirilir
+      metin  : megi çöng
+      duyulan: maggie chung
+  REPLACE  ...biriktirilir megi çöng ve
+      metin  : toni löng çiu vay ye
+      duyulan: tony leung chiu vayye
+  REPLACE  ...üstüne doğaçlama yapmaları isteniyordu
+      metin  : çöng
+      duyulan: chung
+  REPLACE  ...söylediği cümleyi ertesi hafta
+      metin  : löng
+      duyulan: leung
+  REPLACE  ...nereye gideceği henüz kararlaştırılmamıştı
+      metin  : vong
+      duyulan: wong
+  REPLACE  ...henüz kararlaştırılmamıştı vong un
+      metin  : çöng
+      duyulan: chung
+  REPLACE  ...burada tek kişide toplanmıştı
+      metin  : vilyım çang suk
+      duyulan: william chung sook
+  REPLACE  ...vilyım çang suk ping
+      metin  : çang
+      duyulan: chung
+  REPLACE  ...karar veren aynı el
+      metin  : çang
+      duyulan: chung
+  REPLACE  ...çang filmin renk anlayışında
+      metin  : jak demi
+      duyulan: jack deme
+  REPLACE  ...görünür hale gelir anlatılan
+      metin  : dünya da vong
+      duyulan: dünyada wong
+  INSERT   ...un kendi hafızasından geliyordu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...geliyordu hong kong u
+      metin  : şanghay
+      duyulan: shanghai
+  REPLACE  ...döndüğünüzü ayak sesinden bilirdi
+      metin  : vong şanghay
+      duyulan: wong de shanghai
+  INSERT   ...vong şanghay da doğmuş
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıkıp yeniden yapmıştı ve
+      metin  : vong
+      duyulan: wong
+  REPLACE  ...bulamıyordu bu ekip uçağa
+      metin  : bangkoğa
+      duyulan: bangkok a
+  REPLACE  ...başkentinin eski çin mahallesinde
+      metin  : vong
+      duyulan: wong
+  REPLACE  ...vong aradığı dokuyu buldu
+      metin  : yıllanmış
+      duyulan: yılanmış
+  REPLACE  ...için de çekim durmadı
+      metin  : vong
+      duyulan: wong
+  REPLACE  ...bile inanılması güç görünüyor
+      metin  : megi çöng
+      duyulan: maggie chung
+  REPLACE  ...saat harcıyordu karakterin giydiği
+      metin  : çipao
+      duyulan: chipao
+  REPLACE  ...çin elbisesi oyuncuyu neredeyze
+      metin  : korse
+      duyulan: korsa
+  REPLACE  ...aralığını oturuşunu nefesini kısıtlıyordu
+      metin  : çang
+      duyulan: chung
+  REPLACE  ...bu film için yakın
+      metin  : çipao
+      duyulan: chipao
+  INSERT   ...söyler sonra para bitti
+      metin  : (yok)
+      duyulan: de
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 93 kelime | duyulup metinde OLMAYAN: 118
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: film-2026-09-04.duyulan.txt

@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-04.mp3
+
+beklenen 1929 kelime | duyulan 1954 kelime | eşleşme %97.6
+sayı ifadesi: metinde 225, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yalnızca karanlık görüyor bu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...okullar için düşünmüştü adına
+      metin  : panoptikon
+      duyulan: panopticon
+  REPLACE  ...hatta bazen hiç bekçi
+      metin  : mişel fuko
+      duyulan: te michel foucault
+  REPLACE  ...çıkarıp tarif haline getirdi
+      metin  : fuko nun
+      duyulan: foucault un
+  INSERT   ...muhataptır felsefeci james rachels
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kaybedersiniz helen nissenbaum un
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nereye gittiğidir hukukçu daniel
+      metin  : solove
+      duyulan: solov de
+  REPLACE  ...kafka nın dava romanıdır
+      metin  : josef
+      duyulan: joseph
+  REPLACE  ...posta adreslerinizin şifrelerini gönderin
+      metin  : ben de
+      duyulan: bank ve
+  REPLACE  ...hesaplarınızı gezip ilginç bulduklarımı
+      metin  : yayımlayayım
+      duyulan: yayımlayın
+  REPLACE  ...ve selam vermeden girmeyin
+      metin  : içeride
+      duyulan: i çerde
+  REPLACE  ...bulma yöntemini meşru kılmamış
+      metin  : gazzali i hya da
+      duyulan: gazali ihyada
+  REPLACE  ...bunun de olumlu vardır
+      metin  : setr
+      duyulan: sedr
+  REPLACE  ...ne okudunuz carnegie mellon
+      metin  : üniversitesi nden aleecia mcdonald
+      duyulan: üniversitesinden alecia macdonald
+  REPLACE  ...nden aleecia mcdonald ve
+      metin  : lorrie
+      duyulan: laurie
+  INSERT   ...kendine söylediği kibar yalandır
+      metin  : (yok)
+      duyulan: ki te
+  INSERT   ...kişisel verilerin korunması kanunu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...seçimden çok gişeye dönüştü
+      metin  : (yok)
+      duyulan: çi k i de
+  REPLACE  ...şey değişmiyor mu hukukçu
+      metin  : jonathon
+      duyulan: jonathan
+  INSERT   ...mu hukukçu jonathon penney
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...penney gözetim ifşalarından sonra
+      metin  : vikipedi nin
+      duyulan: wikipedia nın
+  INSERT   ...ziyaretlerde kalıcı düşüş buldu
+      metin  : (yok)
+      duyulan: nok
+  INSERT   ...düşüş buldu oran yaklaşık
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...sadece merak etmekten vazgeçmişti
+      metin  : fuko nun
+      duyulan: foucault un
+  INSERT   ...değil shoshana zuboff un
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gelecekteki davranışınıza dair kestirimdir
+      metin  : panoptikonun
+      duyulan: panopticon un
+  INSERT   ...cevabı burada erving goffman
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...odası olduğu fikri olacak
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: felsefe-2026-09-04.duyulan.txt

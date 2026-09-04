@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-04.mp3
+
+beklenen 3000 kelime | duyulan 3005 kelime | eşleşme %93.2
+sayı ifadesi: metinde 405, duyulanda 255  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...japonya nın orta kesimindeki
+      metin  : owari
+      duyulan: owaer
+  REPLACE  ...tutan kimse yoktu babası
+      metin  : kinoşita
+      duyulan: kinoshita
+  REPLACE  ...kinoşita yaemon oda hanesinin
+      metin  : ashigaru suydu
+      duyulan: aşigarusuydu
+  REPLACE  ...yeer ait olmak demekti
+      metin  : kinoşita
+      duyulan: kinoshita
+  REPLACE  ...yüzyılda derlenen taikoki yani
+      metin  : taiko vakayinamesi dir
+      duyulan: taikova kaynamesidir
+  REPLACE  ...destanıdır olayları büyütür sahneleri
+      metin  : süsler
+      duyulan: süslür
+  REPLACE  ...uydurur ama japon hafızasında
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...hideyoşi nin çocukluğu hala
+      metin  : taiko vakayinamesi nin
+      duyulan: taikova kaynamesinin
+  REPLACE  ...anlatıldığına göer çocuğun adı
+      metin  : hiyoşimaru
+      duyulan: hiyoshimaru
+  REPLACE  ...ziyaret eden portekizli cizvit
+      metin  : luiş froyş da
+      duyulan: luis frois de
+  REPLACE  ...eyaletine yürüdü ve orada
+      metin  : matsuşita
+      duyulan: matsushita
+  REPLACE  ...hiçbir güvencesi yoktur dolaylarında
+      metin  : owari
+      duyulan: ovari
+  REPLACE  ...tuhaf adamdı soyluların kılık
+      metin  : kurallarına
+      duyulan: kurallarını
+  REPLACE  ...çiğneyen ilk büyük beylerden
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...odun mutfak ahır ayakkabı
+      metin  : taiko vakayinamesi nin
+      duyulan: taikova kaynamesinin
+  REPLACE  ...anlatıldığını anlamak zor değil
+      metin  : içinde hideyoşi
+      duyulan: i çinde hideyoshi
+  REPLACE  ...çıkaracak nobunaga nın hizmetinde
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...hideyoşi nin adı önce
+      metin  : kinoşita tokiçiro
+      duyulan: kinochita tokichiro
+  REPLACE  ...i lk büyük işi
+      metin  : inşaattı altmışların
+      duyulan: inşa attı ların
+  REPLACE  ...deneme de başarısız olmuştu
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...kesin ama şu doğru
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  INSERT   ...asıl silahı olarak kalacaktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geri çekilirken en tehlikeli
+      metin  : görev artçılıktır
+      duyulan: görevarçılıktır
+  REPLACE  ...bu görevi üstlenenler arasında
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  INSERT   ...etkisi kazanılmış savaştan büyüktür
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nde ezdi ödül olarak
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...miktarıydı ve japonya da
+      metin  : servet de
+      duyulan: servetle
+  REPLACE  ...nın en kıdemli komutanı
+      metin  : niwa
+      duyulan: niva
+  REPLACE  ...komutanı niwa nagahide ve
+      metin  : şibata katsuie
+      duyulan: shibata katsuye
+  REPLACE  ...nin adlarından işaret alıp
+      metin  : haşiba
+      duyulan: hashiba
+  REPLACE  ...ize başka lakap kullanır
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...kullandığı sözcük de anlamlıdır
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  INSERT   ...ama hala şakanın konusuydu
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...hala şakanın konusuydu itibaren
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...üslubunu tam olarak gösterir
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...ayırır ve bekletirdi miki
+      metin  : kalesi ni
+      duyulan: kalesini den e
+  REPLACE  ...dehşetle anlatır kale komutanı
+      metin  : kikkawa tsuneie
+      duyulan: kikkawatuniye
+  REPLACE  ...ve seppuku yaptı sonra
+      metin  : bitçu
+      duyulan: de bicchu
+  REPLACE  ...takamatsu kalesi geldi ve
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...ovanın ortasındaydı hücum imkansızdı
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  ... ve 93 fark daha
+
+metinde olup DUYULMAYAN: 152 kelime | duyulup metinde OLMAYAN: 162
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: biyografi-2026-09-04.duyulan.txt

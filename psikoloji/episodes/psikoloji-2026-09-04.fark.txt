@@ -1,0 +1,67 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-04.mp3
+
+beklenen 1248 kelime | duyulan 1253 kelime | eşleşme %97.9
+sayı ifadesi: metinde 104, duyulanda 95  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...biliyor musun neredeyze herkes
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...demek nasıl çalışıyor biliyorum
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...yale üniversitesi nden leonid
+      metin  : rozenblit
+      duyulan: rosenblit
+  REPLACE  ...leonid rozenblit ve frank
+      metin  : keil
+      duyulan: kale
+  REPLACE  ...rezervuar helikopter hız göstergesi
+      metin  : piyano
+      duyulan: piano
+  REPLACE  ...şeyi dışarı çıkarmaya çalışmışlardı
+      metin  : rozenblit
+      duyulan: rosenblit
+  REPLACE  ...çıkarmaya çalışmışlardı rozenblit ve
+      metin  : keil
+      duyulan: cale
+  REPLACE  ...makul açıklaması var mekanizmalar
+      metin  : dışarıdan
+      duyulan: dışardan
+  INSERT   ...nde rebecca lawson ın
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ın yürüttüğü çalışmaya bakabilirsiniz
+      metin  : lawson
+      duyulan: yelason
+  REPLACE  ...zincir ön tekerlekle arka
+      metin  : tekerleği
+      duyulan: tekerleyi
+  REPLACE  ...bilmememiz kabuk çatlamadığı sürece
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...yer elbette fermuar değil
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...olarak yanılsamayı besleyen şeydir
+      metin  : fernbach
+      duyulan: ferbach
+  REPLACE  ...hangi ihtiyaç hangi tepkiyi
+      metin  : doğuruyor
+      duyulan: doğruyor
+  REPLACE  ...düşürmeli mi tam tersi
+      metin  : sloman
+      duyulan: suloman
+  REPLACE  ...hiçbir şey bilmiyorum değil
+      metin  : öyle
+      duyulan: ölçle
+  REPLACE  ...ilk defa oradan bakılıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 16 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-09-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-04.mp3
+
+beklenen 1725 kelime | duyulan 1752 kelime | eşleşme %92.6
+sayı ifadesi: metinde 271, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...a giden yolun son
+      metin  : kilometresinde
+      duyulan: km sinde
+  REPLACE  ...açık kalmış ambar ağızları
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...liman şehriydi aral denizi
+      metin  : kilometrekarelik
+      duyulan: ta
+  REPLACE  ...yüzeyiyle dünyanın büyük gölüydü
+      metin  : içinde kilometreküp
+      duyulan: i çinde
+  INSERT   ...civarındaydı yani hafif tuzlu
+      metin  : (yok)
+      duyulan: nokba
+  DELETE   ...balıkçılığı yakın insanı geçindiriyor
+      metin  : sovyetler nin toplam balık avının yaklaşık karşılıyordu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şey felaket değil plandı
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...orta asya yı pamuk
+      metin  : üssüne
+      duyulan: üstüne
+  REPLACE  ...yı pamuk üssüne çevirmeye
+      metin  : karar verdi aral ı
+      duyulan: kalktı aralı
+  INSERT   ...kısmı tarlaya varamadan sızıyor
+      metin  : (yok)
+      duyulan: ya da buharlaşıyordu nehirler ağızlarına ulaştıkları için suyun tahminine göer
+  REPLACE  ...kanal kazdılar limanın önündeki
+      metin  : sığlığı
+      duyulan: sığılığı
+  INSERT   ...ölçülmeye başlayınca yarış bitti
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...kurudu kuzeyde kazakistan tarafında
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yani aral kumu yaklaşık
+      metin  : kilometrekarelik
+      duyulan: kilometer karelik
+  REPLACE  ...büyüme mevsimi daha kısa
+      metin  : delta
+      duyulan: delda
+  REPLACE  ...avcılığı sazlıktan yapılan hasır
+      metin  : sanayii
+      duyulan: sanayi
+  REPLACE  ...tonlarca kumu tutabilen bu
+      metin  : bodur çalı tozu
+      duyulan: bodurçalı toktazu
+  INSERT   ...milyonlarca hektarla ifade ediliyor
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...elektronik müzik festivali düzenleniyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ediyor bu manzaradan yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...bunu yapan adamın adı
+      metin  : i gor savitski ydi
+      duyulan: igor savitsky idi te
+  INSERT   ...resim eğitimi aldı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aldı ve yaşındayken arkeolog
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...çizimlerini yapmaktı sefer bitti
+      metin  : savitski
+      duyulan: savitsky
+  REPLACE  ...önce eski eşyalar topladı
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...yakacak odun muamelesi görüyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...müze kurulmasına yetti ve
+      metin  : savitski müzenin
+      duyulan: savitsky müze nin
+  REPLACE  ...iş bundan sonra başladı
+      metin  : savitski
+      duyulan: savitsky
+  INSERT   ...ve leningrad a gidip
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...leningrad a gidip ve
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...aramaya koyuldu sovyet sanat
+      metin  : doktrini
+      duyulan: doktorini
+  REPLACE  ...tavan aralarında rulo halinde
+      metin  : savitski
+      duyulan: savitsky
+  INSERT   ...senet kaldı bunların kısmı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eser var bunun yaklaşık
+      metin  : avangart
+      duyulan: avant garde
+  REPLACE  ...bunun yaklaşık avangart ve
+      metin  : avangart
+      duyulan: avant garde
+  REPLACE  ...ve avangart sonrası resim
+      metin  : sen
+      duyulan: ben
+  REPLACE  ...sonrası resim sen petersburg
+      metin  : daki
+      duyulan: taki
+  REPLACE  ...rengini kendi diline çeviren
+      metin  : aleksandr
+      duyulan: alexander
+  REPLACE  ...işleri ural tansıkbayev in
+      metin  : fovist
+      duyulan: fovis
+  REPLACE  ...simgesi olan tablo var
+      metin  : boğa
+      duyulan: boa
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 85 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-09-04.duyulan.txt

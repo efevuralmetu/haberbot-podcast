@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-04.mp3
+
+beklenen 1439 kelime | duyulan 1474 kelime | eşleşme %96.3
+sayı ifadesi: metinde 369, duyulanda 214  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...şirkete geri vermek oldu
+      metin  : (yok)
+      duyulan: botom
+  REPLACE  ...önce yeni konsol saturn
+      metin  : ün
+      duyulan: un
+  REPLACE  ...sonra asıl bombayı patlatıyor
+      metin  : talep
+      duyulan: alep
+  REPLACE  ...nın büyük oyuncak zinciri
+      metin  : kb
+      duyulan: kybee
+  REPLACE  ...nin amerika başkanı steve
+      metin  : race
+      duyulan: ray s
+  REPLACE  ...dolar ve indi saturn
+      metin  : ün
+      duyulan: un
+  INSERT   ...dönüşüyordu tam yıl önce
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çöp olduğunu gördü saturn
+      metin  : ü
+      duyulan: u
+  INSERT   ...çekişme de büyüyordu kalinske
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yıldız ekran kartı üreticisi
+      metin  : (yok)
+      duyulan: pix
+  REPLACE  ...çalışıyordu japonya kanadı ize
+      metin  : nec in powervr
+      duyulan: ng power vr
+  INSERT   ...tasarım rafa kalktı ve
+      metin  : (yok)
+      duyulan: pix
+  REPLACE  ...gerçekten iyiydi hitachi nin
+      metin  : megahertz
+      duyulan: mhz
+  DELETE   ...hitachi nin megahertz hızındaki
+      metin  : sh
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...megahertz hızındaki sh işlemcisi
+      metin  : megabayt
+      duyulan: mb
+  REPLACE  ...işlemcisi megabayt ana bellek
+      metin  : gigabayta
+      duyulan: gb e
+  INSERT   ...kimse böyle şey denememişti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...öldüğünü söylüyordu konsol kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...cihazı raflara koyamamıştı şubat
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...da satılan makine sayısı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...oyun lansmanın hemen öncesinde
+      metin  : bernie stolar
+      duyulan: bernice tolar
+  REPLACE  ...stolar görevinden ayrılmıştı tokyo
+      metin  : ile
+      duyulan: yla
+  INSERT   ...geçildi kasım da ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da ekim avrupa da
+      metin  : sterlinden
+      duyulan: terlinden
+  REPLACE  ...salon kabinlerindeki dövüş oyunu
+      metin  : soulcalibur
+      duyulan: sol talibur
+  REPLACE  ...cümlesini abartmadan kurabiliyordu visual
+      metin  : concepts
+      duyulan: concept
+  INSERT   ...besliyordun asıl kumar eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...düzgün biçimde taşındı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...star ize sınırı tamamen
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...varmadan gölge belirmişti mart
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...gölge belirmişti mart yani
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...makinesini japonya da mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mart amerika da ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...önce dolara indirdi satışlar
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...oyun olarak anılıyordu masrafını
+      metin  : çıkarması
+      duyulan: çıkartması
+  INSERT   ...disklerin kimliğini sorgulamıyordu haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çalışmaya başladı sega nın
+      metin  : gigabaytlık
+      duyulan: gb lık
+  INSERT   ...hesaplamıştı yaklaşık kaldı mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yani dolara ulaşmıştı ocak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaklaşık cihaz duruyordu mart
+      metin  : (yok)
+      duyulan: de
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: oyun-2026-09-04.duyulan.txt

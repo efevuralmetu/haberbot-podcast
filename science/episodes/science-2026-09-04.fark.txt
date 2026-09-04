@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-04.mp3
+
+beklenen 2264 kelime | duyulan 2223 kelime | eşleşme %98.2
+sayı ifadesi: metinde 102, duyulanda 76  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...podcast science json language
+      metin  : en kaynak kanal
+      duyulan: n canuck underscoer canal
+  DELETE   ...today s bilim txt
+      metin  : not a new turkish text so i m delivering it in english with numbers spelled out the en path skips the turkish number normalization in kanal render
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mpemba was studying at
+      metin  : mkwawa
+      duyulan: mkawa
+  REPLACE  ...dar es salaam after
+      metin  : denis osborne
+      duyulan: denize osborn
+  DELETE   ...the other to degrees
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the hal laughed again
+      metin  : osborne
+      duyulan: osborn
+  REPLACE  ...water really did freeze
+      metin  : osborne
+      duyulan: osborn
+  REPLACE  ...wildlife management college at
+      metin  : mweka
+      duyulan: mdueka
+  REPLACE  ...submission came from nikola
+      metin  : bregović
+      duyulan: bregevich
+  REPLACE  ...in fluid physicists henry
+      metin  : burridge
+      duyulan: burrage
+  REPLACE  ...moer direct road in
+      metin  : zhiyue
+      duyulan: jie
+  REPLACE  ...fraser university in canada
+      metin  : avinash
+      duyulan: evanash
+  REPLACE  ...avinash kumar and john
+      metin  : bechhoefer
+      duyulan: bechofer
+  REPLACE  ...experiment ran like this
+      metin  : start
+      duyulan: cut
+  DELETE   ...question outlived its answer
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 16
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-09-04.duyulan.txt

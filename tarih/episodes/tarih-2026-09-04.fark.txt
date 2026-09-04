@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-04.mp3
+
+beklenen 2204 kelime | duyulan 2253 kelime | eşleşme %93.5
+sayı ifadesi: metinde 425, duyulanda 212  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...çocuk bayramı olarak anıyor
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...yatan sessiz denklemdir bağımsızlığını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ülkeyi yıla yakın süreyle
+      metin  : hose
+      duyulan: jose
+  REPLACE  ...yakın süreyle hose gaspar
+      metin  : rodrigez
+      duyulan: rodríguez
+  REPLACE  ...hose gaspar rodrigez de
+      metin  : fransiya
+      duyulan: fransia
+  INSERT   ...toprak sahipleri tasfiye edildi
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...öldüğünde geride yoksul ama
+      metin  : borçsuz
+      duyulan: bortsuz
+  REPLACE  ...ülke bırakmıştı ardından gelen
+      metin  : karlos antonyo lopez
+      duyulan: carlos antonio lópez
+  INSERT   ...lopez kapıları aralamayı seçti
+      metin  : (yok)
+      duyulan: den ye
+  REPLACE  ...ngilteer den mühendisler getirtti
+      metin  : i bikui de
+      duyulan: ibiquide
+  REPLACE  ...i bikui de yani
+      metin  : i bikui de
+      duyulan: ibiquide
+  REPLACE  ...de demir dökümhanesi kurdurdu
+      metin  : tersane
+      duyulan: tershane
+  REPLACE  ...dökümhanesi kurdurdu tersane açtırdı
+      metin  : asunsiyon
+      duyulan: de asunción
+  REPLACE  ...açtırdı asunsiyon da yani
+      metin  : asunsiyon
+      duyulan: asunción
+  REPLACE  ...tren hattı işlemeye başladı
+      metin  : paraguari ye
+      duyulan: de paraguay a
+  REPLACE  ...nefes borusu başkasının elindeydi
+      metin  : karlos antonyo lopez
+      duyulan: de carlos antonio lópez
+  REPLACE  ...lopez ölünce yerine oğlu
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...yerine oğlu fransisko solano
+      metin  : lopez
+      duyulan: lópez
+  REPLACE  ...solano lopez geçti genç
+      metin  : lopez
+      duyulan: lópez
+  REPLACE  ...geçti genç lopez babasının
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...te londra da madrid
+      metin  : de
+      duyulan: te
+  REPLACE  ...lynch ile orada tanışıp
+      metin  : asunsiyon a
+      duyulan: asunsyona
+  REPLACE  ...oldu küçük ülkede iktidardaki
+      metin  : blanko
+      duyulan: blanco
+  REPLACE  ...yazında tırmandı brezilya muhalefetteki
+      metin  : venansiyo
+      duyulan: venancio
+  INSERT   ...destekliyordu solano lopez ağustos
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...brezilya notayı ciddiye almadı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...notayı ciddiye almadı ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...birlikleri uruguay topraklarına girdi
+      metin  : asunsiyon
+      duyulan: asunsyon
+  INSERT   ...sıra o sözü tutmaktaydı
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...sözü tutmaktaydı kasım sabahı
+      metin  : asunsiyon
+      duyulan: asunsyon
+  REPLACE  ...vapuru demir aldı adı
+      metin  : markes
+      duyulan: marques
+  REPLACE  ...yeni atanmış valisi albay
+      metin  : frederiko karneyro
+      duyulan: federico carneiro
+  REPLACE  ...albay frederiko karneyro de
+      metin  : kampos
+      duyulan: campos
+  REPLACE  ...de kampos vardı gemi
+      metin  : asunsiyon
+      duyulan: asunsyon
+  INSERT   ...yola çıkmış devlet memuruydu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...mürettebatı ve yolcuları tutuklandı
+      metin  : asunsiyon
+      duyulan: asunsyon
+  REPLACE  ...asunsiyon a geri götürüldü
+      metin  : karneyro
+      duyulan: carneiro
+  REPLACE  ...geri götürüldü karneyro de
+      metin  : kampos
+      duyulan: campos
+  REPLACE  ...en yanlış anlaşılan biçimidir
+      metin  : riyo dö janeyro
+      duyulan: rio de janeiro
+  ... ve 63 fark daha
+
+metinde olup DUYULMAYAN: 93 kelime | duyulup metinde OLMAYAN: 138
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: tarih-2026-09-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-04.mp3
+
+beklenen 2386 kelime | duyulan 2388 kelime | eşleşme %95.5
+sayı ifadesi: metinde 274, duyulanda 212  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çimen kabartıları aslında kristof
+      metin  : kolomb
+      duyulan: kolom
+  REPLACE  ...kolomb dan yıl önce
+      metin  : atlantiği
+      duyulan: atlantı yı
+  REPLACE  ...kadar itiraf etti kuzey
+      metin  : atlantiğin
+      duyulan: atlantı yın
+  REPLACE  ...yıl boyunca ciddiye alınmadılar
+      metin  : graynlendinga
+      duyulan: greenlandinga
+  REPLACE  ...alınmadılar graynlendinga saga yani
+      metin  : grönlandlıların
+      duyulan: grönlantlıların
+  REPLACE  ...yani grönlandlıların sagası öteki
+      metin  : eyriks saga röyda
+      duyulan: eirik sagaröy da
+  REPLACE  ...saga röyda yani kızıl
+      metin  : eriğin
+      duyulan: eri in
+  REPLACE  ...şeyi iddia ediyordu grönland
+      metin  : da
+      duyulan: a
+  REPLACE  ...sagaların anlattığı sıralama şöyleydi
+      metin  : byarni heryolfsson
+      duyulan: bayarni herjolfsson
+  REPLACE  ...anlattı yıllar sonra kızıl
+      metin  : eriğin
+      duyulan: eri in
+  REPLACE  ...sonra kızıl eriğin oğlu
+      metin  : leyf eyriksson byarni
+      duyulan: leif eirikson bayarni
+  REPLACE  ...satın aldı ve o
+      metin  : kıyıyı
+      duyulan: kıyıya
+  REPLACE  ...tahıl olduğunu söylüyordu kuzey
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...yazıya geçmeden çok önce
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...adam hamburg ve bremen
+      metin  : başpiskoposlarının
+      duyulan: başbiskoposlarının
+  REPLACE  ...yazarken danimarka kralı sven
+      metin  : estridsen
+      duyulan: estritsen
+  REPLACE  ...üzümler vardı bu satırlar
+      metin  : kolomb un doğumundan
+      duyulan: kolombun doğumunda
+  REPLACE  ...seferlerden söz ediyor kızıl
+      metin  : eriğin
+      duyulan: eri in
+  DELETE   ...tarihini kurabileceğiniz zemin değildi
+      metin  : ondokuzuncu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...taşlar tesadüfen ortaya çıkan
+      metin  : miğferler
+      duyulan: miferler
+  REPLACE  ...çıkan miğferler üzerinde viking
+      metin  : gemisi
+      duyulan: yemisi
+  REPLACE  ...doğrulanamadı yüzyılın ortasında ünlü
+      metin  : parşömen
+      duyulan: parşomen
+  REPLACE  ...oluştu yanda birbirinden bağımsız
+      metin  : ortaçağ
+      duyulan: ortaçağı
+  REPLACE  ...adanın kuzey ucu çıkıyordu
+      metin  : newfoundland
+      duyulan: nifandland
+  REPLACE  ...cevap geldi yerin adı
+      metin  : lans o medoz
+      duyulan: l anse aux meadows
+  REPLACE  ...çok eski yerli kampı
+      metin  : olduğuydu
+      duyulan: olduydu
+  REPLACE  ...bilimsel yükünü arkeolog anne
+      metin  : stine
+      duyulan: steen
+  REPLACE  ...ve i zlanda ile
+      metin  : grönland daki
+      duyulan: grönlanda ki
+  REPLACE  ...artıklarıyla dolu alanlar bulundu
+      metin  : kıyıya
+      duyulan: kıyığa
+  REPLACE  ...çıkmadı ahır yoktu hayvan
+      metin  : ağılı
+      duyulan: ağalı
+  REPLACE  ...insanların yeriydi burası yani
+      metin  : ingstad ların
+      duyulan: ink statların
+  INSERT   ...koyu nda kazılar boyunca
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...demir çivi parçası perçin
+      metin  : curuf
+      duyulan: çuruf
+  REPLACE  ...ağırşak elle iplik eğirirken
+      metin  : iğe
+      duyulan: i ye
+  REPLACE  ...yaygın olan ve tek
+      metin  : iğneyle
+      duyulan: iğne ile
+  REPLACE  ...gösteriyordu yani beslenme tamamen
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...sonra her şeyi toplayıp
+      metin  : gittiğiydi
+      duyulan: gittiydi
+  INSERT   ...terk edilmiş çökmeye bırakılmıştı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tarihi sitleri arasına alındı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...burada beyaz ceviz newfoundland
+      metin  : da
+      duyulan: ta
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: arkeoloji-2026-09-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-04.mp3
+
+beklenen 1483 kelime | duyulan 1485 kelime | eşleşme %96.2
+sayı ifadesi: metinde 168, duyulanda 130  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...öğretmeni senin fiziğin bu
+      metin  : mpemba
+      duyulan: mepemba
+  REPLACE  ...yarışı yaşıyordu o gün
+      metin  : erasto mpemba
+      duyulan: erastom empemba
+  REPLACE  ...saat sonra dondurucu açıldığında
+      metin  : mpemba nın
+      duyulan: mepembanın
+  REPLACE  ...en fazla eşitlenmesi beklenir
+      metin  : mpemba
+      duyulan: mepemba
+  REPLACE  ...fizik değil olsa olsa
+      metin  : mpemba nın fiziği idi
+      duyulan: mepembanın fiziğiydi
+  REPLACE  ...arkadaşları da güldü ama
+      metin  : mpemba
+      duyulan: mepemba
+  REPLACE  ...çabuk donuyordu yıl sonra
+      metin  : mpemba mkwawa lisesi nde
+      duyulan: mepemba mekvava lisesinde
+  REPLACE  ...lisesi nde okurken okula
+      metin  : dar es salaam daki
+      duyulan: dares salamdaki
+  REPLACE  ...daki üniversiteden fizikçi geldi
+      metin  : denis
+      duyulan: deniz
+  REPLACE  ...fizikçi geldi denis osborne
+      metin  : un
+      duyulan: ın
+  REPLACE  ...konuşmasının ardından soru faslında
+      metin  : mpemba
+      duyulan: mepemba
+  INSERT   ...yine kahkaha koptu osborne
+      metin  : (yok)
+      duyulan: ı
+  INSERT   ...tekrarladı ölçümleri düzenledi ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...education da yani fizik
+      metin  : eğitimi nde mpemba yla
+      duyulan: eğitiminde mepemba ile
+  REPLACE  ...olmuş öğrencinin soyadıyla anıldı
+      metin  : mpemba
+      duyulan: mepemba
+  REPLACE  ...soyadıyla anıldı mpemba etkisi
+      metin  : i şin
+      duyulan: fizik in
+  REPLACE  ...bacon tarihli yapıtı novum
+      metin  : organum da
+      duyulan: organımda
+  REPLACE  ...daha kolay donduğunu belirtmişti
+      metin  : dekart da
+      duyulan: descartes ta
+  REPLACE  ...çünkü teori olmayacağını söylüyordu
+      metin  : mpemba
+      duyulan: mempemba
+  REPLACE  ...gitti kendisi fizikçi olmadı
+      metin  : mweka
+      duyulan: muweka
+  INSERT   ...çalıştı öğretmenlik yaptı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olduğunun kanıtı değildir ve
+      metin  : mpemba
+      duyulan: empemba
+  REPLACE  ...ölçütünde tekrarlanabilirlikte kalıcı başarısızlık
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...varsa sıcak kap altındaki
+      metin  : kırağıyı
+      duyulan: kırayı
+  REPLACE  ...sıvı halde inebilir sonra
+      metin  : tetikleyiciyle
+      duyulan: tetikleyici ile
+  REPLACE  ...kabın içindeki toz zerreciğine
+      metin  : çiziğe
+      duyulan: çiziye
+  INSERT   ...zaten zar atmaya benziyordu
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...geldi kazanan çalışma zagreb
+      metin  : de
+      duyulan: te
+  REPLACE  ...de çalışan kimyager nikola
+      metin  : bregoviç
+      duyulan: bregovic
+  INSERT   ...açıklama yoktu asıl darbe
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...durduğuna aşırı duyarlıydı termometreyi
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...sistemin denge durumuna nasıl
+      metin  : gevşediğidir
+      duyulan: gevşediydir
+  INSERT   ...doğrudan güzergah üzerinde olsun
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...avinash kumar ve john
+      metin  : bechhoefer
+      duyulan: bechoffer
+  INSERT   ...tekrarlayıp istatistik topladılar sonuç
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ayrışan hızlanmaydı aynı grup
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bundan sonrası hızlı ilerledi
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...benzer hızlanma gözlendi yani
+      metin  : mpemba
+      duyulan: mempemba
+  REPLACE  ...soğutmayı hızlandırmayı tartışıyorsa bunun
+      metin  : soy kütüğünde
+      duyulan: soykütüğünde te
+  REPLACE  ...gören ortaokul öğrencisi var
+      metin  : mpemba
+      duyulan: mepemba
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: bilim-2026-09-04.duyulan.txt
