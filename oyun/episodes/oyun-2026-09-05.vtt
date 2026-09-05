@@ -1,0 +1,633 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.490
+1981'de Atari, oyunlarını izinsiz kurcalayan bir avuç üniversite öğrencisini mahkemeye verdi.
+
+2
+00:00:07.490 --> 00:00:16.900
+O öğrenciler davadan çıkar çıkmaz bu kez Pac-Man'i kurcaladılar — ve ortaya sarı kahramandan daha çok para kazandıran bir oyun çıktı.
+
+3
+00:00:16.900 --> 00:00:21.030
+Peki bugün onun adını neden hiçbir yerde göremiyorsunuz?
+
+4
+00:00:29.230 --> 00:00:40.880
+1981'in başında, Massachusetts Teknoloji Enstitüsü'nün yurt binalarından birinin bodrumunda, Doug Macrae adında bir öğrenci küçük bir imparatorluğun muhasebesini tutuyordu.
+
+5
+00:00:40.880 --> 00:00:45.650
+İmparatorluk, kampüse yayılmış yaklaşık 20 jetonlu makineden ibaretti.
+
+6
+00:00:45.650 --> 00:00:59.540
+İş, 1978'de ağabeyinin ona verdiği bir tilt makinesiyle başlamıştı; birkaç yıl içinde Macrae ve arkadaşı Kevin Curran, öğrencilerin bozuk para ihtiyacını bile hesaba katan bir sistem kurmuşlardı.
+
+7
+00:00:59.540 --> 00:01:04.790
+Öğrencinin uzattığı bir dolarlık banknotu dört değil beş çeyreklikle bozuyorlardı.
+
+8
+00:01:04.790 --> 00:01:13.720
+Fazladan verilen o çeyreklik bir cömertlik jesti değildi; birkaç dakika içinde nasılsa makinelerden birinin ağzına düşeceğini biliyorlardı.
+
+9
+00:01:13.720 --> 00:01:20.250
+O makinelerin en kârlısı Atari'nin Missile Command, yani Füze Komutanlığı adlı oyunuydu.
+
+10
+00:01:20.250 --> 00:01:25.020
+Üç kabin, ilk zamanlar haftada 650 dolar getiriyordu.
+
+11
+00:01:25.020 --> 00:01:27.870
+Sonra rakam düşmeye başladı.
+
+12
+00:01:27.870 --> 00:01:32.960
+Bir yıl kadar sonra aynı üç makine haftada 150 doların altına inmişti.
+
+13
+00:01:32.960 --> 00:01:36.610
+Sebep basitti: oyuncular oyunu çözmüştü.
+
+14
+00:01:36.610 --> 00:01:43.460
+Kampüsteki herkes Füze Komutanlığı'nın ne zaman hızlandığını, hangi dalgada ne yapılacağını ezberlemişti.
+
+15
+00:01:43.460 --> 00:01:48.870
+Sıradan bir işletmeci bu noktada makineyi satar, yerine yeni bir oyun koyardı.
+
+16
+00:01:48.870 --> 00:01:57.960
+Ama yeni bir kabin binlerce dolardı ve iki mühendislik öğrencisi başka bir ihtimal görüyordu: makineyi değiştirmemek, oyunu değiştirmek.
+
+17
+00:01:57.960 --> 00:02:01.610
+Bu, kulağa geldiğinden çok daha zor bir işti.
+
+18
+00:02:01.610 --> 00:02:09.580
+Oyunun kodu, kabinin içindeki devre kartına lehimlenmiş yongalarda duruyordu ve kimse onlara bir el kitabı vermemişti.
+
+19
+00:02:09.580 --> 00:02:17.390
+Macrae ve Curran, çevrelerine topladıkları bir avuç arkadaşla, Füze Komutanlığı'nın işlemci kodunu elle söktüler.
+
+20
+00:02:17.390 --> 00:02:23.440
+Satır satır, komut komut, oyunun ne yaptığını tersine mühendislikle çıkardılar.
+
+21
+00:02:23.440 --> 00:02:32.850
+Ekibin çekirdeğinde Steve Golson, Chris Rode, Mike Horowitz ve Larry Dennison gibi isimler vardı; çoğu henüz yirmisine yeni basmıştı.
+
+22
+00:02:32.850 --> 00:02:42.260
+30 Mart 1981'de işi resmileştirip bir şirket kurdular: General Computer Corporation, yani Genel Bilgisayar Şirketi.
+
+23
+00:02:42.260 --> 00:02:48.630
+Ürettikleri şey, o güne kadar sektörde pek görülmemiş bir şeydi: bir yükseltme kiti.
+
+24
+00:02:48.630 --> 00:02:56.760
+Kabinin içine takılan küçük bir ek kart, orijinal oyunun kodunu belirli noktalarda yakalıyor ve kendi kodunu devreye sokuyordu.
+
+25
+00:02:56.760 --> 00:03:02.810
+Oyun artık daha hızlıydı, yeni bir düşman gemisi vardı, yeni bir mermi türü vardı.
+
+26
+00:03:02.810 --> 00:03:08.060
+Adına Super Missile Attack, yani Süper Füze Saldırısı dediler.
+
+27
+00:03:08.060 --> 00:03:10.590
+Maliyeti yaklaşık 30 dolardı.
+
+28
+00:03:10.590 --> 00:03:13.920
+Satış fiyatı 295 dolar.
+
+29
+00:03:13.920 --> 00:03:21.410
+Ve piyasada tam olarak istenen şeydi: işletmeciler, ölmüş bir makineyi 295 dolara diriltebiliyordu.
+
+30
+00:03:21.410 --> 00:03:27.780
+60 gün içinde 1.000 civarında kit sattılar ve çeyrek milyon dolara yakın kâr ettiler.
+
+31
+00:03:27.780 --> 00:03:36.390
+Genel Bilgisayar'ın kendi kitini kopyalanmaya karşı korumak için özel donanım kullanması, aslında ne kadar iyi düşündüklerinin işaretiydi.
+
+32
+00:03:36.390 --> 00:03:48.840
+Golson yıllar sonra bu tercihi anlatırken meselenin özünü söyleyecekti: eğer kitiniz sadece bir yongadan ibaretse, o yongayı kopyalamayı bilen herkes sizin ürününüzü de kopyalayabilir.
+
+33
+00:03:48.840 --> 00:03:52.330
+Ama piyasadaki korsanlar en küçük sorunlarıydı.
+
+34
+00:03:52.330 --> 00:03:55.340
+Asıl sorun Kaliforniya'dan geliyordu.
+
+35
+00:03:55.340 --> 00:04:02.990
+Atari, kendi oyununun kendi izni olmadan değiştirilip satıldığını fark ettiğinde bunu bir iltifat olarak almadı.
+
+36
+00:04:02.990 --> 00:04:07.920
+Ağustos 1981'de Genel Bilgisayar'a dava açtı.
+
+37
+00:04:07.920 --> 00:04:14.290
+Telif hakkı ihlali, marka değerinin zedelenmesi, ürünün kaynağı konusunda yanıltma.
+
+38
+00:04:14.290 --> 00:04:22.580
+Talep edilen tazminat milyonlarca dolardı ve dava yalnızca şirkete değil, Macrae ile Curran'a şahsen de yöneltilmişti.
+
+39
+00:04:22.580 --> 00:04:31.670
+Yani yurt bodrumunda başlayan iş, iki genç adamın kişisel olarak on milyonlarca dolar borçlu çıkabileceği bir mahkeme salonuna taşınmıştı.
+
+40
+00:04:31.670 --> 00:04:35.000
+Ortada gerçekten yeni bir hukuki soru vardı.
+
+41
+00:04:35.000 --> 00:04:39.130
+Bir işletmeci satın aldığı makinenin içini değiştirebilir mi?
+
+42
+00:04:39.130 --> 00:04:43.900
+Değiştirilmiş bir oyun, orijinalin kopyası mıdır yoksa yeni bir eser midir?
+
+43
+00:04:43.900 --> 00:04:51.390
+1981'de bu sorunun net bir cevabı yoktu, çünkü soru daha önce ciddi biçimde sorulmamıştı.
+
+44
+00:04:51.390 --> 00:04:56.640
+Genel Bilgisayar karşı dava açtı ve şaşırtıcı biçimde geri adım atmadı.
+
+45
+00:04:56.640 --> 00:05:01.090
+Sonuç, sektör tarihinin en tuhaf uzlaşmalarından biri oldu.
+
+46
+00:05:01.090 --> 00:05:05.860
+Atari davayı kazanmak yerine karşı tarafı satın almayı tercih etti.
+
+47
+00:05:05.860 --> 00:05:14.470
+Anlaşmaya göre davalar düşecek, Atari iki yıl boyunca Genel Bilgisayar'a ayda 50 bin dolar ödeyerek onlara oyun geliştirtecekti.
+
+48
+00:05:14.470 --> 00:05:24.040
+Bu paranın karşılığında ilerleyen yıllarda Food Fight ve Quantum gibi oyunlar, hatta Atari'nin bir sonraki nesil ev konsolunun tasarımı çıkacaktı.
+
+49
+00:05:24.040 --> 00:05:30.250
+Atari cephesinde bazıları bu çocukların parayı alıp ortadan kaybolacağını düşünüyordu.
+
+50
+00:05:30.250 --> 00:05:35.660
+Ama anlaşmanın içinde, o an kimsenin ağırlığını tam kavramadığı bir madde vardı.
+
+51
+00:05:35.660 --> 00:05:42.990
+Genel Bilgisayar bundan böyle hiçbir yükseltme kitini, oyunun asıl üreticisinin onayını almadan satmayacaktı.
+
+52
+00:05:42.990 --> 00:05:44.400
+Hiçbirini.
+
+53
+00:05:44.400 --> 00:05:48.530
+Bu cümle, bir davanın kapanış maddesi olarak yazılmıştı.
+
+54
+00:05:48.530 --> 00:05:51.700
+Oysa bir oyunun doğum belgesi olacaktı.
+
+55
+00:05:51.700 --> 00:05:57.430
+Çünkü Genel Bilgisayar, Atari davası sürerken çoktan ikinci bir kite başlamıştı.
+
+56
+00:05:57.430 --> 00:06:06.200
+Haziran 1981'de ekip, o sırada dünyanın en çok para basan oyununun, Namco'nun Pac-Man'inin kodunu sökmeye koyulmuştu.
+
+57
+00:06:06.200 --> 00:06:10.810
+Yine kimse yardım etmiyordu; yine satır satır ilerlediler.
+
+58
+00:06:10.810 --> 00:06:16.380
+Ve başkasının kodunu bu kadar yakından okumanın getirdiği tuhaf bir yakınlık oluştu.
+
+59
+00:06:16.380 --> 00:06:24.830
+Pac-Man'in köşe dönerken hafifçe kaydığını, hayaletlerin dönmeden hemen önce gözlerini dönecekleri yöne çevirdiğini keşfettiler.
+
+60
+00:06:24.830 --> 00:06:30.080
+Oyuncunun fark etmeden hissettiği, ama tarif edemediği ayrıntılardı bunlar.
+
+61
+00:06:30.080 --> 00:06:34.210
+Yeni karakteri tasarlarken pratik bir sorunla karşılaştılar.
+
+62
+00:06:34.210 --> 00:06:43.460
+Bir hareketli grafiği ekranda görmek için önce kareli kâğıda çizmek, renkleri seçmek, kodlamak, yongaya yazmak ve makinede denemek gerekiyordu.
+
+63
+00:06:43.460 --> 00:06:45.670
+Saatler alan bir döngü.
+
+64
+00:06:45.670 --> 00:06:49.000
+Çözümü ekipten biri buldu: Lite-Brite.
+
+65
+00:06:49.000 --> 00:06:56.970
+Renkli plastik çivileri ışıklı bir levhaya batırdığınız o çocuk oyuncağı, tam da piksel piksel tasarım yapmaya uygundu.
+
+66
+00:06:56.970 --> 00:07:02.220
+Karakterler önce bir çocuk oyuncağının üzerinde belirdi, sonra koda döküldü.
+
+67
+00:07:02.220 --> 00:07:05.870
+Ekim 1981'in başında iş bitmişti.
+
+68
+00:07:05.870 --> 00:07:10.800
+Ortaya çıkan oyunun adı Crazy Otto, yani Çılgın Otto idi.
+
+69
+00:07:10.800 --> 00:07:15.570
+Çılgın Otto sarı bir daireydi, ama bacakları vardı ve koşuyordu.
+
+70
+00:07:15.570 --> 00:07:18.740
+Peşindeki hayaletlerin de bacakları vardı.
+
+71
+00:07:18.740 --> 00:07:23.030
+Labirentler yenilenmişti, hayaletlerin davranışı değişmişti.
+
+72
+00:07:23.030 --> 00:07:26.360
+Bir yükseltme kiti olarak müthiş bir üründü.
+
+73
+00:07:26.360 --> 00:07:31.610
+Ve satılması yasaktı, çünkü Atari'yle imzalanan o madde ortadaydı.
+
+74
+00:07:31.610 --> 00:07:36.540
+Bu noktada Kevin Curran, kariyerinin en cesur telefonunu açtı.
+
+75
+00:07:36.540 --> 00:07:44.350
+Pac-Man'in Kuzey Amerika dağıtımcısı olan Midway'in başkanı David Marofske'yi doğrudan aradı ve elindeki şeyi anlattı.
+
+76
+00:07:44.350 --> 00:07:54.880
+Konuşmada Atari'yle yaşananların da payı vardı: karşılarındaki, dev bir şirketle mahkemede boğuşup ayda 50 bin dolarlık bir sözleşmeyle çıkmış bir ekipti.
+
+77
+00:07:54.880 --> 00:07:59.330
+29 Ekim 1981'de anlaşma yapıldı.
+
+78
+00:07:59.330 --> 00:08:06.980
+Midway, Çılgın Otto'yu bir kit olarak değil, kendi adıyla piyasaya sürülecek yeni bir oyun olarak satın alıyordu.
+
+79
+00:08:06.980 --> 00:08:10.150
+Ama Midway'in aklında başka bir şey vardı.
+
+80
+00:08:10.150 --> 00:08:18.440
+Ellerinde dünyanın en tanınmış oyun karakterinin devam oyununu yapma fırsatı varken neden bacaklı bir yaratıkla uğraşsınlardı?
+
+81
+00:08:18.440 --> 00:08:20.810
+Çılgın Otto rafa kaldırıldı.
+
+82
+00:08:20.810 --> 00:08:27.500
+Golson'ın anlattığına göre iki hafta içinde oyun önce Süper Pac-Man'e, sonra Bayan Pac-Man'e dönüştü.
+
+83
+00:08:27.500 --> 00:08:39.950
+Süper Pac-Man adının Namco tarafından zaten kullanılıyor olması bir sorundu; sonrasında hangi Türkçe karşılığı düşünürseniz düşünün, İngilizcede "Miss", "Mrs." ve "Ms." arasındaki tercih,
+
+84
+00:08:39.950 --> 00:08:43.760
+üretim başlamasına 72 saat kala yapıldı.
+
+85
+00:08:43.760 --> 00:08:51.090
+Sorun şuydu: oyunun ara sahnelerinde bu karakter Pac-Man'le tanışıyor, sonunda bir bebekleri oluyordu.
+
+86
+00:08:51.090 --> 00:08:53.300
+Evli miydi, değil miydi?
+
+87
+00:08:53.300 --> 00:08:58.070
+Cevabı olmayan soruyu, medeni hal belirtmeyen "Ms." çözdü.
+
+88
+00:08:58.070 --> 00:09:01.400
+Karar, telaffuz kolaylığıyla da desteklendi.
+
+89
+00:09:01.400 --> 00:09:05.530
+Karaktere kırmızı bir fiyonk, ruj ve bir yüz beni eklendi.
+
+90
+00:09:05.530 --> 00:09:13.660
+Namco'nun kurucusu Masaya Nakamura tasarımı gördüğünde konsepti sevdiğini, ama saçların gitmesi gerektiğini söyledi.
+
+91
+00:09:13.660 --> 00:09:18.750
+Ekip de o günlerin bir alışkanlığıyla, koda görünmeyen bir iz bıraktı.
+
+92
+00:09:18.750 --> 00:09:23.360
+Kırk yıl sonra o izin ne işe yarayacağını o an kimse bilmiyordu.
+
+93
+00:09:23.360 --> 00:09:28.610
+Oyunun kendisi, bir devam oyunundan beklenmeyecek kadar radikaldi.
+
+94
+00:09:28.610 --> 00:09:35.780
+Pac-Man tek bir labirentte geçiyordu; burada dört farklı labirent vardı ve seviyeler ilerledikçe değişiyordu.
+
+95
+00:09:35.780 --> 00:09:41.510
+Pac-Man'de bir çift geçit tüneli vardı; buradaki labirentlerin çoğunda iki çift vardı.
+
+96
+00:09:41.510 --> 00:09:50.440
+Meyveler artık labirentin ortasında sabit durmuyor, tünellerden girip çıkarak ekranda dolaşıyorlardı; onları kovalamak başlı başına bir riskti.
+
+97
+00:09:50.440 --> 00:09:54.250
+Turuncu hayaletin adı Clyde'dan Sue'ya çevrildi.
+
+98
+00:09:54.250 --> 00:09:57.260
+Ama asıl devrim görünmeyen yerdeydi.
+
+99
+00:09:57.260 --> 00:10:01.710
+Pac-Man'in hayaletleri tamamen öngörülebilir davranıyordu.
+
+100
+00:10:01.710 --> 00:10:07.280
+Aynı hamleleri aynı sırayla yaparsanız hayaletler de aynı tepkiyi veriyordu.
+
+101
+00:10:07.280 --> 00:10:19.890
+1981'e gelindiğinde bu ezberler kitap haline gelmiş, usta oyuncular tek jetonla saatlerce oynar olmuştu; işletmeci için felaket, oyuncu için ise bir süre sonra sıkıcıydı.
+
+102
+00:10:19.890 --> 00:10:24.180
+Genel Bilgisayar hayaletlerin davranışına rastgelelik kattı.
+
+103
+00:10:24.180 --> 00:10:26.070
+Artık ezber yoktu.
+
+104
+00:10:26.070 --> 00:10:30.680
+Aynı hamleyi iki kez yapsanız iki farklı sonuç alabiliyordunuz.
+
+105
+00:10:30.680 --> 00:10:33.850
+Oyun her seferinde yeniden başlıyordu.
+
+106
+00:10:33.850 --> 00:10:41.500
+3 Şubat 1982'de, Kaliforniya'daki Sherman Oaks'ta düzenlenen bir basın toplantısıyla Ms.
+
+107
+00:10:41.500 --> 00:10:43.710
+Pac-Man tanıtıldı.
+
+108
+00:10:43.710 --> 00:10:49.600
+Sonrası, Amerikan atari salonu tarihinin en büyük ticari başarılarından biri oldu.
+
+109
+00:10:49.600 --> 00:10:53.090
+Yurt içinde 115 binden fazla kabin üretildi.
+
+110
+00:10:53.090 --> 00:11:02.820
+Oyun 1982 boyunca aylarca satış listelerinin tepesinde kaldı ve o yılın en çok hasılat yapan atari oyunu olarak kayıtlara geçti.
+
+111
+00:11:02.820 --> 00:11:13.510
+Bir başka etkisi de vardı: fiyonklu sarı daire, o güne dek büyük ölçüde erkek oyunculara hitap eden bir mekâna kadın oyuncuları çeken ilk büyük karakterlerden biri oldu.
+
+112
+00:11:13.510 --> 00:11:23.400
+Bu kadar başarı, ortada hiçbir zaman tam olarak temizlenmemiş bir mülkiyet zemini üzerinde duruyordu ve zemin çatlamaya başlaması için yalnızca zaman gerekti.
+
+113
+00:11:23.400 --> 00:11:26.250
+Kâğıt üzerinde herkesin payı belliydi.
+
+114
+00:11:26.250 --> 00:11:32.460
+Namco satılan her kabinden olağan telif payını alıyordu, Genel Bilgisayar da kendi payını.
+
+115
+00:11:32.460 --> 00:11:42.030
+Ama Namco açısından durum rahatsız ediciydi: şirketin taç mücevheri sayılan karakterin en başarılı devam oyunu, Japonya'da değil Amerika'da,
+
+116
+00:11:42.030 --> 00:11:47.600
+kendi tasarımcıları tarafından değil kampüsten çıkma bir ekip tarafından yapılmıştı.
+
+117
+00:11:47.600 --> 00:11:54.930
+Midway bu çizgide yürümeye devam etti ve Namco'nun onayını almadan bir dizi Pac-Man türevini piyasaya sürdü.
+
+118
+00:11:54.930 --> 00:12:06.900
+Namco 1984'te Midway'le dağıtım anlaşmasını iptal etti; Kuzey Amerika'daki Pac-Man hakları 1987'ye gelindiğinde tamamen Namco'ya döndü.
+
+119
+00:12:06.900 --> 00:12:13.430
+Asıl karmaşık mesele ise kimsenin 1981'de öngöremeyeceği bir yerden çıktı.
+
+120
+00:12:13.430 --> 00:12:20.120
+Genel Bilgisayar'ın Midway'le yaptığı sözleşme, jetonla çalışan makineler dünyasına göre yazılmıştı.
+
+121
+00:12:20.120 --> 00:12:23.290
+Peki oyun bir ev konsoluna taşınırsa?
+
+122
+00:12:23.290 --> 00:12:30.940
+Televizyona takılan minik bir kutuya, yıldönümü için üretilen bir masaüstü kabinine, bir telefon uygulamasına taşınırsa?
+
+123
+00:12:30.940 --> 00:12:32.030
+Ms.
+
+124
+00:12:32.030 --> 00:12:38.880
+Pac-Man'in çıkışından yaklaşık 20 yıl sonra, tam da bu soru üzerinden telif uyuşmazlıkları başladı.
+
+125
+00:12:38.880 --> 00:12:48.450
+Golson ve arkadaşları kendi yazdıkları kodu tersine mühendislikle yeniden sökmek zorunda kaldılar; hangi satırın kime ait olduğunu kanıtlamaları gerekiyordu.
+
+126
+00:12:48.450 --> 00:12:54.020
+Yıllar önce koda gömdükleri o görünmez iz, işte o tahkim sürecinde delil oldu.
+
+127
+00:12:54.020 --> 00:13:01.670
+Kendi eserlerinin yazarı olduklarını ispatlamak için, gençliklerinde yaptıkları işi baştan çözmek zorunda kalmışlardı.
+
+128
+00:13:01.670 --> 00:13:06.280
+Hikâyenin bugüne uzanan halkası 2019'da örüldü.
+
+129
+00:13:06.280 --> 00:13:10.730
+AtGames adlı bir retro donanım şirketi, Genel Bilgisayar'ın Ms.
+
+130
+00:13:10.730 --> 00:13:16.460
+Pac-Man'den doğan telif alacaklarına ilişkin haklarını devraldı ve ev tipi bir Ms.
+
+131
+00:13:16.460 --> 00:13:19.310
+Pac-Man kabini üretmeye girişti.
+
+132
+00:13:19.310 --> 00:13:23.600
+Bandai Namco, Eylül 2019'da dava açtı.
+
+133
+00:13:23.600 --> 00:13:30.930
+İddia netti: elde bir telif sözleşmesi bulunması, markanın ve telif hakkının sahibi olmak anlamına gelmiyordu.
+
+134
+00:13:30.930 --> 00:13:32.020
+Ms.
+
+135
+00:13:32.020 --> 00:13:36.310
+Pac-Man adı da, karakterin görüntüsü de kendilerine aitti.
+
+136
+00:13:36.310 --> 00:13:43.640
+Dava 27 Ekim 2020'de, koşulları mühürlü bir uzlaşmayla, bir daha açılamayacak biçimde kapandı.
+
+137
+00:13:43.640 --> 00:13:48.570
+Yani kırk yıl sonra bile kimsenin dışarıya söylemediği bir cevap vardı ortada.
+
+138
+00:13:48.570 --> 00:13:54.460
+Ardından gelen şey, oyun tarihinin en sessiz ve en tuhaf bölümlerinden biri oldu.
+
+139
+00:13:54.460 --> 00:14:04.510
+2022'den itibaren Bandai Namco'nun yeni derlemelerinde, yeniden yapımlarında ve arşiv sürümlerinde fiyonklu karakter yavaşça ortadan kayboldu.
+
+140
+00:14:04.510 --> 00:14:10.240
+Yerine, ona çok benzeyen ama başka bir isim taşıyan bir karakter geldi: Pac-Mom.
+
+141
+00:14:10.240 --> 00:14:13.730
+Aynı sarı daire, aynı fiyonk, farklı bir ad.
+
+142
+00:14:13.730 --> 00:14:15.140
+Ms.
+
+143
+00:14:15.140 --> 00:14:20.710
+Pac-Man yasaklanmadı, silinmedi, kötülenmedi; sadece adı anılmaz oldu.
+
+144
+00:14:20.710 --> 00:14:30.920
+Bugün 1982 tarihli bir kabinin önüne geçip oynayabilirsiniz, ama aynı oyunun yeni bir derlemedeki karşılığında karakterin adı artık aynı değil.
+
+145
+00:14:30.920 --> 00:14:36.490
+Bir kahramanın hukuki nedenlerle takma adla yaşamaya devam etmesi gibi bir durum.
+
+146
+00:14:36.490 --> 00:14:40.780
+Geriye kalan miras, bu yüzden garip biçimde iki katmanlı.
+
+147
+00:14:40.780 --> 00:14:48.270
+Bir yanda, Amerikan atari salonlarının en çok satan oyununun aslında yetkisiz bir yamadan doğduğu gerçeği var.
+
+148
+00:14:48.270 --> 00:14:50.000
+Ms.
+
+149
+00:14:50.000 --> 00:14:59.250
+Pac-Man, bir stüdyonun devam oyunu planı olarak değil, üniversiteli birkaç gencin başkasının kodunu izinsiz açıp iyileştirmesiyle başladı;
+
+150
+00:14:59.250 --> 00:15:08.500
+sektöre girişi bir davayla oldu ve o davanın uzlaşma metnindeki tek bir madde onu kit olmaktan çıkarıp resmi bir oyuna dönüştürdü.
+
+151
+00:15:08.500 --> 00:15:20.630
+Bugün son derece olağan saydığımız her şeyin, oyuncu yamalarının, mod topluluklarının, çıkıştan sonra oyunu yeniden dengeleyen güncellemelerin, çok erken ve çok ham bir örneğiydi.
+
+152
+00:15:20.630 --> 00:15:27.960
+Öbür yanda ise, bir eserin kimin olduğu sorusunun teknolojiyle birlikte nasıl sürekli yeniden açıldığı var.
+
+153
+00:15:27.960 --> 00:15:35.290
+1981'de bir sözleşme yazan avukatların aklında yalnızca jetonlu kabinler vardı.
+
+154
+00:15:35.290 --> 00:15:43.900
+Kırk yılda oyun; ev konsoluna, cebe, tarayıcıya, mini kabine taşındı ve her taşınmada aynı soru yeniden soruldu.
+
+155
+00:15:43.900 --> 00:15:56.510
+Yurt bodrumunda bir Füze Komutanlığı makinesinin haftalık kazancını hesaplayan iki öğrencinin, on yıllar sonra hukukçuların masasında hâlâ tartışılacak bir karakter yarattıklarını bilmelerine imkân yoktu.
+
+156
+00:15:56.510 --> 00:16:03.040
+Onlar yalnızca oyuncuların ezberlediği bir oyunu tekrar ilginç hâle getirmeye çalışıyorlardı.
+
+157
+00:16:03.040 --> 00:16:06.050
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+158
+00:16:06.050 --> 00:16:09.060
+Yeni bir hikâyede yeniden buluşmak üzere.
