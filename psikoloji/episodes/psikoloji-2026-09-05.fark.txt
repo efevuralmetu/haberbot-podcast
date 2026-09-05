@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-05.mp3
+
+beklenen 1082 kelime | duyulan 1095 kelime | eşleşme %97.4
+sayı ifadesi: metinde 125, duyulanda 105  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sınıfın öğrencilerinden
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...çocuk bile bu testte
+      metin  : işaretlendiyze
+      duyulan: işaretlendi ize
+  REPLACE  ...okulum hazır asıl deney
+      metin  : testte
+      duyulan: teste
+  REPLACE  ...çocuklardı sınıf mevcudunun yaklaşık
+      metin  : yirmisiydi
+      duyulan: siydi
+  INSERT   ...getirmeden önce laboratuvarda denemişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...laboratuvarda denemişti meslektaşı kermit
+      metin  : fode
+      duyulan: foday
+  INSERT   ...rosenthal ve jacobson bulgularını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...jacobson bulgularını kitapta topladı
+      metin  : pigmalyon
+      duyulan: pygmalion
+  REPLACE  ...the classroom yani sınıftaki
+      metin  : pigmalyon ad
+      duyulan: pygmalion at
+  REPLACE  ...yarattı ve yarım yüzyıldır
+      metin  : dinmeyen
+      duyulan: dinleyen
+  REPLACE  ...dördünün ortak yanı şu
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...bugün ayşe ye saniye
+      metin  : mehmede
+      duyulan: mehmet e
+  REPLACE  ...büyütüldü eleştiriler ciddiydi robert
+      metin  : thorndike
+      duyulan: thorndyke
+  REPLACE  ...çarpıcı büyüklükte etki bulamadı
+      metin  : stephen
+      duyulan: steven
+  REPLACE  ...tanıyorsa etki neredeyze sıfırlanıyordu
+      metin  : lee jussim
+      duyulan: li jusim
+  REPLACE  ...lee jussim ve kent
+      metin  : harber
+      duyulan: harbor
+  REPLACE  ...çizmek gerek çocuğun öğrenmesinde
+      metin  : süregelen
+      duyulan: süer gelen
+  REPLACE  ...gün sessizce teslim ediliyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-09-05.duyulan.txt

@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-05.mp3
+
+beklenen 2764 kelime | duyulan 2754 kelime | eşleşme %98.6
+sayı ifadesi: metinde 159, duyulanda 145  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...electrons aer circling at
+      metin  : and kilometres
+      duyulan: km
+  REPLACE  ...pictuer rings in a
+      metin  : jeweller
+      duyulan: jeweler
+  INSERT   ...column means similar behavior
+      metin  : (yok)
+      duyulan: both
+  REPLACE  ...solid state the face
+      metin  : centred
+      duyulan: centered
+  REPLACE  ...exactly the same roughly
+      metin  : picometres
+      duyulan: picometers
+  REPLACE  ...the result is a
+      metin  : colourless
+      duyulan: colorless
+  REPLACE  ...is why steel looks
+      metin  : grey
+      duyulan: gray
+  REPLACE  ...wavelength and you get
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...eyes cannot see the
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...about electronvolts that means
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...close to the conduction
+      metin  : sea
+      duyulan: c
+  REPLACE  ...a dark layer of
+      metin  : sulphide
+      duyulan: sulfide
+  REPLACE  ...speed of light roughly
+      metin  : kilometres
+      duyulan: km
+  DELETE   ...so when the innermost
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the opposite direction the
+      metin  : s and p
+      duyulan: snp
+  REPLACE  ...halogen combine it with
+      metin  : caesium
+      duyulan: cesium
+  REPLACE  ...caesium and what emerges
+      metin  : caesium auride
+      duyulan: cesium aureide
+  REPLACE  ...shaer them with their
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...mercury would be a
+      metin  : grey
+      duyulan: gray
+  REPLACE  ...aer al far away
+      metin  : atomic
+      duyulan: starlight
+  DELETE   ...sitting people s fingers
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 20
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: science-2026-09-05.duyulan.txt

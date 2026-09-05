@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-05.mp3
+
+beklenen 1770 kelime | duyulan 1808 kelime | eşleşme %95.9
+sayı ifadesi: metinde 339, duyulanda 245  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...açıklamak için kimya yetmiyor
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...kimya yetmiyor aynştayn ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...en içteki elektronları saniyede
+      metin  : kilometreyle
+      duyulan: km ile
+  REPLACE  ...da onlarla birlikte aynı
+      metin  : sütunun
+      duyulan: sütünün
+  REPLACE  ...aynı biçimdedir tamamen dolu
+      metin  : d katmanı
+      duyulan: dek atmanı
+  REPLACE  ...bu vaatte saklıdır aynı
+      metin  : sütun
+      duyulan: sütün
+  REPLACE  ...sütun benzer davranış demektir
+      metin  : sodyum
+      duyulan: sodyüm
+  REPLACE  ...suya atıldığında de aynı
+      metin  : öfkeyle
+      duyulan: öfke ile
+  REPLACE  ...her şeyden elektron kapar
+      metin  : sütun
+      duyulan: sütün
+  REPLACE  ...ile gümüş de bu
+      metin  : vaadi
+      duyulan: vadi
+  REPLACE  ...de son derece yumuşaktır
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...aynı kristal düzenine merkezli
+      metin  : kübik
+      duyulan: kubik
+  REPLACE  ...gümüşün neredeyze katı yoğundur
+      metin  : santimetreküpte
+      duyulan: santimeter küpte
+  REPLACE  ...üstlerine düşen ışığın hangi
+      metin  : frekansta
+      duyulan: frekanslı
+  REPLACE  ...elektron denizinin tamamen dolu
+      metin  : d bandı
+      duyulan: debandı
+  REPLACE  ...kırmızılığının cevabı daha kolaydır
+      metin  : bakırda d
+      duyulan: bakır da da
+  INSERT   ...kimya kitaplarında değil cevap
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...cisimlerin elektrodinamiği üzerine makalede
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...hızı çekirdekteki proton sayısının
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...elektronun hızı ışık hızının
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...içteki elektronu ışık hızının
+      metin  : (yok)
+      duyulan: iyle
+  REPLACE  ...ışık hızının saniyede kabaca
+      metin  : kilometreyle
+      duyulan: km ile
+  INSERT   ...çoktan girmiştir işık hızının
+      metin  : (yok)
+      duyulan: inde
+  INSERT   ...olduğu evrende olacağından yaklaşık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...o elektron içeri çekilir
+      metin  : çekirdeğe
+      duyulan: çekirdeye
+  INSERT   ...üzerinde kalmış iddia değil
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iddia değil yapılan göreli
+      metin  : bant
+      duyulan: band
+  REPLACE  ...ironisi de burada kuantum
+      metin  : mekaniğinin
+      duyulan: mekani nin
+  REPLACE  ...mekaniğinin göreli denklemini yazan
+      metin  : dirak
+      duyulan: dirac da
+  INSERT   ...konuyu asıl toparlayan çalışmalardan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yıldır insanların parmağındaydı aynı
+      metin  : kıskaç
+      duyulan: kız kaç
+  REPLACE  ...yani kimyasal olarak neredeyze
+      metin  : halojen
+      duyulan: halöjen
+  REPLACE  ...birleştirdiğinizde ortaya çıkan sezyum
+      metin  : aurür
+      duyulan: aurur
+  INSERT   ...sıvı olan tek metaldir
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kurşunun en tanıdık kullanımı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ucuz ve güvenilir düzenek
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaklaşık voltu yani kabaca
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...üretemezdi kışın soğuk sabahta
+      metin  : kontağı
+      duyulan: kontağa
+  REPLACE  ...davrandığını doğru bulmak istiyorsanız
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...denklemin içine koymak zorundasınız
+      metin  : cetvelin
+      duyulan: jetvel in
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: bilim-2026-09-05.duyulan.txt

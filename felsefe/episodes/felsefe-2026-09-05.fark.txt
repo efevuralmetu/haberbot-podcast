@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-05.mp3
+
+beklenen 2273 kelime | duyulan 2275 kelime | eşleşme %98.4
+sayı ifadesi: metinde 253, duyulanda 212  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...paylaşmayı gerektirir elini tutmaktır
+      metin  : (yok)
+      duyulan: i kincisi
+  REPLACE  ...o coğrafyada ölümcül para
+      metin  : birimiydi
+      duyulan: idi
+  INSERT   ...para birimiydi i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ayrı sıfat vardı zeus
+      metin  : ksenios
+      duyulan: kasenios
+  REPLACE  ...kendisini çiğniyordu homeros un
+      metin  : odisseya sında
+      duyulan: odysseyasında
+  REPLACE  ...mı açılırsa nasıl açılacak
+      metin  : phaiaklar
+      duyulan: payaklar
+  REPLACE  ...tersi de vardır kiklops
+      metin  : polifemos
+      duyulan: polyphemos
+  REPLACE  ...temel meselesi haline getirdi
+      metin  : emanüel
+      duyulan: emmanuel
+  INSERT   ...haline getirdi emanüel levinas
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sınırları içinde kalan kaunas
+      metin  : ta
+      duyulan: da
+  REPLACE  ...felsefe okudu almanya da
+      metin  : husserl
+      duyulan: hüsterl
+  REPLACE  ...almanya da husserl ve
+      metin  : haydeger
+      duyulan: heidegger
+  INSERT   ...girdi fransız vatandaşı oldu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...vatandaşı oldu orduya çağrıldı
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...arasında neden kaybolabildiğinin hesabıdır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gerekiyor ailesi katledilmiş adam
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...misafir değilsin peki nesin
+      metin  : immanuel
+      duyulan: i manuel
+  INSERT   ...peki nesin immanuel kant
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...giren güçlüyü de yargılıyordu
+      metin  : i ki
+      duyulan: yıl
+  REPLACE  ...yargılıyordu i ki sonra
+      metin  : jak
+      duyulan: jack
+  REPLACE  ...latincede konuk anlamına gelen
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...da cevaptır kapıyı hiç
+      metin  : açmamak da
+      duyulan: açmamakta
+  REPLACE  ...senin vereceğin cevaba bağlı
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: felsefe-2026-09-05.duyulan.txt

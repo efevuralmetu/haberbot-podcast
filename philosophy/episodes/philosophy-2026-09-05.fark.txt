@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-05.mp3
+
+beklenen 3841 kelime | duyulan 3772 kelime | eşleşme %98.6
+sayı ifadesi: metinde 161, duyulanda 127  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...left you silence it
+      metin  : kanal yönergesi gereği bu çeviri kanalı podcast philosophy json language en kaynak kanal felsefe bu özgün türkçe içerik üretmedim aynı günün felsefe txt bölümünün sadık i ngilizce çevirisini veriyorum ki bu çeviri bugün de ceviri uret py tarafından zaten philosophy txt olarak üretilmiş durumda aşağıdaki metin o dosyanın gövdesidir kanca jingle ve kapanış çıkarılmış hali
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...whoever believes in god
+      metin  : and
+      duyulan: in
+  REPLACE  ...fundamental question in philosophy
+      metin  : emmanuel
+      duyulan: immanuel
+  REPLACE  ...befoer you is utterly
+      metin  : defenceless
+      duyulan: defenseless
+  REPLACE  ...you is precisely that
+      metin  : defencelessness
+      duyulan: defenselessness
+  REPLACE  ...going to cost you
+      metin  : levinas
+      duyulan: lavina
+  REPLACE  ...choose not to see
+      metin  : levinas
+      duyulan: lavina s
+  REPLACE  ...of the same hatred
+      metin  : the
+      duyulan: that
+  REPLACE  ...the count because what
+      metin  : levinas
+      duyulan: lavina
+  REPLACE  ...runs like this a
+      metin  : traveller
+      duyulan: traveler
+  REPLACE  ...courtyard with the same
+      metin  : right
+      duyulan: rite
+  REPLACE  ...today this is a
+      metin  : right
+      duyulan: rite
+  REPLACE  ...of visit not a
+      metin  : right
+      duyulan: rite
+  REPLACE  ...no longer a single
+      metin  : traveller
+      duyulan: traveler
+  DELETE   ...and violence had passed
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...temporary protection had reached
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...about the neighbor gabriel
+      metin  : counselled
+      duyulan: counseled
+  REPLACE  ...is an answer a
+      metin  : right
+      duyulan: rite
+  DELETE   ...answer you wil give
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 16
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-09-05.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-05.mp3
+
+beklenen 2207 kelime | duyulan 2223 kelime | eşleşme %95.6
+sayı ifadesi: metinde 308, duyulanda 186  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...mısır a döndüğü için
+      metin  : (yok)
+      duyulan: ini
+  INSERT   ...neredeyze unutuluyor ta ki
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adamlar burada anlatırdı hacı
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...da asıl meseleyi öğrenirdi
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...baştan sona dolaştılar sicilya
+      metin  : sardinya
+      duyulan: sardinia
+  INSERT   ...kıyıları kuzey afrika limanları
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ya da sürüldüğü yerlerdir
+      metin  : doksanların
+      duyulan: ların
+  DELETE   ...resmen osmanlı donanmasına geçtiler
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kendi gemisinin kaptanıydı sınav
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...rampa yapmayı bekleyen gemiden
+      metin  : farklı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...piri reis yine donanmadaydı
+      metin  : venediğin mora daki
+      duyulan: venedik in moradaki
+  REPLACE  ...küçük olay yaşandı dolaylarında
+      metin  : valensiya
+      duyulan: valencia
+  INSERT   ...üstünde yeniden hayat bulacaktı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dünyanın haritasını i ş
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...ortaya çıkan levha yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...levha yaklaşık santimeter boyunda
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...reis haritasının boşluklarına osmanlı
+      metin  : türkçesiyle
+      duyulan: türkçesi ile
+  INSERT   ...haritadan derlediğini yazar bunların
+      metin  : (yok)
+      duyulan: i
+  DELETE   ...batlamyus geleneğinden gelen haritalardır
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...denizci geleneğine uygun olarak
+      metin  : enlem boylam ızgarasıyla
+      duyulan: enlen boyla mızgarasıyla
+  INSERT   ...boyunca sahibinin sandığında bekledi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...reis işi orada bırakmadı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuzey atlas okyanusu nu
+      metin  : grönland
+      duyulan: greenland
+  INSERT   ...önündeki koyun tarifidir bu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dair anlatılan hikaye vardır
+      metin  : veziriazam
+      duyulan: te veziri azam
+  REPLACE  ...eserini genişletti düzenletti başına
+      metin  : manzum
+      duyulan: manzun
+  INSERT   ...manzum giriş ekletti ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...haritasını verir padişaha sunulan
+      metin  : nüshada
+      duyulan: nüşada
+  REPLACE  ...olduğunu yazar rodos tan
+      metin  : venediğe
+      duyulan: venedi ye
+  DELETE   ...piri reis amcasını fırtınada
+      metin  : kaybetmiş adam
+      duyulan: (YOK — atlanmış)
+  DELETE   ...onlarca farklı el yazması
+      metin  : nüshası
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bitmesi beklenirdi piri reis
+      metin  : yirmilerin
+      duyulan: lerin
+  INSERT   ...piri reis yirmilerin sonunda
+      metin  : (yok)
+      duyulan: ine
+  INSERT   ...reis yirmilerin sonunda yaklaşıyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...i slam dünyasının denizlerinde
+      metin  : yabancı
+      duyulan: tabancı
+  INSERT   ...başına piri reis getirildi
+      metin  : (yok)
+      duyulan: ine
+  INSERT   ...lk iş iyi gitti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...güvenceye alınmıştı asıl sefer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...in bölgedeki en güçlü
+      metin  : üssüydü
+      duyulan: üstüydü
+  REPLACE  ...hürmüz boğazın ağzındaki bu
+      metin  : ada
+      duyulan: yolda
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 79
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: biyografi-2026-09-05.duyulan.txt

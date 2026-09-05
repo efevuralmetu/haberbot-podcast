@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-05.mp3
+
+beklenen 1250 kelime | duyulan 1258 kelime | eşleşme %93.1
+sayı ifadesi: metinde 197, duyulanda 123  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...stanbul un unkapanı semtinde
+      metin  : halicin
+      duyulan: haliç in
+  REPLACE  ...çocuk doğdu babası derviş
+      metin  : mehmed zılli
+      duyulan: mehmet zilli
+  REPLACE  ...zılli sıradan esnaf değildi
+      metin  : saray ı amier nin
+      duyulan: sarayı amirenin
+  REPLACE  ...çıkacak kapları ve kabza
+      metin  : süslerini
+      duyulan: süsllerini
+  REPLACE  ...sesi güzeldi musiki öğrendi
+      metin  : hat
+      duyulan: had
+  INSERT   ...sonra o rüyayı gördü
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...i stanbul da geçti
+      metin  : ayasofya
+      duyulan: da yayasofya
+  INSERT   ...da rahat hayatı vardı
+      metin  : (yok)
+      duyulan: ta ına
+  REPLACE  ...tarafından akrabası olan melek
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...tuna boylarına gitti defterdarzade
+      metin  : mehmed
+      duyulan: mehmet
+  INSERT   ...uyvar kuşatmasında ordunun içindeydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kuşatmasında ordunun içindeydi kara
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...kulesine çıkar çanlarını sayar
+      metin  : orgun
+      duyulan: organ
+  REPLACE  ...hangi oyunu oynadığını hangi
+      metin  : lehçeyle
+      duyulan: lehçe ile
+  REPLACE  ...kafkasya da abhazca ve
+      metin  : ubıhça
+      duyulan: ubihça
+  INSERT   ...nın kaleminde ansiklopediye dönüşür
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve orada ömrünün son
+      metin  : küsur
+      duyulan: küsür
+  INSERT   ...çekti düzeltti ekledi yaklaşık
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...çıkaran adamın kendi mezarının
+      metin  : yeri
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sandıkta kütüphanenin köşesinde bekledi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...da güçlü isim olduğunda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...isim olduğunda seyahatname gönderildi
+      metin  : nüshalar
+      duyulan: nüşalar
+  REPLACE  ...kendi eliyle yazdığı ciltler
+      metin  : topkapı
+      duyulan: avrupa kapı
+  REPLACE  ...ya ilk tanıtan avusturyalı
+      metin  : şarkiyatçı yozef fon hammer purgştal
+      duyulan: şarkıyaççı josef von hammerburgsthal
+  REPLACE  ...i stanbul da edindiği
+      metin  : nüshadan
+      duyulan: nüşadan
+  REPLACE  ...edindiği nüshadan yaptığı i
+      metin  : ngilizce
+      duyulan: zce
+  INSERT   ...metnin basılması ize ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i kdam gazetesinin sahibi
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...kadar çıktı ve ciltler
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...üsküdar a uçan hezarfen
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...bunun gibi onlarca sahne
+      metin  : mübalağalı
+      duyulan: mübalağlı
+  REPLACE  ...i tibarın iadesi yüzyılın
+      metin  : sonunda
+      duyulan: okulda
+  REPLACE  ...oldu amerikalı osmanlıcı robert
+      metin  : dankoff
+      duyulan: dankof
+  REPLACE  ...ve kendi gözüyle gördüklerini
+      metin  : yazdığı
+      duyulan: okuduğu
+  REPLACE  ...doğrudan evliya nın kendi
+      metin  : yazmalarına
+      duyulan: aralarına
+  INSERT   ...gerisi hızlı geldi unesco
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...caroline finkel ve arkadaşları
+      metin  : hac
+      duyulan: deki haç
+  INSERT   ...at sırtında yeniden izlediler
+      metin  : (yok)
+      duyulan: daki
+  INSERT   ...evliya çelebi yolu doğdu
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...yazmaları unesco nun dünya
+      metin  : belleği
+      duyulan: belliği
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: edebiyat-2026-09-05.duyulan.txt

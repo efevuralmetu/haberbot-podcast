@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-05.mp3
+
+beklenen 1689 kelime | duyulan 1704 kelime | eşleşme %94.4
+sayı ifadesi: metinde 279, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...neden hiçbir yerde göremiyorsunuz
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...yerde göremiyorsunuz başında massachusetts
+      metin  : teknoloji
+      duyulan: technology
+  INSERT   ...makineden ibaretti i ş
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verilen o çeyreklik cömertlik
+      metin  : jesti
+      duyulan: cesti
+  REPLACE  ...kimse el kitabı vermemişti
+      metin  : macrae
+      duyulan: magraye
+  REPLACE  ...kitabı vermemişti macrae ve
+      metin  : curran
+      duyulan: kurran
+  REPLACE  ...çekirdeğinde steve golson chris
+      metin  : rode
+      duyulan: rhodes
+  INSERT   ...isimler vardı çoğu henüz
+      metin  : (yok)
+      duyulan: sine
+  INSERT   ...henüz yeni basmıştı mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kabinin içine takılan küçük
+      metin  : ek
+      duyulan: egg
+  INSERT   ...iltifat olarak almadı ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dava yalnızca şirkete değil
+      metin  : macrae
+      duyulan: makra
+  REPLACE  ...şirkete değil macrae ile
+      metin  : curran a
+      duyulan: kürrana
+  INSERT   ...yoksa yeni eser midir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ayda dolar ödeyerek oyun
+      metin  : geliştirtecekti
+      duyulan: geliştirecekti
+  INSERT   ...çoktan kite başlamıştı haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...döngü çözümü ekipten buldu
+      metin  : lite brite
+      duyulan: litte britte
+  INSERT   ...sonra koda döküldü ekim
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...satılması yasaktı çünkü atari
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...en cesur telefonunu açtı
+      metin  : pac man in
+      duyulan: pacman ın
+  REPLACE  ...midway in başkanı david
+      metin  : marofske
+      duyulan: marovski
+  REPLACE  ...şeyi anlattı konuşmada atari
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...mahkemede boğuşup ayda dolarlık
+      metin  : sözleşmeyle
+      duyulan: sözleşme ile
+  INSERT   ...sözleşmeyle çıkmış ekipti ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...otto rafa kaldırıldı golson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...hafta içinde oyun önce
+      metin  : süper pac man
+      duyulan: super pacman
+  REPLACE  ...pac man e dönüştü
+      metin  : süper pac man
+      duyulan: super pacman
+  REPLACE  ...düşünün i ngilizcede miss
+      metin  : mrs
+      duyulan: missus
+  REPLACE  ...ngilizcede miss mrs ve
+      metin  : ms
+      duyulan: mess
+  REPLACE  ...soruyu medeni hal belirtmeyen
+      metin  : ms
+      duyulan: mess
+  REPLACE  ...da desteklendi karakteer kırmızı
+      metin  : fiyonk
+      duyulan: fionk
+  REPLACE  ...radikaldi pac man tek
+      metin  : labirentte
+      duyulan: labirente
+  REPLACE  ...ve seviyeler ilerledikçe değişiyordu
+      metin  : pac man de
+      duyulan: pacman da
+  REPLACE  ...turuncu hayaletin adı clyde
+      metin  : dan sue ya
+      duyulan: den suya
+  REPLACE  ...asıl devrim görünmeyen yerdeydi
+      metin  : pac man in
+      duyulan: pacman ın
+  INSERT   ...de aynı tepkiyi veriyordu
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...seferinde yeniden başlıyordu şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaliforniya daki sherman oaks
+      metin  : ta
+      duyulan: da
+  REPLACE  ...başka etkisi de vardı
+      metin  : fiyonklu
+      duyulan: fionklu
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: oyun-2026-09-05.duyulan.txt

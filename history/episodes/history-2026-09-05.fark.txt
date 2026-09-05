@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-05.mp3
+
+beklenen 3942 kelime | duyulan 3899 kelime | eşleşme %97.7
+sayı ifadesi: metinde 202, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...humanity stores knowledge forever
+      metin  : kanal yönergesi gereği bu çeviri kanalı metin yazılmadı aynı günün tarih txt bölümünün i ngilizce çevirisidir kaynağa sadık içerik eklenmedi çıkarılmadı kanal dili en olduğu ve türkçe okunuş zinciri atlandığı için sayılar yazıyla verildi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the reign of emperor
+      metin  : xuanzong
+      duyulan: xuanzang
+  REPLACE  ...garrisons established across the
+      metin  : tarim
+      duyulan: turin
+  REPLACE  ...kucha khotan kashgar and
+      metin  : karashahr
+      duyulan: kharashar
+  REPLACE  ...the name of the
+      metin  : anxi
+      duyulan: angsi
+  REPLACE  ...provincial backwater samarkand bukhara
+      metin  : panjikent
+      duyulan: panjikant
+  REPLACE  ...the commander of the
+      metin  : anxi
+      duyulan: angsi
+  REPLACE  ...the anxi protectorate gao
+      metin  : xianzhi
+      duyulan: shanju
+  REPLACE  ...protectorate gao xianzhi gao
+      metin  : xianzhi
+      duyulan: shanju
+  INSERT   ...that had entered tang
+      metin  : (yok)
+      duyulan: s
+  REPLACE  ...the kingdom of little
+      metin  : balur
+      duyulan: belur
+  INSERT   ...weer astonishing centuries later
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...the region hand s
+      metin  : breadth
+      duyulan: breath
+  REPLACE  ...breadth by hand s
+      metin  : breadth
+      duyulan: breath
+  REPLACE  ...habit with it gao
+      metin  : xianzhi
+      duyulan: shanju
+  REPLACE  ...the local tongue as
+      metin  : chach
+      duyulan: chok
+  REPLACE  ...fertile bank of the
+      metin  : syr
+      duyulan: seer
+  REPLACE  ...paper according to gao
+      metin  : xianzhi
+      duyulan: shanju
+  REPLACE  ...his dispute with neighboring
+      metin  : ferghana
+      duyulan: fergana
+  REPLACE  ...not hostile to gao
+      metin  : xianzhi
+      duyulan: shanju
+  INSERT   ...tang he went west
+      metin  : (yok)
+      duyulan: at
+  REPLACE  ...caliphate was ziyad ibn
+      metin  : salih
+      duyulan: saleh
+  REPLACE  ...spheer of authority in
+      metin  : khurasan
+      duyulan: khorasan
+  REPLACE  ...khurasan for ziyad ibn
+      metin  : salih
+      duyulan: saleh
+  REPLACE  ...legitimacy the eastern frontier
+      metin  : and
+      duyulan: when
+  REPLACE  ...the region when gao
+      metin  : xianzhi
+      duyulan: xiongi
+  REPLACE  ...marched allied troops from
+      metin  : ferghana
+      duyulan: fergana
+  REPLACE  ...in other words gao
+      metin  : xianzhi
+      duyulan: xiongi
+  REPLACE  ...near a settlement called
+      metin  : atlakh
+      duyulan: atlak
+  REPLACE  ...at that moment gao
+      metin  : xianzhi
+      duyulan: shanzhe
+  REPLACE  ...between fires in front
+      metin  : ziyad
+      duyulan: ziad
+  REPLACE  ...in front ziyad ibn
+      metin  : salih
+      duyulan: saleh
+  REPLACE  ...size of the victory
+      metin  : what is
+      duyulan: but as
+  REPLACE  ...victory what is reliable
+      metin  : is
+      duyulan: as
+  REPLACE  ...li siye of gao
+      metin  : xianzhi
+      duyulan: shanzhe
+  REPLACE  ...beating the fleeing allied
+      metin  : ferghanan
+      duyulan: ferganan
+  REPLACE  ...records another commander duan
+      metin  : xiushi
+      duyulan: xiuxi
+  REPLACE  ...battle that morning gao
+      metin  : xianzhi
+      duyulan: shanzhe
+  REPLACE  ...the prisoners was named
+      metin  : du huan
+      duyulan: duan
+  REPLACE  ...coincidence after the battle
+      metin  : du huan
+      duyulan: duan
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 111 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-09-05.duyulan.txt

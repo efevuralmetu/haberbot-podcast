@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-04.mp3
+
+beklenen 1413 kelime | duyulan 1409 kelime | eşleşme %95.0
+sayı ifadesi: metinde 293, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hava araçları ve füzeler
+      metin  : kuveyt
+      duyulan: kuwait
+  REPLACE  ...kuveyt teki ahmad al
+      metin  : cabir
+      duyulan: jabir
+  REPLACE  ...nü hedef aldı her
+      metin  : üste
+      duyulan: üstte
+  REPLACE  ...nin islamic revolutionary guards
+      metin  : corps
+      duyulan: corp
+  REPLACE  ...vatandaşı da yer almıştı
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...yeni vergi teşvikleri için
+      metin  : konger ye
+      duyulan: kongreye
+  REPLACE  ...lübnan ordusuna teslim etti
+      metin  : gazze de
+      duyulan: gazete
+  REPLACE  ...saldırılarında kişinin öldüğü batı
+      metin  : şeria nın al mugayyir
+      duyulan: şerian ın almugayir
+  DELETE   ...ize norveç te hakon
+      metin  : viii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etti kızı ingrid alexandra
+      metin  : veliaht
+      duyulan: veljaht
+  REPLACE  ...estonya da adalet başdenetçisi
+      metin  : ülle madize
+      duyulan: üllem hadize
+  REPLACE  ...oturdu şirketin başkanı greg
+      metin  : brockman
+      duyulan: brokman
+  REPLACE  ...kullanıcıya açıldı önümüzdeki günlerde
+      metin  : chatgpt plus
+      duyulan: çetgpt
+  REPLACE  ...yükseltti openai ın geliştirdiği
+      metin  : halapenyo
+      duyulan: halapenio
+  DELETE   ...içi testlerde nvidia nın
+      metin  : gbiki
+      duyulan: (YOK — atlanmış)
+  DELETE   ...nvidia nın gbiki ve
+      metin  : gbüç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...en yüksek verimlilik noktasında
+      metin  : vat
+      duyulan: watt
+  DELETE   ...ve ilk desteklerden nba
+      metin  : ikikyirmi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...uzay ve bilim tarafında
+      metin  : bepi kolombo
+      duyulan: bepicolombo
+  REPLACE  ...hubble uzay teleskobu verileriyle
+      metin  : satürn ün
+      duyulan: saturn un
+  INSERT   ...lira oldu endeksteki hisseden
+      metin  : (yok)
+      duyulan: u
+  INSERT   ...oldu endeksteki hisseden yükselirken
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...bandında bulunuyor uluslararası piyasada
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...piyasaların odağında bugün türkiye
+      metin  : saatiyle
+      duyulan: saati ile da
+  REPLACE  ...var veri eylül deki
+      metin  : fed
+      duyulan: fet
+  REPLACE  ...tayin edici görülüyor eylül
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...ve bunun doğurduğu yeniden
+      metin  : yapılanma
+      duyulan: yapılan muhalefet
+  INSERT   ...dairesi nin chp nin
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...davasının duruşması eylül saat
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...orhan sarıbal genel merkezde
+      metin  : basın
+      duyulan: vasın
+  REPLACE  ...merkezde basın toplantısı düzenledi
+      metin  : ilde
+      duyulan: lide
+  INSERT   ...i yi parti ize
+      metin  : (yok)
+      duyulan: er
+  INSERT   ...açıklanan aylık rakam ekonomistlerin
+      metin  : (yok)
+      duyulan: lık
+  REPLACE  ...kıyı emniyeti deniz kuvvetleri
+      metin  : afad
+      duyulan: afat
+  REPLACE  ...ila meter yer yer
+      metin  : kilometreye
+      duyulan: km ye
+  INSERT   ...katılıyor merkez bankası saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...verisi ve eylül deki
+      metin  : fed
+      duyulan: fet
+  REPLACE  ...ölçülecek gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: gundem-2026-09-04.duyulan.txt

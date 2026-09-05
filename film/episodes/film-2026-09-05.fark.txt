@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-05.mp3
+
+beklenen 1392 kelime | duyulan 1415 kelime | eşleşme %95.0
+sayı ifadesi: metinde 231, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hiç film çekmedi ales
+      metin  : adamoviç yetmişlerin
+      duyulan: adamovic lerin
+  INSERT   ...bantlara kaydedilen o sesler
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...örneği hatın köyüdür mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kurtulanların sayısı bunların çocuktu
+      metin  : adamoviç
+      duyulan: adamovic
+  INSERT   ...çocuktu adamoviç bu olayı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...malzemeye yönetmen sahip çıktı
+      metin  : elem
+      duyulan: elam
+  INSERT   ...sahip çıktı elem klimov
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ürünüydü engels lenin ve
+      metin  : marks
+      duyulan: marx
+  INSERT   ...baş harflerinden yapılmış addı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sabahtan kalmaydı klimov ile
+      metin  : adamoviç
+      duyulan: adamovic
+  INSERT   ...senaryoyu birlikte yazdılar ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...günkü adı hitler i
+      metin  : öldürün dü
+      duyulan: öldürüldü
+  REPLACE  ...adı kir estetiği ve
+      metin  : natüralizm di
+      duyulan: naturalizmdi
+  INSERT   ...gelir i zin nihayet
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...klimov yazar olan kardeşi
+      metin  : german
+      duyulan: germann
+  INSERT   ...emri harfiyen uygular çekimler
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ülkenin kendi film stüdyosu
+      metin  : belarusfilm in yapımıyla
+      duyulan: belarus filmin yapımı ile
+  REPLACE  ...biteni kaydetti o çocuk
+      metin  : aleksey kravçenko
+      duyulan: alexey kravchenko
+  INSERT   ...çocuk aleksey kravçenko ydu
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...hipnoz uzmanı çağırdı ve
+      metin  : kravçenko
+      duyulan: kravchenko
+  REPLACE  ...taşımasına yardım edecek tür
+      metin  : otojen
+      duyulan: otogen
+  REPLACE  ...süren aşırı yorgunluk sıkı
+      metin  : perhiz
+      duyulan: perhis
+  REPLACE  ...bedensel çöküşün gerçek karşılığıydı
+      metin  : kravçenko
+      duyulan: kravchenko
+  REPLACE  ...kravçenko okuluna döndüğünde zayıflamıştı
+      metin  : filmdeki ağarmış
+      duyulan: kravchenko nun
+  REPLACE  ...biçimde ateşlediği gerçek mühimmat
+      metin  : kravçenko
+      duyulan: kravchenko
+  REPLACE  ...görüntüye çevrilmesi görüntü yönetmeni
+      metin  : aleksey
+      duyulan: alexey
+  REPLACE  ...henüz yeni olan steadicam
+      metin  : i
+      duyulan: ı
+  REPLACE  ...kamera çocuğun peşine takıldı
+      metin  : paniğin
+      duyulan: pani in
+  REPLACE  ...karakterler zaman zaman doğrudan
+      metin  : merceğe
+      duyulan: merceye
+  REPLACE  ...motorları ve konuşmalar aynı
+      metin  : bulanık
+      duyulan: bulanı
+  REPLACE  ...gibi başlayıp ortadan kaybolan
+      metin  : glaşa dır
+      duyulan: gılaşadır
+  REPLACE  ...doğrudan sahneye çevrilmiş halidir
+      metin  : halkın
+      duyulan: alkın
+  INSERT   ...gel ve gör temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...uluslararası sinema yazarlarının verdiği
+      metin  : fipresci
+      duyulan: fipres de iyi
+  INSERT   ...verdiği fipresci ödülüyle çıktı
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...fipresci ödülüyle çıktı ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...değildir ardından mozart ın
+      metin  : rekviyem inden
+      duyulan: rekvieminden
+  INSERT   ...sonra daha film çekmedi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ama kendi kamerasına dönmedi
+      metin  : (yok)
+      duyulan: kiki de
+  INSERT   ...zaten yaptığını hissettiğini söyledi
+      metin  : (yok)
+      duyulan: kiki te
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-09-05.duyulan.txt

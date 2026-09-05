@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-05.mp3
+
+beklenen 1755 kelime | duyulan 1768 kelime | eşleşme %95.9
+sayı ifadesi: metinde 206, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bırakıyor bolivya nın güneyinde
+      metin  : and dağları nın
+      duyulan: an dağlarının
+  REPLACE  ...geldikten sonra adı değişti
+      metin  : serro riko
+      duyulan: cerro rico
+  REPLACE  ...anlatılan hikaye şöyledir yılında
+      metin  : diyego uaypa
+      duyulan: diego uaipa
+  INSERT   ...ama satın alabilen şehirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i spanyol kraliyeti şehirde
+      metin  : darphane
+      duyulan: darfane
+  REPLACE  ...kraliyeti şehirde darphane kurdu
+      metin  : kasa
+      duyulan: casa
+  REPLACE  ...damgası taşıyan gümüş sikkeler
+      metin  : sevilya
+      duyulan: sevilla
+  REPLACE  ...nın bankalarına gitti kısmı
+      metin  : pasifiği
+      duyulan: pasifi yi
+  REPLACE  ...talep vardı sonuç şaşırtıcıdır
+      metin  : and
+      duyulan: ant
+  REPLACE  ...deyişi o dönemde yerleşti
+      metin  : servantes
+      duyulan: cervantes
+  REPLACE  ...yerleşti servantes bile don
+      metin  : kişot ta
+      duyulan: quixote da
+  INSERT   ...verdi civarında şehrin nüfusu
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...o tarihte londra yla
+      metin  : sevilya
+      duyulan: sevilla
+  REPLACE  ...aynı ölçekteydi üstelik denizden
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...kilometreden uzakta ve meter
+      metin  : yükseklikte
+      duyulan: yükseklik
+  REPLACE  ...kapısı avrupa nın barok
+      metin  : süslemesiyle
+      duyulan: süslemesi ile
+  REPLACE  ...ve yepyeni teknoloji teknoloji
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...meksika da geliştirildikten sonra
+      metin  : potosi ye
+      duyulan: potosia
+  INSERT   ...üstündeki tepeleer insan eliyle
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...emek ize yasayla sağlandı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sağlandı peru genel valisi
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...köylerin kısmı potosi ye
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...mumdu i niş kayaya
+      metin  : oyulmuş
+      duyulan: uyulmuş
+  REPLACE  ...arasında gidip gelen bedenler
+      metin  : zatürreye
+      duyulan: zatüreye
+  REPLACE  ...eski ölçek geri gelmedi
+      metin  : seksenlerde
+      duyulan: lerde
+  INSERT   ...kadar gitti yükümlülük nihayet
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kağıt üzerinde sona erdi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...işletmelerinden çok kooperatifler var
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kağıtlar durur adı el
+      metin  : tiyo
+      duyulan: tío
+  REPLACE  ...bakier nin yeraltı ize
+      metin  : tiyo
+      duyulan: tío
+  REPLACE  ...ağzına yerleştirir neredeyze saf
+      metin  : alkolü suyla
+      duyulan: alkolyusuyla
+  INSERT   ...için zirve çökmeye başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...işaretiydi ve hafif çimento
+      metin  : karışımıyla
+      duyulan: karışımı ile
+  INSERT   ...örgütü unesco potosi yi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dünya mirası listesine almıştı
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...volkanik kütlenin kalıntısıydı yani
+      metin  : potosílinin
+      duyulan: potosili nin
+  REPLACE  ...yerin indiren dağın taşıdır
+      metin  : potosi
+      duyulan: potosili
+  REPLACE  ...nın borçlarını ödedi savaşlarını
+      metin  : finanse
+      duyulan: finance
+  DELETE   ...boş manastırlar tepeye kazınmış
+      metin  : göl
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mimarisiyle değil eksikliğiyle konuşur
+      metin  : nöron seyahat de
+      duyulan: neuron seyahatte
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: seyahat-2026-09-05.duyulan.txt

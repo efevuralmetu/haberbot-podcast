@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-05.mp3
+
+beklenen 2544 kelime | duyulan 2558 kelime | eşleşme %93.1
+sayı ifadesi: metinde 388, duyulanda 293  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...oysa ayağınızın altındaki kayaç
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu kayacın çatlaklarından sızarak
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...yaylanın dev süngerimsi boşluklar
+      metin  : ağı
+      duyulan: ağa
+  REPLACE  ...i nsanlığın adı verildi
+      metin  : sterkfonteyn svartkrans kromdray
+      duyulan: starkfontein svartkranz kromdrei
+  INSERT   ...zengin küçük alanlardan ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...için yeni yer değildi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...arayan hiç kimse şey
+      metin  : ummuyordu
+      duyulan: umuyordu don
+  REPLACE  ...yatakları bulmak için pedro
+      metin  : boshoff
+      duyulan: bochoff
+  REPLACE  ...adında mağaracıyı işe almış
+      metin  : o da
+      duyulan: dot oda
+  REPLACE  ...de aynı yarıktan tırmanarak
+      metin  : döndüler gün sonra bu görüntüler lee berger a ulaştı berger bilgisayar ekranında donmuş kareye baktığında gördüğü şeyin ne olduğunu tam olarak bilmiyordu ama şeyi hemen anladı o
+      duyulan: döndü çamurun içine yarı gömülü alt
+  REPLACE  ...hemen anladı o çene
+      metin  : maymuna ait değildi kavis dişlerin dizilişi gövdenin inceliği insan soyunun üyesini işaret ediyordu ve o
+      duyulan: dişleri hala yerinde duruyordu yakınında kafatası parçası uzun
+  REPLACE  ...ediyordu ve o kemikler
+      metin  : kayaca yapışmış breşe dönüşmüş yıllarca asitle temizlenmesi gereken tipik güney afrika fosilleri değildi yüzeydeydiler
+      duyulan: kaburgalar yüzdeydiler
+  REPLACE  ...isim verildi bölgede konuşulan
+      metin  : sesotho
+      duyulan: sesoto
+  REPLACE  ...lekelerine gönderme olarak ama
+      metin  : berger ın
+      duyulan: bergerin önünde son derece somut sorun duruyordu kemikler oradaydı ulaşmanın yolu yüzeydeydi çamurun içine yarı gömülü alt çene dişleri hala yerinde duruyordu yıldızlar odası anlamına gelen dinaledi adı takıldı hem mağaranın adına hem de karanlığın içinde dağılmış duran o beyaz kemik lekelerine gönderme olarak ama bergerin
+  REPLACE  ...superman s crawl yani
+      metin  : süpermen
+      duyulan: superman
+  REPLACE  ...arasındaki mesafe yer yer
+      metin  : santimetrenin
+      duyulan: cm nin
+  REPLACE  ...için bu adı almıştır
+      metin  : süpermen sürünüşü nün
+      duyulan: superman sürünüşünün
+  DELETE   ...sürünüşü nün ardından mağara
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...noktasında duvar arasındaki mesafe
+      metin  : santimetredir
+      duyulan: cm dir
+  REPLACE  ...artık yardımcı değil rakiptir
+      metin  : lee berger
+      duyulan: lieberger
+  INSERT   ...olmadığı şey yaptı ekim
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...yazmıyordu bile gün içinde
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...berger kişi seçti marina
+      metin  : (yok)
+      duyulan: eliud
+  REPLACE  ...kişi seçti marina becca
+      metin  : peyşoto alia
+      duyulan: peixoto alya
+  REPLACE  ...becca peyşoto alia gurtov
+      metin  : elen foyerrigel
+      duyulan: ellen feuerigel
+  INSERT   ...morris ve lindsay hunter
+      metin  : (yok)
+      duyulan: sı
+  REPLACE  ...değil ölçünün doğal sonucuydu
+      metin  : santimetreden
+      duyulan: cm den
+  REPLACE  ...havuzu böyle şekillenmişti basın
+      metin  : ad
+      duyulan: at
+  REPLACE  ...basın ad taktı ve
+      metin  : ad
+      duyulan: at
+  INSERT   ...tuttu yeraltı astronotları kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeraltı astronotları kasım ulusal
+      metin  : coğrafya
+      duyulan: goğrafya
+  REPLACE  ...ulusal coğrafya cemiyeti ve
+      metin  : yohannesburg
+      duyulan: johannesburg
+  REPLACE  ...cemiyeti ve yohannesburg daki
+      metin  : vitvatersrand
+      duyulan: witwatersrand
+  INSERT   ...gerekiyordu gün yetmedi mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...zemininden çıkarılan parça sayısı
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...yalnızca küçücük bölümüydü kemikler
+      metin  : yohannesburg
+      duyulan: johannesburg
+  INSERT   ...yerine baharında dünyanın yanından
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...fazla genç bilim insanını
+      metin  : yohannesburg
+      duyulan: johannesburg
+  INSERT   ...tarif kimsenin beklemediği şeydi
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...kimsenin beklemediği şeydi eylül
+      metin  : (yok)
+      duyulan: te
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 117 kelime | duyulup metinde OLMAYAN: 145
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: arkeoloji-2026-09-05.duyulan.txt

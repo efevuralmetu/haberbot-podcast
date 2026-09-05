@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-05.mp3
+
+beklenen 2532 kelime | duyulan 2565 kelime | eşleşme %93.3
+sayı ifadesi: metinde 270, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tang hanedanı vardı başkent
+      metin  : çangan
+      duyulan: chang an
+  REPLACE  ...en kalabalık şehriydi sokaklarında
+      metin  : sogd
+      duyulan: sok
+  REPLACE  ...yana yürüyordu i mparator
+      metin  : şuandzong
+      duyulan: xuanzong
+  REPLACE  ...doğuya kaymıştı abbasiler için
+      metin  : maveraünnehir
+      duyulan: maverön nehir
+  REPLACE  ...için maveraünnehir yani ceyhun
+      metin  : ırmağının
+      duyulan: irmağı nın
+  REPLACE  ...şehir devletleriydi halkının çoğu
+      metin  : sogdlardı
+      duyulan: soklardı
+  REPLACE  ...yolu nun tartışmasız tüccar
+      metin  : sogdca
+      duyulan: sokça
+  REPLACE  ...sogdca çin sınırındaki dunhuang
+      metin  : dan
+      duyulan: tan
+  REPLACE  ...bütün askeri hesabı aslında
+      metin  : tibedi
+      duyulan: tibet i
+  REPLACE  ...en gözü kara uygulayıcısı
+      metin  : anksi
+      duyulan: angsi
+  REPLACE  ...valiliği nin komutanı gao
+      metin  : şiyencı ydi
+      duyulan: xiyenci idi
+  REPLACE  ...gao şiyencı ydi gao
+      metin  : şiyencı
+      duyulan: xiyenci
+  REPLACE  ...gao şiyencı koer yarımadasındaki
+      metin  : gogurio krallığının
+      duyulan: goguryo krallığı nın
+  INSERT   ...dağ savaşında ustalaşmıştı adını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl tibetlilerle anlaşan küçük
+      metin  : bolü krallığını
+      duyulan: bolu krallığı nı
+  REPLACE  ...hizaya getirmek için pamirleri
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...tehlikeli alışkanlık getirdi gao
+      metin  : şiyencı batıdaki
+      duyulan: xiyenci batı daki
+  REPLACE  ...ceza üzerinden kurmaya başlamıştı
+      metin  : çangan
+      duyulan: chang an
+  REPLACE  ...şehrin adı çin kayıtlarında
+      metin  : şi
+      duyulan: xi
+  REPLACE  ...bağlılık kağıt üstündeydi gao
+      metin  : şiyencı
+      duyulan: xiyenci
+  REPLACE  ...kaynaklarının kendisi üstelik gao
+      metin  : şiyencı
+      duyulan: xiyenci
+  REPLACE  ...ve orada teslim olmuş
+      metin  : sözle
+      duyulan: sözde
+  REPLACE  ...gerek bırakmayacak biçimde cevaplamıştı
+      metin  : sogd
+      duyulan: sokd
+  REPLACE  ...yani şaşırtıcı hızla yayıldı
+      metin  : ölen
+      duyulan: ötlölen
+  REPLACE  ...semerkant a ulaştı semerkant
+      metin  : ta
+      duyulan: da
+  REPLACE  ...ziyad salih oturuyordu ebu
+      metin  : müslim in
+      duyulan: müslümin
+  REPLACE  ...yerel süvariler katıldı gao
+      metin  : şiyencı
+      duyulan: şiyenci
+  REPLACE  ...öğrendiğinde beklemedi karakteri buydu
+      metin  : tehdidi
+      duyulan: tehdit i
+  REPLACE  ...topraklarında karşılamak yerine gidip
+      metin  : tehdidin
+      duyulan: tehditin
+  REPLACE  ...üstüne yürümeyi tercih ediyordu
+      metin  : kuça daki üssünden
+      duyulan: kuçadaki üstünden
+  REPLACE  ...olacakları anlamak için kritik
+      metin  : çekirdekte anksi
+      duyulan: çekirdek te angsi
+  REPLACE  ...ordunun oluşturuyordu yani gao
+      metin  : şiyencı
+      duyulan: şiyenci
+  REPLACE  ...yılının temmuz ayında talas
+      metin  : ırmağının
+      duyulan: irmağı nın
+  REPLACE  ...de kazanacağından emindi talas
+      metin  : ırmağının
+      duyulan: irmağı nın
+  REPLACE  ...saldırdılar o anda gao
+      metin  : şiyencı
+      duyulan: şiyenci
+  REPLACE  ...arkada müttefik sanılan süvari
+      metin  : sağanağı
+      duyulan: sahanağı
+  INSERT   ...kurtulabilen tang askerinin sayısını
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...daha büyük rakamlar yazar
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...rakamlar yazar varan ölü
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...geri çekilen kalabalık dar
+      metin  : geçitte
+      duyulan: geçitle
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 126
+bölme/birleşme farkı (hata değil, elendi): 39
+
+duyulan metin: tarih-2026-09-05.duyulan.txt
