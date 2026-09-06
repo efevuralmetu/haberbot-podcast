@@ -1,0 +1,653 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.250
+Dünyanın en çok beklenen oyunu, çıkmasına haftalar kala internete sızdı.
+
+2
+00:00:05.250 --> 00:00:16.580
+Onu çalan kişi bir suç örgütü değil, oyunun en büyük hayranı olan bir gençti — ve kodu indirdikten sonra yaptığı ilk iş, şirketin patronuna özür mektubu yazıp iş istemekti.
+
+3
+00:00:16.580 --> 00:00:22.310
+Karşısındakiler o mektuba cevap verdi: bir uçak bileti ve bir iş görüşmesi.
+
+4
+00:00:30.510 --> 00:00:38.800
+2003 yılının Mayıs ayında, Los Angeles'taki oyun fuarında bir salon dolusu gazeteci nefesini tutmuş halde bir ekrana bakıyordu.
+
+5
+00:00:38.800 --> 00:00:45.810
+Ekranda tahta bir kalas vardı, kalasın üstünde bir tuğla, tuğlanın altında bir su birikintisi.
+
+6
+00:00:45.810 --> 00:00:54.260
+Bir karakter kalasa bastı, tahta gerçek bir tahta gibi eğildi, tuğla gerçek bir tuğla gibi düştü, su gerçek bir su gibi sıçradı.
+
+7
+00:00:54.260 --> 00:00:57.110
+Half-Life 2 böyle tanıtıldı.
+
+8
+00:00:57.110 --> 00:01:02.200
+Kutuların üstüne basılacak tarih bile belliydi: 30 Eylül 2003.
+
+9
+00:01:02.200 --> 00:01:05.850
+Oyun dünyası o yaz boyunca tek bir şeyi konuştu.
+
+10
+00:01:05.850 --> 00:01:15.420
+Aynı aylarda, Almanya'nın güneyinde, Kara Orman bölgesindeki küçük bir kasabada, yirmili yaşlarının başında bir genç kendi odasında oturuyordu.
+
+11
+00:01:15.420 --> 00:01:17.790
+Adı Axel Gembe'ydi.
+
+12
+00:01:17.790 --> 00:01:24.000
+Zor bir çocukluk geçirmiş, okulu erken bırakmış, programlamayı kendi kendine öğrenmişti.
+
+13
+00:01:24.000 --> 00:01:30.530
+Bilgisayarı onun için bir kaçış kapısıydı ve o kapının ardındaki en sevdiği yer ilk Half-Life'tı.
+
+14
+00:01:30.530 --> 00:01:38.500
+Devam oyununun tanıtımını izlerken hissettiği şey hayranlıktan biraz fazlasıydı: merak değil, sabırsızlık.
+
+15
+00:01:38.500 --> 00:01:40.390
+Beklemek istemiyordu.
+
+16
+00:01:40.390 --> 00:01:41.960
+Görmek istiyordu.
+
+17
+00:01:41.960 --> 00:01:47.210
+Yaptığı şey, filmlerdeki gibi ekranlarda akan yeşil harflerle olmadı.
+
+18
+00:01:47.210 --> 00:01:50.860
+Basit, sıkıcı ve korkutucu derecede yöntemliydi.
+
+19
+00:01:50.860 --> 00:01:57.870
+Önce Valve'ın alan adı sunucusuna, yani şirketin internetteki adres defterini tutan makineye baktı.
+
+20
+00:01:57.870 --> 00:02:03.600
+O sunucu, kim isterse istesin, defterin tamamının bir kopyasını veriyordu.
+
+21
+00:02:03.600 --> 00:02:06.610
+Kimlik sormuyor, kayıt tutmuyordu.
+
+22
+00:02:06.610 --> 00:02:14.580
+Böylece Gembe, dışarıdan bakan birinin asla göremeyeceği şeyi eline geçirdi: şirketin ağındaki makinelerin listesini.
+
+23
+00:02:14.580 --> 00:02:20.950
+Hangi adreste ne var, hangi isim hangi bilgisayara ait, hepsi tek bir istekle önüne serildi.
+
+24
+00:02:20.950 --> 00:02:24.920
+Listede, orada olmasını beklemeyeceğiniz bir isim vardı.
+
+25
+00:02:24.920 --> 00:02:33.530
+Tangis adlı, giyilebilir bilgisayarlar üzerine çalışan küçük bir şirketin sunucusu, Valve'ın kendi adres aralığının içinde duruyordu.
+
+26
+00:02:33.530 --> 00:02:38.620
+Şirketi Gabe Newell'ın kardeşi yönetiyordu ve iki ağ birbirine bakıyordu.
+
+27
+00:02:38.620 --> 00:02:42.750
+O sunucuda herkesin dosya yazabildiği bir klasör vardı.
+
+28
+00:02:42.750 --> 00:02:49.600
+Gembe klasöre kendi yazdığı küçük bir program bıraktı, çalıştırdı ve içeriden parola özetlerini çekti.
+
+29
+00:02:49.600 --> 00:02:53.730
+Sonra günlerce, sabırla, o özetleri kırdı.
+
+30
+00:02:53.730 --> 00:02:56.740
+Ve nihayet asıl kapıya geldi.
+
+31
+00:02:56.740 --> 00:03:04.230
+Ağın merkezindeki denetleyici makineye, yani bütün hesapların anahtarlarının durduğu bilgisayara.
+
+32
+00:03:04.230 --> 00:03:07.720
+Orada "build" adında bir hesap buldu.
+
+33
+00:03:07.720 --> 00:03:13.610
+Derleme işleri için açılmış, kimsenin aklına gelmeyen, kimsenin dokunmadığı bir hesap.
+
+34
+00:03:13.610 --> 00:03:15.340
+Parolası boştu.
+
+35
+00:03:15.340 --> 00:03:18.510
+Parola kutusuna hiçbir şey yazılmamıştı.
+
+36
+00:03:18.510 --> 00:03:25.040
+Yıllar sonra o anı anlatırken kullandığı ifade şuydu: krallığın anahtarları elindeydi.
+
+37
+00:03:25.040 --> 00:03:31.730
+Dünyanın en çok beklenen oyununu üreten şirketin kalbine, bir parolanın olmayışı yüzünden girdi.
+
+38
+00:03:31.730 --> 00:03:35.060
+İçeri girdikten sonra hiçbir şey yapmadı.
+
+39
+00:03:35.060 --> 00:03:38.710
+Kastettiğim tam olarak bu: hiçbir şey yapmadı.
+
+40
+00:03:38.710 --> 00:03:43.160
+Dosya silmedi, fidye istemedi, kimseye haber vermedi.
+
+41
+00:03:43.160 --> 00:03:47.450
+Yaklaşık 6 ay boyunca o ağın içinde sessizce dolaştı.
+
+42
+00:03:47.450 --> 00:03:49.820
+Tasarım belgelerini okudu.
+
+43
+00:03:49.820 --> 00:03:53.630
+Henüz kimsenin görmediği bölümlerin taslaklarını gördü.
+
+44
+00:03:53.630 --> 00:03:55.680
+Yazışmaları takip etti.
+
+45
+00:03:55.680 --> 00:04:00.930
+Bir oyunun nasıl yapıldığını, günü gününe, tartışma tartışma izledi.
+
+46
+00:04:00.930 --> 00:04:07.140
+Bir hayranın hayal edebileceği en mahrem seyir yeriydi burası ve orada tek başına oturuyordu.
+
+47
+00:04:07.140 --> 00:04:09.510
+Zamanla iştahı büyüdü.
+
+48
+00:04:09.510 --> 00:04:18.440
+Şirketin birkaç bilgisayarına tuş kaydedici yerleştirdi; bir uzaktan erişim programının, yalnızca bu iş için değiştirilmiş bir sürümüydü.
+
+49
+00:04:18.440 --> 00:04:22.730
+O makinelerden biri Gabe Newell'ın kendi bilgisayarıydı.
+
+50
+00:04:22.730 --> 00:04:29.740
+11 Eylül 2003'ten itibaren Newell'ın elektronik posta hesabına ondan başka biri de giriyordu.
+
+51
+00:04:29.740 --> 00:04:33.070
+Newell bir şeylerin yolunda gitmediğini sezdi.
+
+52
+00:04:33.070 --> 00:04:37.520
+Bilgisayarı tuhaf davranıyor, basit işlemlerde çöküyordu.
+
+53
+00:04:37.520 --> 00:04:42.770
+Virüs taraması bir şey bulamayınca diski sildirip sistemi yeniden kurdurdu.
+
+54
+00:04:42.770 --> 00:04:47.860
+Ama davetsiz misafir bilgisayarda değil, ağın ta kendisindeydi.
+
+55
+00:04:47.860 --> 00:04:50.550
+Temizlik hiçbir şeyi değiştirmedi.
+
+56
+00:04:50.550 --> 00:04:56.920
+19 Eylül 2003'te Gembe, Half-Life 2'nin kaynak kodunun tamamının bir kopyasını aldı.
+
+57
+00:04:56.920 --> 00:05:01.370
+Oyunun beyni, iskeleti, henüz bitmemiş bütün organları.
+
+58
+00:05:01.370 --> 00:05:12.700
+İndirdikten sonra bilgisayarında çalıştırmayı denedi, eksik parçaları kendi yazdığı yamalarla tamamlayıp derledi ve dünyada henüz sekiz on kişinin gördüğü bir dünyanın içinde yürüdü.
+
+59
+00:05:12.700 --> 00:05:18.270
+O sırada aklından geçen tek şeyin bu olduğunu söylüyor: görmek.
+
+60
+00:05:18.270 --> 00:05:22.080
+Satmak değil, yaymak değil, zarar vermek değil.
+
+61
+00:05:22.080 --> 00:05:28.450
+Ama çaldığınız şey bir kez elinizden çıktığında, ne için çaldığınızın hiçbir önemi kalmıyor.
+
+62
+00:05:28.450 --> 00:05:39.780
+23 Eylül 2003'te, yani hırsızlıktan sadece dört gün sonra ve daha kimsenin en ufak bir şeyden haberi yokken, Valve oyunun 30 Eylül'e yetişmeyeceğini duyurdu.
+
+63
+00:05:39.780 --> 00:05:47.110
+Milyonlarca insan hayal kırıklığına uğradı, forumlar köpürdü, kimse gecikmenin arkasında başka bir şey aramadı.
+
+64
+00:05:47.110 --> 00:05:49.960
+Çünkü henüz aranacak bir şey yoktu.
+
+65
+00:05:49.960 --> 00:05:53.130
+Sonra 2 Ekim 2003 geldi.
+
+66
+00:05:53.130 --> 00:05:59.820
+Gabe Newell, bir hayran sitesinin forumuna oturup şirketinin başına gelenleri kendi ağzından anlattı.
+
+67
+00:05:59.820 --> 00:06:05.870
+Son birkaç günün ne kendisi ne de şirketi için iyi geçtiğini söyleyerek başladı.
+
+68
+00:06:05.870 --> 00:06:18.320
+Ardından bildiklerini sırayla döktü: elektronik posta hesabına başkasının girdiğini, bilgisayarının tuhaflaştığını, tuş kaydedicileri, 19 Eylül'de kaynak ağacının kopyalandığını.
+
+69
+00:06:18.320 --> 00:06:23.090
+Ve sonunda, bir şirket yöneticisinden beklenmeyecek bir şey yaptı.
+
+70
+00:06:23.090 --> 00:06:24.660
+Yardım istedi.
+
+71
+00:06:24.660 --> 00:06:29.750
+Hukuk bürolarından, güvenlik firmalarından değil; oyuncularından.
+
+72
+00:06:29.750 --> 00:06:36.760
+İnternette bir yerlerde iz bırakmış olan bu kişiyi bulmak için milyonlarca hayranın gözünü ödünç istedi.
+
+73
+00:06:36.760 --> 00:06:39.130
+Çünkü kod artık dışarıdaydı.
+
+74
+00:06:39.130 --> 00:06:49.980
+Gembe'nin kendi anlattığı versiyona göre kodu internete koyan o değildi: sohbet ettiği bir kanalda konuşma ele geçirilmiş, başkaları eline geçirdiklerini yayımlamıştı.
+
+75
+00:06:49.980 --> 00:06:54.750
+Bu iddia hiçbir zaman kesin biçimde doğrulanmadı, tartışmalı kaldı.
+
+76
+00:06:54.750 --> 00:06:58.400
+Ama dışarıdan bakan için hiçbir fark yaratmıyordu.
+
+77
+00:06:58.400 --> 00:07:04.450
+Birkaç gün içinde kod, oynanabilir bir hale getirilip dosya paylaşım ağlarına düştü.
+
+78
+00:07:04.450 --> 00:07:07.300
+Ve şimdi olanın ne olduğunu düşünün.
+
+79
+00:07:07.300 --> 00:07:15.110
+Bir stüdyonun 5 yılını verdiği, henüz bitmemiş oyunu, yarım kalmış haliyle, herkesin masaüstünde açılıyordu.
+
+80
+00:07:15.110 --> 00:07:25.160
+Kaplamaları eksik duvarlar, yerine oturmamış sesler, nihai oyunda hiç görünmeyecek karakterler, denenip vazgeçilmiş bölümler, tutmayan fikirler.
+
+81
+00:07:25.160 --> 00:07:32.490
+Bir sanatçının çöp kutusunu, defterinin karalama sayfalarını, silmeyi düşündüğü cümlelerini alıp meydana asmak gibiydi.
+
+82
+00:07:32.490 --> 00:07:38.700
+İnsanlar bitmemiş bir işi bitmiş bir işmiş gibi inceledi, karşılaştırdı, yargıladı.
+
+83
+00:07:38.700 --> 00:07:41.710
+Valve'ın içindeki etki bundan da ağırdı.
+
+84
+00:07:41.710 --> 00:07:46.320
+Yıllardır üzerinde çalıştıkları şeyin sürprizi ellerinden alınmıştı.
+
+85
+00:07:46.320 --> 00:07:55.570
+Bir de bunun üstüne, ağlarında aylardır bir yabancının dolaştığını, yazışmalarının okunduğunu öğrenmenin yarattığı o tuhaf ihlal duygusu vardı.
+
+86
+00:07:55.570 --> 00:08:06.900
+Newell yıllar sonra gecikmeyi açıklarken bunu şaşırtıcı bir dürüstlükle özetledi: asıl sebep sızıntı değildi, geriye kalan işin ne kadar çok olduğunu baştan yanlış hesaplamışlardı;
+
+87
+00:08:06.900 --> 00:08:13.110
+ama sızıntının ardından ekibin morali dibe vurduğunda o yanlış hesap iyice büyümüştü.
+
+88
+00:08:13.110 --> 00:08:18.360
+Yani sızıntı oyunu geciktirmedi; geciktiren şeyi taşınmaz hale getirdi.
+
+89
+00:08:18.360 --> 00:08:21.530
+Bu arada soruşturma sessizce yürüyordu.
+
+90
+00:08:21.530 --> 00:08:28.860
+Valve olayı Federal Soruşturma Bürosu'na taşımıştı ve Newell'ın çağrısının ardından binlerce ihbar geldi.
+
+91
+00:08:28.860 --> 00:08:30.750
+Çoğu işe yaramazdı.
+
+92
+00:08:30.750 --> 00:08:32.320
+Aylar geçti.
+
+93
+00:08:32.320 --> 00:08:37.890
+Half-Life 2'nin çıkış tarihi önce belirsizliğe, sonra bir sonraki yıla kaydı.
+
+94
+00:08:37.890 --> 00:08:45.860
+Oyun sonunda 16 Kasım 2004'te, ilk vaat edilen tarihten 1 yıldan fazla bir süre sonra raflara çıkacaktı.
+
+95
+00:08:45.860 --> 00:08:53.350
+Ama ondan çok önce, 2004'ün ilk aylarında, Valve'ın gelen kutusuna sıra dışı bir mektup düştü.
+
+96
+00:08:53.350 --> 00:08:57.960
+Mektubu yazan Gembe'ydi ve içeriği neredeyse inanılması güçtü.
+
+97
+00:08:57.960 --> 00:09:04.170
+Yaptığını itiraf ediyor, özür diliyor, ne yaptığını teknik ayrıntısıyla anlatıyordu.
+
+98
+00:09:04.170 --> 00:09:09.420
+Kendisini kötü biri olarak değil, yolunu şaşırmış biri olarak tarif ediyordu.
+
+99
+00:09:09.420 --> 00:09:21.390
+Ve sonra, o mektubu tarihe geçiren cümleyi kuruyordu: küçük araçlar yazdığını, ağ güvenliğinden anladığını, Valve gibi bir yerde çalışmayı gerçekten çok istediğini söylüyordu.
+
+100
+00:09:21.390 --> 00:09:27.760
+Şirketin kapısını kırmış, kasasını boşaltmış ve şimdi aynı şirketten iş istiyordu.
+
+101
+00:09:27.760 --> 00:09:32.050
+Üstelik tam olarak bu işten: güvenliklerini test etmekten.
+
+102
+00:09:32.050 --> 00:09:34.420
+Newell mektuba cevap verdi.
+
+103
+00:09:34.420 --> 00:09:36.150
+Yazışma sürdü.
+
+104
+00:09:36.150 --> 00:09:44.120
+Sürdü, çünkü artık bu yazışmayı Valve tek başına yürütmüyordu; her adım federal soruşturmacılarla birlikte planlanıyordu.
+
+105
+00:09:44.120 --> 00:09:52.730
+Karşı taraftan gelen her satır delil, her ayrıntı kimlik ipucuydu ve kısa sürede ortaya Almanya'da yaşayan genç bir adam çıktı.
+
+106
+00:09:52.730 --> 00:09:56.540
+26 Mart 2004'te telefon çaldı.
+
+107
+00:09:56.540 --> 00:09:59.710
+Gembe'yi bir iş görüşmesi bekliyordu.
+
+108
+00:09:59.710 --> 00:10:03.680
+Yaklaşık 40 dakika boyunca Valve çalışanlarıyla konuştu.
+
+109
+00:10:03.680 --> 00:10:13.570
+Sorular tam da bir işe alım görüşmesinde sorulacak türdendi: nasıl yaptın, hangi açığı kullandın, sunucuya nasıl girdin, hangi adımda ne düşündün.
+
+110
+00:10:13.570 --> 00:10:17.860
+Heyecanlıydı, hevesliydi ve bildiği her şeyi anlattı.
+
+111
+00:10:17.860 --> 00:10:21.190
+Hayatının fırsatını yakaladığını sanıyordu.
+
+112
+00:10:21.190 --> 00:10:25.160
+Aslında kayda geçen ayrıntılı bir itiraf veriyordu.
+
+113
+00:10:25.160 --> 00:10:31.050
+Görüşmenin sonunda ona bir sonraki adım söylendi: yüz yüze devam etmeliydiler.
+
+114
+00:10:31.050 --> 00:10:33.740
+Amerika'ya, Seattle'a gelecekti.
+
+115
+00:10:33.740 --> 00:10:40.110
+Uçak bileti ayarlanacak, karşılanacak, sonunda hayalindeki stüdyoyu içeriden görecekti.
+
+116
+00:10:40.110 --> 00:10:41.840
+Kabul etti.
+
+117
+00:10:41.840 --> 00:10:45.970
+Bilmediği şey, iniş kapısında onu kimin bekleyeceğiydi.
+
+118
+00:10:45.970 --> 00:10:54.420
+Plan basitti ve daha önce başka davalarda işe yaramıştı: şüpheliyi Amerikan topraklarına ayak bastırmak, orada tutuklamak.
+
+119
+00:10:54.420 --> 00:10:56.630
+O uçağa hiç binmedi.
+
+120
+00:10:56.630 --> 00:11:03.800
+7 Mayıs 2004 sabahı, Almanya'nın güneyinde bir evde, silahlı polislerin bağırışlarıyla uyandı.
+
+121
+00:11:03.800 --> 00:11:11.770
+Alman polisi, Amerikalı meslektaşlarıyla temas halindeydi ama beklemedi; kendi vatandaşını kendi topraklarında yakaladı.
+
+122
+00:11:11.770 --> 00:11:20.060
+Sorgunun başında ona Valve'ı bile sormadılar; önce o günlerde ortalığı kasıp kavuran başka bir bilgisayar solucanını sordular.
+
+123
+00:11:20.060 --> 00:11:22.270
+Valve sorusu sonra geldi.
+
+124
+00:11:22.270 --> 00:11:27.840
+Yaklaşık 2 hafta gözaltında kaldı, sonra yargılanmak üzere serbest bırakıldı.
+
+125
+00:11:27.840 --> 00:11:32.770
+Böylece hem tuzak boşa düştü hem de tuzağın amacı gerçekleşti.
+
+126
+00:11:32.770 --> 00:11:35.620
+Dava Kasım 2006'da görüldü.
+
+127
+00:11:35.620 --> 00:11:42.470
+Mahkemenin önündeki dosyada yalnızca Valve baskını yoktu; Gembe daha önce Agobot adında,
+
+128
+00:11:42.470 --> 00:11:52.200
+yani dünya çapında sayısız bilgisayarı ele geçirip uzaktan yönetilen ağlara katan bir zararlı yazılım ailesinin ilk sürümünü yazmıştı.
+
+129
+00:11:52.200 --> 00:11:57.770
+Savcılık bu yazılımın yol açtığı toplam zararı rakamlarla ispatlamakta zorlandı.
+
+130
+00:11:57.770 --> 00:12:05.100
+Hâkim, sanığın işbirliğini, zor çocukluğunu ve hayatını toparlama çabasını göz önünde tuttu.
+
+131
+00:12:05.100 --> 00:12:07.950
+Ceza 2 yıl ertelenmiş hapisti.
+
+132
+00:12:07.950 --> 00:12:10.000
+Gembe hapse girmedi.
+
+133
+00:12:10.000 --> 00:12:22.930
+Sonraki yıllarda bilgi güvenliği alanında çalıştı ve pişmanlığını defalarca dile getirdi; Valve'a yönelik sözü hep aynıydı: yaptığı şey için çok üzgündü, kimseye zarar vermek gibi bir niyeti hiç olmamıştı.
+
+134
+00:12:22.930 --> 00:12:31.380
+Half-Life 2 ise 16 Kasım 2004'te çıktı ve gecikmenin, sızıntının, bütün o yılın üstünden silindir gibi geçti.
+
+135
+00:12:31.380 --> 00:12:43.030
+Yayımlanan perakende rakamlarına göre 8,6 milyonu aşan satışa ulaştı, dönemin hemen bütün ödüllerini topladı ve oyun tasarımının konuşulma biçimini kalıcı olarak değiştirdi.
+
+136
+00:12:43.030 --> 00:12:46.200
+Ama asıl miras oyunun kendisinde değildi.
+
+137
+00:12:46.200 --> 00:12:56.730
+Half-Life 2'yi satın alan herkes, kutuyu açtığında bir sürprizle karşılaştı: diski taktıktan sonra oyunu başlatabilmek için Steam adlı bir programı kurmak,
+
+138
+00:12:56.730 --> 00:13:01.820
+hesap açmak ve internete bağlanıp ürünü etkinleştirmek zorundaydı.
+
+139
+00:13:01.820 --> 00:13:09.310
+Burada bir efsaneyi düzeltmek gerekiyor, çünkü sık sık yanlış anlatılır: Steam sızıntı yüzünden doğmadı.
+
+140
+00:13:09.310 --> 00:13:19.360
+Valve onu 2002'de duyurmuştu ve program 12 Eylül 2003'te, yani Newell'ın hırsızlığı açıkladığı günden yalnızca 3 hafta önce yayımlanmıştı.
+
+141
+00:13:19.360 --> 00:13:24.770
+Sızıntı Steam'i yaratmadı; Steam'in var oluş gerekçesini dünyanın gözüne soktu.
+
+142
+00:13:24.770 --> 00:13:35.780
+Valve'ın yıllardır anlatmaya çalıştığı "yazılım bir kutu değil, sürekli bağlı bir hizmettir" fikrine, hayatın kendisinden gelmiş, tartışılmaz bir kanıt sundu.
+
+143
+00:13:35.780 --> 00:13:38.630
+Karşılanışı hiç de dostça olmadı.
+
+144
+00:13:38.630 --> 00:13:46.760
+İnsanlar parasını verip fiziksel bir kutu aldıkları oyunu, çevrim içi bir hesaba kaydolmadan oynayamamaya öfkelendiler.
+
+145
+00:13:46.760 --> 00:13:49.290
+Sunucular ilk günlerde çöktü.
+
+146
+00:13:49.290 --> 00:13:58.860
+Bunun bir zorbalık, oyuncuyu şirkete kalıcı olarak bağlama girişimi olduğu söylendi ve dürüst olmak gerekirse, bu eleştiri tamamen haksız da değildi.
+
+147
+00:13:58.860 --> 00:14:01.550
+Ama zorunluluk işe yaradı.
+
+148
+00:14:01.550 --> 00:14:07.440
+Milyonlarca oyuncu, dünyanın en çok istenen oyununu oynayabilmek için bir hesap açtı.
+
+149
+00:14:07.440 --> 00:14:09.970
+O hesaplar bir daha kapanmadı.
+
+150
+00:14:09.970 --> 00:14:24.340
+Yamalar oradan geldi, güncellemeler oradan geldi, sonra başka şirketlerin oyunları oradan satılmaya başlandı ve bir oyunun korsanlığını önlemek için tasarlanan mekanizma, bilgisayar oyunculuğunun kalbi haline geldi.
+
+151
+00:14:24.340 --> 00:14:29.430
+Bugün aynı platformda aynı anda 30 milyondan fazla insan oyun oynuyor.
+
+152
+00:14:29.430 --> 00:14:32.280
+Hikâyenin en tuhaf tarafı da burada.
+
+153
+00:14:32.280 --> 00:14:38.010
+Bir ağdaki boş parola yüzünden çalınan oyun, herkesi bir ağa bağlayan oyun oldu.
+
+154
+00:14:38.010 --> 00:14:40.220
+Geriye bir şey daha kaldı.
+
+155
+00:14:40.220 --> 00:14:43.550
+O sızan, bitmemiş sürüm hiç kaybolmadı.
+
+156
+00:14:43.550 --> 00:14:56.800
+20 yılı aşkın süredir hayranlar onun içini karış karış kazıyor; vazgeçilmiş karakterleri, atılmış bölümleri, bambaşka bir hikâyenin izlerini kurup düzenliyor, tamamlanmamış fikirleri oynanabilir hale getiriyorlar.
+
+157
+00:14:56.800 --> 00:15:01.250
+Valve'ın çöpe attığı bir sürüm, çalındığı için korundu.
+
+158
+00:15:01.250 --> 00:15:06.660
+Bir suçun geriye bıraktığı en kalıcı şey, ironik biçimde, bir arşiv oldu.
+
+159
+00:15:06.660 --> 00:15:14.150
+Ve bütün bunların başlangıcında, bir şirketin milyonlarca dolarlık sırrının önünde duran kapıda, hiçbir şey yoktu.
+
+160
+00:15:14.150 --> 00:15:16.680
+Ne bir parola, ne bir uyarı.
+
+161
+00:15:16.680 --> 00:15:23.050
+Sadece boş bir kutu ve onu denemeyi akıl eden, oyunu herkesten önce görmek isteyen bir çocuk.
+
+162
+00:15:23.050 --> 00:15:26.060
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+163
+00:15:26.060 --> 00:15:29.390
+Yeni bir hikâyede yeniden buluşmak üzere.
