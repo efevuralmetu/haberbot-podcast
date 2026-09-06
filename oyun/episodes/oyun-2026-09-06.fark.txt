@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-06.mp3
+
+beklenen 1593 kelime | duyulan 1595 kelime | eşleşme %96.0
+sayı ifadesi: metinde 206, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...orman bölgesindeki küçük kasabada
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...kendi odasında oturuyordu adı
+      metin  : aksel gembe ydi
+      duyulan: axel gembeydi
+  DELETE   ...okulu erken bırakmış programlamayı
+      metin  : kendi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yer ilk half life
+      metin  : tı
+      duyulan: dı
+  REPLACE  ...basit sıkıcı ve korkutucu
+      metin  : derecede
+      duyulan: her yerde
+  REPLACE  ...sormuyor kayıt tutmuyordu böylece
+      metin  : gembe
+      duyulan: gembey
+  REPLACE  ...ın kardeşi yönetiyordu ve
+      metin  : ağ
+      duyulan: ağa
+  REPLACE  ...bakıyordu o sunucuda herkesin
+      metin  : yazabildiği
+      duyulan: geldiği
+  REPLACE  ...herkesin yazabildiği klasör vardı
+      metin  : gembe
+      duyulan: gembey
+  REPLACE  ...anahtarlarının durduğu bilgisayara orada
+      metin  : build
+      duyulan: bilt
+  REPLACE  ...için açılmış kimsenin aklına
+      metin  : gelmeyen
+      duyulan: vermeyen
+  REPLACE  ...ve orada tek başına
+      metin  : oturuyordu
+      duyulan: çıkıyordu
+  INSERT   ...newel ın kendi bilgisayarıydı
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...temizlik hiçbir şeyi değiştirmedi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...hiçbir şeyi değiştirmedi eylül
+      metin  : gembe
+      duyulan: te genbe
+  INSERT   ...eylül gembe half life
+      metin  : (yok)
+      duyulan: nin
+  DELETE   ...ama çaldığınız şey kez
+      metin  : elinizden
+      duyulan: (YOK — atlanmış)
+  INSERT   ...hiçbir önemi kalmıyor eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ufak şeyden haberi yokken
+      metin  : valve
+      duyulan: valvey
+  REPLACE  ...eylül de kaynak ağacının
+      metin  : kopyalandığını
+      duyulan: anlandığını
+  REPLACE  ...istedi çünkü kod artık
+      metin  : dışarıdaydı gembe nin
+      duyulan: dışardaydı genbenin
+  DELETE   ...koyan o değildi sohbet
+      metin  : ettiği
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...duvarlar yerine oturmamış sesler
+      metin  : nihai
+      duyulan: nihayi
+  REPLACE  ...nsanlar bitmemiş işi bitmiş
+      metin  : işmiş
+      duyulan: içmiş
+  REPLACE  ...gibi inceledi karşılaştırdı yargıladı
+      metin  : valve ın
+      duyulan: valvenin
+  DELETE   ...sızıntı değildi geriye kalan
+      metin  : işin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...aylar geçti half life
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...kaydı oyun sonunda kasım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...çıkacaktı ama çok önce
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...mektup düştü mektubu yazan
+      metin  : gembe ydi
+      duyulan: genbey di
+  REPLACE  ...kuruyordu küçük araçlar yazdığını
+      metin  : ağ
+      duyulan: ağa
+  REPLACE  ...işten güvenliklerini test etmekten
+      metin  : newel
+      duyulan: nivelle
+  DELETE   ...da yaşayan genç adam
+      metin  : çıktı
+      duyulan: (YOK — atlanmış)
+  INSERT   ...genç adam çıktı mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çıktı mart telefon çaldı
+      metin  : gembe yi
+      duyulan: genbey i
+  REPLACE  ...anlattı hayatının fırsatını yakaladığını
+      metin  : sanıyordu
+      duyulan: bekliyordu
+  REPLACE  ...şey iniş kapısında kimin
+      metin  : bekleyeceğiydi
+      duyulan: bekleyecekti
+  DELETE   ...plan basitti ve daha
+      metin  : önce
+      duyulan: (YOK — atlanmış)
+  INSERT   ...amacı gerçekleşti dava kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yalnızca valve baskını yoktu
+      metin  : gembe
+      duyulan: genbe
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-09-06.duyulan.txt

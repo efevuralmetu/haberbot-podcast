@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-06.mp3
+
+beklenen 1636 kelime | duyulan 1665 kelime | eşleşme %95.7
+sayı ifadesi: metinde 172, duyulanda 132  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...her organın atıklarını taşıyan
+      metin  : lenf
+      duyulan: lemf
+  INSERT   ...beyin hariç vücut ağırlığının
+      metin  : (yok)
+      duyulan: sini
+  INSERT   ...vücut ağırlığının oluşturup enerjinin
+      metin  : (yok)
+      duyulan: te ini
+  REPLACE  ...ince saydam kanallardır bunlar
+      metin  : lenf
+      duyulan: lenefes
+  REPLACE  ...şişlik olur o şişlik
+      metin  : lenf
+      duyulan: lemf
+  REPLACE  ...boynunuzdaki bezler şişer çünkü
+      metin  : lenf
+      duyulan: lemf
+  REPLACE  ...şu yazılmıştır beyin dokusunda
+      metin  : lenf
+      duyulan: lemf
+  INSERT   ...organ değildir ağırlığınızın yaklaşık
+      metin  : (yok)
+      duyulan: sini
+  INSERT   ...ama harcadığınız enerjinin yaklaşık
+      metin  : (yok)
+      duyulan: sini
+  REPLACE  ...arta kalan madde üretir
+      metin  : nöronlar
+      duyulan: neuronlar
+  REPLACE  ...parçalanır ve en meşhurları
+      metin  : amiloid
+      duyulan: amyloid
+  REPLACE  ...sorun üretilmeleri değil birikmeleridir
+      metin  : alzaymır
+      duyulan: alzheimer
+  INSERT   ...çıkması bekleniyor rakamlar tutmuyordu
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...tutmuyordu rochester üniversitesi nde
+      metin  : mayken
+      duyulan: myken
+  REPLACE  ...ın laboratuvarında çalışan jeffrey
+      metin  : iliff
+      duyulan: eliffe
+  REPLACE  ...penceer açtılar ve foton
+      metin  : mikroskobuyla
+      duyulan: mikroskopuyla
+  REPLACE  ...örtü oluştururlar bu uçlarda
+      metin  : akuaporin
+      duyulan: aquaporin
+  REPLACE  ...lenfatik kelimesinin birleşiminden beynin
+      metin  : lenf
+      duyulan: lemf
+  REPLACE  ...lenf sistemi yoktu ama
+      metin  : lenf
+      duyulan: lemf
+  INSERT   ...ettikten sonra nereye gidiyordu
+      metin  : (yok)
+      duyulan: en
+  INSERT   ...sonra nereye gidiyordu cevap
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...laboratuvardan aynı anda geldi
+      metin  : virginia
+      duyulan: virginya
+  REPLACE  ...geldi virginia üniversitesi nde
+      metin  : antuan luvo
+      duyulan: antoine louvo
+  REPLACE  ...kipnis helsinki üniversitesi nde
+      metin  : aleksanteri
+      duyulan: alexander
+  REPLACE  ...kanallarının hemen yanında gerçek
+      metin  : lenf
+      duyulan: lemf
+  REPLACE  ...bu damarlar boyundaki derin
+      metin  : lenf
+      duyulan: lemf
+  REPLACE  ...düğümlerine boşalıyordu yani beyin
+      metin  : lenf
+      duyulan: lemf
+  INSERT   ...aynı hızda mı çalışıyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...alan beyin hacminin yaklaşık
+      metin  : dördünü
+      duyulan: ünü
+  INSERT   ...daldığında bu oran yaklaşık
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ve ekip uyuyan farelerde
+      metin  : amiloid
+      duyulan: amyloid
+  INSERT   ...özelliği olmadığını gösteren kanıt
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu pompanın motorunu ize
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sapındaki mavi çekirdekten yani
+      metin  : lokus seruleus tan
+      duyulan: locus seruleustan
+  REPLACE  ...kullanılan uyku ilacı olan
+      metin  : zolpidem
+      duyulan: zolpiden
+  INSERT   ...giren izleyici madde miktarı
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...hatta ilaçla bozulabildiği gösterilmişti
+      metin  : (yok)
+      duyulan: tiki
+  REPLACE  ...imperial college yani imperial
+      metin  : koleji nden
+      duyulan: college inden
+  REPLACE  ...hayvan uyanıkken uykudayken ve
+      metin  : anestezi
+      duyulan: anestesi
+  REPLACE  ...ve çarpıcı olanı boya
+      metin  : uyuyan
+      duyulan: uyan
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-09-06.duyulan.txt

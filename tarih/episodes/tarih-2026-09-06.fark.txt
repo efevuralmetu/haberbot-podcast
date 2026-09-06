@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-06.mp3
+
+beklenen 2518 kelime | duyulan 2541 kelime | eşleşme %94.8
+sayı ifadesi: metinde 398, duyulanda 269  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dönüşüyordu i mparatorun lakabı
+      metin  : rangila ydı
+      duyulan: rancilaydı
+  INSERT   ...etmedi muhammed şah tahta
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kaldı sonrası çözülme hikayesidir
+      metin  : imparatorluğun
+      duyulan: te i mparatorluğun
+  REPLACE  ...imparatorluğun en yetenekli idarecisi
+      metin  : nizamülmülk asıf cah
+      duyulan: nizam ül mülk asifçah
+  REPLACE  ...devletini kurdu bengal avad
+      metin  : racputana
+      duyulan: raçputan a
+  REPLACE  ...vergi göndermeyi aksatmaya başladı
+      metin  : maratha
+      duyulan: de marat a
+  REPLACE  ...aksatmaya başladı maratha ordusu
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...hazinedeki en iyi taşlar
+      metin  : tahtta
+      duyulan: tahta
+  INSERT   ...yıl sürdü taht mart
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...ölçüleer göer boyu yaklaşık
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hakkında her şeyi anlatır
+      metin  : delhi
+      duyulan: te deli
+  REPLACE  ...gelen fransız mücevher tüccarı
+      metin  : jan batist tavernye
+      duyulan: can batis tavernier
+  INSERT   ...ve zümrüt geçirdi yakutların
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...baştan aşağı elmas ve
+      metin  : inciyle
+      duyulan: inci ile
+  INSERT   ...yazdı aynı salonun duvarında
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...emir hüsrev e atfedilen
+      metin  : beyit
+      duyulan: beyt
+  INSERT   ...toprakları geri aldı ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...babür topraklarına sığınıyordu ve
+      metin  : delhi
+      duyulan: deli
+  INSERT   ...bunu davetiye saydı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kasım ordusu hayber geçidini
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...oldu şubat ayının ortasında
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...ayının ortasında delhi nin
+      metin  : kilometer
+      duyulan: km
+  DELETE   ...yaklaşık kişi savaşabilecek durumdaydı
+      metin  : gerisi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...cesur ama tedbirsiz adam
+      metin  : dekkan dan çağrılan nizamülmülk
+      duyulan: dekkandan çağırılan nizam ül mülk
+  REPLACE  ...vardı devenin sırtına yerleştirilmiş
+      metin  : mafsallı
+      duyulan: mahsallı
+  INSERT   ...diğerine öküzlerle taşınıyordu zemburekler
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...dahil kişiydi ertesi gün
+      metin  : nizamülmülk
+      duyulan: nizam ül mürt
+  INSERT   ...yazar ertesi gün mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gün mart nadir şah
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...mümkün değildir mart sabahı
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...anlaşılamadı ama işe yaradı
+      metin  : delhi
+      duyulan: deli
+  INSERT   ...boyunca süren bu ayaklanmada
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...güneş doğarken nadir şah
+      metin  : atına
+      duyulan: hatına
+  REPLACE  ...çıktı şehrin ana caddesi
+      metin  : çandni çovk a
+      duyulan: çantni çovka
+  INSERT   ...şah kılıcını çekti saat
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...de uygulamıştı sonraki saat
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...gökyüzü kararıyordu bazı aileler
+      metin  : dışarıdakine
+      duyulan: dışardakine
+  REPLACE  ...bilgi vermeyenleer işkence edildi
+      metin  : sarrafların
+      duyulan: sarafların
+  REPLACE  ...dönüştü bu iş bittiğinde
+      metin  : delhi
+      duyulan: deli
+  INSERT   ...işleyecek elleri de istiyordu
+      metin  : (yok)
+      duyulan: doğum
+  ... ve 31 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: tarih-2026-09-06.duyulan.txt

@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-06.mp3
+
+beklenen 1226 kelime | duyulan 1230 kelime | eşleşme %98.6
+sayı ifadesi: metinde 112, duyulanda 107  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...açıyorsun sanki cevap orada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...üniversitesi nde çalışan psikolog
+      metin  : gabriyel radvanski
+      duyulan: gabriel radwansky
+  REPLACE  ...veriyor daha çok yanılıyor
+      metin  : radvanski
+      duyulan: radwanski
+  REPLACE  ...jeffrey zaks ve barbara
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...çeviriyor yeni odanın açılıyor
+      metin  : ışık
+      duyulan: işık
+  INSERT   ...gerekirse hikayenin devamı var
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...ipucuna bağlamak psikolog peter
+      metin  : golvitser
+      duyulan: golwitzer
+  REPLACE  ...sonraki toplantının içine sızardı
+      metin  : dünkü
+      duyulan: çünkü
+  REPLACE  ...yapmaya hazır olduğu şeye
+      metin  : ad
+      duyulan: at
+  REPLACE  ...gerisini zihin zaten yapıyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 9 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-09-06.duyulan.txt

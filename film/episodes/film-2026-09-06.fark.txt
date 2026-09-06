@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-06.mp3
+
+beklenen 1564 kelime | duyulan 1573 kelime | eşleşme %93.8
+sayı ifadesi: metinde 258, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...en etkili eleştirmenleri bu
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...filmi hitchcock un ve
+      metin  : welles
+      duyulan: veles
+  REPLACE  ...welles in önüne koyacaktı
+      metin  : brüksel
+      duyulan: bruksel
+  REPLACE  ...sürülmüş yahudi ailenin kızıydı
+      metin  : auşvits
+      duyulan: auschwitz
+  INSERT   ...susmasını bozmadan filme almak
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...filme almak yaşındayken sinemada
+      metin  : godar
+      duyulan: goddard
+  REPLACE  ...yaşındayken sinemada godar ın
+      metin  : piyero lö fu sunu
+      duyulan: piero löfusunu
+  REPLACE  ...fu sunu yani çılgın
+      metin  : piyero
+      duyulan: piero
+  INSERT   ...çoktan vermişti sinema yapacaktı
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...nın devlet film okulu
+      metin  : insas
+      duyulan: inesas
+  INSERT   ...girişti ve kazandığı parayla
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tören tören de bomba
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...michael snow un la
+      metin  : rejyon santral i
+      duyulan: region centrali
+  REPLACE  ...rastladı fransız görüntü yönetmeni
+      metin  : babet mangolt mangolt
+      duyulan: babette mangold mangold
+  REPLACE  ...ve daha keskin karardı
+      metin  : brüksel
+      duyulan: bruxelles
+  INSERT   ...brüksel e döndükten sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...boş koridorlardan oluşan film
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tanınmış oyuncularından geçen yıl
+      metin  : marienbad da
+      duyulan: marianne watt a
+  REPLACE  ...da filmindeki hayaletimsi kadını
+      metin  : bunyuel
+      duyulan: bunuel
+  REPLACE  ...aşan film çekilecekti yapımcılığı
+      metin  : korin
+      duyulan: corinne
+  REPLACE  ...yapımcılığı korin jenar ve
+      metin  : evlin pol
+      duyulan: evelyn paul
+  REPLACE  ...pol üstlendi görüntü yönetmeni
+      metin  : mangolt du
+      duyulan: mangolttu
+  REPLACE  ...mangolt du kurguyu patricia
+      metin  : canino
+      duyulan: ganino
+  INSERT   ...neredeyze tamamen kadınlardan oluşuyordu
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...da gösterildikten hafta sonra
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...başlık değil adresti jan
+      metin  : dielman ke dü
+      duyulan: diyelman kedi
+  REPLACE  ...dielman ke dü komers
+      metin  : brüksel
+      duyulan: brussels
+  REPLACE  ...komers brüksel yani jan
+      metin  : dielman
+      duyulan: diyelman
+  REPLACE  ...dielman ticaret rıhtımı numara
+      metin  : brüksel
+      duyulan: brussels
+  REPLACE  ...orada geçen hayattır jan
+      metin  : dielman
+      duyulan: diyelman
+  REPLACE  ...süzen bakış istemiyordu kamera
+      metin  : jan dielman
+      duyulan: john d elman
+  REPLACE  ...gibi ölçülü tekrarlar kaşığın
+      metin  : tabağa
+      duyulan: tabağı
+  REPLACE  ...başladığında seyirci ne olduğunu
+      metin  : sözle
+      duyulan: sözde
+  REPLACE  ...yatak odasındaki karşılaşmanın ardından
+      metin  : jan
+      duyulan: john
+  REPLACE  ...devam etmektir film mayıs
+      metin  : kan
+      duyulan: te cannes
+  INSERT   ...da vizyona girmesi ocak
+      metin  : (yok)
+      duyulan: yı
+  REPLACE  ...o günlerde fransız gazetesi
+      metin  : lö mond da
+      duyulan: le monde a
+  REPLACE  ...mond da yazan eleştirmen
+      metin  : lui markorel
+      duyulan: louis marcorel
+  REPLACE  ...markorel filmi sinema tarihinin
+      metin  : dişil
+      duyulan: dichylle
+  REPLACE  ...filmin peşinden gitti ama
+      metin  : jan dielman gişe
+      duyulan: jean dialman giche
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 67 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: film-2026-09-06.duyulan.txt

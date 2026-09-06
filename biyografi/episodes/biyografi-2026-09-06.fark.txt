@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-06.mp3
+
+beklenen 2918 kelime | duyulan 2937 kelime | eşleşme %94.9
+sayı ifadesi: metinde 420, duyulanda 303  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...haziran
+      metin  : barselona
+      duyulan: da barcelona
+  INSERT   ...mimar olduğunu bilmiyordu haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...katalonya nın güneyinde tarragona
+      metin  : ovasının
+      duyulan: obasının
+  REPLACE  ...sıcağında çocuk doğdu adını
+      metin  : antoni gaudi
+      duyulan: antony gaudí
+  REPLACE  ...adını antoni gaudi i
+      metin  : kornet
+      duyulan: cornet
+  REPLACE  ...olduğunu iddia eder aile
+      metin  : vaftiz
+      duyulan: vaftist
+  REPLACE  ...reus ta tutturmuştu ama
+      metin  : gaudi
+      duyulan: gaudí
+  REPLACE  ...taşta ve yaprakta saklıdır
+      metin  : gaudi
+      duyulan: gaudí
+  REPLACE  ...ailesi kuşaktır bakırcıydı babası
+      metin  : fransesk gaudi
+      duyulan: franses gaudí
+  INSERT   ...çok daha zor iştir
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...boyutlu cisme çevirebilmek gerekir
+      metin  : gaudi
+      duyulan: gaudí
+  REPLACE  ...için ağır aşağılanma olabilirdi
+      metin  : gaudi
+      duyulan: gaudí
+  INSERT   ...ölüm çocukluğunun sabit misafiriydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...daralan daier olarak kalacaktı
+      metin  : reus
+      duyulan: reios
+  REPLACE  ...hayatının sonuna kadar taşıyacaktı
+      metin  : barselona
+      duyulan: te barcelona
+  INSERT   ...eğitimi uzadı ama sonunda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cümleyi doğurdu okulun müdürü
+      metin  : elies rujen
+      duyulan: elias rüzen
+  REPLACE  ...kapının arkasına cenaze arabasını
+      metin  : yasçıları
+      duyulan: yazçıları
+  REPLACE  ...kurmuştu yaşında cebinde diplomasıyla
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...ilgi duyuyordu ilk işlerinden
+      metin  : mataro
+      duyulan: matarro
+  REPLACE  ...için tasarladığı yapılar oldu
+      metin  : barselona
+      duyulan: barcelona
+  INSERT   ...bu küçük teşhir dolabı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bulmak isteyeceği zihin gördü
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...mimarlık tarihinin en verimli
+      metin  : hami
+      duyulan: hamı
+  REPLACE  ...gaudi seramik fabrikatörü için
+      metin  : visens evi ni
+      duyulan: vizens evini
+  REPLACE  ...kuzey afrika yı çağrıştıran
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...mimarla değil kitapçıyla başlamıştı
+      metin  : juzep
+      duyulan: giuseppe
+  REPLACE  ...kitapçıyla başlamıştı juzep maria
+      metin  : bokabelya
+      duyulan: bocabella
+  REPLACE  ...yoksullaşan ve dinden uzaklaşan
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...belediyenin ya da zengin
+      metin  : hamiin
+      duyulan: hamiyin
+  REPLACE  ...insanların bağışlarıyla yükselen yapı
+      metin  : bokabelya
+      duyulan: bocabella
+  INSERT   ...arsa aldı ve mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atıldı i lk mimar
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...lk mimar fransisko de
+      metin  : paula del viyar
+      duyulan: paola delviar
+  REPLACE  ...i ş o sırada
+      metin  : del viyar
+      duyulan: delviar
+  REPLACE  ...ve düşündü yıllar içinde
+      metin  : del viyar
+      duyulan: delviar
+  REPLACE  ...duvarlar istiyordu ama yüksek
+      metin  : tonoz
+      duyulan: tonos
+  REPLACE  ...bu payandalara acımasızca koltuk
+      metin  : değneği
+      duyulan: değneyi
+  REPLACE  ...durması gerektiğini nasıl hesaplarsınız
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...bütün kilize için kullandı
+      metin  : barselona
+      duyulan: barcelona
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 85 kelime | duyulup metinde OLMAYAN: 114
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: biyografi-2026-09-06.duyulan.txt

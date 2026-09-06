@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-06.mp3
+
+beklenen 1592 kelime | duyulan 1616 kelime | eşleşme %94.2
+sayı ifadesi: metinde 247, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...iptal etti bazıları sokakta
+      metin  : kolunda
+      duyulan: kolumda
+  REPLACE  ...kolunda siyah bantla dolaştı
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...adı arthur conan doyle
+      metin  : du
+      duyulan: ldü
+  REPLACE  ...bu soruyu sorabilmesinin nedeni
+      metin  : edinburgh
+      duyulan: ebenburg
+  REPLACE  ...karakterin ilk taslaklarında adı
+      metin  : sherrinford
+      duyulan: sharon ford
+  REPLACE  ...anlatıcının adı da ormond
+      metin  : sacker
+      duyulan: sucker
+  INSERT   ...holmes ve john watson
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yani türkçedeki yaygın adıyla
+      metin  : kızıl
+      duyulan: kızıldosya
+  REPLACE  ...geri geldi sonunda ward
+      metin  : lock
+      duyulan: locke
+  INSERT   ...lock adlı yayınevi kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şartla eserin bütün hakları
+      metin  : sterline
+      duyulan: sterling e
+  REPLACE  ...karlı karakteri yaratıcısına kereliğine
+      metin  : sterlin
+      duyulan: sterling
+  REPLACE  ...yaratıcısına kereliğine sterlin kazandırdı
+      metin  : kızıl
+      duyulan: kızıldosya nin
+  REPLACE  ...ucuz noel dergisi olan
+      metin  : beeton
+      duyulan: beaton
+  INSERT   ...dergi editörü genç doyle
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...o yemekte roman ısmarladı
+      metin  : wilde
+      duyulan: wil
+  INSERT   ...böyle doğdu asıl kırılma
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da hikayeden kopmuyordu temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geçen tarihi romanlar yazıyordu
+      metin  : micah clarke
+      duyulan: meachah clark
+  INSERT   ...ihanet ettiğini düşündü kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ettiğini düşündü kasım annesi
+      metin  : mary ye
+      duyulan: mery e
+  REPLACE  ...kesindi yapmayacaksın yapamazsın yapmamalısın
+      metin  : mary
+      duyulan: mery
+  INSERT   ...yüksek bulduğu rakam söyledi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...rakam söyledi öykü için
+      metin  : sterlin
+      duyulan: winsternlin
+  INSERT   ...kapana kısıldığını hissetti nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...matematik profesörü icat etti
+      metin  : profesör
+      duyulan: prof
+  REPLACE  ...seçildi doyle eşi louisa
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...i sviçer ye gitti
+      metin  : mayringen
+      duyulan: meiringen
+  REPLACE  ...gitti mayringen kasabasının yukarısında
+      metin  : aaer
+      duyulan: aer
+  REPLACE  ...kayaların arasından yarığa döküldüğü
+      metin  : rayhenbah şelalesi ni
+      duyulan: reichenbach şelalesini
+  REPLACE  ...o anı anlatırken doyle
+      metin  : un
+      duyulan: lün
+  REPLACE  ...bitirebileceğini söylediğini aktardı doyle
+      metin  : a
+      duyulan: ye
+  INSERT   ...daha karanlık geçti ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yazdı son vaka aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...holmes un ölümünü anlatıyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...az görülen türdendi doyle
+      metin  : a
+      duyulan: ye
+  INSERT   ...ettiği hatta bu sayının
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...daha sonra ortaya çıkmış
+      metin  : kaynağı
+      duyulan: kaynağa
+  REPLACE  ...efsanedir büyük olasılıkla doyle
+      metin  : un
+      duyulan: nin
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: edebiyat-2026-09-06.duyulan.txt

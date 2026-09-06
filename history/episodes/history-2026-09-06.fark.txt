@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-06.mp3
+
+beklenen 2308 kelime | duyulan 2062 kelime | eşleşme %10.8
+sayı ifadesi: metinde 208, duyulanda 107  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...never stood up again
+      metin  : yılının bahar başında agra sarayı nın kabul salonunda hükümdar yıldır üzerinde çalışılan nesneye ilk kez
+      duyulan: kizil khayal dar tardar tahtachakar lup indirlan kime kyaredlan kime zahirlanan dizi hukum dar dan sonra oyediyashan da genshtavus tahtan
+  REPLACE  ...nesneye ilk kez oturdu
+      metin  : şah cihan tahta çıktığında babür hazinesinde mücevherlerin kısmının kasalarda karanlıkta durmasını israf saymıştı bunları görünür kılacak imparatorluğun servetini tek bakışta anlatacak oturma yeri istedi i şin başına saray kuyumcularının reisi bebadel han getirildi ortaya çıkan şey sandalye değil mimari ölçekte mücevher yapısıydı kaplı platform üzerinde zümrüt sütunun taşıdığı gölgelik sütunların tepesinde tavus kuşu
+      duyulan: adam muhammad shahtuh tahtachakaran kudret lisaray kuline kachilichin da tasfiyet mei bashardu
+  REPLACE  ...tepesinde tavus kuşu ve
+      metin  : her tavus çiftinin arasında yakut elmas zümrüt ve incilerle işlenmiş ağaç bu tavuslar yüzünden nesne takht e tavus yani tavus tahtı adıyla anıldı saray vakanüvisi abdülhamid lahori tahtın maliyetini rupi olarak kaydeder aynı hükümdarın agra
+      duyulan: ardan dan yirmidokuzil hukum surdu amatari hegechan lakabu savashia
+  REPLACE  ...aynı hükümdarın agra da
+      metin  : eşi için yaptırdığı türbe yani tac mahal kayıtlara göer bunun yarısı kadara mal olmuştu yani şah cihan dünyanın en ünlü mezar anıtına harcadığının katını üzerine oturacağı şeye harcadı tavus tahtı nı gören ve tarif eden yabancılardan fransız mücevher taciri jean baptiste tavernier ydi te babür sarayına kabul edilen tavernier mesleği gereği taşları saydı yaklaşık iri yakut ortalama kırat ağırlığında zümrüt ortalama kırat bunlar sadece görünen taşlarıydı tahtın üzerinde kaynakların çoğunun aktardığına göer babür hazinesinin en meşhur parçası da yerini almıştı kuh i nur yani işık dağı adıyla bilinen elmas de imparatorluk merkezi delhi ye taşındığında taht da taşındı yeni başkentin surlarla çevrili sarayı kırmızı kum taşından yükselen lal kila yani kızıl kale tahtı divan ı has denen özel kabul salonuna aldı o salonun duvarında bugün hala okunabilen beyit vardır yeryüzünde cennet varsa burasıdır burasıdır burasıdır taht bu cümlenin duruyordu aradan yıl geçti da kızıl kale de art arda tahta çıkarılıp indirilen kimi kör edilen kimi zehirlenen dizi hükümdardan sonra yaşında genç tavus tahtı na oturdu adı muhammed şah tı tahta çıkaran kudretli saray kliğini yıl içinde tasfiye etmeyi başardı ve ardından yıl hüküm sürdü ama tarihe geçen lakabı savaş ya da fetih değil yaşam biçimiydi
+      duyulan: fethi hdil yasham bichimidu
+  REPLACE  ...yaşam biçimiydi rangila yani
+      metin  : renkli keyfine düşkün bu lakap küçümseme olarak kullanıldı
+      duyulan: renklu kei fina dushkun bola kab kuchum sema olerak kulanildu
+  REPLACE  ...küçümseme olarak kullanıldı ama
+      metin  : muhammed şah ın sarayı kuzey
+      duyulan: muhammad shahan sarayi kuzayi
+  REPLACE  ...ın sarayı kuzey hindistan
+      metin  : kültür tarihinin en verimli atölyelerinden sarayın baş müzisyeni niyamet
+      duyulan: kultur tahrihinan envirimne atole lirendan sarayan bashmusicianin yamet
+  REPLACE  ...baş müzisyeni niyamet han
+      metin  : sanat adıyla
+      duyulan: sanata dila
+  REPLACE  ...sanat adıyla sadarang hayal
+      metin  : denen söyleme biçimini bugün bilinen olgunluğuna kavuşturan besteleri yazdı
+      duyulan: denan soileme bichimine bugyun bilinan olgun nuna kawushturan bestele riyazda
+  REPLACE  ...kavuşturan besteleri yazdı bu
+      metin  : bestelerin sözlerinde hükümdarın adı sürekli geçer yüzyıllar sonra hindistan da
+      duyulan: bestele rin suzle rinde hukum darun adusurek digechar yuzil larsan ra hindistanda
+  REPLACE  ...ve pakistan da sahneye
+      metin  : çıkan klasik müzik icracısı farkında
+      duyulan: chakan kalasik music ijraajase farkhanda
+  REPLACE  ...müzik icracısı farkında olmadan
+      metin  : muhammed şah ı öven dize söylüyor olabilir aynı dönemde
+      duyulan: muhammad shahu evan disesul yor ola bilir aina dunam de
+  REPLACE  ...olabilir aynı dönemde urdu
+      metin  : şiiri dekken den delhi ye taşındı
+      duyulan: shiri dek kyan dan deli etashande
+  REPLACE  ...delhi ye taşındı ve
+      metin  : başkentte kök saldı
+      duyulan: bashkan te kuk salde
+  REPLACE  ...başkentte kök saldı kathak
+      metin  : dansı
+      duyulan: dan se
+  REPLACE  ...saldı kathak dansı sarayda
+      metin  : biçimlendi
+      duyulan: bichim lande
+  REPLACE  ...sarayda biçimlendi duvar resmi
+      metin  : minyatür
+      duyulan: minyatur
+  REPLACE  ...duvar resmi minyatür hat
+      metin  : hepsi işledi sorun sarayın duvarlarının dışındaydı i mparatorluğun en yetenekli
+      duyulan: hepsy ishleda soran sarayin duvar lernan dushandayda imperator lun enye tenekli
+  REPLACE  ...mparatorluğun en yetenekli devlet
+      metin  : adamı sayılan nizamülmülk merkezdeki hizip kavgalarından bıkıp te dekken e çekildi
+      duyulan: adamu sa ilan nizamulmuk markezde kehisip kawgalaran dambuk kap binyaduzir midrte dek kene chekhilde
+  REPLACE  ...dekken e çekildi ve
+      metin  : orada fiilen kendi devletini
+      duyulan: orda filan kendide velet inu
+  REPLACE  ...kendi devletini kurdu bengal
+      metin  : avadh pencap giderek özerkleşti vergileri kendilerine ayırıp merkeze
+      duyulan: awad panchap ki deer kuzark leishte wargilir kandilir ne ayrup markeze
+  REPLACE  ...kendilerine ayırıp merkeze sembolik
+      metin  : meblağlar gönderdiler güneyde maratha güçleri kuzeye doğru genişledi
+      duyulan: mebla alar gandar dilar gunid e marata guchlir kuzayad ur genishlide binyaduz utusiede
+  REPLACE  ...kuzeye doğru genişledi de
+      metin  : maratha atlıları delhi nin banliyölerine
+      duyulan: marata atular delinin banyulir ne
+  REPLACE  ...delhi nin banliyölerine kadar
+      metin  : geldiler
+      duyulan: gal dilar
+  REPLACE  ...banliyölerine kadar geldiler ve
+      metin  : şehri savunmakla görevli ordu durduramadı kağıt üzerinde babür ordusu hala dünyanın
+      duyulan: shehrisavun makla gurevlu urdu durduramatu khatu ziren de baabir urdu so halayadun yanan
+  REPLACE  ...ordusu hala dünyanın en
+      metin  : kalabalık ordularından ama bu kalabalık birbirine
+      duyulan: kalabaluk urdu laren danbiride amabuk kalabaluk ne
+  REPLACE  ...kalabalık birbirine tabi olmayan
+      metin  : valilerin kendi maiyetlerinin toplamıydı
+      duyulan: wali laren kandimayet laren in toplamayda
+  REPLACE  ...maiyetlerinin toplamıydı tek komuta
+      metin  : zinciri
+      duyulan: zinjier
+  REPLACE  ...tek komuta zinciri tek
+      metin  : eğitim standardı
+      duyulan: eitim standarda
+  REPLACE  ...tek eğitim standardı tek
+      metin  : teçhizat düzeni yoktu topçusu ağırdı
+      duyulan: techizat du zeni okto taap chusu aarda
+  REPLACE  ...yoktu topçusu ağırdı ve
+      metin  : yavaştı süvarisi zırhlıydı
+      duyulan: yavashta suvarisi zirhleida
+  REPLACE  ...yavaştı süvarisi zırhlıydı ve
+      metin  : kılıçla dövüşüyordu fillerin sayısı hala prestij ölçüsüydü
+      duyulan: kalichla devishu aarda filaren sayize halayabir prestijol chusudu
+  REPLACE  ...ölçüsüydü sarayda hayal besteleri
+      metin  : okunurken batıda ad yükseliyordu
+      duyulan: okunur ken baatadabir adyuk selyurdu
+  REPLACE  ...batıda ad yükseliyordu nadir
+      metin  : şah de horasan da afşar türkmen boyuna
+      duyulan: sha binaltuz eksansekizde horasandha afshar turkman boyina
+  REPLACE  ...türkmen boyuna mensup yoksul
+      metin  : ailede doğdu çocukluğu esaret
+      duyulan: aile dadodu shojuklu esa retve kachishla gechte genciyashta silahibir gurubakatildu sonro o gurubun bashanagechte iranan safewi duzeni afkanistila asa altan da chakar ken o unje safewi shaisa desi tahmaspun hi zmetin debir komutanolarakun echchikte afkanar iran dan surdu osman lalar la
+  REPLACE  ...doğdu çocukluğu esaret ve
+      metin  : kaçışla geçti genç yaşta silahlı gruba katıldı sonra o grubun başına geçti i ran ın safevi düzeni afgan istilası çökerken o önce safevi şehzadesi tahmasb ın hizmetinde komutan olarak öne çıktı afganları i ran dan sürdü osmanlılarla ve ruslarla savaştı kaybedilen toprakları geri aldı da muğan ovasında
+      duyulan: ruslar la savashte ke bidilin topraklar ge ralda de muhanovasandha
+  REPLACE  ...muğan ovasında toplanan kurultayda
+      metin  : safevi hanedanının
+      duyulan: safewi hanidanan
+  REPLACE  ...safevi hanedanının yerine kendisi
+      metin  : taç giydi
+      duyulan: tachgeedu
+  REPLACE  ...kendisi taç giydi delhi
+      metin  : ile arasındaki gerginliğin resmi gerekçesi sınırdı i ran
+      duyulan: ilayar asandaki gyargin lien rezmi gerekchesi sunurdu iran
+  REPLACE  ...sınırdı i ran dan
+      metin  : kaçan
+      duyulan: kachan
+  ... ve 109 fark daha
+
+metinde olup DUYULMAYAN: 2067 kelime | duyulup metinde OLMAYAN: 1823
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-09-06.duyulan.txt

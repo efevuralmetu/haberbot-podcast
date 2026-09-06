@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-06.mp3
+
+beklenen 2003 kelime | duyulan 2014 kelime | eşleşme %96.8
+sayı ifadesi: metinde 198, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ders veren adamdı aristoteles
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...kireçlendirip işlevsiz bırakmış amigdala
+      metin  : tehdidi
+      duyulan: tehditi
+  REPLACE  ...hissetmiyor amerikalı araştırmacı justin
+      metin  : faynstayn
+      duyulan: feinstein
+  INSERT   ...justin faynstayn ve ekibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sinyali üreten dever kapalıydı
+      metin  : faynstayn
+      duyulan: feinstein
+  INSERT   ...kapalıydı faynstayn ın ekibi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...okutan gece eve dönerken
+      metin  : sokağı değiştirten
+      duyulan: sokağa değiştiren
+  REPLACE  ...ahlak felsefesinde cesaretin adı
+      metin  : şecaattir
+      duyulan: şekaattir
+  REPLACE  ...ranlı düşünür i bn
+      metin  : miskeveyh
+      duyulan: i miskevey
+  REPLACE  ...diye çevrilir i bn
+      metin  : miskeveyh
+      duyulan: i miskevey
+  REPLACE  ...öfke gücünün erdemi ize
+      metin  : şecaattir
+      duyulan: şekaattir
+  REPLACE  ...delice cüret sinip büzülürse
+      metin  : cübn
+      duyulan: cümle
+  REPLACE  ...büzülürse cübn çıkar korkaklık
+      metin  : şecaat
+      duyulan: şekaat
+  REPLACE  ...tusi de ahlak ı
+      metin  : nasıri
+      duyulan: nasiri
+  INSERT   ...arasında tartışmalıdır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...i bn hacer el
+      metin  : askalani
+      duyulan: azkalani
+  REPLACE  ...tasavvuf ve ahlak literatüründe
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  REPLACE  ...hacib in yılında tamamladığı
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  INSERT   ...binememektir pervasızlık dizgini bırakıp
+      metin  : (yok)
+      duyulan: nala
+  INSERT   ...kez laboratuvarda gösteren deney
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gösteren deney psikolog solomon
+      metin  : aş
+      duyulan: ache
+  REPLACE  ...aş tarafından yapıldı ve
+      metin  : düzeneği
+      duyulan: düzeneyi
+  INSERT   ...sonuçlar şuydu katılımcıların yaklaşık
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...bedeller ürettiği anlar var
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...üreten şirketin mühendislerinden roger
+      metin  : buajoli
+      duyulan: buacoli
+  REPLACE  ...koydu roketin bölümlerini birleştiren
+      metin  : contalar
+      duyulan: kontalar
+  INSERT   ...ve o gece hava
+      metin  : (yok)
+      duyulan: doto
+  REPLACE  ...daha soğuk olacaktı sertleşen
+      metin  : conta
+      duyulan: konta
+  REPLACE  ...ertesi sabah challenger adlı
+      metin  : mekik havalandı
+      duyulan: meki kavalandı
+  REPLACE  ...kişinin ölümüne yol açtı
+      metin  : buajoli
+      duyulan: buacoli
+  REPLACE  ...kendi çevresinde dışlandı kariyeri
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...gerçeği bilen tek kişi
+      metin  : buajoli
+      duyulan: buacoli
+  INSERT   ...tutulmaya başlanmıştır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...arıtılması yani sizi bugün
+      metin  : susturan
+      duyulan: duran
+  REPLACE  ...uri nili ve yadin
+      metin  : dudai nin
+      duyulan: duday ının da
+  DELETE   ...gönüllüler beyin tarayıcısının içine
+      metin  : alındı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sesi bastırılıyordu ama korku
+      metin  : hiç doğmamış
+      duyulan: olmamış
+  REPLACE  ...koşuludur yeterli koşulu değil
+      metin  : yönü
+      duyulan: yünü
+  INSERT   ...cüret aynı i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...misiniz diye sormak yanlış
+      metin  : hesaplanan
+      duyulan: kullanan
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: felsefe-2026-09-06.duyulan.txt

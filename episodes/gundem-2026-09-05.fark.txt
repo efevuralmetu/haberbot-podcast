@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-05.mp3
+
+beklenen 1546 kelime | duyulan 1557 kelime | eşleşme %92.7
+sayı ifadesi: metinde 348, duyulanda 182  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...platformunun imha edilmesinin ardından
+      metin  : brent petrolün
+      duyulan: brand petrol ün
+  REPLACE  ...hep birlikte göz atalım
+      metin  : abd
+      duyulan: ebide
+  REPLACE  ...ve kral hüseyin hava
+      metin  : üslerini
+      duyulan: üstlerini
+  REPLACE  ...göer savunma bakanı pete
+      metin  : hegseth
+      duyulan: hexett
+  INSERT   ...ediyor gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...srail saldırılarında kişinin hayatını
+      metin  : kaybettiği
+      duyulan: yaptığı
+  REPLACE  ...kişi yaralandı birleşmiş milletler
+      metin  : bünyesindeki
+      duyulan: büyüyesi ndeki
+  REPLACE  ...erken seçim tartışması sürüyor
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...trump savunma bakanı pete
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...atadı trump ayrıca beyaz
+      metin  : saray
+      duyulan: sarayı
+  REPLACE  ...saray da grup hasidik
+      metin  : hahamı
+      duyulan: ahamı
+  INSERT   ...kabul etti bu görüşme
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...başlık anthropic temmuz sonunda
+      metin  : claude
+      duyulan: clod
+  REPLACE  ...üretim altyapısına izinsiz eriştiğini
+      metin  : kamuoyuyla
+      duyulan: kamuoyu ile
+  REPLACE  ...yayımladı ve siber savunmada
+      metin  : iş
+      duyulan: işbirliği
+  REPLACE  ...savunmada iş çağrısında bulundu
+      metin  : öte yandan
+      duyulan: btw
+  REPLACE  ...geniş çaplı kesinti nedeniyle
+      metin  : chatgpt claude ceminay
+      duyulan: chat gpt clod cemin ay
+  REPLACE  ...chatgpt claude ceminay ve
+      metin  : grok
+      duyulan: groh
+  DELETE   ...ne kadar bağımlı hale
+      metin  : geldiğini
+      duyulan: (YOK — atlanmış)
+  DELETE   ...sistemleri ve robotlar öne
+      metin  : çıktı asus
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yeni görüntü teknolojisi dlss
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...link ize wi fi
+      metin  : standardını
+      duyulan: standartını
+  INSERT   ...düzeyindeydi i şsizlik oranı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...merkez bankası başkanı kevin
+      metin  : warsh
+      duyulan: varsh
+  REPLACE  ...kevin warsh ın jackson
+      metin  : hole
+      duyulan: hal
+  REPLACE  ...bu tabloyu satışla karşıladı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...değer kaybederek dolara indi
+      metin  : ham
+      duyulan: han
+  REPLACE  ...ile finansal kiralama ve
+      metin  : faktoring
+      duyulan: factoring
+  REPLACE  ...gram lira bandında bulunuyor
+      metin  : tüi k
+      duyulan: tuik
+  INSERT   ...çekirdek enflasyon göstergesi yıllık
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...ağustos toplantılarında politika faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve esnaf buluşmalarının ardından
+      metin  : kırklareli nde
+      duyulan: elinde
+  REPLACE  ...dönemini kapsayacak biçimde şirketten
+      metin  : belediyeyle
+      duyulan: belediye ile
+  REPLACE  ...karadeniz ereğli ye giden
+      metin  : tuğberk
+      duyulan: tuberk
+  REPLACE  ...kuru yük gemisi çarpıştı
+      metin  : rulo sac
+      duyulan: rulosak
+  REPLACE  ...ulaşılamadı deniz kuvvetleri nin
+      metin  : tcg
+      duyulan: tsg
+  REPLACE  ...kurtarma ve destek gemisi
+      metin  : enkazın
+      duyulan: enkağızın
+  REPLACE  ...halkına yansıyan tarafında ize
+      metin  : reel
+      duyulan: real
+  REPLACE  ...i stanbul da düzenlenecek
+      metin  : gitex
+      duyulan: gtex
+  REPLACE  ...dolu formula i talya
+      metin  : gran pri si
+      duyulan: grand prix i
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: gundem-2026-09-05.duyulan.txt

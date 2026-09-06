@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-06.mp3
+
+beklenen 1658 kelime | duyulan 1672 kelime | eşleşme %93.3
+sayı ifadesi: metinde 251, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...çamura dönsün diye kolkata
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...sokağa girdiğinizde şehrin gürültüsü
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bekler burası kumartuli adı
+      metin  : bengalcede
+      duyulan: bengalçe de
+  INSERT   ...kuruluş hikayesinin doğrudan parçası
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sovabazar sarayının kurucusu raja
+      metin  : nabakrişna deb in
+      duyulan: nabakrishnadebin
+  REPLACE  ...deb in nadia bölgesindeki
+      metin  : krişnanagar
+      duyulan: krishnanagar
+  REPLACE  ...tanrıça istedi talep büyüyünce
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...verildi i ngiliz kayıtlarına
+      metin  : kumartoli
+      duyulan: cumartoli
+  REPLACE  ...kumartoli diye geçen bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...geçen bu ad zamanla
+      metin  : kumartuli
+      duyulan: cumartoli
+  REPLACE  ...bambudan iskeletle başlar buna
+      metin  : kathamo
+      duyulan: katamo
+  REPLACE  ...başlar buna kathamo denir
+      metin  : tanrıçanın
+      duyulan: tanrıcanın
+  REPLACE  ...ve gözleri çizer buna
+      metin  : çokkhudan
+      duyulan: çokkudan
+  REPLACE  ...pandallara taşınır gün boyunca
+      metin  : kolkata
+      duyulan: kolokata
+  REPLACE  ...yatağa dönüşür sonra gün
+      metin  : vicaya daşami
+      duyulan: vigaya daşamı
+  REPLACE  ...ve suya bırakılır buna
+      metin  : bisarcan
+      duyulan: sarcan
+  REPLACE  ...bırakılır buna bisarcan denir
+      metin  : ganj ın
+      duyulan: gancın
+  REPLACE  ...dan geçen kolu olan
+      metin  : hugli
+      duyulan: hügli
+  REPLACE  ...kolu olan hugli yani
+      metin  : hugli
+      duyulan: hügli
+  REPLACE  ...burada yalnızca kil vermez
+      metin  : keer de
+      duyulan: kerede
+  REPLACE  ...keer de sınır olmuştur
+      metin  : keer de
+      duyulan: kerede
+  REPLACE  ...keer de sadece almıştır
+      metin  : bengal i
+      duyulan: te bengali
+  REPLACE  ...arasında rakamda buluşur kırsaldan
+      metin  : kalküta
+      duyulan: kolkata
+  REPLACE  ...tarihli çalışması poverty and
+      metin  : famines
+      duyulan: feminists
+  REPLACE  ...kalmadığı için öldüler ressam
+      metin  : çittaprosad midnapur
+      duyulan: çittaprosat mitnapur
+  REPLACE  ...adıyla basıldı sömürge yönetimi
+      metin  : nüshanın
+      duyulan: nüşan ın
+  REPLACE  ...olduğu kadar somut kayıptı
+      metin  : jüt
+      duyulan: cüt
+  REPLACE  ...jüt tarlaları doğuda kalmıştı
+      metin  : jütü
+      duyulan: cüt ü
+  REPLACE  ...jütü işleyen fabrikalar ize
+      metin  : hugli
+      duyulan: hooghly
+  INSERT   ...ilgili biriminin verilerine göer
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...devletin hazırladığı kamplar bu
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...örgütlü biçimde işgal edildi
+      metin  : bengalcede
+      duyulan: bengalçe de
+  REPLACE  ...işgal edildi bengalcede buna
+      metin  : cabar dakhal
+      duyulan: cabarda kal
+  REPLACE  ...kurulan ilk büyük yerleşim
+      metin  : bicoygar
+      duyulan: biçoygar
+  REPLACE  ...çekti kendi okullarını kurdu
+      metin  : bicoygar
+      duyulan: biçoygar te
+  REPLACE  ...okullarını kurdu bicoygar kendi
+      metin  : kolejine
+      duyulan: kolecine
+  REPLACE  ...konaklarının avlusunda yapılan aile
+      metin  : ayiniydi
+      duyulan: ayniydi
+  REPLACE  ...aile ayiniydi ama daha
+      metin  : hugli
+      duyulan: da hügli
+  REPLACE  ...ortak tören düzenlediği anlatılır
+      metin  : barowari
+      duyulan: barovari
+  REPLACE  ...mülteci kolonilerinin ihtiyacına uyuyordu
+      metin  : konağı
+      duyulan: konağa
+  ... ve 31 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: seyahat-2026-09-06.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-06.mp3
+
+beklenen 2498 kelime | duyulan 2506 kelime | eşleşme %94.8
+sayı ifadesi: metinde 409, duyulanda 282  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...görünmez kılmak gerekiyordu lazer
+      metin  : ışını
+      duyulan: ışığını
+  REPLACE  ...taşına uzun metin kazınıyor
+      metin  : sdok kok tom
+      duyulan: stokkoktom
+  REPLACE  ...kalanında kısaca sınır yazıtı
+      metin  : diyeceğim
+      duyulan: diyeceğin
+  REPLACE  ...yarısı sanskritçe yarısı eski
+      metin  : kmer
+      duyulan: kemer
+  REPLACE  ...çıkıyor adı cayavarman öncesinde
+      metin  : kmer
+      duyulan: kemer
+  REPLACE  ...yönetiyor kralın baş rahibi
+      metin  : şivakaivalya
+      duyulan: shiva kayvalya
+  REPLACE  ...de ülkesinin artık yazıtın
+      metin  : java
+      duyulan: cava
+  REPLACE  ...haraç ödemeyeceğini duyuruyor o
+      metin  : java nın
+      duyulan: cavanın
+  REPLACE  ...bağlayan sonraki yıl boyunca
+      metin  : kmer
+      duyulan: kömer
+  REPLACE  ...metreye yaklaşıyor bugünkü adı
+      metin  : pnom kulen
+      duyulan: pinomkulen
+  REPLACE  ...yüzyılın sonunda fransız araştırmacı
+      metin  : emonye
+      duyulan: amonye
+  REPLACE  ...burası olması gerektiğini söyledi
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...söyledi otuzlarda sanat tarihçisi
+      metin  : filip
+      duyulan: philip
+  REPLACE  ...sonra çukuru geri doldurdu
+      metin  : altmışlarla
+      duyulan: larla ler
+  REPLACE  ...başkent değil olsa olsa
+      metin  : hac
+      duyulan: haç
+  REPLACE  ...su var kenarları uçurum
+      metin  : yetmişlerden doksanların
+      duyulan: lerden ların
+  REPLACE  ...ortasına kadar dağ kızıl
+      metin  : kmerler in
+      duyulan: kemerlerin
+  INSERT   ...tam anlamıyla ölümcül fikirdi
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...ölümcül fikirdi fransız arkeolog
+      metin  : jan batist şövans
+      duyulan: jean baptiste chauvin
+  REPLACE  ...o piramide yerel adıyla
+      metin  : rong çen e
+      duyulan: rongchenne
+  REPLACE  ...çinlilerin bahçesi ne döndü
+      metin  : ad
+      duyulan: at
+  REPLACE  ...anlatan halk efsanesinden geliyor
+      metin  : şövans
+      duyulan: chauvin
+  REPLACE  ...hipotez vardı kanıtı örten
+      metin  : şey ize
+      duyulan: şeyze
+  REPLACE  ...işe girer her noktanın
+      metin  : yaprağa
+      duyulan: yaprağı
+  INSERT   ...görünür hale gelir nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...evans ın koordine ettiği
+      metin  : khmer archaeology
+      duyulan: kmer arkeoloji
+  REPLACE  ...ettiği khmer archaeology lidar
+      metin  : consortium
+      duyulan: konsorsiyum
+  REPLACE  ...consortium yani kmer arkeoloji
+      metin  : lazer
+      duyulan: laser
+  REPLACE  ...birleştirmesiyle kuruldu kamboçya nın
+      metin  : angkor
+      duyulan: ankor
+  REPLACE  ...uçtu toplam uçuş süresi
+      metin  : saatti
+      duyulan: saattir
+  REPLACE  ...süresi saatti taranan alan
+      metin  : kilometrekaer angkor
+      duyulan: kilometer kaer ankor
+  REPLACE  ...üzerinde küçük blok o
+      metin  : bloğun
+      duyulan: blokun
+  REPLACE  ...o bloğun büyüklüğü sadece
+      metin  : kilometrekareydi
+      duyulan: kilometer kareydi
+  REPLACE  ...dağın tamamını taramaya yetmiyordu
+      metin  : şövans
+      duyulan: schovans
+  INSERT   ...ipucu değildi plandı sonuçlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kampanya örgütlendi cambodian archaeological
+      metin  : lidar
+      duyulan: leader
+  REPLACE  ...initiative yani kamboçya arkeolojik
+      metin  : lazer
+      duyulan: lezer
+  INSERT   ...kamboçya arkeolojik lazer girişimi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...girişimi bu ekip yaklaşık
+      metin  : kilometrekarelik
+      duyulan: lik
+  DELETE   ...kez kulen dağı na
+      metin  : kilometrekaer
+      duyulan: (YOK — atlanmış)
+  ... ve 53 fark daha
+
+metinde olup DUYULMAYAN: 106 kelime | duyulup metinde OLMAYAN: 111
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: arkeoloji-2026-09-06.duyulan.txt
