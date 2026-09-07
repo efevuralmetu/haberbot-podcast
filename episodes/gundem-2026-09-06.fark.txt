@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-06.mp3
+
+beklenen 1412 kelime | duyulan 1426 kelime | eşleşme %94.2
+sayı ifadesi: metinde 433, duyulanda 213  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuveyt ve birleşik arap
+      metin  : emirlikleri ndeki üsleer
+      duyulan: emirliklerindeki üstleer
+  REPLACE  ...açıkladı i ran cumhurbaşkanı
+      metin  : mesud
+      duyulan: mesut
+  REPLACE  ...pezeşkiyan ize haziranda pakistan
+      metin  : arabuluculuğuyla
+      duyulan: ara buluculuğu ile
+  REPLACE  ...gitti ukrayna devlet başkanı
+      metin  : volodimir zelenski
+      duyulan: volodymyr zelensky
+  REPLACE  ...seviyesini yüksek düzeye çıkardı
+      metin  : bonn daki
+      duyulan: bondaki
+  REPLACE  ...yoğunlaşıyor rusya dışişleri bakanı
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...ize karşılık olarak moskova
+      metin  : saint
+      duyulan: st
+  REPLACE  ...i nstitut yani göte
+      metin  : enstitüsü
+      duyulan: i nstitüsü
+  REPLACE  ...arasındaki çatışmalarda ölü sayısı
+      metin  : aştı nijerya
+      duyulan: yi açtı nigeria
+  REPLACE  ...kongo cumhuriyeti nin başkenti
+      metin  : kinşasa
+      duyulan: kinshasa
+  INSERT   ...de ani sel felaketinde
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...bu işlem nvidia nın
+      metin  : aralıkta groq
+      duyulan: aralık ta grok
+  REPLACE  ...oldu anthropic ize claude
+      metin  : fable nokta
+      duyulan: fabel
+  DELETE   ...fable nokta ve mythos
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ajan tabanlı iş yüklerinde
+      metin  : (yok)
+      duyulan: e
+  DELETE   ...maliyet düşüşü sağladığını mythos
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ile birlikte bu yaklaşımı
+      metin  : gyirmi
+      duyulan: girme
+  REPLACE  ...i daresi tesla nın
+      metin  : cybercab
+      duyulan: cyberjab
+  REPLACE  ...tencent destekli çip üreticisi
+      metin  : enflame
+      duyulan: enflam
+  REPLACE  ...üreticisi enflame technology nin
+      metin  : şanghay halka
+      duyulan: şangay halkı
+  REPLACE  ...jones endeksi artışla puana
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...vadeli program bugün saat
+      metin  : kamuoyuna
+      duyulan: de kamu oyuna
+  INSERT   ...açıklanacak yürürlükteki programda büyümenin
+      metin  : (yok)
+      duyulan: da de de
+  INSERT   ...büyümenin olması enflasyonun ize
+      metin  : (yok)
+      duyulan: da de de
+  DELETE   ...öne çıkması bekleniyor türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  DELETE   ...kur ve borsa tarafında
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işlem görüyor gün içi
+      metin  : bant
+      duyulan: band
+  REPLACE  ...cumhuriyet lira seviyesinde fiyatlandı
+      metin  : bist
+      duyulan: beste
+  REPLACE  ...yargıtay ın önünde ve
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...muhalefet iddiasıyla açılan ayrı
+      metin  : dava ile
+      duyulan: davayla
+  REPLACE  ...marmara denizi nde batan
+      metin  : mv tuğberk
+      duyulan: mevvi tuberk
+  REPLACE  ...ve bugün i talya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...normallerinin üzerinde seyredecek karadeniz
+      metin  : kıyıları ile
+      duyulan: kıyılarıyla
+  REPLACE  ...bekleniyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-09-06.duyulan.txt

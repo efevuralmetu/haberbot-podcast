@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-07.mp3
+
+beklenen 2187 kelime | duyulan 2215 kelime | eşleşme %97.0
+sayı ifadesi: metinde 242, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...mı bile emin değilsin
+      metin  : (yok)
+      duyulan: kavşakta kamera var mı bile emin değilsin kavşakta kamera var mı bile emin değilsin
+  REPLACE  ...döküldü sokrates in karşısına
+      metin  : glaukon
+      duyulan: glaucon
+  REPLACE  ...öldürmüş ve tahta oturmuş
+      metin  : glaukon un
+      duyulan: glauco nun
+  REPLACE  ...iner şimdi dürüst olalım
+      metin  : glaukon un
+      duyulan: glauco nun
+  REPLACE  ...döndüğü anda tanıyamayacağınız dönüşebiliyor
+      metin  : glaukon a
+      duyulan: glauco na
+  INSERT   ...ve tuhaf kanıt var
+      metin  : (yok)
+      duyulan: kiki da
+  REPLACE  ...alan ilk büyük isim
+      metin  : glaukon un
+      duyulan: glauco nun
+  INSERT   ...mahkemede yaşanır milattan önce
+      metin  : (yok)
+      duyulan: da ü
+  REPLACE  ...ta kendisidir yüzyıllar sonra
+      metin  : jan jak ruso
+      duyulan: john jack russo de
+  REPLACE  ...bulur ama vicdan aldatmaz
+      metin  : ruso
+      duyulan: russo
+  INSERT   ...daha sağlam zemine oturttu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...terbiye edilmiş korkudan ibaretse
+      metin  : zigmund froyd
+      duyulan: sigmund freud te
+  REPLACE  ...insan zihnine kat ekledi
+      metin  : üstben froyd
+      duyulan: üst ben freud
+  REPLACE  ...ama ses hala oradadır
+      metin  : froyd
+      duyulan: freud
+  REPLACE  ...artık maaş almadan çalışmaktadır
+      metin  : froyd
+      duyulan: freud
+  INSERT   ...karanlık kılan da odur
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kendi kendine çektirmeye başlar
+      metin  : froyd
+      duyulan: freud
+  REPLACE  ...niyeti bile yeterli sayar
+      metin  : fridrih niçe
+      duyulan: friedrich nietzsche
+  INSERT   ...sayar fridrih niçe ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yok olmaz yön değiştirir
+      metin  : niçe nin deyişiyle
+      duyulan: nietzchenin değişiyle
+  REPLACE  ...kendini hırpalayan varlık doğdu
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...borç anlamına da gelir
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...borçlu ilişkisinin durduğunu söyler
+      metin  : ödenmemiş
+      duyulan: ötlö denmemiş
+  INSERT   ...ses ne kadar güçlü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...i lk düzenlemede kişiden
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...lk düzenlemede kişiden yani
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kökten gelir aynı kökten
+      metin  : vecd
+      duyulan: vec
+  REPLACE  ...ikisinin arasında duran kendini
+      metin  : kınayan
+      duyulan: kınıyan
+  REPLACE  ...nefis vardır adı nefs
+      metin  : i levvame
+      duyulan: ile bami
+  DELETE   ...terfi etmiş değil körelmiştir
+      metin  : hz
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dolaşan gönlü tırmalayan şeydir
+      metin  : müslim in
+      duyulan: müslüman
+  REPLACE  ...koyan isim ize nurettin
+      metin  : topçu oldu
+      duyulan: topçuoğlu te
+  REPLACE  ...cümlelerin hepsi doğru olabilir
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...başka daha var demektir
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: felsefe-2026-09-07.duyulan.txt

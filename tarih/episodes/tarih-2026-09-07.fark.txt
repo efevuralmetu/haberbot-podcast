@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-07.mp3
+
+beklenen 2240 kelime | duyulan 2245 kelime | eşleşme %92.9
+sayı ifadesi: metinde 350, duyulanda 252  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sanat eserinin paneli yıldır
+      metin  : kayıp
+      duyulan: kayıptı
+  REPLACE  ...duran ahşap yapı vardır
+      metin  : kapalıyken
+      duyulan: kapalı iken
+  REPLACE  ...adıyla tanrı kuzusu sunağı
+      metin  : hubert
+      duyulan: hübert
+  REPLACE  ...kuzusu sunağı hubert ve
+      metin  : yan
+      duyulan: jan
+  REPLACE  ...hubert ve yan van
+      metin  : ayk
+      duyulan: eyk
+  REPLACE  ...çerçevenin üzerindeki latince işi
+      metin  : hubert
+      duyulan: hübert
+  REPLACE  ...bulunamayan ressam olduğunu kardeşi
+      metin  : yan
+      duyulan: jan
+  REPLACE  ...in zengin yurttaşı olan
+      metin  : yos veyt
+      duyulan: josveith
+  REPLACE  ...yos veyt ve eşi
+      metin  : elizabet borlüt tur
+      duyulan: elisabeth borlüttür
+  INSERT   ...meşe panelden oluşur bunların
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ayrı gerçeklik sunan mekanizma
+      metin  : van ayk
+      duyulan: vanay
+  REPLACE  ...incecik boyanmış uzak şehir
+      metin  : silueti
+      duyulan: silüeti
+  REPLACE  ...bu panelin adı de
+      metin  : rehtfaardihe
+      duyulan: reht fardihe
+  REPLACE  ...dükü olduğunu ileri sürer
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...artık orada değil bugün
+      metin  : gent te
+      duyulan: cente
+  REPLACE  ...asılı olan şey van
+      metin  : ayk
+      duyulan: eyck
+  INSERT   ...yüzyılından itibaren beladan kurtulmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aşağı ülkeler i saran
+      metin  : ikonoklast
+      duyulan: ikonoklas
+  INSERT   ...yerden imparatorun kendisinden geldi
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...imparatorun kendisinden geldi habsburg
+      metin  : imparatoru
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geldi habsburg imparatoru i
+      metin  : kinci yozef gent e
+      duyulan: mparatoru yosef gente
+  REPLACE  ...fransız devrimi ordularıyla geldi
+      metin  : gent e
+      duyulan: te cente
+  REPLACE  ...paris e götürdü ve
+      metin  : luvr
+      duyulan: louver
+  REPLACE  ...paris te yıl kaldı
+      metin  : napolyon
+      duyulan: napoleon
+  INSERT   ...napolyon un yenilgisinden sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sonra iade edildiler ve
+      metin  : gent e
+      duyulan: cente
+  INSERT   ...bu kez içeriden vuruldu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ngiliz koleksiyoncuya ulaştı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ulaştı ve prusya kralı
+      metin  : fridrih vilhelm
+      duyulan: friedrich wilhelm
+  REPLACE  ...e taşındı orada sonradan
+      metin  : kayzer fridrih muzeum
+      duyulan: kaiser friedrich museum
+  REPLACE  ...muzeum yani i mparator
+      metin  : fridrih
+      duyulan: friedrich
+  REPLACE  ...devleti tarafından satın alınıp
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...götürüldüler yani girilirken van
+      metin  : ayk
+      duyulan: eyck
+  REPLACE  ...sunak ayrı şehirde duruyordu
+      metin  : gent brüksel
+      duyulan: ghent bruxelles
+  REPLACE  ...değiştirdi savaşın ardından imzalanan
+      metin  : versay
+      duyulan: versailles
+  INSERT   ...etti buna rağmen paneller
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeniden araya getirildi ve
+      metin  : gent
+      duyulan: ghent
+  REPLACE  ...ve gent te aziz
+      metin  : bavo
+      duyulan: babo
+  REPLACE  ...sonra ilk kez van
+      metin  : ayk
+      duyulan: eyk
+  REPLACE  ...birleşme yıl sürdü ve
+      metin  : versay ın
+      duyulan: versailles in
+  ... ve 70 fark daha
+
+metinde olup DUYULMAYAN: 134 kelime | duyulup metinde OLMAYAN: 145
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: tarih-2026-09-07.duyulan.txt

@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-07.mp3
+
+beklenen 1375 kelime | duyulan 1378 kelime | eşleşme %96.8
+sayı ifadesi: metinde 145, duyulanda 119  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ad vardı adam mohsen
+      metin  : mahmalbaf ın
+      duyulan: mahmel bafım
+  REPLACE  ...bunu ben yazdım ben
+      metin  : mahmalbaf ım
+      duyulan: mahmel bafım
+  REPLACE  ...ım adamın gerçek adı
+      metin  : hosseyn
+      duyulan: hossein
+  REPLACE  ...fazlası olmayan sinema tutkunuydu
+      metin  : filmleri
+      duyulan: filminleri
+  REPLACE  ...duyguydu kitabı imzaladı üstüne
+      metin  : mahmalbaf
+      duyulan: mahmel baf
+  REPLACE  ...burada çekebileceğini söyledi oğullardan
+      metin  : mehrdad
+      duyulan: meherdad
+  REPLACE  ...evde olmadığı saatleri soruyordu
+      metin  : ahankhahların
+      duyulan: ahankahların
+  REPLACE  ...muhabiri farazmand a ulaştılar
+      metin  : farazmand
+      duyulan: farazman
+  REPLACE  ...aldı taksiye atladı ve
+      metin  : ahankhahların
+      duyulan: ahankahların
+  REPLACE  ...sahnelerinde milimeter kullandı görüntünün
+      metin  : grenli
+      duyulan: girenli
+  REPLACE  ...halinde cezanın hafifleyeceğini bildirdi
+      metin  : ahankhahlar
+      duyulan: ahankahlar
+  REPLACE  ...olanla karşılaşır ve ağlar
+      metin  : mahmalbaf
+      duyulan: mahmalbaft
+  REPLACE  ...kendisi açıkladı çekim sırasında
+      metin  : mahmalbaf ın
+      duyulan: mahmalbaftın
+  REPLACE  ...sadece kabul edilmiş olmak
+      metin  : nema ye
+      duyulan: nemaya
+  INSERT   ...nazdik yani yakın plan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yurt dışında anlaşıldı festivallerden
+      metin  : festivalleer
+      duyulan: festivaleer
+  INSERT   ...görüntü ve ses dergisinin
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...büyük rol yine kendisiydi
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...eylül de yaşında öldü
+      metin  : kiarostami
+      duyulan: kiya rostami
+  INSERT   ...konuşulan yönetmenlerinden oldu ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...neden başkası olmak ister
+      metin  : kiarostami
+      duyulan: kiya rostami
+  REPLACE  ...doğrultmuş sonra sanığa doğrudan
+      metin  : seyirciyle
+      duyulan: seyirci ile
+  REPLACE  ...seyirciyle konuşma hakkı tanımıştır
+      metin  : sabzian ın
+      duyulan: sabziyanın
+  REPLACE  ...ilk kez gerçekten görüldü
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: film-2026-09-07.duyulan.txt

@@ -1,0 +1,43 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-07.mp3
+
+beklenen 1183 kelime | duyulan 1186 kelime | eşleşme %97.8
+sayı ifadesi: metinde 173, duyulanda 140  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sistemli biçimde inceleyen çalışma
+      metin  : barselona olimpiyatları ndan
+      duyulan: barcelona olimpiyatlarından
+  REPLACE  ...geliyor victoria medvec scott
+      metin  : madey
+      duyulan: mayday
+  REPLACE  ...scott madey ve thomas
+      metin  : gilovich
+      duyulan: gilovic
+  REPLACE  ...sahiplerinin ortalama puanı çıktı
+      metin  : bronz
+      duyulan: bronze
+  INSERT   ...olimpiyat ışıltısından çok uzakta
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sonuç çarpıcıydı kazanan sporcunun
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...sporcunun bronz kazanan sporcunun
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...mi kısmen evet bu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alanda uzun yıllar çalışan
+      metin  : neal roese nin
+      duyulan: neil rosen in
+  REPLACE  ...ede her seferinde tık
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 10 kelime | duyulup metinde OLMAYAN: 13
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: psikoloji-2026-09-07.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-07.mp3
+
+beklenen 2382 kelime | duyulan 2398 kelime | eşleşme %94.9
+sayı ifadesi: metinde 433, duyulanda 284  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şubat
+      metin  : mexico
+      duyulan: meksiko
+  REPLACE  ...çıkmamıştı şubat akşamına doğru
+      metin  : meksika
+      duyulan: meksiko
+  REPLACE  ...kanalı açıyordu yer guatemala
+      metin  : sokağı ile
+      duyulan: sokağıyla
+  REPLACE  ...yakın ağırlıkta bu levha
+      metin  : meşika ların
+      duyulan: meksikaların
+  REPLACE  ...tanıdığımız halkın ay tanrıçası
+      metin  : koyolşauki ydi
+      duyulan: koyol şavki idi
+  REPLACE  ...sırada gebe kaldı kızı
+      metin  : koyolşauki
+      duyulan: koyol şavki
+  REPLACE  ...karnından tam teçhizatlı doğdu
+      metin  : uitsilopoçtli meşika ların
+      duyulan: uytsilopoçlu meksikaların
+  REPLACE  ...değildi yerindeydi ve eğer
+      metin  : koyolşauki
+      duyulan: koyol şavki
+  REPLACE  ...yukarıda yamaç olmalıydı yani
+      metin  : uitsilopoçtli nin
+      duyulan: uytsilopoçlu nun
+  INSERT   ...dünyasının merkezi i spanyolların
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...spanyolların yerle ettiği ve
+      metin  : yüzyıllardır
+      duyulan: yıllardır
+  INSERT   ...parçaları heykel gövdeleri çıkmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaydediyor ve üstünü örtüyordu
+      metin  : koyolşauki
+      duyulan: koyol şavki
+  REPLACE  ...hızlı geldi dönemin cumhurbaşkanı
+      metin  : hose lopes portiyo
+      duyulan: josé lópez portillo
+  INSERT   ...başına anıt sayılacak yıkıldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sayılacak yıkıldı eduardo matos
+      metin  : moktesuma
+      duyulan: moctezuma
+  REPLACE  ...tlalok a güney yarısı
+      metin  : uitsilopoçtli ye
+      duyulan: huitzilopoç diye
+  REPLACE  ...yarısının merdiven dibinde de
+      metin  : koyolşauki
+      duyulan: coyol xauqui
+  INSERT   ...geri kalanı doğru ilerliyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tek piramidin enkazı değil
+      metin  : iç içe
+      duyulan: çiçe
+  DELETE   ...ana inşa evresi sayıyor
+      metin  : en
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ulaşılabilen en erken katman
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...başını yana çevirmiş çak
+      metin  : mool
+      duyulan: mol
+  REPLACE  ...okunabilir ever dolaylarında i
+      metin  : tskoatl
+      duyulan: tsko adlı
+  INSERT   ...dolaylarında i tskoatl döneminde
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...döneminde civarında ile arasında
+      metin  : auitsotl
+      duyulan: avicotlu
+  REPLACE  ...sonuncusu ile arasında yani
+      metin  : kortes
+      duyulan: cortes
+  REPLACE  ...besliyor sıradan mühendislik sorunu
+      metin  : tenoçtitlan
+      duyulan: tenochtitlan
+  REPLACE  ...duruyor ve yıllardır sürekli
+      metin  : müdahaleyle
+      duyulan: müdahale ile
+  INSERT   ...ve şimdi birlikte batıyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mayor müzesi açıldı ve
+      metin  : koyolşauki
+      duyulan: coyol şavki
+  REPLACE  ...arasına gömülmüş kutulardan geldi
+      metin  : meşika lar tapınak
+      duyulan: meşikalar tapınağı
+  REPLACE  ...çevresinde bugüne kadar üzerinde
+      metin  : sunu kazıldı
+      duyulan: sunuk hazırladı
+  REPLACE  ...istiridye sonra taş heykelcikler
+      metin  : obsidiyen
+      duyulan: obsediyen
+  REPLACE  ...boncuklar bakır çıngıraklar en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...çevrilmiş hali gibi okunabilir
+      metin  : auitsotl
+      duyulan: auit sotlu
+  INSERT   ...kaya kartalı iskeleti bulundu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...merkezinde genç kurt yatıyordu
+      metin  : kurdun
+      duyulan: kurduğun
+  REPLACE  ...gelişti sandıklar yerinde açılmıyor
+      metin  : bloğun
+      duyulan: bülow un
+  INSERT   ...kabuğunun hangi tarafa baktığı
+      metin  : (yok)
+      duyulan: bu
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 71 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-09-07.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-07.mp3
+
+beklenen 2407 kelime | duyulan 2430 kelime | eşleşme %94.8
+sayı ifadesi: metinde 347, duyulanda 219  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra aynı kadın parkta
+      metin  : copların
+      duyulan: kopların
+  REPLACE  ...kenya dağı nın yani
+      metin  : kikuyuların
+      duyulan: kuyuların
+  REPLACE  ...nın gölgesinde nyeri nin
+      metin  : ihithe
+      duyulan: i hite
+  REPLACE  ...bacak çıkardığını sonra da
+      metin  : kurbağaya
+      duyulan: kurbağa
+  REPLACE  ...öğrendi ağacın devasa kök
+      metin  : ağının
+      duyulan: ağanın
+  DELETE   ...suyun yaz ortasında kesilmemesinin
+      metin  : sebebinin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...biyoloji okuması gerekecekti nisan
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...nisan doğmuştu adı wangari
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...adı wangari ydi babası
+      metin  : muta
+      duyulan: mut ağ
+  REPLACE  ...sonra anne çocuklarıyla birlikte
+      metin  : ihithe
+      duyulan: i hite
+  REPLACE  ...üzerine ömür kuruldu önce
+      metin  : mathari
+      duyulan: matari
+  REPLACE  ...önce mathari misyonundaki aziz
+      metin  : sesilya
+      duyulan: cecilia
+  REPLACE  ...vaftiz edildi ve mary
+      metin  : josephine
+      duyulan: joseph in
+  INSERT   ...ve mezunları parmakla sayılıyordu
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...sayılıyordu gelindiğinde kenya kaynıyordu
+      metin  : mau mau
+      duyulan: mao mao
+  REPLACE  ...sendikacı ve siyasetçi tom
+      metin  : mboya
+      duyulan: embo ya
+  REPLACE  ...wangari onlardan kansas ın
+      metin  : atchison
+      duyulan: acheson
+  REPLACE  ...ın atchison kasabasındaki mount
+      metin  : st skolastika
+      duyulan: saint james scholastica
+  REPLACE  ...college a yani aziz
+      metin  : skolastika koleji ne
+      duyulan: scholastica college ine
+  REPLACE  ...skolastika koleji ne yerleşti
+      metin  : benedikten
+      duyulan: benedict en
+  REPLACE  ...yönettiği küçük kız okuluydu
+      metin  : biyoloji
+      duyulan: bioloji
+  INSERT   ...kimya ve almanca aldı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sonucudur ve kararlar değiştirilebilir
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bölümünde kapı açıldı alman
+      metin  : profesör raynhold hofman
+      duyulan: prof reinholt hoffmann
+  INSERT   ...ve münih te yürüttü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve emeklilik hakları erkek
+      metin  : meslektaşlarınınkinden
+      duyulan: meslektaşlarının tekinden
+  REPLACE  ...yıllarda kurulmuştu nisan ında
+      metin  : mwangi mathai
+      duyulan: magimata
+  REPLACE  ...ile evlendi çocukları oldu
+      metin  : waweru wanjira
+      duyulan: vaveru vancıra
+  INSERT   ...wanjira ve muta kocası
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ağaç dikmek iş olabilirdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kocasının soyadındaki harfi ikizleyip
+      metin  : mathai
+      duyulan: matai
+  REPLACE  ...harfi ikizleyip mathai yi
+      metin  : maathai
+      duyulan: matai
+  INSERT   ...çöküş yıl sonra geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl sonra geldi memleketi
+      metin  : nyeri de
+      duyulan: nehride
+  REPLACE  ...parkında fidan dikmişti wangari
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...ulusal konseyi nde çalışıyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...basitti ağaç dikin haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iş yapma sözü olan
+      metin  : harambee
+      duyulan: harambe
+  REPLACE  ...kadınların bunu beceremeyeceğini söylediler
+      metin  : wangari
+      duyulan: vangari
+  ... ve 44 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: biyografi-2026-09-07.duyulan.txt

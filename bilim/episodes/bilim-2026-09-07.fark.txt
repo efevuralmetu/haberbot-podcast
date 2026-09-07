@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-07.mp3
+
+beklenen 1687 kelime | duyulan 1710 kelime | eşleşme %95.8
+sayı ifadesi: metinde 298, duyulanda 213  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...orada kalıyor sonra bahar
+      metin  : kilometrekareye buçuk
+      duyulan: kilometer kareye
+  INSERT   ...ve neden tam mayıs
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...mayıs ilk sıcak gecelerinden
+      metin  : i linoy
+      duyulan: illinois
+  REPLACE  ...periyodik ağustosböceği bilimsel olarak
+      metin  : magicicada
+      duyulan: mecikika da
+  INSERT   ...toplam türü var bunların
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...türü var bunların yıllık
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...yıl gelir ve orman
+      metin  : banliyö
+      duyulan: banyo
+  REPLACE  ...iğne benzeri hortumunu kökün
+      metin  : ksilem
+      duyulan: kesilem
+  REPLACE  ...böceğin bütün kaderini açıklıyor
+      metin  : ksilem
+      duyulan: kasilem
+  REPLACE  ...en küçük genomlar arasında
+      metin  : periyodik ağustosböceklerinde
+      duyulan: periodik ağustos böceklerinde
+  REPLACE  ...lk akla gelen cevap
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...üstelik böyle saat milyonlarca
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gerçek cevaba giden yol
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...dışı deneyle açıldı richard
+      metin  : karban
+      duyulan: carban
+  REPLACE  ...avcı artık avcı değildir
+      metin  : karban ın
+      duyulan: karbanın de
+  INSERT   ...böceğin kendi akrabalarıyla ilgili
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...olduğunca az karşılaşmasını ödüllendirir
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...az karşılaşmasını ödüllendirir ile
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...ödüllendirir ile ortak katı
+      metin  : (yok)
+      duyulan: dir
+  REPLACE  ...ortak katı bu takvim
+      metin  : yüzyıldan
+      duyulan: yıldan
+  REPLACE  ...işlemez bu düşmanın adı
+      metin  : massospora
+      duyulan: masospora
+  REPLACE  ...ölüm tuzlukları diye anıyor
+      metin  : matt kasson
+      duyulan: madkason
+  INSERT   ...son derece iyi kalkan
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...tek yapılması gereken i
+      metin  : linoy de
+      duyulan: linoide
+  INSERT   ...anda ayrı soy çıktı
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...bilim yazınındaki adıyla brood
+      metin  : xiii
+      duyulan: otutuch
+  REPLACE  ...adıyla brood xiii i
+      metin  : linoy nin
+      duyulan: linoinin
+  REPLACE  ...i linoy nin kuzeyinde
+      metin  : şikago
+      duyulan: chicago
+  REPLACE  ...nin kuzeyinde şikago nun
+      metin  : banliyölerinde
+      duyulan: banyolarında
+  INSERT   ...nın sınır bölgelerinde belirdi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...çalışan numaralı soy ize
+      metin  : missouri den
+      duyulan: misuriden
+  REPLACE  ...ya oklahoma dan kuzey
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...bilinen en geniş periyodik
+      metin  : ağustosböceği
+      duyulan: ağustos göceyi
+  REPLACE  ...soyun yayılma alanları i
+      metin  : linoy nin
+      duyulan: linoinin
+  INSERT   ...bu takvim en son
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...amerika birleşik devletleri nin
+      metin  : louisiana
+      duyulan: lüeyziyana
+  INSERT   ...aldığı yıl sonraki buluşma
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...uçak motorlarıyla kıyaslanabilecek şiddete
+      metin  : desibel
+      duyulan: decibel
+  REPLACE  ...sesle değil kanadını belirli
+      metin  : zamanlamayla
+      duyulan: zamanlama ile
+  REPLACE  ...aynı ormanın zeminine düşüyor
+      metin  : louie
+      duyulan: louis
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: bilim-2026-09-07.duyulan.txt

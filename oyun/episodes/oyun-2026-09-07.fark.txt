@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-07.mp3
+
+beklenen 1652 kelime | duyulan 1660 kelime | eşleşme %96.1
+sayı ifadesi: metinde 248, duyulanda 163  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...pc oyununu yıl geciktirdi
+      metin  : (yok)
+      duyulan: doğundokuz
+  INSERT   ...seçim yapacak vakit yoktu
+      metin  : (yok)
+      duyulan: wil
+  REPLACE  ...de tamamen kontrol alındığında
+      metin  : bilanço
+      duyulan: blancho
+  INSERT   ...alındığında bilanço şuydu ölü
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...şeyin olmadığı hayata dönmek
+      metin  : (yok)
+      duyulan: wil
+  INSERT   ...kez dışarıdan görmek demektir
+      metin  : (yok)
+      duyulan: wil
+  REPLACE  ...yeniden inşa edilmeye başlandı
+      metin  : ve
+      duyulan: wil
+  REPLACE  ...hayat kurarken ortaya çıkan
+      metin  : sıralamayı
+      duyulan: evden çıkarmayı
+  INSERT   ...kendisi için de geçerliydi
+      metin  : (yok)
+      duyulan: wil
+  DELETE   ...dili mimarlığı büyük tasarım
+      metin  : jestleri olarak değil
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...biçimlendirir ve bu ilişki
+      metin  : kurallara
+      duyulan: aralara
+  INSERT   ...kalırdı wright oyun dünyasına
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dünyasına helikopterle ada bombalanan
+      metin  : raid
+      duyulan: ride
+  REPLACE  ...ve sonra tuhaf şey
+      metin  : fark etti
+      duyulan: yaptı
+  INSERT   ...oyunu oynamaktan daha keyifliydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oynamaktan daha keyifliydi jeff
+      metin  : braun
+      duyulan: brown
+  INSERT   ...maxis i kurdu ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adam konumuna oturttu yani
+      metin  : yangından
+      duyulan: yıkıldığından
+  DELETE   ...evin iyi olup olmadığını
+      metin  : nasıl
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şirket içinde anlattığında karşılaştığı
+      metin  : tepki
+      duyulan: ki
+  REPLACE  ...çok anlatılan hikayelerinden olacaktı
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...tuvalet oyunu diye anıldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kalktı ama tamamen ölmedi
+      metin  : wright
+      duyulan: higaik
+  DELETE   ...sırayla project x gibi
+      metin  : nötr
+      duyulan: (YOK — atlanmış)
+  INSERT   ...gibi ironik başlıkla anıldı
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...kendisi çökmeye başlamıştı şirket
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...marka vardı ama tekrarlamaktan
+      metin  : başka
+      duyulan: (YOK — atlanmış)
+  INSERT   ...başka yol bulamıyordu haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...büyük yayıncısının içine girdi
+      metin  : wright ın
+      duyulan: dureyt in
+  REPLACE  ...ea maxis in başına
+      metin  : lük bartöle
+      duyulan: luke bartole
+  REPLACE  ...lük bartöle yi getirdi
+      metin  : bartöle
+      duyulan: bartole
+  REPLACE  ...olan devasa kitle vardı
+      metin  : bartöle
+      duyulan: bartole
+  REPLACE  ...kaynaklarının yaklaşık yarısını ayırdı
+      metin  : wright
+      duyulan: dureyt
+  REPLACE  ...denemesinden satılabilir ürüne dönüşmesinden
+      metin  : büyük
+      duyulan: bu
+  REPLACE  ...ürüne dönüşmesinden büyük ölçüde
+      metin  : bartöle
+      duyulan: bartole
+  REPLACE  ...insanı nasıl simüle edersiniz
+      metin  : wright
+      duyulan: dureyt
+  REPLACE  ...ve baş programcı jamie
+      metin  : dornbos
+      duyulan: donboss
+  DELETE   ...yatak bu mimarinin sonucu
+      metin  : şuydu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...genişletilebilirdi ekipler bunun için
+      metin  : simantics
+      duyulan: symantix
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: oyun-2026-09-07.duyulan.txt

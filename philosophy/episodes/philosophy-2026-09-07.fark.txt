@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-07.mp3
+
+beklenen 3509 kelime | duyulan 3506 kelime | eşleşme %99.2
+sayı ifadesi: metinde 129, duyulanda 98  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...opposite glaucon in his
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...he calls it his
+      metin  : daimonion
+      duyulan: daimonian
+  DELETE   ...court in the year
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...us or interest makes
+      metin  : reason
+      duyulan: reasons
+  REPLACE  ...sigmund freud added a
+      metin  : storey
+      duyulan: story
+  REPLACE  ...guilt comes befoer the
+      metin  : offence
+      duyulan: offense
+  REPLACE  ...for the deed it
+      metin  : counts
+      duyulan: accounts
+  DELETE   ...final level up to
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...clue of its own
+      metin  : vicdan
+      duyulan: victim
+  REPLACE  ...the same root comes
+      metin  : vecd
+      duyulan: vzd
+  REPLACE  ...its name is nafs
+      metin  : i lawwama
+      duyulan: illa wama
+  REPLACE  ...means that what is
+      metin  : honoured
+      duyulan: honored
+  REPLACE  ...put the ring of
+      metin  : gyges
+      duyulan: jaijis
+  REPLACE  ...presence most plainly is
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...emer theer is an
+      metin  : i
+      duyulan: eye
+  REPLACE  ...a moral philosophy was
+      metin  : nurettin topçu
+      duyulan: neuriton topchou
+  REPLACE  ...to the crowd for
+      metin  : topçu
+      duyulan: topchou
+  REPLACE  ...someone theer besides you
+      metin  : nöron
+      duyulan: naran
+  REPLACE  ...besides you nöron philosophy
+      metin  : de bugünkü bölümün sonuna geldik
+      duyulan: da bügen küberlümen sonanagaldik
+  REPLACE  ...sonuna geldik yeni hikayede
+      metin  : yeniden buluşmak üzeer
+      duyulan: yenidan bulushma kuzeer
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 25
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-07.duyulan.txt

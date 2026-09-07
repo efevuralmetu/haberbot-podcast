@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-07.mp3
+
+beklenen 1608 kelime | duyulan 1608 kelime | eşleşme %93.0
+sayı ifadesi: metinde 275, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yerde duruyorsa ne yaparsınız
+      metin  : atlantiğin
+      duyulan: atlantin
+  INSERT   ...tek dağ gibi görünür
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...adı başlangıçta bu değildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...burayı gördüklerinde takvimde aziz
+      metin  : filipe
+      duyulan: felipe
+  INSERT   ...ateş anlamına gelen adını
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...karşıdaki brava adasına kaçtı
+      metin  : dağ
+      duyulan: daha
+  INSERT   ...söndürülemeyen mangal gibi yandı
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...limanı ve merkezi sao
+      metin  : filipe
+      duyulan: felipe
+  REPLACE  ...sao filipe yani aziz
+      metin  : filipe
+      duyulan: felipe
+  REPLACE  ...hemen sonra kurulmuştur aziz
+      metin  : filipe
+      duyulan: felipe
+  REPLACE  ...kıyıda değil yukarıdadır aziz
+      metin  : filipe
+      duyulan: felipe
+  REPLACE  ...doğru dönerek yükselir önce
+      metin  : muz
+      duyulan: mus
+  REPLACE  ...duvarın içinden geçer burası
+      metin  : kaldera
+      duyulan: caldera
+  DELETE   ...yerliler kazanlar düzlüğü der
+      metin  : portekizcesiyle şan das kaldeyras
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...borçludur yerel anlatıya göer
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...anlatıya göer yetmişlerde adaya
+      metin  : fransua lui arman furşö dö monron
+      duyulan: françois louis armand fourchodeux montreau
+  REPLACE  ...fransız soylusu ayak basar
+      metin  : grenobl
+      duyulan: grenoble
+  REPLACE  ...basar grenobl doğumludur ülkesinde
+      metin  : düello
+      duyulan: duello
+  REPLACE  ...en önemlisi yanına asma
+      metin  : çubukları ile
+      duyulan: çubuklarıyla
+  REPLACE  ...ailesi monron lar ile
+      metin  : fonteş lerdir
+      duyulan: fontejlerdir
+  INSERT   ...budur yerleşimin mahallesi vardır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yerleşimin mahallesi vardır kurulan
+      metin  : bangaeyra
+      duyulan: bangaera
+  INSERT   ...vardır kurulan bangaeyra ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...batıda duvarın eteğinde losna
+      metin  : adacığı
+      duyulan: adacı ı
+  REPLACE  ...için sarnıçlarda biriktirilen yağmurdur
+      metin  : ışık
+      duyulan: işık
+  DELETE   ...içinde yıllık ortalama sıcaklık
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nokta dereceye iner yılda
+      metin  : milimeter
+      duyulan: mm
+  INSERT   ...kimse o gün bunun
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...duvarın dışındaki köyleer aşada
+      metin  : furna
+      duyulan: furnaya montelargo
+  REPLACE  ...köyleer aşada furna ya
+      metin  : monte largo ya kabesa
+      duyulan: cabesa
+  REPLACE  ...yarısında ev daha kalmadı
+      metin  : akşama
+      duyulan: moca şam a
+  REPLACE  ...kalmadı akşama doğru lav
+      metin  : bangaeyra
+      duyulan: bangayra
+  REPLACE  ...büyük ölçüde yok olmuştu
+      metin  : bangaeyra
+      duyulan: bangayra
+  INSERT   ...yok olmuştu bangaeyra nın
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...bangaeyra nın zarar görmüştü
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...zarar görmüştü aralık ta
+      metin  : bangaeyra
+      duyulan: bangayra
+  INSERT   ...neredeyze hiçbir şey kalmadı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...da düzleşti püskürme şubat
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...hesabına göer maddi hasar
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etkilenen alandaki endemik türlerin
+      metin  : dördü
+      duyulan: ü
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 70
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: seyahat-2026-09-07.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-07.mp3
+
+beklenen 1876 kelime | duyulan 1889 kelime | eşleşme %96.3
+sayı ifadesi: metinde 201, duyulanda 184  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...fıradın kollarına yakın kasabada
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...çocuk dünyaya geldi adı
+      metin  : mehmed di
+      duyulan: mehmet ti
+  REPLACE  ...ailesi oğuzların bayat boyundan
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...merkezinde hep aynı kalacaktı
+      metin  : bağdat
+      duyulan: bağdad
+  REPLACE  ...dan anadolu dan hint
+      metin  : mağrip
+      duyulan: marip
+  REPLACE  ...kendi sesini kurabilecek kadar
+      metin  : içerideydi
+      duyulan: içerdeydi
+  REPLACE  ...kincisi aynı kelime kökü
+      metin  : fazl
+      duyulan: nazl
+  REPLACE  ...yapar türkçe şiir yazmanın
+      metin  : zorluğundan
+      duyulan: bundan
+  REPLACE  ...bütün mazmunları bütün ince
+      metin  : oyunları
+      duyulan: şakaları
+  REPLACE  ...aldı ve kışı orada
+      metin  : geçirdi
+      duyulan: yazdı
+  REPLACE  ...geçirdi bu bölgenin kaderini
+      metin  : yıllarca
+      duyulan: yüzyıllarca
+  DELETE   ...bağdadı evliyanın burcu olarak
+      metin  : selamlar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...de işlenmişti ama batı
+      metin  : türkçesinde
+      duyulan: köpesinde
+  REPLACE  ...eseri yıllarında tamamladı aşan
+      metin  : beyitlik
+      duyulan: beytlik
+  REPLACE  ...kays mektebe verilir aynı
+      metin  : mektepte
+      duyulan: mektebde
+  REPLACE  ...nın annesi kızı mektepten
+      metin  : alır
+      duyulan: çıkarır
+  REPLACE  ...diler hikayenin kırılma noktası
+      metin  : budur
+      duyulan: olur
+  REPLACE  ...ve kez de kaldırır
+      metin  : nevfel
+      duyulan: nefel
+  REPLACE  ...adında yiğit bey mecnun
+      metin  : a
+      duyulan: u
+  REPLACE  ...teklif eder savaş başlar
+      metin  : nevfel
+      duyulan: nefel
+  REPLACE  ...da acıdır leyla i
+      metin  : bn
+      duyulan: bni
+  REPLACE  ...dokunamaz ve süer sonra
+      metin  : ölür
+      duyulan: durur
+  REPLACE  ...burada başlar elinde leyla
+      metin  : vü
+      duyulan: ve
+  REPLACE  ...eserin en çok tekrarlanan
+      metin  : mısraı
+      duyulan: mısra
+  DELETE   ...ibaret kaldığı bunu söyleyen
+      metin  : adamın
+      duyulan: (YOK — atlanmış)
+  DELETE   ...de konuşur düşünür itiraz
+      metin  : eder
+      duyulan: (YOK — atlanmış)
+  INSERT   ...fuzuli bu eseri bitirdiğinde
+      metin  : (yok)
+      duyulan: ına
+  REPLACE  ...nezaket bile alınmaya değer
+      metin  : bulunmuyor
+      duyulan: bulunuyor
+  REPLACE  ...taşıyan belge ize işe
+      metin  : yaramadığı
+      duyulan: kaldığı
+  REPLACE  ...alıcı cevap gelir para
+      metin  : zevaidden
+      duyulan: zevaiden
+  DELETE   ...artan her yıl başkalarına
+      metin  : lazım olmaktadır
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kafiyeli kalıplar taşır ama
+      metin  : süs
+      duyulan: süz
+  REPLACE  ...sesini yükseltmez kızgınlığını doğrudan
+      metin  : hiçbir
+      duyulan: her
+  INSERT   ...değil mektubun kendisidir fuzuli
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...salgını sırasında gerçekleştiği düşünülür
+      metin  : hz
+      duyulan: herz
+  REPLACE  ...hiç çıkmamış şairin nerede
+      metin  : yattığını
+      duyulan: olduğunu
+  REPLACE  ...batı dillerine çevrildi leyla
+      metin  : ile
+      duyulan: yla
+  DELETE   ...operaya taşındı ayrı ülkenin
+      metin  : edebiyat
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...divanını okumuştur ne leyla
+      metin  : vü
+      duyulan: ve
+  DELETE   ...yaşadığı küçük hakaretin tarifi
+      metin  : oldu
+      duyulan: (YOK — atlanmış)
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: edebiyat-2026-09-07.duyulan.txt
