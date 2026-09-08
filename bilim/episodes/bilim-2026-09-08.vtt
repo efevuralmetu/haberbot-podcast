@@ -1,0 +1,709 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.570
+Bir sabah laboratuvarda mikroskoptan bakan adam gördüğü şeye inanamadı ve not defterine üç soru işareti çizdi: karşısındaki desen, kristalografinin yüz yıldır imkânsız dediği simetriyi gösteriyordu.
+
+2
+00:00:13.570 --> 00:00:21.220
+Bulgusunu anlattığında grubundan atıldı, iki Nobel ödüllü kimyager onu herkesin önünde "yarı-bilim adamı" ilan etti.
+
+3
+00:00:21.220 --> 00:00:28.070
+Yirmi dokuz yıl sonra aynı bulgu ona Nobel'i kazandırdı — çünkü yanlış olan ölçüm değil, tanımdı.
+
+4
+00:00:36.270 --> 00:00:41.520
+Elinizde tek bir kalıp var ve bir zemini o kalıpla kaplamanız gerekiyor.
+
+5
+00:00:41.520 --> 00:00:45.490
+Boşluk kalmayacak, parçalar üst üste binmeyecek.
+
+6
+00:00:45.490 --> 00:00:54.100
+Eşkenar üçgenle yaparsınız: bir köşede altı tanesi buluşur, çünkü 60 derecenin altı katı tam 360 eder.
+
+7
+00:00:54.100 --> 00:00:59.990
+Kareyle yaparsınız: dördü buluşur, 90 çarpı 4 yine 360.
+
+8
+00:00:59.990 --> 00:01:05.560
+Düzgün altıgenle yaparsınız: üçü buluşur, 120 çarpı 3, yine tam tur.
+
+9
+00:01:05.560 --> 00:01:09.690
+Sonra düzgün beşgeni denersiniz ve iş orada bozulur.
+
+10
+00:01:09.690 --> 00:01:17.820
+Beşgenin iç açısı 108 derecedir; 360'ı 108'e böldüğünüzde 3 tam sayısı çıkmaz, 3'ün biraz üstü çıkar.
+
+11
+00:01:17.820 --> 00:01:23.870
+Üç beşgeni bir köşede birleştirirseniz 36 derecelik ince bir dilim açıkta kalır.
+
+12
+00:01:23.870 --> 00:01:28.000
+Dördüncüyü sokmaya kalkarsanız üst üste binerler.
+
+13
+00:01:28.000 --> 00:01:30.210
+Beşgen zemini kaplamaz.
+
+14
+00:01:30.210 --> 00:01:40.580
+Bunu ilk ciddi ciddi denemiş adamlardan biri Kepler'di; 1619'da yayımladığı geometri çalışmasında beşgenlerle bir örüntü kurmaya uğraştı,
+
+15
+00:01:40.580 --> 00:01:47.910
+boşlukları başka şekillerle doldurmak zorunda kaldı ve sayfanın kenarında düzenin bir yerde tıkandığını itiraf etti.
+
+16
+00:01:47.910 --> 00:01:51.080
+Bu, bir dekorasyon meselesi gibi görünür.
+
+17
+00:01:51.080 --> 00:01:52.970
+Değildir.
+
+18
+00:01:52.970 --> 00:01:59.180
+Çünkü bir kristal, tam olarak budur: uzayı boşluksuz kaplayan bir kalıbın sonsuz tekrarı.
+
+19
+00:01:59.180 --> 00:02:04.910
+Kristalografi biliminin bütün binası tek bir varsayımın üzerine kuruludur, periyodiklik.
+
+20
+00:02:04.910 --> 00:02:13.360
+Bir birim hücre alırsınız, içinde birkaç atom vardır, sonra bu hücreyi üç yönde defalarca öteleyip yan yana dizersiniz.
+
+21
+00:02:13.360 --> 00:02:17.330
+Tuz kristali de, elmas da, demir de böyledir.
+
+22
+00:02:17.330 --> 00:02:25.940
+Ve bir yapı ötelemeyle kendini tekrar ediyorsa, o yapının hangi dönme simetrilerine sahip olabileceği artık sizin seçiminiz değildir.
+
+23
+00:02:25.940 --> 00:02:28.150
+Geometri karar verir.
+
+24
+00:02:28.150 --> 00:02:31.000
+Kanıtı şaşırtıcı derecede kısadır.
+
+25
+00:02:31.000 --> 00:02:38.650
+Diyelim ki kristalinizde bir dönme ekseni var ve yapıyı belli bir açı kadar çevirdiğinizde hiçbir şey değişmiyor.
+
+26
+00:02:38.650 --> 00:02:44.540
+Örgüdeki en kısa iki komşu nokta arasındaki mesafeye bakın; buna birim adım diyelim.
+
+27
+00:02:44.540 --> 00:02:53.630
+Şimdi ilk noktayı merkez alıp ikinciyi o açı kadar döndürün, sonra ikinci noktayı merkez alıp birinciyi ters yönde aynı açı kadar döndürün.
+
+28
+00:02:53.630 --> 00:03:00.320
+Elinizde iki yeni nokta var ve simetri gerçekse bunların da örgüye ait olması gerekir.
+
+29
+00:03:00.320 --> 00:03:05.090
+Yani aralarındaki mesafe, birim adımın tam katı olmak zorundadır.
+
+30
+00:03:05.090 --> 00:03:14.500
+Hesabı yaptığınızda dönme 180 derecelik, 120 derecelik, 90 derecelik ya da 60 derecelik olduğunda sonuç düzgün çıkar.
+
+31
+00:03:14.500 --> 00:03:21.990
+Beş katlı simetride, yani 72 derecelik dönmede, çıkan sayı 1,618'dir.
+
+32
+00:03:21.990 --> 00:03:23.880
+Tam sayı değildir.
+
+33
+00:03:23.880 --> 00:03:27.850
+Hiçbir zaman da olmayacaktır, çünkü irrasyoneldir.
+
+34
+00:03:27.850 --> 00:03:30.700
+Örgü kendi kendisiyle çelişir.
+
+35
+00:03:30.700 --> 00:03:35.470
+O 1,618 sayısını aklınızın bir kenarında tutun.
+
+36
+00:03:35.470 --> 00:03:38.000
+Bu hikâye onunla bitecek.
+
+37
+00:03:38.000 --> 00:03:45.170
+Sonuç şuydu: bir kristal 2, 3, 4 ve 6 katlı dönme simetrisine sahip olabilir.
+
+38
+00:03:45.170 --> 00:03:46.900
+5 olamaz.
+
+39
+00:03:46.900 --> 00:03:48.630
+7 olamaz.
+
+40
+00:03:48.630 --> 00:03:50.360
+8 olamaz.
+
+41
+00:03:50.360 --> 00:03:59.130
+Buna kristalografik kısıtlama teoremi denir ve bir görüş, bir eğilim ya da gözlem özeti değildir; matematiksel bir teoremdir.
+
+42
+00:03:59.130 --> 00:04:02.620
+Bir kere kanıtlanmıştır, tartışması yoktur.
+
+43
+00:04:02.620 --> 00:04:07.070
+Peki bir kristalin içine bakıp simetrisini nasıl ölçersiniz?
+
+44
+00:04:07.070 --> 00:04:08.480
+Kırınımla.
+
+45
+00:04:08.480 --> 00:04:19.490
+1912'de von Laue bir kristalin üzerine X ışını düşürdüğünde arkadaki filmde bulanık bir leke değil, keskin, ayrı ayrı seçilebilen noktalar belirdi.
+
+46
+00:04:19.490 --> 00:04:32.100
+Bunun nedeni şuydu: düzenli aralıklarla dizilmiş atomlardan saçılan dalgalar çoğu yönde birbirini söndürür, yalnızca belirli yönlerde tepe tepeye biner ve orada parlak bir nokta bırakır.
+
+47
+00:04:32.100 --> 00:04:36.870
+Keskin noktalar, yani Bragg noktaları, düzenin imzasıydı.
+
+48
+00:04:36.870 --> 00:04:41.960
+Ve o noktaların oluşturduğu desen, kristalin kendi simetrisini taşırdı.
+
+49
+00:04:41.960 --> 00:04:47.370
+Dört katlı simetrili bir kristale baktığınızda ekranda dörtlü bir yıldız görürdünüz.
+
+50
+00:04:47.370 --> 00:04:52.140
+Böylece yirminci yüzyılın ortasına gelindiğinde denklem kapanmıştı.
+
+51
+00:04:52.140 --> 00:04:55.950
+Keskin kırınım noktaları periyodikliğin kanıtıydı.
+
+52
+00:04:55.950 --> 00:04:59.600
+Periyodiklik beş katlı simetriyi yasaklıyordu.
+
+53
+00:04:59.600 --> 00:05:07.890
+Dolayısıyla hiçbir malzeme, hiçbir koşulda, keskin noktalardan oluşan beş ya da on katlı simetrik bir kırınım deseni veremezdi.
+
+54
+00:05:07.890 --> 00:05:11.860
+Bu bir tahmin değildi, bir imkânsızlık ilanıydı.
+
+55
+00:05:11.860 --> 00:05:20.310
+Kırınım fotoğrafında eşit aralıklarla dizilmiş on parlak nokta görmek, üçgenin iç açıları toplamını 200 derece bulmakla aynı şeydi.
+
+56
+00:05:20.310 --> 00:05:23.000
+Ölçüm değil, hata demekti.
+
+57
+00:05:23.000 --> 00:05:31.450
+Ve 8 Nisan 1982 sabahı, Maryland'de bir elektron mikroskobunun ekranında, tam olarak o şey belirdi.
+
+58
+00:05:31.450 --> 00:05:42.620
+Gaithersburg'daki Amerikan Ulusal Standartlar Bürosu'nun, bugün NIST adıyla bilinen kurumun bodrum katındaki mikroskop odasında çalışan adamın adı Dan Shechtman'dı.
+
+59
+00:05:42.620 --> 00:05:51.550
+41 yaşında, İsrail Teknoloji Enstitüsü Technion'dan gelen bir malzeme bilimciydi ve iki yıllık bir araştırma izniyle oradaydı.
+
+60
+00:05:51.550 --> 00:05:55.680
+İşi havacılık için hafif alüminyum alaşımları geliştirmekti.
+
+61
+00:05:55.680 --> 00:06:07.330
+Yöntem, hızlı katılaştırmaydı: erimiş metali dönen soğuk bir tekerleğin üzerine püskürtüyor, saniyede yaklaşık bir milyon derecelik bir hızla dondurup atomlara yerleşecek vakit bırakmıyordunuz.
+
+62
+00:06:07.330 --> 00:06:17.220
+O gün baktığı numunenin defterindeki sırası 1725'ti; atomlarının yaklaşık yüzde 86'sı alüminyum, yüzde 14'ü manganezdi.
+
+63
+00:06:17.220 --> 00:06:22.630
+Elektron demetini numuneden geçirdi ve ekrandaki kırınım desenine baktı.
+
+64
+00:06:22.630 --> 00:06:26.920
+Bir halka boyunca dizilmiş, keskin, parlak noktalar vardı.
+
+65
+00:06:26.920 --> 00:06:28.170
+Saydı.
+
+66
+00:06:28.170 --> 00:06:29.580
+On tane.
+
+67
+00:06:29.580 --> 00:06:31.310
+Eşit aralıklı.
+
+68
+00:06:31.310 --> 00:06:36.560
+Deseni bir kez çevirdiğinde tıpatıp aynı görüntü geri geliyordu; on kere.
+
+69
+00:06:36.560 --> 00:06:39.570
+Saydığı şeyin var olmaması gerekiyordu.
+
+70
+00:06:39.570 --> 00:06:41.140
+Bir daha saydı.
+
+71
+00:06:41.140 --> 00:06:44.150
+Numuneyi değiştirdi, aynı sonuç.
+
+72
+00:06:44.150 --> 00:06:50.360
+Defterine o günkü kaydı düştü: "10 kat" yazdı ve yanına üç soru işareti koydu.
+
+73
+00:06:50.360 --> 00:06:56.570
+Aynı sayfaya İbranice bir not düştü, kabaca "böyle bir hayvan yok" anlamına gelen bir deyimdi.
+
+74
+00:06:56.570 --> 00:06:59.420
+Sonraki günlerde asıl işi yaptı.
+
+75
+00:06:59.420 --> 00:07:06.270
+Numuneyi mikroskobun içinde kademe kademe eğdi ve bulduğu bütün simetri eksenlerinin haritasını çıkardı.
+
+76
+00:07:06.270 --> 00:07:14.400
+Ortaya çıkan tablo şuydu: 6 tane beş katlı eksen, 10 tane üç katlı eksen, 15 tane iki katlı eksen.
+
+77
+00:07:14.400 --> 00:07:17.730
+Bu, herhangi bir rastgele karmaşa değildi.
+
+78
+00:07:17.730 --> 00:07:24.580
+Bu, ikosahedronun, yani 20 eşkenar üçgenden oluşan Platonik cismin simetri parmak iziydi.
+
+79
+00:07:24.580 --> 00:07:30.790
+Malzeme yalnızca yasak simetriyi göstermiyordu; onu kusursuz bir düzen içinde gösteriyordu.
+
+80
+00:07:30.790 --> 00:07:34.440
+İtirazın adı baştan belliydi: ikizlenme.
+
+81
+00:07:34.440 --> 00:07:43.530
+Bazı kristaller büyürken iki ya da daha çok parçaya ayrılıp birbirine simetrik biçimde yapışır ve kırınımda sahte bir simetri üretir.
+
+82
+00:07:43.530 --> 00:07:48.620
+Beş kristal parçası bir çiçek gibi dizilirse beş katlı görüntü verebilir.
+
+83
+00:07:48.620 --> 00:08:00.750
+Shechtman bunu biliyordu ve tam da bu yüzden numunenin içini karanlık alan görüntülemesiyle taradı; ikizlenmiş bir yapıda mutlaka görülmesi gereken sınırları, o birleşme çizgilerini aradı.
+
+84
+00:08:00.750 --> 00:08:02.000
+Bulamadı.
+
+85
+00:08:02.000 --> 00:08:05.170
+Tanecikler tekti, içleri sürekliydi.
+
+86
+00:08:05.170 --> 00:08:07.860
+Anlattı, kimse dinlemedi.
+
+87
+00:08:07.860 --> 00:08:20.470
+Grubunun kıdemli ismi, kendisi de metalurjinin en saygın kuramcılarından olan John Cahn, ilk tepkisinde konuyu kapattı: git buradan, bunlar ikiz, üstelik ilginç de değil.
+
+88
+00:08:20.470 --> 00:08:26.680
+Grup yöneticisi ona temel bir kırınım ders kitabı uzatıp ikizlenme bölümünü okumasını söyledi.
+
+89
+00:08:26.680 --> 00:08:32.890
+Israr edince çalıştığı ekipten ayrılması istendi; laboratuvarın uyumunu bozduğu söylendi.
+
+90
+00:08:32.890 --> 00:08:40.380
+1983'te Technion'a döndü ve orada onu ciddiye alan ilk kişiyi buldu: Ilan Blech.
+
+91
+00:08:40.380 --> 00:08:50.270
+Blech, birbirine rastgele açılarla bağlanmış ikosahedronlardan oluşan bir yapı modeli kurdu ve bilgisayarda bu yapının nasıl bir kırınım vereceğini hesapladı.
+
+92
+00:08:50.270 --> 00:08:53.600
+Sonuç Shechtman'ın fotoğrafına benziyordu.
+
+93
+00:08:53.600 --> 00:08:57.090
+İkisi birlikte bir makale yazıp gönderdiler.
+
+94
+00:08:57.090 --> 00:09:08.740
+Uygulamalı Fizik Dergisi, yani Journal of Applied Physics, makaleyi hakemlere bile göndermeden geri çevirdi; gerekçe, konunun derginin fizikçi okurlarını ilgilendirmeyeceğiydi.
+
+95
+00:09:08.740 --> 00:09:12.710
+Dönüm noktası 1984 yazında geldi.
+
+96
+00:09:12.710 --> 00:09:16.200
+Shechtman reddedilen müsveddeyi Cahn'a gösterdi.
+
+97
+00:09:16.200 --> 00:09:22.890
+Cahn iki yıl önceki adam değildi artık; veriye bakmış, ikizlenme açıklamasının tutmadığını görmüştü.
+
+98
+00:09:22.890 --> 00:09:29.900
+Fransız kristalograf Denis Gratias'yı devreye soktu; Gratias bütün alternatif açıklamaları tek tek eledi.
+
+99
+00:09:29.900 --> 00:09:41.070
+Dört imzalı makale, fiziğin en görünür dergilerinden Physical Review Letters'a, kısaca Fizik Mektupları'na gönderildi ve 12 Kasım 1984'te yayımlandı.
+
+100
+00:09:41.070 --> 00:09:49.200
+Başlığı, iddianın kendisiydi: uzun menzilli yönelim düzeni olan, ama öteleme simetrisi olmayan bir metalik faz.
+
+101
+00:09:49.200 --> 00:09:57.330
+Makale yayımlandıktan sonraki haftalarda dünyanın dört bir yanındaki laboratuvarlar aynı alaşımı üretip aynı deseni gördü.
+
+102
+00:09:57.330 --> 00:09:59.540
+Sonuç tekrarlanabilirdi.
+
+103
+00:09:59.540 --> 00:10:04.150
+Ama tekrarlanabilir olması, kabul edildiği anlamına gelmedi.
+
+104
+00:10:04.150 --> 00:10:13.720
+Karşı cephenin başında bilim tarihinin en ağır isimlerinden biri duruyordu: kimyasal bağ kuramının mimarı, iki Nobel ödüllü Linus Pauling.
+
+105
+00:10:13.720 --> 00:10:26.010
+Pauling, yapının aslında dev birim hücreli, binden fazla atomlu, karmaşık biçimde ikizlenmiş sıradan bir kristal olduğunu savunan modeller yayımladı; modeli tutmayınca yenisini önerdi.
+
+106
+00:10:26.010 --> 00:10:34.460
+Bir konferansta söylediği cümle bu tartışmanın simgesi hâline geldi: kuazikristal diye bir şey yok, kuazi-bilim insanları var.
+
+107
+00:10:34.460 --> 00:10:38.270
+Pauling'in tutumunu kötü niyete bağlamak haksızlık olur.
+
+108
+00:10:38.270 --> 00:10:44.480
+Savunduğu şey kendi kaprisi değildi; 70 yıllık kristalografinin temel aksiyomuydu.
+
+109
+00:10:44.480 --> 00:10:48.610
+Bir tarafta bir teorem, öbür tarafta bir fotoğraf vardı.
+
+110
+00:10:48.610 --> 00:10:55.940
+Hiç kimse, o fotoğrafın teoremi çürütmediğini, teoremin sorduğu sorunun yanlış soru olduğunu henüz söylememişti.
+
+111
+00:10:55.940 --> 00:10:58.950
+Oysa cevap on yıldır ortada duruyordu.
+
+112
+00:10:58.950 --> 00:11:02.280
+Yalnızca kimse iki masayı yan yana getirmemişti.
+
+113
+00:11:02.280 --> 00:11:13.290
+1974'te matematikçi Roger Penrose, kâğıt üzerinde bir oyunla uğraşıyordu: bir düzlemi hiç tekrar etmeden, ama tamamen kurallı biçimde kaplayabilir misiniz?
+
+114
+00:11:13.290 --> 00:11:15.980
+Sonunda iki parçaya indirdi.
+
+115
+00:11:15.980 --> 00:11:21.870
+Uçurtma ve ok diye anılan, ikisi de altın orandan türeyen açılara sahip iki dörtgen.
+
+116
+00:11:21.870 --> 00:11:28.720
+Parçaların kenarlarına, hangisinin hangisiyle nasıl birleşebileceğini söyleyen eşleşme kuralları koydu.
+
+117
+00:11:28.720 --> 00:11:38.130
+Bu kurallara uyarak döşediğinizde düzlem sonsuza kadar kaplanıyor, hiçbir boşluk kalmıyor ve desen hiçbir öteleme ile kendi üzerine oturmuyordu.
+
+118
+00:11:38.130 --> 00:11:41.300
+Yani hiçbir yerde tekrar etmiyordu.
+
+119
+00:11:41.300 --> 00:11:46.870
+Yine de rastgele değildi: hangi parçanın nereye geleceği tamamen belirliydi.
+
+120
+00:11:46.870 --> 00:11:56.760
+Üstelik döşemedeki uçurtma sayısının ok sayısına oranı, sonsuza gittiğinizde tam olarak 1,618'e, altın orana yaklaşıyordu.
+
+121
+00:11:56.760 --> 00:12:03.130
+Beş katlı simetriyi yasaklayan sayı, beş katlı simetriyi mümkün kılan desenin de merkezindeydi.
+
+122
+00:12:03.130 --> 00:12:09.500
+İkinci parça, 1982'de İngiliz kristalograf Alan Mackay'den geldi.
+
+123
+00:12:09.500 --> 00:12:16.510
+Mackay, Penrose'un deseninin her köşe noktasına birer atom koyduğunuzda ne olacağını merak etti.
+
+124
+00:12:16.510 --> 00:12:28.640
+Deseni saydam bir maskeye bastırdı, bir optik kırınım düzeneğinden geçirdi ve çıkan görüntüyü yayımladı: bulanık bir leke değil, keskin noktalardan oluşan on katlı simetrik bir desen.
+
+125
+00:12:28.640 --> 00:12:37.730
+Yazısında bir de uyarı vardı; beş katlı simetrinin imkânsızlığına inanmayı sürdürürsek, karşımıza çıktığında onu görmezden gelebilirdik.
+
+126
+00:12:37.730 --> 00:12:43.460
+Bu satırlar Shechtman'ın makalesinden önce basılmıştı ve neredeyse hiç fark edilmedi.
+
+127
+00:12:43.460 --> 00:12:47.590
+Üçüncü parçayı Dov Levine ile Paul Steinhardt taktı.
+
+128
+00:12:47.590 --> 00:12:56.680
+Fizik Mektupları'nda, Shechtman'ın makalesinden yalnızca beş hafta sonra, 24 Aralık 1984'te bir yazı yayımladılar.
+
+129
+00:12:56.680 --> 00:13:04.650
+Penrose döşemesinin üç boyutlu, ikosahedral karşılığını kurmuş ve bu yapının vereceği kırınım desenini hesaplamışlardı.
+
+130
+00:13:04.650 --> 00:13:09.420
+Hesap, Shechtman'ın laboratuvarda çektiği fotoğrafla örtüşüyordu.
+
+131
+00:13:09.420 --> 00:13:15.950
+Yeni madde sınıfına adını da onlar verdiler: quasicrystal, Türkçede kuazikristal.
+
+132
+00:13:15.950 --> 00:13:21.200
+Kilit kavram kuasiperiyodikliktir ve tek boyutta anlaşılması kolaydır.
+
+133
+00:13:21.200 --> 00:13:32.210
+Bir çizgi üzerine iki farklı uzunlukta çubuk diziyorsunuz, uzun ve kısa, ama sıralarını Fibonacci kuralıyla belirliyorsunuz: her adımda diziyi bir öncekiyle birleştiriyorsunuz.
+
+134
+00:13:32.210 --> 00:13:36.180
+Ortaya çıkan sıra hiçbir yerde kendini tekrar etmez.
+
+135
+00:13:36.180 --> 00:13:44.950
+Ama rastgele de değildir; tek bir kuraldan çıkar, her adımı öngörülebilir ve uzunlukların oranı yine altın orana gider.
+
+136
+00:13:44.950 --> 00:13:54.360
+İşte bu yüzden böyle bir yapıdan saçılan dalgalar birbirini söndürmez, belirli yönlerde üst üste binip keskin noktalar bırakır.
+
+137
+00:13:54.360 --> 00:13:58.170
+Yanlış olan gözlem değildi; yanlış olan çıkarımdı.
+
+138
+00:13:58.170 --> 00:14:01.980
+Keskin kırınım noktaları periyodikliğin kanıtı değildi.
+
+139
+00:14:01.980 --> 00:14:04.670
+Uzun menzilli düzenin kanıtıydı.
+
+140
+00:14:04.670 --> 00:14:09.760
+Periyodiklik ise bu düzenin yalnızca en tanıdık, en dar hâliydi.
+
+141
+00:14:09.760 --> 00:14:21.570
+Bugün bu yapıları tarif etmenin en zarif yolu şudur: bir kuazikristal, altı boyutlu kusursuz periyodik bir örgünün, üç boyutlu uzayımıza eğik bir açıyla düşen kesitidir.
+
+142
+00:14:21.570 --> 00:14:25.700
+Düzen bozulmamıştır; yalnızca gölgesine bakıyoruzdur.
+
+143
+00:14:25.700 --> 00:14:30.470
+Kristalografik kısıtlama teoremi çürütülmedi; bugün de doğrudur.
+
+144
+00:14:30.470 --> 00:14:35.400
+Çürüyen şey, teoremin bütün katı maddeleri kapsadığı varsayımıydı.
+
+145
+00:14:35.400 --> 00:14:41.290
+1992'de Uluslararası Kristalografi Birliği kristalin tanımını değiştirdi.
+
+146
+00:14:41.290 --> 00:14:49.420
+Yeni tanım periyodiklikten söz etmez; bir kristal, esas olarak keskin noktalardan oluşan bir kırınım deseni veren katıdır.
+
+147
+00:14:49.420 --> 00:14:54.190
+Bir gözlem, bilimin en eski tanımlarından birini yeniden yazdırmıştı.
+
+148
+00:14:54.190 --> 00:15:01.840
+2011 Kimya Nobel Ödülü, kuazikristallerin keşfi gerekçesiyle, tek başına Dan Shechtman'a verildi.
+
+149
+00:15:01.840 --> 00:15:04.050
+Sonrası daha da tuhaflaştı.
+
+150
+00:15:04.050 --> 00:15:11.060
+Bu maddelerin ancak laboratuvarda, aşırı hızlı soğutmayla yapılabilecek yapay şeyler olduğu düşünülüyordu.
+
+151
+00:15:11.060 --> 00:15:24.790
+Luca Bindi ile Paul Steinhardt yıllarca doğal bir örnek aradı ve 2009'da Floransa'daki bir müze koleksiyonunda duran küçük bir mineral parçasında buldular: alüminyum, bakır ve demirden oluşan,
+
+152
+00:15:24.790 --> 00:15:29.560
+ikosahedral simetrili gerçek bir kuazikristal.
+
+153
+00:15:29.560 --> 00:15:32.410
+Ona ikosahedrit adı verildi.
+
+154
+00:15:32.410 --> 00:15:44.860
+Parçanın izi 1979'da Sovyet jeologlarının Rusya'nın uzak doğusuna yaptığı bir araştırma gezisine kadar sürüldü; 2011'de Çukotka'daki Koryak Dağları'na düzenlenen bir sefer,
+
+155
+00:15:44.860 --> 00:15:49.950
+dere yataklarını eleyerek aynı malzemeden milimetrik parçalar daha çıkardı.
+
+156
+00:15:49.950 --> 00:15:55.200
+Kaynağı Hatırka göktaşıydı, karbonlu kondrit türünden ilkel bir göktaşı.
+
+157
+00:15:55.200 --> 00:16:05.730
+Yani bu yapı, Güneş Sistemi'nin doğuşundan kalma, yaklaşık 4,5 milyar yıllık bir çarpışmanın basıncı ve ısısı altında, hiçbir insan eli değmeden oluşmuştu.
+
+158
+00:16:05.730 --> 00:16:14.180
+Doğa, imkânsız denen simetriyi Dünya üzerinde ilk kristalografi kitabı yazılmadan milyarlarca yıl önce yapmıştı bile.
+
+159
+00:16:14.180 --> 00:16:20.870
+Sonraki yıllarda ilk nükleer denemenin camlaştırdığı çöl kumunda bile kuazikristal bulundu.
+
+160
+00:16:20.870 --> 00:16:24.840
+Bugün bu maddeler bir merak nesnesi olmanın ötesine geçti.
+
+161
+00:16:24.840 --> 00:16:33.770
+Metallerden yapıldıkları hâlde çoğu metal gibi davranmıyorlar: çok sert, çok kaygan, ısıyı ve elektriği kötü iletiyorlar.
+
+162
+00:16:33.770 --> 00:16:46.060
+Çelik içine mikroskobik taneler hâlinde katıldıklarında malzemeyi sertleştiriyorlar; cerrahi iğnelerde, diş hekimliği aletlerinde ve jilet ağızlarında kullanılan alaşımlarda karşımıza çıkıyorlar.
+
+163
+00:16:46.060 --> 00:16:56.270
+Aşınmaya dayanıklı ve sürtünmesi düşük kaplamalar, motorlarda ısı yalıtımı, atık ısıyı elektriğe çeviren termoelektrik malzemeler üzerine çalışmalar sürüyor.
+
+164
+00:16:56.270 --> 00:17:01.840
+Yapıştırmaz tava kaplaması olarak denenip ticari ömrünü tamamlayanı bile oldu.
+
+165
+00:17:01.840 --> 00:17:15.250
+Bir de şu var: 2007'de Peter Lu ile Steinhardt, İslam mimarisindeki girih çinilerini inceleyip 1453 tarihli İsfahan'daki Darbı İmam türbesinin cephesindeki desenin,
+
+166
+00:17:15.250 --> 00:17:20.340
+Penrose döşemesine çok yaklaşan kuasiperiyodik bir yapı taşıdığını gösterdi.
+
+167
+00:17:20.340 --> 00:17:30.070
+Bunu ortaçağ ustalarının modern kuazikristal kuramını bildiği anlamına gelen bir iddia olarak okumamak gerekir; onların elinde matematiksel bir kuram değil,
+
+168
+00:17:30.070 --> 00:17:35.480
+olağanüstü bir geometrik sezgi ve ustadan çırağa geçen bir çini takımı vardı.
+
+169
+00:17:35.480 --> 00:17:44.890
+Ama bir zeminin, tekrar etmeden de kusursuz biçimde kaplanabileceğini insanların yüzyıllar önce sezmiş olması, hikâyenin en güzel dipnotudur.
+
+170
+00:17:44.890 --> 00:17:51.260
+Bu hikâyenin bıraktığı ders, otoriteye direnen yalnız kahraman klişesinden daha ince bir şey.
+
+171
+00:17:51.260 --> 00:17:57.470
+Kimse veriyi görmezden gelmedi; herkes veriyi, elindeki tanımın içine sığdırmaya çalıştı.
+
+172
+00:17:57.470 --> 00:18:01.280
+Sığmayınca da hatanın veride olduğunu varsaydı.
+
+173
+00:18:01.280 --> 00:18:03.650
+Oysa hata tanımdaydı.
+
+174
+00:18:03.650 --> 00:18:11.140
+Düzenin tek bir biçimi olduğunu sanıyorduk ve doğa, düzenli olmanın tekrar etmekle aynı şey olmadığını gösterdi.
+
+175
+00:18:11.140 --> 00:18:17.830
+O ihtimal, bir laboratuvar defterinin sayfasında, üç soru işaretinin arkasında iki yıl bekledi.
+
+176
+00:18:17.830 --> 00:18:21.480
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+177
+00:18:21.480 --> 00:18:24.490
+Yeni bir hikâyede yeniden buluşmak üzere.
