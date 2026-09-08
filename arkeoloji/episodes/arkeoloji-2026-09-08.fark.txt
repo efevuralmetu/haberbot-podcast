@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-08.mp3
+
+beklenen 2751 kelime | duyulan 2764 kelime | eşleşme %96.4
+sayı ifadesi: metinde 341, duyulanda 285  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dokunamaz sonra isim verir
+      metin  : thonis
+      duyulan: tonis
+  REPLACE  ...paris sparta kralının karısı
+      metin  : helene yi
+      duyulan: helena yı
+  REPLACE  ...da kanopos ağzına savurur
+      metin  : thonis
+      duyulan: tonis
+  REPLACE  ...söylediği bu anlatıya göer
+      metin  : helene
+      duyulan: helena
+  REPLACE  ...durum vardır mısır kaynakları
+      metin  : thonis
+      duyulan: tonis
+  INSERT   ...dramatik değildi milattan önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anlamsız kılıyorlardı kimse yüzlerce
+      metin  : kilometrekarelik
+      duyulan: kilometer karelik
+  REPLACE  ...savaş gemileri çökmüş körfezdi
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ortasında fransız araştırmacı frank
+      metin  : godyo
+      duyulan: gaudio
+  REPLACE  ...ve kurucusu olduğu enstitü
+      metin  : öropeyen
+      duyulan: europeyen
+  INSERT   ...sistematik biçimde haritalamaya girişti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kazı değil tarama projesiydi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...nün kullandığı ana alet
+      metin  : komisarya a lenerji
+      duyulan: komisarye alenerji
+  REPLACE  ...manyetometreydi nükleer manyetik rezonans
+      metin  : ilkesiyle
+      duyulan: i lkesi ile
+  REPLACE  ...temeller kırılmış çanak çömlek
+      metin  : yığınları
+      duyulan: yağınları
+  REPLACE  ...verileri uydu destekli hassas
+      metin  : konumlandırmayla
+      duyulan: konumlandırma ile
+  INSERT   ...konuşmaya başladı deniz tabanından
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...amon a ve oğlu
+      metin  : khonsu ya
+      duyulan: konsuya
+  REPLACE  ...kenti bulmuştu bu kentin
+      metin  : thonis mi
+      duyulan: ton ismi
+  REPLACE  ...çıkarılan şey koyu renkli
+      metin  : granodiyoritten
+      duyulan: granodyoritten
+  DELETE   ...olan üzerindeki yazının durumuydu
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çökeltinin yatan bu taşın
+      metin  : hiyeroglifleri
+      duyulan: hieroglifleri
+  REPLACE  ...yani sais kentindeki tanrıça
+      metin  : neith in
+      duyulan: nathan
+  INSERT   ...kelimesi kelimesine aynı metin
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...elde teki vardı ferman
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...e dikilmişti uzun süer
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...fermanları kendilerinin nereye dikileceğini
+      metin  : metnin
+      duyulan: metin in
+  REPLACE  ...yazan ad herakleion değildi
+      metin  : thonis ti
+      duyulan: tonist i
+  REPLACE  ...kendi ağzından söylüyordu burası
+      metin  : thonis
+      duyulan: tonist
+  REPLACE  ...şehirdi mısırlıların kendi dilinde
+      metin  : thonis
+      duyulan: tonist
+  REPLACE  ...var olduğunu da açıklıyordu
+      metin  : thonis
+      duyulan: tonist
+  REPLACE  ...nil in ağzındaki bekçi
+      metin  : thonis
+      duyulan: tonist
+  INSERT   ...kayıtlara numarayla giren tekne
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...önemli olduğunu tahmin etmiyordu
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...kenarlarından geçmeli bağlantılarla eklenir
+      metin  : (yok)
+      duyulan: don
+  DELETE   ...ağaç da alışılmadıktı akasya
+      metin  : akasya
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...eksiklikten doğmuş çözümdü uzun
+      metin  : kereste
+      duyulan: keres de
+  REPLACE  ...vardır herodotos bu tekneye
+      metin  : baris der
+      duyulan: bar ister
+  REPLACE  ...zıvanalarla birbirine geçirildiğini anlatır
+      metin  : derzlerin
+      duyulan: derslerin
+  REPLACE  ...taş sürüklenir bu tarif
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-09-08.duyulan.txt

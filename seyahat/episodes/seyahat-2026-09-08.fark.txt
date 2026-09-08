@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-08.mp3
+
+beklenen 1815 kelime | duyulan 1816 kelime | eşleşme %97.2
+sayı ifadesi: metinde 200, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...belirli aralıklarına açılmış delikler
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...sonra da kırmızıyla boyanıyor
+      metin  : zencafur
+      duyulan: zencefur
+  REPLACE  ...göz motifleri hurma dalı
+      metin  : tuareg haçı
+      duyulan: tuhaer kağıçı
+  REPLACE  ...adı taşıyor tesku ait
+      metin  : velid
+      duyulan: velit
+  INSERT   ...akrabalığa açıldığını tarif ediyor
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...geçiyor septimius severus zamanında
+      metin  : (yok)
+      duyulan: lü
+  REPLACE  ...bizans tan gelen misyonerlerle
+      metin  : hristiyanlık
+      duyulan: hıristiyanlık
+  REPLACE  ...gadamis te uçtan öbür
+      metin  : uca
+      duyulan: uça
+  REPLACE  ...edip geri dönmüş atlardan
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...şeyin susmasını izlemek başka
+      metin  : gadamis in
+      duyulan: gadamistin
+  REPLACE  ...susuzlukla değil konforla geldi
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...şehrin hemen dışına yeni
+      metin  : gadamis
+      duyulan: gadamist
+  REPLACE  ...şeyi sunmuyordu serinliği beton
+      metin  : kerpicin
+      duyulan: kerpiçin
+  REPLACE  ...daha bunaltıcı ve işte
+      metin  : gadamis in
+      duyulan: gadamistin
+  REPLACE  ...sahibin anahtarı her anahtarın
+      metin  : mevsimi
+      duyulan: mevsim
+  REPLACE  ...her anahtarın mevsimi var
+      metin  : gadamis
+      duyulan: gadamist
+  INSERT   ...daha ağır darbeler aldı
+      metin  : (yok)
+      duyulan: ki deki
+  REPLACE  ...iç savaşın ardından şehrin
+      metin  : tuareg
+      duyulan: tuarek
+  INSERT   ...sağanakta kendini toprağa bırakır
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...şiddetli yağışlar gerekçesiyle eski
+      metin  : gadamis
+      duyulan: gadamist
+  INSERT   ...mirası listesine aldı şehir
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...gelen kurtarma operasyonu değil
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...s college kısaca londra
+      metin  : kings koleji
+      duyulan: king s college i
+  REPLACE  ...libya eski eserler dairesi
+      metin  : gadamis
+      duyulan: gadamist
+  REPLACE  ...kırmızı duvar resmi geleneği
+      metin  : zencafuru
+      duyulan: zenkafuru
+  REPLACE  ...tamamen kadınların yürüttüğü kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...hala açılıyor hala anahtarı
+      metin  : çeviriyor
+      duyulan: çıkıyor
+  REPLACE  ...hala ayakta soruyu soranların
+      metin  : çoğu
+      duyulan: bu
+  REPLACE  ...artık başka evde uyuyor
+      metin  : nöron seyahat de
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: seyahat-2026-09-08.duyulan.txt

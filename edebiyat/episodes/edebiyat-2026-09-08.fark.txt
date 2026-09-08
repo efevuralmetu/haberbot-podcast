@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-08.mp3
+
+beklenen 1684 kelime | duyulan 1728 kelime | eşleşme %92.7
+sayı ifadesi: metinde 333, duyulanda 186  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kadar sertleşiyordu ağustos ta
+      metin  : zürih
+      duyulan: zürich
+  REPLACE  ...nin göz hekimi ernst
+      metin  : zidler
+      duyulan: ziddler
+  INSERT   ...tohumu çok eskiydi joyce
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yazmayı düşünmüş sonra vazgeçmişti
+      metin  : triyeste
+      duyulan: te trieste
+  INSERT   ...şehirde geçen tek gün
+      metin  : (yok)
+      duyulan: dom
+  INSERT   ...bu tarih rastgele değildi
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...haziran joyce un nora
+      metin  : barnacle ile
+      duyulan: barnacal ı ya
+  REPLACE  ...taşıyabileceğinden ağır yük koydu
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...romanın bölümü homeros un
+      metin  : odysseia sındaki
+      duyulan: odysseysindeki
+  INSERT   ...bile ömrünü yerdi joyce
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...para da yoktu joyce
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...shaw weaver adlı kadın
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...un aracılığıyla ulysses mart
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kriz yazında patladı kitabın
+      metin  : nausikaa
+      duyulan: nauci k
+  REPLACE  ...derneği nin sekreteri john
+      metin  : sumner
+      duyulan: somner
+  INSERT   ...sumner dava açtırdı şubat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...müstehcen yayından suçlu buldu
+      metin  : (yok)
+      duyulan: şer
+  REPLACE  ...şehirleri ve yılları yazdı
+      metin  : triyeste zürih
+      duyulan: trieste zürich
+  INSERT   ...ve paris e yerleşip
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kısaca shakespeaer kitabevi dükkan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vardı kitabı basmadan satmak
+      metin  : nüshalık
+      duyulan: nüsalık
+  REPLACE  ...ilan edildi i lk
+      metin  : nüsha
+      duyulan: nüşağ
+  REPLACE  ...imzalanacaktı fiyatı franktı sonraki
+      metin  : nüsha
+      duyulan: nüşağ
+  REPLACE  ...sonraki nüsha frank kalan
+      metin  : nüsha franktı
+      duyulan: nüşağ frank tı
+  REPLACE  ...ve karşılığında gelen paralarla
+      metin  : matbaa
+      duyulan: kitaba
+  REPLACE  ...dönem portresidir william butler
+      metin  : yeats
+      duyulan: yates
+  REPLACE  ...william butler yeats ander
+      metin  : jid
+      duyulan: jitt
+  REPLACE  ...kaydı olarak niteledi joyce
+      metin  : beach
+      duyulan: beech
+  REPLACE  ...joyce beach ile shaw
+      metin  : ın
+      duyulan: un
+  REPLACE  ...işi dijon daki matbaacı
+      metin  : moris darantiyer
+      duyulan: maurice darantièer
+  REPLACE  ...moris darantiyer e verildi
+      metin  : darantiyer
+      duyulan: darantièer
+  REPLACE  ...ize sıradan roman değildi
+      metin  : uydurulmuş
+      duyulan: durulmuş
+  REPLACE  ...kitap ilk teslim ettiği
+      metin  : metne
+      duyulan: metin e
+  INSERT   ...vardı joyce kitabı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şey istedi hiç değilse
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...paris te olsun darantiyer
+      metin  : nüshayı
+      duyulan: nüşayı
+  INSERT   ...trenine kondüktörün eline verdi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...şubat sabahı sylvia beach
+      metin  : liyon garı nın
+      duyulan: lyongar ının
+  REPLACE  ...sahibine uzatıyordu i kinci
+      metin  : nüsha
+      duyulan: nüşa
+  INSERT   ...mesele ülkeleer sokabilmekti ekim
+      metin  : (yok)
+      duyulan: de
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 71 kelime | duyulup metinde OLMAYAN: 117
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: edebiyat-2026-09-08.duyulan.txt

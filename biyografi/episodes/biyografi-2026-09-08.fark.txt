@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-08.mp3
+
+beklenen 2531 kelime | duyulan 2575 kelime | eşleşme %96.4
+sayı ifadesi: metinde 399, duyulanda 257  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...gözünün göremediği şeyi kanıtladı
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...andı thames kıyısındaki kingston
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...tüccarın işi buydu nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gururu vardı kasabanın meydanında
+      metin  : sakson
+      duyulan: saxon
+  REPLACE  ...yazımlarıyla duruyordu o adlardan
+      metin  : eadweard dı
+      duyulan: edward tı
+  INSERT   ...ticareti babasının hayatıydı değil
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...hayatıydı değil yaşlarının başında
+      metin  : atlantiği
+      duyulan: atlantiyi
+  REPLACE  ...başında atlantiği geçti ve
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...san francisco ya yerleşti
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...amerika da süer kendini
+      metin  : muygridge
+      duyulan: muggeridge
+  REPLACE  ...muygridge diye yazdı sonra
+      metin  : muybridge
+      duyulan: muggeridge
+  REPLACE  ...o taşın üzerinde okuduğu
+      metin  : sakson
+      duyulan: saxon
+  REPLACE  ...okuduğu sakson yazımını benimsedi
+      metin  : eadweard
+      duyulan: edwyrd
+  INSERT   ...silip baştan başlayan adam
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...posta hattı missouri den
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kaza da öyleydi temmuz
+      metin  : teksas
+      duyulan: ta texas
+  REPLACE  ...söyleyecekti saçlarının gün içinde
+      metin  : ağardığı
+      duyulan: ağırdığı
+  REPLACE  ...ünlü hekimlerinden sir william
+      metin  : gul
+      duyulan: gould
+  REPLACE  ...sir william gul baktı
+      metin  : gul ün
+      duyulan: gould un
+  INSERT   ...kelimenin tam anlamıyla uyguladı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...tam anlamıyla uyguladı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yayımlıyor kendi tabiriyle uçan
+      metin  : stüdyo ile
+      duyulan: stüdyoyla
+  REPLACE  ...hesaba kattı kimi zaman
+      metin  : kadrajın
+      duyulan: kadracın
+  INSERT   ...baştan görüntüyü yönetmenin peşindeydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...deniz fenerlerini kayda geçirdi
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...geçirdi kaliforniya oregon sınırındaki
+      metin  : modoc
+      duyulan: modok
+  INSERT   ...sınırındaki modoc çatışmasını görüntüledi
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...ünlü adam soru sordu
+      metin  : leland
+      duyulan: leyland
+  REPLACE  ...soru sordu leland stanford
+      metin  : kaliforniya
+      duyulan: california
+  INSERT   ...de hiçbir insan gözü
+      metin  : (yok)
+      duyulan: nala
+  INSERT   ...sınayacak araç yoktu stanford
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olan hızlı tırıs atı
+      metin  : occident ti
+      duyulan: oksidentti
+  REPLACE  ...gövdesi bu parlak zeminde
+      metin  : siluet
+      duyulan: silüet
+  INSERT   ...değiştirdi duyarlılığı artırmaya çalıştı
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...parası vardı kendisinin fikri
+      metin  : (yok)
+      duyulan: el
+  INSERT   ...tek tabanca kurşunuydu mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşındaki fotoğrafçı yaşındaki flora
+      metin  : shallcross
+      duyulan: shalcross
+  REPLACE  ...ayrılmıştı fotoğraf atölyelerinde negatif
+      metin  : rötuşçusu
+      duyulan: rütuşçusu
+  REPLACE  ...boyunca sonra stanford ın
+      metin  : harasında
+      duyulan: arasında
+  REPLACE  ...döndüğünde de zihni oradaydı
+      metin  : deklanşörlerde
+      duyulan: deklansörlerde
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: biyografi-2026-09-08.duyulan.txt

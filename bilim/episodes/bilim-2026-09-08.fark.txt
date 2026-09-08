@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-08.mp3
+
+beklenen 1787 kelime | duyulan 1821 kelime | eşleşme %93.5
+sayı ifadesi: metinde 352, duyulanda 256  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...işareti çizdi karşısındaki desen
+      metin  : kristalografinin
+      duyulan: kristallografinin
+  INSERT   ...bulgusunu anlattığında grubundan atıldı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...parçalar üst üste binmeyecek
+      metin  : eşkenar
+      duyulan: eşkener
+  REPLACE  ...derecenin katı tam eder
+      metin  : kareyle
+      duyulan: karayla
+  REPLACE  ...tam eder kareyle yaparsınız
+      metin  : dördü
+      duyulan: ü
+  DELETE   ...buluşur çarpı yine düzgün
+      metin  : altıgenle
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yine düzgün altıgenle yaparsınız
+      metin  : (yok)
+      duyulan: ü
+  DELETE   ...ve iş orada bozulur
+      metin  : beşgenin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...beşgenin iç açısı derecedir
+      metin  : (yok)
+      duyulan: ı e
+  INSERT   ...böldüğünüzde tam sayısı çıkmaz
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...ince dilim açıkta kalır
+      metin  : (yok)
+      duyulan: üncüyü
+  REPLACE  ...ciddi ciddi denemiş adamlardan
+      metin  : kepler di
+      duyulan: keplerdi da
+  DELETE   ...di yayımladığı geometri çalışmasında
+      metin  : beşgenlerle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kuruludur periyodiklik hücer alırsınız
+      metin  : içinde atom
+      duyulan: i çinde aton
+  INSERT   ...derecelik dönmede çıkan sayı
+      metin  : (yok)
+      duyulan: dir
+  INSERT   ...sahip olabilir olamaz olamaz
+      metin  : (yok)
+      duyulan: mez
+  REPLACE  ...olamaz olamaz olamaz buna
+      metin  : kristalografik
+      duyulan: kristallografik
+  REPLACE  ...simetrisini nasıl ölçersiniz kırınımla
+      metin  : fon
+      duyulan: de von
+  REPLACE  ...laue kristalin üzerine x
+      metin  : ışını
+      duyulan: ışığını
+  REPLACE  ...bırakır keskin noktalar yani
+      metin  : bragg
+      duyulan: bırak
+  REPLACE  ...kendi simetrisini taşırdı katlı
+      metin  : simetrili
+      duyulan: simetri
+  REPLACE  ...kapanmıştı keskin kırınım noktaları
+      metin  : periyodikliğin
+      duyulan: periodikliğin
+  REPLACE  ...kırınım noktaları periyodikliğin kanıtıydı
+      metin  : periyodiklik
+      duyulan: periodiklik
+  REPLACE  ...sabahı maryland de elektron
+      metin  : mikroskobunun
+      duyulan: mikroskopunun
+  REPLACE  ...olarak o şey belirdi
+      metin  : gaithersburg
+      duyulan: geithersburg
+  REPLACE  ...çalışan adamın adı dan
+      metin  : şehtman
+      duyulan: schechtman
+  REPLACE  ...i srail teknoloji enstitüsü
+      metin  : teknion
+      duyulan: technion
+  INSERT   ...baktığı numunenin defterindeki sırası
+      metin  : (yok)
+      duyulan: ti
+  INSERT   ...defterindeki sırası atomlarının yaklaşık
+      metin  : (yok)
+      duyulan: sı
+  DELETE   ...sırası atomlarının yaklaşık alüminyum
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...asıl işi yaptı numuneyi
+      metin  : mikroskobun
+      duyulan: mikroskopun
+  REPLACE  ...değildi bu ikosahedronun yani
+      metin  : eşkenar üçgenden
+      duyulan: eşkener üçkenden
+  REPLACE  ...dizilirse katlı görüntü verebilir
+      metin  : şehtman
+      duyulan: şeytman
+  REPLACE  ...saygın kuramcılarından olan john
+      metin  : cahn
+      duyulan: chan
+  REPLACE  ...laboratuvarın uyumunu bozduğu söylendi
+      metin  : teknion
+      duyulan: te technion
+  REPLACE  ...ilk kişiyi buldu ilan
+      metin  : bleh bleh
+      duyulan: bile bile
+  REPLACE  ...kırınım vereceğini hesapladı sonuç
+      metin  : şehtman
+      duyulan: şeytman
+  REPLACE  ...konunun derginin fizikçi okurlarını
+      metin  : ilgilendirmeyeceğiydi
+      duyulan: ilgilendirmeyecekti
+  REPLACE  ...dönüm noktası yazında geldi
+      metin  : şehtman
+      duyulan: şeytman
+  REPLACE  ...geldi şehtman reddedilen müsveddeyi
+      metin  : cahn
+      duyulan: cahan
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: bilim-2026-09-08.duyulan.txt

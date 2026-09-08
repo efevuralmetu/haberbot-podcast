@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-08.mp3
+
+beklenen 1544 kelime | duyulan 1530 kelime | eşleşme %94.6
+sayı ifadesi: metinde 183, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kimse i talyan yapımı
+      metin  : kovboy
+      duyulan: kovvoy
+  REPLACE  ...roberto roberti diye takma
+      metin  : ad
+      duyulan: at
+  REPLACE  ...gelmişti alman yapımcıların çektiği
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...yaklaşık dolar olan küçük
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...rakam filmin ilk adı
+      metin  : i l manyifiko
+      duyulan: il magnifico
+  REPLACE  ...o konuya döneceğiz önce
+      metin  : baş rolü
+      duyulan: başrolu
+  REPLACE  ...henry fonda ydı amerikan
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...ve reddetti james coburn
+      metin  : ün
+      duyulan: un
+  REPLACE  ...yiyordu steve reeves ty
+      metin  : hardin
+      duyulan: harden
+  REPLACE  ...televizyonunda sığır sürücülerini anlatan
+      metin  : rawhide
+      duyulan: rohite
+  REPLACE  ...sürücülerini anlatan rawhide adlı
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...eastwood i talyanca bilmiyordu
+      metin  : kadroda
+      duyulan: cadro da
+  REPLACE  ...sorununun ürünüydü film bittiğinde
+      metin  : jeneriğe
+      duyulan: jeneriye
+  REPLACE  ...adla imza atmıştı yönetmen
+      metin  : serco
+      duyulan: serko
+  REPLACE  ...can maria volonte johnny
+      metin  : wels
+      duyulan: wells
+  REPLACE  ...sebep basitti seyirci amerikan
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...o güne dek çekilmiş
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...boğazlamaktadır tarafta silah kaçakçısı
+      metin  : roho
+      duyulan: rojo
+  REPLACE  ...öbür tarafta şerifin ailesi
+      metin  : baxter lar
+      duyulan: box derler
+  REPLACE  ...sonra birbirine kırdırır amerikan
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...yoktur film boyunca yalnızca
+      metin  : tabutçu piripero
+      duyulan: tabuççu piri pero
+  REPLACE  ...biçimiydi o güne kadar
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...tamamını kaplıyordu terleyen alın
+      metin  : seğiren
+      duyulan: seyren
+  REPLACE  ...önceki bekleyişte toplanır leone
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...ses koydu ennio morricone
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...besteci daha önce başka
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...çinde kırbaç şaklaması çan
+      metin  : örs
+      duyulan: ölç
+  REPLACE  ...kurosawa nın tarihli filmi
+      metin  : yocimbo
+      duyulan: yōjinbo
+  INSERT   ...örgüsü değildi film eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gürültü yoktu sonra ağızdan
+      metin  : ağıza
+      duyulan: ağza
+  REPLACE  ...nın da imzacısı olduğu
+      metin  : bern
+      duyulan: berne
+  REPLACE  ...özgün olmadığını amerikalı yazar
+      metin  : dashiel hammett in
+      duyulan: daşiyel hamettin
+  INSERT   ...tan beslendiğini öne sürdü
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...adam fikrinin da eskiye
+      metin  : carlo goldoni
+      duyulan: charlo goldony
+  DELETE   ...eskiye carlo goldoni nin
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...savundu kurosawa nın amerikan
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...para muhafız dan kazandığını
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...film dünyanın en büyük
+      metin  : kovboy
+      duyulan: cowboy
+  INSERT   ...boyunca gösterilemedi ancak ocak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...genelinde üzerinde hasılat yaptı
+      metin  : (yok)
+      duyulan: ki
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-09-08.duyulan.txt

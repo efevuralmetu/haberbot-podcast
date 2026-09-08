@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-08.mp3
+
+beklenen 2405 kelime | duyulan 2410 kelime | eşleşme %97.3
+sayı ifadesi: metinde 263, duyulanda 233  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıl öncesinden geliyor aristoteles
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...da çarpıcı şey ekliyor
+      metin  : yasa koyucular
+      duyulan: yasak oyuncular
+  REPLACE  ...ilişen özellik için değil
+      metin  : ne ize
+      duyulan: neyze
+  REPLACE  ...kendimi sevmek değil mi
+      metin  : öyleyze
+      duyulan: öyle ize
+  REPLACE  ...ortadan kalkmasıdır fransız düşünür
+      metin  : monteny
+      duyulan: montany
+  REPLACE  ...kişidir yaşamının merkezine oturttuğu
+      metin  : etyen dö la boesi
+      duyulan: etienne de laboisse
+  REPLACE  ...arkadaşlığı yalnızca yıl sürdü
+      metin  : la boesi
+      duyulan: laboisse te
+  REPLACE  ...la boesi yaşında öldü
+      metin  : monteny denemeler inde
+      duyulan: montany denemelerinde
+  REPLACE  ...monteny denemeler inde bu
+      metin  : bağı
+      duyulan: bağ
+  REPLACE  ...antik biyografi yazarı diogenes
+      metin  : laertios
+      duyulan: laertius
+  INSERT   ...nin baş müderrisi henüz
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...adam ebu hamid el
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...adı vardır ve gün
+      metin  : dersanede
+      duyulan: dershanede
+  REPLACE  ...hastalığın kalpten geldiğini söylerler
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...şeyi bırakır kürsüsünü maaşını
+      metin  : unvanını
+      duyulan: ünvanını
+  REPLACE  ...yıllarca yalnız kalır başyapıtı
+      metin  : i hyau ulumi d
+      duyulan: ihya u ulu midi
+  REPLACE  ...kalabalıktan geriye ne kaldı
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...neredeyze soğukkanlı liste verir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...kazançlıyken tutar zararlıyken bırakır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...görmeye başlarsınız buna karşılık
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...evran diye bilinen şeyh
+      metin  : nasirüddin
+      duyulan: nasiruddin
+  REPLACE  ...kırşehir de esnafı özellikle
+      metin  : debbağları
+      duyulan: debbaları
+  REPLACE  ...topladı bu teşkilatın adı
+      metin  : fütüvvetti
+      duyulan: fütüvvetli
+  INSERT   ...faslı seyyah i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ki gençler misafiri hangi
+      metin  : zaviyenin
+      duyulan: zabiyenin
+  INSERT   ...görmek gerekiyor i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ngiliz antropolog robin dunbar
+      metin  : doksanlarda
+      duyulan: larda
+  INSERT   ...asıl ilginç olan bu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...ve adını bildiğiniz kalabalık
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...sıra görüştüğünüz kişi daha
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...bunun bedeli soyut değil
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...genel sağlık şefi vivek
+      metin  : murthy
+      duyulan: murty
+  REPLACE  ...varan zararla karşılaştırılabilir düzeyde
+      metin  : artırıyor
+      duyulan: arttırıyor
+  REPLACE  ...sağlığı meselesi olarak konuşuluyor
+      metin  : öte yandan
+      duyulan: ütayan dan
+  INSERT   ...var harvard üniversitesi nde
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karşılıksız sevebilen olmanız gerekir
+      metin  : gazzali
+      duyulan: gazzaali
+  REPLACE  ...numaranın siz olup olmadığınız
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: felsefe-2026-09-08.duyulan.txt

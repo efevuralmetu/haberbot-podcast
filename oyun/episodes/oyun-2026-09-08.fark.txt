@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-08.mp3
+
+beklenen 1482 kelime | duyulan 1497 kelime | eşleşme %96.7
+sayı ifadesi: metinde 257, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...york un kuzeyindeki chappaqua
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...sonunda sessiz ağaçlıklı sıradan
+      metin  : banliyödür
+      duyulan: banliyodur
+  REPLACE  ...düşen bloklar yanıp sönen
+      metin  : benekler
+      duyulan: bebekler
+  INSERT   ...gönderiyor çoğundan cevap alamıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...insan gibi yürümüyordu zıplamıyor
+      metin  : seğiriyor
+      duyulan: seyiriyor
+  REPLACE  ...için mechner karate hocası
+      metin  : dennis
+      duyulan: deniz
+  REPLACE  ...duyduğu heyecanı yazdı tıpkı
+      metin  : dennis
+      duyulan: deniz
+  INSERT   ...işe yaradığının kanıtıydı karateka
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaradığının kanıtıydı karateka çıktı
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...kanıtıydı karateka çıktı commodoer
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...düşen gerçek bedene ekim
+      metin  : chappaqua
+      duyulan: çapakka
+  REPLACE  ...belirginleştiriyordu mechner insanı değil
+      metin  : siluetin
+      duyulan: silüetin
+  REPLACE  ...ekrandaki küçük adam sürekli
+      metin  : titreyecek seğirecek
+      duyulan: titriyecek seyirecek
+  INSERT   ...tek tuşa basmak demek
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...donmuş kareyi milimetrelik fotoğraf
+      metin  : makinesiyle
+      duyulan: makinesi ile
+  REPLACE  ...tonları yakarak geriye temiz
+      metin  : siluet
+      duyulan: silüet
+  INSERT   ...kılıç tutuşturup düello yaptıramazdı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...yapımı robin hood filminde
+      metin  : errol
+      duyulan: erol
+  INSERT   ...arada hayat devam etti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...cesaretlendirilmekten ölebileceği tek şehir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olmasını istiyordu oyun ekim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...oyun ekim apple ii
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...zamanların efsanevi bilgisayarıydı ama
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oyun dünyası nda charles
+      metin  : ardai
+      duyulan: r dye
+  REPLACE  ...satıyordu yazına gelindiğinde apple
+      metin  : ii
+      duyulan: iq
+  INSERT   ...kendi mecrasını buldu nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yılın temmuzunda japonya da
+      metin  : nec
+      duyulan: nnc
+  INSERT   ...bu kalıbı izledi aralık
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...kısmı daha da büyüktür
+      metin  : pers prensi
+      duyulan: perse prense
+  INSERT   ...şeması bu soydan gelir
+      metin  : (yok)
+      duyulan: t te
+  REPLACE  ...markayı boyuta taşıdı ve
+      metin  : seri
+      duyulan: seriyi
+  INSERT   ...taşımak hikayenin son halkası
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...eski disketleri buldu apple
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kurtarıldı mechner kodu herkesin
+      metin  : erişimine
+      duyulan: erişimini
+  INSERT   ...olarak duruyor david ize
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...zemindi ve sabırlı kardeşti
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 24 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: oyun-2026-09-08.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-08.mp3
+
+beklenen 1547 kelime | duyulan 1838 kelime | eşleşme %14.5
+sayı ifadesi: metinde 187, duyulanda 102  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...crystal itself was rewritten
+      metin  : nisan sabahı amerika nın
+      duyulan: nissan sabaha american and
+  REPLACE  ...sabahı amerika nın maryland
+      metin  : eyaletindeki
+      duyulan: a i let in the key
+  REPLACE  ...nın maryland eyaletindeki gaithersburg
+      metin  : kasabasında
+      duyulan: casabasinda beer
+  REPLACE  ...eyaletindeki gaithersburg kasabasında devlet
+      metin  : laboratuvarının alt katında elektron mikroskobunun başına oturan adamın adı
+      duyulan: laboratory an old cotton the electron micro scope an boshin or to run a demon of the
+  REPLACE  ...oturan adamın adı dan
+      metin  : shechtman dı yaşındaydı technion
+      duyulan: sheckman de yashin died tech neon
+  REPLACE  ...dı yaşındaydı technion dan
+      metin  : yani i srail teknoloji enstitüsü nden izin almış yıllığına
+      duyulan: yan israel technology institution then is in amish be real luna
+  INSERT   ...almış yıllığına national bureau
+      metin  : (yok)
+      duyulan: book at or anibear saw mother autumnal and does an israel or a gear may have active almost get a little jumps to senses be cut to l d arson is sheckman saba aluminum women ganesh karishma dan shekhan india sheraton beer in a micro scope i aer listed electron in a micro scope an yup to shape as it should or no money in a new zeron a beer electron them at a gondola electron not their own dissolution a sharp up such alert wheer a crime that we er not a decennial assuer you this in a current
+  REPLACE  ...yıllığına national bureau of
+      metin  : standards
+      duyulan: this in
+  INSERT   ...bureau of standards a
+      metin  : (yok)
+      duyulan: dinner current of this in a mal s a minute each in the key atom dozen in in beer to girl guess it is this any don t do news they can t in a catch case take earlier saw crystal de or symmetry s i have to be a car a fork has beer al together al together sheckman a crane to parlock nocturnal and be a hulk user in the issue to look larger the zeron in order to say that to attend pain this any theer is a chevron de to put up a nugget and to get a gilear de jani cautious and the kishay cutless symmetry a delay seal a fish cut the beer xns i have to burn a dancer beer goes them al modern the market chin would fuck them in a back market either because a bush looks as though she may kiss yor son is cool and ability janis does good chock and narsen or leader is going to each can carry does going al to gain does going best can nearly didn t nardin bachelors and as bachelors in or alert the kapan my ambush look large color crystal or the item takla chilla shirt beer crystal crystal japan she a tomlornan barely be a huge boy tech raer tech raer copula masada who drake and in a bush look back madam to shemex or another book a sit down chicken sonich docos the social and son under can it land mush mathematics l or a couple of years each tor periodic beer crystal de yonas jabeer ikki each dirt the altar cut the don t miss him a tree level a billish butunola soloclar accuse otters was i grew up in the tech tech sale mister cutless symmetry bullets today octave yeah sector vo yasak beer goes them exactly deal beer tea or emder sheckman an acronym the duran shay or theory me no llamas did he say de deaf terrain ogun yas do not sonra dan buhe kya in an inch och a line iron to sold cut the azimuth arkasona each story sharia to koi mush to corridor a chick to be renamed not makisti de kim se e bullamada kendi kendina e bernie jameril dan de jumely shudu boiler beer at a kyok ilk you up to say hey john makdeel kendini alla namaia chalish makoldo chinku buter decenner in billinan suku jubirachak lama savar de islan me is in the symmetry saheb kuchu crystal beer bernie billerly achillar laya push up yor say electron demethi hips in dan beer dang get char we orta ya sahte beer symmetry chakar yor larder crystallography de girdunus to off this any earn jake is land mail achik larcenas sheckman numuna edu dunder do karan the kalangurun to liri latani lara sunda kisunar lerarada ikisunari okto da hasa numuna e chishitla achillar de a dick chorto echikan symmetry xn nirin in tamama take beer geometric jisme icharite de ordo e kosa hadron
+  REPLACE  ...of standards a yani
+      metin  : ulusal standartlar bürosu na gelmişti yaptığı iş ilk bakışta devrimin sahnesi gibi durmuyordu alüminyumu başka metallerle karıştırıp uçak gövdelerinde işe yarayacak kadar hafif aynı zamanda sert alaşımlar aramak kullandığı yöntemin adı hızlı katılaştırmaydı erimiş metali dönen soğuk bakır tekerin üzerine püskürtüyor sıvı metal tekerin yüzeyine değdiği anda saniyede yaklaşık derecelik hızla soğuyordu bu kadar ani soğumada atomların düzenli sıralara girmeye vakti kalmaz genellikle camsı düzensiz katı elde edersiniz shechtman o sabah alüminyum ve manganez karışımından çıkan ince şeritlerden mikroskoba yerleştirdi elektron mikroskobunun yaptığı şey basitçe şudur numunenin üzerine elektron demeti gönderilir elektronlar atomların dizilişine çarpıp saçılır ve ekranda nokta deseni oluşur bu desene kırınım deseni denir kırınım deseni malzemenin içindeki atom düzeninin tür gölgesidir deseni döndürdüğünüzde kendini kaç kez tekrarlıyorsa kristal
+      duyulan: uslu katlay xn tane uch katlay xn beshtane ikki katlay xn banar birbirindan bombsas kazala rollamaz
+  REPLACE  ...kez tekrarlıyorsa kristal de
+      metin  : o simetriye sahiptir kareye kez kez shechtman ekranda parlak noktaların halka üzerinde eşit aralıklarla dizildiğini gördü saydı tane deseni derece çevirdiğinde tıpatıp aynı görüntü geri geliyordu yani karşısındaki şey katlı simetriye dolayısıyla katlı eksene sahipti bunun neden sıradan gözlem olmadığını anlamak için mutfak zeminine bakmak yeterlidir boşluksuz döşemek istiyorsanız kullanabileceğiniz düzgün çokgenler sınırlıdır eşkenar kaer düzgün düzgün beşgenlerle deneyin nereden başlarsanız başlayın aralarda kapanmayan boşluklar kalır kristaller de aynı mantıkla çalışır kristali kristal yapan şey atomlarının belirli hücreyi boyutta tekrar tekrar kopyalamasıdır hücer kendini boşluk bırakmadan döşemek zorundadır bu kısıttan çıkan sonuç yüzyılın sonunda kanıtlanmış matematiksel olarak kapalı sonuçtur periyodik kristalde yalnızca ve katlı dönme simetrileri bulunabilir bütün olasılıklar uzay grubunda tek tek sayılmıştır katlı simetri bu listede yoktur yasaktır ve o yasak gözlem eksikliği değil teoremdir shechtman ın ekranında duran şey o teoremin olamaz dediği şeydi defterine o gün yazdığı not sonradan bu hikayenin en çok anılan ayrıntısı oldu katlı yazmış arkasına soru işareti koymuştu koridora çıktı anlatmak istedi kimseyi bulamadı kendi
+      duyulan: malz menin ichinde millionarja atomboyunja kornan usun menzi live kusur susbiryu ne limdu zenivarda ohamududzen
+  DELETE   ...kimseyi bulamadı kendi kendine
+      metin  : i branice mırıldandığı cümle şuydu böyle yaratık yok i lk yaptığı şey heyecanlanmak değil kendini yalanlamaya çalışmak oldu çünkü bu tür desenlerin bilinen sıkıcı açıklaması vardı ikizlenme i zinli simetriye sahip küçük kristal birbirine belirli açılarla yapışıp büyürse elektron demeti hepsinden geçer ve ortaya sahte simetri çıkar yıllardır kristalografide gördüğünüz tuhaf deseni önce ikizlenmeyle açıklarsınız shechtman numuneyi eğdi döndürdü karanlık alan görüntüleriyle taneler arasındaki sınırları aradı i kiz sınırı yoktu dahası numuneyi çeşitli açılarda eğdikçe ortaya çıkan simetri eksenlerinin tamamı tek geometrik cisme işaret ediyordu ikosahedron yani tane katlı eksen tane katlı eksen tane katlı eksen bunlar birbirinden bağımsız kazalar olamazdı malzemenin içinde milyonlarca atom boyunca korunan uzun menzilli ve kusursuz yönelim düzeni vardı ama o düzen kendini
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o düzen kendini asla
+      metin  : tekrarlamıyordu
+      duyulan: tekralam yorda
+  REPLACE  ...kendini asla tekrarlamıyordu ortada
+      metin  : tanımı gereği var olamayacak katı vardı
+      duyulan: tanamugiri warolamiye jak birkativarda
+  REPLACE  ...vardı ve elektron demeti
+      metin  : içinden geçiyordu bulguyu ilk anlattığı meslektaşları güldü shechtman ısrar edince çalıştığı grubun yöneticisi
+      duyulan: nichin dangit yorda bulgi wilkan latu meslektashliri guldu sheckmanus raridinje chalustu gurubun yuneti jisi
+  REPLACE  ...çalıştığı grubun yöneticisi rafa
+      metin  : uzanıp x ışını kırınımı üzerine
+      duyulan: usanup ix karan nima uzerne
+  REPLACE  ...ışını kırınımı üzerine standart
+      metin  : ders kitabını çekti ve uzattı mesaj açıktı
+      duyulan: birdarskita buna caktive usatu mesajat cakta
+  REPLACE  ...uzattı mesaj açıktı git
+      metin  : temel bilgileri daha oku gün
+      duyulan: tamal bilgile birdahaoko birkachgun
+  REPLACE  ...daha oku gün sonra
+      metin  : aynı kişi grubu terk etmesini istedi anlattıkları grubu küçük düşürüyordu böylece hikaye keşfin ilanıyla değil keşfi yapanın masasının kaldırılmasıyla devam etti sonraki yıl boyunca shechtman verisini taşıyıp durdu
+      duyulan: aine kisha gurubut herket mesinistede anatte kleru gurubuk kuchuk tush ryordu bilgehikai birkeshfin ilani ladil keshfi yapanan masasanun kaldril masila devamette sanraki ikki ilboyunja sheckman werisinitashi ipdurdu
+  REPLACE  ...verisini taşıyıp durdu kimse
+      metin  : ölçümün yanlış olduğunu söylemiyordu
+      duyulan: ultramun janu sholdun soylemyordu
+  REPLACE  ...olduğunu söylemiyordu herkes yorumun
+      metin  : yanlış olduğunu söylüyordu kırılma noktası i srail teknoloji enstitüsü nden meslektaşı
+      duyulan: janu sholdun soyleyordu kyrilman oktase israel technology institution dan mestektas
+  REPLACE  ...enstitüsü nden meslektaşı ilan
+      metin  : blech ile birlikte çalışmaya başlamasıyla geldi blech ikosahedron biçimli birimlerin belirli kurallarla birbirine bağlandığı hiçbir yerde tekrar etmeyen katı modeli
+      duyulan: bilekhile birlicte chalushmae abashtama silagelde blesh ikko sahidron bichimni birimnerin bilir likurallar la birbirne balandu hich biryardet ekraret meyan modile
+  REPLACE  ...etmeyen katı modeli kurdu
+      metin  : ve bu modelin bilgisayarda
+      duyulan: vebu modilin bilgeh sayarda
+  REPLACE  ...bu modelin bilgisayarda hesaplanan
+      metin  : kırınım deseni shechtman ın ekranda gördüğüne benziyordu i kisi yazında
+      duyulan: kurunum desene sheckmanun ekrandagurdu ne benziordu ikki simondu kuzuzekxen dortyazunda
+  REPLACE  ...i kisi yazında ortak
+      metin  : makalelerini
+      duyulan: makalile rinne
+  REPLACE  ...journal of applied physics
+      metin  : e
+      duyulan: se
+  REPLACE  ...applied physics e yani
+      metin  : uygulamalı fizik dergisi ne gönderdi
+      duyulan: uygulamalu physikdargisine gondarde
+  REPLACE  ...dergisi ne gönderdi metin
+      metin  : hakemleer bile gitmeden editörün masasından geri döndü
+      duyulan: haikimlera bilagit medan editorun masasundangeridundu
+  REPLACE  ...geri döndü bu noktada
+      metin  : başta kuşkucu olan isim taraf değiştirdi
+      duyulan: bashta kushku jolan isimtarafte ishtirde
+  REPLACE  ...isim taraf değiştirdi john
+      metin  : cahn cahn
+      duyulan: chan kan
+  REPLACE  ...cahn malzeme biliminin en
+      metin  : saygın kuramcılarındandı
+      duyulan: saygan kuram jelerundandu
+  REPLACE  ...en saygın kuramcılarındandı ve
+      metin  : shechtman ı ilk duyduğunda
+      duyulan: shektmanu iktudunda
+  REPLACE  ...ı ilk duyduğunda ikna
+      metin  : olmamıştı
+      duyulan: olamamushte
+  REPLACE  ...duyduğunda ikna olmamıştı ama
+      metin  : yıl boyunca kendi başına açıklama bulamadı sonunda
+      duyulan: boyunja kendibashanabirachiklamabulamade sunanda
+  REPLACE  ...açıklama bulamadı sonunda konuyu
+      metin  : fransız kristalograf
+      duyulan: frances crystallograph
+  REPLACE  ...konuyu fransız kristalograf denis
+      metin  : gratias
+      duyulan: gradius isyatashide gratius nen ishe symmetric kuramanun budesene garchikdanyasaklayipyasaklamade nelafladeil hesapla kontrolate makte
+  REPLACE  ...kristalograf denis gratias ya
+      metin  : taşıdı gratias nın işi simetri kuramının bu deseni gerçekten yasaklayıp yasaklamadığını lafla değil hesapla kontrol etmekti yasaklıyordu ekip makaleyi yeniden yazdı ve amerikan fizik derneği nin dergisi
+      duyulan: saklu yordu dortlyikip makale iyeni dan yazdave american physikdarnainen dargisi
+  REPLACE  ...review letters a yani
+      metin  : fizik mektupları na gönderdi
+      duyulan: physikmaktuplerne gondarde
+  REPLACE  ...mektupları na gönderdi makale
+      metin  : kasım te yayımlandı başlığı
+      duyulan: talka se mondokuzuzektishorta iyemlande bashlu
+  REPLACE  ...te yayımlandı başlığı bulgunun
+      metin  : kendisi kadar dikkatli seçilmişti
+      duyulan: kendize kadardikatis echilmishte
+  ... ve 104 fark daha
+
+metinde olup DUYULMAYAN: 1299 kelime | duyulup metinde OLMAYAN: 1591
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-08.duyulan.txt

@@ -1,0 +1,67 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-08.mp3
+
+beklenen 3923 kelime | duyulan 3911 kelime | eşleşme %99.4
+sayı ifadesi: metinde 116, duyulanda 115  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...in answering it aristotle
+      metin  : ties
+      duyulan: tees
+  DELETE   ...read the sentence runs
+      metin  : o
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of the age the
+      metin  : nizamiyya madrasa
+      duyulan: nizamiyah madrasah
+  REPLACE  ...fault and covers it
+      metin  : prayer
+      duyulan: brayir
+  REPLACE  ...into a craft the
+      metin  : akhi
+      duyulan: aki
+  REPLACE  ...turning anatolia upside down
+      metin  : shaykh
+      duyulan: sheikh
+  REPLACE  ...mahmud known as ahi
+      metin  : evran
+      duyulan: evren
+  REPLACE  ...kayseri and then of
+      metin  : kırşehir
+      duyulan: kirshahir
+  REPLACE  ...of this organization was
+      metin  : futuwwa
+      duyulan: futuwa
+  REPLACE  ...as for the word
+      metin  : akhi
+      duyulan: aki
+  REPLACE  ...same thing in the
+      metin  : futuwwa
+      duyulan: futuwa
+  REPLACE  ...written statutes of the
+      metin  : akhi
+      duyulan: aki
+  REPLACE  ...outside eye the moroccan
+      metin  : traveller
+      duyulan: traveler
+  REPLACE  ...in food conversation and
+      metin  : sema
+      duyulan: sima
+  REPLACE  ...lies exactly theer the
+      metin  : akhi
+      duyulan: aki
+  REPLACE  ...the order of the
+      metin  : akhi
+      duyulan: aki
+  REPLACE  ...without expecting a return
+      metin  : al ghazali
+      duyulan: a l gazzali
+  DELETE   ...somebody else s list
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-08.duyulan.txt

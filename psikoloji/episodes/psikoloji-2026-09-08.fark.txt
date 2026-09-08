@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-08.mp3
+
+beklenen 1372 kelime | duyulan 1379 kelime | eşleşme %97.6
+sayı ifadesi: metinde 167, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sistemli biçimde gösteren isim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nde çalışan psikolog robert
+      metin  : zayonts
+      duyulan: zions
+  REPLACE  ...için özellikle eğlenceli çünkü
+      metin  : zayonts
+      duyulan: zions
+  REPLACE  ...uydurma kelime gösterdi nansoma
+      metin  : saricik afworbu
+      duyulan: sarıcık aforbu
+  REPLACE  ...kastettiğini tahmin etmeleriydi ama
+      metin  : zayonts
+      duyulan: zions
+  REPLACE  ...gördükleri için sevimli buldular
+      metin  : zayonts
+      duyulan: zions
+  INSERT   ...asıl rahatsız edici tarafı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rahatsız edici tarafı geldi
+      metin  : zayonts
+      duyulan: zions
+  REPLACE  ...meslektaşı wilson insanlara düzensiz
+      metin  : çokgen
+      duyulan: çokken
+  REPLACE  ...akıcılığı dediğimiz şey beynin
+      metin  : uyaranı
+      duyulan: uyarını
+  REPLACE  ...bu kolaylık hissi saf
+      metin  : haz
+      duyulan: has
+  REPLACE  ...durham üniversitesi nden kelly
+      metin  : jakubovski
+      duyulan: jakubowski
+  REPLACE  ...şarkıların sıklığını azalttığını gösterdi
+      metin  : sebep
+      duyulan: sebeb
+  INSERT   ...kötü çekmiş diye açıklarız
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karşıdan görüyor i ki
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...insan ilişkilerinde de dönüyor
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bunun daha keskin versiyonunu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...fikirler için de geçerli
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oranının arttığını gösterdi i
+      metin  : ddiaya
+      duyulan: ddiyaya
+  REPLACE  ...dinlersen soğursun alışveriş merkezindeki
+      metin  : o nakaratın
+      duyulan: akaratın
+  REPLACE  ...olduğunu daha net görürsün
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: psikoloji-2026-09-08.duyulan.txt

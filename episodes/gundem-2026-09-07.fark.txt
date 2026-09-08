@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-07.mp3
+
+beklenen 1316 kelime | duyulan 1342 kelime | eşleşme %94.1
+sayı ifadesi: metinde 308, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gün sonra kiev de
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...nın hangi maddeleer yaklaştığı
+      metin  : kamuoyuyla
+      duyulan: kamuoyu ile
+  REPLACE  ...da pazar günü yapılan
+      metin  : zaksen
+      duyulan: sachsen
+  REPLACE  ...haritasını sarsan sonuç üretti
+      metin  : alternative
+      duyulan: alternativ
+  REPLACE  ...sonuç üretti alternative für
+      metin  : doyçland
+      duyulan: deutschland
+  REPLACE  ...doyçland yani almanya için
+      metin  : alternatif
+      duyulan: alternativ
+  REPLACE  ...katlayarak rekor kırdı başbakan
+      metin  : fridrih merts
+      duyulan: friedrich mertz
+  REPLACE  ...fridrih merts in partisi
+      metin  : kristlih demokratişe unyon
+      duyulan: christlich demokratische union
+  REPLACE  ...kristlih demokratişe unyon yani
+      metin  : hristiyan
+      duyulan: hristian
+  REPLACE  ...yakalayamadı ve diğer partilerin
+      metin  : kendisiyle
+      duyulan: kendisi ile
+  INSERT   ...az kişi hayatını kaybetti
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kaybetti fazla kişi yaralandı
+      metin  : nabatiye
+      duyulan: nabatiyye
+  REPLACE  ...işaretlerini büyütüyor i ran
+      metin  : la
+      duyulan: ile
+  INSERT   ...kurdu gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bölgede filistinlinin hayatını kaybettiği
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...söyledi bölgedeki yapıların yaklaşık
+      metin  : ikisinin
+      duyulan: sinin
+  INSERT   ...yapıların yaklaşık ikisinin yani
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...belirsizliğini koruyor devlet başkanı
+      metin  : nikolas
+      duyulan: nicolas
+  REPLACE  ...yöneten geçici devlet başkanı
+      metin  : delsi rodrigez
+      duyulan: delsy rodriguez
+  REPLACE  ...seyri hazine bakanı scott
+      metin  : bessent
+      duyulan: besant
+  REPLACE  ...özel yapay zeka çipi
+      metin  : halapenyo
+      duyulan: halapeno
+  REPLACE  ...platformun açık kalacağını şimdiden
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...kalacağını şimdiden taahhüt etti
+      metin  : işlemin
+      duyulan: i şlemin nin
+  REPLACE  ...bekleniyor google cephesinde ize
+      metin  : ceminay nokta
+      duyulan: gemini
+  REPLACE  ...ifa yani uluslararası tüketici
+      metin  : elektroniği
+      duyulan: elektronik
+  INSERT   ...artırma ihtimali veri sonrası
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...ağustos tüketici enflasyonu olacak
+      metin  : emtia
+      duyulan: mtia
+  REPLACE  ...petrol dolar amerikan ham
+      metin  : petrolü
+      duyulan: petrolu
+  INSERT   ...cumhurbaşkanlığı külliyesi nde saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kurultayı na ilişkin mutlak
+      metin  : butlan
+      duyulan: putlan
+  REPLACE  ...çalışmaları sürüyor kocaeli den
+      metin  : aliağa
+      duyulan: alia
+  REPLACE  ...kuru yük gemisiyle çarpışan
+      metin  : tuğberk
+      duyulan: tuberk
+  REPLACE  ...i mamoğlu isimli gemi
+      metin  : mürettebatıyla
+      duyulan: mürettebatı ile
+  REPLACE  ...sahil güvenlik deniz kuvvetleri
+      metin  : afad
+      duyulan: afat
+  INSERT   ...program da büyüme tahmini
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yıl sonu enflasyon tahmini
+      metin  : dörde
+      duyulan: e
+  INSERT   ...dörde yükseltildi program enflasyonu
+      metin  : (yok)
+      duyulan: de de
+  INSERT   ...yükseltildi program enflasyonu ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...enflasyonu ve seviyesine indirmeyi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...eylül perşembe günü saat
+      metin  : (yok)
+      duyulan: te
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: gundem-2026-09-07.duyulan.txt

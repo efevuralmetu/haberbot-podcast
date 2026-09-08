@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-08.mp3
+
+beklenen 2623 kelime | duyulan 2615 kelime | eşleşme %92.5
+sayı ifadesi: metinde 294, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gibi okuyan adam afonso
+      metin  : dö albukerk
+      duyulan: de albuquerque
+  REPLACE  ...düğüm noktalarından malakka da
+      metin  : gucerat
+      duyulan: guçerat
+  REPLACE  ...ipek ve porselen taşıyan
+      metin  : conklar
+      duyulan: konglar
+  REPLACE  ...konuştuğunu yazar dönemin gözlemcileri
+      metin  : albukerk
+      duyulan: albuquerque
+  REPLACE  ...çünkü malakka boğazı hint
+      metin  : okyanusu ile
+      duyulan: okyanusuyla
+  REPLACE  ...tek pratik geçitti sumatra
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...yıkılan taş yapılarından devşirdikleri
+      metin  : malzemeyle
+      duyulan: malzeme ile
+  REPLACE  ...yakalanan gemi yükü ve
+      metin  : mürettebatıyla
+      duyulan: mürettebatı ile
+  REPLACE  ...yükü ve mürettebatıyla birlikte
+      metin  : müsadeer
+      duyulan: müsaade
+  REPLACE  ...servetin üzerinde hızla büyüdü
+      metin  : açe açe
+      duyulan: ace ace
+  REPLACE  ...elverişliydi yüzyılın ortasına gelindiğinde
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...geçip kızıldeniz e ve
+      metin  : cidde
+      duyulan: citte
+  REPLACE  ...gönderiyordu bazı hesaplara göer
+      metin  : yüzyılın
+      duyulan: yılın
+  REPLACE  ...ümit burnu nu dolaşıp
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...bunu elbette fark ettiler
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...açe kıyıları abluka alındı
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...açe nin gemileri avlandı
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...açe ye giden ve
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...yelken hedef oldu ve
+      metin  : açe
+      duyulan: ace
+  INSERT   ...açe de karşılık verdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...de karşılık verdi ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...malakka üzerine kuvvet gönderdi
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...o adamları nereden bulacaktı
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...gelen tek isim vardı
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...stanbul a mektup göndermek
+      metin  : bugünkü
+      duyulan: çünkü
+  INSERT   ...ağzına kadar açık denizde
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...mevsimi kaçırırsanız ay beklersiniz
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...arabistan kıyılarına ulaşır oradan
+      metin  : aden e
+      duyulan: adana
+  REPLACE  ...e kızıldeniz e girer
+      metin  : cidde
+      duyulan: citte
+  REPLACE  ...yıldan fazla sürerdi yani
+      metin  : açe sultanı
+      duyulan: ace sultan ı
+  REPLACE  ...kendisi düşmandır buna rağmen
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...kez değil defalarca denedi
+      metin  : açe
+      duyulan: ace
+  INSERT   ...defalarca denedi açe tahtında
+      metin  : (yok)
+      duyulan: dan
+  DELETE   ...denedi açe tahtında itibaren
+      metin  : alaeddin riayet
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...alaeddin riayet şah el
+      metin  : kahhar
+      duyulan: kahar
+  REPLACE  ...kahhar oturuyordu lakabı el
+      metin  : kahhar
+      duyulan: kahar
+  REPLACE  ...sert hükümdardı komşu beylikleri
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...başına yetersiz olduğunu biliyordu
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...biliyordu altmışların hemen başında
+      metin  : açe
+      duyulan: ace
+  REPLACE  ...kızıldeniz donanması basra aden
+      metin  : süveyş
+      duyulan: süvej
+  ... ve 78 fark daha
+
+metinde olup DUYULMAYAN: 128 kelime | duyulup metinde OLMAYAN: 141
+bölme/birleşme farkı (hata değil, elendi): 40
+
+duyulan metin: tarih-2026-09-08.duyulan.txt
