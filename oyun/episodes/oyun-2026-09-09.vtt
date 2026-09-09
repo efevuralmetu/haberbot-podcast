@@ -1,0 +1,533 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.690
+1980'de Atari'nin en çok satan oyunlarını yazan adamların adı hiçbir kutuda geçmiyordu; şirket onları tezgâhtaki işçiden farklı görmüyordu.
+
+2
+00:00:10.690 --> 00:00:18.660
+Bir programcı, kimseye sormadan oyununun içine kimsenin bulamayacağını sandığı bir oda çizdi ve adını oraya yazdı.
+
+3
+00:00:18.660 --> 00:00:23.590
+O odayı Salt Lake City'de on beş yaşında bir çocuk buldu.
+
+4
+00:00:31.790 --> 00:00:41.680
+Siyah Kale'nin yeraltı geçitlerinde, ekranın neredeyse hiçbir şey göstermediği dar bir koridorda, duvarla tıpatıp aynı renkte tek bir nokta duruyor.
+
+5
+00:00:41.680 --> 00:00:43.890
+Gözle görmek mümkün değil.
+
+6
+00:00:43.890 --> 00:00:52.500
+Onu bulmanın tek yolu, karanlıkta el yordamıyla ilerlerken kahramanınızın bir şeye dokunduğunu bildiren o kısacık sesi duymak.
+
+7
+00:00:52.500 --> 00:01:03.510
+Noktayı alıp Altın Kale'nin altındaki geçide, yanınızda başka iki nesneyle birlikte taşırsanız, o güne dek hiçbir oyunda olmamış bir şey oluyor: duvar aralanıyor,
+
+8
+00:01:03.510 --> 00:01:07.960
+içeri giriyorsunuz ve ekranda parlak harflerle bir cümle beliriyor.
+
+9
+00:01:07.960 --> 00:01:10.650
+Bu oyunu Warren Robinett yarattı.
+
+10
+00:01:10.650 --> 00:01:13.340
+Bugün bu cümle sıradan görünüyor.
+
+11
+00:01:13.340 --> 00:01:16.990
+1980'de ise bir sabotajdı.
+
+12
+00:01:16.990 --> 00:01:22.720
+Çünkü o yıllarda oyunları kimin yaptığı bilinmiyordu, bilinmesi de istenmiyordu.
+
+13
+00:01:22.720 --> 00:01:33.410
+Atari'nin ev konsolu için çıkan kartuşların kutularında görkemli uzay gemileri, kaslı boksörler, aslanlar, mağaralar vardı; bir tek insan ismi yoktu.
+
+14
+00:01:33.410 --> 00:01:38.500
+Ne kapakta, ne kullanım kılavuzunda, ne de oyunun kendisinde.
+
+15
+00:01:38.500 --> 00:01:42.790
+Şirketin politikası netti: programcı görünmez kalacaktı.
+
+16
+00:01:42.790 --> 00:01:46.280
+Bunun sebebi ihmal değildi, hesaptı.
+
+17
+00:01:46.280 --> 00:01:52.490
+Bir oyunu tek başına yazan bir programcının adı kutuya basılırsa, o ad bir değere dönüşürdü.
+
+18
+00:01:52.490 --> 00:01:56.140
+Rakip şirketler kimi transfer edeceklerini bilirdi.
+
+19
+00:01:56.140 --> 00:02:02.830
+Programcının kendisi de, satış rakamlarıyla adı yan yana geldiğinde masaya oturup pazarlık edebilirdi.
+
+20
+00:02:02.830 --> 00:02:08.560
+İsimsizlik, bir şirketin çalışanına karşı elindeki en ucuz kaldıraçtı.
+
+21
+00:02:08.560 --> 00:02:12.530
+Warren Robinett bunu değiştirmeye niyetlenmiş biri değildi.
+
+22
+00:02:12.530 --> 00:02:21.300
+Atari'nin Sunnyvale'deki ofisinde çalışan genç bir programcıydı ve elindeki makine, bugünden bakınca inanılması güç bir şeydi.
+
+23
+00:02:21.300 --> 00:02:25.910
+Atari 2600'ün kartuşunda 4 kilobayt program alanı vardı.
+
+24
+00:02:25.910 --> 00:02:30.360
+Konsolun kendi geçici belleği ise 128 bayttı.
+
+25
+00:02:30.360 --> 00:02:32.570
+Yüz yirmi sekiz bayt.
+
+26
+00:02:32.570 --> 00:02:44.860
+Bu, bir cümlelik metnin kapladığı yer kadar bir alanda bütün bir oyunun anlık durumunu, kahramanın yerini, nesnelerin nerede olduğunu, ejderhaların nereye baktığını tutmak demekti.
+
+27
+00:02:44.860 --> 00:02:48.670
+Robinett bu alana bir macera oyunu sığdırmaya çalıştı.
+
+28
+00:02:48.670 --> 00:03:02.880
+Adventure, yani Macera adını taşıyan bu oyun, o ana kadar yalnızca yazıyla oynanan keşif oyunlarını ilk kez görsel bir dünyaya taşıyordu: odalar, kaleler, anahtarlar, labirentler ve peşinizden gelen ejderhalar.
+
+29
+00:03:02.880 --> 00:03:05.090
+Yaklaşık bir yılını verdi.
+
+30
+00:03:05.090 --> 00:03:11.780
+Kodu 1979 Haziran'ında teslim etti ve kısa süre sonra şirketten ayrıldı.
+
+31
+00:03:11.780 --> 00:03:16.390
+Ama teslim ettiği kodun içinde, kimseye söylemediği bir şey vardı.
+
+32
+00:03:16.390 --> 00:03:20.360
+O görünmez gri nokta, o gizli oda ve o cümle.
+
+33
+00:03:20.360 --> 00:03:27.210
+Yalnızca kendi adını yazmak için ayırdığı yer, kartuşun toplam kapasitesinin yaklaşık yüzde 5'iydi.
+
+34
+00:03:27.210 --> 00:03:31.180
+4 kilobaytlık bir dünyada bu, küçük bir servetti.
+
+35
+00:03:31.180 --> 00:03:36.270
+Oyun tamamlandığında kartuşta boşta kalan alan sadece 15 bayttı.
+
+36
+00:03:36.270 --> 00:03:42.640
+Yani Robinett, imzasını saklayabilmek için oyunun geri kalanını daha da sıkıştırmayı göze almıştı.
+
+37
+00:03:42.640 --> 00:03:50.290
+Macera 1980'de raflara çıktı ve yaklaşık 1 milyon kopya sattı; tanesi 25 dolardı.
+
+38
+00:03:50.290 --> 00:04:00.020
+Robinett'in eline satıştan tek kuruş geçmedi; yıllık maaşı 22 bin dolar dolayındaydı ve o maaş, oyun ne kadar satarsa satsın değişmiyordu.
+
+39
+00:04:00.020 --> 00:04:03.190
+Zaten o sırada şirkette de değildi.
+
+40
+00:04:03.190 --> 00:04:05.080
+Sonra beklenen oldu.
+
+41
+00:04:05.080 --> 00:04:17.050
+Salt Lake City'de yaşayan 15 yaşındaki Adam Clayton, kimsenin bulmasını beklemediği o noktayı buldu, gizli odaya girdi ve gördüğü cümleyi anlatan bir mektubu Atari'ye yolladı.
+
+42
+00:04:17.050 --> 00:04:19.900
+Şirkette küçük bir panik yaşandı.
+
+43
+00:04:19.900 --> 00:04:26.750
+Kodu yazan adam gitmişti; kalan programcılar oturup kaynağı taradılar ve gömülü mesajı buldular.
+
+44
+00:04:26.750 --> 00:04:33.760
+Çıkarmak teknik olarak mümkündü ama kartuşun üretim kalıbını yenilemek yaklaşık 10 bin dolara mal olacaktı.
+
+45
+00:04:33.760 --> 00:04:38.530
+İşte tam burada, hikâyenin yönünü değiştiren bir karar verildi.
+
+46
+00:04:38.530 --> 00:04:43.620
+Yazılım geliştirme yöneticisi Steve Wright, mesajın silinmemesini savundu.
+
+47
+00:04:43.620 --> 00:04:54.470
+Gerekçesi pazarlamacı gerekçesiydi: oyuncular böyle gizli şeyleri arayarak oyunu daha uzun süre oynuyor, birbirlerine anlatıyor, oyunun ömrünü uzatıyorlardı.
+
+48
+00:04:54.470 --> 00:04:59.080
+Bunlar oyuncular için saklanmış paskalya yumurtalarına benziyordu.
+
+49
+00:04:59.080 --> 00:05:09.290
+Bu benzetme sektörün diline yerleşti; bugün oyunlarda, filmlerde, yazılımlarda gizlenmiş sürprizlere hâlâ o adla, paskalya yumurtası deniyor.
+
+50
+00:05:09.290 --> 00:05:12.300
+Ama bu kararın çözmediği bir şey vardı.
+
+51
+00:05:12.300 --> 00:05:17.230
+Atari, gizli odayı kabul etmişti; ismin kutuya basılmasını değil.
+
+52
+00:05:17.230 --> 00:05:22.320
+Robinett bir odaya saklanmak zorunda kalmıştı, çünkü ön kapı kapalıydı.
+
+53
+00:05:22.320 --> 00:05:29.650
+Ve o ön kapıyı zorlayan başka bir grup, tam da o aylarda şirketin en üst katında bir toplantı odasına giriyordu.
+
+54
+00:05:29.650 --> 00:05:32.980
+Mayıs 1979.
+
+55
+00:05:32.980 --> 00:05:36.150
+Atari artık kurucusunun şirketi değildi.
+
+56
+00:05:36.150 --> 00:05:50.040
+Warner, Atari'yi 1976'da 28 milyon dolara satın almıştı ve şirketin başında artık Ray Kassar vardı; oyun dünyasından gelmeyen, kariyerini Burlington adlı bir tekstil şirketinde yapmış,
+
+57
+00:05:50.040 --> 00:05:53.370
+disiplinli ve rakamlarla konuşan bir yöneticiydi.
+
+58
+00:05:53.370 --> 00:06:03.420
+Atari'yi bir garaj kültüründen çıkarıp kurumsal bir üretim hattına dönüştürmek üzere getirilmişti ve bunu büyük ölçüde başarmıştı da; şirketin geliri patlamıştı.
+
+59
+00:06:03.420 --> 00:06:10.270
+O gün odada dört programcı vardı: David Crane, Larry Kaplan, Alan Miller ve Bob Whitehead.
+
+60
+00:06:10.270 --> 00:06:16.320
+Yanlarında bir de şirket içi satış raporu getirmişlerdi ve söyleyecekleri şey basitti.
+
+61
+00:06:16.320 --> 00:06:21.410
+Atari'nin kartuş bölümünde otuz beş civarında geliştirici çalışıyordu.
+
+62
+00:06:21.410 --> 00:06:25.380
+Bu dördü, o otuz beşin içinde sadece dört kişiydi.
+
+63
+00:06:25.380 --> 00:06:33.990
+Ama şirketin bir önceki yıl yaklaşık 100 milyon dolara ulaşan kartuş satışlarının yüzde 60'ı, onların yazdığı oyunlardan geliyordu.
+
+64
+00:06:33.990 --> 00:06:39.080
+Talepleri de basitti, hatta hazır bir modeli vardı: müzik sektörü.
+
+65
+00:06:39.080 --> 00:06:46.090
+Bir plak şirketi, bir albümü kimin yaptığını kapağa yazıyor ve satıştan sanatçıya telif ödüyordu.
+
+66
+00:06:46.090 --> 00:06:48.780
+Dört programcı da aynısını istedi.
+
+67
+00:06:48.780 --> 00:06:53.230
+Adımız kutuda yazsın, sattığımız her kartuştan bir pay alalım.
+
+68
+00:06:53.230 --> 00:07:03.760
+Crane'in hesabına göre baştan sona kendi tasarladığı oyunlar şirkete 20 milyon doların üzerinde gelir getirmişti; kendi yıllık maaşı ise 20 bin dolar bandındaydı.
+
+69
+00:07:03.760 --> 00:07:06.450
+Kassar bu öneriyi reddetti.
+
+70
+00:07:06.450 --> 00:07:13.780
+Reddetmesi tek başına hikâye olmazdı; asıl kalıcı olan, reddederken kurduğu cümleler oldu.
+
+71
+00:07:13.780 --> 00:07:22.070
+Kaplan'ın yıllar sonra anlattığına göre Kassar onlara havlu tasarımcısı dedi ve kartuşu herkesin yapabileceğini söyledi.
+
+72
+00:07:22.070 --> 00:07:28.760
+Bir başka aktarımda, o projelerde onların montaj hattındaki bir işçiden daha önemli olmadığını belirtti.
+
+73
+00:07:28.760 --> 00:07:42.010
+Tekstil geçmişinden gelen bir yöneticinin ağzından çıkan bu benzetme, dört programcının kafasındaki soruyu net bir cevaba bağladı: bu şirket onların yaptığı işi yaratıcı bir iş olarak görmüyordu, üretim olarak görüyordu.
+
+74
+00:07:42.010 --> 00:07:45.660
+Toplantıdan sonra ayrılma kararı hızlı geldi.
+
+75
+00:07:45.660 --> 00:07:48.990
+Ama ellerinde bir şirket kurma bilgisi yoktu.
+
+76
+00:07:48.990 --> 00:07:55.680
+Dördü de kod yazıyordu; hiçbiri satış, dağıtım, üretim ya da sermaye toplama işini bilmiyordu.
+
+77
+00:07:55.680 --> 00:08:03.970
+Danıştıkları avukat onları o sırada Kaliforniya'da işsiz kalmış 35 yaşında bir iş adamıyla tanıştırdı: Jim Levy.
+
+78
+00:08:03.970 --> 00:08:40.750
+Levy'nin geçmişi tam da aranan yerdeydi. GRT adlı, plak şirketleri için kayıt kaseti üreten bir firmada çalışmış, işten çıkarılmış ve elinde bir planla kalmıştı; bağımsız müzik markaları satın almak için 350 bin dolarlık bir risk sermayesi ayarlamıştı bile. Programcılarla konuşurken parayı nereye yatıracağı konusunda fikrini değiştirdi. Çünkü onların anlattığı model, kendisinin zaten bildiği modeldi: sanatçı vardır, eser vardır, telif vardır, kapakta isim vardır. Yalnızca eserin biçimi plak değil, kartuştu.
+
+79
+00:08:40.750 --> 00:08:51.600
+Levy yatırımcılarını ikna etti ve başlangıç sermayesini ikiye katlattı; Sutter Hill adlı risk sermayesi şirketinden gelen para yaklaşık 700 bin dolara çıktı.
+
+80
+00:08:51.600 --> 00:09:03.410
+Bu, bugünün ölçüleriyle küçük bir rakam, o günün ölçüleriyle de mütevazı bir rakamdı; üstelik yatırımcılar yazılımın tek başına satılabilir bir ürün olduğuna baştan pek inanmıyorlardı.
+
+81
+00:09:03.410 --> 00:09:06.740
+Şirketin adı üzerinde uzun tartışıldı.
+
+82
+00:09:06.740 --> 00:09:11.350
+Önce Computer Arts, yani Bilgisayar Sanatları düşünüldü.
+
+83
+00:09:11.350 --> 00:09:18.680
+Sonra ekranın görüntü tazeleme terimini kullanan bir isim gündeme geldi ama halkın bunu anlamayacağı görüldü.
+
+84
+00:09:18.680 --> 00:09:25.210
+Sonunda Levy'nin önerisi tuttu: aktif kelimesiyle televizyon kelimesini birleştiren Activision.
+
+85
+00:09:25.210 --> 00:09:31.100
+İsmin bir yan faydası daha vardı; alfabetik listelerde Atari'den önce geliyordu.
+
+86
+00:09:31.100 --> 00:09:36.510
+Activision 1 Ekim 1979'da, 8 kişiyle kuruldu.
+
+87
+00:09:36.510 --> 00:09:40.000
+Yıl bitmeden çalışan sayısı 15'e çıktı.
+
+88
+00:09:40.000 --> 00:09:42.530
+Atari'nin tepkisi gecikmedi.
+
+89
+00:09:42.530 --> 00:09:51.460
+1980 bitmeden şirket mahkemeye gitti ve ticari sırların çalındığını, gizlilik sözleşmelerinin ihlal edildiğini öne sürdü.
+
+90
+00:09:51.460 --> 00:10:04.870
+Davanın teknik omurgasında, programcıların Atari'de geliştirdiği görüntüleme yöntemleri vardı; ekrandaki nesne sayısını artırmak için kullanılan, jaluzi etkisi diye anılan hilelerden biri doğrudan dava konusu oldu.
+
+91
+00:10:04.870 --> 00:10:13.000
+Atari'nin savunduğu tez şuydu: bu adamlar bizim laboratuvarımızda öğrendiklerini alıp karşımıza rakip olarak çıkıyorlar.
+
+92
+00:10:13.000 --> 00:10:21.930
+Activision'ın tezi ise şuydu: donanımın kendisi satın alınabilir bir üründür, onun için program yazmak kimsenin tekelinde değildir.
+
+93
+00:10:21.930 --> 00:10:29.420
+O dava karara bağlanana kadar Activision'ın önünde iki yıl vardı ve bu iki yılı bekleyerek geçirme lüksü yoktu.
+
+94
+00:10:29.420 --> 00:10:35.950
+Temmuz 1980'de ilk dört oyun raflara çıktı; her ortak birer tane yazmıştı.
+
+95
+00:10:35.950 --> 00:10:46.800
+Crane'in hızlanma yarışı oyunu Dragster, Miller'ın Boxing adlı boks oyunu, Kaplan'ın Checkers adlı dama oyunu ve Whitehead'in Fishing Derby adını taşıyan balık tutma yarışı.
+
+96
+00:10:46.800 --> 00:10:50.130
+Asıl devrim oyunlarda değil, kutularındaydı.
+
+97
+00:10:50.130 --> 00:10:56.820
+Activision kartuşlarının kılavuzunu açtığınızda karşınıza oyunu yazan kişinin fotoğrafı çıkıyordu.
+
+98
+00:10:56.820 --> 00:11:03.350
+Altında kısa bir hayat hikâyesi, oyunu neden yaptığını anlatan birkaç paragraf ve imzası vardı.
+
+99
+00:11:03.350 --> 00:11:08.600
+Bu, bir plak albümünün iç kapağının bire bir kartuşa taşınmış hâliydi.
+
+100
+00:11:08.600 --> 00:11:18.010
+Levy tasarımcılarını sanatçı gibi tanıttı; şirket, yüksek skor yapan oyunculara mektupla arma gönderdi, düzenli bir bülten çıkardı.
+
+101
+00:11:18.010 --> 00:11:25.500
+Bültenin abone sayısı 400 bini buldu, şirkete gelen oyuncu mektupları haftada 10 binin üzerine çıktı.
+
+102
+00:11:25.500 --> 00:11:31.070
+Sonuç, kartuş kutusundaki ismin bir maliyet değil bir varlık olduğunu gösterdi.
+
+103
+00:11:31.070 --> 00:11:35.200
+İnsanlar artık markayı değil, tasarımcıyı takip ediyordu.
+
+104
+00:11:35.200 --> 00:11:39.170
+1982'ye gelindiğinde dava kapandı.
+
+105
+00:11:39.170 --> 00:11:47.140
+Anlaşma, Activision'ın Atari'nin konsolu için ürettiği oyunlardan Atari'ye telif ödemesi esasına dayanıyordu.
+
+106
+00:11:47.140 --> 00:11:53.990
+Bu, görünüşte Atari'nin kazandığı bir çözümdü; gerçekte ise sektörün anayasasını yazan bir cümleydi.
+
+107
+00:11:53.990 --> 00:12:01.800
+Çünkü anlaşma, bir şirketin başka bir şirketin donanımı için oyun üretip satabileceğini hukuken tescillemiş oldu.
+
+108
+00:12:01.800 --> 00:12:12.170
+Bugün üçüncü parti yayıncılık dediğimiz şey, yani konsolu üreten firmadan bağımsız yayıncıların o konsola oyun yapması, doğrudan bu uzlaşmadan doğdu.
+
+109
+00:12:12.170 --> 00:12:17.580
+Bugün bir konsolun kütüphanesindeki oyunların ezici çoğunluğu bu modelin ürünüdür.
+
+110
+00:12:17.580 --> 00:12:21.710
+Aynı yıl David Crane, kendi adını taşıyacak oyunu yazdı.
+
+111
+00:12:21.710 --> 00:12:33.360
+Pitfall!, yani Tuzak, oyuncuyu bir ormanda timsahların, akreplerin ve bataklıkların arasından geçiren, sekiz saniyede bir başka ekrana atlayan bir koşu ve zamanlama oyunuydu.
+
+112
+00:12:33.360 --> 00:12:39.890
+4 milyondan fazla sattı ve Billboard dergisinin oyun listesinde aylarca zirveden inmedi.
+
+113
+00:12:39.890 --> 00:12:50.100
+Bir yıl önce Atari'den ayrılıp Activision'a katılan Carol Shaw'ın yazdığı River Raid, yani Nehir Akını da aynı dönemin en çok satan oyunlarından biri oldu; Shaw,
+
+114
+00:12:50.100 --> 00:12:56.310
+sektörün ilk kadın oyun tasarımcılarından biri olarak kendi adıyla anılan bir tasarımcı hâline geldi.
+
+115
+00:12:56.310 --> 00:13:08.120
+Bu, kurucuların 1979'da odada savunduğu tezin somut kanıtıydı: oyunu yapan kişinin adı görünür olduğunda, o ad kendi izleyicisini yaratıyordu.
+
+116
+00:13:08.120 --> 00:13:17.210
+Şirket 1983 başında 400 çalışanı aştı ve Haziran 1983'te Nasdaq borsasında halka açıldı.
+
+117
+00:13:17.210 --> 00:13:25.500
+Havlu tasarımcısı denilen dört programcının kurduğu şirket, dört yıl içinde kendi sektörünün en büyük bağımsız yayıncısı olmuştu.
+
+118
+00:13:25.500 --> 00:13:28.830
+Hikâyenin gölgeli tarafını da söylemek gerek.
+
+119
+00:13:28.830 --> 00:13:33.760
+Activision'ın açtığı kapıdan yalnızca yetenekli tasarımcılar geçmedi.
+
+120
+00:13:33.760 --> 00:13:48.450
+Üçüncü parti yayıncılığın önü açılınca, evinde kod yazan herkesin kartuş bastırabildiği bir dönem başladı; 1982 ve 1983'te piyasa niteliksiz oyunlarla doldu, raflar şişti,
+
+121
+00:13:48.450 --> 00:13:54.820
+fiyatlar çöktü ve Kuzey Amerika oyun sektörü 1983'te ağır bir çöküş yaşadı.
+
+122
+00:13:54.820 --> 00:14:01.190
+Activision bu çöküşten yara alarak çıktı ve hayatta kalabilmek için ev bilgisayarlarına yöneldi.
+
+123
+00:14:01.190 --> 00:14:08.360
+Yani dört programcının kazandığı özgürlük, sektöre yalnızca yaratıcılığı değil, denetimsizliği de getirdi.
+
+124
+00:14:08.360 --> 00:14:19.690
+Ama kalıcı olan şey şu: bugün bir oyunu bitirdiğinizde ekranda akan isim listesini, kapakta yazan stüdyo adını, bir tasarımcının kendi adıyla tanınmasını doğal karşılıyoruz.
+
+125
+00:14:19.690 --> 00:14:22.220
+Bu doğallık kendiliğinden gelmedi.
+
+126
+00:14:22.220 --> 00:14:32.430
+Bir tarafta, adını yazabilmek için oyununun 4 kilobaytlık dünyasından yer çalıp onu kimsenin bulamayacağı bir odaya saklamak zorunda kalan bir programcı vardı.
+
+127
+00:14:32.430 --> 00:14:40.720
+Diğer tarafta, aynı adı kutunun ön yüzüne yazdırabilmek için şirketlerini kuran ve iki yıl mahkemeyle uğraşan dört programcı.
+
+128
+00:14:40.720 --> 00:14:49.490
+Robinett o dördünün arasında değildi; Activision'a da katılmadı, sonraki yıllarda eğitim yazılımları üreten kendi şirketini kurdu.
+
+129
+00:14:49.490 --> 00:14:54.900
+Yine de aynı yılın, aynı şirketin ve aynı meselenin iki ayrı yüzüydüler.
+
+130
+00:14:54.900 --> 00:15:00.310
+Biri imzasını duvarın arkasına gizledi, diğerleri imzayı kapıya astırdı.
+
+131
+00:15:00.310 --> 00:15:04.600
+İkisi de aynı soruyu soruyordu: bu işi kim yaptı?
+
+132
+00:15:04.600 --> 00:15:07.770
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+133
+00:15:07.770 --> 00:15:10.780
+Yeni bir hikâyede yeniden buluşmak üzere.
