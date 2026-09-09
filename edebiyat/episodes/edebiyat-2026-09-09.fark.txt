@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-09.mp3
+
+beklenen 1635 kelime | duyulan 1652 kelime | eşleşme %92.9
+sayı ifadesi: metinde 181, duyulanda 141  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...öğrenmiş hızla yükselmiş şah
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...göer bölgenin bilginlerini topladı
+      metin  : dağ dağ
+      duyulan: dağa dağa
+  DELETE   ...dolaştı ot topladı kökleri
+      metin  : kaynattı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...getirdiği cesetlerin üzerine döktü
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...üzerine kitap i çinde
+      metin  : beydeba
+      duyulan: beideba
+  REPLACE  ...kaçırılmış kitabın kopyasıyla döndü
+      metin  : nuşirevan
+      duyulan: nuşerevan
+  REPLACE  ...bu bölümü şahın veziri
+      metin  : büzürgmihr
+      duyulan: büzürmihr
+  REPLACE  ...burzuye nin varlığı ve
+      metin  : nuşirevan
+      duyulan: nuşerevan
+  REPLACE  ...kurulmuştur ki yıl sonra
+      metin  : firdevsi
+      duyulan: firidevsi
+  REPLACE  ...metin orta farsçaya yani
+      metin  : pehleviceye
+      duyulan: pehleviçe ye
+  REPLACE  ...yani pehleviceye çevrildi ve
+      metin  : sasani
+      duyulan: sassani
+  REPLACE  ...sasani sarayının raflarına yerleşti
+      metin  : i ki
+      duyulan: yıl
+  REPLACE  ...o saray artık yoktu
+      metin  : sasani
+      duyulan: sassani
+  REPLACE  ...adı daduye fars bölgesinden
+      metin  : zerdüşt
+      duyulan: zerdüş
+  REPLACE  ...ki kısa sürede arap
+      metin  : nesrinin
+      duyulan: neslinin
+  INSERT   ...valilerinin yanında katiplik yaptı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hafızasını başka dile taşımaktı
+      metin  : pehleviceden arapçaya
+      duyulan: pehleviçe den arapça ya
+  REPLACE  ...kalıcı işi kelile ve
+      metin  : dimne
+      duyulan: dimle
+  REPLACE  ...çeviri değildi metni arap
+      metin  : nesrinin
+      duyulan: neslinin
+  REPLACE  ...çakal yaşar kelile ve
+      metin  : dimne
+      duyulan: dimle
+  REPLACE  ...kelile ihtiyatlıdır elindekiyle yetinir
+      metin  : dimne
+      duyulan: dimle
+  REPLACE  ...korkulacak hiçbir yanı yoktur
+      metin  : dimne
+      duyulan: dimle
+  REPLACE  ...öküzü öyle sever ki
+      metin  : dimne
+      duyulan: dimle
+  DELETE   ...başlar aslana öküzün kendisine
+      metin  : karşı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...burada bırakmaz o bölümde
+      metin  : dimne
+      duyulan: dimle
+  REPLACE  ...kez kurtarmaya yetmez ve
+      metin  : dimne
+      duyulan: dimle
+  REPLACE  ...yanına sığındı kardeşleri halifeden
+      metin  : yeğenleri
+      duyulan: yiyenleri
+  REPLACE  ...sonra iş basra valisi
+      metin  : süfyan
+      duyulan: sufyan
+  REPLACE  ...nın meclislerde alaya aldığı
+      metin  : anlatılır
+      duyulan: hükümdarı
+  REPLACE  ...anlatan kitabın en meşhur
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...nin hindistan da okuduğu
+      metin  : sanskritçe metin
+      duyulan: sanskrit cemetin
+  REPLACE  ...hint geleneğindeki karşılığı olan
+      metin  : pançatantra
+      duyulan: pancha tantra
+  REPLACE  ...burzuye nin önünde duran
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...bilinen en eski arapça
+      metin  : nüsha
+      duyulan: nüşa
+  INSERT   ...yani çevirinin yapılmasından yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...yapılmasından yaklaşık sonra ve
+      metin  : nüshalar
+      duyulan: nüşalar
+  REPLACE  ...sırası değişir kimi hikaye
+      metin  : nüshada
+      duyulan: nüşada
+  REPLACE  ...aynı yüzyılda pehleviceden yapılan
+      metin  : süryanice
+      duyulan: süryaniçe
+  REPLACE  ...ancak yüzyılda mardin de
+      metin  : nüshasının
+      duyulan: nüşasının
+  INSERT   ...haber verildi ve metin
+      metin  : (yok)
+      duyulan: da
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: edebiyat-2026-09-09.duyulan.txt

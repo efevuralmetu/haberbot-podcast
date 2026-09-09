@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-09.mp3
+
+beklenen 2617 kelime | duyulan 2638 kelime | eşleşme %96.8
+sayı ifadesi: metinde 405, duyulanda 264  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...en inatçı yanlış anlamalarından
+      metin  : besledi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kesin olarak belgeleyen kazı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başladı los angeles taki
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...van tilburg ile rapa
+      metin  : nuili
+      duyulan: nuyili
+  REPLACE  ...ile rapa nuili sanatçı
+      metin  : kristiyan
+      duyulan: christian
+  REPLACE  ...nuili sanatçı kristiyan arevalo
+      metin  : pakarati
+      duyulan: pacarati
+  REPLACE  ...bacağı yoktu adanın bütün
+      metin  : moai lerinde
+      duyulan: muayelerinde
+  REPLACE  ...vardı kimi araştırmacıların çeşit
+      metin  : peştamal
+      duyulan: peştemal
+  INSERT   ...resimlerin tümüyle yeni olmamasıydı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gelen i ngiliz arkeolog
+      metin  : katherine
+      duyulan: catherine
+  REPLACE  ...asır sonra aynı taşın
+      metin  : toprağı
+      duyulan: toprağa
+  INSERT   ...adadaki bütün heykellerin yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ada genelinde bugüne kadar
+      metin  : moai
+      duyulan: muayi
+  INSERT   ...kayda geçirildi bunların yaklaşık
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...usta kaya yüzeyine heykelin
+      metin  : siluetini
+      duyulan: silüetini
+  REPLACE  ...hepsi heykel hala dağın
+      metin  : parçasıyken
+      duyulan: parçası iken
+  INSERT   ...ve daha önemlisi gözler
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kırmızı taş ya da
+      metin  : obsidyenden
+      duyulan: obsidenden
+  REPLACE  ...eden yüzlerdir ada dilindeki
+      metin  : deyişle
+      duyulan: değişle
+  REPLACE  ...sırtüstü yatırılır kızak benzeri
+      metin  : düzeneğe
+      duyulan: düzeneye
+  REPLACE  ...yüzlerce insan iple çeker
+      metin  : tor hayerdal
+      duyulan: thor heyerdahl teki
+  INSERT   ...i lk gerçek kırılma
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...böyle kütle devrilmez salınır
+      metin  : hayerdal
+      duyulan: heyerdahl
+  REPLACE  ...adaya gitti ve gerçek
+      metin  : moai ye
+      duyulan: muayye
+  INSERT   ...devrildi sonra yeniden döndü
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...işlediğini gösterdi van tilburg
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...terry hunt ve carl
+      metin  : lipo nun
+      duyulan: lippon un
+  REPLACE  ...araştırmacı önce yolları inceledi
+      metin  : routledge
+      duyulan: rutledge
+  INSERT   ...yolları inceledi routledge daha
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tamamlanmamış devler hunt ile
+      metin  : lipo
+      duyulan: lippon
+  DELETE   ...yukarı kaybederse arkaya devrilir
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yani hiç yerine ulaşamamış
+      metin  : moai lerin
+      duyulan: muayelerin
+  INSERT   ...vardıklarında başka biçime getiriliyordu
+      metin  : (yok)
+      duyulan: ön ösen
+  REPLACE  ...üslup tercihi değil taşıma
+      metin  : mühendisliğiydi
+      duyulan: mühendisliydi kiiki de
+  INSERT   ...kopya hazırlandı ip bağlandı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...kılar yani ada halkının
+      metin  : yüzyıllardır
+      duyulan: yıllardır
+  INSERT   ...hali jared diamond ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bölümünü tüketebileceğini gösteriyor bu
+      metin  : görüş de
+      duyulan: görüşte
+  REPLACE  ...gece ısı veriyor rüzgarın
+      metin  : toprağı
+      duyulan: toprağa
+  INSERT   ...en ağır darbe ize
+      metin  : (yok)
+      duyulan: te
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: arkeoloji-2026-09-09.duyulan.txt

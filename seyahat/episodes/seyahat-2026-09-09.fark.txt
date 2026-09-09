@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-09.mp3
+
+beklenen 1707 kelime | duyulan 1744 kelime | eşleşme %96.1
+sayı ifadesi: metinde 245, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...olur yanına yatar bu
+      metin  : altmışlardan
+      duyulan: lardan
+  INSERT   ...ve şehrin göbeğinde duruyor
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bilimsel merak üstlendi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...derinlikte durulduğunda hala çözülmüş
+      metin  : zemine
+      duyulan: zemini
+  INSERT   ...kuyu korunuyor ve şehirde
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...korunuyor ve şehirde kurulan
+      metin  : melnikov
+      duyulan: mennikof
+  INSERT   ...topraktan çok daha genç
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...daha genç kazak komutan
+      metin  : pyotr
+      duyulan: piotr
+  REPLACE  ...sonra kale bugünkü yerine
+      metin  : tuymaada vadisine
+      duyulan: tuymada vadisi ne
+  REPLACE  ...çok uzağında kuzeydeki tepede
+      metin  : batagayka
+      duyulan: batagaika
+  REPLACE  ...yeniden çıkıyor mamut dişi
+      metin  : kavis
+      duyulan: kaviz
+  INSERT   ...yasal boşluktaki malzemeye çevrildi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...büyük bölümü tahminleer göer
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...için kılıf olarak kullanılabilmesi
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...üniversitesi bünyesindeki mamut müzesi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...merkez olarak kuruldu koleksiyonunda
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kalıntı var mamut yünlü
+      metin  : gergedan
+      duyulan: gergeden
+  REPLACE  ...başı çeşitli yavru mamutlar
+      metin  : kolıma
+      duyulan: koluma
+  INSERT   ...gergedanı en ünlüsü ize
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...un kimliğine yapışan hayvan
+      metin  : amblemlerinde
+      duyulan: amlemlerinde
+  REPLACE  ...amblemlerinde müzesinde hediyelik dükkanlarındaki
+      metin  : oyma dişlerde
+      duyulan: oymadı işlerde
+  REPLACE  ...kalır sabahın kuşlar öter
+      metin  : sakhalar
+      duyulan: sakalar
+  REPLACE  ...tam bu noktada kutlar
+      metin  : isıah
+      duyulan: i sa
+  REPLACE  ...verdikleri bayramın adı saçmak
+      metin  : serpmek
+      duyulan: sertmek
+  REPLACE  ...ateşe ve toprağa süt
+      metin  : serpme
+      duyulan: sertme
+  INSERT   ...içki olmaktan çok bağdır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yeniden yükselene kadar sürer
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...taşıdığı en ağır yük
+      metin  : olonho
+      duyulan: olonjo
+  INSERT   ...kahramanlık anlatıları söylemesi unesco
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...duyabilirsiniz yanı başında da
+      metin  : homus
+      duyulan: homuz
+  REPLACE  ...kürklü bodur ve inatçı
+      metin  : cinstir
+      duyulan: cinsdir
+  REPLACE  ...iyi şeydir kışın masaya
+      metin  : stroganina
+      duyulan: stiroganina
+  REPLACE  ...mutfak aleti olarak kullanmak
+      metin  : yakutsk
+      duyulan: yakut
+  REPLACE  ...lena üzerindeki köprü tamamlandığında
+      metin  : yakutsk
+      duyulan: yakut
+  REPLACE  ...beklediğini ize kimse bilmiyor
+      metin  : nöron seyahat de
+      duyulan: neuron seyahatte
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 26 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: seyahat-2026-09-09.duyulan.txt

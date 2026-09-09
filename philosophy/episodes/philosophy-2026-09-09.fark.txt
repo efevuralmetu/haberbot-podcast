@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-09.mp3
+
+beklenen 3378 kelime | duyulan 3385 kelime | eşleşme %98.9
+sayı ifadesi: metinde 122, duyulanda 113  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...in this form was
+      metin  : mevlana celaleddin i rumi
+      duyulan: mivlana seludinurmi
+  REPLACE  ...utterances the king of
+      metin  : savatthi
+      duyulan: savathi
+  REPLACE  ...elephant brought befoer them
+      metin  : lets
+      duyulan: perhaps
+  REPLACE  ...century through john godfrey
+      metin  : saxe s
+      duyulan: sacks
+  REPLACE  ...in the same house
+      metin  : describe
+      duyulan: described
+  REPLACE  ...at the dinner table
+      metin  : nobody
+      duyulan: he
+  REPLACE  ...view in the dialog
+      metin  : theaetetus
+      duyulan: theotatus
+  REPLACE  ...look no knows the
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...note into his notebook
+      metin  : objecting
+      duyulan: right abjecting
+  REPLACE  ...means far moer plainly
+      metin  : theer
+      duyulan: wheer
+  REPLACE  ...the head of the
+      metin  : nizamiyya
+      duyulan: nizamiyah
+  REPLACE  ...his life called al
+      metin  : munqidh
+      duyulan: munkad
+  REPLACE  ...al munqidh min al
+      metin  : dalal
+      duyulan: dilal
+  INSERT   ...exactly or dark room
+      metin  : (yok)
+      duyulan: next
+  REPLACE  ...he was looking for
+      metin  : yaqin
+      duyulan: yakan
+  REPLACE  ...filter bubble published in
+      metin  : he described
+      duyulan: to describe
+  REPLACE  ...and sees the elephant
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...shows you the elephant
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...fact that we argue
+      metin  : at
+      duyulan: it
+  REPLACE  ...to light the candle
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: in the middle of the quarrel theer would be no point in correcting another in asking or even in arguing
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-09.duyulan.txt

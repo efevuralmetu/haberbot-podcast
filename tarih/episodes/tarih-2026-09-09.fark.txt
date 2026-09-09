@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-09.mp3
+
+beklenen 2542 kelime | duyulan 2580 kelime | eşleşme %94.2
+sayı ifadesi: metinde 268, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sonra donanmasının gemisinden geriye
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...var yılının ilk aylarında
+      metin  : çoson
+      duyulan: choson
+  INSERT   ...gerekiyor toyotomi hideyoshi nin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...defalarca kesmiş hansan açıklarındaki
+      metin  : muharebeyle
+      duyulan: muharebe ile
+  REPLACE  ...hizmetindeki yoshira adlı aracı
+      metin  : çoson
+      duyulan: choson
+  REPLACE  ...sopa bacak kırma kral
+      metin  : sonco
+      duyulan: songko
+  REPLACE  ...düşünüyordu yaşlı devlet adamı
+      metin  : cong
+      duyulan: kong
+  REPLACE  ...sırada haberi aldı annesi
+      metin  : byon
+      duyulan: bayon
+  REPLACE  ...sunsin yıllardır tuttuğu günlüğe
+      metin  : nancung i lgi ye
+      duyulan: nanjung ilgiye
+  REPLACE  ...büyük kısmının kaynağıdır yi
+      metin  : sunsin
+      duyulan: sun sin den
+  INSERT   ...sonra hala okunabiliyor belge
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...listesine alındı boşalan koltuğa
+      metin  : won
+      duyulan: gwon
+  REPLACE  ...koltuğa won gyun getirildi
+      metin  : won
+      duyulan: gwon
+  REPLACE  ...savaşın ilk yılında yi
+      metin  : sunsin le
+      duyulan: sun sin ile
+  REPLACE  ...etkili savaş filosuydu fazla
+      metin  : panokseon
+      duyulan: panoksiyon
+  REPLACE  ...gemisi eğitimli topçular hansan
+      metin  : adasındaki üsler
+      duyulan: adası ndaki üstler
+  REPLACE  ...yıl geçmeden hiçbiri kalmayacaktı
+      metin  : won
+      duyulan: gwon
+  REPLACE  ...kendi limanının önüne taşıyacaktı
+      metin  : won
+      duyulan: gwon
+  INSERT   ...kendisine karşı kullanılıyordu ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dibinde bitkin halde duruyordu
+      metin  : won
+      duyulan: gwon
+  REPLACE  ...döndü ağustos gecesi filoyu
+      metin  : goce adasının
+      duyulan: goje adası nın
+  REPLACE  ...adasının kuzeyindeki dar suda
+      metin  : çilçonyang
+      duyulan: chilchon yang
+  REPLACE  ...suda çilçonyang da yani
+      metin  : çilçonyang boğazı nda
+      duyulan: chilchon yang boğazında
+  REPLACE  ...komutanlar bu fırsatı bekliyorlardı
+      metin  : todo
+      duyulan: toto
+  REPLACE  ...wakizaka yasuharu ve kato
+      metin  : yoshiaki
+      duyulan: yoshiyaki
+  REPLACE  ...gece yarısından sonra başladı
+      metin  : çilçonyang
+      duyulan: chilchon yang
+  REPLACE  ...donanmasının en büyük üstünlüğü
+      metin  : topçuluğuydu
+      duyulan: topçuluydu
+  REPLACE  ...diğerine atladı şafak söktüğünde
+      metin  : çoson
+      duyulan: choson
+  REPLACE  ...geri dönmedi hansan adasındaki
+      metin  : üsse
+      duyulan: üste
+  REPLACE  ...savaştan sonra be sol
+      metin  : ün
+      duyulan: un
+  REPLACE  ...batıya ve kuzeye ilerledi
+      metin  : colla
+      duyulan: kolla
+  REPLACE  ...ilk kez işgale uğradı
+      metin  : namwon
+      duyulan: namvon
+  DELETE   ...atandığını bildiren belgeyi güneyde
+      metin  : er
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...donanmayı yeniden bulmaktı dağılmış
+      metin  : mürettebatları
+      duyulan: mürettematleri
+  REPLACE  ...yayıldıkça kıyıya inmeye başladılar
+      metin  : be
+      duyulan: ve
+  REPLACE  ...inmeye başladılar be sol
+      metin  : ün
+      duyulan: un
+  INSERT   ...gemileri buldu sayı hala
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...başkentten emir geldi kral
+      metin  : sonco
+      duyulan: songko
+  INSERT   ...karar askeri mantıkla savunulabilirdi
+      metin  : (yok)
+      duyulan: lon
+  REPLACE  ...kendisi ölmediği sürece düşman
+      metin  : çoson
+      duyulan: choson
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 108
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: tarih-2026-09-09.duyulan.txt

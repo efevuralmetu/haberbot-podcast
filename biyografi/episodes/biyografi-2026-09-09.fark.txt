@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-09.mp3
+
+beklenen 2185 kelime | duyulan 2202 kelime | eşleşme %94.3
+sayı ifadesi: metinde 296, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendi saçında dünyanın her
+      metin  : santimetrekaresinde
+      duyulan: santimeter karesinde
+  INSERT   ...kimsenin duymak istemediği suçlamaydı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...duymak istemediği suçlamaydı haziran
+      metin  : iowa da dö moyn
+      duyulan: de ay havada dömoyn
+  REPLACE  ...eve getirdiği kimya setiydi
+      metin  : clair
+      duyulan: claier
+  REPLACE  ...başına okumaya devam etti
+      metin  : grinnel
+      duyulan: te greenel
+  REPLACE  ...devam etti grinnel college
+      metin  : dan
+      duyulan: den
+  REPLACE  ...grinnel college dan yani
+      metin  : grinnel koleji nden
+      duyulan: greenel kolejinden
+  REPLACE  ...nden kimya diplomasını aldı
+      metin  : grinnel
+      duyulan: greenel
+  REPLACE  ...aldı grinnel koleji diplomadan
+      metin  : fazlasını
+      duyulan: sorunu
+  REPLACE  ...verdi laboratuvar sıralarında lorna
+      metin  : mccleary
+      duyulan: mcleary
+  REPLACE  ...gizli projesinin içine çekti
+      metin  : önce
+      duyulan: lönce
+  REPLACE  ...üniversitesi ne sonra tennessee
+      metin  : eyaletindeki
+      duyulan: üniversitesi ndeki
+  DELETE   ...maddenin içindeki atomları yalnızca
+      metin  : saymayı değil hangi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nın üstünde patladığında patterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...erimiş kürenin soğuma süresi
+      metin  : hesaplanmış
+      duyulan: kullanmış
+  REPLACE  ...yerine yeni saat koydu
+      metin  : uranyum
+      duyulan: uranium
+  REPLACE  ...ne kadarının kurşuna dönüştüğüne
+      metin  : bakarsanız
+      duyulan: sorunuz
+  REPLACE  ...orada durduğunu söyleyebilirdiniz ama
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...söyledi patterson işe koyulduğunda
+      metin  : yaşlarının
+      duyulan: li kararının
+  DELETE   ...şişelerdeki asitlerde vardı çünkü
+      metin  : asitler
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gelen havada vardı patterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...saçında teninde giysisinde vardı
+      metin  : örneğe
+      duyulan: ötmeye
+  REPLACE  ...olmadan çıkan sinyal patterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...titizlikte kontrol etmemişti patterson
+      metin  : ın
+      duyulan: un
+  DELETE   ...o odada geliştirilen kurallara
+      metin  : uyarak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu takıntıyı gereksiz buldu
+      metin  : patterson ın
+      duyulan: paterson un
+  REPLACE  ...ölçebilecek hassasiyetti i kincisi
+      metin  : patterson ın
+      duyulan: paterson un
+  REPLACE  ...güneş sisteminin kuruluşundan artakalmış
+      metin  : moloz
+      duyulan: molos
+  REPLACE  ...bileşimi dondurulmuş halde durur
+      metin  : patterson
+      duyulan: paterson
+  REPLACE  ...örneği alıp chicago yakınlarındaki
+      metin  : argonne
+      duyulan: argon
+  REPLACE  ...gitti orada fizikçi mark
+      metin  : inghram
+      duyulan: ingraham
+  REPLACE  ...spektrometrelerinden kurduğu bodrum vardı
+      metin  : patterson
+      duyulan: paterson
+  REPLACE  ...kendini tutamadı arabaya atlayıp
+      metin  : iowa ya
+      duyulan: ay ovaya
+  REPLACE  ...sonucu aynı yıl wisconsin
+      metin  : de
+      duyulan: da
+  REPLACE  ...toplantıda meslektaşlarına anlattı ve
+      metin  : nihai
+      duyulan: nihayi
+  INSERT   ...anlattı ve nihai makalesini
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ders kitaplarında yazan yıl
+      metin  : patterson
+      duyulan: paterson
+  INSERT   ...soruya döndü sorunun cevabı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...devi standard oil yani
+      metin  : standart
+      duyulan: standard
+  REPLACE  ...ve kimya şirketi ortaklaşa
+      metin  : ethyl
+      duyulan: etil
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 107
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: biyografi-2026-09-09.duyulan.txt

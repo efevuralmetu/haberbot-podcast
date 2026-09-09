@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-09.mp3
+
+beklenen 1799 kelime | duyulan 1815 kelime | eşleşme %97.0
+sayı ifadesi: metinde 184, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ne siniri hatta tek
+      metin  : hücer
+      duyulan: hüc
+  REPLACE  ...kuzeydeki utsunomiya ya batıdaki
+      metin  : haçioji
+      duyulan: hachioji
+  REPLACE  ...doku parçasının adı fizarum
+      metin  : polisefalum
+      duyulan: polisephalum
+  REPLACE  ...yılında aynı ekibin başındaki
+      metin  : toşiyuki
+      duyulan: toshiyuki
+  INSERT   ...yalnızca tek şey kalmıştı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...değildi kamera zaman aralıklı
+      metin  : çekime
+      duyulan: çekimi
+  REPLACE  ...dönem hokkaido da çalışan
+      metin  : atsuşi tero ydu
+      duyulan: atsushi teroydu
+  REPLACE  ...oxford üniversitesi nden mark
+      metin  : fricker
+      duyulan: friker
+  INSERT   ...için bu labirent deneyi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kas hücrelerimizdekine benzer proteinler
+      metin  : aktin
+      duyulan: actin
+  REPLACE  ...benzer proteinler aktin ve
+      metin  : miyozin
+      duyulan: myozin
+  INSERT   ...canlı bütün koridorları doldurmuştur
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...değer cümlesinin cisimleşmiş halidir
+      metin  : (yok)
+      duyulan: keyki de
+  INSERT   ...kramar ve karen alim
+      metin  : (yok)
+      duyulan: bok
+  REPLACE  ...örgü matematikçiler işi devraldı
+      metin  : vinçenzo bonifaçi
+      duyulan: ki ki de vincenzo bonifaci
+  REPLACE  ...devraldı vinçenzo bonifaçi kurt
+      metin  : mehlhorn
+      duyulan: mehor
+  REPLACE  ...bonifaçi kurt mehlhorn ve
+      metin  : girish
+      duyulan: giriş
+  REPLACE  ...zar noktayı en az
+      metin  : alanıyla
+      duyulan: alanı ile
+  REPLACE  ...yıldırım havada en kolay
+      metin  : iyonlaşan
+      duyulan: yonlaşan
+  INSERT   ...cıvık mantar bunları yapıyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yapıyor tuluz da çalışan
+      metin  : romen buaso
+      duyulan: roman boasso
+  REPLACE  ...buaso david vogel ve
+      metin  : odri düsutur
+      duyulan: audrey dussutur
+  REPLACE  ...aynı ekip canlının çevrede
+      metin  : periyodik
+      duyulan: periodik
+  REPLACE  ...mühendislerden daha iyi plan
+      metin  : yaptı
+      duyulan: yaptığı
+  REPLACE  ...esinlenen algoritma ailesi var
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...niye aynı şeyi demiyoruz
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: bilim-2026-09-09.duyulan.txt

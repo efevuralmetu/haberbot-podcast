@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-09.mp3
+
+beklenen 1248 kelime | duyulan 1250 kelime | eşleşme %98.6
+sayı ifadesi: metinde 99, duyulanda 89  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tek tek tartıyor bu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...perdenin açılması ve elin
+      metin  : sağa
+      duyulan: sağ
+  INSERT   ...kaydetmeleri istendiğinde davranışların yaklaşık
+      metin  : (yok)
+      duyulan: ünün
+  REPLACE  ...kokpitte yeniden insan var
+      metin  : bath
+      duyulan: baht
+  REPLACE  ...tezgahtan çıkıp dolabın üst
+      metin  : rafına
+      duyulan: tarafına
+  REPLACE  ...değildir hepsi mimari meselesidir
+      metin  : saat de
+      duyulan: saatte
+  DELETE   ...duyulduğu tamamen değişir ve
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karanlık yoktur perde yoktur
+      metin  : katherine
+      duyulan: catherine
+  REPLACE  ...değiştirmek sihir değil elbette
+      metin  : phillippa lally
+      duyulan: filippa lelli
+  REPLACE  ...de açıkça söylemek gerekir
+      metin  : kavanozu
+      duyulan: kavanazu
+  REPLACE  ...zayıflık değil oturduğumuz koltuktur
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 12 kelime | duyulup metinde OLMAYAN: 11
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-09-09.duyulan.txt

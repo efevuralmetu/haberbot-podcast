@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-09.mp3
+
+beklenen 1518 kelime | duyulan 1521 kelime | eşleşme %95.2
+sayı ifadesi: metinde 191, duyulanda 139  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gelmişti ve gitmiyordu çekimler
+      metin  : aya
+      duyulan: ayağı
+  REPLACE  ...yerleşmiş mevsimlerin dönmesini bekliyordu
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...yaşındaki konservatuvar öğrencisi hülya
+      metin  : koçyiğit
+      duyulan: koçiyit
+  REPLACE  ...sahnede görünüp kaybolan figür
+      metin  : erksan
+      duyulan: taksan
+  REPLACE  ...sıra yunan besteci manos
+      metin  : hacidakis
+      duyulan: hacıdakis
+  REPLACE  ...yakasından gelen hüzün katar
+      metin  : kıyının
+      duyulan: i ki kıyı nın
+  INSERT   ...film adı çekilmişti ekip
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...berlin film festivali haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...başkanı amerikalı yönetmen anthony
+      metin  : mann di
+      duyulan: mandi
+  REPLACE  ...anthony mann di yarışmada
+      metin  : satyacit
+      duyulan: satyajit
+  REPLACE  ...steiger a oynattığı the
+      metin  : pawnbroker
+      duyulan: pond broker
+  REPLACE  ...pawnbroker yani rehinci vardı
+      metin  : şohei i mamura
+      duyulan: shohei imamura
+  REPLACE  ...en iyi yönetmen gümüş
+      metin  : ayı sı satyacit ray e
+      duyulan: ayısı satyajit raye
+  REPLACE  ...türkiye den filme gidiyordu
+      metin  : ödülü
+      duyulan: ötülü
+  REPLACE  ...ortaya tuhaf tablo çıktı
+      metin  : gösterilmesi
+      duyulan: gösterebilmesi
+  REPLACE  ...venedik te biennale ödülünü
+      metin  : akapulko
+      duyulan: acapulco
+  REPLACE  ...david durston oldu durston
+      metin  : ın
+      duyulan: un
+  INSERT   ...banka kasasından çıktı kurtarma
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...beklenmedik yerden geldi martin
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...dünya sinema vakfı fatih
+      metin  : akın dan
+      duyulan: hakkı ndan
+  REPLACE  ...değer türk filmi önermesini
+      metin  : istedi berlin de
+      duyulan: berlinde
+  INSERT   ...getiren filmi yazdı restorasyon
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...talya da bolonya daki
+      metin  : limmacine ritrovata
+      duyulan: limma cine ritrobata
+  REPLACE  ...ritrovata laboratuvarında tamamlandı orijinal
+      metin  : milimetrelik
+      duyulan: mm lik
+  REPLACE  ...yakın biçimde geri geldi
+      metin  : restoer
+      duyulan: restor
+  REPLACE  ...restoer edilmiş susuz yaz
+      metin  : kan
+      duyulan: de cannes
+  DELETE   ...kadar beklenen metin erksan
+      metin  : gelmedi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...skorsezi ye ve fatih
+      metin  : akın a
+      duyulan: hakk ına
+  INSERT   ...selamdı bu metin erksan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...erksan öldü ulvi doğan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşında hayatını kaybetti aralarındaki
+      metin  : kavga
+      duyulan: ülke
+  INSERT   ...susuz yaz ı izlemek
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geniş şeyi kaydetmişti kaynağa
+      metin  : benim
+      duyulan: film
+  INSERT   ...önce toprağı sonra komşuyu
+      metin  : (yok)
+      duyulan: no
+  INSERT   ...ayı sını yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kendi ülkesinde yasaklandı otomobilin
+      metin  : bagajında
+      duyulan: başında
+  REPLACE  ...kasasından çıkıp geri döndü
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-09-09.duyulan.txt

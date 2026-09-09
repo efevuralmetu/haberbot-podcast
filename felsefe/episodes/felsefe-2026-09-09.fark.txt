@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-09.mp3
+
+beklenen 2122 kelime | duyulan 2122 kelime | eşleşme %97.8
+sayı ifadesi: metinde 192, duyulanda 177  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...haliyle yazan yüzyılda mevlana
+      metin  : celaleddin
+      duyulan: celal i din
+  REPLACE  ...budist kaynaklardaki udana yani
+      metin  : coşkulu
+      duyulan: koşkulu
+  REPLACE  ...sözler derlemesinde geçen anlatıda
+      metin  : savatthi nin
+      duyulan: sabahdin in
+  INSERT   ...toplatır önlerine fil getirtir
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...söyler hint düşüncesinde özellikle
+      metin  : jainizmin
+      duyulan: cainizmin
+  REPLACE  ...kuşatamayacağıdır yüzyılda john godfrey
+      metin  : saxe ın
+      duyulan: sucks in
+  REPLACE  ...sessiz i kisi de
+      metin  : dürüsttür
+      duyulan: dürüstür
+  REPLACE  ...ölçü ölçen kişidir platon
+      metin  : theaitetos diyaloğunda
+      duyulan: dyayet ethos dialoğunda
+  REPLACE  ...zarif hamlelerinden ortaya çıkar
+      metin  : diyalogda
+      duyulan: dialogda
+  REPLACE  ...anlara bakalım yüzyılın sonunda
+      metin  : fridrih niçe
+      duyulan: friedrich nietzsche
+  REPLACE  ...fayda var bu cümle
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...adıyla bilinen o derleme
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...kincisi ve daha önemlisi
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...protagoras ın konan tuzağı
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...gibi görünebilir ama ahlakın
+      metin  : soykütüğü
+      duyulan: soykütü
+  REPLACE  ...değil bunun tam tersi
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...gidelim ebu hamid el
+      metin  : gazzali
+      duyulan: ghazali
+  INSERT   ...sözü ağır basar ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yemekten kesilir süer sonra
+      metin  : bağdadı
+      duyulan: bağdat ı
+  REPLACE  ...çöküşü kendisi anlatıyor el
+      metin  : münkız mine d
+      duyulan: munkiz mined
+  REPLACE  ...hepsi bu dedirtiyor ama
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...sağlığını yıkan kriz peki
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...biçimde açılsın ölçüsünü de
+      metin  : sertçe
+      duyulan: serçe
+  INSERT   ...isim eli pariser oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aklına mumu yakmak gelsin
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: felsefe-2026-09-09.duyulan.txt

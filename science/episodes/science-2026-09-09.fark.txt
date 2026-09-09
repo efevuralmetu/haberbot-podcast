@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-09.mp3
+
+beklenen 2664 kelime | duyulan 2667 kelime | eşleşme %97.9
+sayı ifadesi: metinde 87, duyulanda 86  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...the many headed slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...slime mould it has
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...of a plate exceeding
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...partitioned by any walls
+      metin  : millions
+      duyulan: tons
+  REPLACE  ...and travels a few
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...its title was blunt
+      metin  : an
+      duyulan: and
+  REPLACE  ...was simple the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...the shortest was about
+      metin  : millimetres
+      duyulan: millimeters
+  REPLACE  ...covered almost the whole
+      metin  : plain
+      duyulan: plane
+  INSERT   ...weer published in the
+      metin  : (yok)
+      duyulan: of
+  REPLACE  ...s author was atsushi
+      metin  : tero
+      duyulan: taro
+  REPLACE  ...works is the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...interior without pause nutrients
+      metin  : signalling
+      duyulan: signaling
+  REPLACE  ...is why the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...this way is worth
+      metin  : travelling
+      duyulan: traveling
+  REPLACE  ...mirna kramar and karen
+      metin  : alim
+      duyulan: aleem
+  REPLACE  ...touches a food source
+      metin  : a
+      duyulan: the
+  REPLACE  ...took over in vincenzo
+      metin  : bonifaci
+      duyulan: boniface
+  REPLACE  ...in vincenzo bonifaci kurt
+      metin  : mehlhorn
+      duyulan: malhorn
+  REPLACE  ...bonifaci kurt mehlhorn and
+      metin  : girish
+      duyulan: jirish
+  REPLACE  ...mass so the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...the rule itself but
+      metin  : is
+      duyulan: as
+  REPLACE  ...have serious grounds the
+      metin  : sceptics
+      duyulan: skeptic s
+  REPLACE  ...in the air that
+      metin  : ionises
+      duyulan: ionizes
+  REPLACE  ...thickening of the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...family a flow network
+      metin  : reorganises
+      duyulan: reorganizes
+  REPLACE  ...view saying the blob
+      metin  : designed
+      duyulan: design
+  REPLACE  ...acquier habits the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...david vogel and audrey
+      metin  : dussutor
+      duyulan: de soutuer
+  REPLACE  ...bridge with bitter substances
+      metin  : quinine or caffeine
+      duyulan: witwernand du quaffine
+  REPLACE  ...for a while the
+      metin  : wariness
+      duyulan: weariness
+  REPLACE  ...need correcting the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...which period the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...did not know the
+      metin  : cities
+      duyulan: city s
+  REPLACE  ...question of the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...inspired by the slime
+      metin  : mould
+      duyulan: mold
+  REPLACE  ...an approval the slime
+      metin  : mould s
+      duyulan: molds
+  REPLACE  ...has information about the
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...solution that sees the
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...to use the slime
+      metin  : mould
+      duyulan: mold
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-09.duyulan.txt

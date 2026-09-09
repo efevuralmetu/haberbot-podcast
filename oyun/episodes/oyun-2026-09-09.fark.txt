@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-09.mp3
+
+beklenen 1571 kelime | duyulan 1590 kelime | eşleşme %97.1
+sayı ifadesi: metinde 263, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tek yolu karanlıkta el
+      metin  : yordamıyla
+      duyulan: yordamı ile
+  REPLACE  ...altındaki geçide yanınızda başka
+      metin  : nesneyle
+      duyulan: nesne ile
+  REPLACE  ...beliriyor bu oyunu warren
+      metin  : robinett
+      duyulan: robinet
+  INSERT   ...bu cümle sıradan görünüyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en ucuz kaldıraçtı warren
+      metin  : robinett
+      duyulan: robinet
+  REPLACE  ...niyetlenmiş değildi atari nin
+      metin  : sunnyvale
+      duyulan: sunivale
+  INSERT   ...inanılması güç şeydi atari
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...güç şeydi atari kartuşunda
+      metin  : kilobayt
+      duyulan: kilobyte
+  REPLACE  ...kendi geçici belleği ize
+      metin  : bayttı bayt
+      duyulan: byte idi byte
+  REPLACE  ...nereye baktığını tutmak demekti
+      metin  : robinett
+      duyulan: robinet
+  REPLACE  ...alan sadece bayttı yani
+      metin  : robinett
+      duyulan: robinet
+  INSERT   ...sıkıştırmayı göze almıştı macera
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kopya sattı tanesi dolardı
+      metin  : robinett
+      duyulan: robinet
+  REPLACE  ...de yaşayan yaşındaki adam
+      metin  : clayton
+      duyulan: clyton
+  REPLACE  ...bunlar oyuncular için saklanmış
+      metin  : paskalya
+      duyulan: pascalia
+  REPLACE  ...sürprizleer hala o adla
+      metin  : paskalya
+      duyulan: pascalia
+  REPLACE  ...ismin kutuya basılmasını değil
+      metin  : robinett
+      duyulan: robinette
+  INSERT   ...değildi warner atari yi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şirketin başında artık ray
+      metin  : kassar
+      duyulan: kasar
+  INSERT   ...çalışıyordu bu dördü o
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...dolara ulaşan kartuş satışlarının
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...ve başlangıç sermayesini katlattı
+      metin  : sutter
+      duyulan: süther
+  INSERT   ...önce geliyordu activision ekim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yıl bitmeden çalışan sayısı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...oldu atari nin savunduğu
+      metin  : tez
+      duyulan: test
+  INSERT   ...geçirme lüksü yoktu temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çıkardı bültenin abone sayısı
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...gelen oyuncu mektupları haftada
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...değil tasarımcıyı takip ediyordu
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...haline geldi bu kurucuların
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adı görünür olduğunda o
+      metin  : ad
+      duyulan: at
+  REPLACE  ...yaratıyordu şirket başında çalışanı
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...çalışanı aştı ve haziran
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bastırabildiği dönem başladı ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kuzey amerika oyun sektörü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıl mahkemeyle uğraşan programcı
+      metin  : robinett
+      duyulan: robinet
+  REPLACE  ...bu işi kim yaptı
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 24 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-09-09.duyulan.txt
