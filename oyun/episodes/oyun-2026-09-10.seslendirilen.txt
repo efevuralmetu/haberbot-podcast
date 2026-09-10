@@ -1,0 +1,73 @@
+[MOOD: kesif]
+Bir mühendis, kendi eliyle kurduğu ağın üzerinden dünyaya yayılacak bir program yazdı; ama amacı ne şöhretti ne de bir tür icat etmek. Sadece hafta sonu gelen iki küçük kızıyla konuşacak bir şey bulmak istiyordu. Elinde de ezberlediği gerçek bir mağaranın haritası vardı.
+
+[JINGLE] jingle/haberjingle.mp3
+
+[MOOD: kesif]
+
+Kentucky'nin yeşil tepelerinin altında, kireçtaşının milyonlarca yıl boyunca su tarafından oyulmasıyla oluşmuş bir boşluklar ağı uzanır. Yüzeyden bakan biri bunu göremez; görebileceği tek şey, bir tarlanın ortasında aniden beliren, çalılarla örtülü, insan boyundan küçük bir deliktir. bin dokuz yüz yetmişlerin başında, hafta sonları bu deliklerden birine tulumuyla, kaskıyla ve karpit lambasıyla giren adamlardan biri, hafta içi Massachusetts'te bambaşka bir işle uğraşıyordu. Adı William Crowther'dı; herkes ona Will diyordu. bin dokuz yüz otuz altı doğumluydu, bir bilgisayar programcısıydı ve Bolt Beranek and Newman adlı, kısaca BBN diye anılan savunma yüklenicisi şirkette çalışıyordu.
+
+BBN'in o yıllarda üstlendiği iş, sonradan dünyanın altını üstüne getirecek bir işti. Şirket, Amerikan ordusunun araştırma kolu için bilgisayarları birbirine bağlayacak bir ağ kuruyordu: ARPANET. Ağın düğüm noktalarında duran, mesajları alıp doğru yöne yollayan özel makineler vardı. bin dokuz yüz altmış dokuzun ilk sekiz ayında bu makinelerin yazılımını üç kişi yazdı ve Crowther'ın payına düşen kısım, makinelerin birbiriyle nasıl konuşacağıydı. Yani yönlendirme. Bir mesajın, ağın hangi kolundan geçerek hedefine varacağına nasıl karar vereceği. Crowther'ın yazdığı dağıtık yönlendirme yöntemi, bugün internet dediğimiz şeyin altındaki mantığın ilk ciddi denemelerinden biriydi.
+
+Şimdi bu iki uğraşı yan yana koyun. Adam, mesai saatlerinde görünmeyen bir ağın içinde en kısa yolu bulan kodlar yazıyor. Hafta sonları ise gerçekten görünmeyen bir ağın, yerin altındaki dehlizlerin içinde sürünerek ilerliyor. İkisi de aynı soruyu soruyor aslında: buradan oraya nasıl gidilir, ve elimizdeki harita ne kadar güvenilir?
+
+Crowther yalnız bir mağaracı değildi. Eşi Patricia Crowther da programcıydı ve o da mağaracıydı. İkisi de Mağara Araştırma Vakfı'nın gönüllüleriydi. Vakfın o yıllardaki büyük tutkusu tek bir hedefe kilitlenmişti: Kentucky'deki iki dev mağara sistemi, Mammoth Cave, yani Mamut Mağarası ile Flint Ridge, yani Çakmaktaşı Sırtı, yerin altında birbirine bağlanıyor muydu? Onlarca yıldır aranan bu bağlantı bulunursa, ortaya dünyanın açık ara en uzun mağarası çıkacaktı.
+
+Bu bağlantıyı bulan ekibin içinde Patricia Crowther vardı ve bulunmasının nedeni, kısmen, onun fiziğiydi. Çakmaktaşı Sırtı'nın derinliklerinde, adı sonradan Tight Spot, yani Dar Geçit olarak anılacak, on metre kadar uzunlukta bir yarık vardı. Ekipteki çoğu kişi oraya sığmıyordu. Patricia sığdı. Dar Geçidin ötesinde açılan koridorlar, aylar sonra, dokuz Eylül bin dokuz yüz yetmiş ikide ekibi yeraltı sularının içinden geçirerek Mamut Mağarası'nın turistlere açık bölümünün hemen dibine çıkardı. Suyun içinde ilerleyen John Wilcox, lambasının ışığında karşı kıyıda düzeltilmiş bir patika gördü ve arkadaşlarına bir turist yolu gördüğünü söyledi. Bağlantı kurulmuştu. O gün yerin altında olanların hiçbiri bunun bir bilgisayar oyununa dönüşeceğini düşünmüyordu.
+
+Crowther'ın mağaradaki asli görevi keşif değil, ölçümdü. Haritacıydı. Bir mağarayı haritalamak, romantik bir iş değildir; sırtüstü yatıp pusula tutmak, mesafe ipini germek, eğim açısını okumak ve karanlıkta ıslanmış bir deftere rakam yazmaktır. Her ölçüm noktasının bir kodu olur; duvara boyayla ya da bantla işaretlenmiş, Yiki gibi kuru, teknik adlar. Bu binlerce ölçümün ardından elinizde bir mağara değil, bir sayı yığını kalır.
+
+İşte tam burada Crowther'ın iki hayatı ilk kez birleşti. Defterlerdeki ham ölçümleri alıp bunları düzgün bir plana, çizilebilir bir haritaya çeviren bilgisayar programlarını o yazdı. bin dokuz yüz yetmiş dört yazında, Devasa Mağara'nın, yani Colossal Cave'in, Bedquilt diye anılan bölgesinde yoğun bir ölçüm kampanyası yürütüldü; Crowther bu çalışmanın içindeydi ve ertesi yıl bölgenin haritası çıktı. Yani adam, o mağaranın koridorlarını yalnızca bedeniyle geçmemişti. Onları sayılara çevirmiş, sayıları bilgisayara girmiş, bilgisayarın içinde yeniden mağara olarak kurmuştu. Yorgan bölgesinin hangi koridorunun hangisine açıldığını, hangi çatlaktan geçilebileceğini, hangi salonun tavanının nereye kadar yükseldiğini ezbere biliyordu. O mağara artık onun kafasının içinde de vardı.
+
+[MOOD: huzun]
+
+bin dokuz yüz yetmiş beşte Crowther'ların evliliği bitti. Boşandılar.
+
+Bundan sonrasını Crowther yıllar sonra sade bir cümleyle anlatacaktı: elinde birdenbire fazladan boş zaman vardı ve iki kızını özlüyordu. Kızlarının adı Sandy ve Laura'ydı, ikisi de küçüktü ve artık onlarla her gün aynı evde değildi. Aynı dönemde mağaracılığa da ara vermişti; yerin altında geçirilen hafta sonları, ancak bütün hayat yerli yerindeyken sürdürülebilen türden bir uğraştır.
+
+Boşanmış bir babanın klasik sorunu, kızlarıyla ne yapacağını bilememektir. Onlarla paylaşabileceği, ikisinin de ilgisini çekecek, oyuncak dükkânından alınmayacak bir şey arıyordu. Aynı sıralarda BBN'de bir grup meslektaşıyla Dungeons and Dragons, yani Zindanlar ve Ejderhalar oynuyordu; kâğıt, kalem ve zarla oynanan, bir anlatıcının sözle kurduğu dünyada ilerlediğiniz o masa oyunu. Kafasında iki şey birbirine değdi: anlatılan bir dünyanın içinde ilerleme fikri, ve halihazırda sayı sayı bildiği gerçek bir mağara.
+
+Elindeki alet BBN'in PDP-on marka büyük bilgisayarıydı; bir odayı dolduran, kullanıcılarının klavye ve ekranla bağlandığı türden bir makine. Kullandığı dil FORTRAN'dı; yani bilimsel hesap için tasarlanmış, metinle uğraşmak konusunda hantal, bu iş için hiç de uygun olmayan bir dil. Crowther gene de onunla yazdı, çünkü elindeki oydu.
+
+Ortaya çıkan program, kendi anlattığına göre, yedi yüz satır kadar koddan ve bir o kadar da veriden ibaretti. Bugünün ölçüleriyle gülünecek kadar küçük bir şey. İçinde altmış altı mekân, oyuncunun kullanabileceği yüz doksan üç kelimelik bir sözlük ve beş hazine vardı. Ne grafik vardı ne ses; ekranda yalnızca yazı akıyordu. Oyun size nerede olduğunuzu birkaç cümleyle anlatıyor, sonra susup sizin yazmanızı bekliyordu.
+
+Yazacağınız komut iki kelimeyi geçemezdi: bir fiil ve bir isim. Doğuya git. Lambayı al. Kuşu bırak. Bu kısıtlama teknik bir zorunluluktan doğmuştu ama sonuçta türün dilbilgisi oldu; sonraki on yıl boyunca yüzlerce oyun aynı iki kelimelik gramerle konuşacaktı.
+
+Oyun, ormanın içinde, bir yolun sonunda, küçük tuğla bir binanın önünde başlıyordu. Bina bir kuyu evi, yani bir su kaynağının üzerine kurulmuş küçük bir yapıydı; içinde işinize yarayacak birkaç şey bulunuyordu. Oradan bir vadi boyunca yürüyüp bir ızgaranın altına iniyordunuz ve o andan sonra karanlıktaydınız. Lambanız yanmıyorsa hiçbir yeri göremiyor, körlemesine attığınız bir adımda çukura düşüp ölüyordunuz.
+
+Ve o karanlıkta gezdiğiniz yer uydurma değildi. Crowther, kendi ölçtüğü Yorgan bölgesinin planını olduğu gibi oyuna aktarmıştı. Yiki diye bir oda vardı; bu, oyun için icat edilmiş şifreli bir ad değil, gerçek mağaranın duvarındaki bir ölçüm noktasının kodudur. Hall of the Mists, yani Sisler Salonu vardı; Katedral vardı; gerçek mağarada bulunan demir bir çubuk ve bir balta başı, oyunda da eşya olarak duruyordu. Koridorların birbirine bağlanma biçimi, hangi çatlaktan hangi salona geçildiği, gerçek mağaranın haritasıyla örtüşüyordu. Crowther, kızlarına bir masal anlatmıyordu; onları, kendi bedeniyle sürünerek geçtiği gerçek koridorların içine sokuyordu.
+
+Ama bu bir mağara benzetimi değildi, oyundu. İçinde büyü vardı: dipsiz bir yarığın üzerinde sözle beliren kristal bir köprü. İçinde tehlike vardı: karanlıkta üstünüze balta fırlatan cüceler. İçinde bulmacalar ve espri vardı. Ve içinde, oyun tarihinin en tuhaf mirasçılarından biri vardı: sihirli kelimeler. XYZZY yazdığınızda, hiçbir anlamı olmayan bu harf dizisi sizi mağaranın bir yerinden alıp başka bir yerine ışınlıyordu. Kimse bu kelimenin nereden geldiğini tam olarak bilmez. Yarım asır sonra bile programcılar, yazdıkları yazılımlara gizli bir şaka olarak bu kelimeyi saklamayı sürdürüyor.
+
+Crowther'ın büyüyle ilgili bir tercihi de vardı: büyüsel öğelerin mağaranın derinlerinde, ancak epey ilerleyen birinin karşısına çıkmasını istiyordu. Yüzeye yakın yerler gerçekçi kalsın, gerçeklikten kopuş adım adım gelsin istiyordu.
+
+Programın dosya adı ADVENT'ti. Bunun bir tasarım kararıyla ilgisi yok; o makinenin işletim sistemi dosya adlarında altı harften fazlasına izin vermiyordu ve Adventure, yani Macera, oraya sığmıyordu. Tarihin en etkili bilgisayar oyunlarından birinin adı, bir karakter sınırı yüzünden kesilmiş bir kelimedir.
+
+Crowther oyunu kızlarına gösterdi. Sandy ve Laura, babalarının bilgisayarının başına oturup karanlıkta ilerlediler. Aynı sıralarda oyunu BBN'deki masa oyunu arkadaşlarıyla da paylaştı. Sonra, bin dokuz yüz yetmiş altının başlarında, üzerinde çalışmayı bıraktı. Bitmiş bir eser olarak değil, ilgisi geçmiş bir uğraş olarak bıraktı. Program makinenin diskinde, kimsenin özel olarak korumadığı bir dosya olarak öylece durdu.
+
+[MOOD: cosku]
+
+Bir programın öylece durması, o program herkesin girebildiği bir makinenin üzerindeyse ve o makine ülkenin dört bir yanındaki başka makinelere bağlıysa, aynı şey değildir. Crowther'ın kendi mesleki uzmanlığı, kendi oyununun başına geleni belirledi: ağın üzerinde bir dosya kopyalanmaya başladığında onu durdurabilecek bir şey yoktur.
+
+Oyun elden ele, daha doğrusu makineden makineye geçti. bin dokuz yüz yetmiş altıda Kaliforniya'da, Stanford Üniversitesi'nde çalışan Don Woods adlı bir yüksek lisans öğrencisi bir kopyasına rastladı. Woods oyunu oynadı, büyülendi ve içindeki programcı hemen devreye girdi: bunu genişletmek istiyordu. Ama bunun için kaynak koda ihtiyacı vardı, kaynak kod için de yazarı bulması gerekiyordu.
+
+Elinde tek bir ipucu vardı, oyunun içinde geçen soyadı. Woods, o zamanlar ağa bağlı olan her makineye, "crowther" adresine bir mektup yolladı. Bugünün ölçeğinde delilik sayılacak bu yöntem, o gün işe yaradı; çünkü ağdaki makine sayısı hâlâ tek tek denenebilecek kadar azdı. Mektuplardan biri hedefini buldu. Crowther cevap verdi ve kaynak kodu Woods'a gönderdi.
+
+Woods bin dokuz yüz yetmiş yedinin Mayıs ayına gelindiğinde oyunu tanınmayacak ölçüde büyütmüştü. Kod üç bin satıra, veri bin sekiz yüz satıra çıktı. Mekân sayısı altmış altıdan yüz kırka yükseldi. Woods, Crowther'ın gerçek mağarasının ötesine, tamamen hayal ürünü bölgeler ekledi; bir ejderha, çaldığı hazineleri saklayan bir korsan, yeni labirentler, envanter yönetimi koydu. En önemlisi, oyuna bir amaç ve bir puan koydu: hazineleri bulup yüzeye çıkaracaktınız ve sonunda üç yüz elli üzerinden bir not alacaktınız. Crowther'ın kızlarına açtığı gezinti alanı, Woods'un elinde kazanılabilir bir yarışa dönüştü.
+
+bin dokuz yüz yetmiş yedinin başında oyun ARPANET'i süpürdü. Ülkenin dört bir yanındaki üniversite ve araştırma merkezlerinde, pahalı bilgisayarların başında oturan insanlar günlerce hazine aradı, labirentte kaybolup yerlere eşya bırakarak yol işaretledi, karanlıkta cücelerden kaçtı. Massachusetts Teknoloji Enstitüsü'nde durum o kadar ciddiydi ki, sonradan şöyle bir şaka yerleşti: Macera, bütün bilgisayar sektörünü iki hafta geriye attı.
+
+Ama asıl mesele kaybedilen zaman değil, açılan kapıydı. Oyunu oynayan herkes aynı düşünceye kapılıyordu: ben de böyle bir şey yapabilirim, ama şöyle olsun. Massachusetts Teknoloji Enstitüsü'ndeki bir grup öğrenci, Macera'yı bitirdikten hemen sonra kendi metin oyunlarını yazmaya girişti; ortaya Zork çıktı, Zork'un ardından da Infocom adlı şirket kuruldu ve metin macerası bir sanayi haline geldi. Ev bilgisayarları yaygınlaşırken Scott Adams aynı fikri o küçücük makinelerin sınırlı belleğine sığdırdı. Roberta Williams, oyunu oynadıktan sonra kendi macera oyunlarını tasarlamaya başladı ve türe resim ekledi; bugün grafik macera dediğimiz kol oradan çıktı.
+
+Bugün açtığınız hemen her oyunda o yedi yüz satırın tortusu vardır. Birbirine bağlı odalardan oluşan bir dünya haritası, taşınabilen ve kullanılabilen eşyalar, ilerlemeyi kilitleyen bulmacalar, ve dünyayla konuşmanızı sağlayan bir komut dili. Bunların hepsi tek bir yerde, aynı anda, boşanmış bir mağaracının FORTRAN denemesinde bir araya geldi.
+
+Hikâyenin son katmanı ise çok daha yeni. Uzun yıllar boyunca Crowther'ın özgün sürümü kayıp sayıldı; elde yalnızca Woods'un genişlettiği hali vardı ve Crowther'ın tam olarak ne yazdığı tartışma konusuydu. Bazıları onun aslında bir oyun değil, kuru bir mağara benzetimi yaptığını iddia ediyordu. iki bin beşte araştırmacı Dennis Jerz, Stanford Yapay Zekâ Laboratuvarı'nın eski yedekleme kayıtlarını tarayarak Woods'un öğrencilik hesabının arşivinde Crowther'ın özgün FORTRAN kaynağını buldu. Dosyalar bin dokuz yüz yetmiş yedi Mart tarihini taşıyordu ve içlerinde oyunun oyuncuyu karşılayan cümlesi duruyordu.
+
+Jerz bununla yetinmedi. Kodu okumak yetmezdi; kodun anlattığı yerin kendisine gitmek gerekiyordu. Elinde oyunun mekân bağlantılarıyla, Kentucky'ye gitti ve Yorgan bölgesine indi. Oradaki koridorlar, oyunun tarif ettiği gibiydi. Yarım asır önce bir babanın kızları için ekrana yazdığı tarifler, gerçek kayanın üzerinde doğrulanabiliyordu.
+
+Bu, oyun tarihinde ender rastlanan bir şeydir. Neredeyse bütün oyun dünyaları hayal ürünüdür; hiçbirine gidip bakamazsınız. Ama Devasa Mağara hâlâ orada duruyor. Sisler Salonu'nun gerçeği var. Yikinin işareti duvarda. Ve bir zamanlar orada, elinde pusula ve ıslak bir defterle sürünen bir adamın, kızlarıyla arasına giren mesafeyi kapatmak için yaptığı tek şey, o karanlığı kendi bildiği tek dile çevirmek olmuştu.
+
+[MOOD: sakin]
+Nöron Oyun'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.
+
+[JINGLE] jingle/haberjingle.mp3
