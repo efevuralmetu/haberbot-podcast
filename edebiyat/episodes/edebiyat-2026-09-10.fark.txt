@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-10.mp3
+
+beklenen 1838 kelime | duyulan 1847 kelime | eşleşme %91.0
+sayı ifadesi: metinde 269, duyulanda 186  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...baharında paris in batısındaki
+      metin  : bulonya ormanı nda
+      duyulan: boulogne ormanında
+  REPLACE  ...çocuk yaşamayabilir babanın adı
+      metin  : adriyen prust tu
+      duyulan: adrien proustu
+  REPLACE  ...sıradan baba paniği değildi
+      metin  : adriyen prust
+      duyulan: adrien proust
+  REPLACE  ...o gün başlayan astım
+      metin  : marsel prust
+      duyulan: marcel proust
+  REPLACE  ...burjuvazisinin tam ortasındaydı anne
+      metin  : jan veyl
+      duyulan: jean weil
+  REPLACE  ...bitiremeyen zarif genç adam
+      metin  : kondorse lisesi ni
+      duyulan: condorce lisesini
+  REPLACE  ...kondorse lisesi ni bitirdi
+      metin  : orleyan
+      duyulan: orlayan
+  REPLACE  ...ve salonlarda gerçekten iyiydi
+      metin  : madam straus
+      duyulan: madame strauss
+  REPLACE  ...straus un yani besteci
+      metin  : bize
+      duyulan: bizet in dul eşi
+  DELETE   ...yani besteci bize nin
+      metin  : dul eşinin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nin dul eşinin evinde
+      metin  : kontes greful ün
+      duyulan: contes graffoul un
+  REPLACE  ...greful ün ışıltılı davetlerinde
+      metin  : rober dö monteskiyö nün
+      duyulan: robert de montesquieu nun
+  REPLACE  ...çevresinde yıllarca dolaştı dinledi
+      metin  : kontesin
+      duyulan: contes in
+  INSERT   ...sanıyordu aslında not tutuyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk kitabı çıktı le
+      metin  : plezir e
+      duyulan: plaisir et
+  REPLACE  ...le plezir e le
+      metin  : jur
+      duyulan: jor
+  REPLACE  ...dönemin en ünlü yazarlarından
+      metin  : anatol frans
+      duyulan: anatole france
+  REPLACE  ...resimlerini sosyetenin gözde ressamı
+      metin  : madlen lömer
+      duyulan: madeleine lombert
+  REPLACE  ...zıvır muamelesi yaptı yazar
+      metin  : jan
+      duyulan: john
+  REPLACE  ...götürdü ki kışının sabahı
+      metin  : prust
+      duyulan: proust
+  REPLACE  ...kendini paris dışında tabancayla
+      metin  : düello
+      duyulan: duello
+  REPLACE  ...çalıştı sayfaya yaklaştı adı
+      metin  : jan santöy dü
+      duyulan: john santoy du
+  REPLACE  ...anlatıyordu sayfalar birbirine tutunmuyordu
+      metin  : müsveddeyi
+      duyulan: müswedde yi
+  REPLACE  ...tutunmuyordu müsveddeyi çekmeceye koydu
+      metin  : o metin
+      duyulan: ohmet in
+  REPLACE  ...koydu o metin ancak
+      metin  : prust
+      duyulan: proust
+  INSERT   ...öldükten yıl sonra basılacaktı
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...sonra ölüm geldi babası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...evinde kriz sonucu annesi
+      metin  : anneyle
+      duyulan: te anne ile
+  REPLACE  ...sorun basitti ve çözümsüzdü
+      metin  : astım
+      duyulan: aslım
+  REPLACE  ...nedeniyle temiz hava için
+      metin  : tehditti
+      duyulan: tehditli
+  INSERT   ...dolu sessizliğe ihtiyacı vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aynı şeyi yapmıştı ama
+      metin  : prust
+      duyulan: proust
+  REPLACE  ...düzenli insan sesi vardı
+      metin  : selest
+      duyulan: celeste
+  REPLACE  ...evin tamamını üstlendi ve
+      metin  : prust
+      duyulan: proust
+  REPLACE  ...gördüklerini anlatan kitap yazdıracaktı
+      metin  : prust
+      duyulan: proust
+  REPLACE  ...ize şuydu ile arasında
+      metin  : prust
+      duyulan: proust
+  REPLACE  ...arasında prust ünlü eleştirmen
+      metin  : sent böv e
+      duyulan: szentböve
+  REPLACE  ...karşı deneme yazmaya girişti
+      metin  : sent böv
+      duyulan: szentböve
+  REPLACE  ...sohbetlerini bilmek gerektiğini savunuyordu
+      metin  : prust
+      duyulan: proust
+  REPLACE  ...kurdu tat koku ayağın
+      metin  : kaldırıma
+      duyulan: kaldırma
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 132 kelime | duyulup metinde OLMAYAN: 134
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: edebiyat-2026-09-10.duyulan.txt

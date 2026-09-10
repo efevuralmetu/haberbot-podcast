@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-10.mp3
+
+beklenen 1519 kelime | duyulan 1535 kelime | eşleşme %94.9
+sayı ifadesi: metinde 198, duyulanda 136  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yeniden açılır ilk yelkenli
+      metin  : mukalla
+      duyulan: mukallya
+  REPLACE  ...yarımadası nın güney kıyısından
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...nun burnundan ize yalnızca
+      metin  : kilometer
+      duyulan: km
+  DELETE   ...anlamıyla ait değildir yaklaşık
+      metin  : kilometrekarelik
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu adalar yanardağın denizden
+      metin  : yükselttiği
+      duyulan: yükseltiği
+  INSERT   ...biten şeylerdir botanikçiler adada
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...sayıyor ve bunların yaklaşık
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...sığırcığı sokotra serçesi sokotra
+      metin  : ötleğeni
+      duyulan: ötleyeni
+  INSERT   ...üstünde yalnızca burada uçar
+      metin  : (yok)
+      duyulan: g de
+  INSERT   ...gün etmez havaalanı ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ağacı bilimsel adıyla drasena
+      metin  : sinnabari
+      duyulan: sinabari
+  REPLACE  ...anılan denizcilik metni adadan
+      metin  : dioskorida
+      duyulan: dioscorida
+  REPLACE  ...dağın içine kilometrelerce uzanan
+      metin  : hok mağarası nda
+      duyulan: hokma arasında
+  REPLACE  ...başka şeyi de aldı
+      metin  : hristiyanlığı
+      duyulan: hıristiyanlığı
+  REPLACE  ...marco polo yüzyılda adada
+      metin  : hristiyanların
+      duyulan: hıristiyanların
+  INSERT   ...olduğunu yazdı bu cemaat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...portekizli filoyu karşıladığında afonso
+      metin  : dö albukerke
+      duyulan: de albuquerque
+  REPLACE  ...albukerke ve tristan da
+      metin  : kunya
+      duyulan: cunya
+  INSERT   ...tedarik imkansız çıktı portekizliler
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...için adayı himayesine aldı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...devletin ucu oldu sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...büyük ejderha kanı ormanı
+      metin  : diksam
+      duyulan: diksan
+  INSERT   ...rüzgar alışılmadık şey yaptı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...görülmeyen güçte tropik siklon
+      metin  : chapala
+      duyulan: çapala
+  REPLACE  ...enkazı kaldıramadan siklon geldi
+      metin  : megh
+      duyulan: meg
+  INSERT   ...kişinin ölümüne yol açtı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...göer adadaki ağaçların yaklaşık
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...sistemi ize saatlerce süren
+      metin  : kilometrelik
+      duyulan: km lik
+  INSERT   ...gelmiyordu üstelik iş bitmemişti
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...hükümetiyle gerilime yol açtı
+      metin  : (yok)
+      duyulan: bu de
+  INSERT   ...hatırlattı beraberinde asfalt geldi
+      metin  : (yok)
+      duyulan: daha önce toprak yollarlarla yıkılmaktadır
+  REPLACE  ...insanın hakkı olan hayat
+      metin  : standardı ile
+      duyulan: standartıyla
+  REPLACE  ...oluşmuş laboratuvarın kırılganlığı aynı
+      metin  : kilometrekareye
+      duyulan: ye
+  REPLACE  ...sessizce yapıyor muson sisi
+      metin  : o tacın
+      duyulan: ot ağacın
+  INSERT   ...hiçbir şey değişmezse önümüzdeki
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...ağacının ilk çatalını vermesi
+      metin  : çitin
+      duyulan: çetin
+  REPLACE  ...kapattığı artık iyileşmeyecek yara
+      metin  : nöron seyahat de
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-09-10.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-10.mp3
+
+beklenen 2701 kelime | duyulan 2706 kelime | eşleşme %95.5
+sayı ifadesi: metinde 282, duyulanda 239  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...doğu kıyısındaki balıkçı kasabası
+      metin  : lowestoft tan
+      duyulan: lowestoftan
+  REPLACE  ...iyi bilirdi leman ve
+      metin  : ower
+      duyulan: over
+  DELETE   ...birlikte her zamanki gibi
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu şeye kendi aralarında
+      metin  : moorlog
+      duyulan: moorlok
+  REPLACE  ...ağa takılan bataklık turbasıydı
+      metin  : ıslak
+      duyulan: islak
+  REPLACE  ...tam olarak bunu yaptı
+      metin  : küreği
+      duyulan: küreyi
+  REPLACE  ...geyik boynuzundan yontulmuş yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...dergisinde tanıtıldı bilim dünyası
+      metin  : zıpkın
+      duyulan: zipkın
+  REPLACE  ...olarak kullanılmıştı bugün norwich
+      metin  : kalesi
+      duyulan: kaylesi
+  REPLACE  ...değildi asıl mesele nereden
+      metin  : geldiğiydi
+      duyulan: geldiydi
+  INSERT   ...kadar uzanan manzaranın ortasıydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uzanıyordu aslında bunun ipuçları
+      metin  : colinda
+      duyulan: kolinda
+  REPLACE  ...balıkçılar ağlarında mamut dişleri
+      metin  : geyik
+      duyulan: yeyik
+  REPLACE  ...köşkünün rafında duran hatıra
+      metin  : colinda
+      duyulan: kolinda
+  REPLACE  ...okuyabilmek gerekiyordu ve bu
+      metin  : colinda
+      duyulan: kolinda
+  INSERT   ...olmayan yeer ayırmaz bu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...değişti i ngiliz arkeolog
+      metin  : bryony coles
+      duyulan: brian e collers
+  REPLACE  ...dogger denen teknelerden kalmaydı
+      metin  : coles
+      duyulan: colles
+  REPLACE  ...getirip buzul çağı sonundan
+      metin  : neolitiğe
+      duyulan: neolitie ye
+  REPLACE  ...orman burada başlıyor olmalı
+      metin  : coles
+      duyulan: colles
+  REPLACE  ...britanya ya geçerken hızlıca
+      metin  : aştığı
+      duyulan: açtığı
+  REPLACE  ...geçerken hızlıca aştığı köprü
+      metin  : coles
+      duyulan: cause
+  REPLACE  ...i şlenirken atılan artık
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...arkeolog vince gaffney ile
+      metin  : jeolog
+      duyulan: geolog
+  REPLACE  ...gaffney ile jeolog ken
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...ken thomson o artığın
+      metin  : peyzaj
+      duyulan: peyzaş
+  REPLACE  ...ile arasında ekip yaklaşık
+      metin  : kilometrekarelik
+      duyulan: lik
+  REPLACE  ...oluşturduğu yüksek arazinin güneydoğusundan
+      metin  : doğup
+      duyulan: doğuk
+  REPLACE  ...güneye akan bu su
+      metin  : birminghamlı jeolog
+      duyulan: bermancaaklı jiyolog
+  REPLACE  ...birminghamlı jeolog frederick william
+      metin  : shotton ın
+      duyulan: schotton un
+  REPLACE  ...william shotton ın anısına
+      metin  : shotton
+      duyulan: schott
+  DELETE   ...açılan derin gemi kanalı
+      metin  : var
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mamut kemikleri ve dişleri
+      metin  : yünlü
+      duyulan: günlü
+  REPLACE  ...dişleri yünlü gergedan bizon
+      metin  : ren geyiği
+      duyulan: rengeyi
+  REPLACE  ...yaban atı mağara aslanı
+      metin  : sırtlan
+      duyulan: sırtland
+  REPLACE  ...de kaydı mamut ve
+      metin  : ren geyiği
+      duyulan: rengeyi
+  REPLACE  ...kemikleri ize ılıman ormanın
+      metin  : hayvanları
+      duyulan: ormanları
+  INSERT   ...yalnız modern insan yoktu
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...insan yoktu hollanda nın
+      metin  : güneybatısındaki zeland
+      duyulan: avrupa batısındaki zeylant
+  REPLACE  ...malzemenin içinde belçikalı koleksiyoncu
+      metin  : lük
+      duyulan: luc
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: arkeoloji-2026-09-10.duyulan.txt

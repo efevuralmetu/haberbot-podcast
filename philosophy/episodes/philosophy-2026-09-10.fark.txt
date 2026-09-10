@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-10.mp3
+
+beklenen 3480 kelime | duyulan 3459 kelime | eşleşme %98.7
+sayı ifadesi: metinde 91, duyulanda 92  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sentence sits a quiet
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...a very close relative
+      metin  : kaderimde varmış
+      duyulan: kadarim devarmesh
+  INSERT   ...bound to physical law
+      metin  : (yok)
+      duyulan: so
+  REPLACE  ...the line attributed to
+      metin  : jahm
+      duyulan: jam
+  REPLACE  ...the umayyads is called
+      metin  : jabriyya
+      duyulan: jabriya
+  REPLACE  ...called jabriyya for the
+      metin  : jabriyya
+      duyulan: jabriya
+  REPLACE  ...bad al juhani and
+      metin  : ghaylan
+      duyulan: galen
+  REPLACE  ...juhani and ghaylan al
+      metin  : dimashqi
+      duyulan: damashki
+  REPLACE  ...extremes lost something in
+      metin  : jabriyya
+      duyulan: jabriya
+  DELETE   ...a man in his
+      metin  : forties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...arteries of islamic thought
+      metin  : ash ari
+      duyulan: jabri
+  REPLACE  ...into a single word
+      metin  : kasb
+      duyulan: kasp
+  REPLACE  ...its opponents said that
+      metin  : kasb
+      duyulan: kasp
+  REPLACE  ...uzbekistan abu mansur al
+      metin  : maturidi
+      duyulan: matoridi
+  REPLACE  ...divine unity according to
+      metin  : maturidi
+      duyulan: matoridi
+  REPLACE  ...human being himself later
+      metin  : maturidi
+      duyulan: matoridi
+  REPLACE  ...maturidi scholars called this
+      metin  : juz i irada
+      duyulan: juzi irata
+  REPLACE  ...is related that abu
+      metin  : ubayda
+      duyulan: ubaidah
+  REPLACE  ...from choice but a
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...want what you want
+      metin  : kasb and
+      duyulan: caspian
+  REPLACE  ...a stone in flight
+      metin  : today too
+      duyulan: day
+  REPLACE  ...this came out of
+      metin  : libet s
+      duyulan: leibniz
+  REPLACE  ...libet s experiment too
+      metin  : libet
+      duyulan: leibniz
+  REPLACE  ...cigarette reaches its own
+      metin  : what
+      duyulan: it
+  REPLACE  ...what halts it halfway
+      metin  : is
+      duyulan: as
+  REPLACE  ...of the wil was
+      metin  : nurettin topçu
+      duyulan: nuratin topchu
+  REPLACE  ...through its action for
+      metin  : topçu
+      duyulan: topchu
+  DELETE   ...is the hand itself
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-09-10.duyulan.txt

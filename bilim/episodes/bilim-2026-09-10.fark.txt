@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-10.mp3
+
+beklenen 1681 kelime | duyulan 1699 kelime | eşleşme %96.3
+sayı ifadesi: metinde 251, duyulanda 188  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...olan tel gibi geriyor
+      metin  : otuzların floransa sında
+      duyulan: ların floransas ında
+  REPLACE  ...hiçbir açıklaması olmadan durmuştu
+      metin  : contaları
+      duyulan: kontaları
+  REPLACE  ...yine olmadı su yaklaşık
+      metin  : braccia ya
+      duyulan: braççaya
+  REPLACE  ...ilericiydi göer yükselen su
+      metin  : sütunu
+      duyulan: sütünü
+  REPLACE  ...ama sonsuz değildi su
+      metin  : sütunu
+      duyulan: sütünü
+  REPLACE  ...sonra galileo nun öğrencisi
+      metin  : torriçelli
+      duyulan: torricelli
+  REPLACE  ...aynı yükseklikte durduğunu göstermişti
+      metin  : torriçelli
+      duyulan: torricelli te
+  REPLACE  ...cıvayı kullandı ve cıva
+      metin  : sütununun santimetrede
+      duyulan: sütününün cm de
+  REPLACE  ...üstümüzdeki kilometrelerce kalınlığındaki atmosfer
+      metin  : sütununun
+      duyulan: sütününün
+  REPLACE  ...seviyesinde bu itiş her
+      metin  : santimetrekareye
+      duyulan: santimeter karaya
+  REPLACE  ...tam olarak metrelik su
+      metin  : sütununu
+      duyulan: sütününü
+  REPLACE  ...kaliforniya nın kuzeyindeki kıyı
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...yeri gizli tutulan vadide
+      metin  : hyperion
+      duyulan: hiperion
+  INSERT   ...adı verilen ağaç duruyor
+      metin  : (yok)
+      duyulan: diki da
+  REPLACE  ...bu ama kök basıncı
+      metin  : megapaskal
+      duyulan: mp
+  REPLACE  ...itiş yeterli değil peki
+      metin  : kılcallık
+      duyulan: kılcanlık
+  REPLACE  ...civarında kalıyor suyu yalnızca
+      metin  : kılcallıkla
+      duyulan: kılcalıkla
+  REPLACE  ...içine bakmak gerekiyor yaprağı
+      metin  : enine
+      duyulan: eline
+  REPLACE  ...örülmüş süngerimsi sürekli ıslak
+      metin  : ağdır
+      duyulan: ağadır
+  REPLACE  ...geride kalan suyu selüloz
+      metin  : ağının
+      duyulan: ağanın
+  REPLACE  ...olan gözenekte bu çekim
+      metin  : megapaskala
+      duyulan: mpa
+  REPLACE  ...karşılaştırma için atmosfer basıncı
+      metin  : megapaskal
+      duyulan: mpa
+  REPLACE  ...su kopmadan önce onlarca
+      metin  : megapaskallık
+      duyulan: mpa lık
+  REPLACE  ...ipi yukarı doğru kıpırdatıyor
+      metin  : ip de
+      duyulan: i pte
+  REPLACE  ...kadar çıkabiliyor bu açıklamayı
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...birbirlerinden bağımsız olarak dixon
+      metin  : joly
+      duyulan: jolie
+  REPLACE  ...olarak dixon joly ve
+      metin  : askenasy
+      duyulan: askenasi
+  REPLACE  ...bunu ölçmek yarım aldı
+      metin  : altmışlarda şolander
+      duyulan: larda sholander
+  REPLACE  ...gerilim eksi ile eksi
+      metin  : megapaskal
+      duyulan: mpa
+  REPLACE  ...maliyeti meter başına yaklaşık
+      metin  : megapaskal
+      duyulan: mpa
+  REPLACE  ...yaklaşık megapaskal yani toplamda
+      metin  : megapaskal
+      duyulan: mpa
+  INSERT   ...tek molekül şeker harcamıyor
+      metin  : (yok)
+      duyulan: evet
+  REPLACE  ...bu süreç duyulabilir olaydır
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...büyür ama boruları tıkanır
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...ve sonuç çarpıcıydı türlerin
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...çarpıcıydı türlerin tıkanma eşiğine
+      metin  : megapaskaldan
+      duyulan: mp dan
+  INSERT   ...bizi yüksekliğin tavanına getiriyor
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...içindeki gerilim aşağıdakilerden yaklaşık
+      metin  : megapaskal
+      duyulan: mp
+  REPLACE  ...aynı nemde bile havanın
+      metin  : kuruluk
+      duyulan: kurulup
+  INSERT   ...geliyor amazon un ve
+      metin  : (yok)
+      duyulan: daki
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: bilim-2026-09-10.duyulan.txt

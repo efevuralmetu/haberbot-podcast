@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-10.mp3
+
+beklenen 2687 kelime | duyulan 2641 kelime | eşleşme %98.0
+sayı ifadesi: metinde 119, duyulanda 111  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  DELETE   ...wier about to snap
+      metin  : podcast science json bu kanalı language en kaynak kanal bilim olarak tanımlıyor bugünün bilim txt bölümü de tam bu konu sert kısıt çeviri kaynağa sadık kalır dediği için metni türkçe yeniden yazmadım o zaten bilim txt kaynağın i ngilizce çevirisini verdim jingle ve kapanış satırlarını çıkardım
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nobody could solve the
+      metin  : court s
+      duyulan: quartz
+  REPLACE  ...come up to roughly
+      metin  : braccia
+      duyulan: bracha
+  REPLACE  ...the strength of that
+      metin  : pul
+      duyulan: poer
+  REPLACE  ...poer the stronger the
+      metin  : pul
+      duyulan: poer
+  REPLACE  ...radius of nanometers the
+      metin  : pul
+      duyulan: poer
+  REPLACE  ...surface what carries that
+      metin  : pul
+      duyulan: pole
+  REPLACE  ...end with their ends
+      metin  : opened
+      duyulan: open
+  REPLACE  ...and water seeps from
+      metin  : into
+      duyulan: end to
+  REPLACE  ...the next through thin
+      metin  : membraned
+      duyulan: membrane
+  REPLACE  ...the independently by dixon
+      metin  : joly
+      duyulan: jolie
+  REPLACE  ...by dixon joly and
+      metin  : askenasy
+      duyulan: askenazy
+  REPLACE  ...the pressuer chamber technique
+      metin  : scholander
+      duyulan: scollander
+  REPLACE  ...that leaf the measurements
+      metin  : confirmed
+      duyulan: confirm
+  REPLACE  ...the is sheer number
+      metin  : millions
+      duyulan: tons
+  INSERT   ...no strain at al
+      metin  : (yok)
+      duyulan: did
+  REPLACE  ...longer expand at al
+      metin  : and
+      duyulan: the sand
+  REPLACE  ...humidity which means the
+      metin  : pul
+      duyulan: pole
+  REPLACE  ...it flow by evaporation
+      metin  : a
+      duyulan: data
+  REPLACE  ...let go of another
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...another nöron science de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bugunkubülümün sonnunagaldik yenni hikäe de yennidänbulushmakuzeer
+
+metinde olup DUYULMAYAN: 74 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-10.duyulan.txt

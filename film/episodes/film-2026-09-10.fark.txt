@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-10.mp3
+
+beklenen 1619 kelime | duyulan 1635 kelime | eşleşme %97.8
+sayı ifadesi: metinde 253, duyulanda 174  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...odasında yarım film oynuyor
+      metin  : kovboy
+      duyulan: cowboy
+  INSERT   ...sinema tarihinin yönünü değiştirecek
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...sona bilgisayarda yapılmış uzun
+      metin  : metrajlı
+      duyulan: metrajdı
+  INSERT   ...alıcı kurduğu şirketten kovulmuş
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...adam oldu steve jobs
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...isteyen radyologlar petrol arayan
+      metin  : jeologlar
+      duyulan: geologlar
+  INSERT   ...çok ilgi çekmeye başladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yavru lambayı anlatan luxo
+      metin  : jr
+      duyulan: junior
+  INSERT   ...oscar a aday gösterildi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...planladığı hiçbir şeye benzemiyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...istiyordu lasseter reddetti disney
+      metin  : e
+      duyulan: ye
+  INSERT   ...film yaparak dönebileceğini söyledi
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...a bilet gelirinin yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...savunuyordu pixar tarafında senaryoyu
+      metin  : lasseter
+      duyulan: last settler
+  REPLACE  ...boyunca metin defalarca değişti
+      metin  : kovboy
+      duyulan: cowboy
+  REPLACE  ...woody başlangıçta ipli konuşan
+      metin  : vantrilok
+      duyulan: vantriloq
+  REPLACE  ...vantrilok kuklasıydı sonra çekmeli
+      metin  : kovboy
+      duyulan: cowboy
+  INSERT   ...çalışmıyor mu orada anlaşılır
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...oldu yeni metin disney
+      metin  : e
+      duyulan: ye
+  INSERT   ...e sunuldu ve onaylandı
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...disney in geleneksel uzun
+      metin  : metrajı
+      duyulan: metracı
+  INSERT   ...king yani aslan kral
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...değil işlemci gücüyle ölçülüyordu
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...işlemci gücüyle ölçülüyordu kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...filme özel çözüm buldu
+      metin  : lasseter a
+      duyulan: lasseterra
+  INSERT   ...animasyon birimlerini kapattı ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...iyi değil diyebilen odaydı
+      metin  : nöron film de
+      duyulan: neuron filmde
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 16 kelime | duyulup metinde OLMAYAN: 33
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: film-2026-09-10.duyulan.txt

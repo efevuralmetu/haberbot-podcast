@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-10.mp3
+
+beklenen 2392 kelime | duyulan 2419 kelime | eşleşme %94.2
+sayı ifadesi: metinde 344, duyulanda 235  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kıvrıldığı vadide tuskegee adlı
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...dolaylarında çocuk doğdu annesi
+      metin  : wut teh
+      duyulan: wutte
+  REPLACE  ...annesi wut teh adında
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...bile tartışmalı kimi kayıtlar
+      metin  : kürk
+      duyulan: kürt
+  REPLACE  ...beyazlar arasında ize george
+      metin  : guess ya da george gist
+      duyulan: guest
+  REPLACE  ...topallayarak yürüdü ve sonunun
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...iyiydi yaptığı parçalar aranıyordu
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...küçük olay oldu ve
+      metin  : sekoya
+      duyulan: sekoy
+  REPLACE  ...yönünü değiştirdi anlatıya göer
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...bildiği şeyi o sıralarda
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...seferinde toprak eksiliyordu ve
+      metin  : çerokiler
+      duyulan: cherokiler
+  REPLACE  ...söylenen unutulabilirdi yazılan unutulmuyordu
+      metin  : çerokiler
+      duyulan: cherokiler
+  REPLACE  ...dolaylarında alabama tarafında toplantıda
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...yaratırken beyaz adama kitabı
+      metin  : çerokiye
+      duyulan: cherokee
+  REPLACE  ...kenarındaki topal gümüşçü katılmadı
+      metin  : sekoya ın
+      duyulan: sequoia nın
+  REPLACE  ...tam da bu yıllarını
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...oldu binlerce oldu ve
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...yığın büyüdükçe hızlanıyordu çünkü
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...karşısına duvar gibi dikiliyordu
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...üstüne eklerle onlarca ayrı
+      metin  : sözcüğe
+      duyulan: sözcüye
+  REPLACE  ...ayrı sözcüğe dönüşür yani
+      metin  : çeroki
+      duyulan: cherokee
+  REPLACE  ...saymaya kalkarsan sayı bitmez
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...arada hayatı sürüyordu ve
+      metin  : çeroki
+      duyulan: te cherokee
+  REPLACE  ...ordusunun yanında kızıl sopa
+      metin  : krikleri ne
+      duyulan: kırıklarına
+  REPLACE  ...ne karşı savaşa katıldı
+      metin  : horseshoe bend
+      duyulan: horsushu bent
+  REPLACE  ...alıyordu yazılı emirleri okuyabiliyorlardı
+      metin  : çeroki
+      duyulan: cherokee
+  INSERT   ...fark cesaret değildi kağıttı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sarıldı sonra kırılma geldi
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...o küme küçüktü bu
+      metin  : dilbilimin
+      duyulan: dil bilimin yıl
+  REPLACE  ...sonra formülleştireceği kavrayıştı ve
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...hiç kimse öğretmedi kendi
+      metin  : kulağıyla
+      duyulan: kulayla
+  REPLACE  ...yeniden böldü sayı önce
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...karar kıldı sistem sonradan
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ayırt edilebilir kılmak yorucuydu
+      metin  : sekoya
+      duyulan: sequoia
+  REPLACE  ...eline geçen basılı malzemelerden
+      metin  : i ncil den
+      duyulan: mir incilden
+  REPLACE  ...tarlasını ihmal ediyor atölyesini
+      metin  : savsaklıyor
+      duyulan: safsaklıyor
+  REPLACE  ...geldi anlatılara göer sekoya
+      metin  : ın
+      duyulan: nın
+  REPLACE  ...bazı kaynaklar bunu eşi
+      metin  : sally ye
+      duyulan: salya
+  REPLACE  ...emen kişi en ağır
+      metin  : suçtu
+      duyulan: suçlu
+  REPLACE  ...aynı işaretleri anlıyor sekoya
+      metin  : ın
+      duyulan: nın
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: biyografi-2026-09-10.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-10.mp3
+
+beklenen 2174 kelime | duyulan 2171 kelime | eşleşme %95.9
+sayı ifadesi: metinde 193, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...depremde çürük beton döken
+      metin  : müteahhide
+      duyulan: müteahide
+  REPLACE  ...mi ya da daha
+      metin  : ağırını
+      duyulan: ağrını
+  REPLACE  ...şekillendi şimdi yaşında kapıyı
+      metin  : çarptıktan
+      duyulan: çarttıktan
+  REPLACE  ...matematiğe döküldü fransız matematikçi
+      metin  : laplas
+      duyulan: laplace te
+  REPLACE  ...böyle zeka için dedi
+      metin  : laplas
+      duyulan: laplace
+  REPLACE  ...yazılıydı bu tabloya kısaca
+      metin  : laplas
+      duyulan: laplace
+  REPLACE  ...sonra iş beyne dayandı
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...işaretinin başladığı an ve
+      metin  : deneğin
+      duyulan: deneyin
+  REPLACE  ...milisaniye önce başlıyordu ama
+      metin  : deneğin
+      duyulan: deneyin
+  REPLACE  ...elinizin sahibi değil muhabiriydiniz
+      metin  : libedin
+      duyulan: libet in
+  REPLACE  ...yüzyılın ilk yarısında yaşayan
+      metin  : cehm b safvan a
+      duyulan: cehmenbe safvana
+  REPLACE  ...a nispet edilen çizgiye
+      metin  : cebriyye
+      duyulan: cebriye
+  REPLACE  ...edilen çizgiye cebriyye denir
+      metin  : cebriyye ye
+      duyulan: cebriyeye
+  REPLACE  ...uçta ize yüzyılın sonlarında
+      metin  : ma bed
+      duyulan: mabet
+  REPLACE  ...cüheni ve gaylan ed
+      metin  : dımaşki
+      duyulan: dimaşki
+  REPLACE  ...adalet olmaz i ki
+      metin  : uç da
+      duyulan: uçta
+  REPLACE  ...da tutarlı görünüyordu ve
+      metin  : uç da
+      duyulan: uçta
+  REPLACE  ...uç da şeyi kaybediyordu
+      metin  : cebriyye
+      duyulan: cebriye
+  REPLACE  ...ayrıldığını ilan etti adı
+      metin  : ebü
+      duyulan: ebu
+  REPLACE  ...etti adı ebü l
+      metin  : hasan
+      duyulan: hassan
+  INSERT   ...el eş ari ydi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...eş ari ydi doğmuş
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çözümü tek kelimeye sığar
+      metin  : kesb
+      duyulan: kes
+  REPLACE  ...yaptığınız işin gücü size
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...keskin şekilde cevaplamaya çalıştı
+      metin  : semerkant
+      duyulan: semerkand
+  INSERT   ...ta bugünkü özbekistan topraklarında
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eden ebu mansur el
+      metin  : matüridi kitabü t
+      duyulan: maturidi kitab ı
+  REPLACE  ...ayrımı daha net çizdi
+      metin  : matüridi
+      duyulan: maturidi
+  REPLACE  ...ortaya çıkması allah ın
+      metin  : yaratmasıyladır
+      duyulan: yaratması iledir
+  REPLACE  ...insanın kendisine aittir sonraki
+      metin  : matüridi
+      duyulan: maturidi
+  REPLACE  ...cüz i irade dediler
+      metin  : külli
+      duyulan: küllit
+  REPLACE  ...aralıktır elinizdeki güçle ne
+      metin  : yapacağınız
+      duyulan: yapacaksınız
+  REPLACE  ...olduğunu gösteren sahne var
+      metin  : hz
+      duyulan: pert
+  REPLACE  ...değil ne istediğini istemek
+      metin  : kesb
+      duyulan: kespi
+  REPLACE  ...insan ilişkisinden diğeri fizik
+      metin  : yasaları ile
+      duyulan: yasalarıyla
+  REPLACE  ...mutfağa girmiyorsa süstür aristoteles
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...i şin tuhaf tarafı
+      metin  : libedin
+      duyulan: libet in
+  INSERT   ...ngiliz filozof peter strawson
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...merkezine koyan isimlerden nurettin
+      metin  : topçu ydu sorbon da
+      duyulan: topçuydu te sorbonne de
+  REPLACE  ...kuran varlık olarak düşündü
+      metin  : topçu
+      duyulan: topçuy
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: felsefe-2026-09-10.duyulan.txt

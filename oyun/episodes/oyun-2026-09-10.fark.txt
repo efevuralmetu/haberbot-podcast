@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-10.mp3
+
+beklenen 1668 kelime | duyulan 1682 kelime | eşleşme %95.5
+sayı ifadesi: metinde 238, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gerçek mağaranın haritası vardı
+      metin  : kentucky
+      duyulan: kentakki
+  REPLACE  ...yıl boyunca su tarafından
+      metin  : oyulmasıyla
+      duyulan: oyulması ile
+  REPLACE  ...insan boyundan küçük deliktir
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...adamlardan hafta içi massachusetts
+      metin  : te
+      duyulan: ta
+  REPLACE  ...işle uğraşıyordu adı william
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...programcısıydı ve bolt beranek
+      metin  : and
+      duyulan: ant
+  INSERT   ...yollayan özel makineler vardı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...yazılımını kişi yazdı ve
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...varacağına nasıl karar vereceği
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...harita ne kadar güvenilir
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...mağaracı değildi eşi patricia
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...sistemi mammoth cave yani
+      metin  : mamut
+      duyulan: mammoth
+  REPLACE  ...bulan ekibin içinde patricia
+      metin  : crowther
+      duyulan: crowder
+  INSERT   ...koridorlar aylar sonra eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeraltı sularının içinden geçirerek
+      metin  : mamut
+      duyulan: mammoth
+  REPLACE  ...bilgisayar oyununa dönüşeceğini düşünmüyordu
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...i şte tam burada
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...devasa mağara nın yani
+      metin  : colossal
+      duyulan: kolosal
+  REPLACE  ...yani colossal cave in
+      metin  : bedquilt
+      duyulan: bad quilt
+  REPLACE  ...yoğun ölçüm kampanyası yürütüldü
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...kafasının içinde de vardı
+      metin  : crowther
+      duyulan: te crowder
+  REPLACE  ...bitti boşandılar bundan sonrasını
+      metin  : crowther
+      duyulan: crowder
+  DELETE   ...sade cümleyle anlatacaktı elinde
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sandy ve laura ydı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...de uygun olmayan dil
+      metin  : crowther
+      duyulan: crofter
+  REPLACE  ...gezdiğiniz yer uydurma değildi
+      metin  : crowther
+      duyulan: crofter
+  REPLACE  ...gerçek mağaranın haritasıyla örtüşüyordu
+      metin  : crowther
+      duyulan: crofter
+  REPLACE  ...mirasçılarından vardı sihirli kelimeler
+      metin  : xyzzy
+      duyulan: x y z d
+  REPLACE  ...bu kelimeyi saklamayı sürdürüyor
+      metin  : crowther
+      duyulan: crofter
+  REPLACE  ...yerler gerçekçi kalsın gerçeklikten
+      metin  : kopuş
+      duyulan: kokuş
+  REPLACE  ...gelsin istiyordu programın adı
+      metin  : advent ti
+      duyulan: ad venti
+  REPLACE  ...sınırı yüzünden kesilmiş kelimedir
+      metin  : crowther
+      duyulan: crofter
+  INSERT   ...arkadaşlarıyla da paylaştı sonra
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...bağlıysa aynı şey değildir
+      metin  : crowther
+      duyulan: crofter
+  REPLACE  ...değildir crowther ın kendi
+      metin  : mesleki
+      duyulan: mesteki
+  REPLACE  ...doğrusu makineden makineye geçti
+      metin  : kaliforniya
+      duyulan: da california
+  REPLACE  ...bağlı olan her makineye
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...gün işe yaradı çünkü
+      metin  : ağdaki
+      duyulan: ağadaki
+  REPLACE  ...azdı mektuplardan hedefini buldu
+      metin  : crowther
+      duyulan: crowder
+  INSERT   ...woods a gönderdi woods
+      metin  : (yok)
+      duyulan: nin
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: oyun-2026-09-10.duyulan.txt

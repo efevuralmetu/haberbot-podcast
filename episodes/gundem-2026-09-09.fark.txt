@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-09.mp3
+
+beklenen 1289 kelime | duyulan 1305 kelime | eşleşme %93.6
+sayı ifadesi: metinde 318, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : hürmüz
+      duyulan: pürmüz
+  REPLACE  ...gemileer ve boğaz yakınında
+      metin  : devriye
+      duyulan: devreye
+  REPLACE  ...takvime uygun olarak eylül
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...ürünler listede öne çıkıyor
+      metin  : ottawa
+      duyulan: oltava
+  INSERT   ...bazı kanada ürünlerine getirdiği
+      metin  : (yok)
+      duyulan: lik
+  INSERT   ...nun diğer başlığında ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nsani yardım verilerine göer
+      metin  : ateşkesin
+      duyulan: ateşkesi nin
+  INSERT   ...planlanan yardım tırının ancak
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...girebildi bu öngörülen hacmin
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...i şgal altındaki batı
+      metin  : şeria daki
+      duyulan: şeriyadaki
+  REPLACE  ...merkezinde ukrayna devlet başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...ifade etti almanya başbakanı
+      metin  : fridrih merts
+      duyulan: friedrich mertz
+  REPLACE  ...rusya ya yönelik yaptırımların
+      metin  : artırılarak
+      duyulan: arttırılarak
+  REPLACE  ...yaptırımların artırılarak süreceğini yineledi
+      metin  : öte
+      duyulan: yöte
+  REPLACE  ...yineledi öte yandan fransa
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...belirtiliyor i talya da
+      metin  : corca
+      duyulan: corcia
+  REPLACE  ...görevde kalan hükümeti oldu
+      metin  : abd
+      duyulan: ebedi
+  REPLACE  ...çıkarılan yaklaşık fitlik çelik
+      metin  : kiriş törende
+      duyulan: giriş töreninde
+  INSERT   ...şirket dolarlık değerlemeye ulaşırken
+      metin  : (yok)
+      duyulan: en
+  REPLACE  ...bildirildi google cephesinde ize
+      metin  : ceminay nokta
+      duyulan: gemini
+  INSERT   ...ve goldman sachs ın
+      metin  : (yok)
+      duyulan: fiki
+  REPLACE  ...fitch moody s ve
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...anlaşmaya vardığı bildirildi ayrıca
+      metin  : i lya sutskever ın
+      duyulan: ilya sutkever in
+  REPLACE  ...katına çıkarması bekleniyor sektörün
+      metin  : odağı
+      duyulan: oda
+  REPLACE  ...yani gerileyerek seviyesine indi
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...seviyesine indi esenpi kayıpla
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...nasdaq bileşik endeksi düşüşle
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...ay vadeli bakır kontratları
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...nin chp nin kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...adli tatil nedeniyle ertelenen
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...erken seçim için bütçenin
+      metin  : meclis
+      duyulan: meclisten
+  DELETE   ...ekonomide tablo şöyle türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bankası nın yakından izlediği
+      metin  : c
+      duyulan: ç
+  INSERT   ...aylık artarak yıllık bazda
+      metin  : (yok)
+      duyulan: den e
+  INSERT   ...bu görünüm politika faizini
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...sektörü oldu döviz tarafında
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  DELETE   ...tarafında dolar lira bandında
+      metin  : euro
+      duyulan: (YOK — atlanmış)
+  INSERT   ...çeyrek lira yarım lira
+      metin  : (yok)
+      duyulan: dons
+  DELETE   ...dolayında bulunuyor bugün türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ulaştırma ve altyapı bakanı
+      metin  : abdulkadir
+      duyulan: abdülkadir
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: gundem-2026-09-09.duyulan.txt

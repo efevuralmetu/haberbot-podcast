@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-10.mp3
+
+beklenen 2531 kelime | duyulan 2558 kelime | eşleşme %94.7
+sayı ifadesi: metinde 367, duyulanda 253  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i spanya nın değil
+      metin  : teğmen
+      duyulan: teymen
+  REPLACE  ...luzon adasının doğu kıyısında
+      metin  : pasifiğin
+      duyulan: pasifi yin
+  REPLACE  ...ve tabur eksiği müfreze
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...tropik iklimde taş yapı
+      metin  : lükstür
+      duyulan: lüksdür
+  INSERT   ...duruyordu kasaba sakin değildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sakin değildi başlayan filipin
+      metin  : ihtilali adanın
+      duyulan: i htilali adanı nın
+  INSERT   ...geri almak istiyordu böylece
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kimse bunu bilmiyordu başlarında
+      metin  : enrike
+      duyulan: enrique
+  REPLACE  ...enrike de las morenas
+      metin  : i fossi
+      duyulan: yi fosy
+  REPLACE  ...komutan hem kaymakam yanında
+      metin  : teğmen
+      duyulan: teymen
+  REPLACE  ...kaymakam yanında teğmen vardı
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...serezo askeri hekim geldi
+      metin  : rohelyo vihil
+      duyulan: rojelio vigil
+  REPLACE  ...geldi rohelyo vihil de
+      metin  : kinyones
+      duyulan: quinones
+  REPLACE  ...de kinyones de papaz
+      metin  : kandido gomez karenyo
+      duyulan: candido gómez carreno
+  REPLACE  ...sabahı martin serezo küçük
+      metin  : devriyeyle
+      duyulan: devriye ile
+  REPLACE  ...isimlerden kasabanın kendi evladı
+      metin  : teodoriko novisyo luna ydı
+      duyulan: teodorico novis yolunaydı
+  REPLACE  ...çağrıyı reddetti reddin gerekçesi
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...pencereler kum torbaları ve
+      metin  : moloz
+      duyulan: molos
+  REPLACE  ...kapatıldı çan kulesi gözetleme
+      metin  : mevzii
+      duyulan: mevziyi
+  REPLACE  ...sağlığını sordular sonra herkes
+      metin  : mevziine
+      duyulan: mevziğine
+  INSERT   ...dışarıdaki dünya iyice hızlandı
+      metin  : (yok)
+      duyulan: don
+  DELETE   ...biliyoruz pirincin kepeği alındığında
+      metin  : bbir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adamlar sırayla öldü hekim
+      metin  : rohelyo vihil
+      duyulan: rogelio vigil
+  REPLACE  ...hekim rohelyo vihil de
+      metin  : kinyones
+      duyulan: quinones
+  REPLACE  ...yaprak için ateş çıkmak
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...yeterli olmadı kilisenin papazı
+      metin  : kandido gomez karenyo
+      duyulan: candido gómez carreno
+  INSERT   ...gomez karenyo hastalığa yenildi
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...karenyo hastalığa yenildi ekim
+      metin  : teğmen huan
+      duyulan: de teymen juan
+  INSERT   ...kuşatma boyunca ölenlerin sayısı
+      metin  : (yok)
+      duyulan: u
+  INSERT   ...martin serezo ya geçmişti
+      metin  : (yok)
+      duyulan: lu
+  DELETE   ...yerlerde ölümü hızlandıran şey
+      metin  : çoğu zaman hastalık değil
+      duyulan: (YOK — atlanmış)
+  INSERT   ...masaya oturmuş sömürgesini satmaktaydı
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...oturmuş sömürgesini satmaktaydı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...daki hakimiyetinden vazgeçti porto
+      metin  : riko
+      duyulan: rico
+  REPLACE  ...hukuken sona erdi i
+      metin  : çeridekilerin
+      duyulan: çerdekilerin
+  REPLACE  ...yerinde haberler taşıyordu sanki
+      metin  : içeridekini
+      duyulan: içerdekini
+  REPLACE  ...sayfalar martin serezo her
+      metin  : nüshayı
+      duyulan: nüşayı
+  INSERT   ...kez daha değişti şubat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...denizden beklenmedik gölge belirdi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...beklenmedik gölge belirdi nisan
+      metin  : (yok)
+      duyulan: da
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 95
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: tarih-2026-09-10.duyulan.txt

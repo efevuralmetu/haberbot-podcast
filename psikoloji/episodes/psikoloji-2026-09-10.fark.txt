@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-10.mp3
+
+beklenen 1323 kelime | duyulan 1333 kelime | eşleşme %98.1
+sayı ifadesi: metinde 147, duyulanda 116  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ablanın geleceğini söylemedin karşı
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...fikrin ilk ciddi kanıtı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geldi i ngiliz psikolog
+      metin  : frederic
+      duyulan: frederick
+  INSERT   ...laboratuvarda cerrahi kesinlikle gösterdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...saatte yaklaşık kilometer öteki
+      metin  : grubunkiyze
+      duyulan: grubun ki ize
+  INSERT   ...cam yoktu paramparça grubunun
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...öteki grupta bu oran
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...loftus daha ileri gitti
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sahte hikayeyi okuyan kişiden
+      metin  : (yok)
+      duyulan: sı
+  REPLACE  ...karim nader ve joseph
+      metin  : lödu nun
+      duyulan: lodun un
+  REPLACE  ...donna bridge ve ken
+      metin  : paller
+      duyulan: pollard
+  INSERT   ...ve ken paller ın
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...de ölçüldüğü alan var
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonra infilak ettiğinde psikolog
+      metin  : ulric nayser
+      duyulan: ulrik neiser
+  REPLACE  ...nin dosyalarına bakıldığında dna
+      metin  : yla
+      duyulan: ile
+  INSERT   ...yla masumiyeti kanıtlanan mahkumiyetlerin
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ötekinin de suçlanmamak istediği
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 11 kelime | duyulup metinde OLMAYAN: 21
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-09-10.duyulan.txt
