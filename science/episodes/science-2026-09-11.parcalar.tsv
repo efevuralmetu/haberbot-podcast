@@ -1,0 +1,146 @@
+sira	karakter	saniye	kar_sn	metin
+1	130	6.560	19.82	Is it possible for a living thing to leave its own genetic t
+2	141	8.000	17.62	The octopus does exactly that: when it enters cold water, th
+3	55	3.520	15.62	But this ability carries a heavy price no one expected.
+4	91	4.800	18.96	Picture an octopus tucked beneath a weed-covered ledge of ro
+5	178	9.440	18.86	The moment it registers an approaching shadow, its skin take
+6	35	2.400	14.58	That is the octopus's famous trick.
+7	53	3.200	16.56	But the animal's real strangeness is not in its skin.
+8	60	4.000	15.00	It happens somewhere no one can see, inside its nerve cells.
+9	163	9.120	17.87	There, even while the skin is changing colour, a process run
+10	78	4.640	16.81	To understand what that means, we have to recall the basic f
+11	18	1.760	10.23	DNA is an archive.
+12	63	4.480	14.06	Locked, untouchable, handed down from generation to generati
+13	118	7.040	16.76	If a protein is to be made, the cell does not take the relev
+14	34	2.560	13.28	This copy is called messenger RNA.
+15	170	9.280	18.32	The copy travels to a production bench called the ribosome, 
+16	34	3.200	10.62	A protein comes out the other end.
+17	64	3.840	16.67	The entire logic of the system rests on the copy being faith
+18	64	3.360	19.05	Whatever is written in the archive is what must reach the be
+19	82	5.440	15.07	In the octopus, that fidelity breaks down, and not by accide
+20	54	3.680	14.67	Before the copy reaches the bench, an enzyme steps in.
+21	17	2.080	8.17	Its name is ADAR.
+22	110	6.240	17.63	What it does is chemically almost laughably small: it snaps 
+23	42	2.560	16.41	What remains is a molecule called inosine.
+24	84	5.440	15.44	But the ribosome does not recognise inosine; when it looks a
+25	78	5.760	13.54	So for the cell's reading apparatus, that letter is no longe
+26	35	2.560	13.67	Nothing in the archive has changed.
+27	67	4.000	16.75	The only thing that changed is the copy made for this one oc
+28	167	9.440	17.69	A single letter usually means nothing; thanks to the redunda
+29	37	2.240	16.52	But sometimes it does mean something.
+30	173	11.200	15.45	The triplet AUA, for instance, means isoleucine; if the aden
+31	138	8.000	17.25	That single-letter intervention can change how the protein f
+32	109	6.560	16.62	The same gene, in the same cell, at the same moment, begins 
+33	44	3.040	14.47	This mechanism is not unique to the octopus.
+34	55	3.680	14.95	Humans have ADAR enzymes too, and they are hardly idle.
+35	217	11.840	18.33	But in humans the overwhelming majority of edits take place 
+36	76	4.640	16.38	meaning the ones evolution is evidently watching over, are o
+37	67	4.960	13.51	The system exists in us, but it essentially stands off to th
+38	42	2.720	15.44	In cephalopods it has moved to the centre.
+39	138	7.680	17.97	Between 80 and 130 thousand editing sites have been identifi
+40	182	11.360	16.02	In a single species, the California two-spot octopus, known 
+41	87	4.960	17.54	roughly 12 percent of them lay in regions that directly alte
+42	64	4.480	14.29	Of the edits in coding regions, 65 percent change an amino a
+43	94	5.600	16.79	This is not an occasional accident; it is part of the routin
+44	61	3.520	17.33	Comparison is where the strangeness of all this really shows
+45	188	10.400	18.08	In the nautilus, which comes from the oldest branch of the c
+46	42	3.360	12.50	the same analysis yields about 1000 sites.
+47	75	4.000	18.75	That number is indistinguishable from the noise level of the
+48	88	4.960	17.74	So the habit of heavily rewriting one's RNA is not a shared 
+49	132	8.000	16.50	It appeared after the branch leading to the nautilus split o
+50	54	3.680	14.67	What is more, these edits are not scattered at random.
+51	152	10.080	15.08	There are 1146 editing sites conserved across the squid, the
+52	137	7.680	17.84	For a feature to sit in the same place, on the same letter, 
+53	128	6.880	18.60	And when you look at what those 443 proteins are, the pictur
+54	79	5.600	14.11	Ion channels, synapse proteins, motor proteins that haul car
+55	87	4.960	17.54	In other words, the octopus edits its RNA in the very place 
+56	7	1.920	3.65	So why?
+57	124	6.560	18.90	When an organism could write protein diversity straight into
+58	54	4.000	13.50	The first serious answer came from the poles, in 2011.
+59	145	7.680	18.88	Researchers compared the potassium channel genes that do the
+60	158	8.320	18.99	The two genes differed at only 4 positions of the protein th
+61	82	4.640	17.67	The genes did not account for the gulf between the worlds th
+62	43	2.880	14.93	What created the difference was in the RNA.
+63	161	8.960	17.97	The channel's messenger RNA was being heavily edited, and on
+64	98	5.600	17.50	This single change destabilised the channel's open state and
+65	125	7.520	16.62	And that site was extensively edited in Antarctic and Arctic
+66	96	4.800	20.00	The intensity of the editing tracked the temperature of the 
+67	104	5.920	17.57	Cold water slows the movement of molecules; a nerve cell is 
+68	141	7.680	18.36	The polar octopus was compensating for that delay not by cha
+69	39	2.880	13.54	That was an observation across species.
+70	78	4.800	16.25	The real question was this: can a single animal do it within
+71	51	3.680	13.86	An experiment published in 2023 asked exactly that.
+72	179	10.560	16.95	In work led by Joshua Rosenthal of the Marine Biological Lab
+73	67	5.120	13.09	One group at 22 degrees, one group at 13 degrees, for 2 to 3
+74	50	3.200	15.62	Then all the RNA in their nervous tissue was read.
+75	125	6.720	18.60	In the animals kept in the cold, editing levels had shifted 
+76	94	6.080	15.46	At roughly a third of the protein-altering sites, editing wa
+77	153	8.480	18.04	And this was not happening on a seasonal timescale: it began
+78	73	4.000	18.25	The researchers followed two proteins all the way down to th
+79	77	5.600	13.75	One was kinesin-1, a motor that hauls cargo along the cell's
+80	116	7.040	16.48	The other was synaptotagmin, the molecule that senses calciu
+81	82	5.120	16.02	The cold-edited kinesin showed a different profile of moveme
+82	61	4.160	14.66	The edited synaptotagmin's calcium-binding behaviour changed
+83	138	7.520	18.35	So the octopus is not merely swapping letters; it is retunin
+84	58	3.360	17.26	Why that matters is explained by the animal's predicament.
+85	77	4.480	17.19	An octopus cannot regulate its body temperature; it is whate
+86	70	4.640	15.09	Off the coast of southern California the seasonal swing is q
+87	65	4.000	16.25	Changing a gene takes generations and runs in one direction 
+88	33	2.720	12.13	But editing a copy can be undone.
+89	100	5.440	18.38	When the water warms, the editing rate comes back down and t
+90	47	3.360	13.99	The mechanism itself is still not fully solved.
+91	132	8.480	15.57	The strongest explanation is this: for ADAR to work, the tar
+92	34	2.240	15.18	Cold makes such folds more stable.
+93	124	7.200	17.22	So no separate thermostat may be needed to make the enzyme w
+94	181	9.600	18.85	That is a plausible explanation, but whether it accounts for
+95	42	2.720	15.44	it should not be told as a settled result.
+96	41	2.560	16.02	There is a spatial dimension to this too.
+97	95	5.120	18.55	A study on the giant axon of the squid showed that editing d
+98	108	6.720	16.07	The ADAR enzyme is also found outside the cell nucleus, insi
+99	77	4.320	17.82	Thousands of sites are more heavily edited in the axon than 
+100	114	6.080	18.75	This means the cell can give separate answers not only to th
+101	54	3.200	16.88	Everything described so far looks like a free ability.
+102	10	1.280	7.81	It is not.
+103	42	2.880	14.58	ADAR does not pick an adenosine at random.
+104	151	8.320	18.15	For the enzyme to find its target, the messenger RNA has to 
+105	205	11.680	17.55	That structure, in turn, is built when another piece of RNA 
+106	142	8.000	17.75	The consequence is this: the sequences surrounding the editi
+107	41	2.560	16.02	For a genome, that is a heavy constraint.
+108	156	8.640	18.06	Normally most mutations in a sequence are harmless; they do 
+109	114	5.920	19.26	But in a creature that does editing, that same mutation can 
+110	114	6.880	16.57	If the folding is wrecked, ADAR cannot find the site, the ed
+111	88	5.760	15.28	So natural selection weeds out, here, mutations it does not 
+112	45	3.680	12.23	A study published in 2017 measured that cost.
+113	175	9.600	18.23	In the protein-coding sequences of soft-bodied cephalopods, 
+114	89	5.280	16.86	Between 3 and 15 percent of the mutations expected between s
+115	133	6.720	19.79	In other words, these animals have paid for the flexibility 
+116	109	6.720	16.22	The idea of a trade-off in evolution is nothing new; usually
+117	79	4.800	16.46	The trade-off here involves something stranger: the capacity
+118	127	6.720	18.90	In order to adapt to cold within hours today, the octopus ha
+119	98	6.240	15.71	The nautilus never entered that bargain; it stayed with its 
+120	69	3.840	17.97	Both strategies have been standing for hundreds of millions 
+121	49	3.200	15.31	The octopus genome itself completes this picture.
+122	151	8.800	17.16	The genome sequence published in 2015 offered no explanation
+123	171	8.960	19.08	Instead there was a large expansion in the protocadherin fam
+124	90	4.640	19.40	But the diversity of the proteome goes far beyond any scale 
+125	125	6.880	18.17	In this creature, a substantial part of the diversity is pro
+126	153	8.000	19.12	And looked at from today, the most striking part of the stor
+127	19	1.920	9.90	The idea is simple.
+128	39	3.200	12.19	The ADAR enzyme is already in the cell.
+129	126	7.360	17.12	It may be possible to steer it to a chosen adenosine with a 
+130	104	6.880	15.12	In October of 2024, the first therapeutic RNA editing in a h
+131	207	11.680	17.72	The target was an inherited disease called alpha-1 antitryps
+132	193	9.760	19.77	An A-to-I edit is precisely the kind of intervention that ca
+133	84	5.280	15.91	This approach differs from DNA editing in one clear way: the
+134	26	1.920	13.54	What is done is temporary.
+135	68	4.160	16.35	If the drug is stopped the effect fades, leaving no permanen
+136	107	5.920	18.07	That is an advantage in terms of safety and a burden in term
+137	97	6.240	15.54	And it is still at a very early stage; few patients, short f
+138	55	3.360	16.37	It is too early to draw any definitive victory from it.
+139	77	4.000	19.25	What the octopus really leaves behind is not a treatment but
+140	142	8.000	17.75	For a long time we read the genome as the creature's complet
+141	135	7.200	18.75	That animal waiting out the cooling water in a hollow of roc
+142	89	4.480	19.87	The enzyme sitting at that desk can change what is said with
+143	114	5.760	19.79	But the desk has a price of its own: the paper beneath it ha
+144	47	3.200	14.69	Nöron Science'de bugünkü bölümün sonuna geldik.
+145	41	3.200	12.81	Yeni bir hikâyede yeniden buluşmak üzere.
