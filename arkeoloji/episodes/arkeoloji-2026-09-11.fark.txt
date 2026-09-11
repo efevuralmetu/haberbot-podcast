@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-11.mp3
+
+beklenen 2687 kelime | duyulan 2700 kelime | eşleşme %95.9
+sayı ifadesi: metinde 380, duyulanda 269  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yattığını bilmiyordu ta ki
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...denk gelene kadar i
+      metin  : çeride
+      duyulan: çerde
+  REPLACE  ...kendini şeyh i brahim
+      metin  : ibn
+      duyulan: i bn i
+  REPLACE  ...adamın gerçek adı yohan
+      metin  : ludvig burkhart
+      duyulan: ludwig burghardt
+  INSERT   ...yohan ludvig burkhart tı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tı lozan da doğmuş
+      metin  : laypzig
+      duyulan: leipzig
+  INSERT   ...ve göttingen de okumuş
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...derneği ile anlaşmıştı görevi
+      metin  : nijer
+      duyulan: niger
+  REPLACE  ...yabancıları hoş karşılamıyordu çünkü
+      metin  : frenklerin
+      duyulan: franklerin
+  INSERT   ...yer sadece meter genişliğinde
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...nil boyunca güneye indi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...günlükleri ölümünden yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aklına ayaklarının bakmak gelmedi
+      metin  : burkhart
+      duyulan: burkart
+  REPLACE  ...elimizdeki en eski kayıt
+      metin  : mö
+      duyulan: a ye
+  REPLACE  ...biriktirdiği servete göz dikmişti
+      metin  : athenaios
+      duyulan: athenaeos
+  REPLACE  ...adlı komutanını piyade ve
+      metin  : atlıyla
+      duyulan: atlı ile
+  REPLACE  ...kadınları çocukları ve mal
+      metin  : yığınlarını
+      duyulan: yağınlarını
+  REPLACE  ...olayı saldırgan tarafın subaylarından
+      metin  : hieronymos
+      duyulan: hieronimos
+  REPLACE  ...da açıklar toprağın içi
+      metin  : sıva ile
+      duyulan: sıvayla
+  REPLACE  ...yakılan ağırlığına göer fiyatlanan
+      metin  : lükstü
+      duyulan: lüksdü
+  REPLACE  ...aldılar kendi kervanlarını çıkardılar
+      metin  : mö
+      duyulan: milötser mudya
+  REPLACE  ...kendi parası olan başkentti
+      metin  : mö
+      duyulan: milötser
+  REPLACE  ...mö civarında tarsuslu filozof
+      metin  : athenodoros
+      duyulan: atenodoros
+  REPLACE  ...sayıda yabancı oturuyordu ve
+      metin  : athenodoros
+      duyulan: atenodoros
+  REPLACE  ...milimeter civarında yağış alan
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...tersine çevirdiler şehrin doğusundaki
+      metin  : ayn
+      duyulan: ain
+  REPLACE  ...dönüşmüyor sürtünme kaybı azalıyor
+      metin  : debi
+      duyulan: de
+  INSERT   ...havuzdu mezarlardı petra da
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...çünkü evler kerpiç ve
+      metin  : moloz taştandı
+      duyulan: molos taşlandı
+  REPLACE  ...i çerisi neredeyze boştur
+      metin  : cephenin
+      duyulan: cefenin
+  REPLACE  ...aday olarak gördüğü isim
+      metin  : mö
+      duyulan: milatiyon ix
+  DELETE   ...gördüğü isim mö ile
+      metin  : ms
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve kendisine halkını anlamında
+      metin  : unvan
+      duyulan: ünvan
+  DELETE   ...yapıyı daha erken döneme
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  INSERT   ...somut olarak gösteren kazı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...nin önündeki meydanda boşalır
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...için i skoçya daki
+      metin  : st
+      duyulan: seed
+  REPLACE  ...skoçya daki st andrews
+      metin  : üniversitesi nden jeofizikçi
+      duyulan: üniversitesinden geofizikçi
+  REPLACE  ...yapıldı merkezin başındaki arkeolog
+      metin  : pearce
+      duyulan: pierce
+  REPLACE  ...başındaki arkeolog pearce paul
+      metin  : creasman
+      duyulan: krisman
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: arkeoloji-2026-09-11.duyulan.txt

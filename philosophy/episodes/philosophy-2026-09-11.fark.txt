@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-11.mp3
+
+beklenen 3424 kelime | duyulan 3413 kelime | eşleşme %98.5
+sayı ifadesi: metinde 151, duyulanda 111  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yor property the human
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...ours but is that
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...they left behind an
+      metin  : encyclopaedia
+      duyulan: encyclopedia
+  REPLACE  ...lies the island of
+      metin  : sa un
+      duyulan: samhain
+  REPLACE  ...being chased for sport
+      metin  : then
+      duyulan: when
+  REPLACE  ...human side makes its
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...way not a scattered
+      metin  : learned
+      duyulan: but
+  REPLACE  ...of every nation rize
+      metin  : in
+      duyulan: and
+  REPLACE  ...reasoning the arts they
+      metin  : practize
+      duyulan: practice
+  REPLACE  ...the court disperses and
+      metin  : biwarasp
+      duyulan: bewarist
+  REPLACE  ...later in europe the
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...holland descartes published his
+      metin  : discours
+      duyulan: discourse
+  REPLACE  ...his discours de la
+      metin  : méthode
+      duyulan: maitode
+  REPLACE  ...stepped a certain stone
+      metin  : figures
+      duyulan: figuer s
+  REPLACE  ...the english thinker henry
+      metin  : moer
+      duyulan: mooer
+  REPLACE  ...the strongest strategy the
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...sharpest answer to this
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...same as yor own
+      metin  : theer for
+      duyulan: therefoer
+  REPLACE  ...feel nothing the machine
+      metin  : defence
+      duyulan: defense
+  DELETE   ...its death in advance
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...those same years in
+      metin  : königsberg
+      duyulan: konigsberg
+  REPLACE  ...footnote turned into a
+      metin  : programme
+      duyulan: program
+  REPLACE  ...a programme in richard
+      metin  : ryder
+      duyulan: rider
+  REPLACE  ...and pleasuer aer concerned
+      metin  : an
+      duyulan: then
+  INSERT   ...in al mammals in
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...the street animals in
+      metin  : ahmet haşim
+      duyulan: amit hashim
+  REPLACE  ...saw in bursa the
+      metin  : gurabahane i laklakan
+      duyulan: garabahani ilakhlakhan
+  REPLACE  ...for it in ibn
+      metin  : tufayl
+      duyulan: tufel
+  REPLACE  ...tufayl s hayy ibn
+      metin  : yaqzan
+      duyulan: yaqsun
+  REPLACE  ...the sea of marmara
+      metin  : sivriada
+      duyulan: sivriyada
+  REPLACE  ...in common speech as
+      metin  : hayırsızada
+      duyulan: hayyir sizada
+  REPLACE  ...that loaded that boat
+      metin  : belong
+      duyulan: belonged
+  DELETE   ...by a vote of
+      metin  : to
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...for cecilia a chimpanzee
+      metin  : who
+      duyulan: dew
+  REPLACE  ...working form the machine
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...finds its meaning heer
+      metin  : biwarasp
+      duyulan: bewarasp
+  REPLACE  ...witness and making the
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...hear inside or own
+      metin  : heads
+      duyulan: head
+  DELETE   ...is to be paid
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-09-11.duyulan.txt

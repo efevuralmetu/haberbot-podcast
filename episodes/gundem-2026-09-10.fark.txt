@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-10.mp3
+
+beklenen 1412 kelime | duyulan 1443 kelime | eşleşme %94.5
+sayı ifadesi: metinde 378, duyulanda 182  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...konseyi genel sekreteri muhsin
+      metin  : rızai
+      duyulan: rıza y
+  REPLACE  ...i srail in batı
+      metin  : şeria daki
+      duyulan: şeriyadaki
+  REPLACE  ...fransa ve kanada batı
+      metin  : şeria daki
+      duyulan: şeriyadaki
+  REPLACE  ...ngiliz konsolosluğu kapatıldı kiryat
+      metin  : gat
+      duyulan: kat
+  REPLACE  ...siyasetçinin ülkeye girişi yasaklandı
+      metin  : gazze de
+      duyulan: gazete
+  INSERT   ...yasaklandı gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yana toplam can kaybı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...görüştü ardından kiev de
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky
+  REPLACE  ...araya geldi kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...yeniden başlamasını umduklarını söyledi
+      metin  : zelenskiy
+      duyulan: zelensky
+  REPLACE  ...tarifelerle yeni aşamaya taşındı
+      metin  : kanada
+      duyulan: canada
+  REPLACE  ...kanada abd nin dolarlık
+      metin  : kanada
+      duyulan: canada
+  INSERT   ...dolarlık kanada ürününe uyguladığı
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...ürününe uyguladığı gümrük vergisine
+      metin  : karşılık
+      duyulan: karşılı den
+  REPLACE  ...imzaladı ve new york
+      metin  : polis teşkilatından
+      duyulan: police teşkilatı ndan
+  INSERT   ...na yaptığı bildirimde işlemin
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...platformun açık kalacağını da
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...adını verdiği yeni modeli
+      metin  : kullanıma
+      duyulan: kullanımı
+  REPLACE  ...başına yürütebiliyor google cephesinde
+      metin  : ceminay nokta
+      duyulan: gemini
+  REPLACE  ...akıl yürütme görevlerinde iyileşme
+      metin  : vadediyor
+      duyulan: vaat ediyor
+  REPLACE  ...ajanların hata ve güvenlik
+      metin  : riskleri ile
+      duyulan: riskleriyle
+  INSERT   ...teslimatlar eylül de başlıyor
+      metin  : (yok)
+      duyulan: i ki
+  DELETE   ...başlıyor nanometer süreciyle üretilen
+      metin  : ayirmi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...iphone duo nun fiyatı
+      metin  : gigabaytlık
+      duyulan: gb lık
+  REPLACE  ...ve eylül de düzenlenen
+      metin  : gitex
+      duyulan: gtx
+  REPLACE  ...nvidia asus del technologies
+      metin  : hpe
+      duyulan: hp ye
+  REPLACE  ...del technologies hpe ve
+      metin  : sap
+      duyulan: s p
+  INSERT   ...piyasalarda gözler bugün saat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...repo ihale faiz oranını
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...beklenti anketine katılan ekonomistlerin
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ize baz puanlık indirimle
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...faizini baz puan artırarak
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...nde enflasyon temmuzdaki seviyesinden
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...serbest piyasada dolar liradan
+      metin  : avro
+      duyulan: avru
+  INSERT   ...zayıf seyreden doların desteğiyle
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...rekor bölgesinde kalmayı sürdürdü
+      metin  : gram
+      duyulan: i ngram
+  INSERT   ...program oldu programda büyümenin
+      metin  : (yok)
+      duyulan: de de
+  INSERT   ...oldu programda büyümenin ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...büyümenin ve olması hedefleniyor
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...ve jeopolitik riskler gerekçesiyle
+      metin  : (yok)
+      duyulan: e
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: gundem-2026-09-10.duyulan.txt

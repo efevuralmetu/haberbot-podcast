@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-11.mp3
+
+beklenen 1364 kelime | duyulan 1385 kelime | eşleşme %92.5
+sayı ifadesi: metinde 217, duyulanda 146  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...paris in doğusunda akan
+      metin  : marn nehri
+      duyulan: marnehri
+  REPLACE  ...yanılmıyorlardı adı sadık hidayet
+      metin  : tı türkçede
+      duyulan: ti türkçe de
+  INSERT   ...henüz yazmamıştı hidayet şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...şair ve tarihçi rıza
+      metin  : kulı
+      duyulan: kulu
+  REPLACE  ...tarihçi rıza kulı han
+      metin  : hidayedin
+      duyulan: hidayet in
+  REPLACE  ...eğitimini şehirdeki fransız okulu
+      metin  : sen lui
+      duyulan: saint louis
+  INSERT   ...avrupa edebiyatı da orada
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sonra diş hekimliğine yazıldı
+      metin  : (yok)
+      duyulan: i kisini
+  REPLACE  ...bitirmedi bunun yerine paris
+      metin  : kütüphanelerinde
+      duyulan: gütüphanelerinde
+  REPLACE  ...garip ilgiler edindi et
+      metin  : yemeyi
+      duyulan: yemeği
+  INSERT   ...et yemeyi bıraktı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...o dönem için tuhaf
+      metin  : işaretti
+      duyulan: işaer etti
+  REPLACE  ...çürümeyle meşguldü o yıllarda
+      metin  : terez
+      duyulan: therese
+  REPLACE  ...sonu iyi gitmedi ardından
+      metin  : marn
+      duyulan: marne
+  REPLACE  ...gerçek hayatı mesai dışındaydı
+      metin  : tahran da bozorg
+      duyulan: tahranda bozork
+  REPLACE  ...tahran da bozorg alavi
+      metin  : mesud ferzad
+      duyulan: mesut ferzat
+  REPLACE  ...alavi mesud ferzad ve
+      metin  : müçteba
+      duyulan: mücteba
+  REPLACE  ...ile araya geldi kendilerine
+      metin  : rab a
+      duyulan: rabba
+  REPLACE  ...ran okurları modern anlamda
+      metin  : öykücüyle
+      duyulan: öykücü ile
+  REPLACE  ...çekmecesinde başka şey vardı
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...her şey süzgeçten geçiyordu
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...süzgeçten geçiyordu otuzların ortasında
+      metin  : hidayedin
+      duyulan: hidayet in
+  INSERT   ...metin çekmecede kaldı sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...biyografisini de yazacak olan
+      metin  : şin partov
+      duyulan: shin pardov
+  REPLACE  ...hidayet gemiye bombay ın
+      metin  : colaba
+      duyulan: kolaba
+  REPLACE  ...bombay ın colaba semtinde
+      metin  : partov
+      duyulan: pardov
+  REPLACE  ...hindistan a göç etmiş
+      metin  : zerdüşt
+      duyulan: zerdüş
+  REPLACE  ...göç etmiş zerdüşt topluluğu
+      metin  : hidayedin
+      duyulan: hidayet in
+  REPLACE  ...ran ın yaşayan kalıntısıydı
+      metin  : parsi
+      duyulan: persi
+  REPLACE  ...parsi bilgin bahramgur tahmuras
+      metin  : anklesaria
+      duyulan: anklesarya
+  REPLACE  ...sonra matbaaya gitmedi mumlu
+      metin  : teksir
+      duyulan: tekstir
+  REPLACE  ...eliyle o kağıtlara yazdı
+      metin  : teksir
+      duyulan: tekstir
+  REPLACE  ...kağıtlara yazdı teksir makinesinden
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...ilan etmek olduğunu biliyordu
+      metin  : nüshaları
+      duyulan: nüşaları
+  REPLACE  ...yazılanları omzunun üstünden okumaktadır
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...ulusal diriliş hikayesi olarak
+      metin  : kuruyordu hidayedin
+      duyulan: kuruyor hidayet in
+  INSERT   ...bambaşka şey görüyordu hidayet
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...bekleyiş yıl sürdü eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şah tahttan indirildi ülke
+      metin  : müttefik
+      duyulan: müktefik
+  REPLACE  ...bölünmüş bilinçle konuşabileceği görülmüştü
+      metin  : hidayedin
+      duyulan: hidayet in
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: edebiyat-2026-09-11.duyulan.txt

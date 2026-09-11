@@ -1,0 +1,40 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-11.mp3
+
+beklenen 2345 kelime | duyulan 2350 kelime | eşleşme %99.1
+sayı ifadesi: metinde 90, duyulanda 86  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...in coding regions change
+      metin  : an
+      duyulan: in
+  REPLACE  ...a relative among the
+      metin  : molluscs
+      duyulan: molluscuests
+  REPLACE  ...among the molluscs the
+      metin  : sea haer aplysia
+      duyulan: c hareplica
+  REPLACE  ...answer came from the
+      metin  : poles
+      duyulan: polls
+  REPLACE  ...large expansion in the
+      metin  : protocadherin
+      duyulan: protocatyrin
+  REPLACE  ...correction to remain possible
+      metin  : nöron
+      duyulan: neran
+  REPLACE  ...possible nöron science de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: bugun kubulimun sonona galdik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede
+      duyulan: hikaya de
+  REPLACE  ...geldik yeni hikayede yeniden
+      metin  : buluşmak üzeer
+      duyulan: bulushma kuzeer
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-09-11.duyulan.txt

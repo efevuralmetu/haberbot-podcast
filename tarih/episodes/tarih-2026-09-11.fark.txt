@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-11.mp3
+
+beklenen 2940 kelime | duyulan 2949 kelime | eşleşme %95.0
+sayı ifadesi: metinde 372, duyulanda 281  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...herkesi önce ince kırmızı
+      metin  : hat
+      duyulan: had
+  INSERT   ...atlıyı topların ağzına doğru
+      metin  : (yok)
+      duyulan: nala
+  INSERT   ...savaş aslında burada başlamamıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...filosunun barındığı büyük deniz
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...rus mevzilerini yardı ve
+      metin  : sivastopol ün güneyine
+      duyulan: sivas topol un güneğine
+  REPLACE  ...geçiyor bu sırtın üzerinden
+      metin  : vorontsov
+      duyulan: voronsov
+  REPLACE  ...uzanır i ngilizler sırta
+      metin  : causeway
+      duyulan: jaws way
+  REPLACE  ...geçit sırtları ovayı böler
+      metin  : güneyde
+      duyulan: yüneyde
+  REPLACE  ...güneyde kalan çukur alan
+      metin  : güney vadisi dir
+      duyulan: yüney vadisidir
+  REPLACE  ...yolu korumak için toprak
+      metin  : tabya
+      duyulan: tabia
+  REPLACE  ...toprak tabya kazılmıştı bu
+      metin  : tabyaların
+      duyulan: tabiaların
+  REPLACE  ...en yakın olan numaralı
+      metin  : tabya fransız
+      duyulan: tabia
+  REPLACE  ...birlikler de bulunuyordu diğer
+      metin  : tabyada
+      duyulan: tabiada
+  REPLACE  ...libralık parçadan ibaretti numaralı
+      metin  : tabyada
+      duyulan: tabiada
+  REPLACE  ...karanlıkta ilerlemiş gün doğarken
+      metin  : tabyaların
+      duyulan: tabiaların
+  INSERT   ...tabyaların önünde mevzilenmişti saat
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...mevzilenmişti saat doğru numaralı
+      metin  : tabyadaki
+      duyulan: tabiadaki
+  REPLACE  ...muharebesi başlamıştı rus topçusu
+      metin  : tabyanın
+      duyulan: tabianın
+  REPLACE  ...karşısında toz bulutuna dönüşüyordu
+      metin  : tabyadaki
+      duyulan: tabiadaki
+  INSERT   ...sığınabilecekleri hatları vardı saat
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...siperleer girdi garnizonun yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...arkalarından takibe geçti numaralı
+      metin  : tabya
+      duyulan: tabia
+  REPLACE  ...hale geldi ve numaralı
+      metin  : tabyalar
+      duyulan: tabialar
+  REPLACE  ...ağırlığın aynısını taşıyordu saat
+      metin  : buçukta
+      duyulan: da
+  REPLACE  ...geçit sırtları rusların elindeydi
+      metin  : vorontsov
+      duyulan: voronsov
+  REPLACE  ...küçük yerleşimin ilerisinde alçak
+      metin  : tümseğin
+      duyulan: tümseyin
+  REPLACE  ...düzine muhafız eri ve
+      metin  : tabyalardan
+      duyulan: tabialardan
+  REPLACE  ...talimnamelerinde açıkça yazılıydı kaer
+      metin  : düzeni
+      duyulan: düzene
+  REPLACE  ...süer dakikaydı bu dakikayı
+      metin  : sapun sırtı nın
+      duyulan: sapın sırtının
+  REPLACE  ...da çıkan gazete the
+      metin  : times ın
+      duyulan: timeson
+  REPLACE  ...the times ın yani
+      metin  : tayms ın
+      duyulan: timeson
+  REPLACE  ...sırtın eteğinde i ngiliz
+      metin  : ağır tugayı
+      duyulan: artugay ı
+  INSERT   ...sınırını aşan görüntüydü saat
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...kaybetmişti ve gençliğinde wellington
+      metin  : ın
+      duyulan: un
+  REPLACE  ...sırtları nın üzerindeki hareketi
+      metin  : tabyalardaki
+      duyulan: tabialardaki
+  REPLACE  ...süvari tümeni komutanı lord
+      metin  : lucan
+      duyulan: lukan
+  REPLACE  ...desteği gelince ilerleyecek ve
+      metin  : tabyaları
+      duyulan: tabiaları
+  REPLACE  ...kurmay başkanı tuğgeneral richard
+      metin  : airey e
+      duyulan: irae ye
+  REPLACE  ...o toplara bakıyordu geçit
+      metin  : sırtları ndaki tabyalardan
+      duyulan: sırtlarındaki tabialardan
+  REPLACE  ...kişisel hakaret gibi karşılıyordu
+      metin  : lucan
+      duyulan: luchan
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 87 kelime | duyulup metinde OLMAYAN: 102
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: tarih-2026-09-11.duyulan.txt

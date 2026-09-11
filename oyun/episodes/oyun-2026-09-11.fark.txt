@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-11.mp3
+
+beklenen 1605 kelime | duyulan 1616 kelime | eşleşme %96.9
+sayı ifadesi: metinde 232, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...yaklaşık kartuş olarak doğrulayacaktı
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yol aslında bolluk yolundaydı
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...ev video oyunu geliri
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaklaşık dolarla zirve yaptı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...dolar civarına inmişti yaklaşık
+      metin  : (yok)
+      duyulan: lik
+  INSERT   ...perakendesinde tuhaf şey oldu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...şey öldü aynı aylarda
+      metin  : pasifiğin
+      duyulan: pasifi in
+  INSERT   ...yönde ilerliyordu nintendo temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ilk aylarda donanım arızası
+      metin  : yüzünden
+      duyulan: den
+  INSERT   ...anlaşmanın eşiğine gelmişti haziran
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...eşiğine gelmişti haziran tüketici
+      metin  : elektroniği fuarında
+      duyulan: fuharında
+  REPLACE  ...kong uyarlamasının çalıştığını gördü
+      metin  : fuarın
+      duyulan: fuharın
+  DELETE   ...ertesi yıl atari nin
+      metin  : adı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...getirilen şeye ne dendiğini
+      metin  : duyar
+      duyulan: (YOK — atlanmış)
+  INSERT   ...elektronik cihaza dönüştürelim ocak
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...daki pazarlama ekibinde gail
+      metin  : tilden ın
+      duyulan: tilde nin
+  REPLACE  ...ın öncülüğünde ürünün her
+      metin  : parçasına
+      duyulan: arasına
+  DELETE   ...o yasaklı kelime kez
+      metin  : bile
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kullanıcıya tanıdık gelecek o
+      metin  : temassızlık
+      duyulan: sızlık
+  DELETE   ...paketinin eşleşen yongayı taşımadığını
+      metin  : anlarsa
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gri makine robotic operating
+      metin  : buddy
+      duyulan: body
+  REPLACE  ...arkadaşı adını taşıyordu kısaca
+      metin  : rob
+      duyulan: rop
+  DELETE   ...da bu sinyalleer göer
+      metin  : kollarını
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...robot oyuncaktır oyuncağın reyonu
+      metin  : bellidir
+      duyulan: nedir
+  REPLACE  ...gri kutu robotu çalıştıran
+      metin  : aksesuardı
+      duyulan: akses vardı
+  INSERT   ...çok izlenen perakende arenası
+      metin  : (yok)
+      duyulan: tom
+  INSERT   ...izlenen perakende arenası ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...katalog oyundu ve bu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...tesisatçısının mantarlara basarak ilerlediği
+      metin  : o
+      duyulan: bu
+  REPLACE  ...cebinden tek kuruş çıkmayacağı
+      metin  : taahhüt
+      duyulan: tahüt
+  DELETE   ...düzeneklerini ve televizyon bağlantılarını
+      metin  : kendi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zor şehirde ay içinde
+      metin  : tükenmişti
+      duyulan: ölmüştü
+  INSERT   ...satın alma nedeniydi ocak
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sonrası fetih takvimidir şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...takvimidir şubat los angeles
+      metin  : açıldı
+      duyulan: oldu
+  REPLACE  ...nintendo oyuncak sektöründe teddy
+      metin  : ruxpin
+      duyulan: rookspin
+  REPLACE  ...sektöründe teddy ruxpin ve
+      metin  : lazer tag
+      duyulan: lazertac
+  DELETE   ...sears ürünü noel kataloğuna
+      metin  : koydu
+      duyulan: (YOK — atlanmış)
+  INSERT   ...mağazasında rafa dizdi eylül
+      metin  : (yok)
+      duyulan: da
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: oyun-2026-09-11.duyulan.txt

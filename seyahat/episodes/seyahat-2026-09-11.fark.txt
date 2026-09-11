@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-11.mp3
+
+beklenen 1809 kelime | duyulan 1846 kelime | eşleşme %94.4
+sayı ifadesi: metinde 243, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geri gelmeye başladı güneş
+      metin  : irağın
+      duyulan: i ran
+  REPLACE  ...başladı güneş irağın güneyinde
+      metin  : fıradın
+      duyulan: fırat ın
+  REPLACE  ...ahvar denir dicle ile
+      metin  : fıradın
+      duyulan: fırat ın
+  REPLACE  ...gibi yapı adı mudif
+      metin  : konukevi
+      duyulan: konükevi
+  REPLACE  ...yetişen ve yerel adıyla
+      metin  : kasab
+      duyulan: kasap
+  REPLACE  ...yerel adıyla kasab denen
+      metin  : dev saz
+      duyulan: devsas
+  DELETE   ...dev saz kimi zaman
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yolu bilir balık özellikle
+      metin  : dicle
+      duyulan: diçle
+  REPLACE  ...ateşinin yanına dikilerek pişirilir
+      metin  : mesguf
+      duyulan: meskuf
+  INSERT   ...ve arkalarında yapı vardır
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...vardır yanında sorguç gibi
+      metin  : kıvrılan
+      duyulan: kıvırılan
+  REPLACE  ...direkleri kemerli girişiyle tam
+      metin  : mudif
+      duyulan: modif
+  REPLACE  ...saz aynı biçimde bağlanıyordu
+      metin  : uruğun ur un
+      duyulan: uruun urun
+  REPLACE  ...i ngiliz gezgin wilfred
+      metin  : thesiger ellilerde
+      duyulan: tessiger lerde
+  REPLACE  ...değil su yılının şubatında
+      metin  : körfez
+      duyulan: körfe
+  REPLACE  ...körfez savaşı bitti ve
+      metin  : irağın
+      duyulan: i ran
+  REPLACE  ...benzeyen binlerce kanal ve
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...silahtan önce gelen savunmaydı
+      metin  : bağdat
+      duyulan: bağdad
+  INSERT   ...gelen savunmaydı bağdat yönetiminin
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...teknik olarak yeni değildi
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...olağanüstü hızla tamamlandı uzunluğu
+      metin  : kilometreyi
+      duyulan: km yi
+  REPLACE  ...geldi hepsine zafer çağrıştıran
+      metin  : adlar
+      duyulan: atlar
+  REPLACE  ...zafer çağrıştıran adlar verildi
+      metin  : fıradın
+      duyulan: fırat ın
+  REPLACE  ...adlar verildi fıradın suyu
+      metin  : hammar
+      duyulan: hamar
+  REPLACE  ...kurutulan alanlarda buğday ekilecekti
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...yerleer kamyon gidiyordu human
+      metin  : rights
+      duyulan: right
+  REPLACE  ...hakları i zleme örgütü
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...tarihinin en sarsıcı görsellerinden
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...görsellerinden yetmişlerin görüntüsünde güney
+      metin  : irağın
+      duyulan: i ran ın
+  DELETE   ...güney irağın ortasında yaklaşık
+      metin  : kilometrekarelik
+      duyulan: (YOK — atlanmış)
+  INSERT   ...damarlı canlı leke vardır
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...düzlük durur kaybedilen oran
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...kalmamıştı adalar kara üstünde
+      metin  : höyüğe
+      duyulan: höyüye
+  REPLACE  ...sayılar daha da ağırdır
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...kişinin yaşadığı tahmin ediliyordu
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...geri kalanlar basra nın
+      metin  : nasıriye
+      duyulan: nasiriye
+  INSERT   ...haritadan silinmiş bölge kaldı
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...çok daha hızlı yaptı
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...alanın yarısından fazlasına kabaca
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...da inşaat mühendisi olmuş
+      metin  : azzam alwash
+      duyulan: azam alvaş
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-09-11.duyulan.txt

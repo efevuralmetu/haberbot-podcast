@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-11.mp3
+
+beklenen 2142 kelime | duyulan 2154 kelime | eşleşme %96.4
+sayı ifadesi: metinde 228, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ortasında ekvatora yakın yerde
+      metin  : saun
+      duyulan: savun
+  REPLACE  ...hükümdarı cinlerin kralı bilge
+      metin  : bivarasp tır
+      duyulan: biva raspettir
+  REPLACE  ...ip geçer sırtlara yük
+      metin  : ağıllar
+      duyulan: ağırlar
+  REPLACE  ...sürer divan dağılır ve
+      metin  : bivarasp
+      duyulan: bivaras
+  INSERT   ...muyuz ediyorsak ne kadar
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...davacının varlığını tartışmaya açtı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tartışmaya açtı hollanda da
+      metin  : dekart ın diskur dö
+      duyulan: descartes in discours de
+  REPLACE  ...ın diskur dö la
+      metin  : metod
+      duyulan: méthode
+  REPLACE  ...insanını bugünkü kadar şaşırtmıyordu
+      metin  : dekart ın
+      duyulan: descartes in
+  REPLACE  ...fransa daki kraliyet bahçelerinde
+      metin  : sen jermen an le
+      duyulan: saint germain anle
+  REPLACE  ...bilmeden şaşmaz düzen üretebilir
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...diye şeyden haberi yoktur
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...dikkatli olmak gerekir çünkü
+      metin  : dekart
+      duyulan: descartes
+  INSERT   ...ın kendisi öğrencilerinden ihtiyatlıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i ngiliz düşünür henry
+      metin  : moer
+      duyulan: mooer
+  REPLACE  ...az çekici olduğu dönemdi
+      metin  : por ruayal
+      duyulan: paul royal
+  REPLACE  ...incelendiğini çıkan seslerin ize
+      metin  : org
+      duyulan: ork
+  REPLACE  ...in anlattığına göer filozof
+      metin  : malbranş
+      duyulan: malbranche
+  REPLACE  ...olmadığını kanıtlamaktır çığlık zemberek
+      metin  : sesiyze
+      duyulan: sesi ize
+  REPLACE  ...içinde en keskin cevabı
+      metin  : volter
+      duyulan: wolter
+  INSERT   ...insan için hiç kurulmaz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çoğu zaman daha kötü
+      metin  : olduğuydu
+      duyulan: olduydu
+  REPLACE  ...defter defteridir aynı yıllarda
+      metin  : könisberg
+      duyulan: königsberg
+  REPLACE  ...kamçılayanın karakterinde açılan yaradır
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  INSERT   ...yüzyılda dipnot programa dönüştü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...olduğu için hafife almak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...insan hakları verilmesini değil
+      metin  : acı
+      duyulan: ağacı
+  REPLACE  ...verilmesini değil acı ve
+      metin  : haz
+      duyulan: has
+  INSERT   ...aynı ağırlıkta sayılmasını savundu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...değişimin geri döndüğü ölçüldü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...başka canlılarda da bulunuyor
+      metin  : (yok)
+      duyulan: ki te
+  INSERT   ...gelirler görülür ahmet haşim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...verdiği anlatılır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...aynı şehrin sicilinde başka
+      metin  : kayıt
+      duyulan: kayıtta var
+  DELETE   ...sicilinde başka kayıt da
+      metin  : var
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...marmara daki çıplak kayalığa
+      metin  : sivriada
+      duyulan: sivriyada
+  REPLACE  ...ya da ceza değildi
+      metin  : özgürlükten
+      duyulan: i çten
+  INSERT   ...o eski hukuk yoluydu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yoluydu haziranında new york
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...ters yöne gitti buenos
+      metin  : ayres
+      duyulan: aires
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: felsefe-2026-09-11.duyulan.txt

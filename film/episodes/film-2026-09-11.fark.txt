@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-11.mp3
+
+beklenen 1602 kelime | duyulan 1618 kelime | eşleşme %93.7
+sayı ifadesi: metinde 273, duyulanda 172  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...film kutusu buldu kutular
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çoktan yazılmış olduğunu anladı
+      metin  : carl
+      duyulan: karl
+  REPLACE  ...anladı carl theodor dreyer
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...hırslı fransız yapımcılarından olan
+      metin  : sosyete jeneral
+      duyulan: societe generale
+  REPLACE  ...kadın figürü önerdi dreyer
+      metin  : jan
+      duyulan: john
+  REPLACE  ...da vardı katolik kilisesi
+      metin  : jan
+      duyulan: de john
+  REPLACE  ...sembolü olarak dolaşıyordu dreyer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...dekoru tasarlayan isimden herman
+      metin  : varm dı
+      duyulan: varmdü
+  REPLACE  ...görsel yapıtlarından o eğri
+      metin  : büğrü
+      duyulan: büyürü
+  REPLACE  ...kuran adam diğeri ressam
+      metin  : jan ügo ydu
+      duyulan: can ugoydu
+  REPLACE  ...paris in güneydoğusundaki tarlada
+      metin  : ruan
+      duyulan: rouen
+  REPLACE  ...asma köprüsü vardı duvarlar
+      metin  : ortaçağ
+      duyulan: ortaçağı
+  REPLACE  ...istenen griye çeviriyordu sonra
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...bile bütün olarak gösterilmez
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...meter kadarı kaldı bütçe
+      metin  : frank
+      duyulan: franc
+  REPLACE  ...başladı sonbahara kadar sürdü
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...takip etmek demekti ama
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...o bulması kolay olmadı
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...dreyer paris te akşam
+      metin  : viktor margörit
+      duyulan: victor marguerite
+  REPLACE  ...in romanından uyarlanan la
+      metin  : garson
+      duyulan: garçon
+  REPLACE  ...komedi oynanıyordu ve oyunculardan
+      metin  : rene jan falkonetti ydi
+      duyulan: rené jean falconetti idi
+  REPLACE  ...gün yine gitti sonra
+      metin  : makyajsız
+      duyulan: makyaysız
+  REPLACE  ...çıkardı ve kararını verdi
+      metin  : jan
+      duyulan: john
+  REPLACE  ...dark ın bulmuştu doğumlu
+      metin  : falkonetti
+      duyulan: falconetti
+  REPLACE  ...önemli film rolü olacaktı
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...en radikal kural makyaj
+      metin  : yasağıydı
+      duyulan: yasaydı
+  REPLACE  ...kızarmış göz kapağını tıraşsız
+      metin  : çeneyi
+      duyulan: çeneği
+  REPLACE  ...ve bu planlar merhametsizdir
+      metin  : jan ı
+      duyulan: canı
+  REPLACE  ...ıslandığında bunu seyirci görür
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...deşik ettiği için takılıyor
+      metin  : karl grüyer
+      duyulan: kargruer
+  REPLACE  ...farklı dünya vardı yargıçlardan
+      metin  : piyer koşon
+      duyulan: pierer cochon
+  REPLACE  ...piyer koşon u komedi
+      metin  : fransez in
+      duyulan: fransız ın
+  REPLACE  ...fransez in kıdemli oyuncusu
+      metin  : öjen
+      duyulan: özen
+  REPLACE  ...çok acıyan din adamı
+      metin  : jan masyö
+      duyulan: john masio
+  REPLACE  ...şair ve tiyatro kuramcısı
+      metin  : antonen arto
+      duyulan: antonin artaud
+  REPLACE  ...setin havası ağırdı çünkü
+      metin  : dreyer
+      duyulan: dryer
+  REPLACE  ...gereksiz herkesi dışarı çıkardı
+      metin  : falkonetti yi
+      duyulan: falconettiği
+  REPLACE  ...daha da alevlendirmişti paris
+      metin  : başpiskoposu
+      duyulan: başbiskoposu
+  REPLACE  ...izledi ve kesinti istedi
+      metin  : dreyer
+      duyulan: dryer
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-09-11.duyulan.txt

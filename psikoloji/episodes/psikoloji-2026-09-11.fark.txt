@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-11.mp3
+
+beklenen 1302 kelime | duyulan 1322 kelime | eşleşme %97.3
+sayı ifadesi: metinde 158, duyulanda 137  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yarın sabah
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gurur var sonra sabah
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tanıdık kadar yabancı kadar
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...kadar yabancı kadar hal
+      metin  : hershfield
+      duyulan: hirschfeld
+  INSERT   ...sezgiyle örtüşüyor derek parfit
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...de kör noktası var
+      metin  : (yok)
+      duyulan: no
+  REPLACE  ...değişimlerini küçük gördüler yaşındaki
+      metin  : yirmisinden
+      duyulan: sinden
+  INSERT   ...çok değiştiğini söylüyor ama
+      metin  : (yok)
+      duyulan: ına
+  REPLACE  ...yukarı böyle kalacağını düşünüyordu
+      metin  : kırkındaki
+      duyulan: ndaki
+  REPLACE  ...kırkındaki de aynısını söylüyordu
+      metin  : ellisindeki
+      duyulan: nektarlesindeki
+  INSERT   ...yabancıya vermek hershfield ın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşındaydılar derisi gevşemiş saçı
+      metin  : ağarmış
+      duyulan: ağırmış
+  INSERT   ...i şe yarayan ayrıntı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...şimdiki zamana çevirmek peter
+      metin  : golvitser
+      duyulan: goldwitzer
+  INSERT   ...oysa eğer salı akşam
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kullanabilirsiniz richard thaler ve
+      metin  : şlomo benartsi
+      duyulan: schlomo benarsi
+  INSERT   ...tasarruf oranı ay içinde
+      metin  : (yok)
+      duyulan: den ya
+  INSERT   ...önceden ödemek telefonu akşam
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...işleyişi bozması bambaşka alan
+      metin  : öyle
+      duyulan: öğütle
+  REPLACE  ...açacak kişiye gösterilmiş incelik
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 12 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: psikoloji-2026-09-11.duyulan.txt

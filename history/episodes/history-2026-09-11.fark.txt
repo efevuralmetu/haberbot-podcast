@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-11.mp3
+
+beklenen 4513 kelime | duyulan 4508 kelime | eşleşme %98.7
+sayı ifadesi: metinde 221, duyulanda 217  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...everyone twice the same
+      metin  : plain
+      duyulan: plane
+  DELETE   ...piece of paper drove
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of the british army
+      metin  : balaclava
+      duyulan: valaklava
+  REPLACE  ...long argument the allied
+      metin  : staffs
+      duyulan: staff
+  REPLACE  ...inlets to the west
+      metin  : balaclava
+      duyulan: valaklava
+  REPLACE  ...fel to the british
+      metin  : balaclava
+      duyulan: valaklava
+  REPLACE  ...cart track called the
+      metin  : woronzoff
+      duyulan: woronsoff
+  REPLACE  ...the north rize the
+      metin  : fedyukhin
+      duyulan: feducan
+  REPLACE  ...heights the right the
+      metin  : fedyukhin
+      duyulan: feducan
+  REPLACE  ...to the harbor their
+      metin  : defence
+      duyulan: defense
+  INSERT   ...guns the morning of
+      metin  : (yok)
+      duyulan: of
+  REPLACE  ...the russian commander pavel
+      metin  : liprandi
+      duyulan: leprandi
+  REPLACE  ...boer down the redoubt
+      metin  : under
+      duyulan: after
+  REPLACE  ...the redoubt under heavy
+      metin  : round
+      duyulan: rounds
+  REPLACE  ...disgrace as losing its
+      metin  : colours
+      duyulan: colors
+  REPLACE  ...in russian hands the
+      metin  : woronzoff
+      duyulan: warrens off
+  REPLACE  ...the middle of the
+      metin  : plain
+      duyulan: plane
+  REPLACE  ...nothing but a few
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...the smal settlement of
+      metin  : kadikoi
+      duyulan: kadikoy
+  REPLACE  ...the slope of the
+      metin  : sapoune
+      duyulan: sapun
+  REPLACE  ...commander major general james
+      metin  : scarlett
+      duyulan: scarlet
+  REPLACE  ...in his life when
+      metin  : scarlett
+      duyulan: scarlet
+  REPLACE  ...and in the slope
+      metin  : scarlett
+      duyulan: scarlet
+  REPLACE  ...placed to pursue them
+      metin  : pursuit
+      duyulan: that
+  REPLACE  ...the crest of the
+      metin  : sapoune
+      duyulan: sapun
+  REPLACE  ...the sapoune ridge some
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...weer marching up from
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...staff brigadier general richard
+      metin  : airey
+      duyulan: airy
+  REPLACE  ...was given to captain
+      metin  : louis
+      duyulan: lewis
+  REPLACE  ...valley an open corridor
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...weer riflemen and guns
+      metin  : lucan
+      duyulan: cardigan
+  REPLACE  ...drew his sword and
+      metin  : signalled
+      duyulan: signaled
+  REPLACE  ...a single rhythm about
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...the left weer the
+      metin  : fedyukhin
+      duyulan: fedukhin
+  REPLACE  ...weer guns under prince
+      metin  : obolensky
+      duyulan: obolenski
+  REPLACE  ...trot became a gallop
+      metin  : cardigan
+      duyulan: russian
+  REPLACE  ...close range from perhaps
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...between the wheels with
+      metin  : sabres
+      duyulan: sabers
+  REPLACE  ...of any plan the
+      metin  : chasseurs
+      duyulan: cheserse
+  REPLACE  ...horse under general d
+      metin  : allonville
+      duyulan: alenville
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: history-2026-09-11.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-11.mp3
+
+beklenen 2553 kelime | duyulan 2578 kelime | eşleşme %92.8
+sayı ifadesi: metinde 424, duyulanda 286  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gerçeği başkasına söyleyecekti aralık
+      metin  : rostok
+      duyulan: rostock
+  REPLACE  ...gencin ortasında şey eksiktir
+      metin  : manderup
+      duyulan: mandarup
+  INSERT   ...olağan hikayesi gibi başlamıştı
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...hikayesi gibi başlamıştı aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başta kez kırıldı amcası
+      metin  : yörgen
+      duyulan: jörgen
+  INSERT   ...aynı ani karakteri taşıyacaktı
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...ani karakteri taşıyacaktı kral
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kral i kinci frederik
+      metin  : kopenhag
+      duyulan: koppenhag
+  REPLACE  ...en baştan borçla kurulmuştu
+      metin  : kopenhag
+      duyulan: koppenhag
+  INSERT   ...okuması bekleniyordu ama ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kitaplar hukuk kitapları değildi
+      metin  : laypzig
+      duyulan: de leipzig
+  INSERT   ...gökyüzünü ölçmeye başladı ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...buluşmayı neredeyze ay şaşırmıştı
+      metin  : koperniğin
+      duyulan: coperni yin
+  INSERT   ...o da günlerce yanılıyordu
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...bu burnun ve gümüşten
+      metin  : olduğuydu ışıltılı
+      duyulan: oldu idi işıltılı
+  INSERT   ...daha sade çıktı mezarı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...leke bulundu bu bakır
+      metin  : demekti aarhus
+      duyulan: demektir da ağırhus
+  REPLACE  ...demekti aarhus üniversitesi nden
+      metin  : yens vellev in
+      duyulan: jens wellevin
+  INSERT   ...mezarı kez açtı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonrası değil sonrasının sonrasıdır
+      metin  : tiko
+      duyulan: tico
+  REPLACE  ...kaybedilen şey kavga değil
+      metin  : tiko
+      duyulan: tico
+  REPLACE  ...keskin cümle zor bulunurdu
+      metin  : düellodan
+      duyulan: duellodan
+  INSERT   ...kez gökyüzünün değişiklik oldu
+      metin  : (yok)
+      duyulan: do in
+  REPLACE  ...değişiklik oldu kasım akşamı
+      metin  : tiko
+      duyulan: tico
+  REPLACE  ...kasım akşamı tiko dayısı
+      metin  : steen bille nin herrevad
+      duyulan: sten billen in herrevat
+  REPLACE  ...gidiyordu alışkanlıkla başını kaldırdı
+      metin  : kassiopeia takımyıldızının
+      duyulan: cassiopeia takımı yıldızı nın
+  REPLACE  ...olmaması gereken ışık vardı
+      metin  : venüs
+      duyulan: venus
+  REPLACE  ...teolojinin ortak zeminini reddetmek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...üst katmanlarında tutuşmuş buhardır
+      metin  : tiko
+      duyulan: tycho
+  REPLACE  ...döndükçe belirgin kayma gösteriyordu
+      metin  : tiko
+      duyulan: tycho
+  REPLACE  ...yeni ışığı gecelerce haftalarca
+      metin  : kassiopeia
+      duyulan: kasiopeya
+  INSERT   ...söylenen gökte değişiklik olmuştu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...adı kısaca yeni yıldız
+      metin  : üzerine ydi
+      duyulan: üzerindeydi
+  REPLACE  ...kaybı sayılırdı o çağda
+      metin  : tiko
+      duyulan: tycho
+  REPLACE  ...ışık yılı uzaklıktaydı yani
+      metin  : tiko
+      duyulan: tycho
+  REPLACE  ...geldi kuyruklu yıldızı belirdiğinde
+      metin  : tiko
+      duyulan: tycho
+  REPLACE  ...hareketlerini bu küreler sağlıyordu
+      metin  : tiko
+      duyulan: tycho
+  REPLACE  ...büyük sorusu olacaktı ancak
+      metin  : tiko
+      duyulan: tycho
+  INSERT   ...ize yeer ihtiyacı vardı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yeer ihtiyacı vardı gelindiğinde
+      metin  : tiko
+      duyulan: tico
+  ... ve 95 fark daha
+
+metinde olup DUYULMAYAN: 129 kelime | duyulup metinde OLMAYAN: 159
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: biyografi-2026-09-11.duyulan.txt

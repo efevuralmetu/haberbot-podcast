@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-11.mp3
+
+beklenen 1511 kelime | duyulan 1544 kelime | eşleşme %94.8
+sayı ifadesi: metinde 178, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...doku bile taklit edilmiştir
+      metin  : (yok)
+      duyulan: pürüzsüz olan pürüzlenir ahtapotun herkesçe bilinen numarası budur ama o hayvanın adı ne
+  REPLACE  ...yazıyorsa tezgaha o gitmelidir
+      metin  : ahtapotta
+      duyulan: ahtapod da
+  REPLACE  ...derecede küçüktür rna daki
+      metin  : adenozin
+      duyulan: adenosin
+  REPLACE  ...ifade eder örneğin aua
+      metin  : izolösin
+      duyulan: izolosin
+  REPLACE  ...aua izolösin demektir ortadaki
+      metin  : adenozin
+      duyulan: adenosin
+  REPLACE  ...demektir ortadaki adenozin düzenlenirse
+      metin  : aug
+      duyulan: ayuci
+  REPLACE  ...olur ve tezgah oraya
+      metin  : izolösin
+      duyulan: izolosin
+  REPLACE  ...tezgah oraya izolösin yerine
+      metin  : metiyonin
+      duyulan: methionin
+  REPLACE  ...müdahale proteinin katlanma biçimini
+      metin  : iyonu
+      duyulan: ionu
+  REPLACE  ...noktalı ahtapotunda bilimsel adıyla
+      metin  : oktopus
+      duyulan: octopus
+  REPLACE  ...bölgelerdeydi kodlayan bölgelerdeki düzenlemelerin
+      metin  : amino asit
+      duyulan: i aminoasit
+  REPLACE  ...arasındaki deniz tavşanında yani
+      metin  : aplysia
+      duyulan: aplisya
+  REPLACE  ...nautilusun ayrıldığı daldan sonra
+      metin  : yumuşak
+      duyulan: uşak
+  REPLACE  ...dikkat çekiciydi kanalın gözeneğindeki
+      metin  : izolösini
+      duyulan: izolosini
+  REPLACE  ...kapanma hızını belirgin biçimde
+      metin  : artırıyordu
+      duyulan: arttırıyordu
+  REPLACE  ...o nokta antarktika ve
+      metin  : arktik
+      duyulan: arctic
+  INSERT   ...içinde bunu yapabilir mi
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...rosenthal ile tel aviv
+      metin  : üniversitesi nden eli ayzenberg
+      duyulan: üniversitesinden eisenberg
+  REPLACE  ...ayzenberg in yürüttüğü çalışmada
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...en güçlü açıklama şu
+      metin  : adar ın
+      duyulan: aadarın
+  REPLACE  ...yalnızca çekirdekte olmadığını gösterdi
+      metin  : adar
+      duyulan: aadar
+  REPLACE  ...yetenek gibi görünüyor değil
+      metin  : adar
+      duyulan: aden
+  REPLACE  ...türlerde umursamadığı mutasyonları burada
+      metin  : eler
+      duyulan: eder ki de
+  INSERT   ...arasında beklenen mutasyonların ile
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...girmemiş kabuğuyla yavaşlığıyla düzenlenmemiş
+      metin  : rna sıyla
+      duyulan: renasıyla
+  INSERT   ...genomunun kendisi de tamamlıyor
+      metin  : (yok)
+      duyulan: atee ki de
+  REPLACE  ...fikir basit hücrede zaten
+      metin  : adar
+      duyulan: aadar
+  INSERT   ...adenozine yönlendirmek mümkün olabilir
+      metin  : (yok)
+      duyulan: tiki ün
+  REPLACE  ...ilk kez tedavi amaçlı
+      metin  : rna
+      duyulan: renena
+  REPLACE  ...genomu canlının tam ve
+      metin  : nihai
+      duyulan: nihayi
+  REPLACE  ...için hareketsiz durmak zorunda
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: bilim-2026-09-11.duyulan.txt
