@@ -1,0 +1,721 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.370
+Elinizde bir portakal var.
+
+2
+00:00:02.370 --> 00:00:10.820
+Onu beş parçaya bölüyorsunuz; hiçbir parçayı germiyor, ezmiyor, çoğaltmıyorsunuz — sadece döndürüp yerlerini değiştiriyorsunuz.
+
+3
+00:00:10.820 --> 00:00:14.790
+Sonunda masada birbirinin tam eşi iki portakal duruyor.
+
+4
+00:00:14.790 --> 00:00:19.560
+Bu bir hile değil, 1924'te kanıtlanmış bir teorem.
+
+5
+00:00:27.760 --> 00:00:30.610
+Masanın üstünde bir portakal duruyor.
+
+6
+00:00:30.610 --> 00:00:34.900
+Ağırlığı avucunuzda, kabuğunun gözenekleri parmak ucunuzda.
+
+7
+00:00:34.900 --> 00:00:36.470
+Kokusu bile var.
+
+8
+00:00:36.470 --> 00:00:41.080
+Şimdi size şunu söylesem: Bu portakalı 5 parçaya ayırabilirim.
+
+9
+00:00:41.080 --> 00:00:51.130
+Parçaları esnetmeden, germeden, hiçbirini büyütmeden, hiçbirine yeni madde eklemeden, yalnızca havada döndürüp kaydırarak yeniden bir araya getireceğim.
+
+10
+00:00:51.130 --> 00:00:54.460
+Ve iş bittiğinde masada iki portakal olacak.
+
+11
+00:00:54.460 --> 00:00:57.790
+İkisi de tam olarak baştakinin büyüklüğünde.
+
+12
+00:00:57.790 --> 00:01:01.600
+İkisi de içi dolu, gözeneksiz, eksiksiz.
+
+13
+00:01:01.600 --> 00:01:06.530
+Bunu duyan herkesin ilk tepkisi aynıdır: Bir yerde hile var.
+
+14
+00:01:06.530 --> 00:01:14.980
+Ya parçalar esniyordur, ya aralarına görünmez boşluklar giriyordur, ya da konuşan kişi cebinde ikinci bir portakal saklıyordur.
+
+15
+00:01:14.980 --> 00:01:20.550
+Çünkü bu iddia, hayatınız boyunca öğrendiğiniz en temel şeylerden birine çarpıyor.
+
+16
+00:01:20.550 --> 00:01:26.120
+Bir şeyi kesip tekrar birleştirdiğinizde, elinizde başladığınız kadar şey kalır.
+
+17
+00:01:26.120 --> 00:01:30.250
+Pastayı sekiz dilime bölseniz de pasta pasta kadardır.
+
+18
+00:01:30.250 --> 00:01:32.140
+Hacim korunur.
+
+19
+00:01:32.140 --> 00:01:38.030
+Bu bir inanç değil, bir gözlem; ve o gözlem şimdiye kadar bir kez bile sizi yanıltmadı.
+
+20
+00:01:38.030 --> 00:01:42.160
+Ama az önce anlattığım şey bir hokkabazlık numarası değil.
+
+21
+00:01:42.160 --> 00:01:43.890
+Bir teorem.
+
+22
+00:01:43.890 --> 00:01:52.820
+1924 yılında iki Polonyalı matematikçi, Stefan Banach ve Alfred Tarski, ortak bir makalede bunu kanıtladılar.
+
+23
+00:01:52.820 --> 00:01:58.390
+Matematik dünyasında bu sonuç onların adıyla anılıyor: Banach-Tarski paradoksu.
+
+24
+00:01:58.390 --> 00:02:04.120
+Buradaki "paradoks" sözcüğüne dikkat edin, çünkü yanlış anlaşılmaya çok müsait.
+
+25
+00:02:04.120 --> 00:02:08.570
+Matematikte paradoks, "sistemde bir çelişki var" demek değildir.
+
+26
+00:02:08.570 --> 00:02:13.020
+"Sonuç doğru, ama sezginiz buna dayanamıyor" demektir.
+
+27
+00:02:13.020 --> 00:02:17.630
+Ve bu ikisi arasındaki fark, anlatacağım her şeyin kalbinde duruyor.
+
+28
+00:02:17.630 --> 00:02:24.960
+Önce oyunun kurallarını netleştirelim, çünkü kurallar netleşmeden iddia ya sihir gibi ya da saçmalık gibi duruyor.
+
+29
+00:02:24.960 --> 00:02:30.690
+Matematikçi için bir top, kâğıttan ya da portakaldan yapılmış bir nesne değil.
+
+30
+00:02:30.690 --> 00:02:32.420
+Bir nokta kümesi.
+
+31
+00:02:32.420 --> 00:02:36.870
+Merkezden uzaklığı belli bir sayıdan küçük olan bütün noktaların toplamı.
+
+32
+00:02:36.870 --> 00:02:38.760
+İçi dolu bir küre.
+
+33
+00:02:38.760 --> 00:02:45.450
+Sonsuz sayıda nokta içeriyor; öyle çok ki, bu sonsuzluğu saymaya kalkmanın bile bir anlamı yok.
+
+34
+00:02:45.450 --> 00:02:52.620
+"Parçalara ayırmak" da o zaman şu demek: Bu nokta kümesini, birbiriyle hiç kesişmeyen alt kümelere bölüyorsunuz.
+
+35
+00:02:52.620 --> 00:02:59.950
+Her nokta tam olarak bir parçaya gidiyor, hiçbiri iki parçada birden bulunmuyor, hiçbiri dışarıda kalmıyor.
+
+36
+00:02:59.950 --> 00:03:08.400
+Bir bıçak hayal etmeyin; daha çok topun içindeki her noktayı tek tek elinize alıp beş ayrı kutudan birine yerleştirdiğinizi düşünün.
+
+37
+00:03:08.400 --> 00:03:11.250
+"Hareket ettirmek" ise en sıkı kural.
+
+38
+00:03:11.250 --> 00:03:15.380
+İzin verilen tek şey katı hareket: öteleme ve döndürme.
+
+39
+00:03:15.380 --> 00:03:21.910
+Parçayı bir bütün olarak alıp başka bir yere taşıyorsunuz, ya da bir eksen etrafında çeviriyorsunuz.
+
+40
+00:03:21.910 --> 00:03:27.480
+Germek yok, büzmek yok, ölçeklendirmek yok, aynalamak bile gereksiz.
+
+41
+00:03:27.480 --> 00:03:33.850
+Parçanın içindeki iki nokta arasındaki mesafe, hareketten sonra da tıpatıp aynı kalıyor.
+
+42
+00:03:33.850 --> 00:03:39.100
+Bu, bir fincanı masanın bir ucundan öbür ucuna kaydırmaktan daha fazlası değil.
+
+43
+00:03:39.100 --> 00:03:50.110
+İşte teorem bunu söylüyor: İçi dolu bir küreyi sonlu sayıda parçaya bölüp, yalnızca bu iki tür hareketle, ilkinin tıpatıp eşi olan iki küre elde edebilirsiniz.
+
+44
+00:03:50.110 --> 00:03:55.040
+Ve "sonlu sayıda" derken gerçekten küçük sayılardan söz ediyoruz.
+
+45
+00:03:55.040 --> 00:04:01.410
+1947'de Raphael Robinson bu işin 5 parçayla yapılabileceğini gösterdi.
+
+46
+00:04:01.410 --> 00:04:05.540
+Dahası, 5'in altına inilemeyeceğini de kanıtladı.
+
+47
+00:04:05.540 --> 00:04:10.310
+Merkezdeki tek bir noktayı hesaba katmazsanız 4 parça yetiyor.
+
+48
+00:04:10.310 --> 00:04:15.720
+Yani bu, milyonlarca parçaya ihtiyaç duyan, sonsuza kaçan bir hile değil.
+
+49
+00:04:15.720 --> 00:04:18.570
+Bir elin parmakları kadar parça.
+
+50
+00:04:18.570 --> 00:04:21.420
+Şimdi rahatsız edici soruyu soralım.
+
+51
+00:04:21.420 --> 00:04:26.830
+Eğer parçalar esnemiyorsa, her parçanın hacmi hareketten sonra da aynı kalmalı.
+
+52
+00:04:26.830 --> 00:04:31.280
+Beş parçanın hacimleri toplanınca bir topun hacmini vermeli.
+
+53
+00:04:31.280 --> 00:04:36.850
+Ama aynı beş parça, yer değiştirdikten sonra iki topun hacmini veriyor.
+
+54
+00:04:36.850 --> 00:04:41.620
+Bir sayı hem kendisine hem de kendisinin iki katına eşit olamaz.
+
+55
+00:04:41.620 --> 00:04:44.310
+Burada bir yerde bir şey yanlış.
+
+56
+00:04:44.310 --> 00:04:48.120
+Ve o yanlış olan şey, tahmin ettiğiniz yerde değil.
+
+57
+00:04:48.120 --> 00:04:50.170
+Hareketler kusursuz.
+
+58
+00:04:50.170 --> 00:04:52.220
+Parçaların sayısı sonlu.
+
+59
+00:04:52.220 --> 00:04:54.270
+Küre gerçekten küre.
+
+60
+00:04:54.270 --> 00:05:01.600
+Çöken varsayım, cümleyi kurarken hiç fark etmeden kullandığımız o küçük kelimede saklı: "hacim".
+
+61
+00:05:01.600 --> 00:05:04.290
+O beş parçanın hacmi yok.
+
+62
+00:05:04.290 --> 00:05:09.220
+Sıfır değil, çok küçük değil, ölçülemeyecek kadar karmaşık değil.
+
+63
+00:05:09.220 --> 00:05:12.710
+Hacim diye bir sayı onlara hiç atanamıyor.
+
+64
+00:05:12.710 --> 00:05:17.640
+Toplayacak bir şey olmadığı için toplamda bir tutarsızlık da çıkmıyor.
+
+65
+00:05:17.640 --> 00:05:22.090
+Hacmi olmayan bir cisim fikri ilk duyuşta kelime oyunu gibi geliyor.
+
+66
+00:05:22.090 --> 00:05:27.820
+Ama bu, matematiğin yirminci yüzyıl başında tökezleyerek keşfettiği çok somut bir engel.
+
+67
+00:05:27.820 --> 00:05:30.350
+Hikâye bir hırsla başlıyor.
+
+68
+00:05:30.350 --> 00:05:37.520
+On dokuzuncu yüzyılın sonunda matematikçiler uzunluğu, alanı ve hacmi sağlam bir temele oturtmak istediler.
+
+69
+00:05:37.520 --> 00:05:43.890
+Amaç iddialıydı: uzayın her alt kümesine bir hacim sayısı atayan bir kural bulmak.
+
+70
+00:05:43.890 --> 00:05:46.900
+Bu kural üç makul şeyi sağlamalıydı.
+
+71
+00:05:46.900 --> 00:05:49.750
+Küpün hacmi bildiğimiz gibi çıkmalı.
+
+72
+00:05:49.750 --> 00:05:53.240
+Bir cismi hareket ettirince hacmi değişmemeli.
+
+73
+00:05:53.240 --> 00:05:58.490
+Ve iki ayrık parçanın hacimleri, birleşimlerinin hacmini vermeli.
+
+74
+00:05:58.490 --> 00:06:09.020
+Henri Lebesgue'in geliştirdiği ölçü kuramı bunu inanılmaz bir başarıyla yaptı; bugün integral hesabının, olasılık kuramının, fiziğin yarısının altında o kuram var.
+
+75
+00:06:09.020 --> 00:06:14.270
+Ama 1905'te Giuseppe Vitali, bu hırsın sınırını gösterdi.
+
+76
+00:06:14.270 --> 00:06:22.240
+Sayı doğrusu üzerinde öyle bir küme kurdu ki, o kümeye herhangi bir uzunluk atamak doğrudan çelişkiye yol açıyordu.
+
+77
+00:06:22.240 --> 00:06:26.690
+Sıfır deseniz olmuyordu, pozitif bir sayı deseniz de olmuyordu.
+
+78
+00:06:26.690 --> 00:06:30.660
+Küme, uzunluk kavramının kapsama alanının dışındaydı.
+
+79
+00:06:30.660 --> 00:06:33.830
+Böyle kümelere ölçülemez kümeler dendi.
+
+80
+00:06:33.830 --> 00:06:41.800
+Ve o günden sonra matematikçiler şunu kabul etmek zorunda kaldılar: Hacim, her şey için tanımlı bir özellik değil.
+
+81
+00:06:41.800 --> 00:06:45.130
+Yalnızca "yeterince uslu" kümeler için tanımlı.
+
+82
+00:06:45.130 --> 00:06:48.300
+Peki Vitali böyle bir canavarı nasıl kurdu?
+
+83
+00:06:48.300 --> 00:06:51.790
+İşte bütün hikâyenin döndüğü nokta burası.
+
+84
+00:06:51.790 --> 00:06:54.000
+Sonsuz sayıda kutu düşünün.
+
+85
+00:06:54.000 --> 00:06:57.330
+Her kutunun içinde en az bir top var.
+
+86
+00:06:57.330 --> 00:07:02.100
+Sizden her kutudan birer top seçip yeni bir torbaya koymanız isteniyor.
+
+87
+00:07:02.100 --> 00:07:04.150
+Kulağa masum geliyor.
+
+88
+00:07:04.150 --> 00:07:09.560
+Kutular sonlu sayıdaysa hiçbir sorun yok, teker teker gidip alırsınız.
+
+89
+00:07:09.560 --> 00:07:21.690
+Kutular sonsuz ama seçimi yapmak için bir kuralınız varsa, yine sorun yok; mesela "her kutudaki en küçük topu al" diyebilirsiniz, kural sizin yerinize bütün seçimleri aynı anda yapar.
+
+90
+00:07:21.690 --> 00:07:25.660
+Ama ya kutular sonsuzsa ve hiçbir kural işlemiyorsa?
+
+91
+00:07:25.660 --> 00:07:33.630
+Ya kutuların içindekiler öyle bir düzendeyse ki, "en küçüğü", "en soldakini", "ilkini" demenin hiçbir anlamı yoksa?
+
+92
+00:07:33.630 --> 00:07:40.800
+O zaman bu torbanın var olduğunu iddia edebilmek için, matematiğe ayrı bir varsayım olarak eklemeniz gerekiyor.
+
+93
+00:07:40.800 --> 00:07:43.970
+Bu varsayımın adı Seçim Aksiyomu.
+
+94
+00:07:43.970 --> 00:07:55.460
+Ernst Zermelo 1904'te açıkça formüle etti ve o yayımlandığı andan itibaren tartışma yarattı, çünkü var olduğunu söylediği nesneyi asla size gösteremiyor.
+
+95
+00:07:55.460 --> 00:07:58.150
+Size torbayı tarif etmiyor.
+
+96
+00:07:58.150 --> 00:08:01.800
+Sadece "öyle bir torba vardır" diyor ve susuyor.
+
+97
+00:08:01.800 --> 00:08:05.770
+Vitali'nin ölçülemez kümesi, tam olarak böyle bir torba.
+
+98
+00:08:05.770 --> 00:08:08.780
+Banach ve Tarski'nin beş parçası da öyle.
+
+99
+00:08:08.780 --> 00:08:15.310
+Şimdi kürenin içinde ne olup bittiğine bakalım, çünkü mekanizmanın kendisi ölçülemezlikten bile şaşırtıcı.
+
+100
+00:08:15.310 --> 00:08:18.960
+Anahtar, küreyi döndüren hareketlerde saklı.
+
+101
+00:08:18.960 --> 00:08:24.690
+İki tane döndürme seçin, eksenleri farklı olsun ve açıları özenle ayarlansın.
+
+102
+00:08:24.690 --> 00:08:32.020
+Bu iki döndürmeyi ve bunların terslerini arka arkaya uygulayarak sonsuz sayıda farklı hareket üretebilirsiniz.
+
+103
+00:08:32.020 --> 00:08:40.310
+Kritik özellik şu: Bu hareket dizilerinden hiçbiri, birbirini sadeleştirmedikçe, küreyi başladığı yere geri getirmiyor.
+
+104
+00:08:40.310 --> 00:08:44.440
+Her farklı dizi, gerçekten farklı bir sonuç veriyor.
+
+105
+00:08:44.440 --> 00:08:56.890
+Felix Hausdorff 1914'te bu yapıyı fark etti ve küre yüzeyinde ilk paradoksal parçalamayı kurdu; Banach ve Tarski on yıl sonra onun açtığı yoldan içi dolu topa geçtiler.
+
+106
+00:08:56.890 --> 00:09:03.900
+Bu hareketler ailesinin kendisi, sayılabilir bir sonsuzlukta ve hiyerarşik bir ağaç gibi dallanıyor.
+
+107
+00:09:03.900 --> 00:09:17.310
+Şimdi bütün bu dizileri, ilk harflerine göre dört gruba ayırın: birinci döndürmeyle başlayanlar, onun tersiyle başlayanlar, ikinci döndürmeyle başlayanlar, onun tersiyle başlayanlar.
+
+108
+00:09:17.310 --> 00:09:19.520
+İşin sihri şurada.
+
+109
+00:09:19.520 --> 00:09:28.610
+"Birinci döndürmenin tersiyle başlayanlar" grubunu alıp hepsine birinci döndürmeyi uygularsanız, baştaki o ters hareket sadeleşip düşer.
+
+110
+00:09:28.610 --> 00:09:33.060
+Geriye kalan yığın, birinci döndürmeyle başlamayan her şeyi kapsar.
+
+111
+00:09:33.060 --> 00:09:39.430
+Yani bir tek grubu döndürerek, ağacın büyük bir bölümünü tek başına yeniden inşa etmiş olursunuz.
+
+112
+00:09:39.430 --> 00:09:44.520
+Elinizdeki dört gruptan ikisi bütünü veriyor, diğer ikisi de bütünü veriyor.
+
+113
+00:09:44.520 --> 00:09:46.250
+Bir, iki oluyor.
+
+114
+00:09:46.250 --> 00:09:49.580
+Bu, sonsuzluğun bildiğimiz tuhaflığı.
+
+115
+00:09:49.580 --> 00:09:57.710
+Ama Banach ve Tarski'nin yaptığı, bu tuhaflığı soyut hareketler dünyasından alıp katı bir cismin noktalarına aktarmak oldu.
+
+116
+00:09:57.710 --> 00:10:03.600
+Küredeki her noktayı, ona uygulanabilecek hareket diziler ailesiyle eşleştirdiler.
+
+117
+00:10:03.600 --> 00:10:07.890
+Sonra da her aileden tek bir temsilci nokta seçtiler.
+
+118
+00:10:07.890 --> 00:10:12.500
+Sayısız aileden, hiçbir kural olmadan, sonsuz sayıda seçim.
+
+119
+00:10:12.500 --> 00:10:15.510
+İşte torba burada devreye giriyor.
+
+120
+00:10:15.510 --> 00:10:19.320
+Ve bu yüzden o beş parçayı asla göremezsiniz.
+
+121
+00:10:19.320 --> 00:10:21.210
+Onlar dilim değil.
+
+122
+00:10:21.210 --> 00:10:23.900
+Katı kabuk, kama ya da küp değil.
+
+123
+00:10:23.900 --> 00:10:32.670
+Kürenin her yerine sonsuz incelikte serpilmiş, hiçbir yerinde kesintisiz bir yüzeyi olmayan, adeta toz bulutu gibi noktalar kümesi.
+
+124
+00:10:32.670 --> 00:10:37.920
+Öyle dağınık ki, "bu parça ne kadar yer kaplıyor" sorusunun cevabı yok.
+
+125
+00:10:37.920 --> 00:10:42.370
+Hacim korunmuyor değil; korunacak bir hacim hiç var olmadı.
+
+126
+00:10:42.370 --> 00:10:50.340
+Böyle bir sonuçla karşılaşınca akla gelen ilk soru şu oluyor: Madem bütün bela o aksiyomdan çıkıyor, atalım gitsin.
+
+127
+00:10:50.340 --> 00:10:53.190
+Bu ciddi bir öneri ve ciddiye alındı.
+
+128
+00:10:53.190 --> 00:11:00.680
+1970'te Robert Solovay, Seçim Aksiyomu'nun tam gücünden vazgeçilen bir matematik evreni kurdu.
+
+129
+00:11:00.680 --> 00:11:04.650
+O evrende sayı doğrusunun her alt kümesi ölçülebilir.
+
+130
+00:11:04.650 --> 00:11:06.700
+Vitali'nin canavarı yok.
+
+131
+00:11:06.700 --> 00:11:09.230
+Banach-Tarski parçalanması yok.
+
+132
+00:11:09.230 --> 00:11:10.800
+Her şey uslu.
+
+133
+00:11:10.800 --> 00:11:13.810
+Ama bedeli var, hem de ağır bir bedel.
+
+134
+00:11:13.810 --> 00:11:20.500
+Seçim Aksiyomu matematiğin garip bir köşesinde duran süs değil; gövdeye kaynamış bir parça.
+
+135
+00:11:20.500 --> 00:11:25.910
+Onu çıkardığınızda her vektör uzayının bir tabanı olduğunu söyleyemezsiniz.
+
+136
+00:11:25.910 --> 00:11:31.160
+Fonksiyonel analizin temel taşlarından biri olan Hahn-Banach teoremi sarsılır.
+
+137
+00:11:31.160 --> 00:11:39.610
+Topolojide, cebirde, analizde günlük olarak kullanılan onlarca sonuç ya çöker ya da çok daha zayıf biçimlere çekilir.
+
+138
+00:11:39.610 --> 00:11:48.540
+Solovay'ın kurduğu evrende çalışmak mümkün, ama orada matematiğin büyük bir bölümünü yeniden, çok daha zahmetli yollardan inşa etmeniz gerekiyor.
+
+139
+00:11:48.540 --> 00:11:53.310
+Matematikçilerin ezici çoğunluğu bu takası yapmayı tercih etmedi.
+
+140
+00:11:53.310 --> 00:11:59.520
+Sezgiye aykırı bir teoremle yaşamayı, işleyen aletlerin yarısını bırakmaya yeğlediler.
+
+141
+00:11:59.520 --> 00:12:04.770
+Bu arada, paradoksun neden bu kadar seçici olduğu da başlı başına ilginç.
+
+142
+00:12:04.770 --> 00:12:08.260
+Banach-Tarski en az üç boyutta çalışıyor.
+
+143
+00:12:08.260 --> 00:12:11.750
+Sayı doğrusunda ve düzlemde çalışmıyor.
+
+144
+00:12:11.750 --> 00:12:17.960
+Bir kareyi kesip iki aynı kare yapamazsınız, bir çemberi ikiye çoğaltamazsınız.
+
+145
+00:12:17.960 --> 00:12:23.370
+Sebebi boyutun kendisinde değil, o boyuttaki hareketlerin yapısında.
+
+146
+00:12:23.370 --> 00:12:32.940
+Düzlemde döndürmeler ve ötelemeler birbiriyle fazla uyumlu davranıyor; az önce anlattığım o özgürce dallanan hareket ağacını kuramıyorsunuz.
+
+147
+00:12:32.940 --> 00:12:41.870
+John von Neumann 1929'da bu farkı tam olarak neyin yarattığını çözümledi ve grupların bu özelliğine bir isim verdi.
+
+148
+00:12:41.870 --> 00:12:48.400
+Üçüncü boyutta ise dönme eksenleri çoğalıyor, hareketler birbirinden kurtuluyor ve ağaç açılıyor.
+
+149
+00:12:48.400 --> 00:12:51.570
+Paradoksun kapısı tam orada aralanıyor.
+
+150
+00:12:51.570 --> 00:12:54.900
+Buna rağmen düzlem tamamen masum da değil.
+
+151
+00:12:54.900 --> 00:13:06.070
+Tarski 1925'te bir soru sordu: Bir daireyi sonlu sayıda parçaya kesip, parçaları yalnızca kaydırarak, aynı alana sahip bir kare yapabilir misiniz?
+
+152
+00:13:06.070 --> 00:13:11.320
+Bu, hacim yaratmayı değil, şekli dönüştürmeyi soruyor; alan korunuyor.
+
+153
+00:13:11.320 --> 00:13:13.850
+Soru 65 yıl açık kaldı.
+
+154
+00:13:13.850 --> 00:13:18.780
+1990'da Miklós Laczkovich cevabın evet olduğunu kanıtladı.
+
+155
+00:13:18.780 --> 00:13:27.550
+Parça sayısı yaklaşık 10 üzeri 50 civarındaydı ve kanıt yine Seçim Aksiyomu'na dayanıyordu, yani parçalar yine görünmezdi.
+
+156
+00:13:27.550 --> 00:13:40.480
+Sonra 2017'de Andrew Marks ve Spencer Unger çok daha ileri gitti: Aynı dönüşümü, tarif edilebilir, inşa edilebilir parçalarla yapmanın mümkün olduğunu gösterdiler.
+
+157
+00:13:40.480 --> 00:13:47.650
+Bu kez parça sayısı 10 üzeri 200'e çıktı, ama karşılığında parçalar artık soyut bir torbadan çıkmıyordu.
+
+158
+00:13:47.650 --> 00:13:50.020
+Hayal edilebilir nesnelerdi.
+
+159
+00:13:50.020 --> 00:13:52.390
+Masadaki portakala dönelim.
+
+160
+00:13:52.390 --> 00:13:54.760
+Onu güvenle soyabilirsiniz.
+
+161
+00:13:54.760 --> 00:13:59.530
+Banach-Tarski portakalınızı çoğaltamaz, hiçbir zaman da çoğaltamayacak.
+
+162
+00:13:59.530 --> 00:14:03.500
+Çünkü gerçek portakal sonsuz sayıda noktadan oluşmuyor.
+
+163
+00:14:03.500 --> 00:14:06.030
+Sonlu sayıda atomdan oluşuyor.
+
+164
+00:14:06.030 --> 00:14:14.640
+Bir kilo portakalın içinde çok büyük ama sonlu bir sayıda parçacık var ve sonlu bir nesneyi sonlu parçalara bölüp iki katına çıkaramazsınız.
+
+165
+00:14:14.640 --> 00:14:19.570
+Teoremi ayakta tutan şey maddenin değil, sürekliliğin özelliği.
+
+166
+00:14:19.570 --> 00:14:25.940
+Uzayın her noktasında bir nokta daha, onun da içinde sonsuz yoğunlukta noktalar olduğu varsayımı.
+
+167
+00:14:25.940 --> 00:14:30.870
+O varsayım fiziksel evrenin değil, matematiksel modelin özelliği.
+
+168
+00:14:30.870 --> 00:14:33.080
+Ve asıl miras da burada.
+
+169
+00:14:33.080 --> 00:14:38.010
+Banach-Tarski, bir hesap hilesi ya da eğlencelik bir tuhaflık değil.
+
+170
+00:14:38.010 --> 00:14:40.060
+Bir sınır işareti.
+
+171
+00:14:40.060 --> 00:14:47.070
+Matematiğin, gerçekliği tarif etmek için kurduğu araçların nerede kendi başına buyruk hale geldiğini gösteriyor.
+
+172
+00:14:47.070 --> 00:14:56.640
+Sürekli uzay kavramı, fiziksel dünyayı olağanüstü başarıyla modelliyor; köprüler onunla ayakta duruyor, uydular onunla yörüngede kalıyor.
+
+173
+00:14:56.640 --> 00:15:02.370
+Ama o modelin içinde, hiçbir fiziksel karşılığı olmayan nesneler de barınabiliyor.
+
+174
+00:15:02.370 --> 00:15:05.860
+Model, tarif ettiği şeyden daha geniş.
+
+175
+00:15:05.860 --> 00:15:09.830
+Bir portakalı kesip iki portakal yapamazsınız.
+
+176
+00:15:09.830 --> 00:15:14.280
+Ama matematiğin portakal dediği şeyi kesip iki tane yapabilirsiniz.
+
+177
+00:15:14.280 --> 00:15:23.690
+Bu cümledeki fark, bütün bir yüzyılın ölçü kuramını, küme kuramını ve bugün olasılıktan kuantum mekaniğine kadar uzanan hesap araçlarını şekillendirdi.
+
+178
+00:15:23.690 --> 00:15:29.260
+Sezgimizin çuvalladığı yer, matematiğin en verimli topraklarından biri çıktı.
+
+179
+00:15:29.260 --> 00:15:32.430
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+180
+00:15:32.430 --> 00:15:35.600
+Yeni bir hikâyede yeniden buluşmak üzere.
