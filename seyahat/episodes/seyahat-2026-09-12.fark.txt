@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-12.mp3
+
+beklenen 1802 kelime | duyulan 1825 kelime | eşleşme %92.1
+sayı ifadesi: metinde 221, duyulanda 145  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...karayip kıyısında kartahena nın
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...adı san basilio de
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...basilio de palenke kısaca
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...en büyük köle limanıydı
+      metin  : atlantiği
+      duyulan: atlantiyi
+  REPLACE  ...sıralama makinesiydi insanlar sıraya
+      metin  : sokulur
+      duyulan: sokunur
+  INSERT   ...fiyatlanır damgalanır sevk edilirdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yerine dönmedi adı benkos
+      metin  : biohó
+      duyulan: bioho
+  REPLACE  ...değişir ardında montes de
+      metin  : maría
+      duyulan: maria
+  REPLACE  ...neredeyze imkansız olduğu arazi
+      metin  : benkos biohó
+      duyulan: bencos bioho
+  REPLACE  ...bu köyleer i spanyolca
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...içinde birbirine haber uçuran
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...ağı oluştu anlatılara göer
+      metin  : benkos biohó
+      duyulan: bencos bioho
+  REPLACE  ...vardılar bu insanlar yenilmiyordu
+      metin  : kartahena
+      duyulan: te cartahena
+  REPLACE  ...savaşmak yerine anlaşmayı denedi
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...denedi palenke halkına belli
+      metin  : özerklik
+      duyulan: özellik
+  INSERT   ...veren uzlaşma önerildi anlaşma
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önerildi anlaşma yeniden onaylandı
+      metin  : benkos biohó
+      duyulan: bencos bioho
+  REPLACE  ...kadar taşıyabildiği kadar sürer
+      metin  : benkos biohó
+      duyulan: da bencos bioho
+  REPLACE  ...elindeki güvence belgesine güvenerek
+      metin  : kartahena
+      duyulan: cartahena
+  INSERT   ...i ki yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ki yıl sonra vali
+      metin  : garsiya hiron un
+      duyulan: garcia hiro nun
+  REPLACE  ...hikayenin kesilmesi gerekiyordu kesilmedi
+      metin  : benkos biohó
+      duyulan: bencos bioho
+  INSERT   ...sonunda madrid hesabı yaptı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...madrid hesabı yaptı kral
+      metin  : i kinci
+      duyulan: ii
+  REPLACE  ...ferman kağıt üzerinde kaldı
+      metin  : kartahena
+      duyulan: cartahena
+  INSERT   ...düzen uzun pazarlıkların sonunda
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sonunda kuruldu o yıl
+      metin  : piskopos
+      duyulan: psikopos
+  REPLACE  ...yıl piskopos antonio maria
+      metin  : kasyani
+      duyulan: cassiani
+  REPLACE  ...tarihte köyde hane vardı
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...diye tanıtır tarihçiler bu
+      metin  : unvanın
+      duyulan: ünvanın
+  REPLACE  ...örneği olmayan şey oluştu
+      metin  : palenke
+      duyulan: palenque
+  REPLACE  ...palenke de konuşulan dile
+      metin  : palenkero
+      duyulan: palenquero
+  REPLACE  ...biçimi i spanyolca değildir
+      metin  : dilbilimciler palenkero
+      duyulan: dil bilimciler palenquero
+  REPLACE  ...eki kelimenin sonuna gelir
+      metin  : palenkero
+      duyulan: palenquero
+  REPLACE  ...spanyolcada olumsuzluk fiilin önündedir
+      metin  : palenkero
+      duyulan: palenquero
+  REPLACE  ...var hayvan adları akrabalık
+      metin  : sözcükleri
+      duyulan: sözlükleri
+  INSERT   ...giydirilmiş halde bataklığın içinde
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...yapıyordu köy dışarıya açıldıkça
+      metin  : kartahena
+      duyulan: cartahena
+  REPLACE  ...ya çalışmaya giden gençler
+      metin  : palenkero
+      duyulan: palenquero
+  REPLACE  ...değil iyi niyetli sessizlikle
+      metin  : seksenlerden
+      duyulan: lerden
+  ... ve 73 fark daha
+
+metinde olup DUYULMAYAN: 119 kelime | duyulup metinde OLMAYAN: 138
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: seyahat-2026-09-12.duyulan.txt

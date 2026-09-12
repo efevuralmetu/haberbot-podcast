@@ -1,0 +1,49 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-12.mp3
+
+beklenen 3346 kelime | duyulan 3337 kelime | eşleşme %99.3
+sayı ifadesi: metinde 127, duyulanda 104  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...was a god named
+      metin  : theuth
+      duyulan: thuth
+  REPLACE  ...turn comes to writing
+      metin  : theuth
+      duyulan: thuth
+  REPLACE  ...diagnosis because the word
+      metin  : theuth
+      duyulan: thuth
+  REPLACE  ...to an accounting error
+      metin  : theuth
+      duyulan: the youth
+  REPLACE  ...looks at a forest
+      metin  : oer
+      duyulan: or
+  REPLACE  ...in older sources as
+      metin  : chuang tzu
+      duyulan: zhuangzu
+  REPLACE  ...not the content daniel
+      metin  : wegner
+      duyulan: wegener
+  REPLACE  ...grown inside their heads
+      metin  : imaging
+      duyulan: imagining
+  REPLACE  ...century the american psychologist
+      metin  : burrhus frederic
+      duyulan: burrus frederick
+  REPLACE  ...something in his laboratory
+      metin  : the
+      duyulan: that
+  REPLACE  ...and nobody needs to
+      metin  : thamus
+      duyulan: famas
+  DELETE   ...take yor hand away
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 13
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-09-12.duyulan.txt

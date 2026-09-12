@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-12.mp3
+
+beklenen 2515 kelime | duyulan 2537 kelime | eşleşme %94.5
+sayı ifadesi: metinde 381, duyulanda 258  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sesi çıkarmıştı sunda boğazı
+      metin  : cava ile
+      duyulan: cevayla
+  REPLACE  ...donanmasının topçekerleri hep buradan
+      metin  : geçerdi
+      duyulan: vardı
+  REPLACE  ...uzunluğunda kilometer genişliğinde tepeden
+      metin  : tırnağa
+      duyulan: tırnağı
+  REPLACE  ...ormanla kaplı adı krakatoa
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...tek gövdeydi kuzey ucunda
+      metin  : perbuwatan
+      duyulan: perbu vatan
+  DELETE   ...düzeltir sonra unuturlardı unutmak
+      metin  : için
+      duyulan: (YOK — atlanmış)
+  INSERT   ...nın son büyük öfkesi
+      metin  : (yok)
+      duyulan: leer
+  REPLACE  ...olayın hatırası bile bulanıklaşmıştı
+      metin  : i ki
+      duyulan: yıl
+  REPLACE  ...zaman ormanından kereste kesiyordu
+      metin  : jeoloji
+      duyulan: geoloji
+  INSERT   ...henüz genç bilimdi volkanın
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...oturmamıştı i lk işaret
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...işaret mayıs ında geldi
+      metin  : perbuwatan
+      duyulan: perbuvatan
+  REPLACE  ...kuzeydeki konisi gürültüyle uyandı
+      metin  : batavia
+      duyulan: batavya
+  REPLACE  ...batavia da yani bugünkü
+      metin  : cakarta
+      duyulan: jakarta
+  REPLACE  ...da pencereler titredi şehir
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...o sıralarda boğazdan geçen
+      metin  : elisabeth
+      duyulan: elizabeth
+  REPLACE  ...gemisinin subayları sütunun yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...takımadaları volkanlarla doludur bölgede
+      metin  : yaşayan
+      duyulan: herkesten
+  REPLACE  ...turistik cazibe merkezine dönüştü
+      metin  : batavia
+      duyulan: batavya
+  REPLACE  ...adaya gezi düzenlediler sıcak
+      metin  : külün
+      duyulan: suyun
+  REPLACE  ...ada tehlikeli olmaktan çok
+      metin  : pitoresk
+      duyulan: pitores
+  DELETE   ...artık koni püskürüyordu temmuzda
+      metin  : boğazdan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aydır sürekli ama ölçülü
+      metin  : biçimde homurdanan
+      duyulan: ve omurdanan
+  REPLACE  ...sürdükçe insan zihni normalleştiriyordu
+      metin  : ağustosun
+      duyulan: ağustos un sına
+  DELETE   ...işçi kasabası sumatra tarafında
+      metin  : ize
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sumatra tarafında ize teluk
+      metin  : betung
+      duyulan: ve tung
+  REPLACE  ...kilometer uzaklıkta kişinin yaşadığı
+      metin  : sebesi
+      duyulan: sebese
+  INSERT   ...ağustos pazartesi sabahı saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk büyük patlama geldi
+      metin  : kaynağı perbuwatan dı
+      duyulan: kaynağa per bu vatandı te
+  REPLACE  ...danan dan sonra kısa
+      metin  : sessizlik
+      duyulan: sezizlik
+  INSERT   ...sessizlik ve sabah saat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kütlesi anda dereceyi aşan
+      metin  : magmayla
+      duyulan: magma ile
+  REPLACE  ...ortaya çıkan enerji adanın
+      metin  : yetmişinden
+      duyulan: inden
+  REPLACE  ...yetmişinden fazlasını yok etti
+      metin  : perbuwatan
+      duyulan: per bu vatan
+  REPLACE  ...meter derinliğe inen devasa
+      metin  : kaldera
+      duyulan: kaldıra
+  REPLACE  ...kaldera çukuru kaldı yaklaşık
+      metin  : kilometreküp
+      duyulan: kilometer küp
+  REPLACE  ...sütunu kilometer yüksekliğe yani
+      metin  : stratosferin
+      duyulan: atmosferin
+  REPLACE  ...kulak zarlarının patladığını hissetti
+      metin  : krakatoa ya
+      duyulan: krakatoya
+  REPLACE  ...kulak zarları gerçekten yırtıldı
+      metin  : batavia
+      duyulan: batavya
+  REPLACE  ...fabrikasının basınç ölçer aleti
+      metin  : iğnenin
+      duyulan: inenin
+  ... ve 56 fark daha
+
+metinde olup DUYULMAYAN: 96 kelime | duyulup metinde OLMAYAN: 111
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-09-12.duyulan.txt

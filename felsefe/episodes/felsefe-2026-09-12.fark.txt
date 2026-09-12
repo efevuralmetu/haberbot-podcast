@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-12.mp3
+
+beklenen 2125 kelime | duyulan 2143 kelime | eşleşme %96.7
+sayı ifadesi: metinde 213, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...değil unutmanın ilacıdır der
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...suyunda oturan sokrates tir
+      metin  : platon un faidros
+      duyulan: plato nun phaedros
+  REPLACE  ...şeyi söyler fransız düşünür
+      metin  : jak
+      duyulan: jacques
+  INSERT   ...fransız düşünür jak derrida
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu sözcüğün üzerinde durur
+      metin  : platon
+      duyulan: plato
+  REPLACE  ...kaybettirdi sözlü kültürlerde binlerce
+      metin  : dizelik
+      duyulan: dizilik
+  REPLACE  ...sözleşmesi yoktur kimse oturup
+      metin  : belleğimin
+      duyulan: belleyimin
+  INSERT   ...başlangıçta birbirinden ayırt edilemez
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...kalanın ne olduğunu görürsünüz
+      metin  : tamus
+      duyulan: thomas
+  REPLACE  ...görünmezdir alman filozof martin
+      metin  : haydeger
+      duyulan: heidegger de
+  REPLACE  ...elin içinde adeta erimiştir
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...nasıl şekillendirdiğini fark edemezsiniz
+      metin  : haydeger
+      duyulan: haydegar
+  INSERT   ...edemezsiniz haydeger yıllar sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...belirli gözle görmeye başlarız
+      metin  : ren
+      duyulan: rennes
+  REPLACE  ...ren nehrini örnek verir
+      metin  : ren
+      duyulan: rennes
+  REPLACE  ...rezervi olarak yeniden tanımlanır
+      metin  : haydeger
+      duyulan: haydegar
+  DELETE   ...buna hazır kaynak der
+      metin  : her
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kadar doğal geldiğini düşünün
+      metin  : kelimenin
+      duyulan: yetilmenin
+  REPLACE  ...artık kimse tuhaf bulmuyor
+      metin  : haydeger in
+      duyulan: haydegar ın
+  INSERT   ...amerikalı psikolog abraham maslow
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...basmıştı elinizdeki tek alet
+      metin  : çekiçse
+      duyulan: çekitse
+  REPLACE  ...sayılacağını da belirler elinde
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...yanında derecede kalır i
+      metin  : çeriği
+      duyulan: çeriyi
+  REPLACE  ...devletler çağında yaşamış filozof
+      metin  : çuang tzu ye
+      duyulan: chuang tzuye
+  REPLACE  ...türkçe kaynaklarda anıldığı adla
+      metin  : çuang tzu ya
+      duyulan: chuang tzuye
+  REPLACE  ...kitapta küçük sahne vardır
+      metin  : konfüçyüs ün
+      duyulan: confucius un
+  REPLACE  ...neredeyze haksız tarafı var
+      metin  : çuang
+      duyulan: chuang
+  INSERT   ...i smail el cezeri
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...çektiğine dairdi i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...dairdi i bn haldun
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...izini taşır i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...dayanıklılığı aşındırır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...sesi yan yana koyun
+      metin  : çuang tzu
+      duyulan: çuantezu
+  INSERT   ...olduğunu gösteriyor i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...betsy sparrow ve meslektaşlarının
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nın taksi şoförlerinin beyinlerinde
+      metin  : hipokampüsün
+      duyulan: hippocampüsün
+  REPLACE  ...var sözleşmenin amerikalı psikolog
+      metin  : burrhus frederic
+      duyulan: burhus frederick
+  REPLACE  ...yataktan sökülüp alınması gibi
+      metin  : haydeger
+      duyulan: heidegger
+  INSERT   ...amerikalı eleştirmen neil postman
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gerekmiyor tamus yazıyı yasaklamadı
+      metin  : çuang
+      duyulan: çuan
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: felsefe-2026-09-12.duyulan.txt

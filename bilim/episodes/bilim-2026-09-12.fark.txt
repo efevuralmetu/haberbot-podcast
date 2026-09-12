@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-12.mp3
+
+beklenen 1617 kelime | duyulan 1632 kelime | eşleşme %97.0
+sayı ifadesi: metinde 226, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...duruyor bu hile değil
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...küçük sayılardan söz ediyoruz
+      metin  : raphael
+      duyulan: de rafael
+  REPLACE  ...hacimleri birleşimlerinin hacmini vermeli
+      metin  : henri lebeg
+      duyulan: henry lebesgue
+  REPLACE  ...o kuram var ama
+      metin  : cuzeppe vitali
+      duyulan: te giuseppe vitale
+  REPLACE  ...kümeler için tanımlı peki
+      metin  : vitali
+      duyulan: vitale
+  REPLACE  ...adı seçim aksiyomu ernst
+      metin  : tsermelo
+      duyulan: thermelo te
+  REPLACE  ...gerçekten farklı sonuç veriyor
+      metin  : feliks hausdorf
+      duyulan: felix hausdorff te
+  REPLACE  ...bulutu gibi noktalar kümesi
+      metin  : öyle
+      duyulan: öşle
+  INSERT   ...öneri ve ciddiye alındı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve ciddiye alındı robert
+      metin  : solovay
+      duyulan: soloway
+  REPLACE  ...temel taşlarından olan han
+      metin  : banah
+      duyulan: banach
+  REPLACE  ...daha zayıf biçimleer çekilir
+      metin  : solovay
+      duyulan: soloway
+  REPLACE  ...doğrusunda ve düzlemde çalışmıyor
+      metin  : kareyi
+      duyulan: karayı
+  REPLACE  ...dallanan hareket ağacını kuramıyorsunuz
+      metin  : con fon noyman
+      duyulan: konfon neumann da
+  INSERT   ...masum da değil tarski
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...soru yıl açık kaldı
+      metin  : mikloş latskoviç
+      duyulan: da miklos latskovich
+  INSERT   ...parçalar yine görünmezdi sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yine görünmezdi sonra andrew
+      metin  : marks
+      duyulan: marx
+  INSERT   ...kez parça sayısı üzeri
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...portakala dönelim güvenle soyabilirsiniz
+      metin  : banah tarski
+      duyulan: bana ters ki
+  REPLACE  ...noktadan oluşmuyor sonlu sayıda
+      metin  : atomdan
+      duyulan: atondan
+  REPLACE  ...asıl miras da burada
+      metin  : banah tarski
+      duyulan: bana ters ki
+  REPLACE  ...en verimli topraklarından çıktı
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 26 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: bilim-2026-09-12.duyulan.txt

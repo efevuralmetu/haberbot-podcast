@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-12.mp3
+
+beklenen 1444 kelime | duyulan 1449 kelime | eşleşme %95.7
+sayı ifadesi: metinde 171, duyulanda 128  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hayal eden adam hollywood
+      metin  : da
+      duyulan: ta
+  INSERT   ...de karabasanlarını resmeden ressamdı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...çekilmeden çöktü şilili yönetmen
+      metin  : alehandro
+      duyulan: alejandro
+  REPLACE  ...alehandro hodorovski frank herbert
+      metin  : in
+      duyulan: ın
+  REPLACE  ...mparator rolü için salvador
+      metin  : dalí
+      duyulan: dali
+  REPLACE  ...fransız çizgi roman ustası
+      metin  : möbiyus
+      duyulan: möbius
+  REPLACE  ...storyboardları çiziyordu i ngiliz
+      metin  : illüstratör
+      duyulan: i llustratör
+  REPLACE  ...içinde yaşında amerikalı vardı
+      metin  : dan
+      duyulan: don
+  REPLACE  ...bannon hodorovski john carpenter
+      metin  : la
+      duyulan: ile
+  REPLACE  ...resimleri siyah beyazdı airbrush
+      metin  : la
+      duyulan: ile
+  REPLACE  ...eden şey yapıyorlardı eti
+      metin  : makineyle
+      duyulan: makine ile
+  REPLACE  ...makineyle kemiği boruyla iskeleti
+      metin  : kabloyla
+      duyulan: kablo ile
+  REPLACE  ...bedeninden şey ekledi yıllardır
+      metin  : krohn
+      duyulan: kron
+  REPLACE  ...karnındaki ağrıyı ekrana taşımasıydı
+      metin  : metnin
+      duyulan: metin
+  REPLACE  ...senaryoda defalarca geçen sıradan
+      metin  : sözcüğe
+      duyulan: sözcüye
+  REPLACE  ...senaryo gordon carrol david
+      metin  : giler
+      duyulan: giller
+  INSERT   ...fox önce ilgilenmedi sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vardı fox senaryoyu onayladı
+      metin  : giler
+      duyulan: giller
+  REPLACE  ...insan olmayan bilim subayı
+      metin  : ash
+      duyulan: aşk
+  REPLACE  ...olarak henüz tek uzun
+      metin  : metrajı
+      duyulan: metracı
+  REPLACE  ...reklam filmlerinden gelen kendi
+      metin  : kadrajını
+      duyulan: kadracını
+  REPLACE  ...ve tarihli baskıda durdu
+      metin  : nekronom iv
+      duyulan: necronomoid
+  REPLACE  ...durdu nekronom iv yani
+      metin  : nekronom
+      duyulan: necronom
+  INSERT   ...ya geldi çekimler temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dağılan o ekipten isim
+      metin  : foss
+      duyulan: fos
+  REPLACE  ...ekipten isim foss ve
+      metin  : möbiyus
+      duyulan: möbius
+  REPLACE  ...buraya da uğradı gemi
+      metin  : siluetlerine
+      duyulan: silüetlerine
+  REPLACE  ...kuruyordu kemikler vücut kalıpları
+      metin  : kauçuk
+      duyulan: kavcuk
+  REPLACE  ...gördü ve yanına gitti
+      metin  : bolaji
+      duyulan: boloji
+  REPLACE  ...dikey duruş ve uzuvların
+      metin  : inceliğiydi
+      duyulan: inceliydi
+  REPLACE  ...dersleri aldırıldı kostümün baş
+      metin  : mekaniğini
+      duyulan: mekanini
+  REPLACE  ...i talyan efekt ustası
+      metin  : karlo
+      duyulan: carlo
+  REPLACE  ...senaryoda yazıyordu john hurt
+      metin  : ün
+      duyulan: un
+  REPLACE  ...çalıştırıldı teknik ekip naylonlara
+      metin  : sarınmıştı
+      duyulan: sarılmıştı
+  REPLACE  ...değil refleks tom skerritt
+      metin  : yaphet kotto
+      duyulan: yappet cotto
+  REPLACE  ...erkek tarafından oynanabilir bu
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...görüldüğü yer saniyelerle ölçülen
+      metin  : figürandı
+      duyulan: figurandı
+  INSERT   ...prosedürü ciddiye almasından gelir
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...karakter oldu alien mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...en iyi görsel efekt
+      metin  : dalında
+      duyulan: alında
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: film-2026-09-12.duyulan.txt

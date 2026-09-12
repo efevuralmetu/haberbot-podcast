@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-12.mp3
+
+beklenen 1166 kelime | duyulan 1175 kelime | eşleşme %98.5
+sayı ifadesi: metinde 115, duyulanda 100  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...görüşme dediğinizde de çalışıyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...asan herkesin içini acıtacak
+      metin  : cinstendi
+      duyulan: cinslendi
+  INSERT   ...oluyor bunun adı var
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adı var psikolog jack
+      metin  : brehm
+      duyulan: bram
+  REPLACE  ...brehm bu kalıba psikolojik
+      metin  : reaktans
+      duyulan: reactans
+  INSERT   ...var ve karıştırmamak önemli
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve karıştırmamak önemli daniel
+      metin  : wegner
+      duyulan: wegener
+  REPLACE  ...i yi haber şu
+      metin  : reaktansı
+      duyulan: reactansı
+  REPLACE  ...cümleler kurmuş oldu kendi
+      metin  : kulağıyla
+      duyulan: kulayla
+  REPLACE  ...gerekiyor ekran uykuyu geciktiriyor
+      metin  : arasındaki
+      duyulan: asındaki
+  REPLACE  ...seçenek emri kapıya bölmek
+      metin  : reaktansı
+      duyulan: reactansı
+  REPLACE  ...kendinize de uygulayabilirsiniz çünkü
+      metin  : reaktans
+      duyulan: reactans
+  REPLACE  ...konuşmayı kesmektir seçenek bırakan
+      metin  : kişiyze
+      duyulan: kişi ize
+  REPLACE  ...öğrenir orada ne yazdığını
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 11 kelime | duyulup metinde OLMAYAN: 18
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-09-12.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-11.mp3
+
+beklenen 1406 kelime | duyulan 1389 kelime | eşleşme %94.0
+sayı ifadesi: metinde 291, duyulanda 154  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ın ürdün deki abd
+      metin  : üssüne
+      duyulan: üstüne
+  REPLACE  ...de ordu taiz ile
+      metin  : muha arasındaki karayolunu
+      duyulan: muharrası ndaki kara yolunu
+  REPLACE  ...yemen ulusal savunma konseyi
+      metin  : husilerin
+      duyulan: hussilerin
+  INSERT   ...değerlendiriliyor gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu yana geçen sürede
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ın başkenti delhi de
+      metin  : brics
+      duyulan: briggs
+  REPLACE  ...piyush goyal ize rusya
+      metin  : ile
+      duyulan: yla
+  INSERT   ...ticareti dolara karşılıklı yatırımları
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...kadar dolara çıkarma hedefini
+      metin  : yineledi
+      duyulan: yeniledi
+  INSERT   ...tamamı senato nun sandalyesinden
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...ın oranı eylül ölçümlerinde
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...eylül ölçümlerinde onaylamayanların oranı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...platformu hugging face i
+      metin  : dolara
+      duyulan: dolar
+  REPLACE  ...geçici olarak durdurdu openai
+      metin  : ın
+      duyulan: in
+  REPLACE  ...openai ın finans direktörü
+      metin  : sarah
+      duyulan: sara
+  REPLACE  ...başlık öne çıkıyor şirket
+      metin  : biyolojik
+      duyulan: biolojik
+  REPLACE  ...biyolojik silah geliştirmeye yönelik
+      metin  : kötüye
+      duyulan: beşkötüye
+  REPLACE  ...damıtma saldırısı düzenlediğini açıkladı
+      metin  : öte yandan
+      duyulan: blateyan dan
+  REPLACE  ...altyapısına doların üzerinde harcama
+      metin  : taahhüdü
+      duyulan: tahüdü
+  REPLACE  ...taahhüdü verdiğini bildirdi google
+      metin  : ceminay nokta
+      duyulan: gemini
+  DELETE   ...duyurdu abd adalet bakanlığı
+      metin  : nvidia nın geçen aralık ayında groq ile yaptığı ve ila dolar aralığında olduğu bildirilen çıkarım çipi lisans anlaşmasının otomatik birleşme incelemesinden kaçınmak için yapılandırılıp yapılandırılmadığını soruşturuyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yapılandırılıp yapılandırılmadığını soruşturuyor microsoft
+      metin  : da
+      duyulan: ta
+  REPLACE  ...aldı küresel piyasalarda yön
+      metin  : petrolle
+      duyulan: petrol ile
+  INSERT   ...etti ve son ayda
+      metin  : (yok)
+      duyulan: not
+  REPLACE  ...jones puan yani geriledi
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...ardından piyasalar federal reserve
+      metin  : ün
+      duyulan: ın
+  REPLACE  ...reserve ün gelecek hafta
+      metin  : baz
+      duyulan: bas
+  INSERT   ...repo ihale faiz oranını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...korundu böylece ocak ayındaki
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...ize reddederek tavrım açık
+      metin  : aklın
+      duyulan: taklın
+  REPLACE  ...özgür özel i bilgilendirdiğini
+      metin  : belirtti
+      duyulan: belirdi
+  INSERT   ...hukuk dairesi nin mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tatil nedeniyle eylüle kalan
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...ye dönmeyeceğini ve yeni
+      metin  : parti ile
+      duyulan: partiyle
+  REPLACE  ...daha önce bu kez
+      metin  : beraat
+      duyulan: berat
+  REPLACE  ...bakanı nın da katılacağı
+      metin  : ti sk zirvesi nde
+      duyulan: tizsik zirvesinde
+  REPLACE  ...ardından sinop ta iş
+      metin  : dünyasıyla
+      duyulan: dünyası ile
+  REPLACE  ...iş dünyasıyla araya gelecek
+      metin  : tüi
+      duyulan: tüdi
+  REPLACE  ...kurultay bulunuyor federal reserve
+      metin  : ün
+      duyulan: ın
+  REPLACE  ...yönünü belirleyecek delhi deki
+      metin  : brics zirvesi nden
+      duyulan: bric zirvesinden
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 67 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: gundem-2026-09-11.duyulan.txt

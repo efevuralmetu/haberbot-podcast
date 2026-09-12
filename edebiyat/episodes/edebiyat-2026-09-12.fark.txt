@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-12.mp3
+
+beklenen 1565 kelime | duyulan 1583 kelime | eşleşme %94.2
+sayı ifadesi: metinde 267, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...saklamıştı yılının mart günü
+      metin  : floransa
+      duyulan: florence
+  REPLACE  ...baş yargıcı kante de
+      metin  : gabrielli
+      duyulan: gabrieli
+  REPLACE  ...sıralanıyordu ve bu isimlerden
+      metin  : o
+      duyulan: yoho
+  REPLACE  ...kadar ateşte yakılacaklardı malları
+      metin  : müsadeer
+      duyulan: müsaade
+  REPLACE  ...edilecek evleri yıkılacaktı dante
+      metin  : aligyeri
+      duyulan: aligeri
+  REPLACE  ...açılmadı bu kararın öncesinde
+      metin  : floransa nın
+      duyulan: florence anın
+  REPLACE  ...ama yönetimi elinde tutan
+      metin  : guelf
+      duyulan: guelph
+  REPLACE  ...isteyen siyahlar öte yanda
+      metin  : floransa nın
+      duyulan: florence anın
+  REPLACE  ...en yakın şair guido
+      metin  : kavalkanti
+      duyulan: cavalcanti
+  REPLACE  ...guido kavalkanti de vardı
+      metin  : kavalkanti
+      duyulan: cavalcanti
+  REPLACE  ...sonbaharında fransa kralının kardeşi
+      metin  : şarl dö valua
+      duyulan: charles de valois
+  REPLACE  ...barış getirmek üzeer ordusuyla
+      metin  : toskana
+      duyulan: toscana
+  REPLACE  ...ya yürüdü kasım ayında
+      metin  : floransa ya
+      duyulan: florence a
+  REPLACE  ...olarak roma da papa
+      metin  : bonifatsius
+      duyulan: viii bonifatius
+  REPLACE  ...edecek gücün yanı başındaydı
+      metin  : floransa ya
+      duyulan: florence a
+  INSERT   ...dönerse tutuklanacağını biliyordu ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uzaklık kamu görevlerinden ömür
+      metin  : boyu men
+      duyulan: boyumendi
+  INSERT   ...kararın siyasi olduğu aradan
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...aradan geçtikten sonra bile
+      metin  : floransa
+      duyulan: floranza
+  REPLACE  ...verona ya gitti della
+      metin  : skala
+      duyulan: scala
+  REPLACE  ...skala ailesinin konuğu oldu
+      metin  : bolonya
+      duyulan: bologna
+  REPLACE  ...da malaspina beylerinin yanında
+      metin  : kazentino
+      duyulan: casentino
+  INSERT   ...beceriksizliğinden ve hırsından bıkmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hırsından bıkmıştı kapı açıldı
+      metin  : floransa
+      duyulan: floranza
+  REPLACE  ...dileyecekti dante bunu reddetti
+      metin  : floransa
+      duyulan: floranza
+  REPLACE  ...artık oğulları pietro ile
+      metin  : yakopo
+      duyulan: jacopo
+  INSERT   ...kitabını yazdırdı eğer dante
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aldı sonra dev şiirini
+      metin  : toskana
+      duyulan: toscana
+  REPLACE  ...bugün bildiğimiz adı divina
+      metin  : kommedya
+      duyulan: commedia
+  REPLACE  ...adı divina kommedya yani
+      metin  : i lahi komedya
+      duyulan: ilahi komedia
+  REPLACE  ...ölümünden sonra takılmış sıfattır
+      metin  : bokaçço
+      duyulan: bocaccio
+  INSERT   ...hayranlığından doğmuş başlığa ize
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ilk bölümde diğer ikisinde
+      metin  : (yok)
+      duyulan: er
+  REPLACE  ...olarak kendisini sürgünden önceki
+      metin  : floransa
+      duyulan: florensa
+  REPLACE  ...dokunaklı yerlerinden budur atası
+      metin  : kaççaguida
+      duyulan: caçagui da
+  INSERT   ...gençliğinde uzaktan sevdiği ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çok genç yaşta ölen
+      metin  : beatriçe
+      duyulan: beatrice
+  REPLACE  ...götüren zincirin halkalarından olan
+      metin  : bonifatsius
+      duyulan: bonifatius
+  REPLACE  ...tamamladıktan kısa süer sonra
+      metin  : venediğe
+      duyulan: venedi ye
+  INSERT   ...sıtmasına yakalandı ve eylül
+      metin  : (yok)
+      duyulan: de
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 74 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: edebiyat-2026-09-12.duyulan.txt

@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-12.mp3
+
+beklenen 2544 kelime | duyulan 2535 kelime | eşleşme %99.0
+sayı ifadesi: metinde 146, duyulanda 123  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...to add up no
+      metin  : (yok)
+      duyulan: inconvenience is needed no
+  REPLACE  ...physics but in giuseppe
+      metin  : vitali
+      duyulan: vitale
+  REPLACE  ...enough so how did
+      metin  : vitali
+      duyulan: vitale
+  REPLACE  ...exists and falls silent
+      metin  : vitali
+      duyulan: vitaly
+  REPLACE  ...taken seriously in robert
+      metin  : solovay
+      duyulan: solovey
+  REPLACE  ...number line is measurable
+      metin  : vitali
+      duyulan: vitaly
+  REPLACE  ...work inside the universe
+      metin  : solovay
+      duyulan: solovey
+  REPLACE  ...by far moer laborious
+      metin  : routes
+      duyulan: roots
+  REPLACE  ...rotations and translations behave
+      metin  : too compatibly
+      duyulan: compatibility
+  REPLACE  ...can you cut a
+      metin  : disc
+      duyulan: disk
+  REPLACE  ...open for years in
+      metin  : miklós laczkovich
+      duyulan: miklos lakskovic
+  REPLACE  ...carried out with describable
+      metin  : constructible
+      duyulan: constructable
+  REPLACE  ...it in perfect safety
+      metin  : banach
+      duyulan: benik
+  REPLACE  ...legacy lies right heer
+      metin  : banach
+      duyulan: benik
+  DELETE   ...fertile grounds in mathematics
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 18
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-09-12.duyulan.txt

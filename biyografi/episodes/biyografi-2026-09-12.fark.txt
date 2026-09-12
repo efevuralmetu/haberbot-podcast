@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-12.mp3
+
+beklenen 2455 kelime | duyulan 2482 kelime | eşleşme %96.0
+sayı ifadesi: metinde 333, duyulanda 245  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ilanında ortaya çıktı şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nüfus kayıtlarına adı vivian
+      metin  : dorothy mayer
+      duyulan: dorothee meyer
+  REPLACE  ...da habercisiydi annesi maria
+      metin  : josso
+      duyulan: jossot
+  REPLACE  ...gelmiş göçmendi babası charles
+      metin  : mayer
+      duyulan: meyer
+  REPLACE  ...kızını ilginç adreste buluyor
+      metin  : jan bertran
+      duyulan: jean bertrand
+  REPLACE  ...bertran adlı kadının evinde
+      metin  : bertran
+      duyulan: bertrand
+  REPLACE  ...gördüğü şeyler hafızaya nasıl
+      metin  : kazınır
+      duyulan: kazanır
+  INSERT   ...new york ta tutunamayınca
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yer ot alp bölgesinde
+      metin  : şansor vadisine
+      duyulan: chansor vadisi ne
+  REPLACE  ...bölgesinde şansor vadisine kurulmuş
+      metin  : sen bone an şansor
+      duyulan: saint bon anne chansor
+  REPLACE  ...kasabaydı bundan sonra kısaca
+      metin  : sen bone
+      duyulan: saint bon
+  REPLACE  ...arasında bölünmüş çocukluğun kalıntısıydı
+      metin  : sen bone
+      duyulan: saint bon
+  REPLACE  ...ailesinin köküydü vivian ın
+      metin  : anneannesi
+      duyulan: anneanesi
+  INSERT   ...erken dağılma da vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve çektiği kareler bulanıktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...durmadan fotoğraf çekti sen
+      metin  : bone nin
+      duyulan: bonnen in
+  INSERT   ...sattı parayı aldı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şehirde dolaşmanın meşru bahaneleriydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...meşgul zararsız kadın görüyordu
+      metin  : deklanşör
+      duyulan: declencheur
+  INSERT   ...dürüst bakan gözü vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...chicago nun kuzeyindeki varlıklı
+      metin  : banliyöleer
+      duyulan: banmiyoleer
+  REPLACE  ...denen bölgeye taşındı ve
+      metin  : gensburg
+      duyulan: gansburg
+  REPLACE  ...aynanın içinde makineye eğilmiş
+      metin  : silueti
+      duyulan: silüeti
+  INSERT   ...de araya cam koymak
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...uçaklara aylar süren yolculuğunda
+      metin  : filipinler e
+      duyulan: filipinleer
+  REPLACE  ...makinesi ve filmleri vardı
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...filmleri vardı ellilerin sonunda
+      metin  : otuzlarında
+      duyulan: larında
+  INSERT   ...gensburg ların yanındaki yıllar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ilerledikçe iş bulmak zorlaştı
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...iş bulmak zorlaştı ve
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...bırakmadı ama fotoğrafı değişti
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...kenarlı şapkasıyla mahallede tanınan
+      metin  : siluetti
+      duyulan: silüetti
+  REPLACE  ...devreye girdi ve chicago
+      metin  : nun
+      duyulan: un
+  REPLACE  ...eşyaların hepsi o daireye
+      metin  : sığmıyordu
+      duyulan: dönüyordu
+  INSERT   ...ödenmesi gereken bedeli vardı
+      metin  : (yok)
+      duyulan: ki ye
+  DELETE   ...şirket bölmeyi açar içindekileri
+      metin  : satar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...chicago da müzayede düzenleyen
+      metin  : rpn
+      duyulan: rapey
+  REPLACE  ...çıkardı salondaki alıcılardan john
+      metin  : maloof
+      duyulan: maluf
+  REPLACE  ...alıcılardan john maloof adında
+      metin  : genç
+      duyulan: hiçbir
+  REPLACE  ...maloof adında genç emlakçıydı
+      metin  : maloof
+      duyulan: maluf
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: biyografi-2026-09-12.duyulan.txt

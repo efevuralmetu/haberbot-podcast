@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-12.mp3
+
+beklenen 2672 kelime | duyulan 2677 kelime | eşleşme %94.9
+sayı ifadesi: metinde 382, duyulanda 260  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...donar türkmenler buraya gonur
+      metin  : depe
+      duyulan: tepe
+  REPLACE  ...bilmiyordu o arkeolog viktor
+      metin  : sarianidi ydi
+      duyulan: saryanidiydi da
+  REPLACE  ...annesi athena ve babası
+      metin  : yoannis yirmilerde
+      duyulan: yohannes lerde
+  REPLACE  ...orta asya ya göçmüşlerdi
+      metin  : sarianidi
+      duyulan: saryanidiydi
+  INSERT   ...bilim adamı olarak yetişti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kurumuna girdi doktora tezini
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bırakılmış bölgelerine harcamayı seçmişti
+      metin  : sarianidi nin
+      duyulan: saryanidinin
+  DELETE   ...gonur değil afganistan oldu
+      metin  : tillya tepe
+      duyulan: (YOK — atlanmış)
+  INSERT   ...oldu tillya tepe de
+      metin  : (yok)
+      duyulan: tilya tepede
+  REPLACE  ...altınları adını taktı ve
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...vermişti türkmenistan ın güneyinde
+      metin  : murgab
+      duyulan: murgap
+  REPLACE  ...kaybolduğu eski delta düzlüğüne
+      metin  : murgab
+      duyulan: murgap
+  REPLACE  ...edilmiş ötede yenileri kurulmuştu
+      metin  : sarianidi
+      duyulan: saryanidi te
+  INSERT   ...sonbaharı bu deltada geçirdi
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...deltada geçirdi gelindiğinde bölgede
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ama asıl mesele şuydu
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...ad önerdi bugün literatürde
+      metin  : baktriya
+      duyulan: bactria
+  REPLACE  ...geçen daha kısa haliyle
+      metin  : oksus
+      duyulan: oksuz
+  REPLACE  ...teklif hiç kolay karşılanmadı
+      metin  : sarianidi nin
+      duyulan: saryanidinin
+  REPLACE  ...anlattığı hikayeden ibaret kaldı
+      metin  : sarianidi
+      duyulan: saryanidi
+  INSERT   ...hektar sayılıyor bu alandan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...yalar yağmur köşeleri yuvarlar
+      metin  : sarianidi nin
+      duyulan: saryanidinin
+  INSERT   ...kuzey dediği bölüm kabaca
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...sıra duvarla çevrili yaklaşık
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...yaklaşık metrelik yapı vardır
+      metin  : sarianidi
+      duyulan: saryanid i
+  REPLACE  ...düzenin adı da vardı
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...kaynaklardaki marguş ile eşleştirdi
+      metin  : ahameniş
+      duyulan: ahomeniş
+  REPLACE  ...diye anılır avesta metinlerinde
+      metin  : mouru
+      duyulan: moru
+  REPLACE  ...mouru olarak geçer yunanlıların
+      metin  : margiana
+      duyulan: marciana
+  REPLACE  ...doğrudan i ndus motiflerini
+      metin  : yineler
+      duyulan: yeneler
+  REPLACE  ...bireylerde ize güney asya
+      metin  : ile
+      duyulan: yla
+  INSERT   ...arasında yaşadığını söyler bu
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...ne ev ne depodur
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...bu yapıların içinde başlar
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...rakamı kesin envanter değil
+      metin  : sarianidi nin
+      duyulan: saryanidinin
+  REPLACE  ...literatürde temenos diye geçer
+      metin  : sarianidi
+      duyulan: saryanid i
+  REPLACE  ...sarianidi burayı ve yakındaki
+      metin  : togolok
+      duyulan: togolog
+  REPLACE  ...içinde seramik kaplar bulunmuştu
+      metin  : sarianidi
+      duyulan: saryanid i
+  REPLACE  ...yapılır rahipler tarafından hazırlanır
+      metin  : ayin
+      duyulan: ayın
+  REPLACE  ...bu bitkinin ne olduğu
+      metin  : yüzyıldır
+      duyulan: yıldır
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: arkeoloji-2026-09-12.duyulan.txt

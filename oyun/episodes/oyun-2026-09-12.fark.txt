@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-12.mp3
+
+beklenen 1514 kelime | duyulan 1526 kelime | eşleşme %96.3
+sayı ifadesi: metinde 202, duyulanda 152  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tasarımcısı ize son anda
+      metin  : faks
+      duyulan: fax
+  REPLACE  ...çiftlik binalarında başlar burası
+      metin  : raer di
+      duyulan: raredi
+  REPLACE  ...sırada donkey kong country
+      metin  : yi
+      duyulan: i
+  INSERT   ...kadro kişiydi bu kişinin
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...çlerinden david doak raer
+      metin  : e
+      duyulan: ye
+  REPLACE  ...gelmemişti bile doak ın
+      metin  : biyokimya
+      duyulan: bio kimya
+  REPLACE  ...toplandı arka plan sanatçısı
+      metin  : karl
+      duyulan: carl
+  REPLACE  ...nun yeni kumandasındaki analog
+      metin  : çubuk da
+      duyulan: çubukta
+  INSERT   ...oyun hala bitmemişti ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...proje buçuk yılı aşacaktı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...in kendi ifadesiyle o
+      metin  : aya
+      duyulan: ayağa
+  REPLACE  ...bunun mümkün olmasının sebebi
+      metin  : raer
+      duyulan: rari
+  REPLACE  ...çağırıyor ve planda olmayan
+      metin  : üstelik
+      duyulan: büstelik
+  REPLACE  ...işin kritik ayrıntısı şudur
+      metin  : gösterilen
+      duyulan: gösterebilen
+  REPLACE  ...gösterilecek hiçbir veri yoktur
+      metin  : goldeneye ın
+      duyulan: golden age in
+  REPLACE  ...yıl kaçırması en büyük
+      metin  : armağanının önkoşuluydu
+      duyulan: armağanın ön koşuluydu
+  REPLACE  ...tamamlanmaya yaklaşırken japonya dan
+      metin  : faks
+      duyulan: fax
+  REPLACE  ...dan faks geldi gönderen
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...göer oyundaki öldürme fazla
+      metin  : yakındandı
+      duyulan: yakınlandı
+  REPLACE  ...miyamoto nun içine sinmiyordu
+      metin  : faksında
+      duyulan: faxında
+  DELETE   ...oynadıkları rollerle birlikte sıralanıyordu
+      metin  : fikir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kimse çok şey beklemiyordu
+      metin  : basın
+      duyulan: bass ın
+  REPLACE  ...üzerinde sattı ve nintendo
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...ve mario kart vardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...doak hilton ve müzisyen
+      metin  : graeme
+      duyulan: grime
+  REPLACE  ...ve müzisyen graeme norgate
+      metin  : raer
+      duyulan: da ryer
+  REPLACE  ...stüdyolarını kurdular orada yaptıkları
+      metin  : timesplitters
+      duyulan: timesplitter
+  REPLACE  ...hızlı daha abartılı devamıydı
+      metin  : raer
+      duyulan: ryer
+  INSERT   ...dark ı çıkardı hollis
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...listesinde değil alışkanlıkta goldeneye
+      metin  : dan
+      duyulan: den
+  REPLACE  ...nintendo filmin sahipleri ve
+      metin  : raer i
+      duyulan: de ryer yi
+  INSERT   ...halde kaldı ve goldeneye
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...goldeneye yıllarca yeniden yayımlanamadı
+      metin  : raer in
+      duyulan: de ryer nin
+  INSERT   ...modern sürüm taraflardan vermeyince
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...düğüm yüzünden neredeyze çeyrek
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...düğüm nihayet çözüldüğünde ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olan o aylık işti
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: oyun-2026-09-12.duyulan.txt
