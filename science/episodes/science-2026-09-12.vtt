@@ -1,0 +1,721 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.010
+There is an orange in your hand.
+
+2
+00:00:03.010 --> 00:00:11.140
+You split it into five pieces; you do not stretch, crush or multiply any of them — you only rotate them and swap their places.
+
+3
+00:00:11.140 --> 00:00:16.870
+In the end two oranges, exact copies of each other, are sitting on the table.
+
+4
+00:00:16.870 --> 00:00:21.960
+This is not a trick, but a theorem proven in nineteen twenty-four.
+
+5
+00:00:30.160 --> 00:00:33.010
+There's an orange sitting on the table.
+
+6
+00:00:33.010 --> 00:00:37.300
+Its weight in your palm, the pores of its peel under your fingertips.
+
+7
+00:00:37.300 --> 00:00:39.670
+It even has a scent.
+
+8
+00:00:39.670 --> 00:00:45.240
+Now suppose I tell you this: I can separate this orange into five pieces.
+
+9
+00:00:45.240 --> 00:00:57.050
+Without stretching the pieces, without straining them, without enlarging any of them, without adding any new matter to any of them, I will simply turn them in the air, slide them around, and put them back together.
+
+10
+00:00:57.050 --> 00:01:01.020
+And when the work is done, there will be two oranges on the table.
+
+11
+00:01:01.020 --> 00:01:04.510
+Both of them exactly the size of the one we started with.
+
+12
+00:01:04.510 --> 00:01:07.840
+Both of them solid, poreless, complete.
+
+13
+00:01:07.840 --> 00:01:13.090
+Everyone who hears this has the same first reaction: there's a trick in here somewhere.
+
+14
+00:01:13.090 --> 00:01:20.900
+Either the pieces are stretching, or invisible gaps are slipping in between them, or the person speaking has a second orange hidden in their pocket.
+
+15
+00:01:20.900 --> 00:01:26.150
+Because this claim collides with one of the most basic things you have learned in your entire life.
+
+16
+00:01:26.150 --> 00:01:32.040
+When you cut something apart and put it back together, you are left with as much as you started with.
+
+17
+00:01:32.040 --> 00:01:36.650
+Cut a cake into eight slices and the cake is still exactly as much cake.
+
+18
+00:01:36.650 --> 00:01:38.860
+Volume is conserved.
+
+19
+00:01:38.860 --> 00:01:45.550
+This isn't a belief, it's an observation; and that observation has not misled you even once, ever.
+
+20
+00:01:45.550 --> 00:01:49.520
+But what I just described is not a conjuring trick.
+
+21
+00:01:49.520 --> 00:01:51.730
+It's a theorem.
+
+22
+00:01:51.730 --> 00:01:58.580
+In nineteen twenty-four, two Polish mathematicians, Stefan Banach and Alfred Tarski, proved it in a joint paper.
+
+23
+00:01:58.580 --> 00:02:04.310
+In the world of mathematics the result is known by their names: the Banach-Tarski paradox.
+
+24
+00:02:04.310 --> 00:02:10.360
+Pay attention to the word "paradox" here, because it invites misunderstanding.
+
+25
+00:02:10.360 --> 00:02:18.650
+In mathematics, a paradox does not mean "there is a contradiction in the system." It means "the result is true,
+
+26
+00:02:18.650 --> 00:02:26.140
+but your intuition cannot bear it." And the difference between those two sits at the heart of everything I am about to tell you.
+
+27
+00:02:26.140 --> 00:02:33.790
+First let's make the rules of the game clear, because until the rules are clear the claim looks either like magic or like nonsense.
+
+28
+00:02:33.790 --> 00:02:38.720
+For a mathematician, a ball is not an object made of paper or of orange.
+
+29
+00:02:38.720 --> 00:02:41.250
+It's a set of points.
+
+30
+00:02:41.250 --> 00:02:46.660
+The totality of all points whose distance from the center is less than some given number.
+
+31
+00:02:46.660 --> 00:02:49.670
+A solid sphere.
+
+32
+00:02:49.670 --> 00:02:56.200
+It contains infinitely many points; so many that even trying to count that infinity would be meaningless.
+
+33
+00:02:56.200 --> 00:03:04.170
+"Cutting into pieces," then, means this: you divide this set of points into subsets that never overlap one another.
+
+34
+00:03:04.170 --> 00:03:11.020
+Every point goes into exactly one piece, none of them sits in two pieces at once, none of them is left out.
+
+35
+00:03:11.020 --> 00:03:19.790
+Don't imagine a knife; think instead of picking up every single point inside the ball, one by one, and placing each one into one of five separate boxes.
+
+36
+00:03:19.790 --> 00:03:22.960
+"Moving" is the strictest rule of all.
+
+37
+00:03:22.960 --> 00:03:27.410
+The only thing permitted is rigid motion: translation and rotation.
+
+38
+00:03:27.410 --> 00:03:33.140
+You take the piece as a whole and carry it somewhere else, or you turn it about an axis.
+
+39
+00:03:33.140 --> 00:03:38.550
+No stretching, no squeezing, no rescaling; not even mirroring is needed.
+
+40
+00:03:38.550 --> 00:03:43.960
+The distance between any two points inside a piece remains exactly the same after the motion.
+
+41
+00:03:43.960 --> 00:03:48.410
+This is nothing more than sliding a cup from one end of the table to the other.
+
+42
+00:03:48.410 --> 00:03:59.260
+And here is what the theorem says: you can divide a solid sphere into finitely many pieces and, using only these two kinds of motion, obtain two spheres, each an exact twin of the first.
+
+43
+00:03:59.260 --> 00:04:04.190
+And when we say "finitely many," we really are talking about small numbers.
+
+44
+00:04:04.190 --> 00:04:10.240
+In nineteen forty-seven Raphael Robinson showed that the job can be done with five pieces.
+
+45
+00:04:10.240 --> 00:04:14.050
+What's more, he proved that you cannot go below five.
+
+46
+00:04:14.050 --> 00:04:19.300
+If you leave the single point at the center out of the account, four pieces are enough.
+
+47
+00:04:19.300 --> 00:04:24.870
+So this is not some trick that requires millions of pieces, that runs away to infinity.
+
+48
+00:04:24.870 --> 00:04:28.680
+As many pieces as the fingers on one hand.
+
+49
+00:04:28.680 --> 00:04:32.010
+Now let's ask the uncomfortable question.
+
+50
+00:04:32.010 --> 00:04:37.260
+If the pieces do not stretch, then the volume of each piece must stay the same after the motion.
+
+51
+00:04:37.260 --> 00:04:42.030
+Add up the volumes of the five pieces and you should get the volume of one ball.
+
+52
+00:04:42.030 --> 00:04:48.560
+But those same five pieces, once they have changed places, give the volume of two balls.
+
+53
+00:04:48.560 --> 00:04:53.010
+A number cannot be equal both to itself and to twice itself.
+
+54
+00:04:53.010 --> 00:04:56.180
+Somewhere in here, something is wrong.
+
+55
+00:04:56.180 --> 00:04:59.670
+And the thing that is wrong is not where you would guess.
+
+56
+00:04:59.670 --> 00:05:02.520
+The motions are flawless.
+
+57
+00:05:02.520 --> 00:05:05.210
+The number of pieces is finite.
+
+58
+00:05:05.210 --> 00:05:07.740
+The sphere really is a sphere.
+
+59
+00:05:07.740 --> 00:05:16.990
+The assumption that collapses is hidden in that small word we used while building the sentence without ever noticing it: "volume." Those five pieces have no volume.
+
+60
+00:05:16.990 --> 00:05:21.760
+Not zero, not very small, not too complicated to be measured.
+
+61
+00:05:21.760 --> 00:05:25.250
+No number called volume can be assigned to them at all.
+
+62
+00:05:25.250 --> 00:05:30.500
+And because there is nothing to add up, no inconsistency arises in the total either.
+
+63
+00:05:30.500 --> 00:05:35.750
+The idea of a body with no volume sounds like word play the first time you hear it.
+
+64
+00:05:35.750 --> 00:05:43.080
+But it is a very concrete obstacle that mathematics discovered by stumbling into it at the beginning of the twentieth century.
+
+65
+00:05:43.080 --> 00:05:45.770
+The story begins with an ambition.
+
+66
+00:05:45.770 --> 00:05:52.620
+At the end of the nineteenth century mathematicians wanted to set length, area and volume on solid foundations.
+
+67
+00:05:52.620 --> 00:05:58.670
+The aim was bold: to find a rule that assigns a volume number to every subset of space.
+
+68
+00:05:58.670 --> 00:06:02.320
+That rule had to satisfy three reasonable demands.
+
+69
+00:06:02.320 --> 00:06:06.290
+The volume of a cube should come out the way we know it.
+
+70
+00:06:06.290 --> 00:06:09.940
+Moving a body should not change its volume.
+
+71
+00:06:09.940 --> 00:06:14.870
+And the volumes of two disjoint pieces should add up to the volume of their union.
+
+72
+00:06:14.870 --> 00:06:25.560
+The measure theory developed by Henri Lebesgue did this with astonishing success; today that theory lies beneath integral calculus, beneath probability theory, beneath half of physics.
+
+73
+00:06:25.560 --> 00:06:30.330
+But in nineteen oh five Giuseppe Vitali revealed the limit of that ambition.
+
+74
+00:06:30.330 --> 00:06:37.020
+On the number line he constructed a set such that assigning any length whatsoever to it led directly to a contradiction.
+
+75
+00:06:37.020 --> 00:06:42.270
+Saying zero didn't work, and saying a positive number didn't work either.
+
+76
+00:06:42.270 --> 00:06:46.080
+The set lay outside the reach of the concept of length.
+
+77
+00:06:46.080 --> 00:06:49.890
+Sets like these came to be called non-measurable sets.
+
+78
+00:06:49.890 --> 00:06:58.180
+And from that day on, mathematicians had to accept the following: volume is not a property defined for everything.
+
+79
+00:06:58.180 --> 00:07:02.150
+It is defined only for sets that are "well behaved" enough.
+
+80
+00:07:02.150 --> 00:07:05.480
+So how did Vitali build such a monster?
+
+81
+00:07:05.480 --> 00:07:09.770
+This is the point on which the whole story turns.
+
+82
+00:07:09.770 --> 00:07:13.100
+Imagine infinitely many boxes.
+
+83
+00:07:13.100 --> 00:07:15.950
+Inside each box there is at least one ball.
+
+84
+00:07:15.950 --> 00:07:20.560
+You are asked to choose one ball from each box and put it into a new bag.
+
+85
+00:07:20.560 --> 00:07:22.930
+It sounds innocent.
+
+86
+00:07:22.930 --> 00:07:28.660
+If the boxes are finite in number there is no problem at all; you go one by one and take them.
+
+87
+00:07:28.660 --> 00:07:40.950
+If the boxes are infinite but you have a rule for making the choice, again there is no problem; you can say, for instance, "take the smallest ball in each box," and the rule makes all the choices at once on your behalf.
+
+88
+00:07:40.950 --> 00:07:44.600
+But what if the boxes are infinite and no rule works?
+
+89
+00:07:44.600 --> 00:07:52.410
+What if the contents of the boxes are arranged in such a way that saying "the smallest," "the leftmost," "the first" has no meaning at all?
+
+90
+00:07:52.410 --> 00:07:58.780
+Then, in order to claim that this bag exists, you have to add it to mathematics as a separate assumption.
+
+91
+00:07:58.780 --> 00:08:02.430
+The name of that assumption is the Axiom of Choice.
+
+92
+00:08:02.430 --> 00:08:12.480
+Ernst Zermelo formulated it explicitly in nineteen oh four, and from the moment it was published it caused controversy, because it can never show you the object it declares to exist.
+
+93
+00:08:12.480 --> 00:08:15.010
+It does not describe the bag to you.
+
+94
+00:08:15.010 --> 00:08:19.940
+It merely says "such a bag exists," and falls silent.
+
+95
+00:08:19.940 --> 00:08:23.910
+Vitali's non-measurable set is exactly such a bag.
+
+96
+00:08:23.910 --> 00:08:27.240
+And so are Banach and Tarski's five pieces.
+
+97
+00:08:27.240 --> 00:08:34.730
+Now let's look at what is going on inside the sphere, because the mechanism itself is even more astonishing than the non-measurability.
+
+98
+00:08:34.730 --> 00:08:38.060
+The key is hidden in the rotations that turn the sphere.
+
+99
+00:08:38.060 --> 00:08:43.790
+Choose two rotations; let their axes be different and their angles carefully tuned.
+
+100
+00:08:43.790 --> 00:08:50.960
+By applying these two rotations and their inverses one after another, you can generate infinitely many different motions.
+
+101
+00:08:50.960 --> 00:08:59.410
+The critical property is this: none of these sequences of motion, unless they cancel one another out, brings the sphere back to where it started.
+
+102
+00:08:59.410 --> 00:09:03.700
+Every different sequence genuinely gives a different result.
+
+103
+00:09:03.700 --> 00:09:11.670
+Felix Hausdorff noticed this structure in nineteen fourteen and built the first paradoxical decomposition on the surface of a sphere;
+
+104
+00:09:11.670 --> 00:09:18.520
+ten years later Banach and Tarski followed the road he had opened and carried it over to the solid ball.
+
+105
+00:09:18.520 --> 00:09:24.890
+This family of motions is itself a countable infinity, and it branches out like a hierarchical tree.
+
+106
+00:09:24.890 --> 00:09:35.260
+Now sort all these sequences into four groups according to their first letter: those beginning with the first rotation, those beginning with its inverse, those beginning with the second rotation,
+
+107
+00:09:35.260 --> 00:09:38.270
+those beginning with its inverse.
+
+108
+00:09:38.270 --> 00:09:40.640
+Here is where the magic lies.
+
+109
+00:09:40.640 --> 00:09:50.370
+If you take the group "those beginning with the inverse of the first rotation" and apply the first rotation to every one of them, that inverse move at the front cancels out and falls away.
+
+110
+00:09:50.370 --> 00:09:56.740
+The pile that remains covers everything that does not begin with the first rotation.
+
+111
+00:09:56.740 --> 00:10:02.310
+That is, by rotating a single group you have single-handedly rebuilt a large portion of the tree.
+
+112
+00:10:02.310 --> 00:10:08.200
+Two of the four groups in your hands give you the whole, and the other two give you the whole as well.
+
+113
+00:10:08.200 --> 00:10:10.730
+One becomes two.
+
+114
+00:10:10.730 --> 00:10:14.380
+This is the strangeness of infinity that we already know.
+
+115
+00:10:14.380 --> 00:10:22.190
+But what Banach and Tarski did was to take that strangeness out of the world of abstract motions and transfer it to the points of a solid body.
+
+116
+00:10:22.190 --> 00:10:27.760
+They matched every point on the sphere with the family of motion sequences that could be applied to it.
+
+117
+00:10:27.760 --> 00:10:31.410
+Then they chose a single representative point from each family.
+
+118
+00:10:31.410 --> 00:10:36.660
+From countless families, with no rule, infinitely many choices.
+
+119
+00:10:36.660 --> 00:10:40.150
+And this is where the bag comes in.
+
+120
+00:10:40.150 --> 00:10:44.280
+And this is why you can never see those five pieces.
+
+121
+00:10:44.280 --> 00:10:46.810
+They are not slices.
+
+122
+00:10:46.810 --> 00:10:50.940
+Not solid shells, not wedges, not cubes.
+
+123
+00:10:50.940 --> 00:10:59.390
+They are sets of points strewn with infinite fineness across every part of the sphere, with no unbroken surface anywhere, rather like a cloud of dust.
+
+124
+00:10:59.390 --> 00:11:04.320
+So scattered that the question "how much space does this piece occupy" has no answer.
+
+125
+00:11:04.320 --> 00:11:10.210
+It isn't that volume fails to be conserved; there was never a volume there to conserve.
+
+126
+00:11:10.210 --> 00:11:19.140
+When you meet a result like this, the first question that comes to mind is: since all the trouble comes out of that axiom, let's just throw it away.
+
+127
+00:11:19.140 --> 00:11:23.910
+This is a serious proposal, and it was taken seriously.
+
+128
+00:11:23.910 --> 00:11:31.240
+In nineteen seventy Robert Solovay built a mathematical universe in which the full strength of the Axiom of Choice is given up.
+
+129
+00:11:31.240 --> 00:11:35.210
+In that universe every subset of the number line is measurable.
+
+130
+00:11:35.210 --> 00:11:38.060
+Vitali's monster is gone.
+
+131
+00:11:38.060 --> 00:11:41.550
+The Banach-Tarski decomposition is gone.
+
+132
+00:11:41.550 --> 00:11:44.880
+Everything is well behaved.
+
+133
+00:11:44.880 --> 00:11:47.570
+But there is a price, and a heavy one.
+
+134
+00:11:47.570 --> 00:11:54.580
+The Axiom of Choice is not an ornament standing in some odd corner of mathematics; it is a part welded onto the body.
+
+135
+00:11:54.580 --> 00:11:59.510
+Take it out and you can no longer say that every vector space has a basis.
+
+136
+00:11:59.510 --> 00:12:05.080
+The Hahn-Banach theorem, one of the cornerstones of functional analysis, is shaken.
+
+137
+00:12:05.080 --> 00:12:13.050
+Dozens of results used daily in topology, in algebra, in analysis either collapse or are pulled back to far weaker forms.
+
+138
+00:12:13.050 --> 00:12:22.940
+It is possible to work inside the universe Solovay built, but there you have to reconstruct a great part of mathematics all over again, by far more laborious routes.
+
+139
+00:12:22.940 --> 00:12:27.390
+The overwhelming majority of mathematicians chose not to make that trade.
+
+140
+00:12:27.390 --> 00:12:32.800
+They preferred living with a counterintuitive theorem to abandoning half of the tools that work.
+
+141
+00:12:32.800 --> 00:12:37.730
+Incidentally, why the paradox is so selective is interesting in its own right.
+
+142
+00:12:37.730 --> 00:12:41.380
+Banach-Tarski works in at least three dimensions.
+
+143
+00:12:41.380 --> 00:12:45.030
+It does not work on the number line or in the plane.
+
+144
+00:12:45.030 --> 00:12:50.440
+You cannot cut a square and make two identical squares; you cannot double a circle.
+
+145
+00:12:50.440 --> 00:12:56.970
+The reason lies not in dimension itself but in the structure of the motions available in that dimension.
+
+146
+00:12:56.970 --> 00:13:06.380
+In the plane, rotations and translations behave too compatibly with one another; you cannot build that freely branching tree of motions I just described.
+
+147
+00:13:06.380 --> 00:13:14.030
+In nineteen twenty-nine John von Neumann analyzed precisely what creates this difference, and gave this property of groups a name.
+
+148
+00:13:14.030 --> 00:13:22.320
+In the third dimension, though, the axes of rotation multiply, the motions break free of one another, and the tree opens out.
+
+149
+00:13:22.320 --> 00:13:26.130
+The door of the paradox swings ajar right there.
+
+150
+00:13:26.130 --> 00:13:29.780
+Even so, the plane is not entirely innocent.
+
+151
+00:13:29.780 --> 00:13:39.030
+In nineteen twenty-five Tarski asked a question: can you cut a disc into finitely many pieces and, by sliding the pieces only, make a square of the same area?
+
+152
+00:13:39.030 --> 00:13:45.560
+This asks not for volume to be created but for shape to be transformed; the area is conserved.
+
+153
+00:13:45.560 --> 00:13:49.370
+The question stayed open for sixty-five years.
+
+154
+00:13:49.370 --> 00:13:54.140
+In nineteen ninety Miklós Laczkovich proved that the answer is yes.
+
+155
+00:13:54.140 --> 00:14:03.710
+The number of pieces was somewhere around ten to the fiftieth power, and the proof again rested on the Axiom of Choice, which means the pieces were once again invisible.
+
+156
+00:14:03.710 --> 00:14:13.760
+Then in two thousand seventeen Andrew Marks and Spencer Unger went considerably further: they showed that the same transformation can be carried out with describable, constructible pieces.
+
+157
+00:14:13.760 --> 00:14:21.730
+This time the number of pieces climbed to ten to the two hundredth power, but in exchange the pieces no longer came out of an abstract bag.
+
+158
+00:14:21.730 --> 00:14:24.580
+They were objects that could be imagined.
+
+159
+00:14:24.580 --> 00:14:27.750
+Let's come back to the orange on the table.
+
+160
+00:14:27.750 --> 00:14:30.440
+You can peel it in perfect safety.
+
+161
+00:14:30.440 --> 00:14:34.890
+Banach-Tarski cannot duplicate your orange, and never will.
+
+162
+00:14:34.890 --> 00:14:38.860
+Because a real orange is not made of infinitely many points.
+
+163
+00:14:38.860 --> 00:14:42.350
+It is made of finitely many atoms.
+
+164
+00:14:42.350 --> 00:14:52.080
+Inside a kilo of orange there is a very large but finite number of particles, and you cannot divide a finite object into finite pieces and double it.
+
+165
+00:14:52.080 --> 00:14:56.370
+What holds the theorem up is a property not of matter but of continuity.
+
+166
+00:14:56.370 --> 00:15:03.060
+The assumption that at every point of space there is another point, and inside that one, points at infinite density.
+
+167
+00:15:03.060 --> 00:15:08.470
+That assumption is a property of the mathematical model, not of the physical universe.
+
+168
+00:15:08.470 --> 00:15:11.480
+And the real legacy lies right here.
+
+169
+00:15:11.480 --> 00:15:15.930
+Banach-Tarski is not a calculational trick or an entertaining oddity.
+
+170
+00:15:15.930 --> 00:15:18.300
+It is a boundary marker.
+
+171
+00:15:18.300 --> 00:15:24.670
+It shows where the tools mathematics has built in order to describe reality become a law unto themselves.
+
+172
+00:15:24.670 --> 00:15:34.400
+The notion of continuous space models the physical world with extraordinary success; bridges stand because of it, satellites stay in orbit because of it.
+
+173
+00:15:34.400 --> 00:15:40.450
+But inside that model, objects with no physical counterpart whatsoever can also make their home.
+
+174
+00:15:40.450 --> 00:15:43.940
+The model is wider than the thing it describes.
+
+175
+00:15:43.940 --> 00:15:47.750
+You cannot cut one orange and make two oranges.
+
+176
+00:15:47.750 --> 00:15:52.680
+But you can cut the thing mathematics calls an orange and make two of them.
+
+177
+00:15:52.680 --> 00:16:02.890
+The difference in that sentence shaped an entire century of measure theory, of set theory, and of the computational tools that reach today from probability all the way to quantum mechanics.
+
+178
+00:16:02.890 --> 00:16:08.780
+The place where our intuition failed us turned out to be one of the most fertile grounds in mathematics.
+
+179
+00:16:08.780 --> 00:16:12.430
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+180
+00:16:12.430 --> 00:16:16.240
+Yeni bir hikâyede yeniden buluşmak üzere.

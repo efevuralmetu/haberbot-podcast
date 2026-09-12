@@ -1,0 +1,181 @@
+sira	karakter	saniye	kar_sn	metin
+1	32	2.560	12.50	There is an orange in your hand.
+2	126	7.680	16.41	You split it into five pieces; you do not stretch, crush or 
+3	77	5.280	14.58	In the end two oranges, exact copies of each other, are sitt
+4	66	4.640	14.22	This is not a trick, but a theorem proven in nineteen twenty
+5	39	2.400	16.25	There's an orange sitting on the table.
+6	69	3.840	17.97	Its weight in your palm, the pores of its peel under your fi
+7	20	1.920	10.42	It even has a scent.
+8	73	5.120	14.26	Now suppose I tell you this: I can separate this orange into
+9	214	11.360	18.84	Without stretching the pieces, without straining them, witho
+10	66	3.520	18.75	And when the work is done, there will be two oranges on the 
+11	57	3.040	18.75	Both of them exactly the size of the one we started with.
+12	39	2.880	13.54	Both of them solid, poreless, complete.
+13	87	4.800	18.12	Everyone who hears this has the same first reaction: there's
+14	148	7.360	20.11	Either the pieces are stretching, or invisible gaps are slip
+15	99	4.800	20.62	Because this claim collides with one of the most basic thing
+16	101	5.440	18.57	When you cut something apart and put it back together, you a
+17	72	4.160	17.31	Cut a cake into eight slices and the cake is still exactly a
+18	20	1.760	11.36	Volume is conserved.
+19	98	6.240	15.71	This isn't a belief, it's an observation; and that observati
+20	51	3.520	14.49	But what I just described is not a conjuring trick.
+21	15	1.760	8.52	It's a theorem.
+22	112	6.400	17.50	In nineteen twenty-four, two Polish mathematicians, Stefan B
+23	90	5.280	17.05	In the world of mathematics the result is known by their nam
+24	78	5.600	13.93	Pay attention to the word "paradox" here, because it invites
+25	111	7.840	14.16	In mathematics, a paradox does not mean "there is a contradi
+26	128	7.040	18.18	but your intuition cannot bear it." And the difference betwe
+27	131	7.200	18.19	First let's make the rules of the game clear, because until 
+28	72	4.480	16.07	For a mathematician, a ball is not an object made of paper o
+29	21	2.080	10.10	It's a set of points.
+30	89	4.960	17.94	The totality of all points whose distance from the center is
+31	15	2.560	5.86	A solid sphere.
+32	105	6.080	17.27	It contains infinitely many points; so many that even trying
+33	115	7.520	15.29	"Cutting into pieces," then, means this: you divide this set
+34	107	6.400	16.72	Every point goes into exactly one piece, none of them sits i
+35	152	8.320	18.27	Don't imagine a knife; think instead of picking up every sin
+36	38	2.720	13.97	"Moving" is the strictest rule of all.
+37	67	4.000	16.75	The only thing permitted is rigid motion: translation and ro
+38	88	5.280	16.67	You take the piece as a whole and carry it somewhere else, o
+39	72	4.960	14.52	No stretching, no squeezing, no rescaling; not even mirrorin
+40	93	4.960	18.75	The distance between any two points inside a piece remains e
+41	79	4.000	19.75	This is nothing more than sliding a cup from one end of the 
+42	186	10.400	17.88	And here is what the theorem says: you can divide a solid sp
+43	75	4.480	16.74	And when we say "finitely many," we really are talking about
+44	90	5.600	16.07	In nineteen forty-seven Raphael Robinson showed that the job
+45	53	3.360	15.77	What's more, he proved that you cannot go below five.
+46	87	4.800	18.12	If you leave the single point at the center out of the accou
+47	87	5.120	16.99	So this is not some trick that requires millions of pieces, 
+48	42	3.360	12.50	As many pieces as the fingers on one hand.
+49	41	2.880	14.24	Now let's ask the uncomfortable question.
+50	96	4.800	20.00	If the pieces do not stretch, then the volume of each piece 
+51	80	4.320	18.52	Add up the volumes of the five pieces and you should get the
+52	88	6.080	14.47	But those same five pieces, once they have changed places, g
+53	60	4.000	15.00	A number cannot be equal both to itself and to twice itself.
+54	38	2.720	13.97	Somewhere in here, something is wrong.
+55	57	3.040	18.75	And the thing that is wrong is not where you would guess.
+56	25	2.400	10.42	The motions are flawless.
+57	31	2.240	13.84	The number of pieces is finite.
+58	30	2.080	14.42	The sphere really is a sphere.
+59	164	8.800	18.64	The assumption that collapses is hidden in that small word w
+60	61	4.320	14.12	Not zero, not very small, not too complicated to be measured
+61	55	3.040	18.09	No number called volume can be assigned to them at all.
+62	84	4.800	17.50	And because there is nothing to add up, no inconsistency ari
+63	83	4.800	17.29	The idea of a body with no volume sounds like word play the 
+64	126	6.880	18.31	But it is a very concrete obstacle that mathematics discover
+65	34	2.240	15.18	The story begins with an ambition.
+66	111	6.400	17.34	At the end of the nineteenth century mathematicians wanted t
+67	87	5.600	15.54	The aim was bold: to find a rule that assigns a volume numbe
+68	50	3.200	15.62	That rule had to satisfy three reasonable demands.
+69	56	3.520	15.91	The volume of a cube should come out the way we know it.
+70	43	3.200	13.44	Moving a body should not change its volume.
+71	82	4.480	18.30	And the volumes of two disjoint pieces should add up to the 
+72	184	10.240	17.97	The measure theory developed by Henri Lebesgue did this with
+73	76	4.320	17.59	But in nineteen oh five Giuseppe Vitali revealed the limit o
+74	120	6.240	19.23	On the number line he constructed a set such that assigning 
+75	73	4.800	15.21	Saying zero didn't work, and saying a positive number didn't
+76	55	3.360	16.37	The set lay outside the reach of the concept of length.
+77	54	3.360	16.07	Sets like these came to be called non-measurable sets.
+78	114	7.840	14.54	And from that day on, mathematicians had to accept the follo
+79	59	3.520	16.76	It is defined only for sets that are "well behaved" enough.
+80	39	2.880	13.54	So how did Vitali build such a monster?
+81	49	3.840	12.76	This is the point on which the whole story turns.
+82	30	2.880	10.42	Imagine infinitely many boxes.
+83	43	2.400	17.92	Inside each box there is at least one ball.
+84	73	4.160	17.55	You are asked to choose one ball from each box and put it in
+85	19	1.920	9.90	It sounds innocent.
+86	94	5.280	17.80	If the boxes are finite in number there is no problem at all
+87	219	11.840	18.50	If the boxes are infinite but you have a rule for making the
+88	53	3.200	16.56	But what if the boxes are infinite and no rule works?
+89	139	7.360	18.89	What if the contents of the boxes are arranged in such a way
+90	105	5.920	17.74	Then, in order to claim that this bag exists, you have to ad
+91	51	3.200	15.94	The name of that assumption is the Axiom of Choice.
+92	182	9.600	18.96	Ernst Zermelo formulated it explicitly in nineteen oh four, 
+93	36	2.080	17.31	It does not describe the bag to you.
+94	53	4.480	11.83	It merely says "such a bag exists," and falls silent.
+95	50	3.520	14.20	Vitali's non-measurable set is exactly such a bag.
+96	43	2.880	14.93	And so are Banach and Tarski's five pieces.
+97	135	7.040	19.18	Now let's look at what is going on inside the sphere, becaus
+98	56	2.880	19.44	The key is hidden in the rotations that turn the sphere.
+99	83	5.280	15.72	Choose two rotations; let their axes be different and their 
+100	121	6.720	18.01	By applying these two rotations and their inverses one after
+101	145	8.000	18.12	The critical property is this: none of these sequences of mo
+102	60	3.840	15.62	Every different sequence genuinely gives a different result.
+103	133	7.520	17.69	Felix Hausdorff noticed this structure in nineteen fourteen 
+104	104	6.400	16.25	ten years later Banach and Tarski followed the road he had o
+105	100	5.920	16.89	This family of motions is itself a countable infinity, and i
+106	195	9.920	19.66	Now sort all these sequences into four groups according to t
+107	33	2.560	12.89	those beginning with its inverse.
+108	29	1.920	15.10	Here is where the magic lies.
+109	188	9.280	20.26	If you take the group "those beginning with the inverse of t
+110	84	5.920	14.19	The pile that remains covers everything that does not begin 
+111	97	5.120	18.95	That is, by rotating a single group you have single-handedly
+112	102	5.440	18.75	Two of the four groups in your hands give you the whole, and
+113	16	2.080	7.69	One becomes two.
+114	57	3.200	17.81	This is the strangeness of infinity that we already know.
+115	143	7.360	19.43	But what Banach and Tarski did was to take that strangeness 
+116	103	5.120	20.12	They matched every point on the sphere with the family of mo
+117	63	3.200	19.69	Then they chose a single representative point from each fami
+118	63	4.800	13.12	From countless families, with no rule, infinitely many choic
+119	35	3.040	11.51	And this is where the bag comes in.
+120	52	3.680	14.13	And this is why you can never see those five pieces.
+121	20	2.080	9.62	They are not slices.
+122	40	3.680	10.87	Not solid shells, not wedges, not cubes.
+123	150	8.000	18.75	They are sets of points strewn with infinite fineness across
+124	85	4.480	18.97	So scattered that the question "how much space does this pie
+125	87	5.440	15.99	It isn't that volume fails to be conserved; there was never 
+126	148	8.480	17.45	When you meet a result like this, the first question that co
+127	55	4.320	12.73	This is a serious proposal, and it was taken seriously.
+128	127	6.880	18.46	In nineteen seventy Robert Solovay built a mathematical univ
+129	63	3.520	17.90	In that universe every subset of the number line is measurab
+130	25	2.400	10.42	Vitali's monster is gone.
+131	40	3.040	13.16	The Banach-Tarski decomposition is gone.
+132	27	2.880	9.38	Everything is well behaved.
+133	38	2.240	16.96	But there is a price, and a heavy one.
+134	117	6.560	17.84	The Axiom of Choice is not an ornament standing in some odd 
+135	74	4.480	16.52	Take it out and you can no longer say that every vector spac
+136	83	5.120	16.21	The Hahn-Banach theorem, one of the cornerstones of function
+137	121	7.520	16.09	Dozens of results used daily in topology, in algebra, in ana
+138	165	9.440	17.48	It is possible to work inside the universe Solovay built, bu
+139	73	4.000	18.25	The overwhelming majority of mathematicians chose not to mak
+140	96	4.960	19.35	They preferred living with a counterintuitive theorem to aba
+141	78	4.480	17.41	Incidentally, why the paradox is so selective is interesting
+142	49	3.200	15.31	Banach-Tarski works in at least three dimensions.
+143	52	3.200	16.25	It does not work on the number line or in the plane.
+144	83	4.960	16.73	You cannot cut a square and make two identical squares; you 
+145	104	6.080	17.11	The reason lies not in dimension itself but in the structure
+146	153	8.960	17.08	In the plane, rotations and translations behave too compatib
+147	130	7.200	18.06	In nineteen twenty-nine John von Neumann analyzed precisely 
+148	125	7.840	15.94	In the third dimension, though, the axes of rotation multipl
+149	48	3.360	14.29	The door of the paradox swings ajar right there.
+150	44	3.200	13.75	Even so, the plane is not entirely innocent.
+151	158	8.800	17.95	In nineteen twenty-five Tarski asked a question: can you cut
+152	94	6.080	15.46	This asks not for volume to be created but for shape to be t
+153	46	3.360	13.69	The question stayed open for sixty-five years.
+154	67	4.320	15.51	In nineteen ninety Miklós Laczkovich proved that the answer 
+155	169	9.120	18.53	The number of pieces was somewhere around ten to the fiftiet
+156	188	9.600	19.58	Then in two thousand seventeen Andrew Marks and Spencer Unge
+157	139	7.520	18.48	This time the number of pieces climbed to ten to the two hun
+158	41	2.400	17.08	They were objects that could be imagined.
+159	43	2.720	15.81	Let's come back to the orange on the table.
+160	34	2.240	15.18	You can peel it in perfect safety.
+161	59	4.000	14.75	Banach-Tarski cannot duplicate your orange, and never will.
+162	60	3.520	17.05	Because a real orange is not made of infinitely many points.
+163	34	3.040	11.18	It is made of finitely many atoms.
+164	149	9.280	16.06	Inside a kilo of orange there is a very large but finite num
+165	72	3.840	18.75	What holds the theorem up is a property not of matter but of
+166	116	6.240	18.59	The assumption that at every point of space there is another
+167	86	4.960	17.34	That assumption is a property of the mathematical model, not
+168	36	2.560	14.06	And the real legacy lies right here.
+169	69	4.000	17.25	Banach-Tarski is not a calculational trick or an entertainin
+170	24	1.920	12.50	It is a boundary marker.
+171	105	5.920	17.74	It shows where the tools mathematics has built in order to d
+172	153	9.280	16.49	The notion of continuous space models the physical world wit
+173	96	5.600	17.14	But inside that model, objects with no physical counterpart 
+174	47	3.040	15.46	The model is wider than the thing it describes.
+175	47	3.360	13.99	You cannot cut one orange and make two oranges.
+176	75	4.480	16.74	But you can cut the thing mathematics calls an orange and ma
+177	189	9.760	19.36	The difference in that sentence shaped an entire century of 
+178	104	5.440	19.12	The place where our intuition failed us turned out to be one
+179	47	3.200	14.69	Nöron Science'de bugünkü bölümün sonuna geldik.
+180	41	3.360	12.20	Yeni bir hikâyede yeniden buluşmak üzere.
