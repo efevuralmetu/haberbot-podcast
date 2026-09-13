@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-13.mp3
+
+beklenen 1619 kelime | duyulan 1629 kelime | eşleşme %96.7
+sayı ifadesi: metinde 188, duyulanda 154  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bunun sebebi okulda öğretilen
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...etkisi değil çünkü fizikçiler
+      metin  : jiroskopu
+      duyulan: ciroskopu
+  REPLACE  ...kendiliğinden kırılır bisiklet hafif
+      metin  : kavis
+      duyulan: kaviz
+  REPLACE  ...tekerlekler dönüyor dönen tekerlek
+      metin  : jiroskoptur jiroskop
+      duyulan: ciroskoptur ciroskop
+  INSERT   ...şunu kabul etmek gerekiyor
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...oluşturur o doğrunun üzerinde
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...direksiyon deniyor ve saatte
+      metin  : kilometrenin
+      duyulan: km nin
+  REPLACE  ...vardı dönen ön tekerleğin
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...denklemleri yüzyılın sonunda yazılmıştı
+      metin  : emanüel karvalo
+      duyulan: emmanuel carvalho de
+  INSERT   ...emanüel karvalo francis whipple
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...whipple birbirinden bağımsız olarak
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...takımlarını kurdular yüzyılın başında
+      metin  : feliks klayn
+      duyulan: felix klein
+  REPLACE  ...başında feliks klayn ve
+      metin  : frits nöter
+      duyulan: fritz noether
+  REPLACE  ...nöter gibi isimler meseleyi
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...ayakta tutan dönen tekerleğin
+      metin  : jiroskopik
+      duyulan: ciroskopik
+  REPLACE  ...çalıştığını anlattı amacı açıktı
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...böylece kuramı deneyle kanıtlarım
+      metin  : ön
+      duyulan: elön
+  REPLACE  ...götürüyordu yani ön tarafta
+      metin  : jiroskopik
+      duyulan: ciroskopik
+  REPLACE  ...ve rahatça sürdü ters
+      metin  : tekerleği
+      duyulan: tekerleyi
+  REPLACE  ...bulduğu asıl duyarlı ayar
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...jiroskop değil izdi ön
+      metin  : tekerleği
+      duyulan: tekerleyi
+  REPLACE  ...tekerleği normal konumundan yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...hemen deviriliyordu yani iz
+      metin  : jiroskoptan
+      duyulan: ciroskoptan
+  REPLACE  ...bisikleti ayakta tutan şey
+      metin  : jiroskop
+      duyulan: ciroskop
+  INSERT   ...o yarı da sorgulandı
+      metin  : (yok)
+      duyulan: ki in
+  REPLACE  ...bilim dergisinde çıkan makale
+      metin  : delft
+      duyulan: delf
+  REPLACE  ...ekibin kurduğu tuzağı anlatıyordu
+      metin  : yodi koyman
+      duyulan: jody coyman
+  REPLACE  ...anlatıyordu yodi koyman arend
+      metin  : şvab
+      duyulan: schwab
+  REPLACE  ...jim papadopoulos ve yaap
+      metin  : meyart
+      duyulan: meyard
+  DELETE   ...üzerinde kuramsal model kurmuştu
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu modelin tek amacı
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...açısal momentumunu götürüyordu yani
+      metin  : jiroskopik
+      duyulan: ciroskopik
+  REPLACE  ...i z ize eksi
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...kesiştiği noktanın arkasında değil
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...yaklaşık metrenin yani saatte
+      metin  : kilometreye
+      duyulan: km ye
+  INSERT   ...delft ve cornel ekibinin
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...eylemsizlik momentleri bunların üstüne
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  DELETE   ...salınım büyüyerek bisikleti deviriyor
+      metin  : belli
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kincisine yatıp devrilme yani
+      metin  : capsize
+      duyulan: capseize
+  INSERT   ...yüzyılın sonundan beri elimizde
+      metin  : (yok)
+      duyulan: de
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: bilim-2026-09-13.duyulan.txt

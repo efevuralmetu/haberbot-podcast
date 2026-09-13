@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-13.mp3
+
+beklenen 1798 kelime | duyulan 1804 kelime | eşleşme %94.8
+sayı ifadesi: metinde 228, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dedeler var ocak ayının
+      metin  : yedisinde
+      duyulan: sinde
+  REPLACE  ...çekilmiş koy sardunya nın
+      metin  : kilometreyi
+      duyulan: km yi
+  REPLACE  ...korsanı ceneviz aragonlu kim
+      metin  : geldiyze
+      duyulan: geldi ize
+  REPLACE  ...barbaca adanın tam ortasında
+      metin  : cennarcentu
+      duyulan: cenercentu
+  REPLACE  ...köy arasındaki kuş uçuşu
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...aktardığına göer milattan önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...göer milattan önce tiberius
+      metin  : grakkus
+      duyulan: gracchus
+  REPLACE  ...ya da esir alındı
+      metin  : o
+      duyulan: doğu
+  REPLACE  ...üzerinden tanımlandı hukukçu antonio
+      metin  : pilyaru
+      duyulan: pillaru da
+  REPLACE  ...kasaba ama buradan çıkan
+      metin  : gratsia deledda
+      duyulan: grazia de leda da
+  REPLACE  ...aldı barbaca nın bugün
+      metin  : turistten
+      duyulan: turisten
+  REPLACE  ...küsur nüfuslu köyde geçiyor
+      metin  : mamoiada
+      duyulan: mamoya da
+  DELETE   ...kapalı kapı ardında yapılır
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...asıl yük gelir sardunyalıların
+      metin  : sa carriga
+      duyulan: sagariga
+  REPLACE  ...ya da kestaneden ama
+      metin  : mamoiada nın
+      duyulan: mamoyadanın
+  REPLACE  ...bozmaz bu kılığa girene
+      metin  : mamuthone
+      duyulan: mamutone
+  REPLACE  ...ve bu dans değildir
+      metin  : mamuthone ler
+      duyulan: mamutoneler
+  REPLACE  ...değil en dürüst tarafı
+      metin  : mamuthone leri
+      duyulan: mamutoneleri
+  REPLACE  ...etnografya literatürüne sokan kişi
+      metin  : nuorolu
+      duyulan: norolu
+  REPLACE  ...sokan kişi nuorolu araştırmacı
+      metin  : raffaello marki
+      duyulan: rafael lomarque
+  INSERT   ...araştırmacı raffaello marki oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve okuma önerdi kırmızılı
+      metin  : issohadoer ler
+      duyulan: i sohadoreler
+  REPLACE  ...ve zincirlenmiş gibi yürüyen
+      metin  : mamuthone ler
+      duyulan: mamutoneler
+  REPLACE  ...ekibi tamamen tersini söyledi
+      metin  : mamuthone
+      duyulan: mamutone
+  REPLACE  ...mamuthone hayvandır sürüdür doğadır
+      metin  : issohadoer
+      duyulan: i sohadoer
+  REPLACE  ...yeniden ilişki kurmasının sonucudur
+      metin  : mamoiada muzeo
+      duyulan: mamoya da de museo
+  REPLACE  ...sonucudur mamoiada muzeo delle
+      metin  : maskeer mediterranee yi
+      duyulan: mascheer mediterranei
+  REPLACE  ...koyuyor barbaca nın kışında
+      metin  : mamoiada
+      duyulan: mamoya da
+  REPLACE  ...orotelli de kurumla kararmış
+      metin  : thurpos
+      duyulan: turpos
+  REPLACE  ...kurumla kararmış thurpos yürür
+      metin  : mamoiada nın
+      duyulan: mamoya danın
+  REPLACE  ...kalabalığı içinde ize bazen
+      metin  : sa
+      duyulan: sağ
+  REPLACE  ...yaşlı kadın kılığı elinde
+      metin  : iğ
+      duyulan: iyi
+  REPLACE  ...hikayenin başladığı yer çünkü
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...binlerin başında belçikalı demograf
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...hatta bazı yerlerde eşitleniyordu
+      metin  : olyastra
+      duyulan: poljastra
+  REPLACE  ...yerlerde eşitleniyordu olyastra daki
+      metin  : villagrande
+      duyulan: vilagrande
+  INSERT   ...strisaili doğan her kişiden
+      metin  : (yok)
+      duyulan: inin
+  REPLACE  ...cam gibi kuru yufka
+      metin  : dağda
+      duyulan: kağıda
+  REPLACE  ...yortuda ve düğünde ve
+      metin  : cannonau
+      duyulan: kanonau
+  INSERT   ...her gün kilometrelerce yürüyen
+      metin  : (yok)
+      duyulan: inde
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: seyahat-2026-09-13.duyulan.txt

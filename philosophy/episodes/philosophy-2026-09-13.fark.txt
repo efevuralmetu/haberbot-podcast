@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-13.mp3
+
+beklenen 3416 kelime | duyulan 3408 kelime | eşleşme %98.8
+sayı ifadesi: metinde 141, duyulanda 107  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...face turns to the
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...separate classes and the
+      metin  : cruellest
+      duyulan: cruelest
+  REPLACE  ...taken as the decisive
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...he begins from somewheer
+      metin  : marvellously
+      duyulan: marvelously
+  INSERT   ...someone else s labor
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...to this question is
+      metin  : ihya al mawat
+      duyulan: ahyal muwat
+  REPLACE  ...piece of land at
+      metin  : khaybar
+      duyulan: khybar
+  DELETE   ...draws up the waqf
+      metin  : deed
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in the century the
+      metin  : şeyhülislam ebussuud efendi systematized
+      duyulan: shayhel islam ebisu defended sistamut as
+  REPLACE  ...at wil land left
+      metin  : unsown
+      duyulan: unsewn
+  REPLACE  ...without valid excuse became
+      metin  : mahlul
+      duyulan: malul
+  REPLACE  ...the surest sign of
+      metin  : a state s
+      duyulan: estates
+  REPLACE  ...the quatrain attributed to
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...islamic inheritance law the
+      metin  : fara id
+      duyulan: faride
+  REPLACE  ...that opened in the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...last under the rules
+      metin  : in
+      duyulan: and
+  INSERT   ...death of the author
+      metin  : (yok)
+      duyulan: after death
+  REPLACE  ...yor phone you aer
+      metin  : ploughing
+      duyulan: plowing
+  DELETE   ...in turkey in numbered
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of the rope tomorrow
+      metin  : nöron philosophy
+      duyulan: neuron philosophie
+  REPLACE  ...tomorrow nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bugunkubudimun sonunagaldik yenibirhikaya de yenidan bulushmakuzeer
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-09-13.duyulan.txt

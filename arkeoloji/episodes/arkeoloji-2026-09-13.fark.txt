@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-13.mp3
+
+beklenen 2460 kelime | duyulan 2469 kelime | eşleşme %94.4
+sayı ifadesi: metinde 342, duyulanda 277  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sahte koleksiyoner kılığındaki devlet
+      metin  : arkeoloğuydu
+      duyulan: arkeologuydu
+  REPLACE  ...almanya nın tam ortasında
+      metin  : saksonya
+      duyulan: saxonya
+  REPLACE  ...ortasında saksonya anhalt eyaletinde
+      metin  : unştrut
+      duyulan: unstrutt
+  REPLACE  ...tepesi dir ve etrafını
+      metin  : tsigelrodaer forst
+      duyulan: ticigelrodeerforst
+  REPLACE  ...etrafını tsigelrodaer forst yani
+      metin  : tsigelroda
+      duyulan: ticigelrode
+  INSERT   ...şey eyalete aittir temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...umursamadan tepeye çıktı henry
+      metin  : vestfal
+      duyulan: westphal
+  REPLACE  ...bu tür arayıcılar için
+      metin  : tsigelroda
+      duyulan: ticigelrode
+  REPLACE  ...arayıcılar için tsigelroda ormanı
+      metin  : vaatti bronz çağı
+      duyulan: vaat etti bronze çağ
+  REPLACE  ...el aletiyle toprağı kırdılar
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...metale indirgedi ertesi gün
+      metin  : köln de
+      duyulan: könde
+  INSERT   ...kişi henüz sahneye çıkmamıştı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...çıkmamıştı yılında halle kentindeki
+      metin  : landesmuzeum
+      duyulan: landesmuseum
+  REPLACE  ...halle kentindeki landesmuzeum für
+      metin  : forgeşihte
+      duyulan: vorgeschiehte
+  REPLACE  ...aynı zamanda eyaletin baş
+      metin  : arkeoloğuydu saksonya
+      duyulan: arkeologuydu saxony a
+  REPLACE  ...berlin deki müze yöneticisi
+      metin  : vilfrid mengin e
+      duyulan: wilfried mengine
+  REPLACE  ...inanılmaz görünüyordu ve anlatılan
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...ve anlatılan hikayeye göer
+      metin  : saksonya anhalt tan
+      duyulan: saxony a anhalttan
+  INSERT   ...ama nesne ortada yoktu
+      metin  : (yok)
+      duyulan: kiki nin
+  INSERT   ...eli çok daha zayıftı
+      metin  : (yok)
+      duyulan: en
+  REPLACE  ...görüşme yapıldı meller masaya
+      metin  : saksonya
+      duyulan: saxony a
+  REPLACE  ...tarafta hildegard b ve
+      metin  : raynhold
+      duyulan: reinhold
+  REPLACE  ...stenen rakam marktı şubat
+      metin  : bazel
+      duyulan: de basel
+  REPLACE  ...ayında mahkemelerin cevapladığı soru
+      metin  : mülkiyetti
+      duyulan: mülki etti
+  REPLACE  ...küme halinde duruyor bu
+      metin  : pleyades
+      duyulan: pleiades
+  DELETE   ...görülüyor i lk hali
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  DELETE   ...kılıçların ve baltaların arasına
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...cüretkar okuması ize astronom
+      metin  : ralf hanzen
+      duyulan: ralph hansen
+  REPLACE  ...ralf hanzen e ait
+      metin  : hanzen diskteki
+      duyulan: hansen disteki
+  REPLACE  ...belirgin biçimde kalın ay
+      metin  : hanzen
+      duyulan: hansen
+  REPLACE  ...ay hanzen e göer
+      metin  : disk
+      duyulan: dist
+  REPLACE  ...fazladan ay eklemek gerekir
+      metin  : diskteki
+      duyulan: disteki
+  REPLACE  ...gerekir diskteki kural şudur
+      metin  : ülker in
+      duyulan: ülkenin
+  REPLACE  ...bambaşka sorudur ve cevabı
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...avrupası nı haritaya dönüştürür
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...da aynı yerde çıkmaz
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...demektir diskin bronzu ernst
+      metin  : pernicka
+      duyulan: pernica
+  REPLACE  ...ve kurşun izotop analizleriyle
+      metin  : çözüldü
+      duyulan: çözürdü
+  REPLACE  ...avusturya da salzburg bölgesindeki
+      metin  : bişofshofen
+      duyulan: bischofshofen
+  REPLACE  ...kilometreden fazla uzaklıkta kaynak
+      metin  : kalay
+      duyulan: kala
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 97 kelime | duyulup metinde OLMAYAN: 104
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: arkeoloji-2026-09-13.duyulan.txt

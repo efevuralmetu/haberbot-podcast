@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-13.mp3
+
+beklenen 2528 kelime | duyulan 2516 kelime | eşleşme %99.1
+sayı ifadesi: metinde 118, duyulanda 100  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...the gyroscope and the
+      metin  : caster
+      duyulan: castor
+  DELETE   ...the caster trail and
+      metin  : it
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of the century emmanuel
+      metin  : carvallo
+      duyulan: carvalho
+  REPLACE  ...momenta of the wheels
+      metin  : cancelled
+      duyulan: canceled
+  REPLACE  ...later that half was
+      metin  : questioned too
+      duyulan: question
+  REPLACE  ...group made up of
+      metin  : jodi kooijman arend
+      duyulan: jody kujman arun
+  REPLACE  ...ruina jim papadopoulos and
+      metin  : jaap meijaard
+      duyulan: jop mayhard
+  REPLACE  ...the counter rotating wheels
+      metin  : cancelled
+      duyulan: canceled
+  REPLACE  ...centers of those masses
+      metin  : and
+      duyulan: that ought to end
+  DELETE   ...motion is damped above
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...a machine worth working
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 26 kelime | duyulup metinde OLMAYAN: 14
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-09-13.duyulan.txt

@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-13.mp3
+
+beklenen 2172 kelime | duyulan 2181 kelime | eşleşme %97.1
+sayı ifadesi: metinde 221, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hayal et sabah erken
+      metin  : çiy
+      duyulan: çiğ
+  REPLACE  ...izleriyle çizdiği o eğri
+      metin  : büğrü
+      duyulan: bürü
+  REPLACE  ...o ipin dışında kaldı
+      metin  : ruso
+      duyulan: russo
+  REPLACE  ...değil diyecek çıksaydı der
+      metin  : ruso insanlık
+      duyulan: russo i nsanlık
+  INSERT   ...topraklar tek tek çevrildi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...yüzyıllarda binlerce ayrı meclis
+      metin  : kararıyla
+      duyulan: kararı ile
+  INSERT   ...bu varsayımla yönetildi ancak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kabul etti yani neredeyze
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...hiç çekilmeseydi ne olurdu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çekilmeseydi ne olurdu biyolog
+      metin  : garrett hardin
+      duyulan: gareth harding
+  INSERT   ...inceleyene kadar ostrom un
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...un yayımladığı çalışma ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...önce yazmıştı john locke
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...locke yayımlanan hükümet üzerine
+      metin  : i ki i nceleme nin
+      duyulan: incelemenin
+  REPLACE  ...yerden başlar bedeninden locke
+      metin  : un
+      duyulan: ın
+  REPLACE  ...iyilikte kalmalı yani senin
+      metin  : çitin
+      duyulan: çetin
+  INSERT   ...kaybetmek midir robert nozick
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...daha sert ses vardı
+      metin  : piyer jozef prudon
+      duyulan: pierer joseph proudhon ta
+  REPLACE  ...adlı kitapta kendi sorusuna
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...verir mülkiyet hırsızlıktır ama
+      metin  : prudon
+      duyulan: proudhon
+  INSERT   ...ortasına oturan ayrım var
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...getirirse orası olur bu
+      metin  : locke
+      duyulan: lok
+  REPLACE  ...meyvesi vakıftır rivayete göer
+      metin  : hz ömer
+      duyulan: haziyeti önmer
+  REPLACE  ...ize köylünündü yüzyılda şeyhülislam
+      metin  : ebussuud
+      duyulan: ebu suud
+  INSERT   ...mürekkeple çekilmişti i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...durur zulüm umranı yani
+      metin  : bayındırlığı
+      duyulan: bayındırılığı
+  REPLACE  ...yok doğduğun için senin
+      metin  : locke
+      duyulan: lok
+  REPLACE  ...itiraz etmez en saf
+      metin  : locke
+      duyulan: lok
+  REPLACE  ...satın almış şirket o
+      metin  : çitin
+      duyulan: çetin
+  REPLACE  ...çizgi film buharlı vapur
+      metin  : willie
+      duyulan: willy
+  REPLACE  ...i ngilizce adıyla steamboat
+      metin  : willie
+      duyulan: willy
+  INSERT   ...süresi amerika da ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ait değil türkiye de
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tanıyor bilgi isteme düzeltme
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...sözleşmesidir tam da bu
+      metin  : ruso
+      duyulan: russo
+  REPLACE  ...hya fikri bunu söylüyordu
+      metin  : diriltmiyorsan
+      duyulan: diritmiyorsan
+  REPLACE  ...kendini hizmete bağlamış olandır
+      metin  : locke un
+      duyulan: lokgun
+  REPLACE  ...henüz sorulmamış sorunun cevabını
+      metin  : beklemek de
+      duyulan: beklemekte
+  REPLACE  ...hangi tarafında kalacağını belirliyor
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: felsefe-2026-09-13.duyulan.txt

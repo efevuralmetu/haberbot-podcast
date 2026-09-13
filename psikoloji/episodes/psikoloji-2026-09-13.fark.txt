@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-13.mp3
+
+beklenen 1127 kelime | duyulan 1128 kelime | eşleşme %98.0
+sayı ifadesi: metinde 113, duyulanda 103  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sözcüklerle değil kaslarla çalışıyor
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...uppsala üniversitesi nde ulf
+      metin  : dimberg
+      duyulan: dinberg
+  REPLACE  ...üstü örtülüyordu katılımcılara sorduğunuzda
+      metin  : nötr
+      duyulan: ne tür
+  REPLACE  ...üstündeki gülümsemeyi yapan kas
+      metin  : kıpırdıyordu
+      duyulan: kıpırdı
+  REPLACE  ...kas kıpırdıyordu öfkeli gösterildiğinde
+      metin  : kaşların
+      duyulan: kasların
+  REPLACE  ...arasındaki çatmayı yapan kas
+      metin  : kıpırdıyordu
+      duyulan: kıpırdı
+  REPLACE  ...süredir tartışılan fiker dayanıyor
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...dayanıyor doksanlarda parma da
+      metin  : cakomo
+      duyulan: giacomo
+  REPLACE  ...gidiyor amerikalı psikolog elaine
+      metin  : hatfield
+      duyulan: hetfield
+  INSERT   ...kimse konuşmadıysa ne kopyalandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...howard friedman ve ronald
+      metin  : riggio
+      duyulan: rigio
+  REPLACE  ...yanlış yerde çözüm bu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...çevirmenin kendisinin etkisi var
+      metin  : kaliforniya üniversitesi nde
+      duyulan: california üniversitesinde
+  REPLACE  ...aranda milimetrelik boşluk açılması
+      metin  : taşıyıcıyla
+      duyulan: taşıyıcı ile
+  REPLACE  ...durduk ama friedman ve
+      metin  : riggio nun
+      duyulan: rigion un
+  DELETE   ...evde ofiste arabada senin
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o artık senin değil
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 20
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-09-13.duyulan.txt

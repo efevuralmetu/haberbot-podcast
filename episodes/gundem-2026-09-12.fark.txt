@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-12.mp3
+
+beklenen 1315 kelime | duyulan 1322 kelime | eşleşme %94.7
+sayı ifadesi: metinde 378, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...abd merkez kuvvetler komutanlığı
+      metin  : harg
+      duyulan: hark
+  REPLACE  ...komutanlığı harg adası açıklarında
+      metin  : jask
+      duyulan: cask
+  REPLACE  ...connolly ile ardından başbakan
+      metin  : mihol
+      duyulan: micheal
+  REPLACE  ...ile görüşecek öğleden sonra
+      metin  : claer
+      duyulan: claier
+  REPLACE  ...sırasında hayatını kaybeden yaşındaki
+      metin  : welles crowther a
+      duyulan: vales croatra
+  REPLACE  ...resmi ateşkes ilan edilmedi
+      metin  : volodımır zelenskıy
+      duyulan: volodymyr zelensky
+  INSERT   ...pazar payı ilk kez
+      metin  : (yok)
+      duyulan: inin
+  REPLACE  ...ilk kez indi google
+      metin  : ceminay
+      duyulan: gemini
+  REPLACE  ...indi google ceminay anthropic
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...raporda rusya bağlantılı casusluk
+      metin  : faaliyetleri ile
+      duyulan: faaliyetleriyle
+  INSERT   ...şirket ayrıca robotaksi pazarının
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...i stanbul da düzenlenen
+      metin  : gitex
+      duyulan: gidex
+  REPLACE  ...jones artışla puana nasdaq
+      metin  : yükselişle
+      duyulan: yükselişte
+  REPLACE  ...puana nasdaq yükselişle puana
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...işlem fiyatlaması ağırlıklı olarak
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...işaret ediyor başkan kevin
+      metin  : warsh
+      duyulan: varsh
+  REPLACE  ...kevin warsh ın jackson
+      metin  : hole
+      duyulan: holde
+  REPLACE  ...üyenin faizin yükseltilmesi yönünde
+      metin  : şerh
+      duyulan: şart
+  REPLACE  ...kapattı amerikan ham petrolü
+      metin  : wti
+      duyulan: wta
+  REPLACE  ...yıllardır iç içe geçmiş
+      metin  : otomotiv
+      duyulan: otomotif
+  INSERT   ...mayıs ta partinin kasım
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...baştan geçersiz sayarak mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...yargıtay hukuk dairesi nde
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...özel ve milletvekili chp
+      metin  : den
+      duyulan: de en
+  REPLACE  ...chp nin sandalye sayısı
+      metin  : dörde
+      duyulan: den e
+  REPLACE  ...nda konuştu ekonomi savunma
+      metin  : sanayii
+      duyulan: sanayi
+  INSERT   ...mesafeye işaret ederek türkiye
+      metin  : (yok)
+      duyulan: yılı
+  INSERT   ...faizini beklentileer paralel biçimde
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...verdi ağustosta yıllık enflasyon
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...yıl sonu enflasyon tahminini
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...merkez bankası efektif satış
+      metin  : kurunda dolar lira
+      duyulan: kurulu nda lirası
+  REPLACE  ...okul çevrelerinde güvenlik tedbirlerinin
+      metin  : artırıldığını
+      duyulan: arttırıldığını
+  REPLACE  ...sonuç çarşamba akşamı türkiye
+      metin  : saatiyle
+      duyulan: saati ile de
+  DELETE   ...eylül de yapılacak chp
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nun bazı bölümlerinde yerel
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...yapıldı gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: gundem-2026-09-12.duyulan.txt

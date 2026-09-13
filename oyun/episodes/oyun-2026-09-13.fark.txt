@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-13.mp3
+
+beklenen 1534 kelime | duyulan 1544 kelime | eşleşme %95.8
+sayı ifadesi: metinde 224, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çok oynanan eğitim oyununu
+      metin  : diriltmek
+      duyulan: dirirtmek
+  REPLACE  ...aralık cuma sabahı minneapolis
+      metin  : in
+      duyulan: ın
+  DELETE   ...sürülmüş makinenin adı teletype
+      metin  : asr
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bilgisayarın verdiği her cevabı
+      metin  : rulo kağıda
+      duyulan: rulokada
+  REPLACE  ...öküzleer ne kadar ayıracaksınız
+      metin  : yiyeceğe cephaneye giysiye
+      duyulan: yiğece ye cefhane ye giysi ye
+  REPLACE  ...yaşında stajyer adı don
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...don rawitsch northfield daki
+      metin  : carleton
+      duyulan: carlton
+  REPLACE  ...hangi yıl hangi güzergah
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...karar ve sürü şans
+      metin  : rawitsch
+      duyulan: ravitch
+  INSERT   ...daier de tesadüf değil
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...de bilgisayarla uğraşıyor bil
+      metin  : heinemann
+      duyulan: heineman
+  REPLACE  ...bil heinemann diğeri paul
+      metin  : dillenberger heinemann
+      duyulan: dilenberger heineman
+  REPLACE  ...sıranızı beklemeniz gerekiyor işi
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...rawitsch in okulunda değil
+      metin  : heinemann
+      duyulan: heineman
+  REPLACE  ...okulunda değil heinemann ile
+      metin  : dillenberger
+      duyulan: dilenberger
+  REPLACE  ...kadar süer var çünkü
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...ş bölümü kendiliğinden oluşuyor
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...insanların başına gelen dertleri
+      metin  : heinemann
+      duyulan: heineman
+  REPLACE  ...savrulacağını belirleyen yapıyı çiziyor
+      metin  : dillenberger
+      duyulan: dilenberger
+  REPLACE  ...yolu geçip oregon daki
+      metin  : willamette vadisi ne
+      duyulan: villamette vadisine
+  REPLACE  ...şey söz konusu değil
+      metin  : heinemann
+      duyulan: heyneman
+  REPLACE  ...ve o cuma sabahı
+      metin  : dersliğe
+      duyulan: dersliye
+  REPLACE  ...yolun ortasında aç kalıyor
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...in beklemediği şey dersin
+      metin  : bitmesiyle
+      duyulan: bitmesi ile
+  REPLACE  ...o sınıfta yaşıyor sonra
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...oregon hiçbir yerde çalışmıyor
+      metin  : rawitsch
+      duyulan: ravic
+  INSERT   ...tomar da birlikte taşınıyor
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...olan yapı tam da
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...in çekmecesindeki şeyi arıyor
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...başına harf harf geri
+      metin  : yazmak
+      duyulan: yazıyor
+  INSERT   ...harf geri yazmak bunu
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...programın çalışmaması demek ama
+      metin  : rawitsch
+      duyulan: ravic
+  INSERT   ...asıl fark oradan çıkıyor
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...ne kadar et vereceği
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...tam olarak buydu program
+      metin  : konsorsiyum un
+      duyulan: te konsorsiyumun
+  REPLACE  ...un ağına giriyor o
+      metin  : ağa
+      duyulan: ağ
+  REPLACE  ...çünkü oyunun sahibi yok
+      metin  : rawitsch
+      duyulan: ravich
+  REPLACE  ...kavramlar aklının ucundan geçmiyor
+      metin  : öyle ki
+      duyulan: ursleck i de
+  INSERT   ...veriyor eyalet dışına satıyor
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...bilgisayarlarda çalışıyor önce apple
+      metin  : ii
+      duyulan: ikey
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: oyun-2026-09-13.duyulan.txt

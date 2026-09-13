@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-13.mp3
+
+beklenen 1574 kelime | duyulan 1606 kelime | eşleşme %95.5
+sayı ifadesi: metinde 256, duyulanda 157  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kadar şiir sayılan tek
+      metin  : süs
+      duyulan: süslü
+  INSERT   ...sözlerini geri alacaktı mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nce derken gerçekten ince
+      metin  : elinize
+      duyulan: elinizi
+  REPLACE  ...orhan veli yaşındaydı oktay
+      metin  : rifat
+      duyulan: rifad
+  REPLACE  ...nin oktay rifadın melih
+      metin  : cevdedin
+      duyulan: cevdet in
+  INSERT   ...değil sıra oturma meselesiydi
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...bu ankara daydı oktay
+      metin  : rifat
+      duyulan: rifad
+  INSERT   ...aynı şeyi yazmaya başladılar
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...ayında yazar nahit sırrı
+      metin  : öriğin
+      duyulan: öri in
+  REPLACE  ...aracılığıyla ve yaşar nabi
+      metin  : nayır
+      duyulan: nayr
+  INSERT   ...de kararsızdı orhan veli
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yöne bunu anlamak için
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...noktaya taşımıştı ahmet haşim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...üzerinden kalkmıyordu nazım hikmet
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...sarsmıştı ne var ki
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...konusu o güne kadar
+      metin  : şiier
+      duyulan: şiiri
+  REPLACE  ...i kinci hedef benzetme
+      metin  : istiaer
+      duyulan: istiyaer
+  REPLACE  ...hedef benzetme istiaer ve
+      metin  : mübalağadır
+      duyulan: mübalağıdır
+  REPLACE  ...önsöz şiirin tarih boyunca
+      metin  : müreffeh
+      duyulan: müreffes
+  REPLACE  ...da bu alaya davetiye
+      metin  : çıkarıyordu
+      duyulan: çıkartıyordu
+  REPLACE  ...veli nin kendisi oldu
+      metin  : garibin
+      duyulan: te garip in
+  INSERT   ...aynı anda yaşandığı dönemdir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...askeer alındı ve askerliği
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...oradan aktarılıyordu orhan veli
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tercihin bedeli olarak bıraktı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...sabahattin ve bedri rahmi
+      metin  : eyüboğlu
+      duyulan: eyyuboğlu
+  INSERT   ...karar verdi yaprak ocak
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yaprak ocak çıktı haziran
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...sayının sonunda dergi kapandı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...sonunda dergi kapandı kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ciddiye alınacak şey görünmüyordu
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...i stanbul a geçti
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...komaya girdi ve saat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve şakacı dilinde kalmadılar
+      metin  : (yok)
+      duyulan: i kisi
+  DELETE   ...li yıllarda ortaya çıkan
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hamleydi gündelik dilin anlaşılırlığın
+      metin  : esprinin
+      duyulan: espirinin
+  INSERT   ...kendisi değil kavganın sonucu
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...fazlasıyla uygun son mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mayıs açılan cümle kasım
+      metin  : (yok)
+      duyulan: de
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: edebiyat-2026-09-13.duyulan.txt

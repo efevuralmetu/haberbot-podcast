@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-13.mp3
+
+beklenen 2541 kelime | duyulan 2562 kelime | eşleşme %91.9
+sayı ifadesi: metinde 308, duyulanda 219  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çevirmenin yolunu arıyordu adı
+      metin  : ludvig fon benedek ti
+      duyulan: ludwig von benedekti
+  REPLACE  ...nun en sevilen askeriydi
+      metin  : viyana bohemya
+      duyulan: vienna bohemia
+  INSERT   ...bakmak gerekir benedek temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...macar kökenliydi ve kont
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...lombardiya ovasının her hendeğini
+      metin  : minço nehrinin
+      duyulan: minco nehri nin
+  INSERT   ...her tepeyi bilirdi haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kanatta san martino sırtlarında
+      metin  : piyemonte
+      duyulan: piemonte
+  INSERT   ...da buydu avusturya nın
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kuzeyi bilen zihindi prusya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...karşı omuz omuza savaşmış
+      metin  : şlesvig
+      duyulan: schleswig
+  REPLACE  ...omuza savaşmış şlesvig ve
+      metin  : holştayn
+      duyulan: horstein
+  REPLACE  ...paylaşamamıştı berlin de otto
+      metin  : fon bismark
+      duyulan: von bismarck
+  REPLACE  ...güneyde i talya krallığı
+      metin  : venediği
+      duyulan: venedig i
+  REPLACE  ...venediği istiyordu kuzeyde prusya
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...olduğu yeer koy böylece
+      metin  : benedek
+      duyulan: venedig
+  REPLACE  ...ülkeye gönderildi i mparator
+      metin  : frans yozef
+      duyulan: franz josef
+  INSERT   ...haftalarca geciktirdi ancak mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i talya cephesine gönderilen
+      metin  : arşidük albreht
+      duyulan: archiduc albrecht
+  REPLACE  ...o cephede ay sonra
+      metin  : kustotsa
+      duyulan: kustodsa
+  REPLACE  ...da yanlış cepheye yerleştirmişti
+      metin  : benedek
+      duyulan: venedig
+  REPLACE  ...yerleştirmişti benedek karargahına vardığında
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...geleneği yoktu kolordu komutanları
+      metin  : arşidükler
+      duyulan: archidükler
+  REPLACE  ...alışık değillerdi birbirleriyle konuşmuyorlardı
+      metin  : benedeğin
+      duyulan: venedig in
+  REPLACE  ...kendi kurmay başkanı gideon
+      metin  : fon krismaniç
+      duyulan: von krismanich
+  REPLACE  ...yı yeniden çizen çatışmaydı
+      metin  : benedek
+      duyulan: venedig
+  REPLACE  ...çizen çatışmaydı benedek ordusunu
+      metin  : moravya
+      duyulan: moravia
+  REPLACE  ...benedek ordusunu moravya dan
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...görünmez adam vardı helmut
+      metin  : fon
+      duyulan: von
+  INSERT   ...vardı helmut fon moltke
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...hattı vardı avusturya nın
+      metin  : tane
+      duyulan: tanesi
+  REPLACE  ...prusya piyadesi arkadan dolan
+      metin  : dreyze iğneli
+      duyulan: dreysa ineli
+  INSERT   ...el zor ediyordu avusturya
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ordusunu böldü sol kanatta
+      metin  : hervart fon
+      duyulan: hervard von
+  REPLACE  ...elbe ordusu merkezde prens
+      metin  : fridrih
+      duyulan: friedrich
+  REPLACE  ...çok uzakta sağda ize
+      metin  : veliaht
+      duyulan: velia
+  REPLACE  ...sağda ize veliaht prens
+      metin  : fridrih vilhelm
+      duyulan: friedrich wilhelm
+  DELETE   ...fridrih vilhelm in kişilik
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yürümek hız ve ikmal
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...çarpışma oldu haziran da
+      metin  : trautenau
+      duyulan: trauttenau
+  REPLACE  ...haziran da trautenau da
+      metin  : ludvig fon gablents
+      duyulan: ludwig von gablens
+  ... ve 84 fark daha
+
+metinde olup DUYULMAYAN: 156 kelime | duyulup metinde OLMAYAN: 173
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: tarih-2026-09-13.duyulan.txt
