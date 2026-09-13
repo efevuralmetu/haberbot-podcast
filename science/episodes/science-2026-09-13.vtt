@@ -1,0 +1,617 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.330
+Push an empty bicycle hard and let go: for a few seconds it carries on with nobody riding it, and when it leans to one side the handlebar turns by itself into the fall and the bicycle straightens up.
+
+2
+00:00:11.330 --> 00:00:15.300
+The reason is not the gyroscopic effect you were taught at school.
+
+3
+00:00:15.300 --> 00:00:22.310
+Because physicists built a bicycle that cancelled both the gyroscope and the caster trail — and it did not fall over either.
+
+4
+00:00:30.510 --> 00:00:34.960
+Push an empty bicycle down a straight road and let it go.
+
+5
+00:00:34.960 --> 00:00:40.050
+For a few seconds it runs upright, far longer than it has any right to.
+
+6
+00:00:40.050 --> 00:00:49.620
+Then it leans a little to one side, and at that exact moment the handlebar turns itself the same way, the bicycle traces a shallow arc, and it stands back up.
+
+7
+00:00:49.620 --> 00:00:53.110
+No one is touching it, no one is correcting it.
+
+8
+00:00:53.110 --> 00:00:57.560
+There is nobody on the saddle, no hand on the bars.
+
+9
+00:00:57.560 --> 00:01:01.210
+And still the machine gathers itself together.
+
+10
+00:01:01.210 --> 00:01:12.220
+The first thing you feel when you watch this pushes you toward an explanation that is not true: the wheels are spinning, a spinning wheel is a gyroscope, and a gyroscope resists being tipped over.
+
+11
+00:01:12.220 --> 00:01:16.350
+The image of the spinning top we have known since childhood takes over.
+
+12
+00:01:16.350 --> 00:01:20.160
+A top stands while it spins and lies down when it stops.
+
+13
+00:01:20.160 --> 00:01:22.690
+The bicycle must be the same.
+
+14
+00:01:22.690 --> 00:01:26.820
+But the detail that matters in that scene is not the turning of the wheel.
+
+15
+00:01:26.820 --> 00:01:29.670
+It is the handlebar turning by itself.
+
+16
+00:01:29.670 --> 00:01:33.640
+What keeps a bicycle upright is not resistance but correction.
+
+17
+00:01:33.640 --> 00:01:39.050
+And that correction is nothing more than a single movement: steering toward the side it is falling.
+
+18
+00:01:39.050 --> 00:01:42.540
+To see why, you first have to accept something.
+
+19
+00:01:42.540 --> 00:01:46.190
+A two-wheeled vehicle cannot stand still and stay up.
+
+20
+00:01:46.190 --> 00:01:50.320
+The two points where it touches the ground form a line segment.
+
+21
+00:01:50.320 --> 00:01:56.050
+Along that line there is a base of support that amounts to a tire print a few centimeters wide.
+
+22
+00:01:56.050 --> 00:02:02.580
+If the center of gravity is not directly above that line, gravity begins to tip the bicycle sideways.
+
+23
+00:02:02.580 --> 00:02:09.590
+Whatever you do when you hold a broom by its handle and try to keep it upright on your palm, the bicycle has to do as well.
+
+24
+00:02:09.590 --> 00:02:17.240
+You slide your hand toward the side the broom is falling, you bring the support point back under the center of gravity, and the broom straightens.
+
+25
+00:02:17.240 --> 00:02:20.730
+Then it starts to fall again, and you slide again.
+
+26
+00:02:20.730 --> 00:02:26.780
+Standing upright is not a state; it is a continuously repeated sequence of corrections.
+
+27
+00:02:26.780 --> 00:02:30.430
+The bicycle's palm is the print the wheels leave on the ground.
+
+28
+00:02:30.430 --> 00:02:34.560
+And the only way to slide that print sideways is to turn the steering.
+
+29
+00:02:34.560 --> 00:02:47.330
+If the bicycle starts leaning right and the front wheel turns right, the bicycle sweeps an arc to the right; along that arc the contact points slide to the right of the center of gravity and the frame comes back up.
+
+30
+00:02:47.330 --> 00:02:50.660
+The fall is not being resisted.
+
+31
+00:02:50.660 --> 00:02:53.990
+The machine is moving in underneath it.
+
+32
+00:02:53.990 --> 00:02:57.320
+Everyone who rides does this without noticing.
+
+33
+00:02:57.320 --> 00:03:02.250
+In fact, most people do it in a way they will stubbornly deny.
+
+34
+00:03:02.250 --> 00:03:07.500
+When you want to turn left, you first flick the handlebar to the right for a very short moment.
+
+35
+00:03:07.500 --> 00:03:15.630
+That opposite move slides the bottom of the bicycle to the right, the body leans left, and you carry that lean through by steering left.
+
+36
+00:03:15.630 --> 00:03:25.360
+This is called countersteering, and above about ten kilometers an hour it is what unavoidably happens in every turn, on a motorcycle as much as on a bicycle.
+
+37
+00:03:25.360 --> 00:03:33.170
+Ask someone which way they turn the bars when they turn left, and the answer you get will not match the answer a sensor fitted to those bars would give.
+
+38
+00:03:33.170 --> 00:03:37.140
+The body has learned something the mind never did.
+
+39
+00:03:37.140 --> 00:03:41.110
+But a ridden bicycle is the easy part of the problem.
+
+40
+00:03:41.110 --> 00:03:46.040
+The hard part is how the empty one, pushed and released, manages it.
+
+41
+00:03:46.040 --> 00:03:49.050
+Because there is no brain there to decide.
+
+42
+00:03:49.050 --> 00:03:54.300
+The bicycle itself has to be a machine that steers toward the side it leans.
+
+43
+00:03:54.300 --> 00:03:57.950
+That is, a device with a feedback loop built into it.
+
+44
+00:03:57.950 --> 00:04:00.800
+So what builds that loop?
+
+45
+00:04:00.800 --> 00:04:05.090
+For more than a century there were two standard answers to that question.
+
+46
+00:04:05.090 --> 00:04:15.620
+The first was the gyroscopic effect of the spinning front wheel: when the bicycle leans right, the angular momentum of the front wheel produces a reaction in the direction of turning the bars to the right.
+
+47
+00:04:15.620 --> 00:04:20.070
+The second was the geometric property we call trail.
+
+48
+00:04:20.070 --> 00:04:32.040
+The imaginary steering axis extended by the front fork strikes the ground at a point; on a normal bicycle, the point where the front wheel touches the ground lies a few centimeters behind that point.
+
+49
+00:04:32.040 --> 00:04:36.170
+The same geometry is what straightens the casters of a shopping cart.
+
+50
+00:04:36.170 --> 00:04:44.620
+The front wheel behaves like a wheel dragged along behind, and when the bicycle leans, the reaction from the ground again turns the bars toward the lean.
+
+51
+00:04:44.620 --> 00:04:47.310
+Both explanations make sense.
+
+52
+00:04:47.310 --> 00:04:50.000
+Both really do work.
+
+53
+00:04:50.000 --> 00:04:54.450
+And both, taken separately, are unnecessary.
+
+54
+00:04:54.450 --> 00:05:00.340
+Saying that was not easy, because there was a serious mathematical tradition on the other side.
+
+55
+00:05:00.340 --> 00:05:05.750
+The equations of motion for a bicycle had been written at the end of the nineteenth century.
+
+56
+00:05:05.750 --> 00:05:17.560
+Emmanuel Carvallo in eighteen ninety-seven and Francis Whipple in eighteen ninety-nine, independently of one another, set down the sets of equations describing the leaning and steering motion of a two-wheeled vehicle.
+
+57
+00:05:17.560 --> 00:05:27.930
+At the beginning of the twentieth century, names such as Felix Klein and Fritz Noether placed the question inside gyroscope theory, and the sentence that entered the textbooks was this:
+
+58
+00:05:27.930 --> 00:05:32.540
+what holds a bicycle up is the gyroscopic effect of the spinning wheel.
+
+59
+00:05:32.540 --> 00:05:38.590
+The first person to shake that sentence seriously was a researcher and chemist named David Jones.
+
+60
+00:05:38.590 --> 00:05:46.560
+In a now-famous article published in a physics magazine in nineteen seventy, he described his attempt to build a bicycle that could not be ridden.
+
+61
+00:05:46.560 --> 00:05:55.490
+His aim was plain: if I cancel the gyroscopic effect, the bicycle should become unrideable, and that way I will have proved the theory by experiment.
+
+62
+00:05:55.490 --> 00:06:03.300
+He mounted a second wheel on the front fork, next to the real front wheel: one held up off the ground, spinning the other way.
+
+63
+00:06:03.300 --> 00:06:10.150
+The angular momenta of the two wheels cancelled each other out, so the gyroscopic effect at the front was close to zero.
+
+64
+00:06:10.150 --> 00:06:13.800
+Jones got on the bicycle and rode it comfortably.
+
+65
+00:06:13.800 --> 00:06:17.450
+He spun the counter-wheel faster; he still rode it.
+
+66
+00:06:17.450 --> 00:06:20.940
+He spun it in the same direction; he still rode it.
+
+67
+00:06:20.940 --> 00:06:23.950
+The unrideable bicycle could be ridden.
+
+68
+00:06:23.950 --> 00:06:29.520
+What Jones found to be the genuinely sensitive setting was not the gyroscope but the trail.
+
+69
+00:06:29.520 --> 00:06:40.210
+When he moved the front wheel roughly ten centimeters forward of its normal position and reversed the trail, what came out was a truly ill-tempered machine: pushed and released, it fell over at once.
+
+70
+00:06:40.210 --> 00:06:43.700
+So trail looked more decisive than the gyroscope.
+
+71
+00:06:43.700 --> 00:06:46.390
+This rescued half of the explanation.
+
+72
+00:06:46.390 --> 00:06:50.840
+What keeps a bicycle upright is not the gyroscope but the geometry.
+
+73
+00:06:50.840 --> 00:06:54.650
+Forty years later, that half was questioned too.
+
+74
+00:06:54.650 --> 00:07:04.060
+In April of two thousand eleven, an article in the journal Science described a trap set by a team from Delft University of Technology and Cornell University.
+
+75
+00:07:04.060 --> 00:07:15.870
+The group, made up of Jodi Kooijman, Arend Schwab, Andy Ruina, Jim Papadopoulos and Jaap Meijaard, first built a theoretical model on paper: two point masses and, in place of wheels,
+
+76
+00:07:15.870 --> 00:07:21.280
+two contacts that behaved like ice skate blades with no rotational inertia at all.
+
+77
+00:07:21.280 --> 00:07:27.970
+The single purpose of this model was to zero out the contribution of gyroscope and trail by definition.
+
+78
+00:07:27.970 --> 00:07:31.940
+The model came out self-stable above a certain speed.
+
+79
+00:07:31.940 --> 00:07:35.270
+The real task was making it out of metal.
+
+80
+00:07:35.270 --> 00:07:45.640
+The machine they built did not look much like a bicycle: small wheels, a pair of counter-rotating wheels mounted above each of them, two heavy masses sitting out in the open.
+
+81
+00:07:45.640 --> 00:07:52.810
+The counter-rotating wheels cancelled the angular momentum of the front and the rear, so the gyroscopic effect was gone.
+
+82
+00:07:52.810 --> 00:07:56.140
+The trail was measured at minus four millimeters.
+
+83
+00:07:56.140 --> 00:08:04.110
+The point where the front wheel touched the ground was not behind the point where the steering axis met the ground, but four millimeters in front of it.
+
+84
+00:08:04.110 --> 00:08:09.840
+Neither of the two ingredients that classical theory demanded for a bicycle that stands up was present.
+
+85
+00:08:09.840 --> 00:08:16.370
+This machine was pushed, was knocked out of balance with a kick from the side, and it gathered itself back together.
+
+86
+00:08:16.370 --> 00:08:27.380
+Above a certain threshold speed, about two point three meters per second, close to eight kilometers an hour, it would wobble its way back to running straight and upright after a disturbance from outside.
+
+87
+00:08:27.380 --> 00:08:32.790
+The lean and steer motion that was measured matched the curve the theoretical model had predicted.
+
+88
+00:08:32.790 --> 00:08:34.680
+So what was left?
+
+89
+00:08:34.680 --> 00:08:36.570
+Mass distribution.
+
+90
+00:08:36.570 --> 00:08:45.180
+A bicycle's steering assembly, meaning the fork, the bars and the front wheel, can turn freely as a single unit around the steering axis.
+
+91
+00:08:45.180 --> 00:08:50.110
+The center of gravity of that unit does not have to sit directly on the axis.
+
+92
+00:08:50.110 --> 00:08:56.000
+What is critical is that the center of gravity of the front assembly sits low and ahead of that axis.
+
+93
+00:08:56.000 --> 00:09:07.010
+In such an arrangement, the moment the bicycle leans right, gravity does not only try to tip the frame over; it also tries to turn the hanging front assembly to the right around the steering axis.
+
+94
+00:09:07.010 --> 00:09:11.940
+The front assembly is light, and it responds faster than the frame does.
+
+95
+00:09:11.940 --> 00:09:17.830
+While the fall is still a lean of only a few degrees, the steering has already turned the right way.
+
+96
+00:09:17.830 --> 00:09:21.960
+This means the bicycle is using its own fall in its own favor.
+
+97
+00:09:21.960 --> 00:09:25.450
+The falling is itself the signal that triggers the correction.
+
+98
+00:09:25.450 --> 00:09:38.380
+And that was exactly the conclusion the team underlined in the article: almost any self-stable bicycle can be made unstable by spoiling its trail alone, or by changing the gyroscopic effect of the front wheel alone,
+
+99
+00:09:38.380 --> 00:09:42.510
+or by shifting the center of gravity of the front assembly alone.
+
+100
+00:09:42.510 --> 00:09:44.880
+All three are effective.
+
+101
+00:09:44.880 --> 00:09:48.050
+None of the three is necessary on its own.
+
+102
+00:09:48.050 --> 00:09:55.060
+Stability is not a property owned by any one of them; it is a condition in which the account between them comes out even.
+
+103
+00:09:55.060 --> 00:09:59.830
+At this point what a person wants is obvious: a one-sentence answer.
+
+104
+00:09:59.830 --> 00:10:02.840
+Why does a bicycle not fall over?
+
+105
+00:10:02.840 --> 00:10:08.090
+We now know what the answer is not, but there is no sentence that clean to put in its place.
+
+106
+00:10:08.090 --> 00:10:11.260
+The reason for that is not ignorance.
+
+107
+00:10:11.260 --> 00:10:14.270
+It is the structure of the equations.
+
+108
+00:10:14.270 --> 00:10:24.960
+The model the Delft and Cornell team published in two thousand seven, used today as a common point of comparison in the field, describes a bicycle with twenty-five physical variables.
+
+109
+00:10:24.960 --> 00:10:35.010
+Wheel radii, the tilt of the steering axis, trail, wheelbase, the masses of the rear frame and the front assembly, the positions of the centers of those masses,
+
+110
+00:10:35.010 --> 00:10:38.820
+and the moments of inertia of each of them about three axes.
+
+111
+00:10:38.820 --> 00:10:43.110
+On top of all that come gravity and speed.
+
+112
+00:10:43.110 --> 00:10:50.440
+Stability emerges from a particular combination of these twenty-five numbers; the value of any one of them on its own tells you nothing.
+
+113
+00:10:50.440 --> 00:10:58.570
+You cannot learn a bicycle's trail and say whether it will fall over, just as you cannot know how a dish tastes by looking only at how much salt is in it.
+
+114
+00:10:58.570 --> 00:11:03.660
+When the equations are solved, two characteristic forms of motion appear.
+
+115
+00:11:03.660 --> 00:11:11.470
+The first is called weave: the leaning and steering motions of the bicycle oscillating together in a rocking that repeats a few times a second.
+
+116
+00:11:11.470 --> 00:11:17.680
+At low speeds this oscillation grows and topples the bicycle; above a certain speed it dies away.
+
+117
+00:11:17.680 --> 00:11:25.330
+The second is called capsize: the bicycle, without oscillating, curling slowly over to one side in a lean that keeps increasing.
+
+118
+00:11:25.330 --> 00:11:29.460
+This motion is damped at low speeds and grows slowly at high speeds.
+
+119
+00:11:29.460 --> 00:11:33.590
+For the benchmark model, the calculated values are these.
+
+120
+00:11:33.590 --> 00:11:39.960
+The weave motion is damped above four point three meters per second, roughly fifteen kilometers an hour.
+
+121
+00:11:39.960 --> 00:11:46.970
+The capsize motion begins to grow slowly above six meters per second, somewhere around twenty-one kilometers an hour.
+
+122
+00:11:46.970 --> 00:11:53.020
+That narrow band between the two thresholds is the range in which a bicycle is genuinely self-stable.
+
+123
+00:11:53.020 --> 00:11:58.750
+Below it and above it, a bicycle left to its own devices ends up on the ground sooner or later.
+
+124
+00:11:58.750 --> 00:12:03.680
+That is why the empty bicycle you push runs for a few seconds and then lies down.
+
+125
+00:12:03.680 --> 00:12:09.250
+Friction slows it, the speed drops below that band, and the balance disappears.
+
+126
+00:12:09.250 --> 00:12:13.540
+There is a conclusion that follows from this and is often told wrongly.
+
+127
+00:12:13.540 --> 00:12:17.990
+Self-stability is not a requirement for rideability.
+
+128
+00:12:17.990 --> 00:12:28.040
+A bicycle that begins to lean over at high speed is not dangerous at all, because that motion grows very slowly and the tiniest correction the rider gives the bars suppresses it.
+
+129
+00:12:28.040 --> 00:12:36.810
+In the same way, a person can perfectly well ride a bicycle that topples the instant it is left alone; the rider fills in for the feedback loop the machine is missing.
+
+130
+00:12:36.810 --> 00:12:42.380
+On a ridden bicycle, the real controller providing the balance is always the human being.
+
+131
+00:12:42.380 --> 00:12:47.630
+The machine's own stability is no more than a gift that makes that person's work easier.
+
+132
+00:12:47.630 --> 00:12:49.680
+And there is this too.
+
+133
+00:12:49.680 --> 00:12:57.810
+The sentence going around on the internet, that science still cannot explain how a bicycle stays up, is not true as it stands.
+
+134
+00:12:57.810 --> 00:13:06.100
+The equations have been in our hands since the end of the nineteenth century, they were verified in two thousand seven by methods independent of one another,
+
+135
+00:13:06.100 --> 00:13:10.710
+and they have been shown many times over to agree with experimental measurements.
+
+136
+00:13:10.710 --> 00:13:17.240
+Give us the dimensions of a bicycle and we can tell you with numbers at which speeds that bicycle will be self-stable.
+
+137
+00:13:17.240 --> 00:13:26.810
+More than that, as happened in two thousand eleven, we can calculate a strange machine designed on paper in advance, then build it out of metal and confirm it.
+
+138
+00:13:26.810 --> 00:13:30.140
+What cannot be explained is not the physics.
+
+139
+00:13:30.140 --> 00:13:35.550
+What cannot be explained is the short sentence that translates this physics into intuition.
+
+140
+00:13:35.550 --> 00:13:39.200
+What is missing is not the knowledge but the story.
+
+141
+00:13:39.200 --> 00:13:43.010
+That distinction touches something wider than the bicycle.
+
+142
+00:13:43.010 --> 00:13:49.060
+The measure of whether we have understood a phenomenon is usually taken to be whether we can describe it briefly.
+
+143
+00:13:49.060 --> 00:13:53.990
+But nature does not always package its explanations into single-cause sentences.
+
+144
+00:13:53.990 --> 00:14:01.160
+In some systems, the essential thing is a property found in none of the parts, one that lives only in the ratios between them.
+
+145
+00:14:01.160 --> 00:14:03.690
+The bicycle is like this.
+
+146
+00:14:03.690 --> 00:14:09.260
+There is no such object as a self-stable bicycle; there is a self-stable setting.
+
+147
+00:14:09.260 --> 00:14:16.590
+When geometry, mass distribution and speed come together in the right way, falling turns into straightening.
+
+148
+00:14:16.590 --> 00:14:26.800
+And we found this setting some seventy years before the equations were written, not from a calculated design but from a craft that came out of the hands of makers who patiently tried and failed.
+
+149
+00:14:26.800 --> 00:14:37.010
+The people in the bicycle workshops of the nineteenth century who fiddled with fork angle, trail distance and wheel size may have worked out what did the job, but they did not know why it did.
+
+150
+00:14:37.010 --> 00:14:46.900
+Today we know the mathematics underneath it, and that has a concrete payoff: we no longer have to hunt for stability by trial and error, we can design it by calculation.
+
+151
+00:14:46.900 --> 00:14:56.950
+The same equations are used in setting motorcycle geometry, in two-wheeled robots that keep their own balance, and in sizing custom bicycles for riders with disabilities.
+
+152
+00:14:56.950 --> 00:15:05.400
+An ordinary object everyone assumed they understood for a century turned out, once it was opened up, to still be a machine worth working on.
+
+153
+00:15:05.400 --> 00:15:09.050
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+154
+00:15:09.050 --> 00:15:12.700
+Yeni bir hikâyede yeniden buluşmak üzere.
