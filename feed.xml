@@ -15,7 +15,17 @@
 <itunes:category text="News"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Mon, 14 Sep 2026 05:23:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 15:24:44 +0000</lastBuildDate>
+<item>
+<title>Akşam Haberleri — 14 Eylül 2026</title>
+<description>İsveç'te parlamento seçimi sandık başında, Endonezya'da 243 kişilik feribotun alabora olmasının ardından yaklaşık 130 kişi için arama kurtarma sürüyor ve Hürmüz Boğazı'ndaki gemi saldırıları Brent petrolü 100 doların üzerine taşıdı. Yapay zeka cephesinde Dario Amodei'nin "yavaşlayalım" çağrısına Trump'tan ret geldi, OpenAI halka arzı erteledi, DeepSeek ve Cognition yeni modellerini duyurdu. Yurt içinde Merkez Bankası faizi yüzde 37'de sabit tuttu, 12 Eylül'ün 46. yılında seçim takvimi tartışması alevlendi ve 2026-2027 eğitim yılı yarın başlıyor.</description>
+<itunes:subtitle>İsveç'te parlamento seçimi sandık başında, Endonezya'da 243 kişilik feribotun alabora olmasının ardından yaklaşık 130 kişi için arama kurtarma sürüyor ve Hürmüz Boğazı'ndaki gemi saldırıları Brent petrolü 100 doların üzerine taşıdı. Yapay zeka cephesinde Dario Amodei'nin "yavaşlayalım" çağrısına Trump'tan ret geldi, OpenAI halka arzı erteledi, DeepSeek ve Cognition yeni modellerini duyurdu. Yurt içinde Merkez Bankası faizi yüzde 37'de sabit tuttu, 12 Eylül'ün 46. yılında seçim takvimi tartışması alevlendi ve 2026-2027 eğitim yılı yarın başlıyor.</itunes:subtitle>
+<pubDate>Mon, 14 Sep 2026 18:24:27 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/haber/aksam-2026-09-14.mp3" length="27756044" type="audio/mpeg"/>
+<guid isPermaLink="false">aksam-2026-09-14</guid>
+<itunes:duration>38:36</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Sabah Haberleri — 14 Eylül 2026</title>
 <description>Yemen'deki Husi hareketi, Babülmendep Boğazı'nın en dar noktasındaki Meyyun Adası'nı da ele geçirerek bu su yolunun kontrolünü tümüyle eline aldı ve Hürmüz Boğazı'ndaki gerilimin sürdüğü bir dönemde dünyanın iki kritik enerji koridoru aynı anda risk altına girdi.</description>
@@ -674,16 +684,6 @@
 <enclosure url="https://cdn.noronmedia.com/haber/aksam-2026-06-16.mp3" length="20456108" type="audio/mpeg"/>
 <guid isPermaLink="false">aksam-2026-06-16</guid>
 <itunes:duration>28:28</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Sabah Haberleri — 16 Haziran 2026</title>
-<description>Bugünün metni hazır.</description>
-<itunes:subtitle>Bugünün metni hazır.</itunes:subtitle>
-<pubDate>Tue, 16 Jun 2026 08:39:29 +0300</pubDate>
-<enclosure url="https://cdn.noronmedia.com/haber/gundem-2026-06-16.mp3" length="7740044" type="audio/mpeg"/>
-<guid isPermaLink="false">gundem-2026-06-16</guid>
-<itunes:duration>10:48</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
