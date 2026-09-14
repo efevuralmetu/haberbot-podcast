@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-14.mp3
+
+beklenen 1798 kelime | duyulan 1811 kelime | eşleşme %94.0
+sayı ifadesi: metinde 228, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dedeler var ocak ayının
+      metin  : yedisinde o dağ
+      duyulan: sinde odağ
+  REPLACE  ...çekilmiş koy sardunya nın
+      metin  : kilometreyi
+      duyulan: km yi
+  REPLACE  ...korsanı ceneviz aragonlu kim
+      metin  : geldiyze
+      duyulan: geldi ize
+  REPLACE  ...barbagia adanın tam ortasında
+      metin  : gennargentu
+      duyulan: genergentü
+  REPLACE  ...noktası punta la marmora
+      metin  : meter akdeniz in
+      duyulan: m akdenizin
+  REPLACE  ...köy arasındaki kuş uçuşu
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...aktardığına göer milattan önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...göer milattan önce tiberius
+      metin  : gracchus
+      duyulan: gracius
+  REPLACE  ...ya da esir alındı
+      metin  : o
+      duyulan: çok
+  REPLACE  ...sardunyalı sözcüğü süer ucuzluğun
+      metin  : deyimi
+      duyulan: değimi
+  REPLACE  ...yılında papa büyük gregorius
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...yıldan fazla zaman geçmişken
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...dilde de kaldı bugün
+      metin  : sardunyacanın latinceye
+      duyulan: sardunyaca nın latinca ya
+  REPLACE  ...bölgede nuoro çevresinde konuşuluyor
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...üzerinden tanımlandı hukukçu antonio
+      metin  : pigliaru
+      duyulan: pigliaro da
+  REPLACE  ...içeriden nasıl göründüğünü anlatıyordu
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...ama buradan çıkan grazia
+      metin  : deledda
+      duyulan: del edda da
+  REPLACE  ...edebiyat ödülü nü aldığında
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...fikri buradan güç aldı
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...aldı barbagia nın bugün
+      metin  : turistten
+      duyulan: turisten
+  REPLACE  ...üstünün beyaz olduğu gecede
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...küsur nüfuslu köyde geçiyor
+      metin  : mamoiada
+      duyulan: mamoya da
+  REPLACE  ...rüzgarın her yerden girdiği
+      metin  : barbagia
+      duyulan: barbaria
+  REPLACE  ...asıl yük gelir sardunyalıların
+      metin  : sa carriga
+      duyulan: sagariga
+  INSERT   ...başına yerleştirmek mümkün değildir
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...ya da kestaneden ama
+      metin  : mamoiada nın
+      duyulan: mamoyadanın
+  REPLACE  ...bozmaz bu kılığa girene
+      metin  : mamuthone
+      duyulan: mamutone
+  REPLACE  ...ve bu dans değildir
+      metin  : mamuthone ler
+      duyulan: mamutoneler
+  REPLACE  ...herkes duyar ateşin çevresinde
+      metin  : tur
+      duyulan: dur
+  REPLACE  ...değil en dürüst tarafı
+      metin  : mamuthone leri
+      duyulan: mamutoneleri
+  REPLACE  ...sokan kişi nuorolu araştırmacı
+      metin  : raffaello marchi
+      duyulan: rafael lomarchi
+  INSERT   ...araştırmacı raffaello marchi oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve okuma önerdi kırmızılı
+      metin  : issohadoer ler
+      duyulan: i sohadoreler
+  REPLACE  ...ve zincirlenmiş gibi yürüyen
+      metin  : mamuthone ler
+      duyulan: mamutoneler
+  REPLACE  ...ekibi tamamen tersini söyledi
+      metin  : mamuthone
+      duyulan: mamutone
+  REPLACE  ...mamuthone hayvandır sürüdür doğadır
+      metin  : issohadoer
+      duyulan: i sohadoer
+  REPLACE  ...yeniden ilişki kurmasının sonucudur
+      metin  : mamoiada
+      duyulan: mamoya da de
+  REPLACE  ...kurmasının sonucudur mamoiada museo
+      metin  : delle mascheer mediterranee
+      duyulan: dello masceer mediterranei
+  REPLACE  ...koyuyor barbagia nın kışında
+      metin  : mamoiada
+      duyulan: mamoya da
+  REPLACE  ...orotelli de kurumla kararmış
+      metin  : thurpos
+      duyulan: turpos
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: seyahat-2026-09-14.duyulan.txt

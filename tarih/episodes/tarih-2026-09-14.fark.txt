@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-14.mp3
+
+beklenen 2541 kelime | duyulan 2572 kelime | eşleşme %93.9
+sayı ifadesi: metinde 308, duyulanda 219  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nun en sevilen askeriydi
+      metin  : viyana bohemya da
+      duyulan: vienna bohemyada
+  INSERT   ...bakmak gerekir benedek temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...macar kökenliydi ve kont
+      metin  : unvanı
+      duyulan: ünvanı
+  INSERT   ...her tepeyi bilirdi haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...solferino da imparatorluk ordusunun
+      metin  : merkezi
+      duyulan: merkeziği
+  REPLACE  ...kanatta san martino sırtlarında
+      metin  : piyemonte
+      duyulan: piemonte
+  INSERT   ...da buydu avusturya nın
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kuzeyi bilen zihindi prusya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...omuza savaşmış schleswig ve
+      metin  : holstein
+      duyulan: hochstein
+  REPLACE  ...güneyde i talya krallığı
+      metin  : venediği
+      duyulan: venedik i
+  REPLACE  ...venediği istiyordu kuzeyde prusya
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...gönderildi i mparator franz
+      metin  : joseph
+      duyulan: josef
+  INSERT   ...haftalarca geciktirdi ancak mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i talya cephesine gönderilen
+      metin  : arşidük
+      duyulan: archiduc
+  REPLACE  ...o cephede ay sonra
+      metin  : custoza
+      duyulan: gustoza
+  REPLACE  ...yerleştirmişti benedek karargahına vardığında
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...geleneği yoktu kolordu komutanları
+      metin  : arşidükler
+      duyulan: archidükler
+  REPLACE  ...alışık değillerdi birbirleriyle konuşmuyorlardı
+      metin  : benedeğin
+      duyulan: benedek in
+  REPLACE  ...kurmay başkanı gideon von
+      metin  : krismanić
+      duyulan: krismanich
+  REPLACE  ...karşı seferberlik oylandı prusya
+      metin  : konfederasyonun
+      duyulan: konfederasyonu nun
+  REPLACE  ...benedek ordusunu moravya dan
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...neredeyze görünmez adam vardı
+      metin  : helmuth
+      duyulan: helmut
+  INSERT   ...vardı helmuth von moltke
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...şey savaş sanatının hangi
+      metin  : teknolojiyle
+      duyulan: teknoloji ile
+  INSERT   ...el zor ediyordu avusturya
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ordusunu böldü sol kanatta
+      metin  : herwarth
+      duyulan: hervard
+  REPLACE  ...çok uzakta sağda ize
+      metin  : veliaht
+      duyulan: veljárd
+  DELETE   ...friedrich wilhelm in kişilik
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yürümek hız ve ikmal
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...trautenau da ludwig von
+      metin  : gablenz
+      duyulan: gablens
+  REPLACE  ...bütün kampanyanın tek avusturya
+      metin  : galibiyetiydi
+      duyulan: galibiyeti idi
+  REPLACE  ...zayiat verdi aynı günlerde
+      metin  : nachod da skalitz de gitschin
+      duyulan: nakhjot ta skalit te gidşin
+  REPLACE  ...barış yapılmasını rica etti
+      metin  : franz joseph
+      duyulan: frans josef
+  REPLACE  ...nehri kıyısındaki kale kenti
+      metin  : königgrätz
+      duyulan: königretz
+  REPLACE  ...ortasındaki küçük köyün adını
+      metin  : sadowa
+      duyulan: sadova
+  INSERT   ...türkçe söyleyişiyle sadova yı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...ordu düşmanı cepheden tutacak
+      metin  : veliaht
+      duyulan: veljárd
+  DELETE   ...tutacak veliaht prens in
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...inecekti tek sorun vardı
+      metin  : veliaht
+      duyulan: veljárd
+  REPLACE  ...yarısı yola çıkan yaverlerden
+      metin  : yarbay kont finckenstein
+      duyulan: yarbaykond finkenstein
+  ... ve 63 fark daha
+
+metinde olup DUYULMAYAN: 106 kelime | duyulup metinde OLMAYAN: 127
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: tarih-2026-09-14.duyulan.txt

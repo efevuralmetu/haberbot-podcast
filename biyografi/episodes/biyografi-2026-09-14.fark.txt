@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-14.mp3
+
+beklenen 2336 kelime | duyulan 2366 kelime | eşleşme %95.1
+sayı ifadesi: metinde 345, duyulanda 214  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çünkü emirdeki isim ihtiyar
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...kaldığı gün yazında arkansas
+      metin  : ın
+      duyulan: nın
+  REPLACE  ...kendisine ait soyadı yoktu
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...yoktu bass dendi bu
+      metin  : büyükbabası basse
+      duyulan: büyük babası buzz de
+  REPLACE  ...basse washington dan gelen
+      metin  : addı
+      duyulan: attı
+  REPLACE  ...hanenin adını taşırdı yani
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...ta eyalet meclisine girmiş
+      metin  : toprağı
+      duyulan: toprağa
+  INSERT   ...ve insanları olan çiftçi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hane halkını toplayıp güneye
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...ın grayson ilçesine taşındı
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...ve silahtı anlatılanlara göer
+      metin  : bass in
+      duyulan: buzz ın
+  REPLACE  ...yanında büyümek beyaz sınır
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...yaptığını yakından izlemek demekti
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...yasak geri kalanında tehlikeliydi
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...kimse böyle gelecek düşünmüyordu
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...gelecek düşünmüyordu bass reeves
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...bass reeves ellilerin sonunda
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...sonunda teksas ta boyu
+      metin  : meter
+      duyulan: i
+  INSERT   ...içinde yanacak dünyanın defterleriydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...amerika birleşik devletleri bölündü
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...giderken yanına kendi uşağını
+      metin  : da aldı
+      duyulan: dağıldı
+  REPLACE  ...taşıyacak ihtiyacı vardı böylece
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...hayat arada ize kızıl
+      metin  : irmak
+      duyulan: ırmak
+  REPLACE  ...öldürmek için kağıt oynardı
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...çıktı tartışma büyüdü ve
+      metin  : bass
+      duyulan: buzz
+  DELETE   ...yılda tek anlama geliyordu
+      metin  : ölüm
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olayın ayrıntılarının sonradan efsaneleştiğini
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...şu ile arasında gece
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...hem tuzaktı sığınaktı çünkü
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...ayrılıkçıların yanında yer almıştı
+      metin  : bass
+      duyulan: buzz
+  REPLACE  ...her şeyin okulu oldu
+      metin  : çeroki
+      duyulan: cherokee
+  INSERT   ...olduğu bölgede yaşadığı kesindir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...eklenen madde köleliği kaldırdı
+      metin  : bass
+      duyulan: bas
+  REPLACE  ...yıllarda siyasette yükseldi ve
+      metin  : teksas
+      duyulan: texas
+  INSERT   ...nin başkanlığına kadar geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ısırığın ardından kuduzdan öldü
+      metin  : bass
+      duyulan: bas
+  REPLACE  ...kuduzdan öldü bass reeves
+      metin  : ize teksas
+      duyulan: ek texas
+  REPLACE  ...çiftçi oldu evlendi eşi
+      metin  : teksaslı
+      duyulan: texaslı
+  REPLACE  ...evlendi eşi teksaslı nellie
+      metin  : jennie ydi
+      duyulan: jenney di
+  INSERT   ...at yetiştirdi hasat kaldırdı
+      metin  : (yok)
+      duyulan: lu
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: biyografi-2026-09-14.duyulan.txt

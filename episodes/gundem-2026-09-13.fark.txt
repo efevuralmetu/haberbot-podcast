@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-13.mp3
+
+beklenen 1347 kelime | duyulan 1354 kelime | eşleşme %93.1
+sayı ifadesi: metinde 343, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yemen deki husi hareketi
+      metin  : babülmendep
+      duyulan: babül mendeb
+  REPLACE  ...nın en dar noktasındaki
+      metin  : meyyun
+      duyulan: meyun
+  INSERT   ...i daresi verilerine göer
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...daresi verilerine göer çeyreğinde
+      metin  : babülmendep
+      duyulan: babül mendeb
+  REPLACE  ...ın güneyindeki şurura askeri
+      metin  : üssüne
+      duyulan: üstüne
+  REPLACE  ...suudi sivil savunması ize
+      metin  : cizan
+      duyulan: cizam
+  REPLACE  ...silah edinmesine izin verilmeyeceğini
+      metin  : yineledi
+      duyulan: yeniledi
+  INSERT   ...ran dan ateşlenen füzeden
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...alanlara düştüğünü ve can
+      metin  : kaybı ile
+      duyulan: kaybıyla
+  REPLACE  ...ciddi hasar olmadığını açıkladı
+      metin  : yeni delhi
+      duyulan: yenideli
+  REPLACE  ...yeni delhi de toplanan
+      metin  : brics
+      duyulan: briggs
+  REPLACE  ...putin çin devlet başkanı
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...zirve itirazsız kabul edilen
+      metin  : yeni delhi bildirgesi yle
+      duyulan: yenideli bildirgesiyle
+  REPLACE  ...savundu ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelenski
+  REPLACE  ...ayında miami de yapılacak
+      metin  : gyirmi zirvesi nde
+      duyulan: zirvesinde
+  REPLACE  ...söyledi rusya dışişleri bakanı
+      metin  : sergey
+      duyulan: sergei
+  INSERT   ...çıkan yangında ölü sayısı
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...zamanda sağlık alanındaki ürünü
+      metin  : chatgpt
+      duyulan: chetgpt
+  REPLACE  ...alanındaki ürünü chatgpt health
+      metin  : i
+      duyulan: ı
+  REPLACE  ...enteger etti avrupa ize
+      metin  : chatgpt yi
+      duyulan: chetgpt
+  DELETE   ...olarak tanıttığı claude fable
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...fable nokta ve mythos
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...edildiğini rusya bağlantılı casusluk
+      metin  : faaliyetleri ile
+      duyulan: faaliyetleriyle
+  REPLACE  ...yürütmede iyileştirme vaat eden
+      metin  : ceminay nokta
+      duyulan: gemini
+  REPLACE  ...yana üst segmentte yeni
+      metin  : ceminay
+      duyulan: gemini
+  REPLACE  ...apple ın yeni nesil
+      metin  : siri si
+      duyulan: serisi
+  INSERT   ...şirket küresel robotaksi pazarının
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...nvidia ve amd işlemleri
+      metin  : buluta
+      duyulan: bluta
+  REPLACE  ...sam altman büyük elektrik
+      metin  : şirketleriyle
+      duyulan: şirketleri ile
+  REPLACE  ...türkiye tamamlandı etkinlik türk
+      metin  : girişimleriyle
+      duyulan: girişimleri ile
+  REPLACE  ...taşıdı para piyasalarındaki fiyatlamalar
+      metin  : baz
+      duyulan: bas
+  INSERT   ...eylül çarşamba türkiye saatiyle
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da bist endeksi haftayı
+      metin  : yükselişle
+      duyulan: yükselişte
+  REPLACE  ...süreç duruyor ankara bölge
+      metin  : adliye
+      duyulan: adiye
+  REPLACE  ...mahkemesi hukuk dairesi mayıs
+      metin  : partinin
+      duyulan: da parti nin
+  REPLACE  ...olduğunu parti içi seçimlerde
+      metin  : nihai merciin
+      duyulan: nihayi merciğin
+  INSERT   ...davasının duruşması eylül saat
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...sanık yer alıyor bunlardan
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...davanın ilk duruşması mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk duruşması mart yapılmıştı
+      metin  : casusluk
+      duyulan: kasusluk
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: gundem-2026-09-13.duyulan.txt

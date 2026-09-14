@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-14.mp3
+
+beklenen 1534 kelime | duyulan 1547 kelime | eşleşme %96.1
+sayı ifadesi: metinde 224, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çok oynanan eğitim oyununu
+      metin  : diriltmek
+      duyulan: dirirtmek
+  REPLACE  ...aralık cuma sabahı minneapolis
+      metin  : in
+      duyulan: ın
+  REPLACE  ...sürülmüş makinenin adı teletype
+      metin  : asr
+      duyulan: icr
+  DELETE   ...olmayan yazdığınız her harfi
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...öküzleer ne kadar ayıracaksınız
+      metin  : yiyeceğe cephaneye giysiye
+      duyulan: yiğice ye cefhane ye gisi ye
+  REPLACE  ...yaşında stajyer adı don
+      metin  : rawitsch
+      duyulan: ravich
+  REPLACE  ...don rawitsch northfield daki
+      metin  : carleton
+      duyulan: carlton
+  REPLACE  ...hangi yıl hangi güzergah
+      metin  : rawitsch
+      duyulan: ravich
+  REPLACE  ...karar ve sürü şans
+      metin  : rawitsch
+      duyulan: ravich
+  INSERT   ...daier de tesadüf değil
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...de bilgisayarla uğraşıyor bil
+      metin  : heinemann
+      duyulan: heineman
+  REPLACE  ...heinemann diğeri paul dillenberger
+      metin  : heinemann
+      duyulan: heineman
+  REPLACE  ...sıranızı beklemeniz gerekiyor işi
+      metin  : rawitsch
+      duyulan: ravich
+  REPLACE  ...rawitsch in okulunda değil
+      metin  : heinemann
+      duyulan: heineman
+  REPLACE  ...kadar süer var çünkü
+      metin  : rawitsch
+      duyulan: ravich
+  REPLACE  ...ş bölümü kendiliğinden oluşuyor
+      metin  : rawitsch
+      duyulan: ravich
+  REPLACE  ...insanların başına gelen dertleri
+      metin  : heinemann
+      duyulan: heineman
+  INSERT   ...üstleniyor dil olarak basic
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...oyuncu kervan reisidir baharında
+      metin  : missouri deki
+      duyulan: misurideki
+  REPLACE  ...yolu geçip oregon daki
+      metin  : willamette vadisi ne
+      duyulan: villamette vadisine
+  REPLACE  ...şey söz konusu değil
+      metin  : heinemann
+      duyulan: heyneman
+  REPLACE  ...ve o cuma sabahı
+      metin  : dersliğe
+      duyulan: dersliye
+  REPLACE  ...yolun ortasında aç kalıyor
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...o sınıfta yaşıyor sonra
+      metin  : rawitsch
+      duyulan: ravic
+  REPLACE  ...oregon hiçbir yerde çalışmıyor
+      metin  : rawitsch
+      duyulan: ravitch
+  INSERT   ...tomar da birlikte taşınıyor
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...olan yapı tam da
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...in çekmecesindeki şeyi arıyor
+      metin  : rawitsch
+      duyulan: ravitch
+  INSERT   ...harf geri yazmak bunu
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...programın çalışmaması demek ama
+      metin  : rawitsch
+      duyulan: ravitch
+  INSERT   ...asıl fark oradan çıkıyor
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...ne kadar et vereceği
+      metin  : rawitsch
+      duyulan: ravitch
+  REPLACE  ...nsanların neyi kaç günde
+      metin  : aştığını
+      duyulan: açtığını
+  REPLACE  ...tam olarak buydu program
+      metin  : konsorsiyum un
+      duyulan: te konsorsiyumun
+  REPLACE  ...un ağına giriyor o
+      metin  : ağa
+      duyulan: ağ
+  REPLACE  ...çünkü oyunun sahibi yok
+      metin  : rawitsch
+      duyulan: ravitch
+  INSERT   ...ucundan geçmiyor öyle ki
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...veriyor eyalet dışına satıyor
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...atari ve commodoer makineleri
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...konsorsiyum oyunu baştan tasarlatıyor
+      metin  : r
+      duyulan: (YOK — atlanmış)
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: oyun-2026-09-14.duyulan.txt

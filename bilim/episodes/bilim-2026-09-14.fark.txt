@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-14.mp3
+
+beklenen 1619 kelime | duyulan 1629 kelime | eşleşme %96.1
+sayı ifadesi: metinde 188, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...şunu kabul etmek gerekiyor
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...direksiyon deniyor ve saatte
+      metin  : kilometrenin
+      duyulan: km
+  REPLACE  ...vardı dönen ön tekerleğin
+      metin  : jiroskop
+      duyulan: ciroskop
+  REPLACE  ...tepki üretir i kincisi
+      metin  : iz dediğimiz
+      duyulan: izlediğimiz
+  REPLACE  ...yüzyılın sonunda yazılmıştı emmanuel
+      metin  : carvallo
+      duyulan: carvalho de
+  INSERT   ...emmanuel carvallo francis whipple
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...whipple birbirinden bağımsız olarak
+      metin  : (yok)
+      duyulan: tk
+  REPLACE  ...felix klein ve fritz
+      metin  : noether
+      duyulan: neuter
+  DELETE   ...fritz noether gibi isimler
+      metin  : meseleyi jiroskop kuramının içine yerleştirdiler ve ders kitaplarına giren cümle şu oldu bisikleti ayakta tutan dönen tekerleğin jiroskopik etkisidir
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bisiklet yapmaya çalıştığını anlattı
+      metin  : (yok)
+      duyulan: amacı açıktı jiroskop etkisini yok edersem bisiklet binilemez hale gelmeli böylece kumandanın arasından gelmesin
+  REPLACE  ...ve rahatça sürdü ters
+      metin  : tekerleği
+      duyulan: tekerleyi
+  REPLACE  ...jiroskop değil izdi ön
+      metin  : tekerleği
+      duyulan: tekerleyi
+  REPLACE  ...tekerleği normal konumundan yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  INSERT   ...o yarı da sorgulandı
+      metin  : (yok)
+      duyulan: kiki in
+  REPLACE  ...ekibin kurduğu tuzağı anlatıyordu
+      metin  : jodi kooijman arend
+      duyulan: jody kujman aaron
+  REPLACE  ...ruina jim papadopoulos ve
+      metin  : jaap meijaard
+      duyulan: job meshard
+  INSERT   ...üzerinde kuramsal model kurmuştu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...i z ize eksi
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...kesiştiği noktanın arkasında değil
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...bu makine ittirildi yandan
+      metin  : tekmeyle
+      duyulan: tekme ile
+  REPLACE  ...yaklaşık metrenin yani saatte
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...dönme hareketi kuramsal modelin
+      metin  : öngördüğü eğriyle
+      duyulan: ön gördüğü eğri ile
+  REPLACE  ...da yalnızca ön tekerleğin
+      metin  : jiroskopik
+      duyulan: ciroskopik
+  INSERT   ...delft ve cornel ekibinin
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...eylemsizlik momentleri bunların üstüne
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kincisine yatıp devrilme yani
+      metin  : capsize
+      duyulan: cep size
+  REPLACE  ...metrenin yani saatte yaklaşık
+      metin  : kilometrenin
+      duyulan: km
+  REPLACE  ...saniyede metrenin yani saatte
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...yüzyılın sonundan beri elimizde
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...size sayıyla söyleyebiliriz üstelik
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dönüşüyor ve bu ayarı
+      metin  : denklemlerin
+      duyulan: denglemlerin
+  REPLACE  ...değiliz hesaplayarak tasarlayabiliyoruz aynı
+      metin  : denklemler
+      duyulan: denglemler
+  REPLACE  ...üzerinde çalışılacak makine çıktı
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-09-14.duyulan.txt

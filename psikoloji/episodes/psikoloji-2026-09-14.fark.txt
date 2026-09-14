@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-14.mp3
+
+beklenen 1127 kelime | duyulan 1132 kelime | eşleşme %97.8
+sayı ifadesi: metinde 113, duyulanda 102  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sözcüklerle değil kaslarla çalışıyor
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...uppsala üniversitesi nde ulf
+      metin  : dimberg
+      duyulan: dienberg
+  REPLACE  ...üstü örtülüyordu katılımcılara sorduğunuzda
+      metin  : nötr
+      duyulan: nö tür
+  REPLACE  ...üstündeki gülümsemeyi yapan kas
+      metin  : kıpırdıyordu
+      duyulan: kıpır diyordu
+  REPLACE  ...kas kıpırdıyordu öfkeli gösterildiğinde
+      metin  : kaşların
+      duyulan: kasların
+  REPLACE  ...arasındaki çatmayı yapan kas
+      metin  : kıpırdıyordu
+      duyulan: kıpır diyordu
+  REPLACE  ...süredir tartışılan fiker dayanıyor
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...gidiyor amerikalı psikolog elaine
+      metin  : hatfield
+      duyulan: hetfield
+  REPLACE  ...his sana geri döner
+      metin  : sonunda
+      duyulan: dotson un da
+  INSERT   ...kimse konuşmadıysa ne kopyalandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...howard friedman ve ronald
+      metin  : riggio
+      duyulan: reggio
+  REPLACE  ...yanlış yerde çözüm bu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...çevirmenin kendisinin etkisi var
+      metin  : kaliforniya üniversitesi nde
+      duyulan: california üniversitesinde
+  INSERT   ...ayağa kalkıp odayı değiştirmek
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...durduk ama friedman ve
+      metin  : riggio
+      duyulan: regio
+  DELETE   ...evde ofiste arabada senin
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o artık senin değil
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-09-14.duyulan.txt

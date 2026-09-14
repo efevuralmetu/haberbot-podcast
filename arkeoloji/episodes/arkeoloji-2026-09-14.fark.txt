@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-14.mp3
+
+beklenen 2459 kelime | duyulan 2461 kelime | eşleşme %95.7
+sayı ifadesi: metinde 342, duyulanda 277  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...almanya nın tam ortasında
+      metin  : saksonya
+      duyulan: saxonya
+  REPLACE  ...tepesi dir ve etrafını
+      metin  : ziegelrodaer forst
+      duyulan: siegelrodeerforst
+  REPLACE  ...etrafını ziegelrodaer forst yani
+      metin  : ziegelroda
+      duyulan: siegelrode
+  INSERT   ...şey eyalete aittir temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu tür arayıcılar için
+      metin  : ziegelroda
+      duyulan: siegelrode
+  REPLACE  ...için ziegelroda ormanı vaatti
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...yatan metal dedektörün kulaklığında
+      metin  : ciyaklayan
+      duyulan: ciğerlayan
+  REPLACE  ...el aletiyle toprağı kırdılar
+      metin  : santimeter
+      duyulan: cm
+  DELETE   ...bronz kılıç kabzalarında süslemeler
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ki bronz balta keski
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yerinden alındığı anda buharlaşır
+      metin  : westphal
+      duyulan: vestfal
+  REPLACE  ...sessizliğini de satın alır
+      metin  : köln deki
+      duyulan: köldeki
+  INSERT   ...kişi henüz sahneye çıkmamıştı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...deki müze yöneticisi wilfried
+      metin  : menghin e
+      duyulan: mengine
+  INSERT   ...ama nesne ortada yoktu
+      metin  : (yok)
+      duyulan: ki nin
+  DELETE   ...vardı karşı tarafta hildegard
+      metin  : b
+      duyulan: (YOK — atlanmış)
+  INSERT   ...tarafta hildegard b ve
+      metin  : (yok)
+      duyulan: w
+  INSERT   ...stenen rakam marktı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ayında mahkemelerin cevapladığı soru
+      metin  : mülkiyetti
+      duyulan: mülki etti
+  REPLACE  ...görülüyor i lk hali
+      metin  : mö
+      duyulan: mevlütü ye
+  REPLACE  ...bu ölçü diskin bulunduğu
+      metin  : tepeyle
+      duyulan: tepe ile
+  REPLACE  ...bunu tekne olarak okuyor
+      metin  : kürekleriyle
+      duyulan: kürekleri ile
+  REPLACE  ...ve son aşama gömülmesidir
+      metin  : toprağa
+      duyulan: toprağı
+  REPLACE  ...kılıçların ve baltaların arasına
+      metin  : mö
+      duyulan: milotogio
+  REPLACE  ...cüretkar okuması ize astronom
+      metin  : rahlf
+      duyulan: raf
+  REPLACE  ...hansen e ait hansen
+      metin  : diskteki
+      duyulan: disteki
+  REPLACE  ...fazladan ay eklemek gerekir
+      metin  : diskteki
+      duyulan: disteki
+  REPLACE  ...gerekir diskteki kural şudur
+      metin  : ülker in
+      duyulan: ülkenin
+  REPLACE  ...demektir diskin bronzu ernst
+      metin  : pernicka
+      duyulan: pernica
+  REPLACE  ...tepesi nden kuş uçuşu
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...profilini kornualya nın güneyindeki
+      metin  : carnon
+      duyulan: karnon
+  REPLACE  ...almanya nın ortasındaki tepeye
+      metin  : manş
+      duyulan: manch
+  REPLACE  ...ve teknenin ilk yıldızların
+      metin  : altınıyla
+      duyulan: ile
+  DELETE   ...bu tablonun anlamı şudur
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...anlamı şudur mö yüzyılda
+      metin  : unstrut
+      duyulan: onstrut
+  REPLACE  ...zenginleşiyordu diskin ait olduğu
+      metin  : únětice
+      duyulan: uniyetiçe
+  REPLACE  ...ait olduğu únětice yani
+      metin  : unetice
+      duyulan: uniyetiçe
+  INSERT   ...savunmak da mümkün olacaktı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...değil kıdemli akademisyenden geldi
+      metin  : münih
+      duyulan: münihten
+  REPLACE  ...akademisyenden geldi münih rupert
+      metin  : gebhard
+      duyulan: gebhardt
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: arkeoloji-2026-09-14.duyulan.txt

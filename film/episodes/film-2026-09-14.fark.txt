@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-14.mp3
+
+beklenen 1818 kelime | duyulan 1835 kelime | eşleşme %96.4
+sayı ifadesi: metinde 259, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...düşünün senaryosu yok sadece
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...neredeyze tek adıma indirgenebilir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nöbet tutarak biriktirdiği parayla
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ngiliz çizgi roman sanatçısı
+      metin  : brendan mccarthy
+      duyulan: brandon mccarty
+  INSERT   ...filme bakıp o panellerin
+      metin  : (yok)
+      duyulan: inin
+  REPLACE  ...tek replik yazılmamışken belliydi
+      metin  : diyaloglar
+      duyulan: dialoglar
+  REPLACE  ...sona kaldı senaryo metnini
+      metin  : mccarthy
+      duyulan: mccarty
+  REPLACE  ...senaryo metnini mccarthy ve
+      metin  : nico lathouris
+      duyulan: nicola turis
+  REPLACE  ...çekmek için para lazımdı
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...için afrika nın güneybatısı
+      metin  : namibya
+      duyulan: namibia
+  INSERT   ...ayaklar filmini yaptı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da buradan geliyordu proje
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yani warner stüdyosu çatısı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...imzaladı ekimde charlize theron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...kadroya katıldığı açıklandı theron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...hiç duymadığı tek kolu
+      metin  : protez
+      duyulan: protes
+  REPLACE  ...yönde yaşamın çekilmiş olmasıdır
+      metin  : ın
+      duyulan: millerin
+  INSERT   ...ve avustralya boşluk vermiyordu
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...nın güneybatısına taşındı çekimler
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...gitarı çalan figüer hayranlar
+      metin  : doof
+      duyulan: dolph
+  REPLACE  ...vardı ve bunların kısmı
+      metin  : cirque
+      duyulan: sirke
+  REPLACE  ...tarafından da açıkça konuşuldu
+      metin  : theron sette
+      duyulan: terron seth de
+  REPLACE  ...ve büyüyen bütçe karşısında
+      metin  : sete
+      duyulan: seth e
+  REPLACE  ...için alışılmadık şey yaptı
+      metin  : vajina
+      duyulan: vagina
+  REPLACE  ...çalışmış eve ensler i
+      metin  : sete
+      duyulan: seth e
+  REPLACE  ...çevresel tartışması da oldu
+      metin  : namibya
+      duyulan: namibia
+  REPLACE  ...zarar verdiğini öne sürdü
+      metin  : namibya
+      duyulan: namibia
+  REPLACE  ...namibya film komisyonu ize
+      metin  : sete
+      duyulan: seth e
+  INSERT   ...iddiaları paylaşmadığını açıkladı kamera
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...bitmiş değildi yıl sonra
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...sonra kasım ayında ekip
+      metin  : sidney
+      duyulan: sydney
+  REPLACE  ...kişi margaret sixel di
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ve dramalar üzerinde çalışmıştı
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ilgi merkezi her çekimde
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...şeyi neredeyze her planda
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...birbirine nabız yarattı tom
+      metin  : holkenborg
+      duyulan: hulkenborg
+  REPLACE  ...susmayarak bu nabzı taşıdı
+      metin  : film mayıs
+      duyulan: filmayıs te
+  REPLACE  ...ertesi yıl geldi öfkeli
+      metin  : yol dalda
+      duyulan: yolondal da
+  REPLACE  ...kostüm ödülünü alan jenny
+      metin  : beavan
+      duyulan: bayovan
+  INSERT   ...kadar farklı hissettirdiği filmde
+      metin  : (yok)
+      duyulan: e
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-09-14.duyulan.txt
