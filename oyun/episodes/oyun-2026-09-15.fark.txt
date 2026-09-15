@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-15.mp3
+
+beklenen 1554 kelime | duyulan 1569 kelime | eşleşme %96.6
+sayı ifadesi: metinde 211, duyulanda 147  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ciro yapan bu iş
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...eğlence sistemi olacaktı kısaca
+      metin  : nes
+      duyulan: ns
+  INSERT   ...sürülüp bastırılarak yerine oturuyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...nintendo ydu ve anahtar
+      metin  : sözleşmeyle
+      duyulan: sözleşme ile
+  REPLACE  ...sonra gerçekten de kıymetli
+      metin  : vaatti
+      duyulan: vaatdi
+  REPLACE  ...çapında üzerinde satacaktı ve
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...games karışıklığı baştan ayıralım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...karışıklığı baştan ayıralım atari
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...taşımak isteyen atari games
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tengen adını verdi aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...soydular çıplak silikon çıktı
+      metin  : mikroskobun
+      duyulan: mikroskopun
+  INSERT   ...şte tam bu noktada
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ettirmek için o yazılımın
+      metin  : nüshasını
+      duyulan: nüşasını
+  REPLACE  ...etmeniz gerekir daier bu
+      metin  : nüshayı
+      duyulan: nüşayı
+  REPLACE  ...tarafıysanız savunmanızı yapabilmeniz için
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...şeyin insan tarafından yazılmış
+      metin  : okunaklı
+      duyulan: aklı
+  REPLACE  ...rabbit yani tavşan tavşan
+      metin  : in
+      duyulan: onnesin
+  INSERT   ...nun anahtarı olmadığını anlayamıyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...perakendeciye satılıyorlardı ve tengen
+      metin  : etiketiyle
+      duyulan: etiketi ile ye
+  INSERT   ...türden kanıt vardı nintendo
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mahkemenin çizdiği mantık basitti
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...aynı biçimde ortaya çıkmaz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atari games kararı federal
+      metin  : temyiz mahkemesi ne
+      duyulan: temiz mahkemesine
+  INSERT   ...temyiz mahkemesi ne taşıdı
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...mahkemesi ne taşıdı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...açıklanan ve hakim randal
+      metin  : rader in
+      duyulan: radar ın
+  REPLACE  ...çünkü adil kullanım elinizdeki
+      metin  : nüshayı
+      duyulan: nüşayı
+  REPLACE  ...yani hiç edinilmemesi gereken
+      metin  : nüshaydı
+      duyulan: nüşaydı
+  REPLACE  ...atari ninki arınmış değildi
+      metin  : tavşan ın soyağacında
+      duyulan: tavşanın soyacında
+  INSERT   ...sonraki yılın zeminini döşedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ayrı tutan istisna kondu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eden bilgisayar programlarının yani
+      metin  : emülatörlerin
+      duyulan: emületörlerin
+  INSERT   ...kontrol ediyor nintendo nun
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...değildi zarfı açtıran yalandı
+      metin  : ve
+      duyulan: d
+  REPLACE  ...kapının nasıl açıldığına baktı
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 26 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-09-15.duyulan.txt

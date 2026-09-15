@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-15.mp3
+
+beklenen 2119 kelime | duyulan 2144 kelime | eşleşme %94.5
+sayı ifadesi: metinde 388, duyulanda 282  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...arıyordu tekne simi yani
+      metin  : sömbeki
+      duyulan: sönbeki
+  REPLACE  ...sömbeki adasından yola çıkmıştı
+      metin  : mürettebat
+      duyulan: mürettabat
+  REPLACE  ...tulum omuzlara oturan bakır
+      metin  : miğfer
+      duyulan: miyfer
+  REPLACE  ...miğfer ve yukarıdaki tekneden
+      metin  : elle
+      duyulan: ile
+  REPLACE  ...meter indi bu yılının
+      metin  : teknolojisiyle
+      duyulan: teknolojisi ile
+  REPLACE  ...sonra yukarı çekilmesini istedi
+      metin  : miğferi
+      duyulan: miferi
+  REPLACE  ...kurtlarının ve tuzlu suyun
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  INSERT   ...gemisi eşlik etti kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...etti kasım başlayıp eylül
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...arasında alman filolog albert
+      metin  : rem
+      duyulan: ramm
+  REPLACE  ...de ısrarla üstüne gitmedi
+      metin  : jak kusto
+      duyulan: jacques cousteau te
+  INSERT   ...jak kusto ve tekrar
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...de solla price oldu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve daha da bırakmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olarak kullanmıyordu göer elinde
+      metin  : girdiyi
+      duyulan: girdiği
+  INSERT   ...price ın asıl atılımı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atılımı geldi yunan fizikçi
+      metin  : charalambos
+      duyulan: çaralanbos
+  INSERT   ...ilk kez kesilmeden görüldü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu sayı rastgele değildi
+      metin  : dördün
+      duyulan: ki ki ün
+  REPLACE  ...doldurdu avustralyalı bilgisayar bilimci
+      metin  : allan
+      duyulan: alan
+  REPLACE  ...allan bromley ile birlikte
+      metin  : doksanlarda
+      duyulan: larda
+  INSERT   ...ve kendi imkanlarıyla çalıştı
+      metin  : (yok)
+      duyulan: ki ye
+  REPLACE  ...yazılar tunç kütlenin milimetrenin
+      metin  : birleriyle
+      duyulan: birileriyle
+  INSERT   ...daha güçlü ışın gerekiyordu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...edmunds ve matematikçi tony
+      metin  : freeth
+      duyulan: friede
+  REPLACE  ...şirketin uçak türbin kanatlarındaki
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  DELETE   ...müzenin içinde yeniden kuruldu
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  DELETE   ...voltluk röntgen tüpü kullanıyordu
+      metin  : i ki buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tek tek tarandı ortaya
+      metin  : gigabayttan
+      duyulan: gb den
+  DELETE   ...aynısı geçerliydi harfler ortalama
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...içinde kat daha arttı
+      metin  : (yok)
+      duyulan: kiki da
+  REPLACE  ...nden bilim tarihçisi alexander
+      metin  : jones un
+      duyulan: johnson
+  REPLACE  ...yapıyordu ahşap kasası yaklaşık
+      metin  : santimetreye santimeter
+      duyulan: cm ye cm
+  REPLACE  ...yaklaşık santimetreye santimeter boyutlarında
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...aynı eksen üzerinde duran
+      metin  : çarktan
+      duyulan: çarptan
+  REPLACE  ...kaymayı takip ediyordu kısacası
+      metin  : hipparkos
+      duyulan: hipparcos
+  REPLACE  ...büyük spiral oluk vardı
+      metin  : üsttekinde
+      duyulan: üstekinde
+  INSERT   ...boyunca kıvrılan hücer sıralanıyordu
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...yazılmıştı ve bu adlar
+      metin  : korint
+      duyulan: corint
+  REPLACE  ...yıllık spor takvimi çeyreğinde
+      metin  : olimpia
+      duyulan: olympia
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: arkeoloji-2026-09-15.duyulan.txt

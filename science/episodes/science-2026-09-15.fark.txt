@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-15.mp3
+
+beklenen 2492 kelime | duyulan 2480 kelime | eşleşme %98.4
+sayı ifadesi: metinde 248, duyulanda 154  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...in the town of
+      metin  : pierrelatte
+      duyulan: piroulet
+  INSERT   ...the french enrichment plant
+      metin  : (yok)
+      duyulan: d eau
+  DELETE   ...natuer that constant was
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...canada so did the
+      metin  : czech
+      duyulan: check
+  DELETE   ...every uranium atoms roughly
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...continent whichever rock you
+      metin  : happened
+      duyulan: happen
+  DELETE   ...screen did not read
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...read point it read
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...point the difference was
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...not shifted in years
+      metin  : henri bouzigues
+      duyulan: henry bouziguez
+  DELETE   ...the ratio dropped to
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...it was measured at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...facilities thousands of stages
+      metin  : kilometres
+      duyulan: kilometers
+  DELETE   ...of uranium is about
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...that of uranium is
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ratio that stands at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ago it was around
+      metin  : and a half
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...its own twin the
+      metin  : rock at
+      duyulan: rocket
+  REPLACE  ...at the immediately adjacent
+      metin  : okélobondo
+      duyulan: okilabondo
+  REPLACE  ...deposit and moer at
+      metin  : bangombé
+      duyulan: bangum bay
+  REPLACE  ...moer at bangombé about
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...moderator went too the
+      metin  : neutrons
+      duyulan: neutron
+  DELETE   ...has been measured in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...measured in and alex
+      metin  : meshik
+      duyulan: michic
+  REPLACE  ...that in total about
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...leftover arithmetic of those
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...movement is measured in
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...in centimetres a few
+      metin  : metres
+      duyulan: meters
+  INSERT   ...years into the futuer
+      metin  : (yok)
+      duyulan: dead
+  REPLACE  ...the same everywheer at
+      metin  : bangombé
+      duyulan: bangombe
+  REPLACE  ...moderation the same self
+      metin  : braking
+      duyulan: breaking
+  REPLACE  ...gone keeping its silence
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...silence nöron science de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bogen küberlümün sonnunna galdik jeni berhikaya de jenidän bulushmakuzaer
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-15.duyulan.txt

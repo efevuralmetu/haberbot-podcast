@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-15.mp3
+
+beklenen 2406 kelime | duyulan 2399 kelime | eşleşme %95.9
+sayı ifadesi: metinde 242, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...katılıyor ağustos a gelindiğinde
+      metin  : strazburg
+      duyulan: strasburg
+  INSERT   ...durdurmak yerine müzisyen tutuyor
+      metin  : (yok)
+      duyulan: doğundört
+  REPLACE  ...yerine müzisyen tutuyor temmuz
+      metin  : strazburg
+      duyulan: strasburg
+  REPLACE  ...yoktu düğün yoktu meydanda
+      metin  : çalan
+      duyulan: yan
+  REPLACE  ...kadının adı bize frau
+      metin  : troffea
+      duyulan: trofea
+  REPLACE  ...açmak gerekiyor çünkü hikayenin
+      metin  : en
+      duyulan: çok
+  REPLACE  ...ad olaydan yıl sonra
+      metin  : strazburg
+      duyulan: strasbourg
+  REPLACE  ...araştıran hekim ve simyacı
+      metin  : paraselsus
+      duyulan: paracelsus
+  REPLACE  ...ediliyor kimi tarihçiler adın
+      metin  : paraselsus
+      duyulan: paracelsus
+  DELETE   ...kendi ürettiği hatta dönen
+      metin  : topaç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kağıt olması kuvvetle muhtemel
+      metin  : paraselsus
+      duyulan: paracelsus
+  REPLACE  ...yalnız kalmadı hafta içinde
+      metin  : strazburg
+      duyulan: strasburg
+  INSERT   ...içinde strazburg sokaklarında katılan
+      metin  : (yok)
+      duyulan: dan
+  DELETE   ...yaşlılar aralarında hiçbir ortak
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ayakta duramıyordu devrilmemeleri için
+      metin  : birileri
+      duyulan: elleri
+  REPLACE  ...anlamak gerekiyor çünkü yazının
+      metin  : strazburg
+      duyulan: strasburg
+  REPLACE  ...kendinden emin yer değildi
+      metin  : strazburg
+      duyulan: strasburg
+  DELETE   ...i mparatorluğu na bağlı
+      metin  : özgür
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...avrupa nın en yüksek
+      metin  : yapılarından
+      duyulan: yollarından
+  INSERT   ...manzara başkaydı alsas bölgesi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kuraklığın geldiği mevsimler birbirini
+      metin  : kovalamıştı
+      duyulan: yaşamıştı den
+  REPLACE  ...tarlalarını bırakıp şehirleer aktı
+      metin  : strazburg
+      duyulan: strasburg
+  DELETE   ...kendi yoksullarına bile yetemediği
+      metin  : için
+      duyulan: (YOK — atlanmış)
+  INSERT   ...üstüne hastalık geliyordu veba
+      metin  : (yok)
+      duyulan: yıl
+  DELETE   ...başka şeher geçiyordu cüzam
+      metin  : hala vardı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dışına atmak demekti bunlara
+      metin  : doksanlardan
+      duyulan: lardan
+  REPLACE  ...kadar görülmemiş hastalık eklenmişti
+      metin  : frengi
+      duyulan: frenge
+  REPLACE  ...ayaklanması hazırlıkları birbirini izliyordu
+      metin  : bundşu
+      duyulan: bunçu
+  DELETE   ...yani çarık hareketi adıyla
+      metin  : anılan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...salgınından yalnızca yıl önce
+      metin  : strazburg
+      duyulan: strasburg
+  REPLACE  ...şey değildi martin luther
+      metin  : in
+      duyulan: ın
+  REPLACE  ...varlıklar olduğu fikri üzerine
+      metin  : kuruluydu
+      duyulan: duydu
+  REPLACE  ...toplandı ve o çağda
+      metin  : yapılabilecek
+      duyulan: alabilecek
+  REPLACE  ...çözüm neydi normalde kan
+      metin  : almak
+      duyulan: yıkılacak
+  REPLACE  ...göer dansçıların düşmemesi ve
+      metin  : durmaması
+      duyulan: kasabası
+  REPLACE  ...kanıyor etraflarında belediyenin parasını
+      metin  : aldığı
+      duyulan: alıyor
+  REPLACE  ...beklediği gibi olmadı şehir
+      metin  : dansa
+      duyulan: dansı
+  REPLACE  ...durduğu nokta da budur
+      metin  : strazburg
+      duyulan: strasburg
+  INSERT   ...iyi bilgiyle verdikleri karar
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...onlarca yıl sonra yazan
+      metin  : strazburglu
+      duyulan: strasburglu
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: tarih-2026-09-15.duyulan.txt

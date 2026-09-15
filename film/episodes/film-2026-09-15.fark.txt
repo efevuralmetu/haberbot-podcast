@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-15.mp3
+
+beklenen 1688 kelime | duyulan 1695 kelime | eşleşme %96.2
+sayı ifadesi: metinde 260, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...film değil gece yayınıydı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kaybediyordu ve başındaki george
+      metin  : şeyfer
+      duyulan: schaeffer
+  INSERT   ...isimle toparlanabileceğine inanıyordu ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...basın imparatoru william randolph
+      metin  : hearst ün
+      duyulan: hurston
+  REPLACE  ...çevresine yıllarca girip çıkmış
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...gönderdi yanında ortağı john
+      metin  : houseman
+      duyulan: hausman
+  INSERT   ...alexander bunları temize çekiyordu
+      metin  : (yok)
+      duyulan: doton
+  REPLACE  ...soyadı filmin ilerleyen yıllarında
+      metin  : susan
+      duyulan: suzan
+  INSERT   ...sendikası na başvurdu ve
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ve ocak ayında ad
+      metin  : jeneriğe
+      duyulan: jeneriye
+  INSERT   ...çekilmesi gerekiyordu çekimler haziran
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...bunu arayan adam geldi
+      metin  : gregg
+      duyulan: greg
+  REPLACE  ...kurallara bağlı kalmayan set
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...mercekler ve çok güçlü
+      metin  : ark
+      duyulan: art
+  REPLACE  ...dekoratör perry ferguson ağartılmış
+      metin  : müslin
+      duyulan: müslün
+  REPLACE  ...vardı filmin yaşlanma makyajını
+      metin  : rko
+      duyulan: reykjavs
+  REPLACE  ...genç adam yaptı maurice
+      metin  : seiderman
+      duyulan: siderman
+  REPLACE  ...maurice seiderman boş vakitlerinde
+      metin  : lateksle
+      duyulan: latexle
+  REPLACE  ...kilitlemeyen esnek parçalar üretiyordu
+      metin  : welles
+      duyulan: willis
+  REPLACE  ...görünce doğrudan işe aldı
+      metin  : seiderman
+      duyulan: siderman
+  REPLACE  ...için özel lensler tasarladı
+      metin  : welles
+      duyulan: willis
+  INSERT   ...welles bazı günler saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...makyaj koltuğuna oturuyor sabah
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...masasında dakikaya sığdırılmış konuşma
+      metin  : parçalarıyla
+      duyulan: parçaları ile
+  REPLACE  ...insanın birbirine bakma biçimidir
+      metin  : welles
+      duyulan: willis
+  REPLACE  ...anlatır xanadu adlı devasa
+      metin  : malikanenin
+      duyulan: malikhanenin
+  INSERT   ...belirtildi asıl çekimler ekim
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...filmin kimi hatırlattığının duyulmasıydı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...gösterime hazırlanan filmin içeriği
+      metin  : hearst ün
+      duyulan: hairston
+  REPLACE  ...hızlı ve toptan oldu
+      metin  : hearst e
+      duyulan: hairste
+  REPLACE  ...olduğu şirketin başındaki nicholas
+      metin  : şenk
+      duyulan: schenck
+  REPLACE  ...yani filmin maliyetine yakın
+      metin  : para
+      duyulan: parça
+  REPLACE  ...varsa manşete taşınmasından korkuyordu
+      metin  : şeyfer
+      duyulan: schafer
+  REPLACE  ...programlarına almayı reddetti ve
+      metin  : şeyfer
+      duyulan: schafer
+  INSERT   ...ertelendi film sonunda mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gerekir kane in karısı
+      metin  : susan
+      duyulan: suzan
+  REPLACE  ...seyircisi bu karakteri doğrudan
+      metin  : hearst ün
+      duyulan: herston
+  REPLACE  ...ün hayat arkadaşı marion
+      metin  : davies
+      duyulan: davis
+  REPLACE  ...davies le özdeşleştirdi oysa
+      metin  : davies
+      duyulan: davis
+  REPLACE  ...hemfikir filmin merkezindeki sözcüğün
+      metin  : hearst ün
+      duyulan: herston
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: film-2026-09-15.duyulan.txt

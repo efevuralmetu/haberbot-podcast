@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-15.mp3
+
+beklenen 1731 kelime | duyulan 1750 kelime | eşleşme %93.9
+sayı ifadesi: metinde 194, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tek güzergah kalır su
+      metin  : sepik
+      duyulan: natasepik
+  REPLACE  ...telefomin yakınlarından doğar ve
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...sazla ot adacıklarıyla dolar
+      metin  : sepiğin
+      duyulan: nokta sepi in
+  REPLACE  ...taşıdığı çamurdan delta kurar
+      metin  : sepik
+      duyulan: nokt sepi k
+  REPLACE  ...ağızdan vevak kasabasının yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kasabasının yaklaşık kilometer doğusunda
+      metin  : bismark denizi ne
+      duyulan: bismarck denizine
+  REPLACE  ...kısmında büyür sagu palmiyesi
+      metin  : sepik
+      duyulan: daksepik
+  INSERT   ...papua yeni gine üzerinde
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...fazlasıyla benzeyen şey vardır
+      metin  : (yok)
+      duyulan: dota
+  REPLACE  ...tehlikeli hayvan değildir orta
+      metin  : sepiğin
+      duyulan: sepi in
+  REPLACE  ...sepiğin en kalabalık halklarından
+      metin  : iatmul
+      duyulan: i yatmul
+  INSERT   ...o devasa karanlık evdir
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...sırtı öne doğru kalkan
+      metin  : kano burnunu
+      duyulan: kanoburnuna
+  INSERT   ...içinde yapılır adaylar genellikle
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...adaylar genellikle yaşların sonunda
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...toplam süreç bölgeye ve
+      metin  : klana
+      duyulan: kılana
+  REPLACE  ...aylar boş geçmez gence
+      metin  : klanın
+      duyulan: kılanın
+  REPLACE  ...yarıklara kil sürülür ağaç
+      metin  : yağı
+      duyulan: yağ
+  REPLACE  ...girmiştir dışarı erkek çıkar
+      metin  : acı
+      duyulan: ağacı
+  REPLACE  ...konuşma hakkı vardır evlenebilir
+      metin  : klanın
+      duyulan: kılanın
+  REPLACE  ...biçimleri yaşar bu dünyayı
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...kaydedenlerden ile arasında orta
+      metin  : sepik te
+      duyulan: sepikle
+  INSERT   ...çalışan gregory bateson oldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve fotoğraf makinesi değildi
+      metin  : sepiğin
+      duyulan: sepihin
+  INSERT   ...kendi adı olmaktan çıkmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve sömürge görevlisi otto
+      metin  : finş
+      duyulan: finch
+  REPLACE  ...görevlisi otto finş nehri
+      metin  : kayzerin
+      duyulan: kaiser in
+  REPLACE  ...finş nehri kayzerin augusta
+      metin  : flus
+      duyulan: fluss
+  REPLACE  ...augusta flus yani i
+      metin  : mparatoriçe
+      duyulan: mparatorice
+  INSERT   ...ad yazılı kaldı ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yazılı kaldı ve i
+      metin  : mparatoriçe
+      duyulan: mparatorice
+  REPLACE  ...jeolog ve idareci artur
+      metin  : ştole
+      duyulan: stolle
+  REPLACE  ...gönderildi ve bugün hala
+      metin  : etnologişes muzeum
+      duyulan: ethnologisches museum
+  REPLACE  ...kancalar tabureler kaplar flütler
+      metin  : direk
+      duyulan: direkt
+  INSERT   ...görkemli sahnesi paris ti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dan büyük çizilmişti yeni
+      metin  : gine
+      duyulan: guinea
+  REPLACE  ...şaka değil program bildirisiydi
+      metin  : andré
+      duyulan: ander
+  REPLACE  ...iç içe geçişini gösteren
+      metin  : algı ile
+      duyulan: algıyla
+  REPLACE  ...çökerten en güçlü girişimdi
+      metin  : sepik
+      duyulan: sepikten
+  INSERT   ...de çöktü ve temmuz
+      metin  : (yok)
+      duyulan: de
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 79
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: seyahat-2026-09-15.duyulan.txt

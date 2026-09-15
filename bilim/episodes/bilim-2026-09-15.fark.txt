@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-15.mp3
+
+beklenen 1600 kelime | duyulan 1627 kelime | eşleşme %94.9
+sayı ifadesi: metinde 348, duyulanda 205  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gaz haline getirilmiş uranyum
+      metin  : hekzaflorür
+      duyulan: heksaflorür
+  INSERT   ...muhasebe işlemiydi çünkü uranyum
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...güvenilir sayılırdı o sabit
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...da aynı sayı çıkıyordu
+      metin  : her
+      duyulan: monteherbin
+  INSERT   ...uranyum atomundan yaklaşık uranyum
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...beri de kendi hızında
+      metin  : bozunmuştu
+      duyulan: bozulmuştu
+  REPLACE  ...olun saat aynı saatti
+      metin  : jeologlar
+      duyulan: geologlar
+  REPLACE  ...ölçümü yapan ekipten anri
+      metin  : buzig
+      duyulan: buzik
+  REPLACE  ...çıktı bu küçücük sapma
+      metin  : tesize
+      duyulan: tesis e
+  INSERT   ...kilogramlık uranyum açığı demekti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mi karışmıştı çünkü uranyum
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...reaktör zincirleme tepkime uranyum
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...geldiği yeri takip etti
+      metin  : gabon un
+      duyulan: sabonun
+  REPLACE  ...etti gabon un güneydoğusundaki
+      metin  : fransvil
+      duyulan: fransville
+  REPLACE  ...un güneydoğusundaki fransvil havzasında
+      metin  : oklo
+      duyulan: oklu
+  INSERT   ...düşürdü bazı noktalarda oran
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...yani o kayadaki uranyum
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...o kayadaki uranyum neredeyze
+      metin  : (yok)
+      duyulan: ı
+  INSERT   ...doğa bu farkı kullanarak
+      metin  : (yok)
+      duyulan: lık
+  INSERT   ...bu karışımın yaklaşık neodimyum
+      metin  : (yok)
+      duyulan: dir
+  INSERT   ...reaktör külü vardı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...külü vardı eylül fizikçi
+      metin  : fransis perren
+      duyulan: francis perrin
+  INSERT   ...tarafı tamamen sürpriz olmamasıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nde çalışan kimyager paul
+      metin  : kuroda
+      duyulan: crow da
+  REPLACE  ...hesap yapmıştı doğada zincirleme
+      metin  : tepkimenin
+      duyulan: tepkiminin
+  REPLACE  ...mümkün olduğu dönem var
+      metin  : kuroda nın
+      duyulan: crow danın
+  REPLACE  ...hesabı tahminden kayda dönüştürdü
+      metin  : kuroda nın
+      duyulan: crow danın
+  REPLACE  ...bu koşul bugün karşılanamaz
+      metin  : uranyum
+      duyulan: uranium in
+  REPLACE  ...yarılanma ömrü yaklaşık yıl
+      metin  : uranyum
+      duyulan: uranium inki
+  REPLACE  ...kisi de azalıyor ama
+      metin  : uranyum
+      duyulan: uranium
+  INSERT   ...civarındaydı yaklaşık yıl önce
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...ve hızlı nötronlar uranyum
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...damarlarında cevherin uranyum oranı
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...yatağında tane ve yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...şey neden kaçmadı zincirleme
+      metin  : tepkimenin
+      duyulan: tepkiminin
+  REPLACE  ...ve tepkime yeniden tutuşur
+      metin  : gayzerin
+      duyulan: geyserin
+  REPLACE  ...ritmi bile ölçüldü alex
+      metin  : meshik
+      duyulan: mechik
+  INSERT   ...alex meshik ve arkadaşları
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fosfat minerallerinin içine hapsolmuş
+      metin  : ksenon
+      duyulan: senon
+  REPLACE  ...fisyonun ürünüdür ve farklı
+      metin  : ksenon
+      duyulan: kisenon
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: bilim-2026-09-15.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-15.mp3
+
+beklenen 2076 kelime | duyulan 2064 kelime | eşleşme %96.8
+sayı ifadesi: metinde 217, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ceza kimin içindi adam
+      metin  : cezaevinin
+      duyulan: ceza avivin
+  REPLACE  ...o kutunun önünde hayatının
+      metin  : en tuhaf çelişkisiyle
+      duyulan: bu hafçelişkisiyle
+  DELETE   ...olarak kapanmayan mıdır dikkat
+      metin  : edin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...görünüyor ama mecazdan fazlası
+      metin  : niçe
+      duyulan: nietzsche de
+  REPLACE  ...fazlası niçe yayımladığı ahlakın
+      metin  : soykütüğü
+      duyulan: soykütü
+  REPLACE  ...kelime aynı kökten gelir
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...en bayağı yerden doğmuştur
+      metin  : alacaklıyla
+      duyulan: alacaklığıyla
+  REPLACE  ...arasındaki ilişkiden alışverişten ödeme
+      metin  : vaadinden
+      duyulan: vadimden
+  REPLACE  ...önce senedi icat etmiştir
+      metin  : ödeyemeyen
+      duyulan: ötte değmeyen
+  DELETE   ...borçtan söz ediyorsak miktarı
+      metin  : vardır
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i şte gerilim buradan
+      metin  : doğuyor
+      duyulan: geliyor
+  REPLACE  ...tahsil eder tahliye evrakı
+      metin  : ibra
+      duyulan: ibrağı
+  REPLACE  ...babasının nerede olduğu sorularak
+      metin  : köşeye
+      duyulan: ortaya
+  REPLACE  ...kant ın cevabı tarihli
+      metin  : ahlak metafiziği nde
+      duyulan: hak metafiziğinde
+  REPLACE  ...kalmayacak kant hapishanedeki son
+      metin  : katilin
+      duyulan: dilin
+  DELETE   ...göer suçluyu cezalandırmak akıl
+      metin  : sahibi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...cevap bentham ın cevabı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...karşıdır işkenceye karşıdır faydası
+      metin  : yoksa
+      duyulan: da
+  DELETE   ...hesapta o kaydın saklanması
+      metin  : savunulabilir hale gelir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aralar bentham ın hapishane
+      metin  : tasarımı
+      duyulan: karımı
+  DELETE   ...sahneyi değiştirelim ve aynı
+      metin  : soruyu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çok çarpıcı cümleyle özetler
+      metin  : kısasta
+      duyulan: kısas da
+  REPLACE  ...aynı pasaj kapı açar
+      metin  : diyet
+      duyulan: diet
+  REPLACE  ...en yaygın ölçü devedir
+      metin  : diyet
+      duyulan: diet
+  REPLACE  ...tarafı hiçbir şey almadan
+      metin  : vazgeçebilir
+      duyulan: geçebilir
+  REPLACE  ...söylenir yani sıralamada en
+      metin  : üstte
+      duyulan: üste
+  DELETE   ...karşı işlenmiş sayılır davanın
+      metin  : adı devletin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...klasik fıkıhta suçun ifşa
+      metin  : edilmesine
+      duyulan: vermesine
+  REPLACE  ...teşvik edilmez örtmek yani
+      metin  : setr
+      duyulan: set
+  REPLACE  ...kullanmak üzeer kurulmuştur buna
+      metin  : tevbe
+      duyulan: tv
+  DELETE   ...ısrarlı benzetme kurar hekim
+      metin  : bedenlerin
+      duyulan: (YOK — atlanmış)
+  DELETE   ...işi yapar borcun bittiğini
+      metin  : söyleyebilecek tek kişinin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i spanya da la
+      metin  : vangvardiya
+      duyulan: vanguardia
+  REPLACE  ...ilişkindi ve içinde mario
+      metin  : kosteha
+      duyulan: costeja
+  REPLACE  ...kağıdı çöpe gidecek mesele
+      metin  : kapanacaktı
+      duyulan: alınacaktı
+  REPLACE  ...taşındı ve yıllar sonra
+      metin  : kosteha
+      duyulan: costeja
+  INSERT   ...icra ilanı oldu adam
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...çıkmasın büyüdü ve avrupa
+      metin  : (yok)
+      duyulan: ve
+  INSERT   ...divanı na kadar gitti
+      metin  : (yok)
+      duyulan: doğan
+  INSERT   ...na kadar gitti mayıs
+      metin  : (yok)
+      duyulan: te
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: felsefe-2026-09-15.duyulan.txt

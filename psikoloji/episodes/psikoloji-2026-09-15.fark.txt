@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-15.mp3
+
+beklenen 1200 kelime | duyulan 1201 kelime | eşleşme %98.0
+sayı ifadesi: metinde 137, duyulanda 128  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...tam olarak canın yanıyor
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...çimleer uzanmış dinleniyordu sırtına
+      metin  : frizbi çarptı
+      duyulan: frisbi çarktı
+  REPLACE  ...döndü ötede kişi duruyordu
+      metin  : frizbiyi
+      duyulan: frisbiyi
+  REPLACE  ...sosyal psikolog kipling williams
+      metin  : tı
+      duyulan: dı
+  REPLACE  ...kendisinin bile istemediği oyun
+      metin  : toplamda
+      duyulan: adamda
+  REPLACE  ...bırakıyorlardı sonuçlar tutarlıydı ama
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...verilen küçük bilgisayar programıydı
+      metin  : siber top
+      duyulan: sibertot
+  REPLACE  ...hala oyundasınızdır kimse topu
+      metin  : atmadığındaysa
+      duyulan: atmadığında ize
+  REPLACE  ...kimse topu atmadığındaysa var
+      metin  : olmadığınız
+      duyulan: olmadığını
+  INSERT   ...olduğu söylendi fark etmedi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...oluyor ama alarmı kapatmıyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sırada beynin ön singulat
+      metin  : korteks
+      duyulan: cortex
+  REPLACE  ...kötü hissettiğini bildiriyordu sosyal
+      metin  : acı ile
+      duyulan: acıyla
+  INSERT   ...biçimde aynı yöne bakıyor
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...hissettiklerini bildirdi ve dışlandıklarında
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...duymayın kimse kırgınlığı ağrı
+      metin  : kesiciyle
+      duyulan: kesici ile
+  REPLACE  ...de o kadar ucuzdur
+      metin  : williams ın
+      duyulan: williamson
+  REPLACE  ...bilmeye değer ayrım şu
+      metin  : acının
+      duyulan: ağacının
+  REPLACE  ...kendine dair hissini aşındırmaktır
+      metin  : williams ın
+      duyulan: williamson
+  REPLACE  ...kalmış varsa topu atın
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: psikoloji-2026-09-15.duyulan.txt

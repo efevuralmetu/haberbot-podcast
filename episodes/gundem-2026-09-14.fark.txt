@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-14.mp3
+
+beklenen 1347 kelime | duyulan 1365 kelime | eşleşme %92.8
+sayı ifadesi: metinde 343, duyulanda 163  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yemen deki
+      metin  : husi
+      duyulan: hussi
+  REPLACE  ...yemen deki husi hareketi
+      metin  : babülmendep
+      duyulan: babülmen de
+  REPLACE  ...nın en dar noktasındaki
+      metin  : meyyun
+      duyulan: meyun
+  REPLACE  ...kıyı şeridinde hızla ilerleyen
+      metin  : husi
+      duyulan: hussi
+  INSERT   ...i daresi verilerine göer
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...doğrudan arz endişesine dönüştü
+      metin  : husiler
+      duyulan: hussiler
+  REPLACE  ...ın güneyindeki şurura askeri
+      metin  : üssüne
+      duyulan: üstüne
+  REPLACE  ...suudi sivil savunması ize
+      metin  : cizan
+      duyulan: cizam
+  REPLACE  ...trump i rlanda başbakanı
+      metin  : micheál
+      duyulan: michael
+  REPLACE  ...ran ın nükleer silah
+      metin  : edinmesine
+      duyulan: edilmesine
+  REPLACE  ...silah edinmesine izin verilmeyeceğini
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...olmadığını ekonomik baskı nedeniyle
+      metin  : aceleyle
+      duyulan: acele ile
+  INSERT   ...ran dan ateşlenen füzeden
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...yeni delhi de toplanan
+      metin  : brics
+      duyulan: bric
+  REPLACE  ...edilen yeni delhi bildirgesi
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...savundu ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelenski
+  REPLACE  ...ayında miami de yapılacak
+      metin  : gyirmi zirvesi nde
+      duyulan: zirvesinde
+  REPLACE  ...söyledi rusya dışişleri bakanı
+      metin  : sergey
+      duyulan: sergei
+  INSERT   ...çıkan yangında ölü sayısı
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...zamanda sağlık alanındaki ürünü
+      metin  : chatgpt
+      duyulan: chet gpt
+  REPLACE  ...alanındaki ürünü chatgpt health
+      metin  : i
+      duyulan: ı
+  REPLACE  ...epic ile enteger etti
+      metin  : avrupa
+      duyulan: abd
+  REPLACE  ...enteger etti avrupa ize
+      metin  : chatgpt yi
+      duyulan: chet gpt
+  REPLACE  ...yetenekli modelleri olarak tanıttığı
+      metin  : claude fable nokta
+      duyulan: cloudfable
+  DELETE   ...fable nokta ve mythos
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...edildiğini rusya bağlantılı casusluk
+      metin  : faaliyetleri ile
+      duyulan: faaliyetleriyle
+  REPLACE  ...yürütmede iyileştirme vaat eden
+      metin  : ceminay nokta
+      duyulan: gemini
+  REPLACE  ...yana üst segmentte yeni
+      metin  : ceminay
+      duyulan: gemini
+  INSERT   ...şirket küresel robotaksi pazarının
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...sam altman büyük elektrik
+      metin  : şirketleriyle
+      duyulan: şirketleri ile
+  REPLACE  ...türkiye tamamlandı etkinlik türk
+      metin  : girişimleriyle
+      duyulan: girişimleri ile
+  REPLACE  ...taşıdı para piyasalarındaki fiyatlamalar
+      metin  : baz
+      duyulan: pas
+  REPLACE  ...karar eylül çarşamba türkiye
+      metin  : saatiyle
+      duyulan: saati ile de
+  INSERT   ...mahkemesi hukuk dairesi mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...na ilişkin davada mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...kararları baştan geçersiz saydı
+      metin  : kurultay
+      duyulan: kurulta
+  INSERT   ...davasının duruşması eylül saat
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...kurdu dün üsküdar i
+      metin  : skele meydanı ndaki
+      duyulan: skale meydanındaki
+  INSERT   ...sanık yer alıyor bunlardan
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...davanın ilk duruşması mart
+      metin  : (yok)
+      duyulan: da
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: gundem-2026-09-14.duyulan.txt

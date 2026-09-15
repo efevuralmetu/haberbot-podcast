@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-15.mp3
+
+beklenen 1647 kelime | duyulan 1688 kelime | eşleşme %94.0
+sayı ifadesi: metinde 323, duyulanda 214  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...lakabı hayyam yani çadırcı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...adam şair değildi matematikçiydi
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...değildi matematikçiydi yaşlarının sonunda
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...çalışmaydı bugünün diliyle söylersek
+      metin  : cebirle
+      duyulan: cebir ile
+  INSERT   ...veziri nizamülmülk başkente çağırdılar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i sfahan da kurulan
+      metin  : rasathanenin
+      duyulan: rasahtanenin
+  INSERT   ...yılını yeniden ölçtü ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...uzunluğu bizim bugün kullandığımız
+      metin  : gregoryen
+      duyulan: gregorian
+  REPLACE  ...kaydeder hayyam i bn
+      metin  : sina nın
+      duyulan: i sinan ın
+  REPLACE  ...sina nın büyük eseri
+      metin  : şifa yı
+      duyulan: şifahi
+  REPLACE  ...buydu şarabı geçiciliği cennet
+      metin  : vaadine
+      duyulan: vadine
+  REPLACE  ...elyazmaları çoğaldı her yeni
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...sayılmadı ders kitaplarına girmedi
+      metin  : şerhleri
+      duyulan: şerleri
+  REPLACE  ...değil i ngilteer nin
+      metin  : suffolk
+      duyulan: safok
+  INSERT   ...kırsalından geldi edward fitzgerald
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...de okumuş tennyson ve
+      metin  : thackeray
+      duyulan: techrey
+  REPLACE  ...olur parası vardı hırsı
+      metin  : yoktu
+      duyulan: yoktur
+  REPLACE  ...uğraşan kendini önemsemeyen adamdı
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...tuttuğu uğraştı ta ki
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da istinsah edilmiş bu
+      metin  : nüshada hayyam a
+      duyulan: nüşada hayyama
+  REPLACE  ...oradan çok daha kalın
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...daha kalın nüshanın içeren
+      metin  : kalküta
+      duyulan: calcutta
+  INSERT   ...dörtlükleri aldı aralarından seçti
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...yeğdir şiirin yaşaması için
+      metin  : aslına
+      duyulan: aslında
+  REPLACE  ...başında dönemin saygın yayınlarından
+      metin  : fraser
+      duyulan: frazer
+  DELETE   ...yayınlarından fraser s magazine
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...s magazine e yani
+      metin  : fraser dergisi ne
+      duyulan: frazer dergisine
+  INSERT   ...şiirlerini geri istedi sayıyı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...cebinden ödeyerek kitapçı bernard
+      metin  : quaritch
+      duyulan: couric
+  INSERT   ...e ince kitapçık bastırdı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...adetti fiyatı şilindi kapakta
+      metin  : hayyam
+      duyulan: hayam
+  REPLACE  ...olduğu yerde durdu ve
+      metin  : quaritch
+      duyulan: couric
+  REPLACE  ...ve quaritch sonunda kalan
+      metin  : nüshaları
+      duyulan: nüsaları
+  REPLACE  ...kutu satılmayan kitapların tanesi
+      metin  : peniye
+      duyulan: penny e
+  REPLACE  ...kimsenin bakmadığı sandıkta bekliyordu
+      metin  : kelt
+      duyulan: de celt
+  REPLACE  ...rossetti ye verdi rossetti
+      metin  : da
+      duyulan: de
+  DELETE   ...da çarpıldı ve swinburne
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...swinburne e gösterdi swinburne
+      metin  : ün
+      duyulan: in
+  REPLACE  ...talebi fark edip fiyatı
+      metin  : peniye
+      duyulan: penny e
+  REPLACE  ...kampanyasıyla değil elden ele
+      metin  : burne
+      duyulan: burnett
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: edebiyat-2026-09-15.duyulan.txt

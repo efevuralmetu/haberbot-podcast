@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-15.mp3
+
+beklenen 2340 kelime | duyulan 2358 kelime | eşleşme %94.4
+sayı ifadesi: metinde 396, duyulanda 251  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...roma nın via della
+      metin  : kroçe
+      duyulan: croce
+  REPLACE  ...della kroçe sokağındaki atölyede
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...büyük çocuğu kızdı artemisia
+      metin  : centileski
+      duyulan: gentileschi
+  INSERT   ...kızdı artemisia centileski temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...roma da doğdu babası
+      metin  : oratsyo centileski
+      duyulan: oratio sentileschi
+  REPLACE  ...kendine yer açmış ressamdı
+      metin  : karavaco
+      duyulan: caravaccio
+  REPLACE  ...isimlerdendi hatta o sıralarda
+      metin  : karavaco
+      duyulan: caravaco
+  REPLACE  ...sıralarda karavaco ya keşiş
+      metin  : cübbesiyle
+      duyulan: cüppesiyle
+  REPLACE  ...kendi ağzıyla anlatmıştı annesi
+      metin  : prudentsya
+      duyulan: prudencia
+  INSERT   ...prudentsya montone artemisia yaşındayken
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üstünde nasıl kırıldığını izledi
+      metin  : oratsyo
+      duyulan: horatio
+  REPLACE  ...okunabilir ama tarihli tuval
+      metin  : oratsyo
+      duyulan: horatio
+  REPLACE  ...tablo bugün almanya da
+      metin  : pommersfelden
+      duyulan: pomersfelden
+  REPLACE  ...almanya da pommersfelden deki
+      metin  : vaysenştayn
+      duyulan: weissenstein
+  INSERT   ...bile şeyi itiraf eder
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...kadar iyidir o yıl
+      metin  : oratsyo
+      duyulan: oratio
+  REPLACE  ...büyük konaklarından tavan freskosu
+      metin  : oratsyo
+      duyulan: oratio
+  REPLACE  ...vardı bu iş için
+      metin  : çağrılan
+      duyulan: çağırılan
+  REPLACE  ...ustası olarak tanınan ressamdı
+      metin  : oratsyo
+      duyulan: oratio
+  REPLACE  ...adamın adı agostino tassi
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...ama işini biliyordu ve
+      metin  : oratsyo
+      duyulan: oratio
+  REPLACE  ...oratsyo nun ihtiyacı vardı
+      metin  : centileski
+      duyulan: sentileski
+  REPLACE  ...yanında papalık sarayında görevli
+      metin  : kozimo kuorli
+      duyulan: cosimo corle
+  REPLACE  ...çağın kadınları için tanıdık
+      metin  : kıskaçtı
+      duyulan: kız kaçtı
+  REPLACE  ...güvendi ve ilişki evlilik
+      metin  : vaadi
+      duyulan: vadi
+  REPLACE  ...vaadi aylarca sürdü başında
+      metin  : oratsyo
+      duyulan: oratio
+  REPLACE  ...evlenmeye hiç niyeti yoktu
+      metin  : oratsyo
+      duyulan: oratio
+  INSERT   ...niyeti yoktu oratsyo mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...baldızıyla ilişkisi olduğu iddiası
+      metin  : oratsyo
+      duyulan: oratio
+  INSERT   ...daha ağır olduğunu gösterdi
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...ağır olduğunu gösterdi mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...işte senin sözlerin kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ertesi gün sürgünü seçti
+      metin  : ceza
+      duyulan: cca
+  REPLACE  ...açıklanmasından gün sonra artemisia
+      metin  : floransalı
+      duyulan: florensalı
+  REPLACE  ...sonra artemisia floransalı ressamla
+      metin  : pierantonio stiattesi
+      duyulan: piar antonio stiatesi
+  REPLACE  ...ile evlendirildi damadın ağabeyi
+      metin  : oratsyo
+      duyulan: oratio
+  INSERT   ...devlet arşivi nde korundu
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...fazlasıydı artemisia kocasıyla birlikte
+      metin  : floransa
+      duyulan: florensa
+  REPLACE  ...görkemli sarayının kapısını çaldı
+      metin  : floransa
+      duyulan: florensa
+  REPLACE  ...tanınan ressam ailesine aitti
+      metin  : mediçi sarayının
+      duyulan: medici sarayı nın
+  ... ve 69 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 129
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: biyografi-2026-09-15.duyulan.txt
