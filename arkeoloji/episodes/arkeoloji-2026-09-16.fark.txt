@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-16.mp3
+
+beklenen 2449 kelime | duyulan 2462 kelime | eşleşme %94.6
+sayı ifadesi: metinde 324, duyulanda 250  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...olan baraj vardı toprağın
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...olduğunu henüz bilmiyordu fırat
+      metin  : toroslar dan
+      duyulan: fırat toroslardan
+  REPLACE  ...mezopotamya ovasına açılmadan önce
+      metin  : gaziantebin
+      duyulan: gaziantep in
+  REPLACE  ...olarak geçidin üzerine kurulmuştu
+      metin  : mö
+      duyulan: milohtoge leer
+  REPLACE  ...o karışık kuşakta komutanlarından
+      metin  : seleukos
+      duyulan: seylor kos
+  REPLACE  ...adını verdi fırat kıyısındaki
+      metin  : seleukeia
+      duyulan: seleukeya
+  REPLACE  ...apama nın adını verdi
+      metin  : apameia
+      duyulan: apameya
+  REPLACE  ...şeyi birbirine koşumlayan o
+      metin  : düzeneğe
+      duyulan: düzeneye
+  REPLACE  ...yuttu i nsanlar artık
+      metin  : seleukeia
+      duyulan: seleukeya
+  REPLACE  ...tek hamlede gelmedi önce
+      metin  : kommagene krallığı nın
+      duyulan: komajene krallığının
+  REPLACE  ...yerel hanedanlarla anlaşmalar üzerinden
+      metin  : nüfuz
+      duyulan: nüfus
+  REPLACE  ...kurdu sonra yüzyılın yarısında
+      metin  : kommagene
+      duyulan: komajene
+  REPLACE  ...anlama gelir asker demektir
+      metin  : zeugma ya legyo kuarta skitika
+      duyulan: zeugmaya legio quartas kitica
+  REPLACE  ...civarında adam demektir ama
+      metin  : lejyonun
+      duyulan: lejonun
+  REPLACE  ...demektir doğudan gelen kervanlar
+      metin  : fıradı
+      duyulan: fırat ı
+  REPLACE  ...şeyden küçük pay almak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...dekorasyon programı vardı duvarlar
+      metin  : fresklerle
+      duyulan: freskilerle
+  REPLACE  ...değildi dionysos un düğünü
+      metin  : akhilleus
+      duyulan: achilleus
+  REPLACE  ...saklandığı sahne eros ile
+      metin  : psykhe
+      duyulan: psyche
+  REPLACE  ...eden sokaklar i kinci
+      metin  : zeugma sı
+      duyulan: zevkması
+  REPLACE  ...geçerken ordu da geçebilir
+      metin  : zeugma yı
+      duyulan: zogmayı
+  REPLACE  ...şeyle tamamen aynı şeydi
+      metin  : ms
+      duyulan: mms
+  REPLACE  ...halinde saydı o listede
+      metin  : zeugma
+      duyulan: zogma
+  INSERT   ...listede zeugma da var
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...önündeki kentleri sırayla aldı
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...arasına savrulmuş insan kemikleri
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...kemikleri zeugma dövüşerek düşmedi
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...nar kalıntıları çıktı poseidon
+      metin  : mozaiğinin
+      duyulan: mozayinin
+  REPLACE  ...kulpları hurda demir ve
+      metin  : sikkelerden
+      duyulan: sikyelerden
+  REPLACE  ...demir ve sikkelerden oluşan
+      metin  : atölye stoğu
+      duyulan: atölyes doğu
+  REPLACE  ...zaman aralığına yayılan bronz
+      metin  : sikkelik
+      duyulan: sikyelik
+  REPLACE  ...almadı sonra yangın geldi
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...kendisi koruma biçimine dönüştü
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...yaşandı antik dünyada belge
+      metin  : papirüse
+      duyulan: papiruse
+  DELETE   ...yaş kil konarak mühür
+      metin  : yüzüğüyle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...için mührü kırmak gerekirdi
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...taş gibi sertleşti bugün
+      metin  : zeugma
+      duyulan: zogma
+  REPLACE  ...roma imparatorlarının portreleri yerel
+      metin  : kültlerin
+      duyulan: kütlerin
+  REPLACE  ...da var imparator da
+      metin  : fıradın
+      duyulan: fırat ın
+  REPLACE  ...saati o yıl durdu
+      metin  : zeugma
+      duyulan: zöğükma
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 95 kelime | duyulup metinde OLMAYAN: 114
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: arkeoloji-2026-09-16.duyulan.txt

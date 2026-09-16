@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-15.mp3
+
+beklenen 1417 kelime | duyulan 1430 kelime | eşleşme %94.6
+sayı ifadesi: metinde 280, duyulanda 143  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...abd merkez bankası toplantısından
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...saldırılarının ardından kapatması boğazı
+      metin  : baypas
+      duyulan: bypass
+  INSERT   ...geçen gemi trafiğinin günde
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...hamas ın aşamalı silahsızlanma
+      metin  : taahhüdüne
+      duyulan: tahhüdüne
+  REPLACE  ...tablo ağırlığını korurken batı
+      metin  : şeria da
+      duyulan: şeriat a
+  REPLACE  ...sadakat sorusu uygulamasını da
+      metin  : bloke
+      duyulan: blöke
+  REPLACE  ...uygulamasını da bloke etti
+      metin  : missouri
+      duyulan: misuri
+  REPLACE  ...zekanın hızı tartışması belirliyor
+      metin  : anthropic
+      duyulan: antropik
+  DELETE   ...ölçekte yavaşlama çağrısı yaptı
+      metin  : amodei
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zeka sistemleri üzerindeki kontrolün
+      metin  : kaybedilmesi ile
+      duyulan: kaybedilmesiyle
+  REPLACE  ...xai dan elon musk
+      metin  : da
+      duyulan: la
+  REPLACE  ...verdi tartışmayı tetikleyen gelişme
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...eğitim araştırmaları yürüten jacob
+      metin  : coxon ın
+      duyulan: coxson un
+  REPLACE  ...coxon ın istifası oldu
+      metin  : coxon
+      duyulan: coxson
+  REPLACE  ...coxon hem openai hem
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...içinde olduklarını söyleyerek ayrıldı
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...ize kötü niyetli aktörlerin
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...cnn in haberine göer
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...bu fikrin temmuzda demis
+      metin  : hassabis
+      duyulan: azsabis
+  REPLACE  ...çin dışişleri bakanlığı ize
+      metin  : anthropic
+      duyulan: antropik
+  INSERT   ...korku yayma olarak nitelendirdi
+      metin  : (yok)
+      duyulan: i ki
+  DELETE   ...nin nanometer bandında üretilen
+      metin  : ayirmi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...bandında üretilen ayirmi ve
+      metin  : ayirmi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kamerada ilk kez değişken
+      metin  : diyafram
+      duyulan: diafram
+  INSERT   ...şirket küresel robotaksi pazarının
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...york borsasında dow jones
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...tahvil faizi gün içinde
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...seviyeyi gördü gün sonunda
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...ve piyasa sabit tutulma
+      metin  : ihtimali ile baz
+      duyulan: ihtimaliyle bas
+  REPLACE  ...kurumların petrol beklentileri ayrışıyor
+      metin  : rystad
+      duyulan: restart
+  REPLACE  ...parti mutlak butlan davasında
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...kapattığını duyurdu gerekçe olarak
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...sürecini geciktirebileceği gösterildi açıklamada
+      metin  : temyize
+      duyulan: temize
+  REPLACE  ...yi kurmuş özel oy
+      metin  : birliğiyle
+      duyulan: ile
+  REPLACE  ...dolarlık ticaret hedefi savunma
+      metin  : sanayii
+      duyulan: sanayi
+  REPLACE  ...çeyrek satış fiyatı lira
+      metin  : bist
+      duyulan: beast e
+  INSERT   ...faizini beklentileer paralel biçimde
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ağustosta yıllık tüketici enflasyonu
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...üretebilir petrolde hürmüz boğazı
+      metin  : trafiği ile
+      duyulan: trafiğiyle
+  REPLACE  ...beklenmiyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-09-15.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-16.mp3
+
+beklenen 2649 kelime | duyulan 2668 kelime | eşleşme %92.5
+sayı ifadesi: metinde 376, duyulanda 233  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ağustos
+      metin  : varşova
+      duyulan: de varshova
+  REPLACE  ...ağustos varşova nın
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...okuyordu ve o gece
+      metin  : varşova
+      duyulan: varshova
+  REPLACE  ...daha yeni başladığını bilmiyorlardı
+      metin  : yozef pilsutski
+      duyulan: joseph pilsudski
+  REPLACE  ...yı bolşevik denetiminden kurtarmak
+      metin  : symon
+      duyulan: noksumon
+  REPLACE  ...kaldırmak ve böylece polonya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...tampon koymak nisan ayında
+      metin  : varşova
+      duyulan: varshova
+  REPLACE  ...ayında varşova da petlura
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...ordusu kendi ikmal hatlarından
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...haziran da geldi semyon
+      metin  : budyonni nin
+      duyulan: budyonin in
+  REPLACE  ...cephe savaşından çok eski
+      metin  : bozkır
+      duyulan: boskır
+  REPLACE  ...kollarının telgraf hatlarının arasına
+      metin  : dalıyor
+      duyulan: kalıyor
+  REPLACE  ...cephesi nin komutanı mihail
+      metin  : tuhaçevski
+      duyulan: tuachevski
+  REPLACE  ...yaşındaydı çarlık ordusunun genç
+      metin  : subayıyken
+      duyulan: subayı iken
+  INSERT   ...bu sınır savaşı değildi
+      metin  : (yok)
+      duyulan: tiki i
+  REPLACE  ...i ki gün sonra
+      metin  : tuhaçevski
+      duyulan: tuachevski
+  INSERT   ...polonya haritası hızla küçüldü
+      metin  : (yok)
+      duyulan: dok
+  REPLACE  ...da bolşevikler ele geçirilen
+      metin  : byalistok
+      duyulan: bialystok
+  REPLACE  ...geçirilen byalistok kentinde yani
+      metin  : byalistok
+      duyulan: bialystok
+  REPLACE  ...britanya dışişleri bakanlığı sonradan
+      metin  : curzon
+      duyulan: çürzon
+  REPLACE  ...curzon hattı diye anılacak
+      metin  : ateşkes
+      duyulan: ateşkez
+  REPLACE  ...meselesine dönüşmüştü yorgun aç
+      metin  : tifüslü
+      duyulan: tüfüslü
+  REPLACE  ...heyetinin başında komutan maksim
+      metin  : vegan
+      duyulan: wegan
+  REPLACE  ...genç fransız subayı olan
+      metin  : şarl dö gol
+      duyulan: charles
+  INSERT   ...şarl dö gol de
+      metin  : (yok)
+      duyulan: gaulde
+  REPLACE  ...devraldığı geceye gitmek gerekiyor
+      metin  : yan kovalevski
+      duyulan: jan kowalewski de
+  REPLACE  ...dili kaptı belçika da
+      metin  : liyej
+      duyulan: liege
+  INSERT   ...daki polonya birliklerine savurdu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kurulmuş polonya nın ordusunda
+      metin  : teğmendi
+      duyulan: teymendi
+  REPLACE  ...formüllerle uğraşmaya alışkındı temmuz
+      metin  : varşova ya genelkurmay ın
+      duyulan: da varşovaya genel kurmayı
+  INSERT   ...gece tamamen tesadüftü ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ün kazanmış matematikçilerine gitti
+      metin  : vatslav
+      duyulan: vaclav
+  REPLACE  ...gitti vatslav şerpinski stefan
+      metin  : mazurkyeviç
+      duyulan: mazurkeviç
+  REPLACE  ...şerpinski stefan mazurkyeviç ve
+      metin  : stanislav leşnyevski
+      duyulan: stanislaw leśniewski
+  INSERT   ...üretim hattına dönüştü kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bütün birlikleriyle haberleşmekte kullandığı
+      metin  : ajitatör
+      duyulan: agitatör
+  REPLACE  ...varşova daki şifer bürosu
+      metin  : tuhaçevski
+      duyulan: tuhacevski
+  REPLACE  ...şifer bürosu tuhaçevski den
+      metin  : troçki
+      duyulan: turoczki
+  REPLACE  ...arayıp metni telefonda doğrudan
+      metin  : pilsutski
+      duyulan: pilsudski
+  REPLACE  ...kimin kimin planını bildiğiydi
+      metin  : tuhaçevski
+      duyulan: tuhacevski
+  ... ve 85 fark daha
+
+metinde olup DUYULMAYAN: 132 kelime | duyulup metinde OLMAYAN: 153
+bölme/birleşme farkı (hata değil, elendi): 37
+
+duyulan metin: tarih-2026-09-16.duyulan.txt

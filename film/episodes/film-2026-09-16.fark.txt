@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-16.mp3
+
+beklenen 1765 kelime | duyulan 1768 kelime | eşleşme %94.1
+sayı ifadesi: metinde 207, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kendi başına geri geldi
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...gelmiyordu bu yerleşime sidadi
+      metin  : dji deus
+      duyulan: digideus
+  REPLACE  ...tanrı kent adı verildi
+      metin  : paulo lins
+      duyulan: paolo linz
+  REPLACE  ...yönünü değiştiren şey ize
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...kapıların açılacağı ihtiyacı vardı
+      metin  : lins
+      duyulan: linz
+  REPLACE  ...edebiyata çevirmeye teşvik etti
+      metin  : lins
+      duyulan: linz
+  INSERT   ...içinde omuz omuza kitap
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tarafından anlatılıyordu kitabı sao
+      metin  : paulo
+      duyulan: paolo
+  REPLACE  ...reklam yönetmeni okudu fernando
+      metin  : meyrelis
+      duyulan: meirelis
+  REPLACE  ...hiçbir hayat bağı yoktu
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...şey yaptı senaryo için
+      metin  : brauliyo
+      duyulan: braulio
+  REPLACE  ...tek bakış açısına bağladı
+      metin  : buskape
+      duyulan: buscape
+  REPLACE  ...duran gözünden i kincisi
+      metin  : meyrelis
+      duyulan: meirelis
+  REPLACE  ...rio nun lapa semtindeki
+      metin  : fundisaun progresu
+      duyulan: fundi sound progressu
+  INSERT   ...değildi şehrin çeşitli favelalarında
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...seçildi kısmı nos du
+      metin  : morru
+      duyulan: morro
+  REPLACE  ...toledo ve katya lund
+      metin  : la
+      duyulan: ile
+  REPLACE  ...birbirine güvendi aralarındaki gerçek
+      metin  : hiyerarşiler
+      duyulan: hiyaraşiler
+  REPLACE  ...atölyede kamera yokken oluştu
+      metin  : meyrelis
+      duyulan: meirelis
+  REPLACE  ...de kısa film çektiler
+      metin  : palace ii
+      duyulan: pales
+  REPLACE  ...niteliğindeydi kadro böyle çıktı
+      metin  : buskape yi aleksandri rodrigis
+      duyulan: buscapeyi alexandri rodriguez
+  REPLACE  ...mahalleyi ele geçiren küçük
+      metin  : zé
+      duyulan: z
+  REPLACE  ...leandro firmino canlandırdı müzisyen
+      metin  : seu jorji
+      duyulan: ceu giorgi
+  REPLACE  ...içine sürüklenen adamını oynadı
+      metin  : alisi
+      duyulan: alice
+  REPLACE  ...kent mahallesi romanın anlattığı
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...mahallesinde çekilemedi böylece prodüksiyon
+      metin  : rio nun
+      duyulan: riyonun
+  REPLACE  ...kurmak zorundaydı çünkü film
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...çünkü film altmışların sonundan
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...labirente dönüştü görüntü yönetmeni
+      metin  : sezar şarloni
+      duyulan: cezar şarlony
+  REPLACE  ...daha acımasız düşmeye başladı
+      metin  : film milimetrelik
+      duyulan: filme mm lik
+  REPLACE  ...ve bu ilk uzun
+      metin  : metrajıydı
+      duyulan: metracıydı
+  REPLACE  ...ve tam o anda
+      metin  : buskape
+      duyulan: buzkape
+  REPLACE  ...toz toprak meydana atlıyor
+      metin  : film
+      duyulan: filin
+  REPLACE  ...değildi kamera kapandığında o
+      metin  : gencin
+      duyulan: yüzgencin
+  DELETE   ...genç filmlerinden vardı bütçesi
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...film ilk kez mayıs
+      metin  : kan
+      duyulan: de cannes
+  INSERT   ...filmi fark etti ağustos
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...vizyona girdi ve ülkede
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oscar kapısından geri çevrildi
+      metin  : meyrelis
+      duyulan: mayreles
+  INSERT   ...film amerika da ocak
+      metin  : (yok)
+      duyulan: te
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-09-16.duyulan.txt

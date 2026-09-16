@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-16.mp3
+
+beklenen 2434 kelime | duyulan 2405 kelime | eşleşme %97.3
+sayı ifadesi: metinde 115, duyulanda 89  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...glass tube a dark
+      metin  : grey
+      duyulan: gray
+  REPLACE  ...mass with a few
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...strand of hair descending
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...cannot reach deeper than
+      metin  : millimetres
+      duyulan: millimeters
+  REPLACE  ...than hor moer than
+      metin  : millimetres
+      duyulan: millimeters
+  REPLACE  ...diffusion is slow across
+      metin  : millimetres
+      duyulan: millimeters
+  DELETE   ...further stil moer than
+      metin  : per cent
+      duyulan: (YOK — atlanmış)
+  DELETE   ...from below published in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...time weer limited to
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...passed a tungsten wier
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...ful of filamentous bacteria
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...thickness is between and
+      metin  : micrometres
+      duyulan: micrometers
+  DELETE   ...between and micrometres about
+      metin  : per cent
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...view continues in the
+      metin  : neighbouring
+      duyulan: neighboring
+  REPLACE  ...the neighbouring fields passes
+      metin  : millimetres
+      duyulan: millimeters
+  REPLACE  ...fields passes millimetres reaches
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...end each is to
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...not from their own
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...a distance measured in
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...breathing through a snorkel
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...settling into fresh mud
+      metin  : colonises
+      duyulan: colonizes
+  REPLACE  ...mud colonises the top
+      metin  : millimetres
+      duyulan: mm
+  REPLACE  ...surface a total of
+      metin  : kilometres
+      duyulan: km
+  DELETE   ...at a rate of
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...rate of point to
+      metin  : point centimetres
+      duyulan: cm
+  DELETE   ...alone observations published in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...its length bundles of
+      metin  : fibres
+      duyulan: fibers
+  REPLACE  ...the species each roughly
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...crucial property of these
+      metin  : fibres
+      duyulan: fibers
+  REPLACE  ...skeleton stil conducts electricity
+      metin  : measurements
+      duyulan: filaments
+  DELETE   ...genus shewanella is around
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...geobacter pili stay between
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...stay between point and
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...conducting filament tested was
+      metin  : point millimetres
+      duyulan: mm
+  REPLACE  ...current passing through the
+      metin  : fibres
+      duyulan: fibers
+  DELETE   ...fibres corresponds to about
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...for that reason the
+      metin  : fibres
+      duyulan: fibers
+  REPLACE  ...hops is measured in
+      metin  : nanometres
+      duyulan: nanometers
+  DELETE   ...for that mechanism in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...contributions from roughly research
+      metin  : centres
+      duyulan: centers
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 74 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: science-2026-09-16.duyulan.txt

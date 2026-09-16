@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-16.mp3
+
+beklenen 1593 kelime | duyulan 1602 kelime | eşleşme %97.2
+sayı ifadesi: metinde 228, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonuçlanacağını herkes bilir en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...yerde birbirine değmelidir ama
+      metin  : orhus taki
+      duyulan: orhusdaki
+  REPLACE  ...işi kaldıramazdı lars peter
+      metin  : nilsen
+      duyulan: nielsen
+  REPLACE  ...o ince oksijenli tabakada
+      metin  : ph
+      duyulan: peyha
+  INSERT   ...gidiyordu çamurun tükettiği oksijenin
+      metin  : (yok)
+      duyulan: tan
+  INSERT   ...aşağıdan iletilen elektronlarla besleniyordu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...nanotelleri iş görüyor olabilirdi
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...katı mesafeye yaymıştır kaba
+      metin  : benzetmeyle
+      duyulan: benzetme ile
+  REPLACE  ...tepe yapar ve her
+      metin  : santimetrekaresinin
+      duyulan: cm karesinin
+  REPLACE  ...ve her santimetrekaresinin toplam
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...belirir sonra günde ile
+      metin  : santimeter
+      duyulan: cm
+  INSERT   ...üstelik yalnız da değiller
+      metin  : (yok)
+      duyulan: kiki te
+  DELETE   ...daha yükseltgenmiş durumda olduğu
+      metin  : ölçülebiliyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zarfını dikkatlice soyup elektron
+      metin  : mikroskobuna
+      duyulan: mikroskopuna
+  INSERT   ...yapılan ölçümlerde bu değer
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...neredeyze kat düşük geobakter
+      metin  : pilusları
+      duyulan: plusları
+  REPLACE  ...taşır bu lifler üzeri
+      metin  : eksi bar ın
+      duyulan: barın
+  DELETE   ...sıçramaların menzili nanometrelerle ölçülür
+      metin  : santimeter
+      duyulan: (YOK — atlanmış)
+  INSERT   ...mekanizma için astronomik mesafedir
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...katkısıyla yürütülen çalışma raman
+      metin  : mikroskobuyla
+      duyulan: mikroskopuyla
+  INSERT   ...ortada kesit alanının yaklaşık
+      metin  : (yok)
+      duyulan: sini
+  REPLACE  ...kılıf nikel kimyasal olarak
+      metin  : yükseltgendiğinde
+      duyulan: yükseltkendiğinde
+  REPLACE  ...üreaz bazı hidrojenazlar ve
+      metin  : karbon monoksit dehidrogenaz
+      duyulan: karbonmonoksitle hidrogenaz
+  REPLACE  ...halinde döndürüp durur çeltik
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...de büyümeye devam ediyor
+      metin  : nisanında
+      duyulan: ki ki nisan ında
+  REPLACE  ...adı verildi adlandırma bugün
+      metin  : siletz
+      duyulan: silet
+  REPLACE  ...kendi kendini büyüten bozunabilir
+      metin  : biyoelektronik
+      duyulan: bioelektronik
+  REPLACE  ...yeterince yavaş indirmesi olmuştu
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-09-16.duyulan.txt

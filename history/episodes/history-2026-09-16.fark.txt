@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-16.mp3
+
+beklenen 2322 kelime | duyulan 2135 kelime | eşleşme %12.6
+sayı ifadesi: metinde 242, duyulanda 130  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...what it was hearing
+      metin  : yılının nisan ayında varşova da imzalanan anlaşma yıllık düzensiz savaşı bambaşka yola soktu
+      duyulan: nadin nisanayinda warsaw was the to know what it was hearing polonieh devletinin was the to know that joseph piłsudski was the ukrainian leader of the ukrainian army piłsudski was the to know what it was hearing rusiaj lapolonieh arasunabir tampon gierzejk was the to know what it was hearing nisanayinda polonieh was the ukrainian leader of the ukrainian army let s maistekieh gierdler emekieh devdikimse onarbek lemioda kzilor dziddibir direnishko star medang giercekyl mest scheher teslimedil mestiil boshaltil mest polonieh askeler bomboshpyr zaferaldilarelyrne iyakhlanaja ummulan ukrainakoyl so iyakhlanmady jepybeshu s kilometer uzaipinjeldy moskova isebu aradabir szejyapyordu kuvett toplyordu karsha darby yirmal tumayista guneyda bashladeh semyon bajanin and manard suvari ordusu atadanolushan huzila dushmanan sinirlernibosma kuzeher kurul muspir kuvetti haziranda samhorodokjakaneranda
+  REPLACE  ...bambaşka yola soktu polonya
+      metin  : devletinin başındaki józef piłsudski ile ukrayna halk cumhuriyeti nin lideri symon petliura ortak harekat için el sıkıştılar piłsudski nin aklındaki tasarı büyüktü doğusunda bağımsız ukrayna duracak rusya ile polonya arasına tampon girecek varşova daha hiçbir imparatorluğun eteğinde nefes almak zorunda kalmayacaktı nisan da polonya ve ukrayna birlikleri ileri atıldı mayıs ta
+      duyulan: hatanayardave jepeningerisin edalda kesil mekorkusu kursundandaha huzleyayilur
+  REPLACE  ...atıldı mayıs ta kiev
+      metin  : e girdiler ama kiev de kimse beklemiyordu kızıl ordu ciddi direniş göstermeden geri çekilmişti şehir teslim edilmiş değil boşaltılmıştı polonyalı askerler bomboş zafer aldılar ellerine ayaklanacağı umulan ukrayna köylüsü ayaklanmadı cephe kilometer uzayıp inceldi moskova ize bu arada şey yapıyordu kuvvet topluyordu karşı darbe mayıs ta güneyde başladı semyon budyonny nin süvari ordusu binlerce atlıdan oluşan hızıyla düşmanın sinirlerini bozmak üzeer kurulmuş kuvvetti haziran da samhorodok yakınlarında polonya hattını yardı ve cephenin gerisine daldı kesilme korkusu kurşundan daha hızlı yayılır kiev haziran da tahliye edildi ay önce zafer yürüyüşü
+      duyulan: haziranda tahliyedilda zafar yuryusu
+  REPLACE  ...zafer yürüyüşü yapan ordu
+      metin  : geri çekilmeye başladı asıl
+      duyulan: giricekyl meyabashladeh asil
+  REPLACE  ...çekilmeye başladı asıl darbe
+      metin  : kuzeyden geldi batı cephesi nin komutanı
+      duyulan: kuzaydangyaldeh batu jefesinin komutanem
+  REPLACE  ...cephesi nin komutanı mihail
+      metin  : tuhaçevski yaşındaydı
+      duyulan: tuhajevskiy ediyeshandayde
+  REPLACE  ...mihail tuhaçevski yaşındaydı eski
+      metin  : çarlık teğmeniydi
+      duyulan: charliek temenideh
+  REPLACE  ...eski çarlık teğmeniydi ve
+      metin  : iç savaşta yükselmişti temmuz da ordusuna yayımladığı
+      duyulan: itzavashtayuk salmishteh toa temuzda ordu sunayeyemladu
+  REPLACE  ...da ordusuna yayımladığı emir
+      metin  : askeri talimattan çok bildiriydi
+      duyulan: biraskerita alimattan chokbir bilderideh
+  REPLACE  ...talimattan çok bildiriydi beyaz
+      metin  : polonya nın cesedi üzerinden dünya yangınına giden yolun geçtiğini süngülerin ucunda emekçi insanlığa mutluluk taşınacağını söylüyordu
+      duyulan: polonyanan jecedi uzairindan dunyayanganan agedan yolungechtine sungularen ujunda emekci insanla mutluktashana jana suryorda
+  REPLACE  ...mutluluk taşınacağını söylüyordu emir
+      metin  : batı ya diye bitiyordu temmuz sabahı berezina boyunda taarruz başladı sonraki
+      duyulan: batyadiyebiti ordu for temuz saba heberesina boyun dataa rusbashladeh sanraki alta
+  REPLACE  ...başladı sonraki hafta polonya
+      metin  : ordusunun yaşadığı en uzun haftaydı hatlar
+      duyulan: ordu sununyashadeh enuzun alta haftaydah hetlar
+  REPLACE  ...uzun haftaydı hatlar yerde
+      metin  : tutuluyor gün
+      duyulan: tutulur
+  REPLACE  ...yerde tutuluyor gün sonra
+      metin  : yandan dolanılıyor tekrar geri çekiliyordu
+      duyulan: yandandolanulur tekrargiri chikilyordu
+  REPLACE  ...geri çekiliyordu vilnius minsk
+      metin  : grodno düştü ağustos ta
+      duyulan: grodnodushte wanna ustusta
+  REPLACE  ...ağustos ta brest litovsk
+      metin  : kalesi elden çıktı piyade günde
+      duyulan: kalessi eldenchikte piadegunde girmi
+  REPLACE  ...çıktı piyade günde kilometer
+      metin  : yürüyerek çekiliyor birlikler
+      duyulan: yuryerek chikilyor liklar
+  REPLACE  ...yürüyerek çekiliyor birlikler yolda
+      metin  : erirken telgraf hatları arkada kalıyordu bu geri çekilmenin en tehlikeli tarafı mesafe kaybı değil zamanın kaybıydı
+      duyulan: erkantelgraf hatlarar kada kalyordu bogery chikilmenin entehlikhe litarafu mesafeh kaibudil zamanan kaibidu
+  REPLACE  ...değil zamanın kaybıydı polonya
+      metin  : karargahı karşısındaki
+      duyulan: karargahu karshesundake
+  REPLACE  ...polonya karargahı karşısındaki ordunun
+      metin  : nereye vuracağını değil ancak nereye vurmuş olduğunu öğrenebiliyordu
+      duyulan: nereyavuru jana deil anjak nereyavur musholdunun ureni bilyardu
+  REPLACE  ...vurmuş olduğunu öğrenebiliyordu moskova
+      metin  : geleceği şimdiden kurmuştu bile temmuz da białystok ta geçici devrim
+      duyulan: geleje shymdedan kermushtibilei tirdi temuzdabia uistokta gechijidevrim
+  REPLACE  ...ta geçici devrim komitesi
+      metin  : ilan edildi başında
+      duyulan: ilanedildi
+  REPLACE  ...ilan edildi başında polonya
+      metin  : asıllı bolşevikler feliks dzerjinski
+      duyulan: assalla bolshevikler felix derzhinsky
+  REPLACE  ...dzerjinski ve julian marchlewski
+      metin  : vardı
+      duyulan: varde
+  REPLACE  ...julian marchlewski vardı elde
+      metin  : edilecek ülkenin hükümeti ülke alınmadan önce hazırdı çünkü
+      duyulan: edlichek ullkinen huqumete ullke allun madan unjehazurdu chunku
+  REPLACE  ...önce hazırdı çünkü hedef
+      metin  : yalnızca varşova değildi yazında moskova da toplanan komintern kongresinde harita başında konuşuluyor kızıl
+      duyulan: yalnuzdia varshova deilde yezendam moscow vadatoplanan comintern congress indeharitabashindakon ushuliur kizil ordunun polonya igecipe almanyei ulashmasi alrupanen nkalabalik istisanifunen devrimekatul masibekleni
+  DELETE   ...başında konuşuluyor kızıl ordu
+      metin  : nun polonya yı geçip almanya ya ulaşması avrupa nın en kalabalık işçi sınıfının devrime katılması bekleniyordu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...katılması bekleniyordu polonya hedef
+      metin  : değil koridordu batı başkentleri telaşlandı temmuz da i ngilteer dışişleri bakanı
+      duyulan: deil korydordu batubashkentleri telashlande temuzda ingilterra dushishteribakanil
+  REPLACE  ...ngilteer dışişleri bakanı lord
+      metin  : curzon tarafa ateşkes ve sınır hattı öneren nota gönderdi moskova bunu
+      duyulan: kurzan ikitarafa ateške svebir sunirhatu uneranbir notagundarde moscow vabunu
+  REPLACE  ...gönderdi moskova bunu kazanan
+      metin  : tarafın rahatlığıyla geri çevirdi fransa askeri heyet yolladı i ngilteer arabuluculuk denedi alman ve çekoslovak limanlarındaki işçiler
+      duyulan: tarafunrahatli yilagiricevirde france biroskari het yolade ingilterra arabulululukdenede almanve ceko slovaklimanerandaki istilair
+  REPLACE  ...çekoslovak limanlarındaki işçiler polonya
+      metin  : ya giden silah sevkiyatını durdurdu varşova pratikte yalnızdı ağustos un ilk haftasında kızıl
+      duyulan: yegedansila sevkiyatnadurdurdu varshova pretikte yalnuzde austo sun ilkhafta sunda kazilordu vistul nehrinei aklashmushte shehirde siparler kazilyor gunulutaburler kurilyor hukumetarsi vlerisandiklani
+  REPLACE  ...ilk haftasında kızıl ordu
+      metin  : vistül nehri ne yaklaşmıştı şehirde siperler kazılıyor gönüllü taburları kuruluyor hükümet arşivleri sandıklanıyordu dışarıdan bakan hemen herkes sonucu kestirdiğini sanıyordu oysa
+      duyulan: dushardan bakanhemen harkesonu jukestirdi nesanyordu oisa polonyanen haritada gurunmeyan tekbir ustunnuvardu varshavanan gobeinde birkachodala dairede sivilgimli birkachmatamatikci wegenc subai karsha tarafontasis travino okyordu john kowalewski kim de wojtodoro kimya okumakichin belchikaya liege universitei sinegitte birindji dunya savasichikunja rusordu sunda subai olerak savashta savashan sunda
+  REPLACE  ...kestirdiğini sanıyordu oysa polonya
+      metin  : nın haritada görünmeyen
+      duyulan: birliklerne katildu vibindoku zuzondoku zmaisunda yulke sineadundu cryptology aid myokto sifer kirma tekni yuzerne
+  REPLACE  ...nın haritada görünmeyen tek
+      metin  : üstünlüğü vardı varşova nın göbeğinde odalı dairede sivil giyimli matematikçi ve genç subay karşı tarafın telsiz trafiğini okuyordu jan kowalewski ekim de łódź da doğdu kimya okumak için belçika ya liège üniversitesi ne gitti dünya savaşı çıkınca rus ordusunda subay olarak savaştı savaşın sonunda polonya birliklerine katıldı ve mayısı nda ülkesine döndü kriptoloji eğitimi yoktu şifer kırma tekniği üzerine tek satır ders görmemişti
+      duyulan: saturdarskyar memishte
+  REPLACE  ...satır ders görmemişti ama
+      metin  : rusçayı ana dili gibi biliyordu satranç oynuyordu bulmaca çözmeyi seviyordu ve savaşın ortasında kurum kurulurken
+      duyulan: rushchi anadili ghibili yordu sathranchoi yordu bulmaja chuzmei sivi yordu vesavashin orta sunda birkurum kurulurkan
+  REPLACE  ...ortasında kurum kurulurken aranan
+      metin  : nitelik çoğu zaman
+      duyulan: nitelekh chuzaman
+  REPLACE  ...nitelik çoğu zaman diploma
+      metin  : değil eldeki insandır yazında gece nöbetinde
+      duyulan: deel elde kien sandar yaren yazunda nubetinde
+  REPLACE  ...gece nöbetinde eline tomar
+      metin  : ele geçirilmiş bolşevik telgrafı verildi anlatılan hikayeye göer kowalewski o gece cebinden tarak çıkardı dişlerinin kısmı kırık sıradan cep tarağıydı bu kağıdın üzerinde tarağı yürüttü aradığı şey şuydu aynı harf grubunun düzenli aralıklarla
+      duyulan: elegecherin mishpol shevig tagra fueerilde anatlanhe kyaya egeer kowalevski ogege jevindan tarakchkarde dishlerinin mukuruk siradan jep taraidobo kadun yuzerinde tarayurutu aradu sheshudu eine harfkurubunun duzanne araliklarla
+  REPLACE  ...grubunun düzenli aralıklarla tekrar
+      metin  : edip etmediği kırık dişlerin arasındaki boşluklar eşit aralıklı tekrarları gözle yakalamayı kolaylaştıran ilkel
+      duyulan: edipetmeni karaktishlirin arasandaki boshluklar ishit araliklar tekrarler guzdaiyakalama yekolailashtran ilkhel
+  REPLACE  ...yakalamayı kolaylaştıran ilkel ama
+      metin  : işe yarar cetvel gibiydi kowalewski
+      duyulan: ishe arar birjetvalgibidu kowalevski
+  ... ve 122 fark daha
+
+metinde olup DUYULMAYAN: 2041 kelime | duyulup metinde OLMAYAN: 1854
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: history-2026-09-16.duyulan.txt

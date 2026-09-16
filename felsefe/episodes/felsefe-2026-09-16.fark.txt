@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-16.mp3
+
+beklenen 1924 kelime | duyulan 1933 kelime | eşleşme %96.8
+sayı ifadesi: metinde 218, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...suçlamadı belki arkanızdaki sadece
+      metin  : rüzgardı
+      duyulan: rüzgerdi
+  REPLACE  ...yok olmak bu sahne
+      metin  : sartr
+      duyulan: sarter
+  INSERT   ...bu sahne sartr ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...keskin tarifi olarak durur
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...o kelimeye ulaşamazsın utanç
+      metin  : sartr a
+      duyulan: sarter
+  REPLACE  ...aralarındaki mesafe tamir edilebilir
+      metin  : dünyayla
+      duyulan: dünya ile
+  INSERT   ...helen block lewis oldu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tangney nin meslektaşlarıyla birlikte
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...un diyaloğunda anlatılan eski
+      metin  : mitte
+      duyulan: mit de
+  DELETE   ...yi yani utanma duygusuyla
+      metin  : adalet duygusunu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aristoteles ize daha temkinliydi
+      metin  : nikomakhos a etik te aidos u
+      duyulan: nikomahkosa etikte aidosu
+  INSERT   ...kültürleri ruth benedict in
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...hızla yayıldı bernard williams
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hadis külliyatında duruyor kadın
+      metin  : peygamber e
+      duyulan: peygambeer
+  REPLACE  ...tesadüfi değildir i bn
+      metin  : miskeveyh
+      duyulan: i miskevey
+  REPLACE  ...içinde ölçü doğuyor demektir
+      metin  : nasirüddin
+      duyulan: nasir ü din
+  REPLACE  ...demektir nasirüddin tusi den
+      metin  : kınalızade
+      duyulan: kınalıza
+  DELETE   ...de aynı damarı taşır
+      metin  : suyu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yerde biz utandırmayı yeniden
+      metin  : icat
+      duyulan: icad
+  REPLACE  ...tazir cezası vardı suçlu
+      metin  : eşeğe
+      duyulan: eşeye
+  REPLACE  ...herkesin cebine koyduk gazeteci
+      metin  : jon
+      duyulan: john
+  REPLACE  ...koyduk gazeteci jon ronson
+      metin  : ın
+      duyulan: un te
+  REPLACE  ...ve türkçeye herkesin önünde
+      metin  : utandırıldın
+      duyulan: utandırıldım
+  INSERT   ...en bilinen örnek aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...halkla ilişkiler yöneticisi olan
+      metin  : justine
+      duyulan: justin
+  REPLACE  ...indiğinde işi gitmişti ronson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...görmedi burada devreye sosyolog
+      metin  : erving
+      duyulan: erwin
+  REPLACE  ...ın kavramı giriyor goffman
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...ve iddia ne kadar
+      metin  : büyükse
+      duyulan: yoksa
+  DELETE   ...kez gören bakış gördüğü
+      metin  : tek
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tanıyan bakış ize aynı
+      metin  : kareyi
+      duyulan: karayı
+  DELETE   ...olarak budur sizi tanımayan
+      metin  : o
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çıkmak aynı karşılaşmanın öbür
+      metin  : ihtimalidir
+      duyulan: halidir
+  REPLACE  ...hala orada duran bakışıdır
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-09-16.duyulan.txt

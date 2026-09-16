@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-16.mp3
+
+beklenen 1826 kelime | duyulan 1847 kelime | eşleşme %94.2
+sayı ifadesi: metinde 350, duyulanda 226  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...kağıtlar halinde bekliyordu yazında
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...yaşında çocuk babasını kaybetti
+      metin  : juakin
+      duyulan: joaquin
+  REPLACE  ...babasını kaybetti juakin de
+      metin  : seabra
+      duyulan: siebra
+  REPLACE  ...nda memurdu boş zamanlarında
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...sonra çocuğun yaşındaki kardeşi
+      metin  : jorj da
+      duyulan: george de
+  INSERT   ...indi anne maria madalena
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...evlendi yeni kocası juan
+      metin  : migel roza
+      duyulan: miguel rosa
+  REPLACE  ...atlas okyanusu nu geçti
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...iyi i ngilizce metni
+      metin  : lizbonlu
+      duyulan: lisbonlu
+  INSERT   ...kariyer bekliyordu bunun yerine
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tek başına gemiye ve
+      metin  : lizbon
+      duyulan: lisbon
+  DELETE   ...çıkmadı yıl daha yaşadı
+      metin  : bu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu yılın neredeyze tamamını
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...orada durmaya devam etti
+      metin  : lizbon
+      duyulan: lisbon
+  INSERT   ...yazıldı edebiyat okumaya başladı
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...kadar sürdüreceği işi buldu
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...yazan kişinin adı vardı
+      metin  : şövalye dö
+      duyulan: chevalier de
+  REPLACE  ...i ngilizceye taşındı alexander
+      metin  : search
+      duyulan: surge
+  REPLACE  ...pessoa de sözleşme yazdırdı
+      metin  : search
+      duyulan: surge
+  INSERT   ...ölümünden ay önce ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ocak genç eleştirmen adolfo
+      metin  : kazayş monteyro
+      duyulan: kazaj monteiro
+  REPLACE  ...şiiri arka arkaya çeşit
+      metin  : vecd
+      duyulan: veçt
+  REPLACE  ...yazan kendisi değildir alberto
+      metin  : kaeyro
+      duyulan: cairo
+  REPLACE  ...yazmamıştı kitabın adı da
+      metin  : kaeyro
+      duyulan: cairo
+  REPLACE  ...ayrı yönünü tuttu alberto
+      metin  : kaeyro
+      duyulan: cairo
+  INSERT   ...yaşadı ve kurguya göer
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlama geldiğini sormak gereksizdir
+      metin  : ricardo
+      duyulan: richardo
+  REPLACE  ...ya gitti alvaro de
+      metin  : kampos
+      duyulan: campos
+  REPLACE  ...imzası pessoa nın değil
+      metin  : kampos
+      duyulan: campos
+  REPLACE  ...yazılar yazdılar birbirlerini eleştirdiler
+      metin  : kampos
+      duyulan: campos
+  REPLACE  ...pessoa bu figürleer takma
+      metin  : ad
+      duyulan: at
+  INSERT   ...var olduğu hala tartışılır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ibarettir kimisi koca külliyattır
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...pessoa arkadaşı mario de
+      metin  : sa karneyro
+      duyulan: sácarneiro
+  REPLACE  ...sa karneyro ve genç
+      metin  : sanatçıyla
+      duyulan: sanatçı ile
+  REPLACE  ...adlı dergi çıkardı orfeus
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...sayı gösterilir yıl sonra
+      metin  : sa karneyro
+      duyulan: sácarneiro
+  INSERT   ...bu yılların hemen ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...birindeki genç katip olan
+      metin  : ofelya keyroz
+      duyulan: ofelia keyros
+  ... ve 31 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: edebiyat-2026-09-16.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-16.mp3
+
+beklenen 1504 kelime | duyulan 1521 kelime | eşleşme %92.6
+sayı ifadesi: metinde 435, duyulanda 236  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...var olmasını sağladı ve
+      metin  : iowa nın
+      duyulan: ayavanın
+  INSERT   ...mi yoksa inanan insanlar
+      metin  : (yok)
+      duyulan: var
+  REPLACE  ...hali adamın adı walter
+      metin  : day di
+      duyulan: daydı doğun
+  INSERT   ...walter day di mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...di mayıs kaliforniya nın
+      metin  : oakland
+      duyulan: auckland
+  INSERT   ...nın oakland kentinde doğmuştu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ele dolaştırmakla kazanmıştı zaten
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...dolaştırmakla kazanmıştı zaten kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atari salonunu açtı ve
+      metin  : twin
+      duyulan: onatwin
+  REPLACE  ...için hiçbir sebebi yoktu
+      metin  : dı moyn nehri nin
+      duyulan: des moines nehrinin
+  INSERT   ...büyümüş işçi kasabasıydı nüfusu
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...başlamıştı kasabanın ana caddesinde
+      metin  : camekanından
+      duyulan: kamekanından
+  REPLACE  ...mütevazı işletme fikriydi ama
+      metin  : day in
+      duyulan: dayın
+  INSERT   ...salondan fazlası vardı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...de her şey silinirdi
+      metin  : day in
+      duyulan: dayın
+  REPLACE  ...adresi vardı o adres
+      metin  : ottumwa ydı
+      duyulan: otunvay dı
+  REPLACE  ...sonrası hızlı gelişti telefon
+      metin  : iowa
+      duyulan: ayava
+  INSERT   ...üreticileri gazeteciler ve nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düzenledi ağustos sonunda kaliforniya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...kez lige benziyordu kasım
+      metin  : ottumwa
+      duyulan: de otunvay
+  REPLACE  ...başkanı jerry parker resmi
+      metin  : bildiriyle
+      duyulan: bildiri ile
+  INSERT   ...beklenmedik biçimde arkası doldu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...biçimde arkası doldu mart
+      metin  : ottumwa
+      duyulan: te otunva
+  REPLACE  ...da düzenlenen törende iddiayı
+      metin  : iowa
+      duyulan: ayava
+  REPLACE  ...karede toplamak istedi ve
+      metin  : ottumwa ya
+      duyulan: otunvay a
+  REPLACE  ...pazar sabahı gün yeni
+      metin  : ağarırken
+      duyulan: ağırırken
+  REPLACE  ...life dergisinin usta isimlerinden
+      metin  : enriko ferorelli
+      duyulan: enrico ferrorelli
+  REPLACE  ...tempest in florida dan
+      metin  : ned troide
+      duyulan: netroide
+  REPLACE  ...ın teksas tan mike
+      metin  : lepkosky ms pac man in
+      duyulan: lepkowski miss pacman ın
+  REPLACE  ...çocuktu adı billy mitchel
+      metin  : di
+      duyulan: dı
+  INSERT   ...tam o güne kasım
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...kong da puan rakam
+      metin  : day in
+      duyulan: dayın
+  INSERT   ...uzun süer kaldı ocak
+      metin  : (yok)
+      duyulan: ün i
+  REPLACE  ...süer kaldı ocak ve
+      metin  : ottumwa
+      duyulan: unda ottumva
+  REPLACE  ...rekorlar kitabı na girdi
+      metin  : ottumwa
+      duyulan: ottumva
+  REPLACE  ...kavramın noteri olmuştu mitchel
+      metin  : in
+      duyulan: ın
+  INSERT   ...in puanı yıl dayandı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...puanı yıl dayandı ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl dayandı ağustos tim
+      metin  : sczerby
+      duyulan: skirby
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 110
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-09-16.duyulan.txt

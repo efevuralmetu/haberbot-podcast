@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-16.mp3
+
+beklenen 2296 kelime | duyulan 2336 kelime | eşleşme %89.4
+sayı ifadesi: metinde 297, duyulanda 219  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i yıl boyunca imparator
+      metin  : unvanıyla
+      duyulan: ünvanıyla
+  REPLACE  ...sonbaharında tang hanedanının başkenti
+      metin  : çangan
+      duyulan: chang an
+  REPLACE  ...hanedanının başkenti çangan yani
+      metin  : çangan
+      duyulan: chang an
+  REPLACE  ...ucundan gelen kervanların boşaldığı
+      metin  : soğd
+      duyulan: soğut
+  REPLACE  ...yaşında kız giriyordu adı
+      metin  : vu cao
+      duyulan: wu zhao
+  REPLACE  ...vu cao ydu babası
+      metin  : vu şıhuo
+      duyulan: wu xu huo
+  REPLACE  ...klasikleri tanıyan kadındı ama
+      metin  : vu şıhuo
+      duyulan: wu xu huo te
+  REPLACE  ...hiç de nazik davranmadılar
+      metin  : vu cao
+      duyulan: wu zhao
+  REPLACE  ...dair dedikodunun imparator li
+      metin  : şımin
+      duyulan: ximin
+  REPLACE  ...annesi kızını uğurlarken ağladı
+      metin  : vu cao
+      duyulan: wu zhao
+  REPLACE  ...sonraki yüzyıllar boyunca tekrarlandı
+      metin  : göğün oğlu nun
+      duyulan: gök ün oğlunun
+  REPLACE  ...sayılması gerektiğini anlamıyordu verilen
+      metin  : unvan cairen di
+      duyulan: ünvan cahirendi
+  REPLACE  ...cariye sarayda kendisiyle aynı
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...üstünde ize onlarca kadın
+      metin  : i mparator meynyang
+      duyulan: imparator mei yang
+  REPLACE  ...orada kalır sonra da
+      metin  : dünyayla
+      duyulan: dünya ile
+  REPLACE  ...vahşi at getirilmişti adı
+      metin  : şızı tsung
+      duyulan: shizi tung
+  REPLACE  ...hançerle boğazını kesecekti li
+      metin  : şımin
+      duyulan: ximin
+  REPLACE  ...övmekle kalmış yıl boyunca
+      metin  : vu cao
+      duyulan: wu chao
+  REPLACE  ...içinde öğrenilebilecek şeylerdi ve
+      metin  : vu cao
+      duyulan: wu chao
+  REPLACE  ...olarak bekleyen cariyelerden olarak
+      metin  : veliaht
+      duyulan: veliah
+  REPLACE  ...olarak veliaht prens li
+      metin  : cı yle
+      duyulan: ji ile
+  INSERT   ...de tanıştı o sırada
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...anlatır yılının yazında li
+      metin  : şımin
+      duyulan: ximin
+  REPLACE  ...doğurmamış cariyeler manastıra gönderilirdi
+      metin  : vu cao
+      duyulan: wu chao
+  REPLACE  ...yaşındaydı çangan ın dışındaki
+      metin  : ganye manastırı nda
+      duyulan: ganya manastırında
+  REPLACE  ...manastır hayatı monotondu sabah
+      metin  : ayinleri
+      duyulan: hainleri
+  REPLACE  ...değişikliğin yaşlanmak olduğu düzen
+      metin  : vu cao
+      duyulan: wu chao
+  REPLACE  ...gelen yeni imparator li
+      metin  : cı
+      duyulan: zhi
+  REPLACE  ...bu karşılaşma değildi sarayda
+      metin  : imparatoriçe vang
+      duyulan: imparator içe wang
+  REPLACE  ...ve kocasının bütün ilgisi
+      metin  : şiao
+      duyulan: chao
+  REPLACE  ...şiao adlı başka cariyedeydi
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...uzasın diye beklendi ve
+      metin  : vu cao
+      duyulan: wu chao
+  REPLACE  ...saraya geri çağrıldı i
+      metin  : mparatoriçe vang
+      duyulan: mparator içe wang
+  REPLACE  ...edecek kişiyi eve getirdi
+      metin  : vu cao
+      duyulan: wu chao
+  INSERT   ...vu cao geri döndüğünde
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...olduğunu biliyordu hızla yükseldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yükseldi oğlan doğurdu li
+      metin  : hung
+      duyulan: hong
+  REPLACE  ...mparatorun ilgisi tamamen kaydı
+      metin  : imparatoriçe vang
+      duyulan: i mparator içe wang
+  REPLACE  ...imparatoriçe vang ile cariye
+      metin  : şiao
+      duyulan: chao
+  INSERT   ...aynı köşeye sıkışmış haldeydiler
+      metin  : (yok)
+      duyulan: de
+  ... ve 94 fark daha
+
+metinde olup DUYULMAYAN: 195 kelime | duyulup metinde OLMAYAN: 234
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-09-16.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-16.mp3
+
+beklenen 1555 kelime | duyulan 1592 kelime | eşleşme %92.5
+sayı ifadesi: metinde 346, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...en dar yerinde yalnızca
+      metin  : kilometredir
+      duyulan: km dir
+  REPLACE  ...düştüğünde tek tek parlar
+      metin  : kilometer
+      duyulan: doğun km
+  REPLACE  ...amfitiyatro gibi kurulmuştur liman
+      metin  : en altta
+      duyulan: hatta
+  REPLACE  ...liman en altta körfezin
+      metin  : kavisini
+      duyulan: kahvesini
+  REPLACE  ...yumağı en tepede ize
+      metin  : kasba
+      duyulan: kaspa
+  DELETE   ...boyunca insanların yürüdüğü izleer
+      metin  : göer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geniş meydan fransızca adıyla
+      metin  : gran soko
+      duyulan: grand soco
+  DELETE   ...beyaz çizgili eteklerle sırtlarında
+      metin  : sepetlerle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oturup boğaza bakan insanlar
+      metin  : tanca nın
+      duyulan: tancağının
+  INSERT   ...meşhur kahvesi hafa kahvesi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...işi görüyor bahçesindeki basamaklı
+      metin  : taraçalarda
+      duyulan: tarlalarda
+  REPLACE  ...naneli çay karşınızda avrupa
+      metin  : yıldır
+      duyulan: yüzyıldır
+  REPLACE  ...ve karşıya bakmak ama
+      metin  : tanca
+      duyulan: tancağ
+  REPLACE  ...doğdu adı i bn
+      metin  : battuta ydı
+      duyulan: i battutaydı
+  INSERT   ...battuta ydı yaşına geldiğinde
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ye vardı ama dönmedi
+      metin  : irağa
+      duyulan: ira a
+  REPLACE  ...a hindistan a geçti
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...de yıllarca kadılık yaptı
+      metin  : maldivler e
+      duyulan: maldiv leer
+  INSERT   ...uzandı tanca ya ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i çindeki yolculukların toplamı
+      metin  : kilometreyi
+      duyulan: km yi
+  INSERT   ...sorusu ize i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...ortaçağ boyunca el değiştirdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...değiştirdi portekizlilerin eline geçti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şey oldu portekiz prensesi
+      metin  : katrin ov
+      duyulan: catherine of
+  REPLACE  ...braganza i ngilteer kralı
+      metin  : i kinci
+      duyulan: ii
+  REPLACE  ...charles ile evlendiğinde tanca
+      metin  : çeyizin
+      duyulan: çeyz in
+  INSERT   ...ettiler sonra maliyeti kaldıramayıp
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...buraya kurdu çünkü burası
+      metin  : hem fas tı
+      duyulan: çok bastı
+  INSERT   ...yarım günlük mesafedeydi ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...işletmesi başka türlü çözüldü
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...sveç ve avusturya her
+      metin  : yılda
+      duyulan: (YOK — atlanmış)
+  INSERT   ...provaydı asıl sözleşme aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yı ve çevresindeki kilometrekarelik
+      metin  : araziyi
+      duyulan: diziyi
+  INSERT   ...bölge ilan ettiler düzenleme
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...neden bu kadar tuhaf
+      metin  : olduğunu
+      duyulan: da
+  REPLACE  ...yoktu polis başka ülkenin
+      metin  : subaylarınca
+      duyulan: yıllarınca
+  REPLACE  ...tanca kapısını açık bırakmıştı
+      metin  : ellilerin
+      duyulan: lerin
+  DELETE   ...bırakmıştı ellilerin başında bu
+      metin  : kilometrekarelik
+      duyulan: (YOK — atlanmış)
+  INSERT   ...başında bu kilometrekarelik şehirde
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...şehirde fazla banka ve
+      metin  : (yok)
+      duyulan: den
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: seyahat-2026-09-16.duyulan.txt
