@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-17.mp3
+
+beklenen 2603 kelime | duyulan 2621 kelime | eşleşme %94.4
+sayı ifadesi: metinde 404, duyulanda 269  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...baharında kandiye nin çarşısında
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...gelişinin arkasında şey vardı
+      metin  : yastı
+      duyulan: yazdı
+  REPLACE  ...inattı beri oxford daki
+      metin  : ashmolean
+      duyulan: ashmolyan
+  REPLACE  ...nin müdürlüğünü yapıyordu ve
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...yapıyordu ve şliman ın
+      metin  : miken
+      duyulan: mikken
+  REPLACE  ...sonra gözünü giride dikmişti
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...gördü ve masadan kalktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yolu toprağın sahibi olmaktı
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...devletlerin müdahalesiyle osmanlı yönetimi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...değildi kadro kısa sürede
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...kadro kısa sürede ardından
+      metin  : (yok)
+      duyulan: nin
+  DELETE   ...bile aynı kelimeye götürüyordu
+      metin  : labirent
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çift ağızlı balta yunanca
+      metin  : labrys
+      duyulan: labris
+  REPLACE  ...dile getirilmiş fikri benimsedi
+      metin  : labyrinthos
+      duyulan: labirintos
+  REPLACE  ...belli uzun siyah saçlı
+      metin  : elinde
+      duyulan: delinde
+  REPLACE  ...ortasında ize alçıtaşından yontulmuş
+      metin  : sırtlığı
+      duyulan: sırplığı
+  REPLACE  ...çok rahibenin ya da
+      metin  : tanrıçanın
+      duyulan: tanrıcanın
+  REPLACE  ...çanak çömleğe bakarak adanın
+      metin  : tunç çağı nı
+      duyulan: tunt çağını
+  REPLACE  ...efsanesini üst üste bindirdi
+      metin  : labirent
+      duyulan: labyrinth
+  REPLACE  ...istiyordu i lk mimar
+      metin  : theodoer fyfe tı
+      duyulan: theodor feifeti
+  INSERT   ...demir koydu duvarları sağlamlaştırdı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sokan da o oldu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...beton dönemi savaştan sonra
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...bu kez hollandalı mimar
+      metin  : pit dö yong
+      duyulan: piet de jong
+  REPLACE  ...bastığı yerin ne kadarının
+      metin  : tunç çağı ndan
+      duyulan: tunt çağından
+  REPLACE  ...çağı ndan ne kadarının
+      metin  : yirmilerden
+      duyulan: lerden
+  REPLACE  ...çoğu zaman ayırt edemez
+      metin  : boyaya
+      duyulan: boya
+  REPLACE  ...ressam vardı baba emil
+      metin  : jiyeron
+      duyulan: gyeron
+  REPLACE  ...ve uzuv parçasından kuruldu
+      metin  : jiyeron
+      duyulan: giron
+  REPLACE  ...kuruldu jiyeron bunları tek
+      metin  : figüer
+      duyulan: figuer
+  REPLACE  ...araştırmacılar parçaların hatta ayrı
+      metin  : figüer
+      duyulan: figuer
+  INSERT   ...addan doğdu eleştiri gecikmedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...doğdu eleştiri gecikmedi i
+      metin  : raklio
+      duyulan: rakliyo
+  REPLACE  ...önünde durduğu şeyin ancak
+      metin  : santimetrekaresinin
+      duyulan: santimeter karesinin
+  REPLACE  ...eski olduğunu yazdı i
+      metin  : ğneleyiciydi
+      duyulan: ğneleyici idi
+  INSERT   ...yazı beklediğini bulmuştu daha
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...kalıcı olan adları verdi
+      metin  : lineer
+      duyulan: liner
+  REPLACE  ...verdi lineer a ve
+      metin  : lineer
+      duyulan: liner
+  REPLACE  ...b knossos tan çıkan
+      metin  : lineer
+      duyulan: linear
+  INSERT   ...yazıtları nın ilk cildi
+      metin  : (yok)
+      duyulan: da
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 95
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: arkeoloji-2026-09-17.duyulan.txt

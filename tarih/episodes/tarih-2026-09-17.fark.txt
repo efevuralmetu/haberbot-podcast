@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-17.mp3
+
+beklenen 2329 kelime | duyulan 2350 kelime | eşleşme %96.4
+sayı ifadesi: metinde 336, duyulanda 215  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geldiği yazıyor peru nun
+      metin  : and
+      duyulan: ant
+  REPLACE  ...kuran adamın adı nikolay
+      metin  : vavilov du
+      duyulan: vavilovdu de
+  REPLACE  ...da kendisi de köy
+      metin  : çocuğuyken
+      duyulan: çocuğu iken
+  REPLACE  ...homolog seriler yasası dediği
+      metin  : fikri
+      duyulan: fiker
+  INSERT   ...yerlerde bulunabileceğini önceden söyleyebiliyordunuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bilim insanlarının tepkisi şuydu
+      metin  : biyoloji
+      duyulan: bioloji
+  REPLACE  ...leningrad da aziz i
+      metin  : shak
+      duyulan: şhak
+  INSERT   ...büyük tohum koleksiyonu duruyordu
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...gelindiğinde raflardaki örnek sayısı
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...pavlovsk taki istasyon da
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...makinesinin kalbiydi onlarca botanikçi
+      metin  : ziraatçı
+      duyulan: ziraatçi
+  REPLACE  ...tarladan değil kürsüden başladı
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...vaat etmiyordu mevsimde katlanacak
+      metin  : rekolte
+      duyulan: rekolete
+  REPLACE  ...açmayı doğal buldu yıl
+      metin  : çalışmalarına
+      duyulan: çalışmalarını
+  INSERT   ...hizmet etmekle suçladı vavilov
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...yakın çalışma arkadaşlarından bazıları
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...şüphesiyle anılıyor yabancı bilim
+      metin  : insanlarıyla
+      duyulan: insanları ile
+  INSERT   ...yazışmalar dosyalara giriyordu ağustos
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...sorgusu ay sürdü ve
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...ay sürdü ve aşkın
+      metin  : oturum
+      duyulan: oturun
+  INSERT   ...kez daha değişecekti haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kapı da kalmadı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yağ yandı eriyen şeker
+      metin  : toprağa
+      duyulan: toprağı
+  INSERT   ...aralık ayında sıcaklık eksi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...taşımaya başladı aziz i
+      metin  : shak meydanı ndaki
+      duyulan: şhak meydanındaki
+  REPLACE  ...farelerin kutuları devirdiğini kağıt
+      metin  : zarfları
+      duyulan: zartları
+  REPLACE  ...baştan beri ilgiliydi yazında
+      metin  : ss
+      duyulan: sss
+  INSERT   ...bünyesinde kurulan toplama müfrezesi
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...hızda eriyen içinde kaldı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...pirinç koleksiyonundan sorumlu botanikçi
+      metin  : dmitri i vanov
+      duyulan: dimitri ivanov
+  REPLACE  ...pirinç duruyordu yerfıstığı uzmanı
+      metin  : aleksandr şçukin i
+      duyulan: alexander şöçükini
+  REPLACE  ...en yoğun taşıyan malzemelerden
+      metin  : şçukin
+      duyulan: şöçük ün
+  REPLACE  ...tıbbi bitkiler bölümünün başındaki
+      metin  : georgi
+      duyulan: giorgi
+  REPLACE  ...kriyer öldü yulaf uzmanı
+      metin  : liliya
+      duyulan: lilia
+  REPLACE  ...yenirse o gün kişi
+      metin  : öğün
+      duyulan: övün
+  REPLACE  ...en zor yanının yemek
+      metin  : yiyememek
+      duyulan: yememek
+  REPLACE  ...sırada kurumlarının kurucusu da
+      metin  : kilometer güneydoğuda
+      duyulan: km güneydoğu da
+  INSERT   ...çöküş yaşadı ve ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çürür ya filizlenip tükenir
+      metin  : koleksiyondaki
+      duyulan: koleksyondaki
+  REPLACE  ...patates koleksiyonundan sorumlu vadim
+      metin  : lehnoviç
+      duyulan: lehnovic
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: tarih-2026-09-17.duyulan.txt

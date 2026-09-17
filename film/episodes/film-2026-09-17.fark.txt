@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-17.mp3
+
+beklenen 1615 kelime | duyulan 1639 kelime | eşleşme %91.8
+sayı ifadesi: metinde 238, duyulanda 141  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...gördüğü film izmaritlerden yapıldı
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...aldı metin kuru ve
+      metin  : idariydi
+      duyulan: idaer idi
+  REPLACE  ...yazılı başvuruda bulunacaktı başvuruya
+      metin  : mesleki
+      duyulan: mesteki
+  REPLACE  ...teslim edilecek hatta gösterilecek
+      metin  : slaytlara
+      duyulan: slide lara
+  REPLACE  ...atan dönemin sömürgeler bakanı
+      metin  : piyer
+      duyulan: pierer
+  INSERT   ...kararnamesi sömürgeler bağımsızlıklarını kazandığı
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...anlatan hikaye polen sumanu
+      metin  : viyeyra
+      duyulan: vieira
+  REPLACE  ...sumanu viyeyra nın hikayesidir
+      metin  : viyeyra
+      duyulan: vieira
+  REPLACE  ...nın devlet sinema okulu
+      metin  : idhec e
+      duyulan: aidc
+  REPLACE  ...izin verilmeyen kıta vardı
+      metin  : viyeyra
+      duyulan: vieira
+  REPLACE  ...filmini bulunduğu yerde çekti
+      metin  : mamadu sar jak melo kane
+      duyulan: mamadou sarr jack melocane
+  REPLACE  ...kane ve görüntüleri kaydeden
+      metin  : rober karistan
+      duyulan: robert caristan
+  INSERT   ...adını verdikleri topluluk olarak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıllarda hiç kameraya bakmıyordu
+      metin  : usman
+      duyulan: osman
+  INSERT   ...kameraya bakmıyordu usman sembene
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sembene senegal in güneyinde
+      metin  : kazamans
+      duyulan: kazamanz
+  DELETE   ...duvarcılık ve tamircilik yaptı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...işçiydi yazmayı orada öğrendi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...öğrendi çıkan ilk romanı
+      metin  : lö doker nuar
+      duyulan: le docker noir
+  REPLACE  ...doker nuar yani siyah
+      metin  : doker
+      duyulan: docker
+  INSERT   ...doğrudan o rıhtımdan geliyordu
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...burs başvurusu yaptı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...valizinde geldi o kamerayla
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...film festivalinden ödülle döndü
+      metin  : niaye
+      duyulan: te niyaya
+  REPLACE  ...domirev kurulmuştu ama sembene
+      metin  : in
+      duyulan: yin
+  INSERT   ...sokaklarındaydı ne de köyde
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...satırlık haberde başlamıştı haziran
+      metin  : antib
+      duyulan: de antik
+  REPLACE  ...ölü bulundu villanın adı
+      metin  : lö bonör ver
+      duyulan: le bonheurvert
+  REPLACE  ...kesilmişti kendi elleriyle adı
+      metin  : diyuana
+      duyulan: diuana
+  REPLACE  ...adı diyuana gomis ti
+      metin  : zigenşor
+      duyulan: de zigenchor
+  INSERT   ...satırı önce öyküye çevirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çevirdi çıkan öykü kitabı
+      metin  : voltaik
+      duyulan: voltaic
+  REPLACE  ...ana para kaynağıydı başında
+      metin  : idhec
+      duyulan: edie cheyten
+  REPLACE  ...kaynağıydı başında idhec yetişmiş
+      metin  : jan
+      duyulan: john
+  REPLACE  ...idhec yetişmiş jan rene
+      metin  : debri
+      duyulan: debrie
+  REPLACE  ...değildi i şte sembene
+      metin  : in
+      duyulan: yin
+  REPLACE  ...yer burasıdır fransızcada mego
+      metin  : izmarit
+      duyulan: ismarit
+  REPLACE  ...filmin fransızca adı la
+      metin  : nuar dö
+      duyulan: noier deux
+  REPLACE  ...filanın siyahı yapımda sembene
+      metin  : in
+      duyulan: yin
+  REPLACE  ...yapımda sembene in kendi
+      metin  : şirketi ile
+      duyulan: şirketiyle
+  ... ve 35 fark daha
+
+metinde olup DUYULMAYAN: 90 kelime | duyulup metinde OLMAYAN: 110
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: film-2026-09-17.duyulan.txt

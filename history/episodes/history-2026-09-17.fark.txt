@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-17.mp3
+
+beklenen 3839 kelime | duyulan 3815 kelime | eşleşme %98.9
+sayı ifadesi: metinde 207, duyulanda 137  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...this library was called
+      metin  : nikolai vavilov
+      duyulan: nikolay vevelov
+  REPLACE  ...people to eat grass
+      metin  : vavilov
+      duyulan: vevelov
+  REPLACE  ...this scale in diversity
+      metin  : vavilov
+      duyulan: vevelov
+  REPLACE  ...futuer what is moer
+      metin  : vavilov
+      duyulan: vevelov
+  REPLACE  ...cultivated plant had certain
+      metin  : centres
+      duyulan: centers
+  REPLACE  ...finally found its own
+      metin  : mendeleev
+      duyulan: men to live
+  DELETE   ...his life he went
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...building looking out over
+      metin  : saint
+      duyulan: st
+  DELETE   ...out over saint isaac
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...the shelves had reached
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...earth america had collecting
+      metin  : programmes
+      duyulan: programs
+  REPLACE  ...because that was what
+      metin  : vavilov
+      duyulan: pavlov
+  REPLACE  ...cracking of the world
+      metin  : vavilov
+      duyulan: pavlov
+  DELETE   ...lectern in the late
+      metin  : twenties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the environment could directly
+      metin  : knead
+      duyulan: need
+  REPLACE  ...an imported and harmful
+      metin  : science
+      duyulan: scientist
+  DELETE   ...arrested in the late
+      metin  : thirties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...and artillery ammunition weer
+      metin  : queueing
+      duyulan: queuing
+  DELETE   ...heavy labor weer getting
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...day and everybody else
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...river neva the building
+      metin  : saint
+      duyulan: st
+  DELETE   ...possibility in the institute
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...the world stayed for
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...weer among that number
+      metin  : dmitri
+      duyulan: dmitry
+  REPLACE  ...not opened the packet
+      metin  : georgi kreyer
+      duyulan: georgie cryer
+  REPLACE  ...medicinal plants department died
+      metin  : liliya
+      duyulan: lilia
+  INSERT   ...spoken of as people
+      metin  : (yok)
+      duyulan: but
+  REPLACE  ...of the same cause
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...the man who had
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...was the front vadim
+      metin  : lekhnovich
+      duyulan: lechnovich
+  REPLACE  ...opinion and became an
+      metin  : offence
+      duyulan: offense
+  DELETE   ...the middle of the
+      metin  : fifties
+      duyulan: (YOK — atlanmış)
+  DELETE   ...it holds moer than
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  INSERT   ...a crate and moved
+      metin  : (yok)
+      duyulan: the
+  DELETE   ...seed vault opened in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...protected in leningrad for
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nobody collected a mountain
+      metin  : wheat
+      duyulan: weed
+  DELETE   ...cold building saint isaac
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...this that he died
+      metin  : nöron history de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-09-17.duyulan.txt

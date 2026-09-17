@@ -1,0 +1,61 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-17.mp3
+
+beklenen 1612 kelime | duyulan 1614 kelime | eşleşme %98.6
+sayı ifadesi: metinde 132, duyulanda 128  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...şeyler ters anlatmaya başlıyor
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...gördüğün şey netlik değil
+      metin  : sis
+      duyulan: siz
+  REPLACE  ...yapılmış hali var psikolog
+      metin  : i gor grosman
+      duyulan: igor grossman
+  REPLACE  ...gor grosman ve ethan
+      metin  : kross un
+      duyulan: croson
+  REPLACE  ...çalışmalarda bu duruma süleyman
+      metin  : paradoksu
+      duyulan: paradoxu
+  REPLACE  ...hikayeye göer çevresindeki herkesin
+      metin  : sorunlarına
+      duyulan: sorumlarına
+  REPLACE  ...daha yapılabilir iş ethan
+      metin  : kross
+      duyulan: cross
+  REPLACE  ...bütün bakış açısı değişimi
+      metin  : kross
+      duyulan: cross
+  REPLACE  ...dil bakış açısını taşır
+      metin  : ben
+      duyulan: bend
+  REPLACE  ...tavsiye verirken bulunduğunuz konumdur
+      metin  : grosman
+      duyulan: grossman
+  REPLACE  ...bulunduğunuz konumdur grosman ve
+      metin  : kross
+      duyulan: cross
+  REPLACE  ...başına gelmiş olsaydı nasıl
+      metin  : bakardın
+      duyulan: bakardım
+  REPLACE  ...aynı çerçeve değişimini tek
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...mesafeyi kapatmak yöntem en
+      metin  : dolaysızı
+      duyulan: dolayısızı
+  REPLACE  ...mektup yöntemi bu çifte
+      metin  : standardı
+      duyulan: standartı
+  REPLACE  ...zaman kelime kendi adınız
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-09-17.duyulan.txt

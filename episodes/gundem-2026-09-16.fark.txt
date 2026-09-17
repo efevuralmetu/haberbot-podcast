@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-16.mp3
+
+beklenen 1339 kelime | duyulan 1352 kelime | eşleşme %93.9
+sayı ifadesi: metinde 316, duyulanda 172  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...bu akşam türkiye saatiyle
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i ran i slam
+      metin  : devrim
+      duyulan: devri
+  INSERT   ...tankeri hedef aldığını açıkladı
+      metin  : (yok)
+      duyulan: ano
+  REPLACE  ...patlama sesleri duyulduğunu aktardı
+      metin  : gazze de
+      duyulan: gazetede
+  REPLACE  ...güvenlik bakanı itamar ben
+      metin  : gvir
+      duyulan: givir
+  REPLACE  ...ardından kiev e geçerek
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky
+  REPLACE  ...sağlandığı mesajını verse de
+      metin  : donbas
+      duyulan: dombas
+  INSERT   ...hattında çatışma kaydettiğini bunların
+      metin  : (yok)
+      duyulan: ünün
+  REPLACE  ...topraklarına yönelik rus kaynaklı
+      metin  : hibrit
+      duyulan: hibrid
+  REPLACE  ...rus kaynaklı hibrit saldırıların
+      metin  : süreceği
+      duyulan: süreciyi
+  REPLACE  ...kaybetti venezuela devlet başkanı
+      metin  : nikolas
+      duyulan: nicolas
+  REPLACE  ...maduro nun yakın ismi
+      metin  : alex saab
+      duyulan: alexa
+  INSERT   ...desteklemeyi sürdüreceklerini söyledi devralmanın
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...kullanıma açtı şirketin yıllık
+      metin  : navye stoks
+      duyulan: navy stoxx
+  DELETE   ...getirdi anthropic claude fable
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...fable nokta ve mythos
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ettiğini açıkladı google tarafında
+      metin  : ceminay nokta
+      duyulan: gemini
+  REPLACE  ...saniyede token hız iddiasıyla
+      metin  : xring oyüz
+      duyulan: x ring oyuz
+  INSERT   ...bulunuyor karar türkiye saatiyle
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...saatiyle başkanın basın toplantısı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...hane halkı medyan geliri
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...seviyeye çıkarken yoksulluk oranı
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...eylül toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bolat e ticaret hacminin
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...hacminin itibarıyla trilyon lirayı
+      metin  : aştığını
+      duyulan: açtığını
+  INSERT   ...davasının duruşması bugün saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nin kurultaya ilişkin mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...kurdu bu ayrılık meclis
+      metin  : aritmetiğini
+      duyulan: haritmetini
+  REPLACE  ...de değiştirdi yeni parti
+      metin  : sandalyeyle
+      duyulan: sandalye ile
+  REPLACE  ...chp nin sandalye sayısı
+      metin  : dörde
+      duyulan: de
+  REPLACE  ...netleşmiş durumda chp sözcüsü
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...butlan kararına karşı yapılan
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...feragat etti gerekçe olarak
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...takvimini geciktirebileceği gösterildi meclis
+      metin  : cephesinde
+      duyulan: çepesinde
+  REPLACE  ...operasyon öne çıktı i
+      metin  : stihbarat
+      duyulan: stihbara
+  REPLACE  ...boğazı nda savaş öncesi
+      metin  : statükoya
+      duyulan: satiko ya
+  REPLACE  ...yıl tüm kademelerin türkiye
+      metin  : maarif modeli ne
+      duyulan: marif modeline
+  REPLACE  ...girişimi ize ilk kez
+      metin  : copotuz
+      duyulan: çi op
+  INSERT   ...abd merkez bankası nın
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...nın faiz kararı ve
+      metin  : (yok)
+      duyulan: daki
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: gundem-2026-09-16.duyulan.txt

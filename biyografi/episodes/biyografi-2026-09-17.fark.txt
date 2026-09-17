@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-17.mp3
+
+beklenen 1890 kelime | duyulan 1921 kelime | eşleşme %95.1
+sayı ifadesi: metinde 402, duyulanda 244  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kovulmuş mülteci doktor o
+      metin  : koğuşa
+      duyulan: kovuşa
+  REPLACE  ...çocuğu dünyaya geldi adını
+      metin  : ludvig
+      duyulan: ludwig
+  REPLACE  ...ludvig koydular baba bernard
+      metin  : guttmann
+      duyulan: guttman
+  REPLACE  ...kasabada iyi gidiyordu anne
+      metin  : dorothy
+      duyulan: dorothie
+  REPLACE  ...yahudi aile gibi hem
+      metin  : alman
+      duyulan: hammann
+  REPLACE  ...yaşıyordu çocuk yaşındayken aile
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kömür ve demir kenti
+      metin  : könikshütte
+      duyulan: königsütte
+  REPLACE  ...ye taşındı burası tost
+      metin  : a
+      duyulan: ta
+  REPLACE  ...sayıyla isimle sedyeyle görüyordu
+      metin  : ludvig guttmann
+      duyulan: ludwig guttman
+  INSERT   ...klasik eğitim veren liseyi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yarı güçlü yaşlarında gençti
+      metin  : guttmann
+      duyulan: guttman
+  INSERT   ...zaten bu kabalık değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...indi i drar yolları
+      metin  : iltihaplandı
+      duyulan: iltihablandı
+  REPLACE  ...açtığı kan zehirlenmesinden öldü
+      metin  : guttmann
+      duyulan: guttman
+  REPLACE  ...nde tıp okumaya başladı
+      metin  : frayburk da
+      duyulan: freiburg ta
+  INSERT   ...frayburk da devam etti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...en tanınmış beyin cerrahlarından
+      metin  : otfrid
+      duyulan: otfried
+  REPLACE  ...saatlerce hiç konuşmadan çalışırdı
+      metin  : guttmann
+      duyulan: guttman
+  REPLACE  ...aylarca yıllarca izlemesi gerektiğini
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...ülkesi ülkesi olmaktan çıkardı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kamu görevlerinden yahudileri temizledi
+      metin  : guttmann
+      duyulan: guttman
+  INSERT   ...gitti orada çalıştı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıl kat daha sıkıştı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...aynı ameliyat masası ama
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...geçmek çatı girmek istiyordu
+      metin  : guttmann
+      duyulan: guttman
+  REPLACE  ...bu insanlar neden burada
+      metin  : guttmann
+      duyulan: guttman
+  INSERT   ...yürüyerek geçirdiğini anlatacaktı kişiden
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...çıkarılmadı tutuklanmadı kampa gönderilmedi
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...kampa gönderilmedi dördü götürüldü
+      metin  : guttmann
+      duyulan: guttman
+  INSERT   ...kalanında bu kişiyi unutmadı
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...kişiyi unutmadı kurtarmış olmak
+      metin  : dördünü
+      duyulan: ünü
+  INSERT   ...rejimin kendi çıkarından aralandı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...için bu küçük diplomatik
+      metin  : jestti guttmann
+      duyulan: jesti guttman
+  REPLACE  ...döndü karısı elze oğlu
+      metin  : dennis
+      duyulan: deniz
+  INSERT   ...kötü zamanlamasına denk geliyordu
+      metin  : (yok)
+      duyulan: doty
+  INSERT   ...zamanlamasına denk geliyordu mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...süer açılmamak üzeer kapanacaktı
+      metin  : guttmann
+      duyulan: guttman
+  INSERT   ...başında kütüphanede britanya vatandaşlığını
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...misafir ama şey oluyordu
+      metin  : guttmann könikshütte
+      duyulan: guttman königschütte
+  ... ve 45 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: biyografi-2026-09-17.duyulan.txt

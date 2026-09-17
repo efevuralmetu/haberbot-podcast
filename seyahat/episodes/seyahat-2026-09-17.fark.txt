@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-17.mp3
+
+beklenen 1719 kelime | duyulan 1729 kelime | eşleşme %94.6
+sayı ifadesi: metinde 246, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kahvehanenin önünde türkçe konuşulur
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...adı tur abdin süryanice
+      metin  : ad
+      duyulan: at
+  REPLACE  ...taşın içine oyulmuş yapı
+      metin  : ağıydı mardin in
+      duyulan: aydı mardinin
+  REPLACE  ...doğusunda şeher kilometer uzaklıkta
+      metin  : deyrulzafaran
+      duyulan: deyrul zaferan
+  REPLACE  ...mor hananyo manastırı yılında
+      metin  : mor şlemon
+      duyulan: morsh lemmon
+  REPLACE  ...eski katmanın üstüne oturmuş
+      metin  : deyrulzafaran
+      duyulan: deyrul zaferan
+  REPLACE  ...en çarpıcı odası ize
+      metin  : yer
+      duyulan: yeraltında
+  INSERT   ...kemikleri duruyor bu manastır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sıfatı yaklaşık yıl taşıdı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...matbaa kuruldu ilk kitabını
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ilk kitabını bastı ve
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...anlatır sonra merkez taşındı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ardından şam a geçti
+      metin  : deyrulzafaran
+      duyulan: deyrul zaferan
+  REPLACE  ...var yerel adıyla deyrulumur
+      metin  : süryanice
+      duyulan: süriyanice
+  REPLACE  ...ifadeden geliyor kuruluşu yılına
+      metin  : mor şmuel
+      duyulan: morshimuel
+  REPLACE  ...yılına mor şmuel ile
+      metin  : mor şemun
+      duyulan: morshemun
+  REPLACE  ...faal olan en eski
+      metin  : süryani
+      duyulan: süriyani
+  REPLACE  ...gabriel den almış mozaikli
+      metin  : apsisi
+      duyulan: absisi
+  INSERT   ...sebebi yok dalga var
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...var bölgeyi vuran şiddet
+      metin  : süryanilerin
+      duyulan: süriyanilerin
+  REPLACE  ...kez topluca boşalttı ardından
+      metin  : altmışlardan
+      duyulan: lardan
+  REPLACE  ...ye hollanda ya i
+      metin  : svece
+      duyulan: sveç e
+  INSERT   ...ama çoğu dönmedi dalga
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...çoğu dönmedi dalga ve
+      metin  : doksanlardaydı
+      duyulan: lardaydı
+  REPLACE  ...ayinlerinin dili olan klasik
+      metin  : süryanice
+      duyulan: süriyanice
+  REPLACE  ...ve esas olarak konuşulur
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...çağırdığı cemaat artık çoğunlukla
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...çoğunlukla kilometer uzakta o
+      metin  : kilometrenin
+      duyulan: km nin
+  REPLACE  ...uzakta o kilometrenin sonunda
+      metin  : stockholm ün kilometer
+      duyulan: stokkoli nin km
+  REPLACE  ...güneyinde sanayi kenti var
+      metin  : södertelye
+      duyulan: söderthelie
+  REPLACE  ...södertelye dilimizde söylendiği haliyle
+      metin  : södertelye
+      duyulan: söderthelie
+  REPLACE  ...değil i sveç te
+      metin  : süryani
+      duyulan: süriyani
+  REPLACE  ...bunların en yoğun topluluğu
+      metin  : södertelye
+      duyulan: söderthelie
+  REPLACE  ...dayanan civarında insan var
+      metin  : södertelye
+      duyulan: söderthelie
+  REPLACE  ...insan var södertelye deki
+      metin  : süryanilerin
+      duyulan: süriyanilerin
+  REPLACE  ...beklenmedik şey oldu i
+      metin  : svecin
+      duyulan: sveç in
+  REPLACE  ...sürgünde kaybedileni tam kapatmaz
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...söz konusu köy kafro
+      metin  : tahtayto
+      duyulan: tahtaito
+  REPLACE  ...kilisesi olan küçük yerleşim
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...çıkmış köy tamamen boşalmıştı
+      metin  : (yok)
+      duyulan: ki
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-09-17.duyulan.txt

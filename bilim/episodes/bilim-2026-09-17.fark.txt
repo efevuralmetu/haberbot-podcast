@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-17.mp3
+
+beklenen 1554 kelime | duyulan 1574 kelime | eşleşme %97.4
+sayı ifadesi: metinde 209, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tek bileşik bile yapamadı
+      metin  : ksenon
+      duyulan: kasenon
+  INSERT   ...kokusuz tepkimeye girmeyen gaz
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...yapan şey nedir soru
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yeni değildi genel anestezi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da ameliyathanede william morton
+      metin  : ın
+      duyulan: un
+  INSERT   ...zarif görünen cevap verildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...görünen cevap verildi marburg
+      metin  : da
+      duyulan: ta
+  REPLACE  ...ve neredeyze aynı anda
+      metin  : zürih
+      duyulan: zürich
+  REPLACE  ...düz çizgi gibi gidiyordu
+      metin  : biyolojide
+      duyulan: biolojide
+  REPLACE  ...zar bozulur bilinç gider
+      metin  : ksenonun
+      duyulan: casano nun
+  REPLACE  ...güçlü göründüğü yerden geldi
+      metin  : mayer
+      duyulan: meyer
+  DELETE   ...etki kademeli olarak azalmaz
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tabutuna çakılan çividir i
+      metin  : zofluran
+      duyulan: sofluran
+  REPLACE  ...edilemez ama sinir hücrelerinin
+      metin  : iyon
+      duyulan: ion
+  REPLACE  ...açıklayamaz çünkü yağ tabakasının
+      metin  : sağı
+      duyulan: sağ
+  INSERT   ...solu yoktur proteinlerin vardır
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ışık üretmesini sağlayan enzimi
+      metin  : lusiferazı
+      duyulan: luciferaz ı
+  REPLACE  ...üzerindeki yağsı cep vardı
+      metin  : mayer
+      duyulan: meyer
+  REPLACE  ...azot protoksit ve evet
+      metin  : ksenon
+      duyulan: kisenon
+  INSERT   ...ksenon bambaşka kapıdan giriyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve ekibinin gösterdiği gibi
+      metin  : ksenon
+      duyulan: kisenon
+  REPLACE  ...açıyor bunun sadece laboratuvar
+      metin  : korelasyonu
+      duyulan: korrelasyonu
+  INSERT   ...değiştirilmiş biçimde geri döndü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...eder gerçek bu değil
+      metin  : (yok)
+      duyulan: ki da
+  INSERT   ...göer hızlandırılabilir olması gerekir
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...hızlandırılabilir olması gerekir ken
+      metin  : solt
+      duyulan: salt
+  REPLACE  ...oysa brown ve patrick
+      metin  : purdon
+      duyulan: burden
+  REPLACE  ...kopuk kopuk etkinliğe geçer
+      metin  : deksmedetomidin
+      duyulan: dexmedetomidin
+  REPLACE  ...geçer deksmedetomidin doğal uykunun
+      metin  : iğciklerine
+      duyulan: iyiciklerine
+  INSERT   ...kapsayan olayların sıklığını yaklaşık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kullanılan ameliyatlarda bu oran
+      metin  : (yok)
+      duyulan: de e
+  INSERT   ...oran çıkıyordu kullanılmayanlarda ize
+      metin  : (yok)
+      duyulan: de in
+  REPLACE  ...sonucu ize ameliyathanenin dışında
+      metin  : marçello
+      duyulan: marcello
+  INSERT   ...karmaşıklık indeksi denildi ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...denildi ve yayımlanan sonuçlar
+      metin  : indeksin
+      duyulan: indexin
+  REPLACE  ...geçirmiş konuşamayan komut alamayan
+      metin  : dışarıdan
+      duyulan: dışardan
+  INSERT   ...ikisinin arasındaki katman ama
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...kendisinden daha değerli kazanımdır
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 24 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: bilim-2026-09-17.duyulan.txt

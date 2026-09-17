@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-17.mp3
+
+beklenen 2315 kelime | duyulan 2303 kelime | eşleşme %96.3
+sayı ifadesi: metinde 242, duyulanda 193  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yaklaşık yıl sonra yaşamış
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...sonra yaşamış hristiyan yazar
+      metin  : laktantius
+      duyulan: lactantius
+  REPLACE  ...hristiyan yazar laktantius tur
+      metin  : laktantius
+      duyulan: lactantius
+  REPLACE  ...bulmaca olmamasından alıyor çünkü
+      metin  : öncülün de
+      duyulan: öncülüğünde
+  INSERT   ...david hume ölümünden sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...incitir sabah komutan bütün
+      metin  : maiyetini
+      duyulan: mayetini
+  REPLACE  ...önce mayısında yaşındaki oğlu
+      metin  : alyoşa
+      duyulan: alyosha
+  REPLACE  ...yılında kondu alman düşünür
+      metin  : gotfrid vilhelm laybnits
+      duyulan: gottfried wilhelm leibniz
+  REPLACE  ...mucidi o yıl kötülük
+      metin  : problemine
+      duyulan: problemini
+  REPLACE  ...kelimeyi birleştirerek ad verdi
+      metin  : teodize
+      duyulan: theodize
+  REPLACE  ...ad verdi teodize yani
+      metin  : teodize
+      duyulan: theodize
+  REPLACE  ...hepsine bu ad veriliyor
+      metin  : laybnits
+      duyulan: leibniz
+  REPLACE  ...iyi olan dünyayı seçti
+      metin  : laybnits
+      duyulan: leibniz
+  REPLACE  ...bestede tek başına dinlendiğinde
+      metin  : kulağı
+      duyulan: kulağa
+  REPLACE  ...yaklaşık yıl öncesine gidelim
+      metin  : tus ta
+      duyulan: de tuğsta
+  INSERT   ...gidelim tus ta doğan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tartışmalı isimlerinden başyapıtı i
+      metin  : hyau ulumi d din
+      duyulan: hya ul middin
+  REPLACE  ...yazılacak cümle kurar leyze
+      metin  : fi l
+      duyulan: fiil
+  INSERT   ...arasında yaşayan i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...aynı fikri batı da
+      metin  : augustinus da
+      duyulan: agustinus ta
+  REPLACE  ...önce sormuştu rivayete göer
+      metin  : ebü l
+      duyulan: ebul
+  REPLACE  ...hocası ebu ali el
+      metin  : cübbai
+      duyulan: cübbayi
+  REPLACE  ...ortak kaderine gelelim hepsi
+      metin  : yukarıdan
+      duyulan: yukardan
+  INSERT   ...sert sabah öğrendi kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...azizler yortusu günü sabah
+      metin  : ayinleri
+      duyulan: hainleri
+  REPLACE  ...günü sabah ayinleri sürerken
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...nın aydın çevreleri sarsıldı
+      metin  : volter
+      duyulan: wolter
+  REPLACE  ...iyisi fikrini alaya alan
+      metin  : kandid
+      duyulan: candide
+  INSERT   ...ngiliz düşünür john hick
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hayal edin bıçak ete
+      metin  : değince
+      duyulan: deyince
+  INSERT   ...şair john keats in
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yaptığı şeye bakmak gerekiyor
+      metin  : eyübün
+      duyulan: eyüp ün
+  REPLACE  ...tanrı nın adaletini savunurlar
+      metin  : metnin
+      duyulan: metin
+  REPLACE  ...tanrı kasırganın içinden konuştuğunda
+      metin  : eyübün
+      duyulan: eyüp ün
+  REPLACE  ...an değildir hikayenin başında
+      metin  : eyübü
+      duyulan: eyüp ü
+  REPLACE  ...yapabileceği en ciddi şey
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: felsefe-2026-09-17.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-17.mp3
+
+beklenen 1713 kelime | duyulan 1733 kelime | eşleşme %96.6
+sayı ifadesi: metinde 280, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dikilecek olan maskottu yazında
+      metin  : boston
+      duyulan: buston
+  REPLACE  ...kişiden andy gavin di
+      metin  : boston
+      duyulan: buston
+  INSERT   ...yani savaşçının yolu oyun
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...oyun geliştirmiş olan mark
+      metin  : cerny ydi
+      duyulan: tierney di
+  INSERT   ...kaba ama tanı doğruydu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...olacağı kalıyordu ekip kitapçıdan
+      metin  : tasmanya
+      duyulan: tasmania
+  REPLACE  ...kitapçıdan tasmanya memelileri adlı
+      metin  : saha
+      duyulan: sahah
+  REPLACE  ...ama tuhaf hayvan arıyorlardı
+      metin  : vombat potoroo
+      duyulan: wombat potoro
+  REPLACE  ...de karakterin ilk adı
+      metin  : vombattan
+      duyulan: wombat tan
+  INSERT   ...ilk adı vombattan geldi
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...adı vombattan geldi de
+      metin  : aliterasyonu
+      duyulan: aliteracion u
+  REPLACE  ...de aliterasyonu sevdiği için
+      metin  : willie
+      duyulan: willy
+  REPLACE  ...yerde kullanıldığını öğrendiler ekim
+      metin  : tür bandikut
+      duyulan: te türbandikut
+  REPLACE  ...içinde karakter baharına kadar
+      metin  : willie
+      duyulan: willy
+  INSERT   ...anılmaya devam etti ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...etti ocak programcı dave
+      metin  : baggett
+      duyulan: begitt
+  REPLACE  ...geldi sanat yönetmenliğini bob
+      metin  : rafei
+      duyulan: raffey i
+  INSERT   ...bob rafei üstlendi mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...katıldı karakterleri tasarlayan charles
+      metin  : zembillas
+      duyulan: zambillas
+  REPLACE  ...oyun tasarımcılarına değil hollywood
+      metin  : da
+      duyulan: ta
+  INSERT   ...makineye nasıl sığacağıydı ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...önce dili kendileri yazdılar
+      metin  : gavin
+      duyulan: gawin
+  REPLACE  ...sırtındaki lekeler ve ayakkabı
+      metin  : bağcıkları
+      duyulan: bacıkları
+  INSERT   ...ekran kipini kullandı standart
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...kipini kullandı standart yerine
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...anında karar vermesini engellediler
+      metin  : kamera raya
+      duyulan: kameraya
+  INSERT   ...çok geç eklendi ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sürdü karakterin bugün taşıdığı
+      metin  : ad
+      duyulan: at
+  REPLACE  ...geri adım atmadı kişilik
+      metin  : kadroyla
+      duyulan: kadro ile
+  REPLACE  ...kendi başlarına bitireceklerini söylediler
+      metin  : ad
+      duyulan: at
+  REPLACE  ...konsolun programlanabilir zamanlayıcısını varsayılan
+      metin  : hertz
+      duyulan: hz
+  REPLACE  ...zamanlayıcısını varsayılan hertz yerine
+      metin  : kilohertze
+      duyulan: khz e
+  INSERT   ...kapı ilk denemede açılmadı
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...oyun dönemin büyük platform
+      metin  : kahramanıyla
+      duyulan: kahramanı ile
+  REPLACE  ...yazan tek kelime ize
+      metin  : diğer ydi
+      duyulan: diary idi
+  INSERT   ...o aradaki surettir mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve o taraf karşısındakinin
+      metin  : maskotunu
+      duyulan: mascotunu
+  INSERT   ...adıyla çağırıyordu oyun eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sony nin japonya tarafından
+      metin  : şuhey yoşida
+      duyulan: shuhei yoshida
+  REPLACE  ...yapıyordu sonuç diğer yazan
+      metin  : sütunu
+      duyulan: sütünü
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: oyun-2026-09-17.duyulan.txt

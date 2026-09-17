@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-17.mp3
+
+beklenen 1543 kelime | duyulan 1549 kelime | eşleşme %93.1
+sayı ifadesi: metinde 211, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...kişi türk bile değildi
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...elimizde olduğunu sandı sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...metnin peşine düşmüştü adı
+      metin  : haynrih fridrih fon dits di prusya
+      duyulan: heinrich friedrich von ditzti rusya
+  INSERT   ...stanbul daki elçisi olarak
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...osmanlı başkentinde geçirdiği yıl
+      metin  : (yok)
+      duyulan: dotonu
+  REPLACE  ...dille anlatan kitaplar yazıyordu
+      metin  : saksonya nın
+      duyulan: saxonyanın
+  REPLACE  ...vardı kitab ı dedem
+      metin  : korkud ala lisan ı
+      duyulan: korkutala lisanı
+  REPLACE  ...oğuz boyunun diliyle dedem
+      metin  : korkudun
+      duyulan: korkut un
+  REPLACE  ...yeri vardı o kadar
+      metin  : dits
+      duyulan: dietz
+  REPLACE  ...bazen anlatılan ihtiyar duruyordu
+      metin  : dede
+      duyulan: dedem
+  REPLACE  ...ihtiyar duruyordu dede korkut
+      metin  : dits
+      duyulan: dietz
+  REPLACE  ...duran ve araştırmacıların berlin
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...aslında ayrı yazma değil
+      metin  : dits
+      duyulan: dietz
+  REPLACE  ...yerleştirdi bölümü oğuz un
+      metin  : atasözlerine
+      duyulan: atasözlerini
+  REPLACE  ...yiyordu basat tam da
+      metin  : odisseus
+      duyulan: odysseus
+  REPLACE  ...tam da odisseus un
+      metin  : polifemos a
+      duyulan: polyphemosa
+  REPLACE  ...postuna sarılıp kaçarak yenmişti
+      metin  : dits
+      duyulan: dietz
+  REPLACE  ...avrupası için kışkırtıcıydı ve
+      metin  : dits
+      duyulan: dietz
+  REPLACE  ...olan üslubu tartışmayı büyüttü
+      metin  : dits
+      duyulan: dietz
+  REPLACE  ...bu yaşlı doğu meraklısıyla
+      metin  : vaymar
+      duyulan: weimar
+  REPLACE  ...doğu divanı nı yazarken
+      metin  : dits
+      duyulan: dietz
+  INSERT   ...çevirilerinden ve notlarından yararlandı
+      metin  : (yok)
+      duyulan: don un
+  REPLACE  ...çok daha geç başladı
+      metin  : dits
+      duyulan: dietz
+  INSERT   ...tanıtmasından tam yıl sonra
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...i stanbul da yayımladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...stanbul da yayımladı orhan
+      metin  : şaik gökyay
+      duyulan: şayık gök yay
+  INSERT   ...latin harfli baskıyı hazırladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıktı diyor adı korkut
+      metin  : ata idi
+      duyulan: ataydı
+  REPLACE  ...aslında mesleğin tarifidir korkut
+      metin  : ata
+      duyulan: atay
+  REPLACE  ...karşılayan kelimedir ozanın yaptığı
+      metin  : iş de
+      duyulan: işte
+  REPLACE  ...de boy boylamak soy
+      metin  : soylamak
+      duyulan: soylemak
+  REPLACE  ...yaşına gelmiş oğluna türlü
+      metin  : ad
+      duyulan: at
+  REPLACE  ...koyamaz çünkü oğuz da
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ve ata binmekte ok
+      metin  : atmakta
+      duyulan: atmaktan
+  REPLACE  ...binmekte ok atmakta zorlar
+      metin  : selcen
+      duyulan: selcan
+  REPLACE  ...ve kafkasya ya yerleşmiş
+      metin  : hıristiyan
+      duyulan: hristiyan
+  REPLACE  ...veren toplumun hayatı binmiştir
+      metin  : coğrafya
+      duyulan: koğrafya
+  REPLACE  ...bu anlatıların bugünkü biçimine
+      metin  : yüzyılın
+      duyulan: yılın
+  REPLACE  ...elimizdeki metin yüzyıllarca ağızdan
+      metin  : ağıza
+      duyulan: ağza
+  INSERT   ...tek kopyası olduğu sanıldı
+      metin  : (yok)
+      duyulan: de
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: edebiyat-2026-09-17.duyulan.txt
