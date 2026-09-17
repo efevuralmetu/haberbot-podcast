@@ -15,7 +15,17 @@
 <itunes:category text="News"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Thu, 17 Sep 2026 05:32:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 15:35:38 +0000</lastBuildDate>
+<item>
+<title>Akşam Haberleri — 17 Eylül 2026</title>
+<description>Fed'in 2023'ten bu yana ilk faiz artırımı ve Temsilciler Meclisi'nin Trump'ın İran operasyonlarını sınırlayan kararı Washington'ın gündemine otururken, von der Leyen Kanada'ya AB'de "ortak üyelik" statüsü önerdi. Yurt içinde Borsa İstanbul dünkü sert satışın ardından toparlandı; Finansal İstikrar Komitesi olağanüstü toplandı ve SPK 7 portföy şirketine ait 130 fonun tasfiyesine karar verdi. Ayrıca OpenAI modellerindeki beklenmedik davranışları açıkladı, Mehmet Uçum seçim takvimi ve Erdoğan'ın son adaylığı üzerine konuştu, Beşiktaş Avrupa Ligi'nde Marsilya'yı ağırlıyor.</description>
+<itunes:subtitle>Fed'in 2023'ten bu yana ilk faiz artırımı ve Temsilciler Meclisi'nin Trump'ın İran operasyonlarını sınırlayan kararı Washington'ın gündemine otururken, von der Leyen Kanada'ya AB'de "ortak üyelik" statüsü önerdi. Yurt içinde Borsa İstanbul dünkü sert satışın ardından toparlandı; Finansal İstikrar Komitesi olağanüstü toplandı ve SPK 7 portföy şirketine ait 130 fonun tasfiyesine karar verdi. Ayrıca OpenAI modellerindeki beklenmedik davranışları açıkladı, Mehmet Uçum seçim takvimi ve Erdoğan'ın son adaylığı üzerine konuştu, Beşiktaş Avrupa Ligi'nde Marsilya'yı ağırlıyor.</itunes:subtitle>
+<pubDate>Thu, 17 Sep 2026 18:35:20 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/haber/aksam-2026-09-17.mp3" length="27713420" type="audio/mpeg"/>
+<guid isPermaLink="false">aksam-2026-09-17</guid>
+<itunes:duration>38:33</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Sabah Haberleri — 17 Eylül 2026</title>
 <description>ABD Merkez Bankası 3 yılı aşkın aranın ardından dün gece faizi artırdı; kararın Türkiye'deki yankısı Borsa İstanbul'da son aylardaki en sert günlük kayıpla birleşti ve BIST 100 tek günde %5,54 değer yitirdi.</description>
@@ -674,16 +684,6 @@
 <enclosure url="https://cdn.noronmedia.com/haber/aksam-2026-06-19.mp3" length="21199436" type="audio/mpeg"/>
 <guid isPermaLink="false">aksam-2026-06-19</guid>
 <itunes:duration>29:30</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Sabah Haberleri — 19 Haziran 2026</title>
-<description>Amerika Birleşik Devletleri ile İran, aylardır süren çatışmanın ardından nihai bir anlaşmaya giden yolda 60 günlük müzakere sürecini başlatan ön mutabakatı imzaladı; uzlaşı Hürmüz Boğazı'nın yeniden açılmasını, İran'ın petrol ihracatına yönelik kısıtlamaların en azından geçici olarak kaldırılmasını ve ülkenin yeniden inşası için yaklaşık 300 milyar dolarlık bir yatırım planını öngörüyor.</description>
-<itunes:subtitle>Amerika Birleşik Devletleri ile İran, aylardır süren çatışmanın ardından nihai bir anlaşmaya giden yolda 60 günlük müzakere sürecini başlatan ön mutabakatı imzaladı; uzlaşı Hürmüz Boğazı'nın yeniden açılmasını, İran'ın petrol ihracatına yönelik kısıtlamaların en azından geçici olarak kaldırılmasını ve ülkenin yeniden inşası için yaklaşık 300 milyar dolarlık bir yatırım planını öngörüyor.</itunes:subtitle>
-<pubDate>Fri, 19 Jun 2026 08:38:22 +0300</pubDate>
-<enclosure url="https://cdn.noronmedia.com/haber/gundem-2026-06-19.mp3" length="7316684" type="audio/mpeg"/>
-<guid isPermaLink="false">gundem-2026-06-19</guid>
-<itunes:duration>10:13</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
