@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-18.mp3
+
+beklenen 1480 kelime | duyulan 1503 kelime | eşleşme %96.1
+sayı ifadesi: metinde 342, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hepsi bu bu makineye
+      metin  : turing
+      duyulan: touring
+  INSERT   ...gidip geliyordu rado nun
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...söyleyebilirdiniz oysa alan turing
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...durumlu makinenin rekoru adım
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...adım olduğunu kanıtladı sonucu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yayımladılar basamak yıl sürdü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve sonra duvar geldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...duvar geldi alman araştırmacı
+      metin  : hayner
+      duyulan: heiner
+  REPLACE  ...araştırmacı hayner marksen ve
+      metin  : yürgen buntrok
+      duyulan: jürgen buntrock
+  INSERT   ...durduğunda şeritte tane kalmıştı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...milyonlarca makinenin arasında davranışı
+      metin  : goldbah
+      duyulan: goldbach
+  INSERT   ...akademi dışından kalabalık açtı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yeni bitirmiş olan tristan
+      metin  : sterin
+      duyulan: sterrin
+  REPLACE  ...sunucusu kurdu girişimin adı
+      metin  : busy
+      duyulan: bc
+  REPLACE  ...makineleri toplu halde dağıtılmış
+      metin  : çabayla
+      duyulan: çaba ile
+  REPLACE  ...matematik öğrencileri meraklı amatörler
+      metin  : shawn ligocki
+      duyulan: sean ligoki
+  REPLACE  ...lisansüstü geçmişine sahipti maya
+      metin  : kondziyovka
+      duyulan: konziowka
+  INSERT   ...yaşında polonyalı programcıydı sayıları
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...bütün saldırılara direndi skelet
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...lisans öğrencisi olan chris
+      metin  : xu
+      duyulan: iksu
+  REPLACE  ...kim olduğunu bilmediği sadece
+      metin  : mxdys
+      duyulan: max listey
+  DELETE   ...ortaya çıkan katılımcı getirdi
+      metin  : mxdys
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...katılımcı getirdi mxdys topluluğun
+      metin  : standardını
+      duyulan: standartını
+  INSERT   ...denetleyebileceği biçimsel kanıt olmalıydı
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...tamamını yaklaşık dakikada onaylıyordu
+      metin  : (yok)
+      duyulan: ki ki
+  INSERT   ...yaklaşık dakikada onaylıyordu temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...edildi meşgul kunduz sayısı
+      metin  : marksen
+      duyulan: tir mark sen
+  REPLACE  ...kunduz sayısı marksen ve
+      metin  : buntrok
+      duyulan: buntrock
+  INSERT   ...sezgisini çoktan terk ettiği
+      metin  : (yok)
+      duyulan: ki ki de
+  REPLACE  ...çoktan terk ettiği pavel
+      metin  : kropits
+      duyulan: kropitz
+  REPLACE  ...durumlu makinenin şeride yazdığı
+      metin  : birlerin
+      duyulan: birilerin
+  REPLACE  ...sayısı yuvarlama hatası kalır
+      metin  : mxdys
+      duyulan: ki ki te mxd yi ize
+  REPLACE  ...daha kırdı ve artık
+      metin  : üslü
+      duyulan: üstü
+  INSERT   ...değil asıl mesele haziran
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...gün önce ortaya çıktı
+      metin  : mxdys
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...giriyordu adeta rastgele davranıyordu
+      metin  : racheline
+      duyulan: raçeline
+  REPLACE  ...çünkü daha önce bulunmuş
+      metin  : hidra
+      duyulan: hydra
+  REPLACE  ...tutuyorsunuz turda elinizdeki sayı
+      metin  : çiftse
+      duyulan: çifse
+  REPLACE  ...elinizdeki sayı çiftse sayacı
+      metin  : artırıyorsunuz
+      duyulan: arttırıyorsunuz
+  REPLACE  ...sayıları sorusuna doğrudan bağlanıyor
+      metin  : shawn ligocki
+      duyulan: sean ligocchi
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: bilim-2026-09-18.duyulan.txt

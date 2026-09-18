@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-18.mp3
+
+beklenen 1786 kelime | duyulan 1791 kelime | eşleşme %95.1
+sayı ifadesi: metinde 219, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kalmış hali gibi yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...uzanır bazı yerlerinde genişliği
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...çin arasındaki sınır yaklaşık
+      metin  : kilometrelik
+      duyulan: km lik
+  REPLACE  ...neden böyle cevap yeryüzü
+      metin  : şekilleriyle
+      duyulan: şekilleri ile
+  REPLACE  ...yeryüzü şekilleriyle ilgili değil
+      metin  : coğrafya
+      duyulan: koğrafya
+  REPLACE  ...doğru iniyordu buhara hive
+      metin  : hokand
+      duyulan: hokant
+  INSERT   ...çözüm diplomatik masalarda bulundu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...i ki yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ironik tarafı şu bu
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...sadece masraf çıkaracak kaya
+      metin  : yığınıydı
+      duyulan: yağınıydı
+  REPLACE  ...kullandı yüzyılda çinli keşiş
+      metin  : şuan tsang
+      duyulan: xuanzang
+  INSERT   ...rüzgarını insanlarının sertliğini kaydetti
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...polo aynı yüksek düzlükleri
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...aşağıdaki nehri ve karşı
+      metin  : kıyıyı
+      duyulan: kıyı
+  INSERT   ...yerleri işaret ediyor yani
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nda son buldu doğudaki
+      metin  : vahcir
+      duyulan: vahir
+  REPLACE  ...şkaşim kasabasından başlar yola
+      metin  : panc
+      duyulan: panç
+  REPLACE  ...doğuya kıvrılır yol yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yol yaklaşık kilometer sonra
+      metin  : serhad
+      duyulan: serhat
+  REPLACE  ...kadar olan alçak vadide
+      metin  : vahi
+      duyulan: vahiy
+  REPLACE  ...toprağın biriktiği düzlüklerde kurulmuş
+      metin  : handud
+      duyulan: handut
+  REPLACE  ...köyün hayatta kalma sistemidir
+      metin  : serhad dan
+      duyulan: serhat tan
+  REPLACE  ...sarı otlaklarla kaplı yaylalar
+      metin  : vahi
+      duyulan: vahiy
+  REPLACE  ...dünyaya yayıldı burada yaşayanlar
+      metin  : vahi
+      duyulan: vahiy
+  REPLACE  ...kalmışlar keçe kaplı boz
+      metin  : üylerde
+      duyulan: üyelerde
+  REPLACE  ...kışın yokluğuna karşı işlenir
+      metin  : sağılan
+      duyulan: sağlam
+  REPLACE  ...torbalarda süzülür kalan koyu
+      metin  : kütle
+      duyulan: kütlü
+  REPLACE  ...ağızda yavaş yavaş eritilir
+      metin  : ailenin
+      duyulan: kalan
+  REPLACE  ...geçitlerle ölçülür haziranda güneydeki
+      metin  : i rşad
+      duyulan: irşat
+  REPLACE  ...güneydeki i rşad ve
+      metin  : broğil
+      duyulan: broil
+  REPLACE  ...hayvan üstünden hesap yapılır
+      metin  : yakın
+      duyulan: kırgın
+  INSERT   ...kopar sıcaklık gece eksi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...altındaki otu eşeleyerek bulur
+      metin  : bu yalıtım
+      duyulan: yıllar da alıtım
+  INSERT   ...keçisi var kurt var
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...doğu ucunda metreyi aşan
+      metin  : vahcir geçidi nin
+      duyulan: vahyır geçidinin
+  DELETE   ...arasında adımlık mesafede saat
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  DELETE   ...kırgızlar kez yıllar önce
+      metin  : sınırın kapanmasıyla
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bile talep etti kapı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...köşesinden gelmiş topluluğun yeni
+      metin  : kışlağı
+      duyulan: kışlığı
+  INSERT   ...han geldikten yıl sonra
+      metin  : (yok)
+      duyulan: da
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: seyahat-2026-09-18.duyulan.txt

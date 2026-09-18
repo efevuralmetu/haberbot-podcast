@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-18.mp3
+
+beklenen 2726 kelime | duyulan 2741 kelime | eşleşme %95.2
+sayı ifadesi: metinde 269, duyulanda 225  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çocuk doğdu babası abdullah
+      metin  : belh
+      duyulan: belk
+  INSERT   ...babasının adıyla i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...tuhaf tesadüftür i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...da seçer i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...üzerine konuşuluyordu i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...cevapla yetinmeye niyeti yoktu
+      metin  : (yok)
+      duyulan: doğ
+  INSERT   ...kısa sürede ilerlediğini söyler
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...para istemedi arazi istemedi
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...ve şiir başka odada
+      metin  : fıkıh
+      duyulan: fıkı
+  REPLACE  ...çıktığıdır kütüphaneyi i bn
+      metin  : sina nın
+      duyulan: i sinan ın
+  INSERT   ...bile şey anlatır daha
+      metin  : (yok)
+      duyulan: sine
+  DELETE   ...zemin çöküyordu samani devleti
+      metin  : yılı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...devleti yılı aşkın süredir
+      metin  : maveraünnehir i
+      duyulan: maverayun nehiri
+  INSERT   ...devlete bağlıydı i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yoran güzergah vardı nesa
+      metin  : baverd tus cacerm
+      duyulan: bavert tuz cacer
+  REPLACE  ...sürüyordu ve emirin veziri
+      metin  : ebü l hüseyin es sühayli
+      duyulan: ebulhüseyin s suhayli
+  INSERT   ...haline getirmişti i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...hekim ve filozof ebu
+      metin  : sehl
+      duyulan: sehel
+  REPLACE  ...el mesihi cerrahlıkta ünlenmiş
+      metin  : ebü l hayr
+      duyulan: ebulhayr
+  INSERT   ...sonra ile i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...lüksü yoktu i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...sofrasını tepip kaçmak ebu
+      metin  : sehl
+      duyulan: sehel
+  INSERT   ...su bitti i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...dı oranın hükümdarı kabus
+      metin  : veşmgir
+      duyulan: veşbingir
+  INSERT   ...koruyan isimdi i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...biyografı oldu i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...hanedanından seyyide hatun oğlu
+      metin  : mecdüddevle
+      duyulan: mecdud devle
+  INSERT   ...çöküntü içindeydi i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...hemedan da büveyhi emiri
+      metin  : şemsüddevle
+      duyulan: şemsüdev ile
+  REPLACE  ...bağırsakları kasan o dayanılmaz
+      metin  : ağrı
+      duyulan: ağırı
+  INSERT   ...da çağrıldı i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yaptı böylece i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...cüzcani büyük felsefe ansiklopedisi
+      metin  : kitabü ş şifa dan
+      duyulan: kitab ı şifadan
+  INSERT   ...deneylerinden vardır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ve emirden idamını istediler
+      metin  : şemsüddevle
+      duyulan: şemsüdevle
+  INSERT   ...şehirden uzaklaştırdı i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bn sina gün ebu
+      metin  : sa d
+      duyulan: sadat
+  REPLACE  ...defalarca başkalarının ağrısı kurtardı
+      metin  : şemsüddevle
+      duyulan: şemsüdevle
+  REPLACE  ...bunun yerine gizlice i
+      metin  : sfahan
+      duyulan: zfahan
+  INSERT   ...ihanet saydı i bn
+      metin  : (yok)
+      duyulan: i
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 42
+
+duyulan metin: biyografi-2026-09-18.duyulan.txt

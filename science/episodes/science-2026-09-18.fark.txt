@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-18.mp3
+
+beklenen 2202 kelime | duyulan 2139 kelime | eşleşme %96.8
+sayı ifadesi: metinde 186, duyulanda 173  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  DELETE   ...of its own making
+      metin  : kanal ayarı gereği not podcast science json içinde bu kanal language en olarak tanımlı ve yönergesi aynı günün bilim bölümü çevrilir diyor kaynak metin bilim txt zaten türkçe olduğu için türkçe ye çeviri boş işlem olurdu bu metni kanalın gerçek dili olan i ngilizce ye kaynağa sadık kalarak çevirdim açılış kancası jingle ve kapanış cümlesi sizin eklediğiniz parçalar olduğu için çıkarıldı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...at ohio state university
+      metin  : tibor radó
+      duyulan: tiborado
+  REPLACE  ...the world can do
+      metin  : radó
+      duyulan: rado
+  REPLACE  ...focus the that halt
+      metin  : radó
+      duyulan: rado
+  REPLACE  ...a streambed the paper
+      metin  : radó
+      duyulan: rado
+  REPLACE  ...began to fight back
+      metin  : radó
+      duyulan: rado
+  REPLACE  ...together in shortly befoer
+      metin  : radó
+      duyulan: rado
+  REPLACE  ...step took years in
+      metin  : allen
+      duyulan: alan
+  REPLACE  ...in german researchers heiner
+      metin  : marxen
+      duyulan: marksen
+  INSERT   ...stil wrote nothing but
+      metin  : (yok)
+      duyulan: zeros
+  REPLACE  ...decided by at point
+      metin  : allen
+      duyulan: alan
+  REPLACE  ...the spring of tristan
+      metin  : stérin
+      duyulan: staron
+  REPLACE  ...mathematics students curious amateurs
+      metin  : shawn
+      duyulan: sean
+  REPLACE  ...background in mathematics maja
+      metin  : kądziołka
+      duyulan: konjowka
+  REPLACE  ...researcher under the pseudonym
+      metin  : skelet skelet
+      duyulan: skellet skellet
+  REPLACE  ...pseudonym skelet skelet and
+      metin  : skelet
+      duyulan: skellet
+  REPLACE  ...skelet resisted every attack
+      metin  : skelet
+      duyulan: skellet
+  REPLACE  ...was cracked by chris
+      metin  : xu
+      duyulan: hsu
+  REPLACE  ...appeared under the handle
+      metin  : mxdys mxdys
+      duyulan: mxdis when mxdis
+  REPLACE  ...by line in may
+      metin  : mxdys
+      duyulan: mxdis
+  REPLACE  ...number is the machine
+      metin  : marxen
+      duyulan: markson
+  REPLACE  ...years had passed since
+      metin  : radó
+      duyulan: rodaux
+  REPLACE  ...a rounding error in
+      metin  : mxdys
+      duyulan: mxdis
+  REPLACE  ...community s chat server
+      metin  : mxdys
+      duyulan: mxdis
+  INSERT   ...question about z numbers
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...a half aer distributed
+      metin  : shawn
+      duyulan: sean
+  REPLACE  ...grows heavier stil through
+      metin  : stefan
+      duyulan: stephan
+  REPLACE  ...becomes the boundary itself
+      metin  : nöron science de bugünkü bölümün sonuna geldik
+      duyulan: neuron scienste bugunküberlümen sonunagaltik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: birhikyaide yenidänbulushmakuzeer
+
+metinde olup DUYULMAYAN: 99 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-18.duyulan.txt

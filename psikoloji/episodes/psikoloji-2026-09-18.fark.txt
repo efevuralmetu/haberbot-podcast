@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-18.mp3
+
+beklenen 1158 kelime | duyulan 1157 kelime | eşleşme %97.2
+sayı ifadesi: metinde 143, duyulanda 113  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ortada yine de yok
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...son derece sıradan öğrenci
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...sıradan öğrenci beyaz tişörtlü
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...gördünüz mü videoyu izleyenlerin
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...şeyi kaçırdığını kabul etmek
+      metin  : kasedin
+      duyulan: kasetin
+  REPLACE  ...geniş oluyor bu fikir
+      metin  : birdenbier
+      duyulan: da
+  REPLACE  ...birdenbier ortaya çıkmadı daha
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...çıkmadı daha yetmişlerde ulrik
+      metin  : nayser
+      duyulan: neisser
+  REPLACE  ...şemsiyeli kadını kaçırdığını görmüştü
+      metin  : arien
+      duyulan: ariane
+  REPLACE  ...görmüştü arien mack ve
+      metin  : irvin
+      duyulan: irwin
+  REPLACE  ...irvin rock bu olguya
+      metin  : ad
+      duyulan: at
+  INSERT   ...üzerlerinde denemelerini sağladı deney
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...an bile inanmamış olması
+      metin  : simons
+      duyulan: simmons
+  DELETE   ...içinde şunu fark etti
+      metin  : insanlara deneyi anlatıp sizce siz görür müydünüz diye sorduğunuzda ezici çoğunluk hiç tereddüt etmeden görürdüm diyor
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yanılsaması adını verdi ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...gösteren en çarpıcı çalışma
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...goril resmi yerleştirmişlerdi radyologdan
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...uzmanlık aramayı daraltarak çalışıyor
+      metin  : radyolog
+      duyulan: radiolog
+  INSERT   ...salonlarına da girmiş konu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...döndü chabris ve simons
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...oynuyordu gece koşanların yalnızca
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...koşulda bile bu oran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...geçip gideceğini de belirliyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 22
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: psikoloji-2026-09-18.duyulan.txt

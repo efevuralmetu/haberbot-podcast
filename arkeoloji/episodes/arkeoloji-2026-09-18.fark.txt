@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-18.mp3
+
+beklenen 2344 kelime | duyulan 2376 kelime | eşleşme %96.9
+sayı ifadesi: metinde 392, duyulanda 275  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...bunları çizenlerin uçağı yoktu
+      metin  : (yok)
+      duyulan: çiğki te
+  REPLACE  ...peru nun güney kıyısında
+      metin  : pasifiğin
+      duyulan: pasifi in
+  REPLACE  ...yerde lima nın yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...taş renginde düzlük başlar
+      metin  : nazka
+      duyulan: nazca
+  INSERT   ...ilk göz uçakta değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...değildi peruvalı arkeolog toribio
+      metin  : mehiya xesspe ovayı
+      duyulan: mejia xespe ova yı
+  INSERT   ...tören alaylarının yürüdüğü yollar
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yeer su taşımıyorlardı üstelik
+      metin  : (yok)
+      duyulan: çoğu
+  INSERT   ...yönde yukarı doğru gidiyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...neden yüzyıllar boyunca kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...ve bunlardan diğerinin saklıdır
+      metin  : nazka ovasındaki
+      duyulan: nazca ovası ndaki
+  REPLACE  ...yapılmıştır yani hat değil
+      metin  : siluet
+      duyulan: silüet
+  REPLACE  ...ile milattan sonra arasındaki
+      metin  : nazka
+      duyulan: naska
+  REPLACE  ...güneydeki büyük tören merkezine
+      metin  : kauaçi ye
+      duyulan: kavaciye
+  REPLACE  ...değil süpürge vardı maria
+      metin  : rayhe
+      duyulan: reiche te
+  INSERT   ...fizik ve coğrafya okudu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve peru nun güneyindeki
+      metin  : kusko
+      duyulan: cusco
+  INSERT   ...her türlü işi yaptı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra amerika ya döndü
+      metin  : rayhe
+      duyulan: reiche
+  INSERT   ...ya döndü rayhe dönmedi
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...toz çizgilerin kontrastını körelmişti
+      metin  : rayhe
+      duyulan: reiche
+  REPLACE  ...rastlantıyla açıklanabileceğini gösterdi ama
+      metin  : rayhe
+      duyulan: reiche
+  REPLACE  ...altındaydı pan amerikan otoyolu
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...araçlar keyfince ovaya giriyordu
+      metin  : rayhe
+      duyulan: reiche
+  INSERT   ...ama tam olarak sahiplendi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...güneş nişanı yla ödüllendirildi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kendisi neredeyze görmüyordu gözleri
+      metin  : katarakt
+      duyulan: katarak
+  INSERT   ...anlatmaya devam etti haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bulabiliyordu bu ömürden fazlasına
+      metin  : sığan
+      duyulan: sığın
+  INSERT   ...ömürden fazlasına sığan hızdır
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...girdiğinde bu hız yılda
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yüzyılın sonunda ovada bilinen
+      metin  : figüratif jeoglif
+      duyulan: figuratif ceoglif
+  INSERT   ...bilinen figüratif jeoglif sayısı
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...japonya daki yamagata üniversitesi
+      metin  : nazka ovasında binlerin
+      duyulan: nazca ovası nda lerin
+  INSERT   ...geçirebileceği saat sayısı sınırlıydı
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...derin öğrenme modeli ovadan
+      metin  : aday
+      duyulan: ada
+  REPLACE  ...burada şey var der
+      metin  : nazka
+      duyulan: nasca
+  INSERT   ...aday nokta taradı bunlardan
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...ayın sonunda doğrulanan yeni
+      metin  : figüratif
+      duyulan: figuratif
+  INSERT   ...yeni figüratif jeoglif sayısı
+      metin  : (yok)
+      duyulan: tü
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: arkeoloji-2026-09-18.duyulan.txt

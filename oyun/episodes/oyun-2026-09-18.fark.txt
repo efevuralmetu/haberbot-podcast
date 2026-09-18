@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-18.mp3
+
+beklenen 1624 kelime | duyulan 1646 kelime | eşleşme %95.8
+sayı ifadesi: metinde 261, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...diliyle yazdı ortaya çıkan
+      metin  : lunaparkta
+      duyulan: lunapart ta
+  INSERT   ...ayrı hesaplanıyordu hem de
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...kendi yayıncısını mahkemeye verdi
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...skoçya nın orta kesiminde
+      metin  : dunblane
+      duyulan: dunblay ın
+  DELETE   ...bile zorlandığı metin akıyordu
+      metin  : işlemcinin kendi dili
+      duyulan: (YOK — atlanmış)
+  DELETE   ...oyunu başka makinelerden alıp
+      metin  : a
+      duyulan: (YOK — atlanmış)
+  DELETE   ...derine indi yıllar içinde
+      metin  : xseksen
+      duyulan: (YOK — atlanmış)
+  INSERT   ...gördüğü dili ezbeer biliyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...vagonun kaç saniyede kaç
+      metin  : g
+      duyulan: ke
+  INSERT   ...geri dönmedi ömrü boyunca
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...dili derleyicisinin sürümü visual
+      metin  : c
+      duyulan: t
+  INSERT   ...oranlar ize şöyleydi oyunun
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...ize şöyleydi oyunun doğrudan
+      metin  : xseksen makine diliyle
+      duyulan: makinediliyle
+  INSERT   ...diliyle yazıldı geri kalan
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...siz yazarsınız bellekteki her
+      metin  : baytın
+      duyulan: byte ın
+  REPLACE  ...oyunun asgari sistem gereksinimleri
+      metin  : megahertz
+      duyulan: mhz
+  REPLACE  ...lik pentium işlemci ve
+      metin  : megabayt
+      duyulan: mb
+  REPLACE  ...de mütevazı değildi çünkü
+      metin  : lunapark patronu nda
+      duyulan: lunapart patronunda
+  REPLACE  ...sırayla ekrana yığıyordu böylece
+      metin  : megahertz
+      duyulan: mhz
+  REPLACE  ...akıcı biçimde çevirebiliyordu müziği
+      metin  : allister
+      duyulan: alistair
+  REPLACE  ...müziği allister brimble yazdı
+      metin  : lunapark orgunu
+      duyulan: luna park organı
+  INSERT   ...yarısı oldu oyun mart
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kuzey amerika da nisan
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bedeli kendini gösterdi nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kayıt dosyaları bozulmaya başladı
+      metin  : sebep
+      duyulan: sebeb
+  INSERT   ...ve dolar hasılat yaptı
+      metin  : (yok)
+      duyulan: lafayette
+  INSERT   ...listelerinden yıllarca inmedi temmuz
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...ek paket geldi ardından
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hasbro nun oyun bölümü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...infogrames e satıldı o
+      metin  : şirket de
+      duyulan: şirkette
+  INSERT   ...artık bambaşka kurum duruyordu
+      metin  : (yok)
+      duyulan: kiki e
+  REPLACE  ...işler değişmişti serinin oyunu
+      metin  : i ngiliz stüdyosu
+      duyulan: english studios u
+  REPLACE  ...motorunun yapay zekasının ve
+      metin  : arayüzünün
+      duyulan: ara
+  INSERT   ...kişi muhtemelen kendisiydi kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i ddiası dolarlık eksiklik
+      metin  : olduğuydu
+      duyulan: oldu idi
+  INSERT   ...tespit etmişlerdi karşı taraf
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dava salonda bitmedi şubat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...daha uzun yaşadı nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...diline yeniden yazmaya başladı
+      metin  : (yok)
+      duyulan: bu
+  REPLACE  ...o çağrının yerini alıyordu
+      metin  : prosedür prosedür
+      duyulan: procedür procedür
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-09-18.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-18.mp3
+
+beklenen 2406 kelime | duyulan 2418 kelime | eşleşme %96.8
+sayı ifadesi: metinde 308, duyulanda 223  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...denizi ortadan kaldırmayı denediler
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...su üstündeydi roma nın
+      metin  : lejyonerleri
+      duyulan: lejönerleri
+  REPLACE  ...şehrini de egemenliğine katmıştı
+      metin  : lejyon
+      duyulan: lejon
+  REPLACE  ...yüzyıllardır tutunduğu üsleri vardı
+      metin  : lilibeum
+      duyulan: lilibeyum
+  REPLACE  ...hemen kuzeyinde drepana bugünkü
+      metin  : trapani
+      duyulan: trapane
+  INSERT   ...romalılar kara muharebelerini kazandılar
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...kara muharebelerini kazandılar yılında
+      metin  : akragas
+      duyulan: akragaz
+  REPLACE  ...bunun farkındaydı ve karşı
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...da farkındaydı sonraki yüzyıllarda
+      metin  : kassius
+      duyulan: cassius
+  REPLACE  ...penteres yani beşliydi bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ve en karmaşık makinesiydi
+      metin  : polibios
+      duyulan: polybios
+  INSERT   ...kesilmesinin üzerinden gün geçtiğinde
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...üzerinden gün geçtiğinde ve
+      metin  : (yok)
+      duyulan: lü
+  REPLACE  ...denemede acıydı yılında konsül
+      metin  : gneus kornelius sipiyo
+      duyulan: geneus cornelius sipio
+  REPLACE  ...ilerledi şehrin teslim olacağı
+      metin  : vaadine
+      duyulan: vadine
+  REPLACE  ...basit şey tasarladı geminin
+      metin  : pruvasına
+      duyulan: provasına
+  REPLACE  ...ve gemiyi birbirine perçinliyordu
+      metin  : polibios
+      duyulan: polybios
+  REPLACE  ...birbirine perçinliyordu polibios bu
+      metin  : düzeneğe
+      duyulan: düzeneye
+  REPLACE  ...polibios bu düzeneğe yunanca
+      metin  : korax
+      duyulan: koraks
+  REPLACE  ...bugün korvus adıyla tanıyoruz
+      metin  : ad
+      duyulan: at
+  REPLACE  ...messina nın batısındaki bugünkü
+      metin  : dur
+      duyulan: milazodur
+  REPLACE  ...dur roma filosunun başında
+      metin  : konsül gayus
+      duyulan: consul gaius
+  INSERT   ...yıl boyunca kanca çalıştı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...sicilya nın güney kıyısında
+      metin  : eknomus
+      duyulan: eknomos
+  REPLACE  ...kalabalık deniz muharebelerinden yaşandı
+      metin  : polibios
+      duyulan: polybios
+  REPLACE  ...savaşı afrika ya taşıdı
+      metin  : konsül markus
+      duyulan: consul marcus
+  REPLACE  ...kartaca yunanistan dan gelen
+      metin  : ksantippus
+      duyulan: cassantippus
+  INSERT   ...elinde ordusunu yeniden düzenledi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...nın güney kıyısını kamarina
+      metin  : ile passero
+      duyulan: yla pasero
+  REPLACE  ...kıyıdır komutanlar uyarıyı dinlemedi
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...da o kıyıda yakaladı
+      metin  : polibios
+      duyulan: polybios
+  INSERT   ...anlatımına göer geminin yalnızca
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yalnızca kurtuldu kamarina dan
+      metin  : passero
+      duyulan: pasero
+  REPLACE  ...ölü sayısını yakın verir
+      metin  : polibios
+      duyulan: polybios
+  REPLACE  ...noktası burada başlar geminin
+      metin  : pruvasına
+      duyulan: provasına
+  INSERT   ...yakalandı ve gemi kayboldu
+      metin  : (yok)
+      duyulan: diki
+  REPLACE  ...yılında trapani önlerinde publius
+      metin  : klaudius pulker
+      duyulan: claudius pulcher
+  INSERT   ...publius klaudius pulker gemisinin
+      metin  : (yok)
+      duyulan: ünü
+  REPLACE  ...önce kutsal tavukların yem
+      metin  : yemeyi
+      duyulan: yemeği
+  INSERT   ...sessizce kenara bırakmış görünüyor
+      metin  : (yok)
+      duyulan: kiki
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: tarih-2026-09-18.duyulan.txt

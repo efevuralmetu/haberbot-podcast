@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-17.mp3
+
+beklenen 1435 kelime | duyulan 1444 kelime | eşleşme %96.8
+sayı ifadesi: metinde 360, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sonuçlanan toplantısında politika faizini
+      metin  : baz
+      duyulan: pas
+  REPLACE  ...abd savunma bakanı pete
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...kaya kallas rusya kaynaklı
+      metin  : hibrit
+      duyulan: hibrid
+  REPLACE  ...önerdi rusya dışişleri bakanı
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...kısa süreceği mesajını verdi
+      metin  : gazze de
+      duyulan: gazete
+  REPLACE  ...verecek biçimde yavaşlatılmasını önerdi
+      metin  : elon musk
+      duyulan: eden mask
+  DELETE   ...dördü arada çalışan farklı
+      metin  : msekiz
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...stanbul da düzenlenen gitex
+      metin  : ai
+      duyulan: i
+  INSERT   ...düzenlenen gitex ai türkiye
+      metin  : (yok)
+      duyulan: ya ün
+  REPLACE  ...sıra yönettikleri varlık büyüklüğü
+      metin  : doları
+      duyulan: dolara
+  INSERT   ...türkiye nin girişim ekosistemi
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...yeni projeksiyonlara göer yetkilinin
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...göer yetkilinin yılın kalanında
+      metin  : baz
+      duyulan: bas
+  INSERT   ...tahmini haziran ayındaki seviyesinden
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...çin de shenzhen ve
+      metin  : shanghai composite
+      duyulan: şanghai kompozit
+  REPLACE  ...satış dalgasına sahne oldu
+      metin  : bist
+      duyulan: bistey
+  INSERT   ...kapandı gün içinde kayıp
+      metin  : (yok)
+      duyulan: ya
+  DELETE   ...eklendi kur ve tarafında
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kurultayı na ilişkin mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...merkez yönetim kurulu toplantısında
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...ettiğini açıkladı parti sözcüsü
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...sarı nın duyurduğu karar
+      metin  : konger
+      duyulan: kongres
+  REPLACE  ...gerekçesine dayandırıldı uzun sürecek
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...konger takvimini de netleştirdi
+      metin  : üye
+      duyulan: üyeli
+  INSERT   ...i l kongreleri ocak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kongreleri ocak başlayıp şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ana muhalefet konumuna yerleşti
+      metin  : chp
+      duyulan: thp
+  REPLACE  ...meclis teki sandalye sayısı
+      metin  : dörde
+      duyulan: e
+  INSERT   ...faizini beklentilerle uyumlu biçimde
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zeka ve dijital güçlenme
+      metin  : iş
+      duyulan: i şbirliği
+  REPLACE  ...için ilde kuvvetli sağanak
+      metin  : beklentisiyle
+      duyulan: beklentisi ile
+  REPLACE  ...sizin için nöron değerlendirdi
+      metin  : bilgiyle
+      duyulan: bilgi ile
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: gundem-2026-09-17.duyulan.txt

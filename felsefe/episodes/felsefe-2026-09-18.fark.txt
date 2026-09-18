@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-18.mp3
+
+beklenen 2255 kelime | duyulan 2262 kelime | eşleşme %97.0
+sayı ifadesi: metinde 234, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...titreşimi nasıl oluyor da
+      metin  : bağa
+      duyulan: bağ
+  INSERT   ...gözlemle yeniden kurdu austin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...belli yerde olacağına dair
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...hoşumuza gitmeyecek yerde aradı
+      metin  : fridrih niçe
+      duyulan: paul friedrich nietzsche de
+  REPLACE  ...fridrih niçe yayımladığı ahlakın
+      metin  : soykütüğü
+      duyulan: soykütü
+  REPLACE  ...nazik edim gibi görünür
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...budama işlemi acısız olmaz
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...bu bellek nasıl kazınmıştır
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...hukuk düzenlerine bakın der
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...şey kazımak içindi ve
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...almancada suç anlamına gelen
+      metin  : şuld
+      duyulan: schuld
+  REPLACE  ...ile borç anlamına gelen
+      metin  : şulden
+      duyulan: schulden
+  REPLACE  ...şulden aynı kökten gelir
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...bedeni teminat haline gelebiliyordu
+      metin  : neksum
+      duyulan: nexum
+  REPLACE  ...borç yüzünden alacaklısının evinde
+      metin  : emeğiyle
+      duyulan: emeği ile
+  DELETE   ...yazılı yasa metni olan
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bedenin üzerinden alındı ama
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...yılda içimizde bıraktığı tortudur
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...olarak görmekle kalmaz çünkü
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...kadar güçlü olduğu içindir
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...şunu fark etmek gerekiyor
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...dair sözü yola çıkarmaktı
+      metin  : süftece
+      duyulan: suftece
+  REPLACE  ...ismi kağıdın duran kişinin
+      metin  : sözünün
+      duyulan: sözünü
+  REPLACE  ...yerine getirilmesi emredilir ve
+      metin  : ahdden
+      duyulan: ahden
+  REPLACE  ...yazsan da yazmasan da
+      metin  : ahd ahddir
+      duyulan: ahdı ahtır
+  INSERT   ...dolaşan seyyah i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...tamamlayıp karahanlı hükümdarına sunduğu
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...eden karakterin adı kün
+      metin  : togdı dır
+      duyulan: togdudur
+  REPLACE  ...ettiği değer doğruluk yani
+      metin  : köniliktir
+      duyulan: könüliktir
+  REPLACE  ...sadece zor kalır burada
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...geçerlidir bu ilke tarihli
+      metin  : viyana
+      duyulan: viana
+  INSERT   ...hukukta da karşımıza çıkar
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...kimlik üzerine çalışan derek
+      metin  : parfidin
+      duyulan: parfit in
+  REPLACE  ...şudur bugün söz veren
+      metin  : kişiyle
+      duyulan: kişi ile
+  INSERT   ...yerde duruyor hannah arendt
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hiçbir şey inşa edilemez
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...nin bedene kazınan belleği
+      metin  : kutadgu bilig
+      duyulan: kutat gubelig
+  REPLACE  ...küçücük tahmin edilebilir köşesi
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: felsefe-2026-09-18.duyulan.txt

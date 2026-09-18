@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-18.mp3
+
+beklenen 1554 kelime | duyulan 1559 kelime | eşleşme %95.4
+sayı ifadesi: metinde 220, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...en büyük sahnesinde yıkacaktı
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...bahçe duvarının önünde duran
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...genç adamın adı bong
+      metin  : cun
+      duyulan: joon
+  INSERT   ...yaklaşık yıl bekledi fikir
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...değil tiyatro ölçeğinde düşündü
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...o dönemdeki çalışma başlığı
+      metin  : dekalkomani
+      duyulan: decalcomani
+  INSERT   ...senaryo asıl biçimini ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...süredir birlikte çalıştığı han
+      metin  : cin von
+      duyulan: jin won
+  REPLACE  ...filmin adını da değiştirdi
+      metin  : dekalkomani
+      duyulan: decalcomanie
+  REPLACE  ...edici kelime geldi korecede
+      metin  : kisençung
+      duyulan: kisenjung
+  REPLACE  ...özgü konut tipi kurdu
+      metin  : banciha
+      duyulan: bancıha
+  REPLACE  ...hiçbirine tesadüf bırakılmayacaktı bong
+      metin  : cun
+      duyulan: joon
+  REPLACE  ...seul ün epeyce dışındaki
+      metin  : concu
+      duyulan: konçu
+  REPLACE  ...yıl içindeki hareketini hesapladı
+      metin  : ışığın
+      duyulan: işığın
+  INSERT   ...duran parçaların birleşimidir filmde
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...biçimde çekti çekimler mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çekimler mayıs başladı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...boy bağımsız yapım kadar
+      metin  : cung ce il
+      duyulan: jung jail
+  REPLACE  ...ki vu yu canlandıran
+      metin  : çoy vu şik
+      duyulan: choi woo shik
+  REPLACE  ...dünyaya ilk kez mayıs
+      metin  : kan
+      duyulan: da cannes
+  REPLACE  ...söyleyemiyordu mayıs ta başkanlığını
+      metin  : alehandro gonzalez i nyarritu
+      duyulan: alejandro gonzález iñárritu
+  REPLACE  ...ödül olan palmiye yi
+      metin  : parazide
+      duyulan: parazit e
+  REPLACE  ...palmiye yi parazide verdi
+      metin  : i nyarritu
+      duyulan: iñárritu
+  INSERT   ...film koer de mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ara vermeden yanında çevirmeni
+      metin  : şaron çoy
+      duyulan: sharon choi
+  REPLACE  ...şaron çoy ile yaptı
+      metin  : çoy
+      duyulan: choi
+  INSERT   ...kampanyanın dönüm noktası ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaklaşık santimlik altyazı engelini
+      metin  : aştığınızda
+      duyulan: açtığınızda
+  REPLACE  ...koer de yaşayan eleştirmen
+      metin  : darsi pake
+      duyulan: darcy paquet
+  REPLACE  ...in çözümleri de gösteriyordu
+      metin  : pake
+      duyulan: paquet
+  REPLACE  ...uydurdu kız kardeş ki
+      metin  : cung
+      duyulan: jung
+  REPLACE  ...ile en iyi film
+      metin  : oscar ını
+      duyulan: oskarını
+  REPLACE  ...yapım olmak içinse yapımı
+      metin  : marty
+      duyulan: marti
+  REPLACE  ...alırken salonda oturan martin
+      metin  : skorseze
+      duyulan: scorsese
+  REPLACE  ...oturan martin skorseze ye
+      metin  : dönüp
+      duyulan: dönük
+  REPLACE  ...çekilen film dünya genelinde
+      metin  : doları
+      duyulan: dolara
+  REPLACE  ...aşan hasılata ulaştı ama
+      metin  : parazidin
+      duyulan: parazit in
+  INSERT   ...ev bu tipteydi ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önünü gezdiren turlar yapılıyor
+      metin  : concu
+      duyulan: konçu
+  REPLACE  ...kanıtlanmış olgu olarak konuşuluyor
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: film-2026-09-18.duyulan.txt

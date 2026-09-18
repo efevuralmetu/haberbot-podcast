@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-18.mp3
+
+beklenen 1456 kelime | duyulan 1466 kelime | eşleşme %91.4
+sayı ifadesi: metinde 201, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ogidi adlı kasabada kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...alınmış misyoner defterlerine yakışan
+      metin  : ad
+      duyulan: at
+  REPLACE  ...defterlerine yakışan ad öbürü
+      metin  : chinualumogu ydu
+      duyulan: çinualu moguydu
+  REPLACE  ...bütün hayatının haritasıydı babası
+      metin  : isaiah
+      duyulan: i zaya
+  REPLACE  ...haritasıydı babası isaiah okafo
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...ruhları maskelerle sokağa iniyordu
+      metin  : achebe
+      duyulan: acebe
+  INSERT   ...kavşağında büyümüş olarak tanımlayacaktı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...olmayan çocuk zekası önce
+      metin  : umuahia
+      duyulan: umuahya
+  INSERT   ...devlet koleji ne ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verilen burs tıp içindi
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...da orada bıraktı artık
+      metin  : chinua achebe ydi
+      duyulan: çinua acebeydi
+  REPLACE  ...i rlandalı yazarın joyce
+      metin  : cary
+      duyulan: carey
+  REPLACE  ...kaleminden çıkmış roman vardı
+      metin  : mister
+      duyulan: mr
+  REPLACE  ...üstelik kendi memleketlerinin karikatürü
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...rağmen afrikalılara ağız vermiyordu
+      metin  : achebe
+      duyulan: acebe
+  INSERT   ...görev vardı içeriden yazmalıydı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...mezun oldu yıl sonra
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...aile üzerinden yıllık ülke
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...personel eğitim okuluna gönderdi
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...ve yayıncı gilbert phelps
+      metin  : le
+      duyulan: ile
+  REPLACE  ...kendi yayıncısına götürmeyi önerdi
+      metin  : achebe
+      duyulan: acebe
+  INSERT   ...lagos a döndükten sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yalnızca ilk kuşak kaldı
+      metin  : umuofia lı
+      duyulan: umuofyalı
+  REPLACE  ...da hazırdı william butler
+      metin  : yeats
+      duyulan: yates
+  REPLACE  ...the coming den yani
+      metin  : i kinci geliş
+      duyulan: gelişten
+  REPLACE  ...tutmuyor elinde dünyada tek
+      metin  : nüsha
+      duyulan: nüşaa
+  INSERT   ...ta yaşayan genç memurun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...el yazısı kabul etmiyordu
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...gelen metinleri temize çekiyordu
+      metin  : achebe nüsha
+      duyulan: acebe nüşaa
+  REPLACE  ...ngiliz posta havalesiyle gönderdi
+      metin  : sterlin
+      duyulan: sterling
+  REPLACE  ...kumarını oynadı dünyadaki tek
+      metin  : nüshayı
+      duyulan: nüşayı
+  REPLACE  ...haftalar geçti cevap yok
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...geçti ne daktilo edilmiş
+      metin  : nüsha
+      duyulan: nüşaa
+  REPLACE  ...büro paketi çöpe atsa
+      metin  : umuofia
+      duyulan: umuyofya
+  REPLACE  ...anılan kahramanlarından birinden geldi
+      metin  : achebe nin
+      duyulan: acebenin
+  REPLACE  ...çıkıp londra ya gidiyordu
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...düşündüğünü hiç yumuşatmadan söyledi
+      metin  : achebe
+      duyulan: acebe
+  REPLACE  ...sorundu beattie hafta içinde
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...kapandı gerekçe çoğu zaman
+      metin  : metnin
+      duyulan: metin in
+  REPLACE  ...pazarı olmadığı söyleniyordu kimse
+      metin  : okonkwo yu
+      duyulan: o konkuoyu
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 81 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: edebiyat-2026-09-18.duyulan.txt
