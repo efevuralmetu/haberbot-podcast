@@ -1,0 +1,525 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.210
+Sektör ekipler, motorlar ve yüksek seviye dillerle büyürken bir adam, işletim sistemiyle konuşmak dışında neredeyse her satırı işlemcinin kendi diliyle yazdı.
+
+2
+00:00:10.210 --> 00:00:21.220
+Ortaya çıkan lunaparkta her ziyaretçinin adı, parası ve midesi ayrı ayrı hesaplanıyordu — hem de 1999'un sıradan bir ev bilgisayarında.
+
+3
+00:00:21.220 --> 00:00:26.950
+Peki bu kadar kazandıran oyunun yaratıcısı neden sonunda kendi yayıncısını mahkemeye verdi?
+
+4
+00:00:35.150 --> 00:00:43.280
+1990'ların ortasında İskoçya'nın orta kesiminde, Dunblane yakınlarındaki küçük bir köyde yaşayan bir adam vardı.
+
+5
+00:00:43.280 --> 00:00:48.850
+Kapısında stüdyo tabelası yoktu, arkasında yatırımcı yoktu, ekibi yoktu.
+
+6
+00:00:48.850 --> 00:00:59.540
+Odasında birkaç bilgisayar, kulağında kendi seçtiği müzik ve ekranında, çoğu meslektaşının artık okumakta bile zorlandığı bir metin akıyordu: işlemcinin kendi dili.
+
+7
+00:00:59.540 --> 00:01:07.670
+Chris Sawyer, Glasgow'daki Strathclyde Üniversitesi'nden bilgisayar bilimi ve mikroişlemci sistemleri diplomasıyla mezun olmuştu.
+
+8
+00:01:07.670 --> 00:01:11.640
+Kariyerinin ilk yılları parlak değil, sabırlıydı.
+
+9
+00:01:11.640 --> 00:01:18.970
+1988 ile 1993 arasında dokuz oyunu başka makinelerden alıp DOS'a taşıdı.
+
+10
+00:01:18.970 --> 00:01:31.580
+Bu iş, dışarıdan bakıldığında yaratıcılıkla ilgisi olmayan, sıkıcı bir tamircilik gibi görünür: başkasının tasarladığı bir oyunu söküp, bambaşka bir donanımın mantığına göre yeniden kurarsınız.
+
+11
+00:01:31.580 --> 00:01:33.950
+Ama bu iş ona bir şey öğretti.
+
+12
+00:01:33.950 --> 00:01:43.360
+Bir uzay ticareti oyununun dönüşümünü yaparken, özgün sürümde bulunmayan kaplamalı yüzeyleri kendi eliyle ekleyecek kadar derine indi.
+
+13
+00:01:43.360 --> 00:01:52.450
+Yıllar içinde x86 işlemci ailesinin komut setini öyle içselleştirdi ki, çalışırken kılavuza bakma ihtiyacı neredeyse kalmamıştı.
+
+14
+00:01:52.450 --> 00:01:58.980
+Parmakları, çoğu programcının yalnızca ders kitaplarında gördüğü bir dili ezbere biliyordu.
+
+15
+00:01:58.980 --> 00:02:02.470
+1994'te kendi oyununu yaptı.
+
+16
+00:02:02.470 --> 00:02:13.960
+Transport Tycoon, yani Türkçesiyle Taşımacılık Patronu, tren yolları, otobüs hatları, limanlar ve uçak seferleriyle bir nakliye imparatorluğu kurduğunuz bir yönetim oyunuydu.
+
+17
+00:02:13.960 --> 00:02:19.210
+Beklenmedik biçimde tuttu; bir yıl sonra çıkan geliştirilmiş sürümü de iyi sattı.
+
+18
+00:02:19.210 --> 00:02:24.140
+Sawyer artık bir sonraki projesini istediği gibi seçebilecek durumdaydı.
+
+19
+00:02:24.140 --> 00:02:26.670
+Herkes devam oyununu bekliyordu.
+
+20
+00:02:26.670 --> 00:02:29.680
+O da başlangıçta aynı şeyi düşünüyordu.
+
+21
+00:02:29.680 --> 00:02:32.850
+Bunun yerine parayı alıp yola çıktı.
+
+22
+00:02:32.850 --> 00:02:36.980
+Avrupa'yı ve Amerika'yı dolaştı, tema parklarını gezdi.
+
+23
+00:02:36.980 --> 00:02:41.430
+İşin tuhaf yanı şu: hız trenlerini başta sevmiyordu bile.
+
+24
+00:02:41.430 --> 00:02:48.120
+Yüksekten düşen, ters dönen, insanı koltuğa yapıştıran o makineler ona cazip gelmiyordu.
+
+25
+00:02:48.120 --> 00:02:50.490
+Sonra bir yerde bir şey değişti.
+
+26
+00:02:50.490 --> 00:03:01.340
+Tutkular çoğu zaman böyle başlar; önce direnirsiniz, sonra fark edersiniz ki haftalarınızı bir vagonun kaç saniyede kaç g kuvvet ürettiğini düşünerek geçiriyorsunuz.
+
+27
+00:03:01.340 --> 00:03:04.990
+Sawyer bu eşiği geçti ve bir daha geri dönmedi.
+
+28
+00:03:04.990 --> 00:03:08.960
+Ömrü boyunca 700'den fazla farklı hız trenine bindi.
+
+29
+00:03:08.960 --> 00:03:13.410
+Bu takıntı, planlanan devam oyununu içeriden bükmeye başladı.
+
+30
+00:03:13.410 --> 00:03:25.220
+Nakliye oyununda yaptığı şeyi düşünün: arazi üzerine ray döşemek, eğim hesaplamak, viraj yarıçapı seçmek, bir aracın o güzergâhta düzgün gidip gitmeyeceğini kontrol etmek.
+
+31
+00:03:25.220 --> 00:03:28.070
+Lunapark treni de tam olarak budur.
+
+32
+00:03:28.070 --> 00:03:32.200
+Aynı geometri, aynı fizik, aynı döşeme mantığı.
+
+33
+00:03:32.200 --> 00:03:34.890
+Değişen tek şey rayın amacıdır.
+
+34
+00:03:34.890 --> 00:03:39.980
+Nakliyede ray bir araçtır; yolcuyu bir yerden bir yere taşır.
+
+35
+00:03:39.980 --> 00:03:43.310
+Lunaparkta ise ray, ürünün kendisidir.
+
+36
+00:03:43.310 --> 00:03:50.160
+Yolcu hiçbir yere gitmez, başladığı noktaya döner; satın aldığı şey kırk beş saniyelik bir duygudur.
+
+37
+00:03:50.160 --> 00:03:57.810
+Sawyer bir mühendislik problemini bir duygu problemine çevirdiğini fark ettiğinde, proje çoktan başka bir oyuna dönüşmüştü.
+
+38
+00:03:57.810 --> 00:04:05.940
+İlk adı White Knuckle'dı; korkudan parmakların beyazlaması anlamına gelen, doğrudan hız treni kültüründen gelen bir deyimdi.
+
+39
+00:04:05.940 --> 00:04:15.670
+Sonradan, önceki oyunun geleneğini sürdürmek için bugün bildiğimiz ada karar verildi: RollerCoaster Tycoon, yani Lunapark Patronu.
+
+40
+00:04:15.670 --> 00:04:17.560
+Yapımı iki yıl sürdü.
+
+41
+00:04:17.560 --> 00:04:25.690
+Bu iki yıl boyunca oyunun tasarımcısı, programcısı, seviye kurgucusu, denge ayarcısı ve test uzmanı aynı kişiydi.
+
+42
+00:04:25.690 --> 00:04:33.500
+Endüstri o yıllarda düzinelerce kişilik ekiplere, ayrı motor takımlarına, ayrı araç geliştiricilerine geçmişti.
+
+43
+00:04:33.500 --> 00:04:39.070
+Lunapark Patronu ise bir köy evinde, tek bir insanın kafasının içinde büyüdü.
+
+44
+00:04:39.070 --> 00:04:50.720
+Sawyer'ın kullandığı araçların listesi, bugün bakıldığında neredeyse bir meydan okuma gibi durur: Microsoft'un makine dili derleyicisinin 6.11c sürümü, Visual C'nin beşinci sürümü,
+
+45
+00:04:50.720 --> 00:04:56.450
+DirectX'in beşinci sürüm geliştirme kiti ve kendi yazdığı bir avuç yardımcı program.
+
+46
+00:04:56.450 --> 00:05:02.660
+Oranlar ise şöyleydi: oyunun yüzde 99'u doğrudan x86 makine diliyle yazıldı.
+
+47
+00:05:02.660 --> 00:05:08.390
+Geri kalan yüzde 1'lik C kodu yalnızca Windows'a ve DirectX'e bağlanmak için vardı.
+
+48
+00:05:08.390 --> 00:05:11.400
+Bunun ne demek olduğunu açmak gerekiyor.
+
+49
+00:05:11.400 --> 00:05:16.650
+Yüksek seviyeli bir dilde yazarken, makineyle aranızda bir tercüman vardır.
+
+50
+00:05:16.650 --> 00:05:22.860
+Siz niyetinizi söylersiniz, derleyici onu işlemcinin anlayacağı komutlara çevirir.
+
+51
+00:05:22.860 --> 00:05:30.510
+Bellek yönetimini, hangi değerin hangi yazmaçta duracağını, hangi işlemin kaç çevrim süreceğini büyük ölçüde o düşünür.
+
+52
+00:05:30.510 --> 00:05:33.200
+Makine dilinde ise tercüman yoktur.
+
+53
+00:05:33.200 --> 00:05:36.050
+Her komutu tek tek siz yazarsınız.
+
+54
+00:05:36.050 --> 00:05:40.500
+Bellekteki her baytın nerede durduğunu siz takip edersiniz.
+
+55
+00:05:40.500 --> 00:05:49.910
+Ve hata yaptığınızda size kibar bir uyarı gelmez; program çöker, siz de binlerce satırın içinde neyin yanlış gittiğini aramaya başlarsınız.
+
+56
+00:05:49.910 --> 00:05:55.160
+1997 yılında bu yöntem zaten eskimiş sayılıyordu.
+
+57
+00:05:55.160 --> 00:05:59.290
+Ciddi oyunlar C ve C++ ile yazılıyordu.
+
+58
+00:05:59.290 --> 00:06:07.260
+Sawyer bildiği yoldan gitti, çünkü hem parmakları o dili biliyordu hem de peşinde olduğu şey için başka çaresi yoktu.
+
+59
+00:06:07.260 --> 00:06:09.630
+Peşinde olduğu şey hızdı.
+
+60
+00:06:09.630 --> 00:06:16.640
+Oyunun asgari sistem gereksinimleri 90 megahertz'lik bir Pentium işlemci ve 16 megabayt bellekti.
+
+61
+00:06:16.640 --> 00:06:19.490
+Yani sıradan bir ofis bilgisayarı.
+
+62
+00:06:19.490 --> 00:06:24.580
+Ve bu mütevazı makinenin sırtına yüklenecek yük hiç de mütevazı değildi.
+
+63
+00:06:24.580 --> 00:06:28.710
+Çünkü Lunapark Patronu'nda ziyaretçi sayısı bir sayı değildi.
+
+64
+00:06:28.710 --> 00:06:33.000
+Ekrandaki o küçük renkli figürlerin her birinin adı vardı.
+
+65
+00:06:33.000 --> 00:06:36.490
+Her birinin cüzdanında belirli bir para vardı.
+
+66
+00:06:36.490 --> 00:06:47.340
+Her birinin mutluluk seviyesi, açlığı, susuzluğu, tuvalet ihtiyacı, enerjisi, bulantı derecesi ve bulantıya dayanma eşiği ayrı ayrı takip ediliyordu.
+
+67
+00:06:47.340 --> 00:06:57.070
+Dahası, her ziyaretçinin ne kadar sert bir yolculuk istediğine dair kendi tercihi vardı; birine heyecan veren tren, diğerine işkence gibi geliyordu.
+
+68
+00:06:57.070 --> 00:06:59.760
+Bu değişkenler birbirini besliyordu.
+
+69
+00:06:59.760 --> 00:07:06.130
+Ziyaretçi acıkıyor, yemek satan bir büfe arıyor, yiyor, sonra tuvalete gitmesi gerekiyordu.
+
+70
+00:07:06.130 --> 00:07:16.500
+Şiddetli bir trene bindiğinde bulantısı yükseliyordu; eşiğini aşarsa yolun ortasında duruyor, rengi yeşile dönüyor, elini ağzına götürüyor ve kusuyordu.
+
+71
+00:07:16.500 --> 00:07:23.030
+Ve işin en zalim kısmı şuydu: o kusmuğu gören diğer ziyaretçilerin mutluluğu düşüyordu.
+
+72
+00:07:23.030 --> 00:07:33.880
+Yani tek bir kötü tasarlanmış hız treni, yolun ortasında bir leke bırakıyor, o leke onlarca insanın ruh halini bozuyor, bozulan ruh hali park puanına yansıyor,
+
+73
+00:07:33.880 --> 00:07:38.490
+düşen park puanı kapıdan giren ziyaretçi sayısını azaltıyordu.
+
+74
+00:07:38.490 --> 00:07:43.100
+Bir tasarım hatası, parkın içinden dalga dalga yayılıyordu.
+
+75
+00:07:43.100 --> 00:07:49.470
+Üstelik bu figürlerin her biri, oyunun her anında yol ağının içinde kendi rotasını arıyordu.
+
+76
+00:07:49.470 --> 00:07:55.200
+Yüzlerce, kimi parklarda binlerce ajan, aynı anda, aynı işlemcinin üzerinde.
+
+77
+00:07:55.200 --> 00:08:09.570
+Sawyer'ın kendi ifadesiyle mesele şuydu: kusursuz çalışan bir rota arama algoritması yazmak zor değildir; ama o algoritma oyunu saniyelerce, hatta dakikalarca dondurup bırakıyorsa hiçbir işe yaramaz.
+
+78
+00:08:09.570 --> 00:08:12.580
+İşte makine dilinin sebebi buydu.
+
+79
+00:08:12.580 --> 00:08:17.350
+Sawyer bu döngülerin içinden tek tek işlemci çevrimi söküyordu.
+
+80
+00:08:17.350 --> 00:08:26.280
+Masasında iki bilgisayar tutuyordu: biri hızlıydı, üzerinde kod yazıyordu; diğeri yavaştı ve ona dürüst cevabı veriyordu.
+
+81
+00:08:26.280 --> 00:08:30.890
+Görsel tarafta, serbest çalışan Simon Foster devreye girdi.
+
+82
+00:08:30.890 --> 00:08:43.020
+Foster çizimleri doğrudan elle yapmadı; nesneleri üç boyutlu modelleme yazılımlarında kurdu, ışıklandırdı, kaydetti ve ortaya çıkan görüntüleri sabit açılı küçük resimlere dönüştürdü.
+
+83
+00:08:43.020 --> 00:08:50.670
+Yani oyun çalışırken hiçbir üç boyutlu hesap yapmıyordu; hazırlanmış resimleri doğru sırayla ekrana yığıyordu.
+
+84
+00:08:50.670 --> 00:08:58.640
+Böylece 90 megahertz'lik bir makine, aslında karşılayamayacağı kadar zengin görünen bir parkı akıcı biçimde çevirebiliyordu.
+
+85
+00:08:58.640 --> 00:09:08.050
+Müziği Allister Brimble yazdı; lunapark orgunu andıran o neşeli, dönen, hafızaya kazınan ezgiler oyunun kimliğinin yarısı oldu.
+
+86
+00:09:08.050 --> 00:09:16.180
+Oyun 22 Mart 1999'da Kuzey Amerika'da, 12 Nisan 1999'da Avrupa'da çıktı.
+
+87
+00:09:16.180 --> 00:09:22.070
+Yayıncı, Hasbro'nun oyun bölümüydü; kutunun üzerinde MicroProse etiketi vardı.
+
+88
+00:09:22.070 --> 00:09:27.480
+Ve çıkışından haftalar sonra, tek kişilik geliştirmenin bedeli kendini gösterdi.
+
+89
+00:09:27.480 --> 00:09:34.490
+Nisan 1999'da yaz saati uygulamasına geçildiğinde, kayıt dosyaları bozulmaya başladı.
+
+90
+00:09:34.490 --> 00:09:46.940
+Sebep son derece incelikliydi: oyun kayıt verisinin zaman damgasını doğrularken kullandığı sistem çağrısı, beklendiği gibi evrensel saati değil, yerel olarak kaydırılmış saati döndürüyordu.
+
+91
+00:09:46.940 --> 00:09:50.910
+Damga tutmayınca kayıtlar geçersiz sayılıyordu.
+
+92
+00:09:50.910 --> 00:09:55.520
+Binlerce oyuncunun saatlerce emek verdiği parkları açılmıyordu.
+
+93
+00:09:55.520 --> 00:10:05.250
+Arayı bulacak bir hata ayıklama ekibi yoktu; sorunu bulacak, yamayı yazacak ve bozulmuş dosyaları onaracak aracı hazırlayacak olan da aynı adamdı.
+
+94
+00:10:05.250 --> 00:10:06.980
+Bulup çıkardı.
+
+95
+00:10:06.980 --> 00:10:47.440
+Sonrası, sayılarla anlatıldığında kolay görünüyor. Oyun 1999 yılında yalnızca Amerika Birleşik Devletleri'nde 719.535 kopya sattı ve 19,6 milyon dolar hasılat yaptı; o yılın en çok kazandıran üçüncü bilgisayar oyunuydu ve yılın en çok satanı oldu. Satış listelerinden yıllarca inmedi; Temmuz 2002'ye gelindiğinde 4 milyonun üzerinde kopya satmıştı. Arkasından iki ek paket geldi, ardından 2002'de devam oyunu. Sawyer devam oyununu da aynı yöntemle, yine makine diliyle yazdı.
+
+96
+00:10:47.440 --> 00:10:52.850
+Para tarafında ise daha sonra mahkeme belgelerinden öğrenilecek bir tablo vardı.
+
+97
+00:10:52.850 --> 00:11:00.500
+Sawyer'ın oyunlarının yayıncıya getirdiği toplam gelir, o dönem için yaklaşık 180 milyon dolar olarak tahmin ediliyordu.
+
+98
+00:11:00.500 --> 00:11:05.910
+Sawyer'ın bu gelirden telif olarak aldığı tutar ise yaklaşık 30 milyon dolardı.
+
+99
+00:11:05.910 --> 00:11:16.440
+Bir köy evinde, tek başına, kimsenin artık kullanmadığı bir dille çalışan bir programcı, sektörün en çok kazanan bireysel geliştiricilerinden biri haline gelmişti.
+
+100
+00:11:16.440 --> 00:11:20.090
+Ama sözleşmeyi imzaladığı şirket yerinde durmuyordu.
+
+101
+00:11:20.090 --> 00:11:29.500
+Hasbro'nun oyun bölümü 2001'de Fransız şirketi Infogrames'e satıldı; o şirket de bir süre sonra Atari adını kullanmaya başladı.
+
+102
+00:11:29.500 --> 00:11:37.950
+Yani telif sözleşmesinin bir tarafında hâlâ aynı adam vardı, diğer tarafında ise artık bambaşka bir kurum duruyordu.
+
+103
+00:11:37.950 --> 00:11:41.280
+2004'e gelindiğinde işler değişmişti.
+
+104
+00:11:41.280 --> 00:11:48.290
+Serinin üçüncü oyunu İngiliz stüdyosu Frontier Developments'a verildi; Sawyer yalnızca danışman olarak yer aldı.
+
+105
+00:11:48.290 --> 00:11:57.860
+Aynı yıl kendi yeni oyunu çıktı ve soğuk karşılandı; eleştirmenler motorunun, yapay zekâsının ve arayüzünün çağın gerisinde kaldığını yazdı.
+
+106
+00:11:57.860 --> 00:12:06.150
+Tek başına makine diliyle rakiplerini geçen programcının çağı kapanmıştı ve bunu en net gören kişi muhtemelen kendisiydi.
+
+107
+00:12:06.150 --> 00:12:49.940
+Kasım 2005'te Sawyer, ödenmediğini düşündüğü telifler için yayıncıya dava açtı. İddiası, 4,8 milyon dolarlık bir eksiklik olduğuydu. Davanın merkezinde kurnaz bir hukuki ayrıntı vardı: Sawyer, lisans anlaşmasının kendisine tanıdığı denetim hakkının engellendiğini, denetçilerinin 1999 ile 2001 arasındaki hesaplara sokulmadığını öne sürüyordu. Görevlendirdiği adli muhasebeciler, haksız yere alıkonulduğunu düşündükleri 13 ayrı ödeme kalemi tespit etmişlerdi. Karşı taraf 2007'de tazminat talebiyle karşı dava açtı. İki tarafın avukatları iki yıl boyunca birbirine belge yağdırdı.
+
+108
+00:12:49.940 --> 00:12:52.630
+Sonunda dava salonda bitmedi.
+
+109
+00:12:52.630 --> 00:12:58.840
+Şubat 2008'de taraflar mahkeme dışında anlaştı; Sawyer'a ödenen tutar açıklanmadı.
+
+110
+00:12:58.840 --> 00:13:02.810
+Ne bir zafer manşeti oldu ne de bir yenilgi.
+
+111
+00:13:02.810 --> 00:13:09.980
+Milyonlarca insanın çocukluğunu şekillendiren bir oyunun hikâyesi, sessizce kapanan bir dosyayla sona erdi.
+
+112
+00:13:09.980 --> 00:13:14.910
+Ama kodun kendisi, kendisiyle ilgili kâğıtlardan daha uzun yaşadı.
+
+113
+00:13:14.910 --> 00:13:26.720
+2 Nisan 2014'te Ted John adında bir programcı, tuhaf bir işe girişti: serinin ikinci oyununu makine dilinden geriye doğru çözüp C diline yeniden yazmaya başladı.
+
+114
+00:13:26.720 --> 00:13:28.770
+Yöntem sabır işiydi.
+
+115
+00:13:28.770 --> 00:13:38.180
+Henüz çevrilmemiş her işlev için program, hâlâ özgün oyunun kendi dosyasını çağırıyordu; çevrilen her parça, o çağrının yerini alıyordu.
+
+116
+00:13:38.180 --> 00:13:41.030
+Prosedür prosedür, ay ay.
+
+117
+00:13:41.030 --> 00:13:53.160
+15 Ekim 2015'te iş tamamlandı ve açık kaynak sürüm, grafik ve ses dosyaları dışında özgün oyuna ihtiyaç duymadan kendi ayakları üzerinde durmaya başladı.
+
+118
+00:13:53.160 --> 00:14:01.450
+Bugün o kod, Sawyer'ın 1997'de varlığını bile hayal edemeyeceği işletim sistemlerinde ve işlemcilerde çalışıyor.
+
+119
+00:14:01.450 --> 00:14:03.820
+Burada ince bir ironi var.
+
+120
+00:14:03.820 --> 00:14:13.390
+Makine dili, taşınamaz olmakla ünlüdür; belirli bir işlemciye çakılı, bakımı zor, bir kuşak sonra okunamaz hale gelen bir yazım biçimidir.
+
+121
+00:14:13.390 --> 00:14:17.520
+Sawyer'ın seçimi, o günün ölçütleriyle bile riskliydi.
+
+122
+00:14:17.520 --> 00:14:29.490
+Oysa sonuç tersine döndü: tam da o kod öylesine sıkı ve öylesine anlaşılır bir mantıkla yazılmıştı ki, on beş yıl sonra bir grup gönüllü onu arkeolojik bir metin gibi kazıp satır satır çevirebildi.
+
+123
+00:14:29.490 --> 00:14:44.020
+Sawyer'ın kendisi de 2016'da, Origin8 adlı bir stüdyoyla birlikte oyunu cep telefonlarına taşıdı; RollerCoaster Tycoon Classic, yani Klasik sürüm, eski senaryoları avuç içindeki ekranlara getirdi.
+
+124
+00:14:44.020 --> 00:14:47.510
+Geriye kalan asıl miras ise teknik değil.
+
+125
+00:14:47.510 --> 00:14:56.600
+Lunapark Patronu'ndan önce yönetim oyunlarında kalabalık bir sayıydı; müşteri memnuniyeti bir yüzdeydi, ziyaretçi akışı bir grafikti.
+
+126
+00:14:56.600 --> 00:15:00.570
+Sawyer bunu reddetti ve her ziyaretçiye ad verdi.
+
+127
+00:15:00.570 --> 00:15:10.300
+Parkınızda bir şey ters gittiğinde artık soyut bir puan düşmüyordu; ekranın köşesinde, adı olan biri "bu kadar paraya bu trene binmem" diye düşünüyordu.
+
+128
+00:15:10.300 --> 00:15:22.750
+Bugün şehir kurma ve yönetim oyunlarının neredeyse tamamında gördüğümüz o his, yani kalabalığın içindeki tek bir kişiye tıklayıp onun derdini okuyabilme fikri, büyük ölçüde İskoçya'daki o köy evinden çıktı.
+
+129
+00:15:22.750 --> 00:15:29.920
+Bir adamın yıllarca işlemciyle kendi dilinde konuşarak kurduğu lunapark, açıldığı günden bu yana hiç kapanmadı.
+
+130
+00:15:29.920 --> 00:15:33.250
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+131
+00:15:33.250 --> 00:15:36.420
+Yeni bir hikâyede yeniden buluşmak üzere.
