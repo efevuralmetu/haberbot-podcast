@@ -1,0 +1,158 @@
+sira	karakter	saniye	kar_sn	metin
+1	52	3.360	15.48	Beş kurallı, iki simgeli oyuncak bir makine düşünün.
+2	220	13.760	15.99	Bu makinelerden biri tam kırk yedi milyon yüz yetmiş altı bi
+3	86	5.280	16.29	Bir sonraki sayıyı ise artık kimse bilmiyor; çünkü orada mat
+4	141	8.640	16.32	bin dokuz yüz altmış iki yılında, Ohio Eyalet Üniversitesi'n
+5	111	7.040	15.77	Oyunun kuralları bir çocuk oyunu kadar basitti, sonuçları is
+6	42	3.200	13.12	Elinizde sonsuza uzanan boş bir şerit var.
+7	107	7.040	15.20	Şeridin üzerinde tek tek karelere ayrılmış hücreler ve bu hü
+8	125	8.480	14.74	Kafa altındaki hücreye bakıyor, orada sıfır mı bir mi var di
+9	148	9.280	15.95	Tablo ona üç şey söylüyor: o hücreye ne yazacağını, sağa mı 
+10	9	0.960	9.38	Hepsi bu.
+11	111	7.520	14.76	Bu makineye Turing makinesi diyoruz ve teorik olarak dünyada
+12	22	2.080	10.58	Rado'nun sorusu şuydu.
+13	105	6.560	16.01	Diyelim ki bu makinenin sadece beş farklı durumu var, yani k
+14	47	2.880	16.32	Bu tabloyu doldurmanın sınırlı sayıda yolu var.
+15	95	5.760	16.49	Bazı tablolar makineyi sonsuz bir döngüye sokar, makine sons
+16	43	2.720	15.81	Bazıları ise bir noktada makineyi durdurur.
+17	36	3.040	11.84	İşte Rado, duranlara odaklanın dedi.
+18	47	3.360	13.99	Duranlar arasında en uzun süre çalışan hangisi?
+19	14	1.280	10.94	Kaç adım atar?
+20	42	2.880	14.58	Kapanmadan önce kâğıda kaç tane bir yazar?
+21	43	2.560	16.80	Bu sayıya meşgul kunduz sayısı adını verdi.
+22	146	8.320	17.55	Çünkü makine, sonsuz boş şeridin üzerinde, tıpkı bir kunduzu
+23	178	10.880	16.36	Rado'nun bin dokuz yüz altmış ikide yayımladığı ve hesaplana
+24	12	0.960	12.50	Bomba şuydu.
+25	105	7.040	14.91	Eğer beş durumlu makinelerin en fazla kaç adım atabildiğini 
+26	100	6.560	15.24	Size beş durumlu, hiç görmediğiniz bir makine verilse, onu ç
+27	18	1.280	14.06	Durursa durmuştur.
+28	79	5.120	15.43	O sayıya kadar durmadıysa, bir daha asla durmayacağını kesin
+29	57	4.160	13.70	Çünkü tanım gereği o sayı, duran makinelerin en uzunuydu.
+30	132	8.480	15.57	Böylece hiç programı incelemeden, sadece saate bakarak, herh
+31	87	5.760	15.10	Oysa Alan Turing bin dokuz yüz otuz altıda tam da bunun imkâ
+32	87	5.280	16.48	Bir programın durup durmayacağını her durumda söyleyen genel
+33	107	6.560	16.31	Yani meşgul kunduz sayılarının tamamını veren bir formül, bi
+34	26	2.240	11.61	Bu fonksiyon hesaplanamaz.
+35	62	4.160	14.90	Üstelik sadece hesaplanamaz değil, akıl almaz bir hızla büyü
+36	96	5.920	16.22	Aklınıza gelebilecek her hesaplanabilir fonksiyonu, yeterinc
+37	102	6.240	16.35	Ama işin can alıcı noktası şu: hesaplanamaz olması, hiçbir d
+38	58	4.480	12.95	Tek tek, elle, alın teriyle bazı değerleri bulabilirsiniz.
+39	53	3.200	16.56	Ve matematikçiler tam olarak bunu yapmaya giriştiler.
+40	23	2.080	11.06	İlk basamaklar kolaydı.
+41	38	2.240	16.96	bir durumlu makinenin rekoru bir adım.
+42	39	3.360	11.61	iki durumlu makinenin rekoru altı adım.
+43	34	2.400	14.17	Üçüncü basamak zorlanmaya başladı.
+44	124	7.680	16.15	Rado'nun doktora öğrencisi Shen Lin, üç durumlu tüm makinele
+45	95	6.240	15.22	Sonucu bin dokuz yüz altmış beşte, Rado'nun ölümünden kısa b
+46	36	2.560	14.06	Dördüncü basamak on sekiz yıl sürdü.
+47	106	6.720	15.77	bin dokuz yüz seksen üçte Allen Brady, dört durumlu makinele
+48	31	3.360	9.23	bir, altı, yirmi bir, yüz yedi.
+49	60	4.160	14.42	İlk bakışta ürkütücü olmayan, insafsızca büyümeyen bir dizi.
+50	21	1.760	11.93	Ve sonra duvar geldi.
+51	135	8.960	15.07	bin dokuz yüz seksen dokuzda iki Alman araştırmacı, Hayner M
+52	195	12.640	15.43	Kurallar tablosu hâlâ beş satırdan ibaretti, hâlâ sadece sıf
+53	38	2.560	14.84	sonra hiçbir uyarı vermeden duruyordu.
+54	59	3.680	16.03	Durduğunda şeritte dört bin doksan sekiz tane bir kalmıştı.
+55	30	1.920	15.62	yüz yediden kırk yedi milyona.
+56	93	6.400	14.53	Tek bir satır eklemek, tek bir durum eklemek, oyunun ölçeğin
+57	35	2.400	14.58	Herkes bunun rekor olduğuna inandı.
+58	60	3.840	15.62	Yıllar boyunca yeni aramalar yapıldı, daha uzunu bulunamadı.
+59	37	2.880	12.85	Ama inanmak ayrı, kanıtlamak ayrıdır.
+60	150	8.800	17.05	Bu sayının gerçekten rekor olduğunu söylemek için, beş durum
+61	81	5.280	15.34	Yani her bir makine için ya durduğunu ya da sonsuza kadar ça
+62	21	1.600	13.12	İşte zorluk oradaydı.
+63	71	4.960	14.31	Bir makinenin durduğunu göstermek kolay: çalıştırırsınız, du
+64	97	6.240	15.54	Ama bir makinenin asla durmayacağını göstermek, sonsuz bir g
+65	61	4.160	14.66	Onu ne kadar çalıştırırsanız çalıştırın, cevabı bilemezsiniz
+66	89	5.440	16.36	Anlamanız, içindeki örüntüyü çözmeniz, döngüsünü matematikse
+67	50	3.200	15.62	Üstelik bunu milyonlarca kez yapmanız gerekiyordu.
+68	62	4.000	15.50	beş durumlu makinelerin toplam sayısı milyarlarla ölçülüyord
+69	115	7.520	15.29	Simetrileri, tekrarları, birbirinin aynısı olan tabloları el
+70	72	4.480	16.07	Bunların yaklaşık seksen sekiz milyonu için tek tek karar ve
+71	77	4.640	16.59	Allen Brady bir noktada bu sayının belki de hiç bilinemeyece
+72	147	8.800	16.70	Çünkü o milyonlarca makinenin arasında, davranışı Goldbah sa
+73	38	2.240	16.96	Kırk yıl boyunca kimse kapıyı açamadı.
+74	49	3.360	14.58	Sonra kapıyı akademi dışından bir kalabalık açtı.
+75	166	10.240	16.21	iki bin yirmi iki baharında, doktora çalışmasını yeni bitirm
+76	75	4.480	16.74	Girişimin adı Busy Beaver Challenge, yani Meşgul Kunduz Meyd
+77	83	4.800	17.29	Amaç açıktı: beş durumlu makineleri toplu halde, dağıtılmış 
+78	45	2.880	15.62	Gelenlerin çoğunun akademik bir unvanı yoktu.
+79	60	4.160	14.42	Yazılımcılar, eski matematik öğrencileri, meraklı amatörler.
+80	39	2.720	14.34	Shawn Ligocki bir yazılım mühendisiydi.
+81	77	4.800	16.04	Justin Blanchard yarım bırakılmış bir matematik lisansüstü g
+82	88	5.440	16.18	Maya Kondziyovka kendi kendini yetiştirmiş yirmi bir yaşında
+83	23	1.920	11.98	Sayıları yirmiyi geçti.
+84	13	1.120	11.61	Yöntem şuydu.
+85	77	4.480	17.19	Tek tek makineleri çözmek yerine, karar verici dedikleri pro
+86	55	3.360	16.37	Her karar verici belli bir davranış kalıbını tanıyordu.
+87	131	7.840	16.71	Şerit üzerinde belli bir desen sonsuza kadar tekrarlıyorsa b
+88	85	5.280	16.10	Her yeni karar verici, kalan makine yığınından milyonlarcası
+89	86	5.760	14.93	Yığın milyonlardan yüz binlere, yüz binlerden binlere, binle
+90	26	2.080	12.50	Sona kalanlar efsaneleşti.
+91	162	10.080	16.07	Bulgar bir araştırmacının Skelet takma adıyla yıllar önce de
+92	65	4.320	15.05	Skelet on yediyi bir yüksek lisans öğrencisi olan Chris Xu ç
+93	120	7.840	15.31	Ama asıl dönüm noktasını, kimsenin kim olduğunu bilmediği, s
+94	176	10.560	16.67	mxdys, topluluğun standardını yükseltti: her iddia, insanın 
+95	77	4.800	16.04	iki bin yirmi dört Mayıs'ında, kırk bin satırlık devasa bir 
+96	159	10.400	15.29	Kanıt, Kok adlı kanıt denetleyicisinde yazılmıştı; yani her 
+97	131	8.160	16.05	Bu denetleyici, sıradan bir dizüstü bilgisayarda on üç çekir
+98	50	3.840	13.02	iki Temmuz iki bin yirmi dörtte sonuç ilan edildi.
+99	86	5.920	14.53	Beşinci meşgul kunduz sayısı kırk yedi milyon yüz yetmiş alt
+100	76	4.960	15.32	Marksen ve Buntrok'un otuz beş yıl önce bulduğu makine gerçe
+101	61	3.840	15.89	Rado'nun soruyu sormasının üzerinden altmış iki yıl geçmişti
+102	136	8.800	15.45	Kazanan, tek bir dâhinin zarif buluşu değil, isimlerinin çoğ
+103	108	6.720	16.07	Zafer henüz duyurulmamıştı ki, avın bir sonraki basamağında 
+104	57	3.840	14.84	Altıncı basamağın ne kadar büyük olduğunu kimse bilmiyor.
+105	79	5.760	13.72	Bilinen tek şey, aşağıdan gelen tahminlerin insan sezgisini 
+106	198	12.000	16.50	iki bin yirmi ikide Pavel Kropits, altı durumlu bir makineni
+107	64	4.160	15.38	Bu sayının yanında evrendeki atom sayısı yuvarlama hatası ka
+108	160	10.400	15.38	iki bin yirmi beşte mxdys bu sınırı bir kez daha kırdı ve ar
+109	31	2.080	14.90	Ama asıl mesele büyüklük değil.
+110	135	9.920	13.61	Asıl mesele, yirmi sekiz Haziran iki bin yirmi dörtte, yani 
+111	79	4.960	15.93	mxdys, topluluğun sohbet sunucusunda altı durumlu tuhaf bir 
+112	87	5.280	16.48	Makine ne duruyor ne de tanınabilir bir döngüye giriyordu; a
+113	72	4.640	15.52	Racheline adlı bir katılımcı kısa sürede makinenin gizli kur
+114	94	6.400	14.69	Ona Antihidra adını verdiler, çünkü daha önce bulunmuş Hidra
+115	70	4.640	15.09	Antihidra'nın yaptığı iş, sade bir aritmetik oyununa indirge
+116	41	3.680	11.14	Elinizde bir sayı var, başlangıçta sekiz.
+117	110	7.040	15.62	Her turda bu sayıyı alıyor, yarısını hesaplayıp küsuratı atı
+118	59	4.000	14.75	Yani sayı her turda yaklaşık bir virgül beş katına çıkıyor.
+119	42	2.880	14.58	Bir de yan tarafta bir sayaç tutuyorsunuz.
+120	81	5.760	14.06	Turda elinizdeki sayı çiftse sayacı iki artırıyorsunuz, teks
+121	73	4.800	15.21	Makine yalnızca ve yalnızca bu sayaç sıfırın altına düştüğü 
+122	150	9.120	16.45	Yani Antihidra'nın durması için, bu bir virgül beş kat büyüy
+123	78	5.120	15.23	Sayacın her çift için iki kazandığı, her tek için bir kaybet
+124	102	6.080	16.78	Tekler ve çiftler kabaca eşit sıklıkta geliyorsa, sayaç orta
+125	73	4.800	15.21	Aşağı düşmesi, uzun bir tek sayı serisinin üst üste gelmesin
+126	52	3.520	14.77	Olasılık hesabı buradan gayet net bir cevap veriyor.
+127	177	10.720	16.51	Eğer tek ve çift gerçekten yazı tura gibi dağılıyorsa, sayac
+128	15	1.600	9.38	Pratikte sıfır.
+129	50	3.360	14.88	Makine neredeyse kesinlikle sonsuza kadar çalışır.
+130	67	4.800	13.96	Ne var ki neredeyse kesinlikle, matematikte hiçbir şey ifade
+131	40	2.880	13.89	Bu sayılar yazı tura atarak üretilmiyor.
+132	65	4.000	16.25	Tamamen belirlenmiş, tek bir başlangıç değerinden doğan bir 
+133	106	6.400	16.56	Tek ve çift dağılımının gerçekten rastgele gibi davrandığını
+134	201	12.160	16.53	Dahası bu soru, matematikte onlarca yıldır açık duran bir pr
+135	182	11.360	16.02	Shawn Ligocki bu tür makinelere kriptit adını taktı: ormanda
+136	30	2.400	12.50	Antihidra bunların en meşhuru.
+137	52	3.520	14.77	Ve tek başına altıncı basamağın kapısını kilitliyor.
+138	102	6.400	15.94	Altıncı meşgul kunduz sayısını bilmek istiyorsanız, önce bu 
+139	45	3.200	14.06	Kunduz avı, bir matematik problemine dönüştü.
+140	57	3.520	16.19	Ölçek yukarı doğru tırmandıkça tablo daha da ağırlaşıyor.
+141	162	10.720	15.11	Stefan O'Rear'ın çalışmasıyla, yirmi yedi durumlu bir Turing
+142	79	4.800	16.46	Yaklaşık yedi yüz kırk dört durumla aynı şey Riman hipotezi 
+143	192	12.320	15.58	Ve en çarpıcısı: yedi yüz kırk beş durumlu bir makine var ki
+144	111	7.360	15.08	Bu sonucu O'Rear kurmuş, Yohannes Ribel lisans tezinde ayrın
+145	16	1.280	12.50	Bunun anlamı şu.
+146	94	6.240	15.06	Yedi yüz kırk beşinci meşgul kunduz sayısı, tanımı gereği be
+147	35	2.240	15.62	Bir yerde durur, bir değeri vardır.
+148	91	5.440	16.73	Ama bugün kullandığımız matematiğin içinden o değerin ne old
+149	41	3.040	13.49	Kanıtlanamaz olduğu kanıtlanmış bir sayı.
+150	65	4.160	15.62	Meşgul kunduz fonksiyonunun asıl değeri de burada ortaya çık
+151	78	4.960	15.73	Bu, eğlenceli bir bilmece değil, matematiğin kendi zorluğunu
+152	65	4.640	14.01	Her açık sanı, bu cetvelin bir yerinde bir basamağa denk düş
+153	104	6.560	15.85	Goldbah yirmi yedide, Riman yedi yüz kırk dörtte, matematiği
+154	46	3.520	13.07	Altmış yıl süren av, beşinci basamağı kazandı.
+155	179	11.040	16.21	Altıncısında ise av bitmiş değil; avın hangi noktada avlanma
+156	45	2.880	15.62	Nöron Bilim'de bugünkü bölümün sonuna geldik.
+157	41	2.560	16.02	Yeni bir hikâyede yeniden buluşmak üzere.

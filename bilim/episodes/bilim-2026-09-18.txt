@@ -1,0 +1,71 @@
+Beş kurallı, iki simgeli oyuncak bir makine düşünün. Bu makinelerden biri tam 47 milyon 176 bin 870 adım çalışıp duruyor — ve hangisinin duracağını anlamak insanlığın altmış yılını, sonunda da bir bilgisayara doğrulattığımız bir kanıtı aldı. Bir sonraki sayıyı ise artık kimse bilmiyor; çünkü orada matematiğin kendi duvarı var.
+
+1962 yılında, Ohio Eyalet Üniversitesi'nde ders veren Macar asıllı matematikçi Tibor Radó, öğrencilerine bir oyun önerdi. Oyunun kuralları bir çocuk oyunu kadar basitti, sonuçları ise matematiğin sınırlarını zorlayacak kadar derindi.
+
+Elinizde sonsuza uzanan boş bir şerit var. Şeridin üzerinde tek tek karelere ayrılmış hücreler ve bu hücrelerin birine oturmuş bir okuma yazma kafası. Kafa altındaki hücreye bakıyor, orada 0 mı 1 mi var diye görüyor, sonra kendisine verilen kurallar tablosuna danışıyor. Tablo ona üç şey söylüyor: o hücreye ne yazacağını, sağa mı sola mı kayacağını ve bir sonraki adımda hangi ruh haline, yani hangi duruma geçeceğini. Hepsi bu. Bu makineye Turing makinesi diyoruz ve teorik olarak dünyadaki her bilgisayarın yapabildiği her şeyi yapabilir.
+
+Radó'nun sorusu şuydu. Diyelim ki bu makinenin sadece 5 farklı durumu var, yani kurallar tablosu sadece 5 satırdan oluşuyor. Bu tabloyu doldurmanın sınırlı sayıda yolu var. Bazı tablolar makineyi sonsuz bir döngüye sokar, makine sonsuza kadar oraya buraya gider durur. Bazıları ise bir noktada makineyi durdurur. İşte Radó, duranlara odaklanın dedi. Duranlar arasında en uzun süre çalışan hangisi? Kaç adım atar? Kapanmadan önce kâğıda kaç tane 1 yazar?
+
+Bu sayıya meşgul kunduz sayısı adını verdi. Çünkü makine, sonsuz boş şeridin üzerinde, tıpkı bir kunduzun dere yatağına dal taşıması gibi, durmadan bir şeyler yazıp siliyor, gidip geliyordu. Radó'nun 1962'de yayımladığı ve hesaplanamayan fonksiyonlar üzerine olan makalesi, görünüşte zararsız bu oyunun içine saklanmış bir bombayı ortaya çıkarıyordu.
+
+Bomba şuydu. Eğer 5 durumlu makinelerin en fazla kaç adım atabildiğini bilseydiniz, elinizde muazzam bir güç olurdu. Size 5 durumlu, hiç görmediğiniz bir makine verilse, onu çalıştırıp o sayı kadar adım beklerdiniz. Durursa durmuştur. O sayıya kadar durmadıysa, bir daha asla durmayacağını kesin olarak bilirdiniz. Çünkü tanım gereği o sayı, duran makinelerin en uzunuydu. Böylece hiç programı incelemeden, sadece saate bakarak, herhangi bir programın sonsuz döngüye girip girmeyeceğini söyleyebilirdiniz.
+
+Oysa Alan Turing 1936'da tam da bunun imkânsız olduğunu kanıtlamıştı. Bir programın durup durmayacağını her durumda söyleyen genel bir yöntem yoktur, olamaz. Yani meşgul kunduz sayılarının tamamını veren bir formül, bir algoritma, bir bilgisayar programı da olamaz. Bu fonksiyon hesaplanamaz. Üstelik sadece hesaplanamaz değil, akıl almaz bir hızla büyür. Aklınıza gelebilecek her hesaplanabilir fonksiyonu, yeterince ileri gidildiğinde geride bırakır.
+
+Ama işin can alıcı noktası şu: hesaplanamaz olması, hiçbir değerinin bilinemeyeceği anlamına gelmiyor. Tek tek, elle, alın teriyle bazı değerleri bulabilirsiniz. Ve matematikçiler tam olarak bunu yapmaya giriştiler.
+
+İlk basamaklar kolaydı. 1 durumlu makinenin rekoru 1 adım. 2 durumlu makinenin rekoru 6 adım. Üçüncü basamak zorlanmaya başladı. Radó'nun doktora öğrencisi Shen Lin, 3 durumlu tüm makineleri didik didik ederek rekorun 21 adım olduğunu kanıtladı. Sonucu 1965'te, Radó'nun ölümünden kısa bir süre önce birlikte yayımladılar.
+
+Dördüncü basamak 18 yıl sürdü. 1983'te Allen Brady, 4 durumlu makinelerin rekorunun 107 adım olduğunu gösterdi. 1, 6, 21, 107. İlk bakışta ürkütücü olmayan, insafsızca büyümeyen bir dizi.
+
+Ve sonra duvar geldi.
+
+1989'da iki Alman araştırmacı, Heiner Marxen ve Jürgen Buntrock, 5 durumlu makineler arasında canavarı buldular. Kurallar tablosu hâlâ 5 satırdan ibaretti, hâlâ sadece 0 ve 1 yazıyordu, ama bu makine boş şerit üzerinde tam 47 milyon 176 bin 870 adım boyunca çalışıyor, sonra hiçbir uyarı vermeden duruyordu. Durduğunda şeritte 4098 tane 1 kalmıştı.
+
+107'den 47 milyona. Tek bir satır eklemek, tek bir durum eklemek, oyunun ölçeğini yarım milyon katına çıkarmıştı.
+
+Herkes bunun rekor olduğuna inandı. Yıllar boyunca yeni aramalar yapıldı, daha uzunu bulunamadı. Ama inanmak ayrı, kanıtlamak ayrıdır. Bu sayının gerçekten rekor olduğunu söylemek için, 5 durumlu makinelerin hiçbirinin bundan daha uzun süre çalışıp durmadığını göstermek gerekiyordu. Yani her bir makine için ya durduğunu ya da sonsuza kadar çalıştığını kanıtlamak.
+
+İşte zorluk oradaydı. Bir makinenin durduğunu göstermek kolay: çalıştırırsınız, durur, bitti. Ama bir makinenin asla durmayacağını göstermek, sonsuz bir geleceğe dair bir iddiada bulunmaktır. Onu ne kadar çalıştırırsanız çalıştırın, cevabı bilemezsiniz. Anlamanız, içindeki örüntüyü çözmeniz, döngüsünü matematiksel olarak yakalamanız gerekir.
+
+Üstelik bunu milyonlarca kez yapmanız gerekiyordu. 5 durumlu makinelerin toplam sayısı milyarlarla ölçülüyordu. Simetrileri, tekrarları, birbirinin aynısı olan tabloları eleyince geriye yaklaşık 120 milyon aday kalıyordu. Bunların yaklaşık 88 milyonu için tek tek karar vermek şarttı. Allen Brady bir noktada bu sayının belki de hiç bilinemeyeceğinden korkmuştu. Çünkü o milyonlarca makinenin arasında, davranışı Goldbach sanısı gibi çözülmemiş bir matematik problemine bağlı bir tane bile olsa, kapı kapanırdı.
+
+Kırk yıl boyunca kimse kapıyı açamadı. Sonra kapıyı akademi dışından bir kalabalık açtı.
+
+2022 baharında, doktora çalışmasını yeni bitirmiş olan Tristan Stérin, meşgul kunduz problemine adanmış bir internet forumu ve bir sohbet sunucusu kurdu. Girişimin adı Busy Beaver Challenge, yani Meşgul Kunduz Meydan Okuması'ydı. Amaç açıktı: 5 durumlu makineleri toplu halde, dağıtılmış bir çabayla temizlemek.
+
+Gelenlerin çoğunun akademik bir unvanı yoktu. Yazılımcılar, eski matematik öğrencileri, meraklı amatörler. Shawn Ligocki bir yazılım mühendisiydi. Justin Blanchard yarım bırakılmış bir matematik lisansüstü geçmişine sahipti. Maja Kądziołka kendi kendini yetiştirmiş 21 yaşında bir Polonyalı programcıydı. Sayıları 20'yi geçti.
+
+Yöntem şuydu. Tek tek makineleri çözmek yerine, karar verici dedikleri programlar yazdılar. Her karar verici belli bir davranış kalıbını tanıyordu. Şerit üzerinde belli bir desen sonsuza kadar tekrarlıyorsa bunu yakalayan bir program, başka bir tür döngüyü yakalayan bir başkası. Her yeni karar verici, kalan makine yığınından milyonlarcasını bir çırpıda siliyordu. Yığın milyonlardan yüz binlere, yüz binlerden binlere, binlerden birkaç düzineye indi.
+
+Sona kalanlar efsaneleşti. Bulgar bir araştırmacının Skelet takma adıyla yıllar önce derlediği zor makineler listesinden iki tanesi, Skelet 1 ve Skelet 17, bütün saldırılara direndi. Skelet 17'yi bir yüksek lisans öğrencisi olan Chris Xu çözdü.
+
+Ama asıl dönüm noktasını, kimsenin kim olduğunu bilmediği, sadece mxdys takma adıyla ortaya çıkan bir katılımcı getirdi. mxdys, topluluğun standardını yükseltti: her iddia, insanın gözüyle okuyup ikna olacağı bir argüman değil, makinenin satır satır denetleyebileceği biçimsel bir kanıt olmalıydı. 2024 Mayıs'ında, 40 bin satırlık devasa bir kanıtı tamamladı. Kanıt, Coq adlı kanıt denetleyicisinde yazılmıştı; yani her mantıksal adımı bilgisayarın bağımsız olarak sınadığı, insan sezgisine yer bırakmayan bir sistemde. Bu denetleyici, sıradan bir dizüstü bilgisayarda 13 çekirdek kullanarak kanıtın tamamını yaklaşık 45 dakikada onaylıyordu.
+
+2 Temmuz 2024'te sonuç ilan edildi. Beşinci meşgul kunduz sayısı 47 milyon 176 bin 870'tir. Marxen ve Buntrock'un 35 yıl önce bulduğu makine gerçekten şampiyondu.
+
+Radó'nun soruyu sormasının üzerinden 62 yıl geçmişti. Kazanan, tek bir dâhinin zarif buluşu değil, isimlerinin çoğu takma addan ibaret bir topluluğun yıllara yayılmış kolektif muhasebesiydi.
+
+Zafer henüz duyurulmamıştı ki, avın bir sonraki basamağında çok daha karanlık bir şeyin beklediği anlaşıldı.
+
+Altıncı basamağın ne kadar büyük olduğunu kimse bilmiyor. Bilinen tek şey, aşağıdan gelen tahminlerin insan sezgisini çoktan terk ettiği. 2022'de Pavel Kropitz, 6 durumlu bir makinenin şeride yazdığı 1'lerin sayısının, 10'un üzerine 10, onun üzerine 10 diye 15 kat üst üste binmiş bir kuleden büyük olduğunu gösterdi. Bu sayının yanında evrendeki atom sayısı yuvarlama hatası kalır. 2025'te mxdys bu sınırı bir kez daha kırdı ve artık üslü kulelerle bile ifade edilemeyen, kulelerin kulelerini saymayı gerektiren bir düzeye taşıdı.
+
+Ama asıl mesele büyüklük değil. Asıl mesele, 28 Haziran 2024'te, yani beşinci sayının resmen ilan edilmesinden sadece dört gün önce ortaya çıktı. mxdys, topluluğun sohbet sunucusunda 6 durumlu tuhaf bir makineden söz etti. Makine ne duruyor ne de tanınabilir bir döngüye giriyordu; adeta rastgele davranıyordu. Racheline adlı bir katılımcı kısa sürede makinenin gizli kuralını çözdü. Ona Antihidra adını verdiler, çünkü daha önce bulunmuş Hidra adlı bir makineye çok benziyordu.
+
+Antihidra'nın yaptığı iş, sade bir aritmetik oyununa indirgenebiliyor. Elinizde bir sayı var, başlangıçta 8. Her turda bu sayıyı alıyor, yarısını hesaplayıp küsuratı atıyor ve bulduğunuzu sayının kendisine ekliyorsunuz. Yani sayı her turda yaklaşık 1,5 katına çıkıyor. Bir de yan tarafta bir sayaç tutuyorsunuz. Turda elinizdeki sayı çiftse sayacı 2 artırıyorsunuz, tekse 1 azaltıyorsunuz. Makine yalnızca ve yalnızca bu sayaç sıfırın altına düştüğü anda duruyor.
+
+Yani Antihidra'nın durması için, bu 1,5 kat büyüyen sayı dizisinde tek sayıların çift sayıları ezici bir farkla geride bırakması gerekiyor. Sayacın her çift için 2 kazandığı, her tek için 1 kaybettiği bir yarış bu. Tekler ve çiftler kabaca eşit sıklıkta geliyorsa, sayaç ortalamada sürekli yukarı tırmanıyor demektir. Aşağı düşmesi, uzun bir tek sayı serisinin üst üste gelmesini gerektirir.
+
+Olasılık hesabı buradan gayet net bir cevap veriyor. Eğer tek ve çift gerçekten yazı tura gibi dağılıyorsa, sayacın bir gün sıfırın altına inme ihtimali, 10'un yanına 200 milyon sıfır koyduğunuzda elde edeceğiniz sayıda birdir. Pratikte sıfır. Makine neredeyse kesinlikle sonsuza kadar çalışır.
+
+Ne var ki neredeyse kesinlikle, matematikte hiçbir şey ifade etmez. Bu sayılar yazı tura atarak üretilmiyor. Tamamen belirlenmiş, tek bir başlangıç değerinden doğan bir dizi. Tek ve çift dağılımının gerçekten rastgele gibi davrandığını kanıtlamak gerekiyor ve kimse bunu yapamıyor. Dahası bu soru, matematikte onlarca yıldır açık duran bir probleme, 1,5 sayısının kuvvetlerinin ondalık kısımlarının nasıl dağıldığına dair Mahler'in Z sayıları sorusuna doğrudan bağlanıyor.
+
+Shawn Ligocki bu tür makinelere kriptit adını taktı: ormanda var olduğu söylenen ama yakalanamayan yaratıklar gibi, davranışlarını gözleyebildiğiniz ama kanıtlayamadığınız makineler. Antihidra bunların en meşhuru. Ve tek başına altıncı basamağın kapısını kilitliyor. Altıncı meşgul kunduz sayısını bilmek istiyorsanız, önce bu aritmetik bilmecesini çözmek zorundasınız. Kunduz avı, bir matematik problemine dönüştü.
+
+Ölçek yukarı doğru tırmandıkça tablo daha da ağırlaşıyor. Stefan O'Rear'ın çalışmasıyla, 27 durumlu bir Turing makinesinin Goldbach sanısına aykırı bir örnek aradığı, yani ancak o sanı yanlışsa durduğu gösterildi. Yaklaşık 744 durumla aynı şey Riemann hipotezi için yapılabiliyor. Ve en çarpıcısı: 745 durumlu bir makine var ki, durup durmadığı sorusu, modern matematiğin üzerine kurulduğu küme kuramı aksiyomlarıyla ne kanıtlanabiliyor ne de çürütülebiliyor. Bu sonucu O'Rear kurmuş, Johannes Riebel lisans tezinde ayrıntılı biçimde yazıp bir basamak daha aşağı çekmişti.
+
+Bunun anlamı şu. 745. meşgul kunduz sayısı, tanımı gereği belirli, sonlu, tek bir tam sayıdır. Bir yerde durur, bir değeri vardır. Ama bugün kullandığımız matematiğin içinden o değerin ne olduğunu hiçbir zaman öğrenemeyiz. Kanıtlanamaz olduğu kanıtlanmış bir sayı.
+
+Meşgul kunduz fonksiyonunun asıl değeri de burada ortaya çıkıyor. Bu, eğlenceli bir bilmece değil, matematiğin kendi zorluğunu ölçen bir cetvel. Her açık sanı, bu cetvelin bir yerinde bir basamağa denk düşüyor. Goldbach 27'de, Riemann 744'te, matematiğin bilinebilirlik sınırı 745'te. Altmış yıl süren av, beşinci basamağı kazandı. Altıncısında ise av bitmiş değil; avın hangi noktada avlanmaktan çıkıp bir sınırın kendisine dönüştüğünü, dünyanın dört bir yanından bir avuç isimsiz insan hep birlikte öğreniyor.
+
+Nöron Bilim'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.

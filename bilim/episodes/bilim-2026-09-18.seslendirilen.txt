@@ -1,0 +1,83 @@
+[MOOD: kesif]
+Beş kurallı, iki simgeli oyuncak bir makine düşünün. Bu makinelerden biri tam kırk yedi milyon yüz yetmiş altı bin sekiz yüz yetmiş adım çalışıp duruyor — ve hangisinin duracağını anlamak insanlığın altmış yılını, sonunda da bir bilgisayara doğrulattığımız bir kanıtı aldı. Bir sonraki sayıyı ise artık kimse bilmiyor; çünkü orada matematiğin kendi duvarı var.
+
+[JINGLE] jingle/haberjingle.mp3
+
+[MOOD: kesif]
+
+bin dokuz yüz altmış iki yılında, Ohio Eyalet Üniversitesi'nde ders veren Macar asıllı matematikçi Tibor Rado, öğrencilerine bir oyun önerdi. Oyunun kuralları bir çocuk oyunu kadar basitti, sonuçları ise matematiğin sınırlarını zorlayacak kadar derindi.
+
+Elinizde sonsuza uzanan boş bir şerit var. Şeridin üzerinde tek tek karelere ayrılmış hücreler ve bu hücrelerin birine oturmuş bir okuma yazma kafası. Kafa altındaki hücreye bakıyor, orada sıfır mı bir mi var diye görüyor, sonra kendisine verilen kurallar tablosuna danışıyor. Tablo ona üç şey söylüyor: o hücreye ne yazacağını, sağa mı sola mı kayacağını ve bir sonraki adımda hangi ruh haline, yani hangi duruma geçeceğini. Hepsi bu. Bu makineye Turing makinesi diyoruz ve teorik olarak dünyadaki her bilgisayarın yapabildiği her şeyi yapabilir.
+
+Rado'nun sorusu şuydu. Diyelim ki bu makinenin sadece beş farklı durumu var, yani kurallar tablosu sadece beş satırdan oluşuyor. Bu tabloyu doldurmanın sınırlı sayıda yolu var. Bazı tablolar makineyi sonsuz bir döngüye sokar, makine sonsuza kadar oraya buraya gider durur. Bazıları ise bir noktada makineyi durdurur. İşte Rado, duranlara odaklanın dedi. Duranlar arasında en uzun süre çalışan hangisi? Kaç adım atar? Kapanmadan önce kâğıda kaç tane bir yazar?
+
+Bu sayıya meşgul kunduz sayısı adını verdi. Çünkü makine, sonsuz boş şeridin üzerinde, tıpkı bir kunduzun dere yatağına dal taşıması gibi, durmadan bir şeyler yazıp siliyor, gidip geliyordu. Rado'nun bin dokuz yüz altmış ikide yayımladığı ve hesaplanamayan fonksiyonlar üzerine olan makalesi, görünüşte zararsız bu oyunun içine saklanmış bir bombayı ortaya çıkarıyordu.
+
+Bomba şuydu. Eğer beş durumlu makinelerin en fazla kaç adım atabildiğini bilseydiniz, elinizde muazzam bir güç olurdu. Size beş durumlu, hiç görmediğiniz bir makine verilse, onu çalıştırıp o sayı kadar adım beklerdiniz. Durursa durmuştur. O sayıya kadar durmadıysa, bir daha asla durmayacağını kesin olarak bilirdiniz. Çünkü tanım gereği o sayı, duran makinelerin en uzunuydu. Böylece hiç programı incelemeden, sadece saate bakarak, herhangi bir programın sonsuz döngüye girip girmeyeceğini söyleyebilirdiniz.
+
+Oysa Alan Turing bin dokuz yüz otuz altıda tam da bunun imkânsız olduğunu kanıtlamıştı. Bir programın durup durmayacağını her durumda söyleyen genel bir yöntem yoktur, olamaz. Yani meşgul kunduz sayılarının tamamını veren bir formül, bir algoritma, bir bilgisayar programı da olamaz. Bu fonksiyon hesaplanamaz. Üstelik sadece hesaplanamaz değil, akıl almaz bir hızla büyür. Aklınıza gelebilecek her hesaplanabilir fonksiyonu, yeterince ileri gidildiğinde geride bırakır.
+
+Ama işin can alıcı noktası şu: hesaplanamaz olması, hiçbir değerinin bilinemeyeceği anlamına gelmiyor. Tek tek, elle, alın teriyle bazı değerleri bulabilirsiniz. Ve matematikçiler tam olarak bunu yapmaya giriştiler.
+
+İlk basamaklar kolaydı. bir durumlu makinenin rekoru bir adım. iki durumlu makinenin rekoru altı adım. Üçüncü basamak zorlanmaya başladı. Rado'nun doktora öğrencisi Shen Lin, üç durumlu tüm makineleri didik didik ederek rekorun yirmi bir adım olduğunu kanıtladı. Sonucu bin dokuz yüz altmış beşte, Rado'nun ölümünden kısa bir süre önce birlikte yayımladılar.
+
+Dördüncü basamak on sekiz yıl sürdü. bin dokuz yüz seksen üçte Allen Brady, dört durumlu makinelerin rekorunun yüz yedi adım olduğunu gösterdi. bir, altı, yirmi bir, yüz yedi. İlk bakışta ürkütücü olmayan, insafsızca büyümeyen bir dizi.
+
+Ve sonra duvar geldi.
+
+[MOOD: zafer]
+
+bin dokuz yüz seksen dokuzda iki Alman araştırmacı, Hayner Marksen ve Yürgen Buntrok, beş durumlu makineler arasında canavarı buldular. Kurallar tablosu hâlâ beş satırdan ibaretti, hâlâ sadece sıfır ve bir yazıyordu, ama bu makine boş şerit üzerinde tam kırk yedi milyon yüz yetmiş altı bin sekiz yüz yetmiş adım boyunca çalışıyor, sonra hiçbir uyarı vermeden duruyordu. Durduğunda şeritte dört bin doksan sekiz tane bir kalmıştı.
+
+yüz yediden kırk yedi milyona. Tek bir satır eklemek, tek bir durum eklemek, oyunun ölçeğini yarım milyon katına çıkarmıştı.
+
+Herkes bunun rekor olduğuna inandı. Yıllar boyunca yeni aramalar yapıldı, daha uzunu bulunamadı. Ama inanmak ayrı, kanıtlamak ayrıdır. Bu sayının gerçekten rekor olduğunu söylemek için, beş durumlu makinelerin hiçbirinin bundan daha uzun süre çalışıp durmadığını göstermek gerekiyordu. Yani her bir makine için ya durduğunu ya da sonsuza kadar çalıştığını kanıtlamak.
+
+İşte zorluk oradaydı. Bir makinenin durduğunu göstermek kolay: çalıştırırsınız, durur, bitti. Ama bir makinenin asla durmayacağını göstermek, sonsuz bir geleceğe dair bir iddiada bulunmaktır. Onu ne kadar çalıştırırsanız çalıştırın, cevabı bilemezsiniz. Anlamanız, içindeki örüntüyü çözmeniz, döngüsünü matematiksel olarak yakalamanız gerekir.
+
+Üstelik bunu milyonlarca kez yapmanız gerekiyordu. beş durumlu makinelerin toplam sayısı milyarlarla ölçülüyordu. Simetrileri, tekrarları, birbirinin aynısı olan tabloları eleyince geriye yaklaşık yüz yirmi milyon aday kalıyordu. Bunların yaklaşık seksen sekiz milyonu için tek tek karar vermek şarttı. Allen Brady bir noktada bu sayının belki de hiç bilinemeyeceğinden korkmuştu. Çünkü o milyonlarca makinenin arasında, davranışı Goldbah sanısı gibi çözülmemiş bir matematik problemine bağlı bir tane bile olsa, kapı kapanırdı.
+
+Kırk yıl boyunca kimse kapıyı açamadı. Sonra kapıyı akademi dışından bir kalabalık açtı.
+
+iki bin yirmi iki baharında, doktora çalışmasını yeni bitirmiş olan Tristan Sterin, meşgul kunduz problemine adanmış bir internet forumu ve bir sohbet sunucusu kurdu. Girişimin adı Busy Beaver Challenge, yani Meşgul Kunduz Meydan Okuması'ydı. Amaç açıktı: beş durumlu makineleri toplu halde, dağıtılmış bir çabayla temizlemek.
+
+Gelenlerin çoğunun akademik bir unvanı yoktu. Yazılımcılar, eski matematik öğrencileri, meraklı amatörler. Shawn Ligocki bir yazılım mühendisiydi. Justin Blanchard yarım bırakılmış bir matematik lisansüstü geçmişine sahipti. Maya Kondziyovka kendi kendini yetiştirmiş yirmi bir yaşında bir Polonyalı programcıydı. Sayıları yirmiyi geçti.
+
+Yöntem şuydu. Tek tek makineleri çözmek yerine, karar verici dedikleri programlar yazdılar. Her karar verici belli bir davranış kalıbını tanıyordu. Şerit üzerinde belli bir desen sonsuza kadar tekrarlıyorsa bunu yakalayan bir program, başka bir tür döngüyü yakalayan bir başkası. Her yeni karar verici, kalan makine yığınından milyonlarcasını bir çırpıda siliyordu. Yığın milyonlardan yüz binlere, yüz binlerden binlere, binlerden birkaç düzineye indi.
+
+Sona kalanlar efsaneleşti. Bulgar bir araştırmacının Skelet takma adıyla yıllar önce derlediği zor makineler listesinden iki tanesi, Skelet bir ve Skelet on yedi, bütün saldırılara direndi. Skelet on yediyi bir yüksek lisans öğrencisi olan Chris Xu çözdü.
+
+Ama asıl dönüm noktasını, kimsenin kim olduğunu bilmediği, sadece mxdys takma adıyla ortaya çıkan bir katılımcı getirdi. mxdys, topluluğun standardını yükseltti: her iddia, insanın gözüyle okuyup ikna olacağı bir argüman değil, makinenin satır satır denetleyebileceği biçimsel bir kanıt olmalıydı. iki bin yirmi dört Mayıs'ında, kırk bin satırlık devasa bir kanıtı tamamladı. Kanıt, Kok adlı kanıt denetleyicisinde yazılmıştı; yani her mantıksal adımı bilgisayarın bağımsız olarak sınadığı, insan sezgisine yer bırakmayan bir sistemde. Bu denetleyici, sıradan bir dizüstü bilgisayarda on üç çekirdek kullanarak kanıtın tamamını yaklaşık kırk beş dakikada onaylıyordu.
+
+iki Temmuz iki bin yirmi dörtte sonuç ilan edildi. Beşinci meşgul kunduz sayısı kırk yedi milyon yüz yetmiş altı bin sekiz yüz yetmiştir. Marksen ve Buntrok'un otuz beş yıl önce bulduğu makine gerçekten şampiyondu.
+
+Rado'nun soruyu sormasının üzerinden altmış iki yıl geçmişti. Kazanan, tek bir dâhinin zarif buluşu değil, isimlerinin çoğu takma addan ibaret bir topluluğun yıllara yayılmış kolektif muhasebesiydi.
+
+[MOOD: gerilim]
+
+Zafer henüz duyurulmamıştı ki, avın bir sonraki basamağında çok daha karanlık bir şeyin beklediği anlaşıldı.
+
+Altıncı basamağın ne kadar büyük olduğunu kimse bilmiyor. Bilinen tek şey, aşağıdan gelen tahminlerin insan sezgisini çoktan terk ettiği. iki bin yirmi ikide Pavel Kropits, altı durumlu bir makinenin şeride yazdığı birlerin sayısının, onun üzerine on, onun üzerine on diye on beş kat üst üste binmiş bir kuleden büyük olduğunu gösterdi. Bu sayının yanında evrendeki atom sayısı yuvarlama hatası kalır. iki bin yirmi beşte mxdys bu sınırı bir kez daha kırdı ve artık üslü kulelerle bile ifade edilemeyen, kulelerin kulelerini saymayı gerektiren bir düzeye taşıdı.
+
+Ama asıl mesele büyüklük değil. Asıl mesele, yirmi sekiz Haziran iki bin yirmi dörtte, yani beşinci sayının resmen ilan edilmesinden sadece dört gün önce ortaya çıktı. mxdys, topluluğun sohbet sunucusunda altı durumlu tuhaf bir makineden söz etti. Makine ne duruyor ne de tanınabilir bir döngüye giriyordu; adeta rastgele davranıyordu. Racheline adlı bir katılımcı kısa sürede makinenin gizli kuralını çözdü. Ona Antihidra adını verdiler, çünkü daha önce bulunmuş Hidra adlı bir makineye çok benziyordu.
+
+Antihidra'nın yaptığı iş, sade bir aritmetik oyununa indirgenebiliyor. Elinizde bir sayı var, başlangıçta sekiz. Her turda bu sayıyı alıyor, yarısını hesaplayıp küsuratı atıyor ve bulduğunuzu sayının kendisine ekliyorsunuz. Yani sayı her turda yaklaşık bir virgül beş katına çıkıyor. Bir de yan tarafta bir sayaç tutuyorsunuz. Turda elinizdeki sayı çiftse sayacı iki artırıyorsunuz, tekse bir azaltıyorsunuz. Makine yalnızca ve yalnızca bu sayaç sıfırın altına düştüğü anda duruyor.
+
+Yani Antihidra'nın durması için, bu bir virgül beş kat büyüyen sayı dizisinde tek sayıların çift sayıları ezici bir farkla geride bırakması gerekiyor. Sayacın her çift için iki kazandığı, her tek için bir kaybettiği bir yarış bu. Tekler ve çiftler kabaca eşit sıklıkta geliyorsa, sayaç ortalamada sürekli yukarı tırmanıyor demektir. Aşağı düşmesi, uzun bir tek sayı serisinin üst üste gelmesini gerektirir.
+
+Olasılık hesabı buradan gayet net bir cevap veriyor. Eğer tek ve çift gerçekten yazı tura gibi dağılıyorsa, sayacın bir gün sıfırın altına inme ihtimali, onun yanına iki yüz milyon sıfır koyduğunuzda elde edeceğiniz sayıda birdir. Pratikte sıfır. Makine neredeyse kesinlikle sonsuza kadar çalışır.
+
+Ne var ki neredeyse kesinlikle, matematikte hiçbir şey ifade etmez. Bu sayılar yazı tura atarak üretilmiyor. Tamamen belirlenmiş, tek bir başlangıç değerinden doğan bir dizi. Tek ve çift dağılımının gerçekten rastgele gibi davrandığını kanıtlamak gerekiyor ve kimse bunu yapamıyor. Dahası bu soru, matematikte onlarca yıldır açık duran bir probleme, bir virgül beş sayısının kuvvetlerinin ondalık kısımlarının nasıl dağıldığına dair Mahler'in Z sayıları sorusuna doğrudan bağlanıyor.
+
+Shawn Ligocki bu tür makinelere kriptit adını taktı: ormanda var olduğu söylenen ama yakalanamayan yaratıklar gibi, davranışlarını gözleyebildiğiniz ama kanıtlayamadığınız makineler. Antihidra bunların en meşhuru. Ve tek başına altıncı basamağın kapısını kilitliyor. Altıncı meşgul kunduz sayısını bilmek istiyorsanız, önce bu aritmetik bilmecesini çözmek zorundasınız. Kunduz avı, bir matematik problemine dönüştü.
+
+Ölçek yukarı doğru tırmandıkça tablo daha da ağırlaşıyor. Stefan O'Rear'ın çalışmasıyla, yirmi yedi durumlu bir Turing makinesinin Goldbah sanısına aykırı bir örnek aradığı, yani ancak o sanı yanlışsa durduğu gösterildi. Yaklaşık yedi yüz kırk dört durumla aynı şey Riman hipotezi için yapılabiliyor. Ve en çarpıcısı: yedi yüz kırk beş durumlu bir makine var ki, durup durmadığı sorusu, modern matematiğin üzerine kurulduğu küme kuramı aksiyomlarıyla ne kanıtlanabiliyor ne de çürütülebiliyor. Bu sonucu O'Rear kurmuş, Yohannes Ribel lisans tezinde ayrıntılı biçimde yazıp bir basamak daha aşağı çekmişti.
+
+Bunun anlamı şu. Yedi yüz kırk beşinci meşgul kunduz sayısı, tanımı gereği belirli, sonlu, tek bir tam sayıdır. Bir yerde durur, bir değeri vardır. Ama bugün kullandığımız matematiğin içinden o değerin ne olduğunu hiçbir zaman öğrenemeyiz. Kanıtlanamaz olduğu kanıtlanmış bir sayı.
+
+Meşgul kunduz fonksiyonunun asıl değeri de burada ortaya çıkıyor. Bu, eğlenceli bir bilmece değil, matematiğin kendi zorluğunu ölçen bir cetvel. Her açık sanı, bu cetvelin bir yerinde bir basamağa denk düşüyor. Goldbah yirmi yedide, Riman yedi yüz kırk dörtte, matematiğin bilinebilirlik sınırı yedi yüz kırk beşte. Altmış yıl süren av, beşinci basamağı kazandı. Altıncısında ise av bitmiş değil; avın hangi noktada avlanmaktan çıkıp bir sınırın kendisine dönüştüğünü, dünyanın dört bir yanından bir avuç isimsiz insan hep birlikte öğreniyor.
+
+[MOOD: sakin]
+Nöron Bilim'de bugünkü bölümün sonuna geldik. Yeni bir hikâyede yeniden buluşmak üzere.
+
+[JINGLE] jingle/haberjingle.mp3

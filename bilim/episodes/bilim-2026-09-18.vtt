@@ -1,0 +1,617 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.810
+Beş kurallı, iki simgeli oyuncak bir makine düşünün.
+
+2
+00:00:03.810 --> 00:00:18.020
+Bu makinelerden biri tam 47 milyon 176 bin 870 adım çalışıp duruyor — ve hangisinin duracağını anlamak insanlığın altmış yılını, sonunda da bir bilgisayara doğrulattığımız bir kanıtı aldı.
+
+3
+00:00:18.020 --> 00:00:23.750
+Bir sonraki sayıyı ise artık kimse bilmiyor; çünkü orada matematiğin kendi duvarı var.
+
+4
+00:00:31.950 --> 00:00:41.040
+1962 yılında, Ohio Eyalet Üniversitesi'nde ders veren Macar asıllı matematikçi Tibor Radó, öğrencilerine bir oyun önerdi.
+
+5
+00:00:41.040 --> 00:00:48.530
+Oyunun kuralları bir çocuk oyunu kadar basitti, sonuçları ise matematiğin sınırlarını zorlayacak kadar derindi.
+
+6
+00:00:48.530 --> 00:00:52.180
+Elinizde sonsuza uzanan boş bir şerit var.
+
+7
+00:00:52.180 --> 00:00:59.670
+Şeridin üzerinde tek tek karelere ayrılmış hücreler ve bu hücrelerin birine oturmuş bir okuma yazma kafası.
+
+8
+00:00:59.670 --> 00:01:08.600
+Kafa altındaki hücreye bakıyor, orada 0 mı 1 mi var diye görüyor, sonra kendisine verilen kurallar tablosuna danışıyor.
+
+9
+00:01:08.600 --> 00:01:18.330
+Tablo ona üç şey söylüyor: o hücreye ne yazacağını, sağa mı sola mı kayacağını ve bir sonraki adımda hangi ruh haline, yani hangi duruma geçeceğini.
+
+10
+00:01:18.330 --> 00:01:19.740
+Hepsi bu.
+
+11
+00:01:19.740 --> 00:01:27.710
+Bu makineye Turing makinesi diyoruz ve teorik olarak dünyadaki her bilgisayarın yapabildiği her şeyi yapabilir.
+
+12
+00:01:27.710 --> 00:01:30.240
+Radó'nun sorusu şuydu.
+
+13
+00:01:30.240 --> 00:01:37.250
+Diyelim ki bu makinenin sadece 5 farklı durumu var, yani kurallar tablosu sadece 5 satırdan oluşuyor.
+
+14
+00:01:37.250 --> 00:01:40.580
+Bu tabloyu doldurmanın sınırlı sayıda yolu var.
+
+15
+00:01:40.580 --> 00:01:46.790
+Bazı tablolar makineyi sonsuz bir döngüye sokar, makine sonsuza kadar oraya buraya gider durur.
+
+16
+00:01:46.790 --> 00:01:49.960
+Bazıları ise bir noktada makineyi durdurur.
+
+17
+00:01:49.960 --> 00:01:53.450
+İşte Radó, duranlara odaklanın dedi.
+
+18
+00:01:53.450 --> 00:01:57.260
+Duranlar arasında en uzun süre çalışan hangisi?
+
+19
+00:01:57.260 --> 00:01:58.990
+Kaç adım atar?
+
+20
+00:01:58.990 --> 00:02:02.320
+Kapanmadan önce kâğıda kaç tane 1 yazar?
+
+21
+00:02:02.320 --> 00:02:05.330
+Bu sayıya meşgul kunduz sayısı adını verdi.
+
+22
+00:02:05.330 --> 00:02:14.100
+Çünkü makine, sonsuz boş şeridin üzerinde, tıpkı bir kunduzun dere yatağına dal taşıması gibi, durmadan bir şeyler yazıp siliyor, gidip geliyordu.
+
+23
+00:02:14.100 --> 00:02:25.430
+Radó'nun 1962'de yayımladığı ve hesaplanamayan fonksiyonlar üzerine olan makalesi, görünüşte zararsız bu oyunun içine saklanmış bir bombayı ortaya çıkarıyordu.
+
+24
+00:02:25.430 --> 00:02:26.840
+Bomba şuydu.
+
+25
+00:02:26.840 --> 00:02:34.330
+Eğer 5 durumlu makinelerin en fazla kaç adım atabildiğini bilseydiniz, elinizde muazzam bir güç olurdu.
+
+26
+00:02:34.330 --> 00:02:41.340
+Size 5 durumlu, hiç görmediğiniz bir makine verilse, onu çalıştırıp o sayı kadar adım beklerdiniz.
+
+27
+00:02:41.340 --> 00:02:43.070
+Durursa durmuştur.
+
+28
+00:02:43.070 --> 00:02:48.640
+O sayıya kadar durmadıysa, bir daha asla durmayacağını kesin olarak bilirdiniz.
+
+29
+00:02:48.640 --> 00:02:53.250
+Çünkü tanım gereği o sayı, duran makinelerin en uzunuydu.
+
+30
+00:02:53.250 --> 00:03:02.180
+Böylece hiç programı incelemeden, sadece saate bakarak, herhangi bir programın sonsuz döngüye girip girmeyeceğini söyleyebilirdiniz.
+
+31
+00:03:02.180 --> 00:03:08.390
+Oysa Alan Turing 1936'da tam da bunun imkânsız olduğunu kanıtlamıştı.
+
+32
+00:03:08.390 --> 00:03:14.120
+Bir programın durup durmayacağını her durumda söyleyen genel bir yöntem yoktur, olamaz.
+
+33
+00:03:14.120 --> 00:03:21.130
+Yani meşgul kunduz sayılarının tamamını veren bir formül, bir algoritma, bir bilgisayar programı da olamaz.
+
+34
+00:03:21.130 --> 00:03:23.820
+Bu fonksiyon hesaplanamaz.
+
+35
+00:03:23.820 --> 00:03:28.430
+Üstelik sadece hesaplanamaz değil, akıl almaz bir hızla büyür.
+
+36
+00:03:28.430 --> 00:03:34.800
+Aklınıza gelebilecek her hesaplanabilir fonksiyonu, yeterince ileri gidildiğinde geride bırakır.
+
+37
+00:03:34.800 --> 00:03:41.490
+Ama işin can alıcı noktası şu: hesaplanamaz olması, hiçbir değerinin bilinemeyeceği anlamına gelmiyor.
+
+38
+00:03:41.490 --> 00:03:46.420
+Tek tek, elle, alın teriyle bazı değerleri bulabilirsiniz.
+
+39
+00:03:46.420 --> 00:03:50.070
+Ve matematikçiler tam olarak bunu yapmaya giriştiler.
+
+40
+00:03:50.070 --> 00:03:52.600
+İlk basamaklar kolaydı.
+
+41
+00:03:52.600 --> 00:03:55.290
+1 durumlu makinenin rekoru 1 adım.
+
+42
+00:03:55.290 --> 00:03:59.100
+2 durumlu makinenin rekoru 6 adım.
+
+43
+00:03:59.100 --> 00:04:01.950
+Üçüncü basamak zorlanmaya başladı.
+
+44
+00:04:01.950 --> 00:04:10.080
+Radó'nun doktora öğrencisi Shen Lin, 3 durumlu tüm makineleri didik didik ederek rekorun 21 adım olduğunu kanıtladı.
+
+45
+00:04:10.080 --> 00:04:16.770
+Sonucu 1965'te, Radó'nun ölümünden kısa bir süre önce birlikte yayımladılar.
+
+46
+00:04:16.770 --> 00:04:19.780
+Dördüncü basamak 18 yıl sürdü.
+
+47
+00:04:19.780 --> 00:04:26.950
+1983'te Allen Brady, 4 durumlu makinelerin rekorunun 107 adım olduğunu gösterdi.
+
+48
+00:04:26.950 --> 00:04:30.760
+1, 6, 21, 107.
+
+49
+00:04:30.760 --> 00:04:35.370
+İlk bakışta ürkütücü olmayan, insafsızca büyümeyen bir dizi.
+
+50
+00:04:35.370 --> 00:04:37.580
+Ve sonra duvar geldi.
+
+51
+00:04:37.580 --> 00:05:07.220
+1989'da iki Alman araştırmacı, Heiner Marxen ve Jürgen Buntrock, 5 durumlu makineler arasında canavarı buldular. Kurallar tablosu hâlâ 5 satırdan ibaretti, hâlâ sadece 0 ve 1 yazıyordu, ama bu makine boş şerit üzerinde tam 47 milyon 176 bin 870 adım boyunca çalışıyor, sonra hiçbir uyarı vermeden duruyordu. Durduğunda şeritte 4098 tane 1 kalmıştı.
+
+52
+00:05:07.220 --> 00:05:09.590
+107'den 47 milyona.
+
+53
+00:05:09.590 --> 00:05:16.440
+Tek bir satır eklemek, tek bir durum eklemek, oyunun ölçeğini yarım milyon katına çıkarmıştı.
+
+54
+00:05:16.440 --> 00:05:19.290
+Herkes bunun rekor olduğuna inandı.
+
+55
+00:05:19.290 --> 00:05:23.580
+Yıllar boyunca yeni aramalar yapıldı, daha uzunu bulunamadı.
+
+56
+00:05:23.580 --> 00:05:26.910
+Ama inanmak ayrı, kanıtlamak ayrıdır.
+
+57
+00:05:26.910 --> 00:05:36.160
+Bu sayının gerçekten rekor olduğunu söylemek için, 5 durumlu makinelerin hiçbirinin bundan daha uzun süre çalışıp durmadığını göstermek gerekiyordu.
+
+58
+00:05:36.160 --> 00:05:41.890
+Yani her bir makine için ya durduğunu ya da sonsuza kadar çalıştığını kanıtlamak.
+
+59
+00:05:41.890 --> 00:05:43.940
+İşte zorluk oradaydı.
+
+60
+00:05:43.940 --> 00:05:49.350
+Bir makinenin durduğunu göstermek kolay: çalıştırırsınız, durur, bitti.
+
+61
+00:05:49.350 --> 00:05:56.040
+Ama bir makinenin asla durmayacağını göstermek, sonsuz bir geleceğe dair bir iddiada bulunmaktır.
+
+62
+00:05:56.040 --> 00:06:00.650
+Onu ne kadar çalıştırırsanız çalıştırın, cevabı bilemezsiniz.
+
+63
+00:06:00.650 --> 00:06:06.540
+Anlamanız, içindeki örüntüyü çözmeniz, döngüsünü matematiksel olarak yakalamanız gerekir.
+
+64
+00:06:06.540 --> 00:06:10.190
+Üstelik bunu milyonlarca kez yapmanız gerekiyordu.
+
+65
+00:06:10.190 --> 00:06:14.640
+5 durumlu makinelerin toplam sayısı milyarlarla ölçülüyordu.
+
+66
+00:06:14.640 --> 00:06:22.610
+Simetrileri, tekrarları, birbirinin aynısı olan tabloları eleyince geriye yaklaşık 120 milyon aday kalıyordu.
+
+67
+00:06:22.610 --> 00:06:27.540
+Bunların yaklaşık 88 milyonu için tek tek karar vermek şarttı.
+
+68
+00:06:27.540 --> 00:06:32.630
+Allen Brady bir noktada bu sayının belki de hiç bilinemeyeceğinden korkmuştu.
+
+69
+00:06:32.630 --> 00:06:41.880
+Çünkü o milyonlarca makinenin arasında, davranışı Goldbach sanısı gibi çözülmemiş bir matematik problemine bağlı bir tane bile olsa, kapı kapanırdı.
+
+70
+00:06:41.880 --> 00:06:44.570
+Kırk yıl boyunca kimse kapıyı açamadı.
+
+71
+00:06:44.570 --> 00:06:48.380
+Sonra kapıyı akademi dışından bir kalabalık açtı.
+
+72
+00:06:48.380 --> 00:06:59.070
+2022 baharında, doktora çalışmasını yeni bitirmiş olan Tristan Stérin, meşgul kunduz problemine adanmış bir internet forumu ve bir sohbet sunucusu kurdu.
+
+73
+00:06:59.070 --> 00:07:04.000
+Girişimin adı Busy Beaver Challenge, yani Meşgul Kunduz Meydan Okuması'ydı.
+
+74
+00:07:04.000 --> 00:07:09.250
+Amaç açıktı: 5 durumlu makineleri toplu halde, dağıtılmış bir çabayla temizlemek.
+
+75
+00:07:09.250 --> 00:07:12.580
+Gelenlerin çoğunun akademik bir unvanı yoktu.
+
+76
+00:07:12.580 --> 00:07:17.190
+Yazılımcılar, eski matematik öğrencileri, meraklı amatörler.
+
+77
+00:07:17.190 --> 00:07:20.360
+Shawn Ligocki bir yazılım mühendisiydi.
+
+78
+00:07:20.360 --> 00:07:25.610
+Justin Blanchard yarım bırakılmış bir matematik lisansüstü geçmişine sahipti.
+
+79
+00:07:25.610 --> 00:07:31.500
+Maja Kądziołka kendi kendini yetiştirmiş 21 yaşında bir Polonyalı programcıydı.
+
+80
+00:07:31.500 --> 00:07:33.870
+Sayıları 20'yi geçti.
+
+81
+00:07:33.870 --> 00:07:35.440
+Yöntem şuydu.
+
+82
+00:07:35.440 --> 00:07:40.370
+Tek tek makineleri çözmek yerine, karar verici dedikleri programlar yazdılar.
+
+83
+00:07:40.370 --> 00:07:44.180
+Her karar verici belli bir davranış kalıbını tanıyordu.
+
+84
+00:07:44.180 --> 00:07:52.470
+Şerit üzerinde belli bir desen sonsuza kadar tekrarlıyorsa bunu yakalayan bir program, başka bir tür döngüyü yakalayan bir başkası.
+
+85
+00:07:52.470 --> 00:07:58.200
+Her yeni karar verici, kalan makine yığınından milyonlarcasını bir çırpıda siliyordu.
+
+86
+00:07:58.200 --> 00:08:04.410
+Yığın milyonlardan yüz binlere, yüz binlerden binlere, binlerden birkaç düzineye indi.
+
+87
+00:08:04.410 --> 00:08:06.940
+Sona kalanlar efsaneleşti.
+
+88
+00:08:06.940 --> 00:08:17.470
+Bulgar bir araştırmacının Skelet takma adıyla yıllar önce derlediği zor makineler listesinden iki tanesi, Skelet 1 ve Skelet 17, bütün saldırılara direndi.
+
+89
+00:08:17.470 --> 00:08:22.240
+Skelet 17'yi bir yüksek lisans öğrencisi olan Chris Xu çözdü.
+
+90
+00:08:22.240 --> 00:08:30.530
+Ama asıl dönüm noktasını, kimsenin kim olduğunu bilmediği, sadece mxdys takma adıyla ortaya çıkan bir katılımcı getirdi.
+
+91
+00:08:30.530 --> 00:08:41.540
+mxdys, topluluğun standardını yükseltti: her iddia, insanın gözüyle okuyup ikna olacağı bir argüman değil, makinenin satır satır denetleyebileceği biçimsel bir kanıt olmalıydı.
+
+92
+00:08:41.540 --> 00:08:46.790
+2024 Mayıs'ında, 40 bin satırlık devasa bir kanıtı tamamladı.
+
+93
+00:08:46.790 --> 00:08:57.640
+Kanıt, Coq adlı kanıt denetleyicisinde yazılmıştı; yani her mantıksal adımı bilgisayarın bağımsız olarak sınadığı, insan sezgisine yer bırakmayan bir sistemde.
+
+94
+00:08:57.640 --> 00:09:06.250
+Bu denetleyici, sıradan bir dizüstü bilgisayarda 13 çekirdek kullanarak kanıtın tamamını yaklaşık 45 dakikada onaylıyordu.
+
+95
+00:09:06.250 --> 00:09:10.540
+2 Temmuz 2024'te sonuç ilan edildi.
+
+96
+00:09:10.540 --> 00:09:16.910
+Beşinci meşgul kunduz sayısı 47 milyon 176 bin 870'tir.
+
+97
+00:09:16.910 --> 00:09:22.320
+Marxen ve Buntrock'un 35 yıl önce bulduğu makine gerçekten şampiyondu.
+
+98
+00:09:22.320 --> 00:09:26.610
+Radó'nun soruyu sormasının üzerinden 62 yıl geçmişti.
+
+99
+00:09:26.610 --> 00:09:35.860
+Kazanan, tek bir dâhinin zarif buluşu değil, isimlerinin çoğu takma addan ibaret bir topluluğun yıllara yayılmış kolektif muhasebesiydi.
+
+100
+00:09:35.860 --> 00:09:43.030
+Zafer henüz duyurulmamıştı ki, avın bir sonraki basamağında çok daha karanlık bir şeyin beklediği anlaşıldı.
+
+101
+00:09:43.030 --> 00:09:47.320
+Altıncı basamağın ne kadar büyük olduğunu kimse bilmiyor.
+
+102
+00:09:47.320 --> 00:09:53.530
+Bilinen tek şey, aşağıdan gelen tahminlerin insan sezgisini çoktan terk ettiği.
+
+103
+00:09:53.530 --> 00:10:05.980
+2022'de Pavel Kropitz, 6 durumlu bir makinenin şeride yazdığı 1'lerin sayısının, 10'un üzerine 10, onun üzerine 10 diye 15 kat üst üste binmiş bir kuleden büyük olduğunu gösterdi.
+
+104
+00:10:05.980 --> 00:10:10.590
+Bu sayının yanında evrendeki atom sayısı yuvarlama hatası kalır.
+
+105
+00:10:10.590 --> 00:10:21.440
+2025'te mxdys bu sınırı bir kez daha kırdı ve artık üslü kulelerle bile ifade edilemeyen, kulelerin kulelerini saymayı gerektiren bir düzeye taşıdı.
+
+106
+00:10:21.440 --> 00:10:23.970
+Ama asıl mesele büyüklük değil.
+
+107
+00:10:23.970 --> 00:10:34.340
+Asıl mesele, 28 Haziran 2024'te, yani beşinci sayının resmen ilan edilmesinden sadece dört gün önce ortaya çıktı.
+
+108
+00:10:34.340 --> 00:10:39.750
+mxdys, topluluğun sohbet sunucusunda 6 durumlu tuhaf bir makineden söz etti.
+
+109
+00:10:39.750 --> 00:10:45.480
+Makine ne duruyor ne de tanınabilir bir döngüye giriyordu; adeta rastgele davranıyordu.
+
+110
+00:10:45.480 --> 00:10:50.570
+Racheline adlı bir katılımcı kısa sürede makinenin gizli kuralını çözdü.
+
+111
+00:10:50.570 --> 00:10:57.420
+Ona Antihidra adını verdiler, çünkü daha önce bulunmuş Hidra adlı bir makineye çok benziyordu.
+
+112
+00:10:57.420 --> 00:11:02.510
+Antihidra'nın yaptığı iş, sade bir aritmetik oyununa indirgenebiliyor.
+
+113
+00:11:02.510 --> 00:11:06.640
+Elinizde bir sayı var, başlangıçta 8.
+
+114
+00:11:06.640 --> 00:11:14.130
+Her turda bu sayıyı alıyor, yarısını hesaplayıp küsuratı atıyor ve bulduğunuzu sayının kendisine ekliyorsunuz.
+
+115
+00:11:14.130 --> 00:11:18.580
+Yani sayı her turda yaklaşık 1,5 katına çıkıyor.
+
+116
+00:11:18.580 --> 00:11:21.910
+Bir de yan tarafta bir sayaç tutuyorsunuz.
+
+117
+00:11:21.910 --> 00:11:28.120
+Turda elinizdeki sayı çiftse sayacı 2 artırıyorsunuz, tekse 1 azaltıyorsunuz.
+
+118
+00:11:28.120 --> 00:11:33.370
+Makine yalnızca ve yalnızca bu sayaç sıfırın altına düştüğü anda duruyor.
+
+119
+00:11:33.370 --> 00:11:42.940
+Yani Antihidra'nın durması için, bu 1,5 kat büyüyen sayı dizisinde tek sayıların çift sayıları ezici bir farkla geride bırakması gerekiyor.
+
+120
+00:11:42.940 --> 00:11:48.510
+Sayacın her çift için 2 kazandığı, her tek için 1 kaybettiği bir yarış bu.
+
+121
+00:11:48.510 --> 00:11:55.040
+Tekler ve çiftler kabaca eşit sıklıkta geliyorsa, sayaç ortalamada sürekli yukarı tırmanıyor demektir.
+
+122
+00:11:55.040 --> 00:12:00.290
+Aşağı düşmesi, uzun bir tek sayı serisinin üst üste gelmesini gerektirir.
+
+123
+00:12:00.290 --> 00:12:04.260
+Olasılık hesabı buradan gayet net bir cevap veriyor.
+
+124
+00:12:04.260 --> 00:12:15.430
+Eğer tek ve çift gerçekten yazı tura gibi dağılıyorsa, sayacın bir gün sıfırın altına inme ihtimali, 10'un yanına 200 milyon sıfır koyduğunuzda elde edeceğiniz sayıda birdir.
+
+125
+00:12:15.430 --> 00:12:17.480
+Pratikte sıfır.
+
+126
+00:12:17.480 --> 00:12:21.290
+Makine neredeyse kesinlikle sonsuza kadar çalışır.
+
+127
+00:12:21.290 --> 00:12:26.540
+Ne var ki neredeyse kesinlikle, matematikte hiçbir şey ifade etmez.
+
+128
+00:12:26.540 --> 00:12:29.870
+Bu sayılar yazı tura atarak üretilmiyor.
+
+129
+00:12:29.870 --> 00:12:34.320
+Tamamen belirlenmiş, tek bir başlangıç değerinden doğan bir dizi.
+
+130
+00:12:34.320 --> 00:12:41.170
+Tek ve çift dağılımının gerçekten rastgele gibi davrandığını kanıtlamak gerekiyor ve kimse bunu yapamıyor.
+
+131
+00:12:41.170 --> 00:12:53.780
+Dahası bu soru, matematikte onlarca yıldır açık duran bir probleme, 1,5 sayısının kuvvetlerinin ondalık kısımlarının nasıl dağıldığına dair Mahler'in Z sayıları sorusuna doğrudan bağlanıyor.
+
+132
+00:12:53.780 --> 00:13:05.590
+Shawn Ligocki bu tür makinelere kriptit adını taktı: ormanda var olduğu söylenen ama yakalanamayan yaratıklar gibi, davranışlarını gözleyebildiğiniz ama kanıtlayamadığınız makineler.
+
+133
+00:13:05.590 --> 00:13:08.440
+Antihidra bunların en meşhuru.
+
+134
+00:13:08.440 --> 00:13:12.410
+Ve tek başına altıncı basamağın kapısını kilitliyor.
+
+135
+00:13:12.410 --> 00:13:19.260
+Altıncı meşgul kunduz sayısını bilmek istiyorsanız, önce bu aritmetik bilmecesini çözmek zorundasınız.
+
+136
+00:13:19.260 --> 00:13:22.910
+Kunduz avı, bir matematik problemine dönüştü.
+
+137
+00:13:22.910 --> 00:13:26.880
+Ölçek yukarı doğru tırmandıkça tablo daha da ağırlaşıyor.
+
+138
+00:13:26.880 --> 00:13:38.050
+Stefan O'Rear'ın çalışmasıyla, 27 durumlu bir Turing makinesinin Goldbach sanısına aykırı bir örnek aradığı, yani ancak o sanı yanlışsa durduğu gösterildi.
+
+139
+00:13:38.050 --> 00:13:43.300
+Yaklaşık 744 durumla aynı şey Riemann hipotezi için yapılabiliyor.
+
+140
+00:13:43.300 --> 00:13:56.070
+Ve en çarpıcısı: 745 durumlu bir makine var ki, durup durmadığı sorusu, modern matematiğin üzerine kurulduğu küme kuramı aksiyomlarıyla ne kanıtlanabiliyor ne de çürütülebiliyor.
+
+141
+00:13:56.070 --> 00:14:03.880
+Bu sonucu O'Rear kurmuş, Johannes Riebel lisans tezinde ayrıntılı biçimde yazıp bir basamak daha aşağı çekmişti.
+
+142
+00:14:03.880 --> 00:14:05.610
+Bunun anlamı şu.
+
+143
+00:14:05.610 --> 00:14:12.300
+Yedi yüz kırk beşinci meşgul kunduz sayısı, tanımı gereği belirli, sonlu, tek bir tam sayıdır.
+
+144
+00:14:12.300 --> 00:14:14.990
+Bir yerde durur, bir değeri vardır.
+
+145
+00:14:14.990 --> 00:14:20.880
+Ama bugün kullandığımız matematiğin içinden o değerin ne olduğunu hiçbir zaman öğrenemeyiz.
+
+146
+00:14:20.880 --> 00:14:24.370
+Kanıtlanamaz olduğu kanıtlanmış bir sayı.
+
+147
+00:14:24.370 --> 00:14:28.980
+Meşgul kunduz fonksiyonunun asıl değeri de burada ortaya çıkıyor.
+
+148
+00:14:28.980 --> 00:14:34.390
+Bu, eğlenceli bir bilmece değil, matematiğin kendi zorluğunu ölçen bir cetvel.
+
+149
+00:14:34.390 --> 00:14:39.480
+Her açık sanı, bu cetvelin bir yerinde bir basamağa denk düşüyor.
+
+150
+00:14:39.480 --> 00:14:46.490
+Goldbach 27'de, Riemann 744'te, matematiğin bilinebilirlik sınırı 745'te.
+
+151
+00:14:46.490 --> 00:14:50.460
+Altmış yıl süren av, beşinci basamağı kazandı.
+
+152
+00:14:50.460 --> 00:15:01.950
+Altıncısında ise av bitmiş değil; avın hangi noktada avlanmaktan çıkıp bir sınırın kendisine dönüştüğünü, dünyanın dört bir yanından bir avuç isimsiz insan hep birlikte öğreniyor.
+
+153
+00:15:01.950 --> 00:15:05.280
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+154
+00:15:05.280 --> 00:15:08.290
+Yeni bir hikâyede yeniden buluşmak üzere.
