@@ -1,0 +1,163 @@
+sira	karakter	saniye	kar_sn	metin
+1	54	3.200	16.88	Picture a toy machine with five rules and two symbols.
+2	185	10.400	17.79	One of them runs for exactly forty-seven million one hundred
+3	62	3.680	16.85	and in the end a proof we had to hand to a computer to verif
+4	118	6.560	17.99	As for the next number, nobody knows it anymore; because tha
+5	155	10.080	15.38	Kanal ayarı gereği bir not: `podcast-science.json` içinde bu
+6	179	12.320	14.53	Kaynak metin (`bilim.txt`) zaten Türkçe olduğu için "Türkçe'
+7	91	6.720	13.54	Açılış kancası, jingle ve kapanış cümlesi sizin eklediğiniz 
+8	119	8.640	13.77	In 1962, a Hungarian-born mathematician teaching at Ohio Sta
+9	120	6.240	19.23	The rules were as simple as a child's game, and the conseque
+10	53	3.520	15.06	Imagine you have a blank tape stretching out forever.
+11	98	5.600	17.50	The tape is divided into individual cells, and sitting on on
+12	134	6.880	19.48	The head looks at the cell beneath it, sees whether there is
+13	151	8.320	18.15	The table tells it three things: what to write in that cell,
+14	12	1.600	7.50	That is all.
+15	101	5.280	19.13	We call this a Turing machine, and in theory it can do every
+16	25	2.240	11.16	Radó's question was this.
+17	88	6.080	14.47	Suppose the machine has only 5 different states, meaning the
+18	57	3.040	18.75	There are a limited number of ways to fill in that table.
+19	90	4.960	18.15	Some tables send the machine into an endless loop, and it sh
+20	40	3.040	13.16	Others bring it to a halt at some point.
+21	39	3.520	11.08	Focus on the ones that halt, Radó said.
+22	40	3.200	12.50	Among those, which one runs the longest?
+23	28	2.080	13.46	How many steps does it take?
+24	60	3.200	18.75	How many 1s does it write on the paper before it shuts down?
+25	45	3.360	13.39	He called this number the busy beaver number.
+26	150	8.320	18.03	Because the machine, out on that infinite blank tape, keeps 
+27	120	7.040	17.05	The paper Radó published in 1962 on non-computable functions
+28	18	2.240	8.04	The bomb was this.
+29	114	6.080	18.75	If you knew the maximum number of steps a 5-state machine co
+30	112	6.080	18.42	Hand someone a 5-state machine you had never seen before, an
+31	22	1.760	12.50	If it halts, it halts.
+32	86	4.480	19.20	If it has not halted by that number, you would know with cer
+33	74	4.320	17.13	Because by definition that number is the longest any halting
+34	140	7.520	18.62	So without ever examining the program, just by watching the 
+35	73	5.120	14.26	And yet Alan Turing had proved in 1936 that precisely this i
+36	105	5.280	19.89	There is no general method that tells you in every case whet
+37	114	6.400	17.81	Which means there can be no formula, no algorithm, no comput
+38	29	1.920	15.10	The function is uncomputable.
+39	69	4.160	16.59	And not merely uncomputable: it grows at a rate beyond compr
+40	72	4.160	17.31	Every computable function you can think of, it eventually le
+41	96	5.600	17.14	But here is the crucial point: being uncomputable does not m
+42	67	5.120	13.09	One by one, by hand, by sheer labor, you can pin down some o
+43	46	3.680	12.50	And mathematicians set out to do exactly that.
+44	26	2.560	10.16	The first steps were easy.
+45	43	2.880	14.93	The record for a 1-state machine is 1 step.
+46	31	2.880	10.76	For a 2-state machine, 6 steps.
+47	35	2.720	12.87	The third step began to fight back.
+48	110	6.080	18.09	Radó's doctoral student Shen Lin combed through every 3-stat
+49	72	4.800	15.00	They published the result together in 1965, shortly before R
+50	30	2.720	11.03	The fourth step took 18 years.
+51	78	6.080	12.83	In 1983 Allen Brady showed that the record for 4-state machi
+52	14	4.160	3.37	1, 6, 21, 107.
+53	96	5.920	16.22	At first glance, a sequence that looks harmless enough, not 
+54	23	1.760	13.07	And then came the wall.
+55	112	7.680	14.58	In 1989 two German researchers, Heiner Marxen and Jürgen Bun
+56	175	13.280	13.18	Its rule table still had just 5 rows, it still wrote nothing
+57	48	4.000	12.00	When it halted, 4098 ones were left on the tape.
+58	23	2.720	8.46	From 107 to 47 million.
+59	100	6.080	16.45	Adding a single row, a single state, had multiplied the scal
+60	38	2.400	15.83	Everyone believed this was the record.
+61	56	3.520	15.91	Searches went on for years and nothing longer turned up.
+62	50	3.040	16.45	But believing is one thing and proving is another.
+63	136	6.720	20.24	To say that this number truly is the record, you have to sho
+64	84	4.960	16.94	Which means proving, for every single machine, that it eithe
+65	38	2.560	14.84	And that was where the difficulty lay.
+66	65	5.120	12.70	Showing that a machine halts is easy: you run it, it stops, 
+67	86	4.960	17.34	But showing that a machine will never halt is making a claim
+68	52	3.200	16.25	However long you run it, you cannot know the answer.
+69	90	5.760	15.62	You have to understand it, unravel the pattern inside it, ca
+70	46	3.040	15.13	And you had to do this millions of times over.
+71	60	3.520	17.05	The total number of 5-state machines runs into the billions.
+72	119	7.840	15.18	Once you strip away symmetries, duplicates, and tables ident
+73	55	4.320	12.73	About 88 million of these had to be decided one by one.
+74	71	4.000	17.75	At one point Allen Brady feared the number might never be kn
+75	155	8.000	19.38	Because if even one of those millions of machines had behavi
+76	37	2.560	14.45	For 40 years nobody opened that door.
+77	45	3.200	14.06	Then a crowd from outside academia opened it.
+78	158	9.280	17.03	In the spring of 2022, Tristan Stérin, who had just finished
+79	48	2.720	17.65	The effort was called the Busy Beaver Challenge.
+80	90	5.440	16.54	The aim was clear: to clear out the 5-state machines en mass
+81	55	3.040	18.09	Most of the people who showed up had no academic title.
+82	67	5.120	13.09	Software developers, former mathematics students, curious am
+83	38	2.880	13.19	Shawn Ligocki was a software engineer.
+84	70	4.160	16.83	Justin Blanchard had an unfinished graduate background in ma
+85	63	4.640	13.58	Maja Kądziołka was a self-taught 21-year-old Polish programm
+86	24	3.040	7.89	Their numbers passed 20.
+87	20	2.400	8.33	The method was this.
+88	84	5.120	16.41	Instead of solving machines one at a time, they wrote progra
+89	57	3.840	14.84	Each decider recognized a particular pattern of behavior.
+90	110	5.760	19.10	One program to catch a certain shape repeating on the tape f
+91	87	4.640	18.75	Every new decider wiped millions of machines off the remaini
+92	125	7.520	16.62	The pile fell from millions to hundreds of thousands, from h
+93	36	3.040	11.84	The last survivors became legendary.
+94	162	9.920	16.33	Two machines from a list of hard cases compiled years earlie
+95	54	4.160	12.98	Skelet 17 was cracked by Chris Xu, a graduate student.
+96	115	7.200	15.97	But the real turning point came from a participant nobody co
+97	171	10.560	16.19	mxdys raised the community's standard: every claim had to be
+98	65	5.920	10.98	In May 2024, mxdys completed a colossal proof, 40,000 lines 
+99	164	8.160	20.10	It was written in the proof checker called Coq, a system in 
+100	98	7.200	13.61	On an ordinary laptop, using 13 cores, that checker verified
+101	42	4.320	9.72	On July 2, 2024, the result was announced.
+102	43	5.600	7.68	The fifth busy beaver number is 47,176,870.
+103	83	5.280	15.72	The machine Marxen and Buntrock had found 35 years earlier r
+104	50	3.680	13.59	62 years had passed since Radó asked the question.
+105	175	9.600	18.23	The winner was not the elegant discovery of a single genius,
+106	132	6.240	21.15	The victory had not even been announced yet when it became c
+107	41	2.560	16.02	Nobody knows how large the sixth step is.
+108	103	4.960	20.77	The only thing known is that the estimates coming from below
+109	180	10.400	17.31	In 2022 Pavel Kropitz showed that the number of 1s a 6-state
+110	76	4.000	19.00	Next to that number, the count of atoms in the universe is a
+111	170	10.240	16.60	In 2025 mxdys broke the bound once again and pushed it to a 
+112	31	2.400	12.92	But the real issue is not size.
+113	106	7.040	15.06	The real issue surfaced on June 28, 2024, just four days bef
+114	74	5.600	13.21	On the community's chat server, mxdys mentioned a strange 6-
+115	92	5.280	17.42	The machine neither halted nor fell into any recognizable lo
+116	72	4.480	16.07	A participant named Racheline soon worked out the machine's 
+117	86	4.960	17.34	They named it Antihydra, because it closely resembled an ear
+118	62	3.520	17.61	What Antihydra does can be reduced to a plain arithmetic gam
+119	35	2.560	13.67	You have a number, 8 to begin with.
+120	124	6.560	18.90	Each round you take that number, compute its half, throw awa
+121	63	3.680	17.12	So the number grows by roughly one and a half times each rou
+122	36	2.880	12.50	On the side you also keep a counter.
+123	113	6.720	16.82	If the number in your hand that round is even, you increase 
+124	63	4.160	15.14	The machine halts if and only if that counter drops below ze
+125	158	8.640	18.29	So for Antihydra to halt, the odd numbers in this sequence g
+126	83	5.120	16.21	It is a race in which the counter gains 2 for every even and
+127	95	6.080	15.62	If odds and evens arrive with roughly equal frequency, the c
+128	70	4.160	16.83	For it to fall, a long run of odd numbers has to come up bac
+129	43	2.880	14.93	Probability gives a very clear answer here.
+130	179	10.560	16.95	If odd and even really are distributed like a coin toss, the
+131	18	2.240	8.04	In practice, zero.
+132	42	3.360	12.50	The machine almost certainly runs forever.
+133	58	3.200	18.12	Except that almost certainly means nothing in mathematics.
+134	55	3.200	17.19	These numbers are not being produced by flipping coins.
+135	69	4.480	15.40	It is a fully determined sequence, born from a single starti
+136	121	6.560	18.45	Someone has to prove that the distribution of odds and evens
+137	141	7.680	18.36	What is more, this question connects directly to a problem t
+138	79	4.160	18.99	about how the fractional parts of the powers of one and a ha
+139	55	3.840	14.32	Shawn Ligocki gave machines like this a name: cryptids.
+140	129	7.200	17.92	Like creatures said to exist in the forest but never capture
+141	37	2.560	14.45	Antihydra is the most famous of them.
+142	51	3.040	16.78	And on its own it locks the door to the sixth step.
+143	97	5.280	18.37	If you want to know the sixth busy beaver number, you first 
+144	54	3.040	17.76	The beaver hunt has turned into a mathematics problem.
+145	53	3.520	15.06	As the scale climbs, the picture grows heavier still.
+146	182	9.920	18.35	Through Stefan O'Rear's work, it was shown that a 27-state T
+147	76	5.120	14.84	With about 744 states the same thing can be done for the Rie
+148	202	11.200	18.04	And the most striking of all: there is a 745-state machine f
+149	136	7.520	18.09	O'Rear established this result, and Johannes Riebel wrote it
+150	24	1.600	15.00	Here is what that means.
+151	88	7.040	12.50	The 745th busy beaver number is, by definition, a specific, 
+152	35	3.200	10.94	It stops somewhere, it has a value.
+153	96	5.280	18.18	But from inside the mathematics we use today, we will never 
+154	33	2.400	13.75	A number proved to be unprovable.
+155	71	3.360	21.13	And this is where the real worth of the busy beaver function
+156	82	4.800	17.08	It is not an amusing puzzle but a ruler that measures mathem
+157	61	4.160	14.66	Every open conjecture corresponds to some rung on that ruler
+158	81	8.480	9.55	Goldbach at 27, Riemann at 744, the boundary of what mathema
+159	43	3.040	14.14	A hunt lasting 60 years won the fifth step.
+160	200	10.240	19.53	On the sixth the hunt is not over; a handful of anonymous pe
+161	47	3.520	13.35	Nöron Science'de bugünkü bölümün sonuna geldik.
+162	41	3.200	12.81	Yeni bir hikâyede yeniden buluşmak üzere.

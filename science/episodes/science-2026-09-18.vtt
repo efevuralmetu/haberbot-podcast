@@ -1,0 +1,649 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.650
+Picture a toy machine with five rules and two symbols.
+
+2
+00:00:03.650 --> 00:00:14.500
+One of them runs for exactly forty-seven million one hundred seventy-six thousand eight hundred seventy steps and then stops — and working out which one stops took humanity sixty years,
+
+3
+00:00:14.500 --> 00:00:18.630
+and in the end a proof we had to hand to a computer to verify.
+
+4
+00:00:18.630 --> 00:00:25.640
+As for the next number, nobody knows it anymore; because that is where mathematics runs into a wall of its own making.
+
+5
+00:00:33.840 --> 00:00:44.370
+Kanal ayarı gereği bir not: `podcast-science.json` içinde bu kanal `"language": "en"` olarak tanımlı ve yönergesi "aynı günün bilim bölümü çevrilir" diyor.
+
+6
+00:00:44.370 --> 00:00:57.140
+Kaynak metin (`bilim.txt`) zaten Türkçe olduğu için "Türkçe'ye çeviri" boş bir işlem olurdu; bu yüzden metni kanalın gerçek dili olan İngilizce'ye, kaynağa sadık kalarak çevirdim.
+
+7
+00:00:57.140 --> 00:01:04.310
+Açılış kancası, jingle ve kapanış cümlesi sizin eklediğiniz parçalar olduğu için çıkarıldı.
+
+8
+00:01:04.310 --> 00:01:13.400
+In 1962, a Hungarian-born mathematician teaching at Ohio State University, Tibor Radó, proposed a game to his students.
+
+9
+00:01:13.400 --> 00:01:20.090
+The rules were as simple as a child's game, and the consequences deep enough to press against the limits of mathematics.
+
+10
+00:01:20.090 --> 00:01:24.060
+Imagine you have a blank tape stretching out forever.
+
+11
+00:01:24.060 --> 00:01:30.110
+The tape is divided into individual cells, and sitting on one of those cells is a read-write head.
+
+12
+00:01:30.110 --> 00:01:37.440
+The head looks at the cell beneath it, sees whether there is a 0 or a 1 there, and then consults the table of rules it has been given.
+
+13
+00:01:37.440 --> 00:01:46.210
+The table tells it three things: what to write in that cell, whether to move right or left, and which mood, which state, to move into on the next step.
+
+14
+00:01:46.210 --> 00:01:48.260
+That is all.
+
+15
+00:01:48.260 --> 00:01:53.990
+We call this a Turing machine, and in theory it can do everything every computer in the world can do.
+
+16
+00:01:53.990 --> 00:01:56.680
+Radó's question was this.
+
+17
+00:01:56.680 --> 00:02:03.210
+Suppose the machine has only 5 different states, meaning the rule table has only 5 rows.
+
+18
+00:02:03.210 --> 00:02:06.700
+There are a limited number of ways to fill in that table.
+
+19
+00:02:06.700 --> 00:02:12.110
+Some tables send the machine into an endless loop, and it shuttles back and forth forever.
+
+20
+00:02:12.110 --> 00:02:15.600
+Others bring it to a halt at some point.
+
+21
+00:02:15.600 --> 00:02:19.570
+Focus on the ones that halt, Radó said.
+
+22
+00:02:19.570 --> 00:02:23.220
+Among those, which one runs the longest?
+
+23
+00:02:23.220 --> 00:02:25.750
+How many steps does it take?
+
+24
+00:02:25.750 --> 00:02:29.400
+How many 1s does it write on the paper before it shuts down?
+
+25
+00:02:29.400 --> 00:02:33.210
+He called this number the busy beaver number.
+
+26
+00:02:33.210 --> 00:02:41.980
+Because the machine, out on that infinite blank tape, keeps writing and erasing, going back and forth, just as a beaver hauls branches to a streambed.
+
+27
+00:02:41.980 --> 00:02:49.470
+The paper Radó published in 1962 on non-computable functions revealed a bomb hidden inside this seemingly harmless game.
+
+28
+00:02:49.470 --> 00:02:52.160
+The bomb was this.
+
+29
+00:02:52.160 --> 00:02:58.690
+If you knew the maximum number of steps a 5-state machine could take, you would hold enormous power in your hands.
+
+30
+00:02:58.690 --> 00:03:05.220
+Hand someone a 5-state machine you had never seen before, and you would run it and wait exactly that many steps.
+
+31
+00:03:05.220 --> 00:03:07.430
+If it halts, it halts.
+
+32
+00:03:07.430 --> 00:03:12.360
+If it has not halted by that number, you would know with certainty that it never will.
+
+33
+00:03:12.360 --> 00:03:17.130
+Because by definition that number is the longest any halting machine runs.
+
+34
+00:03:17.130 --> 00:03:25.100
+So without ever examining the program, just by watching the clock, you could say whether any given program would fall into an infinite loop.
+
+35
+00:03:25.100 --> 00:03:30.670
+And yet Alan Turing had proved in 1936 that precisely this is impossible.
+
+36
+00:03:30.670 --> 00:03:36.400
+There is no general method that tells you in every case whether a program halts, and there cannot be one.
+
+37
+00:03:36.400 --> 00:03:43.250
+Which means there can be no formula, no algorithm, no computer program that hands you all the busy beaver numbers.
+
+38
+00:03:43.250 --> 00:03:45.620
+The function is uncomputable.
+
+39
+00:03:45.620 --> 00:03:50.230
+And not merely uncomputable: it grows at a rate beyond comprehension.
+
+40
+00:03:50.230 --> 00:03:54.840
+Every computable function you can think of, it eventually leaves behind.
+
+41
+00:03:54.840 --> 00:04:00.890
+But here is the crucial point: being uncomputable does not mean none of its values can be known.
+
+42
+00:04:00.890 --> 00:04:06.460
+One by one, by hand, by sheer labor, you can pin down some of them.
+
+43
+00:04:06.460 --> 00:04:10.590
+And mathematicians set out to do exactly that.
+
+44
+00:04:10.590 --> 00:04:13.600
+The first steps were easy.
+
+45
+00:04:13.600 --> 00:04:16.930
+The record for a 1-state machine is 1 step.
+
+46
+00:04:16.930 --> 00:04:20.260
+For a 2-state machine, 6 steps.
+
+47
+00:04:20.260 --> 00:04:23.430
+The third step began to fight back.
+
+48
+00:04:23.430 --> 00:04:29.960
+Radó's doctoral student Shen Lin combed through every 3-state machine and proved that the record was 21 steps.
+
+49
+00:04:29.960 --> 00:04:35.210
+They published the result together in 1965, shortly before Radó's death.
+
+50
+00:04:35.210 --> 00:04:38.380
+The fourth step took 18 years.
+
+51
+00:04:38.380 --> 00:04:44.910
+In 1983 Allen Brady showed that the record for 4-state machines was 107 steps.
+
+52
+00:04:44.910 --> 00:04:49.520
+1, 6, 21, 107.
+
+53
+00:04:49.520 --> 00:04:55.890
+At first glance, a sequence that looks harmless enough, not growing with any particular cruelty.
+
+54
+00:04:55.890 --> 00:04:58.100
+And then came the wall.
+
+55
+00:04:58.100 --> 00:05:06.230
+In 1989 two German researchers, Heiner Marxen and Jürgen Buntrock, found the monster among the 5-state machines.
+
+56
+00:05:06.230 --> 00:05:19.960
+Its rule table still had just 5 rows, it still wrote nothing but 0s and 1s, but this machine ran on a blank tape for exactly 47,176,870 steps and then stopped without warning.
+
+57
+00:05:19.960 --> 00:05:24.410
+When it halted, 4098 ones were left on the tape.
+
+58
+00:05:24.410 --> 00:05:27.580
+From 107 to 47 million.
+
+59
+00:05:27.580 --> 00:05:34.110
+Adding a single row, a single state, had multiplied the scale of the game half a million times over.
+
+60
+00:05:34.110 --> 00:05:36.960
+Everyone believed this was the record.
+
+61
+00:05:36.960 --> 00:05:40.930
+Searches went on for years and nothing longer turned up.
+
+62
+00:05:40.930 --> 00:05:44.420
+But believing is one thing and proving is another.
+
+63
+00:05:44.420 --> 00:05:51.590
+To say that this number truly is the record, you have to show that not one of the 5-state machines runs longer than that and then halts.
+
+64
+00:05:51.590 --> 00:05:57.000
+Which means proving, for every single machine, that it either halts or runs forever.
+
+65
+00:05:57.000 --> 00:06:00.010
+And that was where the difficulty lay.
+
+66
+00:06:00.010 --> 00:06:05.580
+Showing that a machine halts is easy: you run it, it stops, done.
+
+67
+00:06:05.580 --> 00:06:10.990
+But showing that a machine will never halt is making a claim about an infinite future.
+
+68
+00:06:10.990 --> 00:06:14.640
+However long you run it, you cannot know the answer.
+
+69
+00:06:14.640 --> 00:06:20.850
+You have to understand it, unravel the pattern inside it, capture its loop mathematically.
+
+70
+00:06:20.850 --> 00:06:24.340
+And you had to do this millions of times over.
+
+71
+00:06:24.340 --> 00:06:28.310
+The total number of 5-state machines runs into the billions.
+
+72
+00:06:28.310 --> 00:06:36.600
+Once you strip away symmetries, duplicates, and tables identical to one another, roughly 120 million candidates remain.
+
+73
+00:06:36.600 --> 00:06:41.370
+About 88 million of these had to be decided one by one.
+
+74
+00:06:41.370 --> 00:06:45.820
+At one point Allen Brady feared the number might never be known at all.
+
+75
+00:06:45.820 --> 00:06:54.270
+Because if even one of those millions of machines had behavior tied to an unsolved mathematical problem like the Goldbach conjecture, the door would close.
+
+76
+00:06:54.270 --> 00:06:57.280
+For 40 years nobody opened that door.
+
+77
+00:06:57.280 --> 00:07:00.930
+Then a crowd from outside academia opened it.
+
+78
+00:07:00.930 --> 00:07:10.660
+In the spring of 2022, Tristan Stérin, who had just finished his doctoral work, set up an internet forum and a chat server devoted to the busy beaver problem.
+
+79
+00:07:10.660 --> 00:07:13.830
+The effort was called the Busy Beaver Challenge.
+
+80
+00:07:13.830 --> 00:07:19.720
+The aim was clear: to clear out the 5-state machines en masse, through distributed effort.
+
+81
+00:07:19.720 --> 00:07:23.210
+Most of the people who showed up had no academic title.
+
+82
+00:07:23.210 --> 00:07:28.780
+Software developers, former mathematics students, curious amateurs.
+
+83
+00:07:28.780 --> 00:07:32.110
+Shawn Ligocki was a software engineer.
+
+84
+00:07:32.110 --> 00:07:36.720
+Justin Blanchard had an unfinished graduate background in mathematics.
+
+85
+00:07:36.720 --> 00:07:41.810
+Maja Kądziołka was a self-taught 21-year-old Polish programmer.
+
+86
+00:07:41.810 --> 00:07:45.300
+Their numbers passed 20.
+
+87
+00:07:45.300 --> 00:07:48.150
+The method was this.
+
+88
+00:07:48.150 --> 00:07:53.720
+Instead of solving machines one at a time, they wrote programs they called deciders.
+
+89
+00:07:53.720 --> 00:07:58.010
+Each decider recognized a particular pattern of behavior.
+
+90
+00:07:58.010 --> 00:08:04.220
+One program to catch a certain shape repeating on the tape forever, another to catch a different kind of loop.
+
+91
+00:08:04.220 --> 00:08:09.310
+Every new decider wiped millions of machines off the remaining pile in a single stroke.
+
+92
+00:08:09.310 --> 00:08:17.280
+The pile fell from millions to hundreds of thousands, from hundreds of thousands to thousands, from thousands to a few dozen.
+
+93
+00:08:17.280 --> 00:08:20.770
+The last survivors became legendary.
+
+94
+00:08:20.770 --> 00:08:31.140
+Two machines from a list of hard cases compiled years earlier by a Bulgarian researcher under the pseudonym Skelet, Skelet 1 and Skelet 17, resisted every attack.
+
+95
+00:08:31.140 --> 00:08:35.750
+Skelet 17 was cracked by Chris Xu, a graduate student.
+
+96
+00:08:35.750 --> 00:08:43.400
+But the real turning point came from a participant nobody could identify, who appeared only under the handle mxdys.
+
+97
+00:08:43.400 --> 00:08:54.410
+mxdys raised the community's standard: every claim had to be not an argument a human could read and be persuaded by, but a formal proof a machine could check line by line.
+
+98
+00:08:54.410 --> 00:09:00.780
+In May 2024, mxdys completed a colossal proof, 40,000 lines long.
+
+99
+00:09:00.780 --> 00:09:09.390
+It was written in the proof checker called Coq, a system in which every logical step is independently tested by the computer and nothing is left to human intuition.
+
+100
+00:09:09.390 --> 00:09:17.040
+On an ordinary laptop, using 13 cores, that checker verified the entire proof in about 45 minutes.
+
+101
+00:09:17.040 --> 00:09:21.810
+On July 2, 2024, the result was announced.
+
+102
+00:09:21.810 --> 00:09:27.860
+The fifth busy beaver number is 47,176,870.
+
+103
+00:09:27.860 --> 00:09:33.590
+The machine Marxen and Buntrock had found 35 years earlier really was the champion.
+
+104
+00:09:33.590 --> 00:09:37.720
+62 years had passed since Radó asked the question.
+
+105
+00:09:37.720 --> 00:09:47.770
+The winner was not the elegant discovery of a single genius, but the collective bookkeeping of a community, spread over years, most of whose names were nothing but pseudonyms.
+
+106
+00:09:47.770 --> 00:09:54.460
+The victory had not even been announced yet when it became clear that something far darker was waiting on the next step of the hunt.
+
+107
+00:09:54.460 --> 00:09:57.470
+Nobody knows how large the sixth step is.
+
+108
+00:09:57.470 --> 00:10:02.880
+The only thing known is that the estimates coming from below have long since abandoned human intuition.
+
+109
+00:10:02.880 --> 00:10:13.730
+In 2022 Pavel Kropitz showed that the number of 1s a 6-state machine writes on the tape is larger than a tower of 10s stacked 15 high, a 10 raised to a 10 raised to a 10 and so on.
+
+110
+00:10:13.730 --> 00:10:18.180
+Next to that number, the count of atoms in the universe is a rounding error.
+
+111
+00:10:18.180 --> 00:10:28.870
+In 2025 mxdys broke the bound once again and pushed it to a level that cannot be expressed even with towers of exponents, a level that requires counting towers of towers.
+
+112
+00:10:28.870 --> 00:10:31.720
+But the real issue is not size.
+
+113
+00:10:31.720 --> 00:10:39.210
+The real issue surfaced on June 28, 2024, just four days before the fifth number was officially announced.
+
+114
+00:10:39.210 --> 00:10:45.260
+On the community's chat server, mxdys mentioned a strange 6-state machine.
+
+115
+00:10:45.260 --> 00:10:50.990
+The machine neither halted nor fell into any recognizable loop; it behaved almost at random.
+
+116
+00:10:50.990 --> 00:10:55.920
+A participant named Racheline soon worked out the machine's hidden rule.
+
+117
+00:10:55.920 --> 00:11:01.330
+They named it Antihydra, because it closely resembled an earlier machine called Hydra.
+
+118
+00:11:01.330 --> 00:11:05.300
+What Antihydra does can be reduced to a plain arithmetic game.
+
+119
+00:11:05.300 --> 00:11:08.310
+You have a number, 8 to begin with.
+
+120
+00:11:08.310 --> 00:11:15.320
+Each round you take that number, compute its half, throw away the remainder, and add what you get back to the number itself.
+
+121
+00:11:15.320 --> 00:11:19.450
+So the number grows by roughly one and a half times each round.
+
+122
+00:11:19.450 --> 00:11:22.780
+On the side you also keep a counter.
+
+123
+00:11:22.780 --> 00:11:29.950
+If the number in your hand that round is even, you increase the counter by 2; if it is odd, you decrease it by 1.
+
+124
+00:11:29.950 --> 00:11:34.560
+The machine halts if and only if that counter drops below zero.
+
+125
+00:11:34.560 --> 00:11:43.650
+So for Antihydra to halt, the odd numbers in this sequence growing by a factor of one and a half have to leave the even ones behind by an overwhelming margin.
+
+126
+00:11:43.650 --> 00:11:49.220
+It is a race in which the counter gains 2 for every even and loses 1 for every odd.
+
+127
+00:11:49.220 --> 00:11:55.750
+If odds and evens arrive with roughly equal frequency, the counter climbs on average, steadily.
+
+128
+00:11:55.750 --> 00:12:00.360
+For it to fall, a long run of odd numbers has to come up back to back.
+
+129
+00:12:00.360 --> 00:12:03.690
+Probability gives a very clear answer here.
+
+130
+00:12:03.690 --> 00:12:14.700
+If odd and even really are distributed like a coin toss, the chance that the counter ever dips below zero is one in the number you get by writing 10 followed by 200 million zeros.
+
+131
+00:12:14.700 --> 00:12:17.390
+In practice, zero.
+
+132
+00:12:17.390 --> 00:12:21.200
+The machine almost certainly runs forever.
+
+133
+00:12:21.200 --> 00:12:24.850
+Except that almost certainly means nothing in mathematics.
+
+134
+00:12:24.850 --> 00:12:28.500
+These numbers are not being produced by flipping coins.
+
+135
+00:12:28.500 --> 00:12:33.430
+It is a fully determined sequence, born from a single starting value.
+
+136
+00:12:33.430 --> 00:12:40.440
+Someone has to prove that the distribution of odds and evens really does behave as though it were random, and nobody can.
+
+137
+00:12:40.440 --> 00:12:48.570
+What is more, this question connects directly to a problem that has stood open in mathematics for decades, Mahler's question about Z numbers,
+
+138
+00:12:48.570 --> 00:12:53.180
+about how the fractional parts of the powers of one and a half are distributed.
+
+139
+00:12:53.180 --> 00:12:57.470
+Shawn Ligocki gave machines like this a name: cryptids.
+
+140
+00:12:57.470 --> 00:13:05.120
+Like creatures said to exist in the forest but never captured, they are machines whose behavior you can observe but cannot prove.
+
+141
+00:13:05.120 --> 00:13:08.130
+Antihydra is the most famous of them.
+
+142
+00:13:08.130 --> 00:13:11.620
+And on its own it locks the door to the sixth step.
+
+143
+00:13:11.620 --> 00:13:17.350
+If you want to know the sixth busy beaver number, you first have to solve this arithmetic puzzle.
+
+144
+00:13:17.350 --> 00:13:20.840
+The beaver hunt has turned into a mathematics problem.
+
+145
+00:13:20.840 --> 00:13:24.810
+As the scale climbs, the picture grows heavier still.
+
+146
+00:13:24.810 --> 00:13:35.180
+Through Stefan O'Rear's work, it was shown that a 27-state Turing machine searches for a counterexample to the Goldbach conjecture, meaning it halts only if that conjecture is false.
+
+147
+00:13:35.180 --> 00:13:40.750
+With about 744 states the same thing can be done for the Riemann hypothesis.
+
+148
+00:13:40.750 --> 00:13:52.400
+And the most striking of all: there is a 745-state machine for which the question of whether it halts can neither be proved nor disproved from the set theory axioms on which modern mathematics is built.
+
+149
+00:13:52.400 --> 00:14:00.370
+O'Rear established this result, and Johannes Riebel wrote it up in detail in his undergraduate thesis and brought it down one more step.
+
+150
+00:14:00.370 --> 00:14:02.420
+Here is what that means.
+
+151
+00:14:02.420 --> 00:14:09.910
+The 745th busy beaver number is, by definition, a specific, finite, single whole number.
+
+152
+00:14:09.910 --> 00:14:13.560
+It stops somewhere, it has a value.
+
+153
+00:14:13.560 --> 00:14:19.290
+But from inside the mathematics we use today, we will never be able to learn what that value is.
+
+154
+00:14:19.290 --> 00:14:22.140
+A number proved to be unprovable.
+
+155
+00:14:22.140 --> 00:14:25.950
+And this is where the real worth of the busy beaver function comes out.
+
+156
+00:14:25.950 --> 00:14:31.200
+It is not an amusing puzzle but a ruler that measures mathematics' own difficulty.
+
+157
+00:14:31.200 --> 00:14:35.810
+Every open conjecture corresponds to some rung on that ruler.
+
+158
+00:14:35.810 --> 00:14:44.740
+Goldbach at 27, Riemann at 744, the boundary of what mathematics can know at 745.
+
+159
+00:14:44.740 --> 00:14:48.230
+A hunt lasting 60 years won the fifth step.
+
+160
+00:14:48.230 --> 00:14:58.920
+On the sixth the hunt is not over; a handful of anonymous people from every corner of the world are learning together at exactly what point the hunt stops being a hunt and becomes the boundary itself.
+
+161
+00:14:58.920 --> 00:15:02.890
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+162
+00:15:02.890 --> 00:15:06.540
+Yeni bir hikâyede yeniden buluşmak üzere.
