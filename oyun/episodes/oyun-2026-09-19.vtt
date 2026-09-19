@@ -1,0 +1,581 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.210
+Oyunu bedava indiriyorsun, atına biniyor, ordunu topluyor, ilk kalenizi kuşatıyorsun.
+
+2
+00:00:06.210 --> 00:00:13.220
+Sonra yedinci seviyeye geliyorsun ve oyun kibarca duruyor: devamı için bir anahtar alman gerekiyor.
+
+3
+00:00:13.220 --> 00:00:21.990
+2004'te Ankara'da bir evden yapılan bu küçük numara, bugün bütün sektörün "bitmemiş oyunu satma" yöntemine dönüşecekti.
+
+4
+00:00:30.190 --> 00:00:38.960
+2000'li yılların başında Türkiye'de bilgisayar oyunu yapmak, çoğu insanın gözünde bir meslek tanımı değil, olsa olsa bir hevesti.
+
+5
+00:00:38.960 --> 00:00:43.090
+Yayıncı yoktu, yatırımcı yoktu, dağıtım ağı yoktu.
+
+6
+00:00:43.090 --> 00:00:50.260
+Yurt dışındaki bir oyuncunun kredi kartıyla Ankara'daki birine para göndermesi bile başlı başına bir uğraştı.
+
+7
+00:00:50.260 --> 00:00:57.750
+Tam da böyle bir ortamda, bir evin çalışma odasında, at üstünde kılıç sallanan bir oyunun ilk satırları yazılmaya başlandı.
+
+8
+00:00:57.750 --> 00:01:00.600
+Yazan kişi Armağan Yavuz'du.
+
+9
+00:01:00.600 --> 00:01:07.610
+Bilkent Üniversitesi'nde bilgisayar mühendisliği okumuştu ve başladığı şey kimseye söz verilmiş bir proje değildi.
+
+10
+00:01:07.610 --> 00:01:08.700
+Hobiydi.
+
+11
+00:01:08.700 --> 00:01:15.710
+Ama hobinin merkezinde, o güne kadar kimsenin doğru dürüst çözemediği inatçı bir fikir vardı: at.
+
+12
+00:01:15.710 --> 00:01:22.240
+O yıllarda ortaçağ oyunlarında at, çoğunlukla oyuncuyu haritada daha hızlı taşıyan bir araçtı.
+
+13
+00:01:22.240 --> 00:01:28.290
+Üstüne binerdiniz, hızlanırdınız, düşmana varınca yine aynı kılıç darbesini indirirdiniz.
+
+14
+00:01:28.290 --> 00:01:32.100
+Armağan Yavuz'un peşine düştüğü şey bambaşkaydı.
+
+15
+00:01:32.100 --> 00:01:35.750
+Atın hızı darbenin kendisine karışsın istiyordu.
+
+16
+00:01:35.750 --> 00:01:45.000
+Dörtnala giderken savrulan bir mızrak, duran bir adamın dürtmesiyle aynı şey olmasın; hızınız, yönünüz, çarpışma açınız hasara dönüşsün.
+
+17
+00:01:45.000 --> 00:01:53.290
+Bunun yanına bir de şu eklendi: saldırı yönünü farenizi hangi yöne kıpırdattığınız belirlesin, savunmayı da aynı mantıkla siz seçin.
+
+18
+00:01:53.290 --> 00:01:58.540
+Yukarıdan gelen darbeyi yukarıdan karşılayın, yandan geleni yandan.
+
+19
+00:01:58.540 --> 00:02:04.590
+Böylece dövüş, tuşlara basma sırası olmaktan çıkıp bir okuma meselesine dönüşüyordu.
+
+20
+00:02:04.590 --> 00:02:09.680
+Karşındakinin omzunun nereye döndüğünü görmek, kalkanını oraya taşımak.
+
+21
+00:02:09.680 --> 00:02:12.690
+İkinci inatçı fikir hikâyeyle ilgiliydi.
+
+22
+00:02:12.690 --> 00:02:17.300
+Oyunun geçtiği Calradia kıtasında sizi bekleyen bir kehanet yoktu.
+
+23
+00:02:17.300 --> 00:02:19.830
+Seçilmiş kişi değildiniz.
+
+24
+00:02:19.830 --> 00:02:26.200
+Adı sanı olmayan biri olarak, elinizde birkaç kuruşla, bir köy yolunda başlıyordunuz.
+
+25
+00:02:26.200 --> 00:02:37.530
+Oradan sonrası tamamen sizin meselenizdi: haydutları kovalayıp para biriktirebilir, bir lorda paralı asker olarak yazılabilir, köylüleri toplayıp kendi bölüğünüzü kurabilir,
+
+26
+00:02:37.530 --> 00:02:44.860
+yeterince ileri giderseniz bir krala biat edip vasal olabilir, hatta kendi krallığınızı ilan edebilirdiniz.
+
+27
+00:02:44.860 --> 00:02:47.870
+Oyun size ne yapmanız gerektiğini söylemiyordu.
+
+28
+00:02:47.870 --> 00:02:52.000
+Sadece bir dünya kuruyor ve kapıyı açık bırakıyordu.
+
+29
+00:02:52.000 --> 00:02:56.450
+Bu dünyanın nasıl göründüğü ise başka bir isme emanetti.
+
+30
+00:02:56.450 --> 00:03:02.820
+Armağan Yavuz kodu yazarken, eşi İpek Yavuz grafikleri ve görsel üretimi üstlendi.
+
+31
+00:03:02.820 --> 00:03:13.350
+Zırhların dokusu, sancakların rengi, arazinin havası, karakterlerin yüzleri, menülerin düzeni; oyuna bakınca gördüğünüz her şeyin sorumluluğu ondaydı.
+
+32
+00:03:13.350 --> 00:03:21.640
+İki kişilik bir ekipte iş bölümü bu kadar nettir: biri dünyanın nasıl çalıştığını, diğeri dünyanın nasıl göründüğünü kurar.
+
+33
+00:03:21.640 --> 00:03:28.330
+2005 yılında bu iki kişilik masa resmileşti ve Ankara'da TaleWorlds adıyla bir şirket kuruldu.
+
+34
+00:03:28.330 --> 00:03:34.540
+Ortaya çıkan şey, ilk bakışta kimsenin parasını vermek isteyeceği bir ürüne benzemiyordu.
+
+35
+00:03:34.540 --> 00:03:36.270
+Yüzler tahtadandı.
+
+36
+00:03:36.270 --> 00:03:38.960
+Kasabalar birbirinin kopyasıydı.
+
+37
+00:03:38.960 --> 00:03:45.170
+Şehirlerde dolaşırken karşınıza çıkan diyaloglar aynı birkaç cümlenin etrafında dönüyordu.
+
+38
+00:03:45.170 --> 00:03:52.660
+Ama atın üstüne binip mızrağı yatırdığınızda, ekranda o güne kadar hiçbir yerde hissedilmemiş bir şey oluyordu.
+
+39
+00:03:52.660 --> 00:03:57.110
+Çarpma anında atın hızının ağırlığını avucunuzda hissediyordunuz.
+
+40
+00:03:57.110 --> 00:04:04.760
+Oyunu ilk deneyenlerin anlattığı hep aynı şeydi: her şeyi affediyorsunuz, çünkü o an başka hiçbir oyunda yok.
+
+41
+00:04:04.760 --> 00:04:09.050
+Sorun şuydu: bu his, bir oyunu bitirmeye yetmez.
+
+42
+00:04:09.050 --> 00:04:13.180
+Bitirmek için zaman gerekir, zaman için para gerekir.
+
+43
+00:04:13.180 --> 00:04:19.550
+Ve 2005 yılında, Ankara'daki iki kişilik bir ekibin kapısını çalacak bir yayıncı yoktu.
+
+44
+00:04:19.550 --> 00:04:28.800
+Olsaydı bile, o yayıncının ilk soracağı soru belliydi: bu oyunun türü ne, rafta hangi bölüme koyacağız, kime satacağız?
+
+45
+00:04:28.800 --> 00:04:31.010
+Cevabı kimse veremiyordu.
+
+46
+00:04:31.010 --> 00:04:36.260
+Ne saf bir rol yapma oyunuydu, ne strateji, ne de dövüş oyunu.
+
+47
+00:04:36.260 --> 00:04:40.550
+Hepsinden bir parça alıp kendi kuralını kuran, tanımsız bir şeydi.
+
+48
+00:04:40.550 --> 00:04:46.760
+Böylece Armağan ve İpek Yavuz, o dönemde neredeyse hiç kimsenin denemediği bir yola girdi.
+
+49
+00:04:46.760 --> 00:04:51.530
+Oyunu bitirip satmak yerine, bitmemiş hâlini satmaya karar verdiler.
+
+50
+00:04:51.530 --> 00:04:59.020
+Kurdukları düzenek, bugünden bakınca son derece tanıdık görünüyor; ama o gün ortada bunun adı bile yoktu.
+
+51
+00:04:59.020 --> 00:05:03.150
+Kendi sitelerine oyunun çalışan bir sürümünü koydular.
+
+52
+00:05:03.150 --> 00:05:05.360
+İndirmek bedavaydı.
+
+53
+00:05:05.360 --> 00:05:14.770
+Kurulum dosyası küçüktü, eski bir bilgisayarda bile açılıyordu, ve içine girdiğinizde karşınızda kırpılmış bir tanıtım değil, oyunun kendisi vardı.
+
+54
+00:05:14.770 --> 00:05:21.780
+Haritanın tamamı, dövüş sisteminin tamamı, kuşatmalar, ordu toplama, kısacası her şey.
+
+55
+00:05:21.780 --> 00:05:23.670
+Tek bir duvar vardı.
+
+56
+00:05:23.670 --> 00:05:27.960
+Karakteriniz yedinci seviyeye ulaştığı anda oyun duruyordu.
+
+57
+00:05:27.960 --> 00:05:34.170
+Kaba bir kapanma değildi bu; oyun karakterinizi kaydediyor, sonra kendini kapatıyordu.
+
+58
+00:05:34.170 --> 00:05:37.660
+Yeniden açtığınızda aynı duvara tosluyordunuz.
+
+59
+00:05:37.660 --> 00:05:44.830
+Devam etmek istiyorsanız yapmanız gereken şey basitti: siteden bir seri anahtarı satın alıp oyuna girmek.
+
+60
+00:05:44.830 --> 00:05:53.120
+Anahtarı girdiğiniz anda duvar kalkıyor ve aynı karakterle, kaldığınız yerden, bıraktığınız haritada yürümeye devam ediyordunuz.
+
+61
+00:05:53.120 --> 00:05:58.370
+Bu sınırın tam olarak yedinci seviyeye konması, düzeneğin en kurnazca yanıydı.
+
+62
+00:05:58.370 --> 00:06:01.220
+Yedinci seviye çok uzakta değildir.
+
+63
+00:06:01.220 --> 00:06:04.710
+Birkaç saatlik oyunun sonunda ulaşırsınız.
+
+64
+00:06:04.710 --> 00:06:17.960
+Ama tam da orası, oyunun sizde açılmaya başladığı yerdir: artık düzgün bir atınız vardır, peşinize birkaç adam takmışsınızdır, ilk kuşatmanızı görmüşsünüzdür ve kafanızda bir plan oluşmaya başlamıştır.
+
+65
+00:06:17.960 --> 00:06:21.130
+Oyun tam o planın ortasında kapanıyordu.
+
+66
+00:06:21.130 --> 00:06:26.380
+Kimse size reklam izletmiyor, kimse sizi bir ödeme ekranında sıkıştırmıyordu.
+
+67
+00:06:26.380 --> 00:06:31.790
+Sadece ilerlemeniz donuyordu ve o donan ilerlemeyi çözmenin bir bedeli vardı.
+
+68
+00:06:31.790 --> 00:06:34.800
+Bugün bunu duyan biri omuz silkebilir.
+
+69
+00:06:34.800 --> 00:06:40.210
+Ama 2005 yılında yaptığınız şey şuydu: tanımadığınız bir ülkedeki,
+
+70
+00:06:40.210 --> 00:06:50.100
+adını daha önce hiç duymadığınız iki kişilik bir şirketin kişisel sitesine kredi kartı bilgilerinizi giriyor ve karşılığında bitmemiş bir oyun alıyordunuz.
+
+71
+00:06:50.100 --> 00:06:57.590
+Steam yoktu, dijital mağaza güvencesi yoktu, iade düğmesi yoktu, şikâyet edeceğiniz bir merci yoktu.
+
+72
+00:06:57.590 --> 00:07:00.760
+Sürüm numarası 1'in bile çok altındaydı.
+
+73
+00:07:00.760 --> 00:07:06.970
+Oyunun bir gün biteceğine dair elinizdeki tek teminat, forumda yazan iki insanın sözüydü.
+
+74
+00:07:06.970 --> 00:07:08.860
+Ve insanlar aldı.
+
+75
+00:07:08.860 --> 00:07:11.870
+Önce birkaç yüz kişi, sonra binler.
+
+76
+00:07:11.870 --> 00:07:16.640
+Aldıkça stüdyonun ömrü uzadı, ömür uzadıkça yeni sürüm çıktı.
+
+77
+00:07:16.640 --> 00:07:21.890
+Sürüm numaraları yıllara yayıldı; her yeni sürümle oyun biraz daha doldu.
+
+78
+00:07:21.890 --> 00:07:27.300
+Yeni birlik ağaçları, yeni kuşatma mekanikleri, düzeltilen yüzlerce hata.
+
+79
+00:07:27.300 --> 00:07:39.750
+Anahtarı bir kez alan bir daha para ödemiyordu; o anahtar, oyun nihayet bittiğinde tam sürümün de anahtarı olacaktı ve beta lisansının fiyatı, bitmiş oyunun raftaki fiyatından daha düşüktü.
+
+80
+00:07:39.750 --> 00:07:44.040
+Erken gelen ucuza alıyor, karşılığında riski üstleniyordu.
+
+81
+00:07:44.040 --> 00:07:47.690
+Bu düzenin hesapta olmayan bir yan etkisi oldu.
+
+82
+00:07:47.690 --> 00:07:52.300
+Parayı verenler, kendilerini müşteri değil ortak saymaya başladı.
+
+83
+00:07:52.300 --> 00:07:57.070
+Forum bir şikâyet kutusu değil, bir çalışma masasına dönüştü.
+
+84
+00:07:57.070 --> 00:08:05.840
+Hangi birliğin fazla güçlü olduğu, hangi kuşatma merdiveninin bozuk olduğu, ekonominin neden saçmaladığı, sayfalarca tartışıldı.
+
+85
+00:08:05.840 --> 00:08:14.290
+Ankara'daki iki kişi, dünyanın dört bir yanına dağılmış binlerce kişilik gönüllü bir test ekibine ve danışma kuruluna sahip oldu.
+
+86
+00:08:14.290 --> 00:08:21.620
+Ücretli beta satmanın asıl kazancı paradan ibaret değildi; oyunun kendisi o tartışmaların içinde şekillendi.
+
+87
+00:08:21.620 --> 00:08:24.310
+Yolun sonu 2008'de göründü.
+
+88
+00:08:24.310 --> 00:08:31.800
+Ocak ayında İsveçli yayıncı Paradox Interactive, kısaca Paradox, oyunun yayıncılığını üstlendiğini duyurdu.
+
+89
+00:08:31.800 --> 00:08:36.250
+Artık kutu, dağıtım, tanıtım ve mağaza rafı vardı.
+
+90
+00:08:36.250 --> 00:08:43.260
+16 Eylül 2008'de Mount and Blade'in tamamlanmış sürümü çıktı ve Steam üzerinden satışa sunuldu.
+
+91
+00:08:43.260 --> 00:08:48.510
+Yaklaşık dört yıl boyunca bitmemiş hâli satılan oyun, nihayet bitmişti.
+
+92
+00:08:48.510 --> 00:08:51.840
+Basın bölündü, hem de sert biçimde.
+
+93
+00:08:51.840 --> 00:08:57.090
+Eleştirileri ortalayan sitelerde oyunun notu 100 üzerinden 72'de kaldı.
+
+94
+00:08:57.090 --> 00:09:10.500
+Kimi yayın 10 üzerinden 8 verip dövüş sistemini ve özgürlüğü göklere çıkardı; kimi yayın 10 üzerinden 5 verip tekrar eden görevleri, cansız kasabaları ve çağının gerisinde kalan grafikleri gösterdi.
+
+95
+00:09:10.500 --> 00:09:12.390
+İkisi de haklıydı.
+
+96
+00:09:12.390 --> 00:09:20.200
+Oyun, güçlü olduğu yerde kendisine rakip tanımıyor, zayıf olduğu yerde ise acemi bir yapım gibi duruyordu.
+
+97
+00:09:20.200 --> 00:09:47.280
+Ancak satış rakamları eleştirmenlerin ortalamasını dinlemedi. İlk oyun dünya genelinde 1 milyonun üzerinde sattı ve 3 milyon doları aşan bir gelir getirdi. Üstüne, oyunun aldığı en dikkat çekici ödüller jürilerden değil, doğrudan oyunculardan geldi: bağımsız yapımların toplandığı platformda 2008'in en iyi bağımsız oyunu seçildi, hem editörlerin hem de oyuncuların oylarıyla.
+
+98
+00:09:47.280 --> 00:09:51.410
+Bu ikinci ödül, hikâyenin nereye gideceğinin habercisiydi.
+
+99
+00:09:51.410 --> 00:09:55.540
+Çünkü oyunu ayakta tutan şey, basın notu değildi.
+
+100
+00:09:55.540 --> 00:09:57.590
+Kalabalıktı.
+
+101
+00:09:57.590 --> 00:10:03.640
+Armağan Yavuz'un yaptığı en önemli teknik tercih, belki de oyunun kendisiyle ilgili değildi.
+
+102
+00:10:03.640 --> 00:10:06.810
+Oyunun içini oyunculara açık bıraktı.
+
+103
+00:10:06.810 --> 00:10:17.660
+Birlik ağaçları, eşyalar, siyaset kuralları, diyaloglar, harita; bunların çoğu metin dosyalarında ve betiklerle düzenlenebilen bir sistemin içinde duruyordu.
+
+104
+00:10:17.660 --> 00:10:23.710
+Yani oyunu değiştirmek için tersine mühendislik yapmanıza, dosyaları kırmanıza gerek yoktu.
+
+105
+00:10:23.710 --> 00:10:26.720
+Kuralları okuyup yeniden yazabiliyordunuz.
+
+106
+00:10:26.720 --> 00:10:31.490
+Sonuç, oyun tarihinin en verimli mod topluluklarından biri oldu.
+
+107
+00:10:31.490 --> 00:10:34.180
+İnsanlar kendi kıtalarını kurdu.
+
+108
+00:10:34.180 --> 00:10:45.350
+Kimi on üçüncü yüzyıl Avrupası'nı gerçek haritasıyla oyuna taşıdı; kimi tamamen özgün bir fantastik dünya yazdı; kimi de romanlardan ve dizilerden tanıdığımız krallıkları ekledi.
+
+109
+00:10:45.350 --> 00:10:56.520
+Bazıları bir iki silah ekleyen küçük dokunuşlardı, bazıları ise yüzlerce saatlik çalışmayla oyunu tanınmaz hâle getiren, ayrı bir yapım sayılabilecek devasa projelerdi.
+
+110
+00:10:56.520 --> 00:11:00.010
+Stüdyo bu enerjiyi kendi temeline çevirdi.
+
+111
+00:11:00.010 --> 00:11:03.820
+2010 yılının mart ayında Warband çıktı.
+
+112
+00:11:03.820 --> 00:11:16.750
+Bağımsız çalışan bu büyük genişleme, altıncı bir krallık, gelişmiş siyaset, evlilik ve ittifak sistemleri, kendi krallığınızı kurma imkânı ve en önemlisi çok oyunculu modlar getirdi.
+
+113
+00:11:16.750 --> 00:11:23.600
+Artık kuşatmayı yapay zekâya karşı değil, karşı surda duran gerçek insanlara karşı yapıyordunuz.
+
+114
+00:11:23.600 --> 00:11:31.090
+Warband, çıktığı yıldan sonra on yılı aşkın süre oynanmaya devam etti ve topluluk için asıl zemin hâline geldi.
+
+115
+00:11:31.090 --> 00:12:28.220
+Asıl şaşırtıcı olan, bu zeminin üstünde büyüyen mod ekiplerinin başına gelendi: bazıları resmen yayıncılık merdivenine çıktı. Tüfekli bir dönem modu üzerinde çalışan gönüllü ekip, Flying Squirrel Entertainment adıyla profesyonelleşti ve 19 Nisan 2012'de Napoleonic Wars, yani Napolyon Savaşları adlı resmî ek paketi çıkardı. Napolyon Savaşları, 200 oyuncuya kadar çıkabilen savaş alanları, altı ayrı ulus, kontrol edilebilen toplar ve yıkılabilen siperlerle, hobi projesinin nasıl bir ürüne dönüşebileceğinin kanıtıydı. Aynı şey bir kez daha yaşandı: Brytenwalda adlı bir mod ekibi, 11 Aralık 2014'te Viking Conquest, yani Viking Fethi adıyla resmî bir genişleme yayımladı. Bu arada 2011 yılının mayıs ayında, Ukraynalı Sich Studio ile birlikte geliştirilen ve 17. yüzyıl Doğu Avrupası'nda geçen ayrı bir oyun da seriye eklendi.
+
+116
+00:12:28.220 --> 00:12:30.750
+Rakamlar sessizce büyüdü.
+
+117
+00:12:30.750 --> 00:12:36.320
+Seri, 2015 yılına gelindiğinde 6 milyonun üzerinde sattı.
+
+118
+00:12:36.320 --> 00:12:44.930
+Ertesi yıl açıklanan verilere göre satışların yaklaşık yüzde 96'sı yurt dışındaydı ve oyun 212 ülkeye ulaşmıştı.
+
+119
+00:12:44.930 --> 00:12:48.900
+Ankara'da başlayan iş, artık ihracat kalemiydi.
+
+120
+00:12:48.900 --> 00:12:51.590
+Ve sonra o uzun bekleyiş geldi.
+
+121
+00:12:51.590 --> 00:12:56.680
+Serinin ikinci ana oyunu Bannerlord, 2012'de duyuruldu.
+
+122
+00:12:56.680 --> 00:12:59.050
+Ardından yıllar geçti.
+
+123
+00:12:59.050 --> 00:13:06.700
+Beklenti öyle bir noktaya vardı ki, oyunun ne zaman çıkacağı sorusu internette başlı başına bir şakaya dönüştü.
+
+124
+00:13:06.700 --> 00:13:12.590
+Sekiz yıl sonra, 30 Mart 2020'de, stüdyo oyunu erken erişime açtı.
+
+125
+00:13:12.590 --> 00:13:22.960
+Yani tam olarak 15 yıl önce yaptığı şeyi, bu kez sektörün resmî diliyle, herkesin bildiği bir sistem üzerinden tekrarladı: bitmemiş oyunu oyuncuya satmak.
+
+126
+00:13:22.960 --> 00:13:55.320
+Açılıştan sonraki altı saat içinde Bannerlord, aynı anda 160 bin kişiyle Steam'in en çok oynanan beşinci oyunu oldu. Önündeki dört oyun, dünyanın en büyük yapımlarıydı. İlk günlerde eş zamanlı oyuncu sayısı 200 binin çok üstüne, 250 bine yaklaşan bir tepeye çıktı ve oyun, o yılın Steam'deki en büyük çıkışı olarak kayda geçti. Ankara'daki ofisin ekranlarında akan sayı, bir zamanlar 7. seviyede duran o oyunun kaç kişiye ulaştığının canlı hâliydi.
+
+127
+00:13:55.320 --> 00:13:58.170
+Erken erişim iki buçuk yıl sürdü.
+
+128
+00:13:58.170 --> 00:14:06.140
+Tam sürüm 25 Ekim 2022'de çıktı ve oyun bu kez bilgisayarla sınırlı kalmayıp oyun konsollarına da girdi.
+
+129
+00:14:06.140 --> 00:14:16.030
+26 Kasım 2025'te ise serinin ilk resmî büyük genişlemesi yayımlandı: yelkenli savaşlarını oyuna ekleyen War Sails.
+
+130
+00:14:16.030 --> 00:14:26.560
+18 farklı gemi tipi, rüzgârın ve suyun fiziğiyle hesaplanan deniz muharebeleri, kancalarla yapılan borda çarpışmaları ve denizci bir kuzey halkı geldi.
+
+131
+00:14:26.560 --> 00:14:36.450
+Karşılama yine bölünmüştü; kimi eleştirmen deniz savaşlarını serinin en taze yeniliği saydı, kimi ise kara savaşlarının derinliğine hiç ulaşamadığını yazdı.
+
+132
+00:14:36.450 --> 00:14:38.660
+Tanıdık bir tablo.
+
+133
+00:14:38.660 --> 00:14:46.470
+Bu oyun hiçbir zaman herkesi ikna eden bir yapım olmadı; her zaman ikna ettiklerini yıllarca elinde tutan bir yapım oldu.
+
+134
+00:14:46.470 --> 00:14:51.720
+Bugün Hacettepe Teknokent'teki stüdyoda 130'un üzerinde kişi çalışıyor.
+
+135
+00:14:51.720 --> 00:14:58.250
+İki kişilik bir çalışma odasından buraya uzanan yolun bıraktığı miras ise sadece bir oyun serisi değil.
+
+136
+00:14:58.250 --> 00:15:12.300
+Bugün Steam'de, o alışık olduğumuz "erken erişim" etiketiyle satılan yüzlerce yapım var; oyuncunun bitmemiş bir ürüne para verip geliştirmenin ortağı olması, sektörün en yaygın finansman yöntemlerinden biri hâline geldi.
+
+137
+00:15:12.300 --> 00:15:20.430
+Ankara'daki o iki kişi, bu modelin adı konmadan yıllar önce, mecbur oldukları için bunu yaptı ve işe yaradığını kanıtladı.
+
+138
+00:15:20.430 --> 00:15:24.240
+Hikâyenin son cümlesi ise acı bir yerde yazıldı.
+
+139
+00:15:24.240 --> 00:15:33.010
+İpek Yavuz, 22 Temmuz 2026'da, 54 yaşında hayatını kaybetti; stüdyo kaybı 24 Temmuz'da duyurdu.
+
+140
+00:15:33.010 --> 00:15:38.260
+Oyuncu topluluğu ona uzun zamandır "Mount and Blade'in annesi" diyordu.
+
+141
+00:15:38.260 --> 00:15:46.070
+Dünyanın dört bir yanından, hiç tanımadığı insanlar, yıllarını verdikleri bir dünyanın rengini kuran kişi için yazdı.
+
+142
+00:15:46.070 --> 00:15:51.320
+Geriye şu kalıyor: bir evde, kodu biri yazdı, çizimleri diğeri yaptı.
+
+143
+00:15:51.320 --> 00:15:56.410
+Ve o ev, 212 ülkeye ulaşan bir imparatorluğa dönüştü.
+
+144
+00:15:56.410 --> 00:15:59.420
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+145
+00:15:59.420 --> 00:16:02.590
+Yeni bir hikâyede yeniden buluşmak üzere.
