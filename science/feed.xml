@@ -15,7 +15,20 @@
 <itunes:category text="Science"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Fri, 18 Sep 2026 14:31:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 14:32:04 +0000</lastBuildDate>
+<item>
+<title>Farther From the Fire, Hotter: The Sun's Unsolved Crown</title>
+<description>Explains how the Sun's surface sits at about five thousand five hundred degrees Celsius while the corona just above it climbs to one to three million — the temperature rising a hundredfold as you move away from the heat source. It traces the puzzle from the coronium error to Edlén's iron-ion solution, on to the nanoflare and Alfvén wave candidates and the data the Parker Solar Probe brought back by flying into the corona itself, a case still not closed.
+
+Konular: sun, corona, astrophysics, parker solar probe, plasma.</description>
+<itunes:subtitle>Explains how the Sun's surface sits at about five thousand five hundred degrees Celsius while the corona just above it climbs to one to three million — the temperature rising a hundredfold as you move away from the heat source. It traces the puzzle from the coronium error to Edlén's iron-ion solution, on to the nanoflare and Alfvén wave candidates and the data the Parker Solar Probe brought back by flying into the corona itself, a case still not closed.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-09-19.vtt" type="text/vtt" language="en" rel="captions"/>
+<pubDate>Sat, 19 Sep 2026 05:18:48 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-19.mp3" length="14330348" type="audio/mpeg"/>
+<guid isPermaLink="false">science-2026-09-19</guid>
+<itunes:duration>19:58</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>The Uncomputable Number: A Sixty-Year Beaver Hunt</title>
 <description>Tells how BB(5) — the greatest number of steps a five-state Turing machine can take before halting — was proved in two thousand twenty-four to be forty-seven million one hundred seventy-six thousand eight hundred seventy, and why the busy
