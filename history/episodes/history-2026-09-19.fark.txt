@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-19.mp3
+
+beklenen 2171 kelime | duyulan 2044 kelime | eşleşme %13.6
+sayı ifadesi: metinde 226, duyulanda 131  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...greatest city in christendom
+      metin  : baharında venedik
+      duyulan: the army that set out to save the holy land never arrived the army that set out to save the holy land never arrived and that debt turned its sword the greatest city in christendom the war was over the world war i as we have seen had a long long history the war was over the war was over elisabeth did not have the courage to write an abstract letter which also means that it was recorded in the uk however she was not able to be recognized in the past she had known of her life in the country and she was clearly the son of her father she also told of many of her uncle s surrogates in iran when they came to her country after that she had understood that her mother was not from canada and she had not been married to her son sl b k b b c c
+  REPLACE  ...christendom baharında venedik e
+      metin  : elçi geldi şampanya flander
+      duyulan: c o d e s i d d e d u d e t s a n a t a m t a s t c l i s h t e t s m k i c i n o z h e g i l a r y a p l d e y a n t a r a f u n d a k a p a k l a r o l a n yazunda venedike gelan hachlu saisi beklenenin uchte kadarte tarichile rincho onikibin jewarunda rakamdabir leshir jeri kalan nar hit yola cikmamush yada marsiliya
+  REPLACE  ...geldi şampanya flander ve
+      metin  : blois kontlarının adına konuşuyorlardı içlerinden sonradan olan biteni kaleme alacak olan geoffroi de villehardouin di ceplerinde boş yetki belgesi vardı efendileri bu adamların imzalayacağı
+      duyulan: apulia liman naran dan kendibashlarna doyagech mishte sefir katil mamakarar ve nirichinbo kishisal tarjithte venedike ichinisef elaketi gemilaryapul mishte ersakalan mishte paraharjan mishte ve yuk yuktu hachlalar shehrin karshesan dakilido adasanayar leshtirilde oral
+  REPLACE  ...bu adamların imzalayacağı her
+      metin  : şeye peşinen razıydı i stedikleri şey basitti kudüs de kaybedilmişti yeni sefer hazırlanıyordu ve bu sefer karadan değil denizden gidilecekti denizden gitmek için gemi gerekiyordu batı avrupa da orduyu akdeniz in öbür ucuna taşıyabilecek tek filo venedik teydi venedik i o sırada enrico dandolo yönetiyordu dayanmış gözleri görmeyen adamdı körlüğünün konstantinopolis te uğradığı saldırıdan mı kaldığı yoksa yaşlılığın mı işi olduğu bugün bile tartışılır kesin olan zihninin son derece açık olduğudur elçileri dinledi hafta düşünmek istedi sonra meclisine ve halkına danıştı aziz markos meydanı nda toplanan kalabalığın önünde anlaşma okundu ve onaylandı sözleşme ortaçağın en ayrıntılı taşımacılık kontratlarından venedik şövalyeyi atı silahtarı ve piyadeyi yani toplam adamı taşıyacaktı buna aylık erzak dahildi fiyat adam başına at başına gümüş mark olarak hesaplanmıştı toplam tam mark ediyordu bu yaklaşık ton gümüş demekti venedik ayrıca savaş kadırgasını da kendi masrafıyla sefeer katacak karşılığında ele geçirilecek her şeyin yarısını alacaktı kalkış tarihi haziran olarak belirlendi bu rakamların neye mal olduğunu anlamak için venedik in ne yaptığına bakmak gerekir şehir yıl boyunca neredeyze bütün ticari faaliyetini durdurdu tersane tam kapasite çalıştı at taşımak için özel gemiler yapıldı yan tarafında kapaklar olan atları kıyıya saldırı düzeninde çıkarabilen ağır teknelerdi bunlar binlerce denizci kalafatçı marangoz ve yelken ustası bu işe koşuldu venedik seferin lojistiğini üstlenmiyordu yıllığına kendi ekonomisini başkasının savaşına rehin veriyordu sorun sözleşmenin yanlış sayı üzerine kurulmuş olmasıydı rakamı elçilerin tahminiydi kimse avrupa daki her baronun ne yapacağını bilemezdi yazında venedik e gelen haçlı sayısı beklenenin kadardı tarihçilerin çoğu civarında rakamda birleşir geri kalanlar hiç yola çıkmamış ya da marsilya ve apulya limanlarından kendi başlarına doğu ya geçmişti sefeer katılmama kararı verenler için bu kişisel tercihti venedik için ize felaketti gemiler yapılmıştı erzak alınmıştı para harcanmıştı ve yük yoktu haçlılar şehrin karşısındaki lido adasına yerleştirildi orada her adamın kendi geçiş ücretini ödemesi istendi toplanabilen
+      duyulan: adamun kendigechi shujretinu oedemisi istende toplanibulin
+  REPLACE  ...ödemesi istendi toplanabilen miktar
+      metin  : mark oldu açık marktı liderler kendi gümüş takımlarını erittiler kaplarını verdiler borç aldılar yine de yetişmedi villehardouin in anlattığına göer ordunun içinde ciddi kırılma yaşandı bazıları açığın kapanmamasına sevindi çünkü sefer dağılırsa evlerine dönebileceklerdi dandolo nun teklifi tam bu noktada geldi venedik
+      duyulan: morgoldu ochuk orders dortmotsifr nard marktu ladarler kandigumishtakumlarana erittilar altun kaplarana verdilar borchal dilar yinada yeti shmidi vilhardoinin anlatunaguer ordununichinde jitdibir karilmayashande bazular achun kapanmamasana sevinde chunku seferdalar sa evlernadone biljeklarde dandolonun teklefi tambu noktadagaldi venedek
+  REPLACE  ...noktada geldi venedik kalan
+      metin  : borcu erteleyebilirdi karşılığında haçlılar yol üstünde venedik in kaybettiği şehri geri almakta yardımcı olacaklardı şehrin adı zara ydı bugünkü adıyla zadar dalmaçya kıyısında adriyatik in doğu yakasında venedik in deniz ticaret hattı üzerinde limandı yıl önce venedik kopup macaristan kralına bağlanmıştı ve zara hristiyan şehriydi
+      duyulan: bortu erteleilarde karshalun dahachlalar yolustun devenedikin kaibet dibir shehrigir almaktayardam jolja klarde shehrin adzaraide bugunke adilazadar dalmachakuyisundah adriyatikin doyakasundah venedikin denistijaret hatu uzerinde birlimande birkachilunje venediktankopup majaristan karalana balan mushtah vazara hristian shehriide
+  REPLACE  ...zara hristiyan şehriydi papa
+      metin  : innocentius seferin
+      duyulan: inocentius sefirin
+  REPLACE  ...innocentius seferin hem fikir
+      metin  : babası
+      duyulan: babasu
+  REPLACE  ...hem fikir babası hem
+      metin  : de hukuki dayanağıydı hristiyan şehrine saldırılmasını açıkça yasaklamıştı hatta macaristan kralı
+      duyulan: dehukukki dayanaydah hristian shehrin esaldrul masun achikchaya saqlamushtah hata makaristan karale
+  REPLACE  ...hatta macaristan kralı imer
+      metin  : kendisi de haç almış
+      duyulan: kandisi dehachalmush
+  REPLACE  ...de haç almış yani
+      metin  : seferi desteklediğini resmen ilan etmiş hükümdardı
+      duyulan: sefiride stekledinir esman ilanet mishbir hukimdardah
+  REPLACE  ...etmiş hükümdardı kilize hukuku
+      metin  : açısından
+      duyulan: achisundan
+  REPLACE  ...kilize hukuku açısından zara
+      metin  : ya dokunmak papanın himayesindeki toprağa saldırmak anlamına geliyordu
+      duyulan: yadokun mak papanen himaye sinde kibir topraas alder makandamunagyliordu
+  INSERT   ...anlamına geliyordu filo ekim
+      metin  : (yok)
+      duyulan: twanda oitudde demiralda yaklashek i kyuzgeme adriyatike achildundah vilehaiduinin bilae seusjuk bulmaktazorlandar bighurun teolusturmushtah kadargalaran venakdiye tekne lernin arasundah direkdera alsilmushkal kannar ruzgarda achilmush sanjaklar sanra ofilo kudusun tam taresistikametin edundu zara yatokasumdavaruldu shehirhalka surlara hachbeizdeer astu mesajachuktu bizde hristianas ustedik papanen kormasa altandais ordunu nichinde birbuluk bunu gurun jesavashmayi redete sistoutarikatan dan vok disernai basrahibigi papanen yasakmektubunu askar lernun
+  REPLACE  ...geliyordu filo ekim de
+      metin  : demir aldı yaklaşık gemi adriyatik e açıldığında villehardouin in bile sözcük bulmakta zorlandığı görüntü oluşturmuştu kadırgaların
+      duyulan: yukseksesle okudu simonden monfort arandabir boran adamlarilabir likte saldaria katalmayijan bildirde
+  REPLACE  ...görüntü oluşturmuştu kadırgaların ve
+      metin  : nakliye teknelerinin arasında direkleer asılmış kalkanlar rüzgarda açılmış sancaklar sonra o filo kudüs ün tam ters istikametine döndü
+      duyulan: ordu dan airelde kushatma yinadabashlade manjannaklar kuruldu lam jalar surlaran altanakazde
+  REPLACE  ...ters istikametine döndü zara
+      metin  : ya kasım
+      duyulan: kisum chu ti de teslimoldu shehir hachlalar la venediktilera rasun
+  REPLACE  ...zara ya kasım da
+      metin  : varıldı şehir halkı surlara haç bezleri astı mesaj açıktı biz de hristiyanız üstelik papanın koruması altındayız ordunun içinde bölük bunu görünce savaşmayı reddetti sisteaux tarikatından vaux de cernay başrahibi guy papanın yasak mektubunu askerlerin önünde yüksek sesle okudu simon de montfort adında baron adamlarıyla birlikte saldırıya katılmayacağını bildirdi
+      duyulan: ikeyebolundu
+  REPLACE  ...saldırıya katılmayacağını bildirdi ve
+      metin  : ordudan ayrıldı kuşatma yine de başladı mancınıklar kuruldu lağımcılar surların kazdı zara kasım de teslim oldu şehir haçlılarla venedikliler arasında bölündü ve yağmalandı kış boyunca
+      duyulan: yamalandu kushbo yunja
+  REPLACE  ...yağmalandı kış boyunca orada
+      metin  : kalındı bu arada ganimet paylaşımı yüzünden taraf arasında kanlı kavgalar çıktı yatıştırmak günler sürdü
+      duyulan: kalundu boarada gani metpailashumu yuzun dan ikitarafa rasun da kannu kavgalarchuktu yatishtirmakgun narsurdu
+  REPLACE  ...günler sürdü roma ya
+      metin  : haber ulaştığında papa nın tepkisi sert oldu
+      duyulan: haberulashtun da papanen teppkisi sertoldu
+  REPLACE  ...tepkisi sert oldu sefeer
+      metin  : katılan herkesi aforoz etti sonradan
+      duyulan: katalan herkese aforozete sonraden
+  REPLACE  ...aforoz etti sonradan frank
+      metin  : baronlarının pişmanlık bildirmesi üzerine onların
+      duyulan: berenlurnen pishmanlik bildermesuzerne onnerin
+  REPLACE  ...bildirmesi üzerine onların aforozunu
+      metin  : kaldırdı venediklilerinkini kaldırmadı
+      duyulan: kaldurde venediktileringkinu kaldurmadu
+  REPLACE  ...venediklilerinkini kaldırmadı ama ordunun
+      metin  : venedik siz
+      duyulan: venediksis
+  REPLACE  ...ordunun venedik siz yol
+      metin  : alması imkansızdı dolayısıyla cezanın
+      duyulan: almasi imkansizde dolaisi lajezanun
+  REPLACE  ...imkansızdı dolayısıyla cezanın pratikte
+      metin  : hiçbir karşılığı olmadı haçlı seferi ilk hedefini hristiyan şehirde bulmuş papalık yasağını çiğnemiş ve bunun sonucunda hiçbir şey değişmemişti zara daki kış ve çok daha büyük sapmanın hazırlandığı yerdir
+      duyulan: hichpirkarsi li olamadu hachlasefeer ike define hiristi an birshehir de bulmush papalik yasaani cinemish vebunun sonu junda hichpirshey de ishmemishte zarada ki kush vechok da habyuk sapmanan hazirlandu yardar
+  REPLACE  ...sapmanın hazırlandığı yerdir ordunun
+      metin  : yanına genç adam geldi aleksios adında bizans prensi babası i saakios te kardeşi aleksios tarafından tahttan indirilmiş kör edilmiş ve hapse atılmıştı genç aleksios kaçmış batı
+      duyulan: yanana genshpiradam galde alexios adan
+  REPLACE  ...aleksios kaçmış batı da
+      metin  : destek arıyordu
+      duyulan: birbizan sprensi baba si tu isekiyos dekardeshi uch alexios terafundan tahtan indirilmish kuer dilmish vehabsey atilmishte jinsha alexios kachmish batada destekaryordu
+  REPLACE  ...da destek arıyordu teklifi
+      metin  : en hafif deyişle iddialıydı kendisini
+      duyulan: nhafifde ishle idhaolide kendi sini
+  REPLACE  ...deyişle iddialıydı kendisini konstantinopolis
+      metin  : tahtına oturtan orduya gümüş mark ödeyecekti kudüs seferine
+      duyulan: tahtan aoturtan orduja ikigusbitsefer gimishmarko dejekte kudu seferin
+  REPLACE  ...ödeyecekti kudüs seferine asker
+      metin  : katacak kutsal topraklar da sürekli
+      duyulan: katajak kudsal topraklarda surekde
+  REPLACE  ...topraklar da sürekli olarak
+      metin  : şövalyenin masrafını üstlenecekti ve doğu kilisesi ni roma nın otoritesine bağlayacaktı
+      duyulan: beishu shovayinin masrafunu islen ejekte vedo ekilize sini romanun otorite sinebali ejakte
+  REPLACE  ...parasal sorunu askeri sorunu
+      metin  : ve dini meşruiyet
+      duyulan: vedini meshu yet
+  REPLACE  ...dini meşruiyet sorunu tek
+      metin  : sapmayla çözülecekti
+      duyulan: sapmaile chuzul ejekte
+  REPLACE  ...mark venedik e olan
+      metin  : borcun katından fazlaydı ordunun içinde bu teklife karşı çıkanlar oldu kısmı yine ayrıldı ama karar verildi
+      duyulan: borjun ikikatan dan fazlade ordun uni cinde butek life karsi chukan naroldu kasmaine irode amak karavarildi
+  REPLACE  ...ama karar verildi filo
+      metin  : baharında
+      duyulan: baharanda
+  REPLACE  ...filo baharında zara dan
+      metin  : ayrıldı korfu ya uğradı
+      duyulan: irode korfuja urade
+  REPLACE  ...korfu ya uğradı ve
+      metin  : marmara ya yöneldi bu yolculuğun hiçbir aşamasında
+      duyulan: mar marayo younalde buyol kulun hich ashamasundak
+  REPLACE  ...hiçbir aşamasında kimse konstantinopolis
+      metin  : i yıkalım demedi
+      duyulan: ijekalum demede
+  ... ve 144 fark daha
+
+metinde olup DUYULMAYAN: 1880 kelime | duyulup metinde OLMAYAN: 1754
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-09-19.duyulan.txt

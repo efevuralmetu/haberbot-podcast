@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-18.mp3
+
+beklenen 1408 kelime | duyulan 1419 kelime | eşleşme %95.9
+sayı ifadesi: metinde 328, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i ran tarafından bunu
+      metin  : doğrulayan
+      duyulan: doğruluyan
+  REPLACE  ...karşılanmadan müzakeer masasına oturulmayacağını
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...son günlerde tırmandı ve
+      metin  : riyad
+      duyulan: riyadh
+  REPLACE  ...takviye arayışına girdi abd
+      metin  : li
+      duyulan: ile
+  REPLACE  ...kurulu yüksek temsilcisi nikolay
+      metin  : mladenov
+      duyulan: maladenov
+  REPLACE  ...filistinli yetkilileer vize vermeyerek
+      metin  : mahmud
+      duyulan: mahmut
+  REPLACE  ...in doğu kudüs ile
+      metin  : maale
+      duyulan: mali
+  REPLACE  ...hava aracı ve roketlerle
+      metin  : hibrit
+      duyulan: hibrid
+  REPLACE  ...büyük çelik üreticisine ait
+      metin  : zaporijstal
+      duyulan: zaporishtal
+  REPLACE  ...eşiğe gelinmiş olabileceğini söyledi
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...modeli olarak tanıttığı claude
+      metin  : fable nokta
+      duyulan: fabel
+  REPLACE  ...arayışı da hızlanıyor openai
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...seçeneğinin masada olduğu bildirildi
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...piyasa değeri eylül ortası
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...şirketin toplam değerinin trilyon
+      metin  : doları
+      duyulan: dolara
+  REPLACE  ...nvidia nın nvlink fusion
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...eylül de politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...aralığına çekmesi oldu karar
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...itmesi güncellenen projeksiyonlarda yetkilinin
+      metin  : (yok)
+      duyulan: sı
+  REPLACE  ...yıl bitmeden en az
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...puanlık artış daha görüyor
+      metin  : dördü
+      duyulan: ü
+  INSERT   ...en yüksek seviye olan
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...borsa i stanbul da
+      metin  : bist
+      duyulan: beast
+  REPLACE  ...aylarında yeniden çizilen meclis
+      metin  : aritmetiği
+      duyulan: haritmeti
+  REPLACE  ...olağan kurultayı na ilişkin
+      metin  : şaibe iddiasıyla
+      duyulan: şaybe i ddiasıyla
+  REPLACE  ...tartışması da ısındı cumhurbaşkanlığı
+      metin  : başdanışmanı
+      duyulan: başlanışmanı
+  INSERT   ...mehmet uçum seçimlerin nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nin ankara büyükelçisi tom
+      metin  : barrack
+      duyulan: barak
+  REPLACE  ...york ta bm genel
+      metin  : kurulu marjında
+      duyulan: kurulum harcında
+  INSERT   ...politikası kurulu politika faizini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bankası yıl sonu tahminini
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...törenle hizmete girecek ve
+      metin  : teknofest
+      duyulan: technofest
+  REPLACE  ...diyarbakır da kapılarını açacak
+      metin  : önümüzdeki
+      duyulan: elimizdeki
+  REPLACE  ...ta dolan genel sekreter
+      metin  : antonyo guterriş
+      duyulan: antonio guterres
+  REPLACE  ...yakası nda aralıklı yerel
+      metin  : sağanak
+      duyulan: sağnak
+  REPLACE  ...sağanak ve gök gürültülü
+      metin  : sağanak
+      duyulan: sağnak
+  REPLACE  ...boyu aralıklı ve yerel
+      metin  : sağanak
+      duyulan: sağnak
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: gundem-2026-09-18.duyulan.txt

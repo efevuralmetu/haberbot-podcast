@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-19.mp3
+
+beklenen 1898 kelime | duyulan 1933 kelime | eşleşme %95.3
+sayı ifadesi: metinde 273, duyulanda 189  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sarısı kireç beyazı duvarlar
+      metin  : garb suheyl
+      duyulan: garp suhey
+  REPLACE  ...garb suheyl yani batı
+      metin  : suheyl
+      duyulan: suhey
+  REPLACE  ...ve döndü ize en
+      metin  : pratiğidir
+      duyulan: pratiyidir
+  REPLACE  ...boğar tarlayı yutar gecede
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...hemen güneyi güney ucu
+      metin  : sudan ın
+      duyulan: su dağının
+  REPLACE  ...denen topluluk yaşar güneyinde
+      metin  : fedicce
+      duyulan: feditçe
+  REPLACE  ...akrabadır ama birbirinden ayrılmıştır
+      metin  : nobiin
+      duyulan: nobiy in
+  REPLACE  ...arapçanın hiç girmediği sözcük
+      metin  : dağarcığı
+      duyulan: dağırcığı
+  REPLACE  ...çeşitlerinin adları akrabalık dereceleri
+      metin  : mutfak da
+      duyulan: mutfakta
+  REPLACE  ...haline getirilmiş bamyadan yapılan
+      metin  : weika
+      duyulan: veyka
+  REPLACE  ...uzayan koyu yahniye dönüşür
+      metin  : darıdan
+      duyulan: dağırıdan
+  REPLACE  ...cezvede hazırlanan zencefil ve
+      metin  : karanfille
+      duyulan: karanfil ile
+  REPLACE  ...zencefil ve karanfille ağırlaştırılmış
+      metin  : nubya
+      duyulan: nobiy a
+  REPLACE  ...evin serinliği de tasarımdandır
+      metin  : kerpiç
+      duyulan: karpiç
+  REPLACE  ...çalışır mısırlı mimar hasan
+      metin  : fathi
+      duyulan: fatih
+  REPLACE  ...da buraya asvan ın
+      metin  : nubyalı
+      duyulan: nobiyalı
+  REPLACE  ...ın nubyalı ustalarına geldi
+      metin  : kalıpsız
+      duyulan: tokalıpsız
+  REPLACE  ...ustalarına geldi kalıpsız tonoz
+      metin  : örmeyi
+      duyulan: örmeği
+  REPLACE  ...toprağın hafızası da derindir
+      metin  : nubya
+      duyulan: nobiy a
+  INSERT   ...kez yüzyılın başında dokundu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...su ilk köyleri yaladı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yükseltildi su daha yükseldi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...gelmişti bile asıl olan
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...mısır tarafında tahliye ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yapıldı sonuç değişmedi ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaklaşık kilometreydi yakın insan
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...kalacak tapınakları taşımak için
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...tepeye yeniden monte edildi
+      metin  : filae
+      duyulan: filaye
+  INSERT   ...monte edildi filae tapınakları
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...filae tapınakları sökülmeye başlandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeniden kuruldu sudan da
+      metin  : faras
+      duyulan: farast
+  REPLACE  ...aramaya bu yıllarda başladı
+      metin  : udla
+      duyulan: utla
+  REPLACE  ...en bilinen parçasının adı
+      metin  : eskaley
+      duyulan: eskale
+  REPLACE  ...gitmedi yeni vadi halfa
+      metin  : yetmişlerden
+      duyulan: lerden
+  REPLACE  ...kuzeyinde yeniden kuruldu toz
+      metin  : sac
+      duyulan: sak
+  REPLACE  ...ın kuzeyinde bu korku
+      metin  : binlerde
+      duyulan: lerde
+  INSERT   ...çağlayanda inşa edilen ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tamamlanan merove barajı arkasında
+      metin  : kilometreyi
+      duyulan: km yi
+  INSERT   ...aşan göl bıraktı ve
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...nubyalıların yaşadığı çağlayana geldi
+      metin  : kacbar
+      duyulan: kaçbar
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: seyahat-2026-09-19.duyulan.txt

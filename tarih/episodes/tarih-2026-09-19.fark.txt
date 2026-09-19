@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-19.mp3
+
+beklenen 2655 kelime | duyulan 2688 kelime | eşleşme %93.0
+sayı ifadesi: metinde 453, duyulanda 313  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve o borç kılıcı
+      metin  : hristiyanlığın
+      duyulan: hıristiyanlığın
+  REPLACE  ...yazında kudüs düştüğünde batı
+      metin  : hristiyanlığı
+      duyulan: hıristiyanlığı
+  REPLACE  ...yaşadı selahaddin in orduları
+      metin  : hıttin
+      duyulan: hiddin
+  REPLACE  ...turnuvada şampanya kontu tibo
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...henüz yaşındaydı flandria kontu
+      metin  : boduen
+      duyulan: baudouin
+  REPLACE  ...kışında elçi alplerden geçip
+      metin  : venediğe
+      duyulan: venedik e
+  REPLACE  ...indi i çlerinden şampanya
+      metin  : mareşali jofrua dö vilardüen
+      duyulan: mağareşali giofroua de villarduen
+  REPLACE  ...karşılarında oturan adam doç
+      metin  : enriko dandolo ydu
+      duyulan: enrico dan doluydu ına
+  INSERT   ...venedik sözünü harfiyen tutmuştu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yerine i talyan asilzade
+      metin  : montferratlı
+      duyulan: monferratlı
+  REPLACE  ...kötüsü savaşçıların büyük kısmı
+      metin  : venediğe
+      duyulan: venedik e
+  REPLACE  ...kapatılmasının hiçbir yolu yoktu
+      metin  : venediğin
+      duyulan: venedik in
+  DELETE   ...elinde seçenek vardı ya
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ordu da yol üzerinde
+      metin  : venediğe
+      duyulan: venedik e
+  REPLACE  ...venediğe küçük hizmette bulunacaktı
+      metin  : adriyatiğin
+      duyulan: adriati in
+  REPLACE  ...zara limanı yıllar önce
+      metin  : venediğe
+      duyulan: venedik e
+  REPLACE  ...rakip liman hem de
+      metin  : venediğin dalmaçya
+      duyulan: venedik in dalmaça
+  REPLACE  ...sesle söyleyen adamlar vardı
+      metin  : vo dö
+      duyulan: voğodö
+  REPLACE  ...vardı vo dö serne
+      metin  : manastırının başrahibi gi
+      duyulan: manastırı nın baş rahibi ge
+  REPLACE  ...yasakladığını ilan etti simon
+      metin  : dö monfor
+      duyulan: de monfort
+  REPLACE  ...değil çok daha basitti
+      metin  : venediğin
+      duyulan: venedik in
+  REPLACE  ...ekim inde venedik ayrıldı
+      metin  : vilardüen
+      duyulan: villarduen
+  INSERT   ...ve mucca teslim oldu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...seferinin daha ilk kışında
+      metin  : kilize nin
+      duyulan: kilisenin
+  REPLACE  ...görüyordu ve papalık kınamasının
+      metin  : venediğin dalmaçya
+      duyulan: venedik in dalmatça
+  INSERT   ...önce saray darbesi olmuştu
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...darbesi olmuştu i mparator
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve zindana atılmıştı kardeşi
+      metin  : aleksios
+      duyulan: alexios
+  REPLACE  ...saakios un genç oğlu
+      metin  : aleksios
+      duyulan: alexios
+  REPLACE  ...için fazlasıyla çekiciydi prens
+      metin  : aleksios
+      duyulan: alexios
+  INSERT   ...ordu haline gelmişti haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hayatlarında böyle şey görmemişti
+      metin  : vilardüen
+      duyulan: vilarduen
+  REPLACE  ...askeri değil siyasiydi genç
+      metin  : aleksios
+      duyulan: alexios
+  REPLACE  ...en zayıf duvarlarına yani
+      metin  : haliç
+      duyulan: halic
+  REPLACE  ...sürüldü ve halkaları kırdı
+      metin  : haliç
+      duyulan: halic
+  INSERT   ...halkaları kırdı haliç açılmıştı
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...saldırı başladı franklar karadan
+      metin  : blakhernai
+      duyulan: bula kernay
+  REPLACE  ...blakhernai surlarına yüklendi venedikliler
+      metin  : haliç
+      duyulan: halic
+  INSERT   ...sahnelerinden yaşandı kaynaklara göer
+      metin  : (yok)
+      duyulan: ını
+  REPLACE  ...dandolo kadırgasının burnunda aziz
+      metin  : markos
+      duyulan: marcos
+  ... ve 67 fark daha
+
+metinde olup DUYULMAYAN: 120 kelime | duyulup metinde OLMAYAN: 157
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: tarih-2026-09-19.duyulan.txt

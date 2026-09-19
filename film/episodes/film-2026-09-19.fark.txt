@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-19.mp3
+
+beklenen 1449 kelime | duyulan 1457 kelime | eşleşme %91.9
+sayı ifadesi: metinde 195, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...fransa da resmen yoktular
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...da resmen yoktular de
+      metin  : yahudiydi
+      duyulan: yahudi idi
+  REPLACE  ...stüdyoda elektrik yine kesildiğinde
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...kalıyordu alçıdan yapılmış tiyatro
+      metin  : cepheleri
+      duyulan: cepeleri
+  INSERT   ...kameranın önündeki kişilik kalabalık
+      metin  : (yok)
+      duyulan: er
+  REPLACE  ...görünmemesi gereken insanlar vardı
+      metin  : marsel karne
+      duyulan: marcel carne
+  REPLACE  ...bilinen filmi özgün adıyla
+      metin  : lezanfan dü paradi
+      duyulan: les enfants du paradis
+  REPLACE  ...yapımdır fikir şubatında doğdu
+      metin  : karne
+      duyulan: carne
+  REPLACE  ...senaryo ve diyalog yazarı
+      metin  : jak prever
+      duyulan: jacques prevert
+  REPLACE  ...jak prever ve oyuncu
+      metin  : jan lui barro nis te
+      duyulan: jean louis baroniste
+  REPLACE  ...barro nis te aradayken
+      metin  : barro
+      duyulan: barrow
+  REPLACE  ...aradayken barro yüzyılın efsanevi
+      metin  : pandomimcisi jan
+      duyulan: pandom imcisi jean
+  REPLACE  ...efsanevi pandomimcisi jan gaspar
+      metin  : döbüro
+      duyulan: debureau
+  INSERT   ...nun hayatından olayı anlattı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...delikanlıyı bastonuyla vurup öldürmüştü
+      metin  : döbüro
+      duyulan: debureau
+  REPLACE  ...sesini nihayet duyma merakıydı
+      metin  : barro
+      duyulan: barrow
+  REPLACE  ...anlatırken aklında rol vardı
+      metin  : karne
+      duyulan: carne
+  REPLACE  ...rol vardı karne ile
+      metin  : prever
+      duyulan: prevert
+  REPLACE  ...şirketiyle i talyan ortak
+      metin  : skalera
+      duyulan: scalera
+  REPLACE  ...yola çıktı çekimler ağustos
+      metin  : nis
+      duyulan: te nist
+  REPLACE  ...çekimler ağustos nis teki
+      metin  : viktorin
+      duyulan: victorian
+  REPLACE  ...stüdyolarında yeniden başlayabildi ekip
+      metin  : şubatında nis
+      duyulan: şubat ında nist
+  REPLACE  ...tek şey imkansızlıktı film
+      metin  : stoğu
+      duyulan: stow
+  REPLACE  ...duruyordu filmin dekorlarını tasarlayan
+      metin  : aleksandr
+      duyulan: alexander
+  REPLACE  ...trauner ve müziğini yazan
+      metin  : jozef kosma yahudiydi
+      duyulan: joseph cosma yahudi idi
+  REPLACE  ...jenerikte leon barsak ve
+      metin  : remon gabutti
+      duyulan: ramon gabbutti
+  REPLACE  ...remon gabutti imzasıyla göründü
+      metin  : kosma
+      duyulan: cosma
+  REPLACE  ...yaşayan belçikalı müzisyenin adını
+      metin  : jorj muke
+      duyulan: george mukhe
+  REPLACE  ...ödünç aldı müzik resmen
+      metin  : moris tirye
+      duyulan: maurice tier
+  DELETE   ...ilk gösteriminde afişte yoktu
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yalnızca dışarıdan gelmiyordu eskici
+      metin  : jeriko
+      duyulan: jericho
+  REPLACE  ...eskici jeriko rolünü oynayan
+      metin  : rober lö vigan
+      duyulan: robert lovigan
+  REPLACE  ...gecede kaybetti ve rolü
+      metin  : piyer renuar
+      duyulan: pierer renoir
+  REPLACE  ...girmesini istiyordu çekimler haziran
+      metin  : normandiya
+      duyulan: te normandia
+  REPLACE  ...bulvarın gerçek tiyatrolarından vardır
+      metin  : teatr de fünambül
+      duyulan: teatrade funambül
+  REPLACE  ...saat çalındığı için suçlanan
+      metin  : garans ı arletti
+      duyulan: garansı arlette
+  INSERT   ...oynayarak tek kelime etmeden
+      metin  : (yok)
+      duyulan: he
+  REPLACE  ...sahnede gerçeği söyleyen taraftır
+      metin  : prever
+      duyulan: prevert
+  REPLACE  ...ayrı konuşma biçimi diker
+      metin  : piyer brasör ün
+      duyulan: pierer brassur un
+  REPLACE  ...piyer brasör ün oynadığı
+      metin  : frederik lömetr
+      duyulan: frédéric lomèter
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 90 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: film-2026-09-19.duyulan.txt

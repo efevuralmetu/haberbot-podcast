@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-19.mp3
+
+beklenen 1459 kelime | duyulan 1493 kelime | eşleşme %95.8
+sayı ifadesi: metinde 313, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ergani den sinoba siirt
+      metin  : kerküğe
+      duyulan: kerkü ye
+  REPLACE  ...usta çırak ilişkilerinden başlatır
+      metin  : tanpınar
+      duyulan: tam pınar
+  REPLACE  ...edebileceği sorusu bu soru
+      metin  : tanpınar
+      duyulan: tam pınar
+  REPLACE  ...şiirleri dergilerde gazetelerde ağızdan
+      metin  : ağıza
+      duyulan: ağza
+  INSERT   ...ağıza dolaşmıştır kitapları ancak
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...benzer erteleme huyuyla yaşayacaktır
+      metin  : tanpınar
+      duyulan: tam pınar
+  INSERT   ...tanpınar ın ilk şiiri
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ın ilk şiiri yayımlanır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...erkek lisesi nde yıl
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mitoloji dersleri vermeye başlar
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...dersleri vermeye başlar kasım
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kürsüsüne profesör olarak atanır
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...yaşamaktadır i lk kitabı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tevfik fikret üzerine incelemedir
+      metin  : namık
+      duyulan: de namı
+  INSERT   ...kemal antolojisi hazırlar yani
+      metin  : (yok)
+      duyulan: lı
+  INSERT   ...abdullah efendi nin rüyaları
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yayımladığı tek şiir kitabı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...müsveddelerde mektupların arasında kalır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...şehirlerin hafızasını kuran denemeler
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...okur ister huzur şubat
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...kitap olarak basılır roman
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geri kalanını belirleyecek olan
+      metin  : yaradır
+      duyulan: yaratır
+  REPLACE  ...tanpınar ize osmanlı musikisinden
+      metin  : bergson
+      duyulan: berkson
+  INSERT   ...değil hiçbir şey yazılmaması
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...karşılıksızlık duygusu içinde haziran
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...cilt haline gelmek için
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yıldır bekleyen saatleri ayarlama
+      metin  : enstitüsü
+      duyulan: institüsü
+  INSERT   ...belki dönüş işareti ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i stanbul da ölür
+      metin  : romanının
+      duyulan: romamının
+  INSERT   ...üzerinde çalıştığı kitap yayımlanır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yayımlanır edebiyat üzerine makaleleri
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...makaleleri denemeleri araya getirilir
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sahnenin dışındakiler kitap olur
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra unutulmuş romandır bu
+      metin  : mahur
+      duyulan: te mağhur
+  INSERT   ...bu mahur beste basılır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tefrika edilmiş tamamlanmamış metin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bitmemiş son romanı yani
+      metin  : tanpınar
+      duyulan: tampınar
+  INSERT   ...son da defter açılır
+      metin  : (yok)
+      duyulan: ki nin
+  REPLACE  ...dergah yayınları i nci
+      metin  : enginün
+      duyulan: engin in
+  REPLACE  ...hazırladığı kitap yayımlar günlüklerin
+      metin  : işığında tanpınar
+      duyulan: ışığında tampınar
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: edebiyat-2026-09-19.duyulan.txt

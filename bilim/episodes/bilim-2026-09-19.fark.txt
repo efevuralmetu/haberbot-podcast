@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-19.mp3
+
+beklenen 1951 kelime | duyulan 1949 kelime | eşleşme %95.7
+sayı ifadesi: metinde 270, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...amerika nın orta batısında
+      metin  : iowa nın
+      duyulan: ayavan ın
+  REPLACE  ...ölçer işığı prizmadan geçirip
+      metin  : renklerine
+      duyulan: renklerini
+  REPLACE  ...beyazı ipeksi düzensiz taç
+      metin  : korona
+      duyulan: corona
+  REPLACE  ...da charles augustus young
+      metin  : dı moyn
+      duyulan: the moyne
+  REPLACE  ...harkness birbirlerinden bağımsız olarak
+      metin  : koronanın
+      duyulan: coronanın
+  REPLACE  ...çizgi dalga boyu nanometer
+      metin  : kirhof
+      duyulan: kirhoff
+  REPLACE  ...hiçbir şeye ait değildi
+      metin  : laboratuvarlarda
+      duyulan: laboratuarlarda
+  INSERT   ...hatası olmalı olurdu ama
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...güneş anlamına gelen kökten
+      metin  : helyum
+      duyulan: helium
+  REPLACE  ...kökten helyum adını vermişlerdi
+      metin  : helyum dünya da
+      duyulan: helium dünyada
+  INSERT   ...element yeri yoktu cevap
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da çalışan alman astrofizikçi
+      metin  : valter
+      duyulan: walter
+  INSERT   ...gittikçe sıcaklık düşer düşer
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...o kılığın ne olduğu
+      metin  : astrofiziğin buçuk
+      duyulan: astrofizin
+  REPLACE  ...olduğu aktif bölgelerde bu
+      metin  : kilovat
+      duyulan: kilowatt
+  REPLACE  ...in yüzeyinden yayılan toplam
+      metin  : enerjiyle
+      duyulan: enerji ile
+  INSERT   ...en hırçın bölgelerde bile
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...için giderek birbirine dolanır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yerde bu minik patlamalarla
+      metin  : çıtırdıyorsa
+      duyulan: çıtırdıysa
+  REPLACE  ...farklı hızlarda titreşip aralarında
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...salındığı doğrudan görülebilmeli her
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...salındığı spiküllerin titrediği kaydedildi
+      metin  : öte
+      duyulan: üstöte
+  INSERT   ...avrupa uzay ajansı nın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nın çalışmaya başlayan solar
+      metin  : orbiter ı
+      duyulan: orbiteri
+  REPLACE  ...orbiter ı yani güneş
+      metin  : yörüngecisi
+      duyulan: yörün gecesi
+  INSERT   ...gidip yerinde ölçmesi gerekiyordu
+      metin  : (yok)
+      duyulan: destokon
+  INSERT   ...yerinde ölçmesi gerekiyordu ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fırlatmayı izlemek için bizzat
+      metin  : oradaydı
+      duyulan: oraydı
+  REPLACE  ...önünde meter çapında yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...güneş e her yaklaşımında
+      metin  : venüs
+      duyulan: venus
+  INSERT   ...daraltacak biçimde programlandı nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...daha da yaklaştı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kimsenin beklemediği şey gördü
+      metin  : güneş
+      duyulan: güneşten
+  INSERT   ...rüzgarda yaygın biçimde bulunuyorlardı
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...vuracağını söylemekte hala zorlanıyor
+      metin  : iowa
+      duyulan: da ayova
+  REPLACE  ...daha cevaplanabilir gizeme bırakır
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: bilim-2026-09-19.duyulan.txt

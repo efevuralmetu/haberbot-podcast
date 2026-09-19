@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-19.mp3
+
+beklenen 3092 kelime | duyulan 3079 kelime | eşleşme %98.8
+sayı ifadesi: metinde 188, duyulanda 136  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...the temperatuer jumps a
+      metin  : hundredfold
+      duyulan: fold
+  REPLACE  ...of falling rises a
+      metin  : hundredfold
+      duyulan: fold
+  REPLACE  ...splits it into its
+      metin  : colours
+      duyulan: colors
+  REPLACE  ...lines hidden inside those
+      metin  : colours
+      duyulan: colors
+  REPLACE  ...the sun s brilliant
+      metin  : disc
+      duyulan: disk
+  REPLACE  ...green line its wavelength
+      metin  : point nanometres
+      duyulan: nanometers
+  REPLACE  ...the swedish spectroscopist bengt
+      metin  : edlén
+      duyulan: edlin
+  REPLACE  ...moer than a few
+      metin  : kilometres
+      duyulan: kilometers
+  DELETE   ...from a sparkler aer
+      metin  : a
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yor pocket knotting itself
+      metin  : that
+      duyulan: the
+  REPLACE  ...the swedish physicist hannes
+      metin  : alfvén
+      duyulan: alfven
+  REPLACE  ...of the theory is
+      metin  : reining
+      duyulan: raining
+  REPLACE  ...and collapsing into turbulence
+      metin  : neighbouring
+      duyulan: neighboring
+  REPLACE  ...the japanese solar observatory
+      metin  : hinode
+      duyulan: hanod
+  INSERT   ...tubes weer recorded swaying
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...few to a few
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...front sits a shield
+      metin  : point metres
+      duyulan: meters
+  REPLACE  ...metres across and about
+      metin  : centimetres
+      duyulan: centimeters
+  DELETE   ...at a distance of
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the probe passed within
+      metin  : point kilometres
+      duyulan: kilometers
+  REPLACE  ...the sun s surface
+      metin  : travelling
+      duyulan: traveling
+  REPLACE  ...s surface travelling at
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...the sun s immediate
+      metin  : neighbourhood
+      duyulan: neighborhood
+  DELETE   ...defined moer answerable mystery
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 21
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: science-2026-09-19.duyulan.txt

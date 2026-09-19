@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-19.mp3
+
+beklenen 2186 kelime | duyulan 2242 kelime | eşleşme %95.5
+sayı ifadesi: metinde 286, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yok ettiği her şey
+      metin  : cambridgeshier
+      duyulan: jambrit geshir
+  REPLACE  ...her şey cambridgeshier bölgesindeki
+      metin  : whittlesey
+      duyulan: whittlesay
+  REPLACE  ...anılıyordu must farm yani
+      metin  : must
+      duyulan: most
+  INSERT   ...ıslak kalacakları belli değildi
+      metin  : (yok)
+      duyulan: kipi te
+  INSERT   ...i ki yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yüzlerce yıl önceye yaklaşık
+      metin  : mö
+      duyulan: mislök leer
+  REPLACE  ...akıyordu ve insanlar üzerinde
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  REPLACE  ...i ngilteer ocağın sahibi
+      metin  : forterra
+      duyulan: fortera
+  INSERT   ...gibson dı çalışma eylül
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...eylül başladı ve ağustos
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...şeylerini bırakıp gitti yaklaşık
+      metin  : mö
+      duyulan: melatio
+  REPLACE  ...kanal var bugünkü nene
+      metin  : irmağı nın
+      duyulan: ırmağının
+  REPLACE  ...dışta kil tabanı yaklaşık
+      metin  : metrekaer
+      duyulan: meter kaer
+  REPLACE  ...uzunluğundaydı ve direkten oluşuyordu
+      metin  : dişbudak
+      duyulan: sı diş budak i
+  REPLACE  ...kapattığı alanın en az
+      metin  : metrekaer
+      duyulan: meter kaer
+  REPLACE  ...ağaç halkalarının incelenmesi bu
+      metin  : keresteyle
+      duyulan: kereste ile
+  REPLACE  ...aynı yıl kesilmişti üstelik
+      metin  : eylülle
+      duyulan: eylül ile
+  REPLACE  ...nereye ne koyacağınızı bilirdiniz
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...geyik eti bal benzeri
+      metin  : tatlandırıcıyla
+      duyulan: tatlandırıcı ile
+  REPLACE  ...çıkan yanma izleri ateşin
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...ne altındaki çamurda ne
+      metin  : çitin
+      duyulan: çetin
+  INSERT   ...kendisi kaçamadı bağlı oldukları
+      metin  : (yok)
+      duyulan: yerlerine kuzuların kendisi kaçamadı
+  REPLACE  ...oluklu keskiler bıçaklar bulundu
+      metin  : çitin
+      duyulan: çetin
+  REPLACE  ...başlayalım kap sayıldı bunların
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...kacağının büyük bölümü tahtadandı
+      metin  : must
+      duyulan: mus
+  INSERT   ...kumaş parçası makara bunların
+      metin  : (yok)
+      duyulan: sı
+  REPLACE  ...ve ayrı dokuma parçası
+      metin  : hammadde
+      duyulan: han madde
+  REPLACE  ...borulu kenar tekniğiyle kapatılmış
+      metin  : bazı
+      duyulan: bez
+  INSERT   ...başka kapı açıyor toplam
+      metin  : (yok)
+      duyulan: yı
+  INSERT   ...toplam aşan boncuk arasında
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...ve kalay boncuklar çıktı
+      metin  : cam
+      duyulan: j amy
+  INSERT   ...taşıyordu metal buluntu sayısı
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...her şey arada şubat
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...yerinde duran ahşap tekerlek
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yerleşimin karayla da sıkı
+      metin  : bağı
+      duyulan: bağ
+  REPLACE  ...bağı olduğunu gösterdi burası
+      metin  : bataklığa
+      duyulan: bataklı ya
+  REPLACE  ...inceledi ve balık şeridi
+      metin  : kapillarya
+      duyulan: kapilararya
+  REPLACE  ...kendi atığının üstünde oturuyordu
+      metin  : basın
+      duyulan: bağsın
+  REPLACE  ...sürerken siti britanya nın
+      metin  : pompeii si
+      duyulan: pompeysi
+  INSERT   ...adlandırdı araştırma ekibi sonuçları
+      metin  : (yok)
+      duyulan: te
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: arkeoloji-2026-09-19.duyulan.txt

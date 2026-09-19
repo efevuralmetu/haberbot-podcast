@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-19.mp3
+
+beklenen 2681 kelime | duyulan 2677 kelime | eşleşme %91.3
+sayı ifadesi: metinde 401, duyulanda 263  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...boyunca müzik tarihinden silindi
+      metin  : karayipler in
+      duyulan: karayıplerin
+  REPLACE  ...en zengin sömürgelerinden olan
+      metin  : guadelup türkçede
+      duyulan: guadeloupe türkçe de
+  REPLACE  ...guadelup türkçede söylendiği haliyle
+      metin  : guadelup
+      duyulan: guadeloupe
+  REPLACE  ...aralık ayının sonunda adanın
+      metin  : bayif
+      duyulan: baïf
+  REPLACE  ...fransız toprak sahibi olan
+      metin  : jorj bolony dö sen jorj
+      duyulan: georges bologn de saint georges
+  REPLACE  ...hukuken özgür değildi adı
+      metin  : jozef
+      duyulan: joseph
+  REPLACE  ...babasının mülkünün adından gelecekti
+      metin  : sen jorj
+      duyulan: saint georges
+  REPLACE  ...jorj bu tür doğumlar
+      metin  : karayipler de
+      duyulan: karayıplerde
+  REPLACE  ...gönderir adlarını bile anmazdı
+      metin  : jorj bolony
+      duyulan: georges bologn
+  REPLACE  ...soyadını ve kendi hayat
+      metin  : standardını
+      duyulan: standartını
+  REPLACE  ...sıra dışı davranıştı ve
+      metin  : jozef
+      duyulan: joseph
+  INSERT   ...kapılarından içeri girebilen beyefendi
+      metin  : (yok)
+      duyulan: ne
+  REPLACE  ...yazında fransa ya gitti
+      metin  : atlantiği
+      duyulan: atlantıyı
+  REPLACE  ...atlantiği aşan o yolculuk
+      metin  : jozef
+      duyulan: joseph
+  REPLACE  ...göstermedi yıl sonra aile
+      metin  : bordo
+      duyulan: bordeaux
+  REPLACE  ...paris e yerleşti artık
+      metin  : jozef
+      duyulan: joseph
+  INSERT   ...görmediği şey olarak görmedi
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...konuşmak henüz moda değildi
+      metin  : jozef
+      duyulan: joseph
+  REPLACE  ...değildi jozef gibi beyaz
+      metin  : baba ile
+      duyulan: babayla
+  REPLACE  ...hazırda bekleyen anahtardı nitekim
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...ezecek ya da bileyecekti
+      metin  : jozef bolony
+      duyulan: joseph bollon
+  REPLACE  ...sessizce başlamış oldu o
+      metin  : akademinin
+      duyulan: akademin
+  REPLACE  ...saygın eskrim ustalarından olan
+      metin  : nikola teksye dö la boesyer di
+      duyulan: nicolas texier de laboisierdi
+  REPLACE  ...çıkar hız ve isabet
+      metin  : sen jorj
+      duyulan: saint georges
+  INSERT   ...dokunulmaz kılıyordu yaşı daha
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...lı eskrim ustasıyla yaşandı
+      metin  : aleksandr pikar
+      duyulan: alexander picard
+  REPLACE  ...adındaki bu adam genç
+      metin  : sen jorj u
+      duyulan: saint georges ü
+  REPLACE  ...bilmiyoruz ama sonucu biliyoruz
+      metin  : sen jorj
+      duyulan: saint georges
+  REPLACE  ...sen jorj kazandı ve
+      metin  : pikar
+      duyulan: picard
+  REPLACE  ...verildi artık adı şövalye
+      metin  : sen jorj du
+      duyulan: saint georges dü
+  REPLACE  ...jorj du ve bu
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...sıçramaydı ne var ki
+      metin  : sen jorj
+      duyulan: saint georges
+  REPLACE  ...keman ustalarının ve besteci
+      metin  : fransua jozef gossek
+      duyulan: françois joseph gosset
+  REPLACE  ...bu ithafların arkası geldi
+      metin  : gossek
+      duyulan: gosset
+  INSERT   ...aldığının en açık kanıtıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...in yeni kurulan orkestrası
+      metin  : konser dez amatör
+      duyulan: concert des amateurs
+  REPLACE  ...son derece iddialı topluluktu
+      metin  : sen jorj
+      duyulan: saint georges
+  REPLACE  ...besteci olarak ortaya çıktı
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...yayımladığı ilk yaylı dörtlülerdir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kendi yazdığı keman konçertosunu
+      metin  : gossek
+      duyulan: gosset
+  ... ve 81 fark daha
+
+metinde olup DUYULMAYAN: 194 kelime | duyulup metinde OLMAYAN: 200
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: biyografi-2026-09-19.duyulan.txt

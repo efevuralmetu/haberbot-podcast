@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-19.mp3
+
+beklenen 4039 kelime | duyulan 4019 kelime | eşleşme %99.1
+sayı ifadesi: metinde 144, duyulanda 120  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sleeping soundly his friend
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...stood open the news
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...slowness of that ship
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...been sighted off cape
+      metin  : sounion
+      duyulan: saunian
+  REPLACE  ...of a dream while
+      metin  : crito
+      duyulan: credo
+  DELETE   ...al in the year
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...day everyone knew this
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...knew it too and
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...the money was theer
+      metin  : simmias
+      duyulan: simias
+  REPLACE  ...it with him and
+      metin  : cebes
+      duyulan: sebes
+  REPLACE  ...stand up and walk
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...put a question to
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...of idleness he owed
+      metin  : crito
+      duyulan: credo
+  REPLACE  ...intend to do the
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...is moer no has
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...taken about how yor
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...while stil years old
+      metin  : étienne
+      duyulan: etienne
+  REPLACE  ...years old étienne de
+      metin  : la boétie
+      duyulan: laboetti
+  REPLACE  ...lend him the conclusion
+      metin  : la boétie
+      duyulan: laboetti
+  REPLACE  ...do not remain passing
+      metin  : behaviours
+      duyulan: behaviors
+  REPLACE  ...nuremberg closed off the
+      metin  : defence
+      duyulan: defense
+  DELETE   ...abstract international text the
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the death camps the
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...he had drawn up
+      metin  : train
+      duyulan: trained
+  DELETE   ...the way up to
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...leapt to out of
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...his ode to freedom
+      metin  : namık kemal
+      duyulan: namik kamal
+  DELETE   ...is no longer inside
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-09-19.duyulan.txt

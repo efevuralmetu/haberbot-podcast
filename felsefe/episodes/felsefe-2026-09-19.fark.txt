@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-19.mp3
+
+beklenen 2493 kelime | duyulan 2502 kelime | eşleşme %97.1
+sayı ifadesi: metinde 225, duyulanda 192  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sokrates neden oradaydı yılında
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...üstelik hazırdı para tamamdı
+      metin  : thebaili simmias
+      duyulan: tebeili simyas
+  REPLACE  ...thebaili simmias yanında getirmişti
+      metin  : kebes de
+      duyulan: kebeste
+  REPLACE  ...o işi halletmişlerdi bile
+      metin  : thessalya
+      duyulan: tessalya
+  REPLACE  ...kurtarmaya para harcamaktan kaçındığımızı
+      metin  : sanacak
+      duyulan: anlayacak
+  REPLACE  ...a soru sordu beden
+      metin  : terbiyesiyle
+      duyulan: terbiyesi ile
+  REPLACE  ...kalmıyordu tembellikten de kalmıyordu
+      metin  : kriton a
+      duyulan: krytona
+  REPLACE  ...yaşındayken hukuk okuyan genç
+      metin  : etiyen dö la boesi
+      duyulan: etienne de labois
+  REPLACE  ...ödünç verdiği güçle eziyor
+      metin  : la boesi nin
+      duyulan: labois in
+  INSERT   ...da demokrasi askıya alındığında
+      metin  : (yok)
+      duyulan: lar
+  REPLACE  ...değildi mesele itaatin nerede
+      metin  : bittiğiydi
+      duyulan: bittiydi
+  REPLACE  ...arkasında anlatılan olay vardır
+      metin  : hz
+      duyulan: hads
+  REPLACE  ...dir yüzyılda yazdığı erdemli
+      metin  : şehir inde
+      duyulan: şehrinde
+  INSERT   ...meşruiyet üretmez yön üretir
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...üretir sonra i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...hızlandırır ama i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...haline gelir i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...çıkarıp mahkeme salonuna taşıdı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hafifletilmesinde göz önünde bulundurulabilir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve bunu yazılı olarak
+      metin  : yinelerse
+      duyulan: yenelerse
+  INSERT   ...söyledikleri aynı şey nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gözlüklü adam oturuyordu adolf
+      metin  : ayhman
+      duyulan: eichmann
+  REPLACE  ...i asıl sarsan şey
+      metin  : ayhman
+      duyulan: eichmann
+  REPLACE  ...karşısında ideolojik fanatik değil
+      metin  : unvanına
+      duyulan: ünvanına
+  REPLACE  ...tuhaf anı şuydu hakimlerden
+      metin  : ayhman
+      duyulan: eichmann
+  REPLACE  ...a ahlak anlayışını sorduğunda
+      metin  : ayhman
+      duyulan: eichmann
+  REPLACE  ...yaşamayı bıraktığını ekledi arendt
+      metin  : ayhman
+      duyulan: eichmann
+  REPLACE  ...nasıl çarpıttığını gösterdi kant
+      metin  : ta
+      duyulan: da
+  REPLACE  ...yasa koyucu olmasını ister
+      metin  : ayhman
+      duyulan: eichmann
+  REPLACE  ...yerine amirin ne isterse
+      metin  : o konmuştu vicdan
+      duyulan: ok olmuştu wichlan
+  INSERT   ...etmiyordu sadece sakindi kişiden
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...telefonla verdiğinde itaat çöktü
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...şoklar verdiler buna karşılık
+      metin  : deneğe
+      duyulan: deneye
+  INSERT   ...başkası bastığında itaat kişide
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...elimizin sistem izin vermiyor
+      metin  : prosedür
+      duyulan: prosodür
+  REPLACE  ...yine aynı laboratuvar gösterdi
+      metin  : ın
+      duyulan: gramın
+  REPLACE  ...gösterdi ın başka varyasyonunda
+      metin  : deneğin
+      duyulan: deneyin
+  REPLACE  ...bunu gören deneklerden yalnızca
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...olup olmadığında öyleyze soru
+      metin  : itaat
+      duyulan: hitaat
+  REPLACE  ...kişinin içeride kalmadığı gün
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: felsefe-2026-09-19.duyulan.txt

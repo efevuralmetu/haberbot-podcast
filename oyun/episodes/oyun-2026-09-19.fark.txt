@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-19.mp3
+
+beklenen 1678 kelime | duyulan 1697 kelime | eşleşme %97.0
+sayı ifadesi: metinde 264, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...için anahtar alman gerekiyor
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...oyunu satma yöntemine dönüşecekti
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...başlandı yazan kişi armağan
+      metin  : yavuz du
+      duyulan: yavuzlu
+  INSERT   ...darbenin kendisine karışsın istiyordu
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...i kinci inatçı fikir
+      metin  : hikayeyle
+      duyulan: hikaye ile
+  REPLACE  ...hikayeyle ilgiliydi oyunun geçtiği
+      metin  : kalradya
+      duyulan: kalradia
+  INSERT   ...dünyanın nasıl göründüğünü kurar
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...dönüyordu ama atın üstüne
+      metin  : mızrağı
+      duyulan: mızrağa
+  REPLACE  ...şey şuydu tanımadığınız ülkedeki
+      metin  : adını
+      duyulan: ağadını
+  INSERT   ...içinde şekillendi yolun sonu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mağaza rafı vardı eylül
+      metin  : mount and
+      duyulan: de mountain
+  INSERT   ...sitelerde oyunun notu üzerinden
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en dikkat çekici ödüller
+      metin  : jürilerden
+      duyulan: yürülerden
+  INSERT   ...bağımsız yapımların toplandığı platformda
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...iyi bağımsız oyunu seçildi
+      metin  : (yok)
+      duyulan: no
+  INSERT   ...enerjiyi kendi temeline çevirdi
+      metin  : (yok)
+      duyulan: ki ki
+  INSERT   ...adıyla profesyonelleşti ve nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nisan napoleonic wars yani
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...resmi ek paketi çıkardı
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...toplar ve yıkılabilen siperlerle
+      metin  : hobi
+      duyulan: hobby
+  REPLACE  ...şey kez daha yaşandı
+      metin  : brytenwalda
+      duyulan: britenwalda
+  INSERT   ...adlı mod ekibi aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...viking conquest yani viking
+      metin  : fethi
+      duyulan: feti
+  REPLACE  ...yılının mayıs ayında ukraynalı
+      metin  : sich studio
+      duyulan: siege stüdyo
+  INSERT   ...verileer göer satışların yaklaşık
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...serinin ana oyunu bannerlord
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dönüştü yıl sonra mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...içinde bannerlord aynı anda
+      metin  : kişiyle
+      duyulan: kişi ile
+  INSERT   ...eş zamanlı oyuncu sayısı
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...oyuncu sayısı çok üstüne
+      metin  : (yok)
+      duyulan: e
+  DELETE   ...canlı haliydi erken erişim
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sürdü tam sürüm ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...konsollarına da girdi kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...savaşlarını oyuna ekleyen war
+      metin  : sails
+      duyulan: sales don
+  INSERT   ...hacettepe teknokent teki stüdyoda
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...i pek yavuz temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ülkeye ulaşan imparatorluğa dönüştü
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-09-19.duyulan.txt
