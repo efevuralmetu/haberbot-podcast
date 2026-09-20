@@ -15,7 +15,20 @@
 <itunes:category text="Science"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sat, 19 Sep 2026 14:32:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 14:32:01 +0000</lastBuildDate>
+<item>
+<title>A Million-Dollar Vortex: Has Navier-Stokes Broken?</title>
+<description>Explains the Millennium Problem asking whether the Navier-Stokes equations, which describe the motion of water, have smooth solutions that exist forever; the claim made in September twenty twenty-six that a solution blowing up in finite time (a singularity) had been found, the fact that this has still not been independently verified, and why the real puzzle of turbulence in physics nevertheless remains open.
+
+Konular: mathematics, fluids, turbulence, artificial intelligence, millennium problem.</description>
+<itunes:subtitle>Explains the Millennium Problem asking whether the Navier-Stokes equations, which describe the motion of water, have smooth solutions that exist forever; the claim made in September twenty twenty-six that a solution blowing up in finite time (a singularity) had been found, the fact that this has still not been independently verified, and why the real puzzle of turbulence in physics nevertheless remains open.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-09-20.vtt" type="text/vtt" language="en" rel="captions"/>
+<pubDate>Sun, 20 Sep 2026 04:58:36 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-20.mp3" length="13700780" type="audio/mpeg"/>
+<guid isPermaLink="false">science-2026-09-20</guid>
+<itunes:duration>19:05</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Farther From the Fire, Hotter: The Sun's Unsolved Crown</title>
 <description>Explains how the Sun's surface sits at about five thousand five hundred degrees Celsius while the corona just above it climbs to one to three million — the temperature rising a hundredfold as you move away from the heat source. It traces the puzzle from the coronium error to Edlén's iron-ion solution, on to the nanoflare and Alfvén wave candidates and the data the Parker Solar Probe brought back by flying into the corona itself, a case still not closed.
