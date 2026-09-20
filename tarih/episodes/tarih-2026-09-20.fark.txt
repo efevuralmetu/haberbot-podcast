@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-20.mp3
+
+beklenen 2470 kelime | duyulan 2496 kelime | eşleşme %94.4
+sayı ifadesi: metinde 340, duyulanda 206  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...haber imparatorluğun konuşmayı yasaklayacağı
+      metin  : türdendi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...arasındaki sıcak durgun sularda
+      metin  : jamaika
+      duyulan: jamaica
+  REPLACE  ...adı rebecca türkçe söylenişiyle
+      metin  : rebeka kaptanı
+      duyulan: rebecca adı
+  REPLACE  ...de kaçakçılığı önlemekle görevlendirdiği
+      metin  : guarda kostas
+      duyulan: garda costas
+  REPLACE  ...filosuna ait başlarındaki adam
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...adam huan de leon
+      metin  : fandinyo
+      duyulan: fandino
+  REPLACE  ...leon fandinyo sahil muhafızları
+      metin  : rebeka
+      duyulan: rebecca
+  REPLACE  ...asar gibi yapıyorlar sonra
+      metin  : fandinyo
+      duyulan: fandino
+  INSERT   ...daha büyük mesele yatıyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...büyük mesele yatıyordu imzalanan
+      metin  : ütreht
+      duyulan: ütret
+  REPLACE  ...ye dar aralık açmıştı
+      metin  : asyento
+      duyulan: asiento
+  REPLACE  ...porto bello limanını türkçesiyle
+      metin  : portobelo
+      duyulan: portobello
+  INSERT   ...dı sözünün kalmayacaktı ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kutlama ateşleri yakıldı walpole
+      metin  : ün
+      duyulan: lün
+  INSERT   ...değildi tam yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...savaşı diye andı ve
+      metin  : ad
+      duyulan: at
+  REPLACE  ...tarihe geçti bu savaşın
+      metin  : atlantiğin
+      duyulan: atlantin in
+  INSERT   ...blas de lezo şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şubat i spanya nın
+      metin  : bask
+      duyulan: bas
+  INSERT   ...bedeli hemen ödemeye başladı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ki buçuk yıl sonra
+      metin  : tulon
+      duyulan: de toulon
+  REPLACE  ...parçaları sol gözünü aldı
+      metin  : barselona
+      duyulan: te barcelona
+  INSERT   ...parasını günler içinde almıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...günler içinde almıştı karargahı
+      metin  : kartagena
+      duyulan: cartagena
+  REPLACE  ...şehrin adı resmi belgelerde
+      metin  : kartahena de i ndias
+      duyulan: cartagena da indias
+  REPLACE  ...diye geçer biz kısaca
+      metin  : kartagena
+      duyulan: cartagena
+  REPLACE  ...sürekli yenilenen taş surlarla
+      metin  : tabyalarla
+      duyulan: tabialarla
+  REPLACE  ...tabyalarla su engelleriyle örülmüştü
+      metin  : coğrafya
+      duyulan: koğrafya
+  REPLACE  ...örülmüştü coğrafya savunmacının tarafındaydı
+      metin  : kartagena
+      duyulan: cartagena
+  REPLACE  ...geriye tek giriş kalıyordu
+      metin  : boka çika
+      duyulan: bocaçica
+  REPLACE  ...ağız dar sığ yanı
+      metin  : tabyalarla
+      duyulan: tabialarla
+  REPLACE  ...kendisine ulaşmak için yeni
+      metin  : tabya
+      duyulan: tabia
+  REPLACE  ...nihayet şehrin doğusundaki san
+      metin  : lazaro
+      duyulan: nazaro
+  REPLACE  ...yükselen taş kütle vardı
+      metin  : kastiyo
+      duyulan: castio
+  REPLACE  ...de san felipe de
+      metin  : barahas
+      duyulan: barajas
+  INSERT   ...kadar yerli okçu toplamı
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...üzerinde en iyimser sayımla
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...şehrin içindeki sürtüşme vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...genel valiliği ne atanan
+      metin  : sebastian
+      duyulan: sebastián
+  REPLACE  ...atanan sebastian de eslava
+      metin  : kartagena
+      duyulan: cartagena
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 86 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-09-20.duyulan.txt

@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-20.mp3
+
+beklenen 3581 kelime | duyulan 3578 kelime | eşleşme %99.1
+sayı ifadesi: metinde 134, duyulanda 103  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hours ride a horse
+      metin  : write
+      duyulan: right
+  REPLACE  ...famous than shakespeaer than
+      metin  : molièer
+      duyulan: molieer
+  REPLACE  ...of the east a
+      metin  : traveller
+      duyulan: traveler
+  REPLACE  ...precisely that moment the
+      metin  : traveller
+      duyulan: traveler
+  REPLACE  ...in the sociologist corey
+      metin  : keyes
+      duyulan: keys
+  REPLACE  ...most uncomfortable part of
+      metin  : keyes
+      duyulan: keys
+  DELETE   ...befoer that invention camus
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...down and begins again
+      metin  : for
+      duyulan: or
+  REPLACE  ...no mythology is required
+      metin  : monday
+      duyulan: sunday
+  DELETE   ...this question was asked
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in the city of
+      metin  : tus
+      duyulan: tous
+  REPLACE  ...mulk to head the
+      metin  : nizamiyya
+      duyulan: nizamiyah
+  REPLACE  ...while lecturing at the
+      metin  : nizamiyya
+      duyulan: nizamiyah
+  REPLACE  ...for years as a
+      metin  : traveller
+      duyulan: traveler
+  DELETE   ...heer matters because camus
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...tolstoy s fields camus
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...history of thought is
+      metin  : nurettin topçu topçu
+      duyulan: neurit and topchu topchu
+  REPLACE  ...ethics of rebellion what
+      metin  : topçu
+      duyulan: topchu
+  REPLACE  ...living by ready made
+      metin  : moulds
+      duyulan: molds
+  REPLACE  ...responsibilities a person takes
+      metin  : al
+      duyulan: while
+  REPLACE  ...with a different intention
+      metin  : camus
+      duyulan: kamu
+  REPLACE  ...genuinely wel being present
+      metin  : beside
+      duyulan: besides
+  REPLACE  ...task in yor own
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...under something tomorrow morning
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...morning nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: buggen küberlümün sono nagaldik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: hikäe de yenidän bulushmakuzeer
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-20.duyulan.txt

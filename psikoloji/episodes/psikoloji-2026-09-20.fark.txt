@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-20.mp3
+
+beklenen 1143 kelime | duyulan 1152 kelime | eşleşme %97.5
+sayı ifadesi: metinde 138, duyulanda 116  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şey açlık değil i
+      metin  : ştah
+      duyulan: çtah
+  REPLACE  ...en iyi karşılığı herhalde
+      metin  : ahlaki
+      duyulan: allaki
+  REPLACE  ...yılında keith wilcox beth
+      metin  : vallen lauren
+      duyulan: velen loren
+  REPLACE  ...block ve gavan fitzsimons
+      metin  : ın
+      duyulan: un
+  REPLACE  ...edici kısmı burada başlıyor
+      metin  : benua
+      duyulan: ki de benoit
+  REPLACE  ...başlıyor benua monin ve
+      metin  : dale
+      duyulan: dali
+  REPLACE  ...görüldü nina mazar ve
+      metin  : çen bo cong
+      duyulan: chen bokong
+  REPLACE  ...çen bo cong un
+      metin  : yayımlanan
+      duyulan: da yayınlanan
+  REPLACE  ...daha gevşek çıktı uzun
+      metin  : khan
+      duyulan: kaan
+  REPLACE  ...çıktı uzun khan ve
+      metin  : ravi dhar
+      duyulan: ravidar
+  INSERT   ...olduğundan daha büyük gösteriliyor
+      metin  : (yok)
+      duyulan: kiki te
+  REPLACE  ...van de ven ve
+      metin  : marsel
+      duyulan: marcel
+  REPLACE  ...sütuna şey yazdığında diğer
+      metin  : sütun
+      duyulan: sütün
+  REPLACE  ...söyleyeyim paul conway ve
+      metin  : yohanna pets
+      duyulan: johanna petz de
+  INSERT   ...olarak hatırlayanlar ruhsat kullanıyor
+      metin  : (yok)
+      duyulan: doğunu
+  INSERT   ...ize tutarlılık gösteriyordu ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...biçiminde kurulan cümleler peter
+      metin  : golvitser
+      duyulan: golwitzer
+  REPLACE  ...yapabileceğin şey defteri kapatmak
+      metin  : puanları
+      duyulan: poanları
+  REPLACE  ...hak etmek zorunda kalmadan
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-09-20.duyulan.txt

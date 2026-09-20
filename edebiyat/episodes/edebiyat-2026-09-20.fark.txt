@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-20.mp3
+
+beklenen 1459 kelime | duyulan 1472 kelime | eşleşme %92.7
+sayı ifadesi: metinde 231, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şiiri akılla hikmetle öğütle
+      metin  : dokumuş
+      duyulan: dokunmuş
+  INSERT   ...geçirdiği uzun yılların sonunda
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bundan sonra da yazılamayacağını
+      metin  : (yok)
+      duyulan: söyler
+  REPLACE  ...geçmiş genç oturmaktadır adı
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...evde doğmuş babası mustafa
+      metin  : reşid
+      duyulan: reşit
+  REPLACE  ...esad mahlasıyla başlamış sonra
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...anmadığı edebiyat tarihinin şeyh
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...için daha yıllar vardır
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...feridüddin attar ın i
+      metin  : lahiname
+      duyulan: lahinami
+  REPLACE  ...hikayenin kahramanının davranışları da
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...ortada ustalık vardır ama
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...zevkine beğenisine yıllardır ezberlediği
+      metin  : beyitleer
+      duyulan: beytleer
+  REPLACE  ...yoktur olacağını da bilmemektedir
+      metin  : galib
+      duyulan: galip
+  INSERT   ...başlar ve bitirdiğinde tarih
+      metin  : (yok)
+      duyulan: tür
+  REPLACE  ...zordur ayda tamamlanan şey
+      metin  : beyitlik
+      duyulan: beytlik
+  REPLACE  ...ve her kıtadan oluşan
+      metin  : tardiyyeyle
+      duyulan: tardiye ile
+  REPLACE  ...hacim meselesi de değildir
+      metin  : aruzun
+      duyulan: ağruz un
+  REPLACE  ...isimlerle ilerleyen eserdir yani
+      metin  : galib meclize
+      duyulan: galip meclis e
+  REPLACE  ...yazdığını anlattığı bölüm vardır
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...türk şiirinin en cüretkar
+      metin  : beyitlerinden
+      duyulan: beytlerinden
+  REPLACE  ...dil konuştuğunu söyleyen o
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...öyle değildir anlatı beni
+      metin  : mahabbet
+      duyulan: muhabbet
+  REPLACE  ...çocuk doğar kızın adı
+      metin  : hüsn
+      duyulan: hüsnü
+  REPLACE  ...mana bahçesinde gezer feyz
+      metin  : ırmağının
+      duyulan: irmağı nın
+  REPLACE  ...kadar her isim kavramdır
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...sonrası yol hikayesidir ve
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...akıl çelen anlamına gelen
+      metin  : huşrüba
+      duyulan: kuşruba
+  REPLACE  ...kimyayı hazine sandığında bulmaz
+      metin  : sühan
+      duyulan: suhan
+  REPLACE  ...kendisidir tasavvufun varlığın fikrini
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...galib vaaz cümlesiyle değil
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...da aynı cüret vardır
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...imkan tanımayan şairi her
+      metin  : beyitte
+      duyulan: beytte
+  REPLACE  ...anlatının temposu düştüğünde araya
+      metin  : tardiyyeleri
+      duyulan: tardiyeleri
+  REPLACE  ...şarkıya geçer sonra yine
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...i stanbul sokağının gündelik
+      metin  : deyişleri
+      duyulan: değişleri
+  REPLACE  ...anılmasının sebebi de budur
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...olur hüsnü aşk bittiğinde
+      metin  : galib
+      duyulan: galip
+  INSERT   ...kitabı yazdıktan yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...stanbul a döndürdü çilesini
+      metin  : yenikapı mevlevihanesi
+      duyulan: de yeni kapı mevlevi hanesi
+  REPLACE  ...girdi padişah harap haldeki
+      metin  : tekkeyi
+      duyulan: tekke yi de
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: edebiyat-2026-09-20.duyulan.txt

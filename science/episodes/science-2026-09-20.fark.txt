@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-20.mp3
+
+beklenen 2967 kelime | duyulan 2951 kelime | eşleşme %97.1
+sayı ifadesi: metinde 95, duyulanda 91  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...stay smooth podcast science
+      metin  : json şunu diyor
+      duyulan: jason shunadeer
+  REPLACE  ...json şunu diyor language
+      metin  : en nöron
+      duyulan: n neuron
+  REPLACE  ...language en nöron science
+      metin  : nöron bilim in i ngilizce çeviri kanalı prompt ta türkçe yazıyor
+      duyulan: neuron bilimin inghilizye cevirikanalı prompta turkci yazur
+  REPLACE  ...türkçe yazıyor ama sert
+      metin  : kısıt çeviri kaynağa sadık kalır ve
+      duyulan: kasit cevirikayna sadik kalirve
+  INSERT   ...sadık kalır ve kaynak
+      metin  : (yok)
+      duyulan: txt zatan turkci turkci yazmak kaynan kopyasolurdo bu yuzdan
+  REPLACE  ...kalır ve kaynak bilim
+      metin  : txt zaten türkçe türkçe yazmak kaynağın kopyası olurdu bu bilim txt nin sadık i ngilizce çevirisini veriyorum giriş kapanış ve jingle satırları hariç
+      duyulan: doktek stenin sadik inghilizye cevirisi niveriorum verishor keponashve jingluch chudaralar harich
+  REPLACE  ...difference coming from its
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...do not get a
+      metin  : a
+      duyulan: yor
+  REPLACE  ...wind turbines climate scientists
+      metin  : modelling
+      duyulan: modeling
+  DELETE   ...century and set aside
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the russian mathematician olga
+      metin  : ladyzhenskaya
+      duyulan: ladigenskaya
+  REPLACE  ...the last century in
+      metin  : leray
+      duyulan: lyrae
+  REPLACE  ...satisfy it in an
+      metin  : averaged
+      duyulan: average
+  REPLACE  ...can always be proved
+      metin  : leray
+      duyulan: lyrae
+  INSERT   ...but may behave badly
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...in the long run
+      metin  : leray
+      duyulan: lyrae
+  REPLACE  ...czech and american mathematicians
+      metin  : jindřich nečas
+      duyulan: gindrik nečius
+  REPLACE  ...mathematicians jindřich nečas michael
+      metin  : růžička
+      duyulan: nužička
+  REPLACE  ...nečas michael růžička and
+      metin  : vladimír šverák
+      duyulan: vladimir švarek
+  REPLACE  ...of self similar collapse
+      metin  : leray
+      duyulan: lyrae
+  REPLACE  ...not in james beale
+      metin  : tosio
+      duyulan: toshio
+  REPLACE  ...in luis caffarelli robert
+      metin  : kohn
+      duyulan: cohen
+  REPLACE  ...following the path vladimir
+      metin  : scheffer
+      duyulan: švarek
+  INSERT   ...could occur must be
+      metin  : (yok)
+      duyulan: did
+  REPLACE  ...january the kazakh mathematician
+      metin  : mukhtarbay
+      duyulan: muktarbe
+  REPLACE  ...s great names terence
+      metin  : tao
+      duyulan: dow
+  REPLACE  ...a completely different direction
+      metin  : tao
+      duyulan: dow
+  REPLACE  ...down in finite time
+      metin  : tao
+      duyulan: dow
+  INSERT   ...machine that copies itself
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...shape of the equation
+      metin  : tao
+      duyulan: dow
+  REPLACE  ...tristan buckmaster and vlad
+      metin  : vicol
+      duyulan: vikol
+  REPLACE  ...the loosest version of
+      metin  : leray
+      duyulan: lier
+  REPLACE  ...respectable then in thomas
+      metin  : hou
+      duyulan: hu
+  INSERT   ...bounded by exact intervals
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...in the autumn of
+      metin  : a
+      duyulan: they
+  REPLACE  ...tristan buckmaster and javier
+      metin  : gómez
+      duyulan: gomez
+  REPLACE  ...condition by a hair
+      metin  : and
+      duyulan: that in
+  DELETE   ...us be honest these
+      metin  : too
+      duyulan: (YOK — atlanmış)
+  DELETE   ...aer the who cannot
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 87 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: science-2026-09-20.duyulan.txt

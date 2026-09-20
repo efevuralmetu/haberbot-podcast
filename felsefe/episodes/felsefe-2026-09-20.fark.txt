@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-20.mp3
+
+beklenen 2218 kelime | duyulan 2224 kelime | eşleşme %95.2
+sayı ifadesi: metinde 232, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tedbir almaya başladı yasnaya
+      metin  : polyana
+      duyulan: polona
+  INSERT   ...yaşındaydı savaş ve barış
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve barış anna karenina
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...barış anna karenina yayımlanmıştı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...imkansız soru peki sonra
+      metin  : malikanesini
+      duyulan: malik hanesini
+  REPLACE  ...diyelim ki shakespeaer den
+      metin  : molyer
+      duyulan: molièer
+  INSERT   ...nden sosyolog corey keyes
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sinir bozucu kanıtı var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...problemi olarak ele aldı
+      metin  : kamü
+      duyulan: kmu de
+  REPLACE  ...ele aldı kamü yayımlanan
+      metin  : lö
+      duyulan: low
+  REPLACE  ...kamü yayımlanan lö mit
+      metin  : dö sizif
+      duyulan: de sisyph
+  REPLACE  ...mit dö sizif yani
+      metin  : sisifos
+      duyulan: sisyphos
+  REPLACE  ...müdür insan hayatının yaşanmaya
+      metin  : değip
+      duyulan: deyip
+  REPLACE  ...cevap verilecek sonra düşünülecek
+      metin  : kamü nün
+      duyulan: kmu nun
+  REPLACE  ...absürt ortadan kalkar ama
+      metin  : kamü ye
+      duyulan: kmu ya
+  REPLACE  ...kaçmaktır i şte burada
+      metin  : kamü
+      duyulan: kmu
+  REPLACE  ...kapatır bedenen kaçış intihar
+      metin  : kamü
+      duyulan: kmu
+  REPLACE  ...i kincisi düşünsel kaçış
+      metin  : kamü
+      duyulan: kmu
+  REPLACE  ...önünde aklını askıya almasıdır
+      metin  : kamü nün
+      duyulan: kmu nun
+  REPLACE  ...bile orada durarak yaşamak
+      metin  : kamü
+      duyulan: kmu
+  REPLACE  ...en çaresiz figürünü seçer
+      metin  : sisifos
+      duyulan: sisyphos
+  REPLACE  ...faydasız ve umutsuz emek
+      metin  : kamü
+      duyulan: kmu
+  REPLACE  ...bakar kaya yuvarlandıktan sonra
+      metin  : sisifos
+      duyulan: sisyphos
+  REPLACE  ...yoktur sadece bilinç vardır
+      metin  : sisifos
+      duyulan: sisyphos
+  REPLACE  ...tam olarak bilir ve
+      metin  : kamü ye
+      duyulan: kmu ya
+  REPLACE  ...o kaderin sahibi olur
+      metin  : kamü
+      duyulan: kmu
+  REPLACE  ...sahibi olur kamü denemesini
+      metin  : sisifos
+      duyulan: sisyphos
+  REPLACE  ...bütün bunları niye yapıyorum
+      metin  : kamü nün
+      duyulan: kamu nun
+  REPLACE  ...bile bile koyacaksınız çünkü
+      metin  : kamü
+      duyulan: kamu
+  INSERT   ...olduğuna inandığınız için değil
+      metin  : (yok)
+      duyulan: mok ta
+  REPLACE  ...şte bu noktada gerilim
+      metin  : doruğa
+      duyulan: doğrua
+  REPLACE  ...sessizliği değil insanın kendi
+      metin  : niyetiyze
+      duyulan: niyeti ize
+  REPLACE  ...kendi niyetiyze bu soruyu
+      metin  : kamü
+      duyulan: kamu
+  REPLACE  ...kürsüsünde oturan adam sordu
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...dolaylarında i ran ın
+      metin  : tus
+      duyulan: tuz
+  INSERT   ...ın tus şehrinde doğdu
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...doğdu yaşlarının başında vezir
+      metin  : nizamülmülk
+      duyulan: nizamülmül
+  REPLACE  ...adamın içinde şey çöktü
+      metin  : tolstoy unkinden
+      duyulan: tolstoyünkinden
+  REPLACE  ...unkinden farklı biçimde başladı
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...geldiğini ilaçla geçmeyeceğini söylediler
+      metin  : gazzali
+      duyulan: gazali
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 64 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: felsefe-2026-09-20.duyulan.txt

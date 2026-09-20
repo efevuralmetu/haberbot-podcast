@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-20.mp3
+
+beklenen 2346 kelime | duyulan 2355 kelime | eşleşme %97.3
+sayı ifadesi: metinde 294, duyulanda 246  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuzeydoğuya doğru sürükledi bugün
+      metin  : kilometrekareyi
+      duyulan: yi
+  REPLACE  ...bu tabanın kuzeybatı ucuna
+      metin  : alkali
+      duyulan: al khali
+  REPLACE  ...ucuna alkali flat yani
+      metin  : alkali
+      duyulan: al khali
+  INSERT   ...radarını bu izleer uyarladı
+      metin  : (yok)
+      duyulan: ki da
+  INSERT   ...incelenen alandaki insan izlerinin
+      metin  : (yok)
+      duyulan: sını
+  REPLACE  ...anlattığına bakmak gerekiyor çünkü
+      metin  : alkali düzlüğü nde
+      duyulan: al khali düzlüğünde
+  REPLACE  ...yerinde benzeri yok matthew
+      metin  : bennett
+      duyulan: bennet
+  REPLACE  ...dizisini takip etti dizi
+      metin  : buçuk kilometreden
+      duyulan: km den
+  REPLACE  ...yapraklı su bitkisi olan
+      metin  : ruppia sirroza yani kısaca
+      duyulan: rupiasiroza bu rupiasiroza sadece
+  DELETE   ...tohum ize izden sonra
+      metin  : i kisini
+      duyulan: (YOK — atlanmış)
+  INSERT   ...jeolojide en güvenilen mantıklardan
+      metin  : (yok)
+      duyulan: keki
+  REPLACE  ...ve üstünden aldığı tohumları
+      metin  : radyokarbonla
+      duyulan: radiokarbonla
+  REPLACE  ...beri hakim olan model
+      metin  : klovis
+      duyulan: clovis
+  REPLACE  ...ya da her ve
+      metin  : klovis
+      duyulan: clovis
+  REPLACE  ...alır ve o su
+      metin  : yeraltından
+      duyulan: yer
+  REPLACE  ...kayaların içinde hapsolmuş karbon
+      metin  : dördünü
+      duyulan: ünü
+  REPLACE  ...gereken yeni şey değil
+      metin  : tarihlemeyle
+      duyulan: tarihleme ile
+  REPLACE  ...kireç açısından zengin suyu
+      metin  : yeraltından
+      duyulan: yer
+  INSERT   ...karışacağı türden yer eleştiri
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...araştırmaları enstitüsü nden david
+      metin  : rhode
+      duyulan: roth
+  REPLACE  ...loren davis ve meslektaşları
+      metin  : iz
+      duyulan: i s
+  REPLACE  ...binlerce yıl daha yaşlı
+      metin  : çıkabileceğiydi
+      duyulan: çıkabileceği idi
+  REPLACE  ...araştırmaları kurumu ndan jeff
+      metin  : pigati
+      duyulan: pigatti
+  REPLACE  ...verir yönteme optik uyarımlı
+      metin  : lüminesans
+      duyulan: luminesans
+  REPLACE  ...taşıyan dizinin içinden alınan
+      metin  : kuvars
+      duyulan: kuvarst
+  REPLACE  ...kendisi arizona üniversitesi nden
+      metin  : vance holliday
+      duyulan: vans holiday
+  INSERT   ...in yürüttüğü ekip ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düştü eski göl tabanından
+      metin  : sondaj
+      duyulan: sondaş çizdi tabanından sondaş
+  REPLACE  ...veriyordu yani kez bambaşka
+      metin  : malzemeyle
+      duyulan: malzeme ile
+  REPLACE  ...ki farklı fiziksel ilke
+      metin  : radyokarbon
+      duyulan: radiokarbon
+  REPLACE  ...fiziksel ilke radyokarbon ve
+      metin  : lüminesans
+      duyulan: luminesans
+  REPLACE  ...ayrı laboratuvar ve toplamda
+      metin  : birbiriyle
+      duyulan: ile
+  REPLACE  ...ve toplamda birbiriyle uyumlu
+      metin  : radyokarbon
+      duyulan: radiokarbon
+  REPLACE  ...ölçmek taramak boyutlu olarak
+      metin  : kaydetmek
+      duyulan: kayıt etmek
+  REPLACE  ...beliren dizi ayak izi
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: arkeoloji-2026-09-20.duyulan.txt

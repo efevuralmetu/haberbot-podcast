@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-20.mp3
+
+beklenen 2648 kelime | duyulan 2684 kelime | eşleşme %95.3
+sayı ifadesi: metinde 462, duyulanda 312  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i ngiliz savaş gemisi
+      metin  : scilly adaları nın
+      duyulan: sili adalarının
+  REPLACE  ...ize ne gökbilimci ne
+      metin  : denizciydi
+      duyulan: denizci idi
+  REPLACE  ...ngilteer nin güneybatı ucundaki
+      metin  : scilly adaları nın
+      duyulan: sili adalarının
+  REPLACE  ...yüzüyordu filonun başındaki amiral
+      metin  : cloudesley shovel
+      duyulan: claude s lee chauval
+  INSERT   ...en ihtiyatlı tahminler bile
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...söz eder bazı hesaplar
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...güneyde olduğunuz kolay olanıdır
+      metin  : öğle
+      duyulan: öyle
+  REPLACE  ...artan iskorbüt ölen mürettebat
+      metin  : demekti scilly
+      duyulan: demektir silili
+  REPLACE  ...ömür boyu zengin edecek
+      metin  : meblağdı
+      duyulan: mebladı
+  REPLACE  ...kendisini saat gibi okumaktan
+      metin  : ödül
+      duyulan: ötül
+  REPLACE  ...okumaktan ödül ilan edildiğinde
+      metin  : yorkshier
+      duyulan: yokşar
+  REPLACE  ...yapıyordu john harrison yılında
+      metin  : yorkshier
+      duyulan: yokşar
+  REPLACE  ...yorkshier ın batı kesimindeki
+      metin  : foulby
+      duyulan: folby
+  REPLACE  ...babası henry yakındaki büyük
+      metin  : malikanenin
+      duyulan: malikhanenin
+  REPLACE  ...henüz çok küçükken humber
+      metin  : ırmağının
+      duyulan: irmağı nın
+  INSERT   ...gibi de düşünecekti yaşındayken
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mekanizma arayışı olarak okunabilir
+      metin  : yirmilerin
+      duyulan: lerin
+  INSERT   ...harrison buluş daha yaptı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...boyu sıcaklıktan bağımsız kalıyordu
+      metin  : isının
+      duyulan: ison un
+  INSERT   ...saymanın yolunu bulmak gerekiyordu
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...mümkün kıldı yıl sonra
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...yıl sonra ortaya sonradan
+      metin  : hbir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şey bu makinenin içindeydi
+      metin  : hbir
+      duyulan: da
+  REPLACE  ...denize açıldı savaş gemisiyle
+      metin  : lizbon
+      duyulan: lisbon
+  INSERT   ...belirleyecek hatadır boylam kurulu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...toplanmamıştı i lk toplantısını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...daha iyisini yapması için
+      metin  : sterlin
+      duyulan: terlin
+  REPLACE  ...işinden asla memnun olmuyordu
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...ın kendisi de zaten
+      metin  : hbiri
+      duyulan: i
+  INSERT   ...yapmak üzeer izin istedi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...çıkmadı yandan i spanya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...şerit halinde birbirine perçinlenmişti
+      metin  : ısı
+      duyulan: isı
+  INSERT   ...emeğin karşılığında ne aldı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...büyük makineler yanlış yoldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve hayatının eserini bitirdi
+      metin  : hdört
+      duyulan: hard dirt
+  DELETE   ...saatiydi yaklaşık santimeter çapında
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adam çözümü avucunun içine
+      metin  : sığan
+      duyulan: sığın
+  INSERT   ...şey kalıyordu denemek kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...saatiyle birlikte portsmouth tan
+      metin  : jamaika
+      duyulan: jamaica
+  DELETE   ...william saate güvendi ve
+      metin  : adanın
+      duyulan: (YOK — atlanmış)
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 107
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: biyografi-2026-09-20.duyulan.txt

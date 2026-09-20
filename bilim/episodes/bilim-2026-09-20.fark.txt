@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-20.mp3
+
+beklenen 1957 kelime | duyulan 1980 kelime | eşleşme %96.3
+sayı ifadesi: metinde 217, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yıldır kimse alamadı hikaye
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alamadı hikaye fransız mühendis
+      metin  : klod lui navye nin
+      duyulan: claude louis navier in
+  REPLACE  ...nin akademi bildirisiyle başlıyor
+      metin  : navye
+      duyulan: navier
+  REPLACE  ...sağlam temelden sürekli ortam
+      metin  : mekaniğinin
+      duyulan: mekaninin
+  REPLACE  ...alanı kendi kendisini sürükler
+      metin  : matematikte
+      duyulan: maytematik de
+  REPLACE  ...iş insanı landon clay
+      metin  : in
+      duyulan: nin
+  REPLACE  ...çözümü için dolar ayırdı
+      metin  : navye
+      duyulan: navier
+  REPLACE  ...akışkan o tüpü uzunlamasına
+      metin  : gerdiğinde
+      duyulan: geldiğinde
+  REPLACE  ...bu boyutlu problem kapandı
+      metin  : jan leer
+      duyulan: can neer
+  REPLACE  ...kapandı jan leer in
+      metin  : otuzlardaki
+      duyulan: lardaki
+  REPLACE  ...olga ladijenskaya nın sonraki
+      metin  : onyıllarda
+      duyulan: yıllarda
+  REPLACE  ...bakış var ölçek kritikliği
+      metin  : navye
+      duyulan: navier
+  REPLACE  ...korunum yasasını enerjiyi düşünün
+      metin  : viskozite
+      duyulan: vizkozite
+  INSERT   ...kuramaz buna süperkritiklik deniyor
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...karanlıkta epey mesafe alındı
+      metin  : leer
+      duyulan: lara te
+  REPLACE  ...var olduğu ispatlanabilen çözümler
+      metin  : leer
+      duyulan: lara
+  REPLACE  ...olmayan çözümler arasındaki uçurum
+      metin  : leer
+      duyulan: lara
+  INSERT   ...sadece giderek küçülüp hızlanırdı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...amerikalı matematikçilerden oluşan ekip
+      metin  : yindrih neças mihael rujiçka
+      duyulan: yindri hneças mihayel rujicka
+  REPLACE  ...mihael rujiçka ve vladimir
+      metin  : şverak leer in
+      duyulan: šverak lara yın
+  INSERT   ...ama felaketin kendisi kalkmadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kalkmadı james beale tosio
+      metin  : kato
+      duyulan: cato
+  REPLACE  ...majda viskozitesiz akışkanları tanımlayan
+      metin  : oyler
+      duyulan: euler
+  REPLACE  ...çözüm ancak ve ancak
+      metin  : girdaplılığın
+      duyulan: gırdaplılığın
+  REPLACE  ...bu felaketi tek büyüklüğün
+      metin  : girdaplılığın
+      duyulan: gırdaplılığın
+  REPLACE  ...davranışına bağlayan çok değerli
+      metin  : daraltmaydı
+      duyulan: daraltma idi
+  INSERT   ...gösteremedi de şu var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...de şu var luis
+      metin  : kafarelli
+      duyulan: cafarelli
+  REPLACE  ...var luis kafarelli robert
+      metin  : kohn
+      duyulan: coon
+  REPLACE  ...kafarelli robert kohn ve
+      metin  : louis
+      duyulan: luis
+  REPLACE  ...louis nirenberg öncesinde vladimir
+      metin  : şeffer
+      duyulan: scheffer
+  REPLACE  ...zorunda olduğunu ölçtüler sonuç
+      metin  : çarpıcıydı
+      duyulan: şarpıcıydı
+  INSERT   ...kez çözüldü haberi dolaştı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kötü haber bununla bitmiyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tristan buckmaster ve vlad
+      metin  : vicol
+      duyulan: vikol
+  REPLACE  ...gelen çok yaratıcı teknikle
+      metin  : leer in
+      duyulan: lereğin
+  REPLACE  ...kavramının en gevşek halinde
+      metin  : teklik
+      duyulan: teknik
+  INSERT   ...geldi ama hepsi yandan
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...yandan tarek elgindi viskozitesiz
+      metin  : oyler
+      duyulan: oylar
+  INSERT   ...durumundan çöküş ürettiğini kanıtladı
+      metin  : (yok)
+      duyulan: ki de
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-09-20.duyulan.txt

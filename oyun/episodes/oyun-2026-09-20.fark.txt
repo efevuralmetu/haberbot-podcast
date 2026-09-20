@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-20.mp3
+
+beklenen 1421 kelime | duyulan 1449 kelime | eşleşme %94.4
+sayı ifadesi: metinde 288, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...düşmanı yok silahı yok
+      metin  : ölemiyorsunuz
+      duyulan: öhtölemiyorsunuz
+  INSERT   ...kapılar ve hiç kimse
+      metin  : (yok)
+      duyulan: yok
+  REPLACE  ...şehrinde ize yaşındaki kardeşi
+      metin  : robyn
+      duyulan: robin
+  REPLACE  ...ötekine taşımıştı dallas tan
+      metin  : albukörki e
+      duyulan: albuquerque ye
+  REPLACE  ...haiti ye sonunda spokane
+      metin  : e
+      duyulan: ye
+  REPLACE  ...kutuya sessizce program koydu
+      metin  : hypercard
+      duyulan: hypercart
+  REPLACE  ...kardeşiyle nasıl çalışabileceklerini gördü
+      metin  : robyn
+      duyulan: robin
+  REPLACE  ...ve siz tırmanmaya başlıyordunuz
+      metin  : puan
+      duyulan: poan
+  REPLACE  ...da yoktu siyah beyaz
+      metin  : elle
+      duyulan: el ile
+  REPLACE  ...gezinip kapıları açıyor konuşan
+      metin  : ejderhayla
+      duyulan: ejderha ile
+  INSERT   ...fincanın içine giriyordunuz kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hazırlanmış ambalajlarla çıktı kardeşler
+      metin  : hypercard
+      duyulan: hypercart
+  REPLACE  ...küçük standdan ve posta
+      metin  : siparişiyle
+      duyulan: siparişi ile
+  INSERT   ...sattılar macworld dergisi mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dergisi mart oyunu sabit
+      metin  : disk
+      duyulan: dist
+  REPLACE  ...yıl amerikan yazılım yayıncıları
+      metin  : birliğinin
+      duyulan: nin
+  REPLACE  ...rögar kapağı nı yayıncı
+      metin  : mediagenic
+      duyulan: mediagenich
+  INSERT   ...yayıncı mediagenic devraldı ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...geldi cosmic osmo ve
+      metin  : spelunx cyan
+      duyulan: spelanks jian
+  REPLACE  ...iflas korumasına girdi ve
+      metin  : cyan
+      duyulan: jian
+  REPLACE  ...rand yıllar sonra o
+      metin  : dönemi
+      duyulan: döneme
+  REPLACE  ...haklarını alıyor bilgisayar haklarını
+      metin  : cyan
+      duyulan: jian
+  INSERT   ...hemen kabul ettiler ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...süer sınırı yoktu yanlış
+      metin  : hamleyle
+      duyulan: hamle ile
+  REPLACE  ...dönemin macera oyunlarını tanımıyorlardı
+      metin  : robyn
+      duyulan: robin
+  DELETE   ...tek metin macerasının zork
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etme ihtiyacı da duymadılar
+      metin  : bulmacaların
+      duyulan: bulmaçaların
+  REPLACE  ...gerektiğini söylemiyordu adın kaynağı
+      metin  : jül vern in esrarengiz
+      duyulan: jules verne nin esra rengiz
+  REPLACE  ...geçebiliyordu oğulları sirrus ve
+      metin  : achenar
+      duyulan: açenar
+  REPLACE  ...rand sirrus u canlandıran
+      metin  : robyn
+      duyulan: robin
+  REPLACE  ...inanılmaz derecede mütevazıdır oyun
+      metin  : macintosh
+      duyulan: makintosh
+  REPLACE  ...macintosh quadra bilgisayarlarında yine
+      metin  : hypercard
+      duyulan: hypercart
+  REPLACE  ...yığınları üzerine kuruldu görüntüler
+      metin  : stratavision
+      duyulan: stratavizyon
+  REPLACE  ...paletleri ve sıkıştırma kullanılarak
+      metin  : kilobayttan
+      duyulan: kilobyttan
+  REPLACE  ...sıkıştırma kullanılarak kilobayttan yaklaşık
+      metin  : kilobayta
+      duyulan: kilobyta
+  REPLACE  ...makinenin gürültüsüne dönüşebiliyordu müziği
+      metin  : robyn
+      duyulan: robin
+  INSERT   ...çok üstüne çıktı kardeşlerden
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...avuç insandan fazla olmadı
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...verildi disket sürümü yapılmayacaktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...rom sürücüsü hala pahalı
+      metin  : aksesuardı
+      duyulan: akses vardı
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-09-20.duyulan.txt

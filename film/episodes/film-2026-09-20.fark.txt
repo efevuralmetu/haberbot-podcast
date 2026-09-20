@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-20.mp3
+
+beklenen 1620 kelime | duyulan 1631 kelime | eşleşme %95.7
+sayı ifadesi: metinde 213, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...göstereceksin aynı sırada stüdyo
+      metin  : (yok)
+      duyulan: bokta
+  REPLACE  ...güneyindeki çelik kasabası port
+      metin  : talbodun
+      duyulan: talbot un
+  REPLACE  ...arkası bacalarla ve fabrika
+      metin  : siluetiyle
+      duyulan: silüetiyle
+  REPLACE  ...o sırada monty python
+      metin  : un
+      duyulan: ın
+  REPLACE  ...dolaştı ara george orwel
+      metin  : in
+      duyulan: ın
+  REPLACE  ...radyodan aldı tarihli ari
+      metin  : barrozu
+      duyulan: barros u
+  REPLACE  ...tarihli ari barrozu imzalı
+      metin  : akuarela du brazil
+      duyulan: aquarela do brasil
+  REPLACE  ...tema gibi döner durur
+      metin  : geoff muldaur
+      duyulan: joff muldor
+  REPLACE  ...bozar aranan adamın soyadı
+      metin  : tuttle dır
+      duyulan: tattıldır
+  REPLACE  ...soyadı tuttle dır kağıda
+      metin  : buttle
+      duyulan: batlı
+  REPLACE  ...girer ayakkabı tamircisi archibald
+      metin  : buttle
+      duyulan: butler
+  REPLACE  ...alt kademe memurdur jonathan
+      metin  : pryce ın
+      duyulan: pryson
+  REPLACE  ...kattaki komşusu kamyon şoförü
+      metin  : buttle
+      duyulan: butler
+  REPLACE  ...olarak hayatı boyunca kaçtığı
+      metin  : terfiyi
+      duyulan: terfiği
+  REPLACE  ...eksikliğidir de niro aslında
+      metin  : sam in
+      duyulan: simon
+  REPLACE  ...sonradan sorgucusu olan jack
+      metin  : lint
+      duyulan: lindt
+  INSERT   ...jack lint rolünü istemişti
+      metin  : (yok)
+      duyulan: toe
+  REPLACE  ...minik ekranlara bağlıdır kıyafetler
+      metin  : kırklardan
+      duyulan: lardan
+  REPLACE  ...paris in doğusundaki nuazi
+      metin  : lö gran da
+      duyulan: le grand a
+  REPLACE  ...beton konut bloğu lezespas
+      metin  : dabraksas
+      duyulan: d abraxas
+  REPLACE  ...lezespas dabraksas a yani
+      metin  : abraksas konutları na
+      duyulan: abraxas konutlarına
+  INSERT   ...ize universal e çekimler
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...in başındaki isim sid
+      metin  : şaynberg
+      duyulan: scheinberg
+  REPLACE  ...yöneltti filmin finalinde sam
+      metin  : tuttle
+      duyulan: tattle
+  REPLACE  ...cenaze töreninin ortasından geçer
+      metin  : jil
+      duyulan: gil
+  REPLACE  ...suluboyası nı mırıldanmaktadır jack
+      metin  : lint
+      duyulan: lindt
+  REPLACE  ...ama yalnızca kafanın içindedir
+      metin  : şaynberg
+      duyulan: scheinberg
+  REPLACE  ...geleceğini söyledi i ki
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...da gösterime girdi şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tarihi yoktu aylar geçti
+      metin  : şaynberg
+      duyulan: sheinberg
+  REPLACE  ...film sayılacağına kimin karar
+      metin  : vereceğiydi
+      duyulan: verecekti
+  REPLACE  ...soru vardı sevgili sid
+      metin  : şaynberg
+      duyulan: scheinberg
+  INSERT   ...sonra beklenmedik olan oldu
+      metin  : (yok)
+      duyulan: don dirt
+  INSERT   ...beklenmedik olan oldu aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...filmi yılın filmi seçmişti
+      metin  : ödülün
+      duyulan: ledoux un
+  INSERT   ...konum değildi universal aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...en iyi sanat yönetimi
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...parçası oldu gazeteci jack
+      metin  : mathews
+      duyulan: matthews
+  REPLACE  ...yönetmenin kurgusu kavramı gilliam
+      metin  : la
+      duyulan: ile
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-09-20.duyulan.txt

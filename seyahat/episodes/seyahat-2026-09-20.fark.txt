@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-20.mp3
+
+beklenen 1667 kelime | duyulan 1657 kelime | eşleşme %94.6
+sayı ifadesi: metinde 213, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çatlaklarına kumu ve deniz
+      metin  : yosununu
+      duyulan: yosunu
+  REPLACE  ...rüzgar uçurmasın diye etrafına
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...sahibi de yapımcısı var
+      metin  : galway
+      duyulan: golvay
+  REPLACE  ...mor yani büyük ada
+      metin  : kilometrekaer
+      duyulan: km kaer
+  REPLACE  ...boyu eni yer yer
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kilometer en yüksek noktası
+      metin  : meter
+      duyulan: m
+  REPLACE  ...yüksek noktası meter ortadaki
+      metin  : i niş maan
+      duyulan: iniş mağan
+  REPLACE  ...ve en küçük olan
+      metin  : i niş i
+      duyulan: iniş
+  INSERT   ...i ir gölgesinde kalır
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...toplam kişi yaşıyor bunların
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...sokakta evde teknede konuşulduğu
+      metin  : geyltaht
+      duyulan: geytaht
+  REPLACE  ...serilir üstüne fırtınadan sonra
+      metin  : kıyıya
+      duyulan: kıyaya
+  REPLACE  ...üstünde karış aşağı yukarı
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...olarak istiflediler adada toplam
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...böyle doğdu yalnızca büyük
+      metin  : ada da kilometreyi
+      duyulan: adada km yi
+  REPLACE  ...dalgaların çarptığı çıkıntıları adlandırmıştır
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...üstüne tarih öncesinde dun
+      metin  : eynasa
+      duyulan: einasa
+  REPLACE  ...öncesinde dun eynasa yani
+      metin  : eynus
+      duyulan: einus
+  REPLACE  ...yani eynus kalesi kuruldu
+      metin  : eynus
+      duyulan: einus
+  REPLACE  ...daki en etkileyici örneklerinden
+      metin  : doksanlardaki
+      duyulan: lardaki
+  REPLACE  ...insan yaşamının izleri yaklaşık
+      metin  : mö
+      duyulan: milotnio e
+  REPLACE  ...taşların arkasına moloz yığılarak
+      metin  : mö
+      duyulan: melateno
+  REPLACE  ...yığılarak mö civarında oluşturulmuş
+      metin  : mö
+      duyulan: milöstöer leer
+  REPLACE  ...duvar düzeninin büyük olasılıkla
+      metin  : mö
+      duyulan: mislöka
+  INSERT   ...mö dolaylarında kurulduğu düşünülüyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu sakin aşınma değil
+      metin  : jeolog
+      duyulan: geolog
+  REPLACE  ...yeter adalı balıkçıların çoğunun
+      metin  : bilmemesi
+      duyulan: yüzmebilmemesi
+  REPLACE  ...bu sularda bu mevsimde
+      metin  : bilmek
+      duyulan: yüzmebilmek
+  INSERT   ...gün kamera gelene kadar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geldiği için seçti babayı
+      metin  : colman
+      duyulan: coleman
+  REPLACE  ...colman king anneyi maggie
+      metin  : dirrane
+      duyulan: duran
+  INSERT   ...ettiğini söyleyecekti film mayıs
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dublin de gösterildi salonda
+      metin  : eymon dö
+      duyulan: aymond de
+  REPLACE  ...boston du galway değil
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...bunalımı yoktu kilize yoktu
+      metin  : ada
+      duyulan: adı
+  REPLACE  ...satılan kalın örgülü aran
+      metin  : kazağının
+      duyulan: kazanın
+  REPLACE  ...tanınmayacak hale geldiğinde kimliği
+      metin  : kazağının
+      duyulan: kazanın
+  REPLACE  ...anlatının tarihsel dayanağı yok
+      metin  : kazağın
+      duyulan: kazanın
+  REPLACE  ...yüzyılın başlarında ortaya çıkmış
+      metin  : iş giysisi
+      duyulan: işgisi
+  REPLACE  ...izi ize john millington
+      metin  : synge
+      duyulan: singe
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-09-20.duyulan.txt
