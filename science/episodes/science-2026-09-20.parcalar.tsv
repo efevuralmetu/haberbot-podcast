@@ -1,0 +1,183 @@
+sira	karakter	saniye	kar_sn	metin
+1	126	6.240	20.19	The equations describing the vortex that appears when you st
+2	138	7.040	19.60	But mathematicians did not know whether these equations woul
+3	108	5.920	18.24	Earlier this month someone said they had found the answer; a
+4	110	7.680	14.32	`podcast-science.json` şunu diyor: `"language": "en"` — Nöro
+5	147	8.800	16.70	Prompt'ta "Türkçe" yazıyor ama sert kısıt "çeviri kaynağa sa
+6	125	7.840	15.94	Bu yüzden `bilim.txt`'nin sadık İngilizce çevirisini veriyor
+7	92	4.480	20.54	Look at the little whirlpool that forms behind your spoon wh
+8	106	5.920	17.91	It turns for a few seconds, splits into smaller eddies peeli
+9	56	3.360	16.67	This is one of the most ordinary events in the universe.
+10	138	7.840	17.60	The same thing happens in water running from a tap, in air s
+11	104	5.920	17.57	And behind something this ordinary stands one of the seven m
+12	41	2.880	14.24	Whoever solves it gets 1 million dollars.
+13	35	3.680	9.51	For 26 years, nobody has collected.
+14	104	6.240	16.67	The story begins in 1822, with a paper the French engineer C
+15	121	6.720	18.01	Navier was trying to write an equation of motion that accoun
+16	155	8.160	19.00	His assumptions about the forces between molecules were, by 
+17	173	9.280	18.64	Twenty-three years later the Irish physicist George Gabriel 
+18	50	2.880	17.36	The two names have stayed side by side ever since.
+19	110	7.360	14.95	What the equation does is really one very simple idea applie
+20	38	3.200	11.88	Picture a tiny parcel inside a liquid.
+21	155	8.320	18.63	The things pushing it are clear: the pressure difference com
+22	33	2.240	14.73	Their sum accelerates the parcel.
+23	135	6.880	19.62	To that you add the condition that mass cannot come from not
+24	12	1.120	10.71	That is all.
+25	67	3.840	17.45	An idea you could explain to a high-school student in half a
+26	87	4.960	17.54	The trouble hides in a single term that this simple idea lea
+27	25	2.560	9.77	The fluid carries itself.
+28	38	2.720	13.97	The velocity field drags itself along.
+29	188	10.880	17.28	In mathematics this is called nonlinearity, and because of t
+30	45	3.520	12.78	Add two solutions and you do not get a third.
+31	35	3.040	11.51	A small change does not stay small.
+32	81	5.120	15.82	This single term is the wall mathematicians have been walkin
+33	37	2.400	15.42	Today these equations are everywhere.
+34	38	2.400	15.83	Weather forecasting models solve them.
+35	216	12.640	17.09	Engineers designing aircraft wings, biomedical teams develop
+36	17	1.280	13.28	The results work.
+37	11	1.760	6.25	Planes fly.
+38	39	3.360	11.61	In practice, the equation does its job.
+39	59	3.680	16.03	The question mathematicians ask is something else entirely.
+40	105	5.440	19.30	They are not asking whether the equation is useful; they are
+41	191	10.880	17.56	The question is this: in 3-dimensional space, give it a smoo
+42	82	4.640	17.67	Does this equation have a single solution that stays smooth 
+43	56	3.840	14.58	Or does the solution tear itself apart in a finite time?
+44	136	8.640	15.74	This is called the global regularity problem, and in May of 
+45	199	11.200	17.77	The Clay Mathematics Institute, founded by the American busi
+46	46	3.360	13.69	The Navier-Stokes equations were on that list.
+47	170	8.160	20.83	The person who wrote the official statement of the problem w
+48	145	7.520	19.28	What Fefferman asked for was not an explanation of turbulenc
+49	95	6.880	13.81	Even so, only one of those seven problems has been solved to
+50	63	4.000	15.75	And Grigori Perelman, who solved it, refused to take the pri
+51	43	3.040	14.14	So how exactly does an equation break down?
+52	93	5.120	18.16	The event is called a singularity, and it means something mo
+53	21	1.760	11.93	Think of it this way.
+54	48	3.040	15.79	An ice skater spins with their arms spread wide.
+55	181	9.760	18.55	The moment they pull their arms in against their body, the s
+56	54	3.680	14.67	Now do the same thing to a vortex tube inside a fluid.
+57	112	6.240	17.95	When the flow stretches that tube lengthwise, the tube gets 
+58	31	2.400	12.92	We call this vortex stretching.
+59	120	6.400	18.75	The faster-spinning vortex pulls the surrounding flow more v
+60	25	2.240	11.16	A loop that feeds itself.
+61	45	2.560	17.58	The whole heart of the problem is right here.
+62	47	2.720	17.28	Can this loop keep accelerating itself forever?
+63	90	5.440	16.54	That is, can the vorticity climb to infinity in a finite tim
+64	58	3.520	16.48	If it can, the equation loses its meaning at that instant.
+65	80	4.800	16.67	Derivatives become undefined, and there is no such thing as 
+66	207	10.560	19.60	In physical terms this would mean the liquid producing an in
+67	52	3.840	13.54	But here we are judging the equation, not the water.
+68	94	5.280	17.80	The most irritating part of this picture is that in 2 dimens
+69	148	8.480	17.45	In the plane there is no third direction along which you can
+70	48	3.040	15.79	That is why the 2-dimensional problem is closed.
+71	207	11.840	17.48	Jean Leray's work in the 1930s, and then the work the Russia
+72	57	3.840	14.84	Add one dimension and everything slips out of your hands.
+73	94	5.440	17.28	There is a more technical but very illuminating way of seein
+74	172	9.280	18.53	The Navier-Stokes equations have a symmetry; take a solution
+75	64	4.800	13.33	Now think of the one reliable conservation law you hold: ene
+76	66	4.160	15.87	Viscosity constantly eats energy, so the total can never inc
+77	40	2.400	16.67	This is the strongest card in your hand.
+78	215	12.160	17.68	But when you apply that scaling transformation, in 3 dimensi
+79	32	2.240	14.29	This is called supercriticality.
+80	80	5.280	15.15	In 2 dimensions the energy is exactly critical, meaning it j
+81	36	2.720	13.24	In 3 dimensions it does not suffice.
+82	88	4.960	17.74	The one solid card we hold becomes useless precisely where t
+83	87	5.280	16.48	Even so, a good deal of ground has been covered in this dark
+84	201	11.680	17.21	In 1934 Leray invented what we now call weak solutions: solu
+85	47	3.200	14.69	Leray showed that these solutions always exist.
+86	59	3.200	18.44	What he could not show was that they are smooth and unique.
+87	111	5.920	18.75	Ever since, the problem has been defined by that gap: betwee
+88	112	6.080	18.42	and solutions that certainly behave well for a short time bu
+89	218	11.520	18.92	Leray had also made a guess about what the catastrophe would
+90	69	5.440	12.68	In 1996 a team of Czech and American mathematicians — Jindři
+91	154	8.160	18.87	Michael Růžička and Vladimír Šverák — proved that exactly th
+92	92	5.920	15.54	So the most obvious catastrophe scenario came off the table;
+93	143	9.920	14.42	In 1984 James Beale, Tosio Kato and Andrew Majda found a ver
+94	154	9.120	16.89	What they said, in summary, was this: the solution can break
+95	56	3.360	16.67	A similar criterion exists for the viscous case as well.
+96	111	6.400	17.34	This was a very valuable narrowing, tying the catastrophe to
+97	52	3.040	17.11	Nobody could show whether that sum goes to infinity.
+98	18	1.760	10.23	And there is this.
+99	198	11.520	17.19	In 1982 Luis Caffarelli, Robert Kohn and Louis Nirenberg, fo
+100	34	2.720	12.50	in suitably chosen weak solutions.
+101	103	5.920	17.40	The result was striking: that set is too thin to form even a
+102	181	10.560	17.14	So if the equation is going to break down, it cannot break d
+103	32	2.080	15.38	This does not solve the problem.
+104	67	3.520	19.03	But it shows how small a hole the enemy would have to come t
+105	41	3.040	13.49	For 44 years nobody has closed that hole.
+106	34	2.880	11.81	A hole that narrow is encouraging.
+107	104	5.920	17.57	And indeed, over the last 20 years, word that the problem ha
+108	169	9.600	17.60	In 2006 the American mathematician Penny Smith circulated a 
+109	59	3.360	17.56	The news spread quickly through the mathematical community.
+110	99	5.280	18.75	A few days later Smith withdrew the work, stating that a ser
+111	47	4.160	11.30	Something far noisier happened in January 2014.
+112	175	9.280	18.86	The Kazakh mathematician Mukhtarbay Otelbayev published a wo
+113	94	5.440	17.28	Otelbayev was not an unknown; there was a serious career and
+114	120	6.240	19.23	But the text was written in Russian and was technically extr
+115	148	7.840	18.88	Most of the checking was taken on by Stephen Montgomery-Smit
+116	117	6.560	17.84	Volunteers translated the text into English section by secti
+117	45	3.040	14.80	The outcome became clear within a few months.
+118	191	10.240	18.65	In a message sent to Montgomery-Smith, Otelbayev accepted th
+119	110	6.240	17.63	The wrong formula had been used at one point, and the entire
+120	52	3.040	17.11	What is really striking here is how the fight ended.
+121	131	8.000	16.38	Nobody smeared anybody; the person who found the error and t
+122	128	7.520	17.02	This is both the harshest and the most beautiful side of mat
+123	131	7.680	17.06	In February of the same year, another of the field's great n
+124	43	3.520	12.22	Tao did not try to solve the real equation.
+125	210	11.200	18.75	Instead he built a cousin equation that carries all the impo
+126	79	4.320	18.29	Then he proved that this cousin equation definitely breaks d
+127	181	10.080	17.96	Tao's idea here was almost philosophical: if a fluid can bui
+128	155	8.640	17.94	handing its energy each time to a smaller copy; and because 
+129	43	2.560	16.80	The meaning of this result was devastating.
+130	106	5.760	18.40	Because most of the general methods we have today use only t
+131	163	8.800	18.52	Tao showed that no proof working with those tools can succee
+132	113	5.760	19.62	Whoever is going to solve this problem will have to go down 
+133	32	2.240	14.29	The bad news does not end there.
+134	136	8.160	16.67	In 2019 Tristan Buckmaster and Vlad Vicol, using a very inve
+135	105	5.440	19.30	proved that in the loosest version of Leray's weak-solution 
+136	145	7.360	19.70	They constructed infinitely many different solutions startin
+137	89	5.280	16.86	These solutions are not physically reasonable; they do not s
+138	122	6.720	18.15	But what they show is plain: stretch the notion of a weak so
+139	33	2.240	14.73	Then the other pan of the scales.
+140	132	6.880	19.19	In recent years the first solid evidence that the catastroph
+141	183	9.760	18.75	In 2021 Tarek Elgindi proved that he had produced a collapse
+142	122	8.640	14.12	Then in 2025, Thomas Hou and Jiajie Chen of the California I
+143	153	8.480	18.04	that within a bounded region — in a container with a wall — 
+144	78	3.680	21.20	and the work was published in the journal of the National Ac
+145	167	9.440	17.69	A computer-assisted proof does not mean the machine guessed 
+146	56	3.520	15.91	and the sum of all of them constitutes the proof itself.
+147	54	4.320	12.50	But take note: there is no viscosity in these results.
+148	70	4.320	16.20	Viscosity is the only force with a chance of stopping the ca
+149	72	4.160	17.31	We cannot say that because Euler breaks down, Navier-Stokes 
+150	46	4.000	11.50	The freshest front is artificial intelligence.
+151	22	3.040	7.24	In the autumn of 2025,
+152	258	13.760	18.75	a team made up of Google's artificial intelligence laborator
+153	154	7.680	20.05	The method they used was neural networks that make the laws 
+154	151	8.160	18.50	What they found is called an unstable singularity: knife-edg
+155	83	4.800	17.29	and which are therefore almost impossible to hunt with class
+156	159	8.320	19.11	The team improved the precision of the known solutions by se
+157	111	6.240	17.79	The aim is clear: to sharpen these profiles enough that they
+158	114	6.880	16.57	Still, let us be honest; these too are not the full 3-dimens
+159	41	2.720	15.07	The prize is still waiting for its owner.
+160	44	2.880	15.28	So where do we stand at the end of all this?
+161	33	2.400	13.75	The equation has not broken down.
+162	86	4.480	19.20	There is nobody who has shown that it does, and nobody who h
+163	186	9.760	19.06	What we have is a measurement two centuries long: we know th
+164	104	5.760	18.06	To know this precisely why a problem is hard is in fact one 
+165	75	4.160	18.03	And this touches something far larger than the curiosity of 
+166	139	8.480	16.39	Turbulence — the passage of a flow from orderly lines into c
+167	173	9.440	18.33	According to accounts, the English physicist Horace Lamb sai
+168	59	3.680	16.03	quantum electrodynamics and the turbulent motion of fluids.
+169	60	3.680	16.30	The first, Lamb added, looked the more promising of the two.
+170	108	6.560	16.46	In the 90-odd years since, quantum electrodynamics has becom
+171	50	3.360	14.88	Turbulence is still standing exactly where it was.
+172	36	2.080	17.31	We pay the price for this every day.
+173	188	9.920	18.95	Because we cannot solve turbulence from the real equation in
+174	60	2.880	20.83	but they cannot tell you in advance when they will be wrong.
+175	133	7.200	18.47	Weather forecasts falling apart after a certain number of da
+176	187	10.560	17.71	plasma leaking heat unexpectedly in fusion reactors — the sa
+177	32	2.400	13.33	Perhaps the real lesson is this.
+178	184	10.400	17.69	That whirlpool behind the spoon is turning inside a 200-year
+179	78	4.800	16.25	Nature does this calculation every second, everywhere, witho
+180	27	1.760	15.34	We are the ones who cannot.
+181	47	3.520	13.35	Nöron Science'de bugünkü bölümün sonuna geldik.
+182	41	2.880	14.24	Yeni bir hikâyede yeniden buluşmak üzere.
