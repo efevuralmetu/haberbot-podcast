@@ -1,0 +1,685 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.850
+Kahveni karıştırdığında ortaya çıkan girdabı tarif eden denklemler yaklaşık iki yüz yıldır yazılı.
+
+2
+00:00:06.850 --> 00:00:14.820
+Ama matematikçiler bu denklemlerin bir gün sonsuza patlayıp patlamayacağını bilmiyordu — bu soruya bir milyon dolar ödül konmuştu.
+
+3
+00:00:14.820 --> 00:00:20.870
+Bu ayın başında birisi cevabı bulduğunu söyledi; ve cevap "hayır, pürüzsüz kalmıyor" idi.
+
+4
+00:00:29.070 --> 00:00:34.640
+Sabah kahvenizi karıştırırken kaşığın arkasında oluşan o küçük girdaba bakın.
+
+5
+00:00:34.640 --> 00:00:41.330
+Birkaç saniye döner, kenarlardan kopan daha küçük burgaçlara ayrılır, sonra hepsi sönüp gider.
+
+6
+00:00:41.330 --> 00:00:44.820
+Bu, evrendeki en sıradan olaylardan biri.
+
+7
+00:00:44.820 --> 00:00:53.590
+Aynı şey musluktan akan suda, kanadın ucundan sıyrılan havada, atardamarınızdaki kanda, Jüpiter'in atmosferinde de oluyor.
+
+8
+00:00:53.590 --> 00:01:00.600
+Ve bu kadar sıradan bir şeyin arkasında, matematiğin çözülmemiş en ünlü yedi probleminden biri duruyor.
+
+9
+00:01:00.600 --> 00:01:03.450
+Çözene 1 milyon dolar veriliyor.
+
+10
+00:01:03.450 --> 00:01:06.140
+26 yıldır kimse alamadı.
+
+11
+00:01:06.140 --> 00:01:13.950
+Hikâye 1822'de, Fransız mühendis Claude-Louis Navier'nin bir akademi bildirisiyle başlıyor.
+
+12
+00:01:13.950 --> 00:01:21.920
+Navier, akan bir sıvının içindeki sürtünmeyi, yani viskoziteyi hesaba katan bir hareket denklemi yazmaya çalışıyordu.
+
+13
+00:01:21.920 --> 00:01:31.010
+Moleküller arası kuvvetler hakkındaki varsayımları bugünkü gözle bakıldığında yanlıştı, ama denklemin biçimi şaşırtıcı ölçüde doğru çıktı.
+
+14
+00:01:31.010 --> 00:01:41.220
+Yirmi üç yıl sonra İrlandalı fizikçi George Gabriel Stokes, aynı denklemi çok daha sağlam bir temelden, sürekli ortam mekaniğinin varsayımlarından yeniden türetti.
+
+15
+00:01:41.220 --> 00:01:44.230
+İkisinin adı yan yana kaldı.
+
+16
+00:01:44.230 --> 00:01:52.200
+Denklemin yaptığı iş aslında son derece basit bir fikrin akışkanlara uyarlanmasıdır: kuvvet, kütle çarpı ivmedir.
+
+17
+00:01:52.200 --> 00:01:55.690
+Bir sıvının içindeki minicik bir parçacığı düşünün.
+
+18
+00:01:55.690 --> 00:02:06.220
+O parçacığı iten şeyler bellidir: komşularından gelen basınç farkı, viskozitenin yarattığı sürtünme, bir de yerçekimi gibi dışarıdan uygulanan kuvvetler.
+
+19
+00:02:06.220 --> 00:02:09.070
+Bunların toplamı parçacığı hızlandırır.
+
+20
+00:02:09.070 --> 00:02:18.800
+Buna bir de kütlenin yoktan var olamayacağı koşulunu, yani sıkıştırılamaz bir sıvıda giren miktarın çıkan miktara eşit olması gerektiğini eklersiniz.
+
+21
+00:02:18.800 --> 00:02:20.050
+Hepsi bu.
+
+22
+00:02:20.050 --> 00:02:24.180
+Bir lise öğrencisine yarım saatte anlatabileceğiniz bir fikir.
+
+23
+00:02:24.180 --> 00:02:28.790
+Sorun, bu basit fikrin denklemde bıraktığı tek bir terimde saklı.
+
+24
+00:02:28.790 --> 00:02:31.320
+Akışkan kendi kendini taşır.
+
+25
+00:02:31.320 --> 00:02:34.490
+Hız alanı, kendi kendisini sürükler.
+
+26
+00:02:34.490 --> 00:02:45.020
+Matematikte buna doğrusal olmama denir ve bu terim yüzünden denklemin çözümleri toplanamaz, ölçeklenemez, parçalara ayrılıp ayrı ayrı halledilemez.
+
+27
+00:02:45.020 --> 00:02:49.470
+İki çözümü toplarsanız üçüncü bir çözüm elde etmezsiniz.
+
+28
+00:02:49.470 --> 00:02:52.320
+Küçük bir değişiklik küçük kalmaz.
+
+29
+00:02:52.320 --> 00:02:57.570
+İşte bu tek terim, iki yüz yıldır matematikçilerin duvara tosladığı yer.
+
+30
+00:02:57.570 --> 00:03:00.900
+Bugün bu denklemler her yerde kullanılıyor.
+
+31
+00:03:00.900 --> 00:03:03.910
+Hava tahmini modelleri onları çözüyor.
+
+32
+00:03:03.910 --> 00:03:11.560
+Uçak kanadı tasarlayan mühendisler, kalp kapakçığı geliştiren biyomedikal ekipler, rüzgâr türbini yerleştiren firmalar,
+
+33
+00:03:11.560 --> 00:03:18.410
+okyanus akıntılarını modelleyen iklim bilimciler hep aynı denklem takımını sayısal olarak hesaplatıyor.
+
+34
+00:03:18.410 --> 00:03:20.460
+Sonuçlar işe yarıyor.
+
+35
+00:03:20.460 --> 00:03:22.350
+Uçaklar uçuyor.
+
+36
+00:03:22.350 --> 00:03:24.720
+Yani pratikte denklem çalışıyor.
+
+37
+00:03:24.720 --> 00:03:27.730
+Matematikçilerin sorduğu soru bambaşka.
+
+38
+00:03:27.730 --> 00:03:33.620
+Onlar denklemin işe yarayıp yaramadığını değil, kendi içinde tutarlı olup olmadığını soruyorlar.
+
+39
+00:03:33.620 --> 00:03:45.110
+Soru şu: 3 boyutlu boşlukta, pürüzsüz ve makul bir başlangıç durumu verin; sıvı hiçbir yerde sonsuz hızlı değil, hiçbir yerde ani sıçrama yok, her şey yumuşacık.
+
+40
+00:03:45.110 --> 00:03:50.520
+Bu denklemin, zamanın sonuna kadar pürüzsüz kalan tek bir çözümü var mıdır?
+
+41
+00:03:50.520 --> 00:03:55.130
+Yoksa çözüm, sonlu bir zamanda kendi kendini yırtıp parçalanır mı?
+
+42
+00:03:55.130 --> 00:04:03.580
+Buna küresel düzenlilik problemi deniyor ve 2000 yılının Mayıs ayında, Paris'te yapılan bir törenle resmen ödüllü hâle geldi.
+
+43
+00:04:03.580 --> 00:04:16.670
+Amerikalı iş insanı Landon Clay'in kurduğu Clay Mathematics Institute, yani Clay Matematik Enstitüsü, yeni yüzyılın eşiğinde yedi problem ilan etti ve her birinin çözümü için 1 milyon dolar ayırdı.
+
+44
+00:04:16.670 --> 00:04:19.520
+Navier-Stokes denklemleri o listedeydi.
+
+45
+00:04:19.520 --> 00:04:27.970
+Problemin resmî tanım metnini yazan kişi, alanın en saygın isimlerinden Charles Fefferman'dı ve metin bilinçli olarak dar tutuldu.
+
+46
+00:04:27.970 --> 00:04:36.420
+Fefferman'ın istediği şey türbülansın açıklanması falan değildi; sadece çözümün var olup olmadığı ve pürüzsüz kalıp kalmadığı.
+
+47
+00:04:36.420 --> 00:04:42.630
+Buna rağmen o yedi problemden bugüne dek yalnızca biri çözüldü: Poincaré sanısı.
+
+48
+00:04:42.630 --> 00:04:46.760
+Onu çözen Grigori Perelman da ödülü almayı reddetti.
+
+49
+00:04:46.760 --> 00:04:49.930
+Peki bir denklem tam olarak nasıl "çöker"?
+
+50
+00:04:49.930 --> 00:04:54.060
+Buna tekillik deniyor ve anlamı sandığınızdan daha somut.
+
+51
+00:04:54.060 --> 00:04:55.790
+Şöyle düşünün.
+
+52
+00:04:55.790 --> 00:04:58.960
+Bir buz patencisi kollarını açmış dönüyor.
+
+53
+00:04:58.960 --> 00:05:08.530
+Kollarını gövdesine çektiği anda dönüş hızı fırlar; açısal momentum korunduğu için kütle eksene yaklaştıkça dönüş hızlanmak zorundadır.
+
+54
+00:05:08.530 --> 00:05:12.820
+Şimdi aynı şeyi bir sıvının içindeki girdap tüpüne yapın.
+
+55
+00:05:12.820 --> 00:05:19.510
+Akışkan, o tüpü uzunlamasına gerdiğinde tüp incelir; inceldiği için de daha hızlı döner.
+
+56
+00:05:19.510 --> 00:05:22.040
+Buna girdap gerilmesi diyoruz.
+
+57
+00:05:22.040 --> 00:05:28.730
+Daha hızlı dönen girdap, çevresindeki akışı daha şiddetli çeker, o da tüpü daha fazla gerer.
+
+58
+00:05:28.730 --> 00:05:31.100
+Kendini besleyen bir döngü.
+
+59
+00:05:31.100 --> 00:05:33.310
+Sorunun bütün kalbi burada.
+
+60
+00:05:33.310 --> 00:05:37.600
+Bu döngü kendi kendini sonsuza kadar hızlandırabilir mi?
+
+61
+00:05:37.600 --> 00:05:43.650
+Yani girdaplılık, sonlu bir sürede, uzayın tek bir noktasında sonsuza tırmanabilir mi?
+
+62
+00:05:43.650 --> 00:05:47.940
+Eğer tırmanabiliyorsa, o anda denklem anlamını yitirir.
+
+63
+00:05:47.940 --> 00:05:51.750
+Türevler tanımsızlaşır, çözüm diye bir şey kalmaz.
+
+64
+00:05:51.750 --> 00:06:03.080
+Fizik açısından bu, sıvının hiçbir dış etki olmadan, kendi iç dinamiğiyle bir noktada sonsuz enerji yoğunluğu üretmesi demektir ki gerçek suda böyle bir şey görmüyoruz.
+
+65
+00:06:03.080 --> 00:06:07.050
+Ama biz burada suyu değil, denklemi yargılıyoruz.
+
+66
+00:06:07.050 --> 00:06:12.780
+Bu resmin en can sıkıcı tarafı, 2 boyutta böyle bir tehlikenin hiç olmaması.
+
+67
+00:06:12.780 --> 00:06:20.430
+Düzlemde girdap tüpünü gerebileceğiniz bir üçüncü doğrultu yoktur; girdaplılık basitçe akışla birlikte taşınır ve büyüyemez.
+
+68
+00:06:20.430 --> 00:06:23.440
+Bu yüzden 2 boyutlu problem kapandı.
+
+69
+00:06:23.440 --> 00:06:32.370
+Jean Leray'in 1930'lardaki çalışmaları ve ardından Rus matematikçi Olga Ladyzhenskaya'nın sonraki onyıllarda yaptığı işler,
+
+70
+00:06:32.370 --> 00:06:39.540
+düzlemde çözümlerin hem var olduğunu hem tek olduğunu hem de sonsuza kadar pürüzsüz kaldığını gösterdi.
+
+71
+00:06:39.540 --> 00:06:43.510
+Bir boyut eklediğiniz anda her şey elinizden kayıyor.
+
+72
+00:06:43.510 --> 00:06:49.560
+Neden kaydığını anlatan daha teknik ama çok aydınlatıcı bir bakış var: ölçek kritikliği.
+
+73
+00:06:49.560 --> 00:06:59.930
+Navier-Stokes denklemlerinin bir simetrisi vardır; bir çözümü alıp uzayda küçültür, zamanda ve hızda uygun oranlarda ayarlarsanız, yine bir çözüm elde edersiniz.
+
+74
+00:06:59.930 --> 00:07:04.700
+Şimdi elinizdeki tek güvenilir korunum yasasını, enerjiyi düşünün.
+
+75
+00:07:04.700 --> 00:07:10.590
+Viskozite sürekli enerji yer, dolayısıyla toplam enerji asla artmaz.
+
+76
+00:07:10.590 --> 00:07:13.760
+Bu, elinizdeki en güçlü kozdur.
+
+77
+00:07:13.760 --> 00:07:24.770
+Ama o ölçek dönüşümünü uyguladığınızda, 3 boyutta enerji giderek anlamsızlaşır: küçük ölçeklere indikçe enerji sınırı olan bitenin üstünde hiçbir denetim kuramaz.
+
+78
+00:07:24.770 --> 00:07:27.140
+Buna süperkritiklik deniyor.
+
+79
+00:07:27.140 --> 00:07:31.430
+2 boyutta enerji tam kritiktir, yani ancak yeter.
+
+80
+00:07:31.430 --> 00:07:33.480
+3 boyutta yetmez.
+
+81
+00:07:33.480 --> 00:07:39.690
+Elimizdeki tek sağlam koz, tam da felaketin olabileceği yerde işe yaramaz hâle geliyor.
+
+82
+00:07:39.690 --> 00:07:43.980
+Yine de son yüzyılda bu karanlıkta epey mesafe alındı.
+
+83
+00:07:43.980 --> 00:07:57.230
+Leray, 1934'te bugün zayıf çözüm dediğimiz kavramı icat etti: denklemi her noktada birebir sağlamayan, ama ortalama anlamda sağlayan ve her zaman var olduğu ispatlanabilen çözümler.
+
+84
+00:07:57.230 --> 00:08:00.720
+Leray bu çözümlerin her zaman var olduğunu gösterdi.
+
+85
+00:08:00.720 --> 00:08:04.690
+Gösteremediği şey, onların pürüzsüz ve tek olduğuydu.
+
+86
+00:08:04.690 --> 00:08:18.740
+O günden beri problemi bu boşluk tanımlıyor: elimizde daima var olan ama belki kötü davranan çözümlerle, kısa süre için kesinlikle iyi davranan ama uzun vadede varlığı garanti olmayan çözümler arasındaki uçurum.
+
+87
+00:08:18.740 --> 00:08:31.350
+Leray, felaketin nasıl görüneceğine dair bir tahmin de yürütmüştü: çözüm kendine benzer biçimde çökerdi, yani tekilliğe yaklaşırken hep aynı şekli alır, sadece giderek küçülüp hızlanırdı.
+
+88
+00:08:31.350 --> 00:08:40.120
+1996'da Çek ve Amerikalı matematikçilerden oluşan bir ekip, Jindřich Nečas, Michael Růžička ve Vladimír Šverák,
+
+89
+00:08:40.120 --> 00:08:47.450
+Leray'in hayal ettiği türden tam kendine benzer bir çökmenin sonlu enerjili durumda imkânsız olduğunu kanıtladı.
+
+90
+00:08:47.450 --> 00:08:53.660
+Yani en bariz felaket senaryosu masadan kalktı; ama felaketin kendisi kalkmadı.
+
+91
+00:08:53.660 --> 00:09:04.510
+1984'te James Beale, Tosio Kato ve Andrew Majda, viskozitesiz akışkanları tanımlayan Euler denklemleri için çok keskin bir ölçüt buldular.
+
+92
+00:09:04.510 --> 00:09:13.440
+Söyledikleri özetle şuydu: çözüm ancak ve ancak girdaplılığın en büyük değerinin zaman içindeki toplamı sonsuza gidiyorsa bozulabilir.
+
+93
+00:09:13.440 --> 00:09:16.770
+Benzer bir ölçüt viskoziteli durum için de var.
+
+94
+00:09:16.770 --> 00:09:23.140
+Bu, felaketi tek bir büyüklüğün, girdaplılığın davranışına bağlayan çok değerli bir daraltmaydı.
+
+95
+00:09:23.140 --> 00:09:27.270
+Kimse o toplamın sonsuza gidip gitmediğini gösteremedi.
+
+96
+00:09:27.270 --> 00:09:28.840
+Bir de şu var.
+
+97
+00:09:28.840 --> 00:09:37.610
+1982'de Luis Caffarelli, Robert Kohn ve Louis Nirenberg, öncesinde Vladimir Scheffer'in açtığı yolu izleyerek,
+
+98
+00:09:37.610 --> 00:09:45.580
+uygun biçimde seçilmiş zayıf çözümlerde felaketin olabileceği nokta kümesinin ne kadar küçük olmak zorunda olduğunu ölçtüler.
+
+99
+00:09:45.580 --> 00:09:52.750
+Sonuç çarpıcıydı: o küme, uzay ve zamanda tek bir eğri parçası bile oluşturamayacak kadar ince.
+
+100
+00:09:52.750 --> 00:10:01.520
+Yani denklem çökecekse, bir yüzey boyunca, bir çizgi boyunca çökemez; olsa olsa toz gibi dağılmış birkaç yalıtık noktada çöker.
+
+101
+00:10:01.520 --> 00:10:03.410
+Bu, problemi çözmüyor.
+
+102
+00:10:03.410 --> 00:10:07.860
+Ama düşmanın ne kadar küçük bir delikten girebileceğini gösteriyor.
+
+103
+00:10:07.860 --> 00:10:10.870
+Kırk dört yıldır o deliği kapatan çıkmadı.
+
+104
+00:10:10.870 --> 00:10:14.840
+Bu kadar dar bir delik, insanı cesaretlendiriyor.
+
+105
+00:10:14.840 --> 00:10:19.610
+Nitekim son yirmi yılda birkaç kez "çözüldü" haberi dolaştı.
+
+106
+00:10:19.610 --> 00:10:29.500
+2006'da Amerikalı matematikçi Penny Smith, 3 boyutlu problemin sonsuza kadar pürüzsüz kalan çözümlerini inşa ettiğini duyuran bir çalışma paylaştı.
+
+107
+00:10:29.500 --> 00:10:32.670
+Haber matematik camiasında hızla yayıldı.
+
+108
+00:10:32.670 --> 00:10:40.160
+Birkaç gün sonra Smith, ispatında ciddi bir hata bulunduğunu belirterek çalışmasını kendi eliyle geri çekti.
+
+109
+00:10:40.160 --> 00:10:43.810
+Çok daha gürültülüsü 2014 Ocağında oldu.
+
+110
+00:10:43.810 --> 00:10:54.020
+Kazak matematikçi Muhtarbay Ötelbayev, Kazakistan'da yayımlanan bir matematik dergisinde, problemin çözüldüğünü öne süren 100 sayfaya yakın bir çalışma yayımladı.
+
+111
+00:10:54.020 --> 00:10:59.430
+Ötelbayev tanınmayan biri değildi; ciddi bir kariyeri, ciddi bir okulu vardı.
+
+112
+00:10:59.430 --> 00:11:07.240
+Ama metin Rusça yazılmıştı ve teknik olarak son derece ağırdı, bu yüzden dünyanın geri kalanının okuması haftalar aldı.
+
+113
+00:11:07.240 --> 00:11:17.130
+Denetim işinin büyük kısmını, 1995'ten beri bu denklemlerle uğraşan Missouri Üniversitesi'nden Stephen Montgomery-Smith üstlendi.
+
+114
+00:11:17.130 --> 00:11:23.980
+Gönüllüler metni bölüm bölüm İngilizceye çevirdi, internet üzerinden ortak bir inceleme yürütüldü.
+
+115
+00:11:23.980 --> 00:11:26.670
+Sonuç birkaç ay içinde netleşti.
+
+116
+00:11:26.670 --> 00:11:40.240
+Ötelbayev, Montgomery-Smith'e gönderdiği bir mesajda, çalışmanın elli altıncı sayfasındaki bir eşitsizliğin hatalı olduğunu ve dolayısıyla ona dayanan önermenin kanıtlanmamış sayılması gerektiğini kendisi kabul etti.
+
+117
+00:11:40.240 --> 00:11:46.290
+Bir yerde yanlış formülü kullanmıştı, sonraki bütün hesap onun üstüne kurulmuştu.
+
+118
+00:11:46.290 --> 00:11:50.260
+Burada asıl dikkat çekici olan, kavganın nasıl bittiği.
+
+119
+00:11:50.260 --> 00:11:57.270
+Kimse kimseyi karalamadı; hatayı bulan da kabul eden de aynı süreçte, açık biçimde davrandı.
+
+120
+00:11:57.270 --> 00:12:05.560
+Matematiğin en sert tarafı da en güzel tarafı da bu: iddianın sahibi kim olursa olsun, yanlış bir eşitsizlik yanlıştır.
+
+121
+00:12:05.560 --> 00:12:13.210
+Aynı yılın Şubat ayında, alanın bir başka büyük ismi, Terence Tao çok farklı yönden gelen bir darbe indirdi.
+
+122
+00:12:13.210 --> 00:12:16.700
+Tao, gerçek denklemi çözmeye çalışmadı.
+
+123
+00:12:16.700 --> 00:12:29.150
+Onun yerine, gerçek denklemin bütün önemli yapısal özelliklerini taşıyan, özellikle de enerji eşitliğine harfiyen uyan, ama doğrusal olmayan terimi biraz karıştırılmış bir kuzen denklem kurdu.
+
+124
+00:12:29.150 --> 00:12:33.920
+Sonra o kuzen denklemin sonlu zamanda kesinlikle çöktüğünü ispatladı.
+
+125
+00:12:33.920 --> 00:12:43.650
+Tao'nun buradaki fikri neredeyse felsefiydi: eğer akışkan kendi içinde küçük ölçekli yapılar kurabiliyorsa, ilkece kendi kendini kopyalayan,
+
+126
+00:12:43.650 --> 00:12:54.980
+enerjisini her seferinde daha küçük bir kopyaya aktaran bir tür sıvı makine inşa edilebilir; her kopyalama bir öncekinden hızlı olduğu için sonsuz adım sonlu zamana sığar.
+
+127
+00:12:54.980 --> 00:12:57.190
+Bu sonucun anlamı yıkıcıydı.
+
+128
+00:12:57.190 --> 00:13:03.720
+Çünkü bugün elimizdeki genel yöntemlerin çoğu, yalnızca enerjiyi ve denklemin kaba biçimini kullanır.
+
+129
+00:13:03.720 --> 00:13:13.770
+Tao, o araçlarla çalışan hiçbir ispatın işe yaramayacağını gösterdi: aynı araçlar, kesinlikle çöken bir denklemi de "çökmez" diye onaylardı.
+
+130
+00:13:13.770 --> 00:13:20.460
+Kim bu problemi çözecekse, akışkanın doğrusal olmayan teriminin en ince ayrıntısına inmek zorunda.
+
+131
+00:13:20.460 --> 00:13:58.870
+Kötü haber bununla bitmiyor. 2019'da Tristan Buckmaster ve Vlad Vicol, dışbükey tümleme denen ve aslında geometriden gelen çok yaratıcı bir teknikle, Leray'in zayıf çözüm kavramının en gevşek halinde teklik diye bir şey olmadığını kanıtladılar. Aynı başlangıç durumundan yola çıkan, hepsi denklemi zayıf anlamda sağlayan, birbirinden farklı sonsuz sayıda çözüm inşa ettiler. Bu çözümler fiziksel olarak makul değil, enerji koşullarını sağlamıyorlar; ama gösterdikleri şey açık: zayıf çözüm kavramını fazla genişletirseniz, denklem geleceği belirlemeyi bırakıyor.
+
+132
+00:13:58.870 --> 00:14:01.720
+Sonra terazinin öbür kefesi.
+
+133
+00:14:01.720 --> 00:14:09.050
+Son yıllarda, felaketin gerçekten olabileceğine dair ilk sağlam kanıtlar geldi; ama hepsi biraz yandan.
+
+134
+00:14:09.050 --> 00:14:20.060
+2021'de Tarek Elgindi, viskozitesiz Euler denklemleri için, tam pürüzsüz olmayan ama yine de saygıdeğer bir başlangıç durumundan çöküş ürettiğini kanıtladı.
+
+135
+00:14:20.060 --> 00:14:29.150
+2025'te ise California Teknoloji Enstitüsü'nden Thomas Hou ile Jiajie Chen, sınırlı bir bölgede, duvarı olan bir kapta,
+
+136
+00:14:29.150 --> 00:14:41.280
+tamamen pürüzsüz başlangıç verisiyle Euler denklemlerinin sonlu zamanda tekillik ürettiğini bilgisayar destekli bir ispatla gösterdiler ve çalışma Amerikan Ulusal Bilimler Akademisi'nin dergisinde yayımlandı.
+
+137
+00:14:41.280 --> 00:14:53.730
+Bilgisayar destekli ispat demek, makinenin sonucu tahmin etmesi değil; her sayısal adımın hata payının kesin aralıklarla sınırlandığı, hepsinin toplamının kanıtın kendisini oluşturduğu bir yöntem.
+
+138
+00:14:53.730 --> 00:14:57.220
+Ama dikkat: bu sonuçlarda viskozite yok.
+
+139
+00:14:57.220 --> 00:15:01.510
+Viskozite, felaketi durdurma şansı olan tek kuvvet.
+
+140
+00:15:01.510 --> 00:15:05.480
+Euler çöküyor diye Navier-Stokes çöker diyemeyiz.
+
+141
+00:15:05.480 --> 00:15:08.490
+En taze cephe ise yapay zekâ.
+
+142
+00:15:08.490 --> 00:15:21.100
+2025 sonbaharında, Google'ın yapay zekâ laboratuvarı DeepMind ile birkaç üniversiteden matematikçinin, aralarında Tristan Buckmaster ve Javier Gómez-Serrano'nun da bulunduğu bir ekip,
+
+143
+00:15:21.100 --> 00:15:28.110
+akışkan denklemlerinin sadeleştirilmiş akrabalarında yeni bir tekillik ailesi buldu.
+
+144
+00:15:28.110 --> 00:15:37.040
+Kullandıkları yöntem, fizik yasalarını doğrudan öğrenme hedefi haline getiren sinir ağlarıydı; veriden değil, denklemin kendisinden öğreniyorlar.
+
+145
+00:15:37.040 --> 00:15:49.490
+Buldukları şeye kararsız tekillik deniyor: bıçak sırtı çözümler, yani başlangıç koşulunu kılpayı şaşırsanız oluşmayan, o yüzden klasik sayısal yöntemlerle avlanması neredeyse imkânsız olan çöküşler.
+
+146
+00:15:49.490 --> 00:15:58.900
+Ekip, bilinen çözümlerin hassasiyetini birkaç mertebe iyileştirdi ve daha önce hiç görülmemiş yüksek mertebeden kararsız çözüm aileleri çıkardı.
+
+147
+00:15:58.900 --> 00:16:06.390
+Amaç açık: bu profilleri, bilgisayar destekli kesin ispatların içine sokulabilecek kadar keskin hale getirmek.
+
+148
+00:16:06.390 --> 00:16:13.720
+Yine de dürüst olalım; bunlar da tam 3 boyutlu, viskoziteli denklem değil, onun daha uysal akrabaları.
+
+149
+00:16:13.720 --> 00:16:16.410
+Ödül hâlâ sahibini bekliyor.
+
+150
+00:16:16.410 --> 00:16:19.740
+Peki bütün bunların sonunda nerede duruyoruz?
+
+151
+00:16:19.740 --> 00:16:21.630
+Denklem çökmedi.
+
+152
+00:16:21.630 --> 00:16:25.280
+Çöktüğünü gösteren de yok, çökmediğini gösteren de.
+
+153
+00:16:25.280 --> 00:16:36.290
+Elimizde olan şey, iki yüzyıllık bir ölçüm: bu problemi çözmek için matematiğin bugünkü araç çantasının yetmediğini biliyoruz, çünkü o çantanın sınırlarını tek tek haritaladık.
+
+154
+00:16:36.290 --> 00:16:42.340
+Bir sorunun neden zor olduğunu bu kadar kesin bilmek, aslında bilimin en olgun hallerinden biri.
+
+155
+00:16:42.340 --> 00:16:47.590
+Ve bu, matematikçilerin merakından çok daha büyük bir şeye dokunuyor.
+
+156
+00:16:47.590 --> 00:16:56.200
+Türbülans, yani bir akışın düzenli çizgilerden kaotik burgaçlara geçmesi, klasik fiziğin çözülmemiş son büyük problemi diye anılır.
+
+157
+00:16:56.200 --> 00:17:09.130
+Aktarılanlara göre İngiliz fizikçi Horace Lamb, ömrünün sonuna doğru, cennete gittiğinde iki konuda aydınlanmayı umduğunu söylemiş: kuantum elektrodinamiği ve akışkanların türbülanslı hareketi.
+
+158
+00:17:09.130 --> 00:17:12.780
+Birincisi konusunda daha iyimser olduğunu eklemiş.
+
+159
+00:17:12.780 --> 00:17:19.950
+Aradan geçen doksan küsur yılda kuantum elektrodinamiği fiziğin en hassas doğrulanmış kuramı haline geldi.
+
+160
+00:17:19.950 --> 00:17:22.640
+Türbülans hâlâ orada duruyor.
+
+161
+00:17:22.640 --> 00:17:25.330
+Bunun bedelini her gün ödüyoruz.
+
+162
+00:17:25.330 --> 00:17:36.340
+Uçak ve türbin tasarımında türbülansı gerçek denklemden çözemediğimiz için, istatistiksel yaklaşıklıklara ve deneyden kalibre edilmiş modellere güveniyoruz; bu modeller çalışır,
+
+163
+00:17:36.340 --> 00:17:39.990
+ama ne zaman yanılacaklarını önceden söyleyemezler.
+
+164
+00:17:39.990 --> 00:17:48.600
+Hava tahminlerinin belli bir günden sonra dağılmasının, iklim modellerinde bulutların en büyük belirsizlik kaynağı olarak kalmasının,
+
+165
+00:17:48.600 --> 00:18:00.890
+füzyon reaktörlerinde plazmanın beklenmedik biçimde ısı kaçırmasının altında hep aynı kök yatıyor: küçük ölçeklerle büyük ölçeklerin birbirini nasıl beslediğini kapalı bir formda yazamıyoruz.
+
+166
+00:18:00.890 --> 00:18:02.780
+Belki de asıl ders şu.
+
+167
+00:18:02.780 --> 00:18:14.430
+Kaşığın arkasındaki o girdap, iki yüz yıllık bir denklemin, bir milyon dolarlık bir ödülün ve dünyanın en iyi matematikçilerinin hâlâ dibine inemediği bir sorunun içinde dönüyor.
+
+168
+00:18:14.430 --> 00:18:19.200
+Doğa bu hesabı her saniye, her yerde, hatasız yapıyor.
+
+169
+00:18:19.200 --> 00:18:21.090
+Yapamayan biziz.
+
+170
+00:18:21.090 --> 00:18:24.260
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+171
+00:18:24.260 --> 00:18:27.270
+Yeni bir hikâyede yeniden buluşmak üzere.
