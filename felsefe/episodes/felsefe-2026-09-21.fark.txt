@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-21.mp3
+
+beklenen 1972 kelime | duyulan 1992 kelime | eşleşme %96.6
+sayı ifadesi: metinde 205, duyulanda 185  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...kimse yok hiç olmadı
+      metin  : ölen
+      duyulan: düğlen
+  REPLACE  ...ki üzüntü inanca yaslanıyordu
+      metin  : inanç
+      duyulan: i nan
+  INSERT   ...ngiliz filozof colin radford
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...karakterin ölümüne ülkenin günlerce
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...ve iyi insanlara yakılan
+      metin  : methiyeleri
+      duyulan: metiyeleri
+  REPLACE  ...geri dönebilir yani sürgün
+      metin  : temyize
+      duyulan: temize
+  REPLACE  ...gerçekçi tasvirlerine bile bu
+      metin  : konumuzun
+      duyulan: konuğumuzun
+  REPLACE  ...öğrenmektir bu şudur demenin
+      metin  : hazzıdır
+      duyulan: hazlıdır
+  REPLACE  ...meşhur kelime gelir aristoteles
+      metin  : trajediyi
+      duyulan: trajediği
+  REPLACE  ...tür arınmasını sağladığını söyler
+      metin  : katharsis
+      duyulan: katarsis
+  REPLACE  ...kötü mü olduğunu tartışır
+      metin  : hiçbiri
+      duyulan: hiç
+  INSERT   ...arasında yaşayan i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...zorunda kaldı i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ayrı kapıdan girebilir kapı
+      metin  : tasdiktir
+      duyulan: tastiktir
+  INSERT   ...uyandırması ve i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...de alamaz bütün işi
+      metin  : tahyil
+      duyulan: tahil
+  REPLACE  ...ses kayıp imgesi kurar
+      metin  : ve ruh
+      duyulan: veru
+  REPLACE  ...yanlış olduğu i bn
+      metin  : sina nın
+      duyulan: i sinan ın
+  REPLACE  ...akıl değildir i bn
+      metin  : sina
+      duyulan: i sinan
+  REPLACE  ...dolaşmıştır hep i bn
+      metin  : sina nın
+      duyulan: i sinan ın
+  INSERT   ...amerikalı filozof kendal walton
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...perde denir kurulduğu yeer
+      metin  : küşteri
+      duyulan: küşleri
+  REPLACE  ...ilk kuran kişinin adına
+      metin  : izafeten
+      duyulan: izaf eden
+  REPLACE  ...karagöz ün deri olduğunu
+      metin  : hacivadın
+      duyulan: hacivat ın
+  REPLACE  ...kendi yaptığı işi dünya
+      metin  : istiaresine
+      duyulan: istiyaresine
+  REPLACE  ...varayım sahibine haber vereyim
+      metin  : heman
+      duyulan: hemen
+  REPLACE  ...ve perdenin arkasında bu
+      metin  : istiarenin
+      duyulan: istiyarenin
+  REPLACE  ...kanadalı bilişsel psikolog keith
+      metin  : oatley
+      duyulan: otley
+  REPLACE  ...uçuş simülatörüdür pilot gerçek
+      metin  : uçağı
+      duyulan: uçağa
+  INSERT   ...içinde olmanın provasını yapar
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...rakam verir zihin rakama
+      metin  : tahyil
+      duyulan: tahil
+  REPLACE  ...hayal etmeyi bırakmış olmak
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: felsefe-2026-09-21.duyulan.txt

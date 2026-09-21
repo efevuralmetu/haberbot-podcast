@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-21.mp3
+
+beklenen 1570 kelime | duyulan 1567 kelime | eşleşme %94.6
+sayı ifadesi: metinde 179, duyulanda 162  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...ortasında yakalandı soluduğunuz havanın
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kendi zarıyla kendi hayatıyla
+      metin  : kaliforniya
+      duyulan: de california
+  REPLACE  ...kaliforniya üniversitesi nden jonathan
+      metin  : zehr
+      duyulan: z
+  REPLACE  ...hiçbir canlıya ait değildi
+      metin  : siyanobakteriden
+      duyulan: cyanobakteriden
+  REPLACE  ...kadarı belliydi ama o
+      metin  : siyanobakteri
+      duyulan: cyanobakteri
+  REPLACE  ...kültüer edilemeyen a grubu
+      metin  : siyanobakteri
+      duyulan: cyanobakteri
+  REPLACE  ...genom inanılmaz küçüktü yaklaşık
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...yaklaşık baz çifti tipik
+      metin  : siyanobakterinin
+      duyulan: cyanobakterinin
+  INSERT   ...çifti tipik siyanobakterinin genlerinin
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ama eksikler rastgele değildi
+      metin  : fotosistem
+      duyulan: fotosystem
+  REPLACE  ...çeviren o meşhur enzim
+      metin  : calvin
+      duyulan: jalvin
+  REPLACE  ...enzim calvin döngüsü yoktu
+      metin  : sitrik asit
+      duyulan: stric acid
+  REPLACE  ...döngüsü yoktu yani bu
+      metin  : siyanobakteri
+      duyulan: cyanobakteri
+  REPLACE  ...kendi yakıtını kendi yakamıyordu
+      metin  : siyanobakteri
+      duyulan: cyanobakteri
+  REPLACE  ...yakamıyordu siyanobakteri düşünün ki
+      metin  : siyanobakteri
+      duyulan: cyanobakteri
+  REPLACE  ...işlevini yitirir azot bağlayan
+      metin  : siyanobakteriler
+      duyulan: cyanobakteriler
+  REPLACE  ...özel hücreler inşa eder
+      metin  : a
+      duyulan: ağ
+  REPLACE  ...onların başında yapılan çalışmalar
+      metin  : a
+      duyulan: ağ
+  REPLACE  ...a grubunun denizde küçük
+      metin  : alge
+      duyulan: algı
+  REPLACE  ...daha zordu çünkü o
+      metin  : alg de
+      duyulan: altta
+  REPLACE  ...kochi üniversitesi nden paleontolog
+      metin  : kyoko
+      duyulan: kiyoko
+  INSERT   ...kyoko hagino oldu hagino
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...topladı ve nihayet konak
+      metin  : algi
+      duyulan: algı
+  REPLACE  ...algi kültürde büyütmeyi başardı
+      metin  : alg braarudosfera
+      duyulan: alk brarudosfera
+  REPLACE  ...bundan sonra kısaca konak
+      metin  : alg
+      duyulan: alk
+  REPLACE  ...konak alg diyeceğim konak
+      metin  : alg kokolitofor
+      duyulan: alk cocolithophor
+  REPLACE  ...görünmez etrafını simetrili kalker
+      metin  : levhayla
+      duyulan: levha ile
+  REPLACE  ...protein mitokondriye taşınıp içeri
+      metin  : sokulur
+      duyulan: sokunur
+  REPLACE  ...sonrası araştırmacı olan tyler
+      metin  : coale
+      duyulan: cole
+  REPLACE  ...kendi genomuyla ve konak
+      metin  : algin
+      duyulan: algın
+  REPLACE  ...kendi genomunda kodlanmıyordu konak
+      metin  : algin
+      duyulan: algın
+  INSERT   ...konak algin genomunda kodlanan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...genomunda kodlanan fazla protein
+      metin  : algin
+      duyulan: algın
+  REPLACE  ...oturdu amino asit üretiminde
+      metin  : nükleotid
+      duyulan: nükleoti
+  REPLACE  ...konak o boşluğu doldurmuştu
+      metin  : zehr
+      duyulan: zehri
+  REPLACE  ...berkeley ulusal laboratuvarı ndaki
+      metin  : i leri işık
+      duyulan: ileri ışık
+  REPLACE  ...adlı hızlandırıcı tesisinde carolyn
+      metin  : larabel
+      duyulan: laravel
+  REPLACE  ...loconte çok sayıda konak
+      metin  : alg hücresini
+      duyulan: alhücresini
+  REPLACE  ...payına düşen kopyayı alıyordu
+      metin  : larabel
+      duyulan: laravel
+  REPLACE  ...aynı yöne işaret ediyordu
+      metin  : fransisko korneho kastiyo
+      duyulan: francisco cornejo castillo
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: bilim-2026-09-21.duyulan.txt

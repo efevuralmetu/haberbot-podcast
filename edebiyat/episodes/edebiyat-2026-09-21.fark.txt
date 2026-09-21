@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-21.mp3
+
+beklenen 1430 kelime | duyulan 1440 kelime | eşleşme %93.1
+sayı ifadesi: metinde 238, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuzeyindeki kirling köyünde küçük
+      metin  : sanatoryumun
+      duyulan: sanatoriumun
+  REPLACE  ...yaşlar süzüldüğünü anlatmıştır cenazesi
+      metin  : prag
+      duyulan: prague
+  REPLACE  ...için sebep de yoktu
+      metin  : ölen
+      duyulan: ötlen
+  REPLACE  ...de yoktu ölen adam
+      metin  : prag
+      duyulan: prague
+  INSERT   ...raporlar hazırlamış hastalığı yüzünden
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başka şeydi ölümünden sonra
+      metin  : prag
+      duyulan: prague
+  REPLACE  ...kağıdı bulan kişi max
+      metin  : brod du kağıtta
+      duyulan: brottu kağıta
+  REPLACE  ...işi yapmayacak kişiydi kafka
+      metin  : ile brod
+      duyulan: yla broad de
+  REPLACE  ...henüz üniversite öğrencisiyken tanışmıştı
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...küçüktü konferans vermişti konuşmasında
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...yerleri de baştan bellidir
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...basılıyor dergilerde yazıları çıkıyor
+      metin  : prag
+      duyulan: prague
+  REPLACE  ...ince kitabın neredeyze hepsi
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...şeyi ateşe atması isteniyordu
+      metin  : brod
+      duyulan: broad
+  INSERT   ...kafka daha ölmeden söylemişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şeyin yakılmasını istediğini bildirdiğinde
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...kimseye başka talimat vermedi
+      metin  : brod
+      duyulan: broad te
+  REPLACE  ...tartışmanın sonucunu değiştiren şey
+      metin  : brod
+      duyulan: broad
+  INSERT   ...çözdü ve yayımlamaya başladı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve yayımlamaya başladı dava
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yayımlamaya başladı dava şato
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...de yarım kalmış metinlerdi
+      metin  : brod
+      duyulan: broad
+  INSERT   ...diye okunabilecek şey yoktu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıktıkça avrupa da tuhaf
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kitapları da bu listelerdeydi
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...başka kopyası olmayan kağıt
+      metin  : yığını
+      duyulan: yağını
+  DELETE   ...olmayan kağıt yığını vardı
+      metin  : ve yaşadığı şehir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yolu üstündeydi mart gecesi
+      metin  : prag garı ndan
+      duyulan: prager ından
+  REPLACE  ...garı ndan tren kalktı
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...taşıdıkları bavullardan kıyafet değil
+      metin  : kağıt
+      duyulan: kağıtıt
+  REPLACE  ...mart sabahı alman birlikleri
+      metin  : prag
+      duyulan: prager
+  REPLACE  ...girdi ve sınırlar kapandı
+      metin  : brod
+      duyulan: broad
+  INSERT   ...defter vardı bu kağıtlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gestapo tarafından el konuldu
+      metin  : brod
+      duyulan: broad
+  REPLACE  ...en sevdiği kız kardeşi
+      metin  : ottla terezyenştat tan
+      duyulan: otla te terezjenstadt dan
+  REPLACE  ...ottla terezyenştat tan yani
+      metin  : prag
+      duyulan: prague
+  REPLACE  ...gönüllü olarak ayrıldı ve
+      metin  : auşvits
+      duyulan: auschwitz
+  REPLACE  ...kamplarda öldü mektuplaştığı gazeteci
+      metin  : yesenska ravensbrük
+      duyulan: jesenska te ravensbruck
+  REPLACE  ...getirmesi istenen kişi oldu
+      metin  : brod
+      duyulan: broad de
+  INSERT   ...başlıyordu miras aslında ayrılmıştı
+      metin  : (yok)
+      duyulan: de
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: edebiyat-2026-09-21.duyulan.txt

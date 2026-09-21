@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-20.mp3
+
+beklenen 1424 kelime | duyulan 1442 kelime | eşleşme %92.7
+sayı ifadesi: metinde 348, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...varilini dolar bandına ve
+      metin  : (yok)
+      duyulan: saltını
+  REPLACE  ...dolarla rekor bölgesine taşıdı
+      metin  : başkentin
+      duyulan: kivaşkent in
+  REPLACE  ...abd merkez kuvvetler komutanlığı
+      metin  : centcom ize
+      duyulan: cent komize
+  INSERT   ...hep birlikte göz atalım
+      metin  : (yok)
+      duyulan: tahran ın savaş gemisi
+  REPLACE  ...ın ize abd savaş
+      metin  : gemisi ile
+      duyulan: gemisiyle
+  INSERT   ...uçuş uyarısının süresini eylül
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...değişkeni durumunda trump aylardır
+      metin  : grönland
+      duyulan: greenland
+  REPLACE  ...yönündeki açıklamalarının ardından danimarka
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...bulundurulmasını yasaklıyor ve rusya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...dönük denetim mekanizması içeriyor
+      metin  : kopenhag
+      duyulan: copenhagen
+  REPLACE  ...danimarka nın egemenliğini ve
+      metin  : grönland
+      duyulan: greenland
+  REPLACE  ...belirleme hakkını koruduğunu vurguluyor
+      metin  : metnin
+      duyulan: metin
+  REPLACE  ...cismin rusya ya ait
+      metin  : kh
+      duyulan: ka
+  REPLACE  ...witkoff ve jared kushner
+      metin  : in
+      duyulan: ın
+  REPLACE  ...ateşkes için ukrayna nın
+      metin  : donbas
+      duyulan: donbass
+  INSERT   ...arıyor gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yana toplam can kaybı
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...can kaybı yaralı sayısı
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...i srail savunma bakanı
+      metin  : israel
+      duyulan: i srail
+  REPLACE  ...kalıcılığına dair soru işaretlerini
+      metin  : artırıyor
+      duyulan: arttırıyor
+  INSERT   ...yeniden aday olmayacağını açıklaması
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...hızını frenleme çağrısı oldu
+      metin  : anthropic
+      duyulan: antropik
+  INSERT   ...üst yöneticisi dario amodei
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...altman ve elon musk
+      metin  : (yok)
+      duyulan: ta benzer uyarılar
+  DELETE   ...ve elon musk da
+      metin  : benzer uyarılarda
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...pozisyon aldı tartışma güvenlik
+      metin  : kaygısı ile
+      duyulan: kaygısıyla
+  REPLACE  ...arasındaki gerilimi görünür kılıyor
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...raporu kötü niyetli aktörlerin
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...kaynak dağılımı olmak üzeer
+      metin  : gösterge
+      duyulan: göstergi
+  REPLACE  ...ve görüntülü etkileşim sunan
+      metin  : ceminay nokta
+      duyulan: gemini
+  REPLACE  ...nokta live sürümünü tanıttı
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...pazarı da şekillenmeye başladı
+      metin  : aiuc standardı
+      duyulan: aoci standartı
+  REPLACE  ...anthropic in trilyon dolarlık
+      metin  : seviyeyle
+      duyulan: seviye ile
+  REPLACE  ...çok konuşulan tarafı nanometrelik
+      metin  : ayirmi
+      duyulan: ayırma
+  REPLACE  ...ayirmi işlemci ve değişken
+      metin  : diyaframlı
+      duyulan: diaframlı
+  REPLACE  ...federal fon faizini oy
+      metin  : birliğiyle baz
+      duyulan: ile bas
+  INSERT   ...tüketim harcamaları enflasyon tahminini
+      metin  : (yok)
+      duyulan: dan ye
+  REPLACE  ...tahminini çekirdek tahmini ize
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...tahmini ize dörde yükseltti
+      metin  : jeopolitik
+      duyulan: geopolitik
+  INSERT   ...güç alarak yükselişini sürdürüyor
+      metin  : (yok)
+      duyulan: fons
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: gundem-2026-09-20.duyulan.txt

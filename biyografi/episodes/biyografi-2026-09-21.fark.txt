@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-21.mp3
+
+beklenen 2670 kelime | duyulan 2690 kelime | eşleşme %94.3
+sayı ifadesi: metinde 402, duyulanda 281  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tuhaf soyadı miras bırakmıştı
+      metin  : kabesa
+      duyulan: cabesa
+  REPLACE  ...miras bırakmıştı kabesa de
+      metin  : vaka
+      duyulan: vaca
+  REPLACE  ...kafası aile efsanesine göer
+      metin  : hristiyan
+      duyulan: de hıristiyan
+  REPLACE  ...çoban korumasız geçidi inek
+      metin  : kafatasıyla
+      duyulan: kafatası ile
+  REPLACE  ...geçidi inek kafatasıyla işaretlemiş
+      metin  : o
+      duyulan: doğu
+  REPLACE  ...kafatası geçit soyadı alvar
+      metin  : nunyes kabesa
+      duyulan: núñez cabesa
+  REPLACE  ...alvar nunyes kabesa de
+      metin  : vaka
+      duyulan: vaca
+  REPLACE  ...uyguladığı sert yöntemlerle tanınıyordu
+      metin  : álvar
+      duyulan: alvar
+  INSERT   ...da kendisine pay arayan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...buldu kral panfilo de
+      metin  : narvaes
+      duyulan: narvaez
+  REPLACE  ...ve yönetme yetkisi verdi
+      metin  : narvaes küba nın
+      duyulan: narvaez kübağ ın
+  REPLACE  ...askerdi yıl önce ernan
+      metin  : kortes
+      duyulan: cortes
+  REPLACE  ...daha iyi fırsat yoktu
+      metin  : kabesa
+      duyulan: cabeza
+  REPLACE  ...fırsat yoktu kabesa de
+      metin  : vaka
+      duyulan: vaca
+  INSERT   ...ün sanlukar limanından haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sanlukar limanından haziran kalktı
+      metin  : (yok)
+      duyulan: bukt
+  REPLACE  ...maketi gibi paketlenmişti gemileer
+      metin  : atlantiği
+      duyulan: atlantiyi
+  INSERT   ...kıyısında kasırga filoyu vurdu
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...yılın küçük provasıydı nisan
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kuzeyi işaret ettiler ve
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ettiler ve ad söylediler
+      metin  : apalachee
+      duyulan: apalaçe
+  REPLACE  ...kişilik seferin kaderini belirledi
+      metin  : narvaes
+      duyulan: narvaez
+  REPLACE  ...liman bulacak orada birleşeceklerdi
+      metin  : kabesa de
+      duyulan: kabezade
+  REPLACE  ...etmenin akılsızlık olduğunu söyledi
+      metin  : narvaes
+      duyulan: narvaez
+  REPLACE  ...çağın diliyle suçlamasıydı ve
+      metin  : kabesa de
+      duyulan: kabezade
+  INSERT   ...kişinin arasına katıldı mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...haftalarda tükendi günlerce yalnızca
+      metin  : palmiye
+      duyulan: palmiğe
+  INSERT   ...büyüyen öfke bıraktı haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vardılar çıngırağın geldiği söylenen
+      metin  : apalachee
+      duyulan: apalaçe
+  REPLACE  ...mısır kurutulmuş balık ve
+      metin  : geyik derileri
+      duyulan: geyiklerileri
+  REPLACE  ...birleştirdiler ardıç ağaçlarından kürek
+      metin  : yontdular
+      duyulan: yonttular
+  REPLACE  ...o körfeze kendi dillerinde
+      metin  : baia de
+      duyulan: bayade
+  REPLACE  ...dillerinde baia de los
+      metin  : kabayos
+      duyulan: caballos
+  INSERT   ...de tekne hazırdı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tekne narvaes in teknesiydi
+      metin  : kabesa
+      duyulan: capesa
+  REPLACE  ...in teknesiydi kabesa de
+      metin  : vaka
+      duyulan: vaca
+  INSERT   ...körfezin suları oldu kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...günlerce süren fırtınadan sonra
+      metin  : kabesa
+      duyulan: capesa
+  REPLACE  ...fırtınadan sonra kabesa de
+      metin  : vaka
+      duyulan: vaca
+  REPLACE  ...atıldı adamlar karaya çıkacak
+      metin  : güçte
+      duyulan: güçle
+  ... ve 65 fark daha
+
+metinde olup DUYULMAYAN: 111 kelime | duyulup metinde OLMAYAN: 124
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: biyografi-2026-09-21.duyulan.txt

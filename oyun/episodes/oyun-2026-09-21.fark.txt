@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-21.mp3
+
+beklenen 1550 kelime | duyulan 1562 kelime | eşleşme %96.9
+sayı ifadesi: metinde 197, duyulanda 136  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tutamağı olan dizüstü bilgisayar
+      metin  : ibook
+      duyulan: ebook
+  INSERT   ...küçük stüdyonun ortağıydı bungie
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bungie chicago da alex
+      metin  : seropian
+      duyulan: seropyan
+  INSERT   ...mac dünyasında efsane sayılıyorlardı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dünyasında efsane sayılıyorlardı çıkardıkları
+      metin  : marathon
+      duyulan: maraton
+  INSERT   ...yazılmış uzun metinlerle anlatıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...stüdyo içinde uzun süer
+      metin  : blam
+      duyulan: blum
+  REPLACE  ...windows makinelerinde geliştiriliyordu mac
+      metin  : te
+      duyulan: de
+  REPLACE  ...adlı besteci perşembe günü
+      metin  : bungie
+      duyulan: bangui
+  REPLACE  ...günü bungie den joseph
+      metin  : staten
+      duyulan: stathin
+  REPLACE  ...eski iş arkadaşı michael
+      metin  : salvatori
+      duyulan: salvatoer
+  REPLACE  ...tanınan oyun melodilerinden olacaktı
+      metin  : jones
+      duyulan: john s
+  INSERT   ...önce yaşanmış yazılım kazasıydı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...yaşanmış yazılım kazasıydı sonunda
+      metin  : myth in
+      duyulan: mitin
+  REPLACE  ...myth in devamı olan
+      metin  : myth ii
+      duyulan: mit
+  INSERT   ...o kadar açıktı ki
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kısaca take şirketin yaklaşık
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...yayıncılığından sorumlu ismi ed
+      metin  : fries tı
+      duyulan: freist i
+  INSERT   ...görüşmeler ilerledi ve haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...take elindeki payın karşılığında
+      metin  : myth
+      duyulan: meet
+  REPLACE  ...ize asıl istediğini aldı
+      metin  : halo
+      duyulan: hello
+  REPLACE  ...çaldı arayan steve jobs
+      metin  : tu
+      duyulan: du
+  REPLACE  ...jobs tu ve öfkeliydi
+      metin  : fries ın
+      duyulan: freist in
+  REPLACE  ...göer jobs doğrudan steve
+      metin  : ballmer
+      duyulan: balmer
+  REPLACE  ...verilen sözün üstü çiziliyordu
+      metin  : ballmer fries a
+      duyulan: balmer freist e
+  REPLACE  ...new york ayağında ed
+      metin  : fries
+      duyulan: freiss
+  REPLACE  ...elçisi olarak çıktı ama
+      metin  : halo
+      duyulan: hello
+  REPLACE  ...artık mac oyunu değildi
+      metin  : bungie
+      duyulan: congi
+  REPLACE  ...aylarca dönüş hızının çubuğun
+      metin  : eğimine
+      duyulan: eğmine
+  REPLACE  ...dövüş ritmine kavuştu ekipten
+      metin  : jaime griesemer
+      duyulan: jayme gresemer
+  INSERT   ...kurulmuş dekordu xbox kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rafta duruyordu sonuç en
+      metin  : iyimser
+      duyulan: iyiyimser
+  REPLACE  ...sonuç en iyimser tahminleri
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...tahminleri aştı oyun nisan
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...tan birinden fazlası yanında
+      metin  : halo ile
+      duyulan: hio yla
+  INSERT   ...ölçümüne göer konsolu alanların
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...kutuyu da kasaya götürdü
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...oynanabiliyordu ve konsollar birbirine
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...koridorda yürümeye başladı xbox
+      metin  : ın
+      duyulan: un
+  INSERT   ...servisi ancak yıl sonra
+      metin  : (yok)
+      duyulan: nin
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: oyun-2026-09-21.duyulan.txt

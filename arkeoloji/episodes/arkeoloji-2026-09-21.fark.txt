@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-21.mp3
+
+beklenen 2915 kelime | duyulan 2935 kelime | eşleşme %96.5
+sayı ifadesi: metinde 429, duyulanda 318  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...düzlüğün ortasında konya nın
+      metin  : kilometer
+      duyulan: km
+  DELETE   ...hiç durmadan sürdü yerleşim
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yerleşim mö civarında başlar
+      metin  : mö
+      duyulan: e
+  REPLACE  ...yol meydana çıkar meydan
+      metin  : tapınağa
+      duyulan: tapınağı
+  REPLACE  ...dış sınırı zaten kesintisiz
+      metin  : kerpiç
+      duyulan: kerpit
+  REPLACE  ...biçiminin merkezinde tek vardır
+      metin  : ev
+      duyulan: eve
+  REPLACE  ...i ngiliz arkeolog james
+      metin  : mellaart
+      duyulan: mallart
+  REPLACE  ...yaparken bu tepeye rastladı
+      metin  : mellaart
+      duyulan: mallart
+  REPLACE  ...çanak çömlek parçaları ve
+      metin  : obsidiyen
+      duyulan: obsediyen
+  INSERT   ...eskiydi kazı yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuyruğu havada geyikler dev
+      metin  : boğa
+      duyulan: boa
+  REPLACE  ...başsız insan bedenleri duvarlardan
+      metin  : boğa
+      duyulan: boa
+  REPLACE  ...cevaplayacak hiçbir araç yoktu
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...ancak tahminle yaklaşabilirdi james
+      metin  : mellaart
+      duyulan: mellar
+  REPLACE  ...başladığının anlaşılamaz hale gelmesiydi
+      metin  : mellaart
+      duyulan: mellart
+  INSERT   ...sezonlarında kazdı kısa sürede
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...din bütün bunlar sürerken
+      metin  : mellaart
+      duyulan: mellart
+  INSERT   ...hikayeye karışmıştı anlattığına göer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...trende genç kadınla aynı
+      metin  : kompartımanda
+      duyulan: kompartimanda
+  REPLACE  ...daha çok şey vardı
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...tunç çağı hanedanına aitti
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...ve hiçbir şey bulunamadı
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...parça hiçbir müzede hiçbir
+      metin  : koleksiyonda
+      duyulan: koleksyonda
+  REPLACE  ...lloyd özgün çizimleri istediğinde
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...başlattı suçlama açıktı kaçakçılık
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...aklayan sonuca vardı ama
+      metin  : çatalhöyük
+      duyulan: te çatalhöyü
+  REPLACE  ...elde kalan tek şey
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...şey mellaart ın raporları
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...mellaart ın çizimleri ve
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...ve mellaart ın yorumlarıydı
+      metin  : mellaart
+      duyulan: mellart
+  INSERT   ...ın yorumlarıydı mellaart temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...öldü yıl sonra şubat
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...son günlerinde oğlu alan
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...mellaart ile i sviçreli
+      metin  : jeoarkeolog eberhart tsanger
+      duyulan: jio arkeolog eberhard tanger
+  REPLACE  ...araya geldi gün sürdü
+      metin  : tsanger
+      duyulan: teysanger
+  REPLACE  ...türlü aslı bulunamayan uzun
+      metin  : luvi hiyeroglif
+      duyulan: louis hieroglyph
+  REPLACE  ...hazine hakkında bitirilmiş kitap
+      metin  : tsanger
+      duyulan: teysanger
+  REPLACE  ...in vardığı sonuç sertti
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...sıradan skandal değil çünkü
+      metin  : mellaart
+      duyulan: mellart
+  REPLACE  ...bilemiyordu ve o insan
+      metin  : çatalhöyüğün
+      duyulan: çatalhöyük ün
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: arkeoloji-2026-09-21.duyulan.txt

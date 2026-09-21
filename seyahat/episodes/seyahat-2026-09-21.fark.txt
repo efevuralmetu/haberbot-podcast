@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-21.mp3
+
+beklenen 1879 kelime | duyulan 1904 kelime | eşleşme %94.0
+sayı ifadesi: metinde 253, duyulanda 172  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...daha eşiğe yaklaşıyor ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...görünürler yakınlaştıkça her üstünde
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...boyunca i spanyolca adla
+      metin  : san blas
+      duyulan: sun blast
+  REPLACE  ...coğrafyasını kuran mesafedir ve
+      metin  : hindistancevizi guna yala yı
+      duyulan: hindistan tvizi gunayalayı
+  REPLACE  ...yı anlamak istiyorsanız önce
+      metin  : hindistancevizini
+      duyulan: hindistan tvizini
+  REPLACE  ...iğne gazyağı getirip karşılığında
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...hindistancevizi alırlardı süer sonra
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...ölçü birimine dönüştü fiyatlar
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...hindistancevizi cinsinden söylenirdi borçlar
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...bugün bile ihracatın omurgasını
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...yelkenlilerin getirdiği kumaş bambaşka
+      metin  : şeyi de
+      duyulan: şehide
+  REPLACE  ...vardır kıyıya vuran uçağın
+      metin  : silueti
+      duyulan: silüeti
+  REPLACE  ...damlı duvarsız yapı vardır
+      metin  : onmaked
+      duyulan: market
+  REPLACE  ...hamaklar asılıdır ve hamaklarda
+      metin  : saila
+      duyulan: sayla
+  REPLACE  ...saila denen önderler uzanır
+      metin  : saila
+      duyulan: sayla
+  REPLACE  ...ağır en edebi katmanıdır
+      metin  : sailanın
+      duyulan: saylanın
+  REPLACE  ...karadan gelen temel yemek
+      metin  : dule masi dir
+      duyulan: dulemasıydır
+  REPLACE  ...halkın çorbası taze balık
+      metin  : hindistancevizi
+      duyulan: hindistan tv
+  REPLACE  ...kalın tatlımsı doyurucu yanında
+      metin  : hindistancevizi
+      duyulan: hindistan tv
+  INSERT   ...gereken şeye dönüştü panama
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tek kıyafetli tek takvimli
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...döndüklerinde adaların değiştiğini gördü
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...öyle noktaya geldi ki
+      metin  : sailalar
+      duyulan: saylalar
+  INSERT   ...ailigandi adasında verildi şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bayrağı vardı sarı zemin
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...akrabalığı yoktur ve guna
+      metin  : yala da
+      duyulan: ya ile de
+  REPLACE  ...başında isim duruyordu ustupu
+      metin  : adasının sailası nele kantule
+      duyulan: adası nın saylası nelekantule
+  REPLACE  ...taşıyan adamdı ailigandi nin
+      metin  : sailası
+      duyulan: saylası
+  REPLACE  ...pratik ve soğukkanlı liderdi
+      metin  : içeriyi
+      duyulan: içeriği
+  INSERT   ...diğeri dışarıyı biliyordu şubat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kaybetti toplam ölü sayısı
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...kurmak için geldi mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kazancı yıllar içinde netleşti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yerli toprağı statüsü kazandı
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...toprağı statüsü kazandı yasayla
+      metin  : özerklik
+      duyulan: özertlik
+  INSERT   ...madencilik şirketleri kapıdan döner
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kapıdan döner resmi yazım
+      metin  : kuna
+      duyulan: guna
+  INSERT   ...adını kendi harfleriyle yazması
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...söylenir ne var ki
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...vardı vardı karakolu vardı
+      metin  : (yok)
+      duyulan: yıl
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: seyahat-2026-09-21.duyulan.txt
