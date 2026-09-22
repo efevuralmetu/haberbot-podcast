@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-22.mp3
+
+beklenen 1456 kelime | duyulan 1454 kelime | eşleşme %94.6
+sayı ifadesi: metinde 225, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...toprak parçası var adı
+      metin  : ha
+      duyulan: hà
+  REPLACE  ...o doymuş yeşili yerini
+      metin  : kurşuni
+      duyulan: kurşunu
+  REPLACE  ...cep açmış burada yaşayan
+      metin  : hmong
+      duyulan: hamun
+  REPLACE  ...döküyorlar sonra o avuç
+      metin  : toprağa
+      duyulan: toprağı
+  INSERT   ...taşıyorlar vietnam bu tekniği
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kuru hafif tanecikli hamur
+      metin  : platoda
+      duyulan: pilatoda
+  REPLACE  ...taşın içindeki çatlaklardan kaybolur
+      metin  : yer
+      duyulan: yeraltında
+  REPLACE  ...devletin son yılda yamaçlara
+      metin  : serptiği
+      duyulan: serdiği
+  INSERT   ...geleni kaçmadan yakalamak için
+      metin  : (yok)
+      duyulan: kiki da
+  REPLACE  ...kısaca taş plato diyelim
+      metin  : kilometrekaer
+      duyulan: kiki
+  REPLACE  ...sayıma göer farklı halk
+      metin  : hmong
+      duyulan: hemong
+  REPLACE  ...hmong en kalabalığı yanında
+      metin  : tay
+      duyulan: tai
+  REPLACE  ...kalabalığı yanında tay dao
+      metin  : lo lo giay
+      duyulan: lolo giai
+  REPLACE  ...düğün var hangi yolu
+      metin  : heyelan
+      duyulan: heyelen
+  INSERT   ...heyelan kapattı pazar mahkemedir
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...ve sakatat çorbasının yani
+      metin  : tang ko nun
+      duyulan: tankonun
+  REPLACE  ...ilçesine bağlı köy var
+      metin  : khau
+      duyulan: khao
+  REPLACE  ...ın il merkezinden yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...bastırmadığı aralık o gece
+      metin  : khau
+      duyulan: khao
+  REPLACE  ...vai de vietnamca adıyla
+      metin  : ço fong
+      duyulan: cho phong
+  REPLACE  ...ba ut u alıp
+      metin  : khau
+      duyulan: khao
+  INSERT   ...aşk hikayesi olarak kalmaz
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...için yerel kayıtlara göer
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...değişti kıtlık geldi geçti
+      metin  : khau vai nin
+      duyulan: kahvayının
+  REPLACE  ...gerdanlıklarını takar erkekler omuzlarında
+      metin  : khen
+      duyulan: ken
+  REPLACE  ...erkekler omuzlarında khen taşır
+      metin  : hmong a
+      duyulan: homonga
+  REPLACE  ...ama bu konser değildir
+      metin  : khau vai nin
+      duyulan: kahvayının
+  REPLACE  ...çok konuşulan kuralı şudur
+      metin  : khau vai ye
+      duyulan: kahuvaya
+  REPLACE  ...değil hane arasında anlaşmadır
+      metin  : khau vai
+      duyulan: kahuvaya
+  REPLACE  ...taş gibi sert sınır
+      metin  : yedisinin
+      duyulan: sinin
+  REPLACE  ...de buraya ulaşmanın zorluğuydu
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...yolu diye adlandırdı yapımına
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...diye adlandırdı yapımına başlandı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...vardı en zor bölüm
+      metin  : nyo kue irmağı
+      duyulan: niokue i rmağı
+  INSERT   ...yılın yalnızca ilk ayında
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...kişi geldi bunların yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...duraklarının ahşap terasları açıldı
+      metin  : khau vai
+      duyulan: kauvay
+  INSERT   ...da payına düşeni aldı
+      metin  : (yok)
+      duyulan: kigi de
+  REPLACE  ...güne yayılmış durumda ayın
+      metin  : beşinden
+      duyulan: den sine
+  INSERT   ...harita da değişti temmuz
+      metin  : (yok)
+      duyulan: te
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: seyahat-2026-09-22.duyulan.txt

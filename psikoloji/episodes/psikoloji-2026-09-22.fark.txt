@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-22.mp3
+
+beklenen 1173 kelime | duyulan 1181 kelime | eşleşme %97.5
+sayı ifadesi: metinde 144, duyulanda 119  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tuhaf soru soruyorlar birleşmiş
+      metin  : milletler e
+      duyulan: milletleer
+  REPLACE  ...hiçbir bağ yok ama
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...yok ama yetmişlerde amos
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...zihnine duyduğu güveni sarsacak
+      metin  : cinstendi
+      duyulan: cinslendi
+  INSERT   ...anlamsız sayı bu bulgu
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...kalıcı kavram armağan etti
+      metin  : çıpalama
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saçmalığının etkisiz kılmaması fritz
+      metin  : ştrak
+      duyulan: schlerack
+  REPLACE  ...fritz ştrak ve thomas
+      metin  : musvayler
+      duyulan: muswiler
+  INSERT   ...ve thomas musvayler in
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...doğruymuş gibi sınamaya başlıyor
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...çıpa gitmiş oluyor bıraktığı
+      metin  : çağrışım
+      duyulan: çağrışın
+  INSERT   ...uğraşırken böyle şeye kanmaz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve savcılardı ortalama yıllık
+      metin  : mesleki
+      duyulan: mesteki
+  REPLACE  ...ya düşük ya yüksek
+      metin  : toplam
+      duyulan: toplan
+  REPLACE  ...üstünde yüksek zar atan
+      metin  : grubunki aya
+      duyulan: grubun ki ayağı
+  REPLACE  ...cebindeki paraya kadar iniyor
+      metin  : dan arieli
+      duyulan: danareli
+  REPLACE  ...iniyor dan arieli drazen
+      metin  : prelets
+      duyulan: prelet
+  REPLACE  ...drazen prelets ve george
+      metin  : lövenştayn
+      duyulan: löwenstein
+  REPLACE  ...ilgisi olmak zorunda değildir
+      metin  : çarkın
+      duyulan: çark ın te
+  REPLACE  ...de herkesin cevabını değiştirdi
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-09-22.duyulan.txt

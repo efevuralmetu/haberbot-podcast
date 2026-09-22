@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-22.mp3
+
+beklenen 2715 kelime | duyulan 2764 kelime | eşleşme %92.9
+sayı ifadesi: metinde 415, duyulanda 270  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...düşünün yılının haziran ayında
+      metin  : missouri
+      duyulan: misuri
+  REPLACE  ...haziran ayında missouri eyaletinin
+      metin  : saint
+      duyulan: st
+  REPLACE  ...louis şehrinde hastanenin yoksullar
+      metin  : koğuşunda
+      duyulan: kovuşunda
+  REPLACE  ...koğuşunda doğuyor adı freda
+      metin  : jozefin
+      duyulan: josephine
+  REPLACE  ...hiç bitmeyen soğuğu oluyor
+      metin  : jozefin
+      duyulan: josephine
+  REPLACE  ...yatacak yer ve kuruş
+      metin  : biyografisini
+      duyulan: biografisini
+  REPLACE  ...gerekçesiyle elleri kaynar suya
+      metin  : sokulur
+      duyulan: sokunur
+  REPLACE  ...hikaye duruyor olacaktır ama
+      metin  : saint
+      duyulan: st
+  REPLACE  ...ama saint louis in
+      metin  : jozefin in
+      duyulan: josephine nin
+  REPLACE  ...yakasında illinois tarafındaki doğu
+      metin  : saint
+      duyulan: st
+  INSERT   ...işçileer dönük öfke birikmiştir
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...çok üstünde olduğunu söyler
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...üstünde olduğunu söyler yaşındaki
+      metin  : jozefin
+      duyulan: josephine
+  REPLACE  ...gece nehrin bu yakasındadır
+      metin  : eads köprüsü nden
+      duyulan: aids köprüsünden
+  REPLACE  ...onların orada olmasını istememiştir
+      metin  : jozefin
+      duyulan: joseph in
+  INSERT   ...evlenir evlilik hafta sürer
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...willie baker dır o
+      metin  : evlilik de
+      duyulan: evlilikte
+  REPLACE  ...taşıyacağı ad böyle doğar
+      metin  : jozefin
+      duyulan: josephine
+  REPLACE  ...jozefin baker sonra gezici
+      metin  : vodvil
+      duyulan: woodville
+  REPLACE  ...vodvil topluluğu şeher uğrar
+      metin  : jozefin
+      duyulan: joseph in
+  INSERT   ...new york a gider
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...edildiği hiyerarşi vardır ve
+      metin  : jozefin
+      duyulan: joseph in
+  REPLACE  ...şeyin tercih olduğunu gösterir
+      metin  : jozefin
+      duyulan: joseph in
+  REPLACE  ...götürmek için topluluk kurmaktadır
+      metin  : jozefin i
+      duyulan: joseph ini
+  REPLACE  ...dolar teklif eder bu
+      metin  : jozefin in
+      duyulan: joseph inin
+  REPLACE  ...o sırada kazandığının katıdır
+      metin  : jozefin
+      duyulan: joseph in
+  REPLACE  ...tam bilmez eylül ayında
+      metin  : transatlantikle atlantiği
+      duyulan: transatlantik le atlantik i
+  INSERT   ...transatlantikle atlantiği geçen kadroda
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ve dansçı vardır aralarında
+      metin  : klarnetiyle
+      duyulan: clarnet iyle
+  REPLACE  ...avrupa yı büyüleyecek olan
+      metin  : sidni
+      duyulan: sydney e
+  REPLACE  ...olan sidni de bulunur
+      metin  : gösterinin
+      duyulan: gözlerinin
+  REPLACE  ...bulunur gösterinin adı la
+      metin  : rövü negr
+      duyulan: reveux neger
+  INSERT   ...en gösterişli sahnelerinden teatr
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...gösterişli sahnelerinden teatr de
+      metin  : şanzelize
+      duyulan: champs élysées
+  REPLACE  ...de şanzelize de yani
+      metin  : şanzelize tiyatrosu nda
+      duyulan: champs élysées tiyatrosunda
+  REPLACE  ...verilir hafta içinde şehirde
+      metin  : jozefin
+      duyulan: josephine
+  REPLACE  ...saçlarına onunkine benzer parlak
+      metin  : briyantin
+      duyulan: bryantin
+  REPLACE  ...yıl paris in ünlü
+      metin  : müzikholü foli berjer
+      duyulan: müzikolu folly berger
+  REPLACE  ...berjer e türkçe söylenişiyle
+      metin  : foli berjer
+      duyulan: folly berger
+  REPLACE  ...olmak gerekir paris in
+      metin  : jozefin e
+      duyulan: josephine
+  ... ve 101 fark daha
+
+metinde olup DUYULMAYAN: 145 kelime | duyulup metinde OLMAYAN: 198
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: biyografi-2026-09-22.duyulan.txt

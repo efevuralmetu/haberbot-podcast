@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-22.mp3
+
+beklenen 1655 kelime | duyulan 1669 kelime | eşleşme %95.8
+sayı ifadesi: metinde 222, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ki metal levha düşünün
+      metin  : ayna
+      duyulan: aynı
+  REPLACE  ...yok madde yok dolayısıyla
+      metin  : kuvvet de
+      duyulan: kuvvette
+  INSERT   ...enstitüsü değil sanayi laboratuvarıydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...beklenenden daha hızlı sönüyordu
+      metin  : sebep
+      duyulan: sebeb
+  REPLACE  ...temizliğin huzursuz ettiğini söylüyordu
+      metin  : nils bor
+      duyulan: niels bohr
+  REPLACE  ...yürüyüş sırasında meseleyi anlattı
+      metin  : bor
+      duyulan: bohr
+  REPLACE  ...dalga boyu serbesttir yani
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...zanaattı i lk denemeyi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...philips laboratuvarında çalışan marcus
+      metin  : sparnaay
+      duyulan: sparnai
+  INSERT   ...ama ölçümünün belirsizliği pratikte
+      metin  : (yok)
+      duyulan: dü
+  INSERT   ...kanıt yıl sonra geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...washington üniversitesi nde steve
+      metin  : lamoreaux
+      duyulan: lamorow
+  REPLACE  ...levha yerine küer kullandı
+      metin  : küer ile
+      duyulan: küreyle
+  REPLACE  ...düzeyinde uyuştu yıl sonra
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...nin riverside yerleşkesinde umar
+      metin  : mohideen
+      duyulan: mohiden
+  REPLACE  ...anushree roy atomik kuvvet
+      metin  : mikroskobuyla
+      duyulan: mikroskopuyla
+  INSERT   ...kimin başını ağrıttığıydı çünkü
+      metin  : (yok)
+      duyulan: lara
+  REPLACE  ...hangi yöne döndüğünü bilen
+      metin  : jiroskoplar
+      duyulan: ciroskoplar
+  REPLACE  ...yükler kısa menzilli moleküler
+      metin  : çekim
+      duyulan: çekimi
+  INSERT   ...kuvvet bütçesine yazmak zorundaydı
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...bun chan ve arkadaşları
+      metin  : federiko kapasso nun
+      duyulan: federico capazson un
+  INSERT   ...tutulur değildi timothy boyer
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...işaret değiştirebildiği ortaya çıktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yok gerçekçi yol yevgeni
+      metin  : lifşits
+      duyulan: lifshitz
+  INSERT   ...yol yevgeni lifşits in
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...in genel kuramından geçiyordu
+      metin  : lifşits
+      duyulan: lifshitz
+  INSERT   ...birlikte şu koşulu türetti
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...düşüyorsa kuvvetin işareti döner
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...işareti döner jeremy munday
+      metin  : federiko kapasso
+      duyulan: federico capazzo
+  REPLACE  ...yatırdı küer silika yani
+      metin  : silisyum
+      duyulan: silisium
+  REPLACE  ...plaka ikisinin arasında da
+      metin  : bromobenzen
+      duyulan: bromobenzene
+  REPLACE  ...kuvvetini ayıkladı geriye kalan
+      metin  : pikonewton
+      duyulan: piconefton
+  REPLACE  ...iş çok daha çetindir
+      metin  : oded kenneth
+      duyulan: da odetianet
+  REPLACE  ...oded kenneth ve israel
+      metin  : klich
+      duyulan: klisch
+  REPLACE  ...israel klich boşlukta birbirinin
+      metin  : ayna simetriği
+      duyulan: aynı simetri
+  REPLACE  ...kalan yol asimetriden geçiyordu
+      metin  : rongkuo zhao
+      duyulan: da ron kuo jauh
+  REPLACE  ...rongkuo zhao ve arkadaşları
+      metin  : kapasso nun da
+      duyulan: kapasonunda
+  INSERT   ...enerji taşıdığını kanıtlıyor mu
+      metin  : (yok)
+      duyulan: enveki te
+  REPLACE  ...taşıdığını kanıtlıyor mu massachusetts
+      metin  : teknoloji
+      duyulan: technology
+  REPLACE  ...etmeden baştan sona türetilebilir
+      metin  : lifşits
+      duyulan: lifshitz
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-09-22.duyulan.txt

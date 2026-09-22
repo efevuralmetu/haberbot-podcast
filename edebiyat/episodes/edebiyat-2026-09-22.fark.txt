@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-22.mp3
+
+beklenen 1757 kelime | duyulan 1782 kelime | eşleşme %95.3
+sayı ifadesi: metinde 338, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şehri terk edip albany
+      metin  : ye
+      duyulan: e
+  REPLACE  ...sonuna harf ekledi ve
+      metin  : melvil
+      duyulan: melville
+  REPLACE  ...a giden ticaret gemisinde
+      metin  : miço
+      duyulan: micho
+  INSERT   ...başvurdu balina avcılığına ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...balina avcılığına ocak massachusetts
+      metin  : in
+      duyulan: ın
+  REPLACE  ...massachusetts in fairhaven limanından
+      metin  : acushnet
+      duyulan: akuşnet
+  REPLACE  ...le denize açıldı yaşındaydı
+      metin  : akuşnedin
+      duyulan: akuşnet in
+  REPLACE  ...ve duman haftalarca yelkenleer
+      metin  : sinerdi
+      duyulan: sineldi
+  DELETE   ...savaş gemisine er olarak
+      metin  : yazılıp
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dökmesi için ısrar edince
+      metin  : typee
+      duyulan: da taipi ye
+  REPLACE  ...edince typee ertesi yıl
+      metin  : omoo
+      duyulan: omo ya
+  REPLACE  ...yaşamış adam olarak tanındı
+      metin  : salonlarda
+      duyulan: olamazlığında
+  INSERT   ...ama kitap satıyordu melville
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hikayelerine felsefe karıştırmaya başladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başladı bunu denediği kitap
+      metin  : sertçe
+      duyulan: serçe
+  REPLACE  ...reddedildi ardından kitabı kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...yazında hayatını değiştiren şey
+      metin  : art arda
+      duyulan: arthur da
+  REPLACE  ...geldi ailesiyle birlikte massachusetts
+      metin  : in
+      duyulan: ın
+  INSERT   ...taşıyan beyaz erkek balinaydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hikayesi anlatılmıştı hayvanın adı
+      metin  : mocha dick
+      duyulan: mokadik
+  REPLACE  ...ömrü boyunca amerika da
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...sattı ve toplamda dolar
+      metin  : sent
+      duyulan: cent
+  INSERT   ...konferanslar verdi salonlar ıssızdı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...içinde de acı vardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaybetti yıllar sonra oğlu
+      metin  : stanwix
+      duyulan: stan wicks
+  INSERT   ...bırakmadı sadece sessizce yazdı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kutsal topraklar a yapılan
+      metin  : hac
+      duyulan: haç
+  REPLACE  ...okumadı sonraki şiir kitaplarını
+      metin  : nüsha
+      duyulan: er nüşa
+  INSERT   ...nüsha bastırdı dostlarına dağıttı
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...ve yazarak geçirdi eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...artık tuhaf değildi tanıdıktı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...aile kağıtlarına ulaştı weaver
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...eserlerini basmaya karar verdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ngiliz romancı d h
+      metin  : lawrence
+      duyulan: larence
+  INSERT   ...kitabı olarak selamladı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...edebiyatının kurucu metni sayılıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...metni sayılıyordu john huston
+      metin  : ın
+      duyulan: un
+  REPLACE  ...yönettiği senaryosunu ray bradbury
+      metin  : yle
+      duyulan: ile
+  INSERT   ...hakkında hiçbir şey söylemez
+      metin  : (yok)
+      duyulan: de
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: edebiyat-2026-09-22.duyulan.txt

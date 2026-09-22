@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-22.mp3
+
+beklenen 2239 kelime | duyulan 2089 kelime | eşleşme %15.2
+sayı ifadesi: metinde 204, duyulanda 96  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...that stil stands today
+      metin  : yılının ocak ayında konstantinopolis dünyanın en kalabalık şehriydi ve bu kalabalığın konuşabileceği tek yer vardı sarayın kapıları halka kapalıydı senato imparatorun iradesini onaylayan salondan ibaretti vergi memurunun karşısında itiraz etmek çoğu zaman itiraz edenin
+      duyulan: burghi memorun karsha sunda itra zetmek chozaman itra zetenen
+  REPLACE  ...zaman itiraz edenin kendisini
+      metin  : bitiren iş olurdu
+      duyulan: bittiran sholurdo
+  REPLACE  ...bitiren iş olurdu ama
+      metin  : şehrin göbeğinde
+      duyulan: shehrin gobeinde
+  REPLACE  ...ama şehrin göbeğinde büyük
+      metin  : saray ın duvarına yapışık
+      duyulan: sarayin duvarana yapushik
+  REPLACE  ...duvarına yapışık duran uzun
+      metin  : at yarışı pisti vardı
+      duyulan: yarüşe pistiwarde
+  REPLACE  ...pisti vardı ve orada
+      metin  : yılda kez
+      duyulan: yildabir kaczkez
+  REPLACE  ...orada yılda kez imparator
+      metin  : kendi tebaasıyla aynı havayı soluyordu hipodrom bu şehrin
+      duyulan: kyandit habaasila aynahawa yusol yordu hyperdram bü shehrin
+  REPLACE  ...hipodrom bu şehrin tek
+      metin  : mikrofonuydu yapının büyüklüğünü
+      duyulan: microfonüdü yepanun büyük lünü
+  REPLACE  ...yapının büyüklüğünü hayal etmek
+      metin  : bugün
+      duyulan: bugan
+  REPLACE  ...hayal etmek bugün zor
+      metin  : yaklaşık meter uzunluğunda ortasında
+      duyulan: yaklışek dürk yüzelimeter uzun nünda ortasun dabbir
+  REPLACE  ...uzunluğunda ortasında set setin
+      metin  : üzerinde mısır
+      duyulan: uzerin demusur dangetiril mishbir dikilitas ve dalfi
+  REPLACE  ...setin üzerinde mısır dan
+      metin  : getirilmiş dikilitaş ve delfi den sökülüp taşınmış tunç yılanlı sütun basamaklarda binlerce kişi
+      duyulan: sukulip tasun mishtun shbir yilan nusutun basama klarda an benlars kishye
+  REPLACE  ...basamaklarda binlerce kişi pistin
+      metin  : ucunda arabaların fırladığı kapılar
+      duyulan: ujunda arabalirun furladü kapalar
+  REPLACE  ...arabaların fırladığı kapılar uzun
+      metin  : kenarında ize kathisma denen imparatorluk locası o loca sarayın içinden
+      duyulan: kenaründai se kathis madenan imparator luklokasu oloka sarayin ichindan
+  REPLACE  ...loca sarayın içinden gizli
+      metin  : merdivenle çıkılan balkondu
+      duyulan: märdivänne caklan birbalkondu
+  REPLACE  ...merdivenle çıkılan balkondu imparator
+      metin  : halkın arasına inmeden yine de halkın gözünün içine bakarak
+      duyulan: halkan arasuna in medan yinadä halkan gözunu nichinabakarak
+  REPLACE  ...gözünün içine bakarak oraya
+      metin  : çıkabiliyordu tam olarak bunun için tasarlanmıştı yakınlık kadar mesafe de mimarinin parçasıydı yarışlar renkli takım arasında koşulurdu
+      duyulan: cakabiljordu tamalarak bunu nichintasarlan mishtı yakan likkadar mesafedemimarin inbirparcha sidı yerushlar dortrenkli takumarasun dakoshulurdu
+  REPLACE  ...takım arasında koşulurdu ama
+      metin  : yüzyıldır iş fiilen inmişti maviler ve yeşiller bunlar bugün anladığımız anlamda taraftar gruplarından çok daha fazlasıydı
+      duyulan: ikkiyüzilder ichfilan mishtı mevilar veyeshilar banlar bugyun annadu mazannam dataraftar gurüplarun dan chokdaha fazla sidı
+  REPLACE  ...fazlasıydı kendi kasaları kendi
+      metin  : yöneticileri
+      duyulan: yunetidjiları
+  REPLACE  ...kasaları kendi yöneticileri kendi
+      metin  : koro şefleri vardı şehirdeki törenlerde
+      duyulan: koroşefli rivardı shehir dekithoran narda
+  REPLACE  ...vardı şehirdeki törenlerde imparatoru
+      metin  : hangi sırayla
+      duyulan: hangisrailä
+  REPLACE  ...imparatoru hangi sırayla ve
+      metin  : hangi sözlerle alkışlayacakları protokole bağlanmıştı
+      duyulan: hangisözlarli alkishli jakleru protocoli bahlan mishtı
+  REPLACE  ...alkışlayacakları protokole bağlanmıştı imparator
+      metin  : tahta çıktığında
+      duyulan: tataciktında
+  REPLACE  ...tahta çıktığında hipodrom da
+      metin  : renkler selamlardı vali görevden alındığında
+      duyulan: ranklar selamlar dı waligörevden alundun dında
+  REPLACE  ...vali görevden alındığında bunu
+      metin  : ilk renkler duyurur vergi ağır geldiğinde ilk renkler homurdanırdı alkış bu şehirde siyasetin dilbilgisiydi ve bu grupların genç üyeleri kendilerini sokakta
+      duyulan: ik ranklar döyurur werge ar göldin
+  REPLACE  ...üyeleri kendilerini sokakta da
+      metin  : belli ederdi dönemin tarihçisi
+      duyulan: ik ranklar humur danar dı alkish buşehir desi yasetin dil bilgisidı vy bugrüplarun genshiyeleri kendi lerinı sokaktada beledar dı denimin tarichisi
+  REPLACE  ...dönemin tarihçisi prokopios partili
+      metin  : delikanlıların saçlarını şakaklardan kazıtıp ensede uzun bıraktığını kollarını bilekte dar
+      duyulan: delikanul lerin sakchlerinı shakaklar dan kazitup ense de usunbraktını kollerinı bilektadar
+  REPLACE  ...kollarını bilekte dar omuzda
+      metin  : aşırı bol tuniklerle dolaştığını geceleri silah taşıdıklarını
+      duyulan: asirubol tuniklar ledolashtını gedelerisilahtasidiklerinı
+  REPLACE  ...geceleri silah taşıdıklarını yazar
+      metin  : şehrin bazı mahallelerinde karanlıktan
+      duyulan: shehirin bazu mahalelirin dekaranaktansoana yurmek hangirengi tuttunuzu bilmei gedektiryor dü rank saadije tarjihdil adres bilgisidı tata jastiniyanis varda emkasa jastini se nardan dan beshuzi emiedi dektekpashina imparatorolmush yanana esi teodora yalmushtı yonitim alus ilmushin dushinda hizla çaluşyor hukukchu tribonianis imparatorlun yuzillaraya yalmush çalisaan yasayunana tekbir darlemei yindi ryor dubi oish roma hukku unu buganet asi jakmetni uretijekte ama usura dasaraidan bashka kimsenin ilgilan dibi konu deyilde haakan ilgilan dişe bu hizli yonitim in fatura sidde dauda iran na savashtı ryor savash para istiyor ve parayi topleyana damanadı kapadok yal iyoan esti iyoan es malienin bashanagetir ilmush okumayazmasu zayifamasa isayimasu chokguchlir birtashralidı virgi iartir makla kalmamush tasi latyun temnerni desertleishtir mishte tribonianis ichini se shehir de dolashansu ilanti shrudo para verenaya se yazuyor para verenaya se deyishtir yor shehir prefecti yudaymon de yuchenju isimolarak bu listei eklan mishte sokaktaki asayishten yani tutuklama lardan ve idam lardan sorum ludu bu öç öçme karsi öfkenin hi podrom da nasil ses buldunu gösteren tuaf gevar kainaklar da korunmush tari hlendir meşi bu günhalya tarti shalam birkarsi laklakonu shmabu yashilir lokayadoru ba ryor imparatorun seus juçu jevap vryor yashilir önje sai göformu lirne xiksi söy luor
+  REPLACE  ...bazı mahallelerinde karanlıktan sonra
+      metin  : yürümek hangi rengi tuttuğunuzu bilmeyi gerektiriyordu renk sadece tercih değil adres bilgisiydi tahtta justinianus vardı amcası justinus un ardından de tek başına imparator olmuş yanına eşi theodora yı almıştı yönetim alışılmışın dışında hızla çalışıyordu hukukçu tribonianus imparatorluğun yüzyıllara yayılmış birbiriyle çelişen yasa yığınını tek derlemeye indiriyordu bu iş roma hukukunu bugüne taşıyacak metni üretecekti ama o sırada saraydan başka kimsenin ilgilendiği konu değildi halkın ilgilendiği şey bu hızlı yönetimin faturasıydı doğu da i ran la savaş sürüyordu savaş para istiyordu ve parayı toplayan adamın adı kapadokyalı ioannes ti ioannes maliyenin başına getirilmiş okuma yazması zayıf ama sayı sayması çok güçlü taşralıydı vergiyi arttırmakla kalmamış tahsilat yöntemlerini de sertleştirmişti tribonianus için ize şehirde dolaşan söylenti şuydu para verene yasa yazıyor para verene yasa değiştiriyor şehir prefekti eudaimon da isim olarak bu listeye eklenmişti sokaktaki asayişten yani tutuklamalardan ve idamlardan sorumluydu bu isme karşı öfkenin hipodrom da nasıl ses bulduğunu gösteren tuhaf belge var kaynaklarda korunmuş tarihlendirmesi bugün hala tartışılan karşılıklı konuşma bu yeşiller locaya doğru bağırıyor imparatorun sözcüsü cevap veriyor yeşiller önce saygı formüllerini eksiksiz söylüyor sonra saray görevlisinden şikayet ediyor
+      duyulan: bisaray görebli sindan shikayeted yor
+  REPLACE  ...şikayet ediyor sonra dertlerini
+      metin  : sıralıyor sözcü sertleşiyor yeşiller
+      duyulan: söral yor seus göy sertlei shir yashilir
+  REPLACE  ...sözcü sertleşiyor yeşiller de
+      metin  : sertleşiyor konuşma vaftiz olmamış olsaydım keşke diyecek
+      duyulan: sertlei shir konushma wafti zolmamu shol saydam keshke diyejek
+  REPLACE  ...olsaydım keşke diyecek kadar
+      metin  : ağır yeer gidiyor
+      duyulan: arbi eregid yor
+  REPLACE  ...ağır yeer gidiyor ve
+      metin  : sonunda yeşiller topluca pisti terk ediyor o gün kan akmıyor
+      duyulan: sonanda yashilir toplu jepisti tarked yor ogun kannak mir
+  REPLACE  ...gün kan akmıyor ama
+      metin  : o gün şeyin nasıl yapılacağı öğrenilmiş oluyor bu locadaki
+      duyulan: ogun bishayin nasil yapulaja örenil mishol yor buloka daki
+  REPLACE  ...oluyor bu locadaki adama
+      metin  : ancak burada
+      duyulan: anjak burda
+  REPLACE  ...adama ancak burada ve
+      metin  : ancak hep birlikte bağırılabilir ocak ayının ilk haftasında şehir tam
+      duyulan: anjak hirpir likte baar lebilir oja inan ilkhafta sinda shi hirtam
+  REPLACE  ...haftasında şehir tam da
+      metin  : böyle gerilimin içindeydi renkler birbirine düşmandı de saraya küskündü
+      duyulan: boli bi geri limini cindeide renklar berber nesmeende desaraya kuskundu
+  INSERT   ...de saraya küskündü ve
+      metin  : (yok)
+      duyulan: profekt yor daimon sokak kavgalar ne bitir mea karar lidu karar lilu ya kuntarihin en pahalu idam karar ne dorjaktu yor daimon sokak chatishmalar nda adam uldur mekdanya kalanam nir toplatte tutuklularan ber kasme mawi ber kasme yeshilde
+  REPLACE  ...saraya küskündü ve prefekt
+      metin  : eudaimon sokak kavgalarını bitirmeye kararlıydı kararlılığı yakın tarihin en pahalı idam kararını doğuracaktı eudaimon sokak çatışmalarında adam öldürmekten yakalananları toplattı tutukluların kısmı mavi kısmı yeşildi prefekt de aynı
+      duyulan: ne da aina
+  ... ve 169 fark daha
+
+metinde olup DUYULMAYAN: 1910 kelime | duyulup metinde OLMAYAN: 1760
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: history-2026-09-22.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-22.mp3
+
+beklenen 1641 kelime | duyulan 1658 kelime | eşleşme %95.5
+sayı ifadesi: metinde 239, duyulanda 146  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...herb brown ile birlikte
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...ile birlikte yirmilerin sonundan
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...işi betty comden ve
+      metin  : adolph green e
+      duyulan: adolf greene
+  REPLACE  ...sarsıntılı yıldan comden ile
+      metin  : green
+      duyulan: greene
+  REPLACE  ...götürmeye karar verdiler film
+      metin  : caz şarkıcısı nın
+      duyulan: de jazz şarkıcısının
+  REPLACE  ...don lockwood ile partneri
+      metin  : lina
+      duyulan: lena
+  REPLACE  ...lamont seyircinin gözünde kusursuz
+      metin  : çifttir
+      duyulan: çiftir
+  REPLACE  ...sonra ses gelir ve
+      metin  : lina
+      duyulan: lena
+  REPLACE  ...şövalye ye çevirir ve
+      metin  : lina
+      duyulan: lena
+  REPLACE  ...sesini gizlice genç oyuncuya
+      metin  : kathy selden a
+      duyulan: katy seldana
+  REPLACE  ...saklanması oyuncuların yakalarına konan
+      metin  : vericiyle
+      duyulan: verici ile
+  INSERT   ...boğması bunlar uydurma değildi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...stüdyolarında haftalarca yaşanmış kazalardı
+      metin  : freed
+      duyulan: fried
+  REPLACE  ...çalışma arkadaşı olan stanley
+      metin  : donen
+      duyulan: donan
+  REPLACE  ...karşısına lina rolü için
+      metin  : jean
+      duyulan: jeanne
+  REPLACE  ...olan eğitimli tiyatro oyuncusu
+      metin  : don un
+      duyulan: donan ın
+  REPLACE  ...çocukluğundan beri sahnede olan
+      metin  : akrobasiyle
+      duyulan: akrobası ile
+  REPLACE  ...sınırı hiç tanımamış komedyen
+      metin  : kathy
+      duyulan: katy
+  REPLACE  ...reynolds a verildi reynolds
+      metin  : jimnastikten
+      duyulan: cimnastikten
+  REPLACE  ...in sözlerini comden ile
+      metin  : green
+      duyulan: greene
+  REPLACE  ...egzersizlerini tekerlemeye çeviren moses
+      metin  : supposes
+      duyulan: sposes
+  REPLACE  ...ki bugün hala tartışılır
+      metin  : donen freed
+      duyulan: donan frit
+  REPLACE  ...be a clown yani
+      metin  : palyaço
+      duyulan: palacio
+  REPLACE  ...güldür esinlenmenin epey ötesindeydi
+      metin  : donen
+      duyulan: donan
+  INSERT   ...veren şarkı ilk kez
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...anlatmak için yeniden eritiyordu
+      metin  : comden
+      duyulan: comdan
+  REPLACE  ...yeniden eritiyordu comden ile
+      metin  : green
+      duyulan: greene
+  REPLACE  ...hazırlıklı olan kişiye düştü
+      metin  : debbie
+      duyulan: debby
+  REPLACE  ...giriyor günde saatlerce çalışıyordu
+      metin  : kelly
+      duyulan: kelli
+  REPLACE  ...söyleyecekti donald o connor
+      metin  : ınki
+      duyulan: un ki
+  REPLACE  ...görüntü yönetmeni harold rosson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...saatlerce suyun dans etti
+      metin  : yünlü
+      duyulan: günlü
+  REPLACE  ...kelly nin karşısına sid
+      metin  : şaris
+      duyulan: sharis
+  INSERT   ...olduğunu sanıyorlardı film mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...de geldi dakikalık film
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...sesini kaybeden yıldızı oynayan
+      metin  : jean
+      duyulan: john
+  REPLACE  ...yardımcı kadın oyuncu dalında
+      metin  : lennie
+      duyulan: lenny
+  REPLACE  ...de kazanamadı gene kelly
+      metin  : ye
+      duyulan: e
+  INSERT   ...derin neden ize şuydu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...arkasına saklanan yıldızın hikayesidir
+      metin  : perdede kathy
+      duyulan: perde de katy
+  ... ve 12 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: film-2026-09-22.duyulan.txt

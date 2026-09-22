@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-22.mp3
+
+beklenen 2173 kelime | duyulan 2176 kelime | eşleşme %95.2
+sayı ifadesi: metinde 288, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yüzlerce kilometer uzakta kaya
+      metin  : oyuğunun
+      duyulan: oyunun
+  REPLACE  ...çölün içine doğru alçalan
+      metin  : kireçtaşı
+      duyulan: kireştaşı
+  REPLACE  ...limanın adı vadi el
+      metin  : carf
+      duyulan: karf
+  REPLACE  ...bunların yunan dönemine ait
+      metin  : yeraltı
+      duyulan: yer
+  INSERT   ...yeraltı mezarları olabileceğini düşündü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kapandı aradan yıl geçti
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...ellilerde bölgede çalışan fransız
+      metin  : fransua bize
+      duyulan: françois bissey
+  REPLACE  ...fransız fransua bize ile
+      metin  : rene şabo bokur
+      duyulan: rené chabot bocor
+  REPLACE  ...verdikleri adla rod el
+      metin  : havaga
+      duyulan: habaga
+  REPLACE  ...rafa kalktı vadi el
+      metin  : carf
+      duyulan: karf
+  REPLACE  ...unutuldu seferinde unutulmadı fransız
+      metin  : mısırbilimci piyer tale
+      duyulan: mısır bilimci pierer thale
+  INSERT   ...ve hava fotoğraflarını karşılaştırarak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yeri yeniden buldu ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karşı kıyıda vadi el
+      metin  : carf
+      duyulan: karf
+  REPLACE  ...küçük kale kuzeyinde ize
+      metin  : seh nasb
+      duyulan: sehnasbeğ
+  REPLACE  ...fırını bulundu vadi el
+      metin  : carf
+      duyulan: karf
+  REPLACE  ...kahverengi pullar çıkmaya başladı
+      metin  : papirüs
+      duyulan: papyrus
+  DELETE   ...aradan sonra hemen yanındaki
+      metin  : gbir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...galerisinin ağzını kapatan dev
+      metin  : kireçtaşı
+      duyulan: kireş taşı
+  REPLACE  ...uzunlukta neredeyze bütün tomarlar
+      metin  : papirüsün
+      duyulan: papyrus un
+  REPLACE  ...nil vadisinin nemli toprağında
+      metin  : papirüs
+      duyulan: papyrus
+  REPLACE  ...yıl dayanabilir daha eski
+      metin  : papirüs
+      duyulan: papyrus
+  REPLACE  ...eskiye gitmiyordu vadi el
+      metin  : carf
+      duyulan: karf
+  REPLACE  ...kalmış en eski yazılı
+      metin  : papirüsleri
+      duyulan: papyrusları
+  REPLACE  ...rekorlar kitabı da bu
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...mürekkeple çizilmiş dikey sütunlar
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...yer yer araya düzgün
+      metin  : hiyeroglif
+      duyulan: hiyeroklif
+  REPLACE  ...değildi defterdi devlet dairesinin
+      metin  : şantiyenin
+      duyulan: şantiye
+  REPLACE  ...orada yazılıydı merer unvanı
+      metin  : sehec
+      duyulan: seheç
+  REPLACE  ...suların çekilip toprağın göründüğü
+      metin  : ekim
+      duyulan: ekin
+  REPLACE  ...toprağın göründüğü ekim mevsimi
+      metin  : şemu hasat papirüsün
+      duyulan: şem u hasad papyrus un
+  REPLACE  ...geliyordu hufu nun kobrası
+      metin  : pruvasıdır
+      duyulan: probasıdır
+  REPLACE  ...sofrasına kolay kolay girmeyen
+      metin  : lükstü
+      duyulan: lüksdü
+  REPLACE  ...ritimle akar müfettiş merer
+      metin  : bölüğüyle
+      duyulan: bölüyle
+  REPLACE  ...bazen tura nın kuzeyindeki
+      metin  : ocağa
+      duyulan: ocağı
+  REPLACE  ...taşçılar yeni blokları kesip
+      metin  : stoklamaya
+      duyulan: su toklamaya
+  REPLACE  ...giza ya kuş uçuşu
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kuş uçuşu kilometer mesafede
+      metin  : kireçtaşı
+      duyulan: kireş taşı
+  REPLACE  ...kızıldeniz kıyısına vadi el
+      metin  : carf a
+      duyulan: karfa
+  REPLACE  ...bırakırlardı arkeologların yıllardır giza
+      metin  : ovasının
+      duyulan: obasının
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 79
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: arkeoloji-2026-09-22.duyulan.txt

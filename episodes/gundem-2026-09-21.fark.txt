@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-21.mp3
+
+beklenen 1271 kelime | duyulan 1282 kelime | eşleşme %95.1
+sayı ifadesi: metinde 284, duyulanda 139  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...i ran a ait
+      metin  : ham
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu operasyonun i ran
+      metin  : devrim muhafızları nın
+      duyulan: devri muhafızlarının
+  INSERT   ...uçuş uyarısının süresini eylül
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...de çin devlet başkanı
+      metin  : şi cinping
+      duyulan: xi jinping
+  INSERT   ...en kritik ize ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...geliyor gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaralandı kümülatif can kaybı
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...kentinin batısında katlı çökmesiyle
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...olduğunu gösteriyor kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...belirtti ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky
+  REPLACE  ...ın oranı ile aralığında
+      metin  : ret
+      duyulan: red
+  REPLACE  ...tartışmaya açması gündemin merkezinde
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...şirket araştırmacısı jacob coxon
+      metin  : ın
+      duyulan: un
+  REPLACE  ...yöneticisi chris lehane openai
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...ortak savunma çağrısı yapıyor
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...kullanmaya çalıştığı belirtildi sektörün
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...piyasa değeri eylül ortası
+      metin  : itibarıyla
+      duyulan: itibariyle
+  INSERT   ...harcaması bekleniyor openai ın
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...çıkarım sunucusunda nvidia nın
+      metin  : nvlink
+      duyulan: enviling
+  REPLACE  ...nvidia nın nvlink fusion
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...fonlama faizini oy birliğiyle
+      metin  : baz
+      duyulan: bas
+  INSERT   ...tahvil faizi ile temmuz
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...tahvil faizi ize ile
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...ile dolar arasında gerçekleşti
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...haftaya sınırlı alıcılı başladı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...euro lira bandında bulunuyor
+      metin  : gram
+      duyulan: gramaltının
+  REPLACE  ...fiyatı lira civarında seyrediyor
+      metin  : bist
+      duyulan: bizde
+  INSERT   ...endeksi puan seviyesinde ve
+      metin  : (yok)
+      duyulan: lik
+  INSERT   ...gördü bankacılık endeksindeki gerileme
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...ayı toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ana eğiliminin gerilediğini ancak
+      metin  : jeopolitik
+      duyulan: şeopolitik
+  REPLACE  ...krizinin sonuçları şekillenmeyi sürdürüyor
+      metin  : chp kurultayında
+      duyulan: türkiye hcp kurultayı nda
+  INSERT   ...özel in seçimi mayıs
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...yeni parti yi kurdu
+      metin  : chp
+      duyulan: sihp
+  REPLACE  ...kurulu eylül deki toplantısında
+      metin  : temyiz
+      duyulan: temmiz
+  INSERT   ...davasında duruşmalar bugün saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...nun da aralarında bulunduğu
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...imalat sanayi kapasite kullanım
+      metin  : oranı ile
+      duyulan: oranıyla
+  INSERT   ...ekim perşembe günü saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...başlayacak bütçe süreci ve
+      metin  : asgari
+      duyulan: askari
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: gundem-2026-09-21.duyulan.txt

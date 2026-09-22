@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-22.mp3
+
+beklenen 2578 kelime | duyulan 2575 kelime | eşleşme %98.6
+sayı ifadesi: metinde 162, duyulanda 126  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...comes fully to rest
+      metin  : an
+      duyulan: and
+  REPLACE  ...drop the gap to
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...right scale behaves like
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...of water between the
+      metin  : hulls
+      duyulan: holes
+  REPLACE  ...came in from marcus
+      metin  : sparnaay
+      duyulan: sparney
+  REPLACE  ...worked in that same
+      metin  : philips
+      duyulan: phillips
+  REPLACE  ...university of washington steve
+      metin  : lamoreaux
+      duyulan: lamoureux
+  DELETE   ...measured across separations from
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...separations from point to
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...campus umar mohideen and
+      metin  : anushree
+      duyulan: anushri
+  DELETE   ...over the range from
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...range from point to
+      metin  : point micrometres
+      duyulan: micrometers
+  DELETE   ...was because by the
+      metin  : nineties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mirrors each a few
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...the gaps dropped below
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...federico capasso and adrian
+      metin  : parsegian
+      duyulan: parsajian
+  REPLACE  ...oded kenneth and israel
+      metin  : klich
+      duyulan: klitsch
+  REPLACE  ...the order of a
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...transparent at high frequencies
+      metin  : and
+      duyulan: but
+  DELETE   ...as lying somewheer between
+      metin  : and a
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gaps of tens of
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...that scale pushes back
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...back nöron science de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bugung küberle münsonenagaldik jänni bier hikääde jenidän bulushmäkusäer jänni bier hikääde jenidän bulushmäkusäer
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-09-22.duyulan.txt

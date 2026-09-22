@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-22.mp3
+
+beklenen 2408 kelime | duyulan 2408 kelime | eşleşme %94.9
+sayı ifadesi: metinde 279, duyulanda 218  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: don un
+  INSERT   ...ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...den getirilen tunç yılanlı
+      metin  : sütun
+      duyulan: sütün
+  REPLACE  ...alkışlamanın resmi diline sahiplerdi
+      metin  : locadaki
+      duyulan: loçadaki
+  REPLACE  ...locadaki adamı selamlayan tezahürat
+      metin  : protokoldü
+      duyulan: protokoldu
+  REPLACE  ...bağıra okumak da aynı
+      metin  : protokolün
+      duyulan: protokolun
+  INSERT   ...rengi kayırmayı tercih ediyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başına tahta oturduğunda adı
+      metin  : jüstinyen di balkanlar ın
+      duyulan: justin yendi balkanların
+  REPLACE  ...taşrasından gelmiş amcasının sayesinde
+      metin  : başkente
+      duyulan: başkentte
+  REPLACE  ...protokolünü kendisiyle evlenebilmek için
+      metin  : değiştirtmiş
+      duyulan: değiştirmiş
+  REPLACE  ...evlenebilmek için değiştirtmiş olan
+      metin  : teodora
+      duyulan: theodora
+  REPLACE  ...süren savaş hazineyi yiyordu
+      metin  : jüstinyen
+      duyulan: justinian
+  REPLACE  ...şehrin asayişinden sorumlu vali
+      metin  : eudaimon da
+      duyulan: iodaymonda
+  INSERT   ...biçimde bastırmaya çalışıyordu böylece
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...konuşmaydı yeşiller yarış gününde
+      metin  : locadaki
+      duyulan: lokadaki
+  REPLACE  ...yakındaki manastırın keşişleri adamı
+      metin  : kayığa
+      duyulan: kayağa
+  REPLACE  ...keşişleri adamı kayığa bindirip
+      metin  : halicin
+      duyulan: haliç in
+  INSERT   ...günlerce bu görüntüyü izledi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...konuşuluyordu her koşu arasında
+      metin  : renk de
+      duyulan: renkte
+  REPLACE  ...şeyi istedi mahkumun bağışlanmasını
+      metin  : locadan
+      duyulan: loçadan
+  REPLACE  ...alevler valinin makamından çıkıp
+      metin  : augustaion
+      duyulan: agustayon
+  REPLACE  ...girişi halke tutuştu muhafız
+      metin  : koğuşları
+      duyulan: kovuşları
+  REPLACE  ...tunç heykel koleksiyonunu barındıran
+      metin  : zeuksippos
+      duyulan: zeuxippos
+  REPLACE  ...yerde inşa edilmiş ayasofya
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...bazilika yılında i mparator
+      metin  : i kinci teodosyus
+      duyulan: ii theodosius
+  INSERT   ...yılında açılan ilk kilize
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ilk kilize patrik ioannes
+      metin  : hrisostomos
+      duyulan: hristos tomos
+  REPLACE  ...hastane ve düşkünevi olan
+      metin  : samson
+      duyulan: samsun
+  REPLACE  ...öldüğü kaydedilmiştir ertesi gün
+      metin  : jüstinyen
+      duyulan: justinian
+  REPLACE  ...tribonianus u ve vali
+      metin  : eudaimon u
+      duyulan: yudaimonu
+  INSERT   ...etmişti aranan kişi belliydi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...açıkça tarafsız kalmayı seçti
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...kalmayı seçti ocak sabahı
+      metin  : jüstinyen
+      duyulan: justinian
+  REPLACE  ...jüstinyen son hamle yaptı
+      metin  : hipodrom a locasına
+      duyulan: hipodroma lokasına
+  REPLACE  ...doldurdu anastasios un yeğenlerinden
+      metin  : hipatios
+      duyulan: hippatios
+  REPLACE  ...hipatios un evine gidildi
+      metin  : hipatios
+      duyulan: hippatios
+  REPLACE  ...ve gün önce kardeşi
+      metin  : pompeyus
+      duyulan: pompeius
+  REPLACE  ...la birlikte saraydan çıkarılmıştı
+      metin  : jüstinyen
+      duyulan: justinian
+  REPLACE  ...yaptığı en pahalı hataydı
+      metin  : hipatios
+      duyulan: hippatios
+  REPLACE  ...ölüme götürdüğünü haykırdı dinletemedi
+      metin  : hipatios
+      duyulan: hippatios un
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 87
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: tarih-2026-09-22.duyulan.txt

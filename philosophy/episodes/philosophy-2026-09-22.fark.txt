@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-22.mp3
+
+beklenen 3396 kelime | duyulan 3395 kelime | eşleşme %98.5
+sayı ifadesi: metinde 93, duyulanda 81  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...out and be gone
+      metin  : and
+      duyulan: when
+  REPLACE  ...earning the praize of
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...it is a possibility
+      metin  : unwatered
+      duyulan: when watered
+  REPLACE  ...it a mountain called
+      metin  : niu shan
+      duyulan: neushan
+  REPLACE  ...thinker s name was
+      metin  : xunzi
+      duyulan: junzi
+  REPLACE  ...name he wrote this
+      metin  : human
+      duyulan: when
+  REPLACE  ...about by effort so
+      metin  : xunzi
+      duyulan: junzi
+  REPLACE  ...you leave him alone
+      metin  : quarrelling
+      duyulan: quarreling
+  REPLACE  ...and to explain this
+      metin  : xunzi
+      duyulan: junzi
+  REPLACE  ...steamed forced into a
+      metin  : vize
+      duyulan: vice
+  REPLACE  ...vize pressed into a
+      metin  : mould
+      duyulan: mold
+  DELETE   ...then he turns mencius
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hungry man he says
+      metin  : food
+      duyulan: word
+  REPLACE  ...is to bury because
+      metin  : xunzi
+      duyulan: sunzi
+  REPLACE  ...properly if we truly
+      metin  : believed
+      duyulan: believe
+  INSERT   ...that famous description solitary
+      metin  : (yok)
+      duyulan: put
+  REPLACE  ...a century later in
+      metin  : königsberg
+      duyulan: konigsberg
+  REPLACE  ...he considers him a
+      metin  : knotty
+      duyulan: naughty
+  REPLACE  ...circles this argument is
+      metin  : fitrah
+      duyulan: fitra
+  REPLACE  ...the verse of surah
+      metin  : ar rum
+      duyulan: or room
+  REPLACE  ...child is born upon
+      metin  : fitrah
+      duyulan: fitra
+  REPLACE  ...that the subtlety of
+      metin  : fitrah
+      duyulan: fitra
+  REPLACE  ...of fitrah lies heer
+      metin  : fitrah
+      duyulan: fitra
+  REPLACE  ...it mean blank slate
+      metin  : fitrah
+      duyulan: fitra
+  REPLACE  ...sprout and yet takes
+      metin  : xunzi
+      duyulan: unzi
+  REPLACE  ...bend moer easily ibn
+      metin  : miskawayh
+      duyulan: miskawy
+  REPLACE  ...such thing as upbringing
+      metin  : advice
+      duyulan: peace
+  REPLACE  ...his people was legitimate
+      metin  : because
+      duyulan: as
+  REPLACE  ...who wil hold the
+      metin  : vize
+      duyulan: vice
+  REPLACE  ...had thought of this
+      metin  : vize
+      duyulan: vice
+  REPLACE  ...education he was a
+      metin  : confucian
+      duyulan: confusion
+  REPLACE  ...carried out in daycaer
+      metin  : centres
+      duyulan: centers
+  REPLACE  ...past their hours the
+      metin  : centres
+      duyulan: centers
+  REPLACE  ...employees wil slack off
+      metin  : installs
+      duyulan: and stalls
+  DELETE   ...another meaning in mencius
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...being is good from
+      metin  : nöron philosophy
+      duyulan: neuron philosophie
+  REPLACE  ...from nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: bugung küberlümün sono nagardik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: birhikaya de yeni dan bulushmakuzeer
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-09-22.duyulan.txt

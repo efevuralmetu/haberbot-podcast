@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-22.mp3
+
+beklenen 2182 kelime | duyulan 2200 kelime | eşleşme %97.0
+sayı ifadesi: metinde 197, duyulanda 179  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...düşünür mengzi batı kaynaklarında
+      metin  : mensiyus
+      duyulan: mencius
+  REPLACE  ...teoriye girişmiyor sadece o
+      metin  : kuyuyu
+      duyulan: kuyu
+  REPLACE  ...daha hüzünlü sahne niu
+      metin  : şan
+      duyulan: shan
+  REPLACE  ...yeni sürgünleri otladı gece
+      metin  : yağan çiy
+      duyulan: yağın çiğ
+  REPLACE  ...getirecekti o düşünürün adı
+      metin  : şünzi
+      duyulan: shunzi
+  REPLACE  ...kuşak sonra yaşadı aynı
+      metin  : konfüçyüsçü
+      duyulan: konfüç
+  REPLACE  ...yapılmış ifadesi çincede tek
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...konmuş anlamına geliyor yani
+      metin  : şünzi
+      duyulan: shunzi
+  REPLACE  ...durulduğunda ortaya çıkar ve
+      metin  : şünzi
+      duyulan: shunzi
+  REPLACE  ...bu itirazın gücü kolayca
+      metin  : gömemeyişimizde
+      duyulan: gömeme işimizde
+  REPLACE  ...gücü kolayca gömemeyişimizde çünkü
+      metin  : şünzi
+      duyulan: xunzi
+  REPLACE  ...kameralar kiraya verirken istenen
+      metin  : depozito
+      duyulan: deposito
+  REPLACE  ...gerçekten inansaydık evimizin kapısını
+      metin  : kilitler
+      duyulan: kitler
+  INSERT   ...yerden tutacaktı thomas hobbes
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kısa hayat ama hobbes
+      metin  : u
+      duyulan: i
+  INSERT   ...baş başa bırakmamak için
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...bırakmamak için sonra königsberg
+      metin  : de
+      duyulan: te
+  INSERT   ...cümleyle dokunacaktı immanuel kant
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...derecede yakın duruyor ama
+      metin  : şünzi
+      duyulan: xunzi
+  REPLACE  ...kolay kıvrılacağıdır i bn
+      metin  : miskeveyh
+      duyulan: i miskevey
+  REPLACE  ...çevrilen büyük eserinde nefsin
+      metin  : terbiyesine
+      duyulan: terbiyesini
+  REPLACE  ...koyar bu uyarı ucuz
+      metin  : iyimserlikten
+      duyulan: iyimsellikten
+  REPLACE  ...sıkıcı alıştırma işidir ve
+      metin  : herkeste
+      duyulan: herkes de
+  INSERT   ...sonuç şu acelesi olmayanların
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...kaldığı söylenenlerin ize yalnızca
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...kuyu başındaki duyguyu büyütebilmekti
+      metin  : şünzi
+      duyulan: şunzi
+  REPLACE  ...o mengeneyi kim tutacak
+      metin  : şünzi
+      duyulan: şunzi
+  REPLACE  ...düşünmüştü kendisi sonuna kadar
+      metin  : konfüçyüsçüydü
+      duyulan: konfüç yüzcüydü
+  INSERT   ...düzen doğdu i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...topluluğun insanları birbirinden alıkoyacak
+      metin  : engelleyiciye
+      duyulan: engelleyeceği
+  INSERT   ...ihtiyacı vardır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...arttı yaklaşık katına çıktı
+      metin  : sebep
+      duyulan: sebeb
+  REPLACE  ...artık hiçbir zaman öğrenemezsiniz
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: felsefe-2026-09-22.duyulan.txt

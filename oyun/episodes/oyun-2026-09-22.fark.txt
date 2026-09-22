@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-22.mp3
+
+beklenen 1504 kelime | duyulan 1505 kelime | eşleşme %97.0
+sayı ifadesi: metinde 184, duyulanda 134  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...girdi adı hideo kojima
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...projesi hiç doğmadı lost
+      metin  : warld
+      duyulan: ward
+  REPLACE  ...çalıştı penguin adventuer yani
+      metin  : penguen
+      duyulan: penguin
+  REPLACE  ...daha önce çıkardığı basit
+      metin  : penguen
+      duyulan: penguin
+  REPLACE  ...değişen final fikri yılında
+      metin  : penguen
+      duyulan: penguin
+  REPLACE  ...da tam olarak buydu
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...sorunun teknik adı sprite
+      metin  : tı
+      duyulan: idi
+  REPLACE  ...küçük grafik bloğuydu ve
+      metin  : msxikinin
+      duyulan: nin
+  REPLACE  ...her kurşun da sprite
+      metin  : tı
+      duyulan: idi
+  DELETE   ...sorun bununla da bitmiyordu
+      metin  : msxiki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aksiyon kahramanı olarak değil
+      metin  : üssün
+      duyulan: üstün
+  REPLACE  ...tanınır oyun görsellerinden olacaktı
+      metin  : içine
+      duyulan: önüne
+  INSERT   ...karşılandığını söylemek gerçeğe uymaz
+      metin  : (yok)
+      duyulan: ne
+  INSERT   ...proje tamamlandı ve temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve temmuz japonya da
+      metin  : msxiki
+      duyulan: msx ii
+  REPLACE  ...güney afrika nın kuzeyindeki
+      metin  : galzburg
+      duyulan: gazburg
+  REPLACE  ...gönderiliyordu görevi kaybolan ajan
+      metin  : gray
+      duyulan: grey
+  REPLACE  ...edebileceği güçtü ve sonunda
+      metin  : telsizden
+      duyulan: tersizden
+  REPLACE  ...talimat veren komutanın dış
+      metin  : cennedin
+      duyulan: cennet in
+  DELETE   ...hamlesiydi oyun japonya da
+      metin  : msxiki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...famicom a yani amerika
+      metin  : da nes
+      duyulan: dan ns
+  REPLACE  ...yapıyoruz ama gerçek devam
+      metin  : oyununu
+      duyulan: oyunu
+  REPLACE  ...kurmuştu almak kolay olmadı
+      metin  : msxiki
+      duyulan: mnse iççi
+  INSERT   ...sonunda projeyi onaylattı temmuz
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...yalnızca japonya da yalnızca
+      metin  : msxiki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...olgunlaşmış haliydi ekranın köşesinde
+      metin  : (yok)
+      duyulan: lük
+  REPLACE  ...petrol kıtlığına çaer olacak
+      metin  : oilix
+      duyulan: oylix
+  REPLACE  ...mucidi çek bilim insanı
+      metin  : dr kio marv ı
+      duyulan: doktor kd kurto marvı
+  REPLACE  ...pilotu olarak eski yoldaşı
+      metin  : gray
+      duyulan: grey
+  INSERT   ...kayboldu sanmayın yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...solid çıktığında radar da
+      metin  : oradaydı
+      duyulan: ordaydı
+  INSERT   ...akıcı kaydırma mümkün olsaydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olmaktan çıkıp dil olur
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-09-22.duyulan.txt
