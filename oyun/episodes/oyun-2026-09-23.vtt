@@ -1,0 +1,477 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.890
+1997'de bir Japon tasarımcı, beş yıl boyunca arabaların süspansiyonunu tek tek ölçtürdü — kimse bir oyun için bu kadar veri toplamamıştı.
+
+2
+00:00:09.890 --> 00:00:18.500
+On bir yıl sonra bir otomobil şirketi çılgın bir soru sordu: bu oyunda en hızlı olan kişi, gerçek bir yarış arabasında da hızlı olur mu?
+
+3
+00:00:18.500 --> 00:00:21.190
+Cevabı Le Mans'ın podyumunda aldılar.
+
+4
+00:00:29.390 --> 00:00:38.000
+1992'nin ikinci yarısında, Tokyo'da bir oyun stüdyosunun içinde, kimsenin fazla ciddiye almadığı bir proje başladı.
+
+5
+00:00:38.000 --> 00:00:45.170
+Sony'nin oyun bölümünde çalışan genç bir tasarımcı, Kazunori Yamauchi, araba yarışı oyunu yapmak istiyordu.
+
+6
+00:00:45.170 --> 00:00:49.140
+Ama istediği şey o güne kadar yapılanlara benzemiyordu.
+
+7
+00:00:49.140 --> 00:00:58.710
+Piyasadaki yarış oyunları renkli, hızlı ve abartılıydı; arabalar duvara çarpıp sektikten sonra hiçbir şey olmamış gibi yola devam ediyordu.
+
+8
+00:00:58.710 --> 00:01:10.360
+Yamauchi'nin aklındaki oyunda ise arabalar gerçek markaların gerçek modelleri olacaktı, lastikler asfaltta gerçekten kayacaktı ve bir virajı fazla hızlı almanın bir bedeli olacaktı.
+
+9
+00:01:10.360 --> 00:01:12.090
+Ekip beş kişiydi.
+
+10
+00:01:12.090 --> 00:01:14.460
+Yamauchi dahil beş kişi.
+
+11
+00:01:14.460 --> 00:01:19.550
+Stüdyonun adı önce Polys Entertainment'tı, sonra Polyphony Digital oldu.
+
+12
+00:01:19.550 --> 00:01:30.080
+Bu insanların çoğu daha önce Motor Toon Grand Prix adlı çizgi film havasındaki bir yarış oyununda çalışmıştı ve yeni projenin fizik motorunun çekirdeği de oradan devralındı.
+
+13
+00:01:30.080 --> 00:01:39.330
+Yani tuhaf bir biçimde, oyun tarihinin en ciddi araba simülasyonu, karikatür arabaların koşturduğu bir oyunun iskeleti üzerine kuruldu.
+
+14
+00:01:39.330 --> 00:01:41.060
+Beş yıl sürdü.
+
+15
+00:01:41.060 --> 00:01:51.430
+Doksanlı yıllarda bir oyunun beş yılda çıkması neredeyse duyulmuş şey değildi; o dönemde bir yarış oyunu bir buçuk, iki yılda tamamlanır ve raflara giderdi.
+
+16
+00:01:51.430 --> 00:02:03.720
+Yamauchi sonradan o beş yılı anlatırken bitiş çizgisini hiçbir zaman göremediklerini söyledi: işte uyanıyor, işte uyuyordu; bir yılda evine ancak dört gün uğrayabildiğini tahmin ediyordu.
+
+17
+00:02:03.720 --> 00:02:12.970
+Sony'de o sıralar yapımcılık yapan Shuhei Yoshida, sabah ofise geldiğinde ekibi düzenli olarak masaların altında uyurken bulduğunu anlattı.
+
+18
+00:02:12.970 --> 00:02:15.180
+Bütçe 5 milyon dolardı.
+
+19
+00:02:15.180 --> 00:02:23.150
+Ekip zamanla büyüdü ama sonuna kadar 20 kişiye bile ulaşmadı; en kalabalık olduğu anda 17 kişiydiler.
+
+20
+00:02:23.150 --> 00:02:32.400
+Bu beş yılın büyük bölümü, aslında çok basit görünen ama son derece zor bir soruya harcandı: Bir arabayı ekranda nasıl kopyalarsınız?
+
+21
+00:02:32.400 --> 00:02:35.250
+Görüntüsünü değil, davranışını.
+
+22
+00:02:35.250 --> 00:02:46.740
+Ağırlığının frende öne nasıl bindiğini, gazı kestiğinizde arkanın nasıl hafiflediğini, lastiğin tutunmayı bırakmadan hemen önce direksiyonda bıraktığı o belli belirsiz gevşemeyi.
+
+23
+00:02:46.740 --> 00:02:49.430
+Bunun için gerçek rakamlar lazımdı.
+
+24
+00:02:49.430 --> 00:02:53.400
+Yamauchi ve ekibi otomobil üreticilerinin kapısını çaldı.
+
+25
+00:02:53.400 --> 00:03:01.210
+Bazı markalar tasarım ve ölçüm verilerini paylaştı; o arabalar oyunda şaşırtıcı bir sadakatle canlandı.
+
+26
+00:03:01.210 --> 00:03:04.700
+Bazıları ise verilerini vermeyi reddetti.
+
+27
+00:03:04.700 --> 00:03:13.630
+Yamauchi bunu yıllar sonra açık açık itiraf etti: o arabalar için ellerindeki bilgiyle eğitimli tahminler yürütmek zorunda kalmışlardı.
+
+28
+00:03:13.630 --> 00:03:15.840
+Donanım da yardım etmiyordu.
+
+29
+00:03:15.840 --> 00:03:27.810
+Oyun, PlayStation'ın standart yazılım kütüphaneleriyle yapılıyordu ama istenen performansa ulaşmak için ekip yer yer doğrudan makine diline inmek, kodu el yordamıyla sıkıştırmak zorunda kaldı.
+
+30
+00:03:27.810 --> 00:03:33.700
+Yamauchi oyunun konsolun kapasitesinin yaklaşık yüzde 75'ini kullandığını tahmin ediyordu.
+
+31
+00:03:33.700 --> 00:03:41.510
+Buna rağmen bazı hayaller feda edildi: pistte aynı anda 12 araba koşturmak istiyorlardı, işlemci buna izin vermedi.
+
+32
+00:03:41.510 --> 00:03:45.000
+Ve tasarımın kendisi de bir denge meselesiydi.
+
+33
+00:03:45.000 --> 00:03:53.770
+Ekip, oyunu araba meraklısı olmayan insanlara test ettirdiğinde şunu gördü: oyuncular aynı virajda tekrar tekrar çıkıyordu.
+
+34
+00:03:53.770 --> 00:03:57.260
+Gerçekçilik, oynanamazlığa dönüşmek üzereydi.
+
+35
+00:03:57.260 --> 00:04:03.630
+Yamauchi orada geri adım attı ve direksiyon tepkisini sıradan oyuncu için yumuşatmaya karar verdi.
+
+36
+00:04:03.630 --> 00:04:10.160
+Ama başka bir yerde hiç taviz vermedi: oyuna başlayan kimse doğrudan yarışa giremiyordu.
+
+37
+00:04:10.160 --> 00:04:13.490
+Önce ehliyet sınavlarını geçmek zorundaydı.
+
+38
+00:04:13.490 --> 00:04:21.140
+Bir virajı belli bir sürenin altında almak, bir arabayı belli bir noktada durdurmak, bir şeridi düzgün takip etmek.
+
+39
+00:04:21.140 --> 00:04:27.830
+Bir yarış oyununun oyuncusuna "sen henüz hazır değilsin" demesi, o güne kadar pek görülmüş bir şey değildi.
+
+40
+00:04:27.830 --> 00:04:37.720
+Milyonlarca insanın ilk kez frenleme noktası, ideal çizgi, viraja geç girip erken çıkmak gibi kavramlarla tanışması bu sınavlar sayesinde oldu.
+
+41
+00:04:37.720 --> 00:04:43.610
+Oyun 23 Aralık 1997'de Japonya'da satışa çıktı.
+
+42
+00:04:43.610 --> 00:04:46.940
+İçinde 140 araba ve 11 pist vardı.
+
+43
+00:04:46.940 --> 00:04:56.350
+Yamauchi o gün mağazaların önünde biriken kuyruğu gördüğünü ve insanların kendi yaptıkları oyunu satın almasını inanamayarak izlediğini anlattı.
+
+44
+00:04:56.350 --> 00:05:03.680
+Avrupa 8 Mayıs 1998'de, Kuzey Amerika 12 Mayıs 1998'de tanıştı oyunla.
+
+45
+00:05:03.680 --> 00:05:16.610
+Sonuç, konsolun tarihini değiştirdi: Gran Turismo, PlayStation'ın en çok satan oyunu oldu; 2008'e gelindiğinde dünya genelinde 10 milyon 850 bin kopya sevk edilmişti.
+
+46
+00:05:16.610 --> 00:05:20.420
+Ama asıl tuhaf olan, satış rakamı değildi.
+
+47
+00:05:20.420 --> 00:05:28.230
+Asıl tuhaf olan, oyunun elinizde tuttuğu o plastik kumandayla size öğrettiği şeyin, gerçekten de bir şey olmasıydı.
+
+48
+00:05:28.230 --> 00:05:32.360
+Ve bunu ilk fark eden, oyunu yapanlar değildi.
+
+49
+00:05:32.360 --> 00:05:36.170
+Fikir bir otomobil şirketinin pazarlama odasında doğdu.
+
+50
+00:05:36.170 --> 00:05:47.980
+Nissan Avrupa'da yönetici olan Darren Cox, 2006'da şunu düşündü: Bu oyunu oynayan milyonlarca insanın arasında, hiç yarış arabasına binmemiş ama nasıl sürüleceğini zaten bilen biri olabilir mi?
+
+51
+00:05:47.980 --> 00:05:56.590
+O yıl Sony ile ortaklaşa küçük bir deneme yapıldı; ödülü bir Nissan olan, hem ekran başında hem gerçek pistte koşulan bir etkinlik.
+
+52
+00:05:56.590 --> 00:05:58.800
+Sonuç cesaret vericiydi.
+
+53
+00:05:58.800 --> 00:06:05.330
+2008'de iş ciddiye bindi ve GT Academy, yani GT Akademisi kuruldu.
+
+54
+00:06:05.330 --> 00:06:08.020
+Formül basitti ve acımasızdı.
+
+55
+00:06:08.020 --> 00:06:15.510
+12 Avrupa ülkesinde eleme turları yapıldı; her ülkenin en hızlı 20 oyuncusu ulusal finalde karşılaştı.
+
+56
+00:06:15.510 --> 00:06:23.160
+Bu devasa havuzdan geriye 22 isim kaldı ve bu 22 kişi Silverstone'a, bir haftalık bir kampa çağrıldı.
+
+57
+00:06:23.160 --> 00:06:25.530
+Orası artık oyun değildi.
+
+58
+00:06:25.530 --> 00:06:31.100
+Fiziksel testler, gerçek arabalar, gerçek antrenörler, gerçek eleme.
+
+59
+00:06:31.100 --> 00:06:36.350
+Amaç, ekran başındaki refleksleri dayanıklılık yarışçısına dönüştürmekti.
+
+60
+00:06:36.350 --> 00:06:40.160
+O ilk kampı kazanan isim Lucas Ordóñez oldu.
+
+61
+00:06:40.160 --> 00:06:45.250
+23 yaşında, işletme yüksek lisansı yapan bir İspanyol öğrenci.
+
+62
+00:06:45.250 --> 00:06:51.460
+İspanya'nın en hızlı oyuncularından biriydi ve hayatında profesyonel yarış deneyimi yoktu.
+
+63
+00:06:51.460 --> 00:06:59.270
+Ocak 2009'da Dubai'deki 24 saatlik dayanıklılık yarışında, Nissan destekli takımın direksiyonuna geçti.
+
+64
+00:06:59.270 --> 00:07:05.480
+Yanındaki isimlerden biri Johnny Herbert'tı; Formula 1 galibi, Le Mans kazanmış bir sürücü.
+
+65
+00:07:05.480 --> 00:07:12.970
+Birkaç ay önce oturma odasında oyun oynayan bir öğrenci, şimdi gecenin ortasında onunla aynı arabayı paylaşıyordu.
+
+66
+00:07:12.970 --> 00:07:15.340
+Ordóñez orada kalmadı.
+
+67
+00:07:15.340 --> 00:07:24.430
+Nissan'ın fabrika takımında yer buldu ve 2011'de Fransa'daki 24 Saat Le Mans yarışına, sportif prototip sınıfında katıldı.
+
+68
+00:07:24.430 --> 00:07:30.160
+Signatech Nissan takımının arabasını Franck Mailleux ve Soheil Ayari ile paylaştı.
+
+69
+00:07:30.160 --> 00:07:39.410
+O yarışta sınıflarının pole pozisyonunu aldılar ve iki lastik patlamasına rağmen 24 saatin sonunda sınıflarında ikinci sırada bitirdiler.
+
+70
+00:07:39.410 --> 00:07:45.780
+Üç yıl önce hiç yarışmamış bir oyuncu, dünyanın en zorlu dayanıklılık yarışının podyumundaydı.
+
+71
+00:07:45.780 --> 00:07:49.590
+Ve bu bir tesadüf değildi, çünkü tekrarlandı.
+
+72
+00:07:49.590 --> 00:07:55.320
+2011'de GT Akademisi'nin İngiltere ayağına 90 binden fazla kişi katıldı.
+
+73
+00:07:55.320 --> 00:08:02.490
+Kazanan, Cardiff'te büyümüş, babası profesyonel futbolcu olan 19 yaşındaki Jann Mardenborough'ydu.
+
+74
+00:08:02.490 --> 00:08:05.660
+Akademi'nin üçüncü ve en genç şampiyonuydu.
+
+75
+00:08:05.660 --> 00:08:17.950
+İki yıl sonra, 2013'te, Greaves Motorsport takımının Nissan motorlu prototipiyle Le Mans'a gitti ve arabayı Lucas Ordóñez ve Michael Krumm ile paylaşarak sınıfında üçüncü oldu.
+
+76
+00:08:17.950 --> 00:08:24.000
+Yani aynı arabada iki eski oyuncu vardı; biri diğerinin açtığı kapıdan geçmişti.
+
+77
+00:08:24.000 --> 00:08:25.730
+Program büyüdü.
+
+78
+00:08:25.730 --> 00:08:29.700
+2010'a gelindiğinde 17 ülkeye yayılmıştı.
+
+79
+00:08:29.700 --> 00:08:37.350
+Ömrü boyunca 5 milyondan fazla insan elemelere katıldı ve bunların 23'ü profesyonel yarış sürücüsü oldu.
+
+80
+00:08:37.350 --> 00:08:51.400
+Bu sadece sembolik bir başarı da değildi: 2015'te Avustralya'daki Bathurst 12 Saat yarışını genel klasmanda kazanan Nissan'ın üç sürücüsünden ikisi, Wolfgang Reip ve Florian Strauss, Akademi mezunuydu;
+
+81
+00:08:51.400 --> 00:08:56.810
+üçüncü isim Katsumasa Chiyo'yla birlikte o yarışın mutlak galibi oldular.
+
+82
+00:08:56.810 --> 00:09:04.620
+Bir oyun kolunun gerçek bir kariyere dönüşebileceği fikri, artık bir pazarlama sloganı değil, kanıtlanmış bir şeydi.
+
+83
+00:09:04.620 --> 00:09:12.590
+Ama o aynı yıl, aynı programın yetiştirdiği bir sürücü, simülasyonun nerede bittiğini herkesin göreceği biçimde gösterecekti.
+
+84
+00:09:12.590 --> 00:09:15.600
+28 Mart 2015.
+
+85
+00:09:15.600 --> 00:09:23.090
+Almanya'da, Nürburgring'in uzun kuzey halkasında, yani Nordschleife'de sezonun ilk dayanıklılık yarışı koşuluyordu.
+
+86
+00:09:23.090 --> 00:09:33.140
+Bu pist yirmi kilometreyi aşan uzunluğuyla, kör tepeleriyle, ormanın içine gömülü virajlarıyla dünyadaki en tehlikeli asfalt parçalarından biri sayılır.
+
+87
+00:09:33.140 --> 00:09:41.430
+Jann Mardenborough, Kazuki Hoshino ve Wolfgang Reip ile paylaştığı Nissan GT-R NISMO GT3 ile yarışıyordu.
+
+88
+00:09:41.430 --> 00:09:50.360
+Pistin Flugplatz adıyla anılan bölümünde, yani "uçak alanı" denen o tümsekli kesimde, araba tepeyi aştı ve burnu havaya kalktı.
+
+89
+00:09:50.360 --> 00:09:59.450
+Yaklaşık 30 metre havada süzüldükten sonra kuyruğu üzerine düştü, sekti ve güvenlik çitini aşarak seyircilerin arasına savruldu.
+
+90
+00:09:59.450 --> 00:10:04.860
+49 yaşındaki Hollandalı izleyici Andy Gehrmann hayatını kaybetti.
+
+91
+00:10:04.860 --> 00:10:06.750
+Dokuz kişi yaralandı.
+
+92
+00:10:06.750 --> 00:10:18.720
+Mardenborough arabadan kendi ayaklarıyla çıktı, pist sağlık merkezindeki ilk kontrollerin ardından rutin muayene için hastaneye götürüldü ve fiziksel olarak ciddi bir yara almadan kurtuldu.
+
+93
+00:10:18.720 --> 00:10:20.610
+Tepki hızlı oldu.
+
+94
+00:10:20.610 --> 00:10:25.380
+Bu sınıftaki yarış arabaları Kuzey Halkası'ndan geçici olarak men edildi.
+
+95
+00:10:25.380 --> 00:10:39.750
+On gün sonra yasak kaldırıldı, ama pist artık aynı pist değildi: Flugplatz'ın da aralarında bulunduğu üç kritik bölgede saatte 200 kilometre, en uzun düzlükte saatte 250 kilometre hız sınırı getirildi.
+
+96
+00:10:39.750 --> 00:10:43.880
+En hızlı sınıfların motor gücü yüzde 5 azaltıldı.
+
+97
+00:10:43.880 --> 00:10:48.970
+Bazı seyirci alanları, güvenlik düzenlemeleri tamamlanana kadar kapatıldı.
+
+98
+00:10:48.970 --> 00:10:57.420
+O sezon benzer bir kaza yaşanmadı ve kasım ayında, yeni önlemler devreye girdikten sonra hız sınırları kaldırıldı.
+
+99
+00:10:57.420 --> 00:11:01.870
+Bir simülasyon, bir sürücüye frenleme noktasını öğretebilir.
+
+100
+00:11:01.870 --> 00:11:11.440
+Çizgiyi, ritmi, lastiğin tutunmayı bıraktığı anı öğretebilir; GT Akademisi'nin bütün varlık nedeni buydu ve bu gerçekten işe yaradı.
+
+101
+00:11:11.440 --> 00:11:16.850
+Ama bir simülasyonun asla modellemediği bir değişken vardır: sonuç.
+
+102
+00:11:16.850 --> 00:11:20.660
+Ekranda araba havalandığında sayfa yeniden yüklenir.
+
+103
+00:11:20.660 --> 00:11:24.950
+Gerçekte havalandığında, çitin arkasında insanlar durur.
+
+104
+00:11:24.950 --> 00:11:30.840
+Oyunun içinde kaza bir öğrenme fırsatıdır; dışında ise geri alınamaz bir olaydır.
+
+105
+00:11:30.840 --> 00:11:37.850
+Simülasyonun bittiği yer tam olarak orasıdır; hız verisinin bittiği değil, bedelin başladığı nokta.
+
+106
+00:11:37.850 --> 00:11:40.700
+Mardenborough yarışmaya devam etti.
+
+107
+00:11:40.700 --> 00:11:47.710
+Kariyerini Japonya'ya taşıdı, orada Süper GT ve Süper Formula gibi serilerde yıllarca yarıştı.
+
+108
+00:11:47.710 --> 00:11:53.280
+GT Akademisi ise 2016'da, sekizinci yılının sonunda kapandı.
+
+109
+00:11:53.280 --> 00:11:56.290
+Hikâyenin son halkası sinemada kuruldu.
+
+110
+00:11:56.290 --> 00:12:07.780
+2023'te vizyona giren Gran Turismo filmi, Mardenborough'nun yolculuğunu anlatıyordu ve Mardenborough'nun kendisi filmde hem yapımcılardan biri hem de dublör sürücü olarak yer aldı.
+
+111
+00:12:07.780 --> 00:12:15.430
+Nürburgring'deki kazanın filme girmesine de o izin verdi; onu dışarıda bırakmanın seyirciye haksızlık olacağını söyledi.
+
+112
+00:12:15.430 --> 00:12:31.080
+Ne var ki senaryo, kazayı gerçekteki yerinden alıp Lemans podyumunun öncesine taşıdı; yani gerçek hayatta 2013'te gelen o podyum, filmde 2015'teki kazanın ardından gelen bir kefaret anı gibi kurgulandı.
+
+113
+00:12:31.080 --> 00:12:39.850
+Bu tercih sert eleştiri aldı: gerçek bir insanın ölümünün, bir kahramanlık öyküsünün dramatik basamağına dönüştürüldüğü söylendi.
+
+114
+00:12:39.850 --> 00:12:51.180
+Beş yılda ekrandaki arabayı gerçeğe benzetmeye çalışan bir serinin, yirmi altı yıl sonra kendi gerçek hikâyesini ekrana taşırken zaman çizelgesini eğip bükmesinde acı bir ironi vardı.
+
+115
+00:12:51.180 --> 00:12:56.590
+Bugün seri, 2025 yazında 100 milyon satılan kopya eşiğini aştı.
+
+116
+00:12:56.590 --> 00:13:07.280
+1992'de masaların altında uyuyan beş kişinin tek derdi, bir arabanın viraja girerken nasıl davrandığını bir plastik kumandaya doğru aktarabilmekti.
+
+117
+00:13:07.280 --> 00:13:21.010
+O soruya verdikleri cevap o kadar isabetli çıktı ki, sonunda oyunun kendisi dünyaya sızdı; gerçek pistlere, gerçek podyumlara ve bir kez de, kimsenin istemediği bir biçimde, gerçek bir güvenlik çitinin arkasına.
+
+118
+00:13:21.010 --> 00:13:24.500
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+119
+00:13:24.500 --> 00:13:27.670
+Yeni bir hikâyede yeniden buluşmak üzere.
