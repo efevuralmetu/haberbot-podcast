@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-23.mp3
+
+beklenen 2087 kelime | duyulan 2092 kelime | eşleşme %97.4
+sayı ifadesi: metinde 251, duyulanda 207  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sözleşme düşer sevgi de
+      metin  : sözleşmeyze
+      duyulan: sözleşme ize
+  REPLACE  ...yılı atina genç şair
+      metin  : agathon tragedya
+      duyulan: agaton tragedia
+  REPLACE  ...öneriyorlar platon bu geceyi
+      metin  : şölen
+      duyulan: schoelen
+  REPLACE  ...tuhaf şey yapar gençliğinde
+      metin  : mantineialı
+      duyulan: mantineyalı
+  REPLACE  ...bilgilerin güzelliği ve en
+      metin  : üstte
+      duyulan: üste
+  INSERT   ...platon uzmanı gregory vlastos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...faydayı seviyor fayda bitince
+      metin  : da
+      duyulan: dostlukta
+  REPLACE  ...in en yüksek saydığı
+      metin  : da
+      duyulan: dostlukta
+  INSERT   ...olarak doğan i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kaza dünyada bilinen tek
+      metin  : elyazması nüshası
+      duyulan: el yazması nüşası
+  REPLACE  ...duruyor güvercin gerdanlığı aşk
+      metin  : methiyesi
+      duyulan: metiyesi
+  INSERT   ...gözlem defteri i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...hissediyor ki i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...şeyi söylüyor i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...çarpıcı yeri i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...kişi sonra i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...şeyi oluyor i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...incelik şu i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kapalı sayılan okul olan
+      metin  : zahiriliğin
+      duyulan: zahirliğin
+  INSERT   ...başka ismi i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...olduğu niteliklerden ötürü değil
+      metin  : yaradan dan
+      duyulan: yaratandan
+  INSERT   ...taşınıyor ama i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ne oluyor yılında arkadaşı
+      metin  : etyen dö la boesi
+      duyulan: etiyen döla boğesi
+  REPLACE  ...dö la boesi öldüğünde
+      metin  : monteny
+      duyulan: montenei
+  INSERT   ...dostluğu anlatmanın yolunu aradı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oysa orada tez var
+      metin  : monteny
+      duyulan: montenei
+  REPLACE  ...olarak bu izi sürdü
+      metin  : niko kolodny
+      duyulan: nico colodni
+  INSERT   ...sürdü niko kolodny nin
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...taşıyan olamaz harry frankfurt
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mu sürdürülen karar mı
+      metin  : amelie
+      duyulan: amelia
+  INSERT   ...karar mı amelie rorty
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sürdürebilmek bu da bizi
+      metin  : erih
+      duyulan: erich
+  INSERT   ...bizi erih fromm un
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sevilip sevilmediğini öğreniyor ve
+      metin  : diotima
+      duyulan: diyotima
+  REPLACE  ...istemiyor güzelliğin zekanın iyiliğin
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...karşısındaki asıl işi budur
+      metin  : insanı listeden çıkarıp isim haline getirmek nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: felsefe-2026-09-23.duyulan.txt

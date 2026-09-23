@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-22.mp3
+
+beklenen 1270 kelime | duyulan 1279 kelime | eşleşme %93.8
+sayı ifadesi: metinde 295, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sayısı geçtiğimiz hafta sonu
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...el koyma tehdidinde bulundu
+      metin  : ukmto
+      duyulan: lou comteo
+  REPLACE  ...eş şişah bölgesinin yaklaşık
+      metin  : kilometer kuzeydoğusunda
+      duyulan: km kuzey doğusunda
+  INSERT   ...hale geldiğini bildirdi şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olması enerji rotalarındaki risk
+      metin  : primini
+      duyulan: prelimini
+  INSERT   ...olacak gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...giren ateşkesin ihlalleri sürüyor
+      metin  : pazartesi
+      duyulan: gazartesi
+  REPLACE  ...yana kişinin öldüğünü kişinin
+      metin  : yaralandığını
+      duyulan: yaralandığına
+  REPLACE  ...olası askeri satışı onayladı
+      metin  : volodimir
+      duyulan: volodymir
+  REPLACE  ...edilen cnn politico ve
+      metin  : ms now
+      duyulan: msnav
+  DELETE   ...televizyon yayınlarını ortaklaşa üstlenen
+      metin  : ağ
+      duyulan: (YOK — atlanmış)
+  DELETE   ...modellerini cihaz üzerinde çalıştırabilecek
+      metin  : ayirmi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...konumlandırılan akıllı ekran üzerinde
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...açıkladığı dolarlık yatırım ve
+      metin  : iş
+      duyulan: işbirliği
+  REPLACE  ...paketinin en büyük bölümünü
+      metin  : sk group
+      duyulan: ska grup
+  REPLACE  ...imzalı dolarlık anlaşmalar oluşturuyor
+      metin  : sk
+      duyulan: ska
+  REPLACE  ...ile nvidia arasında değeri
+      metin  : doları
+      duyulan: dolara
+  REPLACE  ...vadeli stratejik ortaklık kuruldu
+      metin  : sk telecom
+      duyulan: ska telekom
+  REPLACE  ...vera rubin işlemcileri ile
+      metin  : sk
+      duyulan: ska
+  REPLACE  ...ile sk hynix in
+      metin  : hbmdört
+      duyulan: hbm
+  REPLACE  ...olarak işaretlenmesini zorunlu kılan
+      metin  : kuralı
+      duyulan: çünkü
+  INSERT   ...zorunlu kılan kuralı ağustos
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...sunulmuş sistemler için aralık
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...için aralık kadar geçiş
+      metin  : süresiyle
+      duyulan: süresi ile
+  REPLACE  ...getirilen yasaklara karşı olduğunu
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...para politikasındaki sıkılaşma ile
+      metin  : jeopolitik
+      duyulan: şeopolitik
+  INSERT   ...yani abd merkez bankası
+      metin  : (yok)
+      duyulan: aton
+  INSERT   ...politika faizinin hedef aralığını
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...faizinin hedef aralığını oyla
+      metin  : dörde
+      duyulan: e
+  INSERT   ...yılki yaklaşık dolar seviyesinden
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...belirleyecek asıl kısıtın elektrik
+      metin  : arzı
+      duyulan: arzu
+  DELETE   ...olacağı öngörülüyor yurt içinde
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...görüyor ve kur tarihi
+      metin  : zirvesine
+      duyulan: hizmetlerine
+  REPLACE  ...satış fiyatı lira düzeyinde
+      metin  : bist
+      duyulan: beast e
+  INSERT   ...repo ihale faiz oranını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...talebin zayıf seyrettiğini ancak
+      metin  : jeopolitik
+      duyulan: geopolitik
+  REPLACE  ...kuveyt veliaht prensi şeyh
+      metin  : sabah halid
+      duyulan: saba halit
+  REPLACE  ...şeyh sabah halid el
+      metin  : hamed
+      duyulan: hamede
+  REPLACE  ...halid el hamed es
+      metin  : sabah
+      duyulan: saba
+  REPLACE  ...fidan ve enerji ve
+      metin  : tabii
+      duyulan: tabi
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: gundem-2026-09-22.duyulan.txt

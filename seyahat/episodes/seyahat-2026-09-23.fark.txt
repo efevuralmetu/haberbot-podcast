@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-23.mp3
+
+beklenen 1634 kelime | duyulan 1649 kelime | eşleşme %93.5
+sayı ifadesi: metinde 269, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu ormanın ortasında bugünkü
+      metin  : gana
+      duyulan: ghana
+  REPLACE  ...gana nın iç kesimlerinde
+      metin  : kwaaman
+      duyulan: kuaman
+  REPLACE  ...devletiydi bölgenin efendisi güneybatıdaki
+      metin  : dençira
+      duyulan: dencira
+  REPLACE  ...güneybatıdaki dençira krallığıydı ve
+      metin  : kwaaman
+      duyulan: kuaman
+  REPLACE  ...komşu saraylarda geçirmiş adamdı
+      metin  : kwaaman
+      duyulan: kuaman
+  REPLACE  ...oturduğu meclis yerine dönüştü
+      metin  : twi
+      duyulan: titevi
+  REPLACE  ...ase kum ağacının demek
+      metin  : kwaaman
+      duyulan: kuaman
+  REPLACE  ...adı böylece kumasi oldu
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...osei tutu nun yanında
+      metin  : okomfo anoçe
+      duyulan: okonfo anoche
+  REPLACE  ...dizlerine kondu taburenin adı
+      metin  : sika dwa kofi ydi
+      duyulan: sikadwakofi idi
+  REPLACE  ...o eşya değil varlıktı
+      metin  : okomfo anoçe
+      duyulan: okonfo anoce
+  REPLACE  ...oturmaz kral bile oturmaz
+      metin  : asantehene
+      duyulan: asante ne
+  REPLACE  ...bu fikir işe yaradı
+      metin  : osei
+      duyulan: de osey
+  REPLACE  ...nun topladığı birleşik ordu
+      metin  : feyiase de dençira yı
+      duyulan: feyasede dençirayı
+  INSERT   ...asante bundan sonra yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...bilmeden gelip şaşırarak dönüyorlardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şeher giren thomas edward
+      metin  : bowdich
+      duyulan: bowditch
+  REPLACE  ...toprağa saplanmış kılıç durur
+      metin  : okomfo anoçe nin
+      duyulan: o konfo anocenin
+  REPLACE  ...sapladığı çıkarılamayacağı söylenen kılıç
+      metin  : kılıcın
+      duyulan: kılıçın
+  INSERT   ...gerekçeler değişti çatışma sürdü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...değişti çatışma sürdü garnet
+      metin  : wolseley
+      duyulan: wallsley
+  REPLACE  ...krallarının kuşaklar boyunca biriktirdiği
+      metin  : regalya
+      duyulan: regalia
+  REPLACE  ...ya götürüldü kumasi nin
+      metin  : asantehene
+      duyulan: de asante ne
+  REPLACE  ...nin asantehene osei tutu
+      metin  : kwame
+      duyulan: kuame
+  INSERT   ...aynı seferde havaya uçuruldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kuvveti şeher yaklaştığında genç
+      metin  : asantehene prempeh i
+      duyulan: asante ne prenpeh içi
+  INSERT   ...sierra leone ye de
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...leone ye de hint
+      metin  : okyanusu ndaki seyşeller e
+      duyulan: okyanusundaki seychelleer
+  INSERT   ...dolusu insan konuşmadı mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...göer kraliçenin temsilcisi olarak
+      metin  : tabuer nin
+      duyulan: taburenin
+  REPLACE  ...kabul sandı o gece
+      metin  : ecisu
+      duyulan: esi su
+  REPLACE  ...ecisu nun kraliçe anası
+      metin  : yaa asantewaa
+      duyulan: ya asanteva
+  REPLACE  ...ya da sınır değildi
+      metin  : yaa asantewaa altmışlarındaydı
+      duyulan: ya asanteva larındaydı
+  REPLACE  ...haziran sonunda vali ve
+      metin  : maiyeti
+      duyulan: mayeti
+  REPLACE  ...bastırma harekatı başladı başında
+      metin  : yaa asantewaa
+      duyulan: ya asanteva
+  REPLACE  ...yakalandı yakın danışmanıyla birlikte
+      metin  : prempeh i in
+      duyulan: prempe ilin
+  REPLACE  ...prempeh i in tutulduğu
+      metin  : seyşeller e
+      duyulan: seyşelleer
+  INSERT   ...daha memleketini görmedi ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sürgünde öldü asante toprakları
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...saklandığı yerde kaldı ancak
+      metin  : (yok)
+      duyulan: de
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: seyahat-2026-09-23.duyulan.txt

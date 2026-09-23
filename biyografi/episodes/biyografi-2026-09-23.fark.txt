@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-23.mp3
+
+beklenen 2253 kelime | duyulan 2281 kelime | eşleşme %95.9
+sayı ifadesi: metinde 385, duyulanda 225  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ve karısının bisikletine taktı
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...kasım ayında japonya nın
+      metin  : şizuoka
+      duyulan: shizuoka
+  REPLACE  ...geldi babası gihei honda
+      metin  : örs
+      duyulan: earth
+  REPLACE  ...yeer eğildi toprağa damlayan
+      metin  : yağa
+      duyulan: yağ
+  REPLACE  ...yön değiştirdiğini genellikle bilemeyiz
+      metin  : soiçiro
+      duyulan: soichiro
+  INSERT   ...anlattı i kinci an
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...pilotu art smith yakındaki
+      metin  : vaçiyama
+      duyulan: wachiyama
+  REPLACE  ...bindirdi gittiği yer art
+      metin  : şokai
+      duyulan: shokai
+  INSERT   ...kapı felaketle açıldı eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tamirhanenin işi patladı ve
+      metin  : soiçiro
+      duyulan: soichiro
+  INSERT   ...çocuk değildi yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıkmış uçak motorlarını otomobil
+      metin  : şasilerine
+      duyulan: şahsilerine
+  INSERT   ...otomobil şasilerine oturttu haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk düzgün pisti olan
+      metin  : tamagava pisti nde
+      duyulan: tamagawa pistinde
+  REPLACE  ...olarak oturan küçük kardeşi
+      metin  : benciro
+      duyulan: benjiro
+  REPLACE  ...sonra direksiyonu bıraktı karısı
+      metin  : saçi nin
+      duyulan: saçının
+  REPLACE  ...segmanlarıydı silindirle piston arasındaki
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  INSERT   ...yakar güç kaybeder ölür
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...geçti toyota siparişi verdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...siparişi verdi toyota şirketin
+      metin  : (yok)
+      duyulan: ını
+  INSERT   ...haritada hedef haline getirdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...düzenli biçimde uçmaya başladı
+      metin  : hamamatsu
+      duyulan: ama matsu
+  REPLACE  ...ağır vurulan şehirlerden tokai
+      metin  : makine nin yamaşita
+      duyulan: makinenin yamashita
+  INSERT   ...gökten değil yerden geldi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...geldi ocak gecesi saat
+      metin  : mikava
+      duyulan: de mikawa
+  INSERT   ...artık moloz yığınıydı ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yaptı arkadaşlarını çağırdı içti
+      metin  : şakuhaçi
+      duyulan: şakuhacı
+  INSERT   ...çevirmek zorunda kalmamaktı ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çam kökü söküp getiriyordu
+      metin  : saçi
+      duyulan: saçı
+  INSERT   ...kendi motorunu yapmaya girişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıkan a tipi motor
+      metin  : santimetreküplük
+      duyulan: cm küplük
+  INSERT   ...dükkanlarına postayla sattı eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şirketin adı kurucunun soyadıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk gerçek motosikleti çıktı
+      metin  : santimetreküplük
+      duyulan: cm küplük
+  REPLACE  ...adam kapıdan girdi takeo
+      metin  : fucisava fucisava
+      duyulan: fujisawa fujisawa
+  REPLACE  ...honda defterleer elini sürmedi
+      metin  : fucisava
+      duyulan: fujisawa
+  INSERT   ...sınırı hiç ihlal etmedi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yokuşu şikayetsiz çıktı arkadan
+      metin  : otomobille
+      duyulan: otomobilde
+  REPLACE  ...otomobille gelen honda ve
+      metin  : fucisava
+      duyulan: fujisawa
+  INSERT   ...ve fucisava ıslanarak seyretti
+      metin  : (yok)
+      duyulan: de
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: biyografi-2026-09-23.duyulan.txt

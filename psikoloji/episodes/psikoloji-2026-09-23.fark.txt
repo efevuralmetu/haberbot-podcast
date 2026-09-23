@@ -1,0 +1,55 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-23.mp3
+
+beklenen 1334 kelime | duyulan 1361 kelime | eşleşme %97.9
+sayı ifadesi: metinde 120, duyulanda 108  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sordu ama elindeki senin
+      metin  : elediğin
+      duyulan: eldiğin
+  INSERT   ...sadece hangi tarafta duracağın
+      metin  : (yok)
+      duyulan: kart eline geliyor ve üstünde tam da inanmadığın cümle yazıyor dakika hazırlık süren var
+  REPLACE  ...sana gerçek gibi geliyorlar
+      metin  : psikolojinin
+      duyulan: pesikolojinin
+  INSERT   ...ilk kez dikkatle bakışı
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...dikkatle bakışı uzanıyor jack
+      metin  : brehm
+      duyulan: bram
+  REPLACE  ...kez daha puanlaması istendi
+      metin  : puanlar
+      duyulan: poanlar
+  INSERT   ...sonra üretti yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ne kadar zevkli buldun
+      metin  : sağduyu
+      duyulan: saaduyu
+  INSERT   ...gösteren güzel çalışma var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...güzel çalışma var richard
+      metin  : nisbett
+      duyulan: nisbet
+  REPLACE  ...karar verdiklerini sanıyorlardı gerekçe
+      metin  : dışarıdan
+      duyulan: dışardan
+  INSERT   ...gözden çıkarmak anlamına gelir
+      metin  : (yok)
+      duyulan: vet
+  REPLACE  ...ilk kez gerçekten seçebilir
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 8 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-09-23.duyulan.txt

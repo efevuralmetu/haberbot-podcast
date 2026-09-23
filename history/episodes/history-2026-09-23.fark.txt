@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-23.mp3
+
+beklenen 3627 kelime | duyulan 3598 kelime | eşleşme %98.8
+sayı ifadesi: metinde 304, duyulanda 216  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...the middle of the
+      metin  : seventies
+      duyulan: (YOK — atlanmış)
+  DELETE   ...this island is roughly
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...the middle of the
+      metin  : seventies
+      duyulan: (YOK — atlanmış)
+  DELETE   ...fish products made up
+      metin  : to
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...roughly and a half
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...s hand in certain
+      metin  : neighbourhoods
+      duyulan: neighborhoods
+  REPLACE  ...impossible for the british
+      metin  : fisherman
+      duyulan: fishermen
+  DELETE   ...and hungrier in the
+      metin  : fifties
+      duyulan: (YOK — atlanmış)
+  DELETE   ...cod stock in the
+      metin  : fifties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...coast guard s commander
+      metin  : pétur
+      duyulan: petur
+  REPLACE  ...the coast guard vessel
+      metin  : ægir ayir
+      duyulan: egir a year
+  REPLACE  ...command of captain gudmundur
+      metin  : kjaernested
+      duyulan: cairnestad
+  DELETE   ...its number painted over
+      metin  : working a bank off the north east of the island
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...water for the time
+      metin  : ayir
+      duyulan: eir
+  REPLACE  ...port side trailing some
+      metin  : and metres
+      duyulan: meters
+  REPLACE  ...patrol vessel the steel
+      metin  : hook
+      duyulan: hooks
+  REPLACE  ...waterline the of august
+      metin  : ayir
+      duyulan: a year
+  REPLACE  ...engineer doing the welding
+      metin  : halldór hallfredsson
+      duyulan: haldor halfordsson
+  REPLACE  ...would be capped at
+      metin  : a and tonnes
+      duyulan: tons
+  REPLACE  ...handful of patrol boats
+      metin  : ayir
+      duyulan: eyir
+  REPLACE  ...boats ayir odin tor
+      metin  : tir
+      duyulan: tyr
+  REPLACE  ...hulls closing to within
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...american forces under the
+      metin  : defence
+      duyulan: defense
+  DELETE   ...to moscow in the
+      metin  : fifties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...a total catch of
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...processing plants salt merchants
+      metin  : hauliers
+      duyulan: holliers
+  REPLACE  ...at in the fishing
+      metin  : neighbourhoods
+      duyulan: neighborhoods
+  DELETE   ...was in the early
+      metin  : thousands
+      duyulan: (YOK — atlanmış)
+  DELETE   ...which it is vital
+      metin  : nöron history de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: history-2026-09-23.duyulan.txt

@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-23.mp3
+
+beklenen 3495 kelime | duyulan 3499 kelime | eşleşme %98.9
+sayı ifadesi: metinde 107, duyulanda 106  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...change the moment somebody
+      metin  : funnier
+      duyulan: funny or
+  REPLACE  ...person who no longer
+      metin  : recognises
+      duyulan: recognizes
+  REPLACE  ...a woman from mantinea
+      metin  : diotima
+      duyulan: diatima
+  REPLACE  ...from mantinea diotima what
+      metin  : diotima
+      duyulan: diatima
+  REPLACE  ...beautiful body then says
+      metin  : diotima
+      duyulan: diatima
+  REPLACE  ...moer than an address
+      metin  : in
+      duyulan: when
+  REPLACE  ...an address in vlastos
+      metin  : s
+      duyulan: is
+  INSERT   ...the usefulness is gone
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...hazm was born in
+      metin  : córdoba
+      duyulan: cordoba
+  REPLACE  ...around the year in
+      metin  : játiva
+      duyulan: jatava
+  REPLACE  ...its original title is
+      metin  : tawq
+      duyulan: taq
+  REPLACE  ...title is tawq al
+      metin  : hamama
+      duyulan: hamamah
+  INSERT   ...of a description alone
+      metin  : (yok)
+      duyulan: net
+  REPLACE  ...defended the zahiri school
+      metin  : in
+      duyulan: and
+  REPLACE  ...text and regarded as
+      metin  : closed
+      duyulan: close
+  REPLACE  ...known line attributed to
+      metin  : yunus emer
+      duyulan: eunice emery
+  REPLACE  ...in when his friend
+      metin  : étienne
+      duyulan: etienne
+  REPLACE  ...friend étienne de la
+      metin  : boétie
+      duyulan: boette
+  REPLACE  ...followed exactly this trail
+      metin  : niko kolodny
+      duyulan: nico colodny
+  REPLACE  ...the logic of the
+      metin  : ladder
+      duyulan: latter
+  REPLACE  ...is kept up in
+      metin  : amelie
+      duyulan: emily
+  REPLACE  ...brings us to what
+      metin  : erich
+      duyulan: eric
+  REPLACE  ...to be learned and
+      metin  : practized
+      duyulan: practiced
+  REPLACE  ...time a decision a
+      metin  : judgement
+      duyulan: judgment
+  REPLACE  ...way the meeting happened
+      metin  : someone
+      duyulan: everyone
+  REPLACE  ...single clever thing and
+      metin  : diotima
+      duyulan: diatima
+  REPLACE  ...them into a name
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...name nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: buggung kübelümün sono nagaldik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: hikaya de yeni dan bulushmakuzeer
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-23.duyulan.txt

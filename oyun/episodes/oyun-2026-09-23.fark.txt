@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-23.mp3
+
+beklenen 1404 kelime | duyulan 1423 kelime | eşleşme %94.0
+sayı ifadesi: metinde 265, duyulanda 174  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hızlı olur mu cevabı
+      metin  : lö man ın podyumunda
+      duyulan: loma nın podiumunda
+  INSERT   ...man ın podyumunda aldılar
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...çalışan genç tasarımcı kazunori
+      metin  : yamauçi
+      duyulan: yamauchi
+  REPLACE  ...gibi yola devam ediyordu
+      metin  : yamauçi
+      duyulan: yamauchi
+  REPLACE  ...bedeli olacaktı ekip kişiydi
+      metin  : yamauçi
+      duyulan: yamauchi
+  REPLACE  ...kişi stüdyonun adı önce
+      metin  : polys
+      duyulan: police
+  REPLACE  ...adı önce polys entertainment
+      metin  : tı
+      duyulan: ı
+  INSERT   ...üzerine kuruldu yıl sürdü
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...tamamlanır ve raflara giderdi
+      metin  : yamauçi
+      duyulan: yamauchi
+  REPLACE  ...o sıralar yapımcılık yapan
+      metin  : şuhei yoşida
+      duyulan: shuhay yoshida
+  REPLACE  ...için gerçek rakamlar lazımdı
+      metin  : yamauçi
+      duyulan: yamavçi
+  REPLACE  ...ize verilerini vermeyi reddetti
+      metin  : yamauçi
+      duyulan: yamavçi
+  REPLACE  ...diline inmek kodu el
+      metin  : yordamıyla
+      duyulan: yordamı ile
+  REPLACE  ...yordamıyla sıkıştırmak zorunda kaldı
+      metin  : yamauçi
+      duyulan: yamavçi
+  INSERT   ...oyunun konsolun kapasitesinin yaklaşık
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...bazı hayaller feda edildi
+      metin  : pistte
+      duyulan: piste
+  REPLACE  ...gerçekçilik oynanamazlığa dönüşmek üzereydi
+      metin  : yamauçi
+      duyulan: yamavçi
+  INSERT   ...sayesinde oldu oyun aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...araba ve pist vardı
+      metin  : yamauçi
+      duyulan: yamavçi
+  INSERT   ...izlediğini anlattı avrupa mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mayıs kuzey amerika mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çok satan oyunu oldu
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yönetici olan darren cox
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ekran başında hem gerçek
+      metin  : pistte
+      duyulan: piste
+  INSERT   ...etkinlik sonuç cesaret vericiydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iş ciddiye ve gt
+      metin  : academy
+      duyulan: akademi
+  INSERT   ...formül basitti ve acımasızdı
+      metin  : (yok)
+      duyulan: doğu
+  REPLACE  ...ilk kampı kazanan isim
+      metin  : lukas ordonyez
+      duyulan: lucas ordonez
+  INSERT   ...yarış deneyimi yoktu ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...herbert tı formula galibi
+      metin  : lö man
+      duyulan: loman
+  REPLACE  ...ortasında aynı arabayı paylaşıyordu
+      metin  : ordonyez
+      duyulan: ordonez
+  INSERT   ...takımında yer buldu ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve fransa daki saat
+      metin  : lö man
+      duyulan: loman
+  REPLACE  ...sportif prototip sınıfında katıldı
+      metin  : signatech
+      duyulan: cignatec
+  REPLACE  ...nissan takımının arabasını frank
+      metin  : mayö
+      duyulan: maillot
+  REPLACE  ...en zorlu dayanıklılık yarışının
+      metin  : podyumundaydı
+      duyulan: podiumundaydı
+  REPLACE  ...tesadüf değildi çünkü tekrarlandı
+      metin  : gt
+      duyulan: de jt
+  REPLACE  ...profesyonel futbolcu olan yaşındaki
+      metin  : jann mardenborough
+      duyulan: john mardenboro
+  INSERT   ...i ki yıl sonra
+      metin  : (yok)
+      duyulan: te
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: oyun-2026-09-23.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-23.mp3
+
+beklenen 2376 kelime | duyulan 2415 kelime | eşleşme %95.3
+sayı ifadesi: metinde 442, duyulanda 275  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çizdiği yerden geçecek kuzey
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...boşlukta duran ada düşünün
+      metin  : yüzölçümü
+      duyulan: ölçümü
+  REPLACE  ...ne demir ne petrol
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...üstüne kuruluydu yüzyılın sonundan
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...ülkenin toplam ihracatının ila
+      metin  : (yok)
+      duyulan: ını
+  REPLACE  ...azalırsa ülke borcunu ödeyemezdi
+      metin  : reykyavik
+      duyulan: reykjavík
+  INSERT   ...zlanda nın değildi ada
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kendi adına antlaşma imzalayamıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hukuk arkalarındaydı i ki
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...güçlü daha açgözlü geliyordu
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...deniz tabanını süpüren dip
+      metin  : trolü
+      duyulan: trollü
+  REPLACE  ...yalnızca balığı değil balığın
+      metin  : ürediği
+      duyulan: ürettiği
+  REPLACE  ...i zlandalı bilim insanları
+      metin  : ellilerde morina stokunun
+      duyulan: lerde morinasi tokunun
+  REPLACE  ...şeyin tükenebilir olduğunu söylüyordu
+      metin  : reykyavik
+      duyulan: reykjavík
+  INSERT   ...olmayan tarafın pazarlık gücü
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...feshetme bildirimini verdi sözleşme
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kendi çizebilecek duruma geldi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...çizebilecek duruma geldi mayıs
+      metin  : reykyavik
+      duyulan: de reykjavík
+  INSERT   ...adımı attı balıkçılık sınırı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...hesapladığının tam tersi oldu
+      metin  : reykyavik
+      duyulan: reykjavík
+  REPLACE  ...ve o alıcı sovyetler
+      metin  : ydi
+      duyulan: idi
+  INSERT   ...dönüşebileceğinin ilk işaretiydi ambargo
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...geldi i zlanda eylül
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...güvenliği ize yakalayabildiği yabancı
+      metin  : trole
+      duyulan: trolle
+  REPLACE  ...olursa hukuk devreye girecekti
+      metin  : reykyavik
+      duyulan: reykjavik
+  REPLACE  ...en büyük donanmalardan avuç
+      metin  : devriye
+      duyulan: devreye
+  INSERT   ...oluyordu alet ilk kez
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...denendi sonra bekletildi sahnesi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kuruldu i zlanda eylül
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...duruşmalara katılmadı bile divan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...karşı ileri sürülemeyeceğine hükmettiğinde
+      metin  : reykyavik
+      duyulan: reykjavik
+  REPLACE  ...eylül sabahı sahil güvenliğin
+      metin  : ayir
+      duyulan: ayır
+  REPLACE  ...ayir adlı gemisi yani
+      metin  : ayir
+      duyulan: ayır
+  REPLACE  ...yani ayir kaptan gudmundur
+      metin  : kyarnested
+      duyulan: kjarnestad
+  INSERT   ...kapatılmış trol buldu saat
+      metin  : (yok)
+      duyulan: ti
+  REPLACE  ...saat telsizle adı soruldu
+      metin  : trolün
+      duyulan: trollün
+  REPLACE  ...donanmasının marşı sayılan rule
+      metin  : britannia
+      duyulan: britanya
+  INSERT   ...britanya dakika sonra saat
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...ilk kez suya bırakıldı
+      metin  : ayir
+      duyulan: ayır
+  REPLACE  ...araya girmekti baharında britanya
+      metin  : firkateynleri
+      duyulan: firkateinleri
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 111
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: tarih-2026-09-23.duyulan.txt

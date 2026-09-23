@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-23.mp3
+
+beklenen 1571 kelime | duyulan 1554 kelime | eşleşme %93.5
+sayı ifadesi: metinde 213, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...bunları saymak için madeninin
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sıvısı var yüzlerce ton
+      metin  : perkloretilen
+      duyulan: pertloretilen
+  DELETE   ...bulabileceğiniz sıvının tonu kayanın
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gürültüyü susturmaktır gürültü yani
+      metin  : yukarıdan
+      duyulan: yukardan
+  INSERT   ...nötrinosu çarptığında çekirdek argon
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...çılgın her haftada tanka
+      metin  : helyum
+      duyulan: helium
+  REPLACE  ...atomunu süpürerek dışarı çıkarıyor
+      metin  : topladığı
+      duyulan: kaya kopladığı
+  REPLACE  ...atomları isim isim toplamak
+      metin  : öte yanda
+      duyulan: e töthian da
+  REPLACE  ...başka adam vardı john
+      metin  : bahcal
+      duyulan: bacal
+  INSERT   ...ayrı yoldan kovalıyordu sonuç
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olamayacak kadar kırılgan görünüyordu
+      metin  : davis
+      duyulan: davisin
+  REPLACE  ...netleşti kaybolmadı aynı sırada
+      metin  : bahcal
+      duyulan: bahçal
+  REPLACE  ...aldığını çıkarabilirsiniz bu yöntem
+      metin  : bahcal
+      duyulan: bahçal
+  REPLACE  ...kalıyordu nötrinonun kendisi bruno
+      metin  : pontekorvo
+      duyulan: ponte corvo
+  REPLACE  ...tek türü yok elektron
+      metin  : müon
+      duyulan: muon
+  REPLACE  ...yol boyunca çeşit değiştiriyorsa
+      metin  : güneş
+      duyulan: güneşten
+  REPLACE  ...ya varana kadar kısmı
+      metin  : müon
+      duyulan: muon
+  REPLACE  ...bilinmeyen eğer çeşidin toplamı
+      metin  : bahcal ın
+      duyulan: bahçalın
+  REPLACE  ...meter derinliğinde sudbury nötrino
+      metin  : gözlemevi
+      duyulan: gözlemeli
+  REPLACE  ...içeri girmemesi için deney
+      metin  : yeraltında
+      duyulan: yer
+  INSERT   ...de toplamı sayıyordu cevap
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sayıyordu cevap görünmeye başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başladı tamamlandı çeşidin toplamı
+      metin  : bahcal ın
+      duyulan: bahçelın
+  REPLACE  ...in tankı yanılmıştı ne
+      metin  : bahcal ın
+      duyulan: bahçelın
+  REPLACE  ...kabaca şöyle düşünebilirsiniz elektron
+      metin  : müon
+      duyulan: muon
+  REPLACE  ...olarak çıkar süer sonra
+      metin  : müon
+      duyulan: muon
+  REPLACE  ...değişmek diye şey olamaz
+      metin  : standart model de
+      duyulan: standard modelde
+  REPLACE  ...açılmış ilk kesin çatlağıydı
+      metin  : standart
+      duyulan: standard
+  REPLACE  ...umulmadık yerden kuru temizleme
+      metin  : sıvısıyla
+      duyulan: sıvısı ile
+  INSERT   ...masatoshi koshiba ya verildi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...keşfi için takaaki kajita
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...mcdonald a gitti john
+      metin  : bahcal
+      duyulan: bacal
+  INSERT   ...seferinde sınanmaya açan adam
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kesin bilmiyoruz nötrinonun kendi
+      metin  : anti parçacığı
+      duyulan: antiparçacı
+  REPLACE  ...içindeki yeraltı laboratuvarında çalışan
+      metin  : boreksino
+      duyulan: borexino
+  REPLACE  ...yani i talyan deneyi
+      metin  : güneş in
+      duyulan: ve te güneşin
+  REPLACE  ...ilk sağlam kanıtını verdi
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 40
+
+duyulan metin: bilim-2026-09-23.duyulan.txt

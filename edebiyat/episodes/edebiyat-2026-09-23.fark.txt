@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-23.mp3
+
+beklenen 1630 kelime | duyulan 1659 kelime | eşleşme %94.1
+sayı ifadesi: metinde 222, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...akşamı i stanbul un
+      metin  : gedikpaşa
+      duyulan: gedikbaşa
+  REPLACE  ...verme imtiyazını almış olan
+      metin  : güllü agobun
+      duyulan: gülli agop un
+  REPLACE  ...nin öğrencileri medrese talebeleri
+      metin  : babıali
+      duyulan: baba ali
+  REPLACE  ...yazmamıştı yıl önce ağustos
+      metin  : midhat
+      duyulan: de mithat
+  REPLACE  ...uzaklaştırma anlamına geliyordu kalemi
+      metin  : hükumeti
+      duyulan: hükümeti
+  INSERT   ...orada kaldı ve aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...içinde kalan kale şehridir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geri dönmeyeceklerine kanaat getirilir
+      metin  : yas
+      duyulan: yaz
+  INSERT   ...duygular yüksek perdedendir ama
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yurttaşa bağlayan padişahtan da
+      metin  : hükumetten
+      duyulan: hükümetten
+  REPLACE  ...taştı gece yarısına doğru
+      metin  : gedikpaşa
+      duyulan: gedikbaşı
+  REPLACE  ...dan çıkan insan seli
+      metin  : babıali
+      duyulan: baba ali
+  REPLACE  ...en çok tartışılan yayınlarından
+      metin  : hükumet
+      duyulan: hükümet
+  REPLACE  ...diline sokan kadroya sahipti
+      metin  : ebüzziya
+      duyulan: ebu ziya
+  REPLACE  ...mithat efendi nuri ve
+      metin  : bereketzade
+      duyulan: bereket sade
+  REPLACE  ...sonra tekrar açılmıştı yani
+      metin  : babıali
+      duyulan: baba ali
+  REPLACE  ...i bret oldu bu
+      metin  : hükumetin
+      duyulan: hükümetin
+  REPLACE  ...istiyor sultan abdülaziz in
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...abdülaziz in tahtta olduğu
+      metin  : tahttan
+      duyulan: tahtan
+  REPLACE  ...üst üste konunca ortaya
+      metin  : hükumetin
+      duyulan: hüküm ve hüküm verilmişti oyunun gecelik sokak coşkusu üst üste konunca ortaya hükümetin
+  INSERT   ...karar hızlı geldi nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i bret değildi hadika
+      metin  : sirac
+      duyulan: siraç
+  REPLACE  ...değildi hadika sirac ve
+      metin  : sirac ı
+      duyulan: sirati
+  INSERT   ...sıra insanlara geldi nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tevkif edildi aynı günlerde
+      metin  : ebüzziya
+      duyulan: ebu ziya
+  INSERT   ...tutuklandı gün sonra nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...limanına yanaştığında gördüğü şey
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...haftalar sonra geri dönüyordu
+      metin  : ceza
+      duyulan: deza
+  REPLACE  ...defalarca yatağa düşürdü ama
+      metin  : magosa
+      duyulan: mağusa
+  REPLACE  ...yazdığı sert eleştiri metinleri
+      metin  : tahrib i
+      duyulan: tahrip
+  REPLACE  ...tahrib i harabat ve
+      metin  : ta kib
+      duyulan: takip
+  REPLACE  ...mayıs ayında sultan abdülaziz
+      metin  : tahttan
+      duyulan: tahtan
+  REPLACE  ...yerine adı yıl önce
+      metin  : mısraın
+      duyulan: mısra nın
+  INSERT   ...tan ayrıldı ve haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ulaştı dönüşünden aylar sonra
+      metin  : midhat
+      duyulan: mithat
+  REPLACE  ...ilk anayasası olan kanun
+      metin  : ı
+      duyulan: u
+  INSERT   ...kılıf başkentten uzakta tutuldu
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...başkentten uzakta tutuldu aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olarak gittiği ve vatan
+      metin  : yahut
+      duyulan: yahud
+  REPLACE  ...magosa sürgününden sonra vatan
+      metin  : yahut
+      duyulan: yahud
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: edebiyat-2026-09-23.duyulan.txt

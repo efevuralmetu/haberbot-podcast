@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-23.mp3
+
+beklenen 2415 kelime | duyulan 2422 kelime | eşleşme %93.9
+sayı ifadesi: metinde 276, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nasıl yıl geriye itti
+      metin  : lima nın kilometer
+      duyulan: limanın km
+  REPLACE  ...kuzeyinde pasifiğin soğuk suları
+      metin  : kıyıya
+      duyulan: kıyaya
+  REPLACE  ...kabuğu yaran tek şey
+      metin  : and
+      duyulan: an
+  INSERT   ...manzara neredeyze yapay görünür
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...tarlası ve söğüt kıyıdan
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...aramak için sebep yoktu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yoktu alman asıllı arkeolog
+      metin  : maks ule
+      duyulan: max ulle
+  REPLACE  ...daki adresi dağlardı yani
+      metin  : çavin
+      duyulan: chavin
+  REPLACE  ...dağlardı yani çavin sonra
+      metin  : moçe
+      duyulan: moche
+  REPLACE  ...çavin sonra moçe sonra
+      metin  : i nka
+      duyulan: inka de
+  REPLACE  ...kosok kanal sistemlerinin peşinde
+      metin  : vadiyi
+      duyulan: vadi
+  REPLACE  ...tepeleer ulaştı yerel adıyla
+      metin  : çupasigarro
+      duyulan: chupa sigaro
+  DELETE   ...tek çömlek parçası yoktu
+      metin  : hiç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...fakir küçük önemsiz alan
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...yılının sonlarında perulu arkeolog
+      metin  : rut şadi
+      duyulan: ruth shadi
+  REPLACE  ...tek çömlek parçası yoktu
+      metin  : şadi
+      duyulan: shadi da
+  REPLACE  ...sahip büyük yerleşim vardı
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...gelecekti cevap duvarların içindeydi
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...girer yani bitkinin ölüm
+      metin  : tarihiyle
+      duyulan: tarihi ile
+  REPLACE  ...bitkinin ölüm tarihiyle yapının
+      metin  : inşa
+      duyulan: inşaat
+  REPLACE  ...illinois üniversitesi nden winifred
+      metin  : creamer
+      duyulan: kremer
+  INSERT   ...üzeer yola çıkardı aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...için an durmak gerekir
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...amerikan bilim dergisi science
+      metin  : ta
+      duyulan: da
+  REPLACE  ...bilim dergisinde yayımlanan makale
+      metin  : caral
+      duyulan: garal
+  REPLACE  ...mimarisinin takvim düzeltmesiyle birlikte
+      metin  : i ö
+      duyulan: iğil ölçe
+  REPLACE  ...civarında başladığını ve yaklaşık
+      metin  : i ö
+      duyulan: iğil ölçe ye
+  REPLACE  ...yüzyıllara çekilmiş oldu üstelik
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...henüz olmamış anlamına geliyordu
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...toplandı ve tablo sağlamlaştı
+      metin  : caral
+      duyulan: karal
+  INSERT   ...tartışmalara konu oldu şadi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...için devlete başvurdu ve
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...şehrin nasıl mümkün olduğuydu
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...için seçilmiş sarp konum
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...sapan mermisi deposu kırılmış
+      metin  : kafatası
+      duyulan: patası
+  REPLACE  ...deposu kırılmış kafatası kesik
+      metin  : uzuv
+      duyulan: uzuf
+  REPLACE  ...çok tercih gibi görünür
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...nin sularıyla sulanan tarlalarda
+      metin  : caral
+      duyulan: karal
+  REPLACE  ...fasulye tatlı patates guava
+      metin  : lucuma
+      duyulan: lücuma
+  REPLACE  ...patates guava lucuma ve
+      metin  : achira
+      duyulan: açıra
+  ... ve 59 fark daha
+
+metinde olup DUYULMAYAN: 112 kelime | duyulup metinde OLMAYAN: 125
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: arkeoloji-2026-09-23.duyulan.txt
