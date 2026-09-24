@@ -1,0 +1,481 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.770
+1981'de Amerikan ordusunun tanıtım salonunda bir oyun makinesi duruyordu; kabinin içinde bir salon oyununun kodu, üstünde gerçek bir zırhlı aracın nişan yokesi vardı.
+
+2
+00:00:12.770 --> 00:00:24.100
+Onu yazan mühendis, yıllar sonra o dönemi tek cümleyle anlatacaktı: "Hayatımın üç ayını kaybettim." Bir oyun tasarımcısı, yapmak istemediği bir oyunu neden yaptı?
+
+3
+00:00:32.300 --> 00:00:39.630
+Kasım 1980'de Amerika'daki oyun salonlarına, o güne kadarki bütün makinelerden farklı bir kabin girdi.
+
+4
+00:00:39.630 --> 00:00:42.800
+Ekranı vardı, ama ekrana bakmıyordunuz.
+
+5
+00:00:42.800 --> 00:00:51.890
+Kabinin ön yüzüne, tam göz hizasına yerleştirilmiş lastik çerçeveli bir gözlüğe alnınızı dayıyor, yüzünüzü makinenin içine gömüyordunuz.
+
+6
+00:00:51.890 --> 00:00:56.980
+Salonun gürültüsü kesilmiyordu elbette, ama görüş alanınız kesiliyordu.
+
+7
+00:00:56.980 --> 00:01:04.470
+Işıklar, kalabalık, arkanızda sıra bekleyen çocuklar, hepsi siyah bir çerçevenin dışında kalıyordu.
+
+8
+00:01:04.470 --> 00:01:09.080
+Geriye yalnızca karanlığın içinde parlayan yeşil çizgiler kalıyordu.
+
+9
+00:01:09.080 --> 00:01:19.130
+Atari'nin bu makinesinin adı Battlezone, yani Savaş Bölgesi'ydi ve oyunculara vaat ettiği şey bir oyun oynamak değil, bir tankın içinde oturmaktı.
+
+10
+00:01:19.130 --> 00:01:30.620
+Savaş Bölgesi'ni tasarlayan Ed Rotberg, yaptığı işi sonradan gayet mütevazı biçimde anlatacaktı: Atari'nin 1974 tarihli Tank adlı oyununun üç boyutlu hali.
+
+11
+00:01:30.620 --> 00:01:37.630
+Gerçekten de temel fikir aynıydı; iki tank, düz bir arazi, engeller ve birbirini vurma çabası.
+
+12
+00:01:37.630 --> 00:01:45.600
+Ama kuş bakışı bir ekrandan namlunun ucuna geçmek, aradaki mesafeyi bir teknik ayrıntıdan çok bir eşiğe dönüştürüyordu.
+
+13
+00:01:45.600 --> 00:01:48.770
+Kuş bakışı oyunda tankı yönetiyordunuz.
+
+14
+00:01:48.770 --> 00:01:52.100
+Periskoptan bakıldığında tank siz oluyordunuz.
+
+15
+00:01:52.100 --> 00:01:57.030
+Ekranda gördüğünüz görüntü, bugünkü anlamda bir görüntü bile değildi.
+
+16
+00:01:57.030 --> 00:02:03.880
+Atari'nin Quadrascan adını verdiği vektör ekran sistemi, noktalardan oluşan bir tablo çizmiyordu.
+
+17
+00:02:03.880 --> 00:02:09.450
+Elektron demeti, karanlık bir yüzeyde iki nokta arasında doğrudan çizgi çekiyordu.
+
+18
+00:02:09.450 --> 00:02:18.700
+Bu yüzden Savaş Bölgesi'ndeki her şey, tanklar, piramitler, küpler ve ufuk çizgisi, keskin ve parlak tel kafeslerden ibaretti.
+
+19
+00:02:18.700 --> 00:02:22.030
+Dolgu yoktu, gölge yoktu, doku yoktu.
+
+20
+00:02:22.030 --> 00:02:24.080
+Sadece ışık vardı.
+
+21
+00:02:24.080 --> 00:02:31.890
+Ekranın üzerine yerleştirilen renkli bir film, oyun alanını yeşile, üstteki radar ve puan şeridini kırmızıya boyuyordu.
+
+22
+00:02:31.890 --> 00:02:35.380
+Bugün o görüntüye bakan biri ilkel bulabilir.
+
+23
+00:02:35.380 --> 00:02:43.670
+1980'de periskoba ilk kez bakan biri, gecenin içinde bir zırhlı aracın gerçek nişan optiğine baktığını hissediyordu.
+
+24
+00:02:43.670 --> 00:02:47.160
+Bu hissin arkasında ciddi bir mühendislik vardı.
+
+25
+00:02:47.160 --> 00:02:59.290
+Üç boyutlu bir dünyayı döndürmek, yani oyuncu her yön değiştirdiğinde sahnedeki bütün köşe noktalarının yeni konumunu yeniden hesaplamak, dönemin işlemcisi için fazlasıyla ağır bir işti.
+
+26
+00:02:59.290 --> 00:03:08.220
+Jed Margolin ve Mike Albaugh'nun tasarladığı, içeride Math Box, yani Matematik Kutusu denen özel bir devre bu yükü sırtladı.
+
+27
+00:03:08.220 --> 00:03:17.470
+Matematik Kutusu, ana işlemcinin altından kalkamayacağı çarpma ve döndürme işlemlerini tek başına yapıyor, sahneyi gerçek zamanda ayakta tutuyordu.
+
+28
+00:03:17.470 --> 00:03:25.600
+Bir oyun makinesinin içine, sırf perspektifi doğru kurmak için ayrı bir hesap donanımı koymak o yıllarda alışılmış bir şey değildi.
+
+29
+00:03:25.600 --> 00:03:29.890
+Oyunun kendisi de ayrıntılara tuhaf bir sadakat gösteriyordu.
+
+30
+00:03:29.890 --> 00:03:40.420
+İki kollu kumanda, tıpkı paletli bir aracın kolları gibi çalışıyordu; ikisini birlikte itince ilerliyor, birini geri çekince aracı yerinde döndürüyordunuz.
+
+31
+00:03:40.420 --> 00:03:44.390
+Vurulduğunuzda ekran, cam çatlar gibi çatlıyordu.
+
+32
+00:03:44.390 --> 00:03:51.240
+Ufukta, asla ulaşamayacağınız bir dağ silsilesi ve aralıklarla patlayan bir yanardağ vardı.
+
+33
+00:03:51.240 --> 00:03:58.570
+Bu yanardağa doğru ne kadar sürerseniz sürün yaklaşamıyordunuz, çünkü orası bir yer değil, bir resimdi.
+
+34
+00:03:58.570 --> 00:04:06.380
+Ama denemek, dünyanın bir sınırı olduğunu kabul etmek anlamına geliyordu ve bu bile o dünyanın gerçekliğini pekiştiriyordu.
+
+35
+00:04:06.380 --> 00:04:14.190
+Ticari olarak Savaş Bölgesi, Atari'nin en çok satan makinesi olmadı; yaklaşık 15 bin kabin üretildi.
+
+36
+00:04:14.190 --> 00:04:17.360
+Ama etkisi satış rakamının çok üstündeydi.
+
+37
+00:04:17.360 --> 00:04:24.530
+Oyun basınının ve oyuncuların dilinde makine, bir eğlence aracından çok bir deneyim olarak anılmaya başladı.
+
+38
+00:04:24.530 --> 00:04:27.860
+Periskop, insanları ikna ediyordu.
+
+39
+00:04:27.860 --> 00:04:33.910
+Ve bu ikna gücü, Atari'nin hiç hesaba katmadığı bir hayran kitlesinin dikkatini çekti.
+
+40
+00:04:33.910 --> 00:04:39.960
+Kaliforniya'daki bir oyun salonunda değil, Washington'daki toplantı odalarında konuşulmaya başlandı.
+
+41
+00:04:39.960 --> 00:04:50.650
+Çünkü Amerikan ordusunun o sıralarda tam olarak böyle bir şeye, yani insanı bir zırhlı aracın nişancı koltuğunda oturduğuna inandıracak ucuz bir kutuya ihtiyacı vardı.
+
+42
+00:04:50.650 --> 00:04:57.500
+Aralık 1980'de Atari'nin kapısını, oyun sektöründen kimsenin beklemediği bir grup çaldı.
+
+43
+00:04:57.500 --> 00:05:02.750
+Gelenler emekli Amerikan ordu mensuplarından oluşan bir danışma grubuydu.
+
+44
+00:05:02.750 --> 00:05:12.800
+Anlatılanlara göre fikrin arkasındaki isimler, dönemin Eğitim ve Doktrin Komutanlığı'nın başındaki Komutan Donn Starry ile Binbaşı Dave Robinson'dı.
+
+45
+00:05:12.800 --> 00:05:21.410
+Talepleri açıktı: Savaş Bölgesi'nin motoru alınacak, oyun tarafı sökülecek ve yerine gerçek bir silah sistemi kurulacaktı.
+
+46
+00:05:21.410 --> 00:05:23.460
+Ordunun derdi somuttu.
+
+47
+00:05:23.460 --> 00:05:30.470
+Amerikan ordusu o yıllarda M2 Bradley Piyade Muharebe Aracı'nı envanterine almaya hazırlanıyordu.
+
+48
+00:05:30.470 --> 00:05:44.040
+Bradley, bir tank değildi ama bir zırhlı personel taşıyıcıdan çok daha fazlasıydı; 25 milimetrelik otomatik topu, eş eksenli makineli tüfeği ve tanksavar füzeleriyle kendi başına bir ateş gücüydü.
+
+49
+00:05:44.040 --> 00:05:49.450
+Bu ateş gücünü kullanacak nişancıların eğitilmesi gerekiyordu ve eğitim pahalıydı.
+
+50
+00:05:49.450 --> 00:05:55.020
+Her atış para demekti, her tatbikat yakıt, arazi ve zaman demekti.
+
+51
+00:05:55.020 --> 00:05:59.790
+Üstelik nişancıdan beklenen şey yalnızca isabet değildi.
+
+52
+00:05:59.790 --> 00:06:06.800
+Hedefi görecek, dost mu düşman mı olduğunu saniyeler içinde ayırt edecek ve mümkünse ilk atışta vuracaktı.
+
+53
+00:06:06.800 --> 00:06:12.050
+Çünkü modern muharebede ikinci atış şansı çoğu zaman karşı tarafa geçiyordu.
+
+54
+00:06:12.050 --> 00:06:15.060
+Atari yönetimi teklife evet dedi.
+
+55
+00:06:15.060 --> 00:06:21.270
+İş, oyun bölümünün içindeki özel projeler ekibine, Rick Moncrief'in sorumluluğuna verildi.
+
+56
+00:06:21.270 --> 00:06:25.080
+Sonra sıra, bu makineyi yazacak kişiye geldi.
+
+57
+00:06:25.080 --> 00:06:34.650
+Savaş Bölgesi'nin kodunu içeriden bilen, üç boyutlu dünyanın nasıl ayakta durduğunu avucunun içi gibi tanıyan tek bir isim vardı: Ed Rotberg.
+
+58
+00:06:34.650 --> 00:06:36.860
+Rotberg hayır demek istedi.
+
+59
+00:06:36.860 --> 00:06:46.910
+Yıllar sonra bunu tek cümleyle özetleyecekti: Kendisini bir ölçüde pasifist olarak görüyordu ve insanlara öldürmeyi öğretmeye yardım etmek istemiyordu.
+
+60
+00:06:46.910 --> 00:06:49.920
+Bu, bireysel bir huysuzluk da değildi.
+
+61
+00:06:49.920 --> 00:06:56.130
+O dönemin Kaliforniya'sında bilgisayar mühendisi olmak, iş seçme lüksüne sahip olmak demekti.
+
+62
+00:06:56.130 --> 00:07:06.980
+Rotberg'in kendi ifadesiyle, Atari'deki mühendislerin çoğu askerî ihale alan şirketlerde çalışabilecekken bilinçli olarak öyle bir işin içinde olmayan bir şirketi seçmişti.
+
+63
+00:07:06.980 --> 00:07:14.950
+Soğuk Savaş'ın en gergin yıllarından birinde, bir oyun şirketinde çalışıyor olmak onlar için siyasi bir tercihti.
+
+64
+00:07:14.950 --> 00:07:17.320
+Sonunda bir pazarlık yapıldı.
+
+65
+00:07:17.320 --> 00:07:25.130
+Rotberg projeyi üstlenecekti, ama tek bir şartla: Atari'nin bundan sonraki hiçbir askerî işinde adı geçmeyecekti.
+
+66
+00:07:25.130 --> 00:07:28.780
+Bir daha asla böyle bir masaya oturtulmayacaktı.
+
+67
+00:07:28.780 --> 00:07:31.630
+Şirket kabul etti ve geri sayım başladı.
+
+68
+00:07:31.630 --> 00:07:40.400
+Ordunun bu makineyi dünya çapındaki büyük eğitim konferansında göstermek istediği tarih belliydi: Mart 1981.
+
+69
+00:07:40.400 --> 00:07:42.930
+Elde kalan süre üç aydı.
+
+70
+00:07:42.930 --> 00:07:49.940
+O üç ayda yapılanların listesi, projenin neden bir oyun yaması değil yeniden inşa olduğunu anlatıyor.
+
+71
+00:07:49.940 --> 00:07:59.510
+Önce araç sabitlendi; nişancı eğitimi verilecekse oyuncunun sürmesine gerek yoktu, yerinden kımıldamayan bir kuleden atış yapması gerekiyordu.
+
+72
+00:07:59.510 --> 00:08:05.240
+Buna karşılık namluya dikey hareket kazandırıldı, yani artık yükseliş açısı vardı.
+
+73
+00:08:05.240 --> 00:08:17.050
+İki kollu kumanda söküldü ve yerine gerçek Bradley nişancı istasyonundakine benzeyen bir boyunduruk kumanda kondu; bu kumandanın araca uyarlanmasını Otto De Runz üstlendi.
+
+74
+00:08:17.050 --> 00:08:22.780
+Nişan optiğine, gerçeğindeki gibi 3 ve 12 kat büyütme kademeleri eklendi.
+
+75
+00:08:22.780 --> 00:08:27.550
+Silahlar çoğaldı ve her biri farklı davranacak biçimde ayrıldı.
+
+76
+00:08:27.550 --> 00:08:33.440
+7,62 milimetrelik makineli tüfek tek atış ya da seri atış yapabiliyordu.
+
+77
+00:08:33.440 --> 00:08:43.490
+Top, zırh delici ya da yüksek patlayıcı mühimmatla ateşleniyordu ve mermi, mesafeye göre düşüyordu; nişancı bunu hesaba katmak zorundaydı.
+
+78
+00:08:43.490 --> 00:08:51.460
+Tanksavar füzesi ise ateşlendikten sonra sizi serbest bırakmıyordu, hedefi kilitte tutmaya devam etmeniz gerekiyordu.
+
+79
+00:08:51.460 --> 00:08:56.550
+Uçan daireler oyundan çıkarıldı, yerlerine helikopterler geldi.
+
+80
+00:08:56.550 --> 00:09:02.440
+Hedeflerin hızları gerçek araçların hızlarına çekildi, yani oyun yavaşladı.
+
+81
+00:09:02.440 --> 00:09:14.890
+Hans Hansen, askerî araç ve helikopterlerin gerçek siluetlerini vektör çizgilerine döktü; ekranda beliren şekil artık soyut bir düşman değil, tanınması istenen belirli bir araç oluyordu.
+
+82
+00:09:14.890 --> 00:09:20.300
+En önemli değişikliklerden biri de buydu: Sahaya dost araçlar da karıştırıldı.
+
+83
+00:09:20.300 --> 00:09:29.710
+Nişancı, tetiğe basmadan önce karşısındakinin kim olduğuna karar vermek zorundaydı ve puanlama, ilk atışta isabeti ödüllendiriyordu.
+
+84
+00:09:29.710 --> 00:09:33.840
+Rotberg o kışı ve baharı makinenin başında geçirdi.
+
+85
+00:09:33.840 --> 00:09:37.330
+Günde 16 ila 18 saat çalışıldı.
+
+86
+00:09:37.330 --> 00:09:41.460
+Eve uyumaya gidiliyor, sabah kalkılıp geri dönülüyordu.
+
+87
+00:09:41.460 --> 00:09:48.790
+Mart 1981'de prototip yetişti ve ordunun dünya çapındaki eğitim konferansında gösterildi.
+
+88
+00:09:48.790 --> 00:09:52.920
+İçeride bir süre ona doğrudan ordunun Savaş Bölgesi deniyordu.
+
+89
+00:09:52.920 --> 00:10:00.730
+Anlatılara bakılırsa konferansta ilgi gördü; subaylar sıraya girdi, boyunduruğu tuttu, optikten baktı.
+
+90
+00:10:00.730 --> 00:10:04.060
+Ama arkasından bir üretim siparişi gelmedi.
+
+91
+00:10:04.060 --> 00:10:07.070
+Bu makineden toplam iki adet yapıldı.
+
+92
+00:10:07.070 --> 00:10:11.680
+Bir tanesi orduya teslim edildi, diğeri Atari'de kaldı.
+
+93
+00:10:11.680 --> 00:10:21.410
+Amerikan ordusu 1980'lerin ikinci yarısında kendi zırhlı araç simülatörlerini çok daha büyük bütçelerle, savunma sanayisinin içinden geliştirdi.
+
+94
+00:10:21.410 --> 00:10:30.340
+Sunnyvale'den çıkan o kutu ise bir kanıt gösterisi olarak kaldı: Bir oyun salonu teknolojisi, bir askerî eğitim aracının yerini tutabilirdi.
+
+95
+00:10:30.340 --> 00:10:33.510
+Rotberg için hesap başka türlü kapandı.
+
+96
+00:10:33.510 --> 00:10:43.720
+Projeyi anlatırken kullandığı cümle, bu makinenin hatırlanma biçimini de belirledi: Baskı altında yürüttüğü bu iş yüzünden hayatının 3 ayını kaybettiğini söyledi.
+
+97
+00:10:43.720 --> 00:10:46.410
+Nefret ettiğini de açıkça yazdı.
+
+98
+00:10:46.410 --> 00:10:58.540
+Öfke, bir şirket beyin fırtınasında patladı; Rotberg, üst yönetimin ve Atari'nin başındaki Ray Kassar'ın gözü önünde, bölümün başkanı Joe Robbins'le bağıra çağıra tartıştı.
+
+99
+00:10:58.540 --> 00:11:08.910
+Herkes aynı yerde değildi bu konuda; mesela aynı ekipte çalışan Jed Margolin, savaşa karşı olmakla askerlere destek olmanın kendisi için çelişmediğini söylüyordu.
+
+100
+00:11:08.910 --> 00:11:12.240
+Ama Rotberg için kırılma noktası geçilmişti.
+
+101
+00:11:12.240 --> 00:11:22.930
+Elindeki yeni oyun projesini bıraktı ve Ekim 1981'de Atari'den ayrıldı; Howard Delman ve Roger Hector'la birlikte kendi şirketleri Videa'yı kurdular.
+
+102
+00:11:22.930 --> 00:11:30.260
+İşin en tuhaf tarafı, bıraktığı projeyle askeri makinenin yıllar sonra birbirine dokunmasıdır.
+
+103
+00:11:30.260 --> 00:11:42.230
+Bradley nişancı istasyonu için tasarlanan o boyunduruk kumanda, Atari'nin 1983'te çıkardığı Star Wars, yani Yıldız Savaşları oyun makinesinde yeniden ortaya çıktı.
+
+104
+00:11:42.230 --> 00:11:48.760
+Bir zırhlı aracın nişan kolu, milyonlarca oyuncunun elinde bir av avcısının kumandası oldu.
+
+105
+00:11:48.760 --> 00:11:55.130
+Askeri iş için ödenen bedelin karşılığında sektöre kalan somut miras, büyük ölçüde budur.
+
+106
+00:11:55.130 --> 00:11:58.620
+Makinelerin kendi kaderi de hikâyeye yakışıyor.
+
+107
+00:11:58.620 --> 00:12:04.670
+Orduya giden nüsha kayboldu; nereye gittiği, ne zaman elden çıkarıldığı bilinmiyor.
+
+108
+00:12:04.670 --> 00:12:09.760
+Geride kalanı ise onlarca yıl kimsenin aramadığı bir yerde bekledi.
+
+109
+00:12:09.760 --> 00:12:20.290
+2000'lerin başında, kapanmış bir oyun şirketinin arka otoparkında, çöp konteynerinin yanında duran kabini koleksiyoncu Scott Evans fark etti ve kurtardı.
+
+110
+00:12:20.290 --> 00:12:29.060
+Makine 2004'te Kaliforniya'da düzenlenen bir klasik oyun makinesi buluşmasında sergilendi ve pek çok insan onu ilk kez orada gördü.
+
+111
+00:12:29.060 --> 00:12:37.030
+Sonradan içindeki yazılım kopyalanıp saklandı, böylece donanım bir gün tamamen çürüse bile yapılan iş kaybolmayacak.
+
+112
+00:12:37.030 --> 00:12:43.240
+Geriye kalan asıl mesele, tek bir mühendisin vicdanıyla yaptığı pazarlığın ne kadar tuttuğudur.
+
+113
+00:12:43.240 --> 00:12:47.210
+Rotberg kendisi için o kapıyı kapattı ve sözünde durdu.
+
+114
+00:12:47.210 --> 00:12:50.060
+Ama kapı, sektör için kapanmadı.
+
+115
+00:12:50.060 --> 00:13:04.590
+1980'de bir oyun salonunda periskoba bakan çocukla, 1981'de aynı donanımın başında dost düşman ayırt etmeyi öğrenen bir subay adayı arasındaki mesafe, o üç ayda kalıcı biçimde kısaldı.
+
+116
+00:13:04.590 --> 00:13:13.520
+Eğlence için geliştirilen simülasyonun eğitim için kullanılabileceği bir kez kanıtlandıktan sonra, iki alan arasındaki geçiş sıradanlaştı.
+
+117
+00:13:13.520 --> 00:13:19.250
+Bugün askeri simülasyonla oyun motorlarının iç içe geçmesini kimse tuhaf bulmuyor.
+
+118
+00:13:19.250 --> 00:13:28.340
+O alışkanlığın başladığı yerde, adı bile düzgün konmamış, iki adet üretilmiş ve bir tanesi çöpün yanında bulunmuş bir kabin duruyor.
+
+119
+00:13:28.340 --> 00:13:31.510
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+120
+00:13:31.510 --> 00:13:34.360
+Yeni bir hikâyede yeniden buluşmak üzere.
