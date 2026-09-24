@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-24.mp3
+
+beklenen 1439 kelime | duyulan 1446 kelime | eşleşme %95.7
+sayı ifadesi: metinde 193, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...oyunu neden yaptı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bölgesi ydi ve oyunculara
+      metin  : vaat ettiği
+      duyulan: vadettiği
+  REPLACE  ...bölgesi ni tasarlayan ed
+      metin  : rotberg
+      duyulan: rothberg
+  INSERT   ...de temel fikir aynıydı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...bile değildi atari nin
+      metin  : quadrascan
+      duyulan: quadraskan
+  REPLACE  ...görüntüye bakan ilkel bulabilir
+      metin  : periskoba
+      duyulan: de periskopa
+  REPLACE  ...margolin ve mike albaugh
+      metin  : nun
+      duyulan: un
+  REPLACE  ...mike albaugh nun tasarladığı
+      metin  : içeride math box
+      duyulan: içerde mudbox
+  INSERT   ...aracın kolları gibi çalışıyordu
+      metin  : (yok)
+      duyulan: i kisini
+  REPLACE  ...silsilesi ve aralıklarla patlayan
+      metin  : yanardağ
+      duyulan: yanardağı
+  INSERT   ...kutuya ihtiyacı vardı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...komutanlığı nın başındaki komutan
+      metin  : donn starry
+      duyulan: don starr
+  REPLACE  ...amerikan ordusu o yıllarda
+      metin  : miki
+      duyulan: mickey
+  REPLACE  ...taşıyıcıdan çok daha fazlasıydı
+      metin  : milimetrelik
+      duyulan: mm lik
+  REPLACE  ...tek isim vardı ed
+      metin  : rotberg rotberg
+      duyulan: rothberg rothberg
+  REPLACE  ...lüksüne sahip olmak demekti
+      metin  : rotberg
+      duyulan: rothberg
+  REPLACE  ...tercihti sonunda pazarlık yapıldı
+      metin  : rotberg
+      duyulan: rothberg
+  REPLACE  ...bradley nişancı istasyonundakine benzeyen
+      metin  : boyunduruk
+      duyulan: boyunduru
+  REPLACE  ...kumandanın araca uyarlanmasını otto
+      metin  : de runz
+      duyulan: deruns
+  REPLACE  ...sizi serbest bırakmıyordu hedefi
+      metin  : kilitte
+      duyulan: kilitle
+  REPLACE  ...araç ve helikopterlerin gerçek
+      metin  : siluetlerini
+      duyulan: silüetlerini
+  REPLACE  ...ilk atışta isabeti ödüllendiriyordu
+      metin  : rotberg
+      duyulan: rotwerk
+  INSERT   ...kalkılıp geri dönülüyordu mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...de kaldı amerikan ordusu
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...savunma sanayisinin içinden geliştirdi
+      metin  : sunnyvale den
+      duyulan: sunivaleden
+  REPLACE  ...eğitim aracının yerini tutabilirdi
+      metin  : rotberg
+      duyulan: rothberg
+  REPLACE  ...şirket beyin fırtınasında patladı
+      metin  : rotberg
+      duyulan: rothberg
+  REPLACE  ...başkanı joe robbins le
+      metin  : bağıra çağıra
+      duyulan: bağra çağr a
+  REPLACE  ...için çelişmediğini söylüyordu ama
+      metin  : rotberg
+      duyulan: rothberg
+  INSERT   ...projesini bıraktı ve ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en tuhaf tarafı bıraktığı
+      metin  : projeyle
+      duyulan: proje ile
+  INSERT   ...boyunduruk kumanda atari nin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ölçüde budur makinelerin kendi
+      metin  : kaderi de
+      duyulan: kaderinde
+  REPLACE  ...hikayeye yakışıyor orduya giden
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...kimsenin aramadığı yerde bekledi
+      metin  : binlerin
+      duyulan: lerin
+  INSERT   ...etti ve kurtardı makine
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...pazarlığın ne kadar tuttuğudur
+      metin  : rotberg
+      duyulan: rothberg
+  INSERT   ...kapı sektör için kapanmadı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...için kapanmadı oyun salonunda
+      metin  : periskoba
+      duyulan: periskopa
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: oyun-2026-09-24.duyulan.txt

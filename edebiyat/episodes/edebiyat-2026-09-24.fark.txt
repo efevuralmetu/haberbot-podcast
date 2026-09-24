@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-24.mp3
+
+beklenen 1576 kelime | duyulan 1588 kelime | eşleşme %95.3
+sayı ifadesi: metinde 246, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : romanı
+      duyulan: romamı
+  DELETE   ...annesinin zor doğumda yardımını
+      metin  : gördüğü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yardımını gördüğü doktordan aldı
+      metin  : necib
+      duyulan: necip
+  REPLACE  ...aldı necib soyadıyla birlikte
+      metin  : necib
+      duyulan: necip
+  DELETE   ...bütün dünyanın haritasına dönüştüreceği
+      metin  : yer
+      duyulan: (YOK — atlanmış)
+  INSERT   ...izlediği şey başka şeydi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...edebiyat değil felsefe okudu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve yarıda bıraktı sebebi
+      metin  : basitti
+      duyulan: etti
+  INSERT   ...devlet memurluğuna girdi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olana kadar yıl boyunca
+      metin  : masanın
+      duyulan: insanın
+  REPLACE  ...ın yasaklanacak en meşhur
+      metin  : romanını
+      duyulan: adını
+  DELETE   ...konuşulanları dinliyor ertesi gün
+      metin  : cümleye çeviriyordu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...elle yazıyordu daktilo kullanmadı
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...roman kahier ailesinin kuşağını
+      metin  : i kinci
+      duyulan: dan
+  REPLACE  ...sonra yıl hiçbir şey
+      metin  : yazmadı
+      duyulan: yapmadı
+  INSERT   ...şeyi söylemiş gibi hissetti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mahfuz soruyla baş başa
+      metin  : kaldı
+      duyulan: başladı
+  REPLACE  ...sayfalarında tefrika etmeye başladı
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...etmeye başladı romanın adı
+      metin  : evladü
+      duyulan: evladı
+  REPLACE  ...romanın adı evladü haratina
+      metin  : ydı türkçede
+      duyulan: idi türkçe de
+  DELETE   ...kurmaya çalışıyordu mahfuz o
+      metin  : ni
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zorunda kalan kardeşi tarafından
+      metin  : ihanete
+      duyulan: kanete
+  REPLACE  ...düzen getiren adam sonra
+      metin  : rifaa
+      duyulan: rifaha
+  REPLACE  ...birleştiren adam ve en
+      metin  : sonda arafa
+      duyulan: son da rifa
+  REPLACE  ...kimseye benzemeyen konağa ilgisi
+      metin  : duayla
+      duyulan: dua ile
+  REPLACE  ...adem cebel de musa
+      metin  : rifaa
+      duyulan: rifa
+  REPLACE  ...çok yanlış anlaşılan tarafıdır
+      metin  : romanını
+      duyulan: romamını
+  REPLACE  ...anlaşılan tarafıdır romanını geri
+      metin  : almadı
+      duyulan: basmadı
+  INSERT   ...etti yıl bekleyecekti kitap
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...tam tersine okumadan hakkında
+      metin  : konuşan
+      duyulan: (YOK — atlanmış)
+  INSERT   ...böyle kısık ateşte durdu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...sveç akademisi nobel edebiyat
+      metin  : ödülü nü necib
+      duyulan: ödülünü necip
+  REPLACE  ...neredeyze hiç çıkmamıştı ve
+      metin  : stockholm e
+      duyulan: stokholme
+  INSERT   ...gündeme oturdu yıl sonra
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...sonra i ngilteer de
+      metin  : başka
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etmesi ya da öldürülmesi
+      metin  : gerektiğini
+      duyulan: olduğunu
+  INSERT   ...cümle havada asılı kaldı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...düzenini bozmaya niyeti yoktu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...nil in batı yakasındaki
+      metin  : ecuze
+      duyulan: eczuze
+  REPLACE  ...sohbetine götüren arkadaşının arabasına
+      metin  : üzereydi
+      duyulan: idi
+  ... ve 12 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: edebiyat-2026-09-24.duyulan.txt

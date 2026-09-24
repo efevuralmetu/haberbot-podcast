@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-24.mp3
+
+beklenen 2461 kelime | duyulan 2466 kelime | eşleşme %95.2
+sayı ifadesi: metinde 387, duyulanda 264  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...londra da duyuldu flander
+      metin  : ovasında
+      duyulan: ovası flander ovası nda
+  REPLACE  ...büyük çarpışmaları bu ovada
+      metin  : donup
+      duyulan: donuk
+  REPLACE  ...nın flander bölgesindeki i
+      metin  : pr
+      duyulan: pri
+  REPLACE  ...ucunda mesin köyü vardı
+      metin  : flamancasıyla
+      duyulan: fulamancasıyla
+  REPLACE  ...flamancasıyla mesen kuzeyinde ize
+      metin  : vitshate
+      duyulan: wichayt
+  REPLACE  ...ağzından çıkan alevi görebiliyordu
+      metin  : cephenin
+      duyulan: cefenin
+  REPLACE  ...seviyesinin hemen üstündeydi derin
+      metin  : sığınak
+      duyulan: sığına
+  REPLACE  ...çamur denizine dönüyor yaralılar
+      metin  : sedyeyle
+      duyulan: sedye ile
+  INSERT   ...sistemi bozmaya gücü yetmiyordu
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...yetmiyordu başında i ngiliz
+      metin  : i kinci ordusu nun
+      duyulan: ordusunun
+  REPLACE  ...gücünün yeteceği kadar tut
+      metin  : mesin
+      duyulan: plumer sin
+  REPLACE  ...patlayıcı yüklerle savunma hattını
+      metin  : topyekun
+      duyulan: topyekün
+  REPLACE  ...milletvekili vardı aynı zamanda
+      metin  : müteahhitti
+      duyulan: müteahitti
+  REPLACE  ...yer lağım tüneli döşeyen
+      metin  : ekiplerin
+      duyulan: ekiblerin
+  REPLACE  ...yarılması vardır norton griffiths
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...avustralya da profesörlük yapan
+      metin  : galler
+      duyulan: galer
+  REPLACE  ...galler doğumlu jeolog olan
+      metin  : edgeworth
+      duyulan: ed geword
+  REPLACE  ...jeolog olan edgeworth david
+      metin  : di
+      duyulan: ti
+  REPLACE  ...kararlar kadar bilimsel kararlardı
+      metin  : mesin
+      duyulan: mess in
+  REPLACE  ...bataklıktaki değirmen anlamına gelen
+      metin  : spanbrukmolen
+      duyulan: spanbrook molen
+  REPLACE  ...yükseltiye giden galeri metreydi
+      metin  : haç
+      duyulan: hac
+  REPLACE  ...metreydi haç sokağı yani
+      metin  : kröysstrat
+      duyulan: kroistrad
+  REPLACE  ...galerilerden metreye vardı bütün
+      metin  : mesin
+      duyulan: mess in
+  REPLACE  ...derin kazı olduğunun itirafı
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...bağladılar galeri ağızlarına battaniye
+      metin  : gerdiler
+      duyulan: geldiler
+  REPLACE  ...alüminyum tozu karışımı olan
+      metin  : amonaldı
+      duyulan: amon adı
+  REPLACE  ...torbalara doldurularak adam adam
+      metin  : galerinin
+      duyulan: nok galeri nin
+  REPLACE  ...boyunca kum torbalarıyla tıkandı
+      metin  : fitil
+      duyulan: fittil
+  INSERT   ...çıkarabilirdi baharına gelindiğinde sırtın
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...tek yük türkçe söyleyişle
+      metin  : sen eloi
+      duyulan: seneloy
+  REPLACE  ...söyleyişle sen eloi denen
+      metin  : sen eloi
+      duyulan: seneloy
+  REPLACE  ...iyi biliyorlardı flander da
+      metin  : yer
+      duyulan: yeraltında
+  REPLACE  ...kazma değil kulaktı her
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...uçlarına dinleme noktaları açmıştı
+      metin  : jeofon
+      duyulan: jeyofon
+  REPLACE  ...çıkmayan krater açmayan yalnızca
+      metin  : yer
+      duyulan: yeraltında
+  REPLACE  ...ezip çökerten patlama kamuflet
+      metin  : yer
+      duyulan: yeraltı
+  REPLACE  ...küçük hendek anlamına gelen
+      metin  : pöti duv çiftliği nde
+      duyulan: petit douf çiftliğinde
+  REPLACE  ...derinliğe librelik yük yerleştirilmişti
+      metin  : düzeneğin
+      duyulan: düzeni
+  REPLACE  ...ileri hazırlanmış parçalarından ağustos
+      metin  : unun
+      duyulan: un
+  REPLACE  ...döndü değirmen mevkiindeki galeri
+      metin  : şubadında
+      duyulan: şubat ında
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: tarih-2026-09-24.duyulan.txt

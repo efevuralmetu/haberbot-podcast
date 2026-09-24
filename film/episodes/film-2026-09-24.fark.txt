@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-24.mp3
+
+beklenen 1629 kelime | duyulan 1635 kelime | eşleşme %96.3
+sayı ifadesi: metinde 223, duyulanda 157  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yolda buldukları başka lokomotiflerle
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...aldı i çlerinden william
+      metin  : pittenger
+      duyulan: p tanger
+  REPLACE  ...ve çile o kitap
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...yirmilerin ortasında buster keaton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...savaşın fotoğraflarını aramaya koyuldu
+      metin  : mathew
+      duyulan: matthew
+  REPLACE  ...olan nashville chattanooga ve
+      metin  : saint
+      duyulan: st
+  REPLACE  ...buradan geçen özel kereste
+      metin  : demiryolu altmışların
+      duyulan: demir yolu ların
+  REPLACE  ...sına dönüştü keaton başrolde
+      metin  : johnnie
+      duyulan: johnny
+  REPLACE  ...başrolde johnnie gray adında
+      metin  : makinisti
+      duyulan: makiniste
+  REPLACE  ...vardır lokomotifi ve annabelle
+      metin  : lee
+      duyulan: yi
+  REPLACE  ...ve annabelle lee annabelle
+      metin  : i
+      duyulan: yi
+  REPLACE  ...şakalar kaybolmaz keaton clyde
+      metin  : bruckman
+      duyulan: brookman
+  REPLACE  ...ahşabı hızla sardı dumandan
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...ayrı ödeme yapılmıştı keaton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...çekime harcanmış en yüksek
+      metin  : meblağdı
+      duyulan: mebladı
+  INSERT   ...zor olduğunu söylemesi gerekirdi
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...para birimiyle ödenmez keaton
+      metin  : ın
+      duyulan: un
+  INSERT   ...kısıldı riskli fikirleri elendi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elendi joseph schenck keaton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...goldwyn mayer e kısaca
+      metin  : mgm
+      duyulan: mcm
+  REPLACE  ...devretti keaton kendi stüdyosunun
+      metin  : sahibiyken
+      duyulan: sahibi iken
+  INSERT   ...anlatırken kullandığı ifade nettir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şey olduğu yerde kaldı
+      metin  : teksas ı
+      duyulan: tek sahası
+  REPLACE  ...pahalıydı lokomotif düştüğü yerde
+      metin  : row irmağı nın
+      duyulan: rowe ırmağının
+  DELETE   ...yaklaşık yıl orada yattı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ters yönde yol aldı
+      metin  : otuzlarda kırklarda ellilerde
+      duyulan: larda larda lerde
+  REPLACE  ...otuzlarda kırklarda ellilerde keaton
+      metin  : ın
+      duyulan: un
+  INSERT   ...izleyici buldu bu izleyici
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...ağırlığı olan dünyada geçmesini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...iyi film olduğunu söyledi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonra daha vazgeçemezdi keaton
+      metin  : ı
+      duyulan: u
+  REPLACE  ...da aynı film oldu
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: film-2026-09-24.duyulan.txt

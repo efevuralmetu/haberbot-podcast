@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-23.mp3
+
+beklenen 1436 kelime | duyulan 1444 kelime | eşleşme %95.1
+sayı ifadesi: metinde 255, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...abd hazine bakanı scott
+      metin  : bessent
+      duyulan: besant
+  REPLACE  ...ran dışişleri bakanı abbas
+      metin  : arakçi nin
+      duyulan: arakçı nın
+  REPLACE  ...konseyi genel sekreteri muhsin
+      metin  : rızai
+      duyulan: rıza
+  REPLACE  ...oturumu liderlerin katıldığı yüksek
+      metin  : düzeyli
+      duyulan: düzeyle
+  INSERT   ...sürecek görev süresi aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...öne sürdü kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...programını izlemeyi askıya aldı
+      metin  : fas
+      duyulan: fefe as
+  REPLACE  ...tarafında günün ana başlığı
+      metin  : meta connect menlo
+      duyulan: metaconnect menno
+  REPLACE  ...teknoloji direktörü andrew bosworth
+      metin  : ün
+      duyulan: un
+  REPLACE  ...tahvil ihracı olan işleme
+      metin  : alphabet de
+      duyulan: alfabetle
+  REPLACE  ...sistemlerine bağlamasına imkan veren
+      metin  : nvlink
+      duyulan: enviling
+  REPLACE  ...ayrıca yapay zeka altyapısını
+      metin  : finanse
+      duyulan: finance
+  REPLACE  ...eylül de politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...ile aralığına çıkardı bu
+      metin  : (yok)
+      duyulan: tiki
+  INSERT   ...yıl sonu faiz tahminini
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...nasdaq yeni zirve kaydetti
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...seviyesinde dengelenirken dolar endeksi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...parti genel başkanı yavuz
+      metin  : ağıralioğlu
+      duyulan: aralioğlu
+  REPLACE  ...ize i stanbul da
+      metin  : müsi ad
+      duyulan: müsyad
+  REPLACE  ...müsi ad expo uluslararası
+      metin  : fuarı nın
+      duyulan: fuar ın
+  REPLACE  ...ulaştırma ve altyapı bakanı
+      metin  : abdulkadir
+      duyulan: abdülkadir
+  REPLACE  ...altyapı bakanı abdulkadir uraloğlu
+      metin  : siirt
+      duyulan: siyirt
+  INSERT   ...ekim perşembe günü saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...en geç ekim de
+      metin  : meclis e
+      duyulan: meclize
+  INSERT   ...eylül toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...gerilerken bankacılık endeksi yükseldi
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  DELETE   ...endeksi yükseldi dolar lira
+      metin  : euro
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sanayinde kapasite kullanım oranı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...reel kesim güven endeksi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...geleceğini belirleyecek teknoloji tarafında
+      metin  : meta connect
+      duyulan: metaconect
+  REPLACE  ...bankası nın bugünkü veri
+      metin  : seti ile ekim deki
+      duyulan: setiyle ekimdeki
+  REPLACE  ...uluslar ligi nde fransa
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...elemeleri yarı finalinde deplasmanda
+      metin  : panatinaikos
+      duyulan: panathinaikos
+  REPLACE  ...öngörülüyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-09-23.duyulan.txt

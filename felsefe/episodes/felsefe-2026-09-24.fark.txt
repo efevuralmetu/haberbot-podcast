@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-24.mp3
+
+beklenen 2283 kelime | duyulan 2292 kelime | eşleşme %97.4
+sayı ifadesi: metinde 232, duyulanda 211  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...depolarından yazıcı yumuşak kile
+      metin  : kamış
+      duyulan: kamuş
+  INSERT   ...tek sorunu şu antropologlar
+      metin  : (yok)
+      duyulan: yıla
+  INSERT   ...ölçme aletini bulduktan sadece
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...krallığı nda basıldı lidyalılar
+      metin  : sart çayı nın
+      duyulan: sar çayının
+  INSERT   ...dünyasında dolaşmaya başlamasından yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...cetveli ölçtüğü şeyi değiştirir
+      metin  : köniksberg
+      duyulan: te königsberg
+  REPLACE  ...ince kitap yayımladı ahlak
+      metin  : metafiziğinin
+      duyulan: metafizinin
+  REPLACE  ...olarak bunu ifade eden
+      metin  : sözcüktür
+      duyulan: sözlüktür
+  INSERT   ...fiyatı un kömür marangozluk
+      metin  : (yok)
+      duyulan: öd
+  REPLACE  ...dil gibi çevirir sorun
+      metin  : çeviride
+      duyulan: çevirde
+  REPLACE  ...şeyin kaybolması değil her
+      metin  : çeviride
+      duyulan: çevirde
+  INSERT   ...kolay geçiyor kant tan
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...paranın doğası üzerinden yanıtlamıştı
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...i ran ın kuzeydoğusundaki
+      metin  : tus ta
+      duyulan: tuzsta
+  REPLACE  ...ne olduğu sorusuna girer
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...kıyaslanamazlık sorusunun aynısıdır ama
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...aynısıdır ama gazzali farklı
+      metin  : imgeyle
+      duyulan: imge ile
+  REPLACE  ...başlarsanız ayna işlevini yitirmiştir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...anda ölçmeyi bırakır bu
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...bu yoksulluk övgüsü değildir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...kervanlar kredi mektupları ortaklıklar
+      metin  : borç
+      duyulan: bort
+  REPLACE  ...hukuki olmaktan çok kavramsaldır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...faizin iktisadi işlevine dair
+      metin  : yüzyıllardır
+      duyulan: yıllardır
+  REPLACE  ...da yerinde duruyor ama
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...sistemin ölçme kabiliyetini bozar
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...dönüş gerçekleştiğinde ne olur
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...son yarım yüzyılda fiyat
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...alan kişi koltuğuna razıdır
+      metin  : michael
+      duyulan: michel
+  INSERT   ...velileer para cezası uygulamaya
+      metin  : (yok)
+      duyulan: başladı velile
+  INSERT   ...kat üzerinde i ran
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ölçülebilenlerin yanında güçsüz duruyor
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...fiyatı sorulmamış olanlar vardır
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-09-24.duyulan.txt

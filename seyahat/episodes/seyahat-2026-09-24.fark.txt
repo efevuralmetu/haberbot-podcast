@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-24.mp3
+
+beklenen 1682 kelime | duyulan 1697 kelime | eşleşme %91.2
+sayı ifadesi: metinde 314, duyulanda 195  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...doğru itmeye başladı almanların
+      metin  : vattenmeer
+      duyulan: vattenmier
+  REPLACE  ...hemen açığındaki büyük ada
+      metin  : strand dı strand
+      duyulan: strant tı strant
+  REPLACE  ...insanın elini titretiyor yalnızca
+      metin  : strand da
+      duyulan: strant ta
+  INSERT   ...ağır hasar gördü bunların
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...ahırlardaki hayvan telef oldu
+      metin  : ribe
+      duyulan: ribeye
+  REPLACE  ...tahmin ile arasında komşu
+      metin  : ayderştet
+      duyulan: eiderstedt
+  REPLACE  ...dolaşıyordu ama bu doğrulanamıyor
+      metin  : felakete
+      duyulan: pefelakete
+  REPLACE  ...verdi ekim azizler listesinde
+      metin  : burhard
+      duyulan: burhart
+  REPLACE  ...tufanı denildi sabah olduğunda
+      metin  : strand
+      duyulan: strant
+  REPLACE  ...üzerinde ada olarak duruyor
+      metin  : nordstrand
+      duyulan: north strant
+  REPLACE  ...olarak duruyor nordstrand ve
+      metin  : pellvorm
+      duyulan: pelvorn
+  REPLACE  ...ada oldu ne kara
+      metin  : südfal
+      duyulan: sütfal
+  REPLACE  ...ne kara südfal ve
+      metin  : nordştrandişmor
+      duyulan: north strandishmoer
+  REPLACE  ...südfal ve nordştrandişmor kısaca
+      metin  : moor halligi
+      duyulan: morehalligy
+  INSERT   ...daha önce de yapmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yapmıştı aşağı almanca da
+      metin  : grote
+      duyulan: grotte
+  REPLACE  ...denen fırtına aynı bölgedeki
+      metin  : rungholt
+      duyulan: runholt
+  REPLACE  ...bölgedeki rungholt kasabasını yutmuştu
+      metin  : rungholt
+      duyulan: runholt
+  INSERT   ...cezası diye yazdığı yer
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...yazdığı yer araştırma ekibi
+      metin  : südfal
+      duyulan: sütfal
+  REPLACE  ...ölçüsünde kilize temelini buldu
+      metin  : yıldan
+      duyulan: yüzyıldan
+  REPLACE  ...süren tartışma böylece kapandı
+      metin  : rungholt
+      duyulan: runholt
+  REPLACE  ...yıl içinde hollandalı müteşebbis
+      metin  : kvirinus i ndervelden
+      duyulan: kivirinus indervel den
+  INSERT   ...yeniden set çekmeye girişti
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ilk poldeer set çekildi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...poldeer set çekildi başkası
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hektarı yani aşağı yukarı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...örmedi bu parçalar bugün
+      metin  : halligen
+      duyulan: haligen
+  REPLACE  ...diye biliniyor tekil haliyle
+      metin  : hallig
+      duyulan: hallik
+  REPLACE  ...yerinde duruyor ve toplam
+      metin  : yüzölçümleri kilometrekareyi
+      duyulan: ölçümleri kilometer kareyi
+  REPLACE  ...hala etraflarında set yok
+      metin  : halligin
+      duyulan: halligen
+  REPLACE  ...yükselti o yükseltilerin adı
+      metin  : warft warft
+      duyulan: varft varft
+  REPLACE  ...ölüm arasındaki farktır bu
+      metin  : halligde warftı
+      duyulan: hallikte varftı
+  REPLACE  ...üstüne kendi kilini ekler
+      metin  : warftın
+      duyulan: varftın
+  REPLACE  ...ortadaki sığ gölettir adı
+      metin  : fething
+      duyulan: fayting
+  REPLACE  ...için toprak tuzludur kuyu
+      metin  : kazsanız
+      duyulan: kassanız
+  REPLACE  ...kazsanız tuzlu su çıkar
+      metin  : fething
+      duyulan: fayting
+  REPLACE  ...nsanların içeceği su ize
+      metin  : sood
+      duyulan: soğut
+  INSERT   ...bitti langenes e elektrik
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kablosuyla tatlı su ize
+      metin  : (yok)
+      duyulan: te
+  ... ve 59 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 126
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: seyahat-2026-09-24.duyulan.txt

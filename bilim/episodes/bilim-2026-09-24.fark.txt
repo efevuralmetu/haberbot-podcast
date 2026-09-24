@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-24.mp3
+
+beklenen 1907 kelime | duyulan 1948 kelime | eşleşme %91.6
+sayı ifadesi: metinde 321, duyulanda 226  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...etrafındaki her şey mutlak
+      metin  : (yok)
+      duyulan: ın
+  INSERT   ...karşılaşmadığımız kuralına bakıyor hikaye
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bakıyor hikaye hollanda nın
+      metin  : layden
+      duyulan: leiden
+  REPLACE  ...normal basınç mutlak kadar
+      metin  : inseniz
+      duyulan: insanız
+  REPLACE  ...önünden sessizce geçip gidiyordu
+      metin  : layden
+      duyulan: de leiden
+  DELETE   ...zirve buldu kelvinde sıvı
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  INSERT   ...madde gibi davranıyorlardı helyum
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...taşıma biçimi tamamen değişmişti
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...oxford da çalışan bernard
+      metin  : rollin
+      duyulan: rowling
+  INSERT   ...çalışan bernard rollin helyum
+      metin  : (yok)
+      duyulan: ile
+  REPLACE  ...film duvara tırmanır saniyede
+      metin  : santimetreye
+      duyulan: cm ye
+  REPLACE  ...akar daha soğuk sıcaklıklarda
+      metin  : santimetreye
+      duyulan: cm ye
+  REPLACE  ...anda kendi kendini frenler
+      metin  : helyum
+      duyulan: helium de
+  INSERT   ...gerçekten kaybolduğunu ayrı grup
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...grup hemen başında kanıtladı
+      metin  : piyotr
+      duyulan: piotr
+  REPLACE  ...kapitsa moskova daki laboratuvarında
+      metin  : helyum
+      duyulan: helium yi
+  REPLACE  ...saç kılından ince cam
+      metin  : kılcallardan
+      duyulan: kılkallardan
+  REPLACE  ...kadar hızlı akması gerekirdi
+      metin  : helyum
+      duyulan: helium
+  INSERT   ...aradan yıl geçtikten sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ardından tozu hafifçe ısıttılar
+      metin  : helyum
+      duyulan: helium
+  REPLACE  ...ısıttılar helyum ısıtılan taraftan
+      metin  : ağza
+      duyulan: ağıza
+  REPLACE  ...hücum etti ve incecik
+      metin  : fıskiye
+      duyulan: fıskıya
+  REPLACE  ...yeni fikrin çıkış noktası
+      metin  : helyumun
+      duyulan: helium un
+  REPLACE  ...atomların yerlerine oturması gerekir
+      metin  : helyum
+      duyulan: helium
+  REPLACE  ...hareketi denen titreşim kalır
+      metin  : helyumda
+      duyulan: helium da
+  REPLACE  ...basınç uygulamak zorundasın yani
+      metin  : helyum
+      duyulan: helium yi
+  REPLACE  ...sıvıdır i kinci adım
+      metin  : helyum
+      duyulan: helium
+  REPLACE  ...kimliğiyle ilgili doğada bulunan
+      metin  : helyumun
+      duyulan: helium un
+  REPLACE  ...bulunan helyumun ezici çoğunluğu
+      metin  : helyum
+      duyulan: helium tür i ki
+  REPLACE  ...şurada demek anlamını yitirir
+      metin  : bose
+      duyulan: boze
+  REPLACE  ...anlamını yitirir bose ile
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...bose ile aynştayn ın
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...ortak dalgaya çöker fritz
+      metin  : london helyum
+      duyulan: land ın de helium nin
+  REPLACE  ...anlatımlarda fazla ileri götürülüyor
+      metin  : helyum
+      duyulan: helium
+  INSERT   ...kitaplardaki temiz hal ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...soğutulmasıyla laboratuvarda kuruldu yani
+      metin  : helyum
+      duyulan: helium yi
+  REPLACE  ...tarif ize şu oldu
+      metin  : helyum
+      duyulan: helium ye
+  REPLACE  ...davranıyormuş gibi bak fikri
+      metin  : lászló tisza
+      duyulan: de laszlo tissa
+  REPLACE  ...fikri lászló tisza attı
+      metin  : lev landau
+      duyulan: de levlandau
+  REPLACE  ...ısıyı ve düzensizliği taşır
+      metin  : öteki
+      duyulan: ötteki
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 128
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: bilim-2026-09-24.duyulan.txt

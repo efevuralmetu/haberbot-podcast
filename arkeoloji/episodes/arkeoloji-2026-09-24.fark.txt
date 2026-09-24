@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-24.mp3
+
+beklenen 2170 kelime | duyulan 2188 kelime | eşleşme %96.4
+sayı ifadesi: metinde 267, duyulanda 216  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yapılmıştı nevşehir in güneyinde
+      metin  : niğde
+      duyulan: nide
+  REPLACE  ...ağaç uzakta hasandağı nın
+      metin  : silueti
+      duyulan: silüeti
+  INSERT   ...başladı ve yeraltındaki yerleşim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yeraltına açılan giriş sayısı
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...kapanmış kendi kendine mühürlenmişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ünlüdür ad yaşayan insanların
+      metin  : yeraltıyla
+      duyulan: yer
+  REPLACE  ...olduğunu anlamak için ize
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...önce erciyes hasandağı ve
+      metin  : göllüdağ
+      duyulan: gölli dağı
+  REPLACE  ...volkanların püskürttüğü külün çökmesiyle
+      metin  : oluşmuş tüf
+      duyulan: oluşmuştu
+  REPLACE  ...tahmin sistemin hayvanlarıyla ve
+      metin  : erzağıyla
+      duyulan: erza ile
+  REPLACE  ...havayı bozan iştir bu
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...ziyarete açık en alt
+      metin  : kotta
+      duyulan: kodda
+  REPLACE  ...ile meter çap ile
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...kalınlık olarak veriliyor ağırlığı
+      metin  : ila
+      duyulan: ile
+  REPLACE  ...kaldıraç noktaları yalnızca iç
+      metin  : tarafta
+      duyulan: taraf
+  INSERT   ...uzun mücadele bölgeyi neredeyze
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...moğol akınları geldi yerel
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...en sık anılan metin
+      metin  : ksenofon un
+      duyulan: kasenofonun
+  REPLACE  ...önce yazdığı anabasis yani
+      metin  : onbinlerin
+      duyulan: binlerin
+  REPLACE  ...sayılamaz ama şunu kanıtlar
+      metin  : yeraltında
+      duyulan: yer
+  REPLACE  ...döneminde baskı gören ilk
+      metin  : hristiyanların
+      duyulan: hıristiyanların
+  REPLACE  ...tonozlu salon bunların hepsi
+      metin  : hristiyan
+      duyulan: hıristiyan
+  INSERT   ...yer taşının yumuşaklığıyla adlandırılmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...arasındaki nüfus mübadelesiyle buranın
+      metin  : hristiyan
+      duyulan: hıristiyan
+  INSERT   ...dönem uzun sürdü sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yağı üreten presler yani
+      metin  : yeraltında
+      duyulan: yer
+  REPLACE  ...belediye başkanı hasan ünver
+      metin  : bölgeyle
+      duyulan: bölge ile
+  INSERT   ...ünver bölgeyle ilgili belgelerde
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...oyma yerleşim bulunduğunu söylüyordu
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...etmedi dünyanın en büyük
+      metin  : yeraltı
+      duyulan: yer
+  REPLACE  ...national geographic yani ulusal
+      metin  : coğrafya
+      duyulan: köyrafya
+  REPLACE  ...biçimde haberleştirdi ve boyutlarıyla
+      metin  : derinkuyu yu
+      duyulan: derin kuyu
+  INSERT   ...hatırlatıyor bu oyukların hiçbiri
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bölümü tünellerle birbirine bağlanmış
+      metin  : yeraltı
+      duyulan: yer
+  REPLACE  ...gereken tuhaflık nevşehir in
+      metin  : altındakiyle kaymaklı yla
+      duyulan: altındaki ile kaymaklığıyla
+  REPLACE  ...bu insanlar tehlike anında
+      metin  : yer
+      duyulan: yeraltına
+  REPLACE  ...kenarındaki nişlerde yüzyıllar önce
+      metin  : tehdidin
+      duyulan: tehditin
+  REPLACE  ...mekanizma içeride duran kolu
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-09-24.duyulan.txt

@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-24.mp3
+
+beklenen 1210 kelime | duyulan 1218 kelime | eşleşme %98.3
+sayı ifadesi: metinde 128, duyulanda 112  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bunu biliyorum diye yorumluyor
+      metin  : psikolojide
+      duyulan: pesikolojide
+  INSERT   ...ölçülmüş karşılığı da var
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...olsaydı kenara bırakılabilirdi ama
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...emin konuşur hafta sonraki
+      metin  : testte
+      duyulan: teste
+  REPLACE  ...pratiği dediğimiz basit hamlede
+      metin  : roediger
+      duyulan: da roy digger
+  REPLACE  ...basit hamlede roediger ve
+      metin  : karpicke
+      duyulan: karpike
+  INSERT   ...oranı civarındayken sadece okuyanlarınki
+      metin  : (yok)
+      duyulan: a
+  DELETE   ...süer aynı metin neredeyze
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...neredeyze buçuk katı sonuç
+      metin  : karpicke
+      duyulan: de karpike
+  REPLACE  ...katı sonuç karpicke ve
+      metin  : blunt
+      duyulan: blount
+  REPLACE  ...hafta sonra kısa turlarla
+      metin  : dön
+      duyulan: döndü
+  REPLACE  ...doğru kaliber olmuş demektir
+      metin  : not da
+      duyulan: notla
+  REPLACE  ...içinse mesele daha sade
+      metin  : sarı
+      duyulan: sağırı
+  REPLACE  ...kapattıktan sonra aklında kalanlardır
+      metin  : ve
+      duyulan: vebe
+  REPLACE  ...kapatmayı göze almaktan geçiyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 13 kelime | duyulup metinde OLMAYAN: 17
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-09-24.duyulan.txt

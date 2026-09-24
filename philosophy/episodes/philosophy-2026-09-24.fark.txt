@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-24.mp3
+
+beklenen 3438 kelime | duyulan 3439 kelime | eşleşme %98.6
+sayı ifadesi: metinde 124, duyulanda 110  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...but a weight roughly
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...whose life it was
+      metin  : coined
+      duyulan: havit s coin
+  REPLACE  ...it measures in in
+      metin  : königsberg
+      duyulan: konigsberg
+  REPLACE  ...philosophy who had scarcely
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...aer interchangeable for me
+      metin  : substitutability
+      duyulan: substitute ability
+  REPLACE  ...for me substitutability just
+      metin  : is
+      duyulan: as
+  REPLACE  ...of money itself al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...ghazālī was born in
+      metin  : tūs
+      duyulan: tuz
+  REPLACE  ...the head of the
+      metin  : nizāmiyya
+      duyulan: nizamiyah
+  REPLACE  ...that departuer is the
+      metin  : iḥyāʾ ʿulūm al dīn
+      duyulan: ay haya ulu maldin
+  REPLACE  ...is the scene al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...about incomparability but al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...with a different image
+      metin  : something
+      duyulan: nothing
+  REPLACE  ...lost its function al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...poverty the world al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...stretching from baghdad to
+      metin  : samarkand
+      duyulan: semarchand
+  REPLACE  ...than legal for al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...is clear wheer al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...place answering that al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...into areas neither al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...watched what happened at
+      metin  : day caer centres
+      duyulan: daycaer centers
+  REPLACE  ...social policy researcher richard
+      metin  : titmuss
+      duyulan: titmus
+  REPLACE  ...blood economists argued over
+      metin  : titmuss
+      duyulan: titmus
+  REPLACE  ...forced to concede thing
+      metin  : an incentive
+      duyulan: and incentives
+  REPLACE  ...measurable for centuries al
+      metin  : ghazālī
+      duyulan: ghazali
+  REPLACE  ...surfaces to reflect the
+      metin  : queue
+      duyulan: cue
+  REPLACE  ...not yet been asked
+      metin  : nöron philosophy
+      duyulan: neuren philosophie der bugung küberlümen sonnungagaldik jännibir hikäe
+  REPLACE  ...asked nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: jännidan bölluschmäküzerä
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-09-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-24.mp3
+
+beklenen 2444 kelime | duyulan 2477 kelime | eşleşme %95.5
+sayı ifadesi: metinde 439, duyulanda 303  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...üste dizilmiş sayfalar gibi
+      metin  : jeologların
+      duyulan: geologların
+  REPLACE  ...yıl önce burayı kaplayan
+      metin  : sığ
+      duyulan: sıvı
+  REPLACE  ...sürekli çöker kış fırtınaları
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...bu kayalıkların dibindeki kasaba
+      metin  : lyme
+      duyulan: lime
+  INSERT   ...lyme regis ti mayıs
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...anlatacağı olay yaşandı ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşandı ağustos kasabanın kenarındaki
+      metin  : rack field
+      duyulan: rockfield
+  REPLACE  ...elizabeth haskings aylık mary
+      metin  : yi
+      duyulan: i
+  REPLACE  ...çocuklara okuma yazma öğretiyordu
+      metin  : mary
+      duyulan: marie
+  REPLACE  ...taşı deniyordu ucu sivri
+      metin  : belemnitleer
+      duyulan: belemlitleer
+  REPLACE  ...giderken çocuklarını da götürüyordu
+      metin  : mary
+      duyulan: marie
+  REPLACE  ...düşme yaşamıştı ve akciğerlerinde
+      metin  : verem
+      duyulan: veren
+  INSERT   ...ve akciğerlerinde verem vardı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...yani toplayıcının en verimli
+      metin  : mevsimi kıyının
+      duyulan: mevsim kıyı nın
+  REPLACE  ...mümkün değil ama rakamların
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...gerekiyordu bu iğne ve
+      metin  : fırçayla
+      duyulan: fırça ile
+  REPLACE  ...fırçayla haftalar süren işti
+      metin  : mary
+      duyulan: mari
+  INSERT   ...icat edilmemişti o sözcük
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sözcük ortaya çıkacaktı yani
+      metin  : mary
+      duyulan: mari
+  REPLACE  ...bulmak yaşındaki kardeşine kaldı
+      metin  : mary
+      duyulan: mari
+  INSERT   ...çıkmamış katmanın içindeydi ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bölgenin toprak sahibi henry
+      metin  : hoste
+      duyulan: hoster
+  REPLACE  ...yapılan açık artırmada sterlin
+      metin  : şiline
+      duyulan: yıline
+  REPLACE  ...küratörlerden hayvana ad verdi
+      metin  : iktiyozor
+      duyulan: i ktyozor
+  REPLACE  ...hiç yoktu ya da
+      metin  : lyme
+      duyulan: lime
+  DELETE   ...alıp parçalıyor mürekkep balığının
+      metin  : iç yapısını
+      duyulan: (YOK — atlanmış)
+  INSERT   ...çok güvenir hale geldiler
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...olduğunu görünce büyük ölçüde
+      metin  : mary den
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ailesine bıraktı satıştan yaklaşık
+      metin  : sterlin
+      duyulan: sterling
+  REPLACE  ...alma payıydı aynı zamanda
+      metin  : lyme
+      duyulan: lime
+  INSERT   ...tartışmalı parçasını kayadan çıkardı
+      metin  : (yok)
+      duyulan: doğ
+  INSERT   ...gövde geniş ve yassıydı
+      metin  : (yok)
+      duyulan: geci
+  REPLACE  ...kaplumbağanın gövdesine eklemiş gibiydi
+      metin  : mary
+      duyulan: marie
+  REPLACE  ...adamı ve jeolog william
+      metin  : conybeaer
+      duyulan: coney bear a
+  REPLACE  ...masasına gitti paris teki
+      metin  : jorj küvye küvye
+      duyulan: georges cuvier cuvier
+  REPLACE  ...olarak kanıtlayan hayvanın tek
+      metin  : kemiğine
+      duyulan: kemine
+  REPLACE  ...mantıklı bütün kurar ve
+      metin  : küvye
+      duyulan: cuvier
+  REPLACE  ...deniz yılanının omurlarını alıp
+      metin  : iktiyozorun
+      duyulan: ictiozorun
+  REPLACE  ...anlama geldiğini kavramak gerekir
+      metin  : mary
+      duyulan: marie
+  REPLACE  ...anning in tek sermayesi
+      metin  : itibarıydı
+      duyulan: itibariydi
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: biyografi-2026-09-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-24.mp3
+
+beklenen 2906 kelime | duyulan 2895 kelime | eşleşme %98.5
+sayı ifadesi: metinde 200, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...moer precisely helium below
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  INSERT   ...of work heike kamerlingh
+      metin  : (yok)
+      duyulan: annes
+  DELETE   ...his hands boiled at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...freeze every known substance
+      metin  : crystallises
+      duyulan: crystallizes
+  DELETE   ...peak the graph at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...liquid helium exactly at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...changed in the mid
+      metin  : thirties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...working in oxford bernard
+      metin  : rollin
+      duyulan: rowland
+  REPLACE  ...name today is about
+      metin  : nanometres
+      duyulan: nanometers
+  REPLACE  ...flows at speeds reaching
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...tries to flow it
+      metin  : brakes
+      duyulan: breaks
+  INSERT   ...brakes itself in helium
+      metin  : (yok)
+      duyulan: too
+  REPLACE  ...theer is no such
+      metin  : brake
+      duyulan: break
+  REPLACE  ...in his moscow laboratory
+      metin  : pyotr kapitza
+      duyulan: piotr kapitsa
+  INSERT   ...pyotr kapitza pushed helium
+      metin  : (yok)
+      duyulan: too
+  REPLACE  ...john allen and don
+      metin  : misener
+      duyulan: mizener
+  INSERT   ...ought to move helium
+      metin  : (yok)
+      duyulan: too
+  REPLACE  ...side borrowing from superconductivity
+      metin  : kapitza
+      duyulan: kapitsa
+  REPLACE  ...like a thin fountain
+      metin  : centimetres
+      duyulan: centimeters
+  DELETE   ...calculated in the mid
+      metin  : twenties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mixtuer of interpenetrating liquids
+      metin  : lászló tisza
+      duyulan: laszlo tisa
+  REPLACE  ...a stack of thin
+      metin  : discs
+      duyulan: disks
+  REPLACE  ...a torsional pendulum the
+      metin  : discs
+      duyulan: disks
+  REPLACE  ...in practice something else
+      metin  : brakes
+      duyulan: breaks
+  INSERT   ...a bucket of helium
+      metin  : (yok)
+      duyulan: too
+  INSERT   ...it exactly fixed quantum
+      metin  : (yok)
+      duyulan: did
+  INSERT   ...what happens in helium
+      metin  : (yok)
+      duyulan: too
+  REPLACE  ...in in moscow vasily
+      metin  : peshkov
+      duyulan: peskov
+  REPLACE  ...temperatuer waves inside helium
+      metin  : and
+      duyulan: too i then
+  REPLACE  ...off their speed about
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...atomic clouds in heat
+      metin  : travelling
+      duyulan: traveling
+  DELETE   ...the lambda point at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...point kelvin a and
+      metin  : tonnes
+      duyulan: tons
+  DELETE   ...melting curve at about
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...squeezed down to about
+      metin  : kilometres
+      duyulan: kilometers
+  DELETE   ...been saying since the
+      metin  : sixties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...superfluid rotates it builds
+      metin  : quantized
+      duyulan: quantist
+  REPLACE  ...philip anderson and naoki
+      metin  : itoh
+      duyulan: ito
+  INSERT   ...in this recent period
+      metin  : (yok)
+      duyulan: dut
+  INSERT   ...given the right conditions
+      metin  : (yok)
+      duyulan: that
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-09-24.duyulan.txt
