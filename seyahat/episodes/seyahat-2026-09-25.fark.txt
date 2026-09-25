@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-25.mp3
+
+beklenen 1856 kelime | duyulan 1886 kelime | eşleşme %91.9
+sayı ifadesi: metinde 270, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...her yıl
+      metin  : mayısın dördünde
+      duyulan: mayıs ın ünde
+  REPLACE  ...ki kolun arasında kalan
+      metin  : kilometrekaredir
+      duyulan: km karedir
+  INSERT   ...şeyi hatırlatır bu toprağın
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...toprağın deniz seviyesinin altındadır
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yani ölü sular yüzyılda
+      metin  : luvi
+      duyulan: lüvi
+  REPLACE  ...halinde kale kasabası yükseldi
+      metin  : kralın
+      duyulan: de kral ın
+  REPLACE  ...ın surları hala ayaktadır
+      metin  : konstans
+      duyulan: constans
+  REPLACE  ...fakat deniz orada değildir
+      metin  : ron
+      duyulan: rhône
+  REPLACE  ...ve kıyı çizgisi yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...ettiği için limanlıktan çıktı
+      metin  : kamarg
+      duyulan: camargue
+  REPLACE  ...işçi kasabası doğdu salen
+      metin  : dö jiro
+      duyulan: de ciro
+  REPLACE  ...salen dö jiro kısaca
+      metin  : jiro
+      duyulan: ciro
+  REPLACE  ...olduklarını anlarsınız havuzlardaki sudaki
+      metin  : mikroskobik algler
+      duyulan: mikroskopik alger
+  REPLACE  ...başladı ve mesele yalnızca
+      metin  : aş
+      duyulan: aç
+  INSERT   ...mer yani deniz seddi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...akdeniz de azalmaya başlayınca
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...insan yapımı adada yumurtluyor
+      metin  : vakares
+      duyulan: de vakáres
+  REPLACE  ...adada yumurtluyor vakares yani
+      metin  : vakares
+      duyulan: vakáres
+  INSERT   ...doğa koruma alanı kuruldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...boğa giriyor yerel dilde
+      metin  : biyu
+      duyulan: biü
+  REPLACE  ...var oyunun adı kurs
+      metin  : kamargez
+      duyulan: kamarges
+  REPLACE  ...adı kurs kamargez yani
+      metin  : kamarg
+      duyulan: kamar
+  REPLACE  ...son anda başının yanından
+      metin  : sıyrılır
+      duyulan: sığırılır
+  REPLACE  ...başının yanından sıyrılır ve
+      metin  : kancayla
+      duyulan: kanca ile
+  REPLACE  ...güzel olduğunda arena bandosu
+      metin  : karmen
+      duyulan: carmen
+  REPLACE  ...yani manadına geri döner
+      metin  : kamarg
+      duyulan: kamar
+  REPLACE  ...yıllarca arenaya çıkan kimseye
+      metin  : kokardını
+      duyulan: kokardığını
+  REPLACE  ...biletleri sattırır en büyükleri
+      metin  : biyu dor
+      duyulan: biyodor
+  REPLACE  ...biyu dor yani boğa
+      metin  : unvanıyla
+      duyulan: ünvanı ile
+  REPLACE  ...ve arenaya getiren insanlara
+      metin  : gardian
+      duyulan: gardiyan
+  REPLACE  ...getiren insanlara gardian denir
+      metin  : manad
+      duyulan: manat
+  REPLACE  ...ve deltanın kendi atı
+      metin  : kamarg
+      duyulan: kamark
+  REPLACE  ...kendi atı kamarg atı
+      metin  : tayken
+      duyulan: taiken
+  REPLACE  ...bugünkü biçiminin yazarı vardır
+      metin  : folko dö baronçelli
+      duyulan: folco de baroncelli
+  REPLACE  ...folko dö baronçelli javon
+      metin  : avinyon
+      duyulan: da avignon
+  REPLACE  ...şehirden çıkıp deltaya yerleşti
+      metin  : manadye
+      duyulan: manade
+  REPLACE  ...da borç içinde yaşadı
+      metin  : provans
+      duyulan: provence
+  REPLACE  ...dili yapmaya çalışan şair
+      metin  : frederik
+      duyulan: frederick
+  REPLACE  ...çalışan şair frederik mistral
+      metin  : in
+      duyulan: ın
+  INSERT   ...mistral in çevresindendi mistral
+      metin  : (yok)
+      duyulan: te
+  ... ve 41 fark daha
+
+metinde olup DUYULMAYAN: 89 kelime | duyulup metinde OLMAYAN: 116
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: seyahat-2026-09-25.duyulan.txt

@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-25.mp3
+
+beklenen 3376 kelime | duyulan 3354 kelime | eşleşme %98.9
+sayı ifadesi: metinde 118, duyulanda 98  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...a young poet named
+      metin  : meletus
+      duyulan: melitus
+  REPLACE  ...language its name was
+      metin  : husn
+      duyulan: hoosin
+  REPLACE  ...name was husn and
+      metin  : qubh
+      duyulan: qui bh
+  REPLACE  ...because it was ugly
+      metin  : qadi abd al
+      duyulan: quday abdul
+  REPLACE  ...in the city of
+      metin  : rayy
+      duyulan: ray
+  REPLACE  ...teacher abu ali al
+      metin  : jubba i
+      duyulan: jabbar
+  REPLACE  ...the ash ari school
+      metin  : husn
+      duyulan: hasan
+  REPLACE  ...ari school husn and
+      metin  : qubh
+      duyulan: qibh
+  REPLACE  ...he stands wheer the
+      metin  : mu tazila
+      duyulan: mutazilas
+  REPLACE  ...the scales because what
+      metin  : waits
+      duyulan: weights
+  REPLACE  ...the brothers karamazov which
+      metin  : dostoevsky
+      duyulan: dostoyevsky
+  INSERT   ...values to hold to
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...gratuitous cruelty being evil
+      metin  : belonged
+      duyulan: belong
+  REPLACE  ...learn to play the
+      metin  : lyer
+      duyulan: liar
+  REPLACE  ...back without settling whether
+      metin  : husn
+      duyulan: chuzin
+  REPLACE  ...settling whether husn and
+      metin  : qubh
+      duyulan: kibiach
+  DELETE   ...like that behind it
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 18
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: philosophy-2026-09-25.duyulan.txt

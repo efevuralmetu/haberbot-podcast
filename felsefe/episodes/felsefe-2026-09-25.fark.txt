@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-25.mp3
+
+beklenen 2228 kelime | duyulan 2215 kelime | eşleşme %95.9
+sayı ifadesi: metinde 223, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...olduğu için mi yasak
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...değiştiriyor atina nın kral
+      metin  : arkhon
+      duyulan: arkon
+  REPLACE  ...görüldüğü sıradan taş sundurmaydı
+      metin  : mö
+      duyulan: milostri un
+  REPLACE  ...içecekti merdivenlerde tanıdıkla karşılaştı
+      metin  : euthyphron
+      duyulan: i tifron
+  REPLACE  ...şöyleydi aileye ait topraklarda
+      metin  : naksos adasında
+      duyulan: naxos adası nda
+  REPLACE  ...kavga ettiği köleyi öldürmüştü
+      metin  : euthyphron
+      duyulan: ütifron
+  REPLACE  ...un babası adamı bağlayıp
+      metin  : hendeğe
+      duyulan: hendeye
+  REPLACE  ...yaygın anlayışına göer bu
+      metin  : oğulun
+      duyulan: oğlun
+  REPLACE  ...karışacağı mesele bile sayılmazdı
+      metin  : euthyphron
+      duyulan: ütifron
+  REPLACE  ...örnek verme tanım ver
+      metin  : euthyphron
+      duyulan: ütifron
+  REPLACE  ...hem kutsal olmayan çıkar
+      metin  : euthyphron
+      duyulan: ütifron
+  REPLACE  ...yasa haline gelmelidir nürnberg
+      metin  : de
+      duyulan: te
+  REPLACE  ...mahkeme zabıtlarına geçmiş halidir
+      metin  : euthyphron
+      duyulan: utyfron
+  REPLACE  ...başladı bu dilde adı
+      metin  : hüsün
+      duyulan: hüsn
+  REPLACE  ...net cevap verdi akıl
+      metin  : iyiyi
+      duyulan: iyi
+  INSERT   ...güçlü sesi veren isim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sesi veren isim ölen
+      metin  : ebü l
+      duyulan: ebul
+  REPLACE  ...eş ari okuluna göer
+      metin  : hüsün
+      duyulan: hüsn
+  REPLACE  ...iradecilik deniyor ve ockham
+      metin  : eş ari yi
+      duyulan: eşareyi
+  REPLACE  ...açan isim semerkant yakınlarındaki
+      metin  : matürid de
+      duyulan: maatüritte
+  REPLACE  ...ölen ebu mansur el
+      metin  : matüridi dir maveraünnehir de
+      duyulan: maatürididir maveraün nehirde
+  REPLACE  ...olduğu yeri işaret etti
+      metin  : matüridi ye
+      duyulan: maatüridiye
+  REPLACE  ...öyle buraya kadar mutezile
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...i yiliği ne kurar
+      metin  : matüridi nin
+      duyulan: maatüridinin
+  INSERT   ...değil korkudur dostoyevski nin
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dolaşıma girer kalıbı keskinleştiren
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kalıbı keskinleştiren verdiği ünlü
+      metin  : varoluşçuluk
+      duyulan: varoluşculuk
+  REPLACE  ...verdiği ünlü varoluşçuluk konferansında
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...varoluşçuluk konferansında sartr oldu
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...metinlerinden sayılır grotius kitabında
+      metin  : çağı
+      duyulan: çağ
+  REPLACE  ...olması da eşyanın tabiatındandı
+      metin  : öte
+      duyulan: öthwete
+  REPLACE  ...adalet kavramı üzerine yazdığı
+      metin  : metinde laybnits
+      duyulan: metin de leibniz
+  REPLACE  ...olmak zorundadır i ki
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...yankısı var yüzyılın sonunda
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...i slam düşüncesinde hem
+      metin  : hıristiyan
+      duyulan: hristiyan
+  REPLACE  ...ifadesiyze o zaman emir
+      metin  : dışarıdan
+      duyulan: dışardan
+  DELETE   ...ikincisinde sınıfta kalabilir düşünün
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yönetmelikte yasaklanmamışsa serbesttir demek
+      metin  : euthyphron un
+      duyulan: yutifronun
+  REPLACE  ...mühendisleri karşısında yıl önceki
+      metin  : euthyphron dan
+      duyulan: yutifrondan
+  REPLACE  ...insanın arkasından konuşmamayı seçebilirsiniz
+      metin  : hüsün
+      duyulan: hüsn
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: felsefe-2026-09-25.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-25.mp3
+
+beklenen 1591 kelime | duyulan 1610 kelime | eşleşme %96.7
+sayı ifadesi: metinde 285, duyulanda 188  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ngilteer nin orta kesimindeki
+      metin  : derby
+      duyulan: derbi
+  REPLACE  ...adı bile olmayan erkek
+      metin  : fötr
+      duyulan: pötrür
+  REPLACE  ...yola çıkmak dava riski
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...tam bu dönemde doğdu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gibi aktarıldı yıllar sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çıkmadan önce başlamıştı üretim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...programcılar paul douglas gavin
+      metin  : rummery
+      duyulan: romery
+  REPLACE  ...tasarımı ve mekan kurgusunda
+      metin  : neal
+      duyulan: neil
+  REPLACE  ...heather gibson bütçe bugünün
+      metin  : ölçeğiyle
+      duyulan: ölçeyiyle
+  REPLACE  ...bile zor rakamdı yaklaşık
+      metin  : sterlin
+      duyulan: sterling
+  INSERT   ...mezar yağmacısı adıyla ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve bilgisayar sürümleri geldi
+      metin  : derby
+      duyulan: derbi
+  INSERT   ...ünlü gibi yönetiliyordu haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...izin verilen ilk kapak
+      metin  : konuğuydu
+      duyulan: konuydu
+  DELETE   ...çekimi yapıyordu aynı yıl
+      metin  : uiki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kemikten temsilciler de görevlendirdi
+      metin  : rhona
+      duyulan: de rona
+  INSERT   ...dolaştırıldı i kinci oyun
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...geldi ve ilkini de
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...oyun dizisi değil marka
+      metin  : portföyüydü
+      duyulan: portföyüdü
+  REPLACE  ...çizen kişinin masasında alınmıyordu
+      metin  : gard ın
+      duyulan: garden
+  REPLACE  ...rahatsızlığı burada başladı kendi
+      metin  : anlatımıyla
+      duyulan: anlatımı ile
+  REPLACE  ...daha büyük bütçeleer uzanır
+      metin  : gard ın
+      duyulan: garden
+  REPLACE  ...edildi ilk oyunun nintendo
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...tutan formülün korunması gerekiyordu
+      metin  : gard
+      duyulan: de guard
+  INSERT   ...büyüme dönemi oldu seri
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...fatura takvimdi yeni oyun
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...oyun çıktı i kincisi
+      metin  : (yok)
+      duyulan: de de da de
+  REPLACE  ...ile yıl arasında geliştiriliyor
+      metin  : derby deki
+      duyulan: derbideki
+  REPLACE  ...ekipte tükenmenin ötesinde şey
+      metin  : oluştu
+      duyulan: oldu
+  INSERT   ...oyun tarihine geçen sonucu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...verilmiyordu bu dramatik tasarım
+      metin  : tercihi
+      duyulan: oyuncuyu
+  REPLACE  ...edilen kahramanın anısına toplanan
+      metin  : dostunun
+      duyulan: lara croft unun doto nun
+  INSERT   ...için bambaşka oyun hazırladı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yayıncı kararını verdi seri
+      metin  : derby den
+      duyulan: derbiden
+  INSERT   ...oyunlar üretti ve mart
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...süren geliştirme sürecine saplandı
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...satıyordu diğer tarafta çizen
+      metin  : kişinin
+      duyulan: başının
+  INSERT   ...danışman olarak katıldı ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve çıkan legend yani
+      metin  : efsane ile
+      duyulan: efsaneyle
+  INSERT   ...yeniden anlatma şansı buldu
+      metin  : (yok)
+      duyulan: ki de
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: oyun-2026-09-25.duyulan.txt

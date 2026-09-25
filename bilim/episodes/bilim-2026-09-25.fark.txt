@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-25.mp3
+
+beklenen 1709 kelime | duyulan 1725 kelime | eşleşme %96.3
+sayı ifadesi: metinde 193, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...size karşı mı çeviriyor
+      metin  : laypzig
+      duyulan: te leipzig
+  REPLACE  ...çeviriyor laypzig de patolog
+      metin  : mikroskobunun
+      duyulan: mikroskopunun
+  REPLACE  ...gereken şey görüyordu georg
+      metin  : şmorl eklampsi
+      duyulan: schmol eklamsi
+  REPLACE  ...kaybetmiş kadının otopsisini yapmıştı
+      metin  : eklampsi
+      duyulan: eklamsi
+  REPLACE  ...çoğu zaman öldüren tabloydu
+      metin  : şmorl
+      duyulan: schmol
+  REPLACE  ...şmorl akciğerleer baktığında vakanın
+      metin  : dördünde
+      duyulan: ünde
+  REPLACE  ...hücreler ama şeye benziyorlardı
+      metin  : plasentaya
+      duyulan: placentaya
+  REPLACE  ...değil karnındaki bebeğin dokusuna
+      metin  : şmorl
+      duyulan: schmol
+  REPLACE  ...mekanizması olarak okudu göer
+      metin  : plasentadan
+      duyulan: placentadan
+  REPLACE  ...akciğerde tıkanma yaratıyor ve
+      metin  : eklampsiyi
+      duyulan: eklamsi yi
+  REPLACE  ...değildi hücrelerin oraya gerçekten
+      metin  : plasentadan
+      duyulan: placentadan
+  INSERT   ...yaklaşık yıl havada kaldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gebe kadınların kanından aldıkları
+      metin  : akyuvarlara
+      duyulan: aküovarlara
+  REPLACE  ...bittikten göbek bağı kesildikten
+      metin  : plasenta
+      duyulan: placenta
+  INSERT   ...hücreleer ne oluyordu cevap
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tufts üniversitesi nde çalışan
+      metin  : diyana biyanki
+      duyulan: diana bianchi
+  REPLACE  ...bu yöntem hücreleri yüzeylerindeki
+      metin  : molekülleer
+      duyulan: molekulleer
+  DELETE   ...sı rastgele hücrelerde değil
+      metin  : cdotuz
+      duyulan: (YOK — atlanmış)
+  DELETE   ...işareti taşıyan hücrelerde çıkıyordu
+      metin  : cdotuz
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...parçalarından oluşmuş yaratığın adıdır
+      metin  : biyolojide
+      duyulan: biolojide
+  REPLACE  ...işaret eder buradaki yabancı
+      metin  : pay
+      duyulan: pie
+  REPLACE  ...ve az sayıda hücrenin
+      metin  : biyolojide
+      duyulan: biolojide
+  REPLACE  ...olabilirler peki nereye yerleşiyorlar
+      metin  : önce
+      duyulan: i lklence
+  REPLACE  ...ve temasın olduğu her
+      metin  : yerde hücer kopar
+      duyulan: yeri
+  REPLACE  ...değil hücredir kalıcılığı mümkün
+      metin  : kılan da
+      duyulan: değil hücredir kalıcılığı mümkün kılanda
+  REPLACE  ...ve orada uzun ömürlü
+      metin  : rezerv
+      duyulan: rezer
+  INSERT   ...meme dokusu kemik iliği
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...beyin dokusunu inceledi ve
+      metin  : yedisinde
+      duyulan: sinde
+  INSERT   ...ve yedisinde yani yaklaşık
+      metin  : (yok)
+      duyulan: ünde
+  REPLACE  ...işlevi kazanmış olduğu bildirildi
+      metin  : tiroitte
+      duyulan: tiroide
+  REPLACE  ...ama bu sapma yaratır
+      metin  : y
+      duyulan: ya
+  REPLACE  ...hücresi ya da kan
+      metin  : nakli de
+      duyulan: naklede
+  INSERT   ...yorumun ilk güçlü delili
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dergisi lancet te sistemik
+      metin  : skleroz
+      duyulan: sıkleroz
+  REPLACE  ...miktarda bulunduğunu bildirdi sistemik
+      metin  : skleroz
+      duyulan: sıkleroz
+  REPLACE  ...saldırdığı tabloya yani graft
+      metin  : versus
+      duyulan: vs
+  REPLACE  ...benzer bulgular bağışıklık kaynaklı
+      metin  : tiroit
+      duyulan: tiroid
+  REPLACE  ...ters yönde de tip
+      metin  : diyabetli
+      duyulan: diabetli
+  REPLACE  ...de tip diyabetli kişilerin
+      metin  : pankreasında
+      duyulan: pankreyasında
+  INSERT   ...delili hayvan deneyinden geldi
+      metin  : (yok)
+      duyulan: tiki de
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: bilim-2026-09-25.duyulan.txt

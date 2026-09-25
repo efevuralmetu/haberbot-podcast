@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-25.mp3
+
+beklenen 1595 kelime | duyulan 1577 kelime | eşleşme %92.1
+sayı ifadesi: metinde 251, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...vardı salim han ve
+      metin  : cavid
+      duyulan: cavit
+  REPLACE  ...çevirdi sonra aynı satır
+      metin  : zancir in
+      duyulan: zancırın
+  INSERT   ...p sippi ile oğlu
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...oğlu yaşlarının başındaki yönetmen
+      metin  : rameş
+      duyulan: rames
+  DELETE   ...sahneler için izin almanın
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...müdürüne dönüştü takur baldev
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...doğdu salim han ve
+      metin  : cavid
+      duyulan: cavit
+  REPLACE  ...kendi haydut geleneği ve
+      metin  : sercio
+      duyulan: sergio
+  REPLACE  ...çıkan şey taklit olmadı
+      metin  : melez tür
+      duyulan: melestür
+  REPLACE  ...melez tür oldu sonradan
+      metin  : kurry
+      duyulan: kuri
+  REPLACE  ...ilk düşünülen oyuncu danny
+      metin  : denzongpa ydı
+      duyulan: denzonk paydı
+  REPLACE  ...reddetti rol sıradaki isme
+      metin  : amcad
+      duyulan: amcat
+  REPLACE  ...amcad han a geçti
+      metin  : amcad
+      duyulan: amcat
+  REPLACE  ...filmde rada yı oynayan
+      metin  : caya
+      duyulan: jaya
+  DELETE   ...babasıydı gabbar sing karakterinin
+      metin  : izi de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...izi de gerçeğe çıkıyordu
+      metin  : ellilerde gvalyor
+      duyulan: lerde gwalior
+  REPLACE  ...ve kulağını kestiği anlatılan
+      metin  : gabbar sing guccar
+      duyulan: gabbarsing gucar
+  REPLACE  ...sing guccar adlı eşkıya
+      metin  : sanciv
+      duyulan: sancif
+  REPLACE  ...kötülüğü eriteceğini düşündüler böylece
+      metin  : sanciv
+      duyulan: sancif
+  REPLACE  ...kesilmiş takur u oynadı
+      metin  : darmendra
+      duyulan: dharmendra
+  REPLACE  ...olmak istiyordu viru rolünün
+      metin  : hema malini ile eşleşeceğini
+      duyulan: hem amaliniyle değişeceğini
+  REPLACE  ...eşleşeceğini duyunca fikrini değiştirdi
+      metin  : amitab baçan
+      duyulan: amitabh bachchan
+  REPLACE  ...büyük yıldız değildi ve
+      metin  : cay rolü
+      duyulan: cahirolu
+  REPLACE  ...etti senaristlerin desteği ve
+      metin  : darmendra
+      duyulan: dharmendra
+  REPLACE  ...uğramadığı manzaraydı karnataka da
+      metin  : bangalor
+      duyulan: bangaloer
+  REPLACE  ...ramanagara nın devasa granit
+      metin  : kayalıkları
+      duyulan: kayalık
+  REPLACE  ...su deposu yollar ekip
+      metin  : bangalor
+      duyulan: bangaloer
+  INSERT   ...havada çekildi çekimler ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tek nedeni lojistik değildi
+      metin  : rameş sippi
+      duyulan: rames sipbi
+  REPLACE  ...tekrar tekrar çekme ısrarıydı
+      metin  : cay ile
+      duyulan: cahile
+  DELETE   ...üstünde şarkısı söylediği dakikalık
+      metin  : bölüm
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...haftadan fazla çekildi arada
+      metin  : caya
+      duyulan: jaya
+  INSERT   ...milimeter üzerinden yapıldı görüntü
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...çerçeveye taşındı ve kanallı
+      metin  : ses döşendi
+      duyulan: altyazı verendi
+  REPLACE  ...döşendi faturası ağırdı bütçe
+      metin  : kror
+      duyulan: kron
+  INSERT   ...olağanüstü geçmeyeceğini hesaplamamıştı haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...a hindistan ın bağımsızlık
+      metin  : gününe
+      duyulan: üzerine
+  DELETE   ...bu çivili ayaklarla yeer
+      metin  : serer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ayağından tamamlanır sansür kurulu
+      metin  : gerekçeyle
+      duyulan: gerekçe ile
+  REPLACE  ...çivileri yerleştirdiği ayrıntılı hazırlık
+      metin  : planları
+      duyulan: kararı
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: film-2026-09-25.duyulan.txt

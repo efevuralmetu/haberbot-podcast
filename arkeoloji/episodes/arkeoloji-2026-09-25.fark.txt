@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-25.mp3
+
+beklenen 2131 kelime | duyulan 2141 kelime | eşleşme %92.7
+sayı ifadesi: metinde 337, duyulanda 231  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : salisbury ovası nda
+      duyulan: salisbürü ovasında
+  DELETE   ...ezilmiş yatan kumtaşı var
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yıldır da diğerleri gibi
+      metin  : galler den
+      duyulan: galerden
+  REPLACE  ...tanelerinin yaşı okunup adres
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...okunup adres kilometer kuzeye
+      metin  : kayana kadar
+      duyulan: kayanaktadır
+  REPLACE  ...o yolu nasıl yürüdü
+      metin  : salisbury ovası nda
+      duyulan: salisbürü ovasında
+  REPLACE  ...ufukta otların üstünde birdenbier
+      metin  : siluet
+      duyulan: silüet
+  REPLACE  ...belirir uzaktan bakıldığında çökmüş
+      metin  : çitin
+      duyulan: çetin
+  REPLACE  ...taşlar yan yana durur
+      metin  : halkayı
+      duyulan: sarkayı
+  REPLACE  ...oluşmuş son derece sert
+      metin  : silisli
+      duyulan: silistli
+  INSERT   ...yerden ofis duvarından geldi
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...boyunca kimsenin gündemine girmedi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...örnek vardı david nash
+      metin  : in
+      duyulan: ın
+  INSERT   ...in yürüttüğü kimyasal karşılaştırma
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaklaşık tanesi vardı bugün
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...aslında karışımdır benekli dolerit
+      metin  : riyolit
+      duyulan: riolit
+  REPLACE  ...yaklaşık ton yeşilimsi gri
+      metin  : mika
+      duyulan: mica
+  REPLACE  ...incelediğinde ortadaki bu yatık
+      metin  : bloğun
+      duyulan: blokun
+  INSERT   ...batısındaki tepe sırasında verildi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...halkasını kuran taşlar anıtın
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...gelmişti thomas ın iddiası
+      metin  : megalitin
+      duyulan: megalith in
+  REPLACE  ...ın iddiası megalitin memleketini
+      metin  : gözle
+      duyulan: gözde
+  REPLACE  ...pearson ın yönettiği ekip
+      metin  : onların
+      duyulan: ların
+  REPLACE  ...ayrı çıkıntıyı kazdı karn
+      metin  : goydog
+      duyulan: goidok
+  REPLACE  ...kaynağı çıktı kilometer ötedeki
+      metin  : kraig ros ı velin
+      duyulan: kraik roswel in
+  REPLACE  ...ros ı velin ize
+      metin  : riyolitlerden
+      duyulan: riolitlerden
+  REPLACE  ...ortaya çıkardı ocaklardaki faaliyet
+      metin  : mö
+      duyulan: milatödoyucu
+  REPLACE  ...taşların stonehenge de dikilmesi
+      metin  : mö
+      duyulan: melatvöy e
+  INSERT   ...de dikilmesi mö hatta
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...oldu taşlar belki önce
+      metin  : galler
+      duyulan: guller
+  REPLACE  ...belki önce galler de
+      metin  : waun mawn
+      duyulan: vaughn moun
+  REPLACE  ...alıp yüzlerce kilometer ötedeki
+      metin  : çıkıntıyla
+      duyulan: çıkıntı ile
+  REPLACE  ...x ışını cihazları elektron
+      metin  : mikroskobu
+      duyulan: mikroskopu
+  REPLACE  ...in yerli olmayan taşları
+      metin  : galler
+      duyulan: guller
+  INSERT   ...i şte o alışkanlık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yetinmedi ortadaki büyük kumtaşı
+      metin  : bloğu
+      duyulan: blow
+  REPLACE  ...göer bu kumtaşı yine
+      metin  : galler
+      duyulan: guller
+  INSERT   ...boyunca kimse zarfı açmadı
+      metin  : (yok)
+      duyulan: nits
+  REPLACE  ...en üst düzeyde korunuyor
+      metin  : bloğun
+      duyulan: blow un
+  INSERT   ...üstelik en yakın temas
+      metin  : (yok)
+      duyulan: de
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: arkeoloji-2026-09-25.duyulan.txt

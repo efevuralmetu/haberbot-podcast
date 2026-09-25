@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-25.mp3
+
+beklenen 2422 kelime | duyulan 2461 kelime | eşleşme %94.2
+sayı ifadesi: metinde 346, duyulanda 218  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...de sayılı hale gelecekti
+      metin  : tyne
+      duyulan: tayne
+  INSERT   ...yukarısındaki tersane havuzunda temmuz
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...kazanları paslanmış ahşapları çürümüştü
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...de modern zırhlı kruvazör
+      metin  : edinmesi
+      duyulan: edilmesi
+  INSERT   ...olarak görülmesine yol açtı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...gidecekti i lki haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...reşad ın adına atfen
+      metin  : reşadiye
+      duyulan: reşadiyye
+  INSERT   ...güçlü zırhlılarından ve ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çıkardı osmanlı hükümeti aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aldı ve adını sultan
+      metin  : osmanı
+      duyulan: osman a
+  INSERT   ...mürettebat yerindeydi ve temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu gemi teslim edilmeyecek
+      metin  : alıkonacaktı
+      duyulan: nalı konacaktı
+  REPLACE  ...bu olay i tilaf
+      metin  : devletleriyle
+      duyulan: devletleri ile
+  INSERT   ...koymanın ertesi günü ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aralanmıştı tam o saatlerde
+      metin  : adriyatiğin
+      duyulan: adriati nin
+  REPLACE  ...düşman olacaktı amiralin adı
+      metin  : vilhelm suşon
+      duyulan: wilhelm suchon
+  REPLACE  ...di türkçede söylenegeldiği biçimiyle
+      metin  : göben
+      duyulan: göbendi
+  REPLACE  ...için değerliydi ağustos ta
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...yakın kömür aktarıldı bu
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...taşınan yüktür ağustos akşamı
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...kıyısındaki liman göründü kuzeydeki
+      metin  : filipvil
+      duyulan: philippeville
+  REPLACE  ...kuzeydeki filipvil bugünkü adıyla
+      metin  : skikda
+      duyulan: schiecter
+  REPLACE  ...adıyla skikda ve doğudaki
+      metin  : bon
+      duyulan: bonn
+  REPLACE  ...doğudaki bon bugünkü annaba
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...kendi bayrağını çekmesi şartıyla
+      metin  : skikda nın
+      duyulan: schiecter ın
+  REPLACE  ...zaten limanda değildi çünkü
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...ettiği gerekçesiyle gevşetildi hatta
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...gevşetildi hatta suşon a
+      metin  : adriyatiğe
+      duyulan: adriati ye
+  REPLACE  ...a adriyatiğe çekilmesi önerildi
+      metin  : suşon
+      duyulan: suchon
+  REPLACE  ...ateşçiler dereceyi aşan sıcakta
+      metin  : vardiya
+      duyulan: vardıya
+  REPLACE  ...birbirlerini ayılttıktan sonra tekrar
+      metin  : küreğe
+      duyulan: küreye
+  REPLACE  ...öğleden önce ufukta duman
+      metin  : sütunu
+      duyulan: sütünü
+  REPLACE  ...tarafın köprüüstünü buldu her
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...tarihin en gergin selamlaşmalarından
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...koptu o gece saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gecikmiş izin belgesi gibiydi
+      metin  : bundan
+      duyulan: i talyan
+  REPLACE  ...aldığı talimatlar birbirini kesiyordu
+      metin  : adriyatik teki
+      duyulan: adriatikteki
+  REPLACE  ...oldu suşon ağustos ta
+      metin  : messina
+      duyulan: mesina
+  INSERT   ...çuvallarla elden ele taşındı
+      metin  : (yok)
+      duyulan: e
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 109
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: tarih-2026-09-25.duyulan.txt

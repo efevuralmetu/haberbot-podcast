@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-25.mp3
+
+beklenen 2710 kelime | duyulan 2710 kelime | eşleşme %93.6
+sayı ifadesi: metinde 442, duyulanda 282  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dünyada mümkündür verilen ilk
+      metin  : ad
+      duyulan: at
+  REPLACE  ...verilen ilk ad namgyal
+      metin  : vangdi ydi
+      duyulan: wangdi idi
+  REPLACE  ...baş lamasının sözüyle oldu
+      metin  : ngavang
+      duyulan: navang
+  REPLACE  ...sözüyle oldu ngavang tenzin
+      metin  : norbu
+      duyulan: norbo
+  REPLACE  ...da göer olmalıydı böylece
+      metin  : tenzing
+      duyulan: tenzin
+  REPLACE  ...açık zengin anlamına gelen
+      metin  : addı
+      duyulan: attı
+  REPLACE  ...çobanının çocuğundan için bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...karta vadisinde dünyaya geldi
+      metin  : (yok)
+      duyulan: dağ
+  REPLACE  ...adı orada everest değildi
+      metin  : çomolungma ydı
+      duyulan: chomolungmaydı
+  REPLACE  ...yaklaşık yaşında evden kaçtı
+      metin  : katmandu
+      duyulan: kathmandu
+  INSERT   ...kinci kaçış kalıcı oldu
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...dağları aşıp hindistan a
+      metin  : darciling
+      duyulan: darsiling
+  REPLACE  ...a darciling e geldi
+      metin  : darciling
+      duyulan: darsiling
+  DELETE   ...kaçıp buraya çıkıyor himalaya
+      metin  : ya
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...topluyordu şehrin köşesinde tung
+      metin  : sung
+      duyulan: tung
+  REPLACE  ...tung sung busti denilen
+      metin  : şerpa
+      duyulan: sherpa
+  REPLACE  ...buna karşılık kulağı olağanüstüydü
+      metin  : şerpa
+      duyulan: sherpa
+  REPLACE  ...tek şeydeydi her ilkbahar
+      metin  : şerpa mahallesine
+      duyulan: sherpa mahallesi ne
+  INSERT   ...i ngiliz heyetlerinden girmek
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...adamın çıkacağını tahmin etmedi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...etmedi eric shipton everest
+      metin  : e
+      duyulan: te
+  REPLACE  ...keşif heyeti çıkarmak üzeer
+      metin  : darciling
+      duyulan: darcyling
+  REPLACE  ...sonra el kaldırılır shipton
+      metin  : ın
+      duyulan: un
+  DELETE   ...irtifa taşıyıcısının işi şudur
+      metin  : sırtına
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olanın nefesini o taşır
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...ve iyi olduğu anlaşıldı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...için dağa tutunamadı bile
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...baktı ev işine koştu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...işine koştu ilk eşi
+      metin  : dava puti
+      duyulan: dawaputi
+  REPLACE  ...da somut olanı kadar
+      metin  : ağırdı
+      duyulan: ağardı
+  INSERT   ...başka mesleği olmayan adam
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...earl denman adında adam
+      metin  : darciling
+      duyulan: darcyling
+  REPLACE  ...deneyimi de tartışmalıydı planı
+      metin  : tibede
+      duyulan: tibet e
+  REPLACE  ...birlikte sınırı gizlice geçtiler
+      metin  : rongbuğa
+      duyulan: ronghua a
+  INSERT   ...tırmanan olmuştu gerçek sınav
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...işe girişti heyetin başındaki
+      metin  : roje düpla
+      duyulan: roger dupla
+  REPLACE  ...başındaki roje düpla ve
+      metin  : jilber vinya
+      duyulan: gilbert vigna
+  REPLACE  ...üstünde yerde kayboldu tenzing
+      metin  : lui dübo
+      duyulan: louis dubois
+  INSERT   ...everest bile zor böylece
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...bile zor böylece gelindiğinde
+      metin  : darciling
+      duyulan: darteling
+  ... ve 68 fark daha
+
+metinde olup DUYULMAYAN: 115 kelime | duyulup metinde OLMAYAN: 132
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: biyografi-2026-09-25.duyulan.txt

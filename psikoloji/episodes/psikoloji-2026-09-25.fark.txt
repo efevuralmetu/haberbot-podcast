@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-25.mp3
+
+beklenen 1073 kelime | duyulan 1090 kelime | eşleşme %97.6
+sayı ifadesi: metinde 181, duyulanda 158  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...var kartta sayı yazıyor
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...şey oluyor neredeyze otomatik
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...sayılar artıyor güzel sınayalım
+      metin  : (yok)
+      duyulan: neck
+  INSERT   ...diyorsunuz uyuyor tamam buldum
+      metin  : (yok)
+      duyulan: i kişer
+  REPLACE  ...kandırmadınız dikkatsiz davranmadınız sınamalarınız
+      metin  : dürüsttü
+      duyulan: dürüstü
+  INSERT   ...beklediğiniz şey söylemek demek
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...bunu yapmıyor bu deney
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da çalışan psikolog peter
+      metin  : wason
+      duyulan: wasson
+  INSERT   ...psikoloji öğrencisini karşısına oturttu
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...öğrencisini karşısına oturttu erkek
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...kural açıkladı bazıları fazla
+      metin  : kez
+      duyulan: kes
+  REPLACE  ...yeni kıyafetle geri geliyordu
+      metin  : wason
+      duyulan: wasson
+  INSERT   ...buradaki hata aptallık değil
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hata aptallık değil joshua
+      metin  : klayman
+      duyulan: clayman
+  REPLACE  ...joshua klayman ve young
+      metin  : won ha nın
+      duyulan: wan han ın
+  REPLACE  ...ve siz emin olmanın
+      metin  : hazzını
+      duyulan: hazrını
+  INSERT   ...sandığınız kadar haklı değilsinizdir
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...getirir hepsi gerçekten oldu
+      metin  : hiçbiri
+      duyulan: hiç
+  INSERT   ...çıkan çok pratik hile
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çok pratik hile ryan
+      metin  : tweney
+      duyulan: twainy
+  REPLACE  ...söylediler kurala uyan üçlüleer
+      metin  : dax
+      duyulan: ducks
+  REPLACE  ...uyan üçlüleer dax uymayanlara
+      metin  : med
+      duyulan: mad
+  INSERT   ...ama başarı oranı civarından
+      metin  : (yok)
+      duyulan: lara
+  REPLACE  ...şey bulması bekleniyor peşinen
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...tek başına kalmaması gerekir
+      metin  : wason ın
+      duyulan: wasson un
+  REPLACE  ...ve ne olduğuna bakın
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: psikoloji-2026-09-25.duyulan.txt

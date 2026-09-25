@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-24.mp3
+
+beklenen 1487 kelime | duyulan 1495 kelime | eşleşme %93.0
+sayı ifadesi: metinde 312, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ran ın nükleer silah
+      metin  : edinmesine
+      duyulan: edilmesine
+  REPLACE  ...silah edinmesine izin verilmeyeceğini
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...belirtti i ran cumhurbaşkanı
+      metin  : mesud pezeşkiyan
+      duyulan: mesut pezeşkıyan
+  INSERT   ...ayındaki ateşkesin ardından haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...amerikan hazine bakanı scott
+      metin  : bessent
+      duyulan: besant
+  REPLACE  ...ve öneri ülkenin ortak
+      metin  : bildirisiyle
+      duyulan: bildirisi ile
+  REPLACE  ...ancak rusya dışişleri bakanı
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...sürecinde ateşkes fikrini reddetti
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...kuzey atlantik i ttifakı
+      metin  : ülkeleriyle
+      duyulan: ülkeleri ile
+  REPLACE  ...koyamadığına işaret etti cnn
+      metin  : msnow
+      duyulan: mississippi now
+  REPLACE  ...güçlü sistemlerinden haline geldi
+      metin  : amerikan
+      duyulan: omrican
+  REPLACE  ...göer saatteki rüzgar hızının
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...ulaştığını sistemin meksika nın
+      metin  : siuataneho
+      duyulan: sivatanejo
+  REPLACE  ...meksika nın siuataneho kentinin
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kentinin kilometer güneyinde neredeyze
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...kasırgası meksika devlet başkanı
+      metin  : klaudiya şeynbaum
+      duyulan: claudia shane baum
+  DELETE   ...karaya çıkma olasılığını zayıf
+      metin  : gördüğünü açıkladı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gördüğünü açıkladı gerrero ve
+      metin  : miçoakan
+      duyulan: michoacan
+  REPLACE  ...ve miçoakan eyaletlerinde ila
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...bekleniyor nepal de ize
+      metin  : rasuwa
+      duyulan: rasuva
+  DELETE   ...inşaatlarının etkisi yeniden tartışılıyor
+      metin  : avrupa da gündem enerji faturası
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tutacağını söyledi fransa cumhurbaşkanı
+      metin  : emanuel makron
+      duyulan: emmanuel macron
+  REPLACE  ...anthropic ize aynı gün
+      metin  : claude
+      duyulan: clot
+  DELETE   ...aynı gün claude opus
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...maliyetini yaklaşık azaltmayı hedeflediğini
+      metin  : açıkladı
+      duyulan: açıkladığı
+  REPLACE  ...fiyat olduğu değerlendirmelerini güçlendirdi
+      metin  : çip
+      duyulan: chip
+  REPLACE  ...platformun açık yapısını koruyacağını
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...ayrı cihaz olan muse
+      metin  : charm ı
+      duyulan: çarmı
+  REPLACE  ...tarafından duyuruldu ve şirketin
+      metin  : alan dye
+      duyulan: alanda
+  REPLACE  ...ortak işi olarak sunuldu
+      metin  : alphabet in
+      duyulan: alfabetin
+  REPLACE  ...bağımsız gerçek zamanlı kontrol
+      metin  : poz
+      duyulan: post
+  REPLACE  ...müdürü sam altman ile
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...sanders ile temsilci greg
+      metin  : casar
+      duyulan: kassar
+  INSERT   ...geliştirilmesini kalıcı olarak yasaklayan
+      metin  : (yok)
+      duyulan: en
+  REPLACE  ...iphone serisini nanometer üretim
+      metin  : teknolojisiyle
+      duyulan: teknolojisi ile
+  REPLACE  ...nanometer üretim teknolojisiyle yapılan
+      metin  : ayirmi çipiyle
+      duyulan: ayırma çipi ile
+  REPLACE  ...deki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...aralığına çıkardı karar oy
+      metin  : birliğiyle
+      duyulan: ile
+  REPLACE  ...tırmandıktan sonra diplomatik çözüm
+      metin  : sinyalleriyle
+      duyulan: sinyalleri ile nin
+  REPLACE  ...seviyesine indi petrolün doları
+      metin  : aştığı seansta
+      duyulan: açtığı seansda
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: gundem-2026-09-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-25.mp3
+
+beklenen 1589 kelime | duyulan 1605 kelime | eşleşme %93.1
+sayı ifadesi: metinde 239, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geldiğini bugün kimse açıklayamıyor
+      metin  : mö
+      duyulan: meloto
+  REPLACE  ...sapfo kendi lehçesinde adanın
+      metin  : aiol
+      duyulan: ayol
+  REPLACE  ...aiol ağzında kendi adını
+      metin  : psapfo
+      duyulan: pisapfo
+  DELETE   ...bugün hala adıyla anılıyor
+      metin  : sapfik kıta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...deki büyük kütüphanenin bilginleri
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  INSERT   ...elimizde yaklaşık dize var
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...bilinen tek şiiri var
+      metin  : afrodite
+      duyulan: aphrodite
+  REPLACE  ...ünlü parça sevdiği kişiyi
+      metin  : başkasıyla
+      duyulan: başkası ile
+  REPLACE  ...şiirinin damarlarından dönüştü yani
+      metin  : sapfo
+      duyulan: sappho
+  REPLACE  ...kilize ahlaksız bulduğu için
+      metin  : sapfo
+      duyulan: sappho
+  REPLACE  ...ve daha acı verici
+      metin  : sapfo
+      duyulan: sappho
+  REPLACE  ...kopyalanmadı sorun dildi yazdığı
+      metin  : aiol
+      duyulan: ayol
+  REPLACE  ...arada kitap teknolojisi değişti
+      metin  : papirüs
+      duyulan: papyrus
+  REPLACE  ...kopyalanmayan her metin öldü
+      metin  : sapfo
+      duyulan: sappho
+  REPLACE  ...ortalarına gelindiğinde ortada okunacak
+      metin  : sapfo nüshası
+      duyulan: sappho nüşası
+  REPLACE  ...şey edebiyat sevgisi değil
+      metin  : mısır
+      duyulan: nısır
+  INSERT   ...ın kuru kumu oldu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...ayında genç i ngiliz
+      metin  : papirolog
+      duyulan: papirolok
+  REPLACE  ...i ngiliz papirolog bernard
+      metin  : grenfel
+      duyulan: grantful
+  REPLACE  ...çöp tepeleri çürümemiş kurumuştu
+      metin  : grenfel
+      duyulan: grantful
+  REPLACE  ...tan çıkan parçalar arasında
+      metin  : hektor
+      duyulan: hector
+  REPLACE  ...parçalar arasında hektor ile
+      metin  : andromakhe
+      duyulan: andromache
+  INSERT   ...tarçın kokuları lir sesi
+      metin  : (yok)
+      duyulan: doğum yıl
+  REPLACE  ...kimsenin okumadığı sahne çöp
+      metin  : yığınının
+      duyulan: yağının
+  REPLACE  ...için başka katmanı öldürüyorsunuz
+      metin  : köln
+      duyulan: ki de köyl
+  INSERT   ...parçaların kartonajdan geldiği düşünülüyordu
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...kartonajdan geldiği düşünülüyordu michael
+      metin  : gronewald
+      duyulan: grunwald
+  REPLACE  ...yayımladığında ortaya neredeyze tam
+      metin  : sapfo
+      duyulan: sapva
+  REPLACE  ...taşımadığını saçlarının karardığı yerden
+      metin  : ağardığını
+      duyulan: ağırdığını
+  REPLACE  ...şafak tanrıçasının ölümlü sevgilisi
+      metin  : tithonos
+      duyulan: titonos
+  REPLACE  ...gençlik almayı unutmuştu o
+      metin  : tithonos
+      duyulan: titonos
+  INSERT   ...şiirin başka parçası zaten
+      metin  : (yok)
+      duyulan: den
+  DELETE   ...ne olduğunu tam çıkaramamıştı
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...haline geldi i kincisi
+      metin  : köln deki nüsha mö
+      duyulan: köyündeki nüşa
+  INSERT   ...tarihini değiştirecek şey durabilir
+      metin  : (yok)
+      duyulan: kiki ün
+  REPLACE  ...duyuruyu yapan kişi oxford
+      metin  : da
+      duyulan: ta
+  REPLACE  ...isimlerinden olan papirolog dirk
+      metin  : obbink
+      duyulan: obink
+  REPLACE  ...obbink ti elindeki papirüs
+      metin  : sapfo
+      duyulan: sapfon
+  REPLACE  ...yarattı şiirde şaier kardeşi
+      metin  : kharaksos
+      duyulan: karaxos
+  REPLACE  ...dolu dönecek diye tekrarlayıp
+      metin  : durmasını
+      duyulan: durmasına
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: edebiyat-2026-09-25.duyulan.txt
