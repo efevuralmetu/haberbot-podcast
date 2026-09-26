@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-26.mp3
+
+beklenen 1303 kelime | duyulan 1314 kelime | eşleşme %96.5
+sayı ifadesi: metinde 170, duyulanda 127  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çekecek ama bu kez
+      metin  : kamerayla
+      duyulan: kamera ile
+  REPLACE  ...ilçesine bağlı tepecik köyüne
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...çocuk vardır ahmet uluçay
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...vardır ahmet uluçay aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıl süren mühendislik inadıdır
+      metin  : mercek
+      duyulan: merçek
+  INSERT   ...yerel gazeteleer yazı yazar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...edindiği eski video kamerayla
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...değneklerinden kanat yapmak gelir
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...minyatür kosmos da rüya
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yapmak a hem optik
+      metin  : düşler e
+      duyulan: düşleer
+  REPLACE  ...en ciddi film festivalinin
+      metin  : jürisini
+      duyulan: cürisini
+  INSERT   ...kendisi de görünür hikaye
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...zaman da alay eder
+      metin  : recebin
+      duyulan: recep in
+  INSERT   ...içinde çoktan çalışıyordur film
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gemiler yapmak ancak kasım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yerde aynı etkiyi yaptı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...dışında topladığı ödül sayısının
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...ödüller geldikten sonra da
+      metin  : tepecik
+      duyulan: tepecikten
+  INSERT   ...i kinci film için
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...zatürreye yakalandı ve kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yaş gününe gün kalmıştı
+      metin  : tepeciğe
+      duyulan: tepeciye
+  INSERT   ...senaryosu yeniden ele alındı
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...ın yıl uğraşıp kurduğu
+      metin  : düzeneğin
+      duyulan: düzeneyin
+  REPLACE  ...film parçalarına eğilip bakan
+      metin  : gözdü
+      duyulan: gözlü
+  REPLACE  ...değneği vardı kanat yaptı
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 14 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: film-2026-09-26.duyulan.txt

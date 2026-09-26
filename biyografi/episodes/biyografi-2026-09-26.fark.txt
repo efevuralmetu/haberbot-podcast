@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-26.mp3
+
+beklenen 2919 kelime | duyulan 2943 kelime | eşleşme %92.3
+sayı ifadesi: metinde 415, duyulanda 267  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aslında unvandan geliyor kuanza
+      metin  : irmağı nın
+      duyulan: ırmağının
+  REPLACE  ...na bakan yaylalarda kurulmuş
+      metin  : ndongo krallığı nın
+      duyulan: ondongo krallığının
+  REPLACE  ...ndongo krallığı nın hükümdarına
+      metin  : ngola
+      duyulan: nola
+  INSERT   ...olması o kıyıda önümüzdeki
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...diline çevirerek sahiplenmeye çalıştı
+      metin  : ndongo
+      duyulan: dendongo
+  REPLACE  ...zamanlar kuzeydeki güçlü kongo
+      metin  : krallığı na bağlıyken
+      duyulan: krallığına bağlı iken
+  REPLACE  ...köylerinin tarlalarının savaşçılarının sahibiydi
+      metin  : ve ngola
+      duyulan: gola
+  REPLACE  ...bunu çok çabuk kavradı
+      metin  : paulo diaş
+      duyulan: te paolo dias
+  REPLACE  ...kavradı paulo diaş de
+      metin  : novayş
+      duyulan: novaes
+  REPLACE  ...novayş adlı portekizli kıyıda
+      metin  : sao
+      duyulan: são
+  REPLACE  ...kıyıda sao paulo de
+      metin  : loanda
+      duyulan: luanda
+  REPLACE  ...çok daha karlı çıktı
+      metin  : insan atlantiğin
+      duyulan: i nsan atlantin in
+  REPLACE  ...himayesine aldı kimini cezalandırdı
+      metin  : ndongo
+      duyulan: nandongo
+  REPLACE  ...kujinga fiilinden yola çıkarak
+      metin  : njinga
+      duyulan: ningga
+  REPLACE  ...çalışan insanın adı babası
+      metin  : ngola
+      duyulan: ningola
+  REPLACE  ...adı babası ngola kiluanji
+      metin  : njinga
+      duyulan: ningga
+  REPLACE  ...kralın gözde cariyelerinden yani
+      metin  : njinga
+      duyulan: ningga
+  REPLACE  ...kazandırdı babasının ilgisini kaynaklar
+      metin  : njinga
+      duyulan: ningga
+  REPLACE  ...silah kullanmayı öğrendiğini anlatır
+      metin  : ndongo
+      duyulan: nendongo
+  REPLACE  ...danışma meclislerinde söz alırdı
+      metin  : njinga
+      duyulan: ningga
+  INSERT   ...yetişti babasının ölümünün ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ardından tahta erkek kardeşi
+      metin  : mbandi
+      duyulan: menbandi
+  REPLACE  ...erkek kardeşi mbandi geçti
+      metin  : ve njinga
+      duyulan: renjinga
+  REPLACE  ...kırılma tam burada yaşandı
+      metin  : mbandi
+      duyulan: menbandi
+  REPLACE  ...bu temizliğin kurbanları arasında
+      metin  : njinga
+      duyulan: menjinga
+  REPLACE  ...da vardı aynı kayıtlar
+      metin  : mbandi
+      duyulan: menbandi
+  REPLACE  ...yaklaşıyor ama konuda hemfikirler
+      metin  : njinga
+      duyulan: renjinga
+  REPLACE  ...şeyi kalmamış olarak girdi
+      metin  : mbandi
+      duyulan: menbandi
+  REPLACE  ...felaketle başladı portekizli vali
+      metin  : luiş mendeş
+      duyulan: luís mendes
+  REPLACE  ...vali luiş mendeş de
+      metin  : vaskonselos
+      duyulan: vasconcelos
+  REPLACE  ...olan imbangala grupları vardı
+      metin  : kabasa
+      duyulan: kapasa
+  REPLACE  ...kral başkentini terk edip
+      metin  : kuanza irmağı ndaki
+      duyulan: kuansa ırmağındaki
+  REPLACE  ...ndaki kindonga adalarına sığındı
+      metin  : ndongo
+      duyulan: nangu
+  REPLACE  ...gururu aynı anda çöküyordu
+      metin  : mbandi
+      duyulan: menbandi
+  INSERT   ...çıkış aradı ve bulamadı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...öldürttüğü kız kardeşine takıldı
+      metin  : njinga
+      duyulan: nejinga
+  REPLACE  ...merdiven dayamış kadın kalabalık
+      metin  : maiyetle
+      duyulan: mahiyetle
+  INSERT   ...doğru yola çıktı luanda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...o yılın valisi juan
+      metin  : korreya
+      duyulan: correa
+  REPLACE  ...valisi juan korreya de
+      metin  : soza
+      duyulan: sosa
+  ... ve 136 fark daha
+
+metinde olup DUYULMAYAN: 181 kelime | duyulup metinde OLMAYAN: 210
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: biyografi-2026-09-26.duyulan.txt

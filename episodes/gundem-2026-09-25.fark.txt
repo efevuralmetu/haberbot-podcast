@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-25.mp3
+
+beklenen 1485 kelime | duyulan 1514 kelime | eşleşme %92.5
+sayı ifadesi: metinde 304, duyulanda 154  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...donald trump ile
+      metin  : şi cinping
+      duyulan: xi jinping
+  INSERT   ...tek somut sonuç çıktı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...için bekleyen dolarlık silah
+      metin  : paketinin
+      duyulan: ve zirvesinin
+  REPLACE  ...yönünde uyarıda bulunduğu bildirildi
+      metin  : xi nin
+      duyulan: i ksinin
+  INSERT   ...izliyor gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sahasına taşıyor kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...uçaklarıyla kaunas yakınlarında düşürüldü
+      metin  : polonya
+      duyulan: kolonya
+  REPLACE  ...yönetimin iptal ettiği cnn
+      metin  : msnbc
+      duyulan: mississippi nbc
+  DELETE   ...geri verilmesine karar verdi
+      metin  : kasım da yapılacak ara seçimler öncesinde konger deki güç dengesi tartışması giderek ısınıyor teknoloji tarafında
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geldi google openai ve
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...bu adım kural koyucuların
+      metin  : yetişmekte
+      duyulan: yetiştiği adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı adı sediy bacon oven brief price çekişmekte
+  REPLACE  ...yarışı da hız kesmiyor
+      metin  : anthropic claude
+      duyulan: anthropik cloth
+  REPLACE  ...kesmiyor anthropic claude opus
+      metin  : nokta i
+      duyulan: ı
+  DELETE   ...üzerinden de yürüdüğünü gösteriyor
+      metin  : openai ın açıkladığı başka
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ajanını eşgüdümlü çalıştırarak matematiğin
+      metin  : milenyum
+      duyulan: ümü
+  REPLACE  ...milenyum ödülü probleminden olan
+      metin  : navye stoks
+      duyulan: nevya stocks
+  REPLACE  ...iddianın bağımsız doğrulaması bekleniyor
+      metin  : öte yandan
+      duyulan: lehteyan dan
+  INSERT   ...türkiye ayağında ize haziran
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...özel sektör yatırımı hedefleniyor
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...zeka projelerine en az
+      metin  : pay
+      duyulan: paya
+  REPLACE  ...petrol fiyatları ve tahvil
+      metin  : getirileri
+      duyulan: getirleri
+  REPLACE  ...ve tahvil getirileri risk
+      metin  : iştahını
+      duyulan: tarafını
+  INSERT   ...repo ihale faiz oranını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...halinde sıkılaştırıcı adımların atılacağını
+      metin  : bildirdi
+      duyulan: söyledi
+  REPLACE  ...eylül de politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...aralığına yükseltti bu temmuz
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...ekonomi gündeminin en ağır
+      metin  : (yok)
+      duyulan: kısmı
+  DELETE   ...ve yatırım fonunun tasfiyesine
+      metin  : karar verdi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...daha tutuklanmasıyla tutuklu sayısı
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...oluşturmadığını vurguluyor siyasette ana
+      metin  : muhalefet cephesi
+      duyulan: yöneticepesi
+  REPLACE  ...yeniden şekilleniyor ankara bölge
+      metin  : adliye mahkemesi
+      duyulan: adliyema hakemesi
+  INSERT   ...adliye mahkemesi nin mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...döndürülerek geçici yetki kemal
+      metin  : kılıçdaroğlu
+      duyulan: karoğlu
+  REPLACE  ...kurucu genel başkan oldu
+      metin  : chp
+      duyulan: psi şe çp
+  REPLACE  ...büyükşehir belediye başkanı mansur
+      metin  : yavaş ın da chp den
+      duyulan: karşı nda ççp de en
+  REPLACE  ...istifa ettiği duyuruldu parti
+      metin  : sözcülüğünden
+      duyulan: sözlülüğünden
+  REPLACE  ...i mamoğlu nun da
+      metin  : sanıkları
+      duyulan: kararları
+  INSERT   ...karaköprü ilçesinde dün saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...nin ekim perşembe saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yılı var dönem yasama
+      metin  : yılı nın açılışında
+      duyulan: yılının başında
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: gundem-2026-09-25.duyulan.txt

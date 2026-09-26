@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-26.mp3
+
+beklenen 1518 kelime | duyulan 1531 kelime | eşleşme %97.2
+sayı ifadesi: metinde 288, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dağınık hafızasıdır o mecmuanın
+      metin  : varağında
+      duyulan: varığında
+  INSERT   ...yani takvimle ya da
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başkası yüzyılın ortasında görüyordu
+      metin  : mehmed fuad
+      duyulan: mehmet fuat
+  INSERT   ...görüyordu mehmed fuad köprülü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yunus un kendisi bırakmıştır
+      metin  : risaletü n nushiyye
+      duyulan: risalet ün nuşiye
+  DELETE   ...elinde insan olduğunu kanıtlar
+      metin  : i ki nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...doğum ölüm ve arada
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...o güzel hikaye hocası
+      metin  : taptuk
+      duyulan: tapduk
+  REPLACE  ...tarih değildir topluluğun sevdiği
+      metin  : şaier
+      duyulan: şehier
+  REPLACE  ...anadolu dağılmakta olan yerdi
+      metin  : kösedağ
+      duyulan: te köse dağı
+  REPLACE  ...bu yıllara düşer karamanoğlu
+      metin  : mehmed
+      duyulan: mehmet
+  INSERT   ...karamanoğlu mehmed bey in
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...tek uzun eseri olan
+      metin  : risaletü n nushiyye
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yazılmış mesnevi biçiminde yaklaşık
+      metin  : beyitlik
+      duyulan: beytlik
+  REPLACE  ...yaklaşık beyitlik didaktik metindir
+      metin  : nüshadan nüshaya
+      duyulan: nüşadan nüşaya
+  INSERT   ...yunus emer den yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...oldu daha sonra mustafa
+      metin  : tatcı
+      duyulan: tatçı
+  INSERT   ...ya da makam sayısı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...gören yer eskişehir in
+      metin  : mihalıççık
+      duyulan: mihalıçık
+  INSERT   ...daresi gerekli ödeneği ayırdı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bekledi anıt mezarın inşasına
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...anıt mezarın inşasına başlandı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sevgi yılı olarak andı
+      metin  : (yok)
+      duyulan: çi
+  REPLACE  ...artık yalnız kendisine yetmemektedir
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...kendisine yetmemektedir nöron edebiyat
+      metin  : de
+      duyulan: ta
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 23 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: edebiyat-2026-09-26.duyulan.txt

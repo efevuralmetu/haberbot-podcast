@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-26.mp3
+
+beklenen 1525 kelime | duyulan 1510 kelime | eşleşme %96.6
+sayı ifadesi: metinde 218, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ayağa kalkmasının sebebi olacaktır
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...sahipti kabinin üzerindeki basınçlı
+      metin  : pedde
+      duyulan: padde
+  REPLACE  ...ama bunları çıkarabilen insan
+      metin  : sayısı
+      duyulan: hayatı
+  REPLACE  ...o oyunu tasarlayan isim
+      metin  : takaşi nişiyama
+      duyulan: takashi nishiyama
+  REPLACE  ...isim takaşi nişiyama ve
+      metin  : hiroşi
+      duyulan: hiroshi
+  DELETE   ...yapılacak marka vardı ama
+      metin  : o markayı kuran kafalar artık değildi devamı istenen şeyin ne olduğunu kimse tam olarak bilmiyordu
+      duyulan: (YOK — atlanmış)
+  INSERT   ...oyunu istedi nişitani nin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verdi göstermenin yolu devam
+      metin  : oyununu
+      duyulan: oyunu
+  REPLACE  ...devam oyunu gibi yapmamaktan
+      metin  : geçiyordu
+      duyulan: duruyordu
+  REPLACE  ...baştan kurdu yapımcı koltuğunda
+      metin  : yoşiki
+      duyulan: yoshiki
+  REPLACE  ...geliyordu oyunun altyapısı ize
+      metin  : cps
+      duyulan: gps
+  REPLACE  ...hafif yumruk çabuk çıkıyor
+      metin  : az
+      duyulan: takas
+  REPLACE  ...bu komutu daha uzun
+      metin  : hatırlayacak
+      duyulan: ayarlayacak
+  DELETE   ...çıkmadan önce her yapım
+      metin  : gibi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işte hasar bu kadar
+      metin  : şiddetli
+      duyulan: gizetli
+  REPLACE  ...oldu arabaya vururken belli
+      metin  : zamanlamayla
+      duyulan: zamanlama ile
+  REPLACE  ...sokak dövüşçüsü darbe isabet
+      metin  : ettiğinde
+      duyulan: yayında
+  INSERT   ...aralık çok kısa saniyenin
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...araba blok tutmuyor geri
+      metin  : sıçramıyor
+      duyulan: tutamıyor
+  DELETE   ...toparlanma anını bekleme gereği
+      metin  : duymuyordu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şeyi oyuncuların düzenli olarak
+      metin  : çıkarması
+      duyulan: yaparması
+  REPLACE  ...karşılık nişitani herkesin bildiği
+      metin  : yükselen
+      duyulan: olan
+  DELETE   ...sonucu değildi tasarımcılar kapı
+      metin  : açtılar
+      duyulan: (YOK — atlanmış)
+  DELETE   ...oyununun bütün ekonomisini altüst
+      metin  : ediyor
+      duyulan: (YOK — atlanmış)
+  DELETE   ...parmaklarını izledi japonya da
+      metin  : oyun
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...japonya da oyun dergisi
+      metin  : gamest
+      duyulan: games
+  INSERT   ...ulusal turnuvayı düzenledi ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kontrolden çıktığı kısım başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bunların en ünlüsü rainbow
+      metin  : edition
+      duyulan: king
+  REPLACE  ...geldi hyper fighting yani
+      metin  : hiper
+      duyulan: hyper
+  INSERT   ...taç giyme töreni ize
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...oldu super street fighter
+      metin  : ii
+      duyulan: tügü
+  REPLACE  ...street fighter ii yani
+      metin  : süper
+      duyulan: super
+  REPLACE  ...davranış artık ekranın köşesinde
+      metin  : rakamla
+      duyulan: ve
+  DELETE   ...düşünce biçimi oyunun kendisinden
+      metin  : uzun
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yaşadı temmuzunda kaliforniya nın
+      metin  : sunnyvale
+      duyulan: sunivali
+  DELETE   ...series kısaca evo oldu
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kalkan kalabalık farkında olmadan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...modda ekranın köşesinde sayaç
+      metin  : duruyor
+      duyulan: var
+  DELETE   ...da şu bu zemin
+      metin  : vizyonun ürünü değildi
+      duyulan: (YOK — atlanmış)
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: oyun-2026-09-26.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-26.mp3
+
+beklenen 2074 kelime | duyulan 2080 kelime | eşleşme %96.3
+sayı ifadesi: metinde 199, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...seçti ateş ve pamuk
+      metin  : gazzali
+      duyulan: gazali de
+  REPLACE  ...pamuk gazzali horasan ın
+      metin  : tus
+      duyulan: tuz
+  INSERT   ...medresesi nde ders verdi
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...farabi ve i bn
+      metin  : sina nın
+      duyulan: i sinan ın
+  REPLACE  ...tanrı ya kadar çıkabiliyordu
+      metin  : gazzali
+      duyulan: gazali
+  INSERT   ...ele alır i çlerinden
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...yana getirilir pamuk yanar
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...kanıtlar mı hayır der
+      metin  : manzara
+      duyulan: mazara
+  REPLACE  ...vardır peki yakan kimdir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...bu soruya nettir gerçek
+      metin  : fail tanrı dır
+      duyulan: faal tanrıdır
+  REPLACE  ...itiraz çok haklıdır ve
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...öngörülemez akıl iflas eder
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...altındaki zeminin adıdır ve
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...gerçekleşmemiş değil düşünülemez olur
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...biçimde dile getiren adam
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...ucunda doğdu i bn
+      metin  : rüşd kurtuba
+      duyulan: i rüşt
+  INSERT   ...bn rüşd kurtuba da
+      metin  : (yok)
+      duyulan: kurtubada
+  REPLACE  ...in en ayrıntılı yorumcusuydu
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...tutarsızlığın tutarsızlığı yöntemi ilginçtir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...pamuk meselesinde i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...kavrama yeteneğidir i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...koşullu düzendir i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...bn rüşd bu düzenin
+      metin  : nihai
+      duyulan: nihayi
+  REPLACE  ...adetiyle doldurur i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...kendisinin çökeceğini söyler ve
+      metin  : doğaları
+      duyulan: duaları
+  REPLACE  ...tartışma kapanmadı i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  INSERT   ...içinde yolculuk etti şimdi
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...insan zihniydi i nsan
+      metin  : doğası
+      duyulan: duası
+  REPLACE  ...çevirin içinden beslenme çıkmaz
+      metin  : hume
+      duyulan: humeun
+  REPLACE  ...yakma gücü var deriz
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...gözlem zorunluluk vermez boşluğu
+      metin  : neyle
+      duyulan: ne ile
+  REPLACE  ...boşluğu neyle doldurduklarında ayrışırlar
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...orada insanın alışkanlığı vardır
+      metin  : hume un gazzali
+      duyulan: humeun gazali
+  REPLACE  ...çatlak o kadar rahatsız
+      metin  : ediciydi
+      duyulan: edecekti
+  INSERT   ...rahatsız ediciydi ki kant
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dogmatik uykusundan uyandıran şeyin
+      metin  : hume
+      duyulan: hom
+  INSERT   ...küçük deney var skinner
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gelmesinden hemen önce ne
+      metin  : yapıyorlarsa
+      duyulan: yapıyorsa
+  REPLACE  ...kontrol grubu dediğimiz şey
+      metin  : hume un
+      duyulan: hüme nin
+  REPLACE  ...olduğunun kurallarını yazmaktan ibarettir
+      metin  : korelasyon
+      duyulan: korrelasyon
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: felsefe-2026-09-26.duyulan.txt

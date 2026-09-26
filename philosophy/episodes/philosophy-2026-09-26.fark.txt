@@ -1,0 +1,79 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-26.mp3
+
+beklenen 3322 kelime | duyulan 3226 kelime | eşleşme %96.8
+sayı ifadesi: metinde 143, duyulanda 115  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...science s firmest footing
+      metin  : bu kanal podcast philosophy json çeviri kanalı içerik yazmak kisit alanını çeviri kaynağa sadık kalır ihlal ederdi bugünün bölümü ceviri uret py ile da zaten üretilmiş felsefe txt deki ateş pamuğu yakmaz bölümünün çevirisi olarak philosophy txt de duruyor taslaktaki bölüm ve ton sırası sakin gerilim kesif sakin tutuyor işaret satırları korunmuş rakam ve türkçe sızıntısı yok i stenen anlatı metni jenerik teaser kapanış hariç şu
+      duyulan: (YOK — atlanmış)
+  DELETE   ...chose was precisely this
+      metin  : fier and cotton
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in the city of
+      metin  : tus in
+      duyulan: tuss and
+  REPLACE  ...of his time the
+      metin  : nizamiyya
+      duyulan: nizamiyah
+  INSERT   ...someone reading that book
+      metin  : (yok)
+      duyulan: was a man who was a man who was a man who was a man who was a man who summarizing what he had learned someone reading that book
+  REPLACE  ...came the book the
+      metin  : tahafut al
+      duyulan: tafultul
+  REPLACE  ...burns the tradition of
+      metin  : kalam
+      duyulan: kelam
+  REPLACE  ...ghazali stood and the
+      metin  : ash arite
+      duyulan: asherite
+  REPLACE  ...of the islamic world
+      metin  : averroes
+      duyulan: ivaros
+  REPLACE  ...was born in in
+      metin  : córdoba
+      duyulan: cordoba
+  REPLACE  ...of fier and cotton
+      metin  : averroes
+      duyulan: ivaros
+  REPLACE  ...together with their causes
+      metin  : averroes
+      duyulan: ivaros
+  REPLACE  ...order of many conditions
+      metin  : averroes
+      duyulan: ivaros
+  REPLACE  ...with god s custom
+      metin  : averroes
+      duyulan: ivaros
+  REPLACE  ...collapse and he calls
+      metin  : natures
+      duyulan: natuer s
+  REPLACE  ...close this book of
+      metin  : averroes
+      duyulan: ivaros
+  REPLACE  ...of thought an objection
+      metin  : traveled
+      duyulan: travelled
+  REPLACE  ...in the moer lucid
+      metin  : enquiry
+      duyulan: inquiry
+  INSERT   ...he may have encountered
+      metin  : (yok)
+      duyulan: the he may have encountered
+  REPLACE  ...have read such as
+      metin  : malebranche
+      duyulan: malabranch
+  REPLACE  ...we build everything and
+      metin  : averroes
+      duyulan: aveiro s
+  REPLACE  ...opened a years ago
+      metin  : küçük kusur çeviri kaynaktaki boş satırı yutmuş philosophy txt ve kaynakta felsefe txt arasında boş satır var paragraf sayısı da eşit kaldığı için ceviri uret py nin doğrulaması bunu görmüyor ama o yerde paragraf sınırı kayboluyor i sterseniz bu boş satırı ekleyip doğrulamaya boş satır dizisi de aynı olmalı kontrolünü koyabilirim nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: nallings
+
+metinde olup DUYULMAYAN: 152 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-09-26.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-26.mp3
+
+beklenen 2532 kelime | duyulan 2555 kelime | eşleşme %95.2
+sayı ifadesi: metinde 270, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...boyunca kelimeyle korkutuldu türkler
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...döndüklerinde yanlarında adanın götürdüler
+      metin  : (yok)
+      duyulan: i zlanda
+  REPLACE  ...ve en savunmasız köşesiydi
+      metin  : ada
+      duyulan: adı
+  INSERT   ...ne de surlu kenti
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kendisine emanet edilmişti kuzey
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...açığındaki takımadada özellikle tehlikeliydi
+      metin  : vestmannaeyyar
+      duyulan: westman neyar
+  REPLACE  ...özellikle tehlikeliydi vestmannaeyyar yani
+      metin  : vestmann
+      duyulan: westman
+  REPLACE  ...en büyüğünde insan yaşıyordu
+      metin  : heymaey
+      duyulan: heymaye
+  REPLACE  ...kadar kişi yaşıyordu yurt
+      metin  : adası nda
+      duyulan: adasında i ki
+  REPLACE  ...koruyan küçük istihkamı vardı
+      metin  : skansin
+      duyulan: skansen
+  REPLACE  ...istihkamı vardı skansin yani
+      metin  : tabya
+      duyulan: tabia
+  REPLACE  ...caydırılması için yeterli sayılırdı
+      metin  : o yaz
+      duyulan: oyas
+  REPLACE  ...nın harlem kentinde yan
+      metin  : yanszon
+      duyulan: yan son
+  REPLACE  ...ada boyunca dolaşıp doğu
+      metin  : fiyortlarına
+      duyulan: fjordlarına
+  INSERT   ...dolaşıp doğu fiyortlarına yöneldi
+      metin  : (yok)
+      duyulan: boş
+  REPLACE  ...ile temmuz arasında başta
+      metin  : berufyördür
+      duyulan: berufjordur
+  REPLACE  ...insanı gemileer bindirdiler doğu
+      metin  : fiyortlarındaki
+      duyulan: fjordlarındaki
+  REPLACE  ...köprüsüzdü grindavik te olanlar
+      metin  : başkente
+      duyulan: başkentte
+  REPLACE  ...kıyılarda gözcülük konuşuldu ama
+      metin  : vestmann adaları na
+      duyulan: westman adalarına
+  INSERT   ...danimarkalı tüccarın gelip gitmesi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...içeri girmek yerine savunmasız
+      metin  : kıyıyı
+      duyulan: kıyıya
+  REPLACE  ...o burun bugün hala
+      metin  : rayningyatangi
+      duyulan: reining yatangi
+  REPLACE  ...saklanacak yerin az olması
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...kaçmaya başladılar kimi limandaki
+      metin  : tabya ya
+      duyulan: tabiaya
+  REPLACE  ...çabuk tükendi adanın doğusunda
+      metin  : kirkyubayr
+      duyulan: kirkü bayr
+  REPLACE  ...denen yerde rahip yon
+      metin  : torsteynsson
+      duyulan: torsteinson
+  REPLACE  ...ev halkını toplayıp yakındaki
+      metin  : röydhellir
+      duyulan: röydellir
+  REPLACE  ...kızıl mağara adı verilen
+      metin  : oyuğa
+      duyulan: oyua
+  REPLACE  ...ve görüldü silahlı adamlar
+      metin  : oyuğa
+      duyulan: oyua
+  REPLACE  ...oyuğa yöneldi rahip yon
+      metin  : torsteynsson
+      duyulan: torsteinson
+  INSERT   ...mezar taşının nerede olduğu
+      metin  : (yok)
+      duyulan: yıla
+  INSERT   ...olduğu yakın süer bilinmedi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yapılara götürüldü adalılar oraya
+      metin  : dönskuhusin
+      duyulan: dönskuhusen
+  INSERT   ...bütün bunlar gün sürdü
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...de vardı yaşındaki olafur
+      metin  : eyilsson
+      duyulan: eilson
+  REPLACE  ...olafur eyilsson karısı austa
+      metin  : torsteynsdottir
+      duyulan: thorstein stottir
+  REPLACE  ...torsteynsdottir hamileydi i ki
+      metin  : oğullarıyla
+      duyulan: oğulları ile
+  REPLACE  ...aynı gemiye alındı olafur
+      metin  : eyilsson
+      duyulan: eilson
+  INSERT   ...nereye gideceğini kimse bilmiyordu
+      metin  : (yok)
+      duyulan: doğundokuz
+  INSERT   ...yelkenler açıldığında kişilik adanın
+      metin  : (yok)
+      duyulan: si
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: tarih-2026-09-26.duyulan.txt

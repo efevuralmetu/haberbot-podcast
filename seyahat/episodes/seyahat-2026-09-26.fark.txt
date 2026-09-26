@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-26.mp3
+
+beklenen 1696 kelime | duyulan 1723 kelime | eşleşme %95.2
+sayı ifadesi: metinde 216, duyulanda 182  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendi ana demirleme yerinin
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...bacau laut adıyla bilinir
+      metin  : bacau
+      duyulan: bagao
+  REPLACE  ...adıyla bilinir bacau ize
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...açıklama antropolog alfred kemp
+      metin  : pallasen in
+      duyulan: palase nin
+  REPLACE  ...sular ve yüzyıllarda çin
+      metin  : pazarına
+      duyulan: pazarını
+  REPLACE  ...bu dünyanın izini taşır
+      metin  : sünni
+      duyulan: sunni
+  REPLACE  ...esirgeyen güçtür dayang dayang
+      metin  : mangilai
+      duyulan: mangilay
+  REPLACE  ...yapılan yıllık şükran töreni
+      metin  : magpaay bahaw
+      duyulan: makpai bahav
+  REPLACE  ...çıkarılırsa aileye önce medyum
+      metin  : çağrılır
+      duyulan: çağırılır
+  REPLACE  ...demir halatının dibinde sonra
+      metin  : resifin
+      duyulan: resifen
+  REPLACE  ...ağırlık zıpkın bu kadarla
+      metin  : resifin
+      duyulan: resifen
+  INSERT   ...meter inerler günün kabaca
+      metin  : (yok)
+      duyulan: ı
+  INSERT   ...ve antrenman olduğu varsayıldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şey daha olduğunu gösterdi
+      metin  : kopenhag
+      duyulan: copenhague
+  REPLACE  ...olduğunu gösterdi kopenhag ve
+      metin  : berkeley
+      duyulan: berkley
+  REPLACE  ...sulavesi nin doğusundaki jaya
+      metin  : bakti
+      duyulan: baktı
+  REPLACE  ...seçti ölçümler onların köyü
+      metin  : koyoan
+      duyulan: koyoğan
+  REPLACE  ...koyoan da yapıldı bacau
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...katılımcının verileri sonuçlarıyla birlikte
+      metin  : cel
+      duyulan: çel
+  REPLACE  ...kasarak içindeki oksijen yüklü
+      metin  : alyuvarları
+      duyulan: alüvarları
+  REPLACE  ...dalışta yaklaşık daha fazla
+      metin  : alyuvar
+      duyulan: alüvar
+  REPLACE  ...dikkat çektiler bu gen
+      metin  : tiroit
+      duyulan: tiroid
+  REPLACE  ...bu gen tiroit hormonu
+      metin  : tdördün düzeyiyle
+      duyulan: ün düzey ile
+  REPLACE  ...görünüyor ve hayvan çalışmalarında
+      metin  : tiroit
+      duyulan: tiroid
+  DELETE   ...daralmasıyla ilgili başka varyant
+      metin  : bdkrbiki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bileşimini değiştirmekken buradaki çözüm
+      metin  : (yok)
+      duyulan: bambaşka genetik uyarlanmanın ilk kez gösterilmesiydi yüksek irtifada yaşayan tibetlilerin azlığına verdiği yanıt kanın bileşimini değiştirmekken buradaki çözüm
+  REPLACE  ...değiştirmekken buradaki çözüm bambaşkaydı
+      metin  : vücudun
+      duyulan: yücudun
+  REPLACE  ...altındaki dünyayı en iyi
+      metin  : tanıyan insanlar
+      duyulan: tanımak için
+  INSERT   ...fazla av daha fazla
+      metin  : (yok)
+      duyulan: dağ daha fazla dağ daha fazla dağ daha fazla
+  INSERT   ...gidebilir bugün bu köylerde
+      metin  : (yok)
+      duyulan: lu
+  DELETE   ...yerde yazılı karşılığı yok
+      metin  : ne
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...büyük sorunu denizde değil
+      metin  : kağıtta
+      duyulan: kağıta
+  REPLACE  ...sömürge idarelerinin çizdiği haritalar
+      metin  : sonunda
+      duyulan: nosonu nda
+  REPLACE  ...çizdiği haritalar sonunda da
+      metin  : sabah ın
+      duyulan: te sabahın
+  REPLACE  ...denizi nin ortasından geçti
+      metin  : yüzyıllardır tek su kütlesi
+      duyulan: sulu denizi
+  REPLACE  ...sınır onların üzerinden geçmişti
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...boşluğun ne demek olduğu
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...mekke ye dönük gömülür
+      metin  : (yok)
+      duyulan: öl
+  REPLACE  ...sadece ölüler için gidilmez
+      metin  : pagkanduli
+      duyulan: pakkanduli
+  REPLACE  ...adı verilen ata ruhları
+      metin  : çağrılır
+      duyulan: çağırılır
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: seyahat-2026-09-26.duyulan.txt

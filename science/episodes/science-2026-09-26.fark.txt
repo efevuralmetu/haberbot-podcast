@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-26.mp3
+
+beklenen 1664 kelime | duyulan 1689 kelime | eşleşme %14.7
+sayı ifadesi: metinde 120, duyulanda 48  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...was rizing the news
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...really inside those boxes
+      metin  : pasifik okyanusu nun ortasında hawaii ile meksika arasında yaklaşık meter derinlikte uzanan düzlük var işığın hiçbir dalga boyunun ulaşmadığı suyun üstünde kaldığı basıncın insanı saniyesinde ezeceği yer yüzeyden bakınca sadece çamur ama o çamurun üzerine milyonlarca yılda birikmiş patates büyüklüğünde siyaha çalan yumrular serpilmiş durumda bunlara polimetalik nodül deniyor i çlerinde manganez nikel kobalt bakır var nodülün bugünkü boyutuna ulaşması çoğu tahmine göer milyonlarca yıl sürüyor
+      duyulan: what was really inside those boxes the assumption that life depends oxygen had been shaken but what was really inside those boxes the assumption that life depends oxygen had been shaken yolanda iskoch deniz bilim niridar ne indan
+  REPLACE  ...milyonlarca yıl sürüyor yani
+      metin  : elinizde tuttuğunuz şey insanlık tarihinden çok daha yaşlı bu düzlüğün adı clarion clipperton kuşağı ve son yıldır bilim dünyasının değil madencilik şirketlerinin de gözü orada çünkü o nodüller pil üretimi için istenen metallerin neredeyze ideal karışımını içeriyor
+      duyulan: iskoch janan
+  REPLACE  ...ideal karışımını içeriyor deniz
+      metin  : dibinde ne olup bittiğini anlamanın en temel yollarından bentik odacık denen alet kabaca şöyle çalışır gemiden bırakılan ağır çerçeve dibe iner bacakları çamura gömülür altındaki kapalı silindir deniz tabanından küçük parçayı üstündeki suyla birlikte okyanusun geri kalanından yalıtır sonra o kapalı hacimdeki oksijenin saatler içinde nasıl değiştiğini ölçersiniz beklenen sonuç her zaman aynıdır ve yıla yakın ölçümle desteklenmiştir oksijen düşer çünkü dipte oksijen üreten hiçbir şey yoktur işık yoktur fotosentez yoktur orada yaşayan bakteriler solucanlar deniz hıyarları yalnızca tüketir eğri aşağı iner her seferinde yılında i skoç deniz bilimleri derneği nden yani i skoçya nın deniz araştırmaları
+      duyulan: arashtir malar
+  REPLACE  ...araştırmaları kurumundan andrew sweetman
+      metin  : bu kuşakta yaptığı ölçümde eğrinin yukarı çıktığını gördü kapalı odacıktaki oksijen
+      duyulan: buku shakta yapta yebi urchum de eirening yukarichikte nagardu kapalu odajikta ke oksijan
+  REPLACE  ...kapalı odacıktaki oksijen saatler
+      metin  : geçtikçe azalmıyor artıyordu
+      duyulan: gechtikche azalmyor artiyordu
+  REPLACE  ...geçtikçe azalmıyor artıyordu sweetman
+      metin  : ın o ana
+      duyulan: an oana
+  REPLACE  ...ın o ana dair
+      metin  : anlattığı
+      duyulan: an nattu
+  REPLACE  ...ana dair anlattığı tepki
+      metin  : bilimsel refleksin kitaba
+      duyulan: bilim saad reflexin ki taba
+  REPLACE  ...refleksin kitaba uygun halidir
+      metin  : verinin değil aletin
+      duyulan: virin indeel ailetin
+  REPLACE  ...verinin değil aletin bozuk
+      metin  : olduğunu düşündü
+      duyulan: oldunu dushundu
+  REPLACE  ...bozuk olduğunu düşündü deniz
+      metin  : dibinde şimdiye kadar yapılmış her çalışma yalnızca
+      duyulan: debeinde shimdi ekadariya pulmush harchal ushma yannas ja
+  REPLACE  ...her çalışma yalnızca oksijenin
+      metin  : tüketildiğini göstermişti dolayısıyla sensörler yanlış
+      duyulan: tu ketildiniga ustarmishte dola isila sensor laryannush
+  REPLACE  ...dolayısıyla sensörler yanlış okuyordu
+      metin  : sensörler geri gönderildi kaliber edildi yeniden
+      duyulan: sensorler gehrgun derilde kalibreidilde yeni dan
+  REPLACE  ...edildi yeniden kuruldu veri
+      metin  : gelmeye devam etti eğri yine yukarı çıktı sonraki yıllarda aynı düzlüğe defalarca dönüldü
+      duyulan: geomaye devamette eier yina yukarichikte sanraki yalarda aina duzlea defalarja dunuldu
+  REPLACE  ...düzlüğe defalarca dönüldü sweetman
+      metin  : ın anlatımına göer
+      duyulan: an anat munaguer
+  REPLACE  ...ın anlatımına göer kritik
+      metin  : eşik ölçümün
+      duyulan: eishik ulchumun
+  REPLACE  ...kritik eşik ölçümün ve
+      metin  : bambaşka yöntemle tekrarlanmasıydı optik sensörler yana bırakıldı
+      duyulan: bambash kabiryan tamletek rarlan masidu optic sensor larbir yanaburekilde
+  REPLACE  ...yana bırakıldı suyun oksijeni
+      metin  : doğrudan kimyasal
+      duyulan: dorudan kim yasal
+  REPLACE  ...oksijeni doğrudan kimyasal yoldan
+      metin  : klasik titrasyonla belirlendi i ki yöntem birbirini
+      duyulan: kalisik titration na belirlande ik yan tam birbirine
+  REPLACE  ...ki yöntem birbirini tuttu
+      metin  : i şte o noktada
+      duyulan: ichte onoktada
+  REPLACE  ...şte o noktada sweetman
+      metin  : elindekinin arıza değil
+      duyulan: elindikinin arzadeel
+  REPLACE  ...elindekinin arıza değil olgu
+      metin  : olduğuna
+      duyulan: oldu na
+  REPLACE  ...olgu olduğuna ikna oldu
+      metin  : temmuz te
+      duyulan: temus to
+  REPLACE  ...natuer geoscience yani natuer
+      metin  : grubunun yer bilimleri dergisi bu çalışmayı yayımladı başlığı doğrudandı derin deniz tabanında karanlık oksijen üretimine dair kanıt
+      duyulan: grubunu nyar bilim neri dargisi buchalushma yayimnade bashlu dorudan de dirin dinistabanan da karanik oksijan uretimine dairkanut
+  REPLACE  ...üretimine dair kanıt metinde
+      metin  : kapalı odacıklardaki
+      duyulan: kapaloda jeklarda ki
+  REPLACE  ...metinde kapalı odacıklardaki oksijenin
+      metin  : gün içinde başlangıç düzeyinin katından fazlasına çıktığı bildiriliyordu yazarların önerdiği ad da
+      duyulan: ikigunichin de bashlangich duzeinin uchkatandan fazlasanachik tu bilderiliordu yasarlera nunerdi ada
+  REPLACE  ...önerdiği ad da tuttu
+      metin  : karanlık oksijen güneşsiz üretilen oksijen bu ifadenin neden bomba etkisi yaptığını anlamak için lize biyolojisine dönmek yeterli dünya atmosferindeki serbest
+      duyulan: karanik oksijan gunaisi ziretalan oksijan buifadenin nedan bombayetkisi aptun annamakichin nisi biologisi nedun mekyetali dunia atmospheer inde kisarbeist
+  REPLACE  ...dünya atmosferindeki serbest oksijenin
+      metin  : hikayesi yaklaşık yıl önce siyanobakterilerin fotosentezle başlattığı büyük oksitlenme olayıyla anlatılır
+      duyulan: hikaiyasi yakhlashik ikivirgul dortmilyar yilunjes yano bakteri lirin fotosantes le bashlatu buik oksitlame ola ilanatilir
+  REPLACE  ...olayıyla anlatılır oksijen demek
+      metin  : ışık
+      duyulan: usik
+  REPLACE  ...oksijen demek ışık demektir
+      metin  : kayanın karanlıkta canlı olmadan
+      duyulan: kayan karanikta jano olamadan oksijan uretmisi buzinjiren dushin da bishaidir yasarlerda bukapiye achik perakte ertash jano lardan unja
+  REPLACE  ...karanlıkta canlı olmadan oksijen
+      metin  : üretmesi bu zincirin dışında şeydir yazarlar
+      duyulan: uretibiliorsa ik aerobic yashaman orta echikte koshullar yinidan dushin mekgereke bilerdi
+  REPLACE  ...dışında şeydir yazarlar da
+      metin  : bu kapıyı açık bıraktı eğer taş canlılardan önce oksijen üretebiliyorsa ilk aerobik yaşamın ortaya çıktığı koşulları yeniden düşünmek gerekebilirdi dahası
+      duyulan: hasse
+  REPLACE  ...düşünmek gerekebilirdi dahası buzla
+      metin  : kaplı uydularının karanlık okyanuslar taşıyan gök cisimlerinde
+      duyulan: kaplu uidulernan alton da karanik okja nuslarta shiangeuk jisimlerin de
+  REPLACE  ...gök cisimlerinde europa da
+      metin  : ya da enceladus ta
+      duyulan: jada enjela dusta
+  REPLACE  ...da enceladus ta oksijen
+      metin  : aramak için artık ışık gerekmiyor olabilirdi haber gün içinde dünyanın her yerine yayıldı ve hemen ardından çok daha
+      duyulan: arama kicin artik usik gerek meorola bilerdi heber burkaczku nichin de dunjanan herjirne jaeilde vehemin ardan dan chokta ha
+  REPLACE  ...ardından çok daha somut
+      metin  : tartışmanın içine düştü
+      duyulan: birtartishmanan ichine dushte
+  REPLACE  ...içine düştü tam da
+      metin  : o nodüllerin madenciliği konuşuluyordu eğer yumrular
+      duyulan: dulirin madenjili konusuliordu er yumrulaar
+  REPLACE  ...konuşuluyordu eğer yumrular oksijen
+      metin  : üretiyorsa
+      duyulan: uretiorsa
+  ... ve 121 fark daha
+
+metinde olup DUYULMAYAN: 1415 kelime | duyulup metinde OLMAYAN: 1441
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-09-26.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-26.mp3
+
+beklenen 2503 kelime | duyulan 2516 kelime | eşleşme %96.4
+sayı ifadesi: metinde 325, duyulanda 254  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yazının sonunda almanya nın
+      metin  : kuzeydoğusundaki meklenburg forpommern
+      duyulan: kuzey doğusundaki mecklenburg vorpommern
+  REPLACE  ...forpommern eyaletinde yani kısaca
+      metin  : meklenburg
+      duyulan: mecklenburg
+  REPLACE  ...suyunu çekmişti tollenze ırmağı
+      metin  : veltsin
+      duyulan: weltsin
+  REPLACE  ...kollayan amatör arkeolog roland
+      metin  : borgvart
+      duyulan: borgward
+  REPLACE  ...saplanmış ve orada kalmıştı
+      metin  : ok ucuydu ok
+      duyulan: okucuydu okey
+  REPLACE  ...kemiğin ilk tıbbi taramalarında
+      metin  : ok
+      duyulan: okey
+  INSERT   ...kemikleri hayvan kemikleri bunlar
+      metin  : (yok)
+      duyulan: lar
+  REPLACE  ...ne yattığını tahmin edemiyordu
+      metin  : meklenburg
+      duyulan: ki de mecklenburg
+  REPLACE  ...ve koruma kurumu aşağı
+      metin  : saksonya nın
+      duyulan: saxonyanın
+  REPLACE  ...nın koruma kurumu ve
+      metin  : grayfsvalt
+      duyulan: grafswald
+  REPLACE  ...başladı kara kazması yetmedi
+      metin  : ırmağın
+      duyulan: irmağın
+  INSERT   ...bugüne kadar bu vadiden
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...kuzeyinde baltığa doğru uzanan
+      metin  : ovanın
+      duyulan: obanın
+  INSERT   ...ni geçmenin yolu olmalıydı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...olmalıydı ekipler vadinin zeminini
+      metin  : jeomanyetik
+      duyulan: geomanyetik
+  REPLACE  ...yani kabaca milattan önce
+      metin  : yüzlerde
+      duyulan: lerde
+  REPLACE  ...geçitti kuşaklar boyunca dedelerin
+      metin  : torunlara
+      duyulan: torunları
+  INSERT   ...en tutumlu tahmin çarpışmaya
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...fazla insanın katıldığını söylüyor
+      metin  : ölülerin
+      duyulan: bölürlerin
+  INSERT   ...katıldığını söylüyor ölülerin sayısını
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...söylüyor ölülerin sayısını hatta
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...hesaplar da var bunlar
+      metin  : (yok)
+      duyulan: doğ
+  REPLACE  ...bu bölgenin nüfus yoğunluğu
+      metin  : kilometrekarede
+      duyulan: de
+  REPLACE  ...araya getirmek için yüzlerce
+      metin  : kilometrekarelik
+      duyulan: lik
+  REPLACE  ...çok göze çarpan grup
+      metin  : künt
+      duyulan: kün
+  REPLACE  ...kıvrılmış ucundaki tokmak başı
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...başı milimeter uzunluğunda ve
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...boydan boya geçmiş yaklaşık
+      metin  : milimetrelik
+      duyulan: mm lik
+  INSERT   ...aynı gün gömülmüş halde
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...okumaya çalıştı diş minesindeki
+      metin  : stronsiyum
+      duyulan: stitronsiyum
+  INSERT   ...kesin tartışmasız sonuç vermedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şekerini sindirme yeteneğini taşımıyordu
+      metin  : (yok)
+      duyulan: kuy
+  INSERT   ...yerden silahların kendisinden geldi
+      metin  : (yok)
+      duyulan: kiy ki te
+  REPLACE  ...berlin hür üniversitesi nden
+      metin  : layf i nzelman
+      duyulan: life inselman
+  REPLACE  ...yazısı gibi bölgeye özgüdür
+      metin  : i nzelman
+      duyulan: inselman
+  INSERT   ...avrupa nın her yanından
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...den çıkan yaklaşık bronz
+      metin  : ok
+      duyulan: oku
+  REPLACE  ...ok uçlarının önemli bölümü
+      metin  : meklenburg
+      duyulan: mecklenburg
+  REPLACE  ...yani yerel yapımdı bu
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...taşıyordu düz ya da
+      metin  : eşkenar
+      duyulan: eşkener
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: arkeoloji-2026-09-26.duyulan.txt

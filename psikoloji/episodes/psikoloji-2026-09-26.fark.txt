@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-26.mp3
+
+beklenen 1295 kelime | duyulan 1303 kelime | eşleşme %98.2
+sayı ifadesi: metinde 156, duyulanda 140  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : sitkom
+      duyulan: sitcom
+  REPLACE  ...çikolatada tekrarlandı ve beynin
+      metin  : haz
+      duyulan: has
+  REPLACE  ...arası dizinin tadını bozmuyor
+      metin  : artırıyor
+      duyulan: arttırıyor da
+  REPLACE  ...artırıyor leif nelson tom
+      metin  : meyvis
+      duyulan: mavis
+  REPLACE  ...imzalı tüketici davranışı araştırmalarının
+      metin  : yayımlandığı
+      duyulan: yayınlandığı
+  REPLACE  ...değil bulamadığı yerler nelson
+      metin  : meyvis
+      duyulan: mavis
+  REPLACE  ...reklam arasının hediye edecek
+      metin  : şeyi
+      duyulan: şey
+  INSERT   ...boşluk girsin mi kişiden
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yani tahmin neredeyze tam
+      metin  : oybirliğiyle
+      duyulan: oy ile
+  INSERT   ...parlak anının fotoğrafı gibi
+      metin  : (yok)
+      duyulan: tutuyoruz
+  REPLACE  ...daha da güzeldir dondurma
+      metin  : lezzetliyze
+      duyulan: lezzetli ize
+  REPLACE  ...boy daha lezzetlidir tatil
+      metin  : iyiyze
+      duyulan: iyi ize
+  REPLACE  ...yarayan yarısı nelson ve
+      metin  : meyvis
+      duyulan: mavis
+  INSERT   ...nelson ve meyvis in
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dinledi diğer grup arada
+      metin  : mola ile
+      duyulan: molayla
+  INSERT   ...elimizde doğrudan ölçüm var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...melbourne üniversitesi nde jared
+      metin  : horvath
+      duyulan: horwath
+  INSERT   ...kasların yorgunluğu fizyolojiyle ilgilidir
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...inmesine izin vermek yeterli
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-09-26.duyulan.txt

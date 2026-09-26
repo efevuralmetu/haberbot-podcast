@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-26.mp3
+
+beklenen 1645 kelime | duyulan 1639 kelime | eşleşme %96.2
+sayı ifadesi: metinde 148, duyulanda 114  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...güneş ışığının hiç ulaşmadığı
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...pasifik okyanusu nun ortasında
+      metin  : hawaii
+      duyulan: havay
+  REPLACE  ...nodül deniyor i çlerinde
+      metin  : manganez
+      duyulan: manganes
+  REPLACE  ...ve bambaşka yöntemle tekrarlanmasıydı
+      metin  : optik
+      duyulan: oktik
+  INSERT   ...olduğuna ikna oldu temmuz
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...başlangıç düzeyinin katından fazlasına
+      metin  : çıktığı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çıktığı bildiriliyordu yazarların önerdiği
+      metin  : ad
+      duyulan: at
+  REPLACE  ...okyanuslar taşıyan gök cisimlerinde
+      metin  : europa
+      duyulan: avrupa
+  DELETE   ...alanının oksijen kaynağını da
+      metin  : sökmek
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...northwestern üniversitesi nden kimyacı
+      metin  : frans gayger
+      duyulan: franz geiger
+  REPLACE  ...olsa elektrik üretebildiği nodüller
+      metin  : laboratuvara
+      duyulan: laboratuara
+  REPLACE  ...getirildiğinde akla gelen soru
+      metin  : buydu
+      duyulan: geldi
+  DELETE   ...günlerce sürdürecek enerji deposunun
+      metin  : nereden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bazı eleştirmenler bunu doğrudan
+      metin  : termodinamiğin
+      duyulan: termodinamin
+  REPLACE  ...geomar deniz araştırmaları merkezinden
+      metin  : matias hekel
+      duyulan: mathias heckel
+  REPLACE  ...de sıkışmış kabarcıklara rastlandığını
+      metin  : hatırlattı
+      duyulan: dağıttı
+  REPLACE  ...kullanılan çok sayıda odacık
+      metin  : dağıtımı
+      duyulan: dağıtıma
+  DELETE   ...istedi bu yayından yalnızca
+      metin  : ay sonraydı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ölçüde nodül madenciliği planlayan
+      metin  : kanada
+      duyulan: adada
+  REPLACE  ...para aldığına bakarak çözmeyi
+      metin  : imkansız
+      duyulan: hansız
+  INSERT   ...yavaş dipnotlarda olur aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...frontiers in marine science
+      metin  : ta
+      duyulan: da
+  REPLACE  ...bu metin tartışmanın ağırlık
+      metin  : merkezini
+      duyulan: hizmetini
+  DELETE   ...görülmüştü eğer oksijen sediman
+      metin  : olmadan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...getirdi hepsi yalnızca oksijen
+      metin  : tüketimi
+      duyulan: üretimi
+  REPLACE  ...ölçmüştü aynı ay amerikan
+      metin  : jeofizik
+      duyulan: geofizik
+  INSERT   ...başkası konmadan bırakılmıştı şubat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bulunmadığını kabul etti mayıs
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...çalışmanın en ikna edici
+      metin  : görünen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bazı odacıkların dışarıda bırakıldığını
+      metin  : da
+      duyulan: onlarda
+  INSERT   ...ortadan kalktığını öne sürdü
+      metin  : (yok)
+      duyulan: ne
+  INSERT   ...kalktığını öne sürdü nisan
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...makalenin başına editör notu
+      metin  : ekledi not
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...uyarılıyor sürecin sonunda ayrıca
+      metin  : editoryal
+      duyulan: editorial
+  DELETE   ...ize iddiasını tümüyle bırakmış
+      metin  : değil
+      duyulan: (YOK — atlanmış)
+  INSERT   ...programın ilk seferi ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gerçekten açığa çıkıp çıkmadığı
+      metin  : ölçülüyor
+      duyulan: üretiliyor
+  REPLACE  ...çıkıp çıkmadığı ölçülüyor ve
+      metin  : mikrobiyal
+      duyulan: mikrobyel
+  REPLACE  ...iddia ortaya atıldı dünyanın
+      metin  : en görünür
+      duyulan: ürünür
+  DELETE   ...şey de bu düzeltmenin
+      metin  : nerede gerçekleştiği
+      duyulan: (YOK — atlanmış)
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: bilim-2026-09-26.duyulan.txt
