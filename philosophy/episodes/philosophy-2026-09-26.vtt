@@ -1,0 +1,925 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.810
+You hold a flame to cotton and the cotton burns.
+
+2
+00:00:03.810 --> 00:00:11.140
+You have seen it a thousand times — but have you ever actually seen the fire do the burning, or only one thing following the other?
+
+3
+00:00:11.140 --> 00:00:18.790
+Nine hundred years ago a scholar in Baghdad asked that question and pulled the ground out from under what we take to be science's firmest footing.
+
+4
+00:00:26.990 --> 00:00:36.240
+Bu kanal (`podcast-philosophy.json`) bir çeviri kanalı: sıfırdan içerik yazmak `kisit` alanını ("çeviri kaynağa sadık kalır") ihlal ederdi.
+
+5
+00:00:36.240 --> 00:00:51.890
+Bugünün bölümü `ceviri_uret.py` ile 05:39'da zaten üretilmiş — `felsefe.txt`'deki "Ateş Pamuğu Yakmaz" bölümünün çevirisi olarak `philosophy.txt`'de duruyor; taslaktaki 4 bölüm ve ton sırası (sakin, gerilim, kesif,
+
+6
+00:00:51.890 --> 00:00:57.940
+sakin) birebir tutuyor, işaret satırları korunmuş, rakam ve Türkçe sızıntısı yok.
+
+7
+00:00:57.940 --> 00:01:02.070
+İstenen anlatı metni (jenerik/teaser/kapanış hariç) şu:
+
+8
+00:01:02.070 --> 00:01:04.600
+You get up in the morning.
+
+9
+00:01:04.600 --> 00:01:10.490
+You walk into the kitchen, turn the knob on the stove, and a blue ring of flame rises up.
+
+10
+00:01:10.490 --> 00:01:13.020
+You set the kettle on top of it.
+
+11
+00:01:13.020 --> 00:01:16.670
+A few minutes later, the water boils.
+
+12
+00:01:16.670 --> 00:01:20.320
+At no point in this whole procedure do you stop to think.
+
+13
+00:01:20.320 --> 00:01:23.650
+You don't need to, because you know.
+
+14
+00:01:23.650 --> 00:01:25.700
+Fire heats water.
+
+15
+00:01:25.700 --> 00:01:28.710
+Hold your hand in a flame and it burns.
+
+16
+00:01:28.710 --> 00:01:31.560
+Let go of a glass and it falls.
+
+17
+00:01:31.560 --> 00:01:34.570
+Flip a switch and the lamp comes on.
+
+18
+00:01:34.570 --> 00:01:41.900
+Perhaps hundreds of decisions in your day rest on knowledge of this kind, and not one of them feels like knowledge; it feels like ground.
+
+19
+00:01:41.900 --> 00:01:45.550
+You don't question the existence of the thing you're walking on.
+
+20
+00:01:45.550 --> 00:01:48.400
+Now let's ask a very simple question.
+
+21
+00:01:48.400 --> 00:01:51.250
+How do you know that fire burns cotton?
+
+22
+00:01:51.250 --> 00:01:54.580
+The answer comes ready-made: I've seen it.
+
+23
+00:01:54.580 --> 00:01:57.910
+I've seen it a thousand times.
+
+24
+00:01:57.910 --> 00:02:03.480
+Bring a lighter close to a pile of cotton and the cotton darkens, curls, catches.
+
+25
+00:02:03.480 --> 00:02:06.170
+Nobody disputes this.
+
+26
+00:02:06.170 --> 00:02:10.140
+But let's slow it down and ask what exactly it is that you saw.
+
+27
+00:02:10.140 --> 00:02:12.990
+What you saw was two events.
+
+28
+00:02:12.990 --> 00:02:15.840
+First: the flame touches the cotton.
+
+29
+00:02:15.840 --> 00:02:19.170
+Second: the cotton burns.
+
+30
+00:02:19.170 --> 00:02:25.540
+And between these two events there is a sequence — always in the same order, always close together in time.
+
+31
+00:02:25.540 --> 00:02:27.590
+That is what you saw.
+
+32
+00:02:27.590 --> 00:02:30.600
+What you saw was an "after."
+
+33
+00:02:30.600 --> 00:02:36.010
+And yet you don't say "after." You say "because of." The cotton burned because of the fire.
+
+34
+00:02:36.010 --> 00:02:38.540
+The fire burned it.
+
+35
+00:02:38.540 --> 00:02:44.270
+There is a power in the fire called burning, and that power passed into the cotton and blackened it.
+
+36
+00:02:44.270 --> 00:02:46.640
+But did you see that power?
+
+37
+00:02:46.640 --> 00:02:52.050
+You saw the flame, you felt the heat, you saw the smoke, you saw the blackening.
+
+38
+00:02:52.050 --> 00:02:57.140
+But a separate thing called "the power to burn" never appeared anywhere on the stage.
+
+39
+00:02:57.140 --> 00:03:02.070
+It isn't something that happens in the scene; it's something you add to the scene.
+
+40
+00:03:02.070 --> 00:03:04.600
+This may sound like word games.
+
+41
+00:03:04.600 --> 00:03:10.810
+But the consequences are very heavy, because almost everything we call knowledge is built on that addition.
+
+42
+00:03:10.810 --> 00:03:21.020
+When a doctor prescribes a drug, when an engineer calculates that a beam will carry a load, when a mother tells her child not to touch the stove — all of them are taking the same step:
+
+43
+00:03:21.020 --> 00:03:25.470
+it has always gone this way until now, therefore it will go this way.
+
+44
+00:03:25.470 --> 00:03:28.320
+Naming that step is not easy.
+
+45
+00:03:28.320 --> 00:03:30.370
+Is it an inference?
+
+46
+00:03:30.370 --> 00:03:32.260
+A habit?
+
+47
+00:03:32.260 --> 00:03:34.950
+An act of faith?
+
+48
+00:03:34.950 --> 00:03:42.280
+Note carefully, the question is not "might fire fail to burn?" Nobody is inviting you to play with matches.
+
+49
+00:03:42.280 --> 00:03:45.610
+The question is what the word "cause" actually points to.
+
+50
+00:03:45.610 --> 00:03:50.380
+There are two possibilities, and the two describe two very different worlds.
+
+51
+00:03:50.380 --> 00:03:55.150
+The first possibility is this: cause is something out in the world.
+
+52
+00:03:55.150 --> 00:04:01.680
+Combustibility lies in the very nature of fire, just as three-sidedness lies in the nature of a triangle.
+
+53
+00:04:01.680 --> 00:04:05.010
+If it didn't burn, it wouldn't be fire.
+
+54
+00:04:05.010 --> 00:04:11.060
+And so it is necessary that fire burns cotton; anything else is logically impossible.
+
+55
+00:04:11.060 --> 00:04:15.190
+The second possibility is this: cause is something in us.
+
+56
+00:04:15.190 --> 00:04:18.680
+Out in the world there is only a regular sequence.
+
+57
+00:04:18.680 --> 00:04:24.410
+A mind that lives through that sequence often enough begins to expect the second thing on the heels of the first.
+
+58
+00:04:24.410 --> 00:04:29.180
+As the expectation hardens, it turns into a feeling of necessity.
+
+59
+00:04:29.180 --> 00:04:37.470
+Then we take that feeling and hand it back to the world, and we say "there is a power in fire." But the power is in us, in habit.
+
+60
+00:04:37.470 --> 00:04:40.960
+We shouldn't underestimate the difference between these two.
+
+61
+00:04:40.960 --> 00:04:47.330
+In the first world, the laws of nature are etched into the fabric of reality and reason reads them off.
+
+62
+00:04:47.330 --> 00:04:54.020
+In the second world, the laws of nature are a summary of our records so far, and they carry no guarantee for tomorrow.
+
+63
+00:04:54.020 --> 00:04:57.350
+In the first, science discovers.
+
+64
+00:04:57.350 --> 00:05:01.800
+In the second, science is a very meticulously kept betting ledger.
+
+65
+00:05:01.800 --> 00:05:04.330
+And this is not a modern argument.
+
+66
+00:05:04.330 --> 00:05:15.020
+The man who posed the question in its sharpest, most unsettling form lived in the eleventh century, and the example he chose was precisely this one: fire and cotton.
+
+67
+00:05:15.020 --> 00:05:20.750
+Al-Ghazali was born in ten fifty-eight, in the city of Tus in Khorasan.
+
+68
+00:05:20.750 --> 00:05:30.320
+He taught at the most illustrious school of his time, the Nizamiyya Madrasa in Baghdad; by his thirties he was one of the most celebrated teachers in the Islamic world.
+
+69
+00:05:30.320 --> 00:05:39.410
+And facing him stood a new intellectual force: philosophers descended from the line of al-Farabi and Avicenna, who had rebuilt Aristotle in Arabic.
+
+70
+00:05:39.410 --> 00:05:43.220
+That tradition read the world as a system of necessities.
+
+71
+00:05:43.220 --> 00:05:50.230
+Everything had a nature, by that nature it produced particular effects, and reason could follow the chain all the way up to God.
+
+72
+00:05:50.230 --> 00:05:55.960
+Al-Ghazali did not content himself with hurling abuse at this philosophy from the outside.
+
+73
+00:05:55.960 --> 00:06:00.410
+First he learned it, and then he wrote a book summarizing what he had learned.
+
+74
+00:06:00.410 --> 00:06:05.020
+Someone reading that book might well have thought its author was one of the philosophers.
+
+75
+00:06:05.020 --> 00:06:10.910
+Then came the second book: the Tahafut al-Falasifa, The Incoherence of the Philosophers.
+
+76
+00:06:10.910 --> 00:06:18.560
+His aim was to show that what the philosophers offered as proof was not proof at all, that most of it rested on groundless assumptions.
+
+77
+00:06:18.560 --> 00:06:22.370
+The book takes up twenty questions one by one.
+
+78
+00:06:22.370 --> 00:06:28.420
+One of them, the seventeenth, became one of the most fiercely debated pages in the history of philosophy.
+
+79
+00:06:28.420 --> 00:06:38.150
+That section opens with this claim: the connection between what is habitually taken to be a cause and what is habitually taken to be its effect is not a necessary connection.
+
+80
+00:06:38.150 --> 00:06:40.520
+Then comes the example.
+
+81
+00:06:40.520 --> 00:06:44.810
+Cotton and fire are brought together, and the cotton burns.
+
+82
+00:06:44.810 --> 00:06:51.340
+Al-Ghazali's question is this: does that scene prove that the thing doing the burning is the fire?
+
+83
+00:06:51.340 --> 00:06:53.870
+No, he says.
+
+84
+00:06:53.870 --> 00:06:58.800
+The scene proves only this much: the burning occurred together with the contact.
+
+85
+00:06:58.800 --> 00:07:02.130
+"Together with" is not the same as "by".
+
+86
+00:07:02.130 --> 00:07:08.980
+Observation gives you the first; the philosopher asserts the second; and between them lies a gap in the proof.
+
+87
+00:07:08.980 --> 00:07:11.830
+So who is it that burns?
+
+88
+00:07:11.830 --> 00:07:20.920
+The tradition of kalam within which al-Ghazali stood, and the Ash'arite line in particular, is clear on this question: the real agent is God.
+
+89
+00:07:20.920 --> 00:07:27.450
+The blackening of the cotton, the coming apart of its particles, the charring — God creates these directly.
+
+90
+00:07:27.450 --> 00:07:31.580
+Fire is inanimate, and an inanimate thing cannot act.
+
+91
+00:07:31.580 --> 00:07:36.510
+Fire is what happens to be present alongside the burning, not what does it.
+
+92
+00:07:36.510 --> 00:07:46.400
+In this tradition the world is a fabric created anew at every instant; continuity comes not from any power belonging to matter, but from the unbroken repetition of creation.
+
+93
+00:07:46.400 --> 00:07:52.450
+The objection that springs to mind here is entirely fair, and al-Ghazali raises it himself.
+
+94
+00:07:52.450 --> 00:07:57.540
+If nothing is the necessary cause of anything, then anything whatsoever could happen.
+
+95
+00:07:57.540 --> 00:08:02.790
+The book I left on the table as I went out, I might find as a horse when I return.
+
+96
+00:08:02.790 --> 00:08:05.480
+A book could turn into a child.
+
+97
+00:08:05.480 --> 00:08:10.730
+No plan can be made, nothing can be foreseen, reason goes bankrupt.
+
+98
+00:08:10.730 --> 00:08:14.380
+Al-Ghazali's answer has two layers.
+
+99
+00:08:14.380 --> 00:08:22.350
+The first layer: God has a custom, that is, God makes events flow within a settled order, and that order is not an arbitrary chaos.
+
+100
+00:08:22.350 --> 00:08:28.240
+The second layer is subtler: God also creates in us the knowledge that this order will hold.
+
+101
+00:08:28.240 --> 00:08:36.050
+So our certainty that the book has not become a horse comes not from a guarantee hidden in the nature of the book, but from a trust that has been given to us.
+
+102
+00:08:36.050 --> 00:08:38.580
+In practice nothing changes.
+
+103
+00:08:38.580 --> 00:08:42.230
+We make our decisions in exactly the same way.
+
+104
+00:08:42.230 --> 00:08:47.000
+What changes is the name of the ground beneath those decisions.
+
+105
+00:08:47.000 --> 00:08:51.130
+And why al-Ghazali did this is plain.
+
+106
+00:08:51.130 --> 00:08:58.300
+If the burning power of fire were a logical necessity, then not a single moment in which fire did not burn would be possible;
+
+107
+00:08:58.300 --> 00:09:10.750
+and in that case the extraordinary events recounted in scripture — Abraham not burning in the fire, the staff turning into a serpent, the dead being raised — would be not merely unrealized, but unthinkable.
+
+108
+00:09:10.750 --> 00:09:14.080
+Al-Ghazali did not want to close that door.
+
+109
+00:09:14.080 --> 00:09:19.330
+By breaking the philosophers' claim of necessity, he widened the field of the possible.
+
+110
+00:09:19.330 --> 00:09:24.580
+But the price of what he did was very high, and there were those who noticed it immediately.
+
+111
+00:09:24.580 --> 00:09:29.670
+Because the same move, while making room for miracles, also touched science.
+
+112
+00:09:29.670 --> 00:09:35.400
+If the burning of fire does not come from fire, what is the point of studying fire?
+
+113
+00:09:35.400 --> 00:09:40.330
+Can investigating nature be anything more than taking a photograph of a custom?
+
+114
+00:09:40.330 --> 00:09:48.140
+The man who voiced this objection most powerfully was born fifteen years after al-Ghazali's death, at the other end of the Islamic world.
+
+115
+00:09:48.140 --> 00:09:51.790
+Averroes was born in eleven twenty-six in Córdoba.
+
+116
+00:09:51.790 --> 00:09:57.520
+He was a judge, a physician, and the most meticulous commentator on Aristotle.
+
+117
+00:09:57.520 --> 00:10:05.490
+He wrote a line-by-line reply to al-Ghazali's book: Tahafut al-Tahafut, that is, The Incoherence of the Incoherence.
+
+118
+00:10:05.490 --> 00:10:12.340
+His method is striking; he quotes al-Ghazali's sentences at length, then writes his own answer beneath them.
+
+119
+00:10:12.340 --> 00:10:15.190
+It reads like the transcript of a debate.
+
+120
+00:10:15.190 --> 00:10:21.400
+On the matter of fire and cotton, Averroes' counter-move is not theological but linguistic and logical.
+
+121
+00:10:21.400 --> 00:10:26.970
+He says this: if burning does not belong to fire, then what does the word "fire" name?
+
+122
+00:10:26.970 --> 00:10:32.540
+To know a thing is to know what it does, how it behaves, what nature is proper to it.
+
+123
+00:10:32.540 --> 00:10:41.950
+Abolish natures, and what remains in your hands is a heap of events whose names resemble nothing; no word carries a fixed meaning, no definition can be made.
+
+124
+00:10:41.950 --> 00:10:50.400
+For him, to deny causes is to deny reason, because what we call reason is precisely the capacity to grasp things together with their causes.
+
+125
+00:10:50.400 --> 00:10:53.570
+Averroes' second point is more conciliatory.
+
+126
+00:10:53.570 --> 00:11:04.260
+Fire burning cotton is not a single power working all on its own; the dryness of the cotton, the oxygen in the air, the duration of the contact, all of it is part of the business.
+
+127
+00:11:04.260 --> 00:11:10.630
+What observation gives us, then, is not a simple "this did that", but an order of many conditions.
+
+128
+00:11:10.630 --> 00:11:19.560
+Averroes did not give up seeing the ultimate source of that order in God; what he rejected was leaving nature without an agent in order to be able to count God as the agent.
+
+129
+00:11:19.560 --> 00:11:27.690
+For him, secondary causes — that is, the effects things have of their own — are not a rival to God, but God's manner of working.
+
+130
+00:11:27.690 --> 00:11:31.820
+The quarrel between these two great names locks here.
+
+131
+00:11:31.820 --> 00:11:38.350
+Al-Ghazali says one cannot pass from observation to necessity, and he fills the gap with God's custom.
+
+132
+00:11:38.350 --> 00:11:44.720
+Averroes says that if you accept that gap, knowledge itself will collapse, and he calls natures back.
+
+133
+00:11:44.720 --> 00:11:49.170
+Both were saying something true, and the argument did not close.
+
+134
+00:11:49.170 --> 00:11:54.740
+This book of Averroes' was translated into Latin at the beginning of the fourteenth century.
+
+135
+00:11:54.740 --> 00:12:03.350
+The result was this: Europe read al-Ghazali's sentences about fire and cotton largely from the pen of the man who quoted them in order to refute them.
+
+136
+00:12:03.350 --> 00:12:10.360
+It is one of the strange ironies in the history of thought; an objection traveled inside the very book that rejected it.
+
+137
+00:12:10.360 --> 00:12:13.530
+Now let us leap six centuries forward.
+
+138
+00:12:13.530 --> 00:12:23.900
+In eighteenth-century Scotland, a man not yet thirty years old, in a completely different world and for completely different reasons, is sitting on top of the very same gap.
+
+139
+00:12:23.900 --> 00:12:29.790
+David Hume's concern was not miracles, not theology, not the agency of God.
+
+140
+00:12:29.790 --> 00:12:32.640
+His concern was the human mind.
+
+141
+00:12:32.640 --> 00:12:44.610
+In his great first book, A Treatise of Human Nature, and later in the more lucid Enquiry Concerning Human Understanding, the question he asked was this: where does the idea of "cause" in our minds come from?
+
+142
+00:12:44.610 --> 00:12:47.460
+His example is the billiard ball.
+
+143
+00:12:47.460 --> 00:12:51.910
+One ball rolls, it strikes a second, the second moves.
+
+144
+00:12:51.910 --> 00:12:55.240
+Let us put the scene under a microscope.
+
+145
+00:12:55.240 --> 00:12:56.970
+What is there?
+
+146
+00:12:56.970 --> 00:12:59.340
+The motion of the first ball.
+
+147
+00:12:59.340 --> 00:13:01.070
+Contact.
+
+148
+00:13:01.070 --> 00:13:04.080
+The motion of the second ball.
+
+149
+00:13:04.080 --> 00:13:07.410
+Three events, one sequence.
+
+150
+00:13:07.410 --> 00:13:10.580
+Now, which of these events is the "power"?
+
+151
+00:13:10.580 --> 00:13:12.150
+None of them.
+
+152
+00:13:12.150 --> 00:13:14.520
+You see the power nowhere.
+
+153
+00:13:14.520 --> 00:13:24.090
+He gives another example: bread has nourished me before, but in the look of the bread, in its smell, in its colour, there is nothing that shows it will nourish me again.
+
+154
+00:13:24.090 --> 00:13:29.820
+Turn the idea of bread over as much as you like — nourishment will never come out of it.
+
+155
+00:13:29.820 --> 00:13:35.870
+Where Hume arrives is this: the only thing observation gives us is constant conjunction.
+
+156
+00:13:35.870 --> 00:13:46.560
+As this conjunction repeats, a tendency forms in the mind; on seeing the first, it begins to expect the second — indeed, it becomes unable to stop itself from expecting.
+
+157
+00:13:46.560 --> 00:13:49.570
+This inner compulsion he calls habit.
+
+158
+00:13:49.570 --> 00:13:54.820
+The necessity is real, but it does not lie in the objects; it lies in us.
+
+159
+00:13:54.820 --> 00:14:00.550
+And we project this inner feeling outward, onto the world, and say "fire has the power to burn."
+
+160
+00:14:00.550 --> 00:14:07.240
+It matters to see that al-Ghazali and Hume are standing in the same place while looking in different directions.
+
+161
+00:14:07.240 --> 00:14:13.290
+In the negative claim they agree: observation does not give us necessity.
+
+162
+00:14:13.290 --> 00:14:16.620
+They part ways in what they use to fill the gap.
+
+163
+00:14:16.620 --> 00:14:20.110
+For al-Ghazali, what is there is the custom of God.
+
+164
+00:14:20.110 --> 00:14:24.080
+For Hume, what is there is the habit of human beings.
+
+165
+00:14:24.080 --> 00:14:35.730
+There is no evidence whatsoever that Hume read al-Ghazali; he may have encountered an echo of these ideas through writers he is known to have read, such as Malebranche, but the resemblance is not a transmission.
+
+166
+00:14:35.730 --> 00:14:41.460
+It is two people striking the same stone from two different places and finding the same crack.
+
+167
+00:14:41.460 --> 00:14:49.750
+That crack was so unsettling that in seventeen eighty-three Kant wrote that the thing which woke him from his dogmatic slumber was precisely this objection of Hume's.
+
+168
+00:14:49.750 --> 00:14:58.360
+Kant's solution was to give necessity neither to the world nor to habit; he positioned causality as a form the mind uses in constructing experience.
+
+169
+00:14:58.360 --> 00:15:02.330
+The debate thus changed shape, but the gap did not close.
+
+170
+00:15:02.330 --> 00:15:07.420
+If all of this sounds like a matter for the seminar room, let us now return to the kitchen.
+
+171
+00:15:07.420 --> 00:15:13.150
+Because the mechanism Hume calls habit does not operate only in solid cases like fire and cotton.
+
+172
+00:15:13.150 --> 00:15:16.320
+It operates always, in everything.
+
+173
+00:15:16.320 --> 00:15:19.330
+And it does not discriminate.
+
+174
+00:15:19.330 --> 00:15:21.700
+Think of a shirt.
+
+175
+00:15:21.700 --> 00:15:24.390
+The day you wore it, your team won.
+
+176
+00:15:24.390 --> 00:15:27.880
+You wore it a second time, and they won again.
+
+177
+00:15:27.880 --> 00:15:31.210
+In the third week you chose that shirt deliberately.
+
+178
+00:15:31.210 --> 00:15:36.140
+Even if you told no one, a small connection had formed inside you.
+
+179
+00:15:36.140 --> 00:15:38.830
+The same mechanism.
+
+180
+00:15:38.830 --> 00:15:45.520
+The succession of two events, the expectation, the expectation turning into a feeling of necessity.
+
+181
+00:15:45.520 --> 00:15:52.690
+The mind does not ask "is this connection meaningful, or is it coincidence?" It looks at frequency and it forms a link.
+
+182
+00:15:52.690 --> 00:15:58.740
+Between fire burning cotton and a lucky shirt, in terms of mechanism, there is no difference.
+
+183
+00:15:58.740 --> 00:16:05.910
+The difference lies in the world behaving differently in those two cases; but the mechanism itself cannot see that from the inside.
+
+184
+00:16:05.910 --> 00:16:07.800
+You had a backache.
+
+185
+00:16:07.800 --> 00:16:10.490
+For a week it would not go away.
+
+186
+00:16:10.490 --> 00:16:17.340
+On the fifth day you tried something: an ointment, an exercise, a mixture somebody recommended.
+
+187
+00:16:17.340 --> 00:16:20.030
+On the sixth day the pain was gone.
+
+188
+00:16:20.030 --> 00:16:21.600
+What do you say?
+
+189
+00:16:21.600 --> 00:16:31.970
+"That worked." And yet most backaches, most colds, most passing complaints resolve on their own, and people start trying something at exactly the moment they feel worst.
+
+190
+00:16:31.970 --> 00:16:36.100
+What comes after the worst moment is almost always a better moment.
+
+191
+00:16:36.100 --> 00:16:42.310
+So even if the intervention does nothing at all, it still manages to land right alongside the recovery.
+
+192
+00:16:42.310 --> 00:16:48.840
+That gap between "together with" and "because of" is skipped over, right here, millions of times, entirely unnoticed.
+
+193
+00:16:48.840 --> 00:16:53.290
+There is a small experiment that shows how fundamental this tendency is.
+
+194
+00:16:53.290 --> 00:17:02.060
+Skinner, in a study he published in nineteen forty-eight, put pigeons in a box and delivered food at regular intervals, no matter what the birds did.
+
+195
+00:17:02.060 --> 00:17:06.350
+There was no real connection at all between the food and the behaviour.
+
+196
+00:17:06.350 --> 00:17:18.320
+Even so, most of the birds developed their own peculiar rituals; one would swing its head in a particular direction, one would turn in circles inside the box, one would stretch its beak towards a certain corner.
+
+197
+00:17:18.320 --> 00:17:23.730
+Whatever they happened to be doing just before the food arrived, they began to repeat.
+
+198
+00:17:23.730 --> 00:17:28.020
+An empty connection turned into a belief purely because of timing.
+
+199
+00:17:28.020 --> 00:17:34.230
+A good example of just how old, and just how crude, our tool for building causes really is.
+
+200
+00:17:34.230 --> 00:17:37.080
+Now the final layer.
+
+201
+00:17:37.080 --> 00:17:45.850
+Humanity could not close this gap, but it learned what to do with it, and today the institutions we trust most are built precisely around this gap.
+
+202
+00:17:45.850 --> 00:17:48.860
+How do we know whether a drug actually works?
+
+203
+00:17:48.860 --> 00:17:54.910
+Not by giving it to patients and watching them get better; that is just a more expensive version of the lucky shirt.
+
+204
+00:17:54.910 --> 00:18:04.000
+Instead, we do something strange: we split people into two groups using the most meaningless method available to us, the logic of a coin toss.
+
+205
+00:18:04.000 --> 00:18:13.730
+One group receives the drug, the other an imitation that cannot be told apart from it, and most of the time we make sure that neither the patient nor the doctor knows which is which.
+
+206
+00:18:13.730 --> 00:18:16.420
+Why go to all this trouble?
+
+207
+00:18:16.420 --> 00:18:22.790
+Because we now know that the sentence "I gave them this, and then they got better" proves nothing at all.
+
+208
+00:18:22.790 --> 00:18:27.720
+What we call the control group is an institutional answer to Hume's objection.
+
+209
+00:18:27.720 --> 00:18:37.290
+The necessity that observation refuses to give us, we try to force into being by constructing a world in which the only systematic difference is the intervention itself.
+
+210
+00:18:37.290 --> 00:18:44.620
+A large part of modern statistics amounts to nothing more than writing the rules for when we are entitled to say "because of".
+
+211
+00:18:44.620 --> 00:18:54.030
+The line "correlation is not causation" is the residue of an eleventh-century debate in Islamic theology, worn down until it fell into everyday speech.
+
+212
+00:18:54.030 --> 00:18:58.000
+So the end of the story is not that someone won.
+
+213
+00:18:58.000 --> 00:19:05.810
+The opening al-Ghazali pointed to was never closed; science did not get past it, it learned to work alongside it.
+
+214
+00:19:05.810 --> 00:19:12.340
+The regularity of nature is still not a proven theorem today; it is a fact on which we build everything.
+
+215
+00:19:12.340 --> 00:19:19.030
+And Averroes' warning still stands: without taking that order seriously, we can neither speak nor think.
+
+216
+00:19:19.030 --> 00:19:23.320
+What remains is something practical, and a little unsettling.
+
+217
+00:19:23.320 --> 00:19:30.330
+Habit is strongest where it has seen the most repetition; in cases like fire and cotton, that is exactly what saves us.
+
+218
+00:19:30.330 --> 00:19:36.540
+But the very same mechanism can also produce a feeling of complete certainty after only three repetitions.
+
+219
+00:19:36.540 --> 00:19:40.510
+The lucky shirt feels every bit as certain as fire.
+
+220
+00:19:40.510 --> 00:19:45.280
+Which means our sense of certainty is not measuring the real amount of certainty at all.
+
+221
+00:19:45.280 --> 00:19:50.370
+The only thing it measures is how many times we have seen two things side by side.
+
+222
+00:19:50.370 --> 00:19:55.460
+The single antidote to this is catching that one small word in everyday life.
+
+223
+00:19:55.460 --> 00:20:01.190
+When you describe something that happened, do you say "and then", or do you say "because of"?
+
+224
+00:20:01.190 --> 00:20:06.920
+If it was the second, did you find that word out in the world, or did you add it yourself?
+
+225
+00:20:06.920 --> 00:20:15.370
+Most of the time the answer is surprising, and that question is the most useful piece we still hold of the crack that fire and cotton opened a thousand years ago.
+
+226
+00:20:15.370 --> 00:20:17.420
+---
+
+227
+00:20:17.420 --> 00:20:30.990
+Küçük bir kusur: çeviri, kaynaktaki 2 boş satırı yutmuş (`philosophy.txt:34-35` ve `59-60`; kaynakta `felsefe.txt:34-36` arasında boş satır var).
+
+228
+00:20:30.990 --> 00:20:40.560
+Paragraf sayısı 49'da eşit kaldığı için `ceviri_uret.py`'nin doğrulaması bunu görmüyor, ama o iki yerde paragraf sınırı kayboluyor.
+
+229
+00:20:40.560 --> 00:20:47.410
+İsterseniz bu iki boş satırı ekleyip doğrulamaya "boş satır dizisi de aynı olmalı" kontrolünü koyabilirim.
+
+230
+00:20:47.410 --> 00:20:51.060
+Nöron Philosophy'de bugünkü bölümün sonuna geldik.
+
+231
+00:20:51.060 --> 00:20:54.550
+Yeni bir hikâyede yeniden buluşmak üzere.
