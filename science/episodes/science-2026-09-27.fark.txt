@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-09-27.mp3
+
+beklenen 2936 kelime | duyulan 2940 kelime | eşleşme %98.9
+sayı ifadesi: metinde 104, duyulanda 101  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...not sitting stil but
+      metin  : travelling
+      duyulan: traveling
+  REPLACE  ...ring together with alfred
+      metin  : shapeer
+      duyulan: shaper
+  REPLACE  ...the way around the
+      metin  : ban
+      duyulan: band
+  REPLACE  ...that energy heats up
+      metin  : and
+      duyulan: then
+  REPLACE  ...this state the name
+      metin  : floquet
+      duyulan: floquate
+  INSERT   ...the parameters by and
+      metin  : (yok)
+      duyulan: then
+  DELETE   ...weer passing that alignment
+      metin  : to
+      duyulan: (YOK — atlanmış)
+  INSERT   ...to equilibrium the other
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...the real job arrived
+      metin  : ashok ajoy
+      duyulan: a shock of joy
+  REPLACE  ...is between half a
+      metin  : kilohertz
+      duyulan: khz
+  REPLACE  ...half a kilohertz and
+      metin  : kilohertz
+      duyulan: khz
+  REPLACE  ...aalto university in finland
+      metin  : jeer mäkinen
+      duyulan: jerry mackinnon
+  REPLACE  ...hanqing zhao and ivan
+      metin  : smalyukh
+      duyulan: smalyuk
+  REPLACE  ...this very month the
+      metin  : dortmund
+      duyulan: dortmann
+  REPLACE  ...being as much as
+      metin  : micrometres
+      duyulan: micrometers
+  REPLACE  ...the comparison themselves in
+      metin  : christiaan
+      duyulan: christian
+  REPLACE  ...is repetition in space
+      metin  : a
+      duyulan: wheer
+  REPLACE  ...to lock it to
+      metin  : nöron
+      duyulan: naran
+  REPLACE  ...to nöron science de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: buggen küberlümen sonanagaldik jeni hikäe de jenidän bulushma kuzerä
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-09-27.duyulan.txt

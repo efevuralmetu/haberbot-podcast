@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-27.mp3
+
+beklenen 1981 kelime | duyulan 2007 kelime | eşleşme %95.6
+sayı ifadesi: metinde 247, duyulanda 202  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tuz
+      metin  : kristaline
+      duyulan: kristalliğine
+  REPLACE  ...insanı ürküten manzara çıkar
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...da vardır kristale röntgen
+      metin  : ışını
+      duyulan: ışığını
+  REPLACE  ...nün sahiplerinden olan frank
+      metin  : vilçek
+      duyulan: wilczek
+  INSERT   ...ayrı defter gibi düşünmüyoruz
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...değil doğrudan enerjinin korunumudur
+      metin  : vilçek
+      duyulan: wilczek
+  REPLACE  ...yakmaktadır bırakırsanız hepsi durur
+      metin  : vilçek
+      duyulan: wilczek
+  REPLACE  ...sanıldığını anlamak önemli sürekli
+      metin  : devinim
+      duyulan: devinin
+  REPLACE  ...olarak sonsuza kadar dolanır
+      metin  : vilçek
+      duyulan: wilchek
+  REPLACE  ...etrafında dolanmak olsun alfred
+      metin  : shapeer
+      duyulan: schapeer
+  INSERT   ...verdi i lk darbe
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i lk darbe geldi
+      metin  : grenobl
+      duyulan: grenoblev
+  REPLACE  ...geldi grenobl deki avrupa
+      metin  : sinkrotron işınım tesisi nde
+      duyulan: synchrotron i şinin tesisinde
+  INSERT   ...dönemez ama gerçek darbe
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...haruki watanabe ve masaki
+      metin  : oşikava
+      duyulan: oshikawa
+  REPLACE  ...kanıtladıkları teoremin özü kuantum
+      metin  : mekaniğini
+      duyulan: mekanini
+  REPLACE  ...da söylerler watanabe ve
+      metin  : oşikava
+      duyulan: oshikawa
+  REPLACE  ...bu enerjiyi yutar ısınır
+      metin  : sonunda
+      duyulan: dosonunda
+  REPLACE  ...barınmaz kurtarıcı çok cisim
+      metin  : yerelleşmesi
+      duyulan: yerleşmesi
+  INSERT   ...içinde dağıtamaz isınmayı reddeder
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sürülen spin zincirinin faz
+      metin  : diyagramını
+      duyulan: diagramını
+  REPLACE  ...aynı yıl bu duruma
+      metin  : floke
+      duyulan: flocke
+  REPLACE  ...sycamoer adlı kuantum işlemcisinde
+      metin  : kübiti
+      duyulan: kubiti
+  INSERT   ...sınırlıydı yüzlerce çevrim yani
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...dortmund teknik üniversitesi nde
+      metin  : aleks graylih
+      duyulan: alex grayley
+  REPLACE  ...aleks graylih in ekibi
+      metin  : indiyum galyum
+      duyulan: indium gallium
+  REPLACE  ...zamanın kesikli değil kesintisiz
+      metin  : tekdüzeliğiydi
+      duyulan: tek düzeli idi
+  REPLACE  ...ibm in kübitlik heron
+      metin  : riki
+      duyulan: ricky
+  INSERT   ...riki işlemcisinin kübitini süslenmiş
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...işi kurtaran çok cisim
+      metin  : yerelleşmesinin
+      duyulan: yerleşmesinin
+  INSERT   ...kalamayacağı ciddi biçimde kuşkuluydu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...salınımı görmekle kalmadı faz
+      metin  : diyagramının
+      duyulan: diagramının
+  REPLACE  ...kristali fazı sonuçları tensör
+      metin  : ağı
+      duyulan: ağa
+  REPLACE  ...ilk gerçek iş geldi
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...fiziği enstitüsü nden paul
+      metin  : şindler
+      duyulan: schindler
+  REPLACE  ...fazın en güçlü yanı
+      metin  : katılığıysa
+      duyulan: katılığı ize
+  REPLACE  ...yapıyor sonuç yalnızca ayarlandığı
+      metin  : frekansta
+      duyulan: frekantsta
+  REPLACE  ...aalto üniversitesi nde açıldı
+      metin  : yeer
+      duyulan: jeer
+  REPLACE  ...mutlak çok yakın sıcaklıklarda
+      metin  : süperakışkan helyum
+      duyulan: süper akışkan helium
+  REPLACE  ...de görülebilen örnek var
+      metin  : eylülünde
+      duyulan: ki eylül ünde
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 71
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: bilim-2026-09-27.duyulan.txt

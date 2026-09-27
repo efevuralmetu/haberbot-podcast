@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-27.mp3
+
+beklenen 2615 kelime | duyulan 2636 kelime | eşleşme %90.6
+sayı ifadesi: metinde 409, duyulanda 260  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...binlerce kilometer uzakta duran
+      metin  : yünnan
+      duyulan: yunan
+  REPLACE  ...civarında çocuk doğdu adı
+      metin  : ma hı ydi
+      duyulan: mahı idi
+  REPLACE  ...boyunca müslüman kalmış soydandı
+      metin  : ma hı nin
+      duyulan: mahı nın
+  REPLACE  ...ailesi soylarını yuan hanedanının
+      metin  : yünnan
+      duyulan: yunan
+  REPLACE  ...seyyid ecel şemsüddin ömer
+      metin  : a
+      duyulan: e
+  REPLACE  ...yani de o çağda
+      metin  : yünnan
+      duyulan: yunan
+  REPLACE  ...edemeyeceği yerde yeniden duyacağız
+      metin  : yünnan yetmişlerin
+      duyulan: yunan lerin
+  REPLACE  ...kuzeyde moğol hanedanı çökmüş
+      metin  : çu yüencang
+      duyulan: chu yuanzhang
+  REPLACE  ...adlı köylü çocuğu kendini
+      metin  : hongvu unvanıyla
+      duyulan: hongwu ünvanıyla
+  REPLACE  ...ming hanedanı kurulmuştu ama
+      metin  : yünnan
+      duyulan: yunan
+  INSERT   ...elçilerden öldürüldü bunun üzerine
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...hayatına son verdi ve
+      metin  : yünnan
+      duyulan: de yunnan
+  REPLACE  ...bastırılması aylar sürdü ve
+      metin  : ma hı nin
+      duyulan: mahı nın
+  INSERT   ...nin babası bu çatışmaların
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...geçirildi sonra kuzeye gönderildi
+      metin  : yünnan
+      duyulan: yunnan
+  REPLACE  ...öbür ucuna vardığı yer
+      metin  : beyping di o şehir gün beycing
+      duyulan: beiping ti
+  REPLACE  ...nefesinin duyulduğu garnizon kentiydi
+      metin  : ma hı nin
+      duyulan: mahı nın
+  REPLACE  ...adamlarından olan bu çocuk
+      metin  : yünnan
+      duyulan: yunnan
+  REPLACE  ...dönemin törenler bakanı li
+      metin  : çıgang a
+      duyulan: çiganga
+  REPLACE  ...taş yüzyıllar sonra bulunduğunda
+      metin  : çeng hı nin
+      duyulan: cheng hün in
+  REPLACE  ...geriye kalan tek belgesi
+      metin  : oğulun
+      duyulan: oğlun
+  REPLACE  ...girmenin ne demek olduğu
+      metin  : imparator hongvu
+      duyulan: de i mparator hongwu
+  INSERT   ...tahta oğulları değil torunu
+      metin  : (yok)
+      duyulan: jianwen
+  REPLACE  ...yeni imparator genç çevresi
+      metin  : konfüçyüsçü
+      duyulan: konfüçyüzcü
+  REPLACE  ...ilk işi amcalarının kanatlarını
+      metin  : kırpmak
+      duyulan: kırtmak
+  REPLACE  ...sürgüne yollandı kendini yaktı
+      metin  : çu
+      duyulan: chu
+  INSERT   ...sıranın kendisine geldiğini gördü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sürecek mücadele başladı ma
+      metin  : hı
+      duyulan: hü
+  REPLACE  ...değildi i mparatorluk ordusu
+      metin  : beyping
+      duyulan: beiping
+  REPLACE  ...orada gösterdiği yararlılık unutulmadı
+      metin  : çu
+      duyulan: de chu
+  REPLACE  ...çu di güneye başkent
+      metin  : nancing
+      duyulan: nansing
+  REPLACE  ...e yürüdüğünde de yanındaydı
+      metin  : nancing
+      duyulan: nansing
+  INSERT   ...bölümü yandı yangının içinde
+      metin  : (yok)
+      duyulan: jianwen
+  REPLACE  ...olarak hala yaşadığı söylentisi
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...nin arkasından yıllarca fısıldandı
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...yazıldı başkent güneyden kuzeye
+      metin  : beycing
+      duyulan: beijing
+  REPLACE  ...daha vardı ve en
+      metin  : gösterişlisiydi
+      duyulan: gösteriştisiydi
+  INSERT   ...kadar kendi büyüklüğünü göstermesi
+      metin  : (yok)
+      duyulan: dong
+  REPLACE  ...büyüklüğünü göstermesi şubat yongle
+      metin  : ma hı ye
+      duyulan: mahı ya
+  REPLACE  ...ye yeni soyadı verdi
+      metin  : çeng
+      duyulan: cheng
+  ... ve 93 fark daha
+
+metinde olup DUYULMAYAN: 174 kelime | duyulup metinde OLMAYAN: 202
+bölme/birleşme farkı (hata değil, elendi): 38
+
+duyulan metin: biyografi-2026-09-27.duyulan.txt

@@ -1,0 +1,79 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-27.mp3
+
+beklenen 1406 kelime | duyulan 1405 kelime | eşleşme %98.0
+sayı ifadesi: metinde 199, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...var ve bu adı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...daniel kahneman ile amos
+      metin  : tverski
+      duyulan: tversky
+  INSERT   ...sürede bitirdi ve yaklaşık
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...eğitimli tahmin uzmanlarıydı yanılgının
+      metin  : kaşifiydi
+      duyulan: keşifiydi
+  REPLACE  ...waterloo üniversitesi nde roger
+      metin  : büler
+      duyulan: bueller
+  INSERT   ...roger büler ve arkadaşlarının
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yanılgı da büyüyor kaybolmuyor
+      metin  : sidney
+      duyulan: sydney
+  INSERT   ...en ünlü örnek ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bütçeyle yola çıkılmıştı ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...takvimin ilerisine attığın her
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...kurumsal yönteme dönüştü bent
+      metin  : flüvbyer
+      duyulan: flüvbjerg
+  DELETE   ...ulaştırma ve maliye idareleri
+      metin  : binlerin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...günden sonra tahmin yapmayı
+      metin  : bırakıp
+      duyulan: yapıp
+  REPLACE  ...değil çoğu zaman bu
+      metin  : çeviride
+      duyulan: çevirde
+  REPLACE  ...girmek rakamı doğrulamak için
+      metin  : beklemek
+      duyulan: yapmak
+  DELETE   ...kendi çalışma hızını fena
+      metin  : tahmin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...cümle neden bu kadar
+      metin  : basit
+      duyulan: büyük
+  DELETE   ...insanlarla arandaki şeyi de
+      metin  : değiştiriyor
+      duyulan: (YOK — atlanmış)
+  DELETE   ...cumartesiye kadar yaparım diyen
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  DELETE   ...durumun süreklileşmiş çaresizliğe dönüşmesi
+      metin  : başka
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yaşadığın hayatı planlamaya başlıyorsun
+      metin  : sidney
+      duyulan: sydney
+  REPLACE  ...ve açmak dakika sürüyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 17
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: psikoloji-2026-09-27.duyulan.txt

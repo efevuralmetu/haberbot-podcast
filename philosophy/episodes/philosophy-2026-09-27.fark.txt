@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-27.mp3
+
+beklenen 3455 kelime | duyulan 3386 kelime | eşleşme %97.9
+sayı ifadesi: metinde 144, duyulanda 119  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...henri bergson published in
+      metin  : le
+      duyulan: la
+  REPLACE  ...reflex a human being
+      metin  : apologises
+      duyulan: apologizes
+  REPLACE  ...the street in shopping
+      metin  : centres
+      duyulan: centers
+  INSERT   ...a very cold definition
+      metin  : (yok)
+      duyulan: that
+  INSERT   ...an incapacity a crookedness
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...but of a brief
+      metin  : anaesthesia
+      duyulan: anesthesia
+  INSERT   ...he divided the field
+      metin  : (yok)
+      duyulan: in
+  DELETE   ...carries the same idea
+      metin  : up
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...other extreme stands the
+      metin  : boor
+      duyulan: boar
+  REPLACE  ...the quran called al
+      metin  : hujurat
+      duyulan: hujarat
+  REPLACE  ...in his great work
+      metin  : ihya ulum
+      duyulan: iya ullum
+  REPLACE  ...their walk or their
+      metin  : shortcoming
+      duyulan: shortcomings
+  INSERT   ...that others wil laugh
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...been the sitting thrones
+      metin  : nasreddin hodja
+      duyulan: nasred and hoxha
+  REPLACE  ...tradition he died in
+      metin  : akşehir
+      duyulan: akshahir
+  REPLACE  ...in which means the
+      metin  : hodja
+      duyulan: hoxha
+  REPLACE  ...sword that is how
+      metin  : nasreddin
+      duyulan: nasred and
+  REPLACE  ...of the stories the
+      metin  : hodja
+      duyulan: hoxha
+  REPLACE  ...forms as wel the
+      metin  : karagöz
+      duyulan: karago s
+  INSERT   ...tricks of the tradesmen
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...the hypocrisy of the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...screen granted both the
+      metin  : licence
+      duyulan: license
+  REPLACE  ...address of humor was
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...brought out by teodor
+      metin  : kasap
+      duyulan: kasup
+  REPLACE  ...it was silenced altogether
+      metin  : kasap
+      duyulan: kasup
+  REPLACE  ...meaning fantasy became famous
+      metin  : karagöz
+      duyulan: karago
+  REPLACE  ...the constitution the kanun
+      metin  : ı esasi
+      duyulan: i asasi
+  REPLACE  ...a tactic attributed to
+      metin  : gorgias
+      duyulan: gorges
+  REPLACE  ...no printing press no
+      metin  : licence
+      duyulan: license
+  REPLACE  ...a move to make
+      metin  : nasreddin hodja
+      duyulan: nasrid nhoja
+  DELETE   ...is a conversation beginning
+      metin  : not bu kanal podcast philosophy json uyarınca çeviri kanalı language en kaynak kanal felsefe o metin bugünün felsefe txt bölümünün i ngilizce çevirisi olarak yazıldı içerik eklenmedi çıkarılmadı mood işaret satırları aynen korundu ceviri uret py doğrulaması i ngilizce kanalda rakam kabul etmediği türkçe normalizasyon zinciri atlanıyor için sayılar yazıyla yazıldı giriş kancası ve kapanış cümlesi senin eklediğin kısımlar olduğu için yazılmadı nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 103 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-09-27.duyulan.txt

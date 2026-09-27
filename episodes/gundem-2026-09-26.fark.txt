@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-26.mp3
+
+beklenen 1426 kelime | duyulan 1444 kelime | eşleşme %93.0
+sayı ifadesi: metinde 306, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...az hafta daha süreceği
+      metin  : beklentisini
+      duyulan: beklenti şahesini
+  REPLACE  ...ran dışişleri bakanı abbas
+      metin  : arakçi
+      duyulan: arakçı
+  REPLACE  ...ve bu durum küresel
+      metin  : enerji ile
+      duyulan: enerjiyle
+  REPLACE  ...vurgulayan karar tasarısı hazırlıyor
+      metin  : metnin boğazın
+      duyulan: metin boğaz ın
+  REPLACE  ...unsurların eylül de cape
+      metin  : dao
+      duyulan: dow
+  INSERT   ...mürettebatın hayatını kaybettiği ve
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...milletler genel kurulu nun
+      metin  : oturumundaki
+      duyulan: oturmundaki
+  REPLACE  ...nin yapısal reformu çağrısını
+      metin  : yineledi
+      duyulan: yeneledi
+  REPLACE  ...diplomasi trafiği yavaş ilerliyor
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelenskyi
+  INSERT   ...önleyen geçici finansman tasarısını
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...etti düzenleme federal harcamaları
+      metin  : aralığa
+      duyulan: aralık a
+  REPLACE  ...federal harcamaları aralığa kadar
+      metin  : güvenceye
+      duyulan: güvenceyi
+  INSERT   ...senato nun sandalyesi ve
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...oluşturuluyor girişimin yönetimi için
+      metin  : sriram krişnan
+      duyulan: sri ram krishnan
+  REPLACE  ...değerlendirme süreçleri için ortak
+      metin  : çerçeve
+      duyulan: çeve
+  REPLACE  ...veri merkezleri nin geliştirdiği
+      metin  : sahalarda
+      duyulan: sağlarda
+  REPLACE  ...ilk sonucunu da paylaştı
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...denemede yapay zeka çiplerinin
+      metin  : uzay
+      duyulan: uygulama
+  REPLACE  ...haber sitesi araştırma kuruluşu
+      metin  : cdörtads
+      duyulan: cd ortides
+  REPLACE  ...nvidia grafik işlemcisinin vietnam
+      metin  : malezya
+      duyulan: malazya
+  REPLACE  ...yönlendirildiğini tespit etmesinin ardından
+      metin  : konger de
+      duyulan: kongrede
+  INSERT   ...şirketler için yıllık cironun
+      metin  : (yok)
+      duyulan: sına
+  DELETE   ...öngörülüyor gelişim hızının yavaşlatılıp
+      metin  : yavaşlatılmaması
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...daha temkinli tempo çağrısını
+      metin  : yinelerken
+      duyulan: yenelerken
+  REPLACE  ...amerikan merkez bankası yani
+      metin  : fed
+      duyulan: fet
+  REPLACE  ...deki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...ağustosta manşet kişisel tüketim
+      metin  : harcamaları
+      duyulan: piyasaları
+  REPLACE  ...tarafında tepki ölçülü kaldı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...işlem günü sakin geçti
+      metin  : bist
+      duyulan: beyes te
+  DELETE   ...lira euro artışla lira
+      metin  : seviyesindeydi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yıl öncesine göer yaklaşık
+      metin  : (yok)
+      duyulan: lık
+  INSERT   ...eylül toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...halinde duruşun sıkılaştırılacağı mesajını
+      metin  : yineledi
+      duyulan: yeniledi
+  DELETE   ...sıkılaştırılacağı mesajını yineledi türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  INSERT   ...gıda ve alkolsüz içeceklerdeki
+      metin  : (yok)
+      duyulan: luk
+  REPLACE  ...mayıs ayında verilen ve
+      metin  : kurultayını
+      duyulan: kurul tayini
+  REPLACE  ...adliye mahkemesi kararına yönelik
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...temyiz başvurusundan feragat etti
+      metin  : gerekçe
+      duyulan: gerekçi
+  REPLACE  ...feragat etti gerekçe olarak
+      metin  : temyize
+      duyulan: temize
+  REPLACE  ...zmir ve manisa da
+      metin  : gaziemir
+      duyulan: gaziyemir
+  ... ve 12 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: gundem-2026-09-26.duyulan.txt

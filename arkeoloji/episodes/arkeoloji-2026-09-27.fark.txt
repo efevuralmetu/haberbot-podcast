@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-27.mp3
+
+beklenen 2314 kelime | duyulan 2328 kelime | eşleşme %95.9
+sayı ifadesi: metinde 313, duyulanda 237  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çamurun içinde oksijensiz kalmış
+      metin  : vindolanda
+      duyulan: windolanda
+  REPLACE  ...ın rüzgara açık yaylalarında
+      metin  : vindolanda
+      duyulan: windolanda
+  REPLACE  ...en alt en ıslak
+      metin  : en
+      duyulan: diyen
+  REPLACE  ...şeyi sonradan şöyle anlatacaktı
+      metin  : hiyeroglif
+      duyulan: hieroglyph
+  INSERT   ...akla yatkın değildi çünkü
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yazmayan odun kıymığından farksızdı
+      metin  : (yok)
+      duyulan: w
+  REPLACE  ...kararmış tahtanın üzerinde bembeyaz
+      metin  : zemine
+      duyulan: zemini
+  REPLACE  ...listesi çoraplar çift sandal
+      metin  : çift de
+      duyulan: çifte
+  DELETE   ...çift de iç çamaşırı
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...museum dediği kurumun koleksiyonunda
+      metin  : vindolanda
+      duyulan: windolanda
+  INSERT   ...koleksiyonunda vindolanda dan gelmiş
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...eski el yazısı belgeler
+      metin  : vindolanda
+      duyulan: windolanda
+  DELETE   ...sur inşa edildiğinde de
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kilometer güneyde kaldı bugün
+      metin  : stanegate
+      duyulan: stannagate
+  REPLACE  ...hepsi burada ayrıntı daha
+      metin  : vindolanda
+      duyulan: windolanda
+  INSERT   ...kuşaktır aynı aile araziyi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yani oksijensiz ortam deniyor
+      metin  : vindolanda
+      duyulan: windolanda
+  REPLACE  ...mühürlüyordu barakaların zeminine serilen
+      metin  : eğrelti
+      duyulan: eyraltı
+  REPLACE  ...da bu mühürün giriyordu
+      metin  : vindolanda
+      duyulan: windolanda
+  REPLACE  ...dökülmüş balmumuna kazınan sayfalardır
+      metin  : vindolanda
+      duyulan: windolanda
+  INSERT   ...satırda ayrı biçimde çıkabiliyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tarih kitapları hukuk metinleri
+      metin  : vindolanda
+      duyulan: wendolanda
+  REPLACE  ...beklemediği kağıt parçalarıydı bakıma
+      metin  : imparatorluğun
+      duyulan: i mparatorluğu nun
+  REPLACE  ...kutusu ve tam bu
+      metin  : imparatorluğun
+      duyulan: i mparatorluğu nun
+  INSERT   ...ünlü belgesi davetiye metin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ile arasına tarihlendi gönderen
+      metin  : klaudia
+      duyulan: claudia
+  REPLACE  ...lepidina nın kocası flavius
+      metin  : cerialis vindolanda
+      duyulan: gerialis wendolanda
+  REPLACE  ...severa nın kocası aelius
+      metin  : brokkus da
+      duyulan: brokkos ta
+  REPLACE  ...ayın sabit noktasına yani
+      metin  : kalendae
+      duyulan: kalende ye
+  REPLACE  ...yani kalendae idus ve
+      metin  : nonae
+      duyulan: none
+  INSERT   ...i dus u ayın
+      metin  : (yok)
+      duyulan: üne
+  REPLACE  ...lepidina ya yazdığı tek
+      metin  : mektup da
+      duyulan: mektupta
+  REPLACE  ...imgeyi baştan kuruyor hadrianus
+      metin  : suru
+      duyulan: suuru
+  REPLACE  ...ile arasında tungri komutan
+      metin  : yulius
+      duyulan: julius
+  INSERT   ...nerede olduklarını da yazıyor
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...bugünkü corbridge deki üste
+      metin  : valinin
+      duyulan: sı valin in
+  INSERT   ...londra da kalanlar da
+      metin  : (yok)
+      duyulan: lu lu lu
+  REPLACE  ...britonlar diye çevrilebilecek alaycı
+      metin  : küçültme
+      duyulan: küçütme
+  REPLACE  ...başka tablette adını okuyamadığımız
+      metin  : yetkiliye
+      duyulan: yetkiliğe
+  REPLACE  ...ticaret mektubu açık ediyor
+      metin  : oktavius
+      duyulan: octavius
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 71
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: arkeoloji-2026-09-27.duyulan.txt

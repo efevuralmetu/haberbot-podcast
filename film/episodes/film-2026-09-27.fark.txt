@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-27.mp3
+
+beklenen 1567 kelime | duyulan 1567 kelime | eşleşme %94.0
+sayı ifadesi: metinde 269, duyulanda 174  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...paris in güneydoğu ucunda
+      metin  : marn nehri nin
+      duyulan: marnehrinin
+  REPLACE  ...marn nehri nin kıyısında
+      metin  : juanvil lö pon taki
+      duyulan: juan wille ponta ki
+  REPLACE  ...film değil şehir taşıyordu
+      metin  : jak
+      duyulan: jacques
+  INSERT   ...şeyi kanıtlama zorunluluğu yoktu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kanıtlama zorunluluğu yoktu çektiği
+      metin  : jur dö fet
+      duyulan: juer d effet
+  INSERT   ...taşra fransası nı güldürmüştü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fransası nı güldürmüştü le
+      metin  : vakans dö mösyö ülo
+      duyulan: vacance de monsieur hulot
+  REPLACE  ...dö mösyö ülo yani
+      metin  : mösyö ülo nun
+      duyulan: monsieur hulot un
+  REPLACE  ...kumsalda dolaşan o sakar
+      metin  : centilmeni
+      duyulan: sentilmeni
+  INSERT   ...sakar centilmeni dünyaya tanıtmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en iyi yabancı film
+      metin  : oscar ını
+      duyulan: oskarını
+  REPLACE  ...kez daha tatile gönderse
+      metin  : gişe
+      duyulan: dişe
+  INSERT   ...tati başka şeyin peşindeydi
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...için binlerce metrekaer cam
+      metin  : binlerce
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve raylar üzerindeydi tati
+      metin  : kadrajı
+      duyulan: kadracı
+  REPLACE  ...basını buraya kısa sürede
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kısa sürede ad taktı
+      metin  : tativil
+      duyulan: tativille
+  REPLACE  ...kapıyı çaldı dönemin başbakanı
+      metin  : jorj pompidu
+      duyulan: george pompidou
+  REPLACE  ...aracılığıyla fransız bankası kredi
+      metin  : liyone den
+      duyulan: lyon eden
+  REPLACE  ...etti şenlik günü mösyö
+      metin  : ülo
+      duyulan: ulo
+  REPLACE  ...kafilesi vardır içlerinde barbara
+      metin  : denneğin
+      duyulan: denney in
+  REPLACE  ...paris i görmeye çalışır
+      metin  : mösyö ülo
+      duyulan: monsieur hulot
+  REPLACE  ...ele geçirmez ofis binasında
+      metin  : mösyö jifar
+      duyulan: monsieur giffard
+  REPLACE  ...olan tek yıldız değil
+      metin  : kadrajdaki
+      duyulan: kadradaki
+  REPLACE  ...kurulmuştur diyaloglar çekimden sonra
+      metin  : dublajla
+      duyulan: dublaj da
+  INSERT   ...azlığıdır oyun zamanı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...görüntünün bedeli vardı film
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...azdı tati uzun süer
+      metin  : milimeter
+      duyulan: mm
+  INSERT   ...fransa da dakikaya indi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dakikaya indi amerika ya
+      metin  : milimetreye
+      duyulan: mm ye
+  REPLACE  ...çevrilmiş dakikalık versiyon gitti
+      metin  : ülo
+      duyulan: ulo
+  REPLACE  ...örgüsünün olmadığı film buldu
+      metin  : basının
+      duyulan: bağasının
+  REPLACE  ...film yaklaşık bilet sattı
+      metin  : frankın
+      duyulan: don frank ın
+  INSERT   ...alacaklıların yönetimine girdi ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...o hakların bölümüne ancak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...arada çekmeye devam etti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ardından son filmini tamamladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zaman tati nin kızı
+      metin  : sofi tatişef
+      duyulan: sophie taticheff
+  INSERT   ...nın onarılmış dakikalık kopyası
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olmadığı şeye dönüşmüştü klasik
+      metin  : (yok)
+      duyulan: ki de
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: film-2026-09-27.duyulan.txt

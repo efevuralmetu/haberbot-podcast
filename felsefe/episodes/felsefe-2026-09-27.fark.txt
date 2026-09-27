@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-27.mp3
+
+beklenen 2163 kelime | duyulan 2167 kelime | eşleşme %96.9
+sayı ifadesi: metinde 239, duyulanda 195  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...buluşmaya kaldırımın kenarındaki çıkıntıya
+      metin  : ayağı
+      duyulan: ayağa
+  REPLACE  ...bu sahne fransız filozof
+      metin  : anri
+      duyulan: henri
+  INSERT   ...filozof anri bergson un
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anri bergson un yayımladığı
+      metin  : lö rir
+      duyulan: le rier
+  REPLACE  ...sürdü amerikalı sinirbilimci robert
+      metin  : provine
+      duyulan: provin
+  INSERT   ...insanların gülmelerini not etti
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...gülüşle hep birlikte aynı
+      metin  : absürtlüğe
+      duyulan: absürtliğe
+  INSERT   ...ngiliz filozof thomas hobbes
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gülme ani zaferdir hobbes
+      metin  : a
+      duyulan: e
+  REPLACE  ...yaklaşır ve sonuç yine
+      metin  : aşağıyı
+      duyulan: aşağı
+  REPLACE  ...cevabı şudur gülme toplumsal
+      metin  : jesttir
+      duyulan: jestir
+  REPLACE  ...bizi dahil eden insanlardır
+      metin  : froyd
+      duyulan: freud te
+  REPLACE  ...geleneğine gitmek gerekiyor aristoteles
+      metin  : poetika da komedyayı
+      duyulan: poetikada komediyayı
+  REPLACE  ...sadece artık şaka değildir
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...karşılığında yanındakini satan insan
+      metin  : öteki
+      duyulan: ötteki
+  REPLACE  ...doğrulayacak hiçbir aracı yok
+      metin  : hobbes un
+      duyulan: hop ve sun
+  REPLACE  ...çizgiyi en ayrıntılı işleyenlerden
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...bu düşünür büyük eseri
+      metin  : i hyau
+      duyulan: ihya
+  DELETE   ...eseri i hyau ulumi
+      metin  : d din de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...anlatan rivayetler vardır ve
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...devenin yavrusu olduğunu hatırlatır
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...şakanın seyircisi değil ortağıdır
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...keskin olanı alayla ilgilidir
+      metin  : gazzali
+      duyulan: gazali
+  INSERT   ...çünkü en çok burada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gülünen sıradan insanlar değil
+      metin  : tahtta
+      duyulan: tahta
+  INSERT   ...denk düşer timur ize
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adamları esnafın hilesi mahallenin
+      metin  : ikiyüzlülüğü
+      duyulan: ikiyüzdülüğü
+  DELETE   ...ama bunu yapan insan
+      metin  : değil
+      duyulan: (YOK — atlanmış)
+  DELETE   ...mparatorluk yılın gününde kendisiyle
+      metin  : alay
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mizahın ilk büyük adresi
+      metin  : teodor kasabın
+      duyulan: te theodor kasab ın
+  INSERT   ...ömründe defalarca kapatıldı ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yeni dergiler çıkardı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sorulduğunda verdiği cevap hürriyetin
+      metin  : kanun ı
+      duyulan: kanunu
+  REPLACE  ...örnekler de var nazi
+      metin  : almanyası
+      duyulan: almanya sı te
+  REPLACE  ...bu yasaların uygulandığı davalardan
+      metin  : yozef
+      duyulan: joseph
+  INSERT   ...fıkra yüzünden yargılandı ve
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...ve idam edildi devletin
+      metin  : şaka
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ciddiyetini gülmeyle gülmesini ciddiyetle
+      metin  : boz
+      duyulan: bozurur
+  DELETE   ...mekanizma tarihinde hiç olmadığı
+      metin  : kadar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kadar ucuz ve hızlı
+      metin  : caps
+      duyulan: kaps
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: felsefe-2026-09-27.duyulan.txt

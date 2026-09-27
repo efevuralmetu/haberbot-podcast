@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-27.mp3
+
+beklenen 2448 kelime | duyulan 2455 kelime | eşleşme %92.8
+sayı ifadesi: metinde 337, duyulanda 211  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hollanda cumhuriyeti nin toplam
+      metin  : yüzölçümü
+      duyulan: ölçümü
+  INSERT   ...bu cumhuriyetin kralı yoktu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...genç eyalet valisi yani
+      metin  : stathauder
+      duyulan: statoeder
+  REPLACE  ...eyaletinin baş yöneticisi olan
+      metin  : yohan dö vit ti
+      duyulan: johan de witte
+  REPLACE  ...açığı vardı fransa kralı
+      metin  : lui
+      duyulan: louis
+  INSERT   ...hollandalıları affetmeye niyetli değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ittifakın merkezinde vardı bakanı
+      metin  : kolber
+      duyulan: colbert
+  REPLACE  ...broşürler madalyonlar karikatürler basıyordu
+      metin  : lui
+      duyulan: te louis
+  DELETE   ...lui i ngilteer kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...piskoposlukları da yine fransız
+      metin  : altınıyla
+      duyulan: ile
+  REPLACE  ...ta i ngiliz gemileri
+      metin  : manş
+      duyulan: manç
+  REPLACE  ...ilan etti mayıs ayında
+      metin  : liyej
+      duyulan: lie
+  INSERT   ...karşı tarafta kağıt üzerinde
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...bekliyordu şubatta çaresizlik içinde
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kolunu lobit köyü yakınındaki
+      metin  : tolhöys
+      duyulan: tolhäus
+  REPLACE  ...sürdü piyade dubalarla taşındı
+      metin  : versay da
+      duyulan: versailles de
+  REPLACE  ...dolanıldı sonraki haftalarda dusburg
+      metin  : zütfen
+      duyulan: zütphen
+  REPLACE  ...saatlerce dayandı haziran sonunda
+      metin  : ütreht
+      duyulan: ütrecht
+  REPLACE  ...günleri ilan edildi sokakta
+      metin  : yohan dö vit
+      duyulan: johan de witt
+  REPLACE  ...güneyde horinhem den kuzeyde
+      metin  : möyden e zöyderzey
+      duyulan: möydene zölderzey
+  REPLACE  ...bu hat sonradan aude
+      metin  : hollandse vaterlini
+      duyulan: hollandssevaterlin i
+  REPLACE  ...sırtlarıydı bunların her başına
+      metin  : tabya
+      duyulan: tabia
+  REPLACE  ...bent başlarında nöbete dikildi
+      metin  : gediği
+      duyulan: gediyi
+  REPLACE  ...olmayacaktı haziran da su
+      metin  : yerini
+      duyulan: yerine
+  REPLACE  ...aldı ve fransız ordusu
+      metin  : ütreht kilometer
+      duyulan: ütrehten km
+  REPLACE  ...çamur denizinin kıyısında durdu
+      metin  : lui
+      duyulan: louis
+  REPLACE  ...değildi mülkiyet beyanıydı şartlar
+      metin  : lahey de
+      duyulan: la hayde
+  REPLACE  ...madalya konuşuldu genç başkomutan
+      metin  : villem
+      duyulan: willem
+  REPLACE  ...kez kullanıldı münster prens
+      metin  : piskoposu bernhart fon
+      duyulan: psikoposu bernhard von
+  REPLACE  ...cumhuriyetin hizmetine girmiş yaşlı
+      metin  : bohemyalı
+      duyulan: bohemiyalı
+  REPLACE  ...bohemyalı asker olan karl
+      metin  : fon
+      duyulan: von
+  REPLACE  ...siperleer gece baskınları düzenledi
+      metin  : piskopos
+      duyulan: psikopos
+  REPLACE  ...düşmanın yapmadığı şey oluyordu
+      metin  : yohan dö vit
+      duyulan: johann de witt
+  REPLACE  ...etiketini yakıştırmaya karar vermişti
+      metin  : dordreht
+      duyulan: dordrecht
+  REPLACE  ...in köklü ailesinden geliyordu
+      metin  : layden
+      duyulan: leiden
+  INSERT   ...inancın en parlak meyvesi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olarak gemide bulunan kişi
+      metin  : yohan
+      duyulan: johann
+  REPLACE  ...kişi yohan ın ağabeyi
+      metin  : kornelis dö vit ti
+      duyulan: cornelis de witt i
+  INSERT   ...önce kardeşler ulusal kahramandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...içinde yüzlerce broşür bastı
+      metin  : dö vit
+      duyulan: de witt
+  ... ve 59 fark daha
+
+metinde olup DUYULMAYAN: 124 kelime | duyulup metinde OLMAYAN: 135
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: tarih-2026-09-27.duyulan.txt
