@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-28.mp3
+
+beklenen 2138 kelime | duyulan 2169 kelime | eşleşme %95.8
+sayı ifadesi: metinde 396, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...aynı şeyi söylemeye çalışmıştı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nın kazısı başladığında ferdinand
+      metin  : dö leseps
+      duyulan: döle sebs
+  REPLACE  ...ve karşısındaki küçük komşusu
+      metin  : therasia
+      duyulan: terazia
+  INSERT   ...değmiş şeyler çıkmaya başladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ocağın sahibi alafuzos la
+      metin  : theralı
+      duyulan: teralı
+  REPLACE  ...volkanı incelemeye gelen fransız
+      metin  : jeolog fuke
+      duyulan: coolog fouquet
+  REPLACE  ...aletler kömürleşmiş tahıl buldu
+      metin  : fuke nin
+      duyulan: fouquet in
+  REPLACE  ...arkeoloji enstitüsü nden robert
+      metin  : tsan
+      duyulan: sun
+  INSERT   ...arkeolog spiridon marinatos oldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...santorini ye bakıyordu göer
+      metin  : thera
+      duyulan: tera
+  INSERT   ...marinatos o yerleşmeyi aramaya
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...akrotiri de kazı yapmak
+      metin  : moloz
+      duyulan: molos
+  REPLACE  ...bölmelerde deprem esnekliği sağlayan
+      metin  : ahşap hatıllar
+      duyulan: ahşa patıllar
+  REPLACE  ...kuşağında meter uzunluğunda minyatür
+      metin  : friz
+      duyulan: fris
+  REPLACE  ...çok tören gibi duruyor
+      metin  : kseste
+      duyulan: kaseste
+  REPLACE  ...aldığı da açıktı depolarda
+      metin  : girit
+      duyulan: giritten
+  INSERT   ...değirmenleri içinde arpa bakla
+      metin  : (yok)
+      duyulan: nokta
+  INSERT   ...parmaklarını geçmez en ünlüsü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yok kazıyı beri yürüten
+      metin  : hristos
+      duyulan: christos
+  REPLACE  ...tahmini ürkütücü derecede sade
+      metin  : mezarlık da
+      duyulan: mezarlıkta
+  REPLACE  ...önemli olduğunu anlatmak gerekir
+      metin  : thera
+      duyulan: terra
+  REPLACE  ...mısır dan anadolu ya
+      metin  : girit
+      duyulan: girid den
+  REPLACE  ...kül bulunabiliyor bu da
+      metin  : tunç çağı
+      duyulan: tunçağı
+  REPLACE  ...arkeoloji bu tarihi çanak
+      metin  : çömlekten
+      duyulan: çömlek
+  REPLACE  ...için sonuç aşağı yukarı
+      metin  : mö
+      duyulan: da
+  INSERT   ...yazılan tarih budur sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çıktı ortaya danimarkalı jeolog
+      metin  : valter fridrih
+      duyulan: walter friedrich
+  REPLACE  ...ölçüde dar aralık verdi
+      metin  : mö
+      duyulan: maegbøya
+  INSERT   ...bu çömleklerin söylediğinden yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...ölçümün kendisi de sorgulandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...taşıdığını gösterdi düzeltme yapıldığında
+      metin  : mö
+      duyulan: melocheion
+  REPLACE  ...geldi ardından bitki geldi
+      metin  : tirasya
+      duyulan: tiki da tirassia
+  INSERT   ...örtü kapatırken orada canlıydı
+      metin  : (yok)
+      duyulan: tiki de
+  DELETE   ...çıktığını gösterdi ve olasılığı
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oyu olması grönland ve
+      metin  : antarktika
+      duyulan: antartika
+  DELETE   ...belirgin sülfat sıçraması var
+      metin  : mö mö
+      duyulan: (YOK — atlanmış)
+  DELETE   ...var mö mö ve
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  INSERT   ...tartışmanın seyri şunu gösteriyor
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...geçti spiridon marinatos kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...spiridon marinatos kasım doğdu
+      metin  : thera
+      duyulan: terra
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: arkeoloji-2026-09-28.duyulan.txt

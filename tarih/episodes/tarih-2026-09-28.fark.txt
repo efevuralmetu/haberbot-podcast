@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-28.mp3
+
+beklenen 2393 kelime | duyulan 2410 kelime | eşleşme %94.5
+sayı ifadesi: metinde 311, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...daha azdı kimse bilmiyordu
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...yük gemileri sıralanır rıhtımlarda
+      metin  : kauçuk
+      duyulan: kavçuk
+  INSERT   ...nın hemen ardından doğdu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...süer başlangıçta gün hesaplanmıştı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da savaş bulutları toplanınca
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...göze almıştı i nşaat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tesis adanın kuzey kıyısında
+      metin  : kilometrekarelik
+      duyulan: lik
+  REPLACE  ...de kilize vardı üs
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...tanesi vardı ve mermilerini
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...batarya batıda buona vista
+      metin  : mevzii
+      duyulan: mevziyi
+  REPLACE  ...yerine toprağa gömülen türdendi
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...saldırıya karşı konumlandırılmıştı çünkü
+      metin  : üssün
+      duyulan: üstün
+  REPLACE  ...nın en yakın deniz
+      metin  : üssü
+      duyulan: üstü
+  INSERT   ...kendi kurmaylarından gelmiş olmasıdır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...percival dı yıl sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bırakıldı aralık gecesi saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nın doğu kıyısındaki kota
+      metin  : bharu
+      duyulan: baharu
+  REPLACE  ...vardı adı matador harekatı
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...bombalar aydınlık şeher düştü
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...prince of wales yani
+      metin  : galler prensi ydi
+      duyulan: galar prince idi
+  REPLACE  ...atlantik teki zirveye taşımış
+      metin  : zırhlı
+      duyulan: zırh
+  REPLACE  ...zirveye taşımış zırhlı diğeri
+      metin  : repulse tu
+      duyulan: rapplesuit u
+  REPLACE  ...adı verilmişti ve başında
+      metin  : koramiral
+      duyulan: koramirel
+  REPLACE  ...de yola çıkmıştı ancak
+      metin  : karayipler de
+      duyulan: karayıplerde
+  INSERT   ...keşif uçaklarının ağına girdi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...halinde geldi torpidolar önce
+      metin  : galler
+      duyulan: galer
+  REPLACE  ...öğleden hemen önce battı
+      metin  : galler
+      duyulan: galer
+  INSERT   ...topladı yaklaşık kişi kurtarıldı
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...kişi kurtarıldı denizci öldü
+      metin  : phillips
+      duyulan: philips
+  REPLACE  ...phillips gemisini terk etmedi
+      metin  : galler
+      duyulan: galer
+  REPLACE  ...ve deniz savaşının kurallarını
+      metin  : sabahta
+      duyulan: sabah da
+  REPLACE  ...başındaki kurmay subay masanobu
+      metin  : tsuci
+      duyulan: tsuji
+  REPLACE  ...ayak mantarı su ikmali
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...kauçuk plantasyonlarında görüş mesafesi
+      metin  : erzağın
+      duyulan: merzaın
+  REPLACE  ...tank kolonu geliyor sanıp
+      metin  : mevzi
+      duyulan: mevziyi
+  REPLACE  ...çekildi i skoç alayının
+      metin  : gaydacısı
+      duyulan: kaydacısı
+  REPLACE  ...kıyısına ilk dalga geldi
+      metin  : percival
+      duyulan: persival
+  INSERT   ...da tutuldu sonrası hızlandı
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...malay alayı nın bölüğü
+      metin  : teğmen
+      duyulan: teymen
+  REPLACE  ...adnan saidi komutasında bukit
+      metin  : çandu
+      duyulan: candu
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 79
+bölme/birleşme farkı (hata değil, elendi): 38
+
+duyulan metin: tarih-2026-09-28.duyulan.txt

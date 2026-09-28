@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-28.mp3
+
+beklenen 1980 kelime | duyulan 2006 kelime | eşleşme %95.2
+sayı ifadesi: metinde 247, duyulanda 195  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tuz
+      metin  : kristaline
+      duyulan: kristalliğine
+  REPLACE  ...insanı ürküten manzara çıkar
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...da vardır kristale röntgen
+      metin  : ışını
+      duyulan: ışığını
+  INSERT   ...kadar titiz olduğunun kanıtıdır
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...olduğunun kanıtıdır sonbaharında massachusetts
+      metin  : teknoloji enstitüsü nde
+      duyulan: technological institute ün de
+  REPLACE  ...hepsi ya verdiği ilk
+      metin  : itmeyle
+      duyulan: itme ile
+  REPLACE  ...sanıldığını anlamak önemli sürekli
+      metin  : devinim
+      duyulan: devinin
+  REPLACE  ...olarak sonsuza kadar dolanır
+      metin  : wilczek
+      duyulan: wilchek
+  REPLACE  ...etrafında dolanmak olsun alfred
+      metin  : shapeer
+      duyulan: schapeer
+  INSERT   ...verdi i lk darbe
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...grenoble deki avrupa sinkrotron
+      metin  : işınım tesisi nde
+      duyulan: işının tesisinde
+  INSERT   ...dönemez ama gerçek darbe
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gelir taban durumu enerji
+      metin  : özdurumudur
+      duyulan: özdürümüdür
+  REPLACE  ...enerji özdurumudur ve enerji
+      metin  : özdurumunun
+      duyulan: özdürümünün
+  REPLACE  ...ölçülebilir özellikleri zamanla değişmez
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...değişmez durağan olduğu için
+      metin  : durağandır
+      duyulan: durağındır
+  REPLACE  ...kusurlu hale getirirsiniz sıradan
+      metin  : periyot
+      duyulan: periyod
+  REPLACE  ...barınmaz kurtarıcı çok cisim
+      metin  : yerelleşmesi
+      duyulan: yerleşmesi
+  INSERT   ...içinde dağıtamaz isınmayı reddeder
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dağıtamaz isınmayı reddeder vedika
+      metin  : khemani
+      duyulan: kemani
+  REPLACE  ...ve meslektaşı düzensiz ve
+      metin  : periyodik
+      duyulan: periodik
+  REPLACE  ...olarak sürülen spin zincirinin
+      metin  : faz
+      duyulan: fuzz
+  REPLACE  ...çift periyotlu desende döndüğü
+      metin  : faz
+      duyulan: fuzz
+  REPLACE  ...aynı yıl bu duruma
+      metin  : floquet
+      duyulan: flokette
+  REPLACE  ...elektromanyetik tuzakta sıraya dizilmiş
+      metin  : iterbiyum
+      duyulan: oniterbium
+  REPLACE  ...ve sistemin mıknatıslanmasının sürüş
+      metin  : periyodunun
+      duyulan: periodunun
+  REPLACE  ...kilitli kaldığını gördüler harvard
+      metin  : üniversitesi nde mikhail
+      duyulan: üniversitesinde mikail
+  REPLACE  ...planck ekipleri google ın
+      metin  : sycamoer
+      duyulan: secamora
+  REPLACE  ...sycamoer adlı kuantum işlemcisinde
+      metin  : kübiti
+      duyulan: kubiti
+  REPLACE  ...bütün enerji tayfına sinmiş
+      metin  : olduğuydu
+      duyulan: olduydu
+  INSERT   ...sınırlıydı yüzlerce çevrim yani
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...alex greilich in ekibi
+      metin  : indiyum galyum
+      duyulan: indium gallium
+  REPLACE  ...zamanın kesikli değil kesintisiz
+      metin  : tekdüzeliğiydi
+      duyulan: tek düzeliydi
+  REPLACE  ...ibm in kübitlik heron
+      metin  : riki
+      duyulan: ricky
+  INSERT   ...riki işlemcisinin kübitini süslenmiş
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...işi kurtaran çok cisim
+      metin  : yerelleşmesinin
+      duyulan: yerleşmesinin
+  INSERT   ...kalamayacağı ciddi biçimde kuşkuluydu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...salınımı görmekle kalmadı faz
+      metin  : diyagramının
+      duyulan: diagramının
+  REPLACE  ...ilk gerçek iş geldi
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...fazın en güçlü yanı
+      metin  : katılığıysa
+      duyulan: katılığı ize
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: bilim-2026-09-28.duyulan.txt

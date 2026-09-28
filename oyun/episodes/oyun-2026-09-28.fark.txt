@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-28.mp3
+
+beklenen 1427 kelime | duyulan 1457 kelime | eşleşme %94.7
+sayı ifadesi: metinde 273, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...raflara dune
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...te küçük ofisin köşesinde
+      metin  : faks
+      duyulan: fox
+  REPLACE  ...güçlü olmadığı kanaatine varılmıştır
+      metin  : faksın
+      duyulan: fox ın
+  REPLACE  ...faksın altındaki imza frank
+      metin  : herbert in
+      duyulan: herberton
+  REPLACE  ...iptal edilmiş projeye devam
+      metin  : etmek
+      duyulan: etmektir
+  INSERT   ...hikayenin başı yıl öncesine
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...öncesine ağustos ayına uzanıyor
+      metin  : rémi herbulot
+      duyulan: remy herblod
+  REPLACE  ...amerika kanadını yöneten martin
+      metin  : alper la
+      duyulan: alpert le
+  REPLACE  ...martin alper la buluşuyor
+      metin  : alper
+      duyulan: alpert
+  REPLACE  ...şansının düşük olduğunu düşünüyor
+      metin  : herbulot
+      duyulan: herblod
+  REPLACE  ...haklar alınmıştır haberi duyan
+      metin  : philippe
+      duyulan: philip
+  REPLACE  ...kapanıyor ve eylülde o
+      metin  : faks
+      duyulan: fax
+  REPLACE  ...tarafının başındaki jean martial
+      metin  : lefranc
+      duyulan: lefranç
+  REPLACE  ...kanadının yeni yöneticisi christian
+      metin  : brécheteau
+      duyulan: brechetto
+  INSERT   ...haftalık ömür veriliyor temmuz
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...temmuz kadar oynanabilir sürüm
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...dan gelen telefonda söylenenler
+      metin  : iptal faksının
+      duyulan: i ptal fox ının
+  INSERT   ...hayata dönüyor ve ocak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şirkete dönüşüyor oyun mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alper paris teki ekip
+      metin  : yeraltında
+      duyulan: yer
+  INSERT   ...çalışırken oturup beklemiş değildi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...tam ifşa olmak üzereyken
+      metin  : virgin
+      duyulan: in
+  INSERT   ...önce çıktığına göer aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olmayan eser westwood u
+      metin  : brett sperry
+      duyulan: te brad spaer
+  INSERT   ...castle kurmuştu i kisi
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...isim öne çıkıyor joe
+      metin  : bostic
+      duyulan: bostick
+  REPLACE  ...anlaşmazlık var sperry ve
+      metin  : castle
+      duyulan: kassel
+  REPLACE  ...söylüyor şirkette çalışan stephen
+      metin  : clarke willson
+      duyulan: clark wilson
+  DELETE   ...cevap farenin kendisiydi dune
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oturan zamanla yıpranıyor rüzgar
+      metin  : tuzağı
+      duyulan: tuzağa
+  INSERT   ...romanında yok oyun için
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...oyun için çıkan dune
+      metin  : encyclopedia
+      duyulan: enseklopedia
+  REPLACE  ...bölgeye saldıracağınızı siz seçiyorsunuz
+      metin  : brifingi
+      duyulan: briefing i
+  DELETE   ...yenilikler kadar öğreticiydi dune
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  INSERT   ...isim vardı frank klepacki
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...önce westwood a girmişti
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...westwood a girmişti dune
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dune ii nin sesini
+      metin  : o
+      duyulan: oy
+  REPLACE  ...kurmaya çalıştı oyun aralık
+      metin  : ms
+      duyulan: de emestos
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-09-28.duyulan.txt

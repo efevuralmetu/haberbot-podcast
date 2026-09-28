@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-28.mp3
+
+beklenen 2261 kelime | duyulan 2295 kelime | eşleşme %92.9
+sayı ifadesi: metinde 547, duyulanda 310  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ve kanun maddesi vardı
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...i brahim edhem oldu
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gönderildi orada madencilik okulu
+      metin  : ekol
+      duyulan: ecole
+  INSERT   ...bu adamın oğlu aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ta mahalle mektebinde okudu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tekrarlayarak çizdiği yol açıldı
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...ilgisi başka yöne kaydı
+      metin  : güstav bulanje nin
+      duyulan: gustave boulanger in
+  REPLACE  ...dönemin en tanınmış hocalarından
+      metin  : jan leon jerom
+      duyulan: jean léon jérôme
+  REPLACE  ...batı resminin o sıradaki
+      metin  : en titiz
+      duyulan: entitis
+  REPLACE  ...en titiz tekniğini öğretti
+      metin  : jerom
+      duyulan: jérôme
+  INSERT   ...içinden bakan ressam oldu
+      metin  : (yok)
+      duyulan: deki
+  DELETE   ...te fransız kadınla evlendi
+      metin  : kızı oldu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...müzeleri osmanlı topraklarından gelen
+      metin  : malzemeyle
+      duyulan: malzeme ile
+  REPLACE  ...ninova dan söktüğü kabartmalar
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...ellilerde londra ya varmıştı
+      metin  : anadolu nun
+      duyulan: londra nın
+  INSERT   ...yapacaktı yine öyle olmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şehriydi bağdat ta vali
+      metin  : midhat
+      duyulan: mithat
+  INSERT   ...işleri müdürü olarak gönderildi
+      metin  : (yok)
+      duyulan: dan e
+  REPLACE  ...kaldı paris in atölyelerinden
+      metin  : dicle
+      duyulan: dichle
+  REPLACE  ...in atölyelerinden dicle kıyısındaki
+      metin  : kerpiç
+      duyulan: karpit
+  INSERT   ...olarak görmeye başladığı yerdir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...de tiyatro oyunu yazdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...başına geçti sergi alanında
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...değil kitap oldu mari
+      metin  : dö
+      duyulan: de
+  REPLACE  ...paskal sebah ın çektiği
+      metin  : elbize i osmaniyye
+      duyulan: elbiseyi osmaniye
+  REPLACE  ...yine batı nın kendi
+      metin  : icadıyla
+      duyulan: icadı ile
+  REPLACE  ...konuşan olmak viyana da
+      metin  : eşiyle
+      duyulan: eşi ile
+  REPLACE  ...viyana da eşiyle tanıştı
+      metin  : naile
+      duyulan: naila
+  INSERT   ...leyla nazlı ve edhem
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...zor razı olunacak şeydi
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...ve eski eserler biriktiriliyordu
+      metin  : maarif
+      duyulan: da marif
+  REPLACE  ...eserler biriktiriliyordu maarif nazırı
+      metin  : safvet
+      duyulan: saffet
+  REPLACE  ...kurdu ilk müdürü edward
+      metin  : goold
+      duyulan: gould
+  REPLACE  ...müdürü edward goold oldu
+      metin  : ahmed
+      duyulan: de ahmet
+  REPLACE  ...ve müdürlüğe filip anton
+      metin  : detier
+      duyulan: detiyer
+  INSERT   ...aya i rini yetmeyince
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yabancıydı ve müze depoydu
+      metin  : eylülü nde detier
+      duyulan: eylül ünde detiyer
+  INSERT   ...sanayi i nefize mektebi
+      metin  : (yok)
+      duyulan: diki
+  INSERT   ...i nefize mektebi mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ilk okuluydu binasını mimar
+      metin  : alexander vallaury
+      duyulan: aleksander vallauri
+  ... ve 52 fark daha
+
+metinde olup DUYULMAYAN: 80 kelime | duyulup metinde OLMAYAN: 123
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: biyografi-2026-09-28.duyulan.txt

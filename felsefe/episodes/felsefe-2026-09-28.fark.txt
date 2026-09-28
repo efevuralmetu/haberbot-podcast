@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-28.mp3
+
+beklenen 1919 kelime | duyulan 1934 kelime | eşleşme %98.1
+sayı ifadesi: metinde 201, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...göreceğim şey sinyaller senin
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...gelmeyecek şeyi mi bekliyoruz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...duyabildiği üst sınır kabaca
+      metin  : kilohertz
+      duyulan: khz
+  REPLACE  ...baş aşağı asılmak deri
+      metin  : kanatlarla
+      duyulan: kanaatlarla
+  REPLACE  ...zemin yok yıl sonra
+      metin  : avustralyalı
+      duyulan: avusturalyalı
+  INSERT   ...bakan vardı i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yakınlarındaki afşana köyünde doğdu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olarak okundu büyük eseri
+      metin  : kitabü ş
+      duyulan: kitab ı
+  INSERT   ...bilir mi i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...der ve i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...sonuca dikkat çeker en
+      metin  : dolaysız
+      duyulan: dolayısız
+  INSERT   ...borçlu değilsin i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...şeyde barınamaz yıl sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...en ünlü duvarına çarptı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ünlü duvarına çarptı bohemyalı
+      metin  : elisabeth
+      duyulan: elizabeth
+  INSERT   ...o soru hiç kapanmadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bütün bu işlemleer neden
+      metin  : deneyim eşlik
+      duyulan: deney meşrik
+  REPLACE  ...işleri eksiksiz yapan ve
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...alan turing bu anı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hiçbir zaman birbirimize uygulamadık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da çalışan mühendis blake
+      metin  : lemoine lamda
+      duyulan: lemoyne lmdi
+  REPLACE  ...gerektiğine kanıksadı konuşma kayıtlarını
+      metin  : kamuoyuyla
+      duyulan: kamuoyu ile
+  REPLACE  ...gizlilik ihlali gerekçesiyle iş
+      metin  : akdini
+      duyulan: aktini
+  REPLACE  ...araştırmacıların büyük çoğunluğu da
+      metin  : lemoine a
+      duyulan: lemoyne e
+  REPLACE  ...kimin haklı olduğu değildi
+      metin  : sebep
+      duyulan: sebeb
+  INSERT   ...şu bekleyemiyoruz karar veriyoruz
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...davranıldığını kalıcı olarak değiştirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ekrandaki iş arkadaşının sesindeki
+      metin  : çatlağa
+      duyulan: çatlağı
+  REPLACE  ...ve henüz yetişebilmiş değil
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: felsefe-2026-09-28.duyulan.txt

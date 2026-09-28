@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-28.mp3
+
+beklenen 1406 kelime | duyulan 1416 kelime | eşleşme %97.5
+sayı ifadesi: metinde 199, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...var ve bu adı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sürede bitirdi ve yaklaşık
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...eğitimli tahmin uzmanlarıydı yanılgının
+      metin  : kaşifiydi
+      duyulan: keşifiydi
+  DELETE   ...süresini ölçüp söylersin saat
+      metin  : i kincisi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...her seferinde aynıdır bu
+      metin  : iyimserim
+      duyulan: iyiyim serim
+  REPLACE  ...düşünüyorum savunması burada işlemiyor
+      metin  : waterloo üniversitesi nde
+      duyulan: walter lue üniversitesinde
+  INSERT   ...roger buehler ve arkadaşlarının
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kısaydı i nsanlar sadece
+      metin  : iyimser
+      duyulan: iyiyim ser
+  REPLACE  ...kötümser olmaya çalıştıklarında da
+      metin  : iyimser
+      duyulan: iyiyim ser
+  REPLACE  ...yanılgı da büyüyor kaybolmuyor
+      metin  : sidney
+      duyulan: sydney
+  INSERT   ...en ünlü örnek ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...açılması planlanmıştı ve yaklaşık
+      metin  : bütçeyle
+      duyulan: bütçe ile
+  INSERT   ...bütçeyle yola çıkılmıştı ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...takvimin ilerisine attığın her
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...önce kurumsal yönteme dönüştü
+      metin  : bent flyvbjerg
+      duyulan: ben fly viger
+  REPLACE  ...ulaştırma ve maliye idareleri
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...bekleyeceğin o gün tahminini
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...görüyor anlamda senin hakkında
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...yaşadığın hayatı planlamaya başlıyorsun
+      metin  : sidney
+      duyulan: sydney
+  REPLACE  ...ve açmak dakika sürüyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: psikoloji-2026-09-28.duyulan.txt

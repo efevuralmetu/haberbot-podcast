@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-28.mp3
+
+beklenen 1767 kelime | duyulan 1766 kelime | eşleşme %93.2
+sayı ifadesi: metinde 212, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ve sıcaklık gece eksi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...kanyonu kuzey hindistan ın
+      metin  : ladakh
+      duyulan: ladak
+  REPLACE  ...çadar der örtü demektir
+      metin  : ırmağın
+      duyulan: irmağın
+  REPLACE  ...işi gören oyuk vardır
+      metin  : tibb
+      duyulan: tip
+  REPLACE  ...en bilinenidir i çinde
+      metin  : is
+      duyulan: iz
+  REPLACE  ...kısar köyün kendisi yukarıdadır
+      metin  : ırmak
+      duyulan: irmak
+  REPLACE  ...değildi kasımdan mayısa kadar
+      metin  : vadiyi
+      duyulan: vadi i
+  REPLACE  ...la geçidi ilk kar
+      metin  : yığınıyla
+      duyulan: yağını ile
+  REPLACE  ...tereyağı kalıplarını ve yak
+      metin  : yününü
+      duyulan: yönünü
+  REPLACE  ...pensi la nın yanındaki
+      metin  : drang drung
+      duyulan: drunk drunk
+  REPLACE  ...tır çok daha uzaktan
+      metin  : baralaça la
+      duyulan: barala çalağı
+  REPLACE  ...sayısı geçer tek ekin
+      metin  : mevsimi
+      duyulan: mevsim
+  REPLACE  ...üstündeki o kuru ot
+      metin  : yığınları süs
+      duyulan: yağınları süst
+  REPLACE  ...kavrulup öğütülen arpa ununa
+      metin  : tsampa
+      duyulan: tampa
+  REPLACE  ...tsampa denir tereyağlı çayla
+      metin  : yoğurulup
+      duyulan: yoğrulup
+  REPLACE  ...getirilir elde yuvarlanır yenir
+      metin  : isıtır
+      duyulan: i stir
+  REPLACE  ...şey şeker değil yağdır
+      metin  : kıyma hamuruyla
+      duyulan: kıymamuruyla
+  REPLACE  ...yemeğidir de paba ile
+      metin  : tangtur
+      duyulan: tantur
+  REPLACE  ...dokunur keçe yapılır çizme
+      metin  : diklir
+      duyulan: dikilir
+  REPLACE  ...tarlası yoktur arpadan mayalanan
+      metin  : çang
+      duyulan: çan
+  REPLACE  ...ve en etkili manastırıdır
+      metin  : gelugpa
+      duyulan: gelukpa
+  REPLACE  ...bağlıdır ve kuruluşu çevirmen
+      metin  : phagspa
+      duyulan: fakspa
+  REPLACE  ...en eskisi sayılır arkasındaki
+      metin  : kanika stupası
+      duyulan: kanikas tutupası
+  REPLACE  ...lungnak vadisi nin dibindeki
+      metin  : phuktal dır
+      duyulan: puhtaldır
+  REPLACE  ...kaynak vardır yüzyılda gangsem
+      metin  : şerap zangpo
+      duyulan: şerab zankpo
+  REPLACE  ...erzak yazın at sırtında
+      metin  : kışın
+      duyulan: ışın
+  REPLACE  ...at sırtında kışın donmuş
+      metin  : tsarabın
+      duyulan: sarabın
+  REPLACE  ...küçük ve kendi içine
+      metin  : kapalıdır
+      duyulan: kalmıştır
+  REPLACE  ...yüzyıllarda burada hanedan kuruldu
+      metin  : karşa
+      duyulan: karşah
+  REPLACE  ...hanedan kuruldu karşa ve
+      metin  : phuktal
+      duyulan: puhtal
+  REPLACE  ...diğeri zangla yüzyılın başında
+      metin  : ladakh
+      duyulan: ladak
+  REPLACE  ...yüzyılın başında ladakh kralı
+      metin  : sengge
+      duyulan: senge
+  REPLACE  ...ladakh kralı sengge namgyal
+      metin  : vadiyi
+      duyulan: vadi
+  REPLACE  ...vadiyi aldı ve zanskar
+      metin  : ladakh
+      duyulan: ladak
+  REPLACE  ...ve zanskar ladakh ın
+      metin  : parçası
+      duyulan: kalesi
+  REPLACE  ...hala duruyor vadinin kuzeyinde
+      metin  : ırmağın
+      duyulan: irmağın
+  REPLACE  ...süer alan küçük oda
+      metin  : vardır
+      duyulan: var
+  REPLACE  ...macar adam oturdu adı
+      metin  : sándor csoma de kőrös tü
+      duyulan: sandor cesomade köröstü
+  REPLACE  ...i ngiliz gezgin william
+      metin  : moorcroft un
+      duyulan: köröstü n
+  REPLACE  ...daki o odada sangye
+      metin  : puntsog
+      duyulan: punsok
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: seyahat-2026-09-28.duyulan.txt

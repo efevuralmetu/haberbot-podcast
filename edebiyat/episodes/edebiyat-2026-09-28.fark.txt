@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-28.mp3
+
+beklenen 1609 kelime | duyulan 1633 kelime | eşleşme %95.7
+sayı ifadesi: metinde 329, duyulanda 193  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...numaralı evin bahçesinde oluklu
+      metin  : sacdan
+      duyulan: saktan
+  REPLACE  ...duvarlardan içeri sızıyor yazın
+      metin  : sac
+      duyulan: sak
+  REPLACE  ...tahta kutunun içine sokup
+      metin  : takkesiyle
+      duyulan: kutunun hakkesiyle
+  INSERT   ...sözün tutulma çabasıydı söz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...filoloji derneği nde richard
+      metin  : chenevix trench
+      duyulan: chenevick strange
+  REPLACE  ...o gün için sarsıcıydı
+      metin  : trench
+      duyulan: trenç
+  REPLACE  ...kez yazılmış olanı bile
+      metin  : trench
+      duyulan: trenç
+  INSERT   ...küçük bölmeli dolap yaptırdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...öldü yerine geçen frederick
+      metin  : furnival coşkulu
+      duyulan: fournival koşkulu
+  REPLACE  ...malzemesi daha hiç bulunamadı
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...utancından başka şey değildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olmuş adamdı oxford üniversitesi
+      metin  : yayınları ile
+      duyulan: yayınlarıyla
+  INSERT   ...deki evinin bahçesine kurdu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu emeğin ilk ürünü
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...zarfların üstünde berkshier ın
+      metin  : crowthorne
+      duyulan: crohton
+  REPLACE  ...william chester minor dı
+      metin  : seylan
+      duyulan: te ceylan
+  INSERT   ...gençliğinde amerika ya gönderilmiş
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...muharebesi nde görev yaptı
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...görevlendirildi sonra davranışları bozuldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra davranışları bozuldu ordudan
+      metin  : maluliyetle
+      duyulan: malülyetle
+  INSERT   ...rlandalılar şebekesi olduğuna inanıyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yastığının tabanca tutmaya başladı
+      metin  : (yok)
+      duyulan: doto
+  INSERT   ...başladı şubat sabahı saat
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...etti vurduğu adam george
+      metin  : merrett ti
+      duyulan: merretti
+  REPLACE  ...yılın nisanında yapıldı minor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...kısaca broadmoor a gönderildi
+      metin  : crowthorne un
+      duyulan: crowther ın
+  INSERT   ...sayesinde ayrıcalıklı bölümde kaldı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...içinde murray in çağrı
+      metin  : metninden
+      duyulan: metin den
+  INSERT   ...bilen kişi murray di
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...o adamın son yılda
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...başka yerde dilin son
+      metin  : yüzyılını
+      duyulan: yılını
+  REPLACE  ...yüzyılını neredeyze yalnızca minor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...başhekim olduğunu ve minor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...çalışan araştırmacılar murray in
+      metin  : broadmoor
+      duyulan: crowthorne
+  REPLACE  ...hastanenin içinden geçip minor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...yanında kitap götürdü minor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...kurulmuş dostluktu aralığında minor
+      metin  : ın
+      duyulan: un
+  INSERT   ...broadmoor un koğuşlarında yalnızlaştı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...artık kimseye tehlike oluşturmayan
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...elizabeths e yatırıldı sonra
+      metin  : connecticuda
+      duyulan: connecticut a
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: edebiyat-2026-09-28.duyulan.txt

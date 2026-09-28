@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-28.mp3
+
+beklenen 1567 kelime | duyulan 1573 kelime | eşleşme %95.1
+sayı ifadesi: metinde 269, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nin kıyısında joinville le
+      metin  : pont taki
+      duyulan: pontaki
+  REPLACE  ...film değil şehir taşıyordu
+      metin  : jacques
+      duyulan: jacque
+  INSERT   ...şeyi kanıtlama zorunluluğu yoktu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yoktu çektiği jor de
+      metin  : fête
+      duyulan: fete
+  INSERT   ...taşra fransası nı güldürmüştü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...de monsieur hulot yani
+      metin  : mösyö
+      duyulan: monsieur
+  REPLACE  ...hulot yani mösyö hulot
+      metin  : nun
+      duyulan: un
+  REPLACE  ...kumsalda dolaşan o sakar
+      metin  : centilmeni
+      duyulan: çentilmeni
+  REPLACE  ...sakar centilmeni dünyaya tanıtmıştı
+      metin  : mon
+      duyulan: de mononcle
+  REPLACE  ...kez daha tatile gönderse
+      metin  : gişe
+      duyulan: guiche
+  INSERT   ...tati başka şeyin peşindeydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sözleşmede filmin geçici adı
+      metin  : récréation
+      duyulan: recreation
+  REPLACE  ...ölçülerde büyük camlı giriş
+      metin  : holü
+      duyulan: holu
+  DELETE   ...için binlerce metrekaer cam
+      metin  : binlerce
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve raylar üzerindeydi tati
+      metin  : kadrajı
+      duyulan: kadracı
+  REPLACE  ...basını buraya kısa sürede
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kısa sürede ad taktı
+      metin  : tativille
+      duyulan: tati villa
+  REPLACE  ...yerle etti yeniden yapmak
+      metin  : frank
+      duyulan: franc
+  REPLACE  ...yapmadığı şeydi bu ham
+      metin  : film de kamera da laboratuvar da
+      duyulan: filmde kamerada laboratuarda
+  REPLACE  ...nun aracılığıyla fransız bankası
+      metin  : crédit lyonnais
+      duyulan: kredit lyonez
+  REPLACE  ...etti şenlik günü mösyö
+      metin  : hulot
+      duyulan: hulotu
+  REPLACE  ...kafilesi vardır içlerinde barbara
+      metin  : denneğin
+      duyulan: denney in
+  REPLACE  ...ele geçirmez ofis binasında
+      metin  : monsieur
+      duyulan: mösyö
+  REPLACE  ...olan tek yıldız değil
+      metin  : kadrajdaki
+      duyulan: kadradaki
+  INSERT   ...azlığıdır oyun zamanı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...görüntünün bedeli vardı film
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...azdı tati uzun süer
+      metin  : milimeter
+      duyulan: mm
+  INSERT   ...fransa da dakikaya indi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dakikaya indi amerika ya
+      metin  : milimetreye
+      duyulan: mm ye
+  REPLACE  ...dakikalık versiyon gitti hulot
+      metin  : nun
+      duyulan: un
+  REPLACE  ...film yaklaşık bilet sattı
+      metin  : frankın
+      duyulan: don frank ın
+  INSERT   ...alacaklıların yönetimine girdi ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...o hakların bölümüne ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...arada çekmeye devam etti
+      metin  : trafic
+      duyulan: de trafik
+  INSERT   ...ardından son filmini tamamladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tati nin kızı sophie
+      metin  : tatischeff
+      duyulan: taticheff
+  INSERT   ...nın onarılmış dakikalık kopyası
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olmadığı şeye dönüşmüştü klasik
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...ın simetrik kadrajları roy
+      metin  : andersson
+      duyulan: anderson
+  REPLACE  ...uzaktan bakan tabloları aki
+      metin  : kaurismäki nin
+      duyulan: kaorismek inin
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-09-28.duyulan.txt
