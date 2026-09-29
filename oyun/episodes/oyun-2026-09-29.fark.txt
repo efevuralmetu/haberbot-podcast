@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-29.mp3
+
+beklenen 1473 kelime | duyulan 1498 kelime | eşleşme %94.5
+sayı ifadesi: metinde 305, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : öğle
+      duyulan: öğütel
+  REPLACE  ...ofis kapısını kilitli buldu
+      metin  : içeride
+      duyulan: i çerde
+  INSERT   ...şirketin ölüm anı oldu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...kurmanın maliyeti yatak odasıydı
+      metin  : spectrum
+      duyulan: spektrum
+  REPLACE  ...kaydedici de posta kutusu
+      metin  : bug byte
+      duyulan: bugbite
+  INSERT   ...bug byte adlı şirket
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...bu ekibin yaş ortalaması
+      metin  : (yok)
+      duyulan: du
+  INSERT   ...programcı david lawson eylül
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...eylül kendi şirketlerini kurdular
+      metin  : imagine
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...halinde satıldı ve tuttu
+      metin  : butler
+      duyulan: bootler
+  REPLACE  ...butler yıllar sonra bile
+      metin  : spectrum
+      duyulan: spektrum
+  INSERT   ...sonra bile spectrum sahiplerinin
+      metin  : (yok)
+      duyulan: inin
+  INSERT   ...nadiren görülen hızda oldu
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...tanıtımı yönetmek üzeer bruce
+      metin  : everiss
+      duyulan: everest
+  REPLACE  ...kaplayan parlak ilanlar boyunca
+      metin  : ah diddums zzoom stonkers
+      duyulan: ahdi dums zezum stonkars
+  INSERT   ...ilk ayında sterlin kazandığını
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...yazdı okur okudu ve
+      metin  : imagine in
+      duyulan: imajinin
+  REPLACE  ...iş oyun yapmak değil
+      metin  : kendisini
+      duyulan: kendisine
+  REPLACE  ...çocuğun bilgisayar sayesinde zengin
+      metin  : olduğuydu
+      duyulan: olduydu
+  INSERT   ...sayesinde zengin olduğuydu ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sterlin civarındayken aynı şehirde
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...lüks otomobil anahtarlarıyla oynuyordu
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...hep böyle gideceğine inandı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...hayali yaratıktan alıyordu diğeri
+      metin  : psyclapse
+      duyulan: cyclipes
+  REPLACE  ...sıradan oyun değildi şirketin
+      metin  : deyişiyle megaoyun du everiss
+      duyulan: değişiğiyle megagoyundu everest
+  REPLACE  ...sıradan kaset oyun sterlin
+      metin  : pens
+      duyulan: pence
+  REPLACE  ...çıkaracak şey kutunun içindeki
+      metin  : donanım
+      duyulan: donanın
+  REPLACE  ...kopyalanmasını imkansız kılan aygıt
+      metin  : everiss
+      duyulan: everest
+  REPLACE  ...tüm satış zinciri sarsıldı
+      metin  : martında
+      duyulan: ün mart ında
+  INSERT   ...dergilerine ödenmemiş faturalar aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...toplam sterlini aştı nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yayıncı ödenmeyen borçlar gerekçesiyle
+      metin  : imagine in
+      duyulan: imajinin
+  REPLACE  ...bölünmüştü yanda butler ve
+      metin  : everiss
+      duyulan: everest
+  REPLACE  ...haberi oldu haziran sonunda
+      metin  : everiss
+      duyulan: everest
+  REPLACE  ...civarında hesaplandı onların yokluğunda
+      metin  : imagine in
+      duyulan: imagi nin
+  REPLACE  ...tuhaf bekleme salonuna dönüştü
+      metin  : everiss
+      duyulan: everest
+  REPLACE  ...çıkan kimse yoktu yöneticiler
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...kodlar kutu tasarımları hepsi
+      metin  : haczedilmişti
+      duyulan: hacedilmişti
+  INSERT   ...ne olduğunu anlamaya çalışan
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...çalışan yaşlarındaki kalabalık var
+      metin  : (yok)
+      duyulan: i ki
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-09-29.duyulan.txt

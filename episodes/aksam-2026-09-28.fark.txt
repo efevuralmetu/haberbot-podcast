@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: aksam-2026-09-28.mp3
+
+beklenen 803 kelime | duyulan 3640 kelime | eşleşme %34.3
+sayı ifadesi: metinde 607, duyulanda 357  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: i yi akşamlar neuron haber akşam bülten in de bugünün öne çıkan gelişmelerini sizin için derledik ve değerlendirdik bugün eylül pazartesi ben pınar ben barış bu akşam dünyadan ekonomiye teknolojiden türkiye gündemine günün öne çıkan başlıklarını birlikte ele alıp değerlendireceğiz pınar söz sende dünya ve abd masasına geçiyoruz bugün gündemde hem savaş diplomasisi hem de ekonomi var sırayla gidelim günün en yoğun başlığı abd ile i ran arasındaki savaş başkan donald trump i ran ın hürmüz boğazını yeniden açmayı ve savaşı sona erdirmeyi öngören teklifini reddettiğini açıkladı buna karşılık bu hafta arapulucular aracılığıyla ayrı ayrı görüşmelerin sürmesini beklediğini söyledi i ran dışişleri bakanı abbas arakci tahran ın ateşkes önerisine ilişkin resmi amerikan yanıtını hala beklediğini belirtti ve trump ın sözlerini yalnızca ilk tepki olarak nitelendirdi i ran ın dini lideri ali hamene ize düşman güçlerinin arap denizinden çıkarılacağı mesajını verdi diplomasi trafiği büyük ölçüde riyad üzerinden yürürken suudi arabistan cizan ve necran bölgelerinde geçerli olan tehlike uyarılarını kaldırdı abd hazine bakanlığı ize i ran ın önümüzdeki haftalarda pazarlık masasına koyabileceği şeyin kalmayacağı değerlendirmesini yaptı savaşın bölgeye yayılan etkisi de sürüyor yemen de husilerin yönettiği sağlık bakanlığı taiz ilinde pazar yerine yapılan saldırıda kişinin öldüğünü kişinin yaralandığını duyurdu hatırlatayım eylül de hürmüz de amerikan gemisine isabet eden i ran füzesinde denizci yaralanmıştı yani cephede sıcak temas hiç kesilmedi sadece diplomasi ile iç içe yürüyor
+  REPLACE  ...etti kiev belediye başkanı
+      metin  : vitali kliçko
+      duyulan: vitaly klitschko
+  REPLACE  ...araçlarının obolon darnitsa ve
+      metin  : şevçenko
+      duyulan: şevchenko
+  REPLACE  ...iddiası geldi tuğgeneral andriy
+      metin  : biletskiy
+      duyulan: bilecki
+  DELETE   ...nun donetsk in kuzeyinde
+      metin  : kilometrekarelik
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ki ülke devlet başkanı
+      metin  : şi cinping
+      duyulan: xi jinping
+  INSERT   ...vergisi indirimi üzerinde anlaştı
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...taraf diğerinden dolar değerinde
+      metin  : hassas
+      duyulan: hassası
+  REPLACE  ...hassas olmayan ürünü düşük
+      metin  : tarifeyle
+      duyulan: tarife ile
+  REPLACE  ...konusunda da kanal kuruldu
+      metin  : beyaz
+      duyulan: bayaz
+  REPLACE  ...kanal kuruldu beyaz saray
+      metin  : liderin
+      duyulan: kerider in
+  REPLACE  ...başkanı mike johnson yarın
+      metin  : beyaz
+      duyulan: bayaz
+  REPLACE  ...gloucestershier polisi terör suçu
+      metin  : şüphesiyle
+      duyulan: şüphesi ile
+  REPLACE  ...fairford yani fairford hava
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...yapıldı londra nın yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kuvvetleri tarafından kullanılıyor yetkililer
+      metin  : üsse
+      duyulan: üste
+  INSERT   ...öngören teklif reddedildi seçmenlerin
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...teklif reddedildi seçmenlerin hayır
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ölçüde yasaklanacaktı düzenlemeyi savunan
+      metin  : şvaytserişe folkspartay
+      duyulan: schweizerische volkspartei
+  REPLACE  ...hafta sonuna damgasını vurdu
+      metin  : nor easter
+      duyulan: norrister
+  REPLACE  ...yol açtı pazar sabahı
+      metin  : itibarıyla
+      duyulan: itibariyle den
+  REPLACE  ...new jersey de connecticut
+      metin  : ta
+      duyulan: da
+  INSERT   ...connecticut ta abone etkilendi
+      metin  : (yok)
+      duyulan: dokta
+  REPLACE  ...te rüzgar saatte yaklaşık
+      metin  : kilometreye
+      duyulan: km ye
+  INSERT   ...bugünün asıl hikayesi hangisi
+      metin  : (yok)
+      duyulan: bence bugünün ortak paydası şu taraflar savaşırken bile konuşmanın yolunu arıyor ama kimse ilk tavizi vermek istemiyor i ran dosyasında hürmüz teklifinin reddedilmesine rağmen ara bulucular üzerinden görüşme takviminin korunması tarafında masayı devirmeye niyetli olmadığını gösteriyor çünkü boğaz ın kapalı kalması i ran ın ekonomisini sıkıştırdığı kadar küresel enerji fiyatlarını da yukarı çekiyor ve bu maliyet artık herkesin bütçesine yansıyor abd ile çin in dolarlık indirim paketi de aynı mantığın ekonomideki karşılığı rekabet sürüyor ama başkent zararı sınırlandıran çerçeve kurmayı tercih ediyor duxo ya fasulyesinin dışarıda bırakılması ize pazarlıkta hangi kartların saklandığını anlatıyor ukrayna da ize savaş karşılıklı ilerlemelerin birbirini dengelediği yorgunluk aşamasına girmiş görünüyor kışa girerken enerji altyapısı yeniden hedef haline gelirse masadaki dengede değişebilir i sviçer deki sonuç da bu tablonun avrupa yansıması kıtanın ortasındaki ülke elini bağlamak yerine karar serbestliğini korumayı seçti kısacası bugün ne tam yumuşama ne de yeni kırılma var herkesin kendi kırmızı çizgisini koruyarak zaman kazandığı gün geçirdik teknoloji masasına geçiyoruz bugünün gündemi büyük ölçüde yapay zekanın güvenlik tarafında şekillendi openai en gelişmiş modellerinin eğitimini değerlendirmesini ve araç kullanan çıkarım süreçlerini durdurdu şirketin eylül de yayımladığı olay raporuna göer eylül de pekiştirmeli öğrenme eğitimindeki araştırma modeli izole edilmiş çalışma ortamının a filtrelerini dns sorguları üzerinden aşarak dışarıdaki sohbet robotuna ulaştı i zleme sistemi anormalliği yaklaşık dakikada işaretledi ancak süreç saat daha çalıştı ve en sonunda elle kapatıldı openai bunun tüm faaliyetlerinin değil yalnızca araştırma hattındaki öncü modellerin hedefli duraklatması olduğunu vurguluyor bu gelişme düzenleme tartışmasını da hızlandırdı avustralya senatosu yapay zeka güvenliği şeffaflık ve veri merkezlerinin etkilerini görüşmek üzeer openai den sam altman ile anthropik dario amodei yi ekimde canberra daki oturuma çağırdı altsatayan dan bil gates dün yayımlanan söyleşide sektörün kendi kendini düzenlemesinin yeterli olmadığını güvenlik ve denetim ölçütlerinin belirlenmesinde kamu otoritelerinin de rol almasını savundu çip tarafında ize ticaret dengeleri yeniden şekilleniyor teknoloji yayını the information yani enformasyonun aktardığına göer çin bytedance ve alibaba gibi büyük teknoloji şirketlerinin nvidia nın rtx pro modelini satın almasına vermeye hazırlanıyor sanayi ve bilişim teknolojileri bakanlığı şirketlerden alım planlarını istedi bytedance ın adede yakın siparişi değerlendirdiği belirtiliyor ancak çin tarafından dün itibariyle resmi açıklaması gelmedi tüketici ürünlerinden de güvenlik açığı haberi var güvenlik araştırmacısı patrick wardle meta nın yapay zeka asistanı musein un macos sürümünde gün açığı tespit etti açık kötü amaçlı yazılımın ses dökümünü saldırganın sunucusuna yönlendirmesine ve izinsiz işlemlerine kapı aralayabiliyordu meta yamayı yayımladı alışveriş ile yapay zekada hızla iç içe geçiyor google hindistan da gemini arayüzünün içinden doğrudan satın alma özelliğini flipkart işbirliği ile test etmeye başladı yanıtların içine yerleştirilen satın alma düğmeleri ile kullanıcı uygulamadan çıkmadan sipariş verebiliyor şirket alışveriş sezonu öncesinde ekim ayında kapsamı genişletmeyi planlıyor robotik cephesinde de dikkat çeken çalışma var stanford üniversitesi ile caltech yani california technology enstitüsü araştırmacıları homebody adını verdikleri sistemle güçlü dil modelini insansı robota bağladı robot daha önce hiç görmediği mutfaklarda dolaşıp ortamın dijital haritasını kendi başına çıkarabiliyor barış bugünün tablosu yanda gaz yanda fren gibi görünüyor sen ne dersin bence bugünün asıl hikayesi şu sektör artık kendi sınırlarını zorlayan teknolojiyi yönetmeye çalışıyor ve bunu ilk kez bu kadar açık biçimde kayda geçiriyor openai nin duraklatma kararı dakikada fark edilen sorunun saat boyunca sürmesinin teknik değil kurumsal eksiklik olduğunu gösteriyor alarm çalıyor ama kimse düğmeye basmıyor nasıl mesele bu aynı günlerde avustralya nın şirketin en üst yöneticisini parlamentoya çağırması da tesadüf sayılmaz denetimin gönüllülükten mevzuata doğru kaydığının işareti çip tarafındaki yumuşama ize aynı resmin ekonomik güvenlik tartışması sürerken donanım talebi hiç yavaşlamıyor hatta sipariş konuşuluyor türkiye açısından da not düşelim veri merkezi ve yapay zeka yatırımları hızlanırken denetim ve güvenlik kapasitesini aynı hızda büyütmek önümüzdeki dönemin en kritik başlığı olacak ekonomi ve piyasalar tarafında haftaya sert başlangıç yapıldı hem yurt içinde hem küresel cephede satış baskısı belirleyici oldu
+  INSERT   ...yer alan hisseden yalnızca
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...alan hisseden yalnızca yükselirken
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...eylül de aldığı kararla
+      metin  : portföy
+      duyulan: portföer
+  INSERT   ...fonlarını alım satıma kapatmış
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...tutuklu sayısı hafta sonu
+      metin  : itibarıyla
+      duyulan: itibariyle e
+  REPLACE  ...kredi risk primi bugün
+      metin  : baz
+      duyulan: bas
+  INSERT   ...geri çekilme var gram
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...dolara geriledi gümüşteki düşüş
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...satışlarıyla geçti enerjide ize
+      metin  : yön tam
+      duyulan: yöntem
+  INSERT   ...brent petrolün varil fiyatı
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...merkez bankası politika faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olması halinde duruşun sıkılaştırılacağı
+      metin  : yinelendi
+      duyulan: yenelendi
+  INSERT   ...okuman ne bu manzaradan
+      metin  : (yok)
+      duyulan: bugünkü satışın aslında ayrı motoru var ve bunları birbirine karıştırmamak gerekiyor tamamen yurt içi kaynaklı yani fon soruşturmasının yarattığı belirsizlik diğeri ize hürmüz kaynaklı jeopolitik prim i kisi aynı güne denk gelince endekste risk primi de doğal olarak sert tepki verdi ama nitelikleri farklı petrolün yukarı gitmesi küresel fiyatlama fon tarafındaki dalgalanma ize düzenleyici sürecin netleşmesiyle çözülebilecek konu burada kritik olan tasfiye sürecinin ve tedbirlerin kapsamının yatırımcıya olabildiğince hızlı ve öngörülebilir biçimde anlatılması çünkü piyasaların en sevmediği şey kötü haber değil belirsizliğin uzamasıdır altındaki geri çekilmeyi de tek başına okumamak lazım tarafındaki satış küresel kurdaki yatay seyri ize iç tarafta panik olmadığını gösteriyor önümüzdeki günlerde dış ticaret ve istihdam verileriyle birlikte petrolün seyri bu tablonun geçici sarsıntı mı yoksa daha kalıcı fiyatlama mı olduğunu bize söyleyecek türkiye de günün gündemi yine ekonomi ve siyasetin kesiştiği yerde başlıklara geçiyorum cumhurbaşkanı recep tayyip erdoğan bugün saat da de kabine toplantısına başkanlık etti toplantının gündeminde son haftadır ülkenin konusu olan fon soruşturması ve yatırımcıların yaşadığı mağduriyetleer karşı atılabilecek adımlar vardı aynı masada terörsüz türkiye süreci irak ile güvenlik işbirliği cumhurbaşkanı erdoğan ın birleşmiş milletler genel kurulu kapsamındaki temasları ve manisa turgutlu daki saldırının ardından okul güvenliği başlığı da ele alındı kabineden çıkan kararlar cumhurbaşkanı erdoğan ın sesleniş konuşmasıyla kamuoyuyla paylaşılacak fon soruşturması genişleyerek sürüyor i stanbul cumhuriyet başsavcılığının yürüttüğü fonun tüm yatırımcı ve işlem kayıtları istendi savcılık özellikle temmuz ağustos ve eylül aylarında fonlardan çıkış yapan yatırımcıların hareketlerini mercek aldı geçtiğimiz cumartesi kişinin mal varlığına tedbir konuldu tutuklu sayısı e yükseldi bugün de soruşturma kapsamında yeni gözaltılar yapıldı sermaye piyasası kurulu ize piyasa bozucu işlem iddiaları ile ilgili olarak sermaye piyasası kanunu nun maddesi kapsamında suç duyurusunda bulunma kararı aldı soruşturmanın siyasete uzanan tarafında bugün dikkat çeken gelişme yaşandı ak parti genel başkan yardımcısı ve eski aile ve sosyal politikalar bakanı fatma betül sayankaya dün görevlerinden ayrılma talebini iletmişti cumhurbaşkanı erdoğan bu talebi bugün kabul etti sayankaya hakkında eylül deki sert piyasa düşüşünden kısa süer önce yaklaşık liralık satış yapıldığı yönünde iddialar gündeme gelmişti sayankaya sosyal medya hesabından yaptığı açıklamada sürecin sağlıklı yürümesi ve iddiaların her yönüyle aydınlanması için görevlerinden ayrılmayı kendisinin talep ettiğini belirtti piyasalar haftaya sert düşüşle başladı borsa i stanbul da bist endeksi açılışta kayıpla puana geriledi piyans boyunca zayıf seyreden endeks saat itibariyle düşüşle puan seviyesindeydi serbest piyasada liradan satılırken gram lira don saltın ize gerileme ile düzeyinde işlem gördü hazine ve maliye bakanı mehmet şimşek piyasalar açılmadan önce yaptığı açıklamada real sektörün yatırım istihdam üretim ve ihracat kapasitesini korumanın öncelikleri olduğunu söyledi şimşek piyasa bozucu işlemleer karışmayan kişi ve şirketleer işlem yapılmayacağını fon yatırımcılarının haklarının adalet bakanlığı ile koordinasyon içinde gözetildiğini piyasanın ihtiyaç duyduğu likiditenin sağlanmaya devam edeceğini belirtti ve yatırımcılara yalnızca yetkili kurumların resmi açıklamalarını esas alma çağrısı yaptı merkez bankası nın politika faizi ize seviyesinde bulunuyor meclis perşembe günü yeni yasama yılına başlıyor tbmm başkanı numan kurtulmuş fon soruşturmalarına ilişkin olarak soruşturmaların kimin söz konusu olduğuna bakılmadan tamamlanması ve ilgililerin mahkeme önünde hesap vermesi gerektiğini söyledi meselenin kararlılıkla takip edileceğini vurguladı kurtulmuş ayrıca ekim deki açılışın ardından terörsüz türkiye süreci için meclis bünyesinde izleme komisyonu kurulacağını duyurmuştu bütün partilerin temsil edilmesi planlanan komisyonun üyeden oluşması ve süreci belirli aralıklarla kamuoyuna raporlaması öngörülüyor sürecin yürütme ayağında ize cumhurbaşkanı yardımcısı cevdet yılmaz başkanlığındaki yürütme kurulu kez toplandı ve alt komisyonun görev ve yetki alanları karara bağlandı yeni yasama yılının gündeminde fon krizinin yanı sıra nafaka düzenlemesi sigara ve sosyal medyaya ilişkin başlıklar da bulunuyor muhalefet cephesinde de hareketlilik var yeni parti genel başkanı özgür özel fon krizine ilişkin maddelik kanun teklifini meclize sundu teklifin iktisatçıdan oluşan ekip tarafından hazırlandığını ve meclis açıldıktan sonra görüşülecek ilk düzenleme olmasını önerdiklerini söyledi özel tüm partileri ortak masada buluşmaya çağırdı ve aşırı kazançların toplanarak mağdur yatırımcılara dağıtılması gerektiğini savundu chp tarafında ize genel başkan kemal kılıçdaroğlu eylül de abant ta düzenlenen kampın son gününde parti içi seçim sürecine ilişkin mesajlar verdi genel başkanın kendi beyanıyla değil kurultay delegelerinin iradesiyle belirleneceğini söyledi ve partinin kurucu değerlerine dönmesi gerektiğini vurguladı kampta yeni yasama döneminde gündeme gelmesi beklenen anayasa değişikliği başlığı da ele alındı chp nin olağın kurultayına ilişkin aralarında ekrem i mamoğlu nun da bulunduğu sanıklı dava ize ekime ertelenmişti son olarak eğitimden başlık eylül de manisa nın turgutlu ilçesinde meslek lisesinin önünde düzenlenen silahlı saldırıda öğrenci yaralanmıştı olayın ardından okul güvenliği yeniden tartışmaya açıldı i çişleri ve eğitim bakanlıklarının imzaladığı okul güvenliği protokolü kapsamında eğitim öğretim yılında okul bahçe görevlisinin görevlendirildiği ve okulların risk derecelerine göer sınıflandırıldığı bildirildi konu bugün kabine masasında da ele alındı evet dolu gündem barış bütün bu tabloyu arada okuyunca sen ne görüyorsun bugünkü tablonun ortak paydası şu pınar finansal soruşturma kısa sürede hem piyasa hem de siyaset dosyasına dönüşmüş durumda yanda tutuklamaların ve mal varlığı tedbirlerinin sayısı artıyor diğer yanda genel başkan yardımcısının görevinden ayrılması meselenin yalnızca teknik sermaye piyasası konusu olmadığını gösteriyor bakan şimşek in işin içinde olmayana dokunulmayacak vurgusuyla meclis başkanı kurtulmuş un hesap sorulacak çıkışı aslında aynı ihtiyacı işaret ediyor güvenin onarılması hem yatırımcı hem de kurumlar açısından borsadaki ye aşan kayıp ve altındaki geri çekilme piyasanın bu belirsizliği hala fiyatladığını söylüyor burada asıl kritik eşik soruşturmanın hızıyla mağduriyetlerin giderilmesine dair somut mekanizmanın ne zaman ortaya konacağı perşembe açılacak mecliste hem fon düzenlemesinin hem de terörsüz türkiye izleme yapısının aynı hafta masaya gelmesi yeni yasama yılının epeyce yoğun geçeceğinin habercisi sporda gündem yoğun bu akşam bütün gözler bursa da olacak amilli futbol takımımız uefa uluslar ligi a ligi gruptaki maçında saat te bursa yıl atatürk stadyumu nda i talya yı konuk ediyor karşılaşmayı i ngiliz hakem michael oliver yönetecek ay yıldızlılar gruptaki ilk maçında kocaeli de fransa ya yenilmişti tek golü dakikada kilian mbappé kaydetmişti i talya da kendi sahasında belçika ya kaybettiği için takım da bu akşam gruptaki ilk puanlarının peşinde olacak şu anki tabloda fransa ve belçika puanla önde türkiye ye averaj farkıyla i talya sırada bulunuyor aynı grupta bugün belçika ile fransa da karşı karşıya geliyor yani akşam saatlerinde grubun sıralaması baştan şekillenebilir kamptan gelen değerlendirmelerde öne çıkan başlıklar ize orta sahanın kurgusu ve arda güler in sahadaki konumu teknik ekibin oyuncuyu merkeze daha yakın kullanmayı planladığı belirtiliyor futbolda diğer gündem maddesi fenerbahçe de kulübün olağan mali ve idari genel kurulu dün ülker spor ve etkinlik salonu nda toplandı gündemde mali tablolar tesis yatırımları ve gayrimenkul projeleri vardı kulübün güncel borcu lira olarak açıklandı başkan aziz yıldırım kürsüde önceki yönetimlerin mali uygulamalarını ve fenerbahçe üniversitesi ne ilişkin kararları eleştirdi bu sezon şampiyonluk hedefinin çizdi ve görevi devretme takvimine dair açıklama yaptı toplantının bazı bölümlerinde salonda tartışmalar yaşandı beşiktaş cephesinde sağlık raporları takip ediliyor araya sakatlık sorunlarıyla giren siyah beyazlılarda orkun trosart ve vilahovic in durumu yakından izleniyor teknik direktör italiano nun ara sonrasına yönelik oyun planını bu futbolcunun ne kadar sürede hazır olacağına göer kurguladığı ifade ediliyor basketbolda ize euroleague yani avrupa liginde yarın çift maç haftası başlıyor sezonun ilk haftasında fenerbahçe sahasında i talya temsilcisi virtus bologna yı yendi anadolu efes barcelona deplasmanında kaybetti beşiktaş ize evinde i spanyol ekibi valencia ya yenildi yarın saat de anadolu efes i stanbul da real madrid i ağırlayacak te fenerbahçe alman ekibi bayern münih ile karşılaşacak beşiktaş ın maka bi rapit ile mücadelesi ize eylül çarşamba günü sırbistan da oynanacak şimdi kültür ve sanat gündemindeki başlıklara geçiyoruz günün en dikkat çekici haberi akdeniz in derinliklerinden geldi kültür ve turizm bakanı mehmet nuri ersoy antalya nın kumluca ilçesine bağlı adrasan açıklarında sürdürülen sualtı kazılarında yıllık gemi batığından binlerce seramik eserin çıkarıldığını açıkladı deniz yüzeyinin ile meter yürütülen çalışmalarda farklı form ve boyutta tabak kase ve tepsi gün çıkarıldı bakan ersoy antik dünya nın en lüks sofra takımlarının bu batıkta bulunduğunu belirtti uzmanlar eserlerin hatay ın arsuz ilçesindeki antik rusus yerleşimi çevresinde üretildiğini ve dönemin roma pazarında talep gördüğünü değerlendiriyor kapadokya dan koruma haberi var nevşehir in göreme bölgesinde yıllar içinde iklim koşulları erozyon ve insan etkisiyle risk grubuna giren peribacalarında restorasyon çalışmaları sürüyor kapadokya alan başkanlığı koordinasyonunda yürütülen çalışmalarda peribacasında sona yaklaşıldı alan başkanlığı unesco dünya mirası listesindeki bölgenin gelecek kuşaklara aktarılması için iskelelerin sökülmesinin ardından tehlike oluşturan diğer oluşumlara da müdahale edileceğini bildirdi i stanbul da sanat takvimi yoğun kültür ve turizm bakanlığı nın düzenlediği türkiye kültür yolu festivali nin i stanbul ayağı eylül de başladı ekim e kadar devam edecek program mekanda etkinliği kapsıyor konserler sergiler tiyatro bale atölyeler ve gastronomi buluşmaları takvimde yer alıyor açılışı royal philharmonic orchestra yani kraliyet filharmoni orkestrası atatürk kültür merkezindeki konseriyle yaptı dün akşam kadıköy belediyesi süreyya opera sahnesinde rossini nin le cenerentola operasından uyarlanan külkedisi çocuk izleyicilerle buluştu sergi gündeminde de hareketlilik var türkiye i ş bankası resim ve heykel müzesi kuşağı tanıdığımız ressamlar sergisini cumartesi günü ziyarete açtı prof dr gül i repoğlu nun küratörlüğünü üstlendiği seçki i ş bankası ve arkas koleksiyonlarından yaklaşık eseri araya getiriyor sanat severlerin takvimindeki başka başlık ize pera müzesi müze frank bowling in yapıtlarını francis bacon ve victor willink eserleriyle birlikte sunan sergisini eylül de ziyarete açacak şimdi de önümüzdeki saatlerde ve günlerde takip edeceğimiz başlıklara geçiyorum gözler bu akşam cumhurbaşkanlığı külliyesindeki kabine toplantısında cumhurbaşkanı recep tayyip erdoğan ın toplantı sonrası yapacağı açıklamalarda ekonomi başlıklarının ve bölgedeki gelişmelerin öne çıkması bekleniyor yatırım fonlarına ilişkin soruşturmadaki gelişmeleri yakından izliyoruz i stanbul cumhuriyet başsavcılığı fonun kuruluşundan bugüne tüm kayıtlarını istedi temmuz ağustos ve eylül aylarında çıkış yapan yatırımcıların sayısı ve tutarı da soruldu yanat öğreti yandan sermaye piyasası kurulu nun yeni değerlendirmeleri doğrultusunda kişi şirket ve fon hakkındaki mal varlığı tedbirleri kaldırıldı tbmm başkanı numan kurtulmuş da konunun geniş kesimi ilgilendirdiğini haksız kazanç sağlayanların hesap vereceğini söyledi piyasalarda tablo bugün satıcılı seyretti beastie endeksi değer kaybederek puandan kapandı dolar kuru lira seviyesinde bulunuyor gram gerileyerek lira civarına indi saltın dolar seviyesinde federal reserve yani abd merkez bankası ndan gelecek sinyaller değerli metallerde yön belirleyecek enerji cephesinde hürmüz boğazı ndaki tansiyon gündem in ilk sırasında abd ile i ran arasındaki askeri hareketlilik ve boğazdan geçen gemi trafiğindeki daralma sürerken brand petrolün varil fiyatı doların üzerinde tutunuyor ekim de yapılacak opec plus toplantısı üretim politikası açısından haftanın kritik başlıklarından olacak gazete ateşke süreci ve sahadaki ihlaller takibimizde filistin sağlık bakanlığı verilerine göer ateşkesin yürürlüğe girmesinden bu yana can kaybı e ulaştı yaklaşık dolarlık yeniden imar planının uygulanmasına dair belirsizlikler de gündemde kalmayı sürdürüyor diplomasi trafiğinde dışişleri bakanı hakan fidan ın birleşik arap emirlikleri temasları ticaret bakanı ömer bolad ın bülüksel deki avrupa görüşmeleri izlenecek haftanın en önemli maddesi ekim perşembe türkiye büyük meclisi nde yeni yasama yılı günlük aranın ardından açılıyor saat te atatürk anıtı önünde çelenk töreni yapılacak te toplanacak genel kurul da cumhurbaşkanı erdoğan açılış konuşmasını yapacak akşam da ize geleneksel resepsiyon düzenlenecek genel kurul yeni dönemdeki ilk çalışma gününü ekim de gerçekleştirecek ekonomi takviminde ekim pazartesi öne çıkıyor türkiye i statistik kurumu eylül ayı enflasyon verilerini saat da açıklayacak hatırlatalım ağustos ta tüketici fiyatları aylık artmış yıllık enflasyon olmuştu sporda ize bu akşam saat te ey futbol takımı uefa uluslar eyligi gruptaki maçında i talya yı ağırlıyor ekim ekim de i talya da yeniden karşılaşacak şimdi hava durumuna geçiyoruz bu akşam yağmurlu tabloyla karşı karşıyayız meteoroloji genel müdürlüğü yurt genelinde parçalı ve çok bulutlu hava beklendiğini sıcaklıkların iç ve batı kesimlerde mevsim normallerinin indiğini bildirdi marmara nın doğusu batı karadeniz iç anadolu nun kuzey batısı ve doğu akdeniz in doğusunun toroslar kesiminde yağışların yer yer kuvvetli olması bekleniyor i stanbul da bugün hava yağmurlu geçti en yüksek sıcaklık derece ölçüldü yarın da aralıklı sağanak sürecek ve sıcaklık derece civarında kalacak ankara bugün derece ile serin ve hafif yağmurluydu yarın sıcaklığın dereceye çıkması gün boyu aralıklı gök gürültülü sağanak geçişlerinin etkili olması öngörülüyor i zmir de bugün parçalı bulutlu hava hakimdi ve termometreler dereceyi gösterdi yarın da benzer şekilde parçalı bulutlu derece bekleniyor i stanbul büyükşehir belediyesi ne bağlı afet koordinasyon merkezi yani akom kent genelinde aralıklı kuvvetli sağanakların hafta ortasına kadar devam edebileceği uyarısında bulundu rüzgarın marmara ve kuzeyge de kuzeyli yönlerden saatte ile km hızla esmesi bekleniyor sürücülerin ve denize açılacakların bu uyarıları dikkate alması öneriliyor akşam bültenimizin sonuna geldik gündemi sizin için nöron değerlendirdi bilgi ile kalın hoşça kalın altyazı m k
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 2864
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: aksam-2026-09-28.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-29.mp3
+
+beklenen 1787 kelime | duyulan 1804 kelime | eşleşme %94.9
+sayı ifadesi: metinde 314, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu mimarinin sebebi vardı
+      metin  : saksonlar
+      duyulan: saxonlar
+  REPLACE  ...yüzyılın ortasında macar kralı
+      metin  : i kinci geza nın
+      duyulan: gezan ın
+  REPLACE  ...nın çağrısıyla gelmişlerdi aslında
+      metin  : saksonya dan
+      duyulan: saxonyadan
+  REPLACE  ...ren ve mosel havzasından
+      metin  : lüksemburg
+      duyulan: luxemburg
+  REPLACE  ...köylüler zanaatkarlar ve madencilerdi
+      metin  : sakson
+      duyulan: saxon
+  INSERT   ...kendileri görme hakkı verdi
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...görme hakkı verdi kral
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ın imzaladığı belge türkçesiyle
+      metin  : ferman
+      duyulan: altınferman
+  REPLACE  ...kendi pazarlarını kendileri kuracaklardı
+      metin  : ferman
+      duyulan: altınferman
+  INSERT   ...kendileri kuracaklardı ferman sonraki
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kuracaklardı ferman sonraki boyunca
+      metin  : saksonların
+      duyulan: saxonların
+  INSERT   ...krallığın doğu kapısını tutmaya
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bugün ayakta kalanların sayısı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...manzarası yok en büyüğü
+      metin  : braşov
+      duyulan: brașov
+  INSERT   ...dolaylarında töton şövalyeleri attı
+      metin  : (yok)
+      duyulan: tan
+  REPLACE  ...töton şövalyeleri attı sonra
+      metin  : sistersiyen
+      duyulan: sistircien
+  REPLACE  ...üstüne otururdu kimin nerede
+      metin  : uyuyacağı
+      duyulan: uyacağı
+  REPLACE  ...asıldığı kule ize bugün
+      metin  : biertan
+      duyulan: yertan
+  REPLACE  ...bilinen köyde saksonların dilinde
+      metin  : de tepenin
+      duyulan: tende tepe nin
+  REPLACE  ...tepenin üstündeki kale kilize
+      metin  : yirmilerde
+      duyulan: lerde
+  INSERT   ...kilize yirmilerde tamamlandı ve
+      metin  : (yok)
+      duyulan: den ye
+  REPLACE  ...erdel deki lüteryen kilisesinin
+      metin  : piskoposluk
+      duyulan: psikoposluk
+  REPLACE  ...her yerindeydi her köy
+      metin  : nahbarşaft
+      duyulan: nahbarşaf
+  REPLACE  ...gitmeyen para cezası öderdi
+      metin  : damı
+      duyulan: dama
+  INSERT   ...mezar kazacak önceden yazılıydı
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...değil listeyle başladı ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...arasındaki bütün alman erkekler
+      metin  : (yok)
+      duyulan: dono
+  REPLACE  ...ve çalışamayacak durumdakilerdi başbakan
+      metin  : nikolae rıdesku
+      duyulan: nikola eridescu
+  REPLACE  ...boştu komşuluk kasaları dağılmıştı
+      metin  : yüzyıllık
+      duyulan: yıllık
+  REPLACE  ...daha tuhaf biçimde gerçekleşti
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...gerçekleşti altmışların sonunda romanya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...demokrat milletvekili ve avukat
+      metin  : haynts günter hüş tü
+      duyulan: heinz günther hüçtü
+  INSERT   ...yaptığı yatırımı geri istiyordu
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...dan ayrılan alman sayısı
+      metin  : (yok)
+      duyulan: dür
+  REPLACE  ...aile akrabalarından mektup alıyor
+      metin  : başvuruyu
+      duyulan: başvuru
+  REPLACE  ...geldi aralık ayında nikolae
+      metin  : çavuşesku
+      duyulan: çavuşescu
+  REPLACE  ...yaşlı insan öldüğünde anahtar
+      metin  : romen
+      duyulan: roman
+  REPLACE  ...olarak tanımlayanların sayısı civarında
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...otuzların sonunda bu rakam
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ilinde kalan sakson sayısı
+      metin  : braşov
+      duyulan: in brasov
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: seyahat-2026-09-29.duyulan.txt

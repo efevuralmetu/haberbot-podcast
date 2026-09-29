@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-29.mp3
+
+beklenen 3509 kelime | duyulan 3507 kelime | eşleşme %99.1
+sayı ifadesi: metinde 82, duyulanda 81  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...looked at how people
+      metin  : assess
+      duyulan: assessed
+  REPLACE  ...feeling of being an
+      metin  : impostor
+      duyulan: imposter
+  REPLACE  ...between cowardice and recklessness
+      metin  : generosity
+      duyulan: magnanimity
+  REPLACE  ...in the century ibn
+      metin  : miskawayh
+      duyulan: miskaway
+  REPLACE  ...thought in his work
+      metin  : tahdhib
+      duyulan: ta dib
+  REPLACE  ...the sub virtues of
+      metin  : iffa
+      duyulan: rifa
+  REPLACE  ...in his great work
+      metin  : ihya ulum
+      duyulan: ihiyulam
+  REPLACE  ...mean between arrogance and
+      metin  : mahana mahana
+      duyulan: muhanna muhanna
+  REPLACE  ...moer is always better
+      metin  : mercy
+      duyulan: humility
+  REPLACE  ...up a list in
+      metin  : an enquiry
+      duyulan: inquiry
+  REPLACE  ...to count their own
+      metin  : lamb ness
+      duyulan: lambleness
+  REPLACE  ...his hands aer forever
+      metin  : wringing
+      duyulan: ringing
+  REPLACE  ...belittles himself without pause
+      metin  : that
+      duyulan: but
+  REPLACE  ...person considers himself soil
+      metin  : nothing
+      duyulan: everything
+  REPLACE  ...verse that line of
+      metin  : yunus emer s
+      duyulan: eunus emres
+  REPLACE  ...room for that layer
+      metin  : drawing
+      duyulan: putting
+  REPLACE  ...the way not disappearing
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...tone of voice a
+      metin  : wringing
+      duyulan: ringing
+  REPLACE  ...grow top of it
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...it nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bugung kübelümün sono nagaltik yini bier hikäe de yinidän bulushmakuzeer
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-29.duyulan.txt

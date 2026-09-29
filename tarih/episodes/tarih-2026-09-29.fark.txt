@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-29.mp3
+
+beklenen 2664 kelime | duyulan 2687 kelime | eşleşme %94.7
+sayı ifadesi: metinde 325, duyulanda 213  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...skoç vardı william paterson
+      metin  : dumfriesshier
+      duyulan: doomfriesshier
+  REPLACE  ...hint adaları na gitmiş
+      metin  : karayipler de
+      duyulan: karayıplerde
+  REPLACE  ...şeridiyle birbirine bağlanır orada
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...arasındaki mesafe yer yer
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...amerika nın en ucundan
+      metin  : macellan
+      duyulan: magellan
+  REPLACE  ...ve adam yiyordu paterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...paterson ın önerisi şuydu
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...karadan taşınsın öbür kıyıda
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  REPLACE  ...ticaretinden vergi alır paterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...dayanağı da vardı lionel
+      metin  : wafer
+      duyulan: wayfar
+  REPLACE  ...lionel wafer adında cerrah
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...arasında yaşamıştı anlattıklarına göer
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...zaman gerçekten yerleşememişti paterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...yerleşememişti paterson ın şirketi
+      metin  : wafer i
+      duyulan: de wayfar ı
+  REPLACE  ...şirketi wafer i sessizce
+      metin  : edinburgh
+      duyulan: ebenbur
+  REPLACE  ...a getirtip sorguya çekti
+      metin  : wafer
+      duyulan: waffer
+  REPLACE  ...düştüğünü sormadı peki bu
+      metin  : karayip
+      duyulan: karaip
+  REPLACE  ...seyrüsefer yasaları i ngiliz
+      metin  : sömürgeleriyle
+      duyulan: sömürgeleri ile
+  REPLACE  ...karlı pazarlarından dışlanmıştı üstelik
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...gelen hasat felaketleri vurdu
+      metin  : tarihe
+      duyulan: tathah
+  REPLACE  ...şirkete afrika ve asya
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...defterleer kısa sürede sterlinlik
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...çıkaracak girişimin i ngiliz
+      metin  : sermayesiyle
+      duyulan: sermayesi ile
+  REPLACE  ...esnafı da geldi kadın
+      metin  : sterlin
+      duyulan: terlin
+  REPLACE  ...tür bildiriydi sonuçta toplanan
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...tekne hazırlandı caledonia yani
+      metin  : kaledonya saint
+      duyulan: caledonia st
+  REPLACE  ...erken uyarıyı veriyordu şirket
+      metin  : darién
+      duyulan: daryen
+  INSERT   ...ekvatora derece uzaklıkta nemin
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...skoçlar peruk götürüyordu paterson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...yönetim kurulundan çıkarıldı ve
+      metin  : darién
+      duyulan: daryen
+  INSERT   ...edinburgh un limanı leith
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...sürdü mühürler açıldı rota
+      metin  : karayipler e
+      duyulan: kara ipleer
+  INSERT   ...için olağandışı kayıp değildi
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...olağandışı kayıp değildi kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karaya çıktıklarında gördükleri manzara
+      metin  : wafer in
+      duyulan: vaferin
+  REPLACE  ...gitmişti sonra yağmur başladı
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...beklenen şey koyun büyük
+      metin  : uğrak
+      duyulan: urak
+  REPLACE  ...hali olan kişi kalmıştı
+      metin  : leith
+      duyulan: leyd den
+  INSERT   ...yola çıkan kişiden yaklaşık
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...yaklaşık hayattaydı geri kalanı
+      metin  : darién in
+      duyulan: dariye nin
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 85 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: tarih-2026-09-29.duyulan.txt

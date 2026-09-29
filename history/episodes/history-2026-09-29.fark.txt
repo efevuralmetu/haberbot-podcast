@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-09-29.mp3
+
+beklenen 3974 kelime | duyulan 3958 kelime | eşleşme %98.9
+sayı ifadesi: metinde 225, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...in the countryside of
+      metin  : dumfriesshier
+      duyulan: dumfrieshier
+  REPLACE  ...called the isthmus of
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...harbor be built at
+      metin  : darién
+      duyulan: darien
+  DELETE   ...buccaneers in the early
+      metin  : eighties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...people by his account
+      metin  : darién
+      duyulan: darien
+  DELETE   ...the middle of the
+      metin  : nineties
+      duyulan: (YOK — atlanmış)
+  INSERT   ...as the il years
+      metin  : (yok)
+      duyulan: yet
+  DELETE   ...short time subscriptions worth
+      metin  : pounds
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...she had put by
+      metin  : towns
+      duyulan: the guilds
+  REPLACE  ...ready the caledonia the
+      metin  : saint
+      duyulan: st
+  REPLACE  ...to be founded at
+      metin  : darién
+      duyulan: darian
+  REPLACE  ...darién the company loaded
+      metin  : woollen
+      duyulan: wool and
+  REPLACE  ...loaded woollen stockings heavy
+      metin  : woollen
+      duyulan: woolen
+  REPLACE  ...directors and boarded for
+      metin  : darién
+      duyulan: darian
+  REPLACE  ...a presidency that rotated
+      metin  : weekly
+      duyulan: weakly
+  REPLACE  ...then the rain began
+      metin  : darién
+      duyulan: scotland
+  REPLACE  ...an equatorial forest bought
+      metin  : woollen
+      duyulan: woolen
+  REPLACE  ...theft and desertion began
+      metin  : paterson
+      duyulan: patterson
+  REPLACE  ...fel il and died
+      metin  : paterson
+      duyulan: patterson
+  REPLACE  ...and now they weer
+      metin  : travelling
+      duyulan: traveling
+  REPLACE  ...had died ashoer the
+      metin  : saint
+      duyulan: st
+  REPLACE  ...in the mud of
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...ailing spanish king and
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...boats that went from
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...spanish forward post at
+      metin  : toubacanti
+      duyulan: tubacanti
+  REPLACE  ...put ashoer and fort
+      metin  : saint
+      duyulan: st
+  REPLACE  ...the fort with their
+      metin  : colours
+      duyulan: colors
+  REPLACE  ...having put money into
+      metin  : darién
+      duyulan: dairy and
+  REPLACE  ...already its knees after
+      metin  : darién
+      duyulan: darien
+  DELETE   ...payment to scotland of
+      metin  : and and pounds
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...had lost money at
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...liquidation desk of the
+      metin  : darién
+      duyulan: darien
+  DELETE   ...compensation of moer than
+      metin  : pounds
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...way paterson had foreseen
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...known maps as the
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...climate or the mosquitoes
+      metin  : darién
+      duyulan: darien
+  REPLACE  ...it could trade with
+      metin  : closed
+      duyulan: close
+  REPLACE  ...money scotland lost at
+      metin  : darién
+      duyulan: darien
+  DELETE   ...not come back until
+      metin  : nöron history de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-09-29.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-29.mp3
+
+beklenen 2276 kelime | duyulan 2272 kelime | eşleşme %96.0
+sayı ifadesi: metinde 210, duyulanda 186  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bize şey söylüyor arapça
+      metin  : vaz
+      duyulan: vas
+  INSERT   ...ucunu da ölçmüş durumda
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da ölçmüş durumda justin
+      metin  : kruger
+      duyulan: krueger
+  REPLACE  ...farkındalığı artıyordu bu bulgu
+      metin  : alçakgönüllülüğü
+      duyulan: alçak yönüllülüğü
+  INSERT   ...ama madalyonun öbür de
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ciddiyetle tartan kişi aristoteles
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...kendine biçmeyen aristoteles in
+      metin  : deyimiyle
+      duyulan: deyimi ile
+  INSERT   ...daha kötüdür daha kötü
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...fark etmez hata gürültülüdür
+      metin  : (yok)
+      duyulan: i kincisi
+  REPLACE  ...şey bilmem tavrı bu
+      metin  : sınıfa
+      duyulan: tarafa
+  DELETE   ...dönüşebileceğini söylüyor en yalın
+      metin  : kılığa
+      duyulan: (YOK — atlanmış)
+  INSERT   ...üstelik daha keskin biçimde
+      metin  : (yok)
+      duyulan: atom
+  REPLACE  ...yüzyılda yaşayan i bn
+      metin  : miskeveyh tehzibü l
+      duyulan: i miskevey tehzib ül
+  REPLACE  ...formülü gazali veriyor i
+      metin  : hyau ulumi d din
+      duyulan: hyahu ulu mi dediğin
+  REPLACE  ...göer kendini fazla yüksek
+      metin  : koymak da
+      duyulan: koymakta
+  REPLACE  ...koymak da fazla aşağı
+      metin  : koymak da
+      duyulan: koymakta
+  DELETE   ...konuşan ahlakçının kendini yeer
+      metin  : serme
+      duyulan: (YOK — atlanmış)
+  DELETE   ...göer kibrin çekirdeğinde kendini
+      metin  : beğenme
+      duyulan: (YOK — atlanmış)
+  INSERT   ...çabasından başka şey değilse
+      metin  : (yok)
+      duyulan: dotsing
+  INSERT   ...değilse yüzyılda david hume
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yapıyor oruç kefaret nefsi
+      metin  : köreltme
+      duyulan: köretme
+  REPLACE  ...kefaret nefsi köreltme kendini
+      metin  : yadsıma alçakgönüllülük
+      duyulan: yatsıma alçak gönüllülük
+  REPLACE  ...ne toplumun daha değerli
+      metin  : üyesi
+      duyulan: kez
+  REPLACE  ...değerli üyesi yapar hume
+      metin  : a
+      duyulan: ye
+  REPLACE  ...anlayışı uyuşturur kalbi katılaştırır
+      metin  : mizacı
+      duyulan: mizace
+  REPLACE  ...ölçülü gururun faydalı olduğunu
+      metin  : savunuyor
+      duyulan: söylüyor
+  REPLACE  ...hoş değildir kimse karşısındakinin
+      metin  : kendi
+      duyulan: hürri
+  DELETE   ...kalıbımızın tam olarak felsefi
+      metin  : tarifi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olarak felsefi tarifi bu
+      metin  : niçe
+      duyulan: nietzsche
+  INSERT   ...niçe ize nezaketle uğraşmıyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nezaketle uğraşmıyor yazdığı ahlakın
+      metin  : soykütüğü
+      duyulan: soykütü
+  REPLACE  ...kuzuluklarını iyilik saymaya başlaması
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...yapamadığımız şeyi yapmak istemiyormuşuz
+      metin  : gibi
+      duyulan: şey
+  REPLACE  ...tercih gibi yeniden yazıyor
+      metin  : niçe nin
+      duyulan: nietzchenin
+  DELETE   ...kimsenin rekabet edemeyeceği mevki
+      metin  : kurmuş
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hiç kimseyim cümlesi de
+      metin  : iddiadır
+      duyulan: iddadır
+  REPLACE  ...önce teşhis etmişti charles
+      metin  : dickens ın
+      duyulan: dickinson de
+  REPLACE  ...romanı david copperfield da
+      metin  : uriah heep
+      duyulan: oraya hip
+  REPLACE  ...elleri hep ovuşturmadadır kendini
+      metin  : sürekli
+      duyulan: özellikle
+  REPLACE  ...huy değil tırmanma aletidir
+      metin  : dickens ın
+      duyulan: dickinson
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: felsefe-2026-09-29.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-29.mp3
+
+beklenen 2270 kelime | duyulan 2281 kelime | eşleşme %91.1
+sayı ifadesi: metinde 289, duyulanda 201  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gezgin yolunu şaşırmıştı adı
+      metin  : şarl teksiye ydi
+      duyulan: şarteksiye idi
+  DELETE   ...galatların bildiği kaynaklarda adı
+      metin  : geçen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kalıntısı değildi kent kalıntısı
+      metin  : fikrini
+      duyulan: fikrine
+  REPLACE  ...ötede kayalıkların arasındaki dar
+      metin  : yarığa
+      duyulan: yarıya
+  REPLACE  ...de herodotos un andığı
+      metin  : pteria
+      duyulan: piteria
+  REPLACE  ...ertesi yıl i ngiliz
+      metin  : jeolog
+      duyulan: coğlog
+  INSERT   ...şey boğazköy den gelmedi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aynı tuhaf resimyazıyla kazınmış
+      metin  : taşları
+      duyulan: kitabları
+  DELETE   ...tabletler çıkardı firavunun yazışma
+      metin  : arşiviydi bu
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yazılmış mektup daha çıktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çıktı fransız arkeolog ernest
+      metin  : şantr teksiye nin
+      duyulan: chanter teksiyenin
+  REPLACE  ...şuydu okunan şey hiçbir
+      metin  : anlama
+      duyulan: okuma
+  INSERT   ...şey hiçbir anlama gelmiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hiçbir anlama gelmiyordu norveçli
+      metin  : dilbilimci yörgen aleksander knudtson
+      duyulan: dil bilimci jørgen alexander knutsson
+  REPLACE  ...mektuplaşan sarayın kaleminde bulunmazdı
+      metin  : knudtson
+      duyulan: knutsson
+  INSERT   ...yılını haksız sayılarak geçirdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başında berlinli asurolog hugo
+      metin  : vinkler
+      duyulan: winkler
+  REPLACE  ...yanında i stanbul daki
+      metin  : müze i
+      duyulan: müzeyi
+  REPLACE  ...i hümayun un görevlisi
+      metin  : teodor makridi
+      duyulan: theodor makrid i
+  REPLACE  ...görevlisi teodor makridi çalışıyordu
+      metin  : vinkler
+      duyulan: winkler
+  REPLACE  ...eline tablet geçti tablet
+      metin  : akadca
+      duyulan: akatça
+  DELETE   ...akadca yazılmıştı yani dönemin
+      metin  : diplomasi diliyle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dönemin diplomasi diliyle yani
+      metin  : vinkler
+      duyulan: winkler
+  DELETE   ...dille metin mısır firavunu
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aynı antlaşmanın mısır tarafındaki
+      metin  : hiyeroglif
+      duyulan: hiyeroklif
+  REPLACE  ...kazılıydı ve yıllardır biliniyordu
+      metin  : vinkler
+      duyulan: winkler
+  REPLACE  ...gücünden arşivinden çıkan karşı
+      metin  : nüshayı
+      duyulan: nüşayı
+  REPLACE  ...tutuyordu kentin kimliği artık
+      metin  : tartışmalı
+      duyulan: artışmalı
+  REPLACE  ...zafer aynı zamanda duvardı
+      metin  : vinkler
+      duyulan: winkler
+  REPLACE  ...binlerce tabletin küçük azınlığı
+      metin  : akadcaydı
+      duyulan: akatçaydı
+  REPLACE  ...ve kimse cümlesini anlamıyordu
+      metin  : vinkler
+      duyulan: winkler te
+  INSERT   ...hala okunmamış halde bekliyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...okunmamış halde bekliyordu alman
+      metin  : şark
+      duyulan: şart
+  REPLACE  ...stanbul a çek asıllı
+      metin  : asurolog
+      duyulan: asirolog
+  REPLACE  ...çek asıllı asurolog gönderdi
+      metin  : bedrih hrozni
+      duyulan: bedri hirozny
+  REPLACE  ...başladı sonra savaş çıktı
+      metin  : hrozni
+      duyulan: hirozny
+  REPLACE  ...kışlada üstlerinden çalışma izni
+      metin  : kopardı
+      duyulan: vardı
+  REPLACE  ...birliğin yazı masasında oldu
+      metin  : hrozni
+      duyulan: hirozny
+  REPLACE  ...şuydu nu ninda an
+      metin  : ezzatteni watar
+      duyulan: ezzat deni vatar
+  REPLACE  ...an ezzatteni watar ma
+      metin  : ekutteni
+      duyulan: ekut deni
+  ... ve 85 fark daha
+
+metinde olup DUYULMAYAN: 151 kelime | duyulup metinde OLMAYAN: 158
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: arkeoloji-2026-09-29.duyulan.txt

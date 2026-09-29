@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-29.mp3
+
+beklenen 1840 kelime | duyulan 1844 kelime | eşleşme %96.7
+sayı ifadesi: metinde 227, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yolu oraya alet göndermek
+      metin  : altmışlardan
+      duyulan: lardan
+  REPLACE  ...plakaya çarpan elektrik alanını
+      metin  : periyodik
+      duyulan: periodik
+  REPLACE  ...boş değil milimetrik buz
+      metin  : iğneleriyle
+      duyulan: iğneleri ile
+  REPLACE  ...milimetrik buz iğneleriyle su
+      metin  : damlacıklarıyla
+      duyulan: damlacıkları ile
+  REPLACE  ...iğneleriyle su damlacıklarıyla dolu
+      metin  : taneleriyle
+      duyulan: taneleri ile
+  REPLACE  ...gündemde olmadığı çağda atıldı
+      metin  : sis
+      duyulan: te cis
+  REPLACE  ...aşağı doğru yayılan parçacık
+      metin  : çığı
+      duyulan: çığ
+  DELETE   ...parçacık çığı doğurur pionlar
+      metin  : müonlar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...her metreküpünden de geçiyor
+      metin  : gureviç
+      duyulan: de gurevich
+  REPLACE  ...kaçak göreli kaçak elektron
+      metin  : çığı
+      duyulan: çığ
+  REPLACE  ...tek tohum elektron binlerce
+      metin  : kaçağa
+      duyulan: kaçığa
+  INSERT   ...içinde gerçekten ölçtüğü aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üretilen yüksek enerjili fotonlar
+      metin  : madde ile
+      duyulan: maddeyle
+  REPLACE  ...şu ki kaçak elektron
+      metin  : çığı yıldırımın
+      duyulan: çığ yıldırım ın
+  REPLACE  ...yıldırım seyrek hızlı parçacık
+      metin  : sağanağıyla
+      duyulan: sahnağıyla
+  INSERT   ...yok i kinci darbe
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yüksek frekanslı radyo dalgalarını
+      metin  : mikro saniye çözünürlükle
+      duyulan: mikrosaniye çözünürlük ile
+  REPLACE  ...bölgesinin hemen üstünde ile
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...bulunduğunu açıkça yazdılar böylece
+      metin  : onların
+      duyulan: ların
+  INSERT   ...aslında kaza eseri anlaşılmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...eseri anlaşılmıştı evrenin derinliklerindeki
+      metin  : gama ışını
+      duyulan: gamma ışığını
+  REPLACE  ...taramak için tasarlanmış compton
+      metin  : gama işını gözlemevi nin
+      duyulan: gamma ışığını gözlem evinin
+  REPLACE  ...barındıran patlamalar yeryüzü kaynaklı
+      metin  : gama
+      duyulan: gamma
+  REPLACE  ...dönemi keşif uçağından türetilmiş
+      metin  : er
+      duyulan: erec
+  REPLACE  ...daki tampa yakınlarında bulunan
+      metin  : macdil
+      duyulan: mcdeal
+  REPLACE  ...yakınlarında bulunan macdil hava
+      metin  : üssü nden
+      duyulan: üstünden
+  REPLACE  ...üssü nden havalandırdı uçak
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...tropik fırtınaların en tepesindeki
+      metin  : örs
+      duyulan: earth
+  REPLACE  ...tropik fırtınaların çoğu ışıldıyordu
+      metin  : ışıldama kilometrekarelik
+      duyulan: işıldama
+  REPLACE  ...değil bu geniş ışıltı
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...kinci bulgu bütünüyle yeniydi
+      metin  : uçak
+      duyulan: fakat
+  DELETE   ...uzaydan tespit edilmeleri neredeyze
+      metin  : imkansız
+      duyulan: (YOK — atlanmış)
+  INSERT   ...parlamalar arasındaki boşluğu dolduruyor
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...elektron sağanaklarının neredeyze hiçbiri
+      metin  : şimşeğe
+      duyulan: şimşeye
+  INSERT   ...tam anlaşılmış modele değil
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...bulutun içinden çıkarabilmiş değiliz
+      metin  : nöron bilim de
+      duyulan: neuron bilimde
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-09-29.duyulan.txt

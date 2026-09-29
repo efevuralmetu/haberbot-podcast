@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-28.mp3
+
+beklenen 1359 kelime | duyulan 1368 kelime | eşleşme %94.6
+sayı ifadesi: metinde 335, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : abd
+      duyulan: hbd
+  INSERT   ...hep birlikte göz atalım
+      metin  : (yok)
+      duyulan: uluslararası tarafların ortak tutumu
+  REPLACE  ...izin vermek için geçiş
+      metin  : ücreti
+      duyulan: hücreti
+  REPLACE  ...hercules star el gaia
+      metin  : sti
+      duyulan: stey
+  REPLACE  ...gaia sti steadfast ve
+      metin  : al maryah
+      duyulan: almariyat
+  REPLACE  ...bildirildi i ran cumhurbaşkanı
+      metin  : masoud pezeshkian
+      duyulan: masud pezeşkian
+  REPLACE  ...abd hazine bakanı scott
+      metin  : bessent
+      duyulan: besant
+  DELETE   ...ve aralıkta miami deki
+      metin  : gyirmi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...seviyelerinde bulunduğunu gösteriyor rekabetin
+      metin  : kıyasıya
+      duyulan: kıyasaya
+  REPLACE  ...bildiriliyor ayrıca yönetimin cnn
+      metin  : msnbc
+      duyulan: mississippi mbc
+  REPLACE  ...söz konusu yayın kuruluşları
+      metin  : xi jinping
+      duyulan: i žinping
+  REPLACE  ...eylül e bağlanan gece
+      metin  : shahed
+      duyulan: şahit
+  REPLACE  ...shahed tipi insansız hava
+      metin  : aracıyla
+      duyulan: aracı ile
+  REPLACE  ...saldırıda bunların ellisinin jet
+      metin  : motorlu
+      duyulan: motorluğu
+  REPLACE  ...jet motorlu olduğu bildirildi
+      metin  : kiev
+      duyulan: kilev
+  REPLACE  ...olduğu bildirildi kiev in
+      metin  : peçerski
+      duyulan: pecerski
+  REPLACE  ...yitirdi almanya başbakanı friedrich
+      metin  : merz gdańsk
+      duyulan: mers gdansk
+  REPLACE  ...rağmen ihlaller devam ediyor
+      metin  : nuseyrat
+      duyulan: nusayrat
+  REPLACE  ...saldırıların kabul edilemez olduğunu
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...tartışılan gelişmesi abd de
+      metin  : columbia
+      duyulan: kolombiya
+  REPLACE  ...abd de columbia bölgesi
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...de oyla pentagon un
+      metin  : anthropic i
+      duyulan: antropiki
+  REPLACE  ...onaması oldu karar savunma
+      metin  : bakanlığı nın claude
+      duyulan: bakanlığının cloud
+  REPLACE  ...kitlesel gözetimde kullanılmaması güvencesi
+      metin  : talebi ile
+      duyulan: talebiyle
+  REPLACE  ...ayrışma bulunuyor aynı gün
+      metin  : openai en
+      duyulan: opneyai enen
+  REPLACE  ...elon musk memphis yakınındaki
+      metin  : colossus
+      duyulan: kolossus
+  REPLACE  ...katından fazlasına çıkarabileceğini söyledi
+      metin  : openai
+      duyulan: opneyai
+  DELETE   ...apple google ve booking
+      metin  : den
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geçti ama pozitif kapandı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...endeksi artışla puandan nasdaq
+      metin  : composite
+      duyulan: kompozit
+  REPLACE  ...ün yeniden açılabileceğine dair
+      metin  : iyimserlik
+      duyulan: iyimsellik
+  INSERT   ...getirilerini yukarı itmeyi sürdürüyor
+      metin  : (yok)
+      duyulan: saltın
+  REPLACE  ...sıkı duruşun süreceğini vurguladı
+      metin  : tüi k
+      duyulan: tuik
+  REPLACE  ...en yüksek artışlar konutta
+      metin  : ulaştırmada
+      duyulan: bulaştırmada
+  INSERT   ...hukuki süreç var mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kurulu karara karşı yaptığı
+      metin  : temyiz
+      duyulan: temmiz
+  REPLACE  ...başvurusundan çekilme kararı aldı
+      metin  : gerekçe
+      duyulan: gerekçi
+  REPLACE  ...talebi ve washington ın
+      metin  : ret
+      duyulan: red
+  INSERT   ...var ekim perşembe saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bütçe kanunu teklifi ilk
+      metin  : gündem
+      duyulan: günden
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: gundem-2026-09-28.duyulan.txt

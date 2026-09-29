@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-29.mp3
+
+beklenen 1539 kelime | duyulan 1547 kelime | eşleşme %96.4
+sayı ifadesi: metinde 226, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : dağıtımcı
+      duyulan: dağatımcı
+  REPLACE  ...çocuklara yönelik televizyon programı
+      metin  : mister
+      duyulan: mr
+  REPLACE  ...çeken başka şirketin yöneticileri
+      metin  : karl hardman
+      duyulan: carl hartman
+  INSERT   ...şirketi doğdu image yani
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...yaratık doğduğu filmde henüz
+      metin  : adsızdı
+      duyulan: atsızdı
+  REPLACE  ...nitekim ekranda akan kan
+      metin  : bosco
+      duyulan: bosko
+  REPLACE  ...veriyordu haber görüntüsü dokusu
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...bazen en kalıcı olanlardır
+      metin  : film
+      duyulan: filmim
+  INSERT   ...tiyatro oyuncusu üstlenmişti jones
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...biçimde ağırlaştı romero ve
+      metin  : streiner
+      duyulan: stryner
+  REPLACE  ...niyetlerinden bağımsız şey söylüyordu
+      metin  : vizyon
+      duyulan: vision
+  INSERT   ...şey söylüyordu vizyon ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...derecelendirme sistemi ancak kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sektör dergisi variety yani
+      metin  : varyete
+      duyulan: variete
+  REPLACE  ...filmi dağıtma işini walter
+      metin  : reade
+      duyulan: reed
+  INSERT   ...yiyenlerin gecesi ydi ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üstlenen grup da zaten
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...dönüştürmedi sinemaya devam etti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kez haklarını titizlikle korudu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...telif hukuku sonradan değişti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sonradan değişti kabul edilip
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeni yasa ve ardından
+      metin  : bern
+      duyulan: de berne
+  INSERT   ...genç yönetmen izleyerek büyüdü
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...sonunda tescil etti film
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yaptı yenilenen kopya kasım
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...koruma festivalinde gösterildi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve özenli koleksiyon basımıyla
+      metin  : yayımlandı
+      duyulan: yayınlandı
+  INSERT   ...müzelerin koruduğu eserdi romero
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve orada olmayan kelimeydi
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-09-29.duyulan.txt

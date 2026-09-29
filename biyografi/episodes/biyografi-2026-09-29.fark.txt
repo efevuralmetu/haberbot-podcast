@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-29.mp3
+
+beklenen 2386 kelime | duyulan 2426 kelime | eşleşme %94.5
+sayı ifadesi: metinde 372, duyulanda 259  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ne oldu yılının ilkbaharında
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...prenses verilmiş ordu çekilmişti
+      metin  : sonra jin
+      duyulan: i mparatora cin
+  REPLACE  ...uzun boylu uzun sakallı
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...vardı adı yelü çutsay
+      metin  : ydı
+      duyulan: dı
+  INSERT   ...dayanıyordu ama o hanedan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hanedan yıkılmıştı ve yıkan
+      metin  : jürçenlerin
+      duyulan: cürçenlerin
+  REPLACE  ...ve yıkan jürçenlerin kurduğu
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...kurduğu jin hanedanıydı çutsay
+      metin  : nin
+      duyulan: ın
+  INSERT   ...adamdı ve oğlu doğduğunda
+      metin  : (yok)
+      duyulan: ını
+  REPLACE  ...hizmetinde görecek eski söz
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...baba oğluna o sözden
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ad seçti çutsay yani
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...yetiştirdi yaşında klasikleri okuyordu
+      metin  : yedisinde jin
+      duyulan: sinde cin
+  REPLACE  ...gün içinde belirleyen sınavdı
+      metin  : kaycou
+      duyulan: kaycho
+  INSERT   ...da vali yardımcılığı yaptı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yıl boyunca ortadan kayboldu
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...çan budizminin sert ustalarından
+      metin  : vansung şingşiu
+      duyulan: wan sung shing shu
+  INSERT   ...bayraklar değişirdi defter kalırdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çağrı vardı bozkırın hükümdarı
+      metin  : cungdu
+      duyulan: jungdu
+  REPLACE  ...kez ağaçsız ufkun yürüdü
+      metin  : tuul
+      duyulan: tuğul
+  REPLACE  ...söylediği şey iyilik gibiydi
+      metin  : liao
+      duyulan: lio
+  REPLACE  ...iyilik gibiydi liao ile
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...yatkın hesaptı karşısındaki adam
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...hanedanın soyundandı demek ki
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...babamın ve dedemin de
+      metin  : jin
+      duyulan: cin
+  REPLACE  ...çağırdı i mparatorluğun kayıtlarında
+      metin  : yelü
+      duyulan: yeli
+  INSERT   ...takvim hesaplayıcısı ve hekimdi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yıllardaki en bilinen hikayesi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şia seferi sırasında geçer
+      metin  : lingvu
+      duyulan: lingwu
+  REPLACE  ...kumaş gümüş köle at
+      metin  : topladı
+      duyulan: opladı
+  INSERT   ...yıldız falından daha kıymetliydi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonra kurultay çadırında başladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...han ın çevresindeki beylerden
+      metin  : biedie
+      duyulan: bidi
+  REPLACE  ...yıl silaha ata zırha
+      metin  : ipeğe
+      duyulan: ipeye
+  INSERT   ...gümüş top ipek ve
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...top ipek ve aşkın
+      metin  : shi
+      duyulan: şi
+  REPLACE  ...yaklaşık gramlık ağırlık ölçüsüydü
+      metin  : shi
+      duyulan: şi
+  REPLACE  ...her yıl vergi verirdi
+      metin  : ögeday
+      duyulan: lödögeday
+  REPLACE  ...başlarına silahlı kumandanlar değil
+      metin  : konfüçyüsçü
+      duyulan: konfüçyüzcü
+  REPLACE  ...kayda geçtiği için tekrarlanabilirdi
+      metin  : yüncung
+      duyulan: de yuncung
+  ... ve 31 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 95
+bölme/birleşme farkı (hata değil, elendi): 33
+
+duyulan metin: biyografi-2026-09-29.duyulan.txt

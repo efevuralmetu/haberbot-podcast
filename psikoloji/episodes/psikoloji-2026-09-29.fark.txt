@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-29.mp3
+
+beklenen 1319 kelime | duyulan 1333 kelime | eşleşme %98.2
+sayı ifadesi: metinde 124, duyulanda 103  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yazmasını konuşuyoruz dakika skor
+      metin  : berabeer
+      duyulan: beraber
+  REPLACE  ...o değişikliği yapmayacaktın şimdi
+      metin  : kasedi
+      duyulan: kaseti
+  REPLACE  ...temiz biçimde ölçen kişi
+      metin  : baruh fişhof
+      duyulan: baruch fischhoff
+  INSERT   ...kişi baruh fişhof oldu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...çoğunun hiç duymadığı olayı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...o sonucun işaretine dönüştürmüştü
+      metin  : fişhof
+      duyulan: fischhoff
+  REPLACE  ...adım ileri götürdü ruth
+      metin  : beyth
+      duyulan: batey
+  INSERT   ...üniversite öğrencilerine nixon ın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu etkinin katmanları var
+      metin  : neal roese
+      duyulan: neil ruse
+  REPLACE  ...neal roese ve kathleen
+      metin  : vohs
+      duyulan: vos
+  REPLACE  ...öngörülebilirlik ben zaten biliyordum
+      metin  : hafızayla
+      duyulan: hafıza ile
+  INSERT   ...biliyordum hafızayla ilgili kusur
+      metin  : (yok)
+      duyulan: i kincisi
+  INSERT   ...ve jeffrey raklinski nin
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...gerektirmediği soruldu bu grubun
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...taşkın gerçekleşti bu grubun
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...tarafa yazılmış geri alınamaz
+      metin  : taahhüttür
+      duyulan: tahüttür
+  REPLACE  ...kardeş alışkanlık eşlik ediyor
+      metin  : roese
+      duyulan: roos
+  REPLACE  ...eşlik ediyor roese ve
+      metin  : vohs
+      duyulan: woos
+  REPLACE  ...kalitesi aynı şey değil
+      metin  : annie
+      duyulan: anne
+  REPLACE  ...sadece elinizin altındaki kağıt
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-09-29.duyulan.txt
