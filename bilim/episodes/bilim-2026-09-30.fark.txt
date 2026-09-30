@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-09-30.mp3
+
+beklenen 1746 kelime | duyulan 1754 kelime | eşleşme %94.4
+sayı ifadesi: metinde 365, duyulanda 246  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıl boyunca paris yakınlarındaki
+      metin  : iç içe cam
+      duyulan: içecem
+  REPLACE  ...yoktu paris in güneybatısında
+      metin  : sevr de
+      duyulan: sevrede
+  REPLACE  ...ortasında eski köşk duruyor
+      metin  : bretöy
+      duyulan: bretoy
+  INSERT   ...kendisi hiçbir ülkenin değil
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da çapı da yaklaşık
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...parlak silindir bekliyor metrologların
+      metin  : lö gran ka
+      duyulan: le granca
+  REPLACE  ...gran ka yani büyük
+      metin  : k dediği
+      duyulan: kadediği
+  REPLACE  ...dediği bu silindir platin
+      metin  : iridyum
+      duyulan: irigyum
+  DELETE   ...mıknatıslanmaz ve inanılmaz yoğun
+      metin  : santimetreküpü buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gram civarında bu tam
+      metin  : kilogram
+      duyulan: kg
+  REPLACE  ...değil hukukundaydı büyük k
+      metin  : kilogramı
+      duyulan: kg ı
+  REPLACE  ...temsil etmiyordu büyük k
+      metin  : kilogramdı
+      duyulan: kg dı
+  INSERT   ...gereği tartışmasız sonuna kadar
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...biriminiz artık bu nesnedir
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...en yoğun olduğu sıcaklıktaki
+      metin  : desimetreküp
+      duyulan: desimeter küp
+  INSERT   ...sıcaklıktaki desimetreküp suyun kütlesi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tanım nesneye yapıştı ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...önce başka metal çubuğa
+      metin  : altmışlarda
+      duyulan: larda
+  INSERT   ...dayanan son birimiydi sorun
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...büyük k ile karşılaştırıyordu
+      metin  : (yok)
+      duyulan: daki
+  INSERT   ...karşılaştırıyordu ilk karşılaştırmadan sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ilk karşılaştırmadan sonra ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...mı ağırlaşmıştı büyük k
+      metin  : mi
+      duyulan: ami
+  REPLACE  ...newton kütleyi içeriyor enerji
+      metin  : jul
+      duyulan: joule
+  REPLACE  ...ile metrenin çarpımı güç
+      metin  : vat jul
+      duyulan: watt joule
+  REPLACE  ...bölü saniye elektrik birimleri
+      metin  : vatın
+      duyulan: watt ın
+  INSERT   ...miktarı mol gram karbon
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...belliydi sadece imkansız görünüyordu
+      metin  : kütleyi
+      duyulan: kütleği
+  REPLACE  ...sabitine bağlamak gerekiyordu ama
+      metin  : kütleyi
+      duyulan: kütleği
+  REPLACE  ...terazi yoktu bunun için
+      metin  : kütleyi
+      duyulan: kütleği
+  INSERT   ...tartmayı akıl etmesi gerekiyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fizik laboratuvarı nda çalışan
+      metin  : bryan
+      duyulan: brian
+  REPLACE  ...hiç kimse ölçemiyordu kibble
+      metin  : ın
+      duyulan: lın
+  REPLACE  ...niceliği ölçmekten vazgeçmekti aynı
+      metin  : düzeneği
+      duyulan: düzeneyi
+  INSERT   ...vat terazisi dendi kibble
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...basamaklı gerilim değerleri üretiyor
+      metin  : o
+      duyulan: doğa
+  REPLACE  ...frekansa ve içinde plank
+      metin  : sabiti ile
+      duyulan: sabitiyle
+  REPLACE  ...ize direnci yine plank
+      metin  : sabiti ile
+      duyulan: sabitiyle
+  REPLACE  ...zaten nesnelerden kurtulmuş durumdaydı
+      metin  : bobinin
+      duyulan: bobbinin
+  REPLACE  ...kurtulmuş durumdaydı bobinin hızı
+      metin  : lazer girişimölçerle
+      duyulan: laser girişim ölçerle
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 67 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: bilim-2026-09-30.duyulan.txt

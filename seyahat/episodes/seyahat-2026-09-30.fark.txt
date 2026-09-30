@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-09-30.mp3
+
+beklenen 1910 kelime | duyulan 1929 kelime | eşleşme %95.1
+sayı ifadesi: metinde 258, duyulanda 147  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hokkaido nun güneydoğu kıyısında
+      metin  : kuşiro
+      duyulan: kushiro
+  DELETE   ...kendisi de sisten geliyor
+      metin  : ainu dilinde
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kuyruklar çakılı döver kıyıdaki
+      metin  : kızılağaçların
+      duyulan: kızılı ağaçların
+  REPLACE  ...yüzyıllar boyunca köyler vardı
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...insanları için hokkaido değildi
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...hokkaido değildi ainu dilinde
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...insan demektir yaşadıkları yeer
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...sürekli alışveriş içindeydi tanrılar
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...yemek verilirdi somon da
+      metin  : kamuy du ainu
+      duyulan: kamuydu aynu
+  REPLACE  ...bu inancın içinden çıkmıştı
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...balık kırılıp çorbaya atılırdı
+      metin  : ainu
+      duyulan: aynu
+  REPLACE  ...için özel kurum kuruldu
+      metin  : kaytakuşi
+      duyulan: kaitakushi
+  REPLACE  ...yani sömürgeleştirme dairesi bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...geldi ve sırası önemliydi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tuzaklar da yasağın içindeydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da yasağın içindeydi çitose
+      metin  : ırmağı
+      duyulan: irmağı
+  INSERT   ...havzasında balık tutmak yasaklandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...için tutması dil ve
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ad tarafı sessizce ilerledi
+      metin  : ainu lar
+      duyulan: de ainular
+  REPLACE  ...kayıt japonca ad istiyordu
+      metin  : ainu
+      duyulan: aynı
+  INSERT   ...japonca öğrenmeyi teşvik etti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bunlar tek kanunda toplandı
+      metin  : hokkaydo kyudocin
+      duyulan: hokkaido kyudokin
+  INSERT   ...için seçti bu kanun
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...kurtarmaya çalışan tek kitaptır
+      metin  : çiri yukie
+      duyulan: chiri yukiye
+  REPLACE  ...söylenen o uzun şiirleri
+      metin  : yukar ları
+      duyulan: yukarıları
+  INSERT   ...yanına japonca çevirisini koydu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hastalığından öldü derlemesi ainu
+      metin  : şinyoşu
+      duyulan: shin yoshu
+  INSERT   ...bilim ve kültür örgütü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bölümü ainu dilindendir sapporo
+      metin  : çitose tokaçi
+      duyulan: chitose tokachi
+  REPLACE  ...hokkaido nun güneyinde saru
+      metin  : ırmağı
+      duyulan: irmağı
+  INSERT   ...belli günlerde çıkılan yerlerdir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...inşaatı başladı amaç güneydeki
+      metin  : tomakomai
+      duyulan: tomokomai
+  REPLACE  ...ainu toprak sahibi kayzava
+      metin  : tadaşi
+      duyulan: tadashi
+  REPLACE  ...kayzava tadaşi ve kayano
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...şigeru arazilerini satmayı reddetti
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...bunu mahkemeye taşıdı kayzava
+      metin  : tadaşi
+      duyulan: tadashi
+  INSERT   ...tadaşi davanın sonunu göremedi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oğlu davayı sürdürdü kayano
+      metin  : şigeru
+      duyulan: shigeru
+  INSERT   ...sözlük ve derleme hazırladı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...dili öğreten sınıf açtı
+      metin  : (yok)
+      duyulan: te
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-09-30.duyulan.txt

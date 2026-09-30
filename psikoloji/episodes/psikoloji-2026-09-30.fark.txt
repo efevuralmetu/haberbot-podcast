@@ -1,0 +1,55 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-09-30.mp3
+
+beklenen 1169 kelime | duyulan 1177 kelime | eşleşme %98.1
+sayı ifadesi: metinde 130, duyulanda 114  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bazen her seferinde değil
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...davranış en çok tekrarlanır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...adı değişken oranlı pekiştirme
+      metin  : (yok)
+      duyulan: di
+  REPLACE  ...ne oluyor buranın cevabı
+      metin  : doksanlarda volfram şults
+      duyulan: larda wolfram schulz
+  REPLACE  ...ödül anında ateşlendiği sanılıyordu
+      metin  : şults
+      duyulan: schulz
+  REPLACE  ...düşüş oluyor yani dopamin
+      metin  : haz
+      duyulan: has
+  REPLACE  ...veriyor fiorillo tobler ve
+      metin  : şults
+      duyulan: schulz
+  INSERT   ...tobler ve şults un
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üstüne katman daha var
+      metin  : luke clark
+      duyulan: luca clarke
+  INSERT   ...ve ekibinin cambridge de
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kendinize bakmayacağım demiyorsunuz saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ama bazen i saat
+      metin  : ye
+      duyulan: diye
+  REPLACE  ...çevirmek çoğu zaman elimizde
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 11 kelime | duyulup metinde OLMAYAN: 21
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-09-30.duyulan.txt

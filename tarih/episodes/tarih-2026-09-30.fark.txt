@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-09-30.mp3
+
+beklenen 2220 kelime | duyulan 2234 kelime | eşleşme %94.1
+sayı ifadesi: metinde 340, duyulanda 247  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...öğleden sonrada kendini kaybedişinin
+      metin  : hikayesi
+      duyulan: hikayesiyle
+  REPLACE  ...hikayesi yılının ocak ayında
+      metin  : lizbon sarayında
+      duyulan: lisbon sarayı nda
+  REPLACE  ...rahat nefes aldı babası
+      metin  : veliaht
+      duyulan: veliat
+  REPLACE  ...aldı babası veliaht prens
+      metin  : juan
+      duyulan: huan
+  REPLACE  ...gün önce ölmüştü dedesi
+      metin  : juan nun
+      duyulan: huan ın
+  REPLACE  ...sebastian dı annesi avusturyalı
+      metin  : joana
+      duyulan: johana
+  INSERT   ...daha hiç görmedi yaşında
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eridi ülkenin meclisi yani
+      metin  : kortes
+      duyulan: cortes
+  INSERT   ...de yapmadı bunun yerine
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...edilmişti safi ve azemmur
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...safi ve azemmur asilah
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...doğru bırakılmıştı elde kalan
+      metin  : seuta
+      duyulan: ceuta
+  REPLACE  ...ve o ailenin içinde
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...de i stanbul da
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kaldı kaçtı geri döndü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...prensi kadar iyi okuyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...portekiz e geçti ve
+      metin  : sebastian
+      duyulan: sebastiyan
+  REPLACE  ...tahta geri koy karşılığında
+      metin  : kıyıyı al
+      duyulan: kıyı yığal
+  INSERT   ...bu pazarlığın ilk taksiti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...portekiz e geri verildi
+      metin  : sebastian
+      duyulan: sebastiyan
+  INSERT   ...davetti tek engel kaldı
+      metin  : (yok)
+      duyulan: nın
+  DELETE   ...olan i spanya kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...vereceğini söyledi fazlasını değil
+      metin  : sebastian
+      duyulan: sebastiyan
+  INSERT   ...vardı ve onların yanında
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...dan tutulmuş paralı asker
+      metin  : kastilya
+      duyulan: castiglia
+  DELETE   ...kastilya dan gelen gönüllü
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...başına tuhaftı toplayan thomas
+      metin  : stukeley
+      duyulan: stuckeli
+  REPLACE  ...adamları nefret ediyordu ve
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...sebastian ın teklifiyle karşılaştı
+      metin  : stukeley
+      duyulan: stuckeli
+  REPLACE  ...sararmış tarlaların içinden günde
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...i spanya dan sürülmüş
+      metin  : endülüslüler
+      duyulan: endülüstlüler
+  REPLACE  ...verir kesin olan şu
+      metin  : abdülmeliğin
+      duyulan: abdülmelik in
+  REPLACE  ...ayrılmıyordu ağustos gecesi ordu
+      metin  : lukkus
+      duyulan: lucas
+  REPLACE  ...lukkus irmağı nın yakasında
+      metin  : kasrülkebir in
+      duyulan: kasrülke
+  REPLACE  ...sulak ova yazın kavrulmuş
+      metin  : toprağıyla tarafın da
+      duyulan: toprayla tarafında
+  REPLACE  ...tutar kanatlar öne doğru
+      metin  : kavis
+      duyulan: kaviz
+  REPLACE  ...çizer düşman içine girdikçe
+      metin  : kavis
+      duyulan: kaviz
+  REPLACE  ...dolayında süvari vardı merkeze
+      metin  : hristiyanlara
+      duyulan: hıristiyanlara
+  REPLACE  ...i spanya dan kovulmuş
+      metin  : endülüslüler
+      duyulan: endülüstlüler
+  REPLACE  ...kullanılabilir top öne alındı
+      metin  : karenin
+      duyulan: kaer nin
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 80 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: tarih-2026-09-30.duyulan.txt

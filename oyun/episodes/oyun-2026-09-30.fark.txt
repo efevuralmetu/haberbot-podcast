@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-09-30.mp3
+
+beklenen 1656 kelime | duyulan 1674 kelime | eşleşme %96.3
+sayı ifadesi: metinde 274, duyulanda 209  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i rlandalı vardı adı
+      metin  : brendan
+      duyulan: brandon
+  REPLACE  ...i rlanda nın kuzeybatısındaki
+      metin  : ballyshannon
+      duyulan: balishan ın
+  REPLACE  ...boş vakitlerinde dean hal
+      metin  : un
+      duyulan: ın
+  REPLACE  ...zamanda sonucu şekillendiriyordu greene
+      metin  : in
+      duyulan: nin
+  INSERT   ...adını verdi battle royale
+      metin  : (yok)
+      duyulan: kibin
+  DELETE   ...verdi battle royale yapımı
+      metin  : kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kinci fukasaku nun yönettiği
+      metin  : koşun
+      duyulan: koshun
+  REPLACE  ...filmi modun tam adı
+      metin  : dayz
+      duyulan: daisie
+  INSERT   ...çalıştığı betik diliyle yazılmıştır
+      metin  : (yok)
+      duyulan: ki te
+  DELETE   ...betik diliyle yazılmıştır greene
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nin çevrimiçi oyun stüdyosu
+      metin  : hbirzbir
+      duyulan: habir zebir
+  REPLACE  ...maaş karşılığı oyun tasarlaması
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...bünyesindeki stüdyonun başında kim
+      metin  : çang
+      duyulan: chang
+  INSERT   ...oyun olması gerektiğini düşünüyordu
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...olması gerektiğini düşünüyordu greene
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kendi kendine öğrenmiş adam
+      metin  : seul
+      duyulan: seoul
+  INSERT   ...battlegrounds kısaca pubg mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...erişime açıldı bitmemiş oyundu
+      metin  : kaer
+      duyulan: koer
+  REPLACE  ...bile bunu açıkça söylüyordu
+      metin  : hiçbiri
+      duyulan: hiç
+  INSERT   ...günde kopya sattı eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...erişimdeki oyun devirdi aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...satış geçmişti ve ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...pubg oynuyordu bu sayı
+      metin  : guinness
+      duyulan: genis
+  INSERT   ...insan faaliyetlerinden dönüşmüştü sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sürüm çıktı ve rakamların
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...buluşmak için oraya giriyordu
+      metin  : battle
+      duyulan: butler
+  REPLACE  ...en tepesinde adının yarısı
+      metin  : greene
+      duyulan: green
+  REPLACE  ...noktada yani mutlak zirvede
+      metin  : greene
+      duyulan: green
+  INSERT   ...henüz erken erişimdeyken eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...abartılı animasyonlar bu birlikte
+      metin  : greene
+      duyulan: green
+  REPLACE  ...savaş bileti dediğimiz ilerleme
+      metin  : sistemini
+      duyulan: sistemine
+  INSERT   ...vermek zorunda kalmadan ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...pubg yi yayımlayan şirket
+      metin  : seul
+      duyulan: seoul
+  REPLACE  ...oyun arasındaki benzerliklerin esinlenmeyi
+      metin  : aştığıydı
+      duyulan: açtığıydı
+  INSERT   ...gerektiren şey yoktu haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ize sessiz oldu mart
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bünyesinde deneysel kurdu ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...melba adını verdiler aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...elle tasarlanmamış arazi kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kasım ize prolog go
+      metin  : wayback adlı
+      duyulan: way back atlı
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-09-30.duyulan.txt

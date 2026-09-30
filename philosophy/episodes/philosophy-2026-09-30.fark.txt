@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-09-30.mp3
+
+beklenen 3494 kelime | duyulan 3504 kelime | eşleşme %98.7
+sayı ifadesi: metinde 125, duyulanda 98  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...separate activity as creating
+      metin  : at
+      duyulan: it
+  REPLACE  ...language names such as
+      metin  : halik
+      duyulan: haluk
+  REPLACE  ...as halik bari and
+      metin  : musavvir
+      duyulan: musavir
+  REPLACE  ...poem a poem is
+      metin  : nazmedilir
+      duyulan: nazmedelir
+  REPLACE  ...a book is a
+      metin  : müellif
+      duyulan: mulef
+  REPLACE  ...work itself is a
+      metin  : telif
+      duyulan: talef
+  REPLACE  ...says a great deal
+      metin  : telif
+      duyulan: talef
+  REPLACE  ...to another to establish
+      metin  : ülfet
+      duyulan: ulfet
+  REPLACE  ...we aer going to
+      metin  : pick at
+      duyulan: picket
+  REPLACE  ...sing through my mouth
+      metin  : hesiod
+      duyulan: haseid
+  REPLACE  ...human mind called the
+      metin  : mütehayyile
+      duyulan: muta ili
+  REPLACE  ...is a concept called
+      metin  : hads
+      duyulan: hadz
+  REPLACE  ...an institutionalized practice called
+      metin  : nazier
+      duyulan: nazir
+  REPLACE  ...moer openly than anyone
+      metin  : şeyh galib
+      duyulan: shaykh golub
+  REPLACE  ...şeyh galib in the
+      metin  : mesnevi
+      duyulan: mesnavi
+  REPLACE  ...mesnevi he wrote in
+      metin  : hüsnü aşk
+      duyulan: husni ashq
+  REPLACE  ...work from rumi s
+      metin  : mesnevi
+      duyulan: mesnavi
+  REPLACE  ...us al and notice
+      metin  : şeyh galib
+      duyulan: shaykh golub
+  REPLACE  ...ibn khaldun in the
+      metin  : muqaddima
+      duyulan: muqaddimah
+  REPLACE  ...and crafts aer each
+      metin  : a meleke
+      duyulan: amelike
+  REPLACE  ...attributed to him the
+      metin  : şehzade
+      duyulan: shehzade
+  REPLACE  ...his apprentice work the
+      metin  : süleymaniye
+      duyulan: suleymaniyeh
+  REPLACE  ...journeyman work and the
+      metin  : selimiye
+      duyulan: selimyeh
+  REPLACE  ...stone wil crack the
+      metin  : selimiye
+      duyulan: selimyeh
+  REPLACE  ...lies inside that arrangement
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: it is not a secret resource carried by a privileged few it is a way of looking at what has already been tried
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-09-30.duyulan.txt

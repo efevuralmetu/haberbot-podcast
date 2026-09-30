@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-09-30.mp3
+
+beklenen 2196 kelime | duyulan 2208 kelime | eşleşme %97.0
+sayı ifadesi: metinde 267, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...mı dizdiniz ve eğer
+      metin  : ikincisiyze
+      duyulan: ize
+  REPLACE  ...gibi kabul edilmişti parmenides
+      metin  : lukretius
+      duyulan: lucretius
+  REPLACE  ...yunanların şiir için kullandığı
+      metin  : poiesis
+      duyulan: poesiz
+  REPLACE  ...verdiğini söyler bu edebi
+      metin  : süs
+      duyulan: süslü
+  REPLACE  ...en uç noktasına taşıdı
+      metin  : i
+      duyulan: ion
+  REPLACE  ...insan zihninin katmanı vardır
+      metin  : mütehayyile
+      duyulan: mütehay ile
+  INSERT   ...doğru iner i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...varır kimileri ize ara
+      metin  : basamakları
+      duyulan: basamaklara
+  INSERT   ...anda ulaşır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bu anlatı platon un
+      metin  : mıknatıs
+      duyulan: mıknatı
+  INSERT   ...değil sanatçının içindeydi kant
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...doğal yetenektir yani deha
+      metin  : sahibi
+      duyulan: sahibik
+  REPLACE  ...ortaya çıkarır hem de
+      metin  : bunu
+      duyulan: bunun
+  REPLACE  ...duşta gelir otobüste gelir
+      metin  : uyku ile
+      duyulan: uykuyla
+  REPLACE  ...boş değil fransız matematikçi
+      metin  : puankaer
+      duyulan: poincaré
+  REPLACE  ...bu anlatıya dikkatle bakın
+      metin  : puankaer
+      duyulan: poincaré
+  REPLACE  ...de tam bunu anlatır
+      metin  : deha
+      duyulan: dh
+  REPLACE  ...biz kendimize hikaye anlatıyoruz
+      metin  : fikir
+      duyulan: pekir
+  REPLACE  ...kaşınan yerine dokunuyor eğer
+      metin  : malzemem
+      duyulan: malzemen
+  REPLACE  ...herkesten açık söylemiştir şeyh
+      metin  : galib
+      duyulan: galip te
+  REPLACE  ...ve dikkat edin şeyh
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...birbirinin zıddı değil i
+      metin  : bn
+      duyulan: bni
+  INSERT   ...değil i bn haldun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hayatının içinde gelişebilir i
+      metin  : bn
+      duyulan: bni
+  INSERT   ...eseri süleymaniye kalfalık eseri
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yerine halkın konuştuğu sade
+      metin  : türkçeyle
+      duyulan: türkçe ile
+  REPLACE  ...değil aruz vezni sone
+      metin  : haiku
+      duyulan: hayku
+  REPLACE  ...şeyi birbirine değdirmektir artur
+      metin  : köstler
+      duyulan: köster te
+  INSERT   ...bu işleme ad verir
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...çerçeve anda üst üste
+      metin  : klod levi stros
+      duyulan: claude lévi strauss
+  INSERT   ...klod levi stros ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ne varsa düşünür ve
+      metin  : levi stros
+      duyulan: lévi strauss
+  INSERT   ...kökeni üzerine yıllardır çalışıyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bel ve gray şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gün başvurdular newton ile
+      metin  : laybnits
+      duyulan: leibniz
+  REPLACE  ...bozup yeniden dizmek newton
+      metin  : hooke
+      duyulan: te hook
+  REPLACE  ...a yazdığı mektupta daha
+      metin  : uzağı
+      duyulan: uzağa
+  REPLACE  ...farklı alana bulaşırsanız birbirine
+      metin  : değebilecek
+      duyulan: diyebilecek
+  REPLACE  ...işi o dizilişin içinde
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-09-30.duyulan.txt

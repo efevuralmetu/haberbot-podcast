@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-29.mp3
+
+beklenen 1595 kelime | duyulan 1605 kelime | eşleşme %94.5
+sayı ifadesi: metinde 312, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ran dışişleri bakanı abbas
+      metin  : arakçi
+      duyulan: arakçı
+  REPLACE  ...ın ürdün deki abd
+      metin  : üslerine
+      duyulan: üstlerine
+  INSERT   ...uyguluyor gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da ihlal tartışmaları sürüyor
+      metin  : pazartesi
+      duyulan: tartesi
+  REPLACE  ...çatısına ve orta kesimdeki
+      metin  : nuseirat
+      duyulan: nusayrat
+  REPLACE  ...dışişleri bakan yardımcısı kim
+      metin  : son gyong
+      duyulan: jong il
+  REPLACE  ...a yönelik harekatta kullandığı
+      metin  : raf fairford
+      duyulan: rafferford
+  REPLACE  ...bölgedeki çiftçilerden geldiği bildirildi
+      metin  : abd nin
+      duyulan: saybidenin
+  INSERT   ...evleer zarar verdi ve
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kuvvetlerini öncelikli hedef aldığı
+      metin  : lyman
+      duyulan: liman
+  REPLACE  ...api anahtarlarına eriştiğinin ve
+      metin  : securities
+      duyulan: security
+  REPLACE  ...gpt astra modelinin simülasyonların
+      metin  : ikisinde
+      duyulan: sinde
+  REPLACE  ...donanım ve yatırım cephesinde
+      metin  : amd fei fei li
+      duyulan: emd fayfaylee
+  REPLACE  ...dolara satın aldığını açıkladı
+      metin  : li
+      duyulan: lee
+  REPLACE  ...ın bulut hizmetleri ile
+      metin  : coreweave
+      duyulan: coer weave
+  REPLACE  ...bu arada danışmanlık şirketi
+      metin  : bain
+      duyulan: vine
+  INSERT   ...karşılığını bulması için sektörün
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...street te pazartesi günü
+      metin  : tahvil
+      duyulan: tahfil
+  REPLACE  ...tahvil faizlerindeki sıçramanın etkisiyle
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...esenpi endeksi gerileyerek nasdaq
+      metin  : composite
+      duyulan: kompozit
+  INSERT   ...nin yıllık tahvil getirisi
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...modelini sertifikalandırmayacağını bildirmesiyle hisse
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...önümüzdeki ay politika faizini
+      metin  : baz
+      duyulan: pas
+  INSERT   ...baz puan artırma olasılığı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...lira seviyesinde işlem görüyor
+      metin  : gram
+      duyulan: direm
+  INSERT   ...hafta vadeli repo faizini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıllık enflasyon puan gerileyerek
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yıl sonu enflasyon beklentisi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...beklentisi yükselerek orta vadeli
+      metin  : program daki
+      duyulan: programdaki lük
+  DELETE   ...hedefin üzerinde kaldı türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i stanbul cumhuriyet başsavcılığı
+      metin  : terörizmin
+      duyulan: terorizmin
+  INSERT   ...soruşturma bürosu tüzel kişi
+      metin  : (yok)
+      duyulan: atölye
+  INSERT   ...özgür özel bugün saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...cumhuriyet halk partisi nin
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...partinin merkez yönetim kurulu
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...feragat etti gerekçe olarak
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...de askıya çıkarılacak ilçe
+      metin  : delege
+      duyulan: deleg
+  INSERT   ...ve ilçe kongrelerinin şubat
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...e ertelendi diplomatik takvimde
+      metin  : tbmm
+      duyulan: tbmv
+  REPLACE  ...başkanı numan kurtulmuş bugün
+      metin  : lizbon
+      duyulan: lisbon
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: gundem-2026-09-29.duyulan.txt

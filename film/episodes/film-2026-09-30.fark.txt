@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-09-30.mp3
+
+beklenen 1607 kelime | duyulan 1629 kelime | eşleşme %95.3
+sayı ifadesi: metinde 251, duyulanda 158  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...biçen kadının kurgu masası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dergisi lef yani sol
+      metin  : cephe
+      duyulan: cefe
+  REPLACE  ...adamın gerçek adı david
+      metin  : abeloviç
+      duyulan: abelowicz
+  INSERT   ...david abeloviç kaufman dı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...polonya nın kuzeydoğusunda kalan
+      metin  : biyalıstok
+      duyulan: bialystok
+  REPLACE  ...çalışıyordu kendine seçtiği takma
+      metin  : ad
+      duyulan: at
+  REPLACE  ...da bu kafadan geliyordu
+      metin  : dziga
+      duyulan: diziga
+  REPLACE  ...manivelanın çevrilişini çağrıştıran uydurma
+      metin  : addı
+      duyulan: attı
+  REPLACE  ...i ç savaş yıllarında
+      metin  : ajitasyon
+      duyulan: agitasyon
+  INSERT   ...cepheden film getirdi ardından
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...konseyin üyesi elizaveta svilova
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...olarak girmişti vertov la
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...diyordu savundukları şeyin adı
+      metin  : kino glaz
+      duyulan: kinoglas
+  REPLACE  ...kino glaz yani sinema
+      metin  : göz dü
+      duyulan: gözlü
+  INSERT   ...aşıyor kurumsal hiyerarşiyi tanımıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nın devlet yapım kuruluşu
+      metin  : vufku ya
+      duyulan: vyuvvkyuva
+  REPLACE  ...değil şehri çeken adamdı
+      metin  : mihail
+      duyulan: nihail
+  REPLACE  ...olmasıydı kaufman ın gizli
+      metin  : kamerayla
+      duyulan: kamera ile
+  REPLACE  ...yerinde kadının dilencinin elleri
+      metin  : birahanede
+      duyulan: ahanede
+  REPLACE  ...edildi o masanın başında
+      metin  : svilova
+      duyulan: sivilova
+  REPLACE  ...konu eder filmin ortasında
+      metin  : svilova
+      duyulan: sivilova
+  INSERT   ...çindeki plan sayısı yaklaşık
+      metin  : (yok)
+      duyulan: tir
+  INSERT   ...süresi buçuk saniyeyi bulmuyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eşleştirilmiş kesme filmi sessiz
+      metin  : gösterime
+      duyulan: gösterimi
+  INSERT   ...ritmini izlemesini istiyordu film
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...un en ünlü çağdaşı
+      metin  : sergey ayzenştayn
+      duyulan: sergei eisenstein
+  REPLACE  ...ayzenştayn filmi amaçsız kamera
+      metin  : holiganlığı
+      duyulan: hooliganlığı
+  REPLACE  ...de aynı yöne bastırdı
+      metin  : biçim
+      duyulan: bişim
+  INSERT   ...özenle arındırdı vertov un
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...döndüğünde iklim hızla değişiyordu
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...sözcüğü suçlamaya dönüşmüştü vertov
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vertov ilk sesli filmi
+      metin  : coşku donbas
+      duyulan: koşku donbass
+  INSERT   ...coşku donbas senfonisi ni
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yerine oturtan memura dönüştü
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...oturtan memura dönüştü şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...new york ta rıhtımlar
+      metin  : üzerinde nin
+      duyulan: üzerinden
+  REPLACE  ...üzerinde nin görüntülerini çekiyordu
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...yaratıcısının ölümünden sonra başladı
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...gerçek anlamına gelen sinema
+      metin  : verite
+      duyulan: veriti
+  REPLACE  ...haber filmi dizisi sinema
+      metin  : gerçek
+      duyulan: gerçekten
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: film-2026-09-30.duyulan.txt

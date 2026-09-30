@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-09-30.mp3
+
+beklenen 2146 kelime | duyulan 2193 kelime | eşleşme %93.4
+sayı ifadesi: metinde 341, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...içinde ülkesine döndü temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kongosu nun sankuru bölgesindeki
+      metin  : (yok)
+      duyulan: onaluwa
+  REPLACE  ...doğduğunda i zay tasumbu
+      metin  : tawosa
+      duyulan: tavos a
+  REPLACE  ...ülke devlet değil işletmeydi
+      metin  : kauçuk fildişi
+      duyulan: kavçuk fil dişi
+  REPLACE  ...kobalt üzerine kurulmuş yönetimi
+      metin  : brüksel
+      duyulan: bruksel
+  INSERT   ...oturan idarenin elinde olan
+      metin  : (yok)
+      duyulan: doğan
+  REPLACE  ...memurluğu eğitimi yıl boyunca
+      metin  : stanleyvil
+      duyulan: stanleyville
+  REPLACE  ...yazılar ve şiirler yayımladı
+      metin  : stanleyvil
+      duyulan: stanleyville
+  INSERT   ...oynayan örnek gösterilecek adamdı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...aynı zamanda sözleşmeden kurtardı
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...kalem ve ses eylül
+      metin  : leopoldvil e
+      duyulan: de leopold wille
+  REPLACE  ...eylül leopoldvil e bugünkü
+      metin  : kinşasa
+      duyulan: kinshasa
+  REPLACE  ...kinşasa ya taşındı ve
+      metin  : bracongo
+      duyulan: brakongo
+  INSERT   ...hale geldiğini öğrendi ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geldiğini öğrendi ekim muvman
+      metin  : nasyonal kongole i
+      duyulan: nasyonel kongoleyi
+  REPLACE  ...temelsiz olmayı seçti aralık
+      metin  : gana
+      duyulan: de ghana
+  REPLACE  ...halkları konferansı na gitti
+      metin  : kwame
+      duyulan: kwamen
+  REPLACE  ...artık partinin malzemesiydi ekim
+      metin  : stanleyvil
+      duyulan: da sten neville
+  REPLACE  ...işler kanla bitti ulusal
+      metin  : harekedin
+      duyulan: hareket in
+  INSERT   ...gerilim ayaklanmaya döndü olaylarda
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...suçlamasıyla tutuklandı ve ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aldı tam o günlerde
+      metin  : brüksel
+      duyulan: bruksel
+  INSERT   ...herkesi şaşırttı bağımsızlık haziran
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...yani ay sonra mayıs
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...küçük partilerle koalisyon kurdu
+      metin  : jozef
+      duyulan: joseph
+  REPLACE  ...henüz girmemişti haziran sabahı
+      metin  : leopoldvil
+      duyulan: leopoldville
+  DELETE   ...boduen ilk konuştu konuşmasında
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bitmişti sonra meclis başkanı
+      metin  : jozef
+      duyulan: joseph
+  REPLACE  ...nın söz alacağını beklemiyordu
+      metin  : metni
+      duyulan: metin i
+  REPLACE  ...içinse bu sonunda söylenmiş
+      metin  : gerçekti
+      duyulan: gerçektir
+  INSERT   ...diploması olan kongolu sayısı
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...komutanı general emil jansens
+      metin  : leopoldvil
+      duyulan: leopoldville
+  REPLACE  ...sonraya eşittir o gece
+      metin  : tisvil
+      duyulan: tisville
+  INSERT   ...izni olmadan asker indirdi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...da bölgede hüküm süren
+      metin  : ünyon minyer dü o
+      duyulan: don mignardo oğul
+  INSERT   ...yukarı katanga maden ydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ydi ağustos ta güney
+      metin  : kasai de
+      duyulan: kasay da
+  REPLACE  ...ve kasa vubu birleşmiş
+      metin  : milletler e
+      duyulan: milletleer
+  INSERT   ...birleşmiş milletler e başvurdu
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...etmeyi reddetti genel sekreter
+      metin  : dag hammarşöld
+      duyulan: doug hammarsholt
+  ... ve 60 fark daha
+
+metinde olup DUYULMAYAN: 90 kelime | duyulup metinde OLMAYAN: 134
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: biyografi-2026-09-30.duyulan.txt

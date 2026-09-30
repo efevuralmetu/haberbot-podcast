@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-09-30.mp3
+
+beklenen 2664 kelime | duyulan 2673 kelime | eşleşme %95.1
+sayı ifadesi: metinde 378, duyulanda 283  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sıcak ve nemli ovasında
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...kazmayı bıraktı ve durumu
+      metin  : hueyapan
+      duyulan: huve yapan
+  INSERT   ...yıl daha geçmesi gerekecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...meksikalı mühendis ve gezgin
+      metin  : hose
+      duyulan: jose
+  INSERT   ...verdi ve yıllar sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olmek kendi dillerinden gelmiyor
+      metin  : nahuatl
+      duyulan: nahuatli
+  REPLACE  ...dillerinden gelmiyor nahuatl dilinde
+      metin  : olmekatl
+      duyulan: olmekatli
+  REPLACE  ...nahuatl dilinde olmekatl kabaca
+      metin  : kauçuk
+      duyulan: kavçuk
+  INSERT   ...ın gördüğü baş bugün
+      metin  : (yok)
+      duyulan: tires
+  REPLACE  ...bazaltın kaynağını netleştirdi kuzeydeki
+      metin  : tustla
+      duyulan: tusla
+  REPLACE  ...uçuşu mesafe yerleşime göer
+      metin  : kilometreden kilometreye
+      duyulan: km den km ye
+  REPLACE  ...anıtlar için bu yolculuk
+      metin  : kilometreyi
+      duyulan: km yi
+  REPLACE  ...bazalt kütlesi en büyüğü
+      metin  : ranço
+      duyulan: rancho
+  REPLACE  ...en büyüğü ranço la
+      metin  : kobata
+      duyulan: cobata
+  REPLACE  ...kobata da bulunan baş
+      metin  : metreyle
+      duyulan: meter ile
+  REPLACE  ...bölge ırmak ağlarıyla örülü
+      metin  : koatsakoalkos
+      duyulan: coatzacoalcos
+  REPLACE  ...tartışmalı kimi araştırmacı savaş
+      metin  : miğferi
+      duyulan: miiferi
+  REPLACE  ...tanımlayan tür işaret sistemi
+      metin  : oluşturduğu
+      duyulan: oluşturdu
+  INSERT   ...ipucu var bilinen başın
+      metin  : (yok)
+      duyulan: ünün
+  REPLACE  ...yuvarlak kaya bulup baş
+      metin  : yonttuysanız
+      duyulan: yontluysanız
+  INSERT   ...için özel sebep yok
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nda yanında böyle tahtın
+      metin  : oyuğundan
+      duyulan: oyundan
+  REPLACE  ...ulusal özerk üniversitesi nden
+      metin  : ann cyphers in doksanlardan
+      duyulan: anne cypherson lardan
+  INSERT   ...ve servet geri dönüştürülüyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yerin adı la venta
+      metin  : ydı tabasko
+      duyulan: idi tabasco
+  REPLACE  ...ırmak koluyla çevrili yaklaşık
+      metin  : kilometrekarelik
+      duyulan: km karelik
+  INSERT   ...baş buldular o sırada
+      metin  : (yok)
+      duyulan: teres
+  REPLACE  ...oldu eşi marion stirling
+      metin  : le
+      duyulan: ile
+  REPLACE  ...lerin la venta da
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...her parçaya varan yeşil
+      metin  : serpantin
+      duyulan: serpentin
+  REPLACE  ...kat kat yüzlerce ton
+      metin  : serpantin
+      duyulan: serpentin
+  REPLACE  ...alıyor özenle işliyor ve
+      metin  : toprağa
+      duyulan: toprağı
+  REPLACE  ...çukurun içine yeşim ve
+      metin  : serpantinden
+      duyulan: serpentinden
+  REPLACE  ...en parlak dönemi kabaca
+      metin  : mö
+      duyulan: melat
+  REPLACE  ...ovasından çıkardığı buluntular sadece
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...bu sert kavgaya dönüştü
+      metin  : zapotes te
+      duyulan: da zapoteste
+  REPLACE  ...bu tarih bugünkü takvimle
+      metin  : mö
+      duyulan: milatöne ye
+  REPLACE  ...oluştu meksikalı arkeolog alfonso
+      metin  : kaso
+      duyulan: caso
+  REPLACE  ...kaso ve sanat tarihçisi
+      metin  : migel kovarrubyas tustla gutierres
+      duyulan: miguel covarrubias
+  INSERT   ...kovarrubyas tustla gutierres de
+      metin  : (yok)
+      duyulan: tusla gutierrez te
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: arkeoloji-2026-09-30.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-09-30.mp3
+
+beklenen 1459 kelime | duyulan 1494 kelime | eşleşme %91.0
+sayı ifadesi: metinde 219, duyulanda 145  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ağustos
+      metin  : meksiko siti
+      duyulan: da mexico city
+  INSERT   ...romanlarından yolculuğuna tersten başlıyor
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...romanın ağırlığını taşıyan cümle
+      metin  : gabriyel garsiya markes
+      duyulan: gabriel garcía márquez
+  REPLACE  ...çekti sonra çevirdi ve
+      metin  : acapulco
+      duyulan: acha pulco
+  REPLACE  ...yıl geriye gitmek gerekiyor
+      metin  : garsiya markes
+      duyulan: garcía márquez li
+  INSERT   ...anlatı kurtarabildi o da
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kolombiya nın karayip kıyısındaki
+      metin  : aracataca büyükbabası
+      duyulan: araç ataç büyük babası
+  REPLACE  ...aracataca büyükbabası albay nicolás
+      metin  : markes
+      duyulan: márquez
+  REPLACE  ...duvarlarındaki iç savaş hikayeleri
+      metin  : kasabaya
+      duyulan: arabaya
+  INSERT   ...imparatorluk gibi yerleşen ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gibi yerleşen ve grev
+      metin  : kırımıyla
+      duyulan: kırımı ile
+  REPLACE  ...çevirdiği gün buldu çocukluğunda
+      metin  : büyükannesi trankilina i guaran kotes
+      duyulan: büyük annesi tranquilina iguarán cotes
+  REPLACE  ...bu kadar kayıtsız söylemek
+      metin  : garsiya markes
+      duyulan: garcia márquez
+  REPLACE  ...bunun ne anlama geldiğini
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...yolda geri döndükleri araba
+      metin  : garsiya markes
+      duyulan: garcia márquez
+  REPLACE  ...arkadaşları bu odaya la
+      metin  : kueva
+      duyulan: cueva
+  REPLACE  ...la kueva de la
+      metin  : mafya
+      duyulan: mafia
+  REPLACE  ...de la mafya yani
+      metin  : mafya
+      duyulan: mafia
+  REPLACE  ...mafya mağarası adını takmıştı
+      metin  : garsiya markes
+      duyulan: garcia márquez
+  REPLACE  ...bölümlerin haritasını duvara iğneledi
+      metin  : buendía
+      duyulan: buendia
+  REPLACE  ...adı aureliano ya da
+      metin  : arkadyo
+      duyulan: arcadio
+  REPLACE  ...değildi meksiko daki kolombiyalı
+      metin  : álvaro
+      duyulan: alvaro
+  REPLACE  ...yazdı paris te ve
+      metin  : bogotá
+      duyulan: bogota
+  REPLACE  ...edebiyat dünyasında herkesin tanıdığı
+      metin  : daktilocuya
+      duyulan: daktilocıya
+  REPLACE  ...carlos fuentes in ve
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...rulfo nun kitaplarını luis
+      metin  : bunyuel
+      duyulan: buñuel
+  REPLACE  ...temize çekmişti şimdi de
+      metin  : buendía
+      duyulan: buendia
+  REPLACE  ...eve götürürken bardaktan boşanırcasına
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...yağan yağmurun otobüsten inerken
+      metin  : ayağı
+      duyulan: ayağa
+  REPLACE  ...çamurlu suyuna dağıldı tek
+      metin  : nüshaydı
+      duyulan: nüşaydı
+  REPLACE  ...kurtuldu ve nihayet temiz
+      metin  : nüsha
+      duyulan: nüşa
+  INSERT   ...sayfa yanında karbon kopya
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...sonbaharına yaklaşırken iş bitmişti
+      metin  : garsiya markes
+      duyulan: garcia marquez
+  REPLACE  ...buenos aires çok uzaktı
+      metin  : ağustosunda garsiya markes
+      duyulan: ağustos unda garcia marquez
+  REPLACE  ...mercedes meksiko nun san
+      metin  : anhel
+      duyulan: angel
+  REPLACE  ...buenos aires in köklü
+      metin  : yayınevi editoryal sudamerikana
+      duyulan: yayın evi editorial sudamericana
+  REPLACE  ...güney amerika yayınevi orada
+      metin  : editör
+      duyulan: editor
+  REPLACE  ...istediğini çoktan bildirmişti adı
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...bildirmişti adı fransisko porrua
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...cebindeki bütün para pesoydu
+      metin  : garsiya markes
+      duyulan: garcia marquez
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: edebiyat-2026-09-30.duyulan.txt
