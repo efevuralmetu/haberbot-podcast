@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-01.mp3
+
+beklenen 1572 kelime | duyulan 1592 kelime | eşleşme %94.1
+sayı ifadesi: metinde 267, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...mayıs
+      metin  : utah
+      duyulan: de yuta
+  INSERT   ...hiçbir şey yok mayıs
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...yok mayıs erken saatlerinde
+      metin  : utah ın
+      duyulan: yuta nın
+  DELETE   ...ürperdi bu kutuların her
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yeer inen o milyarlarca
+      metin  : müon
+      duyulan: myon
+  REPLACE  ...fizikçiler bu çığa hava
+      metin  : sağanağı
+      duyulan: sağınağı
+  REPLACE  ...çığa hava sağanağı diyor
+      metin  : sağanağın
+      duyulan: sağınağın
+  REPLACE  ...soyut kalıyor o gündelik
+      metin  : ölçeğe
+      duyulan: ölçeye
+  REPLACE  ...enerjinin büyüklüğü değil nereye
+      metin  : sığdırıldığı
+      duyulan: sığdırıldığını
+  REPLACE  ...osaka metropolitan üniversitesi nden
+      metin  : toşihiro fucii
+      duyulan: toshihiro fujii
+  REPLACE  ...zaman damgaları yeniden tarandı
+      metin  : sağanağın
+      duyulan: sağınağın
+  INSERT   ...sürdü ve bulgular kasım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ize yıllık kayıt duruyordu
+      metin  : (yok)
+      duyulan: yümmoğuzdaki
+  REPLACE  ...duruyordu ekim gecesi yine
+      metin  : utah ta
+      duyulan: yutatta
+  REPLACE  ...mor parıltıyı gören düzenek
+      metin  : fly s
+      duyulan: falleys
+  REPLACE  ...eye yani sinek gözü
+      metin  : eksa elektronvoltluk
+      duyulan: exa elektron voltluk
+  REPLACE  ...olay da o kuralı
+      metin  : çiğniyor
+      duyulan: çiğnüyor
+  INSERT   ...görünüyor o kuralın hikayesi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...keşfedilmesinden hemen sonra kenneth
+      metin  : greisen
+      duyulan: grayson
+  REPLACE  ...ile birbirlerinden bağımsız çalışan
+      metin  : georgiy
+      duyulan: george e
+  REPLACE  ...enerjileri gülünecek kadar küçük
+      metin  : elektronvoltun
+      duyulan: elektron voltum
+  REPLACE  ...protonun enerjisinden yeni parçacık
+      metin  : pion
+      duyulan: piyon
+  INSERT   ...her seferinde enerjisinin kabaca
+      metin  : (yok)
+      duyulan: sini
+  REPLACE  ...eşiği var kabaca ile
+      metin  : eksa elektronvoltun
+      duyulan: eksi elektron voltun
+  REPLACE  ...sonra ölçüldü high resolution
+      metin  : fly s
+      duyulan: flies
+  INSERT   ...yüksek çözünürlüklü sinek gözü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tayfının tam beklenen yerde
+      metin  : eksa elektronvoltun
+      duyulan: eksi elektron voltun
+  REPLACE  ...hangi senaryoyu seçerseniz seçin
+      metin  : eksa elektronvoltluk
+      duyulan: eksi elektron voltluk
+  INSERT   ...yani yerel boşluk diyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ağır karanlık madde parçacığının
+      metin  : bozunması
+      duyulan: bozulması
+  REPLACE  ...pusulası bozulmuş izin son
+      metin  : teğetidir
+      duyulan: teyitidir
+  INSERT   ...izin son teğetidir şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çalışmada michael unger ile
+      metin  : glennys
+      duyulan: glenis
+  INSERT   ...derecekareye yani tüm gökyüzünün
+      metin  : (yok)
+      duyulan: sına
+  REPLACE  ...bilindiğine bağlı olarak ile
+      metin  : megaparsek
+      duyulan: mpa
+  REPLACE  ...başında geldi münih teki
+      metin  : maks plank
+      duyulan: max planck
+  REPLACE  ...plank fizik enstitüsü nden
+      metin  : nadin buriş
+      duyulan: nadine burisch
+  REPLACE  ...nden nadin buriş ile
+      metin  : françeska kapel
+      duyulan: francesca capel
+  REPLACE  ...bayesçi hesaplama denen istatistik
+      metin  : yöntemiyle
+      duyulan: yöntemi ile
+  INSERT   ...kaynak dağılımlarını süzdüler şubat
+      metin  : (yok)
+      duyulan: da
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: bilim-2026-10-01.duyulan.txt

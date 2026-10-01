@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-01.mp3
+
+beklenen 1551 kelime | duyulan 1566 kelime | eşleşme %92.6
+sayı ifadesi: metinde 248, duyulanda 145  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...tek film böyle çekildi
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...film böyle çekildi sonunda
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...federal cezaevinden çıkan herbert
+      metin  : biberman
+      duyulan: bieberman
+  REPLACE  ...meşhur gruba yani hollywood
+      metin  : na
+      duyulan: onlusuna
+  REPLACE  ...daha vardı yapımcı paul
+      metin  : jarrico
+      duyulan: jareko
+  REPLACE  ...yer filmiyle oscar kazanmış
+      metin  : ödülü
+      duyulan: adülü
+  INSERT   ...sonra kendini listede bulmuştu
+      metin  : (yok)
+      duyulan: ü de
+  DELETE   ...güneybatısında new mexico eyaletinin
+      metin  : çinko
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ay süren grev yaşanmıştı
+      metin  : (yok)
+      duyulan: donoh
+  INSERT   ...süren grev yaşanmıştı ekim
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...yaşanmıştı ekim hanover yakınlarındaki
+      metin  : çinko
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yani kısaca empier şirketiydi
+      metin  : grevciler
+      duyulan: greviciler
+  REPLACE  ...yapan meksika kökenli işçi
+      metin  : anglosakson
+      duyulan: anglo saxon
+  REPLACE  ...ve iç tesisat yoktu
+      metin  : anglosakson
+      duyulan: anglo saxon
+  REPLACE  ...vardı kadınlar yıllardır suyu
+      metin  : kovayla
+      duyulan: kova ile
+  DELETE   ...devraldı kadınlar kolu adıyla
+      metin  : kurulan
+      duyulan: (YOK — atlanmış)
+  INSERT   ...tuttu kocalar çocuklara baktı
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...kocalar çocuklara baktı haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hat yine dağılmadı ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaklaşık madene ve onların
+      metin  : eşlerine
+      duyulan: eşlerini
+  INSERT   ...hiç böyle olmadı dediler
+      metin  : (yok)
+      duyulan: dokta
+  REPLACE  ...destanı olarak değil esperanza
+      metin  : kintero
+      duyulan: quintero
+  DELETE   ...değil esperanza kintero adlı
+      metin  : hamile
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...seçimi de aynı mantıkla
+      metin  : yapıldı
+      duyulan: kaldı ki
+  REPLACE  ...numaralı şubenin gerçek başkanı
+      metin  : huan çakon
+      duyulan: juan chacon
+  REPLACE  ...geçmemişti sendika temsilcisi clinton
+      metin  : jencks
+      duyulan: jenks
+  REPLACE  ...jencks ile eşi virginia
+      metin  : jencks
+      duyulan: jenks
+  INSERT   ...meksika dan oyuncu geldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dan oyuncu geldi durango
+      metin  : da doğan
+      duyulan: dadoan
+  REPLACE  ...arasında besteci silvester yazar
+      metin  : hose
+      duyulan: jose
+  REPLACE  ...bulunan sanatçı ailesinin kızı
+      metin  : rosaura revueltas
+      duyulan: rosara revio eltas
+  INSERT   ...sinemasında filmi vardı kamera
+      metin  : (yok)
+      duyulan: ün
+  DELETE   ...filmi vardı kamera ocak
+      metin  : ayında
+      duyulan: (YOK — atlanmış)
+  INSERT   ...değil kuşatmaya benziyordu şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çıktı ve bu filmin
+      metin  : amerikan
+      duyulan: kan
+  REPLACE  ...ta göçmen bürosunun memurları
+      metin  : rosaura revueltas
+      duyulan: rosara revio eltas
+  REPLACE  ...ait olduğunu kabul etti
+      metin  : revueltas
+      duyulan: revio eltas
+  REPLACE  ...etti revueltas kasabadan alınıp
+      metin  : teksas
+      duyulan: texas
+  DELETE   ...tutuldu mart ta serbest
+      metin  : bırakıldı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ortam çoktan kızışmıştı mart
+      metin  : gecesi
+      duyulan: (YOK — atlanmış)
+  ... ve 45 fark daha
+
+metinde olup DUYULMAYAN: 86 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: film-2026-10-01.duyulan.txt

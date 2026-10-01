@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-01.mp3
+
+beklenen 2386 kelime | duyulan 2411 kelime | eşleşme %94.8
+sayı ifadesi: metinde 359, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çukurda kadın başlarında yapraklar
+      metin  : arpları
+      duyulan: arkları
+  REPLACE  ...tomografi cihazına girdi ve
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...el mukayyar der kabaca
+      metin  : ziftli
+      duyulan: zifli
+  REPLACE  ...yanında sandık ve ölçüm
+      metin  : takımıyla
+      duyulan: takımı ile
+  REPLACE  ...vardı ayağının altındaki yığın
+      metin  : tevradın
+      duyulan: tevrat ın
+  REPLACE  ...daki britanya müzesi ile
+      metin  : philadelphia
+      duyulan: filadelfya
+  REPLACE  ...müzesi ile philadelphia daki
+      metin  : pennsylvania
+      duyulan: pensilvenia
+  REPLACE  ...üniversitesi müzesi nin ortak
+      metin  : girişimiydi
+      duyulan: girişimi idi
+  INSERT   ...bu düzen sezon sürdü
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kazanacaktı i lk sezonlarda
+      metin  : höyüğün
+      duyulan: höyük ün
+  REPLACE  ...höyüğün tepesindeki büyük basamaklı
+      metin  : tapınağı
+      duyulan: tapına
+  REPLACE  ...şçilerin gözü parladı woolley
+      metin  : nin
+      duyulan: in
+  REPLACE  ...oraya dokunmadı o yılı
+      metin  : höyüğün
+      duyulan: höyük ün
+  REPLACE  ...tonozlu odası vardı odaya
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...zaman açık alan bulunuyordu
+      metin  : woolley
+      duyulan: guli
+  REPLACE  ...konumunu şaşırdıkları için ıskaladılar
+      metin  : woolley
+      duyulan: vuleybin
+  REPLACE  ...büyük yapraklardan halkalardan en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...bize veren tek nesnedir
+      metin  : woolley
+      duyulan: wuli
+  REPLACE  ...nesnedir woolley yazıyı önce
+      metin  : sümerce
+      duyulan: sümerze
+  REPLACE  ...önce sümerce okuyup kadına
+      metin  : şubad
+      duyulan: şubat
+  REPLACE  ...tanıttı sonraki okumalar adın
+      metin  : akkadça
+      duyulan: akkatçe
+  DELETE   ...öldüğünde yaşlarında olduğunu boyunun
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dışarıdaydı odanın önündeki çukurda
+      metin  : woolley
+      duyulan: wuli
+  INSERT   ...woolley nin saydığına göer
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...ve bıraktığı boşluk kalmıştı
+      metin  : woolley
+      duyulan: wuli
+  REPLACE  ...lirlerinin ahşap kısmı aslında
+      metin  : woolley
+      duyulan: wuli
+  REPLACE  ...yer tuttu kazı evinde
+      metin  : woolley
+      duyulan: wuli
+  REPLACE  ...evinde woolley nin eşi
+      metin  : katharine
+      duyulan: katrin
+  REPLACE  ...nasıl durduğunu gösterdi o
+      metin  : rekonstrüksiyon
+      duyulan: rekonstruksiyon
+  REPLACE  ...vardı ve o çukurda
+      metin  : küsur
+      duyulan: küsür
+  REPLACE  ...kazı defterine numarasıyla geçti
+      metin  : woolley
+      duyulan: wuli
+  REPLACE  ...çukuru dedi ve bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...yine eğimli rampayla iniliyordu
+      metin  : toprağı
+      duyulan: toprağa
+  INSERT   ...sayı netleşti insan bunların
+      metin  : (yok)
+      duyulan: sı
+  INSERT   ...netleşti insan bunların erkek
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yakın duruyordu başlarında bakır
+      metin  : miğferler
+      duyulan: miyferler
+  REPLACE  ...bunlardan tellerinin bulunduğu yerde
+      metin  : woolley
+      duyulan: wooly
+  REPLACE  ...çok anlatılan sahnelerinden oldu
+      metin  : woolley
+      duyulan: wooly
+  REPLACE  ...cesedin yanı başında duruyordu
+      metin  : woolley
+      duyulan: wooly
+  REPLACE  ...tuhafı ize bulunamayan şeydi
+      metin  : öteki
+      duyulan: ötteki
+  ... ve 45 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: arkeoloji-2026-10-01.duyulan.txt

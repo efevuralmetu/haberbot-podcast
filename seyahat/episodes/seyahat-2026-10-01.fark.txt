@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-01.mp3
+
+beklenen 1942 kelime | duyulan 1975 kelime | eşleşme %96.0
+sayı ifadesi: metinde 285, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sonra indiğiniz iskelede saatiniz
+      metin  : yanlış
+      duyulan: yanmış
+  REPLACE  ...yıldır bu yarımadaya kadın
+      metin  : ayağı
+      duyulan: ayağa
+  REPLACE  ...yerde uranupoli adlı küçük
+      metin  : iskele
+      duyulan: iskelek
+  REPLACE  ...buradan vapur kalkar ve
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...burası aynaroz dur yunanlıların
+      metin  : ayion oros
+      duyulan: ayon oroz
+  REPLACE  ...yer yarımada denize tam
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yer yer yer yer
+      metin  : kilometredir yüzölçümü
+      duyulan: km dir ölçümü
+  REPLACE  ...yer kilometredir yüzölçümü yaklaşık
+      metin  : kilometrekaredir
+      duyulan: km karedir
+  REPLACE  ...bu dağ yıllar boyunca
+      metin  : ad
+      duyulan: at
+  REPLACE  ...herodotos un anlattığına göer
+      metin  : mö
+      duyulan: melatok u de
+  INSERT   ...önünde kuzey fırtınasına yakalandı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...adam boğuldu yıl sonra
+      metin  : kserkses
+      duyulan: kaserkses
+  REPLACE  ...sonraki yılın kalıbını belirledi
+      metin  : aynaroz
+      duyulan: aynaros
+  REPLACE  ...rus manastırı olarak bilinen
+      metin  : ayiu panteleimonos
+      duyulan: ayupanteleymonos
+  INSERT   ...mevcut olanlar birleşemez kapatılamaz
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...her türlü akıncısı bu
+      metin  : kıyıyı
+      duyulan: kıyıya
+  INSERT   ...yazıya geçtiği belge belli
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...rejim değişikliğinde yeniden tanındı
+      metin  : keşişlerin
+      duyulan: peşişlerin
+  INSERT   ...stanbul düşmeden yıl önce
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hayatlarını koruma hakkı sonraki
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...indiği an saat tam
+      metin  : (yok)
+      duyulan: dir
+  REPLACE  ...mantıkla eski kalmıştır aynaroz
+      metin  : gregoryen
+      duyulan: gregorian
+  REPLACE  ...değil roma dan devraldığı
+      metin  : jülyen
+      duyulan: julien
+  REPLACE  ...karanlıkta kapılar açılır gün
+      metin  : ağarmasına
+      duyulan: ağırmasına
+  REPLACE  ...yaslanır okuma ve ilahi
+      metin  : kesintisiz
+      duyulan: kesintisi
+  REPLACE  ...pazartesi çarşamba ve cuma
+      metin  : günleri ile
+      duyulan: günleriyle
+  REPLACE  ...da manastırın kendi ürettiği
+      metin  : tsipuro
+      duyulan: tipuro
+  INSERT   ...patika ağı hala ayaktadır
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...ya da tek kişilik
+      metin  : kelliye
+      duyulan: kelliğe
+  REPLACE  ...gider dağın güneybatı yüzündeki
+      metin  : sarp
+      duyulan: sarf
+  REPLACE  ...karara bağlar kasabanın göbeğindeki
+      metin  : protaton
+      duyulan: prototon
+  INSERT   ...olduğu düşünülüyordu sayılar acımasızdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...balkanlar daki rejim değişiklikleriyle
+      metin  : sırp
+      duyulan: sırt
+  INSERT   ...ardından büyük kır göçü
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yetecek kadar insan kalmamıştı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...dönüm noktası gürültüsüz oldu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nüfus arttı kişi arttı
+      metin  : (yok)
+      duyulan: den ya
+  REPLACE  ...olmuş insanlar ile arasında
+      metin  : dağa
+      duyulan: daha
+  INSERT   ...başındaki rakamın çok ama
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...düzenine döndü bu dönüşüm
+      metin  : (yok)
+      duyulan: de
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: seyahat-2026-10-01.duyulan.txt

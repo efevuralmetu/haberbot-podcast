@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-01.mp3
+
+beklenen 2574 kelime | duyulan 2589 kelime | eşleşme %95.9
+sayı ifadesi: metinde 373, duyulanda 253  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kendi zaferinin şarkısına dönüştürdü
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...sıcağında kançipuram ın kuzeyindeki
+      metin  : pollilur ovasında
+      duyulan: polulur ovası nda
+  REPLACE  ...bu kuvvete albay william
+      metin  : baillie
+      duyulan: byley
+  REPLACE  ...günlük yürüyüşten fazla değildi
+      metin  : baillie
+      duyulan: byley
+  REPLACE  ...ordu güney hindistan ın
+      metin  : mysoer sultanlığı na
+      duyulan: maysoer sultanlığına
+  REPLACE  ...tipu sultan ı süvarileriyle
+      metin  : baillie
+      duyulan: byley
+  REPLACE  ...kuvvetiyle de kuşatmayı tamamlamıştı
+      metin  : baillie
+      duyulan: byley
+  REPLACE  ...başka şey değildi ve
+      metin  : baillie
+      duyulan: byley
+  REPLACE  ...o gün i ngiliz
+      metin  : asteğmenin
+      duyulan: asteymenin
+  REPLACE  ...topun yerini alamazdı ama
+      metin  : baillie
+      duyulan: byley
+  DELETE   ...karnını yardı panikleyen hamallar
+      metin  : seyisler
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...değil kıyımdı o gün
+      metin  : şirkedin
+      duyulan: şirketin
+  INSERT   ...avrupalı subay hayatını kaybetti
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...ya da ovaya dağıldılar
+      metin  : baillie
+      duyulan: bailli
+  REPLACE  ...ve ciddiye alınmıyordu şenlik
+      metin  : fişeği
+      duyulan: fişeyi
+  REPLACE  ...ciddi olmayan oyuncaktı öyleyze
+      metin  : pollilur
+      duyulan: polilur
+  REPLACE  ...gövde yanmadan önce çatlar
+      metin  : yarılır
+      duyulan: yarılar
+  REPLACE  ...ın eski ban fişeklerinin
+      metin  : metreyle
+      duyulan: meter ile
+  REPLACE  ...yumuşak demir dövülerek yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...dövülerek yaklaşık santimeter uzunluğunda
+      metin  : ile santimeter
+      duyulan: cm
+  REPLACE  ...yi hazırlanmış olanların menzili
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...hayvanları arabalar ve mürettebat
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...döneminde roketçi sayısı yaklaşık
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yani roket ihtiyaç halinde
+      metin  : çağrılan
+      duyulan: çağırılan
+  REPLACE  ...maysur ordusunun standart teçhizatıydı
+      metin  : kullanım
+      duyulan: kullanın
+  REPLACE  ...ize uzağa düşen atış
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...şirket arasındaki hesap uzundur
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...savaş sonuçsuz barışla kapandı
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...maysur un topraklarının yarısını
+      metin  : kaybetmesiyle
+      duyulan: kaybetmesi ile
+  INSERT   ...ordusunu yeniden kurmaya girişti
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...parçası haline getirilmişti nisan
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...şirket kuvvetlerinin genç albayı
+      metin  : sultanpet
+      duyulan: sultan pets
+  REPLACE  ...genç albayın adı arthur
+      metin  : wellesley di
+      duyulan: wallisleydi
+  REPLACE  ...sığ kolunu geçti ve
+      metin  : gediğe
+      duyulan: gediye
+  REPLACE  ...bunu biliyoruz ama roket
+      metin  : gediğe
+      duyulan: gediye
+  REPLACE  ...hedefe ateş edemiyordu ve
+      metin  : gediğe
+      duyulan: gediye
+  REPLACE  ...insan seli nokta hedefti
+      metin  : pollilur
+      duyulan: polilur
+  REPLACE  ...teşhis edildi yaşındaydı kuşaktır
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...dövülmüş kapatılmış ölçüsü tutturulmuş
+      metin  : demir tüp
+      duyulan: demirtük
+  REPLACE  ...bilenler vardı yıl önce
+      metin  : pollilur
+      duyulan: polilur
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: tarih-2026-10-01.duyulan.txt

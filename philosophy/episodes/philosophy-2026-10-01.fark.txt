@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-01.mp3
+
+beklenen 3723 kelime | duyulan 3708 kelime | eşleşme %98.9
+sayı ifadesi: metinde 134, duyulanda 122  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...front of you without
+      metin  : signalling
+      duyulan: signaling
+  REPLACE  ...comes to a stop
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...lira the young cashier
+      metin  : apologises
+      duyulan: apologizes
+  REPLACE  ...theer aer thinkers who
+      metin  : asked
+      duyulan: ask
+  REPLACE  ...the measuer of the
+      metin  : offence
+      duyulan: offense
+  REPLACE  ...emotional accident but a
+      metin  : judgement
+      duyulan: judgment
+  REPLACE  ...because it is a
+      metin  : judgement
+      duyulan: judgment
+  REPLACE  ...because it is a
+      metin  : judgement
+      duyulan: judgment
+  REPLACE  ...to the whole debate
+      metin  : aorgesia
+      duyulan: orgesia
+  INSERT   ...at the right time
+      metin  : (yok)
+      duyulan: get
+  REPLACE  ...the passions aer false
+      metin  : judgements
+      duyulan: judgments
+  REPLACE  ...judgements and a false
+      metin  : judgement
+      duyulan: judgment
+  REPLACE  ...the back of the
+      metin  : weak
+      duyulan: week
+  DELETE   ...qur an in the
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...praiseworthy human type is
+      metin  : kazimin
+      duyulan: qazi min
+  REPLACE  ...type is kazimin al
+      metin  : ghayz
+      duyulan: ghays
+  REPLACE  ...report compiled by abu
+      metin  : dawud
+      duyulan: dawood
+  REPLACE  ...the religious sciences or
+      metin  : ihya
+      duyulan: aiyya
+  REPLACE  ...ghazali is after is
+      metin  : itidal
+      duyulan: idle
+  REPLACE  ...s in baghdad and
+      metin  : tus
+      duyulan: tuss
+  REPLACE  ...same middle ground ibn
+      metin  : miskawayh
+      duyulan: miskaway
+  DELETE   ...of anger is shaja
+      metin  : a
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of this faculty is
+      metin  : tahawwur
+      duyulan: tahawar
+  REPLACE  ...hearing this saying of
+      metin  : yunus emer s
+      duyulan: eunice emres
+  REPLACE  ...called slavish but the
+      metin  : yunus
+      duyulan: eunice
+  INSERT   ...attribution to the prophet
+      metin  : (yok)
+      duyulan: s
+  REPLACE  ...while raizing its reward
+      metin  : and
+      duyulan: hannon
+  REPLACE  ...is most reachable most
+      metin  : defenceless
+      duyulan: defenseless
+  REPLACE  ...wish that the other
+      metin  : party
+      duyulan: parties
+  REPLACE  ...aer thinkers such as
+      metin  : myisha
+      duyulan: maisha
+  DELETE   ...the who committed it
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-10-01.duyulan.txt

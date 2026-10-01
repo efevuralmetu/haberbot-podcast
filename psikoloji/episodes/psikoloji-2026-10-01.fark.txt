@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-01.mp3
+
+beklenen 1217 kelime | duyulan 1224 kelime | eşleşme %98.2
+sayı ifadesi: metinde 113, duyulanda 100  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıldır ölçülüyor ve sonuç
+      metin  : sağduyunun
+      duyulan: sadu yunun
+  REPLACE  ...da açıklıyor modern biçimini
+      metin  : froyd
+      duyulan: freud
+  REPLACE  ...modern biçimini froyd ve
+      metin  : broyer in
+      duyulan: breuer ın
+  REPLACE  ...döneceği düşüncesi yüzyılın ortasında
+      metin  : konrad
+      duyulan: conrad
+  REPLACE  ...ki hissedilen rahatlama ölçülen
+      metin  : öfkeyle
+      duyulan: öfke ile
+  INSERT   ...nden brad bushman ın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kapıdan gerçek ve taze
+      metin  : öfkeyle
+      duyulan: öfke ile
+  INSERT   ...tek deneyin tuhaflığı değil
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...değil ebbesen duncan ve
+      metin  : koneçni
+      duyulan: konecni
+  REPLACE  ...elimizdeki en toplu cevap
+      metin  : sofi şervik
+      duyulan: sophie sherwick
+  INSERT   ...ile brad bushman ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yayımladığı geniş derlemeden geliyor
+      metin  : öfkeyle
+      duyulan: öfke ile
+  INSERT   ...test eden çalışmayı toplamda
+      metin  : (yok)
+      duyulan: den
+  DELETE   ...geriye tuhaf miras kalıyor
+      metin  : yılı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...alıkoyduğu için de zararlı
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 13 kelime | duyulup metinde OLMAYAN: 20
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-10-01.duyulan.txt

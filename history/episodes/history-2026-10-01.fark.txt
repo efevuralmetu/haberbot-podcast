@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-01.mp3
+
+beklenen 2618 kelime | duyulan 2492 kelime | eşleşme %12.1
+sayı ifadesi: metinde 254, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...of its own victory
+      metin  : eylül sabahı güney hindistan ın kavurucu sıcağında kançipuram ın kuzeyindeki pollilur ovasında i ngiliz müfrezesi yürüyordu doğu hindistan şirketi nin hizmetindeki bu kuvvete albay
+      duyulan: ilo sabah gunei hindistanan kavurju sajanda kanchipuraman kuseyindeke polilurova sandabir inghilisme frese siyuriordu hindistanshirkitinan hizmetinde kibuku vete albaai
+  REPLACE  ...bu kuvvete albay william
+      metin  : baillie
+      duyulan: bailey
+  REPLACE  ...albay william baillie komuta
+      metin  : ediyordu
+      duyulan: ediordu
+  REPLACE  ...baillie komuta ediyordu ve
+      metin  : emrinde yaklaşık kişi vardı görevi basitti kendisini bekleyen
+      duyulan: emreinde yaklasuk uchbi sekuzuski siwarde gauravi basiti kendi sinibektlyan
+  REPLACE  ...kendisini bekleyen sir hector
+      metin  : munro nun ana ordusuna katılmak aradaki mesafe günlük yürüyüşten
+      duyulan: munronan anna ordu sunakatilmak aradai ki mesafei nukkuru yushtan
+  REPLACE  ...mesafe günlük yürüyüşten fazla
+      metin  : değildi baillie
+      duyulan: deilde bailey
+  REPLACE  ...fazla değildi baillie o
+      metin  : mesafeyi
+      duyulan: mesafei
+  REPLACE  ...baillie o mesafeyi asla
+      metin  : kapatamayacaktı karşısındaki
+      duyulan: kapatama ejakta karshasandaki
+  REPLACE  ...asla kapatamayacaktı karşısındaki ordu
+      metin  : güney hindistan ın
+      duyulan: gunei hindistanan
+  REPLACE  ...güney hindistan ın mysoer
+      metin  : sultanlığı na türkçe söyleyişle maysur a aitti maysur un hükümdarı haydar
+      duyulan: sultan luna tukche soile isle mysoer aitte maysurun hukumdaer haidar
+  REPLACE  ...un hükümdarı haydar ali
+      metin  : oğlu tipu
+      duyulan: olutipu
+  REPLACE  ...ali oğlu tipu sultan
+      metin  : ı süvarileriyle baillie nin üzerine sürmüş ardından
+      duyulan: suwari lereela bailinan uzairina sirmush ardandan
+  REPLACE  ...üzerine sürmüş ardından kendi
+      metin  : ana kuvvetiyle de kuşatmayı tamamlamıştı baillie
+      duyulan: anna kuveteeladakushatma itamamlamishte bailey
+  REPLACE  ...kuşatmayı tamamlamıştı baillie durumu
+      metin  : anlayınca askerlerini o dönemin klasik savunma düzenine soktu uzun dikdörtgen dışa dönük süngüler
+      duyulan: anleyinja askerlerin odonemin kalessiksavun maduzenina sokto uzunbir dikdirtgan dushadunuk sringular
+  REPLACE  ...dışa dönük süngüler ortada
+      metin  : cephane arabaları ve seyisler
+      duyulan: jepane arabalerewe seyislar
+  REPLACE  ...arabaları ve seyisler hamallar
+      metin  : sucular
+      duyulan: sujular
+  REPLACE  ...orduyu ayakta tutan o
+      metin  : kalabalık sivil
+      duyulan: kalabalak seville
+  REPLACE  ...o kalabalık sivil kuyruk
+      metin  : bu düzen süvariye karşı neredeyze kırılmazdı atlı kuvvetin sıkı süngü duvarına çarpması intihardan başka şey değildi ve baillie nin
+      duyulan: buduzan siwariya karsheneer desekhirul mazde atlibir kuvetinsuk sringudu varna charpmasi inthi hardan bashkabir seydi ilde vebailinin
+  REPLACE  ...ve baillie nin askerleri
+      metin  : bunu biliyordu i ngiliz subaylar o sabah kendilerine güveniyorlardı
+      duyulan: bunubili ordu ingilis subailar osabah kendi lernae kuveinu ollartu
+  REPLACE  ...sabah kendilerine güveniyorlardı sonra
+      metin  : gökyüzü hışırdamaya başladı maysur ordusunun ön saflarından
+      duyulan: gyukyuzu hishirda mayabashladeh mysoer ordasunun unsaflaran dan
+  REPLACE  ...saflarından elle tutulan borulardan
+      metin  : fırlayan şeyler havayı yararak geliyordu bunlar top güllesi değildi gülle gelirken görülmez yalnızca sonucu duyulur bu şeylerin arkasında
+      duyulan: furlayan seylar hawaiyararakke ildu bandler tap gyuliside ilde bulle gyelar kan gyrul mazde yalnuz ja sonu judu yulush busheilir naarkasan dabir
+  REPLACE  ...bu şeylerin arkasında kuyruk
+      metin  : vardı ıslık gibi
+      duyulan: varda uslikki bibi
+  REPLACE  ...vardı ıslık gibi ses
+      metin  : vardı
+      duyulan: varda
+  REPLACE  ...gibi ses vardı duman
+      metin  : vardı bazıları yükseğe çıkıp aşağı iniyor bazıları da hiç yükselmiyor toprağın hemen üstünde sıçrayarak zıplayarak ilerliyordu yerde sıçrayanlar en kötüsüydü adamın dizini başkasının baldırını parçalayıp yoluna devam ediyorlardı o gün i ngiliz asteğmenin bacağı böyle isabetle darmadağın
+      duyulan: varda baselir yuxei chekapasha inyar baselir dahit yuxai amyar topran hemanustin desetrearak zupleyarak ilde ordu yer desetreanar enkertusudu biradaman dizine birbashkasun unbalderinu parchala ip yolunadewa medyorlardu ogun ingilis asteymenin bajab oile betledar madan
+  REPLACE  ...böyle isabetle darmadağın oldu
+      metin  : i ngiliz öncü birlikleri ilerlemeyi bıraktı
+      duyulan: ingilis unjubir likderi ilar lemehy burakte
+  REPLACE  ...birlikleri ilerlemeyi bıraktı kimse
+      metin  : önünü göremediği nereden geleceğini hesaplayamadığı şeyin içine doğru yürümek istemiyordu roketler insanı öldürmekte
+      duyulan: ununu geremedi nardang ghelejene hesapleyamadu sheyin echinador yurmekistemi ordu roquettler enson oeldurmektah
+  REPLACE  ...roketler insanı öldürmekte topun
+      metin  : yerini alamazdı
+      duyulan: yerina alamazde
+  REPLACE  ...topun yerini alamazdı ama
+      metin  : baillie nin dikdörtgeni bu silahın sevdiği türden
+      duyulan: belinin dikdartkene busilahan sevedi turdan
+  REPLACE  ...sevdiği türden hedefti derin
+      metin  : sıkışık ortası dolu ve o
+      duyulan: sukhushuk orta sudolu veo
+  REPLACE  ...dolu ve o ortada
+      metin  : cephane arabaları duruyordu kaynakların
+      duyulan: sefayin arabala urduri ordu kainakliran
+  REPLACE  ...arabaları duruyordu kaynakların ortak
+      metin  : kanaati başıboş roketin arabalardan isabet ettiğidir düzenin tam içinde cephane arabası havaya uçtu
+      duyulan: kanati basiboshbi roquettin arabala urdan sabetetidur duzinin tamichinde pane arabasabirdan hawaya uch
+  REPLACE  ...havaya uçtu o patlama
+      metin  : yalnızca yakınındaki askerleri öldürmekle kalmadı dikdörtgenin karnını yardı panikleyen hamallar seyisler hayvanlar
+      duyulan: yalnuzjaya kanandaki askerler uldurmekle kalmadu dikdartkene karnanayardu paniklayan hamalar seyislar haivanlar
+  REPLACE  ...hamallar seyisler hayvanlar yani
+      metin  : silahsız binlerce
+      duyulan: silasas narja
+  REPLACE  ...yani silahsız binlerce insan
+      metin  : kendi askerlerinin saflarının içinden kaçmaya başladı süngü duvarı
+      duyulan: kende askerler inin saflar anunichindan kachmayabashladu sungyuduwar dusardan deil icharidan daldu tipu sultanan suvarilir tamoanda kuralmash duzinin uzirene indu jeri kalan muharabedil kujumda ogun shirketin kuvetindan ikivirgul kishi uldu yakleshik kishi essir dushtu avrupolis subai hayatanakai beti elissi tutsa kalanda yerli askerler den iser ayakta kalan kalmadu uldular yerelan dalar yeda ovaia daldular bailey tesla muldu ve essa retnaan saadun medi bhujan ilge dho hindistan shirketinin hindistan yermadasan da aldu nr darbe olarak yermuzildan fazda suraylekah itlarda kaldu heber madrasa ulashtun da shashkan lik kaibedilana damsa isan dhan chokpashka bishay edayarda shirket ordular hindistan da yildir savashyordu kaibed meda alishkundalar ama boukhez rapularda tekrar tekrar aynikele megichyordu roquette londra deki ve madrasa teki topchu subayler roquette in neoldu nu bili orlarda roquette eski shayde chindan bili njordu avrupadada denan mishti ve jitti alan mjordu shenlik fishei gibi bishayde hawai fishek kadar gurultulu hawai fishek kadar zararsus di uthapchu subayi chin roquette ishi jitti olmayam oyunjakte waeli sapolulur da asker lirein bajak lirein koparan jefane arabalir na hawaya uchuran shainayde maysuru ne lirein deneward da arupan ne lirein dayoktu seva tek malse mede isikde inde saklide roquette hindistan da maysuru lagel meri hindistan da roquette maysuru dan chokun jebi linyor ve kullan liyordu ben denan barut dolu fishek lair yuzi lardar savashalan lirein da gurulur atler urkut meik chadar lier tuttur shtur mak lushman safan da kargasach karmakichinatu liyordu banlarang yovdesi khaatan deridan yada bambudan yapu liyordu etki lirisanar lide ve bussanar taktik targihtan deil fisiktang liyordu roquette ting yovdesi aslan da basanch kabudur ichinde ki barut yanarki an orta echikan gaz tek yoindan arkadaki deliktan chikmak zorundadur gevden nae khadar yuxek basanja dayanabilirse gazodeliktan okadar huzlichikar ve roquette okadar uzagidar khat yada bambu gevdenin dayan masanur dushuktur barutu da huzli akmayakal karsanas gevdenan madanur nje chatlar yarulur patlar yani bambubi roquette uzagit meikistedi
+  REPLACE  ...başladı süngü duvarı anda
+      metin  : dışarıdan değil içeriden dağıldı
+      duyulan: ken dini okedar hindestanan eski banfishek lernan yuzi ki yuz meter layetin mesinan nedeni budur maysurun yaptu shei okhaba daishtir mekte maysur roquette inan gevdesi dovme demir dende yumu shak demir dovilerek yakhlashuk santi meter uzundu anda durt ileseki santi meter arasundar chapla cylinder hali negetar iyor ujukapat iyor ichine yakhlashuk yarm ki lokadar barut sakhishtir iyordu bu demir tup yakhlashuk viguli ki metrelik bambuchubo asuk jabala niyordu bambunun islevi tashimak dil dengele mekte uchushtir asundar roquette inburnu no ileritutan kuyruk duman gurevigur yordu demir ngetir di farq char pujida ainu barut artek yarl mayan kabunichin dayan duyichin roquette yuz meter irahat chabulu yordu ihazir lan musholanaran menzili kula meter ekadarchi kuyordu bu yilunan topchulua chisundan jid dibir mesafedur denamin sahra toplarunan etkele menzili burakamlarla ainasan eftaidu amatop ton arlunda bronskutle koshumhaivannaer arabalarve murete batdemekte maysir roquette ize adaman koltunun altun datashe bile jei demir parchasidu maliette arlukwe haraket kabili ete chisundan kriyaskabul eitmyordu buterji hinarkasundar baskha shevardu gune hindistanan demir jiliye bulge yuziel larder yuxek kalitele cheli kuretimi letanun yordu dunyanan cheshitli arlerinda arananaonu hinchilinin ojakleru buradaidu demirians duzvun vebasanja dayanajak bichimde dovibilan usta saisifazlaidu baskha jau raffia da demir guev delhi roquette fikrir zanaat surunana charpardu maysur da charpmadu ustulik take tip roquette yoktu basu lernan geuvde sine delik lera chilmishte bun nar yanar kyan yanar dan alevsa buraraktutur joalarak kullan yordu hedef chadar ashap yada samandu basu lernan bambu chubu demir uchlar yada chelik bichaklar balan yordu bui kinchisinin havadaki gurentu sunuhai ayletmek insanur irparthir huzla donerak gelan ujunda kesijir aztashian bishai poli diderme topranustun desitrearak adam lernan bajak lernan parchalyan roquette larbu kola silik labutur dande uusila isabet eti yerishe miordu amakalabalunichine dushtun deseche mesine gerektay oktuh roquettler maysuran bashkentinde ki atoyelar desiri olerak uretiliordu bui retimin enunem liuzai lee standartlikte geuvde boilera chaplar barut tolgusu vebambunun uzundu beliulchuleer gureyapuliordu trunku silahan askerine linde isheiramasi cinunur lebilurolmasi gerekir roquette cinun butupusu achila furlathursam shukadar uzaadu sherdiyebil mesilazunder elde yapelmush harbier farklu ochudebir yeunfishek lebunu yapamasenas ishta maysuru ayran shaye yanusja demir tip deilde demir tip malze mebulu shridu sabasho aletene cheveran shaye cheveresinde kurlanin san duzeniide vebu duzeni kuranadam babasanan braktu yaardan devralup roquette maysuru ordusunun dayi mi kolohali negeti rejekte haidar aleinen roquette lehtanushiklu aylisindang gili ordu babasi bashka hukumdaran hizmetin de ellekadar roquette cinun bashandaki kuchuk pesahibide yani busila haidar aleinen chojukluonun ichindang hichmishte maysuru anfili hukumdaro oldun da roquette cileer duzani birlikolara kurgutlede vebukku vetsamanla birbilgul ikkyuski sibuldu olu
+  REPLACE  ...içeriden dağıldı tipu sultan
+      metin  : ın süvarileri
+      duyulan: bunubir adumu itaetaside donemin de roquette cize yeklasik beishbin nechikte burakamudoro yaarda tutmak gereker beishbin roquette cie maysuru ordusunun tammamu deilde ama odonemin hichbir ordusun da bulun mayan bishade avrupanan engelishmish ordularenda roquette de airebir senufioktu buur gutlan mekat ustinde devarda tipu sultanan askeri duzanina anlatan fethul mujahidin adla elkitabu ordunun haertugaena ikkyus roquette civerel mesine ungeru ordu maysuruan sixteens illa tennebort arasandha deyshan sayidah piade tugaewaarda yani roquette ikhteachalinde charaland yaardam joon sur deilde haertugaena ichine teishkilat shemasanan ichine yaarlechtirilmishte bogunun dilile soylenirse roquette maysuru ordusunun standard techizatide kolanum bichimideh silahaguer shekhil lanmishte techbir roquette isabetachisundan guvenilmazdir ama roquette cibolunun aine andasavurdu roquette alan silahana dunushur hedef nochtadil buur gedir roquette cilar kimizaman tupu dordan elde tutukfir latur kimizaman danfazla tupu aine yonebakjak shekhildeyar lestran arabalarkulanyor larda nishan almak tupun yereguer achisun ayerlamaktan ibarette alcha kachi ilirevesitrearak kidam ahtush yuxe kachi ize uzad usham ahtush demekte asul mesele roquettein insanuzirindeburaktu etkide top sesin alushilur tupun geldi yeon bailidur ateishlandi yargurulur marmigurun mas roquette iaize
+  REPLACE  ...sultan ın süvarileri tam
+      metin  : o anda kırılmış düzenin üzerine indi geri kalanı muharebe değil kıyımdı o gün şirket in kuvvetinden kişi öldü yaklaşık kişi esir düştü avrupalı subay hayatını kaybetti si tutsak alındı yerli askerlerden ize ayakta kalan kalmadı öldüler yaralandılar ya
+      duyulan: tersidur geldini gurusunuz sesina duyarsunuz dumanana islarsunuz venereye dushyjaini bilemasunuz suvari atler bugyurul tuve duman karshesan
+  REPLACE  ...öldüler yaralandılar ya da
+      metin  : ovaya dağıldılar baillie teslim oldu ve esaretten sağ dönmedi bu yenilgi doğu hindistan şirketi nin hindistan yarımadasında aldığı en ağır darbe olarak yarım yüzyıldan fazla süreyle kayıtlarda kaldı haber madras a ulaştığında şaşkınlık kaybedilen adam sayısından çok başka şeye dairdi şirket orduları hindistan da onlarca yıldır savaşıyordu kaybetmeye de alışkındılar ama bu kez raporlarda tekrar tekrar aynı kelime geçiyordu roket londra daki ve madras taki topçu subayları roketin ne olduğunu biliyorlardı roket eski şeydi çin den beri biliniyordu avrupa da da denenmişti ve ciddiye alınmıyordu şenlik fişeği gibi şeydi havai fişek kadar gürültülü havai fişek kadar zararsız topçu subayı için roket işi ciddi olmayan oyuncaktı öyleyze pollilur da askerlerin bacaklarını koparan cephane arabalarını havaya uçuran şey neydi maysur un ellerinde ne vardı da avrupa nın elinde yoktu cevap tek malzeme değişikliğinde saklıydı roket hindistan a maysur la gelmedi hindistan da roket maysur dan çok önce biliniyor ve kullanılıyordu ban denen barut dolu fişekler yüzyıllardır savaş alanlarında görülüyor atları ürkütmek çadırları tutuşturmak düşman safında kargaşa çıkarmak için atılıyordu bunların gövdesi kağıttan deriden ya da bambudan yapılıyordu etkileri sınırlıydı ve bu sınır taktik tercihten değil fizikten geliyordu roketin gövdesi aslında basınç kabıdır i çindeki barut yanarken ortaya çıkan gaz tek yönden arkadaki delikten çıkmak zorundadır roketi ileri iten kuvvet budur gövde ne kadar yüksek basınca dayanabilirse gaz o delikten o kadar hızlı çıkar ve roket o kadar uzağa gider kağıt ya da bambu gövdenin dayanma sınırı düşüktür barutu daha hızlı yakmaya kalkarsanız gövde yanmadan önce çatlar yarılır patlar yani bambu roket uzağa gitmek istediği anda kendini yok eder hindistan ın eski ban fişeklerinin metreyle yetinmesinin nedeni budur maysur un yaptığı şey o kabı değiştirmekti maysur roketinin gövdesi dövme demirdendi yumuşak demir dövülerek yaklaşık santimeter uzunluğunda ile santimeter arasında çaplı silindir haline getiriliyor ucu kapatılıyor içine yaklaşık yarım kilo kadar barut sıkıştırılıyordu bu demir tüp yaklaşık metrelik bambu çubuğa sıkıca bağlanıyordu bambunun işlevi taşımak değil dengelemekti uçuş sırasında roketin burnunu ileri tutan kuyruk dümen görevi görüyordu demirin getirdiği fark çarpıcıydı aynı barut artık yarılmayan kabın içinde yandığı için roket metreyi rahatça buluyordu i yi hazırlanmış olanların menzili kilometreye kadar çıkıyordu bu yılının topçuluğu açısından ciddi mesafedir dönemin sahra toplarının etkili menzili bu rakamlarla aynı sınıftaydı ama top ton ağırlığında bronz kütle koşum hayvanları arabalar ve mürettebat demekti maysur roketi ize adamın koltuğunun taşıyabileceği demir parçasıydı maliyet ağırlık ve hareket kabiliyeti açısından kıyas kabul etmiyordu bu tercihin arkasında başka şey vardı güney hindistan ın demirciliği bölge yüzyıllardır yüksek kaliteli çelik üretimiyle tanınıyordu dünyanın çeşitli yerlerinde aranan o ünlü hint çeliğinin ocakları buradaydı demiri ince düzgün ve basınca dayanacak biçimde dövebilen usta sayısı fazlaydı başka coğrafyada demir gövdeli roket fikri zanaat sorununa çarpardı maysur da çarpmadı üstelik tek tip roket yoktu bazılarının gövdesine delikler açılmıştı bunlar yanarken yanlardan alev savurarak tutuşturucu olarak kullanılıyordu hedef çadır ahşap ya da samandı bazılarının bambu çubuğuna demir uçlar ya da çelik bıçaklar bağlanıyordu bu ikincisinin havadaki görüntüsünü hayal etmek insanı ürpertir hızla dönerek gelen ucunda kesici ağız taşıyan şey pollilur da toprağın üstünde sıçrayarak adamların bacaklarını parçalayan roketler büyük olasılıkla bu türdendi bu silah isabet ettiği yeri seçemiyordu ama kalabalığın içine düştüğünde seçmesine gerek de yoktu roketler maysur un başkentindeki atölyelerde seri olarak üretiliyordu bu üretimin en önemli özelliği standartlıktı gövde boyları çaplar barut dolgusu ve bambunun uzunluğu belli ölçüleer göer yapılıyordu çünkü silahın askerin elinde işe yaraması için öngörülebilir olması gerekir roketçinin bu tüpü şu açıyla fırlatırsam şu kadar uzağa düşer diyebilmesi lazımdır elde yapılmış her farklı ölçüde yığın fişekle bunu yapamazsınız i şte maysur u ayıran şey yalnızca demir tüp değildi demir tüp malzeme buluşuydu savaş aletine çeviren şey çevresinde kurulan insan düzeniydi ve bu düzeni kuran adam babasının bıraktığı yerden devralıp roketi maysur ordusunun daimi kolu haline getirecekti haydar ali nin roketle tanışıklığı ailesinden geliyordu babası başka hükümdarın hizmetinde kadar roketçinin başındaki küçük rütbe sahibiydi yani bu silah haydar ali nin çocukluğunun içinden geçmişti maysur un fiili hükümdarı olduğunda roketçileri düzenli olarak örgütledi ve bu kuvvet zamanla kişiyi buldu oğlu tipu sultan bunu adım öteye taşıdı döneminde roketçi sayısı yaklaşık e çıktı bu rakamı doğru yerde tutmak gerekir roketçi maysur ordusunun tamamı değildi ama o dönemin hiçbir ordusunda bulunmayan şeydi avrupa nın en gelişmiş ordularında roket diye ayrı sınıf yoktu bu örgütlenme kağıt üstünde de vardı tipu sultan ın askeri düzenini anlatan fethü l mücahidin adlı elkitabı ordunun her tugayına roketçi verilmesini öngörüyordu maysur un ile arasında değişen sayıda piyade tugayı vardı yani roket ihtiyaç halinde çağrılan yardımcı unsur değildi her tugayın içine teşkilat şemasının içine yerleştirilmişti bugünün diliyle söylenirse roket maysur ordusunun standart teçhizatıydı kullanım biçimi de silaha göer şekillenmişti tek roket isabet açısından güvenilmezdir ama roketçi bölüğünün aynı anda savurduğu onlarca roket alan silahına dönüşür hedef nokta değil bölgedir roketçiler kimi zaman tüpü doğrudan elde tutup fırlatıyor kimi zaman fazla tüpü aynı yöne bakacak şekilde yerleştiren arabalar kullanıyorlardı nişan almak tüpün yeer göer açısını ayarlamaktan ibaretti alçak açı ileri ve sıçrayarak giden atış yüksek açı ize uzağa düşen atış demekti asıl mesele roketin insan üzerinde bıraktığı etkiydi top sesine alışılır topun geldiği yön bellidir ateşlendiği yer görülür mermi görünmez roket ize tam tersidir geldiğini görürsünüz sesini duyarsınız dumanını izlersiniz ve nereye düşeceğini bilemezsiniz süvari atları bu gürültü ve duman karşısında kontrolden çıkıyordu süvari birliğini bozmak için binicilerini öldürmek gerekmiyor atlarını korkutmak yeterliydi karanlıkta
+      duyulan: kontrol dancik yordu suvari lene bosmakichin binijileren uldur mekyerekmyor atler korkut makyetar lide karan likta
+  REPLACE  ...karanlıkta ize etki kat
+      metin  : daha artıyordu
+      duyulan: taha artiordu
+  REPLACE  ...artıyordu bunun en somut
+      metin  : örneği maysur
+      duyulan: urneyi mysurun son savasan dayashande meysuri leshirketarasandaki hessa puzundur yedus seksanerin ilkyarasandaki savasan uch susbir barishla kapande yedus doxan laren basandaki hessa plashma ize meysuru
+  ... ve 128 fark daha
+
+metinde olup DUYULMAYAN: 2308 kelime | duyulup metinde OLMAYAN: 2181
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-01.duyulan.txt

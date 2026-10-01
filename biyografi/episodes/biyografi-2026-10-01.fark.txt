@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-01.mp3
+
+beklenen 2317 kelime | duyulan 2350 kelime | eşleşme %94.4
+sayı ifadesi: metinde 446, duyulanda 261  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...donanma
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sonra aynı donanmadan üzerinde
+      metin  : tuğamiral
+      duyulan: tuamiral
+  INSERT   ...yıllarca kimse inanmadı aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ailenin new hampshier daki
+      metin  : wolfeboro
+      duyulan: wolf february
+  REPLACE  ...alexander wilson russel amerikan
+      metin  : donanması nda tuğamirale
+      duyulan: donanmasında tuamir ale
+  REPLACE  ...nda tuğamirale kadar yükselmiş
+      metin  : i ç savaş ta mobile
+      duyulan: iç savaşta mobil
+  REPLACE  ...bizim ailenin gittiği yerdir
+      metin  : vassar koleji ne
+      duyulan: te wassar kolejine
+  INSERT   ...vassar koleji ne girdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yale üniversitesi ne geçti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ne geçti yüksek lisansını
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tez danışmanı norveçli cebirci
+      metin  : öystayn oer ydi
+      duyulan: öystein oraydı
+  REPLACE  ...ve tezin başlığı yeni
+      metin  : i ndirgenemezlik ölçütleri idi
+      duyulan: indirgenemezlik ölçütleriydi
+  INSERT   ...sırada kimse tahmin edemezdi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...evlilik savaş yıllarında dağıldı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tanıdı doktoradan sonra yıl
+      metin  : vassar
+      duyulan: wassar
+  REPLACE  ...ilk taşı aslında burada
+      metin  : vassar
+      duyulan: wassar
+  INSERT   ...boyu süreceği hayattı bu
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...aralık ayına kadar aralık
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...üzerindeydi i kincisi bedeniydi
+      metin  : meter
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...elindeki tek kozla yıktı
+      metin  : vassar koleji ne
+      duyulan: wassar kolejine
+  INSERT   ...muafiyet dilekçelerini geçti aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ne yemin etti massachusetts
+      metin  : teki
+      duyulan: taki
+  INSERT   ...eğitim gördü ve haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sınıf olarak mezun oldu
+      metin  : teğmen
+      duyulan: tayman
+  INSERT   ...hesabına çalışan hesaplama laboratuvarı
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...çalışan hesaplama laboratuvarı temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...projenin başındaki howard aiken
+      metin  : dı
+      duyulan: di
+  REPLACE  ...aktarılan hikayeye göer aiken
+      metin  : ın
+      duyulan: in
+  DELETE   ...makinelerinden yaklaşık meter uzunluğunda
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sürüyordu bugünün ölçüleriyle komik
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...kişiydi önce yalnızca richard
+      metin  : bloch
+      duyulan: block
+  REPLACE  ...ve gün laboratuvara john
+      metin  : fon noyman
+      duyulan: von neumann
+  REPLACE  ...çoğu neyin üzerinde çalıştığını
+      metin  : hiroşima
+      duyulan: hiroshima
+  INSERT   ...makineyi anlatan kitabı yazacaktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kadar önemli olduğuna inanıyordu
+      metin  : vassar koleji ndeki
+      duyulan: wassar kolejindeki
+  INSERT   ...hatayı yapan insandaydı savaş
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...şey netti yedek subaylıktan
+      metin  : muvazzaf
+      duyulan: muvazzam
+  REPLACE  ...kariyerin başlangıcı için fazlaydı
+      metin  : vassar
+      duyulan: wassar
+  REPLACE  ...laboratuvar bu sırada mark
+      metin  : ii yi
+      duyulan: icu yu
+  REPLACE  ...mark ii yi kuruyordu
+      metin  : röleyle
+      duyulan: roley ile
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 121
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: biyografi-2026-10-01.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-09-30.mp3
+
+beklenen 1561 kelime | duyulan 1554 kelime | eşleşme %93.0
+sayı ifadesi: metinde 439, duyulanda 213  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tahran ın önerisi washington
+      metin  : ın
+      duyulan: un
+  REPLACE  ...ve kuruluşa yaptırım uyguladı
+      metin  : gazze de
+      duyulan: gazete
+  REPLACE  ...sürüyor i srail ordusunun
+      metin  : cibaliya
+      duyulan: cibaliye
+  REPLACE  ...ve içeriği açıklanmayan güvenlik
+      metin  : tehdidini
+      duyulan: tehditini
+  REPLACE  ...güvenlik bakanı itamar ben
+      metin  : gvir
+      duyulan: givir
+  REPLACE  ...ziyaret netanyahu nun abu
+      metin  : dabi
+      duyulan: dhabi
+  INSERT   ...onayladığı geçici bütçe tasarısını
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...temsilciler meclisi nin sandalyesinin
+      metin  : tamamı ile
+      duyulan: tamamıyla
+  REPLACE  ...oranını ile arasında değişen
+      metin  : bantta
+      duyulan: bantla
+  REPLACE  ...gösteriyor kayıtlı demokrat seçmenlerin
+      metin  : dördü
+      duyulan: ü
+  INSERT   ...derken bu oran cumhuriyetçilerde
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da uluslararası savunma fuarı
+      metin  : adex
+      duyulan: adeks
+  REPLACE  ...dikkat çekici gelişmesi openai
+      metin  : ın
+      duyulan: nin
+  DELETE   ...sürdürüyor aynı etkinlikte gpt
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...model de duyuruldu openai
+      metin  : ile
+      duyulan: la
+  REPLACE  ...anlaşması öne çıktı anthropic
+      metin  : tennessee
+      duyulan: tenesi
+  REPLACE  ...çıktı anthropic tennessee eyaletinin
+      metin  : memphis
+      duyulan: menfis
+  REPLACE  ...tennessee eyaletinin memphis kentindeki
+      metin  : colossus
+      duyulan: kolossus
+  INSERT   ...gücünü kullanmak için mayıs
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...ödeyecek ve bu kapasiteyle
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...bulut altyapısı için akamai
+      metin  : ile
+      duyulan: yle
+  REPLACE  ...ile yıllık ve dolarlık
+      metin  : taahhüde
+      duyulan: tahüde
+  REPLACE  ...gündeminde çip tarafında amd
+      metin  : fey fey li
+      duyulan: feifeili
+  REPLACE  ...kendisini değiştirmeye gerek kalmadan
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...teknoloji şirketlerinden gönüllü güvenlik
+      metin  : taahhütleri
+      duyulan: tahütleri
+  REPLACE  ...buna karşın önde gelen
+      metin  : laboratuvarlardan
+      duyulan: laboratuarlardan
+  REPLACE  ...sert satış baskısı kaldı
+      metin  : bist
+      duyulan: bistey
+  REPLACE  ...kaldı bist endeksi puan
+      metin  : gerileyerek
+      duyulan: geriliyerek
+  REPLACE  ...en yüksek puanı gördü
+      metin  : bist
+      duyulan: bistey
+  REPLACE  ...bist düşüşle puana indi
+      metin  : sınai
+      duyulan: sınay
+  INSERT   ...değer kaybetti endeksteki hissenin
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...endeksteki hissenin düşerken yalnızca
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...lira i stanbul serbest
+      metin  : piyasasında dolar
+      duyulan: piyasası nda
+  REPLACE  ...belirsizlik şekillendiriyor kasım vadeli
+      metin  : brent
+      duyulan: brand
+  REPLACE  ...spot fiyat doların üzerinde
+      metin  : yurt dışında euro dolar
+      duyulan: yurtdışında eurd
+  DELETE   ...dışında euro dolar paritesi
+      metin  : dolar yen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yana ilk kez politika
+      metin  : faizini oybirliğiyle
+      duyulan: faizin oy birliğiyle
+  REPLACE  ...piyasa fiyatlaması ekim toplantısında
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...toplantısında baz puanlık yeni
+      metin  : artırıma
+      duyulan: artırma nin
+  REPLACE  ...yeni parti yi kurdu
+      metin  : temyiz
+      duyulan: temmuz
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: gundem-2026-09-30.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-01.mp3
+
+beklenen 1654 kelime | duyulan 1679 kelime | eşleşme %91.0
+sayı ifadesi: metinde 301, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dağları nın kuzey eteğinde
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...zenginleşmiş tozlu kasaba vardı
+      metin  : drohobiç
+      duyulan: drohobyc
+  REPLACE  ...kasaba vardı drohobiç yani
+      metin  : drohobiç
+      duyulan: drohobyc
+  INSERT   ...ukraynalılar aynı sokakları paylaşıyordu
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...aynı sokakları paylaşıyordu temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kenarındaki kumaş dükkanının sahibi
+      metin  : yakub şulz
+      duyulan: yakup schulz
+  REPLACE  ...adını bruno koydular bruno
+      metin  : şulz
+      duyulan: schulz
+  REPLACE  ...kaldı kasabanın lisesini bitirdi
+      metin  : lvuf
+      duyulan: lviv
+  INSERT   ...te mimarlık okumaya başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl sonra geri döndü
+      metin  : süer de
+      duyulan: sürede
+  INSERT   ...olarak kaldı babasının hastalanıp
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ardından eniştesinin de ölmesiyle
+      metin  : şulz
+      duyulan: schulz
+  INSERT   ...adam para kazanması gerekiyordu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...dersleri verdi bu işi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...gürültüsü dayanılmaz hale geldiğinde
+      metin  : şulz
+      duyulan: schulz
+  REPLACE  ...de dolambaçlı yoldan geldi
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...çoğalttığı dizi baskı hazırlamıştı
+      metin  : ksienga bavohfalça
+      duyulan: bau of falça
+  REPLACE  ...mektup yığınının içinden girdi
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...doktoralı şair ve yazar
+      metin  : debora
+      duyulan: deborah
+  REPLACE  ...ve yazar debora vogel
+      metin  : le
+      duyulan: ile
+  REPLACE  ...bunlar mektup değil hikayeydi
+      metin  : şulz
+      duyulan: schultz
+  REPLACE  ...nın en tanınmış yazarlarından
+      metin  : zofya naukofska
+      duyulan: zofia naukovska
+  REPLACE  ...ya ulaştığında işler hızlandı
+      metin  : naukofska
+      duyulan: naukovska
+  INSERT   ...verdiği anlatılır kitap aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aralık basıldı üzerine yazıldı
+      metin  : sklepi tsinamonove
+      duyulan: sklepid sinemonova
+  REPLACE  ...ve son kitabı geldi
+      metin  : sanatoryum pod klepsidrom
+      duyulan: sanatorium podklepsidrom
+  REPLACE  ...klepsidrom yani kum saati
+      metin  : sanatoryumu
+      duyulan: sanatoriumu
+  REPLACE  ...söylemek kolay değildir çünkü
+      metin  : şulz
+      duyulan: schultz
+  REPLACE  ...kötü basılmış haritanın beyaz
+      metin  : lekesi
+      duyulan: dekesi
+  REPLACE  ...bu metafizik kabarmayı söndürür
+      metin  : şulz
+      duyulan: schultz
+  INSERT   ...çevresi bunu fark etti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...döndü bu arada nişanlısı
+      metin  : yuzefina şelinska
+      duyulan: józefina schelinska
+  REPLACE  ...yuzefina şelinska ile birlikte
+      metin  : franz
+      duyulan: frans
+  INSERT   ...sını lehçeye çevirmişti kitap
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çevirmişti kitap çevirmen olarak
+      metin  : şulz
+      duyulan: schultz
+  REPLACE  ...çıktı çeviriyi asıl yapan
+      metin  : şelinska ydı şulz
+      duyulan: schelinskaydı schultz
+  REPLACE  ...nişan yıl sonra bozuldu
+      metin  : şulz
+      duyulan: schultz
+  REPLACE  ...fikriyle geldi eylül ünde
+      metin  : drohobice
+      duyulan: drohobych e
+  REPLACE  ...drohobice önce sovyetler girdi
+      metin  : şulz
+      duyulan: schultz
+  INSERT   ...ki yıl sonra haziran
+      metin  : (yok)
+      duyulan: de
+  ... ve 74 fark daha
+
+metinde olup DUYULMAYAN: 114 kelime | duyulup metinde OLMAYAN: 144
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: edebiyat-2026-10-01.duyulan.txt
