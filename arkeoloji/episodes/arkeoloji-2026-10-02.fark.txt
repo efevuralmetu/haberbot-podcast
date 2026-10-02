@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-02.mp3
+
+beklenen 2558 kelime | duyulan 2578 kelime | eşleşme %94.7
+sayı ifadesi: metinde 386, duyulanda 269  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bölgeyi gören dilbilimci archibald
+      metin  : sayce
+      duyulan: syce
+  REPLACE  ...söylemişti benzetme eskidi ama
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...yağmur mevsiminde dolup taşan
+      metin  : atbara ile
+      duyulan: atparayla
+  REPLACE  ...otlar çıkar sürüler beslenir
+      metin  : kushlular
+      duyulan: kuşlular
+  REPLACE  ...ticaret yollarını elinde tutuyordu
+      metin  : kush un
+      duyulan: kuşun
+  REPLACE  ...olurdu bu duvar ayrım
+      metin  : çizgisi
+      duyulan: çizgi
+  REPLACE  ...çeride kalanların en görkemlisi
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...büyük tapınağı olan amon
+      metin  : tapınağıydı
+      duyulan: tapınağı idi
+  INSERT   ...hamamları dediği yapı var
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...listesi akdeniz kaynaklarından biliniyor
+      metin  : fildişi abanoz
+      duyulan: fil dişi abanos
+  REPLACE  ...tuz egzotik hayvanlar ve
+      metin  : kürkler
+      duyulan: kürtler
+  REPLACE  ...mısır el değiştirdi ve
+      metin  : kush un
+      duyulan: kuşun
+  REPLACE  ...eş değil tek başına
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...anlatıyı yazan coğrafyacı strabon
+      metin  : kushluların
+      duyulan: kuşluların
+  REPLACE  ...almıştı güney sınırı boşaldı
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...adası nı ve kutsal
+      metin  : filae
+      duyulan: filaye
+  REPLACE  ...ve kutsal filae yani
+      metin  : file
+      duyulan: fil
+  REPLACE  ...ve orada dikili duran
+      metin  : augustus
+      duyulan: agustus
+  REPLACE  ...karşılığı gecikmedi yeni vali
+      metin  : gaius
+      duyulan: gallus
+  REPLACE  ...ve atlı vardı karşısındaki
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...gücü kişiydi aynı kaynak
+      metin  : kushluların
+      duyulan: kuşluların
+  REPLACE  ...sayı üstünlüğü işe yaramadı
+      metin  : lejyonun
+      duyulan: legion un
+  REPLACE  ...yaramadı lejyonun disiplini karşısında
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...ı geri aldı sınırı
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...de şeher girdi ve
+      metin  : kush un
+      duyulan: kuşun
+  REPLACE  ...premnis i yani bugün
+      metin  : kasr i brim
+      duyulan: cas ibrim
+  REPLACE  ...asker bıraktı yıl sonra
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...kendisi yetişti i ki
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...hattını her seferinde boğuyordu
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...seferinde boğuyordu kush ize
+      metin  : lejyonu
+      duyulan: legionu
+  REPLACE  ...önce ya da yılında
+      metin  : kush
+      duyulan: kuş
+  REPLACE  ...tarafın şartları gibi görünmez
+      metin  : kush tan
+      duyulan: kuştan
+  REPLACE  ...asvan ın epey altındaki
+      metin  : hiyeer sikaminos a
+      duyulan: hieresicaminosa
+  REPLACE  ...bu seferi anar ama
+      metin  : kush u
+      duyulan: kuşu
+  INSERT   ...in bu bölümünde yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...i ngiliz arkeolog john
+      metin  : garstang
+      duyulan: garstank
+  REPLACE  ...yabancı esirler bu zafer
+      metin  : tapınağıydı
+      duyulan: tapınaydı
+  DELETE   ...kesesinin içinde şeye rastladılar
+      metin  : bronz
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gerçek insan ölçüsünden büyük
+      metin  : santimeter
+      duyulan: cm
+  ... ve 62 fark daha
+
+metinde olup DUYULMAYAN: 100 kelime | duyulup metinde OLMAYAN: 117
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: arkeoloji-2026-10-02.duyulan.txt

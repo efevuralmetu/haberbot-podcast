@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-02.mp3
+
+beklenen 2017 kelime | duyulan 2036 kelime | eşleşme %94.3
+sayı ifadesi: metinde 322, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...güneş doğmadan saat önce
+      metin  : pasifiğin
+      duyulan: pasifi nin
+  REPLACE  ...ın güneydoğu açıklarında anakaradan
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kadar uzakta duran bu
+      metin  : kilometrekarelik
+      duyulan: lik
+  REPLACE  ...kilometrekarelik kara parçasına tayvanlılar
+      metin  : lanyü
+      duyulan: lanyu
+  INSERT   ...orkide adası diyor ad
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yami dendi bu adı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adada çalışan japon araştırmacı
+      metin  : torii ruyzo
+      duyulan: tori ruizzo
+  INSERT   ...sayısı ize son sayımlarda
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ize son sayımlarda yakın
+      metin  : coğrafyaya
+      duyulan: koğrafyaya
+  REPLACE  ...halkası yani jeolojik olarak
+      metin  : filipinler e
+      duyulan: filipinleer
+  REPLACE  ...çağırma erkekler sahile tekneler
+      metin  : pruvaları
+      duyulan: provaları
+  REPLACE  ...başlıklar bazı köylerde gümüş
+      metin  : miğferler
+      duyulan: mirferler
+  REPLACE  ...serin olanı yerin çalışmayı
+      metin  : yükseğe
+      duyulan: yükseye
+  REPLACE  ...bu evlerin çoğu durmuyor
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...çoğu durmuyor altmışların sonundan
+      metin  : (yok)
+      duyulan: leer
+  DELETE   ...küçüğü ya da kişilik
+      metin  : büyüğü ile
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mürettebat alan gece avında
+      metin  : meşaleyle
+      duyulan: meşale ile
+  REPLACE  ...yok tahtalar ahşap takozlarla
+      metin  : kavelalarla
+      duyulan: kahvelalarla
+  DELETE   ...başka ağaç türü seçilir
+      metin  : omurgaya giden ağaçla bordaya giden ağaç aynı değildir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olanı desenler rastgele değil
+      metin  : pruva ile
+      duyulan: pruvayla
+  INSERT   ...hiçbir şey sınırsız değil
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ejder kapısı anlamına gelen
+      metin  : lungmen
+      duyulan: lungben
+  REPLACE  ...lungmen adlı koy var
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...tayvan hükümeti nükleer santrallerinin
+      metin  : düşük radyoaktiviteli
+      duyulan: adeteli
+  INSERT   ...bu koyu seçti saha
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...seçti saha belirlendi proje
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...saha belirlendi proje onaylandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...koya liman inşa edildi
+      metin  : tesis
+      duyulan: teessis de
+  INSERT   ...edildi tesis tamamlandı mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...o yıllarda kendilerine ne
+      metin  : söylendiği ivalino dan yaşlıların
+      duyulan: söylendi adanın
+  INSERT   ...bölümü çince bilmiyordu ada
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...fabrikası ifadesinin geçmediğini belgelerde
+      metin  : tesisin
+      duyulan: teessisin
+  REPLACE  ...alındığına dair kayıt yok
+      metin  : tesis
+      duyulan: teessis
+  INSERT   ...toplam kapasite varil kabul
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kabul başladı ve şubat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...değiştirdi bugünkü resmi sayı
+      metin  : (yok)
+      duyulan: bu sayı
+  INSERT   ...nun ne depoladığını öğrenmesi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yürütülen aydınlatma çalışmaları adadaki
+      metin  : tesisin
+      duyulan: teessisin
+  INSERT   ...fabrikası olmadığını anlattı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...seviyoruz nükleer atık istemiyoruz
+      metin  : doksanlarda
+      duyulan: larda hareket büyüdü ve devletin arasındaki hizmetler hizmetler hizmetler hizmetler larda
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: seyahat-2026-10-02.duyulan.txt

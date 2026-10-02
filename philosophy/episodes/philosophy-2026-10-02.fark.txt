@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-02.mp3
+
+beklenen 3572 kelime | duyulan 3492 kelime | eşleşme %96.3
+sayı ifadesi: metinde 140, duyulanda 113  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...to keep you honest
+      metin  : bu kanal çeviri kanalı içerik üretilmiyor aynı günün felsefe bölümü i ngilizceye çevriliyor bugünün kaynağı felsefe txt ve çevirisi philosophy txt olarak te zaten üretilmiş aşağıdaki metin odur kaynağa sadık işaret satırları korunmuş sayılar yazıyla tek düzeltme kaynakta var olup çeviride düşmüş boş satırı yerine koydum paragraf arası
+      duyulan: this is a sentence you say at in the morning when nothing can be changed if you cal it conscience but what if it is a way of hurting yourself for a past that no longer exists and if you cal it conscience but what if it is a way of hurting yourself for a past that no longer exists if
+  REPLACE  ...persian the original is
+      metin  : kaşki
+      duyulan: kashqiy
+  REPLACE  ...sigh comes out as
+      metin  : ya leyte
+      duyulan: yalayt
+  REPLACE  ...heer thomas gilovich victoria
+      metin  : medvec
+      duyulan: medvek
+  REPLACE  ...victoria medvec and scott
+      metin  : madey
+      duyulan: matey
+  DELETE   ...lose the same amount
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...pictuer when gilovich and
+      metin  : medvec
+      duyulan: medvek
+  REPLACE  ...the pen name victor
+      metin  : eremita
+      duyulan: aramita
+  INSERT   ...eller that is either
+      metin  : (yok)
+      duyulan: slash
+  REPLACE  ...or its author is
+      metin  : søren
+      duyulan: cern
+  REPLACE  ...author is søren kierkegaard
+      metin  : among
+      duyulan: during
+  REPLACE  ...modern person s spine
+      metin  : marry
+      duyulan: mary
+  REPLACE  ...machine the thing susan
+      metin  : nolen
+      duyulan: nolan
+  REPLACE  ...the part of die
+      metin  : fröhliche
+      duyulan: freliche
+  INSERT   ...not arize from reason
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...being it is a
+      metin  : brake
+      duyulan: break
+  REPLACE  ...lands the century thinker
+      metin  : i brahim hakkı
+      duyulan: ibrahim hakku
+  REPLACE  ...erzurum known for his
+      metin  : marifetname
+      duyulan: marifetnam
+  REPLACE  ...poem known as the
+      metin  : tefvizname
+      duyulan: tevisnam
+  REPLACE  ...recited from memory today
+      metin  : tefviz
+      duyulan: tevis
+  REPLACE  ...ghazali in his work
+      metin  : i hyau ulumi d din
+      duyulan: ihiwol umidin
+  REPLACE  ...a pointless malfunction either
+      metin  : neal roese
+      duyulan: neil rose
+  REPLACE  ...reveals that regret s
+      metin  : cruellest
+      duyulan: cruelest
+  REPLACE  ...time runs in direction
+      metin  : repentance
+      duyulan: acceptance
+  DELETE   ...in a new story
+      metin  : metni yazmadım philosophy txt olduğu gibi duruyor i stersen boş satır düzeltmesini da işleyebilirim i ki şey dikkatini çekebilir history txt ve science txt dosyalarının kapanış satırları çevrilmemiş türkçe kalmış nöron history de bugünkü bölümün sonuna geldik ceviri uret py içindeki türkçe sızıntı denetimi bu kısa satırı yakalayamıyor çünkü eşiği işlev kelimesi geçmiyor ayrıca kapanışta kanal adı philosophy txt de neuron philosophy olarak çevrilmiş oysa yayınlanan kanal başlığı nöron philosophy i kisi de istersen ayrı işte düzeltilir nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 166 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-10-02.duyulan.txt

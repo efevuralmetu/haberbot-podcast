@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-02.mp3
+
+beklenen 2146 kelime | duyulan 2177 kelime | eşleşme %93.9
+sayı ifadesi: metinde 325, duyulanda 209  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...dünyanın
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...dünyanın suyun altındaydı ve
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...tomarları üzerine eğilmiş kadındı
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...tek kelimeydi kız lafı
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...katlanmış kağıt tomarları taşınıyordu
+      metin  : direksiyondaki
+      duyulan: direksyondaki
+  REPLACE  ...direksiyondaki adam william edgar
+      metin  : tharp
+      duyulan: tarpe
+  REPLACE  ...rengine bakar sonra o
+      metin  : toprağın
+      duyulan: toprağı
+  REPLACE  ...uzun yıllar boyunca izledi
+      metin  : mari tharp
+      duyulan: marie tarpe
+  INSERT   ...izledi mari tharp temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...psilanti kasabasında doğdu annesi
+      metin  : bertha
+      duyulan: berta
+  REPLACE  ...bertha louize almanca ve
+      metin  : latince
+      duyulan: latinca
+  REPLACE  ...yerde yıldan fazla kalmıyordu
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...washington da kendi sayımıyla
+      metin  : dörde
+      duyulan: e
+  INSERT   ...daha çocukken gördü babası
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kasabasında çiftliğe yerleşti ve
+      metin  : mari
+      duyulan: marie
+  INSERT   ...derslerin arasında gezindi ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sanayisi ize jeolog arıyordu
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...çok mecburiyet ilanıydı bu
+      metin  : mari
+      duyulan: marie
+  INSERT   ...bu mari tereddüt etmedi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...oklahoma nın tulsa şehrine
+      metin  : stanolind
+      duyulan: stanolynt
+  REPLACE  ...kayayı eliyle tutmak yoktu
+      metin  : mari
+      duyulan: marie
+  INSERT   ...matematik dersleri aldı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geological observatory yani lamont
+      metin  : jeoloji
+      duyulan: geology
+  REPLACE  ...dönemin en hırslı yerbilimcilerinden
+      metin  : moris
+      duyulan: maurice
+  REPLACE  ...bildiğinden daha azını biliyordu
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...gözlemevi nin kapısını çaldığında
+      metin  : jeoloji
+      duyulan: geoloji
+  REPLACE  ...doktora öğrencisiyle tanıştı bruce
+      metin  : heezen
+      duyulan: heason
+  REPLACE  ...kağıt şeritleer yazıyordu gemi
+      metin  : atlantiği
+      duyulan: atlantı yı
+  REPLACE  ...sayılar lamont a geliyor
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...mari nin masasına yığılıyordu
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...bilmeyen sayı sütunlarını ölçekli
+      metin  : merkator
+      duyulan: mercator
+  REPLACE  ...buzdolabının kapağı açıldığında elektrik
+      metin  : dalgalanıyor
+      duyulan: salgalanıyor
+  REPLACE  ...sayıda enine geçiş yalnız
+      metin  : elin
+      duyulan: elim
+  REPLACE  ...işin şu yanı vardı
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...düzeninin bozulacağı kaygısı ayrı
+      metin  : kamara
+      duyulan: kamera
+  INSERT   ...tekti lamont a girdiği
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...rüzgarı geminin sallanması tayfanın
+      metin  : bağırışı
+      duyulan: bağrışı
+  REPLACE  ...seferinde kendi geçen şeridi
+      metin  : mari
+      duyulan: marie
+  REPLACE  ...birikiyordu gemiye binemediği için
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...henüz bakmadığı şey duruyordu
+      metin  : mari
+      duyulan: de marie
+  ... ve 68 fark daha
+
+metinde olup DUYULMAYAN: 94 kelime | duyulup metinde OLMAYAN: 129
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: biyografi-2026-10-02.duyulan.txt

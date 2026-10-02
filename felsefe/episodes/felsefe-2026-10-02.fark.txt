@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-02.mp3
+
+beklenen 2082 kelime | duyulan 2078 kelime | eşleşme %96.4
+sayı ifadesi: metinde 208, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...olduğunu konuşuyoruz gece saat
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...türkçeye farsçadan aldık aslı
+      metin  : kaşki
+      duyulan: keşki
+  REPLACE  ...victoria medvec ve scott
+      metin  : madey barselona olimpiyatları nın
+      duyulan: maddy barcelona olimpiyatlarının
+  REPLACE  ...sporcuların madalya anındaki ve
+      metin  : podyumdaki
+      duyulan: podiumdaki
+  REPLACE  ...gümüş daha iyidir ama
+      metin  : gümüşçünün
+      duyulan: gümüşcüğünün
+  REPLACE  ...zihninde oynayan film neredeyze
+      metin  : dir bronzcunun
+      duyulan: idimdir bronz cunun
+  REPLACE  ...bu tabloyu tersine çeviriyor
+      metin  : gilovich
+      duyulan: gilovic
+  REPLACE  ...mıydın yılında kopenhag da
+      metin  : victor
+      duyulan: viktor
+  REPLACE  ...ya ya da yazarı
+      metin  : sören kirkegor
+      duyulan: söyleyen kierkegor
+  REPLACE  ...olanın reklam afişiyle karşılaştırırız
+      metin  : modernlik
+      duyulan: modernik
+  REPLACE  ...varmayınca makineye dönüşüyor susan
+      metin  : nolen hoeksema nın
+      duyulan: nolan hoekseman ın
+  REPLACE  ...lokmayı çıkarıp çıkarıp çiğnemek
+      metin  : nolen hoeksema nın
+      duyulan: nolan hoekseman ın
+  DELETE   ...biçimi sandıkları için yapar
+      metin  : oysa
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...demenin yolu var mı
+      metin  : niçe di frölihe visenşaft
+      duyulan: de nietzsche diffrolie wissenschaft
+  REPLACE  ...daha isterim diyebilir misin
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...yıl sonra böyle buyurdu
+      metin  : zerdüşt
+      duyulan: zerdüş
+  REPLACE  ...teknik arayan söyleyeceği şey
+      metin  : niçe den
+      duyulan: nietzcheden
+  INSERT   ...spinoza nın ölümünden sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...de kendi kırbacına yeniliyorsun
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...i brahim hakkı nın
+      metin  : tefvizname
+      duyulan: tevvizname
+  REPLACE  ...bugün hala ezbeer okunuyor
+      metin  : tefviz
+      duyulan: tevviz
+  REPLACE  ...neyler neylerse güzel eyler
+      metin  : fiiller
+      duyulan: fiyiller
+  REPLACE  ...elini bağlamaz olmuşa rıza
+      metin  : olacağa
+      duyulan: olacağı
+  REPLACE  ...ayrımı kaybettiğin anda amor
+      metin  : fati
+      duyulan: fatih
+  REPLACE  ...demeye hakkı yoktur amor
+      metin  : fati
+      duyulan: fatih
+  REPLACE  ...söyler gibidir ama gazali
+      metin  : i hyau ulumi d
+      duyulan: ihya ulumidi
+  REPLACE  ...ve kesin yasak durur
+      metin  : müslim in
+      duyulan: müslüman
+  REPLACE  ...pişmanlığı gereksiz arıza saymıyor
+      metin  : neal roese nin
+      duyulan: neil rosen
+  REPLACE  ...avustralyalı bakım hemşiresi olan
+      metin  : bronnie
+      duyulan: brony
+  REPLACE  ...bu pişmanlığın en zalim
+      metin  : özelliğiyle
+      duyulan: özelliği ile
+  REPLACE  ...tek yönlü olduğunu hatırlatır
+      metin  : tevbe
+      duyulan: tv
+  REPLACE  ...keşke listesinden satırı siler
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: felsefe-2026-10-02.duyulan.txt

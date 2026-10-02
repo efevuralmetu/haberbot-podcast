@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-02.mp3
+
+beklenen 1669 kelime | duyulan 1685 kelime | eşleşme %95.8
+sayı ifadesi: metinde 234, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yazdı farkında bile değillerdi
+      metin  : dundee
+      duyulan: dunday
+  DELETE   ...dundee i skoçya nın
+      metin  : kuzeydoğusunda
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...skoçya nın kuzeydoğusunda kuzey
+      metin  : denizi ne
+      duyulan: doğusunda kuzey denizine
+  REPLACE  ...kaybetmiş orta boy şehir
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...boy şehir seksenlerde buradaki
+      metin  : timex
+      duyulan: t max
+  REPLACE  ...jones olan mühendislik öğrencisiydi
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...dma design kısaca dma
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kurtarma oyunu lemmings yani
+      metin  : lemingler
+      duyulan: lemminkler
+  REPLACE  ...milyonlarca kopya sattı ve
+      metin  : dundee yi
+      duyulan: dunday ı
+  REPLACE  ...başarının kendisinden daha öğreticidir
+      metin  : lemingler in
+      duyulan: lemminklerin
+  REPLACE  ...arasında david jones mike
+      metin  : dailly
+      duyulan: daly
+  REPLACE  ...keith hamilton robert parsons
+      metin  : stewart
+      duyulan: stuart
+  REPLACE  ...vardı konuştukları şey mike
+      metin  : dailly
+      duyulan: daly
+  REPLACE  ...ve projenin adı race
+      metin  : n
+      duyulan: and
+  INSERT   ...olarak görüyordu geliştirme nisan
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...projenin dibe vurması gerekti
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...dibe vurması gerekti sonundan
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...sistemi dahi kurulmadığını hatırlıyor
+      metin  : bmg
+      duyulan: bmc
+  REPLACE  ...bmg interactive yani kısaca
+      metin  : bmg
+      duyulan: bmc
+  REPLACE  ...yeer gitmiyor gibi görünüyordu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...hiçbir oyunun veremediği histi
+      metin  : gary penn
+      duyulan: garipen
+  REPLACE  ...atari salonu dinamiği geldi
+      metin  : puan
+      duyulan: poan
+  INSERT   ...kazandıran skor oyununa döndü
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...yazıyor yandan grafikleri bitlik
+      metin  : renk derinliğine
+      duyulan: renklerinliğine
+  REPLACE  ...ve miami den esinlenen
+      metin  : vice
+      duyulan: liberty
+  INSERT   ...karakter sayısı bilgisayar sürümünde
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kişi colin anderson craig
+      metin  : conner
+      duyulan: connor
+  DELETE   ...çıktı her istasyon kendi
+      metin  : türünü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oyunun ana teması da
+      metin  : shootaz
+      duyulan: shu taz
+  INSERT   ...anacağım oyun hazırdı ama
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...bulduğu çözüm oyun endüstrisinin
+      metin  : pazarlama
+      duyulan: aralama
+  REPLACE  ...anlatıldı yoldan geçen masum
+      metin  : insanların
+      duyulan: oyunların
+  INSERT   ...ve haberler büyüdü mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...büyüdü mayıs konu lordlar
+      metin  : kamarası na
+      duyulan: kamerasına
+  REPLACE  ...ve bedava geldi fırtınanın
+      metin  : ortasında
+      duyulan: aslında
+  REPLACE  ...ve basın sorumlularından brian
+      metin  : baglow
+      duyulan: bugglow
+  REPLACE  ...i ngiliz pazar gazetesi
+      metin  : baglow
+      duyulan: bugglow
+  REPLACE  ...polis takibi hikayesine dönüştürüp
+      metin  : manşete
+      duyulan: çete
+  REPLACE  ...kolu halinde ilerleyen haer
+      metin  : krişna
+      duyulan: krishna
+  REPLACE  ...ekranda bonus yazısı çıkıyordu
+      metin  : gouranga
+      duyulan: guranga
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-10-02.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-02.mp3
+
+beklenen 2429 kelime | duyulan 2445 kelime | eşleşme %94.1
+sayı ifadesi: metinde 367, duyulanda 231  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : şogunun
+      duyulan: shogun un
+  REPLACE  ...şogunun ordusu kaleye giremiyordu
+      metin  : içeride
+      duyulan: içerde
+  DELETE   ...isteyen hollandalılar topa tuttu
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çarptı japonya nın güneybatısında
+      metin  : kyuşu
+      duyulan: kyushu
+  REPLACE  ...kurulmuş yarımada vardır adı
+      metin  : şimabara
+      duyulan: shimabara
+  INSERT   ...her şey ters döndü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sürgüne gönderdi kiliseleri yıktırdı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yerine gelen adam matsukura
+      metin  : şigemasa ydı şigemasa
+      duyulan: shigemasa idi shigemasa
+  REPLACE  ...için orta halli gelirdi
+      metin  : şigemasa
+      duyulan: shigemasa
+  INSERT   ...halli adam olmak istemiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yağmurluk dansı adı verilmişti
+      metin  : ödeyemeyenlerin
+      duyulan: ötte değemeyenlerin
+  REPLACE  ...ortasında buzlu suya sokulurdu
+      metin  : vergi ile
+      duyulan: vergiyle
+  INSERT   ...elde birleşti matsukura ailesi
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...birleşti matsukura ailesi itibaren
+      metin  : hıristiyanlığı
+      duyulan: hristiyanlığı
+  REPLACE  ...bazıları diri diri yakıldı
+      metin  : şigemasa
+      duyulan: shigemasa
+  REPLACE  ...şigemasa bununla da yetinmedi
+      metin  : hıristiyanlığın
+      duyulan: hristiyanlığın
+  REPLACE  ...istedi sefer hiç gerçekleşmedi
+      metin  : şigemasa
+      duyulan: shigemasa da
+  REPLACE  ...öldü yerine oğlu matsukura
+      metin  : katsuie
+      duyulan: katsui ye
+  REPLACE  ...bu arada yarımadanın kuzeyindeki
+      metin  : nagasaki
+      duyulan: nagazaki
+  INSERT   ...de yeni uygulama başlamıştı
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...geçilirdi basan temize çıkar
+      metin  : duraksayan
+      duyulan: duraksiyen
+  REPLACE  ...başlangıcıydı sonra kıtlık geldi
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...yaşanan kötü hasatlar hem
+      metin  : şimabara
+      duyulan: shimabara
+  REPLACE  ...arima köyünde bölge tahsildarı
+      metin  : hayaşi
+      duyulan: hayashi
+  REPLACE  ...kişi yaşındaydı adı masuda
+      metin  : şiro tokisada ydı
+      duyulan: shiro tokisa daydı
+  REPLACE  ...ydı ama tarihe amakusa
+      metin  : şiro
+      duyulan: shiro
+  REPLACE  ...babası masuda jinbei vaktiyle
+      metin  : hıristiyan
+      duyulan: hristiyan
+  REPLACE  ...çevrede büyütmüştü çocuk vaftizde
+      metin  : jerom
+      duyulan: jerome
+  INSERT   ...sonra ülkeye gencin çıkacağını
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yoktu buna karşılık şogunluğun
+      metin  : kyuşu
+      duyulan: kiyuşu
+  REPLACE  ...harabe duruyordu adı hara
+      metin  : kalesi ydi
+      duyulan: kalesiydi da
+  INSERT   ...doğruluyor ama arima ailesi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hesap kötüydü kişi için
+      metin  : stokları
+      duyulan: sıtokları
+  REPLACE  ...alınmıştı edo daki yönetim
+      metin  : kyuşu
+      duyulan: kyushu
+  REPLACE  ...ayaklanmayı bastırma işinin başına
+      metin  : i takura şigemasa
+      duyulan: itakura shigemasa
+  INSERT   ...kampıyla kaplandı kuşatma ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuşatma ocak resmen başladı
+      metin  : i takura şigemasa
+      duyulan: itakura shigemasa
+  REPLACE  ...kurmuşlardı tepeye tırmanan kuvvetler
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...i takura nın yerine
+      metin  : matsudaira nobutsuna
+      duyulan: masudayra nobutsu na
+  REPLACE  ...gözetleme kuleleri diktirdi surların
+      metin  : lağım
+      duyulan: lahım
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 99
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: tarih-2026-10-02.duyulan.txt

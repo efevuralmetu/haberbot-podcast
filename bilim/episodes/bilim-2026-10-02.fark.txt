@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-02.mp3
+
+beklenen 1738 kelime | duyulan 1743 kelime | eşleşme %97.6
+sayı ifadesi: metinde 194, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...bu küçük mutfak hilesi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...inatçı bilimsel tartışmalarından başlattı
+      metin  : gösteriyi
+      duyulan: göstereği
+  INSERT   ...birbirine yapışmasını ilk kez
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nasıl davrandığını bilmiyordu tek
+      metin  : dayanağı
+      duyulan: dayanağa
+  REPLACE  ...buzun kayganlığı o kadar
+      metin  : güvenilirdir
+      duyulan: güvenilir
+  REPLACE  ...kurmuştur paten kızak kayak
+      metin  : kaymak
+      duyulan: kayak
+  REPLACE  ...yani sonradan lord kelvin
+      metin  : unvanını
+      duyulan: ünvanını
+  INSERT   ...ölçeğinin kurucusudur james thomson
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hesabı deneyle doğruladı thomson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...donduğunda buz dibe çökmez
+      metin  : üstte
+      duyulan: üste
+  INSERT   ...ilkeyi patenciye uygulama fikri
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...patenciye uygulama fikri john
+      metin  : joly
+      duyulan: jolie
+  REPLACE  ...joly adlı araştırmacıdan geldi
+      metin  : joly
+      duyulan: jolie
+  REPLACE  ...yürütmesi son derece ikna
+      metin  : ediciydi
+      duyulan: edecekti
+  REPLACE  ...alan büyük basınç demektir
+      metin  : joly
+      duyulan: jolie
+  INSERT   ...filmine de gerek bırakmıyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...böyle açıklanırdı nitekim james
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...açıklaması ortalığı süpürdü çöküş
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...araştırmacı sürtünme fiziğiyle uğraşırken
+      metin  : joly
+      duyulan: jolie
+  REPLACE  ...dereceye iner her de
+      metin  : joly
+      duyulan: jolie
+  REPLACE  ...basınç değil sürtünmenin kendisidir
+      metin  : kayan cisim
+      duyulan: kayancıs in
+  REPLACE  ...az sürtünme olmalıdır laboratuvarda
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...üzerinde kaymıyorken de kaygandır
+      metin  : i ki
+      duyulan: yıla
+  REPLACE  ...devreye girdi atomik kuvvet
+      metin  : mikroskobuyla
+      duyulan: mikroskopuyla
+  REPLACE  ...akmakta zorlanır böyle tabakanın
+      metin  : patencinin
+      duyulan: patincinin
+  REPLACE  ...sürtünmeyi neredeyze indirmesi beklenmez
+      metin  : maynts
+      duyulan: de mind
+  REPLACE  ...su gölcüğü değil minik
+      metin  : bilyeler
+      duyulan: bilgeler
+  INSERT   ...kayan hale geliyor ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tabakanın kalınlığı kayılan yolun
+      metin  : kareköküyle
+      duyulan: kaer köküyle
+  REPLACE  ...olgunun anlatımı olabileceği görüşünde
+      metin  : saarland
+      duyulan: sarlant
+  REPLACE  ...mekanizma olduğunda ısrar ediyor
+      metin  : ihtimal de
+      duyulan: ihtimalle
+  INSERT   ...bastırdığından bu yana neredeyze
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...aradan termodinamik kuantum mekaniği
+      metin  : atom
+      duyulan: atomaltı
+  REPLACE  ...inanılması zor olan şeydi
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: bilim-2026-10-02.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-02.mp3
+
+beklenen 1751 kelime | duyulan 1708 kelime | eşleşme %91.0
+sayı ifadesi: metinde 187, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tehlikeli silahı sayılıyordu padişah
+      metin  : hicvi
+      duyulan: hiç vi
+  REPLACE  ...pasinler sancak beyiydi babası
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...bugün sarıkamış yakınlarında kalan
+      metin  : mıcıngerd
+      duyulan: mıcıngert
+  REPLACE  ...aitti kağıt üzerinde çünkü
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...para ne haber gönderdi
+      metin  : ömer
+      duyulan: öner
+  INSERT   ...adam bana baba değil
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...şiirde kullandığı imza adı
+      metin  : darri
+      duyulan: dari
+  REPLACE  ...imza adı darri idi
+      metin  : darri
+      duyulan: dari
+  REPLACE  ...uygun bulacağı seçim derken
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...vermek değil fayda vermektir
+      metin  : darri
+      duyulan: dari
+  REPLACE  ...faydalı yazmışlar ve o
+      metin  : ad
+      duyulan: at
+  REPLACE  ...hakaretlerin imza olarak düşülecekti
+      metin  : nef i ahmed
+      duyulan: nefi ahmet
+  REPLACE  ...geçirdi ve padişah gördü
+      metin  : ahmed
+      duyulan: ahmet
+  DELETE   ...padişah gördü ahmed mustafa
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i kinci osman ve
+      metin  : murad
+      duyulan: murat
+  REPLACE  ...ı hümayun da maden
+      metin  : mukātaacılığı
+      duyulan: mukatacılığı
+  REPLACE  ...da maden mukātaacılığı yaptı
+      metin  : mukātaa
+      duyulan: mukata
+  REPLACE  ...bulundu i stanbul da
+      metin  : cizye
+      duyulan: ciziye
+  REPLACE  ...buna de fahriye kendini
+      metin  : öğme
+      duyulan: övme
+  REPLACE  ...kağıttan okumaya başladığı anlatılır
+      metin  : esdi nesim i nevbahar
+      duyulan: esti nesimine bahar
+  REPLACE  ...i nevbahar açıldı güller
+      metin  : subh dem
+      duyulan: süptem
+  REPLACE  ...döndüğünü bilmiyordu siham ı
+      metin  : kaza
+      duyulan: kazadır
+  REPLACE  ...değildi devlet ricalinden gürcü
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...gürcü mehmed paşa ve
+      metin  : kemankeş
+      duyulan: kemankes
+  REPLACE  ...rütbeli isimler edebiyat dünyasından
+      metin  : nev izade atai
+      duyulan: nevizade atayi
+  REPLACE  ...devrin tanınmış şairleri bu
+      metin  : desteye
+      duyulan: desteğe
+  REPLACE  ...kesecek yetki vardı gürcü
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...tutanağı gibidir ama aynı
+      metin  : destenin
+      duyulan: desteğinin
+  REPLACE  ...kelb demiş tahir efendi
+      metin  : i ltifatı
+      duyulan: ıslak iltifatı
+  REPLACE  ...dir benim mezhebim zira
+      metin  : i tikādımca
+      duyulan: ıslak itikadımca
+  REPLACE  ...adamın adıdır hem de
+      metin  : arapçada temiz demektir
+      duyulan: arapça da temizlemektir
+  REPLACE  ...dir diye de okunur
+      metin  : mısrada
+      duyulan: mısır a da
+  REPLACE  ...vurur hem de bunu
+      metin  : fıkıh
+      duyulan: fıkh
+  REPLACE  ...böyle söz i stanbul
+      metin  : unda
+      duyulan: umda
+  INSERT   ...kafir demiş müfti efendi
+      metin  : (yok)
+      duyulan: şudaş
+  REPLACE  ...diyem müselman varıldıkta yarın
+      metin  : ruz ı
+      duyulan: ruzu
+  REPLACE  ...yarın ruz ı cezaya
+      metin  : i kimiz
+      duyulan: şudaş
+  REPLACE  ...en çok anlatılan anlarından
+      metin  : murad
+      duyulan: murat
+  INSERT   ...yıldırım düşer genç padişah
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...nın bağdat seferinin ardından
+      metin  : (yok)
+      duyulan: te
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 54
+
+duyulan metin: edebiyat-2026-10-02.duyulan.txt
