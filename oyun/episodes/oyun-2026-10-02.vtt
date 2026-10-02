@@ -1,0 +1,549 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.570
+Oyun eğlenceli değildi, teknik olarak çöküyordu ve iptal edilmek üzereydi.
+
+2
+00:00:05.570 --> 00:00:15.940
+Sonra bir kodlama hatası polis arabalarını oyuncunun üzerine sürmeye başladı — ve stüdyo bu hatayı düzeltmek yerine oyunun kalbine yerleştirdi.
+
+3
+00:00:15.940 --> 00:00:22.950
+Üstelik oyunu meşhur eden kampanyayı, oyunu yasaklatmaya çalışanlar yazdı; farkında bile değillerdi.
+
+4
+00:00:31.150 --> 00:00:41.680
+Dundee, İskoçya'nın kuzeydoğusunda, Kuzey Denizi'ne açılan bir nehir ağzının kıyısında kurulu, jüt fabrikalarının kapanmasıyla sanayisini kaybetmiş orta boy bir şehir.
+
+5
+00:00:41.680 --> 00:00:55.410
+1980'lerde buradaki Timex fabrikası İngiltere'nin en çok satan ev bilgisayarlarının bir kısmını üretiyordu ve şehrin gençleri, ürettikleri makinelerle evlerinde kod yazmayı öğrenen ilk kuşak oldu.
+
+6
+00:00:55.410 --> 00:01:01.620
+O fabrikada çalışan gençlerden biri, adı David Jones olan bir mühendislik öğrencisiydi.
+
+7
+00:01:01.620 --> 00:01:08.470
+1980'lerin sonunda kendi oyun stüdyosunu kurdu: DMA Design, kısaca DMA.
+
+8
+00:01:08.470 --> 00:01:22.360
+1991'de çıkardıkları, kalabalıklar halinde intihara yürüyen küçük yaratıkları kurtarma oyunu Lemmings, yani Lemingler, milyonlarca kopya sattı ve Dundee'yi bir anda Avrupa oyun haritasına yazdı.
+
+9
+00:01:22.360 --> 00:01:28.250
+Bu başarının ardından stüdyonun yaşadığı şey, başarının kendisinden daha öğreticidir.
+
+10
+00:01:28.250 --> 00:01:34.940
+Lemingler'in parası masadaydı, itibar masadaydı, ama bir sonraki büyük fikir ortada yoktu.
+
+11
+00:01:34.940 --> 00:01:40.830
+23 Ocak 1995'ten itibaren stüdyoda bir dizi toplantı yapıldı.
+
+12
+00:01:40.830 --> 00:01:49.760
+Odadakiler arasında David Jones, Mike Dailly, Keith Hamilton, Robert Parsons, Stewart Graham, Steve Hammond ve David Kivlin vardı.
+
+13
+00:01:49.760 --> 00:02:02.530
+Konuştukları şey, Mike Dailly'nin yazdığı yeni bir kuşbakışı grafik motoruydu: ekranı tepeden gören, akıp giden, o dönemin donanımında şaşırtıcı ölçüde geniş bir alanı taşıyabilen bir teknik.
+
+14
+00:02:02.530 --> 00:02:06.180
+Elde bir motor vardı; eksik olan oyundu.
+
+15
+00:02:06.180 --> 00:02:15.590
+22 Mart 1995 tarihli, 1.05 sürüm numarası taşıyan bir tasarım belgesi bu toplantıların çıktısını kâğıda döktü.
+
+16
+00:02:15.590 --> 00:02:22.600
+Belgeyi Keith Hamilton kaleme almıştı ve projenin adı Race'n'Chase, yani Yarış ve Kovalamaca'ydı.
+
+17
+00:02:22.600 --> 00:02:32.970
+Belgenin açtığı amaç cümlesi son derece mütevazıdır: eğlenceli, bağımlılık yapıcı, hızlı, çok oyunculu bir araba yarışı ve çarpışma oyunu yapmak.
+
+18
+00:02:32.970 --> 00:02:39.500
+Yani ortada ne bir suç imparatorluğu, ne bir açık dünya ütopyası, ne de bir kültür savaşı vardı.
+
+19
+00:02:39.500 --> 00:02:41.870
+Dört oyun modu planlanmıştı.
+
+20
+00:02:41.870 --> 00:02:47.760
+Birincisi düpedüz bir yarıştı: A noktasından B noktasına, en hızlı varan kazanır.
+
+21
+00:02:47.760 --> 00:02:55.890
+İkincisi bir yıkım derbisiydi; şehri ve rakiplerinin arabalarını parçalayacaksınız, ayakta kalan son kişi kazanacak.
+
+22
+00:02:55.890 --> 00:03:00.180
+Kalan ikisi bir banka soygunu senaryosunun iki yüzüydü.
+
+23
+00:03:00.180 --> 00:03:05.590
+Bir varyantta oyuncu soyguncudur, kaçış arabasını sürer ve kaçmak zorundadır.
+
+24
+00:03:05.590 --> 00:03:10.520
+Diğer varyantta oyuncu polistir ve kaçış arabasını durdurmak zorundadır.
+
+25
+00:03:10.520 --> 00:03:17.210
+Belgenin ruhunda bugün GTA diye bildiğimiz şeyin en kritik kararı henüz yoktur: taraf seçimi.
+
+26
+00:03:17.210 --> 00:03:21.500
+Tasarım, polis ile soyguncuyu simetrik iki rol olarak görüyordu.
+
+27
+00:03:21.500 --> 00:03:29.950
+Geliştirme 4 Nisan 1995'te resmen başladı ve tam da bu simetri yüzünden oyun aylarca bir türlü tutmadı.
+
+28
+00:03:29.950 --> 00:03:43.680
+David Jones yıllar sonra o dönemi anlatırken, ilham kaynaklarından birinin atari salonlarının klasiği Pac-Man olduğunu söyledi; labirentte bir şeyleri ezerek ilerlerken peşinize düşenlerden kaçma fikri aynıydı.
+
+29
+00:03:43.680 --> 00:03:51.330
+Ama asıl keşfi şu cümleyle özetledi: kimse polis olmak istemiyordu, kötü adam olmak çok daha eğlenceliydi.
+
+30
+00:03:51.330 --> 00:03:55.780
+Bu keşfin olgunlaşması için önce projenin dibe vurması gerekti.
+
+31
+00:03:55.780 --> 00:04:05.350
+1995'in sonundan 1996'nın içine kadar oyun, tasarım belgesindeki hiçbir vaadi tam olarak tutmuyordu.
+
+32
+00:04:05.350 --> 00:04:11.720
+Kodun kararlılığı felaketti; projede çalışanların anlattığına göre oyun durmadan çöküyordu.
+
+33
+00:04:11.720 --> 00:04:20.010
+Araba fiziği bir atari salonu oyunundan çok ağır bir simülasyona benziyordu; direksiyon hantaldı, kaza tatmin etmiyordu.
+
+34
+00:04:20.010 --> 00:04:24.140
+Görev yapısı doğrusaldı ve dinamizmden yoksundu.
+
+35
+00:04:24.140 --> 00:04:34.350
+Ekipten Brian Lawson, o dönemde oyunda düzgün bir polis takibi bile olmadığını, tek bir silah bulunduğunu, bir sağlık sistemi dahi kurulmadığını hatırlıyor.
+
+36
+00:04:34.350 --> 00:04:48.400
+BMG Interactive, yani kısaca BMG adını kullanacağım yayıncı şirket tarafından projeye yapımcı olarak atanan Gary Penn'in o dönem için kullandığı tabir çok daha kısadır: oyun bir karmaşa yığınıydı.
+
+37
+00:04:48.400 --> 00:04:52.690
+İşin acısı şu ki stüdyonun içinde de proje gözde değildi.
+
+38
+00:04:52.690 --> 00:05:05.460
+DMA aynı dönemde başka işler yürütüyordu; özellikle Nintendo için geliştirilen üç boyutlu Body Harvest, yani Beden Hasadı, stüdyonun yetenekli programcılarını ve dikkatini çekiyordu.
+
+39
+00:05:05.460 --> 00:05:09.910
+Kuşbakışı araba oyunu, kaynak kuyruğunda arkalarda bir yerdeydi.
+
+40
+00:05:09.910 --> 00:05:13.240
+Kilometre taşları birbiri ardına kaçırıldı.
+
+41
+00:05:13.240 --> 00:05:17.530
+Sonunda olması gereken oldu: yayıncı fişi çekmeye karar verdi.
+
+42
+00:05:17.530 --> 00:05:25.500
+Gary Penn'in sade ifadesiyle, BMG oyunu iptal etmek istiyordu, çünkü oyun hiçbir yere gitmiyor gibi görünüyordu.
+
+43
+00:05:25.500 --> 00:05:30.110
+1990'ların ortasında bu cümle bir ölüm ilanıdır.
+
+44
+00:05:30.110 --> 00:05:43.840
+İptal masasına yatırılan projelerin ezici çoğunluğu oradan kalkmaz; diskleri arşive gider, ekibi dağılır ve adı yalnızca birkaç yıl sonra çıkan bir röportajda "yapmayı düşündüğümüz bir şey vardı" diye anılır.
+
+45
+00:05:43.840 --> 00:05:48.930
+Oyun tarihinin en çok satan serisi, tam o masanın üzerinde yatıyordu.
+
+46
+00:05:48.930 --> 00:05:55.620
+Masadan kalkmasını sağlayan şeyin ne olduğu, oyun tarihinin en çok anlatılan hikâyelerinden biri.
+
+47
+00:05:55.620 --> 00:05:59.910
+Hikâyenin merkezinde bir hata var; düzeltilmeyen bir hata.
+
+48
+00:05:59.910 --> 00:06:07.240
+Oyunun polis yapay zekâsını Keith Hamilton yazıyordu ve istenen davranış teknik olarak basit görünüyordu.
+
+49
+00:06:07.240 --> 00:06:16.330
+Devriye arabası oyuncunun aracını fark edecek, ona doğru yol bulacak, yaklaşacak ve belli bir mesafede durup oyuncuyu kuşatacaktı.
+
+50
+00:06:16.330 --> 00:06:22.220
+Yani polisin hedef noktası oyuncunun aracı değil, aracın yakınındaki bir nokta olmalıydı.
+
+51
+00:06:22.220 --> 00:06:25.710
+Yol bulma kodundaki hesap tam burada bozuldu.
+
+52
+00:06:25.710 --> 00:06:32.880
+Polis arabasının varmayı amaçladığı hedef nokta, oyuncunun aracının kapladığı alanın içine düştü.
+
+53
+00:06:32.880 --> 00:06:41.650
+Sonuç, bilgisayarın mantığı açısından kusursuz bir kısır döngüydü: polis arabası asla ulaşamayacağı bir noktaya ulaşmaya çalışıyordu.
+
+54
+00:06:41.650 --> 00:06:47.860
+Ulaşmak için ileri gidiyor, çarpıyor, geri alıyor, yine ileri gidiyor, yine çarpıyor.
+
+55
+00:06:47.860 --> 00:06:53.750
+Hedefine varmak için oyuncuyu yolun dışına atmak zorundaydı ve bunu bıkmadan yapıyordu.
+
+56
+00:06:53.750 --> 00:06:58.040
+Ekranda görünen şey bir yazılım hatası gibi görünmüyordu.
+
+57
+00:06:58.040 --> 00:07:02.970
+Ekranda görünen şey, o güne kadar hiçbir oyunun veremediği bir histi.
+
+58
+00:07:02.970 --> 00:07:17.180
+Gary Penn o anı anlatırken, bir gün polisin birden akıl sağlığını yitirdiğini ve saldırganlaştığını, ekipte bir anda gerçek bir dram duygusu doğduğunu söylüyor: polis psikopat olmuştu, sizi yoldan çıkarmaya çalışıyordu.
+
+59
+00:07:17.180 --> 00:07:20.190
+Test eden herkes aynı tepkiyi verdi.
+
+60
+00:07:20.190 --> 00:07:22.400
+Oyun bir anda keyifliydi.
+
+61
+00:07:22.400 --> 00:07:26.530
+Kovalanıyor olmak artık bir mekanik değil, bir tehditti.
+
+62
+00:07:26.530 --> 00:07:32.900
+Dikiz aynası olmayan bir kuşbakışı oyunda, arkanızda bir şeyin size kastettiğini hissediyordunuz.
+
+63
+00:07:32.900 --> 00:07:38.950
+Karar, oyun tarihinde sık rastlanmayan türden bir karardı: hata düzeltilmedi.
+
+64
+00:07:38.950 --> 00:07:43.720
+Üzerinde biraz oynandı, biraz dizginlendi, ama kaldı.
+
+65
+00:07:43.720 --> 00:07:45.610
+Çünkü eğlenceliydi.
+
+66
+00:07:45.610 --> 00:07:52.460
+Burada dürüst olmak gerekiyor, çünkü bu hikâye yıllar içinde olduğundan daha büyülü bir biçime kavuştu.
+
+67
+00:07:52.460 --> 00:07:59.630
+Stüdyonun kıdemlileri, oyunu kurtaran tek bir dönüm noktası olduğu fikrine itiraz ediyorlar ve haklılar.
+
+68
+00:07:59.630 --> 00:08:09.200
+Düzeltilmeyen hata, oyunun ruhunu buldu; ama oyunu bitiren şey aylar süren sıkıcı, kahramanlıktan uzak bir yeniden inşa oldu.
+
+69
+00:08:09.200 --> 00:08:19.410
+Araba fiziği baştan yazıldı; ağır simülasyon hissi atıldı, yerine savrulan, kaydıran, kazayı ödül gibi gösteren bir atari salonu dinamiği geldi.
+
+70
+00:08:19.410 --> 00:08:28.180
+Puan sistemi değişti; oyun doğrusal görev zincirinden, çarpan katsayılarıyla büyüyen, risk aldıkça kazandıran bir skor oyununa döndü.
+
+71
+00:08:28.180 --> 00:08:39.350
+1997'nin başında Keith Hamilton'ın anlattığına göre ekip bir yandan araba kontrolünü yeniden yazıyor, bir yandan grafikleri 24 bitlik renk derinliğine taşıyordu.
+
+72
+00:08:39.350 --> 00:08:42.200
+Ve en önemlisi, taraf seçildi.
+
+73
+00:08:42.200 --> 00:08:46.970
+Polisi oynamak fikri tümden bırakıldı; oyuncu artık suçluydu.
+
+74
+00:08:46.970 --> 00:08:56.860
+Oyun suç örgütlerinin telefonlu görevleriyle genişledi; oyuncu şehirde başıboş dolaşabiliyor, görev almayı reddedebiliyor, sadece araba çalıp sürebiliyordu.
+
+75
+00:08:56.860 --> 00:09:06.590
+Üç kurmaca Amerikan şehri kuruldu: New York'tan esinlenen Liberty City, San Francisco'dan esinlenen San Andreas ve Miami'den esinlenen Vice City.
+
+76
+00:09:06.590 --> 00:09:11.840
+Oyuncunun seçebileceği karakter sayısı bilgisayar sürümünde 8'e çıktı.
+
+77
+00:09:11.840 --> 00:09:15.970
+Oyunu asıl karakterine kavuşturan buluş ise sesteydi.
+
+78
+00:09:15.970 --> 00:09:25.700
+Stüdyodan üç kişi, Colin Anderson, Craig Conner ve Grant Middleton, geceleri ofiste kalıp arabanın radyosundan çalacak müzikleri ürettiler.
+
+79
+00:09:25.700 --> 00:09:30.470
+Ortaya 7 radyo istasyonu ve bir de polis telsizi kanalı çıktı.
+
+80
+00:09:30.470 --> 00:09:38.440
+Her istasyon kendi türünü taklit ediyor, kurmaca grupların kurmaca şarkılarını çalıyor, araya reklam ve anons giriyordu.
+
+81
+00:09:38.440 --> 00:09:43.690
+Çaldığınız arabayı değiştirmek, dinlediğiniz müziği değiştirmek anlamına geliyordu.
+
+82
+00:09:43.690 --> 00:09:48.620
+Oyunun ana teması, Da Shootaz adında var olmayan bir gruba atfedildi.
+
+83
+00:09:48.620 --> 00:09:52.910
+Bu noktada projenin adı da artık Yarış ve Kovalamaca değildi.
+
+84
+00:09:52.910 --> 00:09:57.840
+Yarış kısmı oyundan çekilmiş, kovalamaca kısmı oyunun bütünü olmuştu.
+
+85
+00:09:57.840 --> 00:10:06.450
+Oyuna yeni bir ad verildi: Grand Theft Auto, Amerikan hukukunda nitelikli araç hırsızlığı anlamına gelen teknik terim.
+
+86
+00:10:06.450 --> 00:10:09.780
+Bundan sonra onu kısaca GTA diye anacağım.
+
+87
+00:10:09.780 --> 00:10:16.470
+Oyun hazırdı, ama 1997'nin oyun piyasasında hazır olmak bir şey ifade etmiyordu.
+
+88
+00:10:16.470 --> 00:10:25.080
+Kuşbakışı, pikselli, teknik olarak gösterişsiz bir oyun, üç boyutlu grafiğin her şeyi sattığı bir yılda raflara çıkacaktı.
+
+89
+00:10:25.080 --> 00:10:38.970
+BMG'nin bu soruna bulduğu çözüm, oyun endüstrisinin pazarlama tarihini kalıcı biçimde değiştirdi: şirket, dönemin İngiltere'sinde en etkili tanıtımcı sayılan Max Clifford'un halkla ilişkiler şirketini işe aldı.
+
+90
+00:10:38.970 --> 00:10:42.940
+Verilen görev, oyunun iyi tanınmasını sağlamak değildi.
+
+91
+00:10:42.940 --> 00:10:46.270
+Görev, oyunu kötü tanınmasını sağlamaktı.
+
+92
+00:10:46.270 --> 00:10:49.120
+Yöntem şaşırtıcı ölçüde doğrudandı.
+
+93
+00:10:49.120 --> 00:10:59.810
+Gazetecilere oyunun en rahatsız edici yanları, hatta olduğundan daha abartılı biçimde anlatıldı: yoldan geçen masum insanların ezilmesi, polislerin biçilmesi.
+
+94
+00:10:59.810 --> 00:11:03.300
+Tabloid basın yemi aldı ve haberler büyüdü.
+
+95
+00:11:03.300 --> 00:11:12.550
+Mayıs 1997'de konu Lordlar Kamarası'na taşındı; Lord Campbell of Croy oyunun tehlikelerine dair uyarıda bulundu.
+
+96
+00:11:12.550 --> 00:11:15.880
+Birkaç gazete oyunun yasaklanmasını istedi.
+
+97
+00:11:15.880 --> 00:11:23.370
+Bu, bir oyun şirketinin hayalini kurup da satın alamayacağı ölçekte bir ilgiydi ve bedava geldi.
+
+98
+00:11:23.370 --> 00:11:30.060
+Fırtınanın ortasında kalan kişi, oyunun yazarlarından ve basın sorumlularından Brian Baglow oldu.
+
+99
+00:11:30.060 --> 00:11:39.950
+Yıllar sonra bu dönemi anlatırken, ekibin aslında ortalığı kasıtlı olarak yıkmaya çalışmadığını, oyundaki her şeyin ima düzeyinde kaldığını söylüyor.
+
+100
+00:11:39.950 --> 00:11:44.720
+Ama kampanya bir kez başlayınca kimsenin frene basma lüksü yoktu.
+
+101
+00:11:44.720 --> 00:11:57.330
+Bir İngiliz pazar gazetesi, Baglow'un gençlik yıllarındaki önemsiz bir trafik kazasını bir polis takibi hikâyesine dönüştürüp manşete taşıdı; oyunu yapanın zaten böyle biri olduğu ima ediliyordu.
+
+102
+00:11:57.330 --> 00:12:01.460
+Oyunun içindeki ayrıntılardan biri bu öfkeyi besledi.
+
+103
+00:12:01.460 --> 00:12:08.150
+GTA'da turuncu cüppeli, barışçıl bir yürüyüş kolu halinde ilerleyen Hare Krishna yolcuları vardı.
+
+104
+00:12:08.150 --> 00:12:14.200
+Oyuncu bu kolun tamamını ezerse ekranda bir bonus yazısı çıkıyordu: Gouranga.
+
+105
+00:12:14.200 --> 00:12:19.450
+Bu kelime, Hare Krishna hareketinin kutlama ve iyi dilek ifadesidir.
+
+106
+00:12:19.450 --> 00:12:27.900
+Anlatıldığına göre Baglow Londra havalimanından her geçişinde bu sözle karşılanmaktan bıkmıştı ve şaka oradan doğdu.
+
+107
+00:12:27.900 --> 00:12:35.070
+Hare Krishna topluluğu için bu, barış vurgusuyla alay eden bir ayrıntıydı ve haklı bir tepki yarattı.
+
+108
+00:12:35.070 --> 00:12:38.080
+Sonuç, Clifford'un hesapladığı şeydi.
+
+109
+00:12:38.080 --> 00:12:50.690
+Bilgisayar sürümü Avrupa'da 28 Kasım 1997'de, PlayStation sürümü aynı yılın aralık ayında çıktı; Kuzey Amerika sürümleri 1998'de geldi.
+
+110
+00:12:50.690 --> 00:13:01.860
+Eleştirmenler ikiye bölündü; grafiklerin yavanlığından ve kontrollerin huysuzluğundan şikâyet ettiler, ama oyunun verdiği özgürlüğü ve ses tasarımını övdüler.
+
+111
+00:13:01.860 --> 00:13:04.230
+Oyuncu tarafında bölünme yoktu.
+
+112
+00:13:04.230 --> 00:13:10.600
+Kasım 1998'e gelindiğinde iki platformda toplam satış 1 milyonu geçmişti.
+
+113
+00:13:10.600 --> 00:13:17.450
+Ekim 1999'da 3,5 milyona, Mart 2001'de 6 milyona ulaştı.
+
+114
+00:13:17.450 --> 00:13:23.820
+Oyun İngiltere'de en çok satanlar listesinin ilk 20'sinde 76 haftadan uzun süre kaldı.
+
+115
+00:13:23.820 --> 00:13:30.670
+Brezilya Adalet Bakanlığı oyunu yasakladı; cinayet ve trafik kazası kaygıları gerekçe gösterildi.
+
+116
+00:13:30.670 --> 00:13:34.960
+Yasak, satışları durdurmak yerine hikâyeyi büyüttü.
+
+117
+00:13:34.960 --> 00:13:37.970
+Bu başarının ardından sahne hızla değişti.
+
+118
+00:13:37.970 --> 00:13:48.660
+1998'de Amerikalı yayıncı Take-Two, BMG'nin oyun bölümünü satın aldı ve kısa süre sonra DMA'nın kendisini de bünyesine kattı.
+
+119
+00:13:48.660 --> 00:13:56.470
+Mart 2000'de Dundee ofisi kapatıldı, ekip Edinburgh'a taşındı ve stüdyo bugün bilinen adını aldı: Rockstar North.
+
+120
+00:13:56.470 --> 00:14:06.360
+Şehrin jüt fabrikalarından bilgisayar fabrikasına, oradan oyun stüdyosuna uzanan zinciri tamamlayan halka, bu kez Dundee'nin dışına çıkmış oldu.
+
+121
+00:14:06.360 --> 00:14:12.250
+GTA'nın bıraktığı miras iki ayrı yoldan yürüdü ve ikisi de hâlâ yürüyor.
+
+122
+00:14:12.250 --> 00:14:14.140
+Birincisi tasarımdı.
+
+123
+00:14:14.140 --> 00:14:19.870
+Oyunun gerçek buluşu şiddet değildi; şehrin kendisinin bir oyuncak olmasıydı.
+
+124
+00:14:19.870 --> 00:14:30.240
+Görevi reddedebilmek, haritanın ortasında hiçbir şey yapmamayı seçebilmek, bir arabayı sadece radyosu için çalmak, o dönemin oyun anlayışında alışılmış şeyler değildi.
+
+125
+00:14:30.240 --> 00:14:37.890
+Baglow'un sonradan altını çizdiği gibi, meselenin özü skandal değil, oyuncuya verilen o yetkilendirme duygusuydu.
+
+126
+00:14:37.890 --> 00:14:45.540
+Bu fikir yirmi yıl boyunca onlarca stüdyo tarafından kopyalandı ve açık dünya denen tür büyük ölçüde buradan türedi.
+
+127
+00:14:45.540 --> 00:14:49.030
+İkinci miras ise daha rahatsız edicidir.
+
+128
+00:14:49.030 --> 00:14:53.960
+GTA, kötü şöhretin ölçülebilir bir satış kalemi olduğunu kanıtladı.
+
+129
+00:14:53.960 --> 00:15:07.370
+Oyunun 1997'de yaşadığı şey, sonraki yirmi yıl boyunca sayısız yayıncı tarafından bilinçli bir şablon olarak kullanıldı: öfkeyi kışkırt, haberi bedavaya al, yasak çağrısını reklama çevir.
+
+130
+00:15:07.370 --> 00:15:13.900
+Bu şablonun ilk ustası, oyunu yapan programcılar değil, bir halkla ilişkiler ofisiydi.
+
+131
+00:15:13.900 --> 00:15:21.230
+Dolayısıyla Dundee'den çıkan bu oyunun hikâyesi, yetenek ve vizyon üzerine kurulu temiz bir başarı masalı değil.
+
+132
+00:15:21.230 --> 00:15:24.880
+İki kazanın üst üste gelmesiyle kurulmuş bir hikâye.
+
+133
+00:15:24.880 --> 00:15:35.090
+Biri koddaydı: bir yol bulma hatası, oyuna kimsenin tasarlamadığı bir gerilim kazandırdı ve ekip onu düzeltmemeyi seçecek kadar akıllı davrandı.
+
+134
+00:15:35.090 --> 00:15:44.340
+Diğeri pazardaydı: oyunun kusurlarının onu görünmez kılacağı bir yılda, görünürlüğü kusurlarından değil, suçlanmasından satın alındı.
+
+135
+00:15:44.340 --> 00:15:50.870
+Masanın üzerinde ölmek üzere olan kuşbakışı araba oyunu, bu iki kazanın arasından kalkıp yürüdü.
+
+136
+00:15:50.870 --> 00:15:53.880
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+137
+00:15:53.880 --> 00:15:56.890
+Yeni bir hikâyede yeniden buluşmak üzere.
