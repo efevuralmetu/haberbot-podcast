@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-03.mp3
+
+beklenen 2407 kelime | duyulan 2401 kelime | eşleşme %91.9
+sayı ifadesi: metinde 371, duyulanda 246  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...avusturya nın tirol bölgesinde
+      metin  : inn
+      duyulan: i n
+  REPLACE  ...ortada tek kapı adı
+      metin  : şlos i tter
+      duyulan: schlossitter
+  INSERT   ...görülen çok daha yenidir
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...üzerine yeniden inşa edilmiştir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...öğrencisi dönemin ünlü piyanistlerinden
+      metin  : sofi
+      duyulan: sophie
+  REPLACE  ...menter in konukları arasında
+      metin  : çaykovski
+      duyulan: tchaikovsky
+  INSERT   ...arasında çaykovski da vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çayların sessizliğini duydu sonra
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...kaleyi sahibinden kiraladı şubat
+      metin  : himmler
+      duyulan: te himler
+  REPLACE  ...himmler in emriyle ss
+      metin  : in
+      duyulan: sin
+  REPLACE  ...ekonomik işlerini yürüten komutan
+      metin  : osvald pol
+      duyulan: oswald paul
+  INSERT   ...kaleye el koydu nisan
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...i tter kalesi artık
+      metin  : dahau
+      duyulan: dachau
+  REPLACE  ...kampının alt kampıydı yönetimi
+      metin  : dahau
+      duyulan: dachau
+  REPLACE  ...geçirmiş ss subayı olan
+      metin  : sebastyan vimmer
+      duyulan: sebastian wimmer
+  INSERT   ...da biliniyordu listeye bakmak
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...i ki eski başbakan
+      metin  : pol reyno
+      duyulan: paul reynaud
+  REPLACE  ...başbakan pol reyno ve
+      metin  : eduar daladye
+      duyulan: édouard daladier
+  REPLACE  ...kaybederken başında bulunan adam
+      metin  : moris gamlen
+      duyulan: maurice gamelin
+  REPLACE  ...adam moris gamlen ve
+      metin  : maksim vegan
+      duyulan: maxime weygand
+  REPLACE  ...savaşı nın efsanevi başbakanı
+      metin  : jorj klemanso
+      duyulan: george clemenceau
+  REPLACE  ...jorj klemanso nun oğlu
+      metin  : mişel klemanso
+      duyulan: michel clemenceau
+  REPLACE  ...da büyükelçilik yapmış diplomat
+      metin  : ander fransua ponse
+      duyulan: andré françois ponce
+  REPLACE  ...konfederasyonunun lideri sendikacı leon
+      metin  : juo
+      duyulan: gio
+  REPLACE  ...kanadın kitlesel hareketi kruva
+      metin  : dö fö nün
+      duyulan: de fön ün
+  REPLACE  ...haçı nın kurucusu albay
+      metin  : fransua dö la rok şarl dö gol
+      duyulan: françois de laroc charles de gaulle
+  REPLACE  ...dö gol ün ablası
+      metin  : mari anyes kayo
+      duyulan: marie annes caio
+  REPLACE  ...ve kocası alfred tenisçi
+      metin  : jan
+      duyulan: jean
+  REPLACE  ...tenisçi jan borotra yanlarında
+      metin  : reyno
+      duyulan: reynaud
+  REPLACE  ...yanlarında reyno un sekreteri
+      metin  : kristiyan
+      duyulan: christian
+  REPLACE  ...un sekreteri kristiyan mabir
+      metin  : juo nun
+      duyulan: yuan un
+  REPLACE  ...birlikte civarında insan koşullar
+      metin  : dahau
+      duyulan: dachau
+  REPLACE  ...dolaşabiliyorlardı borotra her gün
+      metin  : jimnastik
+      duyulan: cimnastik
+  REPLACE  ...kazanda elektrik tesisatında çalışanlar
+      metin  : dahau
+      duyulan: dachau
+  REPLACE  ...arasında değildi fransızlar arasındaydı
+      metin  : reyno haziranı nda
+      duyulan: reynaud haziranında
+  REPLACE  ...devam etmek isteyen başbakandı
+      metin  : vegan
+      duyulan: wegan
+  REPLACE  ...nın yıkımından sorumlu tutuyordu
+      metin  : daladye
+      duyulan: daladier
+  REPLACE  ...sorumlu tutuyordu daladye ile
+      metin  : reyno
+      duyulan: reynaud
+  REPLACE  ...hesapları yıllar öncesine uzanıyordu
+      metin  : juo
+      duyulan: joe
+  REPLACE  ...işçi hareketine vermişti la
+      metin  : rok
+      duyulan: rock
+  ... ve 82 fark daha
+
+metinde olup DUYULMAYAN: 152 kelime | duyulup metinde OLMAYAN: 158
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-10-03.duyulan.txt

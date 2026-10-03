@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-03.mp3
+
+beklenen 1505 kelime | duyulan 1520 kelime | eşleşme %97.3
+sayı ifadesi: metinde 213, duyulanda 151  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...o
+      metin  : malikanede
+      duyulan: malikhanede
+  INSERT   ...en bilinen jesti oldu
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...piyasaya çıktı sinema salonlarındaydı
+      metin  : kiyoşi kurosava
+      duyulan: kiyoshi kurosawa
+  REPLACE  ...karşılaşıyordu oyunun tasarımcısı tokuro
+      metin  : fujivara ydı
+      duyulan: fujiwara idi
+  REPLACE  ...oyunu iskeleti vardı ama
+      metin  : fujivara
+      duyulan: fujiwara
+  REPLACE  ...çakmağı almak için tozluğu
+      metin  : bırakmanız
+      duyulan: bırakmanın bulmanız
+  REPLACE  ...hiçbir teknik gerekçesi yoktu
+      metin  : famicom
+      duyulan: tamikom
+  REPLACE  ...kapı tamamen tiyatro hamlesiydi
+      metin  : fujivara
+      duyulan: fujiwara
+  REPLACE  ...un içinde şey bıraktı
+      metin  : fujivara
+      duyulan: fujiwara
+  INSERT   ...daha kurmak istiyordu fırsat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...konsollar boyuta geçiyordu ve
+      metin  : fujivara
+      duyulan: fujiwara
+  REPLACE  ...projeyi genç çalışana verdi
+      metin  : şinji
+      duyulan: shinji
+  INSERT   ...şinji mikami o sırada
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...yönelik platform oyunları yapmıştı
+      metin  : fujivara
+      duyulan: fujiwara
+  INSERT   ...değiştirdi i lk hali
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...artık yeni nesildeydi ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...donanımı gerçek zamanlı boyutlu
+      metin  : konağı
+      duyulan: konağa
+  INSERT   ...oynadığı fransız oyununda gördü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra bu şemaya alaylı
+      metin  : ad
+      duyulan: at
+  INSERT   ...işte tam bu noktada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yeni sistemde her oda
+      metin  : diskteki
+      duyulan: disteki
+  REPLACE  ...için kesti senaryo yazarı
+      metin  : keniçi i vao
+      duyulan: kenichi iwo
+  INSERT   ...oyun japonya da mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kutunun üstünde biohazard yazıyordu
+      metin  : biyolojik
+      duyulan: biolojik
+  REPLACE  ...uyarı sözcüğü batıda bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...adın birleşik devletler de
+      metin  : marka
+      duyulan: marca
+  INSERT   ...avrupa da ize ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...a söylenen neredeyze jil
+      metin  : sandviçi
+      duyulan: sandvich i
+  INSERT   ...satışlar seriyi kurdu oyun
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...dili konuşan her oyun
+      metin  : (yok)
+      duyulan: daki
+  INSERT   ...yine de gitmedi capcom
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kapının karşısında geçirdiğiniz saniye
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...mühendislik gerekçesi olmadan konulmuş
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dolduran dinleyicinin kendi hayalidir
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 26 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: oyun-2026-10-03.duyulan.txt

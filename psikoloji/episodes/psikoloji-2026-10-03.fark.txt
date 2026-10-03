@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-03.mp3
+
+beklenen 1301 kelime | duyulan 1309 kelime | eşleşme %97.4
+sayı ifadesi: metinde 185, duyulanda 145  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...daniel kahneman ve amos
+      metin  : tverski ydi
+      duyulan: tversky di da
+  REPLACE  ...yapmadığını gösterdiler i nsan
+      metin  : nihai
+      duyulan: nihayi
+  REPLACE  ...reddettiyseniz aslında hiç de
+      metin  : irrasyonel
+      duyulan: irasyonel
+  REPLACE  ...ortaya çıkıyor kahneman jack
+      metin  : kneç
+      duyulan: tenech
+  REPLACE  ...jack kneç ve richard
+      metin  : thaler in
+      duyulan: taller ın da
+  REPLACE  ...öğrencilerin yarısına üzerinde üniversitenin
+      metin  : amblemi
+      duyulan: emblemi
+  REPLACE  ...tarafında kazanç olarak duruyor
+      metin  : taraf da
+      duyulan: i ki tarafta
+  REPLACE  ...satın alan biçimde gösteriyor
+      metin  : terrance odean ın
+      duyulan: terrence odea nın de
+  INSERT   ...kahneman bu çalışmalar için
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nobel ekonomi ödülünü aldı
+      metin  : tverski
+      duyulan: tversky da
+  REPLACE  ...karar üretir kahneman ve
+      metin  : tverski
+      duyulan: tversky
+  INSERT   ...kahneman ve tverski bunu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...irwin levin ve gary
+      metin  : gaeth
+      duyulan: gait
+  INSERT   ...ve gary gaeth in
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonra rafta gördüğünüz her
+      metin  : (yok)
+      duyulan: ı
+  INSERT   ...kaldı ifadesinin arkasında yazılmamış
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...için de kuruluyor roland
+      metin  : fryer
+      duyulan: friar
+  REPLACE  ...kuruluyor roland fryer steven
+      metin  : levitt
+      duyulan: leavitt
+  REPLACE  ...kaybedilecek şey olarak mı
+      metin  : durduğuydu
+      duyulan: durduydu
+  REPLACE  ...sonucunu da çoktan seçmiştir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-10-03.duyulan.txt

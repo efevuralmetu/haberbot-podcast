@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-03.mp3
+
+beklenen 2414 kelime | duyulan 2444 kelime | eşleşme %96.2
+sayı ifadesi: metinde 326, duyulanda 215  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ölüm oldu ablası elsie
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yöne dönüştü washington ın
+      metin  : dunbar
+      duyulan: donbar
+  INSERT   ...lisede ders veriyordu drew
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...amherst college yani amherst
+      metin  : koleji ne kısmi
+      duyulan: college ine kısmı
+  REPLACE  ...atletizm bursuyla gitti amherst
+      metin  : koleji nde
+      duyulan: college inde
+  REPLACE  ...mezun olduğu yılında ize
+      metin  : mossman
+      duyulan: mosman
+  REPLACE  ...olmasına rağmen kaptanlık verilmedi
+      metin  : drew
+      duyulan: drow
+  REPLACE  ...yoktu baltimoer daki morgan
+      metin  : koleji ne
+      duyulan: college ine
+  INSERT   ...takımını çalıştırdı maaşını biriktirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ama yıl beklemesini istedi
+      metin  : drew
+      duyulan: drow
+  REPLACE  ...istemiyordu adres kaldı montreal
+      metin  : deki
+      duyulan: daki
+  REPLACE  ...daha adil davrandığı konuşuluyordu
+      metin  : drew
+      duyulan: drow
+  INSERT   ...oldu mcgil üniversitesi nde
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aldı kişilik sınıfın ikincisiydi
+      metin  : nöroanatomi
+      duyulan: neuroanatomi
+  REPLACE  ...buldu britanyalı anatomist john
+      metin  : beattie
+      duyulan: beatty
+  REPLACE  ...bağışçıyı masaya yatırmak demekti
+      metin  : drew
+      duyulan: drow
+  INSERT   ...bu sorunun içine girdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...içine girdi babası öldü
+      metin  : drew
+      duyulan: drow
+  INSERT   ...yer ize esasen tekti
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...duruyordu kan neden bekleyemiyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ndan yıllık burs çıktı
+      metin  : drew
+      duyulan: drow
+  REPLACE  ...bile gün sonra bozuluyordu
+      metin  : alyuvarlar
+      duyulan: alüvarlar
+  REPLACE  ...rastgele şişe alıp koşamazdınız
+      metin  : drew
+      duyulan: drow
+  REPLACE  ...ölçtü uygun koşullarda saklanan
+      metin  : alyuvarların
+      duyulan: alüvarların
+  REPLACE  ...santrifüje koyup hücreleri çökerttiğinizde
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...insanın ihtiyacı çoğu zaman
+      metin  : alyuvar
+      duyulan: alüvar
+  REPLACE  ...yapıyordu ve beklemeyi biliyordu
+      metin  : drew
+      duyulan: drow
+  REPLACE  ...yazdı presbyterian hospital yani
+      metin  : presbiteryen hastanesi nde
+      duyulan: presbyterian hastanesinde
+  REPLACE  ...alandı ameliyat değil lojistik
+      metin  : cerrahın
+      duyulan: cerahın
+  INSERT   ...sistemin disipliniyle kurtarılan hayatlar
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...sistematik el kitabı sayılır
+      metin  : drew
+      duyulan: drev
+  INSERT   ...araya hayat da girdi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...dersleri veren lenoer robbins
+      metin  : le
+      duyulan: ile
+  INSERT   ...bebe adını verdiler ama
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...sakin laboratuvar şehri değildi
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...olmaktan çıkmak üzereydi montreal
+      metin  : deki
+      duyulan: daki
+  REPLACE  ...montreal deki hocası john
+      metin  : beattie
+      duyulan: beatty
+  REPLACE  ...şok tedavisinin başındaydı yani
+      metin  : beattie
+      duyulan: beatty
+  REPLACE  ...beattie yıl önce montreal
+      metin  : de
+      duyulan: da
+  REPLACE  ...sorulmayan haftalarca bekleyebilen sıvıydı
+      metin  : beattie atlantiğin
+      duyulan: beatty atlantin in
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 87
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: biyografi-2026-10-03.duyulan.txt

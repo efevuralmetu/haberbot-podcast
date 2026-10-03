@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-02.mp3
+
+beklenen 1551 kelime | duyulan 1555 kelime | eşleşme %94.8
+sayı ifadesi: metinde 314, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...enerji vergisini liter başına
+      metin  : sent
+      duyulan: cent
+  INSERT   ...motorin bulunamayan istasyonların oranı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...bulunamayan istasyonların oranı çıktı
+      metin  : emanuel makron
+      duyulan: emmanuel macron
+  REPLACE  ...savaşın seyri belirsizliğini koruyor
+      metin  : pentagon
+      duyulan: macron
+  REPLACE  ...söyleyerek müzakeer beklentisini zayıflattı
+      metin  : tahran
+      duyulan: tehran
+  REPLACE  ...yönelik operasyonlarında kullandığı hava
+      metin  : üssünü
+      duyulan: üstünü
+  REPLACE  ...gündemin önceden çalışılması şartıyla
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...zirveye hazır olduğunu belirtti
+      metin  : gazze
+      duyulan: gazete
+  REPLACE  ...temsilciler meclisi nin sandalyesinin
+      metin  : tamamı ile
+      duyulan: tamamıyla
+  INSERT   ...göer demokratlar konger yarışında
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...trump saha programını yoğunlaştırdı
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...yönetim cephesinde dışişleri bakanı
+      metin  : marko
+      duyulan: marco
+  INSERT   ...başkanlığını ize yunanistan devraldı
+      metin  : (yok)
+      duyulan: bu
+  INSERT   ...yapının sonu ya da
+      metin  : (yok)
+      duyulan: nin
+  DELETE   ...sürümlerini tanıttı claude opus
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...karşılık openai ın gpt
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...rekabet ve tüketici otoritesi
+      metin  : ftc
+      duyulan: htc
+  REPLACE  ...çipi olduğunu öne sürdüğü
+      metin  : zhenwu vdokuz
+      duyulan: gen v
+  DELETE   ...nvidia ile iş ve
+      metin  : msekiz
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ve msekiz ultra çipleriyle
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çalışıyor türkiye de de
+      metin  : tüi k
+      duyulan: twig
+  INSERT   ...ayında artırım ihtimali seviyelerinden
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...işlem görüyor küresel tarafta
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...eylül toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıl sonu enflasyon beklentisi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...henüz kesinleşmedi chp sözcüsü
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...sarı parti adına yapılan
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...ile milletvekili temmuz sonunda
+      metin  : chp den
+      duyulan: siyapaden
+  REPLACE  ...meclis teki sandalye sayısı
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...yenişehir belediye başkanı abdullah
+      metin  : özyiğit
+      duyulan: özyit
+  REPLACE  ...ekimde başlayacağı önceliğin lira
+      metin  : anapara ile
+      duyulan: ana parayla
+  REPLACE  ...yaklaşık lira zam yapılmasıyla
+      metin  : lpg
+      duyulan: elpg
+  REPLACE  ...kademeli özel tüketim vergisine
+      metin  : geçiş de
+      duyulan: geçişte
+  REPLACE  ...tekin tiflis te eğitim
+      metin  : iş
+      duyulan: işbirliği
+  INSERT   ...verilerini ekim pazartesi saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...fiyatlamalar belirleyici olacak teknolojide
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...takvimi izlenecek şanlıurfa da
+      metin  : teknofest
+      duyulan: technofest
+  REPLACE  ...gürültülü sağanak ve saatte
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...ölçülecek gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: gundem-2026-10-02.duyulan.txt

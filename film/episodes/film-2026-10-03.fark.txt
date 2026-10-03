@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-03.mp3
+
+beklenen 1680 kelime | duyulan 1706 kelime | eşleşme %95.0
+sayı ifadesi: metinde 281, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yılının sonbaharında hollywood da
+      metin  : tod
+      duyulan: todd
+  REPLACE  ...universal için vizyona giren
+      metin  : drakula
+      duyulan: dracula
+  REPLACE  ...asıl evi başka yerdi
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...başka yerdi yirmilerde metro
+      metin  : goldwyn mayer
+      duyulan: goldwynmier
+  REPLACE  ...özgü tür icat etmişti
+      metin  : drakula
+      duyulan: dracula
+  REPLACE  ...stüdyonun yapım şefi irving
+      metin  : thalberg
+      duyulan: talberg
+  INSERT   ...film kendi gençliğinden geliyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gezici panayır kumpanyasına katılmıştı
+      metin  : çığırtkanlık
+      duyulan: çığırtganlık
+  REPLACE  ...içinden geçmiş olarak biliyordu
+      metin  : munsey dergisinde
+      duyulan: te monsey dergisi nde
+  REPLACE  ...ne yapmak istediğini anladı
+      metin  : tod robbins in
+      duyulan: todd robinson
+  REPLACE  ...anlatıyordu metro öykünün haklarını
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...satın almıştı sanat yönetmeni
+      metin  : cedric
+      duyulan: jedrick
+  REPLACE  ...günahkar filminde oynayan harry
+      metin  : earles
+      duyulan: earls
+  INSERT   ...yönetmene kendisi götürdü browning
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...parayı vermeye cesaret edememişti
+      metin  : thalberg
+      duyulan: talberg
+  INSERT   ...cesaret edememişti thalberg in
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yazdı ve anlatılanlara göer
+      metin  : thalberg
+      duyulan: talberg
+  REPLACE  ...söyledi metro nun patronu
+      metin  : louis b
+      duyulan: lewis bellamy
+  REPLACE  ...şimdi aynı stüdyonun platolarında
+      metin  : panayırın
+      duyulan: panayar ın
+  REPLACE  ...değil amerika nın gezici
+      metin  : panayırlarından
+      duyulan: panayar larından
+  REPLACE  ...gezici panayırlarından topladı harry
+      metin  : earles
+      duyulan: earls
+  REPLACE  ...hayatta kardeşi olan daisy
+      metin  : earles
+      duyulan: earls
+  REPLACE  ...doğmuş prince randian geldi
+      metin  : mikrosefali
+      duyulan: microcefali
+  REPLACE  ...ile doğan ve sahnede
+      metin  : şlitzi
+      duyulan: schlitzy
+  INSERT   ...tanınan oyuncu geldi birleşik
+      metin  : (yok)
+      duyulan: i kizler
+  REPLACE  ...adam rolünde henry victor
+      metin  : palyaço
+      duyulan: pagliaccio
+  REPLACE  ...wallace ford ve leila
+      metin  : hyams tı
+      duyulan: hayamstı
+  REPLACE  ...kadro culver city deki
+      metin  : plato
+      duyulan: pilato
+  REPLACE  ...gösterildi hilton kardeşler ile
+      metin  : earles
+      duyulan: earless
+  REPLACE  ...muaf tutuldu ötekiler günlerini
+      metin  : plato
+      duyulan: pilato
+  REPLACE  ...merkezinde duruyordu çekimler kasım
+      metin  : ının
+      duyulan: ın
+  INSERT   ...seyirciye göstermeye hazırlanıyordu ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra tek cümleyle anlattı
+      metin  : gösterimin
+      duyulan: gösteremin
+  REPLACE  ...filmin normal yüzlerine ayrılmıştır
+      metin  : trapezci
+      duyulan: trapezji
+  REPLACE  ...kapatılmış tüylü gıdaklayan yaratığa
+      metin  : dönüşmüş
+      duyulan: geçmiş
+  REPLACE  ...stüdyoyu dava ettiği söylendi
+      metin  : thalberg
+      duyulan: talberg
+  INSERT   ...stüdyonun korkudan budadığı versiyondur
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...korkudan budadığı versiyondur şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...duyulmadı sonrası çöküş zinciridir
+      metin  : mayer
+      duyulan: maier
+  REPLACE  ...yıllığına dolara bağımsız gösterimci
+      metin  : dwain
+      duyulan: dianne
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: film-2026-10-03.duyulan.txt

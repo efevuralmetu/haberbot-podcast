@@ -1,0 +1,52 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-03.mp3
+
+beklenen 2613 kelime | duyulan 2610 kelime | eşleşme %98.9
+sayı ifadesi: metinde 104, duyulanda 89  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...review the title was
+      metin  : plain
+      duyulan: plane
+  INSERT   ...have come to equilibrium
+      metin  : (yok)
+      duyulan: the system must have come to equilibrium
+  REPLACE  ...the laser that theodoer
+      metin  : maiman
+      duyulan: meiman
+  REPLACE  ...that included ulrich schneider
+      metin  : immanuel
+      duyulan: emmanuel
+  REPLACE  ...attributed to dark energy
+      metin  : in
+      duyulan: and
+  REPLACE  ...as wel in lars
+      metin  : onsager
+      duyulan: unsager
+  REPLACE  ...aer therefoer possible what
+      metin  : onsager
+      duyulan: unsager
+  REPLACE  ...characterized by negative temperatuer
+      metin  : arizing
+      duyulan: aer rizing
+  REPLACE  ...the story arrives in
+      metin  : jörn
+      duyulan: jern
+  REPLACE  ...that the sample of
+      metin  : purcel
+      duyulan: per cel
+  REPLACE  ...did not take long
+      metin  : daan frenkel
+      duyulan: dan frankel
+  INSERT   ...the great majority of
+      metin  : (yok)
+      duyulan: physicists go
+  DELETE   ...by way of infinity
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 23 kelime | duyulup metinde OLMAYAN: 22
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: science-2026-10-03.duyulan.txt

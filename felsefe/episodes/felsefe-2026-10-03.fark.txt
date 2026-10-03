@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-03.mp3
+
+beklenen 2627 kelime | duyulan 2658 kelime | eşleşme %96.9
+sayı ifadesi: metinde 381, duyulanda 282  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ize bizim her şeyimizi
+      metin  : bilecek
+      duyulan: bilecekler
+  INSERT   ...amerikalı iktisatçı robert heilbroner
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bugünkü çalışanın parasını bugünkü
+      metin  : emekliye
+      duyulan: emekliğe
+  INSERT   ...son derece cimri filozoftu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hesabının da omurgasıdır şimdi
+      metin  : parfidin
+      duyulan: parfit in
+  REPLACE  ...diye kuramayız kanadalı filozof
+      metin  : jan
+      duyulan: can
+  REPLACE  ...kanadalı filozof jan narveson
+      metin  : ın
+      duyulan: un te
+  INSERT   ...büyük bölümünü harcadı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yolu seçti hem de
+      metin  : parfidin
+      duyulan: parfit in
+  REPLACE  ...güvendir kur an da
+      metin  : ahzab
+      duyulan: ahzap
+  REPLACE  ...sonsuza kadar akar dayanağı
+      metin  : müslim in
+      duyulan: müslüman
+  REPLACE  ...kurduğu en cüretkar ilişkidir
+      metin  : nizamülmülk
+      duyulan: nizami ül mülk
+  INSERT   ...cüretkar ilişkidir nizamülmülk ün
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve siyasetçi edmund burke
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...üzerine düşünceler adlı kitabında
+      metin  : (yok)
+      duyulan: dok
+  REPLACE  ...hata olduğunu savundu burke
+      metin  : e
+      duyulan: ye
+  INSERT   ...devir teslimdir i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...i bn haldun ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çarpıcı görüntüsü belki de
+      metin  : köln
+      duyulan: köl
+  INSERT   ...köln katedrali nin temeli
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...temeli atıldı i nşaat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yüzyıllarca öylece kaldı çalışma
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çalışma yeniden başladı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...devrediyorlardı alman filozof hans
+      metin  : yonas
+      duyulan: jonas da
+  REPLACE  ...hans yonas yayımladığı das
+      metin  : printsip ferantvortung
+      duyulan: prinzip ferentfortung
+  REPLACE  ...teknoloji açısından yeniden kurdu
+      metin  : yonas
+      duyulan: jonas
+  REPLACE  ...taşıdı artık yüzyıllar sonrasını
+      metin  : etkileyebiliyoruz
+      duyulan: ödeyebiliyoruz
+  REPLACE  ...hala komşu mesafesinde duruyor
+      metin  : yonas
+      duyulan: jonas
+  REPLACE  ...ın önerdiği yeni buyruk
+      metin  : sadedir
+      duyulan: saadedir
+  REPLACE  ...ne vakıf ne de
+      metin  : yonas parfidin
+      duyulan: jonas parfid in
+  REPLACE  ...tünel sistemi var adı
+      metin  : fincede
+      duyulan: finsede
+  REPLACE  ...var adı fincede oyuk
+      metin  : mağara
+      duyulan: maara
+  DELETE   ...gereken süer mısır piramitlerinin
+      metin  : yaşının
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sorun resmen ele alındı
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...boyunca insanları o topraktan
+      metin  : uzak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yıllık ömrü yok mısır
+      metin  : hiyeroglifleri
+      duyulan: hieroglifleri
+  INSERT   ...işaret yığını olarak kaldı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...dilde tekrarlayan odalar önerdi
+      metin  : fransuaz
+      duyulan: te françois
+  REPLACE  ...fransuaz bastid ve paolo
+      metin  : fabbri
+      duyulan: fabri
+  REPLACE  ...bu kedilerin tehlikeyle ilişkisinin
+      metin  : şarkılara
+      duyulan: okullara
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-10-03.duyulan.txt

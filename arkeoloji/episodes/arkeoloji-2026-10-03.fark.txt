@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-03.mp3
+
+beklenen 2773 kelime | duyulan 2796 kelime | eşleşme %95.8
+sayı ifadesi: metinde 423, duyulanda 294  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu değişmezlik güven vericiydi
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...olmadığını hatırlatan şey oldu
+      metin  : halştat
+      duyulan: halçdat
+  REPLACE  ...oldu halştat tuz madeninin
+      metin  : kilb
+      duyulan: kilp
+  REPLACE  ...kaybolan adamların adları vardı
+      metin  : hiçbiri
+      duyulan: hiç
+  INSERT   ...dönemin zihniyetini anlatır nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlatır nisan bu adam
+      metin  : halştat
+      duyulan: haşlat
+  REPLACE  ...adam halştat mezarlığına gömüldü
+      metin  : kapuçin
+      duyulan: kapucin
+  REPLACE  ...o beden bugün yok
+      metin  : halştat
+      duyulan: halçdat
+  INSERT   ...doğa tarihi müzesi nin
+      metin  : (yok)
+      duyulan: tan
+  REPLACE  ...aynı bölgede yürüttüğü kazılar
+      metin  : kilb
+      duyulan: kil
+  REPLACE  ...katolik madenci değildi erken
+      metin  : la
+      duyulan: laten
+  DELETE   ...ilerleyen evresine aitti ve
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adam almanca adıyla man
+      metin  : im zalts
+      duyulan: imzalt
+  REPLACE  ...arkeolog değil maden müdürüydü
+      metin  : halştat ta
+      duyulan: da hallstatt a
+  REPLACE  ...idaresinin başındaki adama ulaştı
+      metin  : yohan
+      duyulan: johann
+  REPLACE  ...ulaştı yohan georg ramzauer
+      metin  : halştat ta
+      duyulan: te hallstatt a
+  REPLACE  ...anlamda meslek değildi ramzauer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...alıp vitrine koymaktı gerisi
+      metin  : moloz
+      duyulan: molos
+  INSERT   ...kağıda geçti bu iş
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu iş başladı ve
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...başladı ve kadar sürdü
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...yanına silahlar ve süs
+      metin  : eşyalarıyla
+      duyulan: eşyaları ile
+  REPLACE  ...defterler kaldı ve bugün
+      metin  : halştat
+      duyulan: haçdat
+  REPLACE  ...bildiğimiz şeylerin önemli bölümü
+      metin  : suluboyalarından
+      duyulan: sunu boyalarından
+  REPLACE  ...yapılmış üstü kehribar kakmalarla
+      metin  : bezenmişti
+      duyulan: bezelmişti
+  REPLACE  ...macaristan dan savaş baltaları
+      metin  : etrüsk
+      duyulan: etrusluk
+  REPLACE  ...bolluğu çürümeye terk ediyordu
+      metin  : halştat ın
+      duyulan: halçdatın
+  REPLACE  ...koca dönemine verildi kabaca
+      metin  : mö
+      duyulan: mesek
+  REPLACE  ...yüzyıllar orta avrupa nın
+      metin  : halştat
+      duyulan: halçdat
+  REPLACE  ...işler bitmiş değildi ramzauer
+      metin  : in
+      duyulan: ın
+  INSERT   ...ardından aralıklı kazılar sürdü
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...dek açılan mezar sayısı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...içerdiği tahmin ediliyor yani
+      metin  : halştat
+      duyulan: halçdat
+  REPLACE  ...dışı arşiv duruyordu çöplük
+      metin  : halştat
+      duyulan: halçdat
+  REPLACE  ...eski sıkışmış siyaha yakın
+      metin  : moloz
+      duyulan: molos
+  REPLACE  ...yakın moloz tabakasına verdikleri
+      metin  : ad
+      duyulan: at
+  REPLACE  ...tabakasına verdikleri ad vardı
+      metin  : haydengebirge
+      duyulan: haydenge
+  REPLACE  ...kazma sapları oluklar kaplar
+      metin  : i pler otdan
+      duyulan: ipler ottan
+  REPLACE  ...koruyan deri parçaları bronz
+      metin  : çağı
+      duyulan: çağ
+  ... ve 50 fark daha
+
+metinde olup DUYULMAYAN: 83 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: arkeoloji-2026-10-03.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-03.mp3
+
+beklenen 2437 kelime | duyulan 2567 kelime | eşleşme %12.2
+sayı ifadesi: metinde 262, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...prime ministers of france
+      metin  : avusturya nın tirol bölgesinde inn vadisinden güneye doğru tırmanan yolun kenarında derenin oyduğu kaya çıkıntısının üzerinde yapı durur aşağıdan bakıldığında masal kalesine benzer kalın duvarlar köşelerde kuleler ortada tek kapı adı schloss itter yani itter kalesi
+      duyulan: the war ended in the week the war ended american soldiers and german soldiers weer digging in side the walls of a castle in the austrian mountains and what had to be protected inside was not an ammunition dump but former prime ministers of france and what had to be protected inside was not an ammunition dump but former prime ministers of france theer weer dead and addressing trees pointed at the henry structuer of their homes nothing further had been known yet to be said about sample names of the wize middle eastern soldiers who treeed each metabolite of the war at the judges house in m r e l e s s n e e u t a n comutan o s w a l d po k e l e e e l k o
+  REPLACE  ...yani itter kalesi i
+      metin  : lk kez tarihli tapu kaydında anılır ama bugün görülen çok daha yenidir den itibaren eski temellerin üzerine yeniden inşa edilmiştir te kaleyi liszt
+      duyulan: d o theer aer nissan galindi
+  REPLACE  ...te kaleyi liszt in
+      metin  : öğrencisi dönemin ünlü piyanistlerinden sophie menter satın aldı menter
+      duyulan: the dunushim tamamlan mushteh p e l e r e r e p a r m a k l i c k p a l e r e k l i t b a h c e e d i k a n i t a l i r k a l a c e a m a b u o l i s h i l m u s p i r k a m p d i l d i r k k a l e s i n e g i n d i l a n e r a l m a n o n r t u t u k l u l e d i e k a t e g o r i e g i y y y y y y y y y y y t a n i s t i g e i n b o r o t r a i a n l r n d a r e n o d n s e k r e k r e k r i s t i a n e m a b i r e j o h o s n n s e k r e o g u s t a b r u k l e n b a z e e s h l a r v e h i s m e t l a r h e p s i b i r l i k t i y y r m i e d i j w a r n d i n s a n k o s h u l a r d a s h a u n u n a k a m p n d a k i j h n e m n e k r i a s l a m i a k a d a r i e d t u k l u l a r n k e n d o d a l a r w a r d k o s h u l i juho amru istje hareketine vermishti la roki ize o hareketine karshesan adikilmishbi hareketine nidirid shimdi aini yemek masasunda aina koridorda aina chikusizliktayeshu ollarda berberlareen kebarka salaam veriyar sonra iru kasheleredali ollarda buin san lirean hipsin
+  REPLACE  ...satın aldı menter in
+      metin  : konukları arasında tchaikovsky
+      duyulan: aina tarafta uldu nuhatr la malarichin duvar lirean dushandang yelan tehti deihti ach warda maisonan ilk gunnerin de otheitit gelde nisanan sonan
+  REPLACE  ...konukları arasında tchaikovsky da
+      metin  : vardı de
+      duyulan: tyrol dalan devletin ndar kashesidhe american likleri kusayden ve baltadan injordu hitler otus nisan da berlinde inteharit mishti jepedie bishay kalma mishti aama tam boile an narda regimin chukushu enteh likhele haile gehtirir yolarda halah silah le ss likteer dola shiordu ve
+  REPLACE  ...da vardı de bu
+      metin  : duvarların arasında eserinin orkestrasyonu üzerinde çalıştı yüzyılın başında kale kez daha elden geçti i ngiliz tudor üslubunu andıran süslemeler kazandı yani bu taşlar ilk önce müzik duydu konuk odalarının gıcırtısını duydu vadiye bakan terasta içilen çayların sessizliğini duydu sonra ın sonunda alman hükümeti kaleyi sahibinden kiraladı şubat te himmler in emriyle ss in ekonomik işlerini yürüten komutan oswald pohl kaleye el koydu nisan e gelindiğinde dönüşüm tamamlanmıştı pencereleer parmaklık kapılara kilit bahçeye dikenli tel itter kalesi artık dachau toplama kampının alt kampıydı yönetimi dachau da yıllarını geçirmiş ss subayı olan
+      duyulan: likteren elinde ikkei sheiwardu jefane ve khaibede jekhich bishay olma yan subailar kalade unje tuhaf ulumuldu daakyaonun san komutanu eduard vaytar kampunu burakup itar kaale sinasun mishti daatrida maista kalenin ichinde ulubulundu kendine wurdu annashildu buu
+  REPLACE  ...subayı olan sebastian wimmer
+      metin  : e verildi sertliği
+      duyulan: ichin ishariti kat saat ichinde karasun yanana alup kalade naireldu ardun dan mua fuzlar dasirakadan bastu dirt maisa geh lindin de kalade unifor malatek alman kalma mishti boile anun ilk hissirahat la maulur hissi dekhet chunku bu insan naran krimete rehine olma lerendan gehliordu
+  REPLACE  ...e verildi sertliği ve
+      metin  : kabalığıyla tanınan kalede kendi dairesinde karısıyla oturan adam ama bu alışılmış kamp değildi itter kalesi ne gönderilenler almanların tutukluları dediği kategoriye giriyordu çalıştırılmak ya da yok edilmek için değil pazarlık kozu olarak elde tutulan insanlar hemen hepsi fransızdı
+      duyulan: rehine nen krimete bitar se neoluja beylidu savashen son hafta lerenda alma yanun dirt yananda eldan chukmakuzera olantu tuklula rin fazitiliordu kale artik korunan yar deeildu kapus achuk sahibi bilirsez editanan mishismi barandaran ahaali negal mishti francis lar muhafaz laran burakt seelahte posunu achta lar tu fekdir pail achta lar aam abir aavu chaltmishina yeht mishina gech mishti ase chenan tu fektashamasa gelejek ss mi frese sina durdur maaya yeht mazde yardam aramak geh rek yordu
+  REPLACE  ...hemen hepsi fransızdı ve
+      metin  : hemen hepsinin adı avrupa da biliniyordu listeye bakmak ta çöken fransa nın yönetici sınıfının neredeyze tamamını salonda toplamak gibidir i ki eski başbakan paul reynaud ve édouard daladier i ki eski genelkurmay başkanı yani fransız ordusunun savaşa girerken ve savaşı kaybederken başında bulunan adam maurice gamelin ve maxime weygand dünya savaşı nın efsanevi başbakanı georges clemenceau nun oğlu michel clemenceau berlin ve roma da büyükelçilik yapmış diplomat andré françois poncet fransa nın en büyük işçi konfederasyonunun lideri sendikacı léon jouhaux sağ kanadın kitlesel hareketi croix de feu nün yani ateş haçı nın kurucusu albay françois de la rocque charles de gaulle ün ablası marie agnès cailliau ve kocası alfred tenisçi jean borotra yanlarında reynaud un sekreteri christiane mabier jouhaux nun sekreteri augusta bruchlen bazı eşler ve hizmetliler hepsi birlikte civarında insan koşullar dachau nun ana kampındaki cehennemle kıyaslanamayacak kadar iyiydi tutukluların kendi odaları vardı kütüphaneyi kullanabiliyorlar kalenin mahzeninden şarap çıkarabiliyorlar avluda dolaşabiliyorlardı borotra her gün jimnastik yapıyordu ama bu otel değildi kapıdan çıkmak yoktu ve kalenin asıl işleyişini görünmez grup sağlıyordu mutfakta kazanda elektrik tesisatında çalışanlar dachau dan getirilmiş doğu avrupalı tutuklulardı onların adı hiçbir diplomatik notada geçmiyordu hikayenin bundan sonraki kısmını başlatacak
+      duyulan: buunu yapabilijek
+  REPLACE  ...sonraki kısmını başlatacak olan
+      metin  : da tam olarak onlardı kalenin içindeki en tuhaf gerilim ize muhafızlarla tutuklular arasında değildi fransızlar arasındaydı reynaud haziranı nda savaşa devam etmek isteyen başbakandı weygand aynı günlerde teslim olmayı savunan başkomutan i kisi birbirini fransa nın yıkımından sorumlu tutuyordu daladier ile reynaud un siyasi hesapları yıllar öncesine uzanıyordu jouhaux ömrü işçi hareketine vermişti la rocque ize o hareketin karşısına dikilmiş hareketin lideriydi şimdi aynı yemek masasında aynı koridorda aynı çıkışsızlıkta yaşıyorlardı birbirlerine kibarca selam veriyor sonra ayrı köşeleer dağılıyorlardı bu insanların hepsinin aynı tarafta olduğunu hatırlamaları için duvarların dışından gelen tehdide ihtiyaç vardı mayısı nın
+      duyulan: naar kalening gurun mazishtili ride chunku yalnazja kapudancha kap kasabayegi debiliyordu
+  REPLACE  ...vardı mayısı nın ilk
+      metin  : günlerinde o tehdit geldi nisanı nın sonunda tirol dağılan devletin en dar köşesiydi amerikan birlikleri kuzeyden ve batıdan iniyordu hitler nisan da berlin de intihar etmişti cephe diye şey kalmamıştı ama tam böyle anlarda rejimin çöküşü en tehlikeli hale getirir yollarda hala silahlı ss birlikleri dolaşıyordu ve bu birliklerin elinde şey vardı cephane ve kaybedecek hiçbir şeyi olmayan subaylar kalede önce tuhaf ölüm oldu dachau nun son komutanı eduard weiter kampını bırakıp itter kalesi ne sığınmıştı mayıs ta kalenin içinde ölü bulundu kendini vurduğu anlaşıldı bu sebastian wimmer için işaretti saat içinde karısını yanına alıp kaleden ayrıldı ardından muhafızlar da sırra kadem bastı mayıs a gelindiğinde kalede üniformalı tek alman kalmamıştı böyle anın ilk hissi rahatlama olur hissi dehşet çünkü bu insanların kıymeti rehine olmalarından geliyordu ve rehinenin kıymeti biterse ne olacağı belliydi savaşın son haftalarında almanya nın yanında elden çıkmak üzeer olan tutuklular infaz ediliyordu kale artık korunan yer değildi kapısı açık sahibi belirsiz tanınmış ismi barındıran haline gelmişti fransızlar muhafızların bıraktığı silah deposunu açtılar tüfekleri paylaştılar ama avuç geçmiş siyasetçinin tüfek taşıması gelecek ss müfrezesini durdurmaya yetmezdi yardım aramak gerekiyordu ve bunu yapabilecek olanlar kalenin görünmez işçileriydi çünkü yalnızca kapıdan çıkıp kasabaya gidebiliyordu i lk giden
+      duyulan: gedan
+  REPLACE  ...i lk giden zvonimir
+      metin  : čučković
+      duyulan: chuchkovich
+  REPLACE  ...zvonimir čučković oldu yugoslav
+      metin  : komünist direnişten gelme
+      duyulan: beer communist de renechten galme
+  REPLACE  ...komünist direnişten gelme kalede
+      metin  : elektrik
+      duyulan: elektrek
+  REPLACE  ...gelme kalede elektrik ve
+      metin  : tamir işlerine
+      duyulan: tami rishlerne
+  REPLACE  ...ve tamir işlerine bakan
+      metin  : tutuklu mayıs ta komutan için iş yapacağını söyleyerek kapıdan çıktı üzerinde i ngilizce yazılmış mektup vardı muhatabı belirsizdi rastlanacak herhangi müttefik subaya seslenerek başlıyordu
+      duyulan: tu tuklu e tusto maista komutanichin isya pudjana soylerek kapudanchakte uzerende ingiliz jeyazul musbir mek tukwarde muhatabu belir sizde raslanajak herhangibir mutefiksubaya sistene rek bashliordu
+  REPLACE  ...seslenerek başlıyordu ve kalede
+      metin  : kimlerin tutulduğunu anlatıyordu
+      duyulan: kimleren tutul dunanatuyordu
+  REPLACE  ...kimlerin tutulduğunu anlatıyordu en
+      metin  : yakın
+      duyulan: yakin
+  REPLACE  ...anlatıyordu en yakın kasaba
+      metin  : dağın aşağısındaki wörgl dü
+      duyulan: dan asasundaki wergoldu
+  REPLACE  ...aşağısındaki wörgl dü ama
+      metin  : wörgl de alman askerleri vardı čučković kuzeye inn vadisi boyunca
+      duyulan: wergolde almanaskar lirvarde sikochkovich kuze in vadi si boyunja
+  REPLACE  ...vadisi boyunca innsbruck a
+      metin  : yönelmeyi seçti
+      duyulan: yunelme isechte alti
+  REPLACE  ...a yönelmeyi seçti kilometer
+      metin  : gün boyunca o yolu aldı aynı akşamın geç saatlerinde
+      duyulan: boyunja oyolu aldu eina akshamun gechsat lirende
+  REPLACE  ...akşamın geç saatlerinde innsbruck
+      metin  : yakınlarında amerikan piyade tümeni ne bağlı piyade alayı nın öncü unsurlarına rastladı
+      duyulan: jakun lirende american juzu cunjupiade tu meni eina baal dirk yuzu cunjupiade ala inan unju unsul lirena raslade
+  REPLACE  ...unsurlarına rastladı ve mektubu
+      metin  : teslim etti amerikalılar inandı
+      duyulan: teslimete ameri kalalar inand
+  REPLACE  ...etti amerikalılar inandı kurtarma
+      metin  : müfrezesi hazırladı
+      duyulan: mifreze sehazul lade
+  REPLACE  ...kurtarma müfrezesi hazırladı ve
+      metin  : yola çıktı
+      duyulan: yolachikte
+  REPLACE  ...ve yola çıktı ama
+      metin  : o yol kolay yol değildi vadide hala direnen
+      duyulan: oyol kolai yolde ilde vadi dehala diranan
+  REPLACE  ...vadide hala direnen noktalar
+      metin  : vardı köprüler havaya uçurulmuştu
+      duyulan: varde kuprular hawaya uchurl mushtu
+  REPLACE  ...havaya uçurulmuştu ve kolun
+      metin  : ilerleyişi yavaşladı čučković görevini yapmıştı
+      duyulan: ilar leshi avashlade sikochkovich gerevi ni ap mushtu
+  REPLACE  ...görevini yapmıştı ama kalenin
+      metin  : başına gelecek şeyin
+      duyulan: bashna gelejek sheyin
+  REPLACE  ...başına gelecek şeyin saati
+      metin  : çoktan işlemeye başlamıştı
+      duyulan: choktani shleme abashla mushtu
+  INSERT   ...çoktan işlemeye başlamıştı ve
+      metin  : (yok)
+      duyulan: okol zamananda warami jaktu kala dei chachukovich habera luna ma yinja dene meyapolde bukhez gedan kalenin mutfanda chalu shanchek ashchi andreas karobotu ford mais olan saatlerin de bisikleti ne atla de vedadan wergile inde tu tukulurun yazde notu tashurede wergile
+  REPLACE  ...işlemeye başlamıştı ve o
+      metin  : kol zamanında varamayacaktı kalede čučković haber alınamayınca deneme yapıldı bu kez giden kalenin mutfağında çalışan çek aşçı andreas krobot tu mayıs öğlen saatlerinde bisikletine atladı
+      duyulan: saatler de hichguvane deilde kasabayanidan ss unsul aranan deneti minne girmishte uniformas biryabanjanan bisikletle kasabayagirip burda kiminyarda mede bileje inis ormasi ya kalan musahailin de duaaradayan maklason uxlanajak birishte krobati ine de dorukapu yibuldu awusturia dirinishnin yeral gurubuna ullashte
+  REPLACE  ...saatlerinde bisikletine atladı ve
+      metin  : dağdan wörgl
+      duyulan: direnishtilar o koshullar da akhla gelejek en beklan medikadresi gyostar dilar kasabada yardam istey
+  REPLACE  ...ve dağdan wörgl e
+      metin  : indi tutukluların yazdığı notu taşıyordu wörgl o saatlerde hiç güvenli değildi kasaba yeniden ss unsurlarının denetimine girmişti üniformasız yabancının bisikletle kasabaya girip burada kimin yardım edebileceğini sorması yakalanması halinde duvara dayanmakla sonuçlanacak işti krobot yine de doğru kapıyı buldu avusturya direnişinin yerel grubuna ulaştı ve direnişçiler o koşullarda akla gelebilecek en beklenmedik adresi gösterdiler kasabada yardım isteyebilecekleri silahlı
+      duyulan: bilejek derisilahibir
+  REPLACE  ...yardım isteyebilecekleri silahlı adam
+      metin  : vardı
+      duyulan: barda
+  REPLACE  ...adam vardı o adam
+      metin  : alman ordusu binbaşısıydı josef gangl eylül da bavyera nın obertraubling köyünde doğdu
+      duyulan: almanor du subinba shasidu joseph gengel elol
+  REPLACE  ...obertraubling köyünde doğdu de
+      metin  : henüz yaşında topçu eri olarak alman ordusuna yazıldı
+      duyulan: beviranan overtravelling kuyun de dodo de henuzon yashinda topchu erolarak almanor du sunayazildu
+  REPLACE  ...ordusuna yazıldı yani meslek
+      metin  : hayatının tamamı askerlikti doğu cephesinde savaştı normandiya
+      duyulan: hayatanan tamama askiyalikte dojepe sin de savashte normandia
+  REPLACE  ...cephesinde savaştı normandiya da
+      metin  : savaştı ardenler taarruzunda savaştı i kinci ve sınıf demir haç aldı alman haçı aldı ilkbaharında yaşında rütbesine yükseltildi kağıt üzerinde rejimin kendisine verdiği her şeyi almış subaydı
+      duyulan: savashte ardan nerta aruzun da savashte we birinjisinu fdemirhachalde altan almanhachalde oltbaharanda yashinda binbashirut besina yuksaltilde kaatuzirinde regimin kandisine verdi hershey almushbir subaidah
+  ... ve 157 fark daha
+
+metinde olup DUYULMAYAN: 2132 kelime | duyulup metinde OLMAYAN: 2262
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: history-2026-10-03.duyulan.txt

@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-03.mp3
+
+beklenen 1693 kelime | duyulan 1701 kelime | eşleşme %96.0
+sayı ifadesi: metinde 196, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve bakır tellerden kurulu
+      metin  : düzeneğe
+      duyulan: düzeneye
+  REPLACE  ...pound bulmuştu yeterince saf
+      metin  : lityum florür
+      duyulan: litium fluorür
+  REPLACE  ...topluluğu içinde bulunduğu kristalden
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...olabilirdi kristalin sıcaklığından farklı
+      metin  : sıcaklığı
+      duyulan: sıcak
+  INSERT   ...açıkça yazdılar yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dünyadan yeterince yalıtılmış olmalıdır
+      metin  : lityum florürün
+      duyulan: litium fluorurun
+  REPLACE  ...arasındaki dağılımı tersine çevirmektir
+      metin  : dağılım
+      duyulan: dağılın
+  INSERT   ...bırakır ışık çoğaltmaya başlar
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...arkadaşlarının mikrodalgalarla kurduğu maser
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...mikrodalgalarla kurduğu maser theodoer
+      metin  : maiman
+      duyulan: mayman
+  INSERT   ...enerjisine tavan koyabilir misiniz
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...gelen cevap evet oldu
+      metin  : ludvig maksimilyan
+      duyulan: ludwig maximilian
+  REPLACE  ...ludvig maksimilyan üniversitesi ve
+      metin  : maks plank kuantum optiği
+      duyulan: max planck quantum opti
+  REPLACE  ...kuantum optiği enstitüsü nden
+      metin  : ulrih şnayder i mmanuel bloh
+      duyulan: ulrich schneider immanuel bloch
+  REPLACE  ...yaklaşık potasyum atomundan oluşan
+      metin  : bose aynştayn yoğuşuğunu
+      duyulan: boze einstein yoğuşunu
+  INSERT   ...başka kehanet de doğrulandı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...lars onsager boyutlu sıvıdaki
+      metin  : girdapları
+      duyulan: gırdapları
+  REPLACE  ...sıcaklıkta aynı yönde dönen
+      metin  : girdaplar
+      duyulan: gırdaplar
+  REPLACE  ...yerine kümelenir birleşip dev
+      metin  : girdaplar
+      duyulan: gırdaplar
+  INSERT   ...birleşip dev girdaplar kurar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yan yana çıkan çalışma
+      metin  : queensland
+      duyulan: clinsland
+  REPLACE  ...tam olarak bunu gözledi
+      metin  : türbülanstan
+      duyulan: turbulanstan
+  REPLACE  ...en sert itirazı geliyor
+      metin  : yörn
+      duyulan: te yern
+  REPLACE  ...makale yayımladılar tutarlı termoistatistik
+      metin  : negatif
+      duyulan: nokatif
+  REPLACE  ...yıldır kullanılan entropi tanımı
+      metin  : boltsman
+      duyulan: boltzmann
+  REPLACE  ...tanımı tutarsızlıklar üretiyor yerine
+      metin  : gibbs in
+      duyulan: gibson
+  REPLACE  ...değil defter tutma tartışması
+      metin  : purcel
+      duyulan: pursel
+  REPLACE  ...yazacağınız karşı cevaplar gecikmedi
+      metin  : dan frenkel ile
+      duyulan: don frankelli
+  REPLACE  ...frenkel ile patrick warren
+      metin  : gibbs
+      duyulan: gibson
+  REPLACE  ...aynı sıcaklığı göstermesi gerekir
+      metin  : gibbs
+      duyulan: gibson
+  REPLACE  ...gibbs entropisi bunu sağlamıyor
+      metin  : boltsman
+      duyulan: boltzmann
+  REPLACE  ...sağlamıyor boltsman entropisi sağlıyor
+      metin  : münih ekibi
+      duyulan: münihteki
+  REPLACE  ...yazısıyla itiraza karşılık verdi
+      metin  : dunkel
+      duyulan: don kelly
+  REPLACE  ...fizikçilerin büyük çoğunluğu pratikte
+      metin  : boltsman
+      duyulan: boltzmann
+  REPLACE  ...kadar imkansız i ki
+      metin  : uç da
+      duyulan: uçta
+  REPLACE  ...yol geçmiyor sonsuzdan dolaşıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: bilim-2026-10-03.duyulan.txt

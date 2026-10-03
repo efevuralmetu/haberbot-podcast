@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-03.mp3
+
+beklenen 1726 kelime | duyulan 1733 kelime | eşleşme %96.9
+sayı ifadesi: metinde 198, duyulanda 152  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...bakınca topraktan kale duvarları
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saat tırmandığınızda arazi kırışır
+      metin  : fucien
+      duyulan: fücen
+  REPLACE  ...tamamı yaşıyor bu yapılara
+      metin  : tulou
+      duyulan: tulu
+  REPLACE  ...hakka denir kendi söyleyişlerinde
+      metin  : kecia
+      duyulan: keca
+  REPLACE  ...dalgası daha güneye daha
+      metin  : dağlık
+      duyulan: dalık
+  REPLACE  ...dağda eşkıya vadide silahlı
+      metin  : klan
+      duyulan: kılan
+  REPLACE  ...yerinde kül bulurdu çözüm
+      metin  : mimariyi
+      duyulan: mimari
+  REPLACE  ...yapım tekniği şaşırtıcı biçimde
+      metin  : sadedir
+      duyulan: saadedir
+  REPLACE  ...kalın ahşaptır üstü demir
+      metin  : levhayla
+      duyulan: levha ile
+  REPLACE  ...köyünde durur yörede kısaca
+      metin  : tulou
+      duyulan: tulu
+  INSERT   ...salonu toplam oda sayısı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...döneminin sonlarında başlanmış ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonra tamamlanmıştır işi bitiren
+      metin  : ciang
+      duyulan: jiang
+  INSERT   ...yıllarında bu tek içinde
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...değildir klan reisinin odası
+      metin  : komşusununkiyle
+      duyulan: komşusununki ile
+  REPLACE  ...aynı salon gerektiğinde mahkemedir
+      metin  : klan
+      duyulan: kalan
+  REPLACE  ...daha da ileri gitmiştir
+      metin  : nancing
+      duyulan: nansing
+  REPLACE  ...kuzeyindeki ünlü şehirle karıştırmayın
+      metin  : fucien ın
+      duyulan: fücenin
+  REPLACE  ...yıla yakın süredir o
+      metin  : eğrilikle
+      duyulan: eğrilikli
+  REPLACE  ...yeteneği vardır yılında yapılmış
+      metin  : huanci lou
+      duyulan: hua an ji lu
+  INSERT   ...huanci lou adlı halka
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zayıf noktası da yoktur
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...uydu fotoğraflarını yorumlayan uzmanlar
+      metin  : fucien ın
+      duyulan: fuce nin
+  REPLACE  ...büyükelçiliğinden kişinin turist kılığında
+      metin  : yöreye
+      duyulan: yöreğe
+  REPLACE  ...ciddiye almaz amerikan istihbaratının
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...belgelerde takip edilen sahalar
+      metin  : fucien
+      duyulan: fujian
+  REPLACE  ...demek gurur verici cümledir
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...uydurma hikayeden çok daha
+      metin  : etkileyiciyken
+      duyulan: etkileyici iken
+  INSERT   ...önüne geçti gerçek tanınma
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aldı yüzyıldan uzanan yongding
+      metin  : nancing
+      duyulan: nanjing
+  REPLACE  ...dışarı çıkıyordu fabrikalar kıyıdaydı
+      metin  : şiamen şencın guangcou
+      duyulan: xiamen shenzhen guangzhou
+  REPLACE  ...guangcou vardiyada kazanılan para
+      metin  : yamaçtaki taraçada
+      duyulan: yamaç taki taraca da
+  REPLACE  ...odalar ortak kuyu ortak
+      metin  : ambar
+      duyulan: anvar
+  REPLACE  ...yanıyor mu yanmıyor mu
+      metin  : nöron seyahat de
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: seyahat-2026-10-03.duyulan.txt
