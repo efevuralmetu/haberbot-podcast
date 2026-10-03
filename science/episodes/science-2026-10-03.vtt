@@ -1,0 +1,641 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.290
+What would you think if the thermometer read minus one hundred kelvin?
+
+2
+00:00:04.290 --> 00:00:13.060
+You can't go below absolute zero — but that number doesn't mean going down there at all: it means crossing over to the other side of infinite temperature.
+
+3
+00:00:13.060 --> 00:00:17.510
+And a gas that has crossed to that side is hotter than anything you're holding.
+
+4
+00:00:25.710 --> 00:00:31.280
+The headline gets written like this: scientists have gone below absolute zero.
+
+5
+00:00:31.280 --> 00:00:35.570
+The sentence sounds like a record, like a limit being broken.
+
+6
+00:00:35.570 --> 00:00:37.780
+But that is not what happened.
+
+7
+00:00:37.780 --> 00:00:46.390
+What happened is stranger, and more interesting: a temperature with a minus sign in front of it is not the bottom of cold, it is the top of hot.
+
+8
+00:00:46.390 --> 00:00:51.480
+A gas sitting at minus one nanokelvin counts as hotter than the core of the sun.
+
+9
+00:00:51.480 --> 00:00:59.130
+To understand that, you have to break the thermometer open, look inside, and ask what that number is actually measuring.
+
+10
+00:00:59.130 --> 00:01:03.420
+We are used to thinking of temperature as the amount of heat in a body.
+
+11
+00:01:03.420 --> 00:01:05.150
+It isn't.
+
+12
+00:01:05.150 --> 00:01:08.320
+Temperature is not a quantity, it is a slope.
+
+13
+00:01:08.320 --> 00:01:15.330
+It is the ratio that tells you how much a system's disorder, its entropy, grows when you add a little energy to it.
+
+14
+00:01:15.330 --> 00:01:22.820
+The physicist's definition is exactly that: the inverse of temperature is the rate at which entropy changes with energy.
+
+15
+00:01:22.820 --> 00:01:27.430
+It sounds dry, but our entire everyday experience follows from it.
+
+16
+00:01:27.430 --> 00:01:35.240
+When you put your hand into hot tea, energy flows from the tea into your hand, because that transfer makes the total entropy larger.
+
+17
+00:01:35.240 --> 00:01:44.170
+When the tea and your hand come to the same temperature the flow stops, because from then on, whichever way you carried the energy, the total disorder would go down.
+
+18
+00:01:44.170 --> 00:01:49.740
+Heat flowing from hot to cold is not a law; it is the outcome of bookkeeping.
+
+19
+00:01:49.740 --> 00:01:55.950
+Now ask this question: when you add energy to a system, does its entropy always increase?
+
+20
+00:01:55.950 --> 00:01:58.800
+In ordinary matter it does.
+
+21
+00:01:58.800 --> 00:02:08.050
+Heat a container of gas and the atoms move faster, the number of velocity states they can reach grows, the number of ways they can be arranged multiplies.
+
+22
+00:02:08.050 --> 00:02:10.260
+Entropy climbs.
+
+23
+00:02:10.260 --> 00:02:14.550
+And there is no end to it, because kinetic energy has no ceiling.
+
+24
+00:02:14.550 --> 00:02:17.720
+You can always make an atom go a little faster.
+
+25
+00:02:17.720 --> 00:02:23.450
+And because there is no ceiling, the temperature of such systems always carries a plus sign.
+
+26
+00:02:23.450 --> 00:02:26.940
+That is why the thermometer is a trustworthy instrument.
+
+27
+00:02:26.940 --> 00:02:30.430
+Can we imagine a system that does have a ceiling?
+
+28
+00:02:30.430 --> 00:02:34.080
+We can, and in fact nature is full of them.
+
+29
+00:02:34.080 --> 00:02:37.730
+Take an atomic nucleus placed in a magnetic field.
+
+30
+00:02:37.730 --> 00:02:49.540
+The spin of the nucleus behaves like a compass needle; in the simplest case it has only two options: pointing along the field, which is the low energy state, or pointing against it, which is the high energy state.
+
+31
+00:02:49.540 --> 00:02:53.190
+There is no third option, no higher rung above that.
+
+32
+00:02:53.190 --> 00:02:56.040
+The energy ladder has a top.
+
+33
+00:02:56.040 --> 00:02:59.530
+Imagine billions of such needles inside a crystal.
+
+34
+00:02:59.530 --> 00:03:10.540
+If they are all lined up parallel to the field, the system is at its lowest energy and there is exactly one way to do that; entropy is zero, and the temperature is plus zero kelvin.
+
+35
+00:03:10.540 --> 00:03:18.670
+Now start feeding in energy: some needles flip over, and because there are countless ways of choosing which ones flipped, entropy grows quickly.
+
+36
+00:03:18.670 --> 00:03:21.360
+Familiar so far.
+
+37
+00:03:21.360 --> 00:03:30.930
+The critical point lies exactly halfway: when half the needles point up and half point down, the number of ways to arrange the system reaches its largest value.
+
+38
+00:03:30.930 --> 00:03:33.460
+Entropy is at its peak.
+
+39
+00:03:33.460 --> 00:03:40.950
+Here, raising the energy a little contributes nothing at all to entropy, the slope is zero, which means the temperature is infinite.
+
+40
+00:03:40.950 --> 00:03:43.640
+Nothing strange has happened yet.
+
+41
+00:03:43.640 --> 00:03:47.130
+The strange thing happens at the next step.
+
+42
+00:03:47.130 --> 00:03:56.060
+If you push past the halfway mark and force the majority of the needles to point the wrong way, the system gains energy again, but its options begin to shrink.
+
+43
+00:03:56.060 --> 00:04:03.230
+In the state where every single one of them has flipped, there is once again only one arrangement, and entropy falls back to zero.
+
+44
+00:04:03.230 --> 00:04:06.720
+So energy is rising while entropy is falling.
+
+45
+00:04:06.720 --> 00:04:08.930
+The slope is negative.
+
+46
+00:04:08.930 --> 00:04:14.020
+And temperature, being the inverse of that slope, carries a minus sign.
+
+47
+00:04:14.020 --> 00:04:25.990
+The order of the rungs on this ladder runs like this: you start at plus zero kelvin, you warm up, exactly at the halfway point the temperature flies off to infinity, from there it passes over to minus infinity,
+
+48
+00:04:25.990 --> 00:04:31.080
+and as you keep filling the system you climb from minus infinity up toward minus zero.
+
+49
+00:04:31.080 --> 00:04:37.610
+A fully inverted system is at minus zero kelvin, and that is the hottest condition that system can reach.
+
+50
+00:04:37.610 --> 00:04:40.140
+Why the hottest?
+
+51
+00:04:40.140 --> 00:04:44.270
+Because temperature is the thing that decides which way energy will flow.
+
+52
+00:04:44.270 --> 00:04:51.600
+Whatever you bring an inverted system into contact with, energy flows out of it; because losing energy makes its entropy larger.
+
+53
+00:04:51.600 --> 00:04:56.050
+There is nothing it cannot give away, and nothing it can take in.
+
+54
+00:04:56.050 --> 00:04:59.540
+It gives heat to every system at positive temperature.
+
+55
+00:04:59.540 --> 00:05:04.790
+It gives heat to a thousand degree furnace, and it gives heat to the center of the sun.
+
+56
+00:05:04.790 --> 00:05:07.800
+It is hotter than infinite temperature.
+
+57
+00:05:07.800 --> 00:05:12.730
+The irritating part of all this is that it is really a defect of temperature itself.
+
+58
+00:05:12.730 --> 00:05:25.020
+When physicists use, instead of temperature, its inverse, the entropy slope per unit of energy, the weirdness evaporates: that quantity moves from the coldest to the hottest without a single break, smoothly,
+
+59
+00:05:25.020 --> 00:05:29.310
+descending from positive to zero and from zero into negative.
+
+60
+00:05:29.310 --> 00:05:32.160
+Nowhere does it fly off to infinity.
+
+61
+00:05:32.160 --> 00:05:37.890
+So minus kelvin is not a paradox of nature, it is the shadow of a badly chosen coordinate.
+
+62
+00:05:37.890 --> 00:05:41.380
+This line of reasoning stayed on the blackboard for a long time.
+
+63
+00:05:41.380 --> 00:05:47.910
+Someone had to turn it into something on a tabletop, into an apparatus built out of cold metal and copper wire.
+
+64
+00:05:47.910 --> 00:05:57.800
+In January of nineteen fifty-one, Edward Purcell and Robert Pound of Harvard University published a two page paper in the American physics journal Physical Review.
+
+65
+00:05:57.800 --> 00:06:02.730
+The title was plain: a nuclear spin system at negative temperature.
+
+66
+00:06:02.730 --> 00:06:05.420
+Pound was the one who found the key.
+
+67
+00:06:05.420 --> 00:06:16.910
+In sufficiently pure crystals of lithium fluoride, the nuclear spins were taking a surprisingly long time to exchange energy with the crystal lattice around them: on the order of minutes at room temperature,
+
+68
+00:06:16.910 --> 00:06:18.960
+roughly five minutes.
+
+69
+00:06:18.960 --> 00:06:27.570
+The spins talking to one another, by contrast, feeling each other's magnetic fields and settling into a common equilibrium, took microseconds.
+
+70
+00:06:27.570 --> 00:06:34.420
+Those two clocks running so differently may look like a dry technical detail, but it was the thing that made everything possible.
+
+71
+00:06:34.420 --> 00:06:43.830
+Because the population of spins was behaving like an independent system, effectively insulated from the crystal it sat in and brought into equilibrium within itself.
+
+72
+00:06:43.830 --> 00:06:46.680
+Which means it could have a temperature of its own.
+
+73
+00:06:46.680 --> 00:06:49.370
+A temperature different from the crystal's.
+
+74
+00:06:49.370 --> 00:06:58.460
+The setup was this: they put the crystal inside a powerful magnet and waited for the spins to line up parallel to the field, to become cold and orderly.
+
+75
+00:06:58.460 --> 00:07:04.670
+Then they reversed the direction of the field, fast enough that the spins had no chance to follow it around.
+
+76
+00:07:04.670 --> 00:07:09.120
+The spins stayed where they were; the field turned.
+
+77
+00:07:09.120 --> 00:07:15.010
+In an instant all those needles were pointing the wrong way, the high energy way.
+
+78
+00:07:15.010 --> 00:07:17.700
+The inverted population had been built.
+
+79
+00:07:17.700 --> 00:07:21.350
+And how did they actually see that this had happened?
+
+80
+00:07:21.350 --> 00:07:23.560
+This is the most elegant part.
+
+81
+00:07:23.560 --> 00:07:31.850
+An ordinary sample, held in a radio wave at the right frequency, absorbs energy; a trough of absorption appears on the measuring instrument.
+
+82
+00:07:31.850 --> 00:07:38.540
+The sample of Purcell and Pound did the exact opposite: it gave energy to the radio circuit.
+
+83
+00:07:38.540 --> 00:07:41.550
+The trough turned into a peak.
+
+84
+00:07:41.550 --> 00:07:44.880
+The system was not listening, it was speaking.
+
+85
+00:07:44.880 --> 00:07:56.050
+And over the minutes that followed, as the exchange with the crystal lattice slowly went forward, the spin population came back from negative temperatures; first it passed through infinite temperature,
+
+86
+00:07:56.050 --> 00:08:02.900
+that intermediate condition in which it is spread out completely at random, and then it settled into ordinary positive temperature.
+
+87
+00:08:02.900 --> 00:08:12.790
+In their paper the two of them wrote plainly that this condition is not coldness but extreme heat, and that such a system would transfer energy to any system at positive temperature.
+
+88
+00:08:12.790 --> 00:08:18.680
+Five years later, in nineteen fifty-six, Norman Ramsey closed the theoretical accounts.
+
+89
+00:08:18.680 --> 00:08:28.890
+Ramsey showed that negative temperature does not break the laws of thermodynamics, it only requires stating them more carefully, and he tied the validity of the concept to three conditions.
+
+90
+00:08:28.890 --> 00:08:37.340
+First, the energy levels of the system must be bounded from above; in a system without a ceiling there can be no such thing as a negative temperature.
+
+91
+00:08:37.340 --> 00:08:44.670
+Second, the system must have come to equilibrium within itself, otherwise assigning it a single temperature is meaningless.
+
+92
+00:08:44.670 --> 00:08:52.960
+Third, the system must be sufficiently insulated from systems that have no ceiling, from the crystal it sits in, from the container, from the world.
+
+93
+00:08:52.960 --> 00:08:58.370
+The long relaxation time of lithium fluoride was buying exactly that third condition.
+
+94
+00:08:58.370 --> 00:09:05.700
+The moment those conditions were met, negative temperature stopped being a laboratory curiosity and walked into engineering.
+
+95
+00:09:05.700 --> 00:09:10.470
+Because an inverted population is the operating principle of the laser itself.
+
+96
+00:09:10.470 --> 00:09:20.200
+What you do in a laser is pump most of the atoms in a medium into the excited, high energy state, which is to say, invert the distribution across those energy levels.
+
+97
+00:09:20.200 --> 00:09:26.090
+The instant the distribution is inverted, the medium stops absorbing light and starts multiplying it.
+
+98
+00:09:26.090 --> 00:09:37.260
+The maser that Charles Townes and his co-workers built with microwaves in nineteen fifty-four, the first laser that Theodore Maiman made out of ruby in nineteen sixty, all of it rests on that inversion.
+
+99
+00:09:37.260 --> 00:09:44.910
+In the early years these media were called negative temperature media outright in the literature, because technically that is exactly what they are.
+
+100
+00:09:44.910 --> 00:09:52.080
+Inside the laser pointer on your desk there is a small region sitting at minus kelvin with respect to one particular degree of freedom.
+
+101
+00:09:52.080 --> 00:10:01.650
+The same language is still in working order in the world of magnetic resonance; spin temperature is an everyday calculating tool in imaging and polarization techniques.
+
+102
+00:10:01.650 --> 00:10:07.220
+For sixty years negative temperature lived in the same two places: in spins and in light.
+
+103
+00:10:07.220 --> 00:10:12.150
+What those two had in common was that their energy ladders were naturally short.
+
+104
+00:10:12.150 --> 00:10:15.800
+The hard question was this: can motion itself do it?
+
+105
+00:10:15.800 --> 00:10:19.290
+Can you put a ceiling on the kinetic energy of a gas?
+
+106
+00:10:19.290 --> 00:10:24.220
+In January of twenty thirteen the answer came from Munich, and it was yes.
+
+107
+00:10:24.220 --> 00:10:33.470
+A team that included Ulrich Schneider, Immanuel Bloch and Simon Braun, from Ludwig Maximilian University and the Max Planck Institute of Quantum Optics,
+
+108
+00:10:33.470 --> 00:10:40.320
+announced in the journal Science that they had produced a negative absolute temperature for the motional degree of freedom of atoms.
+
+109
+00:10:40.320 --> 00:10:43.650
+The method was to create a ceiling out of nothing.
+
+110
+00:10:43.650 --> 00:10:54.180
+They placed a Bose-Einstein condensate made of roughly a hundred thousand potassium thirty-nine atoms into an optical lattice, an artificial crystal, built out of intersecting laser beams.
+
+111
+00:10:54.180 --> 00:11:03.590
+The kinetic energy of a particle inside a crystal is not unbounded the way a free atom's is; it is squeezed into an energy band, and a band has a top as well.
+
+112
+00:11:03.590 --> 00:11:06.120
+The ceiling had arrived.
+
+113
+00:11:06.120 --> 00:11:08.810
+But one ceiling was not enough.
+
+114
+00:11:08.810 --> 00:11:12.780
+Every energy account of the system had to be bounded from above.
+
+115
+00:11:12.780 --> 00:11:19.630
+To limit the energy coming from the atoms interacting with one another, they turned the interaction from repulsive to attractive.
+
+116
+00:11:19.630 --> 00:11:26.640
+To limit the energy coming from the trap holding the atoms together, they inverted the trap itself: the valley turned into a hill.
+
+117
+00:11:26.640 --> 00:11:31.250
+Once all three accounts had been capped, they tipped the distribution over.
+
+118
+00:11:31.250 --> 00:11:39.220
+The result was directly visible in the measurement: the atoms were piled up not at the lowest energy of the band but in the highest momentum state.
+
+119
+00:11:39.220 --> 00:11:43.510
+A temperature with a minus sign, on the order of nanokelvin.
+
+120
+00:11:43.510 --> 00:11:47.480
+And this state stayed on its feet for hundreds of milliseconds.
+
+121
+00:11:47.480 --> 00:11:50.810
+The most surprising result was a by-product.
+
+122
+00:11:50.810 --> 00:11:57.660
+A gas with attractive interactions normally collapses in on itself; negative pressure tries to pull it together.
+
+123
+00:11:57.660 --> 00:12:00.830
+The gas in Munich did not collapse.
+
+124
+00:12:00.830 --> 00:12:05.280
+Being at negative temperature made it stable against collapse.
+
+125
+00:12:05.280 --> 00:12:12.770
+The team noted that this situation carries a formal resemblance to the negative pressure attributed to dark energy in cosmology.
+
+126
+00:12:12.770 --> 00:12:18.340
+Here one has to be careful: this is an analogy, a surface kinship between equations.
+
+127
+00:12:18.340 --> 00:12:26.790
+It is not evidence that dark energy is a system at negative temperature, it is speculation, and it is not part of the consensus in that field.
+
+128
+00:12:26.790 --> 00:12:31.880
+After this, another prediction that had been standing all alone was confirmed as well.
+
+129
+00:12:31.880 --> 00:12:43.530
+In nineteen forty-nine Lars Onsager studied the vortices in a two dimensional fluid statistically and showed that the phase space of such a system is bounded, and that negative temperature states are therefore possible.
+
+130
+00:12:43.530 --> 00:12:55.500
+What Onsager predicted was strange: at high energy, which is to say at negative temperature, vortices turning in the same direction cluster together instead of dispersing, merging into giant vortices.
+
+131
+00:12:55.500 --> 00:13:06.030
+In twenty nineteen, two studies published side by side in the same issue of Science, one from the University of Queensland, the other from the University of Otago in New Zealand,
+
+132
+00:13:06.030 --> 00:13:15.600
+observed exactly that in two dimensional condensates: large vortex clusters, characterized by negative temperature, arising spontaneously out of turbulence.
+
+133
+00:13:15.600 --> 00:13:20.530
+A calculation that had waited seventy years on the shelf was closed.
+
+134
+00:13:20.530 --> 00:13:25.780
+And precisely at this point, the harshest objection in the story arrives.
+
+135
+00:13:25.780 --> 00:13:36.950
+In twenty fourteen, Jörn Dunkel and Stefan Hilbert published a paper in the journal Nature Physics with a title that lands like a slap: consistent thermostatistics forbids negative absolute temperatures.
+
+136
+00:13:36.950 --> 00:13:49.240
+Their thesis was this: the definition of entropy that has been in use for sixty years, Boltzmann's definition, produces inconsistencies; the older volume entropy of Gibbs should be used in its place.
+
+137
+00:13:49.240 --> 00:13:54.490
+And when the calculation is done with that definition, temperature never comes out negative.
+
+138
+00:13:54.490 --> 00:13:59.740
+This is not an argument about experiments, it is an argument about bookkeeping.
+
+139
+00:13:59.740 --> 00:14:09.310
+The fact that the sample of Purcell and Pound gave energy to the radio circuit, the fact that the atoms in Munich piled up at the top of the band, neither of those is in dispute.
+
+140
+00:14:09.310 --> 00:14:13.920
+What is in dispute is which number you write down for that condition.
+
+141
+00:14:13.920 --> 00:14:16.450
+The replies did not take long.
+
+142
+00:14:16.450 --> 00:14:27.300
+Daan Frenkel and Patrick Warren argued that the Gibbs definition fails to meet the most basic requirement of thermodynamics: two bodies that have come to equilibrium must show the same temperature;
+
+143
+00:14:27.300 --> 00:14:31.750
+Gibbs entropy does not provide that, and Boltzmann entropy does.
+
+144
+00:14:31.750 --> 00:14:38.280
+The Munich team answered the objection with a comment of its own, and Dunkel and Hilbert replied to both.
+
+145
+00:14:38.280 --> 00:14:47.850
+At the formal level the argument has not closed; but the great majority of physicists go on using the Boltzmann definition and the language of negative temperature in practice.
+
+146
+00:14:47.850 --> 00:14:53.900
+What this quarrel really teaches, I think, is that temperature is not a property of a body.
+
+147
+00:14:53.900 --> 00:14:59.790
+The fundamental quantity in thermodynamics is entropy; temperature is derived from it.
+
+148
+00:14:59.790 --> 00:15:04.560
+Change the way you count entropy and what the thermometer is telling you changes too.
+
+149
+00:15:04.560 --> 00:15:15.890
+For a glass of tea, a star, or the air in a room, the difference between the two definitions is too small to be measured; they only begin to part company in systems that are small and have a ceiling.
+
+150
+00:15:15.890 --> 00:15:20.820
+Which is to say, the disagreement sits exactly where the strangeness lives.
+
+151
+00:15:20.820 --> 00:15:24.950
+The legacy that remains in practice is sturdier.
+
+152
+00:15:24.950 --> 00:15:31.960
+Temperature is not a single number belonging to an object, it is a property of one particular degree of freedom of that object.
+
+153
+00:15:31.960 --> 00:15:38.490
+The spins inside a crystal can sit at a negative temperature while the lattice that carries them is at room temperature.
+
+154
+00:15:38.490 --> 00:15:44.540
+This is not an evasion; the word meant this from the beginning, and we simply had no need to notice.
+
+155
+00:15:44.540 --> 00:15:51.710
+And one more thing remains: reaching minus zero kelvin is as impossible as reaching plus zero kelvin.
+
+156
+00:15:51.710 --> 00:15:55.360
+Both ends are approached, never arrived at.
+
+157
+00:15:55.360 --> 00:15:59.170
+Because there is no such place as below absolute zero.
+
+158
+00:15:59.170 --> 00:16:05.220
+The road to negative temperature does not pass through zero, it goes around by way of infinity.
+
+159
+00:16:05.220 --> 00:16:08.710
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+160
+00:16:08.710 --> 00:16:12.200
+Yeni bir hikâyede yeniden buluşmak üzere.

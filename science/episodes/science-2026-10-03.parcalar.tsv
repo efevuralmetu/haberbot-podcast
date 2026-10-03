@@ -1,0 +1,161 @@
+sira	karakter	saniye	kar_sn	metin
+1	70	3.840	18.23	What would you think if the thermometer read minus one hundr
+2	154	8.320	18.51	You can't go below absolute zero — but that number doesn't m
+3	79	4.000	19.75	And a gas that has crossed to that side is hotter than anyth
+4	78	5.120	15.23	The headline gets written like this: scientists have gone be
+5	61	3.840	15.89	The sentence sounds like a record, like a limit being broken
+6	30	1.760	17.05	But that is not what happened.
+7	144	8.160	17.65	What happened is stranger, and more interesting: a temperatu
+8	80	4.640	17.24	A gas sitting at minus one nanokelvin counts as hotter than 
+9	120	7.200	16.67	To understand that, you have to break the thermometer open, 
+10	71	3.840	18.49	We are used to thinking of temperature as the amount of heat
+11	9	1.280	7.03	It isn't.
+12	45	2.720	16.54	Temperature is not a quantity, it is a slope.
+13	115	6.560	17.53	It is the ratio that tells you how much a system's disorder,
+14	120	7.040	17.05	The physicist's definition is exactly that: the inverse of t
+15	66	4.160	15.87	It sounds dry, but our entire everyday experience follows fr
+16	132	7.360	17.93	When you put your hand into hot tea, energy flows from the t
+17	165	8.480	19.46	When the tea and your hand come to the same temperature the 
+18	77	5.120	15.04	Heat flowing from hot to cold is not a law; it is the outcom
+19	89	5.760	15.45	Now ask this question: when you add energy to a system, does
+20	27	2.400	11.25	In ordinary matter it does.
+21	154	8.800	17.50	Heat a container of gas and the atoms move faster, the numbe
+22	15	1.760	8.52	Entropy climbs.
+23	65	3.840	16.93	And there is no end to it, because kinetic energy has no cei
+24	47	2.720	17.28	You can always make an atom go a little faster.
+25	92	5.280	17.42	And because there is no ceiling, the temperature of such sys
+26	56	3.040	18.42	That is why the thermometer is a trustworthy instrument.
+27	49	3.040	16.12	Can we imagine a system that does have a ceiling?
+28	43	3.200	13.44	We can, and in fact nature is full of them.
+29	50	3.200	15.62	Take an atomic nucleus placed in a magnetic field.
+30	213	11.360	18.75	The spin of the nucleus behaves like a compass needle; in th
+31	52	3.200	16.25	There is no third option, no higher rung above that.
+32	28	2.400	11.67	The energy ladder has a top.
+33	50	3.040	16.45	Imagine billions of such needles inside a crystal.
+34	181	10.560	17.14	If they are all lined up parallel to the field, the system i
+35	144	7.680	18.75	Now start feeding in energy: some needles flip over, and bec
+36	16	2.240	7.14	Familiar so far.
+37	160	9.120	17.54	The critical point lies exactly halfway: when half the needl
+38	23	2.080	11.06	Entropy is at its peak.
+39	132	7.040	18.75	Here, raising the energy a little contributes nothing at all
+40	33	2.240	14.73	Nothing strange has happened yet.
+41	43	3.040	14.14	The strange thing happens at the next step.
+42	159	8.480	18.75	If you push past the halfway mark and force the majority of 
+43	130	6.720	19.35	In the state where every single one of them has flipped, the
+44	45	3.040	14.80	So energy is rising while entropy is falling.
+45	22	1.760	12.50	The slope is negative.
+46	71	4.640	15.30	And temperature, being the inverse of that slope, carries a 
+47	210	11.520	18.23	The order of the rungs on this ladder runs like this: you st
+48	86	4.640	18.53	and as you keep filling the system you climb from minus infi
+49	105	6.080	17.27	A fully inverted system is at minus zero kelvin, and that is
+50	16	2.080	7.69	Why the hottest?
+51	73	3.680	19.84	Because temperature is the thing that decides which way ener
+52	128	6.880	18.60	Whatever you bring an inverted system into contact with, ene
+53	65	4.000	16.25	There is nothing it cannot give away, and nothing it can tak
+54	54	3.040	17.76	It gives heat to every system at positive temperature.
+55	87	4.800	18.12	It gives heat to a thousand degree furnace, and it gives hea
+56	39	2.560	15.23	It is hotter than infinite temperature.
+57	84	4.480	18.75	The irritating part of all this is that it is really a defec
+58	207	11.840	17.48	When physicists use, instead of temperature, its inverse, th
+59	61	3.840	15.89	descending from positive to zero and from zero into negative
+60	36	2.400	15.00	Nowhere does it fly off to infinity.
+61	90	5.280	17.05	So minus kelvin is not a paradox of nature, it is the shadow
+62	64	3.040	21.05	This line of reasoning stayed on the blackboard for a long t
+63	111	6.080	18.26	Someone had to turn it into something on a tabletop, into an
+64	163	9.440	17.27	In January of nineteen fifty-one, Edward Purcell and Robert 
+65	67	4.480	14.96	The title was plain: a nuclear spin system at negative tempe
+66	36	2.240	16.07	Pound was the one who found the key.
+67	207	11.040	18.75	In sufficiently pure crystals of lithium fluoride, the nucle
+68	21	1.600	13.12	roughly five minutes.
+69	142	8.160	17.40	The spins talking to one another, by contrast, feeling each 
+70	129	6.400	20.16	Those two clocks running so differently may look like a dry 
+71	165	8.960	18.42	Because the population of spins was behaving like an indepen
+72	51	2.400	21.25	Which means it could have a temperature of its own.
+73	43	2.240	19.20	A temperature different from the crystal's.
+74	152	8.640	17.59	The setup was this: they put the crystal inside a powerful m
+75	108	5.760	18.75	Then they reversed the direction of the field, fast enough t
+76	51	4.000	12.75	The spins stayed where they were; the field turned.
+77	81	5.440	14.89	In an instant all those needles were pointing the wrong way,
+78	39	2.240	17.41	The inverted population had been built.
+79	53	3.200	16.56	And how did they actually see that this had happened?
+80	30	1.760	17.05	This is the most elegant part.
+81	140	7.840	17.86	An ordinary sample, held in a radio wave at the right freque
+82	92	6.240	14.74	The sample of Purcell and Pound did the exact opposite: it g
+83	30	2.560	11.72	The trough turned into a peak.
+84	46	2.880	15.97	The system was not listening, it was speaking.
+85	201	10.720	18.75	And over the minutes that followed, as the exchange with the
+86	131	6.400	20.47	that intermediate condition in which it is spread out comple
+87	182	9.440	19.28	In their paper the two of them wrote plainly that this condi
+88	87	5.440	15.99	Five years later, in nineteen fifty-six, Norman Ramsey close
+89	189	9.760	19.36	Ramsey showed that negative temperature does not break the l
+90	150	8.000	18.75	First, the energy levels of the system must be bounded from 
+91	123	6.880	17.88	Second, the system must have come to equilibrium within itse
+92	148	7.840	18.88	Third, the system must be sufficiently insulated from system
+93	85	4.960	17.14	The long relaxation time of lithium fluoride was buying exac
+94	124	6.880	18.02	The moment those conditions were met, negative temperature s
+95	78	4.320	18.06	Because an inverted population is the operating principle of
+96	166	9.280	17.89	What you do in a laser is pump most of the atoms in a medium
+97	101	5.440	18.57	The instant the distribution is inverted, the medium stops a
+98	202	10.720	18.84	The maser that Charles Townes and his co-workers built with 
+99	148	7.200	20.56	In the early years these media were called negative temperat
+100	135	6.720	20.09	Inside the laser pointer on your desk there is a small regio
+101	168	9.120	18.42	The same language is still in working order in the world of 
+102	89	5.120	17.38	For sixty years negative temperature lived in the same two p
+103	80	4.480	17.86	What those two had in common was that their energy ladders w
+104	52	3.200	16.25	The hard question was this: can motion itself do it?
+105	53	3.040	17.43	Can you put a ceiling on the kinetic energy of a gas?
+106	74	4.480	16.52	In January of twenty thirteen the answer came from Munich, a
+107	152	8.800	17.27	A team that included Ulrich Schneider, Immanuel Bloch and Si
+108	132	6.400	20.62	announced in the journal Science that they had produced a ne
+109	50	2.880	17.36	The method was to create a ceiling out of nothing.
+110	188	10.080	18.65	They placed a Bose-Einstein condensate made of roughly a hun
+111	158	8.960	17.63	The kinetic energy of a particle inside a crystal is not unb
+112	24	2.080	11.54	The ceiling had arrived.
+113	31	2.240	13.84	But one ceiling was not enough.
+114	64	3.520	18.18	Every energy account of the system had to be bounded from ab
+115	129	6.400	20.16	To limit the energy coming from the atoms interacting with o
+116	130	6.560	19.82	To limit the energy coming from the trap holding the atoms t
+117	75	4.160	18.03	Once all three accounts had been capped, they tipped the dis
+118	147	7.520	19.55	The result was directly visible in the measurement: the atom
+119	60	3.840	15.62	A temperature with a minus sign, on the order of nanokelvin.
+120	63	3.520	17.90	And this state stayed on its feet for hundreds of millisecon
+121	44	2.880	15.28	The most surprising result was a by-product.
+122	112	6.400	17.50	A gas with attractive interactions normally collapses in on 
+123	35	2.720	12.87	The gas in Munich did not collapse.
+124	62	4.000	15.50	Being at negative temperature made it stable against collaps
+125	128	7.040	18.18	The team noted that this situation carries a formal resembla
+126	84	5.120	16.41	Here one has to be careful: this is an analogy, a surface ki
+127	142	8.000	17.75	It is not evidence that dark energy is a system at negative 
+128	86	4.640	18.53	After this, another prediction that had been standing all al
+129	219	11.200	19.55	In nineteen forty-nine Lars Onsager studied the vortices in 
+130	200	11.520	17.36	What Onsager predicted was strange: at high energy, which is
+131	178	10.080	17.66	In twenty nineteen, two studies published side by side in th
+132	156	9.120	17.11	observed exactly that in two dimensional condensates: large 
+133	68	4.480	15.18	A calculation that had waited seventy years on the shelf was
+134	73	4.800	15.21	And precisely at this point, the harshest objection in the s
+135	203	10.720	18.94	In twenty fourteen, Jörn Dunkel and Stefan Hilbert published
+136	199	11.840	16.81	Their thesis was this: the definition of entropy that has be
+137	92	4.800	19.17	And when the calculation is done with that definition, tempe
+138	79	4.800	16.46	This is not an argument about experiments, it is an argument
+139	178	9.120	19.52	The fact that the sample of Purcell and Pound gave energy to
+140	69	4.160	16.59	What is in dispute is which number you write down for that c
+141	30	2.080	14.42	The replies did not take long.
+142	197	10.400	18.94	Daan Frenkel and Patrick Warren argued that the Gibbs defini
+143	64	4.000	16.00	Gibbs entropy does not provide that, and Boltzmann entropy d
+144	105	6.080	17.27	The Munich team answered the objection with a comment of its
+145	176	9.120	19.30	At the formal level the argument has not closed; but the gre
+146	91	5.600	16.25	What this quarrel really teaches, I think, is that temperatu
+147	86	5.440	15.81	The fundamental quantity in thermodynamics is entropy; tempe
+148	85	4.320	19.68	Change the way you count entropy and what the thermometer is
+149	199	10.880	18.29	For a glass of tea, a star, or the air in a room, the differ
+150	75	4.480	16.74	Which is to say, the disagreement sits exactly where the str
+151	48	3.680	13.04	The legacy that remains in practice is sturdier.
+152	127	6.560	19.36	Temperature is not a single number belonging to an object, i
+153	120	6.080	19.74	The spins inside a crystal can sit at a negative temperature
+154	100	5.600	17.86	This is not an evasion; the word meant this from the beginni
+155	101	6.720	15.03	And one more thing remains: reaching minus zero kelvin is as
+156	43	3.200	13.44	Both ends are approached, never arrived at.
+157	54	3.360	16.07	Because there is no such place as below absolute zero.
+158	95	5.600	16.96	The road to negative temperature does not pass through zero,
+159	47	3.040	15.46	Nöron Science'de bugünkü bölümün sonuna geldik.
+160	41	3.040	13.49	Yeni bir hikâyede yeniden buluşmak üzere.
