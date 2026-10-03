@@ -1,0 +1,605 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.970
+Termometrede eksi yüz kelvin yazsa ne düşünürsünüz?
+
+2
+00:00:03.970 --> 00:00:11.620
+Mutlak sıfırın altına inilemez — ama bu sayı oraya inmek demek değil: sonsuz sıcaklığın öbür tarafına geçmek demek.
+
+3
+00:00:11.620 --> 00:00:16.390
+Ve o tarafa geçmiş bir gaz, elinizdeki her şeyden daha sıcaktır.
+
+4
+00:00:24.590 --> 00:00:30.320
+Haberin başlığı şöyle atılır: bilim insanları mutlak sıfırın altına indi.
+
+5
+00:00:30.320 --> 00:00:34.450
+Cümle kulağa bir rekor gibi gelir, bir sınırın aşılması gibi.
+
+6
+00:00:34.450 --> 00:00:36.660
+Oysa olan şey bu değil.
+
+7
+00:00:36.660 --> 00:00:44.470
+Olan şey daha tuhaf ve daha ilginç: eksi işaretli bir sıcaklık, soğuğun en dibi değil, sıcağın en tepesidir.
+
+8
+00:00:44.470 --> 00:00:50.200
+Eksi bir nanokelvinde duran bir gaz, güneşin çekirdeğinden bile daha sıcak sayılır.
+
+9
+00:00:50.200 --> 00:00:57.210
+Bunu anlamak için termometreyi kırmak, içini açmak, o rakamın gerçekte neyi ölçtüğüne bakmak gerekiyor.
+
+10
+00:00:57.210 --> 00:01:01.660
+Sıcaklığın bir cisimdeki ısı miktarı olduğunu düşünmeye alışkınız.
+
+11
+00:01:01.660 --> 00:01:02.750
+Değil.
+
+12
+00:01:02.750 --> 00:01:05.760
+Sıcaklık bir miktar değil, bir eğim.
+
+13
+00:01:05.760 --> 00:01:13.410
+Bir sistemin enerjisini birazcık artırdığınızda düzensizliğinin, yani entropisinin ne kadar arttığını söyleyen orandır.
+
+14
+00:01:13.410 --> 00:01:20.260
+Fizikçinin tanımı tam olarak budur: sıcaklığın tersi, entropinin enerjiye göre değişim hızıdır.
+
+15
+00:01:20.260 --> 00:01:25.030
+Kulağa kuru geliyor ama bütün günlük deneyimimiz bu tanımdan çıkıyor.
+
+16
+00:01:25.030 --> 00:01:31.880
+Elinizi sıcak çaya soktuğunuzda enerji çaydan elinize akar, çünkü bu aktarım toplam entropiyi büyütür.
+
+17
+00:01:31.880 --> 00:01:40.810
+Çay ile eliniz aynı sıcaklığa geldiğinde akış durur, çünkü artık enerjiyi hangi yöne taşısanız toplam düzensizlik azalacaktır.
+
+18
+00:01:40.810 --> 00:01:45.900
+Isının sıcaktan soğuğa akması bir yasa değil, bir muhasebe sonucudur.
+
+19
+00:01:45.900 --> 00:01:51.470
+Şimdi şu soruyu sorun: bir sisteme enerji eklediğinizde entropisi hep artar mı?
+
+20
+00:01:51.470 --> 00:01:53.360
+Sıradan maddede artar.
+
+21
+00:01:53.360 --> 00:02:02.610
+Bir kap gazı ısıtırsanız atomlar daha hızlı gider, erişebilecekleri hız durumlarının sayısı büyür, düzenlenebilecekleri biçim sayısı çoğalır.
+
+22
+00:02:02.610 --> 00:02:04.660
+Entropi tırmanır.
+
+23
+00:02:04.660 --> 00:02:09.110
+Ve bunun bir sonu yoktur, çünkü kinetik enerjinin tavanı yoktur.
+
+24
+00:02:09.110 --> 00:02:12.760
+Bir atomu her zaman biraz daha hızlandırabilirsiniz.
+
+25
+00:02:12.760 --> 00:02:18.490
+Tavan olmadığı için de bu tür sistemlerin sıcaklığı hep artı işaretlidir.
+
+26
+00:02:18.490 --> 00:02:21.980
+Termometre bu yüzden güvenilir bir alettir.
+
+27
+00:02:21.980 --> 00:02:25.630
+Peki tavanı olan bir sistem düşünebilir miyiz?
+
+28
+00:02:25.630 --> 00:02:29.280
+Düşünebiliriz, hatta doğada her yerdedir.
+
+29
+00:02:29.280 --> 00:02:32.770
+Bir manyetik alana konmuş atom çekirdeğini alın.
+
+30
+00:02:32.770 --> 00:02:46.500
+Çekirdeğin spini pusula iğnesi gibi davranır; en basit halinde yalnızca iki seçeneği vardır: alanla aynı yöne bakmak, ki bu düşük enerjili haldir, ya da ters yöne bakmak, ki bu yüksek enerjili haldir.
+
+31
+00:02:46.500 --> 00:02:50.150
+Üçüncü bir seçenek, daha da yüksek bir basamak yok.
+
+32
+00:02:50.150 --> 00:02:52.680
+Enerji merdiveninin tepesi var.
+
+33
+00:02:52.680 --> 00:02:57.130
+Bir kristalin içinde böyle milyarlarca iğne olduğunu hayal edin.
+
+34
+00:02:57.130 --> 00:03:07.020
+Hepsi alana paralel dizilmişse sistem en düşük enerjide ve bunu yapmanın tek bir yolu var; entropi sıfır, sıcaklık da artı sıfır kelvin.
+
+35
+00:03:07.020 --> 00:03:15.630
+Enerji vermeye başlayın: bazı iğneler ters döner, hangilerinin döndüğünü seçmenin sayısız yolu olduğu için entropi hızla büyür.
+
+36
+00:03:15.630 --> 00:03:17.360
+Buraya kadar tanıdık.
+
+37
+00:03:17.360 --> 00:03:26.770
+Kritik nokta tam yarıda: iğnelerin yarısı yukarı, yarısı aşağı bakarken sistemi düzenlemenin yol sayısı en büyük değerine ulaşır.
+
+38
+00:03:26.770 --> 00:03:28.820
+Entropi zirvededir.
+
+39
+00:03:28.820 --> 00:03:35.990
+Burada enerjiyi biraz artırmanın entropiye hiçbir katkısı yoktur, eğim sıfırdır, yani sıcaklık sonsuzdur.
+
+40
+00:03:35.990 --> 00:03:38.360
+Henüz garip bir şey olmadı.
+
+41
+00:03:38.360 --> 00:03:41.530
+Garip olan bir sonraki adımda oluyor.
+
+42
+00:03:41.530 --> 00:03:49.500
+Yarıyı geçip iğnelerin çoğunluğunu ters yöne zorlarsanız, sistem yine enerji kazanır ama seçenekleri azalmaya başlar.
+
+43
+00:03:49.500 --> 00:03:55.550
+Hepsinin ters döndüğü halde yine tek bir düzenleme kalır, entropi yine sıfıra iner.
+
+44
+00:03:55.550 --> 00:03:59.040
+Yani enerji artarken entropi düşüyor.
+
+45
+00:03:59.040 --> 00:04:00.770
+Eğim negatif.
+
+46
+00:04:00.770 --> 00:04:05.380
+Ve sıcaklık, o eğimin tersi olduğu için, eksi işaretli.
+
+47
+00:04:05.380 --> 00:04:19.750
+Bu merdivenin sırası şöyle: artı sıfır kelvinden başlarsınız, ısınırsınız, tam yarıda sıcaklık sonsuza fırlar, oradan eksi sonsuza geçer, sistemi doldurdukça eksi sonsuzdan eksi sıfıra doğru yükselirsiniz.
+
+48
+00:04:19.750 --> 00:04:27.880
+Tam ters çevrilmiş bir sistemin sıcaklığı eksi sıfır kelvindir ve bu, o sistemin ulaşabileceği en sıcak durumdur.
+
+49
+00:04:27.880 --> 00:04:29.770
+Neden en sıcak?
+
+50
+00:04:29.770 --> 00:04:34.220
+Çünkü sıcaklık, enerjinin hangi yöne akacağına karar veren şeydir.
+
+51
+00:04:34.220 --> 00:04:43.150
+Ters çevrilmiş bir sistemi ne ile temas ettirirseniz enerji ondan dışarı akar; çünkü enerji kaybetmek onun entropisini büyütür.
+
+52
+00:04:43.150 --> 00:04:47.120
+Veremediği hiçbir şey, alabileceği hiçbir şey yoktur.
+
+53
+00:04:47.120 --> 00:04:50.610
+Pozitif sıcaklıktaki her sisteme ısı verir.
+
+54
+00:04:50.610 --> 00:04:54.580
+Bin derecelik fırına da verir, güneşin merkezine de verir.
+
+55
+00:04:54.580 --> 00:04:57.430
+Sonsuz sıcaklıktan daha sıcaktır.
+
+56
+00:04:57.430 --> 00:05:03.160
+İşin sinir bozucu tarafı, bunun aslında sıcaklığın kendi kusuru olması.
+
+57
+00:05:03.160 --> 00:05:17.690
+Fizikçiler sıcaklık yerine onun tersini, yani birim enerjideki entropi eğimini kullandıklarında tuhaflık buharlaşır: o nicelik en soğuktan en sıcağa doğru hiç kesintisiz, pürüzsüz bir şekilde artıdan sıfıra,
+
+58
+00:05:17.690 --> 00:05:20.060
+sıfırdan eksiye iner.
+
+59
+00:05:20.060 --> 00:05:22.910
+Hiçbir yerde sonsuza fırlamaz.
+
+60
+00:05:22.910 --> 00:05:28.480
+Yani eksi kelvin bir doğa paradoksu değil, kötü seçilmiş bir koordinatın gölgesi.
+
+61
+00:05:28.480 --> 00:05:31.810
+Bu akıl yürütme uzun süre karatahtada kaldı.
+
+62
+00:05:31.810 --> 00:05:38.980
+Birinin onu bir masanın üstüne, soğuk metal ve bakır tellerden kurulu bir düzeneğe çevirmesi gerekiyordu.
+
+63
+00:05:38.980 --> 00:05:52.710
+1951 yılının ocak ayında, Harvard Üniversitesi'nden Edward Purcell ve Robert Pound, Amerikan fizik dergisi Physical Review'da, yani Fizik Dergisi'nde, iki sayfalık bir yazı yayımladılar.
+
+64
+00:05:52.710 --> 00:05:57.160
+Başlığı sade: negatif sıcaklıkta bir çekirdek spin sistemi.
+
+65
+00:05:57.160 --> 00:05:59.850
+İşin anahtarını Pound bulmuştu.
+
+66
+00:05:59.850 --> 00:06:13.420
+Yeterince saf lityum florür kristallerinde, çekirdek spinleri çevrelerindeki kristal örgüyle enerji alışverişi yapmak için şaşırtıcı derecede uzun bir zaman harcıyordu: oda sıcaklığında dakikalar mertebesinde,
+
+67
+00:06:13.420 --> 00:06:15.470
+yaklaşık 5 dakika.
+
+68
+00:06:15.470 --> 00:06:24.240
+Buna karşılık spinlerin birbirleriyle konuşması, birbirlerinin manyetik alanını duyup ortak bir dengeye oturması mikrosaniyeler sürüyordu.
+
+69
+00:06:24.240 --> 00:06:31.410
+İki saatin bu kadar farklı işlemesi, kuru bir teknik ayrıntı gibi görünse de her şeyi mümkün kılan şeydi.
+
+70
+00:06:31.410 --> 00:06:40.180
+Çünkü spin topluluğu, içinde bulunduğu kristalden fiilen yalıtılmış, kendi içinde dengeye gelmiş bağımsız bir sistem gibi davranıyordu.
+
+71
+00:06:40.180 --> 00:06:43.350
+Yani kendine ait bir sıcaklığı olabilirdi.
+
+72
+00:06:43.350 --> 00:06:46.520
+Kristalin sıcaklığından farklı bir sıcaklığı.
+
+73
+00:06:46.520 --> 00:06:56.250
+Düzenek şuydu: kristali güçlü bir mıknatısın içine koyup spinlerin alana paralel dizilmesini, yani soğuk ve düzenli bir hale gelmesini beklediler.
+
+74
+00:06:56.250 --> 00:07:02.620
+Sonra alanın yönünü, spinlerin peşinden dönmesine fırsat vermeyecek kadar hızlı ters çevirdiler.
+
+75
+00:07:02.620 --> 00:07:06.590
+Spinler yerlerinde kaldı, alan döndü.
+
+76
+00:07:06.590 --> 00:07:11.520
+Bir anda bütün o iğneler yanlış yöne, yüksek enerjili yöne bakıyordu.
+
+77
+00:07:11.520 --> 00:07:14.050
+Ters çevrilmiş nüfus kurulmuştu.
+
+78
+00:07:14.050 --> 00:07:17.540
+Peki bunun gerçekten olduğunu nasıl gördüler?
+
+79
+00:07:17.540 --> 00:07:19.910
+En zarif kısmı burası.
+
+80
+00:07:19.910 --> 00:07:27.880
+Normal bir örnek, doğru frekanstaki radyo dalgasına tutulduğunda enerji yutar; ölçüm aletinde bir soğurma çukuru görünür.
+
+81
+00:07:27.880 --> 00:07:33.450
+Purcell ve Pound'un örneği tam tersini yaptı: radyo devresine enerji verdi.
+
+82
+00:07:33.450 --> 00:07:35.820
+Çukur, tepeye dönüştü.
+
+83
+00:07:35.820 --> 00:07:38.990
+Sistem dinlemiyordu, konuşuyordu.
+
+84
+00:07:38.990 --> 00:07:52.560
+Ve sonraki dakikalar içinde, kristal örgüyle alışverişi yavaş yavaş ilerledikçe, spin topluluğu eksi sıcaklıklardan geri döndü; önce sonsuz sıcaklıktan, yani tamamen rastgele dağıldığı o ara durumdan geçti,
+
+85
+00:07:52.560 --> 00:07:55.890
+sonra sıradan artı sıcaklığa yerleşti.
+
+86
+00:07:55.890 --> 00:08:06.740
+İkisi makalelerinde bu durumun soğukluk değil aşırı sıcaklık olduğunu, böyle bir sistemin pozitif sıcaklıktaki herhangi bir sisteme enerji aktaracağını açıkça yazdılar.
+
+87
+00:08:06.740 --> 00:08:13.590
+Beş yıl sonra, 1956'da Norman Ramsey işin kuramsal muhasebesini kapattı.
+
+88
+00:08:13.590 --> 00:08:25.240
+Ramsey, negatif sıcaklığın termodinamiğin yasalarını bozmadığını, yalnızca onları daha dikkatli ifade etmeyi gerektirdiğini gösterdi ve kavramın ne zaman geçerli olduğunu üç koşula bağladı.
+
+89
+00:08:25.240 --> 00:08:34.650
+Birincisi, sistemin enerji basamaklarının üstten sınırlı olması gerekir; tavansız bir sistemde eksi sıcaklık diye bir şey olamaz.
+
+90
+00:08:34.650 --> 00:08:42.620
+İkincisi, sistem kendi içinde dengeye gelmiş olmalı, yoksa ona tek bir sıcaklık atfetmek anlamsızdır.
+
+91
+00:08:42.620 --> 00:08:51.710
+Üçüncüsü, sistem tavanı olmayan sistemlerden, yani içinde durduğu kristalden, kaptan, dünyadan yeterince yalıtılmış olmalıdır.
+
+92
+00:08:51.710 --> 00:08:57.440
+Lityum florürün uzun gevşeme süresi tam olarak bu üçüncü koşulu satın alıyordu.
+
+93
+00:08:57.440 --> 00:09:04.450
+Bu koşullar yerine gelir gelmez, eksi sıcaklık laboratuvar merakı olmaktan çıkıp mühendisliğin içine girdi.
+
+94
+00:09:04.450 --> 00:09:09.380
+Çünkü ters çevrilmiş nüfus, lazerin çalışma ilkesinin ta kendisidir.
+
+95
+00:09:09.380 --> 00:09:20.070
+Bir lazerde yapılan şey, bir ortamdaki atomların çoğunu uyarılmış, yüksek enerjili hale pompalamak, yani o enerji basamakları arasındaki dağılımı tersine çevirmektir.
+
+96
+00:09:20.070 --> 00:09:26.120
+Dağılım tersine döndüğü anda ortam ışık yutmayı bırakır, ışık çoğaltmaya başlar.
+
+97
+00:09:26.120 --> 00:09:40.490
+1954'te Charles Townes ve çalışma arkadaşlarının mikrodalgalarla kurduğu maser, 1960'ta Theodore Maiman'ın yakuttan yaptığı ilk lazer, hepsi bu tersine çevirme üzerine oturur.
+
+98
+00:09:40.490 --> 00:09:49.420
+İlk yıllarda bu ortamlar literatürde doğrudan negatif sıcaklıklı ortam olarak adlandırılıyordu, çünkü teknik olarak tam da bu.
+
+99
+00:09:49.420 --> 00:09:57.230
+Masanızdaki lazer kaleminin içinde, belirli bir serbestlik derecesi bakımından eksi kelvinde duran küçük bir bölge var.
+
+100
+00:09:57.230 --> 00:10:06.640
+Aynı dil manyetik rezonans dünyasında da hâlâ işler durumda; spin sıcaklığı, görüntüleme ve kutuplanma tekniklerinde günlük bir hesap aracıdır.
+
+101
+00:10:06.640 --> 00:10:13.170
+Altmış yıl boyunca eksi sıcaklık hep aynı iki yerde yaşadı: spinlerde ve ışıkta.
+
+102
+00:10:13.170 --> 00:10:18.740
+İkisinin de ortak özelliği, enerji merdivenlerinin doğal olarak kısa olmasıydı.
+
+103
+00:10:18.740 --> 00:10:22.870
+Asıl zor soru şuydu: hareketin kendisi bunu yapabilir mi?
+
+104
+00:10:22.870 --> 00:10:26.520
+Bir gazın hareket enerjisine tavan koyabilir misiniz?
+
+105
+00:10:26.520 --> 00:10:30.970
+2013'ün ocak ayında Münih'ten gelen cevap evet oldu.
+
+106
+00:10:30.970 --> 00:10:44.700
+Ludwig Maximilian Üniversitesi ve Max Planck Kuantum Optiği Enstitüsü'nden Ulrich Schneider, Immanuel Bloch ve Simon Braun'un da aralarında bulunduğu ekip, Science dergisinde, yani Bilim dergisinde,
+
+107
+00:10:44.700 --> 00:10:51.070
+atomların hareket serbestlik derecesi için negatif bir mutlak sıcaklık ürettiklerini duyurdu.
+
+108
+00:10:51.070 --> 00:10:54.080
+Yöntem, tavanı yoktan var etmekti.
+
+109
+00:10:54.080 --> 00:11:05.250
+Yaklaşık 100 bin potasyum-39 atomundan oluşan bir Bose-Einstein yoğuşuğunu, lazer ışınlarının kesişmesiyle kurulan bir optik örgüye, yani yapay bir kristale yerleştirdiler.
+
+110
+00:11:05.250 --> 00:11:15.460
+Bir kristalin içindeki parçacığın hareket enerjisi serbest bir atomunki gibi sınırsız değildir; bir enerji bandına sıkışır ve bandın bir de tepesi vardır.
+
+111
+00:11:15.460 --> 00:11:16.870
+Tavan geldi.
+
+112
+00:11:16.870 --> 00:11:19.080
+Ama tek tavan yetmiyordu.
+
+113
+00:11:19.080 --> 00:11:23.530
+Sistemin bütün enerji kalemlerinin üstten sınırlı olması gerekiyordu.
+
+114
+00:11:23.530 --> 00:11:31.340
+Atomların birbirleriyle etkileşmesinden gelen enerjiyi sınırlamak için etkileşimi iticiden çekiciye çevirdiler.
+
+115
+00:11:31.340 --> 00:11:39.630
+Atomları bir arada tutan tuzaktan gelen enerjiyi sınırlamak için tuzağın kendisini ters çevirdiler: çukur, tepeye dönüştü.
+
+116
+00:11:39.630 --> 00:11:44.080
+Üç kalemin üçü de tavanlandıktan sonra dağılımı devirdiler.
+
+117
+00:11:44.080 --> 00:11:52.370
+Sonuç ölçümde doğrudan görünüyordu: atomlar bandın en alt enerjisinde değil, en yüksek momentum durumunda yığılmıştı.
+
+118
+00:11:52.370 --> 00:11:57.140
+Nanokelvin mertebesinde, eksi işaretli bir sıcaklık.
+
+119
+00:11:57.140 --> 00:12:01.430
+Ve bu hal yüzlerce milisaniye boyunca ayakta kaldı.
+
+120
+00:12:01.430 --> 00:12:04.280
+En şaşırtıcı sonuç yan üründü.
+
+121
+00:12:04.280 --> 00:12:10.490
+Çekici etkileşen bir gaz normalde kendi içine çöker; negatif basınç onu toplamaya çalışır.
+
+122
+00:12:10.490 --> 00:12:12.700
+Münih'teki gaz çökmedi.
+
+123
+00:12:12.700 --> 00:12:16.670
+Negatif sıcaklıkta olmak, onu çökmeye karşı kararlı kıldı.
+
+124
+00:12:16.670 --> 00:12:24.480
+Ekip bu durumun, kozmolojide karanlık enerjiye atfedilen negatif basınçla biçimsel bir benzerlik taşıdığını not etti.
+
+125
+00:12:24.480 --> 00:12:30.530
+Burada dikkatli olmak gerekiyor: bu bir benzetme, denklemlerin yüzeysel akrabalığı.
+
+126
+00:12:30.530 --> 00:12:39.300
+Karanlık enerjinin negatif sıcaklıklı bir sistem olduğuna dair bir kanıt değil, bir spekülasyon, ve o alandaki uzlaşının parçası değil.
+
+127
+00:12:39.300 --> 00:13:34.770
+Bunun ardından, yalnızlıkta duran başka bir kehanet de doğrulandı. 1949'da Lars Onsager, iki boyutlu bir sıvıdaki girdapları istatistiksel olarak incelemiş ve bu sistemin faz uzayının sınırlı olduğunu, dolayısıyla negatif sıcaklık hallerinin mümkün olduğunu göstermişti. Onsager'in öngördüğü şey tuhaftı: yüksek enerjide, yani negatif sıcaklıkta, aynı yönde dönen girdaplar dağılmak yerine kümelenir, birleşip dev girdaplar kurar. 2019'da Science dergisinin aynı sayısında yan yana çıkan iki çalışma, biri Queensland Üniversitesi'nden, diğeri Yeni Zelanda'daki Otago Üniversitesi'nden, iki boyutlu yoğuşuklarda tam olarak bunu gözledi: türbülanstan kendiliğinden doğan, negatif sıcaklıkla nitelenen büyük girdap kümeleri. Yetmiş yıl rafta bekleyen bir hesap, kapandı.
+
+128
+00:13:34.770 --> 00:14:11.260
+Ve tam bu noktada, hikâyenin en sert itirazı geliyor. 2014'te Jörn Dunkel ile Stefan Hilbert, Nature Physics dergisinde, yani Doğa Fiziği dergisinde, başlığı bir tokat gibi olan bir makale yayımladılar: tutarlı bir termoistatistik, negatif mutlak sıcaklıkları yasaklar. Tezleri şuydu: altmış yıldır kullanılan entropi tanımı, Boltzmann'ın tanımı, tutarsızlıklar üretiyor; onun yerine Gibbs'in daha eski hacim entropisi kullanılmalı. Ve o tanımla hesaplandığında sıcaklık asla negatif çıkmıyor.
+
+129
+00:14:11.260 --> 00:14:15.550
+Bu bir deney tartışması değil, bir defter tutma tartışması.
+
+130
+00:14:15.550 --> 00:14:24.480
+Purcell ve Pound'un örneğinin radyo devresine enerji verdiği gerçeği, Münih'teki atomların bandın tepesinde yığıldığı gerçeği tartışmalı değil.
+
+131
+00:14:24.480 --> 00:14:28.770
+Tartışmalı olan, o duruma hangi sayıyı yazacağınız.
+
+132
+00:14:28.770 --> 00:14:30.980
+Karşı cevaplar gecikmedi.
+
+133
+00:14:30.980 --> 00:14:43.910
+Daan Frenkel ile Patrick Warren, Gibbs tanımının termodinamiğin en temel gereğini karşılamadığını savundular: dengeye gelmiş iki cismin aynı sıcaklığı göstermesi gerekir, Gibbs entropisi bunu sağlamıyor,
+
+134
+00:14:43.910 --> 00:14:46.440
+Boltzmann entropisi sağlıyor.
+
+135
+00:14:46.440 --> 00:14:53.610
+Münih ekibi de bir yorum yazısıyla itiraza karşılık verdi, Dunkel ile Hilbert her ikisine de cevap verdi.
+
+136
+00:14:53.610 --> 00:15:03.500
+Tartışma biçimsel düzeyde kapanmadı; ama fizikçilerin büyük çoğunluğu pratikte Boltzmann tanımını ve negatif sıcaklık dilini kullanmayı sürdürüyor.
+
+137
+00:15:03.500 --> 00:15:09.230
+Bu kavganın asıl öğrettiği şey, sanırım, sıcaklığın bir cismin özelliği olmadığı.
+
+138
+00:15:09.230 --> 00:15:14.480
+Termodinamikte temel nicelik entropidir; sıcaklık ondan türetilir.
+
+139
+00:15:14.480 --> 00:15:20.050
+Entropiyi nasıl saydığınızı değiştirirseniz termometrenin ne anlattığı da değişir.
+
+140
+00:15:20.050 --> 00:15:30.900
+Bir çay bardağı, bir yıldız, bir oda havası için iki tanım arasında ölçülemeyecek kadar küçük bir fark var; ayrışmaları ancak küçük ve tavanı olan sistemlerde başlıyor.
+
+141
+00:15:30.900 --> 00:15:35.510
+Yani anlaşmazlık, tam olarak tuhaflığın yaşadığı yerde oturuyor.
+
+142
+00:15:35.510 --> 00:15:38.680
+Pratikte kalan miras ise daha sağlam.
+
+143
+00:15:38.680 --> 00:15:44.890
+Sıcaklık bir nesnenin tek bir sayısı değil, o nesnenin belirli bir serbestlik derecesinin niteliği.
+
+144
+00:15:44.890 --> 00:15:52.060
+Bir kristalin içindeki spinler eksi sıcaklıkta dururken, onları taşıyan örgü oda sıcaklığında olabiliyor.
+
+145
+00:15:52.060 --> 00:15:58.430
+Bu bir kaçamak değil; kelime baştan beri bunu demek istiyordu, biz fark etmeye ihtiyaç duymamıştık.
+
+146
+00:15:58.430 --> 00:16:04.960
+Bir de şu kalıyor: eksi sıfır kelvine ulaşmak, artı sıfır kelvine ulaşmak kadar imkânsız.
+
+147
+00:16:04.960 --> 00:16:07.970
+İki uç da yaklaşılır, varılmaz.
+
+148
+00:16:07.970 --> 00:16:11.300
+Çünkü mutlak sıfırın altı diye bir yer yok.
+
+149
+00:16:11.300 --> 00:16:16.230
+Negatif sıcaklığa giden yol sıfırdan geçmiyor, sonsuzdan dolaşıyor.
+
+150
+00:16:16.230 --> 00:16:19.400
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+151
+00:16:19.400 --> 00:16:22.570
+Yeni bir hikâyede yeniden buluşmak üzere.
