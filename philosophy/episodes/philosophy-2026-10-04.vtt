@@ -1,0 +1,825 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.650
+Everyone tells you the same thing: be yourself.
+
+2
+00:00:03.650 --> 00:00:13.700
+But if it's that easy, have you ever actually seen this "self" of yours — or when you strip away the masks you've layered on, will there be no face underneath at all, just emptiness?
+
+3
+00:00:13.700 --> 00:00:21.510
+And there's a tradition that says precisely the opposite: salvation lies not in being yourself, but in letting go of that "I" altogether.
+
+4
+00:00:29.710 --> 00:00:40.880
+Kaynak metin olarak bugünün Türkçe felsefe bölümü (`felsefe.txt`) kullanıldı; çeviri kanalı olduğu için içerik birebir korundu, hiçbir şey eklenmedi/çıkarılmadı.
+
+5
+00:00:40.880 --> 00:00:49.810
+Sayılar, İngilizce kanalda Türkçe okunuş zinciri atlandığı için (`ceviri_uret.py` kuralı) rakam değil yazıyla verildi.
+
+6
+00:00:49.810 --> 00:00:57.460
+The most common advice offered to someone about to walk into a job interview is this: don't overthink it, just be yourself.
+
+7
+00:00:57.460 --> 00:01:01.430
+On first hearing, it is a comforting sentence.
+
+8
+00:01:01.430 --> 00:01:12.440
+As though what is asked of you in that room is not a performance but a delivery; as though there is something inside you already finished, already packaged, complete, and all you have to do is set it on the table.
+
+9
+00:01:12.440 --> 00:01:18.490
+But slow the sentence down for a moment and lean over it: be yourself is a command.
+
+10
+00:01:18.490 --> 00:01:25.180
+It is strange that it should be a command, because commands are issued only for things that might not happen on their own.
+
+11
+00:01:25.180 --> 00:01:27.710
+Nobody orders you to breathe.
+
+12
+00:01:27.710 --> 00:01:32.160
+So being yourself is not something that happens by itself.
+
+13
+00:01:32.160 --> 00:01:37.730
+It is a task that has to be carried out, one that can be missed, one that can end in failure.
+
+14
+00:01:37.730 --> 00:01:46.980
+What is more, the people who give this advice usually add a second sentence: but don't bring up these subjects, don't take that tone, don't sit like that.
+
+15
+00:01:46.980 --> 00:01:51.430
+In other words, be yourself, but be yourself within these limits.
+
+16
+00:01:51.430 --> 00:01:58.600
+This contradiction is not a slip of the tongue; it is the everyday face of a tension that sits in the very middle of modern life.
+
+17
+00:01:58.600 --> 00:02:02.570
+The root of the problem is hidden in the oldest comparison we use.
+
+18
+00:02:02.570 --> 00:02:05.260
+The metaphor of the mask.
+
+19
+00:02:05.260 --> 00:02:09.870
+We say that in company we wear masks, that we hide our real face.
+
+20
+00:02:09.870 --> 00:02:16.080
+We reach for this metaphor very easily, because it makes us a promise: under the mask there is a face.
+
+21
+00:02:16.080 --> 00:02:18.930
+Ready, formed, real.
+
+22
+00:02:18.930 --> 00:02:22.580
+You need only find the courage to take it off.
+
+23
+00:02:22.580 --> 00:02:31.350
+Even the word itself comes from the theatre; in Latin, persona was the mask an actor held to his face, and our word personality grew out of it.
+
+24
+00:02:31.350 --> 00:02:35.000
+But in the theatre there really is an actor behind the mask.
+
+25
+00:02:35.000 --> 00:02:37.050
+Is it the same in life?
+
+26
+00:02:37.050 --> 00:02:40.700
+When we take the mask off, what do we find underneath?
+
+27
+00:02:40.700 --> 00:02:43.390
+Here we should be ready for an objection.
+
+28
+00:02:43.390 --> 00:02:48.160
+The call to know yourself is nothing new, you will say.
+
+29
+00:02:48.160 --> 00:02:58.210
+That famous phrase said to have been inscribed at the entrance of the temple of Apollo at Delphi, gnothi seauton, know thyself, is two thousand five hundred years old.
+
+30
+00:02:58.210 --> 00:03:04.260
+When Socrates said that an unexamined life is not worth living, wasn't he saying the same thing?
+
+31
+00:03:04.260 --> 00:03:06.630
+No, he was not.
+
+32
+00:03:06.630 --> 00:03:15.720
+In the ancient world, know yourself meant, to a great extent, know your place: know that you are mortal, that you are not a god, know your limits.
+
+33
+00:03:15.720 --> 00:03:24.810
+And in that world the good life did not consist in expressing what was peculiar to you, but in coming closer to a shared measure of virtue proper to a human being.
+
+34
+00:03:24.810 --> 00:03:33.100
+For an Athenian there was no such goal as being yourself; there was being good, and the measure of the good lay not inside him but outside him.
+
+35
+00:03:33.100 --> 00:03:42.350
+In the same way, for a medieval craftsman the meaning of life ran not through discovering his own uniqueness but through standing, as he should, in the place he had been given.
+
+36
+00:03:42.350 --> 00:03:48.240
+The idea of be yourself in the sense we understand it today begins to take shape in the eighteenth century.
+
+37
+00:03:48.240 --> 00:03:58.930
+In his Confessions, published after his death, Rousseau makes a surprising claim: the life of a man like himself is worth telling not because he did important things, but because he was himself.
+
+38
+00:03:58.930 --> 00:04:10.260
+In Rousseau's understanding of morality, what is right is told to us not by an external authority but by that unsuppressed voice within; society is the thing that pollutes that voice,
+
+39
+00:04:10.260 --> 00:04:14.390
+that keeps making us think about how we look in other people's eyes.
+
+40
+00:04:14.390 --> 00:04:23.160
+Immediately afterwards, Herder carries the idea further still: every person, every people, has a measure of its own, a way of being its own,
+
+41
+00:04:23.160 --> 00:04:29.050
+and I can realize my own way not through imitation but only by drawing it out of myself.
+
+42
+00:04:29.050 --> 00:04:40.540
+The Canadian philosopher Charles Taylor puts this transformation very plainly in his book The Ethics of Authenticity: authenticity, being true to oneself, is a moral ideal invented in the modern world.
+
+43
+00:04:40.540 --> 00:04:44.670
+Not old but new; not universal but historical.
+
+44
+00:04:44.670 --> 00:04:48.480
+And we find it as natural as water seems to a fish.
+
+45
+00:04:48.480 --> 00:04:55.330
+This matters, because seeing that an ideal has a history does not refute it; but it does make it open to question.
+
+46
+00:04:55.330 --> 00:05:01.380
+If being yourself is a duty, that duty must have an opposite: not being yourself.
+
+47
+00:05:01.380 --> 00:05:05.670
+So what is it like, not being yourself?
+
+48
+00:05:05.670 --> 00:05:07.400
+How does it look?
+
+49
+00:05:07.400 --> 00:05:10.410
+Is it written on your face?
+
+50
+00:05:10.410 --> 00:05:19.180
+In the middle of the twentieth century, a philosopher sitting in a café in Paris was looking at exactly this question when he was caught by the way a waiter moved.
+
+51
+00:05:19.180 --> 00:05:28.750
+In Sartre's Being and Nothingness, published in nineteen forty-three, there is a scene, one of the most discussed everyday scenes in the history of philosophy.
+
+52
+00:05:28.750 --> 00:05:31.280
+A café waiter.
+
+53
+00:05:31.280 --> 00:05:38.290
+Sartre shows extraordinary attention in describing him: his movements are too quick, too precise.
+
+54
+00:05:38.290 --> 00:05:45.620
+He comes up to the tables a little too nimbly, he carries the tray with a little too much skill, his voice is a little too eager.
+
+55
+00:05:45.620 --> 00:05:49.430
+Everything is in place, and that is exactly the problem.
+
+56
+00:05:49.430 --> 00:05:53.880
+The man is not waiting tables; he is playing at being a waiter.
+
+57
+00:05:53.880 --> 00:06:00.570
+He is looking at himself from the outside and meticulously constructing the figure that gaze expects.
+
+58
+00:06:00.570 --> 00:06:03.580
+Sartre calls this bad faith.
+
+59
+00:06:03.580 --> 00:06:09.950
+Not wickedness, not a miscalculation, but a kind of fraudulent honesty committed against oneself.
+
+60
+00:06:09.950 --> 00:06:14.240
+For the waiter has consented to see himself as a thing.
+
+61
+00:06:14.240 --> 00:06:18.370
+Waiting tables has stopped being his job and become his essence.
+
+62
+00:06:18.370 --> 00:06:25.860
+In this way he is relieved of a terrible burden: if I am a waiter, I do not have to get up in the morning and decide to be one.
+
+63
+00:06:25.860 --> 00:06:28.070
+The role carries me.
+
+64
+00:06:28.070 --> 00:06:32.200
+Sartre's whole philosophy is built against this escape.
+
+65
+00:06:32.200 --> 00:06:37.130
+For human beings, he says, existence comes before essence.
+
+66
+00:06:37.130 --> 00:06:42.060
+The essence of a knife is settled before it is made: it is designed to cut.
+
+67
+00:06:42.060 --> 00:06:45.550
+A human being has no such design.
+
+68
+00:06:45.550 --> 00:06:49.680
+First we exist, and then we build what we are out of our actions.
+
+69
+00:06:49.680 --> 00:06:55.250
+This is why, for Sartre, a human being is not what he is; he is what he is not.
+
+70
+00:06:55.250 --> 00:07:01.940
+That is, at every moment he stands together with the possibility of going beyond himself, of doing something else.
+
+71
+00:07:01.940 --> 00:07:05.750
+What the waiter does is swear not to see that possibility.
+
+72
+00:07:05.750 --> 00:07:08.600
+And now the tension begins.
+
+73
+00:07:08.600 --> 00:07:12.890
+Because the same trap can be set from the opposite direction as well.
+
+74
+00:07:12.890 --> 00:07:21.180
+Think of the person who takes off the mask, who refuses the role, who says, I am not going to please anyone any more, I am what I am.
+
+75
+00:07:21.180 --> 00:07:26.590
+Very often that person says this sentence: this is how I am, I cannot help it.
+
+76
+00:07:26.590 --> 00:07:28.960
+I am an impatient person.
+
+77
+00:07:28.960 --> 00:07:32.290
+I am a cold person.
+
+78
+00:07:32.290 --> 00:07:34.660
+This is my nature.
+
+79
+00:07:34.660 --> 00:07:40.870
+In Sartre's eyes this too is the second face of the same bad faith, more insidious, even.
+
+80
+00:07:40.870 --> 00:07:46.600
+Because this time the person is hiding not behind a social role but behind a story about himself.
+
+81
+00:07:46.600 --> 00:07:50.570
+To say I cannot help it is to declare that you did not choose.
+
+82
+00:07:50.570 --> 00:07:54.220
+Whereas he may be making that impatience anew each time.
+
+83
+00:07:54.220 --> 00:07:58.990
+So taking off the mask does not guarantee finding a face underneath.
+
+84
+00:07:58.990 --> 00:08:04.560
+Sometimes what lies underneath is a second mask: the mask of the real me.
+
+85
+00:08:04.560 --> 00:08:11.410
+In Being and Time, published in nineteen twenty-seven, Heidegger places this situation on a wider ground.
+
+86
+00:08:11.410 --> 00:08:19.220
+In his account, we spend most of our daily life inside an indefinite subject; this subject is nobody, yet it is everywhere.
+
+87
+00:08:19.220 --> 00:08:26.230
+This is how it is done, this is how one dresses, this is what is expected at your age, what will people say.
+
+88
+00:08:26.230 --> 00:08:28.760
+Heidegger calls this the they.
+
+89
+00:08:28.760 --> 00:08:33.530
+The dreadful thing about the they is not that it oppresses, but that it comforts.
+
+90
+00:08:33.530 --> 00:08:39.420
+If it makes the decisions, then it also answers for them; which is to say nobody answers.
+
+91
+00:08:39.420 --> 00:08:44.990
+While it appears to take the burden off you, what it really does is evaporate responsibility.
+
+92
+00:08:44.990 --> 00:08:49.280
+Add to this one more view, from the side of sociology.
+
+93
+00:08:49.280 --> 00:09:00.930
+In The Presentation of Self in Everyday Life, published in nineteen fifty-nine, Erving Goffman analyses human relations as a stage: there is a front region, the place where we perform before an audience;
+
+94
+00:09:00.930 --> 00:09:03.940
+and there is a back region, the wings.
+
+95
+00:09:03.940 --> 00:09:11.430
+We all know the relief of the wings: coming home and taking your shoes off, silencing your phone, letting your face go.
+
+96
+00:09:11.430 --> 00:09:15.560
+But let us be honest, the wings are not an empty place either.
+
+97
+00:09:15.560 --> 00:09:20.490
+There too we are playing a role, only with a smaller audience.
+
+98
+00:09:20.490 --> 00:09:27.340
+The story we tell ourselves when we are alone also carries a narrative, a construction, a dramaturgy of its own.
+
+99
+00:09:27.340 --> 00:09:31.310
+And at this point our search runs into a wall.
+
+100
+00:09:31.310 --> 00:09:38.480
+We peel away layer after layer, we expect a bare core at the very bottom, and under each layer we find one more layer.
+
+101
+00:09:38.480 --> 00:09:48.210
+Sartre does not flee from this; on the contrary, he accepts it: there is nothing underneath, and freedom is precisely the name of that absence.
+
+102
+00:09:48.210 --> 00:09:52.180
+A human being is an emptiness obliged to fill itself.
+
+103
+00:09:52.180 --> 00:09:57.270
+But to many people this answer comes not as a deliverance but as vertigo.
+
+104
+00:09:57.270 --> 00:10:01.080
+Perhaps we are describing the thing we are looking for wrongly.
+
+105
+00:10:01.080 --> 00:10:06.170
+Perhaps the desire to find a core at the bottom is itself the source of the real burden.
+
+106
+00:10:06.170 --> 00:10:10.460
+That thought stands at the very centre of an entirely different tradition.
+
+107
+00:10:10.460 --> 00:10:16.670
+In India a road was opened that runs in exactly the opposite direction from our advice to be yourself.
+
+108
+00:10:16.670 --> 00:10:23.040
+The hardest principle of the Buddha's teaching to grasp is the absence of a self; in Pali, anatta.
+
+109
+00:10:23.040 --> 00:10:29.890
+The claim is this: there is no fixed, indivisible I inside us that remains beneath all the changes.
+
+110
+00:10:29.890 --> 00:10:37.540
+What there is, is a constantly flowing composite: body, sensations, perceptions, dispositions, consciousness.
+
+111
+00:10:37.540 --> 00:10:42.630
+We gather these together and call them I, because language and habit require it.
+
+112
+00:10:42.630 --> 00:10:53.960
+The most memorable telling of this idea appears in an old text that relates an imagined conversation between a ruler of Greek descent and a monk; the Milindapanha, that is, the Questions of Milinda.
+
+113
+00:10:53.960 --> 00:11:00.170
+The monk Nagasena reminds King Milinda that he arrived by chariot, and asks: where is the chariot?
+
+114
+00:11:00.170 --> 00:11:02.220
+Is the wheel the chariot?
+
+115
+00:11:02.220 --> 00:11:04.590
+It is not.
+
+116
+00:11:04.590 --> 00:11:06.800
+The axle?
+
+117
+00:11:06.800 --> 00:11:08.050
+No.
+
+118
+00:11:08.050 --> 00:11:11.380
+The seat, the yoke, the frame?
+
+119
+00:11:11.380 --> 00:11:14.070
+None of them is a chariot on its own.
+
+120
+00:11:14.070 --> 00:11:19.640
+And yet, when you take them all apart and lay them out on the ground, does the chariot disappear?
+
+121
+00:11:19.640 --> 00:11:30.330
+The lesson of this scene in the Questions of Milinda is simple and unsettling: the chariot is a real thing, but it is real not as a part; it is real as an arrangement, as a coming together.
+
+122
+00:11:30.330 --> 00:11:32.700
+And so is the I.
+
+123
+00:11:32.700 --> 00:11:37.150
+It is not nothing; but it is not the kind of object we take it to be.
+
+124
+00:11:37.150 --> 00:11:41.600
+Now let us look at the counterpart of the same intuition in Islamic thought.
+
+125
+00:11:41.600 --> 00:11:52.930
+Most of us have heard those two lines of Yunus Emre, but we pass over their meaning too quickly: do not call me the me in me, I am not that either; there is an I within me, deeper in me than me.
+
+126
+00:11:52.930 --> 00:11:56.420
+The I inside does not belong to the I outside.
+
+127
+00:11:56.420 --> 00:12:04.390
+That is, Yunus does not count the face in the mirror, the profession, the name, the Yunus that people know, as his real self.
+
+128
+00:12:04.390 --> 00:12:15.720
+To put it in the language of the Sufi tradition, the selfhood built up by the nafs is a veil; the mask that has to be removed is not the one society puts on you, but the one a person puts on himself.
+
+129
+00:12:15.720 --> 00:12:19.690
+The most striking life story in this tradition is Gazâlî's.
+
+130
+00:12:19.690 --> 00:12:30.700
+At the end of the eleventh century he was the most esteemed teacher at the Nizamiyya madrasa in Baghdad; hundreds of students attended his lectures, and he stood at the centre of the politics of his age.
+
+131
+00:12:30.700 --> 00:12:34.030
+In ten ninety-five he suffered a collapse.
+
+132
+00:12:34.030 --> 00:12:45.200
+In the book he later called The Deliverance from Error he describes the crisis himself: he says that he became unable to find the strength to lecture, that he could not speak, that he could not eat.
+
+133
+00:12:45.200 --> 00:12:49.650
+The physicians were helpless, because the illness was not in the body.
+
+134
+00:12:49.650 --> 00:12:58.580
+Gazâlî gave up his position, gave away his wealth, and wandered for years in seclusion, in Damascus, in Jerusalem, on the road to Mecca.
+
+135
+00:12:58.580 --> 00:13:05.110
+What is remarkable is this: before the crisis he was already one of the most learned men of his time.
+
+136
+00:13:05.110 --> 00:13:07.800
+What was missing was not knowledge.
+
+137
+00:13:07.800 --> 00:13:16.570
+He realized that the thing he was seeking was not a doctrine to be grasped but a state to be lived, and he paid for that realization with his entire career.
+
+138
+00:13:16.570 --> 00:13:21.500
+The Sufi path uses two concepts on this road: fana and baqa.
+
+139
+00:13:21.500 --> 00:13:28.030
+Fana is the annihilation of selfhood; baqa is to exist, beyond it, with what is permanent.
+
+140
+00:13:28.030 --> 00:13:38.720
+Mevlânâ opens the Masnavi, which he wrote in Konya in the thirteenth century, with a description of a reed: a reed cut from the reed bed can give out a sound only because it has been hollowed out.
+
+141
+00:13:38.720 --> 00:13:41.570
+And the reason for its lament is separation.
+
+142
+00:13:41.570 --> 00:13:48.420
+The metaphor is painfully clear: without being emptied you have no voice, and that emptying is a wound.
+
+143
+00:13:48.420 --> 00:13:51.910
+Here we see two great roads come face to face.
+
+144
+00:13:51.910 --> 00:13:56.840
+One says: to be yourself, find what is inside you and express it.
+
+145
+00:13:56.840 --> 00:14:02.570
+The other says: the thing you hold on to as your self is the real obstacle, so go past it.
+
+146
+00:14:02.570 --> 00:14:05.900
+These two roads really are opposed to each other.
+
+147
+00:14:05.900 --> 00:14:13.550
+But looked at carefully, they have a common enemy: both are against the comfortable story a person builds about himself.
+
+148
+00:14:13.550 --> 00:14:17.680
+Sartre's waiter took his role for his own essence.
+
+149
+00:14:17.680 --> 00:14:23.090
+The selfhood Yunus criticizes takes what is passing for what is lasting.
+
+150
+00:14:23.090 --> 00:14:32.500
+Both the West's ideal of authenticity and the East's path of passing beyond the self meet at the same place: the thing you think you are holding is not yours.
+
+151
+00:14:32.500 --> 00:14:35.030
+This is a sorrowful discovery.
+
+152
+00:14:35.030 --> 00:14:40.920
+Because a journey that set out in the hope of finding something ends in an invitation to let something go.
+
+153
+00:14:40.920 --> 00:14:46.170
+And that invitation falls right into the middle of our most concrete decisions.
+
+154
+00:14:46.170 --> 00:14:55.420
+In a lecture he gave in nineteen forty-five, later published under the title Existentialism Is a Humanism, Sartre tells of a student who came to him for advice.
+
+155
+00:14:55.420 --> 00:14:59.070
+France is under occupation.
+
+156
+00:14:59.070 --> 00:15:04.960
+The young man has no father, he lives with his mother, and his mother depends on him alone.
+
+157
+00:15:04.960 --> 00:15:12.450
+He is caught between two options: stay at home and look after his mother, or join the resistance and go to the Free French Forces.
+
+158
+00:15:12.450 --> 00:15:15.300
+Which moral rule settles that question?
+
+159
+00:15:15.300 --> 00:15:19.270
+Loyalty to a mother, or loyalty to a country?
+
+160
+00:15:19.270 --> 00:15:25.960
+Sartre tells his student this: no teaching, no book, no adviser can decide this in your place.
+
+161
+00:15:25.960 --> 00:15:31.210
+You will choose, and with what you choose you will also have produced the kind of person you are.
+
+162
+00:15:31.210 --> 00:15:34.700
+We all recognize the present-day form of this scene.
+
+163
+00:15:34.700 --> 00:15:37.550
+The profession the family chooses.
+
+164
+00:15:37.550 --> 00:15:44.240
+In Turkey, in the lives of millions of young people, this is a war compressed into a single examination day.
+
+165
+00:15:44.240 --> 00:15:48.210
+The father wants you to be a doctor, because he wants security.
+
+166
+00:15:48.210 --> 00:15:54.740
+The mother points to engineering, because she wants to find for you the chance she could not find for herself.
+
+167
+00:15:54.740 --> 00:15:59.030
+And the young person is trying to pick out their own voice between the two.
+
+168
+00:15:59.030 --> 00:16:03.800
+It is easy to give the romantic advice here: listen to what comes from inside you.
+
+169
+00:16:03.800 --> 00:16:16.090
+But after everything we have seen, we know that the voice coming from inside is not innocent either; it too may have been learned somewhere, heard somewhere, shaped by a film, by a friend, by a humiliation,
+
+170
+00:16:16.090 --> 00:16:18.300
+by a word of praise.
+
+171
+00:16:18.300 --> 00:16:22.590
+Inwardness is, very often, another guise of outwardness.
+
+172
+00:16:22.590 --> 00:16:27.040
+The question has a newer form as well: the face in the profile.
+
+173
+00:16:27.040 --> 00:16:36.610
+A person's social media account is the sum of frames selected from their life, and that selection is not innocent; it is disciplined by a system that hands out rewards.
+
+174
+00:16:36.610 --> 00:16:40.580
+One post draws attention, and others like it multiply.
+
+175
+00:16:40.580 --> 00:16:48.390
+But unlike Goffman's wings, here the front stage is permanent: it is archived, it is searchable, it can be called back.
+
+176
+00:16:48.390 --> 00:16:54.600
+And the most critical point is this: the performance is watched not only by the audience but by the performer.
+
+177
+00:16:54.600 --> 00:16:59.850
+A person begins to read the story about themselves that the algorithm has approved.
+
+178
+00:16:59.850 --> 00:17:09.580
+In this way the call to be yourself turns into its opposite; a model of selfhood that wins approval is produced, and the person tries to resemble that model.
+
+179
+00:17:09.580 --> 00:17:15.310
+Think, in fact, about where this sentence is heard most often today: in advertising.
+
+180
+00:17:15.310 --> 00:17:17.840
+Be yourself, buy this.
+
+181
+00:17:17.840 --> 00:17:21.650
+A moral ideal has been reduced to a consumer's guide.
+
+182
+00:17:21.650 --> 00:17:24.980
+So is what we are left with a dead end?
+
+183
+00:17:24.980 --> 00:17:28.790
+No, and this is exactly where the conclusion begins.
+
+184
+00:17:28.790 --> 00:17:37.560
+Charles Taylor's most valuable contribution is this warning: the ideal of authenticity is not wrong, but its solitary interpretation is.
+
+185
+00:17:37.560 --> 00:17:43.610
+For Taylor the human self is dialogical, that is, it is constituted in conversation.
+
+186
+00:17:43.610 --> 00:17:52.540
+Every word, every concept, every moral measure we use to describe ourselves was given to us by a language, a tradition, a community.
+
+187
+00:17:52.540 --> 00:18:00.670
+Being yourself, therefore, is not stripping away every bond; it is deciding which bond you will stay loyal to, and on what grounds.
+
+188
+00:18:00.670 --> 00:18:08.000
+For a self to be valuable it is not enough for it to be unique; it needs a horizon beyond itself concerning what matters.
+
+189
+00:18:08.000 --> 00:18:11.490
+Otherwise the content of uniqueness drains away.
+
+190
+00:18:11.490 --> 00:18:21.380
+One of the names who approached this question most resolutely in Turkish intellectual life, Nurettin Topçu, speaks in The Ethics of Rebellion of a person becoming a personality;
+
+191
+00:18:21.380 --> 00:18:25.830
+what he sets against it is not selfishness but living as part of a herd.
+
+192
+00:18:25.830 --> 00:18:34.600
+The distinction here shows us the way: a personality is not someone who puts their own pleasure at the centre, but someone who takes on their own responsibility.
+
+193
+00:18:34.600 --> 00:18:37.610
+So let us return to the question we began with.
+
+194
+00:18:37.610 --> 00:18:41.260
+When you take off the mask, what is underneath?
+
+195
+00:18:41.260 --> 00:18:45.710
+It was probably the wrong question, because it was looking for a face.
+
+196
+00:18:45.710 --> 00:18:51.760
+Whereas all the clues we have gathered point in the same direction: the self is not an object but a verb.
+
+197
+00:18:51.760 --> 00:18:55.570
+Not something found, but something sustained.
+
+198
+00:18:55.570 --> 00:19:01.300
+Like a piece of music; it is not on the sheet, it exists only as long as it is played.
+
+199
+00:19:01.300 --> 00:19:07.350
+When Gazâlî began to write again he had not found the old Gazâlî; he had built a new life.
+
+200
+00:19:07.350 --> 00:19:12.440
+Sartre's student, whichever he chose, would have made himself with that choice.
+
+201
+00:19:12.440 --> 00:19:18.810
+And this does not make the advice to be yourself entirely meaningless; it only changes its meaning.
+
+202
+00:19:18.810 --> 00:19:27.100
+It is no longer a promise implying that there is a hidden treasure inside you, but a call whose account cannot be passed on to anyone else.
+
+203
+00:19:27.100 --> 00:19:36.190
+No one can choose in your place, no one can answer in your place, and whichever mask you are carrying, it is you who decides again every morning to go on carrying it.
+
+204
+00:19:36.190 --> 00:19:44.960
+Perhaps that is the hardest part of it: you will not find a ready face beneath the mask, but the answer to the question of who put the mask on does not change.
+
+205
+00:19:44.960 --> 00:19:49.250
+Nöron Philosophy'de bugünkü bölümün sonuna geldik.
+
+206
+00:19:49.250 --> 00:19:52.900
+Yeni bir hikâyede yeniden buluşmak üzere.
