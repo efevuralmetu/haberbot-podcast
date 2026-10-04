@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-04.mp3
+
+beklenen 1636 kelime | duyulan 1665 kelime | eşleşme %93.4
+sayı ifadesi: metinde 292, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ortasında portakal bahçeleriyle çevrili
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kurulmuş küçük kasaba vardı
+      metin  : eatonville
+      duyulan: etonville
+  INSERT   ...siyahtı zora neale hurston
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ama kendini ömrü boyunca
+      metin  : eatonville li
+      duyulan: etonville i
+  REPLACE  ...sonra aynı adam dönem
+      metin  : eatonville
+      duyulan: etonville
+  REPLACE  ...küçük görünür oysa hurston
+      metin  : ın
+      duyulan: un
+  INSERT   ...dili vardı bu dünya
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve baltimoer da liseye
+      metin  : kaydoldu
+      duyulan: kayboldu
+  INSERT   ...ilk öykülerini orada yazdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlattığına göer çantasında dolar
+      metin  : sentle
+      duyulan: cent ile
+  REPLACE  ...a geldi aynı yıl
+      metin  : spunk
+      duyulan: spank
+  REPLACE  ...bağlı kadın yüksekokulu barnard
+      metin  : college a
+      duyulan: koleca
+  INSERT   ...tek siyah öğrencisiydi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...siyah mezun olarak çıktı
+      metin  : barnard da
+      duyulan: barnarda
+  REPLACE  ...hoca modern antropolojinin kurucularından
+      metin  : franz
+      duyulan: frans
+  INSERT   ...e geri yolladı hurston
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...hurston itibaren florida nın
+      metin  : kereste
+      duyulan: keresle
+  REPLACE  ...girdi bütün bu malzeme
+      metin  : mules
+      duyulan: te moles
+  INSERT   ...derlediği ilk büyük kitaplardan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olağanüstü tanığının karşısına oturdu
+      metin  : oluale
+      duyulan: oluwale
+  REPLACE  ...yani son köle gemisiyle
+      metin  : atlantiği
+      duyulan: ta atlantia yı
+  REPLACE  ...son insandı beyazların taktığı
+      metin  : cudjo
+      duyulan: jujo
+  REPLACE  ...hiç düzeltmeden yazıya geçirdi
+      metin  : gugenhaym
+      duyulan: da guggenheim
+  REPLACE  ...geçirdi gugenhaym bursunu kazanıp
+      metin  : jamaika
+      duyulan: jamaica
+  REPLACE  ...vardı yaşındayken yaşındaki percy
+      metin  : punter
+      duyulan: panther
+  REPLACE  ...o yarayı bavuluna koyup
+      metin  : karayipler e
+      duyulan: karayıplara
+  REPLACE  ...kaçtı haiti nin başkenti
+      metin  : por o prens te
+      duyulan: poro prince de
+  REPLACE  ...tanrı yı görüyordu kitap
+      metin  : janie
+      duyulan: johnny
+  REPLACE  ...yasaklar çok genç olan
+      metin  : tea
+      duyulan: tay
+  REPLACE  ...genç olan tea cake
+      metin  : janie yi
+      duyulan: johnny ı
+  INSERT   ...oynarlar dans ederler sonra
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ederler sonra büyük kasırgası
+      metin  : okeechobee
+      duyulan: okekobe
+  REPLACE  ...suyunu bataklığın üstüne devirir
+      metin  : tea
+      duyulan: tay
+  REPLACE  ...köpek tarafından ısırılır ve
+      metin  : janie
+      duyulan: johnny
+  REPLACE  ...janie vurmak zorunda kalır
+      metin  : romanın
+      duyulan: romamın
+  INSERT   ...duymadan anlatmasından ibarettir eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dönemin solcu dergisi new
+      metin  : masses ta
+      duyulan: massista
+  INSERT   ...olan richard wright tı
+      metin  : (yok)
+      duyulan: the
+  REPLACE  ...düşüncesi olmadığını söyledi hurston
+      metin  : ı
+      duyulan: u
+  REPLACE  ...sürtüşme değildi dönemin kavgasıydı
+      metin  : otuzların
+      duyulan: ların
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: edebiyat-2026-10-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-03.mp3
+
+beklenen 1323 kelime | duyulan 1338 kelime | eşleşme %93.9
+sayı ifadesi: metinde 337, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gün süreyle trafiğe açmayı
+      metin  : öngören
+      duyulan: öngüren
+  REPLACE  ...karşın abd bölgeye uçak
+      metin  : gemisi
+      duyulan: yemisi
+  REPLACE  ...ize boğazda amerikan insansız
+      metin  : su
+      duyulan: sualtı
+  REPLACE  ...can kayıpları devam ediyor
+      metin  : rafah ta
+      duyulan: rafahtta
+  REPLACE  ...beklenen bütçe kilitlenmesi yaşanmadı
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...kişi öldü kişi yaralandı
+      metin  : kramatorsk ta
+      duyulan: kramatorskıt a
+  REPLACE  ...ekim de toplanacak ve
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...venezuela da muhalefet lideri
+      metin  : mariya korina maçado
+      duyulan: maria corina machado
+  INSERT   ...tur görüşmelerin ardından ülkede
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...koer de ize kb
+      metin  : kookmin
+      duyulan: kukmin
+  REPLACE  ...kb kookmin hana ve
+      metin  : bnk busan
+      duyulan: bn kabusan
+  REPLACE  ...siber saldırılar gündemde trump
+      metin  : seul
+      duyulan: seoul
+  REPLACE  ...kullanıma açtı anthropic ize
+      metin  : claude
+      duyulan: cloud
+  DELETE   ...anthropic ize claude opus
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gpt sol da girdi
+      metin  : token ı
+      duyulan: tokunu
+  REPLACE  ...yeni tartışma başlığı openai
+      metin  : modelleriyle
+      duyulan: modelleri ile
+  REPLACE  ...adlı deneysel uydu spacex
+      metin  : roketiyle
+      duyulan: roketi ile
+  REPLACE  ...sürümünü çalıştıracak amaç güneş
+      metin  : enerjisiyle
+      duyulan: enerjisi ile
+  REPLACE  ...belirtiliyor ayrıca saat boyunca
+      metin  : kilidi
+      duyulan: kilide
+  REPLACE  ...tesla ize yeni nesil
+      metin  : roadster
+      duyulan: roadstar
+  REPLACE  ...seçim öncesi talebi doğrultusunda
+      metin  : motorin
+      duyulan: motorun
+  REPLACE  ...sürdüğü bildiriliyor güvenli liman
+      metin  : talebiyle
+      duyulan: talebi ile
+  REPLACE  ...bankası nın ekim toplantısında
+      metin  : baz
+      duyulan: pas
+  INSERT   ...gitme olasılığı vadeli piyasalarda
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...aralık toplantısına kaldığı görüşünde
+      metin  : fed
+      duyulan: fet
+  REPLACE  ...kararı ekim de türkiye
+      metin  : saatiyle
+      duyulan: saati ile de
+  REPLACE  ...da ize ulusal para
+      metin  : rial
+      duyulan: riyal
+  INSERT   ...mahkemesi hukuk dairesi mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...esastan karar verecek chp
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...kararı aldı gerekçe olarak
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...sürdürüyor yeni parti temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...antlaşması nın yıl dönümünde
+      metin  : milletvekiliyle
+      duyulan: milletvekili ile
+  REPLACE  ...kurucular kurulu tarafından oy
+      metin  : birliğiyle
+      duyulan: ile
+  REPLACE  ...iştiraki ağaç ve peyzaj
+      metin  : a ş
+      duyulan: aşa
+  INSERT   ...da yeniden yazdı portföyün
+      metin  : (yok)
+      duyulan: ini
+  INSERT   ...aşan pozisyonların toplamı artık
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...hafta vadeli repo faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...enflasyon olmuştu piyasa göstergelerinde
+      metin  : dolar lira euro lira
+      duyulan: eur
+  REPLACE  ...satış lira çeyrek liraydı
+      metin  : bist
+      duyulan: b sist
+  REPLACE  ...cumhurbaşkanı recep tayyip erdoğan
+      metin  : şanlıurfa
+      duyulan: şanlurfa
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: gundem-2026-10-03.duyulan.txt

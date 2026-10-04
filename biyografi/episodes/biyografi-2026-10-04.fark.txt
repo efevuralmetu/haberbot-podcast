@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-04.mp3
+
+beklenen 2127 kelime | duyulan 2168 kelime | eşleşme %95.6
+sayı ifadesi: metinde 329, duyulanda 202  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...samuray efendisinin
+      metin  : mektuplarıyla pasifiğe
+      duyulan: mektupları ile pasifiye
+  REPLACE  ...meksika yı karadan geçer
+      metin  : atlantiği
+      duyulan: atlantı yı
+  REPLACE  ...huzuruna çıkar yıl sonra
+      metin  : sendai
+      duyulan: sendaye
+  INSERT   ...boş dönen adamın hikayesi
+      metin  : (yok)
+      duyulan: hi
+  INSERT   ...dönen adamın hikayesi aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çamura döndü bu kıyı
+      metin  : sendai
+      duyulan: sendaye
+  REPLACE  ...bu kıyı sendai beyi
+      metin  : date
+      duyulan: dat
+  INSERT   ...bugünkü meksika duruyordu fırsat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...spanyol denizci ve elçi
+      metin  : sebastiyan viskaino
+      duyulan: sebastián vizcaíno
+  REPLACE  ...işlerinden sorumlu memuru mukai
+      metin  : şogen
+      duyulan: shogen
+  REPLACE  ...memuru mukai şogen gözetiminde
+      metin  : tsukinoura
+      duyulan: tsukinura
+  REPLACE  ...bugünkü i şinomaki yakınlarında
+      metin  : tersane
+      duyulan: tershane
+  REPLACE  ...i spanyolca verdiler san
+      metin  : huan
+      duyulan: juan
+  INSERT   ...savaşçısı değildi hasekura tsunenaga
+      metin  : (yok)
+      duyulan: lı
+  INSERT   ...başında orta rütbeli vasaldı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ticaret planını taşımak için
+      metin  : (yok)
+      duyulan: bilmedi
+  REPLACE  ...ve yeni i spanya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...masamune bu mektuplarda kendini
+      metin  : hıristiyanlığa
+      duyulan: hristiyanlığa
+  INSERT   ...da hiç düşünmemişti ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ay boyunca kara görmediler
+      metin  : pasifiği
+      duyulan: pasifi yi
+  REPLACE  ...çok ötesinde şeydi ocak
+      metin  : akapulko
+      duyulan: te acapulco
+  REPLACE  ...spanyollar arasında kavga çıktı
+      metin  : viskaino
+      duyulan: viskayno
+  INSERT   ...olsa bile kaybediyordu mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...döndü vaftizci yahya sonbaharında
+      metin  : pasifiği
+      duyulan: pasifi yi
+  REPLACE  ...adamıyla karadan atlantik kıyısına
+      metin  : verakruz
+      duyulan: veracruz
+  INSERT   ...kıyısına verakruz a yürüdü
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...verakruz a yürüdü haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...spanyol gemisine ekim de
+      metin  : guadalkivir
+      duyulan: guadalquivir
+  REPLACE  ...de guadalkivir in ağzındaki
+      metin  : sanlukar
+      duyulan: sanlucar
+  REPLACE  ...de barrameda limanına kısaca
+      metin  : sanlukar
+      duyulan: sanlucar
+  INSERT   ...madrid daha soğuktu ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...arada kendi kararını uyguladı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...kendi kararını uyguladı şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kararını uyguladı şubat madrid
+      metin  : de
+      duyulan: te
+  INSERT   ...en güçlü adamı lerma
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...üstlendi yeni adı felipe
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...spanya nın üstündeki tek
+      metin  : mercie
+      duyulan: mersi ye
+  REPLACE  ...kafile fransa nın güneyinde
+      metin  : sen trope
+      duyulan: sentrop
+  INSERT   ...sığınmak zorunda kaldı ekim
+      metin  : (yok)
+      duyulan: te
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: biyografi-2026-10-04.duyulan.txt

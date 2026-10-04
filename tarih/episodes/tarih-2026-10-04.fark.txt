@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-04.mp3
+
+beklenen 2381 kelime | duyulan 2402 kelime | eşleşme %94.6
+sayı ifadesi: metinde 341, duyulanda 228  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...arazi parçasıydı ve her
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...sert pazarlıkçı hükümdardı britanya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...taşıran damla oldu ekim
+      metin  : simla
+      duyulan: de simna
+  REPLACE  ...tahtını kaybedip hindistan da
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...ve onların arkasında develerle
+      metin  : kağnılarla
+      duyulan: kanılarla
+  INSERT   ...nisanda direnişsiz düştü temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çok hindistan dan taşınmış
+      metin  : banliyöye
+      duyulan: banyoya
+  REPLACE  ...sığ hendekli çevresi neredeyze
+      metin  : buçuk kilometreye
+      duyulan: km ye
+  REPLACE  ...ayrı kalede yaklaşık meter
+      metin  : öteydeydi
+      duyulan: öteydi
+  INSERT   ...mektuplarda açıkça söylüyorlardı nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...elphinstone a verildi elphinstone
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...hastalığıyla birlikte erimişti yardımcısı
+      metin  : tuğgeneral
+      duyulan: tu general
+  INSERT   ...kalmasını satın alıyordu ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...siyasi temsilci sir william
+      metin  : macnaghten
+      duyulan: macnaghtan
+  REPLACE  ...geçitler kapandı komutan robert
+      metin  : sale in tugayı
+      duyulan: saylin tugay ı
+  REPLACE  ...savaşçı birliğinden mahrum kaldı
+      metin  : macnaghten
+      duyulan: macnaghtan
+  INSERT   ...sakinleştiğini kalküta ya yazıyordu
+      metin  : (yok)
+      duyulan: ki ki
+  REPLACE  ...evinde oturan sir alexander
+      metin  : burnes
+      duyulan: burness
+  REPLACE  ...sir alexander burnes ti
+      metin  : burnes
+      duyulan: burness
+  REPLACE  ...yaramadı kalabalık bahçe duvarını
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...evi ateşe verdi ve
+      metin  : burnes
+      duyulan: burness
+  REPLACE  ...charles ı ve yanlarındaki
+      metin  : teğmen
+      duyulan: tayman
+  REPLACE  ...hiçbir şey yapmadı şehir
+      metin  : buçuk kilometer
+      duyulan: km
+  INSERT   ...her şeyi değiştirebilirdi elphinstone
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...daha ordugahın dışına ciddi
+      metin  : harekat
+      duyulan: hareket
+  REPLACE  ...ötesinde kaldı aralık ortasında
+      metin  : macnaghten
+      duyulan: maknaktan
+  REPLACE  ...han la görüşmeler başladı
+      metin  : macnaghten
+      duyulan: maknaktan
+  REPLACE  ...fark edildi aralık sabahı
+      metin  : macnaghten
+      duyulan: maknaktan
+  REPLACE  ...ın adamları elçiye saldırdı
+      metin  : macnaghten
+      duyulan: maknaktan
+  REPLACE  ...en çok konuşulan sahnesidir
+      metin  : macnaghten in
+      duyulan: maknaktan ın
+  REPLACE  ...şehrin büyük kapalı çarşısı
+      metin  : çar çatta ya
+      duyulan: çarçatdaya
+  REPLACE  ...yetkili temsilcisi kendi ordusunun
+      metin  : buçuk kilometer
+      duyulan: km
+  INSERT   ...dilenecek taraf vardı ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...onların kendi hesapları vardı
+      metin  : macnaghten in
+      duyulan: maknahtenin
+  REPLACE  ...sormayacak kadar karlı işti
+      metin  : ordugahta
+      duyulan: ordugahtta
+  REPLACE  ...yitirmişti ocak ta kafile
+      metin  : hurd
+      duyulan: hurt
+  REPLACE  ...geçit kilometer kadar uzunlukta
+      metin  : yanı
+      duyulan: yana
+  REPLACE  ...o sabah yükseklikler tutulmadı
+      metin  : gilzay
+      duyulan: gilzai
+  INSERT   ...o tek günde geçitte
+      metin  : (yok)
+      duyulan: den
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: tarih-2026-10-04.duyulan.txt

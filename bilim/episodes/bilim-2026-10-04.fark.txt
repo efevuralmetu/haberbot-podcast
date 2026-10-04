@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-04.mp3
+
+beklenen 1729 kelime | duyulan 1744 kelime | eşleşme %97.0
+sayı ifadesi: metinde 272, duyulanda 204  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...binlerce yılda görülebilirdi sonra
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...lazer masalı metreye çevirdi
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...çevirdi aralık gecesi kuzey
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...benzetiyordu uçurum kale duvarı
+      metin  : sarp
+      duyulan: sark
+  REPLACE  ...bağımsız rastgele fazlarla ilerleyen
+      metin  : yüzlerce sinüs
+      duyulan: yüzlercesiniz
+  REPLACE  ...nin ortasındaki çelik iskeletin
+      metin  : aşağıyı
+      duyulan: aşağı
+  REPLACE  ...çelik iskeletin aşağıyı gösteriyordu
+      metin  : norvecin
+      duyulan: norveç in
+  REPLACE  ...ucundan kilometer güneybatıda kuzey
+      metin  : denizi nde draupner
+      duyulan: denizinde dropner
+  REPLACE  ...işleten norveç petrol şirketi
+      metin  : statoil
+      duyulan: statoi
+  INSERT   ...sadece sayı dizisi ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...vardı toplam metrelik yüksekliğin
+      metin  : metresi
+      duyulan: metesi
+  REPLACE  ...yılın eylülünde atlantik te
+      metin  : luis
+      duyulan: louis
+  INSERT   ...yolcu gemisi queen elizabeth
+      metin  : (yok)
+      duyulan: ii
+  DELETE   ...gemisi queen elizabeth yani
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...avrupa uzay ajansı nın
+      metin  : yer gözlem
+      duyulan: yeryözlem
+  INSERT   ...ölçümler sonra da sürdü
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...yine kuzey denizi nde
+      metin  : andrea
+      duyulan: ander ye
+  REPLACE  ...andrea adı verilen dalga
+      metin  : kaydedildi
+      duyulan: kaydedili
+  INSERT   ...verilen dalga kaydedildi kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kıyısında vancouver adası açıklarındaki
+      metin  : ucluelet
+      duyulan: uçlulet
+  INSERT   ...tahmin değil sayılmış şey
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...büyük bölümünün hizalanma artı
+      metin  : nonlineer pay
+      duyulan: non linear pi
+  REPLACE  ...ile açıklanabildiğini gösterdi o
+      metin  : nonlineer pay
+      duyulan: non linear pi
+  REPLACE  ...de en tartışmalı olanı
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...konudaki dürüst sınırı burada
+      metin  : draupner
+      duyulan: drupner
+  INSERT   ...girdiğini gösterdi bu fikir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iş tam uygundu araştırmacılar
+      metin  : draupner
+      duyulan: drupner
+  REPLACE  ...kıyısı boyunca güneye akan
+      metin  : agulyas
+      duyulan: agulias
+  REPLACE  ...artık uğursuzlukla değil akıntı
+      metin  : haritasıyla
+      duyulan: haritası ile
+  REPLACE  ...arasında bırakılması gereken açıklık
+      metin  : ölçütleri
+      duyulan: ölçükleri
+  REPLACE  ...fizik yetiyor girişim suyun
+      metin  : nonlineer
+      duyulan: non linyer
+  REPLACE  ...ilerler sığ sahilde kabarır
+      metin  : draupner
+      duyulan: drupner
+  INSERT   ...içinden kendi malzemesiyle çıktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve sayısını yazan lazer
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...tek satırda haklı çıkardı
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-10-04.duyulan.txt

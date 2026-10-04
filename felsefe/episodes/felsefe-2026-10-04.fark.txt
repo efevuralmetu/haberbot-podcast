@@ -1,0 +1,103 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-04.mp3
+
+beklenen 2024 kelime | duyulan 2019 kelime | eşleşme %96.9
+sayı ifadesi: metinde 227, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...söylenen o ünlü ibaer
+      metin  : gnothi seauton
+      duyulan: gnoti seaton
+  REPLACE  ...fikri yüzyılda şekillenmeye başlıyor
+      metin  : ruso
+      duyulan: russo
+  REPLACE  ...olduğu için anlatılmaya değerdir
+      metin  : ruso
+      duyulan: russo
+  REPLACE  ...tam bu soruya bakarken
+      metin  : garsonun
+      duyulan: garçonun
+  REPLACE  ...garsonun yürüyüşüne takıldı sarter
+      metin  : ın
+      duyulan: nin te
+  REPLACE  ...ve hiçliğinde sahne var
+      metin  : felsefe
+      duyulan: kelsefe
+  REPLACE  ...konuşulan gündelik sahnelerinden kafe
+      metin  : garsonu
+      duyulan: garçonu
+  REPLACE  ...tam da bu adam
+      metin  : garsonluk
+      duyulan: garçonluk
+  REPLACE  ...bu adam garsonluk yapmıyor
+      metin  : garson
+      duyulan: garçon
+  REPLACE  ...tür hileli dürüstlük çünkü
+      metin  : garson
+      duyulan: garçon
+  REPLACE  ...rol beni taşır sarter
+      metin  : ın
+      duyulan: nin
+  REPLACE  ...eylemlerimizle kuruyoruz bu sarter
+      metin  : a
+      duyulan: ya
+  REPLACE  ...benim doğam bu sarter
+      metin  : ın
+      duyulan: nın
+  REPLACE  ...var asıl ben maskesi
+      metin  : haydegger
+      duyulan: haydekger de
+  REPLACE  ...beklenir insanlar ne der
+      metin  : haydegger
+      duyulan: haydekger
+  REPLACE  ...der haydegger buna der
+      metin  : ın
+      duyulan: onların
+  REPLACE  ...tarafından bakış daha ekleyin
+      metin  : erving
+      duyulan: erwin
+  INSERT   ...daha ekleyin erving goffman
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...seyircisi daha az yalnızken
+      metin  : kendimize
+      duyulan: kendimizi
+  REPLACE  ...pali dilinde anatta i
+      metin  : ddia
+      duyulan: ddaha
+  REPLACE  ...yunus emer nin o
+      metin  : mısraını
+      duyulan: mısranı
+  REPLACE  ...ben vardır bende benden
+      metin  : içeru
+      duyulan: içeri
+  INSERT   ...giriyordu devrin siyasetinin merkezindeydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...değildi aradığı şeyin kavranacak
+      metin  : doktrin
+      duyulan: doktorin
+  INSERT   ...bakıldığında ortak düşmanları var
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...rahat hikayeye karşıdır sarter
+      metin  : ın
+      duyulan: nin
+  INSERT   ...tam ortasına düşüyor sarter
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sarter verdiği ve sonradan
+      metin  : varoluşçuluk
+      duyulan: varoluşculuk
+  REPLACE  ...a göer insan benliği
+      metin  : diyalojiktir
+      duyulan: diyalogiktir
+  REPLACE  ...taktığı sorusunun cevabı değişmez
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: felsefe-2026-10-04.duyulan.txt

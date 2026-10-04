@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-04.mp3
+
+beklenen 1592 kelime | duyulan 1591 kelime | eşleşme %97.8
+sayı ifadesi: metinde 174, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hastalığı ama avcı hasta
+      metin  : kurdunu
+      duyulan: kurduğunu
+  INSERT   ...deneyi kendiliğinden işlemeye başlamıştı
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...başlamıştı eylül salı sunucular
+      metin  : bakımdan
+      duyulan: bakımından
+  DELETE   ...kısaca blizzard o gün
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yeni açılan zindanın adı
+      metin  : zul gurub du
+      duyulan: zulgruptu
+  REPLACE  ...gurub du yani kısaca
+      metin  : gurub
+      duyulan: grup
+  REPLACE  ...ayrı yaratılan kopyalardı siz
+      metin  : gurub
+      duyulan: grup
+  REPLACE  ...lanet hala üzerindeydi ve
+      metin  : etrafa
+      duyulan: etrafı
+  INSERT   ...yanlış anlama fazla sürmedi
+      metin  : (yok)
+      duyulan: donalt ı
+  REPLACE  ...gönüllü olarak karantinaya alsın
+      metin  : lanetliyze
+      duyulan: lanetli ize
+  REPLACE  ...tamamen gönüllü kordonlar çekildi
+      metin  : rol
+      duyulan: role
+  DELETE   ...de kapandı ardından gelen
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...almasını tamamen engelledi ocak
+      metin  : nokta
+      duyulan: daki
+  REPLACE  ...i srailli epidemiyolog ran
+      metin  : balicer epidemiology
+      duyulan: balicher de epidemioloji
+  REPLACE  ...epidemiology adlı dergide yani
+      metin  : epidemiyoloji
+      duyulan: epidemioloji
+  REPLACE  ...anda ışınlanması hava yolu
+      metin  : trafiğinin
+      duyulan: trafinin
+  REPLACE  ...infectious diseases te yani
+      metin  : lancedin
+      duyulan: lancet in
+  REPLACE  ...kendilerine söyleneni yapacağını varsayar
+      metin  : gurub
+      duyulan: grup
+  INSERT   ...dersini başka yerden çıkardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...davranışının kaydı olarak kaldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yapacağına karar veren kalabalıktı
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 25
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: oyun-2026-10-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-04.mp3
+
+beklenen 1497 kelime | duyulan 1502 kelime | eşleşme %94.0
+sayı ifadesi: metinde 177, duyulanda 114  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...filmlerinden ilk dakikalarıdır yönetmeni
+      metin  : sergey
+      duyulan: sergiy
+  INSERT   ...vermişti anlatmak istediği şair
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sayat nova diye geçen
+      metin  : aşuğdu
+      duyulan: aşuğudu
+  REPLACE  ...tam karşılığıydı gürcü kralı
+      metin  : i kinci erekle
+      duyulan: erekli
+  INSERT   ...da keşiş olarak geçirdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yürüdüğünde kuzey ermenistan daki
+      metin  : hağpat
+      duyulan: hapat
+  REPLACE  ...oyuncular zaman zaman doğrudan
+      metin  : merceğe
+      duyulan: merceye
+  REPLACE  ...seçiminde verildi gürcü oyuncu
+      metin  : sofiko çiaureli
+      duyulan: sofikoç yavreli
+  REPLACE  ...olgun halini dansçı vilen
+      metin  : galstyan
+      duyulan: galstiyan
+  REPLACE  ...şahbazyan ın sanat yönetmeni
+      metin  : stepan
+      duyulan: stefan
+  REPLACE  ...gölgeleri yüzünden çoktan şüpheli
+      metin  : ad
+      duyulan: at
+  REPLACE  ...getirmiyordu sosyalist gerçekçilikle hiçbir
+      metin  : bağı
+      duyulan: bağ
+  INSERT   ...yönetmenin onayladığı bu hal
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...üzeer deneyimli rus yönetmen
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...yönetmen sergey yutkeviç görevlendirildi
+      metin  : yutkevicin
+      duyulan: yutkeviç in te
+  INSERT   ...görünür adı vardı aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kamplara gönderildi cezasını gubnik
+      metin  : strijevka
+      duyulan: stryjevka
+  REPLACE  ...cezasını gubnik strijevka ve
+      metin  : kommunarsk ta
+      duyulan: komunarska
+  REPLACE  ...yüzeyine portreler kazıdı kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...dışarıda ize kampanya büyüyordu
+      metin  : fransua trüfo luis bunyuel pier
+      duyulan: françois truffaut louis bunuel pierer
+  REPLACE  ...bunyuel pier paolo pasolini
+      metin  : mikelanjelo
+      duyulan: michelangelo
+  REPLACE  ...mikelanjelo antonioni federico fellini
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...imzalar toplandı belirleyici adım
+      metin  : fransız
+      duyulan: françois
+  REPLACE  ...belirleyici adım fransız şair
+      metin  : lui
+      duyulan: louis
+  REPLACE  ...gören isim olarak leonid
+      metin  : brejnev
+      duyulan: brezhnev
+  INSERT   ...ricada bulundu parajanov aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kalmak çalışmak demek değildi
+      metin  : tiflis e
+      duyulan: tiflize
+  INSERT   ...toplamda yıla yaklaştı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hava değiştikçe kapılar aralandı
+      metin  : surami
+      duyulan: de surlami
+  REPLACE  ...kapılar aralandı surami kalesi
+      metin  : efsanesi ni
+      duyulan: efsanesini de
+  INSERT   ...başlangıç aşamasındaydı tamamlanamadı temmuz
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yönetmeninden sonra da sürdü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ses i talya nın
+      metin  : bolonya
+      duyulan: bologna
+  REPLACE  ...bolonya kentindeki restorasyon laboratuvarı
+      metin  : limmacine
+      duyulan: limmagine
+  REPLACE  ...yenilenen kopya aynı yıl
+      metin  : kan
+      duyulan: cannes
+  REPLACE  ...bugün beklenmedik yerlerde görünüyor
+      metin  : jan lük godar
+      duyulan: john luke goddard
+  REPLACE  ...un yani görüntü ve
+      metin  : ses in
+      duyulan: sesin de
+  INSERT   ...listesinde sırada yer aldı
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...açıkça söyleyen yönetmen tarsem
+      metin  : singh
+      duyulan: sink
+  REPLACE  ...kumaşlar simetrik düzenlemeler doğrudan
+      metin  : merceğe
+      duyulan: merceye
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: film-2026-10-04.duyulan.txt

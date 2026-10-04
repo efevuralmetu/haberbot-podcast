@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-04.mp3
+
+beklenen 3332 kelime | duyulan 3297 kelime | eşleşme %98.2
+sayı ifadesi: metinde 86, duyulanda 67  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...of that i altogether
+      metin  : kaynak metin olarak bugünün türkçe felsefe bölümü felsefe txt kullanıldı çeviri kanalı olduğu için içerik korundu hiçbir şey eklenmedi çıkarılmadı sayılar i ngilizce kanalda türkçe okunuş zinciri atlandığı için ceviri uret py kuralı rakam değil yazıyla verildi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the everyday face of
+      metin  : a tension
+      duyulan: attention
+  REPLACE  ...of apollo at delphi
+      metin  : gnothi seauton
+      duyulan: nathi siaton
+  REPLACE  ...that pollutes that voice
+      metin  : that
+      duyulan: what
+  INSERT   ...of being its own
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...philosopher sitting in a
+      metin  : café
+      duyulan: cafe
+  REPLACE  ...history of philosophy a
+      metin  : café
+      duyulan: cafe
+  REPLACE  ...perform befoer an audience
+      metin  : and
+      duyulan: then
+  REPLACE  ...a constantly flowing composite
+      metin  : body
+      duyulan: bodies
+  REPLACE  ...and a monk the
+      metin  : milindapanha
+      duyulan: milindapana
+  INSERT   ...is the questions of
+      metin  : (yok)
+      duyulan: melinda
+  INSERT   ...monk nagasena reminds king
+      metin  : (yok)
+      duyulan: melinda
+  REPLACE  ...lesson of this scene
+      metin  : in
+      duyulan: and
+  INSERT   ...in the questions of
+      metin  : (yok)
+      duyulan: melinda
+  REPLACE  ...in this tradition is
+      metin  : gazali s
+      duyulan: ghazaliz
+  REPLACE  ...esteemed teacher at the
+      metin  : nizamiyya
+      duyulan: nizamiyah
+  REPLACE  ...not in the body
+      metin  : gazali
+      duyulan: ghazali
+  REPLACE  ...this road fana and
+      metin  : baqa
+      duyulan: baka
+  REPLACE  ...the annihilation of selfhood
+      metin  : baqa
+      duyulan: baka
+  REPLACE  ...permanent mevlana opens the
+      metin  : masnavi
+      duyulan: mass nuvi
+  DELETE   ...the thing you hold
+      metin  : to
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...you hold to as
+      metin  : yor self
+      duyulan: yourself
+  REPLACE  ...teaching no book no
+      metin  : adviser
+      duyulan: advisor
+  INSERT   ...friend by a humiliation
+      metin  : (yok)
+      duyulan: dubbed
+  REPLACE  ...in advertizing be yourself
+      metin  : buy
+      duyulan: try
+  REPLACE  ...in turkish intellectual life
+      metin  : nurettin topçu
+      duyulan: nuratin topchu
+  REPLACE  ...it is played when
+      metin  : gazali
+      duyulan: ghazalie
+  REPLACE  ...not found the old
+      metin  : gazali
+      duyulan: ghazalie
+  REPLACE  ...built a new life
+      metin  : sarter
+      duyulan: nuratin
+  REPLACE  ...mask does not change
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...change nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: buggen küberlümen sonenagaldik jeni hikaya de jeni den bulushma kuzeer
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-10-04.duyulan.txt

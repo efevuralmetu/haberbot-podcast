@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-04.mp3
+
+beklenen 1212 kelime | duyulan 1220 kelime | eşleşme %96.1
+sayı ifadesi: metinde 143, duyulanda 112  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şaşırtıcı derecede ayrıntılıydı adamın
+      metin  : fiziği
+      duyulan: sevdiği
+  REPLACE  ...yığına bakan adam edward
+      metin  : thorndike tı columbia üniversitesi nde
+      duyulan: thorndyke atı kolombiya üniversitesinde
+  REPLACE  ...ve katsayı dünyasının kurucularından
+      metin  : thorndike ın
+      duyulan: thorndyke in
+  REPLACE  ...ama vasat zekalı bazıları
+      metin  : çelimsiz
+      duyulan: bağımsız
+  REPLACE  ...yanı yukarıda yanı aşağıdadır
+      metin  : puanların
+      duyulan: poanların
+  REPLACE  ...birbirinden kopuk olması gerekiyordu
+      metin  : thorndike
+      duyulan: thorndyke
+  REPLACE  ...ize bambaşka şey gördü
+      metin  : puanlar
+      duyulan: poanlar
+  REPLACE  ...puanı arasındaki ilişki değerlendiricilerin
+      metin  : ortalamasında
+      duyulan: aralamasında
+  REPLACE  ...öğrencisinin kağıtlarında da tekrarlıyordu
+      metin  : thorndike
+      duyulan: thorndyke
+  REPLACE  ...arasında olması gerekenden kuvvetli
+      metin  : bağ
+      duyulan: bağı
+  REPLACE  ...bağ vardı ve bu
+      metin  : bağ
+      duyulan: bağı
+  REPLACE  ...sesi gür asker var
+      metin  : thorndike ın
+      duyulan: thorndyke in
+  REPLACE  ...tekrar tekrar puan verdi
+      metin  : thorndike
+      duyulan: thorndyke
+  REPLACE  ...her şey aydınlanmış görünüyor
+      metin  : thorndike ın
+      duyulan: thorndyke in
+  REPLACE  ...başkasını birbirinden bağımsız özelliklerin
+      metin  : bileşimi
+      duyulan: başımı
+  REPLACE  ...vardı hem de dikkatli
+      metin  : olmak
+      duyulan: olmamak
+  REPLACE  ...kestirme yolun ta kendisi
+      metin  : thorndike
+      duyulan: thorndyke
+  INSERT   ...ta kendisi thorndike ın
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...çarpıcıdır değişmez hata değişken
+      metin  : değil
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...en rahatsız edici cevabı
+      metin  : thorndike tan
+      duyulan: thorndyke den
+  REPLACE  ...sınıfında ortaya çıktı richard
+      metin  : nisbett
+      duyulan: nisbet
+  INSERT   ...ve timothy wilson ın
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yerlerden de not vermektir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...not vermektir landy ve
+      metin  : sigal
+      duyulan: seagal
+  REPLACE  ...çalışmada erkek öğrencileer kompozisyon
+      metin  : okutulup
+      duyulan: olup
+  INSERT   ...çekici bulunan yazara atfedildiğinde
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...willis ve todorov un
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...konuşma tarzı seni geren
+      metin  : ifadesini
+      duyulan: etfadesini
+  REPLACE  ...uzmanla konuşmak doğru adımdır
+      metin  : thorndike ın
+      duyulan: torn dike in
+  DELETE   ...satırın bütün kağıdı okumasına
+      metin  : izin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kağıdı okumasına izin verilmesiydi
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: psikoloji-2026-10-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-04.mp3
+
+beklenen 2433 kelime | duyulan 2455 kelime | eşleşme %93.5
+sayı ifadesi: metinde 439, duyulanda 305  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...anlaşamıyor kuzey yunanistan da
+      metin  : pieria dağları nın
+      duyulan: piyeriya dağlarının
+  REPLACE  ...köy var adı vergina
+      metin  : mübadeleyle
+      duyulan: de mübadele ile
+  REPLACE  ...ilk başkentinden söz edilir
+      metin  : aigai
+      duyulan: aygay
+  REPLACE  ...vardı derler hanedanın kralı
+      metin  : aigai
+      duyulan: aygay
+  REPLACE  ...gömülürse hanedan düşerdi ve
+      metin  : aigai
+      duyulan: aygay
+  REPLACE  ...kaburgalarının arasından hançerlendi adı
+      metin  : filippos tu
+      duyulan: filipostu
+  REPLACE  ...şey babasının cenazesiydi ama
+      metin  : aigai nin
+      duyulan: aygay nın
+  REPLACE  ...batıda edessa yakınlarında yerde
+      metin  : olduğuydu
+      duyulan: oldu de
+  REPLACE  ...öze vergina nın komşusu
+      metin  : palatitsia
+      duyulan: petitsia
+  REPLACE  ...köyün adı bile ipucuydu
+      metin  : rumcada
+      duyulan: rumcağı da
+  INSERT   ...kapandı tarlalar geri geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hocası konstantinos romeos un
+      metin  : yanında
+      duyulan: evde
+  DELETE   ...adı manolis andronikos tu
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çevresindeki yüzlerce küçük mezar
+      metin  : höyüğünü
+      duyulan: höyünü
+  INSERT   ...değil başkentin mezarlığının malzemesiydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...birleştirip açıkça söyledi vergina
+      metin  : aigai dir
+      duyulan: aygaydır
+  REPLACE  ...yapay tepeydi yunanlar megali
+      metin  : toumba
+      duyulan: tuğmba
+  REPLACE  ...tek şey vardı kırılan
+      metin  : mezarların
+      duyulan: yılların
+  INSERT   ...odalar bulacaktır yine de
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kurumu ndan aldığı destekle
+      metin  : höyüğü
+      duyulan: höyü
+  REPLACE  ...metrekaer ilerledi toprağı kaldırırken
+      metin  : höyüğün
+      duyulan: höyün
+  REPLACE  ...ilk doğrulanmasıydı gerçekten de
+      metin  : mezarlığı
+      duyulan: kararlığı
+  REPLACE  ...örtmüştü andronikos o yıl
+      metin  : höyüğün
+      duyulan: höyün
+  REPLACE  ...sezonuna başladı yazının sonunda
+      metin  : höyüğün
+      duyulan: höyün
+  REPLACE  ...taşlar çıkmaya başladı cephe
+      metin  : dor
+      duyulan: doğru
+  REPLACE  ...düzeninde yarım sütunlar üstünde
+      metin  : arşitrav
+      duyulan: arşitraf
+  REPLACE  ...üstünde boydan boya uzanan
+      metin  : friz friz
+      duyulan: fris fris
+  REPLACE  ...ve yayalar ağaçların arasında
+      metin  : geyiğin yabandomuzunun
+      duyulan: geyin yaban domuzunun
+  REPLACE  ...ismi düşünmekten kendini alamadı
+      metin  : cephenin
+      duyulan: cefenin
+  REPLACE  ...cephenin üstündeki toprak dolgu
+      metin  : bozulmamıştı
+      duyulan: bulamamıştı
+  INSERT   ...mezarı boşaltmış bunu bulamamıştı
+      metin  : (yok)
+      duyulan: neksekiz
+  REPLACE  ...hava sonra elektrik lambasının
+      metin  : ışığı
+      duyulan: kutusundaydı
+  REPLACE  ...sağlam duvar kenarında demir
+      metin  : zırh
+      duyulan: zır
+  REPLACE  ...zırh şeritlerle bezeli demir
+      metin  : miğfer
+      duyulan: miyfer
+  REPLACE  ...parçaları dağılmış ahşap sedirin
+      metin  : kalıntıları
+      duyulan: kasaları
+  REPLACE  ...parmak ucu kadar küçük
+      metin  : fildişi porter başları
+      duyulan: fil dişi portrebaşları
+  REPLACE  ...fildişi porter başları yatıyordu
+      metin  : bronz
+      duyulan: bronze
+  DELETE   ...mermer lahit andronikos ekibini
+      metin  : odanın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...her parçayı yerinde fotoğraflattı
+      metin  : lahdin
+      duyulan: lahtin
+  REPLACE  ...ilk kral mezarıydı mermer
+      metin  : lahdin
+      duyulan: lahtin
+  ... ve 77 fark daha
+
+metinde olup DUYULMAYAN: 129 kelime | duyulup metinde OLMAYAN: 142
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: arkeoloji-2026-10-04.duyulan.txt
