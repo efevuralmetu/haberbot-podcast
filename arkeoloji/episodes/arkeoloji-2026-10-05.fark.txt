@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-05.mp3
+
+beklenen 2556 kelime | duyulan 2554 kelime | eşleşme %94.8
+sayı ifadesi: metinde 443, duyulanda 320  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...bilmiyor yılının kışıydı belki
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...o kavruk kireçtaşı yamaçlarda
+      metin  : taamier
+      duyulan: amiri
+  REPLACE  ...sürüsünden ayrılan keçinin peşindeydi
+      metin  : yamacın
+      duyulan: yamaçın
+  REPLACE  ...şey bugün mağara dediğimiz
+      metin  : yerdi
+      duyulan: yerde
+  REPLACE  ...bilinen en eski i
+      metin  : branice
+      duyulan: braniçe
+  DELETE   ...i ncil elyazmasından yıldan
+      metin  : fazla
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çölün kendi ekonomisine girdi
+      metin  : beytüllahim de
+      duyulan: beytullahimde
+  REPLACE  ...satın aldı kudüs teki
+      metin  : süryani
+      duyulan: süriyani
+  INSERT   ...üniversitesi nden eleazar sukenik
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...satın aldı haber dünyaya
+      metin  : yayıldığında
+      duyulan: kaldığında
+  REPLACE  ...bilimin alışık olmadığı hızda
+      metin  : ilerliyordu
+      duyulan: geliyordu
+  INSERT   ...mağara kaydedildi ve mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yamaçta tavanı çökmüş mağaraya
+      metin  : girildi i çeride
+      duyulan: verildi içeride
+  REPLACE  ...bunlar arasında jübileler kitabından
+      metin  : hezekiel den mezmurlar dan
+      duyulan: hezekalden mezmurlardan
+  DELETE   ...dibinde duvarın kenarında duruyordu
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yapılmıştı antik dönemde levhalardan
+      metin  : ekleme
+      duyulan: tane
+  REPLACE  ...rulo halinde bulundu yüzeyinde
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...bulundu yüzeyinde çekiç ve
+      metin  : delgi ile
+      duyulan: delgiyle
+  REPLACE  ...olanı tam da bu
+      metin  : okunamayan
+      duyulan: kalmayan
+  REPLACE  ...ciddi ilgi göstermemişti küçük
+      metin  : roma
+      duyulan: yana
+  REPLACE  ...çıktıktan sonra kudüs teki
+      metin  : fransız i ncil
+      duyulan: fransa zincir
+  REPLACE  ...i ncil ve arkeoloji
+      metin  : okulu ndan rolan dö vo
+      duyulan: okulundan roland devo
+  REPLACE  ...getiren sistem ardı ardına
+      metin  : dizilmiş
+      duyulan: almış
+  DELETE   ...çömlek atölyesi fırınlar değirmen
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...değirmen de üst kattan
+      metin  : çökmüş
+      duyulan: almış
+  REPLACE  ...kattan çökmüş oda vardı
+      metin  : dö vo
+      duyulan: devo
+  INSERT   ...odada tane hokka çıktı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...çıktı pişmiş topraktan tunçtan
+      metin  : dö vo
+      duyulan: devo
+  INSERT   ...platonun kenarında mezarlık uzanıyor
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...çoğu kuzey güney doğrultusunda
+      metin  : dö vo
+      duyulan: devo
+  INSERT   ...doğrultusunda dö vo bunlardan
+      metin  : (yok)
+      duyulan: ünü
+  REPLACE  ...kadın ve çocuk gömüleri
+      metin  : de çıktı
+      duyulan: arttı
+  REPLACE  ...gelen açıklama hazırdı yaşlı
+      metin  : plinius
+      duyulan: plinyus
+  REPLACE  ...söz ediyordu josephus da
+      metin  : esseniler
+      duyulan: eseniler
+  REPLACE  ...ortak yemek günlük arınma
+      metin  : banyoları
+      duyulan: havuzları
+  DELETE   ...evi olduğunu savundu havuzlar
+      metin  : arınma için değil hurma
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bakır tomar neredeyze mişna
+      metin  : i branicesi denen
+      duyulan: denilen
+  REPLACE  ...ve daha gündelik i
+      metin  : braniceyle
+      duyulan: branice ile
+  REPLACE  ...gündelik i braniceyle muhasebecinin
+      metin  : kuruluğuyla
+      duyulan: kuruluğu ile
+  REPLACE  ...technology yani manchester teknoloji
+      metin  : yüksekokulu ydu
+      duyulan: yüksek alegroydü
+  ... ve 57 fark daha
+
+metinde olup DUYULMAYAN: 108 kelime | duyulup metinde OLMAYAN: 109
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: arkeoloji-2026-10-05.duyulan.txt

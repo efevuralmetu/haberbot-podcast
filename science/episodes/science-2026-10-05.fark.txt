@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-05.mp3
+
+beklenen 2575 kelime | duyulan 2563 kelime | eşleşme %98.1
+sayı ifadesi: metinde 182, duyulanda 131  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...for months antonie van
+      metin  : leeuwenhoek
+      duyulan: lavecke
+  REPLACE  ...pastor and naturalist named
+      metin  : goeze
+      duyulan: gose
+  INSERT   ...and stay that way
+      metin  : (yok)
+      duyulan: duet
+  REPLACE  ...reproduction and almost no
+      metin  : ageing
+      duyulan: aging
+  REPLACE  ...nothing breaks in david
+      metin  : keilin
+      duyulan: kaelin
+  DELETE   ...trehalose does not exceed
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  INSERT   ...production as it dries
+      metin  : (yok)
+      duyulan: did
+  REPLACE  ...another and build long
+      metin  : fibres
+      duyulan: fibers
+  REPLACE  ...trick but a layered
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...by takuma hashimoto and
+      metin  : takekazu kunieda
+      duyulan: takakazu kunita
+  REPLACE  ...bears and named it
+      metin  : dsup
+      duyulan: d su
+  REPLACE  ...the spools that dna
+      metin  : winds
+      duyulan: wins
+  REPLACE  ...kidney cells dna breaks
+      metin  : in
+      duyulan: and
+  REPLACE  ...and by heat the
+      metin  : tun
+      duyulan: tons
+  REPLACE  ...tun state is a
+      metin  : defence
+      duyulan: defense
+  REPLACE  ...turn into a proper
+      metin  : tun
+      duyulan: ton
+  REPLACE  ...in dry air the
+      metin  : tun
+      duyulan: ton
+  DELETE   ...active animals die at
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...that threshold rises to
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...species withstands up to
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...the threshold drops to
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...by the swedish researcher
+      metin  : ingemar
+      duyulan: ingimar
+  REPLACE  ...outside of a russian
+      metin  : foton
+      duyulan: photon
+  REPLACE  ...at an altitude of
+      metin  : and kilometres
+      duyulan: kilometers
+  DELETE   ...can stay dry for
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...jönsson and bertolani in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...minus degrees was thawed
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...sits the moon in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...shock pressuer at around
+      metin  : point kilometres
+      duyulan: km
+  REPLACE  ...point kilometres per and
+      metin  : point gigapascals
+      duyulan: gpa
+  REPLACE  ...liquid water theer a
+      metin  : tun
+      duyulan: ton
+  DELETE   ...field corrected itself in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...showing that in the
+      metin  : tun
+      duyulan: ton
+  REPLACE  ...state the clock of
+      metin  : ageing
+      duyulan: aging
+  INSERT   ...s laboratory mixed factor
+      metin  : (yok)
+      duyulan: viii
+  REPLACE  ...factor used to treat
+      metin  : haemophilia
+      duyulan: hemophilia
+  REPLACE  ...over water s job
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...job nöron science de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: bugun kübelümün sonunagaldik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: hikaya de yenidan bulushmakuzeer
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: science-2026-10-05.duyulan.txt

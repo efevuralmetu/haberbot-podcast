@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-05.mp3
+
+beklenen 1316 kelime | duyulan 1326 kelime | eşleşme %97.1
+sayı ifadesi: metinde 120, duyulanda 98  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve adı konmuş sapma
+      metin  : erica boothby
+      duyulan: erika bootby
+  REPLACE  ...gillian sandstrom ve margaret
+      metin  : clark
+      duyulan: clarke
+  INSERT   ...ve margaret clark ın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çalışmanın adı beğenilme açığı
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...ne zaman başlıyor peki
+      metin  : vauter volf
+      duyulan: wouter wolf
+  REPLACE  ...peki vauter volf annika
+      metin  : nafe
+      duyulan: naffe
+  REPLACE  ...annika nafe ve michael
+      metin  : tomasello
+      duyulan: thomasello
+  INSERT   ...ve michael tomasello nun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hesaplamanın bitmesi anlamına gelmiyor
+      metin  : gus cooney erica boothby
+      duyulan: gusconi erika bootby
+  REPLACE  ...cooney erica boothby ve
+      metin  : mariana
+      duyulan: marianna
+  INSERT   ...konuşma kapandıktan sonra açılıyor
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kişiyle ayrı çalışmada yemekhanelerde
+      metin  : laboratuvarlarda
+      duyulan: laboratuarlarda
+  REPLACE  ...verdi ertesi gün ilk
+      metin  : o
+      duyulan: oy
+  INSERT   ...o yazdı bunlar kanıttır
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...peggy liu ve arkadaşlarının
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...örüntü iltifatta da var
+      metin  : erica boothby
+      duyulan: erika butby
+  REPLACE  ...erica boothby ile vanessa
+      metin  : bohns un
+      duyulan: bonsun de
+  REPLACE  ...etti benzer ters hesabı
+      metin  : nicholas
+      duyulan: nicolas
+  REPLACE  ...nicholas epley ile juliana
+      metin  : şröder
+      duyulan: schröder
+  REPLACE  ...juliana şröder chicago da
+      metin  : banliyö
+      duyulan: bandio
+  INSERT   ...üzerinde yaptıkları deneyde gösterdi
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...karşındaki kişi de aynı
+      metin  : aritmetiği
+      duyulan: aritmetiyi
+  INSERT   ...aklıma geldin o yazdım
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...ve açıkça söylenmiş olandır
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 24 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-10-05.duyulan.txt

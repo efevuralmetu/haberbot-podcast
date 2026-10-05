@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-05.mp3
+
+beklenen 1573 kelime | duyulan 1587 kelime | eşleşme %94.1
+sayı ifadesi: metinde 287, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...fransa karasının bittiği yerden
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...uzanmış kaya var bretonlar
+      metin  : enez
+      duyulan: enes
+  REPLACE  ...diye geçer boyu eni
+      metin  : kilometer
+      duyulan: km
+  DELETE   ...boyu eni kilometer toplamı
+      metin  : kilometrekaer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...içi kadar tarlalar funda
+      metin  : eğrelti
+      duyulan: eyrelti
+  REPLACE  ...bu siyahın büyük kısmı
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...yok değildi erkekler denizdeydi
+      metin  : uesan ın
+      duyulan: usa nın
+  INSERT   ...denizdeydi uesan ın ekonomisi
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...sayıları bugün inanılmaz görünür
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaşarken koyun inek sayılmıştı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...sayılmıştı gelindiğinde koyun sayısı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bunlar bildiğimiz koyunlar değildi
+      metin  : uesan
+      duyulan: vesan
+  REPLACE  ...tarar binlerce hayvanı büyük
+      metin  : ağıla
+      duyulan: ağla
+  REPLACE  ...yakıyordu buna ot öbekleri
+      metin  : eğrelti
+      duyulan: eyrelti
+  REPLACE  ...mavi boyayla boyanırdı o
+      metin  : uesan ın
+      duyulan: üesanın
+  REPLACE  ...dar su koridorunda akıyordu
+      metin  : uesan
+      duyulan: üesan
+  REPLACE  ...arasındaki o koridorun adı
+      metin  : fromvör geçidi dir
+      duyulan: fromvergeçididir
+  REPLACE  ...var her ada için
+      metin  : uyak molen i
+      duyulan: uyar moeleni
+  REPLACE  ...deniz trafiğinin köşe taşıdır
+      metin  : lizbon
+      duyulan: lisbon
+  INSERT   ...sonunda voban ın emriyle
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ın emriyle yapılan ve
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...çalışan en eski feneri
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...güçlü fenerleri arasında sayılan
+      metin  : kreah
+      duyulan: creaf
+  REPLACE  ...ortasındaki kayaya kule dikmek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...yardım derneğine gönül vermiş
+      metin  : şarl öjen
+      duyulan: charles eugène
+  REPLACE  ...şarl öjen potron vasiyetinde
+      metin  : frank
+      duyulan: franc
+  REPLACE  ...içinde feneer dönüşmesiydi böylece
+      metin  : fromvör ün
+      duyulan: te fromver ın
+  REPLACE  ...kayada inşaat başladı ve
+      metin  : la jüman
+      duyulan: de lajuman
+  REPLACE  ...icat etmek zorunda kalır
+      metin  : uesan
+      duyulan: uesa nın
+  REPLACE  ...kabul gören açıklamadan bretonca
+      metin  : bro ela
+      duyulan: broella
+  REPLACE  ...en yakın maddedir yumuşar
+      metin  : iz
+      duyulan: is
+  REPLACE  ...önderliğinde bretonca dualar okunur
+      metin  : tespih
+      duyulan: tesbih
+  REPLACE  ...bedenin kaldırılması töreni uygulanırdı
+      metin  : vaftiz
+      duyulan: vafdiz
+  REPLACE  ...kutuya tür muhafazaya bırakılırdı
+      metin  : uesan ta koronun
+      duyulan: vesanta koron un
+  REPLACE  ...yanına başkaları eklenirdi sonraki
+      metin  : ad
+      duyulan: at
+  INSERT   ...alayla mezarlığa taşır ve
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...bırakılıyor bu toplu gömülerin
+      metin  : ölçeği
+      duyulan: ölçeyi
+  INSERT   ...kayıp sözcüğünü soyutluktan çıkarır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...haç önceki törenden yani
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...yılda denizde kaybolan adam
+      metin  : demekti
+      duyulan: demektir
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 70
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: seyahat-2026-10-05.duyulan.txt

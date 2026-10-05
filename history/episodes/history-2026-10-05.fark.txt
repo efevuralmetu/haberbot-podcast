@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-05.mp3
+
+beklenen 3802 kelime | duyulan 3790 kelime | eşleşme %98.0
+sayı ifadesi: metinde 174, duyulanda 114  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...of another mosque a
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...fresh water a few
+      metin  : harbours
+      duyulan: harbors
+  INSERT   ...enforced its own law
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...around kufa in the
+      metin  : seventies travelling
+      duyulan: traveling
+  REPLACE  ...region was named hamdan
+      metin  : qarmat
+      duyulan: karmat
+  REPLACE  ...to be called the
+      metin  : qarmatians
+      duyulan: karmatians
+  REPLACE  ...called the qarmatians hamdan
+      metin  : qarmat
+      duyulan: karmat
+  REPLACE  ...network took root in
+      metin  : bahrayn
+      duyulan: bahrain
+  REPLACE  ...root in bahrayn this
+      metin  : bahrayn
+      duyulan: bahrain
+  REPLACE  ...coastal region stretching from
+      metin  : qatif
+      duyulan: qadif
+  REPLACE  ...from qatif to al
+      metin  : ahsa
+      duyulan: asa
+  REPLACE  ...of that age called
+      metin  : bahrayn
+      duyulan: bahrain
+  REPLACE  ...region was named abu
+      metin  : sa id
+      duyulan: sayyid
+  REPLACE  ...abu sa id al
+      metin  : jannabi
+      duyulan: janabi
+  REPLACE  ...from the town of
+      metin  : jannaba
+      duyulan: janaba
+  REPLACE  ...his family originated abu
+      metin  : sa id
+      duyulan: sayyid
+  REPLACE  ...work disguized as a
+      metin  : flor
+      duyulan: flower
+  REPLACE  ...and in seized al
+      metin  : ahsa
+      duyulan: asa
+  REPLACE  ...that this man was
+      metin  : ubayd
+      duyulan: ubaid
+  REPLACE  ...in north africa the
+      metin  : qarmatians
+      duyulan: karmatians
+  REPLACE  ...africa the qarmatians of
+      metin  : bahrayn
+      duyulan: bahrain
+  REPLACE  ...africa to no abu
+      metin  : sa id
+      duyulan: sayyid
+  REPLACE  ...later in the persian
+      metin  : traveller
+      duyulan: traveler
+  REPLACE  ...the persian traveller nasir
+      metin  : i khusraw
+      duyulan: e khusraal
+  REPLACE  ...khusraw passed through al
+      metin  : ahsa
+      duyulan: asa
+  REPLACE  ...the descendants of abu
+      metin  : sa id
+      duyulan: sayyid
+  REPLACE  ...same account by nasir
+      metin  : i khusraw
+      duyulan: e khusraal
+  REPLACE  ...grain estates around al
+      metin  : ahsa
+      duyulan: asa
+  REPLACE  ...around al ahsa and
+      metin  : qatif
+      duyulan: qadaf
+  REPLACE  ...the raid because the
+      metin  : qarmatians
+      duyulan: karmatians
+  REPLACE  ...the storehouses of al
+      metin  : ahsa
+      duyulan: asa
+  REPLACE  ...to think of the
+      metin  : qarmatians
+      duyulan: karmatians
+  REPLACE  ...of the community in
+      metin  : bahrayn
+      duyulan: bahrain
+  REPLACE  ...that law stil held
+      metin  : at
+      duyulan: it
+  DELETE   ...these raids back in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...to the sword the
+      metin  : qarmatians
+      duyulan: karmatians
+  REPLACE  ...was the year the
+      metin  : qarmatian
+      duyulan: karmatian
+  REPLACE  ...man from isfahan abu
+      metin  : l fadl
+      duyulan: lufadl
+  REPLACE  ...a number of the
+      metin  : qarmatian
+      duyulan: karmatian
+  REPLACE  ...own hands was an
+      metin  : impostor
+      duyulan: imposter
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 74 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: history-2026-10-05.duyulan.txt

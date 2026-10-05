@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-05.mp3
+
+beklenen 2801 kelime | duyulan 2831 kelime | eşleşme %96.5
+sayı ifadesi: metinde 346, duyulanda 246  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...en değerli rehinesiydi mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olan adam öldü adı
+      metin  : mehmed di
+      duyulan: mehmet ti
+  REPLACE  ...ihtiyacı vardı veziriazam karamani
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...ve mayıs ta karamani
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...yağma başladı yahudi ve
+      metin  : hristiyan
+      duyulan: hıristiyan
+  INSERT   ...hristiyan mahalleleri talan edildi
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...bahşişi dağıttı babasını fatih
+      metin  : camii
+      duyulan: cami
+  REPLACE  ...öğretilen şey şuydu taht
+      metin  : isteyenin
+      duyulan: isteğinin
+  REPLACE  ...iddia vardı bayezid eyalet
+      metin  : valisiyken
+      duyulan: valisi iken
+  REPLACE  ...bunun örnekleri vardı hanedanlar
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...babasının ordusuydu haziran bursa
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...çocukluğundan beri yanında olan
+      metin  : lalası
+      duyulan: lağlas ı
+  INSERT   ...başka hiçbir şehzade yapmamıştı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...kardeşine yazdığı mektuplarda bu
+      metin  : unvanı
+      duyulan: invanı
+  REPLACE  ...de bıraktı ve küçük
+      metin  : maiyetle
+      duyulan: mayetle
+  REPLACE  ...ömür saygın sürgün hiçbir
+      metin  : iddia
+      duyulan: it
+  INSERT   ...güvenli geçiş istedi temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kökenli askeri tarikat olan
+      metin  : hospitalye
+      duyulan: hospitale
+  REPLACE  ...geçirmiş fransız asilzadesi büyük
+      metin  : üstat piyer dobüson
+      duyulan: üstad pierer d aubuson
+  REPLACE  ...orduyla sınırına yollarım bu
+      metin  : tehdidin
+      duyulan: tehditin
+  INSERT   ...gitmesi gerektiğini söylediler eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kapıyı kendi iradesiyle açamayacaktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kendi iradesiyle açamayacaktı büyük
+      metin  : üstat
+      duyulan: üstad
+  REPLACE  ...taşınmakla geçti savoy topraklarında
+      metin  : overny
+      duyulan: ovarni
+  REPLACE  ...topraklarında kalan küçük oğlu
+      metin  : oğuzhan
+      duyulan: oğuz han te
+  REPLACE  ...kaleminden çıkan ve bugün
+      metin  : vakıat
+      duyulan: vakat
+  REPLACE  ...arasında en ısrarlısı roma
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...ya da taviz koparılırdı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...razı oldular karşılığında büyük
+      metin  : üstat dobüson
+      duyulan: üstad dobuson
+  REPLACE  ...devlet konuğu gibi sokuldu
+      metin  : kortej
+      duyulan: kortech
+  INSERT   ...atıyla gri sakalsız genç
+      metin  : (yok)
+      duyulan: yüzüğüyle
+  REPLACE  ...tırmandı vatikan da papa
+      metin  : i nnosentius
+      duyulan: innocentius
+  REPLACE  ...tahtının en ciddi rakibini
+      metin  : hristiyan
+      duyulan: hıristiyan
+  INSERT   ...elçiler hediyeler jestler gönderdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hediyeler jestler gönderdi papalığa
+      metin  : hristiyanlık
+      duyulan: hıristiyanlık
+  REPLACE  ...ize din değiştirmesi yönündeydi
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...mümkünse kahier ye gönderilsin
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...her yıl sefeer çıkan
+      metin  : padişahtı
+      duyulan: padişahdı
+  REPLACE  ...alarak kardeşinin elini bağlamıştı
+      metin  : i nnosentius
+      duyulan: de innocentius
+  REPLACE  ...nnosentius öldü yerine geçen
+      metin  : aleksander
+      duyulan: alexander
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: biyografi-2026-10-05.duyulan.txt

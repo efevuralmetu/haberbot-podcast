@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-05.mp3
+
+beklenen 1680 kelime | duyulan 1703 kelime | eşleşme %96.3
+sayı ifadesi: metinde 257, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...suyu olmadan nerede bekliyor
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...şubat ayında hollanda nın
+      metin  : delft
+      duyulan: delt
+  REPLACE  ...aylardır kemik gibi kuruydu
+      metin  : antoni
+      duyulan: anthony
+  REPLACE  ...gibi kuruydu antoni van
+      metin  : lövenhuk
+      duyulan: leeuwenhoek
+  REPLACE  ...ya da rotiferler dediğimiz
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...peşini bırakmayacak kadar rahatsız
+      metin  : ediciydi
+      duyulan: edecekti
+  INSERT   ...ölmediler mi yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yarıya iner ve dış
+      metin  : kütikülası
+      duyulan: kütükülası
+  REPLACE  ...soru şu su yokken
+      metin  : içeride
+      duyulan: içerde
+  INSERT   ...hiçbir şey nasıl kırılmıyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şey nasıl kırılmıyor david
+      metin  : keilin
+      duyulan: cale in
+  REPLACE  ...cemiyeti nde verdiği ve
+      metin  : lövenhuk in
+      duyulan: levenhuk un
+  REPLACE  ...haller ailesine isim önerdi
+      metin  : kriptobiyoz
+      duyulan: kriptobios
+  REPLACE  ...suyun gidişiyle kurulan özel
+      metin  : biçimine
+      duyulan: biçim ne
+  REPLACE  ...kurulan özel biçimine ize
+      metin  : anhidrobiyoz
+      duyulan: anhidrobios
+  REPLACE  ...tek olan cevap şekerdi
+      metin  : trehaloz
+      duyulan: trehalos
+  REPLACE  ...su karidesinin kuru kistlerinde
+      metin  : trehaloz
+      duyulan: trehalos
+  INSERT   ...trehaloz kuru ağırlığın ile
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...iyi belgelenmiş ölçümde bile
+      metin  : trehaloz
+      duyulan: trehalos
+  INSERT   ...trehaloz miktarı kuru ağırlığın
+      metin  : (yok)
+      duyulan: ünü
+  REPLACE  ...yok yani su ayısında
+      metin  : trehaloz
+      duyulan: trehalos
+  REPLACE  ...ısıya dayanıklı proteinler kısaca
+      metin  : cahs
+      duyulan: tacs
+  INSERT   ...hücer çökmek yerine sertleşiyor
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...kuru hücer sıvısının gerçekten
+      metin  : cahs
+      duyulan: chs
+  INSERT   ...zincirini makas gibi keser
+      metin  : (yok)
+      duyulan: ki ki da
+  REPLACE  ...makas gibi keser takuma
+      metin  : haşimoto
+      duyulan: hashimoto
+  DELETE   ...kara türünün genomunu okuduğunda
+      metin  : su
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adını hasar bastırıcı anlamında
+      metin  : dsup
+      duyulan: deysup
+  INSERT   ...makaralara yani nükleozomlara tutunur
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...arasına giriyor ekip bu
+      metin  : geni
+      duyulan: yeni
+  REPLACE  ...kurulmaz bile hayvan düzensiz
+      metin  : yamyassı
+      duyulan: yamyaslı
+  INSERT   ...verildiğinde bu eşik yalnızca
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...daha iyi değil dahası
+      metin  : grayın
+      duyulan: gray in
+  REPLACE  ...üstündeki dozlar hayvanları kısırlaştırdı
+      metin  : ışınlananlar
+      duyulan: işınlananlar
+  INSERT   ...sokaktır sınır uzayda görüldü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...deneyde i sveçli araştırmacı
+      metin  : i ngemar yönsson ın
+      duyulan: ingemar jönsson un
+  INSERT   ...rus foton kapsülünün dışına
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...paketin üstünden güneşin tüm
+      metin  : ultraviyole
+      duyulan: ultraviolet
+  INSERT   ...değil sınır efsanenin kendisi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...talya da yayımlanan rapor
+      metin  : (yok)
+      duyulan: den
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: bilim-2026-10-05.duyulan.txt

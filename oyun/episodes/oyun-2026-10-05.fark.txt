@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-05.mp3
+
+beklenen 1627 kelime | duyulan 1633 kelime | eşleşme %95.2
+sayı ifadesi: metinde 286, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...plan taşıyordu adı hironobu
+      metin  : sakaguçi ydi
+      duyulan: sakaguchi idi
+  INSERT   ...bilgisayarların başına oturmuş ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yatırılacaktı o proje tutmazsa
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  REPLACE  ...hazırdı sektörü bırakacak üniversiteye
+      metin  : dönecek
+      duyulan: çıkacak
+  REPLACE  ...yıllarca anlatılan hikaye şudur
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  REPLACE  ...ortaya final fantasy çıktı
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  INSERT   ...çıktı sakaguçi nin kendisi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıllar sonra konu açıldığında
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  INSERT   ...hangi versiyona inanırsanız inanın
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...da içinde taşır çünkü
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  REPLACE  ...şöyle okudu büyük risk
+      metin  : doğru
+      duyulan: şu
+  REPLACE  ...ölçekte almaya niyetliydi aslında
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  REPLACE  ...elektronik akrabası gibi göründü
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ortasında squaer nintendo nun
+      metin  : kartuş
+      duyulan: tuş
+  INSERT   ...boyutlu ara sahneler koyabiliyorlardı
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...koyabiliyorlardı çıkan final fantasy
+      metin  : vii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...squaer in tokyo daki
+      metin  : ekibi
+      duyulan: filmi
+  REPLACE  ...daki ekibi bunun farkındaydı
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  REPLACE  ...karanlık sahnelerle kaçamak yapabiliyordu
+      metin  : sakaguçi
+      duyulan: sakaguchi
+  INSERT   ...nem olan dijital oyuncu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bile karikatürün güvenli limanında
+      metin  : kalmayı
+      duyulan: yapmayı
+  REPLACE  ...kurdu mayıs ında squaer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...düşününce anlaşılırdı hawaii tokyo
+      metin  : ile los angeles ın
+      duyulan: yla angelus un
+  REPLACE  ...tarafa da aynı mesafede
+      metin  : ada
+      duyulan: adı
+  INSERT   ...doların üzerinde para harcadı
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...bu sistem adet pentium
+      metin  : iii
+      duyulan: ür
+  REPLACE  ...iş istasyonundan kuruluydu her
+      metin  : megahertz
+      duyulan: mhz
+  DELETE   ...yalnızca saniyesini üretmek için
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sinyalinin katı çözünürlükteydi ve
+      metin  : yaklaşık megabayt
+      duyulan: mb
+  REPLACE  ...hesaplamaya çalıştığıdır filmin başkarakteri
+      metin  : aki ross
+      duyulan: akiros
+  REPLACE  ...üzerindeki giysiler bunun yaklaşık
+      metin  : katını
+      duyulan: keer
+  REPLACE  ...ekibin asıl saplantısı saçtı
+      metin  : aki
+      duyulan: ak
+  DELETE   ...oyuncuların mimikleri ve hareketleri
+      metin  : için
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adı final fantasy the
+      metin  : spirits
+      duyulan: spirit
+  REPLACE  ...ruhlar dı oyun serisinin
+      metin  : adını
+      duyulan: dünyaya
+  INSERT   ...i çimizdeki ruhlar temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eleştirmenler aralarında roger ebert
+      metin  : da
+      duyulan: le
+  REPLACE  ...olmak üzeer filmi içtenlikle
+      metin  : savundu
+      duyulan: düşündü
+  REPLACE  ...la birlikte sinema tartışmalarının
+      metin  : ortasına
+      duyulan: arasına
+  REPLACE  ...mali yılda squaer yaklaşık
+      metin  : yenlik
+      duyulan: dolarca
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: oyun-2026-10-05.duyulan.txt

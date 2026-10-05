@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-05.mp3
+
+beklenen 2281 kelime | duyulan 2282 kelime | eşleşme %97.0
+sayı ifadesi: metinde 201, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...biçimde ilk soran kişi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ilk soran kişi harvard
+      metin  : da
+      duyulan: ta
+  REPLACE  ...itmek demek olur ama
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...reddediş gerekçeden hızlı geliyor
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...sezgimiz değil muhtemelen teori
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...değil şeyler yapmak istiyoruz
+      metin  : dağa
+      duyulan: daha
+  REPLACE  ...olup biten şeylerin alıcısıdır
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...şeylerin alıcısıdır nozick in
+      metin  : deyişiyle
+      duyulan: değişiğiyle
+  REPLACE  ...zaman zaman planımızı bozması
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...fazla şey bu tartışmanın
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...değil antik yunan da
+      metin  : epikuros
+      duyulan: epikros
+  REPLACE  ...adı yüzyıllar boyunca haz
+      metin  : düşkünlüğüyle
+      duyulan: düşkünlüğü ile
+  REPLACE  ...çoğu zaman haksız biçimde
+      metin  : epikuros
+      duyulan: epikros
+  REPLACE  ...biçimde epikuros gerçekten de
+      metin  : hazzı
+      duyulan: hazlı
+  REPLACE  ...öğretmeye çalışan adamdı yani
+      metin  : hazzı
+      duyulan: hazlı
+  REPLACE  ...yaşandı jeremy bentham ahlakı
+      metin  : aritmetiğe
+      duyulan: aritmetiye
+  REPLACE  ...insan için en çok
+      metin  : hazzı
+      duyulan: hazlı
+  INSERT   ...eksik olduğunu düşünmeye başladı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olduğunu düşünmeye başladı yayımladığı
+      metin  : utilitarianism
+      duyulan: utilitarianizm
+  REPLACE  ...sorusuna şöyle cevap verdi
+      metin  : hazzı
+      duyulan: hazlı
+  REPLACE  ...memnun olmayan insan olmak
+      metin  : yeğdir
+      duyulan: yeğidir
+  REPLACE  ...memnun olmayan sokrates olmak
+      metin  : yeğdir
+      duyulan: yeğidir
+  REPLACE  ...razı gelmez dikkat ederseniz
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...hazların hiyerarşisi olduğunu söylüyor
+      metin  : nozick
+      duyulan: nozik
+  REPLACE  ...yüksek hazları da verebilir
+      metin  : senfoniyi
+      duyulan: semfoniyi
+  REPLACE  ...verebilir senfoniyi anlamanın derin
+      metin  : hazzını
+      duyulan: hazını
+  REPLACE  ...buraya ilginç ayrıntı ekledi
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...uyum sağladığını fark ettiler
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...azalmış görünüyordu buna sonradan
+      metin  : haz
+      duyulan: has
+  REPLACE  ...mutluluk büyük ölçüde uyum
+      metin  : mekanizmasıysa
+      duyulan: mekanizması ize
+  REPLACE  ...iyi hissetmek için düzenlemek
+      metin  : kovayı
+      duyulan: kovay
+  DELETE   ...bile bile doldurmaya benziyor
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yaşadığı çöküşün ardından söylemiştir
+      metin  : gazzali tus ta
+      duyulan: gazali de tuğsta
+  INSERT   ...tus ta doğdu daha
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...çok imrenilen hocasıydı sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yolculuğa çıktı yaşadıklarını sonradan
+      metin  : el münkız mined
+      duyulan: elmünkız minet
+  REPLACE  ...son derece tatmin ediciydi
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...sonra farsça yazdığı kimya
+      metin  : yı
+      duyulan: i
+  REPLACE  ...ilkeye bağladı her şeyin
+      metin  : hazzı
+      duyulan: hazlı
+  REPLACE  ...uygun olanı gerçekleştirmesindedir gözün
+      metin  : hazzı
+      duyulan: hazlı
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: felsefe-2026-10-05.duyulan.txt

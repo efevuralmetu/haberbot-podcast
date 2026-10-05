@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-05.mp3
+
+beklenen 1413 kelime | duyulan 1434 kelime | eşleşme %96.3
+sayı ifadesi: metinde 275, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...arkasında havadan bakıldığında dev
+      metin  : haça
+      duyulan: haca
+  REPLACE  ...şehir kendi adını takmıştı
+      metin  : kresty
+      duyulan: kresti
+  REPLACE  ...vardı adı anna ahmatova
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...en çok okunan şairlerinden
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonra her şey değişti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kurşuna dizildi ahmatova nın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yavaş yavaş matbaadan çekildi
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...geçinmek için çeviri yaptı
+      metin  : puşkin
+      duyulan: pushkin
+  INSERT   ...olarak susturulmuş halde dolaştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ya gitti dostlarının yardımıyla
+      metin  : stalin e
+      duyulan: statili
+  INSERT   ...buldu mektup işe yaradı
+      metin  : (yok)
+      duyulan: i kisi
+  INSERT   ...insanı geri getirebiliyordu mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bu sahneyi yıllar sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...morarmış kadın döndü ve
+      metin  : fısıltıyla
+      duyulan: fısıldıyla
+  REPLACE  ...şeremetyev sarayı nın kanadında
+      metin  : petersburgluların fontannıy
+      duyulan: petersburkluların fontani
+  REPLACE  ...en sık gelen yazar
+      metin  : lidiya
+      duyulan: lidia
+  REPLACE  ...gelen yazar lidiya çukovskaya
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...yerleştiriyordu şiirin ana gövdesi
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...kitap basıldı sonra toplatıldı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...hakkı ve geliri kesildi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...punin de götürüldü ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve bunları dergide yayımlattı
+      metin  : rekviyem
+      duyulan: requiem
+  INSERT   ...şe yaramadı lev ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonra serbest kaldı ve
+      metin  : rekviyem
+      duyulan: requiem
+  INSERT   ...sayfada bile mevcut değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu satır metni anne
+      metin  : ağıdından
+      duyulan: adından
+  REPLACE  ...mümkün olduğuna inanıyordu ülkede
+      metin  : kamp edebiyatının
+      duyulan: kan pedabiyatının
+  REPLACE  ...vardı metni moskova da
+      metin  : novıy
+      duyulan: novi
+  REPLACE  ...yürümeye başlardı daktiloyla çoğaltılan
+      metin  : nüshalar
+      duyulan: nüsalar
+  INSERT   ...sınırın ötesinde ortaya çıktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...siperdi anna ahmatova mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ahmatova mart moskova yakınlarındaki
+      metin  : sanatoryumda
+      duyulan: sanatoriumda
+  INSERT   ...sovyetler nde ilk kez
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl sonra yasağın kalkması
+      metin  : metnin
+      duyulan: metin
+  INSERT   ...halkları üzerine çalışmalarıyla tanındı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...önünde dikmelerini istiyordu aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...rıhtımda heykeltıraş galina dodonova
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...bakan bronz kadın olarak
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...kadın olarak nöron edebiyat
+      metin  : de
+      duyulan: te
+
+metinde olup DUYULMAYAN: 24 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: edebiyat-2026-10-05.duyulan.txt

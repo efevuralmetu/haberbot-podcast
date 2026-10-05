@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-05.mp3
+
+beklenen 1562 kelime | duyulan 1578 kelime | eşleşme %93.1
+sayı ifadesi: metinde 181, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hesapları yapıyor felaket olasılığı
+      metin  : diyip
+      duyulan: deyip
+  INSERT   ...halatları kendisi gerdiriyor filmin
+      metin  : (yok)
+      duyulan: ı
+  INSERT   ...plan bile kalmaz elinizde
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...bile kalmaz elinizde başında
+      metin  : verner
+      duyulan: werner
+  REPLACE  ...üzerinde duruyordu başrolünü jason
+      metin  : robards
+      duyulan: roberts
+  INSERT   ...jason robards oynuyordu filmin
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...oynuyordu filmin kutulanmıştı ve
+      metin  : robards
+      duyulan: roberts
+  REPLACE  ...sildi yerine kimseyi koymadı
+      metin  : robards
+      duyulan: roberts
+  REPLACE  ...anlatmak istediğini bilmek gerekiyor
+      metin  : fitzkarraldo
+      duyulan: fitzcarraldo
+  REPLACE  ...gerekiyor fitzkarraldo yüzyılın başında
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...azgın günlerinde peru nun
+      metin  : i kitos
+      duyulan: iquitos
+  REPLACE  ...adında yerlilerin dilinde adı
+      metin  : fitzkarraldo
+      duyulan: fitzcarraldo
+  REPLACE  ...raylar kalmıştır şimdi parayı
+      metin  : kauçuktan
+      duyulan: kavçuktan
+  REPLACE  ...planlıyor haritada kimsenin işletemediği
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...ağzını geçilmez çağlayanlar kapatıyor
+      metin  : fitzkarraldo
+      duyulan: fitzcarraldo
+  REPLACE  ...neher indirmek sevgilisi molly
+      metin  : i kitos
+      duyulan: iquitos
+  REPLACE  ...dır senaryonun çekirdeği gerçek
+      metin  : karlos
+      duyulan: carlos
+  REPLACE  ...çekirdeği gerçek karlos fermin
+      metin  : fitzkarrald
+      duyulan: fitzgerald
+  REPLACE  ...karlos fermin fitzkarrald adlı
+      metin  : perulu kauçuk
+      duyulan: peru lu kavçuk
+  REPLACE  ...adlı perulu kauçuk baronu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ticarete açılabileceğini kanıtlamak için
+      metin  : kontamana
+      duyulan: contamana
+  INSERT   ...bu yöntemin bedelini ödemeye
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kamp peru nun kuzeyinde
+      metin  : vavaim
+      duyulan: wawai im
+  INSERT   ...somut tehdit anlamına geliyordu
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...yeni kamp ilkinin yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...ilkinin yaklaşık kilometer güneyinde
+      metin  : kamisea ırmağının
+      duyulan: kamiseya irmağı nın
+  REPLACE  ...kuruldu en yakın kasaba
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...uzaktaydı düzgün şehir yüzlerce
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...ile tanrı nın gazabı
+      metin  : agirer yi
+      duyulan: agira yı
+  INSERT   ...yi yine amazon da
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çekmişlerdi sonra nosferatu ve
+      metin  : voytsek
+      duyulan: wojtsek
+  INSERT   ...bilinen çatışmalarından herzog çekilmiş
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...yamaç hazırdı ve sorun
+      metin  : yamacın
+      duyulan: yamaç ın
+  INSERT   ...tutuldu mühendisin tasarladığı sistem
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...söyledi halatların kopma olasılığı
+      metin  : (yok)
+      duyulan: di
+  REPLACE  ...bıraktığı noktadan sonra çekildi
+      metin  : yamaca
+      duyulan: yamaç a
+  REPLACE  ...yüzlerce yerli işçinin bedeniydi
+      metin  : buldozer
+      duyulan: bulldozer
+  REPLACE  ...kesik ve kırık vardı
+      metin  : kereste
+      duyulan: keres de
+  REPLACE  ...vardı amerikalı belgeselci les
+      metin  : blank
+      duyulan: blanc
+  REPLACE  ...herzog un izniyle çekimleri
+      metin  : filme
+      duyulan: filmi
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 91
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: film-2026-10-05.duyulan.txt

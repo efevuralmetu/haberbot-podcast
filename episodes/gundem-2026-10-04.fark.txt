@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-04.mp3
+
+beklenen 1320 kelime | duyulan 1318 kelime | eşleşme %95.8
+sayı ifadesi: metinde 314, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gidiyor ve yaşındaki luis
+      metin  : i nasyo
+      duyulan: inacio
+  REPLACE  ...görülmemiş dönem için senatör
+      metin  : flavyo
+      duyulan: flavio
+  REPLACE  ...için senatör flavyo bolsonaro
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...olasılık olarak konuşuluyor seçmenin
+      metin  : gündem
+      duyulan: günden
+  REPLACE  ...kanatta ronaldo kayado ve
+      metin  : romeu
+      duyulan: romeo
+  REPLACE  ...ran dışişleri bakanı abbas
+      metin  : arakçi
+      duyulan: arakçı
+  REPLACE  ...söyledi savunma bakanı pete
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...kişi yaralandı kiev in
+      metin  : dinyeper
+      duyulan: dinyaper
+  REPLACE  ...vivaldi adı verilen harekatla
+      metin  : kilometrekareye
+      duyulan: ye
+  REPLACE  ...sonu alabama da miting
+      metin  : yaptı
+      duyulan: yaptığı
+  INSERT   ...euro ek kaynak ayırdı
+      metin  : (yok)
+      duyulan: o
+  REPLACE  ...günü nü kutladı yapay
+      metin  : zeka
+      duyulan: zeki
+  REPLACE  ...google aylarca gecikmesinin ardından
+      metin  : ceminay
+      duyulan: gemini
+  REPLACE  ...yakın performans veren gpt
+      metin  : nokta sol u
+      duyulan: solu
+  REPLACE  ...ve dolar çıktı fiyatıyla
+      metin  : kullanıma
+      duyulan: kullanımı
+  DELETE   ...karşılık daha büyük gpt
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ucuz olduğunu söylediği sonnet
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...azuer ve amazon web
+      metin  : services i
+      duyulan: servisisi
+  REPLACE  ...ihtimalini geri plana itti
+      metin  : esenpi
+      duyulan: sempi
+  DELETE   ...dolara indi türkiye piyasalarında
+      metin  : dolar lira
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gram lira dolayında fiyatlandı
+      metin  : bist
+      duyulan: beastay
+  INSERT   ...hafta vadeli repo oranını
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...eylül enflasyonu yarın saat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ağustosta olan yıllık enflasyon
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...yönetim tartışmasını ve yeni
+      metin  : kurultay
+      duyulan: kurulta
+  REPLACE  ...yapan avukat çift gökhan
+      metin  : koçyiğit
+      duyulan: koçiyit
+  REPLACE  ...koçyiğit ve yasemin yavuz
+      metin  : koçyiğit
+      duyulan: koçiyit
+  REPLACE  ...lira olarak hesaplandı meclis
+      metin  : cephesinde
+      duyulan: çepesinde
+  REPLACE  ...yapacak bütçesi ekim de
+      metin  : meclis e
+      duyulan: meclize
+  REPLACE  ...kurtulmuş bu ay parti
+      metin  : gruplarıyla
+      duyulan: grupları ile
+  INSERT   ...takvimi yoğun yarın saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...açıklanacak aynı gün stockholm
+      metin  : de
+      duyulan: da
+  REPLACE  ...gün stockholm de karolinska
+      metin  : institutet
+      duyulan: institüet
+  REPLACE  ...karolinska institutet yani karolinska
+      metin  : enstitüsü
+      duyulan: i ntitüsü
+  REPLACE  ...ancak kuzeyli yönlerden saatte
+      metin  : ile kilometer
+      duyulan: km
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: gundem-2026-10-04.duyulan.txt
