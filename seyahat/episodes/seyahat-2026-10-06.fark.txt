@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-06.mp3
+
+beklenen 1782 kelime | duyulan 1813 kelime | eşleşme %95.1
+sayı ifadesi: metinde 256, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dikine yarılmış kayanın cephesidir
+      metin  : kilometrekaer
+      duyulan: km kaer
+  REPLACE  ...sorun küçüklüğü değil nasıl
+      metin  : kıvrıldığı
+      duyulan: kıvrıldı
+  REPLACE  ...boyunca sular bu gövdeyi
+      metin  : tekerleğin
+      duyulan: tekerleyin
+  REPLACE  ...ıslığa çevirir dilbilimci ramon
+      metin  : truhiyo
+      duyulan: trujillo
+  REPLACE  ...dilbilimci ramon truhiyo nun
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...seferlerini anlatan fransız kroniği
+      metin  : lö kanaryen
+      duyulan: le canarien
+  INSERT   ...gibi dudaklarıyla konuştuğunu yazar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...basılan kanarya fetih tarihinde
+      metin  : huan
+      duyulan: juan
+  INSERT   ...sert geceyle anılır kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gerekçesiyle mağarada kıstırılıp öldürüldü
+      metin  : isyan
+      duyulan: disyan
+  REPLACE  ...sonra o nüfus gitti
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...nüfus gitti ellilerde başlayıp
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...ye ama asıl kalabalık
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...değildir utanç da bitirir
+      metin  : altmışlardan
+      duyulan: lardan leer
+  REPLACE  ...aynı yıllarda komşu el
+      metin  : yerro
+      duyulan: hierro
+  INSERT   ...benzer ıslık geleneği vardı
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...okul müfredatı oldu haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olarak denendikten sonra temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...etmek isteyenler için gomera
+      metin  : islığı
+      duyulan: ıslığı
+  INSERT   ...kendi öğretmenini üretebilmesi sonucu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...nun kayıtlarında görüyoruz eylül
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ama konuşabilenler grupta toplanıyor
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...önce doğmuş olanlar ve
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...kesintisi sayıma böyle yansıyor
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...sürekli esen alize rüzgarları
+      metin  : atlantiğin
+      duyulan: atlantin
+  INSERT   ...biçimde yakın duyuluyor park
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...park park ilan edildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...girdi ve adanın tamamı
+      metin  : biyosfer
+      duyulan: de biosfer
+  INSERT   ...yangın hektarı yani parkın
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...onlarca yıl alacak aşağıya
+      metin  : vayermoso
+      duyulan: wayermoso
+  REPLACE  ...peyniri kırmızıbiber sarımsak ve
+      metin  : zeytinyağıyla
+      duyulan: zeytinyağı ile
+  REPLACE  ...karşı karşıya dizilir elde
+      metin  : çákara
+      duyulan: çakara
+  REPLACE  ...zamanda geri dönülen yer
+      metin  : dilin
+      duyulan: deal in
+  INSERT   ...kanıtı ize laboratuvardan geldi
+      metin  : (yok)
+      duyulan: çi te
+  REPLACE  ...dergisinde yayımlanan çalışmada manuel
+      metin  : karreyras
+      duyulan: carreras
+  REPLACE  ...karreyras ve ekibi usta
+      metin  : ıslıkçıları
+      duyulan: islıkçıları
+  REPLACE  ...üstünden geçmeye devam etmesidir
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...devam etmesidir nöron seyahat
+      metin  : de
+      duyulan: ta
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: seyahat-2026-10-06.duyulan.txt

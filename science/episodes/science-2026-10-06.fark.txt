@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-06.mp3
+
+beklenen 2878 kelime | duyulan 2864 kelime | eşleşme %98.5
+sayı ifadesi: metinde 176, duyulanda 124  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...to crack in the
+      metin  : nineties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...had seen clearly santiago
+      metin  : ramón
+      duyulan: ramon
+  REPLACE  ...in the adult nerve
+      metin  : centres
+      duyulan: centers
+  REPLACE  ...now fixed finished and
+      metin  : unchangeable
+      duyulan: changeable
+  REPLACE  ...with photographic emulsion and
+      metin  : wait
+      duyulan: weight
+  REPLACE  ...the injection altman found
+      metin  : labelled
+      duyulan: labeled
+  REPLACE  ...critics said that these
+      metin  : labelled
+      duyulan: labeled
+  REPLACE  ...structures specific to neurons
+      metin  : labelled
+      duyulan: labeled
+  REPLACE  ...rakic applied the same
+      metin  : labelling
+      duyulan: labeling
+  REPLACE  ...an unexpected direction fernando
+      metin  : nottebohm
+      duyulan: notabom
+  REPLACE  ...medicine a substance called
+      metin  : bromodeoxyuridine
+      duyulan: bromodioxuridine
+  REPLACE  ...tumor was multiplying peter
+      metin  : eriksson
+      duyulan: erickson
+  REPLACE  ...and al of them
+      metin  : labelled
+      duyulan: labeled
+  REPLACE  ...twice its natural level
+      metin  : and
+      duyulan: donan
+  DELETE   ...life of carbon is
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...year alone was written
+      metin  : plants
+      duyulan: let s
+  REPLACE  ...chain belonged to jonas
+      metin  : frisén
+      duyulan: friesen
+  INSERT   ...national laboratory in california
+      metin  : (yok)
+      duyulan: the
+  REPLACE  ...brain s largest region
+      metin  : cajal
+      duyulan: cahal
+  DELETE   ...being that amounts to
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...out of arturo alvarez
+      metin  : buylla
+      duyulan: bila
+  REPLACE  ...california carried out by
+      metin  : shawn
+      duyulan: sean
+  REPLACE  ...hippocampi ranging from the
+      metin  : foetal
+      duyulan: fetal
+  REPLACE  ...of his career alvarez
+      metin  : buylla
+      duyulan: bila
+  REPLACE  ...they found maturing neurons
+      metin  : and
+      duyulan: in
+  REPLACE  ...protein that the antibody
+      metin  : recognises
+      duyulan: recognizes
+  REPLACE  ...neurons in in madrid
+      metin  : maría llorens martín s
+      duyulan: maria jorins martins
+  REPLACE  ...long running study of
+      metin  : ageing
+      duyulan: aging
+  REPLACE  ...had neural stem cells
+      metin  : and
+      duyulan: in
+  REPLACE  ...at or proteins in
+      metin  : frisén
+      duyulan: friesen
+  REPLACE  ...anything in february of
+      metin  : lazarov
+      duyulan: lezarev
+  REPLACE  ...than in their normally
+      metin  : ageing
+      duyulan: aging
+  INSERT   ...top of that the
+      metin  : (yok)
+      duyulan: the
+  DELETE   ...weapons tests of the
+      metin  : fifties
+      duyulan: (YOK — atlanmış)
+  DELETE   ...alive at the time
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 33
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-10-06.duyulan.txt

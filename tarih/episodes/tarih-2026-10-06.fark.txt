@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-06.mp3
+
+beklenen 2551 kelime | duyulan 2560 kelime | eşleşme %95.0
+sayı ifadesi: metinde 405, duyulanda 302  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...mobile limanında park and
+      metin  : lyons
+      duyulan: lions
+  REPLACE  ...arkasındaki isim horace lawson
+      metin  : hunley di tennessee
+      duyulan: huntley idi tenesize
+  REPLACE  ...yılında new orleans ta
+      metin  : pioneer
+      duyulan: pionier
+  REPLACE  ...olmadı kendi adını taşıyan
+      metin  : hunley
+      duyulan: huntley
+  INSERT   ...adını taşıyan hunley temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...neden ihtiyaç duyulmuştu çünkü
+      metin  : charleston
+      duyulan: charles tan
+  REPLACE  ...bağımsızlık savaşı nda da
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...kadar savaş gemisini batırmamıştı
+      metin  : charleston
+      duyulan: charles tan
+  REPLACE  ...konfederasyon kuvvetlerinin komutanı komutan
+      metin  : borgard
+      duyulan: borgart
+  INSERT   ...balinayı duydu ve istedi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...duydu ve istedi ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...vagonuna yüklenip muşambalarla örtülerek
+      metin  : charleston
+      duyulan: charles tan
+  REPLACE  ...olasılığıyla birlikte bambaşka şeydi
+      metin  : charleston
+      duyulan: charles tan
+  REPLACE  ...başlayacaktı ağustos hunley nin
+      metin  : charleston
+      duyulan: charles tan
+  REPLACE  ...fort johnson yani johnson
+      metin  : kalesi nin
+      duyulan: kailesinin
+  REPLACE  ...hazırlanıyordu komutasında konfederasyon donanmasından
+      metin  : teğmen
+      duyulan: tayman
+  REPLACE  ...değil hayatta kalanlardan charles
+      metin  : hasker
+      duyulan: husker
+  REPLACE  ...yana devirdiğini yazdı payne
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...kıç kapaktan çıkmayı başardı
+      metin  : hasker
+      duyulan: husker
+  REPLACE  ...üstüne düşüp bacağını sıkıştırdı
+      metin  : tekneyle
+      duyulan: tekne ile
+  REPLACE  ...nefesi yetesiye çıktı michael
+      metin  : cane
+      duyulan: chaine
+  REPLACE  ...doyle john kelly ve
+      metin  : absolum
+      duyulan: absalom
+  REPLACE  ...istedi horace hunley bizzat
+      metin  : charleston a
+      duyulan: charles lığına
+  INSERT   ...kendi örneğiyle ikna edebilirdi
+      metin  : (yok)
+      duyulan: doğun
+  DELETE   ...sökülmesi gereken demir ağırlıklar
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bile yaklaşmamış makine komutan
+      metin  : borgard
+      duyulan: borgart
+  REPLACE  ...saldırısını yüzeyden yapacaktı hunley
+      metin  : yi
+      duyulan: i
+  REPLACE  ...çünkü adam ısrar etti
+      metin  : mobile
+      duyulan: mobay
+  REPLACE  ...mobile dan gelen alabama
+      metin  : piyade
+      duyulan: piade
+  REPLACE  ...alabama piyade alayı mensubu
+      metin  : teğmen
+      duyulan: tayman
+  REPLACE  ...çıktıklarında hiçbiri konuşamıyordu şubat
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...konuşamıyordu şubat dördün başında
+      metin  : alexander a
+      duyulan: alexandra
+  INSERT   ...hayatını kurtaran kağıt oldu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...neredeyze düz gelgit uygun
+      metin  : dixon
+      duyulan: dickson
+  REPLACE  ...bekliyordu akşam saat civarında
+      metin  : hunley
+      duyulan: hanley
+  REPLACE  ...battery marshal yani marshal
+      metin  : tabyası nın
+      duyulan: tabiasının
+  REPLACE  ...denize açıldı adam vardı
+      metin  : dixon
+      duyulan: dickson
+  REPLACE  ...vardı dixon arnold becker
+      metin  : yohan frederik karlsen
+      duyulan: johann frederick carson
+  REPLACE  ...james wicks ve joseph
+      metin  : ridgaway
+      duyulan: ridgway
+  REPLACE  ...gemisi uss housatonic yani
+      metin  : hausatonik
+      duyulan: housatonic
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 103 kelime | duyulup metinde OLMAYAN: 110
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: tarih-2026-10-06.duyulan.txt

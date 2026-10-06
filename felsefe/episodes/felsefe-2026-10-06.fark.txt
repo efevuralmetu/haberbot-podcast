@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-06.mp3
+
+beklenen 2454 kelime | duyulan 2460 kelime | eşleşme %96.4
+sayı ifadesi: metinde 291, duyulanda 234  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kolu duruyor kolu çevirirsen
+      metin  : tramvay
+      duyulan: tramva
+  INSERT   ...dokunmamış olur bu sahneyi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ngiliz ahlak felsefecisi philippa
+      metin  : foot
+      duyulan: foote
+  INSERT   ...yapmak zorundaydı yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...amerikalı felsefeci judith jarvis
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...olmayan sadece orada bulunan
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...orada bulunan thomson aynı
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...ceza hukuklarımız yaslanıyor tıp
+      metin  : pratiğimiz
+      duyulan: pratikimiz
+  REPLACE  ...ortaçağ a gitmek gerekiyor
+      metin  : tomas akvinas
+      duyulan: thomas aquinas
+  REPLACE  ...yazdığı büyük eseri summa
+      metin  : teologiye
+      duyulan: teolojiye
+  REPLACE  ...lahiyat toplamı nda meşru
+      metin  : müdafaayı
+      duyulan: müdafayı
+  REPLACE  ...yaptığın şeyin yan etkisidir
+      metin  : akvinas
+      duyulan: aquinas
+  INSERT   ...peki köprü sağlam mı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mı amerikalı felsefeci james
+      metin  : rachels
+      duyulan: ratchells
+  REPLACE  ...durup çocuğun boğulmasını seyrediyor
+      metin  : rachels
+      duyulan: ratchells
+  REPLACE  ...i kisinin kastı aynı
+      metin  : saiki
+      duyulan: sahiki
+  REPLACE  ...kisi arasında parmakların suya
+      metin  : değip
+      duyulan: deyip
+  REPLACE  ...gösterebileceğin tek fark yok
+      metin  : rachels
+      duyulan: ratchells
+  INSERT   ...söylenebilecek en güçlü şeyi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hapisle binlerce avroluk para
+      metin  : cezasıyla
+      duyulan: cezası ile
+  REPLACE  ...kanunu mecelle nin başındaki
+      metin  : külli
+      duyulan: küllik
+  REPLACE  ...temel metinlerinden tao te
+      metin  : çing
+      duyulan: ching
+  REPLACE  ...tam tersi yeer çağırır
+      metin  : vu vey
+      duyulan: wu wei
+  REPLACE  ...diğeri seçmemeyi seçer durumda
+      metin  : failsin
+      duyulan: failson
+  REPLACE  ...failsin i kincisinde de
+      metin  : failsin
+      duyulan: failson
+  REPLACE  ...biçimde yapan isimlerden nurettin
+      metin  : topçu dur sorbon
+      duyulan: topçudur te sorbonne
+  REPLACE  ...türk oldu tezin adı
+      metin  : konformizm e revolt
+      duyulan: conformism erevolt
+  INSERT   ...yakın hale getiren örneği
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başında çalışmaya mahkum eder
+      metin  : triyaj
+      duyulan: triaj
+  REPLACE  ...modern biçimini savaş alanında
+      metin  : napolyon un başcerrahı dominik jan
+      duyulan: napolyonun başçerrahı dominic john
+  REPLACE  ...kimilerine bakmamaya karar vermek
+      metin  : triyajın
+      duyulan: triajın
+  INSERT   ...de ölmeye bırakacağını seçmekti
+      metin  : (yok)
+      duyulan: ki nin
+  REPLACE  ...yoğun bakım yatakları doldu
+      metin  : solunum
+      duyulan: solunun
+  INSERT   ...kendisi bile ihmal dersidir
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...bile ihmal dersidir mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...new york un queens
+      metin  : semtinde
+      duyulan: sempton da
+  REPLACE  ...ama sonraki araştırmalar özellikle
+      metin  : binlerde
+      duyulan: lerde
+  INSERT   ...haline getirememesi bunun mekaniğini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...denek odada yalnızsa yaklaşık
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...olduğunu bildiğinde bu oran
+      metin  : (yok)
+      duyulan: e
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: felsefe-2026-10-06.duyulan.txt

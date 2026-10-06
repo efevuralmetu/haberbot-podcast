@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-06.mp3
+
+beklenen 1598 kelime | duyulan 1605 kelime | eşleşme %95.3
+sayı ifadesi: metinde 252, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...delikli kağıt şerit okuyan
+      metin  : tertibat
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ekran makinenin adı pdp
+      metin  : (yok)
+      duyulan: di
+  REPLACE  ...digital equipment corporation kısaca
+      metin  : dec
+      duyulan: dz
+  REPLACE  ...neredeyze hiçbir şey yoktu
+      metin  : belleği
+      duyulan: belleyi
+  REPLACE  ...ışınlı tüp ekran yüzeyinde
+      metin  : dörde
+      duyulan: de lük
+  REPLACE  ...delikli kartlarla dolu kutuyu
+      metin  : beyaz önlüklü
+      duyulan: beyazönlükli
+  REPLACE  ...teslim edip ertesi sabah
+      metin  : çıktıyı
+      duyulan: çıktığı
+  REPLACE  ...programcı makineyi hiç görmezdi
+      metin  : pdp
+      duyulan: tdp
+  REPLACE  ...sonucu kendi gözünle anında
+      metin  : görüyordun
+      duyulan: görüyordum
+  REPLACE  ...genç stephen russel martin
+      metin  : graetz
+      duyulan: great
+  REPLACE  ...martin graetz ve wayne
+      metin  : wiitanen
+      duyulan: vita nın
+  DELETE   ...özellikle e e smith
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...süren yıldızlar arasında geçen
+      metin  : düellolar
+      duyulan: duellolar
+  REPLACE  ...alan kotok arabaya atlayıp
+      metin  : maynard daki dec
+      duyulan: maynardaki deck
+  INSERT   ...söyleyecek sözü kalmamıştı böylece
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ayırt edilebilsin diye farklı
+      metin  : siluet
+      duyulan: silüet
+  REPLACE  ...bu kulüpten peter samson
+      metin  : ı
+      duyulan: u
+  REPLACE  ...fiyatına yapılmış şakaydı pahalı
+      metin  : planetaryum
+      duyulan: planetarium
+  REPLACE  ...oyunun fiziğini baştan yazdı
+      metin  : dan
+      duyulan: don
+  REPLACE  ...ile robert saunders üretti
+      metin  : maket
+      duyulan: maked
+  REPLACE  ...birileri kendi eklemesini yapıyordu
+      metin  : dec
+      duyulan: dt
+  REPLACE  ...fabrikadan çıkan yeni pdp
+      metin  : birlerin
+      duyulan: lerin
+  INSERT   ...aynı anda zorluyordu şirket
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...konu olmadan üretilmiş pdp
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...o dönemin hukuki belirsizliğiydi
+      metin  : russel
+      duyulan: rusal
+  REPLACE  ...de henüz mümkün değildi
+      metin  : graetz
+      duyulan: grayets
+  REPLACE  ...emin değildi sonuç ortadadır
+      metin  : russel
+      duyulan: rusal
+  REPLACE  ...tuck adlı genç stanford
+      metin  : un
+      duyulan: ın
+  REPLACE  ...oyunu koymuşlardı oyun başına
+      metin  : sent
+      duyulan: cent
+  REPLACE  ...başına sent oyun için
+      metin  : sent
+      duyulan: cent
+  REPLACE  ...önünde kuyruk oluşturuyordu ama
+      metin  : sentlerle
+      duyulan: centlerle
+  REPLACE  ...sentlerle bu çukur kapanmazdı
+      metin  : galaksi oyunu ndan
+      duyulan: galaxy oyunundan
+  INSERT   ...adını verdikleri bu makineden
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kendi doğasına sadık kaldı
+      metin  : (yok)
+      duyulan: doğundokuz
+  INSERT   ...doğasına sadık kaldı ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sadık kaldı ekim stanford
+      metin  : un
+      duyulan: ın
+  INSERT   ...hala aynı gemi dönüyor
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...bırakıp dili kendine saklamak
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: oyun-2026-10-06.duyulan.txt

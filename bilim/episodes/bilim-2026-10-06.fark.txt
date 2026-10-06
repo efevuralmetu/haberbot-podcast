@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-06.mp3
+
+beklenen 1834 kelime | duyulan 1866 kelime | eşleşme %95.5
+sayı ifadesi: metinde 273, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yapmaz kuralı çatlamaya başladı
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...çatlamaya başladı doksanlarda madrid
+      metin  : de
+      duyulan: te
+  REPLACE  ...doksanlarda madrid de hekim
+      metin  : mikroskobunun
+      duyulan: mikroskopunun
+  REPLACE  ...biçimde göremediği şeyi görüyordu
+      metin  : santiyago ramon i kahal
+      duyulan: santiago ramón icahal
+  REPLACE  ...ayrı tek tek hücrelerden
+      metin  : kurulu olduğunu
+      duyulan: kurulduğunu
+  INSERT   ...olduğunu gösterdi bu buluş
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...boyunca yasa gibi okundu
+      metin  : kahal
+      duyulan: cahal de
+  INSERT   ...bölünmekte olan hücreler görünmüyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elinde yeni araç vardı
+      metin  : trityumlu
+      duyulan: tritiumlu
+  REPLACE  ...nın harfinden yapı taşıdır
+      metin  : trityum
+      duyulan: tritium
+  REPLACE  ...bölünmüştür altman yetişkin sıçanların
+      metin  : hipokampüsünde
+      duyulan: hippocampüsünde
+  REPLACE  ...vardı teknikti o günün
+      metin  : mikroskobunda
+      duyulan: mikroskopunda
+  INSERT   ...çalışma hattı destek bulmadı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bulmadı michael kaplan elektron
+      metin  : mikroskobuyla
+      duyulan: mikroskopuyla
+  INSERT   ...yapıları gösterdi yine yetmedi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aynı işaretleme yöntemini yetişkin
+      metin  : rhesus
+      duyulan: resus
+  INSERT   ...nsanda ilk doğrudan kanıt
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tıbbın yan kapısı açtı
+      metin  : bromodeoksiüridin
+      duyulan: bromodedoksiridin
+  REPLACE  ...için damardan veriliyordu göteborg
+      metin  : da
+      duyulan: ta
+  REPLACE  ...göteborg da çalışan peter
+      metin  : eriksson
+      duyulan: erickson
+  REPLACE  ...inceleme izni istedi hasta
+      metin  : hipokampüsün dentat girus
+      duyulan: hippocampus un dentatgirus
+  REPLACE  ...nötronlar atmosferdeki azot çekirdeklerine
+      metin  : çarptı
+      duyulan: çarktı
+  REPLACE  ...çekirdeklerine çarptı ve karbon
+      metin  : dörde
+      duyulan: e
+  INSERT   ...ve en yüksek noktasına
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...noktasına ulaştı sonra ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...radyoaktif bozunma değil karbon
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...sonunda duran fikir stockholm
+      metin  : deki
+      duyulan: daki
+  REPLACE  ...karolinska enstitüsü nde jonas
+      metin  : frisen
+      duyulan: frizen
+  REPLACE  ...tarihidir adli tıp uzmanı
+      metin  : henrik
+      duyulan: hendrik
+  REPLACE  ...in sağladığı beyin örnekleri
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kısaca livermoer laboratuvarında bruce
+      metin  : buhholts
+      duyulan: buholtz
+  DELETE   ...spektrometresine gitti ölçümün hassasiyeti
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ayıklandı i lk cevap
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...geniş bölgesi için haklıydı
+      metin  : (yok)
+      duyulan: ki te
+  INSERT   ...yenilenen hücer havuzunun yılda
+      metin  : (yok)
+      duyulan: inin
+  INSERT   ...dentat girustaki nöronların kabaca
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hipokampüsü de hala ekliyordu
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...san francisco kampüsünden arturo
+      metin  : alvares buiya nın
+      duyulan: alvarez buyan ın
+  REPLACE  ...alvares buiya nın laboratuvarında
+      metin  : shawn sorrells in
+      duyulan: sean sorrel sin
+  REPLACE  ...olan bu sonucun kimden
+      metin  : geldiğiydi alvares buiya
+      duyulan: geldiydi alvarez buyan
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: bilim-2026-10-06.duyulan.txt

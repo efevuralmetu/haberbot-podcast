@@ -1,0 +1,61 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-06.mp3
+
+beklenen 1302 kelime | duyulan 1306 kelime | eşleşme %98.2
+sayı ifadesi: metinde 177, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...alınmış burç kitabından derlenmiş
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kendi adının yazılı olduğu
+      metin  : daktiloyla
+      duyulan: daktilo ile
+  INSERT   ...çıktı tek öğrenci bile
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...sınamaya çalışan fransız araştırmacı
+      metin  : mişel
+      duyulan: michel
+  INSERT   ...fransız araştırmacı mişel goklen
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...onlarca insanı öldürmekten yargılanıp
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...öldürmekten yargılanıp idam edilen
+      metin  : marsel petiyo nun
+      duyulan: marcel petion un
+  DELETE   ...yorumdu i lk cevabın
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ize başka psikolog paul
+      metin  : meehl
+      duyulan: meal
+  REPLACE  ...psikolog paul meehl oldu
+      metin  : meehl
+      duyulan: meal da
+  REPLACE  ...geliyorsa yine yükseliyor ve
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...tane bulabiliyorsanız o cümle
+      metin  : sizi
+      duyulan: size
+  REPLACE  ...hafta hangi toplantıda ne
+      metin  : yaptım da
+      duyulan: yaptığımda
+  REPLACE  ...olmak gerekiyor size uyan
+      metin  : sizi
+      duyulan: size
+  INSERT   ...alanda konuşabilecek tek yer
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...verilen aynı kağıt var
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 14 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-10-06.duyulan.txt

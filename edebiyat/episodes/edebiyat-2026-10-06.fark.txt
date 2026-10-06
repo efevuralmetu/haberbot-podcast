@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-06.mp3
+
+beklenen 1608 kelime | duyulan 1638 kelime | eşleşme %94.2
+sayı ifadesi: metinde 308, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve oyuncuların aklında yaşıyorlardı
+      metin  : sterline
+      duyulan: sterling e
+  INSERT   ...ödemek zorunda kalacaklardı nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hafta önce vasiyetini düzeltmişti
+      metin  : parşömen
+      duyulan: parşomen
+  REPLACE  ...condel e kendisini anacak
+      metin  : alsınlar
+      duyulan: kalsınlar
+  REPLACE  ...ortağı olduğu tiyatro topluluğu
+      metin  : king s men
+      duyulan: kingsman
+  REPLACE  ...oyunun genellikle tek sahne
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...oyun dünyada ya da
+      metin  : nüsha
+      duyulan: nüşe
+  REPLACE  ...akşam oynanan oyun henry
+      metin  : ydi
+      duyulan: di
+  REPLACE  ...bugünün cep kitapları gibi
+      metin  : peniye
+      duyulan: pennyye
+  INSERT   ...bazıları özenliydi bazıları felaketti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yarısı ize hiç basılmamıştı
+      metin  : hiç macbeth
+      duyulan: markbett
+  REPLACE  ...macbeth basılmamıştı fırtına basılmamıştı
+      metin  : yulius sezar i kinci
+      duyulan: julius caesar
+  REPLACE  ...kış masalı antonius ve
+      metin  : kleopatra
+      duyulan: cleopatra
+  REPLACE  ...kız kral john yanlışlıklar
+      metin  : komedyası
+      duyulan: komediyası
+  REPLACE  ...o büyük roma oyunu
+      metin  : koriolanus simbelin
+      duyulan: coriolanus simbel in
+  INSERT   ...simbelin henry toplamda oyun
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sonra sessiz yıllar geldi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ihtimalle yalnızca vefa değildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...jaggard ın matbaasında dizildi
+      metin  : işin
+      duyulan: i şin den
+  REPLACE  ...ile yayıncı edward blount
+      metin  : tu
+      duyulan: u
+  REPLACE  ...kayıtlarına girdi kapakta uzun
+      metin  : ad
+      duyulan: at
+  REPLACE  ...trajedileri kitap tarihçileri kısaca
+      metin  : folio
+      duyulan: folyo
+  REPLACE  ...i lk sayfada martin
+      metin  : droeshout
+      duyulan: de rochaute
+  REPLACE  ...kaynaktan hemen yanında ben
+      metin  : jonson
+      duyulan: johnson
+  REPLACE  ...jonson ın dizeleri vardır
+      metin  : jonson
+      duyulan: johnson
+  REPLACE  ...ortada dolaşan bozuk çalıntı
+      metin  : nüshalara
+      duyulan: nüksalara
+  INSERT   ...cilt oyun içeriyordu bunların
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...basıldı fiyatı sterlindi yani
+      metin  : şilin
+      duyulan: ilin
+  REPLACE  ...sterlindi yani şilin yani
+      metin  : peni
+      duyulan: penny
+  REPLACE  ...yıllarda seyirci tiyatronun açık
+      metin  : avlusunda
+      duyulan: havlusunda
+  REPLACE  ...avlusunda ayakta durup oyunu
+      metin  : peniye
+      duyulan: pennyye
+  REPLACE  ...koleksiyonculara yönelik yatırımdı yaklaşık
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...üzerinde kaldı troilus ve
+      metin  : kressida
+      duyulan: cressida
+  REPLACE  ...bu küçük düzensizliktir sonra
+      metin  : nüsha dağıldı
+      duyulan: nüşa daldı
+  REPLACE  ...gemilerle denizaşırı yerleer gitti
+      metin  : nüsha
+      duyulan: nüşa
+  INSERT   ...tuhaf kısmı orada başlıyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kaydı yapılan her kitabın
+      metin  : nüshası
+      duyulan: nüşası
+  INSERT   ...zedeleyen değersiz şeyler bodley
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ciltçi defterinde şubat günü
+      metin  : ciltlenmek
+      duyulan: citlenmek
+  REPLACE  ...geldiğini gösteren harf vardır
+      metin  : wildgoose
+      duyulan: wild goose a
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 85
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: edebiyat-2026-10-06.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-06.mp3
+
+beklenen 2776 kelime | duyulan 2798 kelime | eşleşme %95.5
+sayı ifadesi: metinde 437, duyulanda 310  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...arap yarımadası nın kıyısından
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...neredeyze dümdüz ada var
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bahçeleriyle yeşil ana adanın
+      metin  : yüzölçümü kilometrekareye
+      duyulan: ölçümü km kareye
+  DELETE   ...bunlar doğal yükseltiler değildi
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...amerikalı araştırmacı curtis larsen
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...sayılan adaya taşıyordu cenazeler
+      metin  : tekneyle
+      duyulan: tekne ile
+  REPLACE  ...mezarlığı olabilir miydi ölümsüzlük
+      metin  : vaadiyle
+      duyulan: vadiyle
+  INSERT   ...biliyoruz bu sorunun cevabı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...taş bugün artık yok
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...görevli olan edward law
+      metin  : durand
+      duyulan: durant
+  REPLACE  ...resmi inceleme için geldi
+      metin  : durand
+      duyulan: durant
+  REPLACE  ...en çok höyükler ilgilendirdi
+      metin  : aali
+      duyulan: ali
+  REPLACE  ...şuydu agarum halkından tanrı
+      metin  : inzağın
+      duyulan: inza ın
+  REPLACE  ...durmak gerekiyor inzak çünkü
+      metin  : inzağı
+      duyulan: inza ı
+  REPLACE  ...tanıyoruz ve o metinlerde
+      metin  : inzağın
+      duyulan: inza ın
+  INSERT   ...taşın kendisi milattan önce
+      metin  : (yok)
+      duyulan: yıla
+  REPLACE  ...ve o yazıt yok
+      metin  : durand
+      duyulan: duran
+  REPLACE  ...götürmüştü taş orada bahçe
+      metin  : süsü ile
+      duyulan: süsüyle
+  REPLACE  ...alman hava bombardımanlarında yani
+      metin  : blits
+      duyulan: blitz
+  REPLACE  ...elimizde olan şey kopyalar
+      metin  : durand
+      duyulan: durant
+  INSERT   ...masadan kaldıracak kişiler yarım
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...sonra bambaşka yerden gelecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gereği adaya uğradı adı
+      metin  : geoffrey bibby ydi
+      duyulan: joffrey bibbiydi
+  INSERT   ...hükümdarının sağladığı mütevazı bütçeyle
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...danimarka nın arhus kentindeki
+      metin  : mosgor
+      duyulan: moskor
+  INSERT   ...yapan herkes mezarlara gitmişti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...britanya müzesi nde ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nde ve albay francis
+      metin  : prideaux
+      duyulan: prideau
+  INSERT   ...kazıları yaptı yine höyüklerde
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ama hepsi ölüleer bakıyordu
+      metin  : glob
+      duyulan: globe
+  REPLACE  ...ölüleer bakıyordu glob ve
+      metin  : bibby
+      duyulan: biby
+  REPLACE  ...yüzyılda yaptığı kalenin geldi
+      metin  : kalat
+      duyulan: calat
+  INSERT   ...deniz ticaretine bağlanmış kent
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...fikrini kısa sürede itibarsızlaştırdı
+      metin  : bibby
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bulundu ile arasında londra
+      metin  : bahreyn
+      duyulan: bahrain
+  REPLACE  ...arkeoloji heyeti yani londra
+      metin  : bahreyn
+      duyulan: bahrain
+  INSERT   ...jane moon un yönetiminde
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...küçük meydan serpilmişti heyet
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ama bu yorum tartışmalı
+      metin  : saar
+      duyulan: sağır
+  INSERT   ...yaklaşık ile yılları arasında
+      metin  : (yok)
+      duyulan: yıl
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 85
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: arkeoloji-2026-10-06.duyulan.txt

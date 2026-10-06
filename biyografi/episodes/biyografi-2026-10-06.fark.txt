@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-06.mp3
+
+beklenen 2586 kelime | duyulan 2611 kelime | eşleşme %94.9
+sayı ifadesi: metinde 295, duyulanda 226  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sonra o taşlardan öğrendik
+      metin  : mö
+      duyulan: milöstürya
+  REPLACE  ...öğrendik mö yüzyılın başında
+      metin  : ganj
+      duyulan: ganç
+  REPLACE  ...şehirlerinden uzanıyordu adı pataliputra
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...hint sarayına yolladığı elçi
+      metin  : megastenes
+      duyulan: megasthenes
+  REPLACE  ...su hendeğini anlatmıştı i
+      metin  : çeride
+      duyulan: çerde
+  REPLACE  ...imparatorun dedesiydi çandragupta maurya
+      metin  : mö yirmilerde
+      duyulan: milöstürya lerde
+  REPLACE  ...kökeni tartışmalı genç olarak
+      metin  : magadha nın
+      duyulan: magadan ın
+  REPLACE  ...i skender in haleflerinden
+      metin  : seleukos
+      duyulan: selurkos
+  REPLACE  ...seleukos nikator u buldu
+      metin  : mö
+      duyulan: milötnöki
+  REPLACE  ...mö dolaylarında taraf anlaştı
+      metin  : seleukos
+      duyulan: selurkos
+  REPLACE  ...yunanlar düşman öldüren anlamında
+      metin  : amitrokhates
+      duyulan: amitrokates
+  REPLACE  ...olarak gönderiliyordu bunlardan batıda
+      metin  : uccayn
+      duyulan: ucayn
+  REPLACE  ...bunlardan batıda uccayn de
+      metin  : süer de
+      duyulan: sürede
+  REPLACE  ...de süer de kuzeybatıda
+      metin  : takşaşila
+      duyulan: takşasila
+  REPLACE  ...görev yaptı adını bugün
+      metin  : aşoka
+      duyulan: ashoka
+  REPLACE  ...sanskritçede kabaca kedersiz demektir
+      metin  : bindusara mö yetmişlerin
+      duyulan: bindusar a meylot enk lerin
+  REPLACE  ...en karanlık boşluğudur çünkü
+      metin  : aşoka
+      duyulan: ashoka
+  REPLACE  ...dolduran korkunç anlatı sunar
+      metin  : aşoka
+      duyulan: ashoka
+  REPLACE  ...aynı gelenek lakap takmıştı
+      metin  : çandaşoka
+      duyulan: çanda shoka
+  REPLACE  ...takmıştı çandaşoka yani zalim
+      metin  : aşoka
+      duyulan: ashoka
+  REPLACE  ...unutulmayan şiddetin bulunduğunu düşündürür
+      metin  : mö
+      duyulan: miladotte
+  REPLACE  ...duran krallıktı kalinga bugünkü
+      metin  : odişa
+      duyulan: odisha
+  REPLACE  ...bengal körfezine bakan ülkeydi
+      metin  : zengindi
+      duyulan: zenginliği
+  REPLACE  ...töreninden yıl sonra yani
+      metin  : mö
+      duyulan: milovnike
+  REPLACE  ...kaynaklarından geliyor romalı yazar
+      metin  : plinius
+      duyulan: plinyus
+  REPLACE  ...bize ulaşmadı savaşın hangi
+      metin  : mevkide
+      duyulan: mevkii de
+  REPLACE  ...bölge yıllarca açlık çekerdi
+      metin  : binlerce
+      duyulan: lerce
+  REPLACE  ...içine dert olurdu sonra
+      metin  : metnin
+      duyulan: metin in
+  REPLACE  ...fetih değildir gerçek fetih
+      metin  : damma ile
+      duyulan: dammayla
+  REPLACE  ...fetih damma ile yapılandır
+      metin  : damma
+      duyulan: damla
+  REPLACE  ...adı değildir imparatorun bütün
+      metin  : tebaası
+      duyulan: tebası
+  REPLACE  ...inancına saldırmamak ferman bu
+      metin  : fethin
+      duyulan: fetin
+  REPLACE  ...da sayar suriye de
+      metin  : antiokhos
+      duyulan: antiyokos
+  REPLACE  ...antigonos kirene de magas
+      metin  : epeiros
+      duyulan: epeyros
+  REPLACE  ...de magas epeiros ta
+      metin  : aleksandros
+      duyulan: alexandros
+  REPLACE  ...yakın kayalıklarda var batıda
+      metin  : gucarat
+      duyulan: gujarat
+  REPLACE  ...ya yazdırmadı dauli ve
+      metin  : caugada
+      duyulan: gavgada
+  REPLACE  ...sesle okunacağını bildirir yani
+      metin  : aşoka
+      duyulan: ashoka
+  REPLACE  ...hariç yandan dauli de
+      metin  : fermanın
+      duyulan: termanın
+  REPLACE  ...kalinga dan sonraki yılda
+      metin  : aşoka
+      duyulan: ashoka
+  ... ve 37 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: biyografi-2026-10-06.duyulan.txt

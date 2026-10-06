@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-06.mp3
+
+beklenen 1478 kelime | duyulan 1481 kelime | eşleşme %92.5
+sayı ifadesi: metinde 287, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...savaşın hemen ardından çektiği
+      metin  : jaküz
+      duyulan: jacqueuse
+  REPLACE  ...suçluyorum ve ardından gelen
+      metin  : la ru
+      duyulan: laroux
+  REPLACE  ...daha büyük şey vardı
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...un bütün hayatını çocukluğundan
+      metin  : sankt
+      duyulan: st
+  INSERT   ...durduğu ortaklık çekimler ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gans ilk filmin adını
+      metin  : napolyon vü par
+      duyulan: napoleon vupar
+  REPLACE  ...abel gans ın gözüyle
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...ın gözüyle napolyon bu
+      metin  : ad alçakgönüllülük
+      duyulan: at alçak gönüllülük
+  REPLACE  ...kitabı değil yönetmenin bakışı
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...yönetmenin bakışı napolyon u
+      metin  : alber diyödone
+      duyulan: albert diodone
+  REPLACE  ...yönetmeni ikna etmişti çocuk
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...napolyon u vladimir rudenko
+      metin  : jozefin i jina manes
+      duyulan: josefini cinamanes
+  REPLACE  ...i jina manes oynadı
+      metin  : robespiyer
+      duyulan: robespierer
+  REPLACE  ...manes oynadı robespiyer rolünde
+      metin  : edmon
+      duyulan: edmond
+  REPLACE  ...edmon van dael vardı
+      metin  : marat yı
+      duyulan: maratya
+  REPLACE  ...sanatlarını baştan yazacak olan
+      metin  : antonen arto
+      duyulan: antonin arta
+  REPLACE  ...kendisi üstlendi görüntü yönetmeni
+      metin  : jül
+      duyulan: jules
+  INSERT   ...boje ydi sonra haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...durdu alman sanayici hugo
+      metin  : ştines
+      duyulan: stines
+  REPLACE  ...kapı kapı dolaştı aralık
+      metin  : sosyete jeneral de
+      duyulan: te societe generale
+  INSERT   ...devralmayı kabul etti çekimler
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...hayal etmediği yerleer soktu
+      metin  : briyen
+      duyulan: brienne
+  REPLACE  ...sinemaya dönüştü gösterim pale
+      metin  : garniye
+      duyulan: garnier
+  REPLACE  ...yapıldı salonda cumhurbaşkanı gaston
+      metin  : dumerg
+      duyulan: dumercq
+  REPLACE  ...savaşı nın efsane komutanları
+      metin  : foş
+      duyulan: foch
+  REPLACE  ...efsane komutanları foş ve
+      metin  : jofr
+      duyulan: joffrey
+  REPLACE  ...müziğini özel olarak yazan
+      metin  : artür
+      duyulan: arthur wanneger
+  REPLACE  ...kat genişledi gans buna
+      metin  : polyvision
+      duyulan: polyvizyon
+  REPLACE  ...aynı anda gösterir ortada
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...ses okuyucu takmaya ayıracaktı
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...amerikalı dağıtımcı metro goldwyn
+      metin  : mayer
+      duyulan: meyer
+  INSERT   ...metro goldwyn mayer filmi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bütün fikrinin kesilip atıldığı
+      metin  : napolyon
+      duyulan: napoleon
+  INSERT   ...açtı kesti yeniden birleştirdi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ekleyip sesli sürüm çıkardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve dış sesi harmanladığı
+      metin  : bonapart e
+      duyulan: bonaparte et
+  REPLACE  ...harmanladığı bonapart e la
+      metin  : revolüsyon u
+      duyulan: révolutionu
+  REPLACE  ...i yaptı bu filmde
+      metin  : sen jüst
+      duyulan: sengius
+  INSERT   ...i ngiliz kevin brownlow
+      metin  : (yok)
+      duyulan: te
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-10-06.duyulan.txt

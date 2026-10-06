@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-05.mp3
+
+beklenen 1323 kelime | duyulan 1342 kelime | eşleşme %94.4
+sayı ifadesi: metinde 292, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ayı enflasyonu bugün saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ran dışişleri bakanı abbas
+      metin  : arakçi
+      duyulan: arakçı
+  INSERT   ...ülkeden ayrılmasını istedi şubat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...vaziyette gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...biçimde iyileşti ancak nüfusun
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...hedef aracı kullandığını bunların
+      metin  : yedisinin
+      duyulan: sinin
+  REPLACE  ...seçimleer ay kaldı ve
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...ize liderler ekim de
+      metin  : brüksel
+      duyulan: bruksel
+  DELETE   ...hız kesmiyor openai gpt
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sol adlı modelini giriş
+      metin  : tokeni
+      duyulan: tokini
+  REPLACE  ...tokeni başına dolar çıkış
+      metin  : tokeni
+      duyulan: tokini
+  REPLACE  ...tokeni başına dolar fiyatla
+      metin  : kullanıma
+      duyulan: kullanımı
+  INSERT   ...gemisi gpt astra nın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gpt astra nın olduğunu
+      metin  : performansın
+      duyulan: performansını
+  DELETE   ...ucuz olduğunu söylediği sonnet
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ize yeni amiral gemisi
+      metin  : ceminay argon u
+      duyulan: gemini argonu
+  REPLACE  ...programındaki güvenilir siber savunma
+      metin  : ekiplerine
+      duyulan: ekiplerini
+  REPLACE  ...ekibinden araştırmacıyla yollarını ayırdı
+      metin  : reuters
+      duyulan: ruteis
+  REPLACE  ...şirkete soruşturma celbi gönderdi
+      metin  : çip
+      duyulan: chip
+  REPLACE  ...kongresi bugün antalya da
+      metin  : nest konger merkezi nde
+      duyulan: nes conger merkezinde
+  REPLACE  ...deki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...alındı yeni projeksiyonlarda yetkiliden
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...projeksiyonlarda yetkiliden yıl bitmeden
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...puanlık artış daha öngörüyor
+      metin  : pce
+      duyulan: p c
+  REPLACE  ...dolar seviyelerinde abd de
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...tüi k rakamları saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gerçekleşmesi halinde yıllık enflasyon
+      metin  : gerileyecek
+      duyulan: ya gerilecek
+  INSERT   ...deki toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...faizini sabit tutmuştu piyasalarda
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...lira seviyesinde gram lira
+      metin  : bist
+      duyulan: bidesli
+  REPLACE  ...tutarı doları bulabilecek yeşil
+      metin  : dönüşüm
+      duyulan: dönüşün
+  INSERT   ...bu karar sonrasında mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...parti yi kurdu sosyalist
+      metin  : enternasyonal
+      duyulan: internasyonel
+  REPLACE  ...partilerden isimleri istedi komisyonun
+      metin  : ihtisas komisyonlarıyla
+      duyulan: i htisas komisyonları ile
+  REPLACE  ...öğleden sonra adana nın
+      metin  : saimbeyli
+      duyulan: sainbeyli
+  REPLACE  ...ve yapısal hasar bildirilmedi
+      metin  : afad bölgeye
+      duyulan: afat bölge ye
+  INSERT   ...edilecek başlıkların başında saat
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...enflasyon verisi geliyor karolinska
+      metin  : institutet
+      duyulan: i nstitütet
+  REPLACE  ...karolinska institutet yani karolinska
+      metin  : enstitüsü
+      duyulan: i nstitüsü
+  REPLACE  ...ödülü nü bugün türkiye
+      metin  : saatiyle
+      duyulan: saati ile
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: gundem-2026-10-05.duyulan.txt
