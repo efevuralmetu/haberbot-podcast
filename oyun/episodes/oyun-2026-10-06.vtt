@@ -1,0 +1,569 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.130
+1962'de bir odadaki yüz yirmi bin dolarlık bilgisayarda iki uzay gemisi birbirini kovalıyordu.
+
+2
+00:00:08.130 --> 00:00:18.660
+Yazanlar oyunu satmayı değil, kodu isteyen herkese kopyalamayı seçti — hatta üretici firma onu yeni makinelerin sağlam çalıştığını kanıtlamak için kutuya koydu.
+
+3
+00:00:18.660 --> 00:00:27.750
+On yıl sonra aynı oyunun başında bira içen doktora öğrencileri, farkında olmadan bugün milyarlık bir endüstri olan şeyin ilk turnuvasını oynuyordu.
+
+4
+00:00:35.950 --> 00:00:45.680
+1961 sonbaharında, Boston'ın hemen yanı başındaki Cambridge'de, bir üniversite binasının katına 730 kiloluk bir makine taşındı.
+
+5
+00:00:45.680 --> 00:00:57.810
+Taşıyanlar onu raflardan oluşan bir duvar gibi yerleştirdiler: gri çelik dolaplar, üzerinde sıra sıra ışıklı düğme, yanında delikli kâğıt şerit okuyan bir tertibat ve en ucunda,
+
+6
+00:00:57.810 --> 00:01:01.460
+yuvarlak bir gözü andıran 16 inçlik bir ekran.
+
+7
+00:01:01.460 --> 00:01:04.150
+Makinenin adı PDP-1'di.
+
+8
+00:01:04.150 --> 00:01:12.600
+Onu üreten şirket Digital Equipment Corporation, kısaca DEC, bu örneği Massachusetts Teknoloji Enstitüsü'ne bağışlamıştı.
+
+9
+00:01:12.600 --> 00:01:19.930
+Piyasa değeri 120 bin dolardı; o günün parasıyla, bir kasabada sokak dolusu ev almaya yetecek bir rakam.
+
+10
+00:01:19.930 --> 00:01:25.020
+Bugünün ölçüleriyle bakıldığında bu devin içinde neredeyse hiçbir şey yoktu.
+
+11
+00:01:25.020 --> 00:01:29.950
+Belleği 4096 kelimeydi, her kelime 18 bit.
+
+12
+00:01:29.950 --> 00:01:34.240
+Bir bellek çevrimi 5 mikrosaniyenin biraz üzerinde sürüyordu.
+
+13
+00:01:34.240 --> 00:01:39.810
+Buna karşılık bir şeyi vardı ki o yıllarda bilgisayarların çoğunda yoktu: ekran.
+
+14
+00:01:39.810 --> 00:01:50.660
+Tip 30 adı verilen katot ışınlı tüp, ekran yüzeyinde 1024'e 1024'lük bir ızgara tanımlıyor, saniyede 20 bin noktayı tek tek yakabiliyordu.
+
+15
+00:01:50.660 --> 00:01:55.910
+Nokta sönmeden önce bir süre parlıyordu, çünkü tüpün fosforu uzun ömürlüydü.
+
+16
+00:01:55.910 --> 00:02:01.800
+Yani bu makine hesap yapmakla kalmıyor, hesabının sonucunu insana gösterebiliyordu.
+
+17
+00:02:01.800 --> 00:02:03.850
+Asıl fark buydu.
+
+18
+00:02:03.850 --> 00:02:12.620
+O dönemde bilgisayar demek, delikli kartlarla dolu bir kutuyu beyaz önlüklü operatörlere teslim edip ertesi sabah çıktıyı almak demekti.
+
+19
+00:02:12.620 --> 00:02:17.550
+Makineye dokunmak bir ayrıcalıktı, programcı makineyi hiç görmezdi.
+
+20
+00:02:17.550 --> 00:02:21.040
+PDP-1 ise başına oturulan bir şeydi.
+
+21
+00:02:21.040 --> 00:02:27.250
+Düğmesini kendin çeviriyor, şeridi kendin takıyor, sonucu kendi gözünle anında görüyordun.
+
+22
+00:02:27.250 --> 00:02:40.820
+Teknoloji Enstitüsü'nde makinenin etrafında hemen bir topluluk oluştu; çoğu, kampüsteki Teknoloji Maket Tren Kulübü'nden gelen, trenlerin altındaki röle ve anahtar yığınlarıyla uğraşmaktan hoşlanan öğrencilerdi.
+
+23
+00:02:40.820 --> 00:02:44.790
+Geceleri makine boş kalıyordu ve boş makine onlarındı.
+
+24
+00:02:44.790 --> 00:02:49.080
+İlk yaptıkları şey, ekranın ne yapabileceğini sınamak oldu.
+
+25
+00:02:49.080 --> 00:02:58.330
+Marvin Minsky'nin yazdığı ve Minskytron diye anılan bir program, ekranda kendiliğinden açılıp dallanan, çiçeğe benzeyen desenler üretiyordu.
+
+26
+00:02:58.330 --> 00:03:02.940
+Güzeldi, seyredilesiydi, ama seyirciyi seyirci bırakıyordu.
+
+27
+00:03:02.940 --> 00:03:07.710
+120 bin dolarlık makinenin yapabileceği en gösterişli şey bu muydu?
+
+28
+00:03:07.710 --> 00:03:12.480
+Bu soru, o yazdan beri havada asılı duran bir fikirle buluştu.
+
+29
+00:03:12.480 --> 00:03:22.850
+1961 yazında üç genç, Stephen Russell, Martin Graetz ve Wayne Wiitanen, Cambridge'de Hingham Sokağı'ndaki bir apartman dairesinde takılıyor,
+
+30
+00:03:22.850 --> 00:03:28.900
+ucuz bilimkurgu romanları okuyor ve Japon canavar filmlerinin kötü kopyalarını izliyorlardı.
+
+31
+00:03:28.900 --> 00:03:39.910
+Oturdukları sokağın adını alıp kendilerine yarı şaka bir unvan uydurdular: Hingham Institute, yani Hingham Enstitüsü, Uzay Savaşı Üzerine Çalışma Grubu.
+
+32
+00:03:39.910 --> 00:03:41.960
+Özellikle E.
+
+33
+00:03:41.960 --> 00:03:43.210
+E.
+
+34
+00:03:43.210 --> 00:03:54.060
+Smith'in Skylark, yani Tarlakuşu adlı uzay romanları dizisi onları büyülüyordu; sayfalarca süren, yıldızlar arasında geçen düellolar vardı bu kitaplarda.
+
+35
+00:03:54.060 --> 00:04:00.590
+Hingham Enstitüsü'nün tek gündemi şuydu: insan bu sahneyi gerçekten görebilse nasıl olurdu?
+
+36
+00:04:00.590 --> 00:04:04.240
+PDP-1 geldiğinde iki fikir birbirine değdi.
+
+37
+00:04:04.240 --> 00:04:10.610
+Grubun kafasında, sonradan "bilgisayar oyuncakları kuramı" diye andıkları üç ölçüt vardı.
+
+38
+00:04:10.610 --> 00:04:18.100
+Yapılacak şey, makinenin gücünü sonuna kadar kullanmalı ve onu gören herkese bu gücü hissettirmeliydi.
+
+39
+00:04:18.100 --> 00:04:22.550
+Her çalıştırıldığında aynı şey olmamalı, sonuç değişmeliydi.
+
+40
+00:04:22.550 --> 00:04:27.480
+Ve en önemlisi, karşısındaki insanı izleyici değil oyuncu yapmalıydı.
+
+41
+00:04:27.480 --> 00:04:34.330
+Russell'ın tarifi sade bir cümleydi: ekranda bir şeyler hareket etmeli, mesela uzay gemileri.
+
+42
+00:04:34.330 --> 00:04:38.140
+Fikir ortadaydı ama Russell aylarca işe girişmedi.
+
+43
+00:04:38.140 --> 00:04:48.830
+Bahanesi teknikti ve haklıydı: gemileri döndürebilmek için sinüs ve kosinüs hesaplayan bir altyordama ihtiyacı vardı, böyle bir şey yazmak zahmetliydi.
+
+44
+00:04:48.830 --> 00:04:51.200
+Bahane bir gün elinden alındı.
+
+45
+00:04:51.200 --> 00:04:59.490
+Kulüpten Alan Kotok arabaya atlayıp Maynard'daki DEC merkezine gitti ve döndüğünde trigonometri yordamlarını Russell'ın önüne bıraktı.
+
+46
+00:04:59.490 --> 00:05:02.340
+Başka söyleyecek sözü kalmamıştı.
+
+47
+00:05:02.340 --> 00:05:07.110
+Böylece 1961'in aralık ayında yazmaya oturdu.
+
+48
+00:05:07.110 --> 00:05:12.040
+Toplam emek, altı haftaya yayılmış yaklaşık 200 saat olarak anılır.
+
+49
+00:05:12.040 --> 00:05:21.770
+Ocak ayında ekranda itildiğinde hızlanan, bırakıldığında aynı hızla süzülmeye devam eden bir nokta vardı; sürtünmesiz uzayın temel kuralı çalışıyordu.
+
+50
+00:05:21.770 --> 00:05:24.620
+Şubatta nokta iki gemiye dönüşmüştü.
+
+51
+00:05:24.620 --> 00:05:32.590
+Gemiler birbirinden ayırt edilebilsin diye iki farklı siluet çizildi; oyuncular onlara kısaca iğne ve kama diyordu.
+
+52
+00:05:32.590 --> 00:05:38.960
+Her birinin dönüşü, itkisi, sınırlı yakıtı ve sınırlı sayıda torpidosu vardı.
+
+53
+00:05:38.960 --> 00:05:42.770
+Nisan sonunda oyun esas olarak tamamlanmıştı.
+
+54
+00:05:42.770 --> 00:05:47.220
+Adını da almıştı: Spacewar!, yani Uzay Savaşı.
+
+55
+00:05:47.220 --> 00:05:50.870
+Burada hikâyenin en alışılmadık kısmı başlıyor.
+
+56
+00:05:50.870 --> 00:05:54.040
+Russell programı bitirip bir kenara kaldırmadı.
+
+57
+00:05:54.040 --> 00:06:02.970
+Delikli kâğıt şerit, makinenin yanındaki çekmecede durdu ve isteyen aldı, çalıştırdı, kendi eklemesini yaptı, geri koydu.
+
+58
+00:06:02.970 --> 00:06:10.300
+Ortada ne bir proje yöneticisi, ne bir teslim tarihi, ne de kimin neyi yapacağını söyleyen bir liste vardı.
+
+59
+00:06:10.300 --> 00:06:17.470
+Yazılımın ortaklaşa geliştirilmesini anlatan sözcükler henüz icat edilmemişti; ama iş tam olarak öyle yürüdü.
+
+60
+00:06:17.470 --> 00:06:24.000
+Uzay Savaşı'nı bugün hatırlanır kılan özelliklerin neredeyse hiçbiri Russell'ın elinden çıkmadı.
+
+61
+00:06:24.000 --> 00:06:27.010
+İlk ekleme bir rahatsızlıktan doğdu.
+
+62
+00:06:27.010 --> 00:06:36.100
+Oyunun arka planında rastgele serpiştirilmiş noktalar vardı ve bu, kulüpten Peter Samson'ı deli ediyordu, çünkü gökyüzü rastgele değildi.
+
+63
+00:06:36.100 --> 00:06:43.270
+Samson oturup Amerikan Efemeris ve Deniz Yıllığı'ndaki verileri aldı ve gerçek yıldızları makineye kodladı.
+
+64
+00:06:43.270 --> 00:06:55.880
+Deniz Yıllığı'ndan aktardığı kuşak, ekvatorun 22,5 derece kuzeyi ile 22,5 derece güneyi arasındaki şeritti; yani gökyüzünün tanıdık takımyıldızlarının çoğunu barındıran bölge.
+
+65
+00:06:55.880 --> 00:07:09.610
+Beşinci kadirden parlak her yıldız oradaydı ve her biri gerçek parlaklığıyla görünüyordu: sönük bir yıldızın noktası ekrana seyrek, parlak bir yıldızınki sık basılıyor, göz bunu parlaklık farkı olarak okuyordu.
+
+66
+00:07:09.610 --> 00:07:13.900
+Üstelik bu gökyüzü oyun boyunca ağır ağır kayıyordu.
+
+67
+00:07:13.900 --> 00:07:19.790
+Programa verilen ad, makinenin fiyatına yapılmış bir şakaydı: pahalı planetaryum.
+
+68
+00:07:19.790 --> 00:07:23.280
+İkinci ekleme oyunun fiziğini baştan yazdı.
+
+69
+00:07:23.280 --> 00:07:33.330
+Dan Edwards, gemilerin çizim yordamını yeniden ele aldı ve her karede yorumlanan kodu önceden derlenmiş biçime çevirerek makineden boş zaman kazandı.
+
+70
+00:07:33.330 --> 00:07:40.980
+Kazandığı bu zamanı tek bir şeye harcadı: ekranın ortasına bir yıldız koydu ve o yıldıza gerçek bir çekim kuvveti verdi.
+
+71
+00:07:40.980 --> 00:07:43.990
+Bu, oyunu bütünüyle değiştirdi.
+
+72
+00:07:43.990 --> 00:07:49.560
+Artık gemiler düz bir masa üzerinde değil, bir çukurun kenarında dönüyordu.
+
+73
+00:07:49.560 --> 00:07:56.730
+Yakıtı boşa harcamadan konum değiştirmenin yolu, yıldızın etrafında bir yay çizip hızlanarak savrulmaktı.
+
+74
+00:07:56.730 --> 00:08:02.460
+Dikkatsiz bir manevra ise oyuncuyu rakibi değil, yerçekimi öldürüyordu.
+
+75
+00:08:02.460 --> 00:08:05.310
+Üçüncü ekleme paniğin karşılığıydı.
+
+76
+00:08:05.310 --> 00:08:12.960
+Martin Graetz, Tarlakuşu romanlarından aklında kalan kaçış fikrini oyuna taşıdı ve hiperuzay düğmesini yazdı.
+
+77
+00:08:12.960 --> 00:08:20.130
+Köşeye sıkışan oyuncu düğmeye basıyor, gemi ekrandan siliniyor ve bambaşka bir noktada yeniden beliriyordu.
+
+78
+00:08:20.130 --> 00:08:22.980
+Ama bu bir kurtuluş garantisi değildi.
+
+79
+00:08:22.980 --> 00:08:32.870
+Sıçrayış sayısı üçle sınırlıydı, nerede çıkacağınızı bilemiyordunuz ve her sıçrayışta geminin yeniden görünmek yerine paramparça olma ihtimali vardı.
+
+80
+00:08:32.870 --> 00:08:41.160
+Çıkışta ekranda kalan o tuhaf parlama izi de bir göndermeydi: Minsky'nin desen üreten programından ödünç alınmış bir imzaydı.
+
+81
+00:08:41.160 --> 00:08:45.290
+Geriye bir sorun kalmıştı: oyun oynanamıyordu.
+
+82
+00:08:45.290 --> 00:08:50.220
+Başlangıçta denetimler makinenin ön panelindeki anahtarlarla yapılıyordu.
+
+83
+00:08:50.220 --> 00:08:59.790
+Dört kişi omuz omuza, 120 bin dolarlık bir konsolun üzerine abanıyor, dirsek dirseğe çarpıyor, yanlış anahtara dokunma riskiyle oynuyordu.
+
+84
+00:08:59.790 --> 00:09:03.920
+Makineye bakan kişiler bu manzaradan hiç hoşlanmıyordu.
+
+85
+00:09:03.920 --> 00:09:07.570
+Çözümü Kotok ile Robert Saunders üretti.
+
+86
+00:09:07.570 --> 00:09:12.500
+Maket Tren Kulübü'nün artık malzemesinden, ahşap birer kutu yaptılar.
+
+87
+00:09:12.500 --> 00:09:19.830
+Kutunun üstünde gemiyi sağa ve sola çeviren bir kol, itkiyi açan bir anahtar ve torpido düğmesi vardı.
+
+88
+00:09:19.830 --> 00:09:33.080
+Saunders'ın en ince buluşu bu son düğmeydi: ateş düğmesi için sessiz çalışan bir anahtar seçmişti, çünkü sıradan bir anahtarın çıkardığı tık sesi karşıdaki oyuncuya torpidonun yola çıktığını haber veriyordu.
+
+89
+00:09:33.080 --> 00:09:38.650
+Yani video oyunu tarihinin ilk kumandası, aynı zamanda ilk blöf koruması oldu.
+
+90
+00:09:38.650 --> 00:09:46.460
+1962 mayısında Teknoloji Enstitüsü'nün her yıl düzenlediği bilim şenliğinde oyun halka gösterildi.
+
+91
+00:09:46.460 --> 00:09:56.030
+Ziyaretçiler, bir hesap makinesinin ekranında iki küçük geminin gerçek yıldızlar altında, gerçek bir çekim alanının etrafında dönüşünü izlediler.
+
+92
+00:09:56.030 --> 00:10:03.520
+O güne kadar ekranda bir şeyler oynatan birkaç deneme daha yapılmıştı; Uzay Savaşı ekrandaki ilk hareket değildi.
+
+93
+00:10:03.520 --> 00:10:08.930
+Fakat laboratuvarının dışına çıkıp yayılan, kopyalanan, geliştirilen ilk oyundu.
+
+94
+00:10:08.930 --> 00:10:13.380
+Yayılma biçimi, bugün alışık olduğumuz hiçbir şeye benzemiyordu.
+
+95
+00:10:13.380 --> 00:10:17.350
+Programın tamamı bir rulo delikli kâğıt şeritten ibaretti.
+
+96
+00:10:17.350 --> 00:10:26.280
+Bir üniversiteden ötekine giden biri şeridi cebine koyuyor, gittiği yerdeki makineye takıyor, orada da birileri kendi eklemesini yapıyordu.
+
+97
+00:10:26.280 --> 00:10:35.850
+DEC'in bu yayılmaya katkısı doğrudan oldu: fabrikadan çıkan yeni PDP-1'lerin düzgün çalışıp çalışmadığını sınamak için oyunu kullandığı anlatılır,
+
+98
+00:10:35.850 --> 00:10:41.580
+çünkü oyun makinenin işlemcisini de belleğini de ekranını da aynı anda zorluyordu.
+
+99
+00:10:41.580 --> 00:10:46.830
+Şirket 1963'te bir tanıtım broşüründe oyuna yer verdi.
+
+100
+00:10:46.830 --> 00:10:54.960
+Uzay Savaşı, satılmadan, hiçbir sözleşmeye konu olmadan, üretilmiş 53 PDP-1'in neredeyse hepsine ulaştı.
+
+101
+00:10:54.960 --> 00:10:57.170
+Kimse telif hakkı almadı.
+
+102
+00:10:57.170 --> 00:11:02.740
+Bunun bir kısmı tercih, bir kısmı ise o dönemin hukuki belirsizliğiydi.
+
+103
+00:11:02.740 --> 00:11:11.030
+Russell yıllar sonra durumu açıkça anlattı: o günlerde yazılımın telifle korunması da patentlenmesi de henüz mümkün değildi.
+
+104
+00:11:11.030 --> 00:11:17.720
+Graetz'in anlattığına göre grup, bir programın korunabilecek bir şey olup olmadığından bile emin değildi.
+
+105
+00:11:17.720 --> 00:11:19.450
+Sonuç ortadadır.
+
+106
+00:11:19.450 --> 00:11:24.700
+Russell, Uzay Savaşı için ömrü boyunca tek dolar almadığını söylemiştir.
+
+107
+00:11:24.700 --> 00:11:32.510
+Oyun kamuya mal olmuş durumdadır ve bugün dağıtılan her sürümünün yanında yazanların adlarını taşıyan bir künye bulunur.
+
+108
+00:11:32.510 --> 00:11:35.520
+Kazanılan tek şey budur: isim.
+
+109
+00:11:35.520 --> 00:11:38.370
+Parayı dokuz yıl sonra başkaları aradı.
+
+110
+00:11:38.370 --> 00:11:48.740
+1971 sonbaharında Bill Pitts ve Hugh Tuck adlı iki genç, Stanford'un öğrenci birliği binasına jetonla çalışan bir dolap yerleştirdiler.
+
+111
+00:11:48.740 --> 00:11:55.430
+İçinde PDP-11/20 adlı bir mini bilgisayar vardı ve ekranında Uzay Savaşı dönüyordu.
+
+112
+00:11:55.430 --> 00:11:59.400
+Adını Galaxy Game, yani Galaksi Oyunu koymuşlardı.
+
+113
+00:11:59.400 --> 00:12:03.850
+Oyun başına 10 sent, üç oyun için 25 sent alıyorlardı.
+
+114
+00:12:03.850 --> 00:12:13.740
+Sorun aritmetikti: yalnızca ilk prototip 20 bin dolara mal olmuştu, ikincisi tamamlandığında harcadıkları toplam 65 bin doları bulmuştu.
+
+115
+00:12:13.740 --> 00:12:19.950
+Öğrenciler makinenin önünde kuyruk oluşturuyordu ama 10 sentlerle bu çukur kapanmazdı.
+
+116
+00:12:19.950 --> 00:12:23.600
+Galaksi Oyunu'ndan yalnızca iki örnek yapıldı.
+
+117
+00:12:23.600 --> 00:12:29.330
+İkisi de para kazanmak için değil, bir şeyin yapılabileceğini görmek için yapılmıştı.
+
+118
+00:12:29.330 --> 00:12:33.940
+Aynı yıl, aynı oyundan yola çıkan bir başkası doğru soruyu sordu.
+
+119
+00:12:33.940 --> 00:12:42.390
+Nolan Bushnell, Utah Üniversitesi'nde öğrenciyken Uzay Savaşı'nı oynamış ve oyunun insanları makinenin başına çivilediğini görmüştü.
+
+120
+00:12:42.390 --> 00:12:49.240
+Ted Dabney ile birlikte giriştiği işte kritik karar şuydu: makinenin içine bilgisayar koymamak.
+
+121
+00:12:49.240 --> 00:12:56.730
+Ekrandaki görüntüyü doğrudan üreten, 185 adet sabit devreden oluşan bir donanım tasarladılar.
+
+122
+00:12:56.730 --> 00:13:06.300
+Böylece 120 bin dolarlık bir bilgisayarın yaptığı işin bir bölümünü, bir barın köşesine sığacak ve kendi parasını çıkaracak bir dolaba indirdiler.
+
+123
+00:13:06.300 --> 00:13:15.390
+Computer Space, yani Bilgisayar Uzayı adını verdikleri bu makineden 1971'de yaklaşık 1500 adet üretildi.
+
+124
+00:13:15.390 --> 00:13:26.080
+Rakam, bir jetonlu oyun için fena değildi; ama Bilgisayar Uzayı'nın denetimleri Uzay Savaşı'ndan devralınmıştı ve bara gelen sıradan müşteri için fazla karmaşıktı.
+
+125
+00:13:26.080 --> 00:13:27.970
+Bushnell dersi aldı.
+
+126
+00:13:27.970 --> 00:13:33.380
+Bir sonraki makinede kurallar tek cümleye indi ve o makinenin adı Pong oldu.
+
+127
+00:13:33.380 --> 00:13:37.830
+Atari'yi, dolayısıyla bütün bir sanayiyi kuran para oradan geldi.
+
+128
+00:13:37.830 --> 00:13:41.960
+Uzay Savaşı ise sonuna kadar kendi doğasına sadık kaldı.
+
+129
+00:13:41.960 --> 00:13:53.450
+19 Ekim 1972'de Stanford'un yapay zekâ laboratuvarında oyunun bir turnuvası düzenlendi; adını Galaksiler Arası Uzay Savaşı Olimpiyatları koymuşlardı.
+
+130
+00:13:53.450 --> 00:14:03.180
+Turnuvayı, hacker kültürü üzerine bir yazı hazırlayan Stewart Brand örgütledi; yazı aynı yılın 7 Aralık tarihli Rolling Stone dergisinde yayımlandı.
+
+131
+00:14:03.180 --> 00:14:07.310
+Birinciliği Bruce Baumgart adlı bir doktora öğrencisi aldı.
+
+132
+00:14:07.310 --> 00:14:11.280
+Ödülü, derginin bir yıllık aboneliği ve biraydı.
+
+133
+00:14:11.280 --> 00:14:15.890
+Kayda geçmiş ilk video oyunu turnuvasının ödül töreni buydu.
+
+134
+00:14:15.890 --> 00:14:19.860
+Geriye kalan şey bir ürün değil, bir dilbilgisiydi.
+
+135
+00:14:19.860 --> 00:14:34.710
+Ekranın uzay sayılması, geminin döndürülüp itilmesi, atışın sınırlı olması, haritanın ortasındaki tehlikenin aynı zamanda bir fırsat olması, iki insanın aynı ekrana bakıp birbirine karşı oynaması: bunların hepsi o odada,
+
+136
+00:14:34.710 --> 00:14:43.000
+kimsenin ücret almadığı birkaç ay içinde kararlaştırıldı ve ondan sonra gelen on yıllarca oyunun içine sessizce yerleşti.
+
+137
+00:14:43.000 --> 00:14:49.690
+Satılmadığı için kimsenin malı olmadı; kimsenin malı olmadığı için herkes üstüne inşa edebildi.
+
+138
+00:14:49.690 --> 00:15:00.220
+Bugün Kaliforniya'nın Mountain View kasabasındaki Bilgisayar Tarihi Müzesi'nde çalışır durumda tutulan bir PDP-1 var ve ekranında hâlâ aynı iki gemi dönüyor.
+
+139
+00:15:00.220 --> 00:15:10.750
+2007'de bir grup araştırmacı, Amerikan Kongre Kütüphanesi'nin korumaya alması gereken oyunların listesini hazırladığında, listenin başına onu yazdılar.
+
+140
+00:15:10.750 --> 00:15:18.720
+Hiç satılmamış bir oyunun ulaşabileceği en uç nokta, belki de bu: parayı başkalarına bırakıp dili kendine saklamak.
+
+141
+00:15:18.720 --> 00:15:22.210
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+142
+00:15:22.210 --> 00:15:25.380
+Yeni bir hikâyede yeniden buluşmak üzere.
