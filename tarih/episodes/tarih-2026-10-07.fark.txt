@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-07.mp3
+
+beklenen 2498 kelime | duyulan 2513 kelime | eşleşme %95.0
+sayı ifadesi: metinde 388, duyulanda 275  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...o topraklara ayak basmadı
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...iktidarın en geç haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...göer nüfusunun kadarı müslüman
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...sonunda göreve gelen mountbatten
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...şiddet dalgası bihar a
+      metin  : noakhali
+      duyulan: noakali
+  REPLACE  ...a noakhali ye birleşik
+      metin  : vilayetler e
+      duyulan: vilayetleer
+  INSERT   ...vilayetler e yayılmış mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nasıl belirleneceğini de yazıyordu
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...yüksek mahkeme yargıcı olacaktı
+      metin  : (yok)
+      duyulan: i kisini
+  REPLACE  ...müslüman önerecekti pencap komisyonunda
+      metin  : mehr çand
+      duyulan: mehçand
+  REPLACE  ...mehr çand mahacan ve
+      metin  : teca sing
+      duyulan: çekasing
+  REPLACE  ...hiçbir tanıdığı olmayan hukukçu
+      metin  : konger de
+      duyulan: kongrede
+  REPLACE  ...razı oldu çünkü her
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...olacaktı cyril john radcliffe
+      metin  : galler
+      duyulan: da guller
+  REPLACE  ...galler in kuzeyinde doğmuş
+      metin  : haileybury
+      duyulan: haleybury
+  INSERT   ...adamdı baroda hızla yükseldi
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...davalarının en pahalı isimlerinden
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hiç arazi ölçümü yapmamıştı
+      metin  : pencabın
+      duyulan: penjab ın
+  REPLACE  ...hindistan ı görmemişti temmuz
+      metin  : delhi ye
+      duyulan: de deliye
+  REPLACE  ...bahçe içinde hükümet konutuydu
+      metin  : vantilatörlerin
+      duyulan: ventilatörlerin
+  REPLACE  ...kaybetti kilo verdi yanında
+      metin  : pencap
+      duyulan: penjab
+  DELETE   ...sınırı belirleyecekti cümlenin sonunda
+      metin  : ek
+      duyulan: (YOK — atlanmış)
+  DELETE   ...görev tanımında yazmıyordu radcliffe
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bengal komisyonu kalküta da
+      metin  : pencap
+      duyulan: penjab
+  REPLACE  ...ve en verimli çiftlikleri
+      metin  : pencabın
+      duyulan: penjab ın
+  REPLACE  ...savundular bu talebin nüfus
+      metin  : aritmetiğiyle
+      duyulan: aritmetiyle
+  DELETE   ...ve ekliyordu bulmalarını istemiyorum
+      metin  : yıl sonra w h
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...en azından tarafsızdı auden
+      metin  : ın
+      duyulan: in
+  REPLACE  ...personelle yapılmıştı daha önemlisi
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...köyün dinsel bileşimini gösteren
+      metin  : nötr
+      duyulan: nö tür
+  REPLACE  ...dı i kisi birbirinden
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...kisi birbirinden kilometer uzaktaydı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...pencap taki kararın gerekçesi
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...a yazılması beklenirdi radcliffe
+      metin  : uch nehrinin
+      duyulan: uç nehri nin
+  REPLACE  ...kalan gurdaspur batala ve
+      metin  : pathankot
+      duyulan: patankot
+  REPLACE  ...gündeme geldi masada mountbatten
+      metin  : cevaherlal
+      duyulan: cevaharlal
+  REPLACE  ...vali nin danışmanı v
+      metin  : p
+      duyulan: b
+  REPLACE  ...bu buluşmaya dair not
+      metin  : kaleme
+      duyulan: kalemi
+  REPLACE  ...yemek masasında konuşulan ayrıntı
+      metin  : yüzbinlerce
+      duyulan: binlerce
+  REPLACE  ...almak için müslüman çoğunluklu
+      metin  : murşidabad
+      duyulan: murshidabad
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: tarih-2026-10-07.duyulan.txt

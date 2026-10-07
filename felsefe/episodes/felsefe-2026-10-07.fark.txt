@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-07.mp3
+
+beklenen 2094 kelime | duyulan 2112 kelime | eşleşme %96.5
+sayı ifadesi: metinde 262, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...en sıkıcı buçuk saati
+      metin  : aidat
+      duyulan: aydat
+  REPLACE  ...asıl soru şekil değiştiriyor
+      metin  : soru
+      duyulan: bu
+  DELETE   ...söyleyecek yılında fransa kralı
+      metin  : lui
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yani hoşgörü üstüne mektup
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adı konmadan basıldı locke
+      metin  : un
+      duyulan: ın
+  REPLACE  ...bağlayan çok güçlü argümandı
+      metin  : ve locke
+      duyulan: vellocke
+  REPLACE  ...anar bu istisnaların bugünkü
+      metin  : gözle
+      duyulan: gözde
+  INSERT   ...gözle savunulacak yeri yok
+      metin  : (yok)
+      duyulan: i kisi
+  INSERT   ...veriyor yaklaşık yıl sonra
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...fikir değildir eylemin fitilidir
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...korunan şeyin dışına taşmıştır
+      metin  : locke
+      duyulan: lok
+  DELETE   ...locke un karşılıklılık ölçütüyle
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ayrılığın son cümlesiyle kapanır
+      metin  : lekum dinukum ve liye din
+      duyulan: ل ك م د ن ك م و ل ي د يه م
+  REPLACE  ...eder ve tam oradan
+      metin  : birlikte
+      duyulan: birbirlikte
+  REPLACE  ...açısından önemli yorum hattı
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...olan ebu mansur el
+      metin  : matüridi
+      duyulan: maturidi
+  REPLACE  ...el matüridi den geçer
+      metin  : matüridi nin
+      duyulan: maturidinin
+  REPLACE  ...bulunduğu yeer kılıç ulaşmaz
+      metin  : locke un
+      duyulan: lokin
+  REPLACE  ...argümanın çok benzeri yüzyılda
+      metin  : maveraünnehir
+      duyulan: maveray nehir
+  INSERT   ...yaşadı fatih sultan mehmed
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...patrikliğini yeniden kurdu ve
+      metin  : patriğe
+      duyulan: patriye
+  INSERT   ...üzerinde geniş yetki tanıdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yetki tanıdı bosna da
+      metin  : fransisken
+      duyulan: fransızken
+  REPLACE  ...da fransisken rahiplerine verdiği
+      metin  : ahidnamede
+      duyulan: ahitnamede
+  REPLACE  ...değildi hiyerarşiydi gayrimüslim tebaa
+      metin  : cizye
+      duyulan: ciziye
+  INSERT   ...kadar dizi kısıtla yaşardı
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...farklı dil farklı ibadet
+      metin  : serbestti
+      duyulan: serbesti
+  REPLACE  ...değildir hepsinin eşiği var
+      metin  : locke un
+      duyulan: lokkun
+  DELETE   ...locke un eşiği karşılıklılıktı
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  INSERT   ...avusturyalı filozoftu karl popper
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...girip girmeyi kabul etmesidir
+      metin  : locke
+      duyulan: lok
+  INSERT   ...biçimde aynı yeer bakıyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve adı mücadeleci demokrasi
+      metin  : terimi
+      duyulan: termi de
+  REPLACE  ...mülteci olan hukukçu karl
+      metin  : lövenştayn
+      duyulan: löwenstein
+  INSERT   ...yetki fiilen kez kullanıldı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kullanıldı aşırı sağ parti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...olan ize yasaklanmayan davadır
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...en tehlikeli halkasına geliyoruz
+      metin  : paradoksun
+      duyulan: paradoxun
+  REPLACE  ...aslında aynı mesele gündelik
+      metin  : haliyle
+      duyulan: hali ile
+  REPLACE  ...dönüştüğünde şey ifade eder
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: felsefe-2026-10-07.duyulan.txt

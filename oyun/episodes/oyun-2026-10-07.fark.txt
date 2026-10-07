@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-07.mp3
+
+beklenen 1560 kelime | duyulan 1562 kelime | eşleşme %94.4
+sayı ifadesi: metinde 212, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kurdu yılının haziran ayında
+      metin  : reykyavik
+      duyulan: reykjavík
+  REPLACE  ...kişi şirket kurdu adını
+      metin  : ccp
+      duyulan: gcp
+  REPLACE  ...ccp games koydular kısaca
+      metin  : ccp
+      duyulan: gcp
+  REPLACE  ...sunucu kalabalıklaşınca aynı kıtanın
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...kıtanın nüshası açılıyordu her
+      metin  : nüshada
+      duyulan: nüşada
+  REPLACE  ...sonsuzdu çünkü dünya çoğaltılabilirdi
+      metin  : ccp
+      duyulan: dçsp
+  REPLACE  ...buldular masa oyunu satarak
+      metin  : ccp
+      duyulan: dtptp
+  REPLACE  ...ccp nin ilk ürünü
+      metin  : haytüspil
+      duyulan: high to spil
+  INSERT   ...oyunuydu i zlanda da
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...neredeyze her evden girmek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...eve evrenin adı new
+      metin  : eden
+      duyulan: aden
+  REPLACE  ...duruyor tokyo daki pilotla
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...evren demek tek ekonomi
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...gövdesindeki metal yerde tarafından
+      metin  : asteroitten
+      duyulan: asteroikten
+  REPLACE  ...bu zincirin işlemesine bağlı
+      metin  : ccp
+      duyulan: dhsp
+  REPLACE  ...tuhaf ayağı da var
+      metin  : ccp
+      duyulan: nica çp
+  REPLACE  ...çevrilebiliyor bunun sonucu şudur
+      metin  : eve
+      duyulan: ev
+  REPLACE  ...durup şunu söylemek gerek
+      metin  : ccp
+      duyulan: gcp
+  INSERT   ...sektörün konuşacağı olayla anlaşıldı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...in tanınan şirketlerinden ubiqua
+      metin  : seraph tı
+      duyulan: seraftı
+  REPLACE  ...ubiqua seraph tı kısaca
+      metin  : seraph
+      duyulan: seraf
+  REPLACE  ...oyuncunun karakter adı mirial
+      metin  : di
+      duyulan: dı
+  REPLACE  ...gemilerinden bazıları duruyordu mirial
+      metin  : in
+      duyulan: ın
+  REPLACE  ...di başındaki karakterin adı
+      metin  : istvaan shogaatsu
+      duyulan: i stvaan shogatsu
+  REPLACE  ...için konuşulan ücret isk
+      metin  : ydı
+      duyulan: ydi
+  REPLACE  ...kanıt istiyordu hedefin cesedi
+      metin  : eve de
+      duyulan: evde
+  REPLACE  ...öyle görünüyordu örgütün operatifleri
+      metin  : seraph a
+      duyulan: serafa
+  REPLACE  ...çıktılar i çlerinden arenis
+      metin  : xemdal
+      duyulan: iksemdal
+  INSERT   ...kimse elini uzatmadı beklediler
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...tek kelimelik mesaj düştü
+      metin  : nicole
+      duyulan: nikol
+  REPLACE  ...hareket etti arenis mirial
+      metin  : i
+      duyulan: ı
+  REPLACE  ...etti mirial donanma tipi
+      metin  : apocalypse
+      duyulan: apokalipse
+  REPLACE  ...teslim edildi aynı dakikalarda
+      metin  : seraph ın
+      duyulan: serafın
+  REPLACE  ...dokunmadıkları her şeyi aldılar
+      metin  : gemiler
+      duyulan: yemiler
+  INSERT   ...sipariş ücreti olan isk
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...kısım bundan sonra olanıdır
+      metin  : seraph ın
+      duyulan: serafın
+  REPLACE  ...olanıdır seraph ın oyuncuları
+      metin  : ccp
+      duyulan: gcp
+  INSERT   ...yapılan basit unutkanlıktan çıktı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...lejyonu vardı diğer yanda
+      metin  : cfc
+      duyulan: gfc yi
+  REPLACE  ...ve geriliyordu immensea bölgesinde
+      metin  : b rbeşrb
+      duyulan: br harbi
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-10-07.duyulan.txt

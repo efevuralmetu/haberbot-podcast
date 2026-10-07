@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-07.mp3
+
+beklenen 1948 kelime | duyulan 1959 kelime | eşleşme %96.3
+sayı ifadesi: metinde 233, duyulanda 206  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sonuçta ortaya çıkan şeye
+      metin  : sinsityotrofoblast
+      duyulan: sinsitiotrofoblas
+  REPLACE  ...zarla kaynatıp yok olur
+      metin  : plasenta
+      duyulan: placenta
+  REPLACE  ...şekillendiren hücer tipi ve
+      metin  : plasenta
+      duyulan: placenta
+  REPLACE  ...yerleşmiş virüs kalıntılarına endojen
+      metin  : retrovirüs
+      duyulan: retrovirus
+  INSERT   ...i nsan genomunun yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...tanınabilecek kadar sağlam kalmış
+      metin  : retrovirüs
+      duyulan: retrovirus
+  REPLACE  ...okunamayan hiçbir işe yaramayan
+      metin  : moloz
+      duyulan: molos
+  REPLACE  ...yaramayan moloz neredeyze tamamı
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...ne yapacağını bilemediği tuhaf
+      metin  : gözlem
+      duyulan: gözden
+  REPLACE  ...bilemediği tuhaf gözlem elektron
+      metin  : mikroskobuyla
+      duyulan: mikroskopuyla
+  REPLACE  ...mikroskobuyla incelenen sağlıklı insan
+      metin  : plasentalarında
+      duyulan: placentalarında
+  INSERT   ...virüs benzeri parçacıklar görülüyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yayımlanan çalışma bunları normal
+      metin  : plasentalarda
+      duyulan: placentalarda
+  REPLACE  ...hastalık yoktu bulaşma yoktu
+      metin  : plasenta
+      duyulan: placenta
+  REPLACE  ...görünürde hiçbir nedeni olmadan
+      metin  : retrovirüs
+      duyulan: retrovirus
+  REPLACE  ...geçti ve bekledi açıklaması
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...grup insan genomundaki endojen
+      metin  : retrovirüs
+      duyulan: retrovirus
+  REPLACE  ...bedende neredeyze tek yerde
+      metin  : plasentada
+      duyulan: placentada
+  REPLACE  ...içinde olduğu başka ekip
+      metin  : plasentada
+      duyulan: placentada
+  REPLACE  ...yayımladıkları çalışmada bu proteini
+      metin  : plasentayla
+      duyulan: placenta ile
+  DELETE   ...anlamına gelen kelimeden türedi
+      metin  : sinsitin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...girerken kullandığı mekanizmanın aynısıdır
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...kapı tokmağı işlevi görüyordu
+      metin  : plasentada
+      duyulan: placentada
+  REPLACE  ...sonra bulundu bambaşka endojen
+      metin  : retrovirüs
+      duyulan: retrovirus
+  REPLACE  ...retrovirüs ailesinden gelen yine
+      metin  : plasentaya
+      duyulan: placentaya
+  REPLACE  ...hücer kaynatan zarf geni
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...genler ne kadar eski
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...yıldan fazla süredir soyumuzda
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...zarf kökenli genleri vardır
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...vardır sinsitin a ve
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...a ve sinsitin b
+      metin  : düpresuar
+      duyulan: da dupresuar
+  REPLACE  ...b düpresuar ve arkadaşları
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...embriyo büyümüyor sonra duruyordu
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...var supresin adıyla bilinir
+      metin  : sinsitinin
+      duyulan: sincetin in
+  REPLACE  ...farenin genlerinde saklıdır farenin
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...sinsitin a sı bizim
+      metin  : sinsitin
+      duyulan: sincetin
+  REPLACE  ...akraba bile değildir başka
+      metin  : retrovirüs
+      duyulan: retrovirus
+  REPLACE  ...oldu son yılda başta
+      metin  : tiyeri haydman
+      duyulan: thierry heydman
+  REPLACE  ...grup memeli genomlarını bu
+      metin  : gözle
+      duyulan: gözde
+  REPLACE  ...etoburlar arasında alışılmadık olan
+      metin  : plasenta
+      duyulan: placenta
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-10-07.duyulan.txt

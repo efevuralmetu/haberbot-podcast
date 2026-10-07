@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-07.mp3
+
+beklenen 2465 kelime | duyulan 2468 kelime | eşleşme %94.3
+sayı ifadesi: metinde 418, duyulanda 285  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kokusu ve binlerce yıldır
+      metin  : buğday ile
+      duyulan: buğdayla
+  REPLACE  ...koni biçimli taş kuleleer
+      metin  : nurage
+      duyulan: nurace
+  REPLACE  ...kardeşliği nden yani kutsal
+      metin  : tespih
+      duyulan: tesbih
+  REPLACE  ...dini dernekten kiralıyorlardı adları
+      metin  : sisinnio poddi
+      duyulan: sisiniopodi
+  REPLACE  ...levhalar tarlanın sahibi covanni
+      metin  : korrias
+      duyulan: corias
+  REPLACE  ...iç içe geçmiş daier
+      metin  : korrias
+      duyulan: corias
+  REPLACE  ...ve bölgeyi tanıyan arkeolog
+      metin  : cuzeppe
+      duyulan: giuseppe
+  REPLACE  ...böyle şey yoktu adanın
+      metin  : tunç
+      duyulan: tunt
+  INSERT   ...kadar bronz heykelciklerle tanınıyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...uzak olmayan narbolia köyündeki
+      metin  : banatou
+      duyulan: banatu
+  REPLACE  ...dönüştürmüştü i lk kazıları
+      metin  : cuzeppe atsori
+      duyulan: te giuseppe azzori
+  INSERT   ...azdı asıl sistemli çalışma
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tanınmış ismi devreye girdi
+      metin  : covanni
+      duyulan: kovanli
+  INSERT   ...girdi covanni lilliu ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...henüz öğrenci olan raimondo
+      metin  : tsukka
+      duyulan: tzucca
+  REPLACE  ...fark edip yetkilileri uyardı
+      metin  : tsukka
+      duyulan: tzucca
+  REPLACE  ...ve ile arasında carlo
+      metin  : tronketti
+      duyulan: tronchetti
+  REPLACE  ...tronketti ile maria luisa
+      metin  : ferrarese çeruti
+      duyulan: ferrara seceruti
+  REPLACE  ...vardı gövdeler kalkanlar ayaklar
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...kırıktı binlerce parça sanki
+      metin  : kasten
+      duyulan: kastan
+  INSERT   ...ne olduğuydu bedini nin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu şeritte mezar çıktı
+      metin  : tronketti
+      duyulan: tronchetti
+  INSERT   ...yılan gibi kıvrılan alanda
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...yatmıyorlardı aslında oturuyorlardı dizler
+      metin  : göğse
+      duyulan: gövse
+  REPLACE  ...şu oldu burada yatanlar
+      metin  : nuragik
+      duyulan: nuracık
+  REPLACE  ...çünkü istisnası dikkat çekiciydi
+      metin  : tronketti
+      duyulan: tronchetti
+  INSERT   ...mezarlıktan alınan dişlerin incelenmesinde
+      metin  : (yok)
+      duyulan: inde
+  INSERT   ...kesici diş saptandı bu
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...nın başka topluluklarında nadiren
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...çember halinde radyokarbonla i
+      metin  : ö
+      duyulan: lök
+  INSERT   ...bugün hala sardunyalıların yaklaşık
+      metin  : (yok)
+      duyulan: inde
+  REPLACE  ...üniversite kanadını temsil eden
+      metin  : lilliu
+      duyulan: lillio
+  INSERT   ...ne olduğu bilinerek sürüldü
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...şey durdu tarladan çıkarılan
+      metin  : tonluk
+      duyulan: tonlu
+  DELETE   ...ileriye boyları meter ile
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yani tunç çağı insanının
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...buçuk katı yuvarlak heykel
+      metin  : tekniğiyle
+      duyulan: tekniği ile
+  INSERT   ...ya da kol koruması
+      metin  : (yok)
+      duyulan: nok
+  REPLACE  ...başın üzerinde köşeleri yuvarlatılmış
+      metin  : dikdörtgen
+      duyulan: dik
+  REPLACE  ...büyütülmüş hali lazio daki
+      metin  : vulçi
+      duyulan: vulci
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 101
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: arkeoloji-2026-10-07.duyulan.txt

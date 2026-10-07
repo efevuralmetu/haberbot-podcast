@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-07.mp3
+
+beklenen 1888 kelime | duyulan 1903 kelime | eşleşme %93.0
+sayı ifadesi: metinde 319, duyulanda 197  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...görmek çok ender şeydir
+      metin  : lesoto
+      duyulan: lesotho
+  REPLACE  ...çevrili denize çıkışı olmayan
+      metin  : kilometrekarelik
+      duyulan: lik
+  REPLACE  ...olması değil yukarıda olması
+      metin  : lesoto
+      duyulan: lesotho
+  REPLACE  ...en alçak noktası senku
+      metin  : ırmağının makaleng
+      duyulan: irmağı nın makalenk
+  REPLACE  ...yolu sayılacağı rakımdır toprağının
+      metin  : sekseninden
+      duyulan: inden
+  REPLACE  ...en yüksek noktası tabana
+      metin  : ntlenyana
+      duyulan: entilen yana
+  REPLACE  ...afrika nın iç yaylaları
+      metin  : sesoto
+      duyulan: sesotho
+  REPLACE  ...dilinde lifakane zulu dilinde
+      metin  : mfekane
+      duyulan: enfekane
+  REPLACE  ...tepede küçük topluluğun başında
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...dolaylarında doğmuş sığır baskınlarıyla
+      metin  : ad
+      duyulan: at
+  REPLACE  ...buta bute kuşatmalara dayanamıyordu
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...daha savunulabilir yer aradı
+      metin  : temmuzunda
+      duyulan: temmuz umda
+  REPLACE  ...vardı bu oraya taba
+      metin  : bosiu
+      duyulan: bosyu
+  REPLACE  ...taba bosiu adını verdi
+      metin  : gece dağı
+      duyulan: gecedağ
+  REPLACE  ...çıkılır en işlek olanı
+      metin  : kubelu
+      duyulan: kübelü
+  REPLACE  ...kuşatılanlar ize susuzluktan ölmüyordu
+      metin  : moşweşwe
+      duyulan: moşveşve
+  INSERT   ...aldı denemeler az değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...az değildi kuzeyden gelen
+      metin  : ndebele
+      duyulan: nedebele
+  REPLACE  ...ve geri püskürtüldü ardından
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...yapılmış incelik değil yöntemdi
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...şey ordu değil sığınaktı
+      metin  : lifakane den
+      duyulan: lifakhaneden
+  REPLACE  ...i ngiliz valisi george
+      metin  : cathcart
+      duyulan: cutcart
+  REPLACE  ...sığır baskınlarının bedeli olarak
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...alacağını söyledi verilmedi aralık
+      metin  : berea
+      duyulan: de bereya
+  REPLACE  ...zorunda kaldı o akşam
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...için elimden geleni yapacağım
+      metin  : cathcart
+      duyulan: cutcart
+  REPLACE  ...gibi kabul edip çekildi
+      metin  : moşweşwe
+      duyulan: moşveşve
+  REPLACE  ...yürümedi batıdaki bur cumhuriyeti
+      metin  : orange
+      duyulan: oranj
+  REPLACE  ...sığır değil topraktı kaledon
+      metin  : ırmağının
+      duyulan: irmağı nın
+  INSERT   ...verimli buğday yetişen düzlükler
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kalıcı olarak yitirdi bugün
+      metin  : lesoto
+      duyulan: lesotho
+  INSERT   ...imparatorluğa başvurdu ve mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i ngiliz koruması alındı
+      metin  : moşweşwe
+      duyulan: moşveş ve
+  INSERT   ...tam yıl sonra mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çünkü o yıllarda battaniye
+      metin  : lesoto
+      duyulan: lesotho
+  INSERT   ...giysi oluyordu anlatılana göer
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...oluyordu anlatılana göer tüccar
+      metin  : moşweşwe ye
+      duyulan: moşveşveye
+  REPLACE  ...ulusun kıyafetine dönüştü dahası
+      metin  : basoto
+      duyulan: basotho
+  REPLACE  ...vardır en saygın tür
+      metin  : seanamarena
+      duyulan: shona marena
+  INSERT   ...güney afrika daki fabrikadır
+      metin  : (yok)
+      duyulan: te
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 95 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: seyahat-2026-10-07.duyulan.txt

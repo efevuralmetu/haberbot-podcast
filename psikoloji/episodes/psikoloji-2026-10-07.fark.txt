@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-07.mp3
+
+beklenen 1155 kelime | duyulan 1164 kelime | eşleşme %97.1
+sayı ifadesi: metinde 126, duyulanda 102  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : eylül den
+      duyulan: don eylülden
+  REPLACE  ...ve otoparka iniyor arabasına
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...var ulaşılabilirlik yanlılığı amos
+      metin  : tverski
+      duyulan: tversky
+  INSERT   ...tverski ile daniel kahneman
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hayatta kalmak için tasarlanmış
+      metin  : makineyle
+      duyulan: makine ile
+  REPLACE  ...makine kolaylığı veri sanıyor
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...nsanlara sordular i ngilizcede
+      metin  : r harfiyle
+      duyulan: rer harfi ile
+  REPLACE  ...mi daha çok harfi
+      metin  : r
+      duyulan: er
+  REPLACE  ...mi kahır kahır çoğunluk
+      metin  : r
+      duyulan: ri
+  REPLACE  ...dizilmiş sözlük gibi tutması
+      metin  : r
+      duyulan: rever
+  REPLACE  ...saniyeler içinde sıralamanı sağlıyor
+      metin  : river
+      duyulan: rever
+  REPLACE  ...river road rain harfi
+      metin  : r
+      duyulan: er
+  REPLACE  ...barbara combs ile paul
+      metin  : slovik
+      duyulan: slovic da
+  INSERT   ...bedel ve kez sayıldı
+      metin  : (yok)
+      duyulan: doğum
+  INSERT   ...ve kez sayıldı eylül
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...trafiği arttı alman psikolog
+      metin  : gerd gigerentser
+      duyulan: gert gigerentzer
+  REPLACE  ...michael sivak ile michael
+      metin  : flannagan
+      duyulan: flanagan
+  REPLACE  ...katını satın almış oldu
+      metin  : gigerentser
+      duyulan: gigerenser
+  REPLACE  ...bu ne kadar kolay
+      metin  : geldi ile
+      duyulan: geldiğiyle
+  REPLACE  ...olduğunu hatırlamak tek başına
+      metin  : terminaldeki
+      duyulan: termineldeki
+  REPLACE  ...otoparka inmekten alıkoymaya yeter
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-10-07.duyulan.txt

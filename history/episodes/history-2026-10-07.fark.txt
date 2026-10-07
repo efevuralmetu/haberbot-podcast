@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-07.mp3
+
+beklenen 3855 kelime | duyulan 3856 kelime | eşleşme %98.6
+sayı ifadesi: metinde 269, duyulanda 214  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...split a railway network
+      metin  : parcelled
+      duyulan: parceled
+  DELETE   ...have to be invented
+      metin  : a border
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...would sit side din
+      metin  : muhammad
+      duyulan: mohammed
+  REPLACE  ...side din muhammad and
+      metin  : muhammad
+      duyulan: mohammed
+  INSERT   ...would be citizens of
+      metin  : (yok)
+      duyulan: vank
+  REPLACE  ...of wales educated at
+      metin  : haileybury
+      duyulan: halybury
+  INSERT   ...district yet their lands
+      metin  : (yok)
+      duyulan: the
+  DELETE   ...the end of the
+      metin  : thirties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...a political instrument communal
+      metin  : organisations
+      duyulan: organizations
+  REPLACE  ...amritsar the cities lay
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...of the whole business
+      metin  : baer
+      duyulan: bear
+  REPLACE  ...was another decision taken
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...subdivisions east of the
+      metin  : ujh
+      duyulan: ujjh
+  REPLACE  ...pathankot to india and
+      metin  : shakargarh
+      duyulan: shikargar
+  REPLACE  ...of august over a
+      metin  : lunch in delhi
+      duyulan: luncheon deli
+  REPLACE  ...the governor general s
+      metin  : adviser
+      duyulan: advisor
+  REPLACE  ...and firozpur along with
+      metin  : neighbouring
+      duyulan: neighboring
+  REPLACE  ...any formal session a
+      metin  : detail discussed
+      duyulan: detailed disgust
+  REPLACE  ...to india in exchange
+      metin  : khulna
+      duyulan: kullna
+  REPLACE  ...port and to the
+      metin  : karnaphuli
+      duyulan: karnafuli
+  REPLACE  ...madhopur headworks inside india
+      metin  : and
+      duyulan: then
+  REPLACE  ...inside pakistan a hydrological
+      metin  : whole
+      duyulan: hole
+  REPLACE  ...delhi he gathered nehru
+      metin  : vallabhbhai
+      duyulan: vallabhai
+  REPLACE  ...burning for days living
+      metin  : rumours
+      duyulan: rumors
+  REPLACE  ...would end up the
+      metin  : rumours
+      duyulan: rumors
+  REPLACE  ...the worst possible moment
+      metin  : in
+      duyulan: and
+  REPLACE  ...of major general thomas
+      metin  : wynford
+      duyulan: winford
+  REPLACE  ...stretched for hundreds of
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...formed that stretched for
+      metin  : kilometres ox carts
+      duyulan: kilometers oxcarts
+  REPLACE  ...and was made a
+      metin  : viscount
+      duyulan: recount
+  DELETE   ...and bangladesh moer than
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in the chittagong hil
+      metin  : tracts
+      duyulan: tracks
+  REPLACE  ...the border a few
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...runs for moer than
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...never seen the region
+      metin  : working
+      duyulan: gorking
+  REPLACE  ...and it goes stil
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...stil nöron history de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: bhugun kubulmun sono na galdik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: birhikaya de yeni dan bulushma kuzeer
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: history-2026-10-07.duyulan.txt

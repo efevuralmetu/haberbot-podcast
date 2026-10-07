@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-07.mp3
+
+beklenen 3390 kelime | duyulan 3377 kelime | eşleşme %98.9
+sayı ifadesi: metinde 83, duyulanda 79  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...no longer afford it
+      metin  : pictuer
+      duyulan: after
+  REPLACE  ...afford it pictuer a
+      metin  : residents
+      duyulan: residence
+  REPLACE  ...in turkish the word
+      metin  : hoşgörü
+      duyulan: hoshguri
+  REPLACE  ...befoer it people said
+      metin  : müsamaha
+      duyulan: musamaha
+  REPLACE  ...said müsamaha they said
+      metin  : tahammül
+      duyulan: tahamul
+  REPLACE  ...said tahammül they said
+      metin  : tolerans
+      duyulan: tolerance
+  REPLACE  ...a hidden insult which
+      metin  : goethe
+      duyulan: geerta
+  REPLACE  ...that society into its
+      metin  : programme
+      duyulan: program
+  REPLACE  ...the french king louis
+      metin  : the
+      duyulan: xiv
+  REPLACE  ...placed theer as tolerance
+      metin  : s
+      duyulan: is
+  REPLACE  ...of the argument today
+      metin  : society
+      duyulan: he
+  REPLACE  ...this faith is the
+      metin  : assent
+      duyulan: ascent
+  REPLACE  ...point is immediate an
+      metin  : assent
+      duyulan: ascent
+  REPLACE  ...muslim subjects paid the
+      metin  : cizye
+      duyulan: siziyya
+  REPLACE  ...known lines attributed to
+      metin  : yunus
+      duyulan: eunice
+  REPLACE  ...with the same eye
+      metin  : is
+      duyulan: as
+  INSERT   ...and arrived somewheer similar
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...by the jurist karl
+      metin  : loewenstein
+      duyulan: lowenstein
+  INSERT   ...that ruling in place
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...that it found the
+      metin  : party s
+      duyulan: parties
+  REPLACE  ...of the sentence of
+      metin  : popper s
+      duyulan: paupers
+  REPLACE  ...violence is theer a
+      metin  : programme
+      duyulan: program
+  REPLACE  ...go back to the
+      metin  : residents
+      duyulan: residence
+  REPLACE  ...or hands and every
+      metin  : judgement
+      duyulan: judgment
+  DELETE   ...people who mean harm
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-10-07.duyulan.txt

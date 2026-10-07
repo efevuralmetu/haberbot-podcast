@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-07.mp3
+
+beklenen 1311 kelime | duyulan 1336 kelime | eşleşme %94.7
+sayı ifadesi: metinde 268, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ayak üzerine oturan çan
+      metin  : kulesiyle
+      duyulan: kulesi ile
+  REPLACE  ...oturan çan kulesiyle semtin
+      metin  : siluetini
+      duyulan: silüetini
+  INSERT   ...ölenlerin adları yazılıydı yapımına
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...adları yazılıydı yapımına başlanmış
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i stanbul daki askeri
+      metin  : ataşesi
+      duyulan: ateşesi
+  REPLACE  ...daki askeri ataşesi albay
+      metin  : peçkov
+      duyulan: pechkov
+  INSERT   ...seçimi tesadüf değildi mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nazırı enver paşa verdi
+      metin  : (yok)
+      duyulan: yon
+  INSERT   ...süvari alayı üstlendi sabah
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...soyadı kanunu ndan sonra
+      metin  : uzkınay
+      duyulan: utkınay
+  INSERT   ...açılması için uğraşmış mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...a getiren adamdan sigmund
+      metin  : vaynberg den
+      duyulan: weinberg
+  INSERT   ...sigmund vaynberg den öğrenmişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gitti yanında başkası vardı
+      metin  : mösyö
+      duyulan: monsieur
+  REPLACE  ...kurum olduğuna bakmak gerekir
+      metin  : ayastefanos
+      duyulan: ayasdefanos
+  INSERT   ...dönüşte benzerinin kurulmasını emretti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...resmi sinema kurumuydu başına
+      metin  : vaynberg
+      duyulan: weinberg
+  INSERT   ...saydığı törenleri filme çekmek
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...geçince romanya vatandaşı olan
+      metin  : vaynberg
+      duyulan: weinberg
+  REPLACE  ...başına fuat bey geçti
+      metin  : vaynberg
+      duyulan: weinberg
+  REPLACE  ...deneme himmet ağa nın
+      metin  : i zdivacı
+      duyulan: izdivacı de
+  REPLACE  ...yıllar içinde kendi kendine
+      metin  : bozunup
+      duyulan: bozulup
+  INSERT   ...meyilli arşivdi kırılma noktası
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...acı dipnotu var temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kez yazan kişi nurullah
+      metin  : tilgen di
+      duyulan: tilgendi doğun
+  INSERT   ...nurullah tilgen di temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...çekimine bağladı yıl sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonra çerçeve çatlamaya başladı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yanı şuydu fuat bey
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...hiç görmediklerini söyledi kuşku
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve arşiv belgesiyle kapandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...osmanlı arşivinde prof dr
+      metin  : süleyman
+      duyulan: suleyman
+  REPLACE  ...yayını olan sinema haberleri
+      metin  : gazetesinin nüshasını
+      duyulan: gazetesi nin nüşasını
+  INSERT   ...kendi yayın organıydı ve
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...organıydı ve aralığına tarihlenen
+      metin  : nüshada
+      duyulan: nüşada
+  REPLACE  ...duyuruluyordu programda film vardı
+      metin  : moskof
+      duyulan: moskov
+  REPLACE  ...moskof abidesinin tahribi yani
+      metin  : ayastefanos
+      duyulan: ayasdefanos
+  REPLACE  ...yabancı teknik destekle çektiği
+      metin  : aktüalite
+      duyulan: aktualite
+  REPLACE  ...kimileri daha geriye manaki
+      metin  : kardeşler in
+      duyulan: kardeşlerin te
+  REPLACE  ...in rumeli de çektiği
+      metin  : i p eğiren
+      duyulan: ip eğren
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-10-07.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-07.mp3
+
+beklenen 2663 kelime | duyulan 2663 kelime | eşleşme %92.6
+sayı ifadesi: metinde 365, duyulanda 264  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...okumak için tek yol
+      metin  : rahibe
+      duyulan: rahibi
+  DELETE   ...kadının bugün meksika banknotlarında
+      metin  : olmasının
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...meksika banknotlarında olmasının hikayesi
+      metin  : mexico
+      duyulan: mesiko
+  REPLACE  ...yerleşim var adı nepantla
+      metin  : nahuatl
+      duyulan: nahvatlı
+  REPLACE  ...ortasında anlamına gelir yüzyılın
+      metin  : ortasında
+      duyulan: arasında
+  REPLACE  ...işleyen çiftliklerin i spanyolca
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...değiştirip nepantla de sor
+      metin  : huana inés
+      duyulan: juana inez
+  REPLACE  ...huana inés de la
+      metin  : krus
+      duyulan: cruz
+  REPLACE  ...göer yılının aralık ayında
+      metin  : inés
+      duyulan: inez
+  REPLACE  ...çocuğun dayısı ile yengesi
+      metin  : görünüyordu
+      duyulan: duruyordu
+  REPLACE  ...yazan cizvit rahip diego
+      metin  : kayeha
+      duyulan: calleja
+  INSERT   ...vermişti bugün çoğu araştırmacı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bile kesin bilmediğimiz adı
+      metin  : huana inés
+      duyulan: juana inez
+  REPLACE  ...adı huana inés de
+      metin  : asbahe y ramires
+      duyulan: asbaha ya mires
+  REPLACE  ...y ramires de santillana
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...babası pedro manuel de
+      metin  : asbahe bask
+      duyulan: asbaha bas
+  REPLACE  ...yer tutmadı annesi isabel
+      metin  : ramires
+      duyulan: ramirez
+  REPLACE  ...göer fazlasıyla bağımsız kadındı
+      metin  : huana inés
+      duyulan: juana inez
+  REPLACE  ...inés çocukluğunu dedesi pedro
+      metin  : ramires
+      duyulan: ramirez
+  REPLACE  ...dedesi pedro ramires in
+      metin  : panoayán
+      duyulan: panuayan
+  REPLACE  ...okuma derslerine gidiyordu küçük
+      metin  : huana
+      duyulan: juana
+  DELETE   ...istediğini söyledi bu doğru
+      metin  : değildi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu ayrıntılar çocuğun kendi
+      metin  : zihniyle
+      duyulan: eline
+  REPLACE  ...dair söz işitmişti peynir
+      metin  : yemeyi
+      duyulan: yemeği
+  DELETE   ...bitirmezse yeniden kesecekti bilgisizlikle
+      metin  : süslenmiş
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...latince yi yanına verilen
+      metin  : martín de
+      duyulan: martinde
+  REPLACE  ...kadar hızlı ilerletti sonra
+      metin  : mexico
+      duyulan: meksiko
+  REPLACE  ...kapıdan içeri hangi bedenle
+      metin  : girdiğiydi
+      duyulan: girdiydi
+  REPLACE  ...civarında muhtemelen akrabalarının aracılığıyla
+      metin  : mexico
+      duyulan: meksiko
+  REPLACE  ...mansera markizi eşi leonor
+      metin  : karreto
+      duyulan: careto
+  REPLACE  ...en üst mevkiindeydi leonor
+      metin  : karreto
+      duyulan: careto
+  REPLACE  ...görür görmez yanına aldı
+      metin  : huana inés
+      duyulan: juana ines
+  REPLACE  ...memurlar matematikle uğraşan mühendisler
+      metin  : huana inés
+      duyulan: juana ines
+  REPLACE  ...kalmadı verilen lakaplar şişmeye
+      metin  : başladı i lham
+      duyulan: ilham
+  REPLACE  ...sınamak için şehrin alimleri
+      metin  : toplandı
+      duyulan: anlandı
+  REPLACE  ...soracaktı karşısında ize kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...kurdu olmaktan başka hiçbir
+      metin  : unvanı
+      duyulan: ünvanı
+  INSERT   ...başka hiçbir unvanı olmayan
+      metin  : (yok)
+      duyulan: sine
+  DELETE   ...kadın vardı bu sınav
+      metin  : hakkında
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yeni i spanya nın
+      metin  : yönetici
+      duyulan: keçici
+  ... ve 105 fark daha
+
+metinde olup DUYULMAYAN: 156 kelime | duyulup metinde OLMAYAN: 163
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: biyografi-2026-10-07.duyulan.txt

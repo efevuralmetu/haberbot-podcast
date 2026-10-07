@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-07.mp3
+
+beklenen 1617 kelime | duyulan 1631 kelime | eşleşme %96.1
+sayı ifadesi: metinde 253, duyulanda 172  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bütün ülkede yer buldu
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...ın şarkışla ilçesine bağlı
+      metin  : sivrialan
+      duyulan: sivriyealan
+  REPLACE  ...ama belleği şiir doluydu
+      metin  : karacaoğlan dan
+      duyulan: karatau oğlandan
+  REPLACE  ...bilinen şeyler çaresizliğin başka
+      metin  : adlarıydı
+      duyulan: adlıydı
+  REPLACE  ...hüseyin den aldı sonra
+      metin  : divriği
+      duyulan: divri
+  REPLACE  ...öğrenmedi öğrenemezdi kulakla aldı
+      metin  : belleğe
+      duyulan: belleye
+  REPLACE  ...içinde biriktirdiği divan koşma
+      metin  : deyiş
+      duyulan: değiş
+  REPLACE  ...kütüphaneye dönüştü görmeyen adamın
+      metin  : belleği
+      duyulan: belleyi
+  INSERT   ...boşaltacak yıllar yaklaşıyordu yaşında
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kayıplar geldi annesi gülizar
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...için orada olduğunu anlatacaktı
+      metin  : ağıt
+      duyulan: ağat
+  INSERT   ...çocukluğunda hüner olarak öğrenmişti
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...ize zorunluluk olarak kullanıyordu
+      metin  : martında karayaprak tan
+      duyulan: in mart ında kara yapraktan
+  REPLACE  ...dışında bilen kimse yoktu
+      metin  : kasımında
+      duyulan: in kasım ında
+  DELETE   ...ve dinlemeye değer bulmuştu
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...için haritaya bakmak yeterli
+      metin  : sivrialan
+      duyulan: sivriyaalan
+  REPLACE  ...sivrialan ile ankara arasında
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...dinler karşılığında ekmek ve
+      metin  : dam
+      duyulan: damaltı
+  INSERT   ...brahim in anlattıkları vardı
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...yazdıklarını orada okudu şiiri
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...kez açılınca arkası geldi
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...sesini yalnızca radyodan duydu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...değil işe alınmayla geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ne saz öğretmeni olarak
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  REPLACE  ...bilmeyen gözü görmeyen köy
+      metin  : aşığıydı
+      duyulan: aşırıydı
+  REPLACE  ...türküsünü de o yıllarda
+      metin  : çifteler de
+      duyulan: te çiftelerde
+  REPLACE  ...bambaşka yeer taşır kara
+      metin  : toprağı
+      duyulan: toprak ı
+  INSERT   ...de başka elleer geçti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve ressam bedri rahmi
+      metin  : eyüboğlu
+      duyulan: eyuboğlu
+  INSERT   ...karanlık dünya adıyla aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...iyi özetidir devletin hesabı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...adamın şarkısı veysel mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...veysel mart doğduğu köyde
+      metin  : sivrialan
+      duyulan: sivriyaalan
+  REPLACE  ...kadar götürmüş oldu bugün
+      metin  : sivrialan
+      duyulan: sivriyaalan
+  REPLACE  ...bugün sivrialan daki ev
+      metin  : müze
+      duyulan: müzü
+  INSERT   ...sonucunda değil yolculuğun kendisinde
+      metin  : (yok)
+      duyulan: değil
+  REPLACE  ...istediği ülke sonunda dinledi
+      metin  : sivrialan
+      duyulan: sivriyaalan
+  REPLACE  ...gidenden daha uzağa vardı
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...uzağa vardı nöron edebiyat
+      metin  : de
+      duyulan: te
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: edebiyat-2026-10-07.duyulan.txt

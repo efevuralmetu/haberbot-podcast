@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-06.mp3
+
+beklenen 1472 kelime | duyulan 1473 kelime | eşleşme %94.0
+sayı ifadesi: metinde 277, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nin i ngilteer deki
+      metin  : raf fairford üssü nde konuşlu
+      duyulan: ruff ferford üstünde konuştuğu
+  REPLACE  ...üssü nde konuşlu tüm
+      metin  : b lancer
+      duyulan: lanseer
+  REPLACE  ...ile almanya nın yıllık
+      metin  : tahvil
+      duyulan: tahfil
+  REPLACE  ...tahvil getirileri arasındaki fark
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...fark baz puana yükselirken
+      metin  : emanuel makron
+      duyulan: emmanuel macron
+  REPLACE  ...yükselirken emanuel makron ve
+      metin  : fridrih merts
+      duyulan: friedrich merz
+  REPLACE  ...avrupa komisyonu başkanı ursula
+      metin  : fon
+      duyulan: von
+  REPLACE  ...başkanı ursula fon der
+      metin  : layen
+      duyulan: leyen
+  REPLACE  ...hızlandı ukrayna dışişleri bakanı
+      metin  : andriy sibiha
+      duyulan: andrei sibihha
+  REPLACE  ...ve hindistan dan ayrı
+      metin  : kısmi
+      duyulan: kısmı
+  REPLACE  ...uygulanmasına açık olduklarını açıkladı
+      metin  : volodimir
+      duyulan: volodymyr
+  INSERT   ...rusya nın tek haftada
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kullandığını söyledi kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...ifade etti almanya başbakanı
+      metin  : merts
+      duyulan: mertz
+  INSERT   ...etti gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kayıt edilen ölü sayısı
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...cumhurbaşkanlığı seçiminin ilk turunda
+      metin  : flaviyo
+      duyulan: flavio
+  REPLACE  ...oylama başladı ve anketler
+      metin  : senato ile
+      duyulan: senatoyla
+  REPLACE  ...ulusal i stihbarat direktörü
+      metin  : jay
+      duyulan: jai
+  REPLACE  ...stihbarat direktörü jay clayton
+      metin  : ı
+      duyulan: u
+  REPLACE  ...olabileceğini söyledi anthropic ayrılan
+      metin  : jacob coxon
+      duyulan: jakub kokson
+  REPLACE  ...ayrılan daniel kokotajlo ize
+      metin  : sektördeki
+      duyulan: antropik deki
+  REPLACE  ...hale ve david masters
+      metin  : sidney
+      duyulan: sydney
+  DELETE   ...google ve openai bu
+      metin  : yılın
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yıl dolarlık kaynak ayrılırken
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...programı aracının yerlilik oranının
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...piyasalarda hafta rekorlarla açıldı
+      metin  : esenpi
+      duyulan: smp
+  REPLACE  ...değil artışla puana nasdaq
+      metin  : composite
+      duyulan: kompozit
+  INSERT   ...istihdam yalnızca artarken işsizlik
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...seviyesinde körfez deki risk
+      metin  : primi ile gyedinin
+      duyulan: primiyle nin
+  REPLACE  ...serbest bırakma kararı birbirini
+      metin  : dengeliyor
+      duyulan: alıyor
+  REPLACE  ...birbirini dengeliyor avrupa borsaları
+      metin  : pazartesiyi
+      duyulan: pazar tesihi
+  REPLACE  ...gram lira bandında bulunuyor
+      metin  : bist
+      duyulan: beist e
+  DELETE   ...enflasyon cephesinde eylül ayı
+      metin  : verisi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...gerçekleşti ve oran kasım
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...bu yana ilk kez
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...ilişkin beklentileri değiştirdi ekonomistler
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...görüyor yıl sonuna kadar
+      metin  : baz
+      duyulan: bas
+  DELETE   ...kadar baz puana kadar
+      metin  : alan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...cinsi tahvil satışı ile
+      metin  : tlref endeksli
+      duyulan: tlrf endeksi
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: gundem-2026-10-06.duyulan.txt
