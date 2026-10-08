@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-08.mp3
+
+beklenen 2409 kelime | duyulan 2432 kelime | eşleşme %94.5
+sayı ifadesi: metinde 338, duyulanda 223  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...değil kadın bedenine giydirilmiş
+      metin  : korseyi
+      duyulan: korsayı
+  INSERT   ...hızla kaybedeceğini kimse bilmiyordu
+      metin  : (yok)
+      duyulan: yeşim
+  INSERT   ...kaybedeceğini kimse bilmiyordu mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...angela isadora adı verildi
+      metin  : vaftiz
+      duyulan: vafdis
+  REPLACE  ...küçüktü ablası elizabeth abileri
+      metin  : augustin
+      duyulan: augustine
+  REPLACE  ...veriyordu körfezin karşı yakasına
+      metin  : oakland
+      duyulan: auckland
+  REPLACE  ...akşamları öğrencileri gittikten sonra
+      metin  : şopen
+      duyulan: chopin
+  REPLACE  ...sonra şopen çalardı bazen
+      metin  : betoven
+      duyulan: beethoven
+  REPLACE  ...çalardı bazen betoven bazen
+      metin  : şuman
+      duyulan: schumann
+  REPLACE  ...anlamsız okuma öğrenmişti gerisini
+      metin  : oakland
+      duyulan: auckland
+  INSERT   ...dans dersi vermeye başladı
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...kıyısında gördüğü şeyi öğretti
+      metin  : dalganın
+      duyulan: ananın
+  INSERT   ...gövdesinin öne doğru düşüşünü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aç kaldı çatı bahçelerinde
+      metin  : varyete
+      duyulan: variyete
+  INSERT   ...almayan menajerlerle pazarlık etti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...en güçlü tiyatro adamlarından
+      metin  : augustin daly
+      duyulan: agustin dali
+  INSERT   ...dekorunu tamamlayan bedene dönüşmüştü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şeyi denemeye karar verdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dansçının hayvan ambarının üstünde
+      metin  : atlantiği
+      duyulan: atlantiyi
+  REPLACE  ...yönünü gösteriyordu ve hiçbirinde
+      metin  : korse
+      duyulan: korsa
+  INSERT   ...programı o salonlarda şekillendi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...yüzyılın kadın bedeni balinalı
+      metin  : korseyle
+      duyulan: korsayla
+  REPLACE  ...da bundan muaf değildi
+      metin  : korse
+      duyulan: korsa
+  REPLACE  ...çıplak ayaklı tuniği içinde
+      metin  : piyano
+      duyulan: piano
+  INSERT   ...de ilk izleyicisini kurdu
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ilk durağı yine müzeydi
+      metin  : luvr
+      duyulan: louver
+  REPLACE  ...yine müzeydi luvr yani
+      metin  : luvr
+      duyulan: louver
+  REPLACE  ...heykellerin önünde saatler geçirdi
+      metin  : luvr
+      duyulan: louver
+  INSERT   ...evlerde adı dolaşmaya başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dolaşmaya başladı amerikalı dansçı
+      metin  : loie
+      duyulan: loya
+  REPLACE  ...isadora bedeni ayrılma noktası
+      metin  : budapeşte
+      duyulan: budapest de
+  INSERT   ...noktası budapeşte de geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...budapeşte de geldi orada
+      metin  : urania tiyatrosu nda
+      duyulan: uranya tiyatrosunda
+  REPLACE  ...numara değildi list ve
+      metin  : ştraus
+      duyulan: strauss
+  REPLACE  ...seyirci valsle geri çağırıyordu
+      metin  : yohan ştraus
+      duyulan: johann strauss
+  REPLACE  ...yaşadı genç macar oyuncu
+      metin  : oskar
+      duyulan: oscar
+  INSERT   ...kadın artık asistan değildi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...teslim alınmasının hikayesidir berlin
+      metin  : münih viyana
+      duyulan: münich vienna
+  REPLACE  ...girip çıkan dansçılar yoktu
+      metin  : şopen
+      duyulan: chopin
+  REPLACE  ...yoktu şopen in mazurkası
+      metin  : gluk
+      duyulan: gluck
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 120
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-10-08.duyulan.txt

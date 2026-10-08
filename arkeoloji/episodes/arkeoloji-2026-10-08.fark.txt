@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-08.mp3
+
+beklenen 2381 kelime | duyulan 2391 kelime | eşleşme %95.3
+sayı ifadesi: metinde 331, duyulanda 242  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...ülkenin en eski yazısı
+      metin  : yıl
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...öğütülüp içildi üzerindeki çizikler
+      metin  : süs
+      duyulan: süslü
+  REPLACE  ...halde bekleyen mal vardı
+      metin  : longgu
+      duyulan: longu
+  REPLACE  ...toprakta bulunan eski ağırlaşmış
+      metin  : mineralleşmiş
+      duyulan: minerelleşmiş
+  REPLACE  ...eline alan kişinin adı
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...kişinin adı vang yirung
+      metin  : du
+      duyulan: tu
+  REPLACE  ...yazı yaklaşık yıl öncesine
+      metin  : co
+      duyulan: yi
+  REPLACE  ...hanedanının tunç kaplarına dayanıyordu
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...çok sevilen hikaye şudur
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...olursa olsun sonuç aynıdır
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...yazarı ve koleksiyoncusu liu
+      metin  : e
+      duyulan: wei
+  REPLACE  ...geldiklerini sordular kimse söylemedi
+      metin  : vang
+      duyulan: wang
+  INSERT   ...zamanı olmadı yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaldı oğlu da liu
+      metin  : e
+      duyulan: wei
+  REPLACE  ...e ye sattı liu
+      metin  : e
+      duyulan: wei
+  INSERT   ...geçen binlerce parçanın kopyalarını
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu yazıya çince de
+      metin  : ciyaguven
+      duyulan: jiagüven
+  REPLACE  ...bıçakla silinip düzgün dönüştürülüyordu
+      metin  : vang yirung
+      duyulan: wang yirong
+  REPLACE  ...söylediler parçaların henan eyaletindeki
+      metin  : tangyin
+      duyulan: tangin
+  REPLACE  ...yazı bilginlerinden olan luo
+      metin  : cınyü
+      duyulan: junyu
+  INSERT   ...adamlarını yollayarak izi sürdü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anyang kentinin kuzeybatı kıyısında
+      metin  : şiyaotun
+      duyulan: xiyoutun
+  REPLACE  ...köyün tarlalarından çıkıyordu luo
+      metin  : cınyü
+      duyulan: junyu
+  REPLACE  ...süer daha kötüleştirdi anyang
+      metin  : daki
+      duyulan: taki
+  INSERT   ...devletin bu alana girmesi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...in merkezi araştırma kurumu
+      metin  : akademya
+      duyulan: akademiya
+  REPLACE  ...yazısı üzerine çalışan dung
+      metin  : zuobin in
+      duyulan: zhubi nin
+  REPLACE  ...arkeolojisinin kurucusu sayılan li
+      metin  : ci
+      duyulan: ji
+  DELETE   ...anyang ın altındaki o
+      metin  : kilometrekarelik
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yin denen son şang
+      metin  : başkentiydi
+      duyulan: başkenti idi
+  REPLACE  ...şang başkentiydi bugün buraya
+      metin  : yinşü
+      duyulan: yin xu
+  INSERT   ...yin harabeleri denir ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...toprakta açılan ve numarası
+      metin  : yhyüz
+      duyulan: yehu
+  REPLACE  ...neredeyze tamamı tek kralın
+      metin  : vu ding
+      duyulan: wudding
+  REPLACE  ...koleksiyon yıllarca ülke içinde
+      metin  : nancing
+      duyulan: nanching
+  REPLACE  ...kralın çatlaktan okuduğu yargı
+      metin  : yer alır
+      duyulan: yaralır
+  REPLACE  ...yıl alır yani anyang
+      metin  : daki
+      duyulan: taki
+  REPLACE  ...ve bambu şeritleer tahtaya
+      metin  : ipeğe
+      duyulan: ipeye
+  REPLACE  ...sayesinde kurtuldu ilkbaharında anyang
+      metin  : daki
+      duyulan: taki
+  REPLACE  ...daki kazı ekibinin başında
+      metin  : cıng cınşiyang
+      duyulan: ceng ceng xiang
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 87 kelime | duyulup metinde OLMAYAN: 99
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: arkeoloji-2026-10-08.duyulan.txt
