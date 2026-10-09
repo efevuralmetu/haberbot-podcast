@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-08.mp3
+
+beklenen 1640 kelime | duyulan 1651 kelime | eşleşme %94.8
+sayı ifadesi: metinde 400, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bütün küresel piyasaların ana
+      metin  : gündem
+      duyulan: günden
+  REPLACE  ...i ran cumhurbaşkanı masud
+      metin  : pezeşkiyan
+      duyulan: pezeşkian
+  REPLACE  ...almaya hazır olduğunu bildirdi
+      metin  : basında
+      duyulan: i ran da
+  DELETE   ...ajansı stok kullanımını hızlandırdı
+      metin  : gyedi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ülke tarihinin en uzun
+      metin  : kapanması
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...komitesi nde ifade verdi
+      metin  : gazze de
+      duyulan: gazete
+  REPLACE  ...bilançosuna dair değerlendirmelerle geçti
+      metin  : gazze
+      duyulan: gazete
+  INSERT   ...savaşın başından bu yana
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...filistinli hayatını kaybetti ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...öldü kişi yaralandı türkiye
+      metin  : ateşkes
+      duyulan: ateşke
+  REPLACE  ...açtı ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky i
+  REPLACE  ...cephesinde ize ekim de
+      metin  : brüksel
+      duyulan: bruksel
+  REPLACE  ...i spanya ve polonya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...açan iyon kanalları ve
+      metin  : optogenetik
+      duyulan: optojenetik
+  REPLACE  ...optogenetik alanındaki çalışmaları için
+      metin  : karl dayseroth
+      duyulan: carl dyserot
+  REPLACE  ...için karl dayseroth peter
+      metin  : hegemann
+      duyulan: hegeman
+  REPLACE  ...ödülü ekim de icecube
+      metin  : nötrino gözlemevi ne
+      duyulan: neutrino gözleme vine
+  REPLACE  ...nötrinoların keşfi nedeniyle francis
+      metin  : halzen
+      duyulan: halsey
+  REPLACE  ...anri be kagan ve
+      metin  : kenso soai ye
+      duyulan: ken sosoay a
+  REPLACE  ...sveç akademisi tarafından stockholm
+      metin  : de
+      duyulan: da
+  REPLACE  ...olmak üzeer toplam uyduyu
+      metin  : yörüngeye
+      duyulan: örüngeye
+  REPLACE  ...zeka tarafında openai gpt
+      metin  : chatgpt
+      duyulan: yı chat gpt
+  REPLACE  ...grafikleri formları ve düzenlenebilir
+      metin  : diyagramları
+      duyulan: diagramları
+  REPLACE  ...az hesaplama gücü gerektirdi
+      metin  : anthropic
+      duyulan: antropik
+  DELETE   ...anthropic ize claude haiku
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...belirlendi bu önceki haiku
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...nokta sürümüne kıyasla yaklaşık
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...nde yapılan oturumda openai
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...uluslararası uzay kongresi yani
+      metin  : iac
+      duyulan: iad
+  REPLACE  ...standında sergilenen insansı robot
+      metin  : ameca
+      duyulan: amecha
+  REPLACE  ...ana belirleyici tahvil faizleri
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...bulunuyor oynaklık endeksi vix
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...tahvil faizi civarında yani
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...değerli metallerde yön yukarı
+      metin  : (yok)
+      duyulan: saltın
+  REPLACE  ...sert hareketler var mısır
+      metin  : artışla sente
+      duyulan: artışta cente
+  REPLACE  ...ize geriledi japonya da
+      metin  : reel
+      duyulan: real
+  REPLACE  ...güçlendirdi avrupa da bugün
+      metin  : eurogroup
+      duyulan: eurogrup
+  REPLACE  ...yönetim kurulu üyesi philip
+      metin  : lane
+      duyulan: layne
+  REPLACE  ...belediye başkanı cemil tugay
+      metin  : ak
+      duyulan: alaska
+  REPLACE  ...etti bu gelişme mutlak
+      metin  : butlan
+      duyulan: mutlan
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: gundem-2026-10-08.duyulan.txt

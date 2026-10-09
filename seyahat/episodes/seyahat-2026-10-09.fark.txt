@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-09.mp3
+
+beklenen 1536 kelime | duyulan 1572 kelime | eşleşme %91.6
+sayı ifadesi: metinde 297, duyulanda 158  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : atlantiğin
+      duyulan: atlantin
+  REPLACE  ...bugün aynı vadide çocuklar
+      metin  : galce
+      duyulan: galça
+  INSERT   ...ranzalar çakılmış sıradan yelkenli
+      metin  : (yok)
+      duyulan: ki ki
+  REPLACE  ...i ki ay boyunca
+      metin  : atlantiği
+      duyulan: atlantiyi
+  REPLACE  ...amerika ya değil kuzey
+      metin  : galler
+      duyulan: galer
+  REPLACE  ...istiyordu i çişleri bakanı
+      metin  : giyermo rovson
+      duyulan: guillermo robson
+  INSERT   ...toprak sözü üzerine anlaşıldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...jones ile love jones
+      metin  : parry kıyıyı
+      duyulan: perry kıyı
+  REPLACE  ...parry kıyıyı görmeye gittiler
+      metin  : ılıman
+      duyulan: i lman
+  REPLACE  ...geldiler körfezi beğendiler ve
+      metin  : porth madryn
+      duyulan: port madrin
+  INSERT   ...yeşil olduğu yazıyordu temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yazıyordu temmuz mimosa bugün
+      metin  : puerto madryn
+      duyulan: porto madrin
+  REPLACE  ...karşılarında yeşil vadi yoktu
+      metin  : bozkırın
+      duyulan: bosker ın
+  REPLACE  ...o burna bugün punta
+      metin  : kuevas
+      duyulan: cuevas
+  REPLACE  ...evi denize bakan kaya
+      metin  : kovuğuydu
+      duyulan: kovuydu
+  REPLACE  ...varsa kervan günde konaklayarak
+      metin  : bozkırı
+      duyulan: bosker ı
+  REPLACE  ...afon kamuy yani kıvrımlı
+      metin  : irmak
+      duyulan: ırmak
+  REPLACE  ...kıvrımlı irmak diyeceklerdi adının
+      metin  : teuelçe
+      duyulan: tevelçe
+  REPLACE  ...karakol kurdular ve kasabaya
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...veren bakanın adını verdiler
+      metin  : rovson
+      duyulan: roveson
+  INSERT   ...i lk hasat ocak
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...fe ye hatta geri
+      metin  : galler e
+      duyulan: galeer
+  REPLACE  ...öğretti burada ayakta kalmak
+      metin  : galce
+      duyulan: galçe
+  REPLACE  ...galce bilmekle değil bu
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...bilmekle olacaktı ve bu
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...ydu diğeri güneyden gelen
+      metin  : teuelçe
+      duyulan: tevelçe
+  REPLACE  ...gelen teuelçe gruplarının başındaki
+      metin  : galats
+      duyulan: galatz
+  REPLACE  ...yanında orkeke ve kardeşi
+      metin  : fransisko
+      duyulan: fransisco
+  REPLACE  ...boyları uzun atları iyi
+      metin  : guanako
+      duyulan: guanaco
+  REPLACE  ...ihtiyaç duyması sayesinde kapandı
+      metin  : teuelçe lerin
+      duyulan: tevelçelerin
+  REPLACE  ...atı nasıl haline getirirsin
+      metin  : boleadora
+      duyulan: boliadora
+  REPLACE  ...atma ipi nasıl savrulur
+      metin  : guanako
+      duyulan: guanaco
+  REPLACE  ...rüzgarın hangi yanından yaklaşılır
+      metin  : nyandu
+      duyulan: niandu
+  REPLACE  ...ve bozkır halkı bu
+      metin  : ekmeğe
+      duyulan: ekmeye
+  REPLACE  ...devekuşu tüyü dokuma battaniye
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...en karanlık anında insanlar
+      metin  : vadiyi
+      duyulan: vadiyeyi
+  REPLACE  ...vadiyi bırakıp kıyıya çekildiğinde
+      metin  : galats çubut u
+      duyulan: galat çubutu
+  INSERT   ...etmemelerini söyleyen taraf oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...taraf oldu bazı reisler
+      metin  : lewis
+      duyulan: louis
+  INSERT   ...sonucu sayılarla söylemek gerekirse
+      metin  : (yok)
+      duyulan: e
+  ... ve 53 fark daha
+
+metinde olup DUYULMAYAN: 86 kelime | duyulup metinde OLMAYAN: 117
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: seyahat-2026-10-09.duyulan.txt

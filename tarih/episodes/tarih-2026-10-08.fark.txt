@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-08.mp3
+
+beklenen 2802 kelime | duyulan 2850 kelime | eşleşme %93.5
+sayı ifadesi: metinde 425, duyulanda 266  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nın karlı yaylasında aylarca
+      metin  : ren geyiği yosunu
+      duyulan: rengi yiyosunu
+  REPLACE  ...aklına düşürdüğü ihtimal yüzündendir
+      metin  : norvecin
+      duyulan: norveç in
+  REPLACE  ...en sıkıcı işlerinden güber
+      metin  : hammaddesi
+      duyulan: ham maddesi de
+  REPLACE  ...en büyük hidroelektrik santraliydi
+      metin  : norvecin
+      duyulan: norveç in
+  REPLACE  ...norsk hydro yani norveç
+      metin  : hidro
+      duyulan: hydro da
+  INSERT   ...değildir hidrojen atomlarının yaklaşık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...döteryum denir harold urey
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geçirmek gerekir i şte
+      metin  : vemork
+      duyulan: wemork
+  REPLACE  ...ağır su kaynağı norveç
+      metin  : hidro
+      duyulan: hydro ün
+  INSERT   ...pek de alıcı bulamıyorlardı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...iyilerinden almanya da fizikçi
+      metin  : valter bote
+      duyulan: walter botte de
+  REPLACE  ...ölçüm yanlıştı kullandığı grafit
+      metin  : safsızlıklar
+      duyulan: sapsızlıklar
+  REPLACE  ...olmadı martında fransız istihbaratından
+      metin  : jak alye
+      duyulan: jack aliye
+  REPLACE  ...istihbaratından jak alye norveç
+      metin  : hidro
+      duyulan: hydro
+  INSERT   ...boş depolarını bıraktı nisan
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...depolarını bıraktı nisan almanya
+      metin  : norveci
+      duyulan: norveç i
+  REPLACE  ...ülkenin bütün sanayisi gibi
+      metin  : vemork da
+      duyulan: ve mork ta
+  REPLACE  ...değiştirdi çok geçmeden alman
+      metin  : kimya devi ig
+      duyulan: kimyadevi e c
+  REPLACE  ...devi ig farben norveç
+      metin  : hidro
+      duyulan: hydro
+  REPLACE  ...norveçli kimyager ve subay
+      metin  : leyf tronstad
+      duyulan: leif tronstadt
+  REPLACE  ...leyf tronstad a gidiyordu
+      metin  : tronstad
+      duyulan: tronstadt
+  INSERT   ...tesisinin kurulmasında bizzat çalışmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elindeki tablolar şey söylüyordu
+      metin  : vemork tan
+      duyulan: ve morgtan
+  INSERT   ...ağır su miktarı artıyordu
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...ize en alt katındaydı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...aşağıdaki kasabada yaşayan binlerce
+      metin  : norveçliyi
+      duyulan: norveçliği
+  INSERT   ...ekibi göndermeye karar verdi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...göndermeye karar verdi ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karar verdi ekim norveçli
+      metin  : yens
+      duyulan: jens
+  REPLACE  ...ekim norveçli yens anton
+      metin  : pulson
+      duyulan: pulsson
+  REPLACE  ...klaus helberg ve arne
+      metin  : şelstrup hardangervidda
+      duyulan: schelztrup hardanger vidda
+  REPLACE  ...paraşütle indirildi harekatın adı
+      metin  : grouse tu
+      duyulan: grußtü
+  REPLACE  ...liken kaynatıp içiyorlardı aralık
+      metin  : pulson ren geyiği
+      duyulan: de pulsson rengeyi
+  REPLACE  ...yarı sindirilmiş likeni çünkü
+      metin  : skorbütten
+      duyulan: skorbükten
+  REPLACE  ...gereken vitamin oradaydı yaylada
+      metin  : ren geyiği
+      duyulan: rengeyiyi
+  REPLACE  ...adamlar planörlerle yaylaya indirilecek
+      metin  : grouse
+      duyulan: gruß
+  INSERT   ...harekatın adı freshman dı
+      metin  : (yok)
+      duyulan: doğundokuz
+  REPLACE  ...pilotlarıyla birlikte kişi vardı
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...buzlanma başladı yaylada bekleyen
+      metin  : grouse
+      duyulan: gruß
+  INSERT   ...bundan ay önce ekim
+      metin  : (yok)
+      duyulan: de
+  ... ve 73 fark daha
+
+metinde olup DUYULMAYAN: 113 kelime | duyulup metinde OLMAYAN: 156
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: tarih-2026-10-08.duyulan.txt

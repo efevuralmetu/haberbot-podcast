@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-09.mp3
+
+beklenen 2000 kelime | duyulan 2015 kelime | eşleşme %95.8
+sayı ifadesi: metinde 245, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...getiren tarihli derleme insanların
+      metin  : (yok)
+      duyulan: inin
+  INSERT   ...sabah verdiği beyan var
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i ngilteer de araştırmacı
+      metin  : keith hearne
+      duyulan: heath hearn
+  REPLACE  ...denedi gönüllüsü alan worsley
+      metin  : le
+      duyulan: ile
+  INSERT   ...stanford da yaptığı çalışma
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonrası daha da şaşırtıcı
+      metin  : (yok)
+      duyulan: ki de
+  DELETE   ...soruldu basit çıkarma mesela
+      metin  : eksi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şey fark edilebiliyorsa beceridir
+      metin  : beceriyze
+      duyulan: beceri ize
+  REPLACE  ...hollanda da sobanın başında
+      metin  : dekart ın
+      duyulan: de descartes in
+  REPLACE  ...ayıran kesin işaret bulamıyorum
+      metin  : dekart
+      duyulan: deckard
+  INSERT   ...hissi de ait olabilir
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...son zemin de gider
+      metin  : dekart
+      duyulan: deckard
+  REPLACE  ...yürütmeye çok benzer yoldan
+      metin  : dekart
+      duyulan: deckard
+  REPLACE  ...içinde geçen daha yürümüştü
+      metin  : gazzali
+      duyulan: gazali de
+  REPLACE  ...yürümüştü gazzali horasan ın
+      metin  : tus
+      duyulan: tuz
+  INSERT   ...tus şehrinde doğdu ve
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...başladı olgunluk döneminde yazdığı
+      metin  : el münkız mine d dalal
+      duyulan: elmünkız mineddal
+  REPLACE  ...hiçbirinin karşılığı olmadığını anlarsın
+      metin  : öyleyze
+      duyulan: öte ize
+  REPLACE  ...ve ölüm sonrasına bağlar
+      metin  : peygamber e
+      duyulan: peygambeer
+  INSERT   ...düşen aydınlıktı yıllar sonra
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...önce yüzyılda çin de
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...tastamam kelebek o sırada
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...insandı ama artık bilmiyordu
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...kelebek mi şimdi rüyasında
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...arıyordu gazzali kurtuluş arıyordu
+      metin  : cuangzı simetriyi
+      duyulan: zhuangzi simetriği
+  REPLACE  ...insanlar uyanık olduklarını sanırlar
+      metin  : cuangzı
+      duyulan: zhuangzi
+  INSERT   ...bakan vardı i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...vardı i bn sina
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sina buhara civarında doğdu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve o muazzam eseri
+      metin  : kitabü ş şifa nın
+      duyulan: kitab ı şifanın
+  INSERT   ...şey mi i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...vermek değildi i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...bak ve çıkarılamayan şey
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...öznenin kendi varlığı bu
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...aynı şeyi söylediğini iddia
+      metin  : etmek de
+      duyulan: etmekte
+  REPLACE  ...batmakta olan tutunduğu çıkıntı
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...aldatmayacak tanrı fikriyle doldurdu
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...kalbe düşen aydınlıkla doldurdu
+      metin  : cuangzı
+      duyulan: coğanzı
+  INSERT   ...eski fotoğrafı hepsi ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hong kong polisi şubat
+      metin  : (yok)
+      duyulan: te
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 70
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: felsefe-2026-10-09.duyulan.txt

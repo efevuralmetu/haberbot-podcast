@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-08.mp3
+
+beklenen 1801 kelime | duyulan 1798 kelime | eşleşme %95.4
+sayı ifadesi: metinde 249, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çalışıyordu mektubun muhatabı yapımcısı
+      metin  : anjelo ritsoli ydi
+      duyulan: angelo rizzoli idi
+  REPLACE  ...cümleyle özetlenebilirdi filmi kaybettim
+      metin  : federiko
+      duyulan: federico
+  INSERT   ...yıl geriye gitmek yeterli
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...gitmek yeterli fellini la
+      metin  : dolçe
+      duyulan: dolce
+  REPLACE  ...salonun önüne çıkmaya benziyordu
+      metin  : bokaçço
+      duyulan: de bocaccio
+  REPLACE  ...canlı canlı kurardı yanında
+      metin  : tullio
+      duyulan: tulio
+  INSERT   ...bakıldığında neredeyze basit görünüyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başlamış yapımcısı basını oyuncuları
+      metin  : karısı
+      duyulan: kakarısı
+  REPLACE  ...nin başındaki yapım gibi
+      metin  : flayano
+      duyulan: fualaiono
+  REPLACE  ...ad önerdi la bella
+      metin  : konfuzyone
+      duyulan: confusione
+  REPLACE  ...filmografisini saydı tam uzun
+      metin  : metraj
+      duyulan: metraş
+  REPLACE  ...tam uzun metraj alberto
+      metin  : lattuada
+      duyulan: latuada
+  DELETE   ...bölümleri yarım sayınca toplam
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...buçuk ediyordu sıradaki film
+      metin  : buçuğa
+      duyulan: a
+  DELETE   ...otto e metso yani
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...filme verilen numara mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yapıştırdı notta şu yazıyordu
+      metin  : rikordati ke e
+      duyulan: recordati que
+  REPLACE  ...ke e un film
+      metin  : komiko
+      duyulan: comico
+  REPLACE  ...kamera dönerken konuşabiliyor oyuncuya
+      metin  : bağırabiliyor
+      duyulan: bağrabiliyor
+  REPLACE  ...gibi büyüdü guido rolünü
+      metin  : marçello mastroyanni
+      duyulan: marcello mastroianni
+  REPLACE  ...koyu takım yorgun hafifçe
+      metin  : ağartılmış
+      duyulan: ağırtılmış
+  REPLACE  ...kalmayı seçti görüntünün mimarı
+      metin  : canni
+      duyulan: gianni
+  REPLACE  ...kurdu dekor ve kostümler
+      metin  : piyero
+      duyulan: piero
+  REPLACE  ...uyandığında kaplıca otelindedir mekan
+      metin  : toskana
+      duyulan: toscana
+  REPLACE  ...toskana nın kaplıca kasabası
+      metin  : kiyançano
+      duyulan: chianano
+  REPLACE  ...zihninde ne varsa sırayla
+      metin  : kadraja
+      duyulan: kadracı
+  REPLACE  ...verip dans ettirdiği kadın
+      metin  : saragina
+      duyulan: saracina
+  INSERT   ...yalnızca kalabalığın içine girer
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...kalabalığın içine girer ekim
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...ortaya dakikalık film çıkmıştı
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...film çıkmıştı buçuk şubat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...arka arkaya geldi temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dwight macdonald tarafından yurttaş
+      metin  : kane
+      duyulan: cain
+  INSERT   ...film olarak selamlandı nisan
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...olarak selamlandı nisan akademi
+      metin  : ödülleri nde buçuk
+      duyulan: ödüllerinde
+  REPLACE  ...ya gitti kostüm ödülünü
+      metin  : piyero gerardi
+      duyulan: piero gerardir
+  REPLACE  ...nin yabancı film dalındaki
+      metin  : oscar ıydı
+      duyulan: oskarıydı
+  REPLACE  ...la strada ve le
+      metin  : notti di kabirya
+      duyulan: not didi cabiria
+  REPLACE  ...için olağanüstü rakam ama
+      metin  : buçuğun
+      duyulan: un
+  REPLACE  ...uzun cümleler gerekmiyordu benim
+      metin  : buçuğum
+      duyulan: um
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: film-2026-10-08.duyulan.txt

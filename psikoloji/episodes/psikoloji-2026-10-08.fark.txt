@@ -1,0 +1,43 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-08.mp3
+
+beklenen 1294 kelime | duyulan 1294 kelime | eşleşme %98.9
+sayı ifadesi: metinde 138, duyulanda 132  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...takvimin değil zihnin işaretleri
+      metin  : psikologlar
+      duyulan: pesikologlar
+  REPLACE  ...merak eden araştırmacılar oldu
+      metin  : pennsylvania üniversitesi nde
+      duyulan: pensilvanya üniversitesinde
+  REPLACE  ...ne kadar süreceğini tahmin
+      metin  : etmekte
+      duyulan: etmek de
+  REPLACE  ...olarak kötüdür kahneman ve
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...kuralı küçük miktarda bozduklarında
+      metin  : frenleri
+      duyulan: prenleri
+  REPLACE  ...cümleye çevirmek psikolog peter
+      metin  : golvitser
+      duyulan: golwitzer
+  INSERT   ...hafta sonunda bu grubun
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...göreni bozduğunda kendini affetmek
+      metin  : carleton üniversitesi nde
+      duyulan: carlatt ın üniversitesinde
+  REPLACE  ...şey hiç aksamamaları değil
+      metin  : aksama ile
+      duyulan: aksamayla
+  REPLACE  ...her seferinde daha kısaltmakta
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 14 kelime | duyulup metinde OLMAYAN: 14
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: psikoloji-2026-10-08.duyulan.txt

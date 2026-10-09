@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-09.mp3
+
+beklenen 2276 kelime | duyulan 2272 kelime | eşleşme %92.3
+sayı ifadesi: metinde 387, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gün evrak çantasını kapatıp
+      metin  : pireneler de
+      duyulan: prenelerde
+  DELETE   ...eserinin yakılmasını isteyerek mart
+      metin  : berlin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...isteyerek mart berlin de
+      metin  : (yok)
+      duyulan: berlinde
+  REPLACE  ...çevrede yaşıyordu babası alexander
+      metin  : şapiro
+      duyulan: shapiro
+  INSERT   ...yakınlarının saşa dediği adam
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...saşa dediği adam bugünkü
+      metin  : ukrayna
+      duyulan: yöne
+  REPLACE  ...ukrayna topraklarında doğmuş yahudi
+      metin  : anarşistti
+      duyulan: anarşisti
+  DELETE   ...yaptığı portresini hayatının sonuna
+      metin  : kadar duvarında
+      duyulan: (YOK — atlanmış)
+  INSERT   ...neredeyze tek şey oydu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaşındaki çocuğu götürmediler ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ocak şurik hamburg da
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...haydorn un evine yerleştirildi
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...evine yerleştirildi vilhelm haydorn
+      metin  : luteryan
+      duyulan: lutheran
+  INSERT   ...ize hiçbir yerde değildi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...kurmaya girişti saşa önce
+      metin  : lö verne
+      duyulan: loverne
+  REPLACE  ...yaşındaki oğlu mende yakınlarındaki
+      metin  : riyökro
+      duyulan: ryokro
+  DELETE   ...o yıllarda kamptan kasabadaki
+      metin  : okula
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sorularını kurmaya başladı ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fransa daki işbirlikçi yönetim
+      metin  : lö verne
+      duyulan: loverne
+  REPLACE  ...yetkilileer teslim etti saşa
+      metin  : şapiro
+      duyulan: shapiro
+  REPLACE  ...saşa şapiro o sevkiyatla
+      metin  : auşvits
+      duyulan: auschwitz
+  INSERT   ...anlattı ama ileride devletlerin
+      metin  : (yok)
+      duyulan: doktor
+  REPLACE  ...için ortada duran tek
+      metin  : cümle
+      duyulan: evlile
+  REPLACE  ...oğlu da ayrıldı ve
+      metin  : lö şambon sür linyon
+      duyulan: le chambon sur lignon
+  REPLACE  ...sür linyon a kısaca
+      metin  : şambon
+      duyulan: chambon
+  REPLACE  ...kısaca şambon a gönderildi
+      metin  : şambon
+      duyulan: chambon
+  DELETE   ...sviçer yardım örgütünün işlettiği
+      metin  : çocuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çocuk yurdunda yaşadı kasabanın
+      metin  : sevenol koleji ne
+      duyulan: sevenal kolejine
+  REPLACE  ...da yanında defteri vardı
+      metin  : şambon
+      duyulan: chambon
+  REPLACE  ...daha tuhaftı ders kitaplarına
+      metin  : güvenmemek
+      duyulan: gelmemek
+  INSERT   ...demesi olamazdı kurulması gerekirdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yeniden yazmasının hikayesidir sonbaharında
+      metin  : monpelye
+      duyulan: montpellier
+  INSERT   ...olduğunu düşündüğünü sonradan yazdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve kibar cevap aldı
+      metin  : löbeg
+      duyulan: loebec
+  REPLACE  ...fazlasını kazanmıştı yalnız çalışmanın
+      metin  : yöntem
+      duyulan: temel
+  REPLACE  ...mektubuyla geldi mektup eli
+      metin  : kartan
+      duyulan: cartan
+  REPLACE  ...yazılmıştı o ize oğlu
+      metin  : anri kartan
+      duyulan: henri cartan
+  REPLACE  ...soruları soruyordu yıl sonunda
+      metin  : kartan
+      duyulan: cartan
+  REPLACE  ...sonunda kartan ve çevresi
+      metin  : nansi
+      duyulan: nancy
+  REPLACE  ...nansi ye yolladı orada
+      metin  : loran şvarts
+      duyulan: laurent schwartz
+  ... ve 99 fark daha
+
+metinde olup DUYULMAYAN: 160 kelime | duyulup metinde OLMAYAN: 154
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: biyografi-2026-10-09.duyulan.txt

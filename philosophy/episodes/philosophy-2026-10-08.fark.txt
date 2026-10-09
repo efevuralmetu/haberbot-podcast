@@ -1,0 +1,52 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-08.mp3
+
+beklenen 3529 kelime | duyulan 3528 kelime | eşleşme %99.2
+sayı ifadesi: metinde 156, duyulanda 122  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...carlo gesualdo prince of
+      metin  : venosa
+      duyulan: vinosa
+  REPLACE  ...the experiments of paul
+      metin  : rozin
+      duyulan: rosen
+  REPLACE  ...because of a pamphlet
+      metin  : barthes
+      duyulan: barthus
+  REPLACE  ...of that same tradition
+      metin  : wisdom
+      duyulan: time
+  REPLACE  ...they passed it al
+      metin  : jarh wa
+      duyulan: jawah
+  REPLACE  ...has steps the is
+      metin  : khabar
+      duyulan: kabr
+  REPLACE  ...of his life in
+      metin  : katip çelebi
+      duyulan: cadet cheleby
+  REPLACE  ...katip çelebi wrote the
+      metin  : mizanü l hak
+      duyulan: mize nul haq
+  REPLACE  ...you think listening to
+      metin  : gesualdo
+      duyulan: jejualdo
+  REPLACE  ...to be paid with
+      metin  : the
+      duyulan: a
+  REPLACE  ...works the temple of
+      metin  : dendur
+      duyulan: dender
+  REPLACE  ...the we aer deciding
+      metin  : nöron
+      duyulan: noron
+  REPLACE  ...deciding nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bugunki bulimun sono na galdik jeni hikaya de jenidan bulushmakuzeer
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 25
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-10-08.duyulan.txt

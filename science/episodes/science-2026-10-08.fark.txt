@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-08.mp3
+
+beklenen 2540 kelime | duyulan 2540 kelime | eşleşme %98.7
+sayı ifadesi: metinde 176, duyulanda 171  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...protons left over the
+      metin  : route
+      duyulan: root
+  REPLACE  ...helium staying plain forever
+      metin  : stars
+      duyulan: things
+  REPLACE  ...the estonian astronomer ernst
+      metin  : öpik
+      duyulan: opik
+  REPLACE  ...in a so little
+      metin  : as
+      duyulan: is
+  INSERT   ...it alphas particles carbon
+      metin  : (yok)
+      duyulan: wes
+  REPLACE  ...an alpha particle lies
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...energy level at roughly
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...an excited state at
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...with an uncertainty of
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...cook fowler and the
+      metin  : lauritsens
+      duyulan: lauritzens
+  REPLACE  ...measurements put it at
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...take a debt of
+      metin  : kiloelectronvolts
+      duyulan: kv
+  INSERT   ...debt comes due carbon
+      metin  : (yok)
+      duyulan: in the stanch what the
+  REPLACE  ...sheds its excess energy
+      metin  : and
+      duyulan: then
+  REPLACE  ...out of heliums releasing
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...bring between them is
+      metin  : megaelectronvolts
+      duyulan: mev
+  REPLACE  ...at the difference is
+      metin  : kiloelectronvolts
+      duyulan: kv
+  REPLACE  ...hoyle state a few
+      metin  : kiloelectronvolts
+      duyulan: kv
+  REPLACE  ...the level a few
+      metin  : kiloelectronvolts
+      duyulan: kv
+  REPLACE  ...being discussed is roughly
+      metin  : kiloelectronvolts
+      duyulan: kv
+  REPLACE  ...oxygen limps along slowly
+      metin  : and
+      duyulan: though as in
+  INSERT   ...doomed to fal apart
+      metin  : (yok)
+      duyulan: dot
+  DELETE   ...impossible rung and crossed
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-10-08.duyulan.txt

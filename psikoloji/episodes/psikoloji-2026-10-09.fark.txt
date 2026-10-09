@@ -1,0 +1,52 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-09.mp3
+
+beklenen 1326 kelime | duyulan 1329 kelime | eşleşme %98.8
+sayı ifadesi: metinde 156, duyulanda 137  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...diyor ama hafta önce
+      metin  : camınıza
+      duyulan: camınızı
+  INSERT   ...evlerde oranı civarında kaldı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...nden sosyal psikolog jonathan
+      metin  : freedman
+      duyulan: friedman
+  REPLACE  ...önce o kapılarda ne
+      metin  : olduğuydu
+      duyulan: oldu
+  REPLACE  ...şeye evet demiş olmasıydı
+      metin  : freedman
+      duyulan: friedman
+  REPLACE  ...trafikle hiç ilgili değildi
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...bakışı değil kendine bakışıydı
+      metin  : daryl
+      duyulan: deril
+  INSERT   ...sokakta uzatılan imza kağıdı
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...satıcı da iyi niyetli
+      metin  : dernek de
+      duyulan: dernekte
+  INSERT   ...dürüstlük payı var o
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tekrar yapıldı ve jerry
+      metin  : burger in
+      duyulan: berger ın da
+  REPLACE  ...büyükse araya fazla zaman
+      metin  : girdiyze
+      duyulan: girdi ize
+  REPLACE  ...sizin elinizde olan kısım
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 12 kelime | duyulup metinde OLMAYAN: 16
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: psikoloji-2026-10-09.duyulan.txt

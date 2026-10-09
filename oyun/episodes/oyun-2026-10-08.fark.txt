@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-08.mp3
+
+beklenen 1936 kelime | duyulan 1960 kelime | eşleşme %94.9
+sayı ifadesi: metinde 364, duyulanda 209  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...başlamadan önce kez kapatılmıştı
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...neredeyze hiçbir şey bulamadan
+      metin  : üs
+      duyulan: üst
+  REPLACE  ...şirket kurdular yaptıkları iş
+      metin  : üsleer
+      duyulan: üstleer
+  REPLACE  ...mekanın sahibiyle paylaşmak demekti
+      metin  : üs
+      duyulan: üst
+  REPLACE  ...almaz biçimde büyüttü hawaii
+      metin  : pasifiğe
+      duyulan: pasifiye
+  INSERT   ...unda şirketi tasfiye ettiler
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...şirketin adı service games
+      metin  : ti
+      duyulan: di
+  INSERT   ...yok olabilecek zemine oturuyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...makineleri tümden yasakladı hawaii
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...üsleri hawaii dekilerden kalabalıktı
+      metin  : şubadında
+      duyulan: şubat ında
+  INSERT   ...basitçe ortağın soyadını taşıdı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...görünür ama yıl sonra
+      metin  : müfettişlerin
+      duyulan: müfetişlerin
+  REPLACE  ...dönemin en büyük üreticileri
+      metin  : gottlieb
+      duyulan: gotlip
+  REPLACE  ...büyük üreticileri gottlieb ve
+      metin  : bally
+      duyulan: bali
+  REPLACE  ...alınıyor gemiyle pasifiği geçiyor
+      metin  : üs
+      duyulan: üst
+  REPLACE  ...geçiyor üs kapılarından içeri
+      metin  : sokuluyor
+      duyulan: sokuyor
+  REPLACE  ...an da bu dönemdedir
+      metin  : nisan ında
+      duyulan: ün nisanında
+  REPLACE  ...takip eden yıl içinde
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...ağ güney koer ye
+      metin  : filipinler e
+      duyulan: filipinleer
+  INSERT   ...bu karara giden yol
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yöneltilen suçlamalar arasında makinelerin
+      metin  : üs
+      duyulan: üst
+  REPLACE  ...amerikan malı olarak beyan
+      metin  : edildiğiydi
+      duyulan: edildiği idi
+  DELETE   ...olarak beyan edildiğiydi bu
+      metin  : üs
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kara listeye aldı aralık
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve bağlı kuruluşlarını yasakladı
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...aynı yasak filipinler deki
+      metin  : üsler için de
+      duyulan: üstler içinde
+  INSERT   ...oldu yıl sonra aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve yasak vardı mayıs
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...düştü gün sonra haziran
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...yasağın tabela değiştirerek aşılması
+      metin  : girişimiydi
+      duyulan: girişimi idi
+  REPLACE  ...para cezalarından ibaret kaldı
+      metin  : okinawa
+      duyulan: de okinava
+  INSERT   ...gerekçesiyle dolar ceza kesti
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kamuoyu önüne çıkması ize
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...soruşturmayı yürüten senatör abraham
+      metin  : ribicoff
+      duyulan: ribikof
+  INSERT   ...kadar iyi olacaktı ama
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...buldukları şey müzik kutusuydu
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...bu cihaz japon makine
+      metin  : i maladın
+      duyulan: imalatın
+  REPLACE  ...amerika dan makine getirip
+      metin  : üsleer
+      duyulan: üstleer
+  INSERT   ...çoktan büyüyordu david rosen
+      metin  : (yok)
+      duyulan: den ye
+  INSERT   ...doğu da geçirmiş subaydı
+      metin  : (yok)
+      duyulan: te
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: oyun-2026-10-08.duyulan.txt

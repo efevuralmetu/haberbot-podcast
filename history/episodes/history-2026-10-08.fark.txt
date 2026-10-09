@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-08.mp3
+
+beklenen 4272 kelime | duyulan 4272 kelime | eşleşme %97.4
+sayı ifadesi: metinde 237, duyulanda 232  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...snow covered plateau of
+      metin  : hardangervidda
+      duyulan: hartinger vita
+  REPLACE  ...of an icy gorge
+      metin  : metres
+      duyulan: meters
+  REPLACE  ...above the town of
+      metin  : rjukan
+      duyulan: arjuken
+  REPLACE  ...world raw material for
+      metin  : fertiliser
+      duyulan: fertilizer
+  REPLACE  ...the force of the
+      metin  : rjukan
+      duyulan: arjuken
+  REPLACE  ...from nitrogen came artificial
+      metin  : fertiliser
+      duyulan: fertilizer
+  REPLACE  ...puer form means putting
+      metin  : tonnes
+      duyulan: tons
+  DELETE   ...they sold it at
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...germany the physicist walther
+      metin  : bothe
+      duyulan: both
+  REPLACE  ...road ran through a
+      metin  : fertiliser
+      duyulan: fertilizer
+  REPLACE  ...this in march jacques
+      metin  : allier
+      duyulan: allièer
+  DELETE   ...when germany occupied france
+      metin  : to
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...how flammable a place
+      metin  : vemork
+      duyulan: weimark
+  INSERT   ...plant s empty stores
+      metin  : (yok)
+      duyulan: the of
+  REPLACE  ...the country s industry
+      metin  : vemork
+      duyulan: weimark
+  REPLACE  ...down so carefully jomar
+      metin  : brun
+      duyulan: brunn
+  REPLACE  ...to london to leif
+      metin  : tronstad
+      duyulan: transtad
+  REPLACE  ...norwegian chemist and officer
+      metin  : tronstad
+      duyulan: transtad
+  REPLACE  ...heavy water going from
+      metin  : vemork
+      duyulan: weimark
+  REPLACE  ...in the middle of
+      metin  : brun
+      duyulan: brunn
+  REPLACE  ...the basement of a
+      metin  : storey
+      duyulan: story
+  REPLACE  ...by a single suspension
+      metin  : bridge
+      duyulan: charge
+  REPLACE  ...and reception party to
+      metin  : vemork
+      duyulan: weimark the of
+  REPLACE  ...october norwegians jens anton
+      metin  : poulsson knut
+      duyulan: poulsen newt
+  REPLACE  ...claus helberg and arne
+      metin  : kjelstrup
+      duyulan: kaelstrup
+  REPLACE  ...arne kjelstrup weer parachuted
+      metin  : hardangervidda
+      duyulan: hartinger witte
+  REPLACE  ...weer parachuted hardangervidda the
+      metin  : hardanger
+      duyulan: hartinger
+  INSERT   ...plateau and drinking it
+      metin  : (yok)
+      duyulan: of
+  REPLACE  ...and drinking it december
+      metin  : poulsson
+      duyulan: poulsen
+  REPLACE  ...would be sent to
+      metin  : vemork
+      duyulan: weimark
+  INSERT   ...called freshman the evening
+      metin  : (yok)
+      duyulan: of
+  REPLACE  ...covered slope hundreds of
+      metin  : kilometres
+      duyulan: kilometers
+  INSERT   ...a month befoer this
+      metin  : (yok)
+      duyulan: the of
+  REPLACE  ...a german barracks near
+      metin  : egersund
+      duyulan: eggersund
+  REPLACE  ...months moved to the
+      metin  : grini
+      duyulan: greenie
+  REPLACE  ...and learned exactly what
+      metin  : vemork
+      duyulan: weimark
+  REPLACE  ...into a different place
+      metin  : machine
+      duyulan: green
+  INSERT   ...of the suspension bridge
+      metin  : (yok)
+      duyulan: though
+  REPLACE  ...men who went into
+      metin  : vemork
+      duyulan: weimark
+  INSERT   ...that snow the night
+      metin  : (yok)
+      duyulan: of
+  ... ve 58 fark daha
+
+metinde olup DUYULMAYAN: 105 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: history-2026-10-08.duyulan.txt

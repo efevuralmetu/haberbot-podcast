@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-09.mp3
+
+beklenen 1674 kelime | duyulan 1704 kelime | eşleşme %96.4
+sayı ifadesi: metinde 382, duyulanda 258  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nötron yaklaşık dakika içinde
+      metin  : bozunur
+      duyulan: bozulur
+  INSERT   ...beri hiç bozulmadan duruyor
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...ibarettir çekirdekteki bağlanma enerjisi
+      metin  : bozunmak
+      duyulan: bozulmak
+  REPLACE  ...kütlesi enerji birimiyle söylersek
+      metin  : megaelektronvolt bozunurken
+      duyulan: do mev bozulurken
+  INSERT   ...protonla elektronun toplam kütlesi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...enerji aralığına sığdığı için
+      metin  : bozunabilir
+      duyulan: bozulabilir
+  DELETE   ...yani ortalama ömür yaklaşık
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hala sorulmaktadır çünkü nötronun
+      metin  : bozunması
+      duyulan: bozulması
+  INSERT   ...fazla nötron saydı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...küçük kesrini yutan ince
+      metin  : lityum
+      duyulan: litium
+  REPLACE  ...and technology yani standartlar
+      metin  : enstitüsü
+      duyulan: institüsü
+  INSERT   ...yöntemle yıllardır çalışıyor ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çalışıyor ve yayımlanan sonucu
+      metin  : saniyeydi
+      duyulan: saniyedir
+  INSERT   ...önemi var diye sorabilirsiniz
+      metin  : (yok)
+      duyulan: ön
+  INSERT   ...anında helyuma kapatıldı oranın
+      metin  : (yok)
+      duyulan: ya ye e
+  INSERT   ...evrendeki sıradan maddenin kütlece
+      metin  : (yok)
+      duyulan: te inin
+  REPLACE  ...kadar ince farkı göremiyor
+      metin  : ömürdeki
+      duyulan: önmürdeki lik
+  INSERT   ...oranını yalnızca kadar oynatır
+      metin  : (yok)
+      duyulan: donop
+  INSERT   ...tartışma civarındaki helyum oranını
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olmayan tanık gözlem duyarlılığı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...tutarlılığı nötronun bozunma hızı
+      metin  : kuarkların
+      duyulan: quarkların
+  REPLACE  ...en büyük girdisiyle yukarı
+      metin  : kuarkla
+      duyulan: quarkla
+  REPLACE  ...girdisiyle yukarı kuarkla aşağı
+      metin  : kuark
+      duyulan: quark
+  REPLACE  ...tercih ettiğini ölçerseniz o
+      metin  : girdiyi
+      duyulan: girdiği
+  INSERT   ...girebilirdi girmiyor çünkü ömründeki
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...belirsizlik o kritik sayıya
+      metin  : yarımlık
+      duyulan: lık
+  INSERT   ...oysa tartışmanın geçtiği hassasiyet
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da gözlenen tabloya oturur
+      metin  : bartoş
+      duyulan: ki de bartosz
+  REPLACE  ...oturur bartoş fornal ve
+      metin  : benjamín grinstein
+      duyulan: benjamin grünstein
+  REPLACE  ...kesin tanık devreye giriyor
+      metin  : berilyum
+      duyulan: beryllium
+  REPLACE  ...eşiğin kütleye sahip olsaydı
+      metin  : berilyum
+      duyulan: beryllium
+  INSERT   ...berilyum çekirdekleri kendiliğinden dağılırdı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...karanlık parçacık olup giderlerdi
+      metin  : berilyum
+      duyulan: beryllium
+  REPLACE  ...enerji bütçesi üst sınırı
+      metin  : berilyumun
+      duyulan: berylliumun
+  REPLACE  ...foton kanalı güvenle elendi
+      metin  : ya
+      duyulan: yağ
+  REPLACE  ...kesinlikle dışladı fransa daki
+      metin  : grönobl
+      duyulan: grenoble
+  INSERT   ...izin verilen kütle penceresinin
+      metin  : (yok)
+      duyulan: inde lik
+  REPLACE  ...nın hızlandırıcı merkezi j
+      metin  : parc
+      duyulan: park
+  REPLACE  ...nde yaklaşım kuruldu bu
+      metin  : düzenek de
+      duyulan: düzenekte
+  REPLACE  ...aynı gazın içine karıştırdığı
+      metin  : helyum
+      duyulan: helium
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: bilim-2026-10-09.duyulan.txt

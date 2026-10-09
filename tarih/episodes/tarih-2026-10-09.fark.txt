@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-09.mp3
+
+beklenen 2468 kelime | duyulan 2520 kelime | eşleşme %92.0
+sayı ifadesi: metinde 335, duyulanda 204  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...harbor a döndü doğu
+      metin  : mongolya
+      duyulan: mongolia
+  REPLACE  ...sessizliktir ağustos ta otlar
+      metin  : sararır
+      duyulan: sarar
+  REPLACE  ...yarar sonra batıya kıvrılıp
+      metin  : buyır gölü ne
+      duyulan: buyur gölüne
+  INSERT   ...etmiyordu anlaşmazlık şuydu japonya
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yı işgal edip orada
+      metin  : mançukuo
+      duyulan: manchukuo
+  REPLACE  ...haritalarına göer tam tam
+      metin  : halhın gol un
+      duyulan: halkın golun
+  REPLACE  ...mançukuo ydu nehrin batısındaki
+      metin  : mongolya
+      duyulan: mongolia
+  REPLACE  ...göer sınır nehirden yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yani devletin iddiası arasında
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...da elinde yüzyıldan kalma
+      metin  : mançu
+      duyulan: manchu
+  REPLACE  ...taşlarına dayanan belgeler vardı
+      metin  : taraf da
+      duyulan: i ki tarafta
+  INSERT   ...notalarla idaer edilebilirdi ama
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çoban değildi batı yakasında
+      metin  : mongolya
+      duyulan: mongolia
+  REPLACE  ...yakasında mongolya vardı ve
+      metin  : mongolya
+      duyulan: mongolia da
+  REPLACE  ...karşılıklı yardım protokolü imzalamıştı
+      metin  : mongolya
+      duyulan: mongolia
+  REPLACE  ...nın mançurya daki kuvveti
+      metin  : kvantung
+      duyulan: kwantung
+  INSERT   ...başına karar almaya alışmış
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...izin almadan başlatmış teşkilattı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...almadan başlatmış teşkilattı ilkbaharında
+      metin  : kvantung
+      duyulan: kwantung
+  INSERT   ...kibrit talimatıydı kibrit mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...birlikleri tartışmalı şeride girdi
+      metin  : mançukuo
+      duyulan: manchukuo
+  REPLACE  ...geçirmiş moskova da askeri
+      metin  : ataşelik
+      duyulan: ateşelik
+  INSERT   ...ki komuta ettiği tümen
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vermeyecekti mayıs taki kayıp
+      metin  : kvantung
+      duyulan: kwantung
+  REPLACE  ...benzer işlerle anılacak olan
+      metin  : masanobu tsuci
+      duyulan: masanobutsuji
+  REPLACE  ...biçimde kapatılması gerektiğini savunuyordu
+      metin  : kvantung ordusu nun
+      duyulan: kwantung ordusunun
+  REPLACE  ...asıl savaşı çin deydi
+      metin  : genelkurmay mançurya
+      duyulan: genel kurmay manchuria
+  REPLACE  ...olayın sınırlı tutulmasını istedi
+      metin  : kvantung
+      duyulan: kwantung
+  REPLACE  ...emir yukarıdan aşağı değil
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...hızlıydı hava kuvvetlerinin başındaki
+      metin  : smuşkeviç
+      duyulan: smuškević
+  REPLACE  ...savaşmış pilotları uçaklarıyla birlikte
+      metin  : mongolya
+      duyulan: mongolia
+  REPLACE  ...moskova bölgedeki kuvvetlerin komutasına
+      metin  : georgi jukov
+      duyulan: georgiy zhukov
+  REPLACE  ...adında süvari subayını yolladı
+      metin  : jukov
+      duyulan: zhukov
+  REPLACE  ...o motorlu kuvvet de
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...buraya kamyonla taşınmak zorundadır
+      metin  : jukov
+      duyulan: zhukov
+  REPLACE  ...jukov bu hesabı yaparken
+      metin  : komatsubara
+      duyulan: komad subar a
+  INSERT   ...o yakayı almak gerekirdi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...ve batı yakadaki bayın
+      metin  : tsagan tepesi ne
+      duyulan: tagan tepesine
+  REPLACE  ...mevzileri arkadan tehdit altındaydı
+      metin  : jukov
+      duyulan: zhukov
+  REPLACE  ...artık düzenli komuta vardı
+      metin  : fiiliyatta bozkırdaki
+      duyulan: filiyatta bosker daki
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 98 kelime | duyulup metinde OLMAYAN: 120
+bölme/birleşme farkı (hata değil, elendi): 57
+
+duyulan metin: tarih-2026-10-09.duyulan.txt

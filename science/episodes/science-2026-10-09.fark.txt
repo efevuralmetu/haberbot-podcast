@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-09.mp3
+
+beklenen 2788 kelime | duyulan 2760 kelime | eşleşme %99.0
+sayı ifadesi: metinde 289, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...minutes of the universe
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the presence of its
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...units of energy is
+      metin  : point megaelectronvolts
+      duyulan: mev
+  DELETE   ...when it decays is
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...takes place in the
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...moving at a few
+      metin  : metres
+      duyulan: meters
+  INSERT   ...new mexico does exactly
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...you the lifetime directly
+      metin  : between
+      duyulan: in
+  DELETE   ...they published this result
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...uncertainty below half a
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...this method for years
+      metin  : and
+      duyulan: then
+  DELETE   ...it published in was
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...happens the bottle says
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...point the beam says
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...mass fraction by about
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...helium fraction of around
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  INSERT   ...has been under discussion
+      metin  : (yok)
+      duyulan: at
+  DELETE   ...does not because the
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...observed pictuer in bartosz
+      metin  : fornal
+      duyulan: fournal
+  REPLACE  ...in bartosz fornal and
+      metin  : benjamín grinstein
+      duyulan: benjamin grindstein
+  REPLACE  ...to be lighter than
+      metin  : point megaelectronvolts
+      duyulan: megalectronvolts
+  REPLACE  ...that neutron off takes
+      metin  : point megaelectronvolts
+      duyulan: megalectronvolts
+  DELETE   ...into a window between
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...window between point and
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...a window not even
+      metin  : megaelectronvolts
+      duyulan: megalectronvolts
+  REPLACE  ...japan s accelerator facility
+      metin  : j parc
+      duyulan: jay park
+  DELETE   ...at the end of
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...its statistical uncertainty is
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...befoer it falls apart
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-10-09.duyulan.txt

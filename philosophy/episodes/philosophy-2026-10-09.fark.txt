@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-09.mp3
+
+beklenen 3220 kelime | duyulan 3223 kelime | eşleşme %98.9
+sayı ifadesi: metinde 121, duyulanda 116  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...we say i know
+      metin  : gecenin yerinde uyanıyorsunuz
+      duyulan: guessain beer yerende uyen yersenus
+  REPLACE  ...and theer is the
+      metin  : knot
+      duyulan: nod
+  REPLACE  ...a researcher named keith
+      metin  : hearne
+      duyulan: hearn
+  REPLACE  ...to the outside world
+      metin  : hearne
+      duyulan: hearn
+  REPLACE  ...was taken seriously when
+      metin  : stephen
+      duyulan: steven
+  DELETE   ...a simple subtraction say
+      metin  : minus
+      duyulan: (YOK — atlanmış)
+  INSERT   ...down everything he knows
+      metin  : (yok)
+      duyulan: not
+  REPLACE  ...an utterly different life
+      metin  : al
+      duyulan: eyal
+  REPLACE  ...in the city of
+      metin  : tus
+      duyulan: tuss
+  REPLACE  ...he was heading the
+      metin  : nizamiyya
+      duyulan: nizamiya
+  REPLACE  ...his matuer years al
+      metin  : munqidh
+      duyulan: munkid
+  REPLACE  ...al munqidh min al
+      metin  : dalal
+      duyulan: daulal
+  REPLACE  ...to waking al ghazali
+      metin  : ties
+      duyulan: tees
+  REPLACE  ...for roughly years he
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...the states with this
+      metin  : is
+      duyulan: as
+  REPLACE  ...it would know the
+      metin  : i
+      duyulan: eye
+  DELETE   ...not identical to descartes
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...language not hearsay not
+      metin  : secondhand
+      duyulan: hand
+  DELETE   ...realistic version of descartes
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nonsense the staircase you
+      metin  : climbed
+      duyulan: climb
+  REPLACE  ...up to being tugged
+      metin  : at
+      duyulan: it
+  INSERT   ...very moment of captuer
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...is wakefulness s habit
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...habit nöron philosophy de
+      metin  : bugünkü bölümün sonuna geldik
+      duyulan: bugunki bulimun sono nagaldik
+  REPLACE  ...bölümün sonuna geldik yeni
+      metin  : hikayede yeniden buluşmak üzeer
+      duyulan: hikya ede yeni dan bulushma kuzeer
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-10-09.duyulan.txt

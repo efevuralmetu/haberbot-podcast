@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-09.mp3
+
+beklenen 1504 kelime | duyulan 1533 kelime | eşleşme %95.7
+sayı ifadesi: metinde 359, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve her birbiriyle uyumsuz
+      metin  : cambridge
+      duyulan: gambridge
+  INSERT   ...batıran şey o oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yayılan program vardı wil
+      metin  : crowther
+      duyulan: crowder
+  REPLACE  ...crowther ile don woods
+      metin  : un
+      duyulan: ın
+  REPLACE  ...genç araştırmacı tim anderson
+      metin  : marc
+      duyulan: mark
+  REPLACE  ...anderson marc blank dave
+      metin  : lebling
+      duyulan: liebling
+  INSERT   ...mağarası yanlış yerdeydi haziran
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bilgisayar ağlarının fikir babalarından
+      metin  : (yok)
+      duyulan: c
+  REPLACE  ...ağlarının fikir babalarından j
+      metin  : c r licklider
+      duyulan: j zağar lik lider
+  INSERT   ...çok önemli olacaktı ama
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ana bilgisayardaki oyun yaklaşık
+      metin  : megabayt
+      duyulan: megabyte
+  REPLACE  ...bilgisayara taşınacak cevabı joel
+      metin  : berez
+      duyulan: beres
+  REPLACE  ...cevabı joel berez ile
+      metin  : marc
+      duyulan: mark
+  REPLACE  ...taşımanın tek yoluydu yetmedi
+      metin  : yer
+      duyulan: yeraltı
+  INSERT   ...adı zork oldu aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kısa süer sonra apple
+      metin  : (yok)
+      duyulan: ii
+  INSERT   ...cp m makineleri temmuz
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...zork yalnızca yılı içinde
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...içinde fazla kopya sattı
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...sattı gelindiğinde toplam satışı
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...gelindiğinde toplam satışı aşmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...la birlikte yapılan otostopçunun
+      metin  : galaksi
+      duyulan: galaxy
+  INSERT   ...değil üstünlük gibi sattı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaparsak ne olur ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olur ekim programcının brian
+      metin  : berkowitz
+      duyulan: berkovitz
+  REPLACE  ...berkowitz ile richard ilson
+      metin  : ın
+      duyulan: un
+  INSERT   ...fazla önemsemediği bu çalışma
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ağırlığı olan programdaydı ocak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...dolar sermaye geldi mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kirası doların üstündeydi mayıs
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üstündeydi mayıs geliştirme için
+      metin  : dec
+      duyulan: deç
+  REPLACE  ...bu da binlerce dolarlık
+      metin  : taahhüttü
+      duyulan: tahüttü
+  REPLACE  ...kazandırdığı para oyun olmayan
+      metin  : tarafa
+      duyulan: tarafı
+  INSERT   ...tarafa akıyordu program ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olarak cornerstone un kalbinde
+      metin  : infocom u infocom
+      duyulan: infokomu infokom
+  INSERT   ...tıpkı zork gibi ama
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ibm pc standart olmuştu
+      metin  : infocom
+      duyulan: infokom
+  REPLACE  ...hissedilir bilgisayar dergisi pc
+      metin  : magazine
+      duyulan: magazini
+  REPLACE  ...yazamıyordu oysa piyasanın hakimi
+      metin  : dbase i
+      duyulan: dbc
+  INSERT   ...oyun satışları çöktü infocom
+      metin  : (yok)
+      duyulan: te
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: oyun-2026-10-09.duyulan.txt

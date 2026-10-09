@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-09.mp3
+
+beklenen 1886 kelime | duyulan 1921 kelime | eşleşme %90.6
+sayı ifadesi: metinde 268, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...gerekçe sinema değil olimpiyat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...roman geldi yazarı lilian
+      metin  : lee ydi
+      duyulan: li idi
+  REPLACE  ...yarım yayılan ortaklığını anlatıyordu
+      metin  : romanı
+      duyulan: romamı
+  REPLACE  ...ortaklığını anlatıyordu romanı okuyan
+      metin  : çen kayge
+      duyulan: chen kaige
+  REPLACE  ...gördüğünü söyledi o yıllarda
+      metin  : çen kayge
+      duyulan: chen kaige
+  REPLACE  ...arasına kalın cam koymuştu
+      metin  : çen kayge
+      duyulan: chen kaige
+  REPLACE  ...koltuğa yapıştıracak anlatı lilian
+      metin  : lee
+      duyulan: li
+  REPLACE  ...işe anakaralı senarist lu
+      metin  : vey
+      duyulan: wei
+  INSERT   ...senaryonun ilk tam hali
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...parayı bulan kişi kadındı
+      metin  : şü
+      duyulan: xu
+  REPLACE  ...kişi kadındı şü feng
+      metin  : yetmişlerin tayvan
+      duyulan: lerin taiwan
+  REPLACE  ...sonra kamera arkasına geçmiş
+      metin  : tomson
+      duyulan: thompson
+  REPLACE  ...çekilecek hong kong ve
+      metin  : tayvan
+      duyulan: taiwan
+  REPLACE  ...cariyesine vedası anlamına gelen
+      metin  : bavang
+      duyulan: ba wang
+  REPLACE  ...ordularıyla paylaşmak için savaşan
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...için savaşan çu hükümdarı
+      metin  : şiang yü
+      duyulan: xiang yu
+  REPLACE  ...gecesini anlatır milattan önce
+      metin  : gayşia
+      duyulan: de gai xia
+  INSERT   ...operanın bugün sahnelenen biçimini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sahnelenen biçimini büyük oyuncu
+      metin  : mey lanfang
+      duyulan: mei lan fang
+  REPLACE  ...mey lanfang ve yang
+      metin  : şiaolou
+      duyulan: xiaolu u
+  REPLACE  ...yang şiaolou birlikte kurdu
+      metin  : mey lanfang
+      duyulan: mei lan fang
+  REPLACE  ...rolünü oynayan erkekti ve
+      metin  : yü ci
+      duyulan: yu ji
+  REPLACE  ...yü ci imzası oldu
+      metin  : çen kayge
+      duyulan: chen kaige
+  INSERT   ...sahnenin kurulmasından yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...teklif ilk olarak çocukluğunu
+      metin  : pekin
+      duyulan: peking
+  REPLACE  ...kırpmayı bile önerdi ama
+      metin  : şü
+      duyulan: xu
+  REPLACE  ...büyük pop yıldızı kaldı
+      metin  : lesli çang çen kayge
+      duyulan: leslie cheung chan kai ge
+  INSERT   ...çen kayge ikna olmamıştı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...yönetmeni ikna eden şey
+      metin  : çang
+      duyulan: cheung
+  INSERT   ...günde saat opera çalıştı
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...opera çalıştı tanınmış hoca
+      metin  : cang manling
+      duyulan: chang man ling
+  REPLACE  ...hoca cang manling ve
+      metin  : şi yanşeng
+      duyulan: shi yan sheng
+  REPLACE  ...ardında tuhaf boşluk kaldı
+      metin  : çang
+      duyulan: chan
+  REPLACE  ...sürede edinmesi mümkün değildi
+      metin  : filmdeki
+      duyulan: filmindeki
+  REPLACE  ...ölçüde pekinli oyuncu yang
+      metin  : lişin
+      duyulan: li sheng
+  REPLACE  ...oyuncu yang lişin seslendirdi
+      metin  : çen kayge çang
+      duyulan: chen kai ge chang
+  REPLACE  ...o oynadı hükümdar rolünü
+      metin  : cang
+      duyulan: zhang
+  REPLACE  ...hayran rolünde ize ge
+      metin  : you
+      duyulan: yu
+  REPLACE  ...you vardı görüntüleri gu
+      metin  : çangvey
+      duyulan: changwei
+  REPLACE  ...gu çangvey çekti müziği
+      metin  : cao ciping
+      duyulan: zhao jiping
+  ... ve 78 fark daha
+
+metinde olup DUYULMAYAN: 140 kelime | duyulup metinde OLMAYAN: 175
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: film-2026-10-09.duyulan.txt

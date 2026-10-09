@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-08.mp3
+
+beklenen 1888 kelime | duyulan 1920 kelime | eşleşme %95.1
+sayı ifadesi: metinde 306, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kutup ayısı var ve
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...dilleri ve kıyıya vuran
+      metin  : kurşuni
+      duyulan: kurşunu
+  REPLACE  ...kuzeyi kuzey kutbu na
+      metin  : norvecin başkentine
+      duyulan: norveç in başkentini
+  REPLACE  ...daha yakınsınız kutba yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yaklaşık kilometer oslo ya
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...ya kilometreden fazla svalbard
+      metin  : kilometrekarelik
+      duyulan: km karelik
+  REPLACE  ...takımada yani neredeyze trakya
+      metin  : ile i ç
+      duyulan: yla iç
+  INSERT   ...çıkacak büyüklükte bu alanın
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...takımadada yaşayan insan sayısı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...tabelalarda içinde yürüyen ayı
+      metin  : silueti
+      duyulan: silüeti
+  REPLACE  ...var ve o tabela
+      metin  : süs
+      duyulan: süslü
+  REPLACE  ...kıyılar anlamına gelen bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...yüzyıllarca kağıt üstünde kaldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...üstünde kaldı hollandalı denizci
+      metin  : villem
+      duyulan: willem
+  INSERT   ...olmayan takımada çözüm şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...svalbard antlaşması takımadanın egemenliğini
+      metin  : norvece
+      duyulan: norveç e
+  REPLACE  ...takımada askerden arındırıldı savaş
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...toplanan vergiler yalnızca svalbard
+      metin  : da
+      duyulan: a
+  INSERT   ...imzacının onayını tamamlamasıyla ağustos
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...geçen asırda taraf sayısı
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...geçindiremiyorsanız kalacak yeriniz yoksa
+      metin  : norvecin
+      duyulan: norveç in
+  REPLACE  ...burada görevlendirdiği vali yani
+      metin  : süsselmester
+      duyulan: süselmester
+  INSERT   ...çoğu geçici ana kasabada
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...hiçbir zaman manzara olmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...michiganlı iş adamı john
+      metin  : munro longyir
+      duyulan: monroe longier
+  REPLACE  ...için şirket kurdu ve
+      metin  : fiyortun
+      duyulan: fjord un
+  REPLACE  ...dizdi yerleşim adını aldı
+      metin  : longyirbüen
+      duyulan: longierbyen
+  REPLACE  ...adını aldı longyirbüen yani
+      metin  : longyir
+      duyulan: longier
+  REPLACE  ...şirket norveçlileer satıldı ama
+      metin  : ad
+      duyulan: at
+  REPLACE  ...satıldı ama ad kaldı
+      metin  : longyir
+      duyulan: longier
+  DELETE   ...aşağı inen tahta iskeleler
+      metin  : teleferik kuleleri
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kuleleri ve kömür vagonlarının
+      metin  : siluetleri
+      duyulan: silüetleri
+  REPLACE  ...o madenlerin sonuncusu kasabanın
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...kararı yıllar önce alınmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uzattı haziranının sonunda son
+      metin  : vardiya
+      duyulan: vardıya
+  REPLACE  ...vardiya yukarı çıktı ve
+      metin  : norvecin
+      duyulan: norveç in
+  INSERT   ...mezarlık var hiçbirinin tarihi
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...yıllar sonra anlaşıldı svalbard
+      metin  : da
+      duyulan: a
+  INSERT   ...yavaş yavaş doğru yürüyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...durum fark edilince kasabada
+      metin  : toprağa
+      duyulan: toprağı
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: seyahat-2026-10-08.duyulan.txt

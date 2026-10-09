@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-08.mp3
+
+beklenen 2187 kelime | duyulan 2240 kelime | eşleşme %95.5
+sayı ifadesi: metinde 250, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...hep aynıdır eseri sanatçıdan
+      metin  : (yok)
+      duyulan: ayırmaktadır kulak mı bu soruyu sorarken ilk tepki hep aynıdır eseri sanatçıdan ayırmaktadır kulak mı bu soruyu sorarken ilk tepki hep aynıdır kulak mı bu soruyu sorarken ilk tepki hep aynıdır eseri sanatçıdan
+  REPLACE  ...eseri sanatçıdan ayırmak lazım
+      metin  : kulağa
+      duyulan: kulağı
+  REPLACE  ...hepimiz zaten böyle yapıyoruz
+      metin  : karlo cezualdo venosa
+      duyulan: carlo ghezualdo ve nosa
+  INSERT   ...karlo cezualdo venosa prensi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...susturuyor kimse salondan çıkmıyor
+      metin  : karavaccio
+      duyulan: caravaggio da
+  REPLACE  ...bulaşma deniyor buna paul
+      metin  : rozin
+      duyulan: rosen
+  INSERT   ...tam karşı kampa geç
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...elinden çıkmıştır kamusaldır dildedir
+      metin  : rolan bart
+      duyulan: de roland barth
+  REPLACE  ...okunduğu yerde doğar yazarı
+      metin  : metnin
+      duyulan: metin in
+  REPLACE  ...söylemek istediği buydu demek
+      metin  : metni
+      duyulan: metin i
+  REPLACE  ...tek anlama mahkum etmektir
+      metin  : bart
+      duyulan: barth
+  REPLACE  ...yazar öldüğünde okur doğar
+      metin  : fuko
+      duyulan: da foucault
+  REPLACE  ...diye sordu cevabı şuydu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...belirleyen sınıflandırma aygıtıdır yazar
+      metin  : metnin
+      duyulan: metin in
+  REPLACE  ...yazar metnin kaynağı değil
+      metin  : metnin
+      duyulan: metin in
+  REPLACE  ...eser yapanın bilgisizliğini taşır
+      metin  : bart
+      duyulan: barth
+  REPLACE  ...sınava girince ne oluyor
+      metin  : rihard vagner
+      duyulan: rehard wagner de
+  REPLACE  ...oluyor rihard vagner takma
+      metin  : adla
+      duyulan: adlı
+  INSERT   ...rejim bayrak gibi kullandı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...i srail deki orkestralar
+      metin  : vagner
+      duyulan: wagner
+  INSERT   ...boyunca kimse çalmadı temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kimse çalmadı temmuz daniel
+      metin  : barenboim
+      duyulan: baren boyum
+  REPLACE  ...verdi program değişmişti aslen
+      metin  : vagner
+      duyulan: wagner
+  REPLACE  ...rahatsızlığı üzerine programı değiştirip
+      metin  : şuman
+      duyulan: schumann
+  REPLACE  ...programı değiştirip şuman ve
+      metin  : stravinski
+      duyulan: stravinsky
+  REPLACE  ...döndü ve bis olarak
+      metin  : vagner in
+      duyulan: wagner ın
+  REPLACE  ...vagner in tristan ve
+      metin  : i zolde
+      duyulan: isolde
+  REPLACE  ...ilgisi yok demek hakarettir
+      metin  : barenboim
+      duyulan: baren boym
+  INSERT   ...sonuç çünkü herkes burada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...zincirini zayıf sayar yani
+      metin  : peygamber e
+      duyulan: peygambeer
+  REPLACE  ...ilke olarak yerleşmiştir yanında
+      metin  : hz
+      duyulan: hazret i
+  DELETE   ...söyleyenin itibarından çıkarsamaya çalışıyorsan
+      metin  : terazini ters tutuyorsun
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sanır ama dine zarar
+      metin  : verir
+      duyulan: derir
+  REPLACE  ...adam yapıyor i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...sistemini kurdu hadis ilminde
+      metin  : ilmü r
+      duyulan: ilm i
+  REPLACE  ...aktardıkları cerh ve ta
+      metin  : dil
+      duyulan: değil
+  REPLACE  ...ve ta dil yani
+      metin  : ravinin
+      duyulan: rabinin
+  REPLACE  ...konuşuyor burhan yani delil
+      metin  : keer
+      duyulan: i kinin
+  REPLACE  ...kendi kanıtını içinde taşır
+      metin  : kağıttaki
+      duyulan: kağıtsaki
+  REPLACE  ...güven istenen her yerde
+      metin  : isteyenin
+      duyulan: isteğinin
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 112
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: felsefe-2026-10-08.duyulan.txt

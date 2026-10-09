@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-08.mp3
+
+beklenen 1281 kelime | duyulan 1316 kelime | eşleşme %92.4
+sayı ifadesi: metinde 202, duyulanda 129  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...nasıl gecede ortadan kayboldu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...bahar başında kalküta da
+      metin  : corasanko
+      duyulan: kora sanko
+  REPLACE  ...adam yatağa düşmüştü adı
+      metin  : rabindranat tagor du
+      duyulan: rabbin dranat tagordu
+  REPLACE  ...en tanınmış ailelerinden oğluydu
+      metin  : santiniketan da
+      duyulan: de santiniketanda
+  REPLACE  ...kalıyordu bengalce okumayan için
+      metin  : tagor
+      duyulan: tagoer
+  REPLACE  ...kıyısındaki aile çiftliğine kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...çözüm ize cesur çözümdü
+      metin  : bengalce
+      duyulan: bengalca
+  REPLACE  ...yabancı okura yabancı gelmeyen
+      metin  : duayla
+      duyulan: dua ile
+  REPLACE  ...yani glasgow vapuruna oğlu
+      metin  : ratindranat
+      duyulan: ratindranath
+  REPLACE  ...yolculuk haftalar sürdü ve
+      metin  : tagor
+      duyulan: tagoer
+  INSERT   ...taştı yeni sayfalar eklendi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...yeni sayfalar eklendi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elindeki şey dünyada tek
+      metin  : nüshaydı
+      duyulan: nüşaydı
+  REPLACE  ...charing cross istasyonundan metroya
+      metin  : tagor
+      duyulan: tagoer
+  REPLACE  ...perondan perona akan kalabalık
+      metin  : vagondan
+      duyulan: wagondan
+  REPLACE  ...fark etmedi ertesi sabah
+      metin  : tagor
+      duyulan: tagoer
+  REPLACE  ...tagor oğlundan çevirileri istedi
+      metin  : ratindranat
+      duyulan: ratindranath
+  REPLACE  ...yazdı çanta oradaydı yabancı
+      metin  : vagondan
+      duyulan: wagondan
+  REPLACE  ...geri kalanı hızlı işledi
+      metin  : tagor
+      duyulan: tagoer
+  REPLACE  ...çizmiş olan ressam william
+      metin  : rotenştayn
+      duyulan: rotenstein
+  REPLACE  ...rotenştayn a çevirileri verdi
+      metin  : rotenştayn
+      duyulan: rotenstein
+  REPLACE  ...yeats e gönderdi yeats
+      metin  : in
+      duyulan: ın
+  REPLACE  ...anlattı o yazın akşamı
+      metin  : rotenştayn
+      duyulan: rotenstein
+  REPLACE  ...yazın akşamı rotenştayn ın
+      metin  : hampstead
+      duyulan: hempstead
+  INSERT   ...yazdığı önsözü tamamladı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cemiyeti tarafından basıldı baskı
+      metin  : nüshaydı
+      duyulan: nüşaydı
+  REPLACE  ...düşünülmüş iç yayındı adı
+      metin  : gitancali ydi bengalcede
+      duyulan: gitanjali idi bengalçede
+  REPLACE  ...i çindeki parçanın yalnızca
+      metin  : tagor
+      duyulan: ü tagoer
+  REPLACE  ...un aynı adı taşıyan
+      metin  : bengalce
+      duyulan: bengalça
+  INSERT   ...bengalce kitabından geliyordu kalan
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...başka kitaplarından seçilmişti yani
+      metin  : gitancali
+      duyulan: gitanjali
+  REPLACE  ...seçilmişti yani gitancali tek
+      metin  : bengalce
+      duyulan: bengalça
+  REPLACE  ...kendi elinden çıkmış seçkiydi
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...uğultu başlatmaya yetti macmillan
+      metin  : yayınevi
+      duyulan: yayinevi
+  INSERT   ...kitabı devraldı ve mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yeniden basıldı ve kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...açıkladı nobel edebiyat ödülü
+      metin  : rabindranat tagor
+      duyulan: rabindranath tagoer
+  REPLACE  ...tagor a veriliyordu haber
+      metin  : santiniketan
+      duyulan: santiniketağ
+  REPLACE  ...avrupalı olmayan yazar seçilmişti
+      metin  : tagor
+      duyulan: tagoer
+  REPLACE  ...tagor aralık ta stockholm
+      metin  : deki
+      duyulan: daki
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 87
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: edebiyat-2026-10-08.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-09.mp3
+
+beklenen 1427 kelime | duyulan 1432 kelime | eşleşme %93.1
+sayı ifadesi: metinde 222, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yoksulların mezarlığına gömülecek yazında
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...gömülecek yazında lizbon un
+      metin  : rusiyu
+      duyulan: rusyu
+  REPLACE  ...denen geniş meydanında korpus
+      metin  : kristi
+      duyulan: christi
+  REPLACE  ...tek gözü kör şairdi
+      metin  : luiş
+      duyulan: louis
+  REPLACE  ...kör şairdi luiş vaz
+      metin  : dö kamoinş
+      duyulan: de camouinche
+  REPLACE  ...asya ya gönderecek olaydı
+      metin  : kamoinş
+      duyulan: camouinche
+  INSERT   ...kesin değil ya da
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ya da büyük olasılıkla
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...toprağı olmayan sınıf eğitimini
+      metin  : kuimbra
+      duyulan: coimbra
+  REPLACE  ...homeros u horatius u
+      metin  : petrarca
+      duyulan: petrarcha
+  INSERT   ...tek kariyer kapısı askerlikti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...askerlikti kuzey afrika ya
+      metin  : seuta
+      duyulan: ceuta
+  REPLACE  ...çarpışmasında sağ gözünü kaybetti
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...ve kavgacı şair ünü
+      metin  : rusiyu daki
+      duyulan: rusuyudaki
+  REPLACE  ...da buradan çıktı kamoinş
+      metin  : tronku
+      duyulan: troncu
+  INSERT   ...kapısını aşındırdı af mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kayıtlara göer kamoinş in
+      metin  : réis
+      duyulan: reis
+  INSERT   ...çıkmanın bedeli sürgündü mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...palmiye pazarı günü saun
+      metin  : bentu
+      duyulan: bento
+  REPLACE  ...başına övünme değil kamoinş
+      metin  : imgeyi
+      duyulan: imgayı
+  REPLACE  ...büyük destana dönüşmüştü ve
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...ve kayıpların mallarının mütevellisi
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...geçirip mirasçılarına ulaştırmakla yükümlüydü
+      metin  : biyografiler
+      duyulan: biografiler
+  REPLACE  ...konusunda anlaşamaz bazı kaynaklar
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...kaynaklar ellilerin sonunu bazıları
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...şair için tehlikeli ayrıcalıktı
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...kamoinş le tanışan tarihçi
+      metin  : diyogu du kotu
+      duyulan: diyogudu kothu
+  REPLACE  ...anılır babil ırmaklarının kıyısında
+      metin  : siyon
+      duyulan: sion
+  REPLACE  ...diline çeviren babil ve
+      metin  : siyon
+      duyulan: sion
+  REPLACE  ...yani yıllar sonra yayımlanacak
+      metin  : oş luziadaş
+      duyulan: oşluzyadaş
+  REPLACE  ...deniz tanrıçası vasco da
+      metin  : gama
+      duyulan: gamma
+  REPLACE  ...kantoları kucağında sakince karşılayacaktır
+      metin  : ve
+      duyulan: buneve
+  REPLACE  ...karşılayacaktır ve o kantoların
+      metin  : sahibinin liri
+      duyulan: sahibininleri
+  REPLACE  ...olmaktan çok ünlü olacaktır
+      metin  : metnin
+      duyulan: metin
+  REPLACE  ...müsveddesi bugün elimizde değil
+      metin  : kağıtları
+      duyulan: kayıtları
+  INSERT   ...doğu daki yılın sonunda
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...azize clara adlı gemi
+      metin  : kaşkaiş
+      duyulan: kaşkayş
+  REPLACE  ...attı kamoinş gemiden indiğinde
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...tomar kağıtla girdi kitap
+      metin  : lizbon
+      duyulan: de lisbon
+  REPLACE  ...kitap lizbon da basıldı
+      metin  : oş luziadaş
+      duyulan: oşluziyadaş
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: edebiyat-2026-10-09.duyulan.txt
