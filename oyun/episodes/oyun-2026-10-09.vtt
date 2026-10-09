@@ -1,0 +1,573 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.450
+Elinizde bir megabaytlık bir oyun var, satacağınız bilgisayarların hafızası otuz iki kilobayt ve her biri birbiriyle uyumsuz.
+
+2
+00:00:08.450 --> 00:00:18.660
+Cambridge'deki bir grup mühendis bu imkânsızlığı çözmek için oyunun altına hayalet bir makine yazdı ve tek bir dosyayı yirmi ayrı bilgisayarda çalıştırdı.
+
+3
+00:00:18.660 --> 00:00:24.710
+Sonra aynı zekâyı bir ofis programına uyguladılar; şirketi batıran şey o oldu.
+
+4
+00:00:32.910 --> 00:00:44.400
+1977'de MIT'in Bilgisayar Bilimleri Laboratuvarı'nda, Dinamik Modelleme Grubu adıyla bilinen ekibin odasında bir PDP-10 ana bilgisayarı duruyordu.
+
+5
+00:00:44.400 --> 00:00:49.010
+Oda serin tutulurdu, çünkü makine sıcakla iyi geçinmezdi.
+
+6
+00:00:49.010 --> 00:00:56.180
+Gece yarısından sonra laboratuvar boşalır, terminallerin yeşil imleci karanlıkta tek başına yanıp sönerdi.
+
+7
+00:00:56.180 --> 00:01:07.670
+O yıl, araştırma ağı ARPANET üzerinden kurumdan kuruma yayılan bir program vardı: Will Crowther ile Don Woods'un yazdığı Colossal Cave Adventure, yani Mağara Macerası.
+
+8
+00:01:07.670 --> 00:01:11.640
+Ekranda grafik yoktu, tek bir çizgi bile yoktu.
+
+9
+00:01:11.640 --> 00:01:19.770
+Program bir mağarayı yazıyla anlatıyor, oyuncudan "git kuzey" ya da "al lamba" gibi iki kelimelik emirler bekliyordu.
+
+10
+00:01:19.770 --> 00:01:25.500
+Dünyanın ilk metin macerasıydı ve laboratuvarlarda bir salgın gibi dolaşıyordu.
+
+11
+00:01:25.500 --> 00:01:39.550
+Dinamik Modelleme Grubu'ndaki dört genç araştırmacı, Tim Anderson, Marc Blank, Dave Lebling ve Bruce Daniels, Mağara Macerası'nı bitirdikten sonra hep aynı duyguyla kalkmışlardı masadan: güzeldi,
+
+12
+00:01:39.550 --> 00:01:42.080
+ama bu daha iyi yapılabilirdi.
+
+13
+00:01:42.080 --> 00:01:47.490
+Programın kendilerine "ne demek istediğini anlamadım" demesinden sıkılmışlardı.
+
+14
+00:01:47.490 --> 00:01:50.500
+İnsan gibi cümle kuramıyor muydu bu şey?
+
+15
+00:01:50.500 --> 00:01:54.950
+Yazmaya giriştikleri oyuna geçici bir ad koydular: Zork.
+
+16
+00:01:54.950 --> 00:02:02.920
+MIT argosunda, henüz adı konmamış, yarım kalmış, üstünde çalışılan programlara verilen anlamsız bir kelimeydi.
+
+17
+00:02:02.920 --> 00:02:05.450
+Çoğu geçici ad gibi kalıcı oldu.
+
+18
+00:02:05.450 --> 00:02:10.700
+Zork'u laboratuvarın kendi programlama dilinde, MDL adlı dilde yazdılar.
+
+19
+00:02:10.700 --> 00:02:15.790
+En çok emek harcadıkları yer, oyuncunun yazdığı satırı çözümleyen bölümdü.
+
+20
+00:02:15.790 --> 00:02:25.200
+Zork, "lambayı al ve kapıyı aç" diyebilen, "sandığı masanın üstüne koy" cümlesindeki üç nesneyi birbirinden ayırabilen bir makineydi.
+
+21
+00:02:25.200 --> 00:02:37.170
+Yer altında, çökmüş bir imparatorluğun kalıntıları uzuyordu: yüzlerce oda, su altı geçitleri, hırsızın gezindiği galeriler, çözmesi insanı günlerce uğraştıran bilmeceler.
+
+22
+00:02:37.170 --> 00:02:45.780
+Oyuncunun kafasında bir manzara kuruluyordu ve o manzara hiçbir ekranın çizemeyeceği kadar ayrıntılıydı, çünkü çizen ekran değildi.
+
+23
+00:02:45.780 --> 00:02:49.430
+Fakat bu olağanüstü şeyin bir müşterisi yoktu.
+
+24
+00:02:49.430 --> 00:02:57.240
+Zork, bir ana bilgisayarın içinde yaşıyordu ve ancak araştırma ağına bağlı birkaç yüz kişi ona erişebiliyordu.
+
+25
+00:02:57.240 --> 00:02:59.930
+Onlar da bedava oynuyordu.
+
+26
+00:02:59.930 --> 00:03:07.900
+Bu arada evlere, dükkânlara, garajlara küçük bilgisayarlar giriyordu; insanlar makinelerine takacak bir şey arıyordu.
+
+27
+00:03:07.900 --> 00:03:10.910
+Laboratuvarın mağarası yanlış yerdeydi.
+
+28
+00:03:10.910 --> 00:03:16.160
+22 Haziran 1979'da on kişi bir şirket kurdu.
+
+29
+00:03:16.160 --> 00:03:18.690
+Adını Infocom koydular.
+
+30
+00:03:18.690 --> 00:03:24.420
+Aralarında Zork'un yazarlarından üçü, bilgisayar ağlarının fikir babalarından J.
+
+31
+00:03:24.420 --> 00:03:25.830
+C.
+
+32
+00:03:25.830 --> 00:03:26.920
+R.
+
+33
+00:03:26.920 --> 00:03:31.370
+Licklider ve laboratuvarın yöneticilerinden Al Vezza da vardı.
+
+34
+00:03:31.370 --> 00:03:36.780
+Kurucuların çoğu akademisyendi ve niyetleri bir oyun şirketi işletmek değildi.
+
+35
+00:03:36.780 --> 00:03:43.630
+Planladıkları şey ciddi bir yazılım şirketiydi: kurumlara satılan, ağırlığı olan programlar.
+
+36
+00:03:43.630 --> 00:03:47.920
+Oyun, o günün dünyasında nakit getirecek bir başlangıçtı.
+
+37
+00:03:47.920 --> 00:03:54.450
+Bu ayrım sonradan çok önemli olacaktı, ama 1979'da kimse üstünde durmadı.
+
+38
+00:03:54.450 --> 00:03:59.860
+Önce şu anlaşılmaz işi yapmaları gerekiyordu: Zork'u eve sığdırmak.
+
+39
+00:03:59.860 --> 00:04:04.310
+Ana bilgisayardaki oyun yaklaşık 1 megabayt yer tutuyordu.
+
+40
+00:04:04.310 --> 00:04:11.000
+Satılabilecek en yaygın makinelerden biri olan TRS-80 ise 32 kilobaytla çalışıyordu.
+
+41
+00:04:11.000 --> 00:04:16.570
+Yani ellerindeki şey, hedef makinenin belleğinden otuz kattan fazla büyüktü.
+
+42
+00:04:16.570 --> 00:04:19.420
+Üstelik sorun yalnızca bellek değildi.
+
+43
+00:04:19.420 --> 00:04:26.270
+Zork, laboratuvarın kendi diline, kendi işletim sistemine, kendi makinesine yapışık yazılmıştı.
+
+44
+00:04:26.270 --> 00:04:36.320
+Ve piyasada tek bir küçük bilgisayar yoktu; birbirine hiç benzemeyen bir düzine makine vardı, her birinin belleği, diski, ekranı, dili başkaydı.
+
+45
+00:04:36.320 --> 00:04:42.530
+Bu makinelerin tamamına ulaşmak isteyen bir şirket, aynı oyunu on kez yazmak zorundaydı.
+
+46
+00:04:42.530 --> 00:04:46.020
+Hiçbir küçük şirketin bunu yapacak parası yoktu.
+
+47
+00:04:46.020 --> 00:04:51.110
+Infocom'un çözmesi gereken soru buydu: Zork hangi bilgisayara taşınacak?
+
+48
+00:04:51.110 --> 00:04:56.040
+Cevabı Joel Berez ile Marc Blank buldu ve cevap, soruyu reddetmekti.
+
+49
+00:04:56.040 --> 00:04:59.050
+Zork hiçbir bilgisayara taşınmayacaktı.
+
+50
+00:04:59.050 --> 00:05:02.700
+Zork'un ihtiyaç duyduğu bilgisayarı uyduracaklardı.
+
+51
+00:05:02.700 --> 00:05:11.950
+1979 boyunca, biri Pittsburgh'da biri Boston'da, çoğu telefonda geçen bir çalışmayla var olmayan bir makine tasarladılar.
+
+52
+00:05:11.950 --> 00:05:19.760
+Bu makinenin belleği, komut kümesi, çalışma mantığı kâğıt üstünde tanımlıydı, ama hiçbir fabrikada üretilmemişti.
+
+53
+00:05:19.760 --> 00:05:22.450
+Z-makinesi adını verdiler.
+
+54
+00:05:22.450 --> 00:05:32.500
+Oyunlar artık bu hayalet makinenin diline derleniyordu: Zork Uygulama Dili'nde yazılan metin, Z-makinesinin anlayacağı sıkıştırılmış bir komut dosyasına çevriliyordu.
+
+55
+00:05:32.500 --> 00:05:42.230
+Gerçek bir bilgisayarda oyunu çalıştırmak için tek bir şey gerekiyordu: o makineye, hayalet makineyi taklit eden küçük bir yorumlayıcı yazmak.
+
+56
+00:05:42.230 --> 00:05:46.360
+Oyunun kendisi her yerde harfi harfine aynı dosyaydı.
+
+57
+00:05:46.360 --> 00:05:52.730
+Bu, bir sayfalık bir fikir gibi görünür ama bir şirketin kaderini belirleyen türden bir karardı.
+
+58
+00:05:52.730 --> 00:06:05.180
+Yeni bir bilgisayar çıktığında Infocom oyunlarını yeniden yazmıyordu; bir kişi oturup o makineye yorumlayıcıyı yazıyordu ve şirketin bütün kataloğu bir anda o makinede çalışır hale geliyordu.
+
+59
+00:06:05.180 --> 00:06:09.630
+TRS-80 için ilk yorumlayıcıyı Scott Cutler yazdı.
+
+60
+00:06:09.630 --> 00:06:13.120
+Bellek sorununu da aynı kurnazlıkla çözdüler.
+
+61
+00:06:13.120 --> 00:06:20.770
+Oyun bütünüyle belleğe yüklenmiyordu; disketin üstünde duruyor, yalnızca o anda gereken parçalar okunuyordu.
+
+62
+00:06:20.770 --> 00:06:27.940
+Bugün sıradan görünen bu yöntem, 32 kilobaytlık bir makinede devasa bir dünyayı taşımanın tek yoluydu.
+
+63
+00:06:27.940 --> 00:06:37.830
+Yetmedi: yer altı imparatorluğunun haritasını ikiye böldüler, ilk yarıyı yaklaşık 100 odaya indirdiler, cümle çözümleyiciyi acımasızca küçülttüler.
+
+64
+00:06:37.830 --> 00:06:42.920
+Laboratuvar oyunu, satılabilir bir ürüne üç parçaya ayrılarak sığdı.
+
+65
+00:06:42.920 --> 00:06:45.450
+İlk parçanın adı Zork 1 oldu.
+
+66
+00:06:45.450 --> 00:06:54.700
+Aralık 1980'de, Personal Software, yani Kişisel Yazılım adlı dağıtımcı aracılığıyla Zork 1 TRS-80 için satışa çıktı.
+
+67
+00:06:54.700 --> 00:06:58.030
+Kısa süre sonra Apple 2 sürümü geldi.
+
+68
+00:06:58.030 --> 00:07:06.000
+Sonra sırayla diğerleri: Commodore, Atari, IBM PC, Macintosh, Amiga, CP/M makineleri.
+
+69
+00:07:06.000 --> 00:07:16.690
+Temmuz 1984'e gelindiğinde Infocom oyunları 15 ayrı bilgisayar modelinde, ayrıca genel CP/M ve MS-DOS sistemlerinde çalışıyordu.
+
+70
+00:07:16.690 --> 00:07:23.860
+Rakipleri bir platformdan diğerine geçerken aylar harcıyordu; Infocom bir hafta sonunda yeni bir pazara giriyordu.
+
+71
+00:07:23.860 --> 00:07:26.870
+Sayılar bu üstünlüğü hemen gösterdi.
+
+72
+00:07:26.870 --> 00:07:34.520
+1983'te şirket 450 bin kutu sattı ve 6 milyon dolar ciro yaptı.
+
+73
+00:07:34.520 --> 00:07:46.010
+Zork 1 yalnızca 1984 yılı içinde 150 binden fazla kopya sattı; 1986'ya gelindiğinde toplam satışı 380 bini aşmıştı.
+
+74
+00:07:46.010 --> 00:07:53.500
+1984'te şirketin satışı 725 bin kutuya, cirosu 10 milyon dolara çıktı.
+
+75
+00:07:53.500 --> 00:08:02.270
+Douglas Adams'la birlikte yapılan Otostopçunun Galaksi Rehberi, çıktıktan sonraki altı hafta içinde yaklaşık 60 bin kopya satmıştı.
+
+76
+00:08:02.270 --> 00:08:06.880
+Bu başarının ikinci yarısı mühendislik değil, kibirli bir özgüvendi.
+
+77
+00:08:06.880 --> 00:08:14.690
+Piyasa renkli grafiğe koşarken Infocom metinde kaldı ve bunu bir eksiklik gibi değil, bir üstünlük gibi sattı.
+
+78
+00:08:14.690 --> 00:08:22.180
+1983'te yayımlanan bir reklamlarının başlığı, grafiklerini güneşin değmediği yere koyduklarını söylüyordu.
+
+79
+00:08:22.180 --> 00:08:29.990
+Devamında anlatılan şey şuydu: Infocom'un grafikleri hiçbir ekranda görülemez, çünkü onları hiçbir ekran kaldıramaz;
+
+80
+00:08:29.990 --> 00:08:37.480
+o resimler oyuncunun kafasının içinde üretilir ve o donanımın yanında bütün ekranlar duvar yazısı gibi kalır.
+
+81
+00:08:37.480 --> 00:08:46.410
+Kutuların içine oyunun dünyasından nesneler koydular: polis dosyaları, haritalar, sahte gazete kupürleri, küçük tılsımlar.
+
+82
+00:08:46.410 --> 00:08:53.260
+Oyunları yazan kişilere "uygulayıcı" dediler ve adlarını kutunun üstüne yazdılar, tıpkı yazar adı gibi.
+
+83
+00:08:53.260 --> 00:08:58.670
+Massachusetts'teki ofis, iki yıl içinde 20 çalışandan 110 çalışana ulaştı.
+
+84
+00:08:58.670 --> 00:09:06.480
+Bilgisayar oyunu denince akla gelen en saygın marka olmuşlardı ve bunu tek bir piksel çizmeden yapmışlardı.
+
+85
+00:09:06.480 --> 00:09:16.850
+Böyle bir yerde şu düşüncenin doğması çok doğaldı: Her bilgisayara uyan bir hayalet makine kurmayı biliyorsak, bu numarayı neden yalnızca oyunlarda kullanıyoruz?
+
+86
+00:09:16.850 --> 00:09:21.460
+Aynı şeyi ofislerin kullandığı ciddi bir programda yaparsak ne olur?
+
+87
+00:09:21.460 --> 00:09:30.390
+Ekim 1982'de, iki programcının, Brian Berkowitz ile Richard Ilson'ın yürüttüğü küçük bir araştırma projesi başladı.
+
+88
+00:09:30.390 --> 00:09:34.360
+Amaç, kurumlara satılacak bir veritabanı programıydı.
+
+89
+00:09:34.360 --> 00:09:42.490
+Şirketin içinde başlangıçta kimsenin fazla önemsemediği bu çalışma, 1983'te stratejik öncelik haline geldi.
+
+90
+00:09:42.490 --> 00:09:50.140
+Al Vezza'nın baştan beri kurmak istediği şirkete geçiş vakti gelmişti; oyunlar görevini yapmış, parayı getirmişti.
+
+91
+00:09:50.140 --> 00:09:52.830
+Sıra ağırlığı olan programdaydı.
+
+92
+00:09:52.830 --> 00:10:02.720
+Ocak 1984'te Boston Bankası'ndan 2 milyon dolar kredi alındı; ayrıca bir yatırım kuruluşundan 500 bin dolar sermaye geldi.
+
+93
+00:10:02.720 --> 00:10:11.010
+Mart 1984'te, yirmi yılı aşkın sektör deneyimi olan John Brackett iş ürünleri bölümünün başına getirildi.
+
+94
+00:10:11.010 --> 00:10:16.900
+Şirket büyük bir binaya taşındı; yıllık kirası 600 bin doların üstündeydi.
+
+95
+00:10:16.900 --> 00:10:25.670
+Mayıs 1985'te, geliştirme için ikinci bir DEC ana bilgisayarı kiralandı; bu da yüz binlerce dolarlık bir taahhüttü.
+
+96
+00:10:25.670 --> 00:10:30.120
+Oyunların kazandırdığı para, oyun olmayan tarafa akıyordu.
+
+97
+00:10:30.120 --> 00:10:35.850
+Program 31 Ocak 1985'te Cornerstone adıyla çıktı.
+
+98
+00:10:35.850 --> 00:10:38.540
+Etiket fiyatı 500 dolardı.
+
+99
+00:10:38.540 --> 00:10:51.310
+Teknik olarak Cornerstone'un kalbinde, Infocom'u Infocom yapan fikir duruyordu: kendi sanal makinesi vardı, yani program doğrudan donanımın diline değil, bir ara katmana yazılmıştı.
+
+100
+00:10:51.310 --> 00:10:55.760
+Böylece her bilgisayara taşınabilecekti, tıpkı Zork gibi.
+
+101
+00:10:55.760 --> 00:11:00.210
+Ama 1985'te taşınacak bir yer kalmamıştı.
+
+102
+00:11:00.210 --> 00:11:05.300
+Kurumsal masaüstünde savaş bitmiş, IBM PC standart olmuştu.
+
+103
+00:11:05.300 --> 00:11:11.190
+Infocom, artık var olmayan bir sorunu çözmek için en pahalı çözümünü kullanmıştı.
+
+104
+00:11:11.190 --> 00:11:14.200
+Dahası, bu katmanın bir bedeli vardı.
+
+105
+00:11:14.200 --> 00:11:21.530
+Metin bir oyunda bir saniyenin kaybı hissedilmez; bir veritabanı on binlerce kaydı sıralarken hissedilir.
+
+106
+00:11:21.530 --> 00:11:36.380
+Bilgisayar dergisi PC Magazine, yani PC Dergisi, programı ölçmeye kalktığında tek bir metin dosyasının içe aktarılması alt seviye makinelerde 3,5 saat sürdü ve benzer testlerden vazgeçildi.
+
+107
+00:11:36.380 --> 00:11:44.830
+Üstüne, Cornerstone programlanabilir değildi: kullanıcı onunla kendi uygulamasını, kendi otomatik işlemlerini yazamıyordu.
+
+108
+00:11:44.830 --> 00:11:54.880
+Oysa piyasanın hâkimi dBase'i vazgeçilmez yapan şey tam olarak buydu; insanlar onunla kendi muhasebe programını, kendi stok takibini kuruyordu.
+
+109
+00:11:54.880 --> 00:12:04.610
+Cornerstone'dan aylar sonra çıkan rakip Paradox, 700 dolara, hem doğrudan donanımda çalışan hızıyla hem de kendi programlama diliyle geldi.
+
+110
+00:12:04.610 --> 00:12:07.300
+Satış hedefi 5 milyon dolardı.
+
+111
+00:12:07.300 --> 00:12:14.790
+Cornerstone bu hedefi 3 milyon dolardan fazla ıskaladı; ilk yılında yaklaşık 10 bin kopya satıldı.
+
+112
+00:12:14.790 --> 00:12:19.080
+Fiyat sonradan 100 dolara indirildi, bir şey değişmedi.
+
+113
+00:12:19.080 --> 00:12:23.690
+Felaketin ikinci ayağı aynı yıl, beklenmedik yerden geldi.
+
+114
+00:12:23.690 --> 00:12:26.700
+Bütün sektörde oyun satışları çöktü.
+
+115
+00:12:26.700 --> 00:12:38.030
+Infocom 1984'te 725 bin kutu satmıştı; 1985'te bu sayı 511 bine indi, yani yüzde 30 düştü.
+
+116
+00:12:38.030 --> 00:12:42.960
+Şirketin kurtarıcı tarafı, tam da en çok para harcadığı yılda zayıfladı.
+
+117
+00:12:42.960 --> 00:12:54.450
+Zaten 1984'ü, cirosunu yüzde 67 büyütmüş olmasına rağmen iş ürünleri bölümünün masrafları yüzünden 2,4 milyon dolar zararla kapatmışlardı.
+
+118
+00:12:54.450 --> 00:12:58.900
+1985'in zararı 4 milyon doları aştı.
+
+119
+00:12:58.900 --> 00:13:03.670
+Bunun üzerine alacaklılar kredileri vadesinden önce geri istedi.
+
+120
+00:13:03.670 --> 00:13:07.160
+Sonbaharda üç dalga işten çıkarma yaşandı.
+
+121
+00:13:07.160 --> 00:13:13.530
+Haziran 1985'te 110 kişi olan kadro üç ay içinde 40 kişiye indi.
+
+122
+00:13:13.530 --> 00:13:19.580
+Oyunları yazan uygulayıcıların bir kısmı, adları kutuların üstünde dururken binadan çıktı.
+
+123
+00:13:19.580 --> 00:13:27.710
+13 Haziran 1986'da Activision, Infocom'u 7,5 milyon dolara satın aldı ve borçlarını üstlendi.
+
+124
+00:13:27.710 --> 00:13:32.960
+Şirket bir süre daha oyun üretti, ama karar merkezi artık başka bir kıtadaydı.
+
+125
+00:13:32.960 --> 00:13:38.050
+5 Mayıs 1989'da Massachusetts'teki ofis kapatıldı.
+
+126
+00:13:38.050 --> 00:13:43.780
+Bu hikâyenin acı tarafı, Infocom'un yanlış bir fikir yüzünden batmamış olmasıdır.
+
+127
+00:13:43.780 --> 00:13:48.070
+Batıran şey, doğru fikrin yanlış yere uygulanmasıydı.
+
+128
+00:13:48.070 --> 00:13:58.120
+Sanal makine, metin oyunlarında gerçek bir acıyı dindiriyordu: bellek kıttı, makineler uyumsuzdu, metin sıkıştırılabilirdi ve hız kimsenin umurunda değildi.
+
+129
+00:13:58.120 --> 00:14:01.930
+Veritabanında bu dört şartın hiçbiri geçerli değildi.
+
+130
+00:14:01.930 --> 00:14:06.540
+Aynı çözüm, bağlam değişince maliyetten başka bir şey üretmedi.
+
+131
+00:14:06.540 --> 00:14:13.550
+Mühendislikte bir yöntemin iyi olup olmadığı, yöntemin kendisinden değil, hangi soruna takıldığından anlaşılır.
+
+132
+00:14:13.550 --> 00:14:17.040
+İkinci tarafı ise bir süreklilik hikâyesi.
+
+133
+00:14:17.040 --> 00:14:19.570
+Z-makinesi ölmedi.
+
+134
+00:14:19.570 --> 00:14:29.300
+Oyun dosyaları 1980'de tanımlandığı biçimde durduğu için, her yeni donanım kuşağı için yalnızca yeni bir yorumlayıcı yazmak yeterli oldu.
+
+135
+00:14:29.300 --> 00:14:41.270
+Bugün o oyunlar cep telefonlarında, tarayıcıda, akla gelebilecek her makinede çalışıyor; üstelik bunu Infocom'un kendisi değil, meraklılardan oluşan bir topluluk sürdürüyor.
+
+136
+00:14:41.270 --> 00:14:48.440
+Inform adlı özgür araçlarla yazılan yeni metin oyunları hâlâ aynı hayalet makinenin dosya biçimini kullanıyor.
+
+137
+00:14:48.440 --> 00:15:01.850
+Programı donanımdan ayıran o ara katman fikri de, sonraki on yıllarda yazılım dünyasının ana yöntemlerinden biri oldu; Infocom'un oyunlarını kurtarmak için bulduğu yöntem, sektörün olağan hali haline geldi.
+
+138
+00:15:01.850 --> 00:15:06.140
+Cornerstone'a gelince, o da tuhaf bir biçimde hayatta kaldı.
+
+139
+00:15:06.140 --> 00:15:16.350
+Uzun süre yalnızca bir başarısızlık anekdotu olarak anılan program, kısa süre önce meraklıların uğraşıyla modern bilgisayarlarda yeniden çalıştırılabilir hale getirildi.
+
+140
+00:15:16.350 --> 00:15:21.760
+40 yıl sonra, bir şirketi yıkan veritabanını açıp içine bakmak mümkün.
+
+141
+00:15:21.760 --> 00:15:31.010
+Grafiği olmayan imparatorluk, yer altındaki haritasını hâlâ okunur halde bırakmış durumda; onu yıkan şeyin arşiv kaydı da yanında duruyor.
+
+142
+00:15:31.010 --> 00:15:34.180
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+143
+00:15:34.180 --> 00:15:37.510
+Yeni bir hikâyede yeniden buluşmak üzere.
