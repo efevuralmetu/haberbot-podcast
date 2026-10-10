@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-10.mp3
+
+beklenen 1440 kelime | duyulan 1472 kelime | eşleşme %89.9
+sayı ifadesi: metinde 303, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sinemanın ilk gişe
+      metin  : rekortmeninin
+      duyulan: rekordmeninin
+  REPLACE  ...tren istasyonunda oyuncak satıyordu
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...mayısında paris in doğu
+      metin  : yakasındaki montröy de
+      duyulan: yakası ndaki montroyde
+  REPLACE  ...de o oynayacaktı adı
+      metin  : jorj melyes ti
+      duyulan: george melliesti
+  REPLACE  ...çekmeye hazırlandığı şeyin adı
+      metin  : lö vuayaj dan
+      duyulan: le voyage dans
+  REPLACE  ...lö vuayaj dan la
+      metin  : lün
+      duyulan: lune
+  REPLACE  ...yani aya seyahat olacaktı
+      metin  : melyes
+      duyulan: melliest
+  REPLACE  ...değil sihirden gelmişti babası
+      metin  : jan lui melyes
+      duyulan: john louis melliest
+  REPLACE  ...ve hazır meslek bırakmıştı
+      metin  : jorj
+      duyulan: george
+  INSERT   ...ayakkabı fabrikasındaki payını satıp
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...in ünlü sihir sahnesi
+      metin  : teatr rober uden
+      duyulan: theater robert ouden
+  REPLACE  ...rober uden i yani
+      metin  : rober uden tiyatrosu nu
+      duyulan: robert ouden tiyatrosunu
+  REPLACE  ...neyin görünmeyeceğine karar vermektir
+      metin  : melyes
+      duyulan: melliest
+  INSERT   ...yıllarca mükemmelleştirdi ve sonra
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...an ne olduğunu anladı
+      metin  : lümiyer
+      duyulan: lumièer
+  REPLACE  ...lümiyer kardeşleer makineleri için
+      metin  : frank
+      duyulan: franc
+  REPLACE  ...teklif etti teklif reddedildi
+      metin  : melyes
+      duyulan: melliest
+  INSERT   ...kendine kamera yaptı ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dile dönüştü aya seyahat
+      metin  : o dilin
+      duyulan: odin in
+  REPLACE  ...dilin en iddialı cümlesiydi
+      metin  : melyes
+      duyulan: melliest
+  REPLACE  ...yerden almadı kaynağı birbirine
+      metin  : jül vern
+      duyulan: jules verne
+  REPLACE  ...a adam fırlatan romanı
+      metin  : h
+      duyulan: hay
+  REPLACE  ...fırlatan romanı h g
+      metin  : wells in
+      duyulan: wilson
+  REPLACE  ...da yaşayan yaratıklar fikri
+      metin  : ofenbah
+      duyulan: offenbach
+  REPLACE  ...tuttu yani yıl önce
+      metin  : lümiyer
+      duyulan: lumièer
+  REPLACE  ...düşünürsek dakika akıl almaz
+      metin  : ölçekti kadro
+      duyulan: öl çekti cadro
+  REPLACE  ...ay da yaşayan selenitleri
+      metin  : varyete
+      duyulan: variyete
+  REPLACE  ...nun dansçılarıydı profesör barbanfuyi
+      metin  : i
+      duyulan: yi
+  REPLACE  ...ay büyüyor seyirci de
+      metin  : mermiyle
+      duyulan: mermi ile
+  REPLACE  ...kurgu araya girdi ve
+      metin  : kremaya
+      duyulan: crema ya
+  REPLACE  ...teki boyama atölyesinin başında
+      metin  : elizabet tüyye
+      duyulan: elisabeth tuyé
+  INSERT   ...fırçalarla elle boyuyordu karede
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...çıkarılabiliyordu siyah beyaz kopya
+      metin  : frank
+      duyulan: franc
+  REPLACE  ...frank elle boyanmış kopya
+      metin  : franktı
+      duyulan: franc tı
+  INSERT   ...boyanmış kopya franktı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tiyatrosunda sihir gösterisinin ardından
+      metin  : seyirciyle
+      duyulan: seyirci ile
+  INSERT   ...birilerine gitti sorun şuydu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...thomas edison un şirketi
+      metin  : siegmund lubin in
+      duyulan: zygmunt luby nin
+  INSERT   ...paranın neredeyze hiçbirini görmedi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...numaraya hayret ettiği dünyaydı
+      metin  : (yok)
+      duyulan: lara
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 100 kelime | duyulup metinde OLMAYAN: 131
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-10-10.duyulan.txt

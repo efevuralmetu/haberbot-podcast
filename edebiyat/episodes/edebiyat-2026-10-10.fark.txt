@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-10.mp3
+
+beklenen 1340 kelime | duyulan 1378 kelime | eşleşme %95.1
+sayı ifadesi: metinde 273, duyulanda 172  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...eden yayın düştü adı
+      metin  : markopaşa ydı
+      duyulan: marco paşaydı
+  REPLACE  ...acı deyime dönüşmüştü derdini
+      metin  : marko paşa ya
+      duyulan: marco paşay a
+  REPLACE  ...gazetelerinin dolaylarında kaldığı ülkede
+      metin  : markopaşa nın
+      duyulan: marco paşanın
+  REPLACE  ...gazetenin ömrü uzun olmadı
+      metin  : markopaşa
+      duyulan: marco paş a
+  REPLACE  ...bulgaristan sınırı yakınlarında öldürüldü
+      metin  : markopaşa yı
+      duyulan: marco paş ayı
+  REPLACE  ...mehmet nusret ti aralık
+      metin  : heybeliada
+      duyulan: te heybeliyada
+  INSERT   ...ailenin çocuğu olarak doğdu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...harp okulu na geçti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...na geçti subay çıktı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ayrılması kendi tercihi değildi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...i aldı soyadı ize
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...istedikçe o ad çoğaldı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...iddiasıyla yeniden mahkum edildi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...birlikte tutuklandı ve aylarca
+      metin  : içeride
+      duyulan: içerde
+  DELETE   ...içeride kaldı toplamda ömrünün
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...edemiyordu adı matbaada risk
+      metin  : kalemiydi
+      duyulan: kalemi idi
+  INSERT   ...kullandığı takma adların sayısı
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...öykü ülke dışına çıktı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...adı taşıyan kitap yarım
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...ödüller de orada bitmedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bulgaristan daki mizah yarışmasında
+      metin  : kirpi yi
+      duyulan: kirpiyi te
+  REPLACE  ...yi asya afrika yazarlar
+      metin  : nin
+      duyulan: birliğinin
+  REPLACE  ...kişiyi o hale getiren
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...her şeyi tek yeer
+      metin  : yöneltmeye
+      duyulan: yönetmeye
+  INSERT   ...ve yoksul çocuklar vakıf
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...seçildi i lk temeli
+      metin  : eylül ünde
+      duyulan: ün eylülünde
+  REPLACE  ...kitapların telifini peşin istedi
+      metin  : telif
+      duyulan: en terfa ıs
+  INSERT   ...çatalca daki ilk çocuklar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hiç istemediği şiddetle açıldı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yayımlaması büyük tartışma başlatmıştı
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...büyük tartışma başlatmıştı temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve ateşe verildi otelde
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...yıl boyunca hem ağır
+      metin  : yas
+      duyulan: yaz
+  INSERT   ...ağır hınç taşıdı temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nesin ve yanında bulunan
+      metin  : kişiyle
+      duyulan: kişi ile
+  INSERT   ...çocuk yurduyla kalmadı vakıf
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tam olarak bunu istemişti
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...bunu istemişti nöron edebiyat
+      metin  : de
+      duyulan: te
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 26 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: edebiyat-2026-10-10.duyulan.txt

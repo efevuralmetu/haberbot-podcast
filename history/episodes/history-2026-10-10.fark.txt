@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-10.mp3
+
+beklenen 2442 kelime | duyulan 3166 kelime | eşleşme %4.9
+sayı ifadesi: metinde 247, duyulanda 92  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...cut that tree down
+      metin  : temmuz te
+      duyulan: mus tek
+  REPLACE  ...down temmuz te koer
+      metin  : savaşı nı durduran belge barış antlaşması değildi ateşkes metniydi
+      duyulan: savashan dur duran bal ge barish antlash mas deil de biratishke s mek ni de
+  REPLACE  ...değildi ateşkes metniydi yani
+      metin  : savaşın bittiğini değil yalnızca susturulduğunu söyleyen kağıt o kağıdın imzalandığı yer yarımadanın tam ortasında haritalarda adı bile zor bulunan küçük yerleşimdi panmunjom savaş boyunca pirinç tarlalarının arasında kalmış bu köyün yakınına görüşmeler için barakalar kuruldu ve etrafında yaklaşık
+      duyulan: savashan bit tini dil yal nus ja sus tur ul du nus ole an kat in the half of the year the team would take off from the far side of an ocean to cut that tree down at the world s tensest border theer stood a
+  REPLACE  ...ve etrafında yaklaşık meter
+      metin  : çapında daier çizildi buna joint security area yani ortak güvenlik bölgesi adı verildi dünyanın en silahlı sınırının tam göbeğinde ordunun temsilcilerinin aynı masaya oturup birbirine bakabildiği tek nokta orasıydı ortak güvenlik bölgesi nin en tuhaf tarafı içinden geçen askeri sınır hattının kağıt üzerinde var olup yerde olmamasıydı mavi boyalı toplantı barakalarının içinden geçen hat masanın ortasından ayrılıyordu ama dışarıda çakıllı alanda çizgi yoktu
+      duyulan: poplar blocking the view from a guard post the team sent to pruneit did not know the tree was said to have been planted by the great leader with his own hands at the world s tensest border the team would take off from the far side of an ocean to cut that tree down at the world s tensest borders theer stood a meter poplar blocking the view from a guard post at the world s tensest border theer stood a meter poplar blocking the view from a guard post a smal group of screening officers police station impact portchard manager parks fort ver gianca adapted the left and left side chancellor ofae news not not stone or elena finally
+  REPLACE  ...alanda çizgi yoktu i
+      metin  : ki tarafın nöbetçileri yıl boyunca aynı avluda birbirlerinin arasından geçerek devriye attı kuzeyli asker güneyli askerin omzunu sıyırarak yürüyebiliyor aynı toprağa basıyor aynı yağmurda ıslanıyordu silahlar hafifti kurallar katıydı ateş açmak düşünülemezdi bu ortak güvenlik bölgesi ndeki şiddet hep eski şiddet biçimine yumruğa sopaya dirseğe geri döndü yıllar içinde burada atılan tekmeler devrilen masalar yakalardan çekilmeler neredeyze ritüele dönüştü dairenin kuzeybatı kenarında küçük dereyi aşan daracık köprü vardı adı dönüşü olmayan köprü ydü ve bu adı teki büyük esir değişiminden almıştı savaş esirleri köprünün başına getirilip tek soru soruluyordu hangi tarafa gitmek istiyorsun verilen cevap kesindi tahtaları geçtikten sonra geri dönüş yoktu ne ailesine ne doğduğu köye ne
+      duyulan: would like to give my introduction to the mr gunay dambakildan the beer jib in the decolored we aer the kibir kachas kiran guvaneet a kebir shea bali
+  REPLACE  ...doğduğu köye ne de
+      metin  : bıraktığı hayata binlerce insan o köprüyü tek yöne yürüdü ve köprünün adı kaldı köprünün hemen yanında birleşmiş milletler komutanlığı nın numaralı kontrol noktası duruyordu askerlerin kendi arasında taktığı ad dünyanın en yalnız karakoluydu çünkü gerçekten yalnızdı yanı kuzey koer gözetleme mevzileriyle çevrilmişti güneyden bakıldığında cebin dibinde kalıyordu ve oradaki askerin güvenliği tek şeye bağlıydı geride yüksekteki numaralı gözetleme noktasından görülebilmek numaralı noktaya saldırsa
+      duyulan: guerida dick sector kefesh numerala goes at lemon octa sundang girl a bil make be recitry numerala noctia saldar sa
+  REPLACE  ...numaralı noktaya saldırsa haber
+      metin  : ancak gözle görülerek anlaşılabilirdi telsiz kesilirse
+      duyulan: anjak goes the girl eric the syllable er de telesis kasilir se
+  REPLACE  ...anlaşılabilirdi telsiz kesilirse kalan
+      metin  : tek bağ o görüş hattıydı i şte o görüş hattının tam ortasında ağaç duruyordu yaklaşık meter boyunda
+      duyulan: tekba or guru shot leader ishta or guru shot in an tamortis in the barrage to reorder yaklisha kotus metro in the beer
+  REPLACE  ...yaklaşık meter boyunda kavak
+      metin  : kışın sorun değildi çıplak dalların arasından karakol
+      duyulan: christian sorin deal de chip luck dollar in a recent caracol
+  REPLACE  ...dalların arasından karakol pekala
+      metin  : görünüyordu ama her yaz yapraklar sıklaştıkça ağaç perde gibi kapanıyor ve numaralı kontrol noktası geride bıraktığı herkesin gözünden siliniyordu çözüm basitti ve yıllardır uygulanıyordu yaz ortasında işçi ekibi gidip alt dalları buduyordu bu bakım işi ateşkes düzeni içinde karşı tarafa da bildirilen sıradan can sıkıcı rutindi yazında ize yarımadada hiçbir şey sıradan değildi amerika
+      duyulan: guru new order amahari as yah prac larsa clash tukcha hb per day give it up yor way each numerala control noctus get it a bracket to the hair case in gazan dance in yor order chosen by city way you larder regal a new order he has orders the be ish to a kibig e dip alta little do order boo bakum ish a test case do zenny each in the car sitar for the builder line sir adan jansa could you be routine de gang sum years and they say yor mother the hb she s radan deal de america
+  REPLACE  ...değildi amerika vietnam dan
+      metin  : çekilmenin utancını henüz sindiremeden saygon un düşüşünü seyretmişti ve koer deki varlığı artık iç siyasetin tartışma konusuydu başkanlık seçimi yılıydı muhalefetin adayı
+      duyulan: check in menu tangent a heinous in the remedian saigon the shushen us a red misty they cal it a kivar le arctic each sea asset in tartish makano pseudo we er basking looks at you me elida muhalif it in a day
+  REPLACE  ...muhalefetin adayı jimmy carter
+      metin  : kampanyasında koer den asker çekme vaadini yüksek sesle tekrarlıyordu pyongyang bu çatlağı görüyordu ağustos ayında bağlantısızlar hareketi nin kolombo daki zirvesinde kuzey koer amerikan askerlerinin yarımadadan çıkarılması çağrısını diplomatik gündemin tepesine taşımak için uğraşıyordu sınırda ize gerilim yıllardır birikiyordu askersizleştirilmiş bölgenin geçirilmiş tüneller bulunmuş nöbetçi çatışmalarında taraftan onlarca asker ölmüştü ağustos un ilk haftasında budama ekibi ağaca gitti kuzey koreli nöbetçiler bu kez farklı davrandı
+      duyulan: campañas and a korean oscar check me vadina you success let a crowd order p young young but shot lager you order
+  REPLACE  ...kez farklı davrandı i
+      metin  : şçileer ağaca dokunurlarsa öleceklerini söylediler ekip aletlerini toplayıp geri döndü birleşmiş milletler komutanlığı tarafında bu tehdit geri adım atmak için gerekçe olarak görülmedi yapılacak işin tarihi yalnızca ileriye alındı ağaç budanacaktı yeni tarih ağustos çarşamba günüydü ağustos sabahı hava nemli ve sıcaktı saat sularında ortak güvenlik bölgesi ne araç girdi araçlarda baltalarını ve testerelerini taşıyan güney koreli sivil işçi vardı bunlar koer hizmet ne bağlı cephe gerisindeki ağır işleri yıllardır yapan adamlardı amerikalı ve güney koreli
+      duyulan: was to say in the bal and to seize that hurricane in colombo decades in the kuz a coer american a scarlet in in yor mother dan check a real massage a diplomatic gundam in tepes in a tashima kitchen or a short sooner they say get him you larder be required a scarce is leister in which bergen in alton dang get you to nail or balloon mush no bitchy chattu smalar and a guitar after al nargil scaer al mister austin il cafta send a buddha maiki be a jag it to cuz a corelli no bet you learn book has fucked with or under each chiller a a jadokun or larsa olegic learn a soul a delar aqib al that learning to play up get it do burlish me let learn come out the tariff and the booty it get a the mat makichan beer get a choleric girl medi you pul a jackie shintari he alnus j ileri al under arch budhana jakta any tari hostos char shamba ganudo hostos saba have a name live a sujakta sat solar in the or talk to van nick berg is in a key arach girda arach larda balta learn of a tester lerna tashian beshgun a corelli civilist you aer de bunar corey his met the early in a baller jpeg iris in the key irish they
+  REPLACE  ...ve güney koreli er
+      metin  : ile subay eşlik ediyordu ortak güvenlik bölüğünün komutanı arthur bonifas güney koreli muadili
+      duyulan: you larder yappin adam larda lara a miracle of a gun a corelli air ila ootsubai ish like a door do or talk to van nick berlin and come out a use bus you aer to her boniface you er a corelli moa de lee use bus you
+  REPLACE  ...koreli muadili kim moon
+      metin  : hwan ve üsteğmen
+      duyulan: won they used a man
+  REPLACE  ...ve üsteğmen mark barrett
+      metin  : bonifas yaşındaydı
+      duyulan: boniface russian data
+  REPLACE  ...bonifas yaşındaydı west point
+      metin  : mezunuydu eşi
+      duyulan: mason odo a shiva each to do a word we cal it a kigar eves recently son a gal misty you never say you er eva don t you she s really a puer barrett yashin data also by kissing in the user in the ish kiya fit award shrink ish gachak dan deber bach a shida dollar case make guru show at mark don t make each chiller ajat arman up al dollar case may have a shtadak dan kasasura sonra kapranun kuzayu junda hurricane girl do cuz a corey orders and anka damnit a man pakchoul yananda bishka daraskar legale de pakchoul or talk to van nick burgers in the gareva pan america learn you larder ton of the beer used aggressive tower use and then a beer cup ekada tak mush larda ilk based a kika each beer she al mother who s a corraller canarda duroop would am i say ready eater as yolk bar ish yolk sonra pakchoul a check to the asian dor dural masa nice today garak jesse or sabahan between say rene bela lijek dream lady why do kim is hung candice a dick misty candy a liri lebesse lemisti the arch an gazette in the blue yard boniface tartish my issue dermid a stila de de vamit nee so lady we er packed to a certain under boo protocol a chissundan start beer car shel actor beer em rin red diva beer kuchum semi charity park chil asker learned and bernie kosher acupron in car she s an aiola de burchach the kika each in the birarach gal de we each in the year mika daraskar in de boo a damn learn ellen debalta yocto levy of a so patashio larda sonra see tonic leran hips in an aina beach in the hot air ladder kuchuk beer iron to a lab a schlatter park chil column the key saty chukar de beer mendeley was and the sarda mendeley jb neck or do boo douche maya has her lanan beer in in harakita de a shiassa new korean nea pajana and jedan be land beer in in harakita sonra bar iraq em rivar de older and kavga la saniya sir do boo kadar kasasur missing in sebe be soldering and beer kavga al mamma sita kuzi kareli asker ler door done bonifacio nel day park chulo new year a devir de
+  REPLACE  ...point mezunuydu eşi ve
+      metin  : çocuğu vardı ve koer
+      duyulan: enas bech asker is chiller in panic labor act about al or loser in a chulanda who dama each in get a real an outlet ler beer kach saniya each in the gina yet i l it in a donush mr or tack given nick burgeson in corollary get a given nick a kibbe aer silly i l do the the attention mother adam laryum rupla dear sickly a lerna get yor declaring a say the car she look wheer the captain y al nazja beer kishi arasis kurt aldo barrett or you like sanny alert a callable in the shinai tilde i l chuck beard over and use it in then a play pashada kichu kuradush to you car dumb buckled in the gurne mein beer chuk into the book i tuck vehicle wet lergelep kuz a corellar kirp runen karshesen a chekil dictan sonada gazette lemon octos and a key asker ler to half beer she is them a sir doo doo chuk ru nichin de beer kach asker that klushek dog sanda kika boyunja beer bal to you aer a leranda dolash turda orea kimin indine a shada ne old kim seguer me or do aramma a kibbe barretta olash tundag ench sub i aer a leader we er so he and octos and i m get yor lyrics so le hasta nega to make us a real ache karil de yoldo oldo olay or tak given lick burgers in in yor mutual luktari hinda girl mush enkano alaida the american order sonan asker sizle shtiril mush burga
+  REPLACE  ...vardı ve koer deki
+      metin  : görev süresinin sonuna gelmişti günleri sayıyor eve dönüş hazırlığı yapıyordu barrett yaşındaydı o sabah ikisinin
+      duyulan: energy kibbe
+  REPLACE  ...o sabah ikisinin de
+      metin  : üzerinde iş kıyafeti vardı çünkü iş gerçekten de bahçe işiydi dalları kesmek görüşü açmak dönmek i şçiler ağaca tırmanıp alt dalları kesmeye başladıktan kısa süer sonra köprünün kuzey ucunda hareket görüldü kuzey koer ordusundan kıdemli teğmen pak chul yanında kadar askerle geldi pak chul ortak güvenlik bölgesi nde görev yapan amerikalıların yıllardır tanıdığı agresif tavrı yüzünden köpek adı takmışlardı i lk dakika hiçbir şey olmadı kuzey koreliler kenarda durup budamayı seyretti itiraz yok bağırış yok sonra pak chul öne çıktı ve işin durdurulmasını istedi gerekçesi o sabahın bütün seyrini belirleyecek cümleydi bu ağacı kim il sung un kendisi dikmişti kendi elleriyle beslemişti ve ağaç gözetiminde büyüyordu bonifas tartışmayı sürdürmedi i şçileer devam etmelerini söyledi ve pak chul a sırtını döndü bu protokol açısından sert karşılıktı emrin reddi ve küçümseme işareti pak chul askerlerinden koşarak köprünün karşısına yolladı dakika içinde araç geldi ve içinden kadar asker indi bu adamların elinde balta yoktu levye ve sopa taşıyorlardı sonrası tanıkların hepsinin aynı biçimde hatırladığı küçük ayrıntıyla başladı pak chul kolundaki saati çıkardı mendile özenle sardı mendili cebine koydu bu dövüşmeye hazırlanan hareketiydi eşyasını koruyan ne yapacağını önceden bilen hareketi sonra bağırarak emri verdi öldürün kavga ile saniye sürdü bu kadar kısa sürmesinin sebebi saldırının kavga olmamasıydı kuzey koreli askerler doğrudan bonifas a yöneldi pak chul yeer devirdi ve en az asker işçilerin panikle bıraktığı baltalarla üzerine çullandı budama için getirilen aletler saniye içinde cinayet aletine dönüşmüştü ortak güvenlik bölgesi nin kuralları gereği güvenlik ekibi ağır silahlı değildi ve ateş açmadı adamlar yumrukla dirsekle ellerine geçirdikleri neyze karşılık verdi ekipten yalnızca kişi yarasız kurtuldu barrett o ilk saniyelerde kalabalığın dışına itildi alçak duvarın üzerinden atlayıp aşağıdaki çukura düştü yukarıdan bakıldığında görünmeyen çöküntüydü bu takviye kuvvetler gelip kuzey koreliler köprünün karşısına çekildikten sonra da gözetleme noktasındaki askerler tuhaf şey izlemeyi sürdürdü çukurun içinde asker yaklaşık dakika boyunca baltayı aralarında dolaştırdı oraya kimin indiğini aşağıda ne olduğunu kimse göremiyordu arama ekibi barrett a ulaştığında genç subay ağır yaralıydı sıhhiye noktasından geçirilerek seul e hastaneye götürülmek üzeer yola çıkarıldı yolda öldü olay ortak güvenlik bölgesi nin yıllık tarihinde görülmüş en kanlı olaydı ve amerikan ordusunun askersizleştirilmiş bölgedeki en acı kaybıydı bütün bunların sonunda ortada
+      duyulan: between bunar and son under or tada
+  REPLACE  ...bunların sonunda ortada duran
+      metin  : nesne ize değişmemişti
+      duyulan: ness nay said aish me mr
+  REPLACE  ...nesne ize değişmemişti kavak
+      metin  : budanmamış dallarıyla
+      duyulan: budan mamish darila
+  REPLACE  ...kavak budanmamış dallarıyla hala
+      metin  : numaralı kontrol noktasının önünü kapatıyordu
+      duyulan: each numeral the control noctus and an nuka pati or do
+  REPLACE  ...kapatıyordu haber washington a
+      metin  : koer deki saatle saat geriden akşam karanlığında ulaştı ertesi gün dışişleri bakanı
+      duyulan: korean a kiss at le each side get it an action car and then the olash to ertase kyun dish is later bakana
+  REPLACE  ...dışişleri bakanı henry kissinger
+      metin  : ın başkanlığında
+      duyulan: and bash gun then that
+  REPLACE  ...kissinger ın başkanlığında washington
+      metin  : özel eylem grubu toplandı
+      duyulan: is a lamb gourubu top lander
+  REPLACE  ...eylem grubu toplandı masada
+      metin  : dışişleri savunma genelkurmay merkezi istihbarat
+      duyulan: dish is theer a savant ma ghenel kurmai mark is a stiff bar at
+  REPLACE  ...genelkurmay merkezi istihbarat ve
+      metin  : ulusal güvenlik konseyi temsilcileri vardı
+      duyulan: ullus algu a nikkon say tem silder word
+  REPLACE  ...konseyi temsilcileri vardı elde
+      metin  : ilk
+      duyulan: elk
+  REPLACE  ...vardı elde ilk anda
+      metin  : yalnızca şey vardı ceset
+      duyulan: yel nus je word beer jessette beer
+  REPLACE  ...şey vardı ceset de
+      metin  : ölmek üzeer
+      duyulan: ul me kuzar
+  REPLACE  ...de ölmek üzeer olan
+      metin  : subayın raporu
+      duyulan: suba in rapport it s the bar at the islander mesa boshan donee to bar and nectar bousaldera senior liran bosh alma sila chick mush beer kavga deal pilan nan mush beer a lambda top plan to the killer in ortaka nasa p young young an american sichim takfim in a way american and asiad and check in me a little minute art up sooner you l cal me a car
+  REPLACE  ...olan subayın raporu i
+      metin  : stihbarat değerlendirmesi başından itibaren nettir bu saldırı sinirlerin boşalmasıyla çıkmış kavga değil planlanmış eylemdi toplantıdakilerin ortak kanısı pyongyang ın amerikan seçim takvimini
+      duyulan: read it kissing during masaya coid ood you make a side when i m nolan ike america leader very cold or declaer a web beer bed they l almost get it i m a beddle in neola ja ochkin boy in ja washington and ends or source al do top chuva rocket sold a seducional do we hem an l and a shrinky burger deki top to dengue si kuz a korean in lehinaida kabaja door debby ask her size list of elmish bergen in kuz a in dekhi kush lalaran world masa bier ita malo la rak pilan landa
+  REPLACE  ...amerikan seçim takvimini ve
+      metin  : amerika nın asya dan çekilme eğilimini tartıp sınırı yoklamaya karar verdiğiydi kissinger ın masaya koyduğu cümle kısaydı önemli olan amerikalıyı döverek öldürdükleri ve bunun bedeli olması gerektiğiydi ama bedelin ne olacağı o gün boyunca washington ın en zor sorusu oldu topçu ve roket saldırısı düşünüldü ve hemen elendi çünkü bölgedeki topçu dengesi kuzey koer nin lehineydi kabaca dörde askersizleştirilmiş bölgenin kuzeyindeki kışlaların vurulması ihtimal olarak planlandı ve yedekte tutuldu deniz ablukası kuzey koer gemilerine el konulması mayınlama
+      duyulan: yad ekta to to do then is a blue kasih kuz a correga elk al masa ma in llama
+  REPLACE  ...el konulması mayınlama gibi
+      metin  : seçenekler konuşuldu
+      duyulan: se chen eklerk shoulda
+  REPLACE  ...gibi seçenekler konuşuldu her
+      metin  : ortak sorunu aynıydı seul sınırdan
+      duyulan: beer in an ortax or no i need a sale sooner than a lee
+  REPLACE  ...aynıydı seul sınırdan kilometer
+      metin  : uzaktaydı ve kuzey koer topçusunun menzilindeydi karşılık başkentin bombalanmasıyla sonuçlanabilirdi güney koer
+      duyulan: was act a deve kuz a coer top just men s in data beer karshal ik look beer bash canton bombalan masila sono chlan a biller de guni kori
+  REPLACE  ...sonuçlanabilirdi güney koer devlet
+      metin  : başkanı
+      duyulan: bash can a
+  REPLACE  ...devlet başkanı park chung
+      metin  : hee
+      duyulan: he
+  REPLACE  ...park chung hee de
+      metin  : askeri harekat istemiyordu üstelik amerika nın güvenilirliği da kırılgandı saygon un düşüşünden ay geçmişti hiçbir şey yapmamak pyongyang
+      duyulan: asker e beer harik at istami or do astellic american and guvenille early kuzu s yet michelle to the kril ganda say gonna do shinden alta i get mr hitch per se yap ma mak pyong yang
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 2303 kelime | duyulup metinde OLMAYAN: 3028
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-10.duyulan.txt

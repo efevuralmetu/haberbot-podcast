@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-10.mp3
+
+beklenen 2159 kelime | duyulan 2166 kelime | eşleşme %97.3
+sayı ifadesi: metinde 306, duyulanda 222  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...metrede yılın çoğunu
+      metin  : buz
+      duyulan: buzaltında
+  INSERT   ...askerler salgın dolu fırtınası
+      metin  : (yok)
+      duyulan: ki ki da
+  REPLACE  ...yüksekleer tırmanıyordu adı hari
+      metin  : kişan madval dı
+      duyulan: kishan madvaldı
+  REPLACE  ...dı çıktığı yer bugün
+      metin  : uttarakhand
+      duyulan: uttarakand
+  REPLACE  ...eyaletinin çamoli bölgesinde kalan
+      metin  : trişul
+      duyulan: trishul
+  DELETE   ...kalan trişul ve nanda
+      metin  : gunti
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ortasındaki imparatorluğun masalarına indi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bulunan yüzlerce ceset haberi
+      metin  : o
+      duyulan: bu
+  INSERT   ...fantastik görünen bu fikir
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...inanılıyordu kalıntıların bulunduğu yerin
+      metin  : kuzeyi
+      duyulan: kuzey
+  REPLACE  ...olan tek kaza oldu
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...kurumu sistemli toplama yaptı
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...coğrafyası üzerine çalışmalarıyla tanınan
+      metin  : swami
+      duyulan: svami
+  REPLACE  ...çalışmalarıyla tanınan swami pranavananda
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...en inatçı fikir zoravar
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...sing in ordusuydu zoravar
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...ilk yarısında keşmir bölgesinden
+      metin  : tibede
+      duyulan: tibet e
+  INSERT   ...doğru askeri seferler yürütmüş
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...coğrafyaydı i skelet gölü
+      metin  : tibede
+      duyulan: tibet e
+  REPLACE  ...kesin olanı radyokarbon oldu
+      metin  : altmışlarda
+      duyulan: larda
+  INSERT   ...daha geriye yaklaşık götürdü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kendisine bakmak gerektiği anlaşılmıştı
+      metin  : (yok)
+      duyulan: diki
+  INSERT   ...belgesel projesinin desteklediği sefer
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...vardı kanauc un hükümdarı
+      metin  : casdaval
+      duyulan: kastaval
+  REPLACE  ...ve müzisyenlerden oluşan kalabalık
+      metin  : maiyetle
+      duyulan: mayetle
+  REPLACE  ...devi adına düzenlenen büyük
+      metin  : hac
+      duyulan: haç
+  REPLACE  ...dibindeki homkund a varır
+      metin  : güzergah
+      duyulan: yüzergah
+  INSERT   ...yapılan incelemeler ölenlerin yaklaşık
+      metin  : (yok)
+      duyulan: ının
+  INSERT   ...incelemeler ölenlerin yaklaşık erkek
+      metin  : (yok)
+      duyulan: ının
+  INSERT   ...bu insanlar birbirinin nesiydi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...sordu harvard üniversitesi nden
+      metin  : eydin harni
+      duyulan: aydin harney
+  REPLACE  ...tıp fakültesi nden david
+      metin  : rayh
+      duyulan: ray
+  REPLACE  ...olduğu araştırmada hindistan dan
+      metin  : niraç
+      duyulan: niraj
+  REPLACE  ...niraç ray ve kumarasami
+      metin  : tangaraç
+      duyulan: tangarach
+  REPLACE  ...ve kumarasami tangaraç ın
+      metin  : ekipleri ile
+      duyulan: ekipleriyle
+  REPLACE  ...planck enstitüsü nden ayushi
+      metin  : nayağın
+      duyulan: naya ın
+  REPLACE  ...geldi gölden toplanmış iskeletten
+      metin  : mitokondriyal
+      duyulan: mitokondrial
+  REPLACE  ...iskeletten mitokondriyal dna bunların
+      metin  : sekizinden
+      duyulan: inden
+  REPLACE  ...de yaşayan insanlardı özellikle
+      metin  : girit
+      duyulan: girid
+  REPLACE  ...kıyısında akdenizli insan yatıyordu
+      metin  : radyokarbon
+      duyulan: radiokarbon
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: arkeoloji-2026-10-10.duyulan.txt

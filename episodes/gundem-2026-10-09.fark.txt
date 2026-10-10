@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-09.mp3
+
+beklenen 1513 kelime | duyulan 1511 kelime | eşleşme %93.0
+sayı ifadesi: metinde 322, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...körfezi ne ilave uçak
+      metin  : gemisi ile
+      duyulan: gemisiyle
+  REPLACE  ...bildiriliyor i ran cumhurbaşkanı
+      metin  : pezeşkiyan
+      duyulan: pezeşkian
+  REPLACE  ...denetim sahibi olduğu iddiasını
+      metin  : yineliyor
+      duyulan: yeneliyor
+  REPLACE  ...abd nin güneyinde ize
+      metin  : isaias kasırgası nın
+      duyulan: i sa yaz kasırgasının
+  REPLACE  ...yükselen fırtınanın alabama daki
+      metin  : gulf shores
+      duyulan: golf shorts
+  REPLACE  ...pensacola arasında noktada yerel
+      metin  : saatle
+      duyulan: saatte
+  REPLACE  ...fırtına kabarması uyarısı yaptı
+      metin  : isaias
+      duyulan: i sa yaz
+  REPLACE  ...nın eski devlet başkanı
+      metin  : nikolas
+      duyulan: nicolas
+  REPLACE  ...nikolas maduro ve eşi
+      metin  : silya
+      duyulan: silvia
+  INSERT   ...iddianame açıkladı sayfalık metinde
+      metin  : (yok)
+      duyulan: dan e
+  DELETE   ...kurulduğu gözaltındaki kişileer darp
+      metin  : boğma ve elektrik şoku uygulandığı öne sürülüyor mağdurlar arasında amerikan vatandaşı da sayılıyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geçici devlet başkanı sıfatıyla
+      metin  : delsi rodrigez
+      duyulan: delci rodriguez
+  REPLACE  ...aynı dairede yaşayan yaşındaki
+      metin  : maria
+      duyulan: maría
+  REPLACE  ...yaşayan yaşındaki maria del
+      metin  : karmen abaskal
+      duyulan: carmen abascal
+  REPLACE  ...karmen abaskal ın evinden
+      metin  : sedyeyle
+      duyulan: sedye ile
+  REPLACE  ...yatırım şirketinin kirayı artırmak
+      metin  : istemesiyle
+      duyulan: istemesi ile
+  REPLACE  ...alanına dönüşmüştü başbakan pedro
+      metin  : sançez
+      duyulan: sánchez
+  REPLACE  ...başbakan pedro sançez tahliye
+      metin  : moratoryumunu
+      duyulan: moratoriumunu
+  REPLACE  ...merkezinde yer alacağı öngörülüyor
+      metin  : gazze de
+      duyulan: gazete
+  INSERT   ...tablo kırılganlığını koruyor ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...itibaren toplam ölü sayısı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...ölü sayısı yaralı sayısı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...hattında ize kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...başlayabileceği ihtimalini dışlamadıklarını söyledi
+      metin  : volodimir
+      duyulan: volodymir
+  REPLACE  ...zelenski nin aralık ayında
+      metin  : miami de
+      duyulan: mayemide
+  REPLACE  ...ayında miami de yapılacak
+      metin  : gyirmi zirvesi nde
+      duyulan: girme zirvesinde
+  REPLACE  ...eyalet ziyaretini yaptı beyaz
+      metin  : saray
+      duyulan: sara
+  REPLACE  ...google dan geldi şirket
+      metin  : ceminay at work
+      duyulan: gemini artwork
+  REPLACE  ...sınırlandırmaya gitti ve ekim
+      metin  : itibarıyla ceminay
+      duyulan: itibariyle gemini ai
+  REPLACE  ...pro modellerine erişimi ücretli
+      metin  : aboneliğe
+      duyulan: aboneliye
+  REPLACE  ...bağladı openai ize gpt
+      metin  : chatgpt
+      duyulan: yı chat gpt
+  REPLACE  ...hesap makineleri ve düzenlenebilir
+      metin  : diyagramlar
+      duyulan: diagramlar
+  DELETE   ...öne çıkarılan claude haiku
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...finland ın muhos ve
+      metin  : kayaani
+      duyulan: kayani
+  REPLACE  ...risk iştahını ize baskıladı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...nasdaq geriledi avrupa da
+      metin  : eurostoxx
+      duyulan: eurostox
+  REPLACE  ...tarafında hürmüz kaynaklı arz
+      metin  : endişesi ile isaias kasırgası nın
+      duyulan: endişesiyle i sa yaz kasırgasının
+  REPLACE  ...doğal gaz yükselerek euro
+      metin  : mwh
+      duyulan: mass volage
+  REPLACE  ...euro tl düzeyinde seyrediyor
+      metin  : bist
+      duyulan: beast
+  INSERT   ...halk partisi nin kasım
+      metin  : (yok)
+      duyulan: teki
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 81
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: gundem-2026-10-09.duyulan.txt

@@ -1,0 +1,103 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-10.mp3
+
+beklenen 1170 kelime | duyulan 1174 kelime | eşleşme %97.3
+sayı ifadesi: metinde 178, duyulanda 161  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...kadar zor bulduğunu açıklıyor
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...damga tamamlandığında yıkama bedava
+      metin  : (yok)
+      duyulan: ön
+  INSERT   ...başlamadın diyor öteki yolun
+      metin  : (yok)
+      duyulan: sini
+  REPLACE  ...değildi joseph nunes ve
+      metin  : ksavye
+      duyulan: kisavye
+  REPLACE  ...ve ksavye drez adlı
+      metin  : araştırmacıydı
+      duyulan: araştırmacı
+  INSERT   ...yarısı boş yarısı damgalı
+      metin  : (yok)
+      duyulan: luk
+  REPLACE  ...aldı boş kartı alanların
+      metin  : i ki
+      duyulan: u
+  INSERT   ...alanların i ki damgalı
+      metin  : (yok)
+      duyulan: luk
+  REPLACE  ...ki damgalı kartı alanların
+      metin  : dördü
+      duyulan: ü
+  DELETE   ...verdiler insana hedefe doğru
+      metin  : yapay
+      duyulan: (YOK — atlanmış)
+  DELETE   ...bitirenler daha hızlı bitirdi
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  DELETE   ...taşıyanlar yıkamalar arasında ortalama
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ilerleme duygusu insanı harekete
+      metin  : geçiriyor
+      duyulan: tutuyor
+  INSERT   ...olmak insanı hızlandıran şeydir
+      metin  : (yok)
+      duyulan: i ki
+  DELETE   ...istersen başla diyor henüz
+      metin  : ait olmadığınız
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sen bu işin içindesin
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...ivmeniz yokken harekete geçmeniz
+      metin  : gerekir
+      duyulan: var
+  INSERT   ...üstelik görünür biçimde var
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...sunmak gerekiyordu mesafe aynı
+      metin  : kaldı
+      duyulan: oldu
+  REPLACE  ...başladığını tanımlama yetkisi çoğu
+      metin  : zaman sizde
+      duyulan: bizde
+  REPLACE  ...kılıyorsunuz aynı mantığın gündelik
+      metin  : uygulaması
+      duyulan: çalışması
+  REPLACE  ...en etkili başlangıç tek
+      metin  : tabağı
+      duyulan: tabağa
+  REPLACE  ...tabağı yıkayıp musluğu açık
+      metin  : bırakmaktır
+      duyulan: yapmaktır
+  REPLACE  ...yaptığınız küçük adımı yazıp
+      metin  : işaretlemek de
+      duyulan: işaretlemekte
+  DELETE   ...değil iskeleti kurulmuş taslak
+      metin  : verin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işe yaramaz hale getiriyor
+      metin  : bitiş
+      duyulan: yetiş
+  REPLACE  ...atmanızı gerektirmez sadece neye
+      metin  : razı
+      duyulan: daha iyi
+  REPLACE  ...önce gelir geri kalan
+      metin  : zamanlarda
+      duyulan: durumlarda
+  REPLACE  ...zaman bulmamasını sağlamak bugünden
+      metin  : damga
+      duyulan: yıl
+  REPLACE  ...sağlamak bugünden damga bırakmaktır
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-10-10.duyulan.txt

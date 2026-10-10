@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-10.mp3
+
+beklenen 2407 kelime | duyulan 2401 kelime | eşleşme %95.0
+sayı ifadesi: metinde 326, duyulanda 245  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...bombardıman uçakları havalanacaktı temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...avluda birbirlerinin arasından geçerek
+      metin  : devriye
+      duyulan: devreye
+  REPLACE  ...şiddet biçimine yumruğa sopaya
+      metin  : dirseğe
+      duyulan: dirseye
+  INSERT   ...ydü ve bu adı
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...askerlerin kendi arasında taktığı
+      metin  : ad
+      duyulan: at
+  DELETE   ...gibi kapanıyor ve numaralı
+      metin  : kontrol
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çekilmenin utancını henüz sindiremeden
+      metin  : saygon
+      duyulan: saigon
+  INSERT   ...tarih ağustos çarşamba günüydü
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...güney koreli muadili kim
+      metin  : mun hvan
+      duyulan: moon hwan
+  REPLACE  ...kuzey koer ordusundan kıdemli
+      metin  : teğmen
+      duyulan: teymen
+  REPLACE  ...ordusundan kıdemli teğmen pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...kadar askerle geldi pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...bağırış yok sonra pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...ve ağaç gözetiminde büyüyordu
+      metin  : bonifas
+      duyulan: bonifaz
+  REPLACE  ...etmelerini söyledi ve pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...ve küçümseme işareti pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...küçük ayrıntıyla başladı pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...bonifas a yöneldi pak
+      metin  : çul
+      duyulan: chul
+  REPLACE  ...yalnızca kişi yarasız kurtuldu
+      metin  : barrett
+      duyulan: beret
+  REPLACE  ...kimse göremiyordu arama ekibi
+      metin  : barrett a
+      duyulan: beret e
+  REPLACE  ...genç subay ağır yaralıydı
+      metin  : sıhhiye
+      duyulan: sıhıye
+  REPLACE  ...nın asya dan çekilme
+      metin  : eğilimini
+      duyulan: eylemini
+  REPLACE  ...tartıp sınırı yoklamaya karar
+      metin  : verdiğiydi
+      duyulan: verdiydi
+  REPLACE  ...koer nin lehineydi kabaca
+      metin  : dörde askersizleştirilmiş
+      duyulan: de asker sizleştirilmiş
+  REPLACE  ...dörde askersizleştirilmiş bölgenin kuzeyindeki
+      metin  : kışlaların
+      duyulan: kıştaların
+  REPLACE  ...koer devlet başkanı park
+      metin  : çung hi
+      duyulan: chung hee
+  INSERT   ...üstelik amerika nın güvenilirliği
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...amerika nın güvenilirliği kırılgandı
+      metin  : saygon
+      duyulan: saigon
+  REPLACE  ...kavgayı o başlatmış olacaktı
+      metin  : kissinel ın
+      duyulan: kissinellen
+  INSERT   ...o lanet şey kesilmeliydi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...alarm seviyesini yükseltti defcon
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...birlikte yarımadanın açıklarına çekildi
+      metin  : okinawa dan
+      duyulan: okinavadan
+  REPLACE  ...en önemlisi guam daki
+      metin  : üsten
+      duyulan: üstten
+  INSERT   ...harekatın gerçek mesajıdır b
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tasarlandı ağustos sabahı saat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gücü nün komutanı yarbay
+      metin  : victor vierra
+      duyulan: viktor viyera
+  REPLACE  ...taşıyan nakliye helikopteri ve
+      metin  : cobra
+      duyulan: kobra
+  INSERT   ...nin f ve f
+      metin  : (yok)
+      duyulan: ları
+  INSERT   ...ama radarda duran b
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...kesme işi süresince nükleer
+      metin  : alarm
+      duyulan: alarmam
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 42
+
+duyulan metin: tarih-2026-10-10.duyulan.txt

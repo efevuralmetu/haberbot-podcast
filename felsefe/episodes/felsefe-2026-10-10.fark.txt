@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-10.mp3
+
+beklenen 2227 kelime | duyulan 2216 kelime | eşleşme %97.1
+sayı ifadesi: metinde 238, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...dürüst insan babasını gizler
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yürüyüşü izledin baban komşunun
+      metin  : ağılından
+      duyulan: ağalından
+  REPLACE  ...komşunun ağılından koyunu kendi
+      metin  : ağılına
+      duyulan: ağalına
+  DELETE   ...araya getirmesiyle oluşmuştur konfüçyüs
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...düşündü konuşmalar ın kitabında
+      metin  : şe diyarının
+      duyulan: şey diyarı nın
+  REPLACE  ...şunu söyler bizim buralarda
+      metin  : dosdoğru
+      duyulan: doz doğru
+  INSERT   ...yanına geçmek midir yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...ki bilge hükümdar şun
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...görevde şun un babası
+      metin  : gusou
+      duyulan: gusso
+  REPLACE  ...ve bunun bedelini kendi
+      metin  : iktidarıyla
+      duyulan: iktidariyle
+  REPLACE  ...hakkında verildiğinden bağımsız olarak
+      metin  : geçerliyze
+      duyulan: geçerli ize
+  INSERT   ...yazar william godwin dir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...binlerce kişiyi iyileştirmiş olan
+      metin  : başpiskopos
+      duyulan: başbiskopos
+  REPLACE  ...cevabı verebilir ama siyasal
+      metin  : adaledin
+      duyulan: adaletin
+  INSERT   ...ngiliz filozof bernard williams
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...açık söyler yazar e
+      metin  : m
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yazar e m forster
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...akrabası olan kazanır yani
+      metin  : tarafsızlık da sadakat da
+      duyulan: tarafsızlıkla sadakatle
+  REPLACE  ...suç işlediğini bildiği maiz
+      metin  : b malik i peygamber e
+      duyulan: bilir maliki peygambeer
+  DELETE   ...kinci sınır konumla gelir
+      metin  : türk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in ile arasında yazdığı
+      metin  : kutadgu bilig
+      duyulan: kutat gubilig
+  REPLACE  ...temsil eden hükümdarın adı
+      metin  : küntogdı dır
+      duyulan: kün toktudur
+  INSERT   ...aynı şeyi kabul ediyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...maddesi ize bu suçun
+      metin  : üstsoy altsoy
+      duyulan: soy alt soy
+  REPLACE  ...bırakmıyor ama koyunu komşunun
+      metin  : ağılına
+      duyulan: ağlına
+  REPLACE  ...babasının hayvanı eksik diye
+      metin  : yemeğe
+      duyulan: yemeye
+  REPLACE  ...eksik diye yemeğe oturacak
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: felsefe-2026-10-10.duyulan.txt

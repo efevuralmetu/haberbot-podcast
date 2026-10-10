@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-10.mp3
+
+beklenen 1618 kelime | duyulan 1635 kelime | eşleşme %94.7
+sayı ifadesi: metinde 179, duyulanda 128  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mesafede pakistan ın hayber
+      metin  : pahtunhva
+      duyulan: pahdunva
+  REPLACE  ...kutsal sayıldığı için evler
+      metin  : düzlüğe
+      duyulan: düzleye
+  REPLACE  ...ötekinin omzuna basarak duvarlar
+      metin  : yassı
+      duyulan: yası
+  REPLACE  ...toprak gider sonuç şu
+      metin  : alttaki
+      duyulan: alktaki
+  REPLACE  ...siyah yün entari beline
+      metin  : rengarenk
+      duyulan: rengaren
+  REPLACE  ...geçmesi yasaktır doğumun tanrıçası
+      metin  : dezaliğin
+      duyulan: dezali in
+  REPLACE  ...soy ve evlilik tanrıçası
+      metin  : cestağın
+      duyulan: cesta nın
+  REPLACE  ...ve öteki dünyanın efendisi
+      metin  : dezau
+      duyulan: dezav
+  REPLACE  ...güz boyunca damlarda kurutulan
+      metin  : dut
+      duyulan: lut
+  REPLACE  ...in batısındaki vadilerde birbirine
+      metin  : dilce
+      duyulan: dilçe
+  REPLACE  ...toplulukları çitral in hükümdarına
+      metin  : mehter e
+      duyulan: mehteer
+  INSERT   ...tek çizgiyle sona erdi
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...çizgiyle sona erdi kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kabil e gönderdiği mortimer
+      metin  : durand
+      duyulan: duran
+  REPLACE  ...han sınır anlaşması imzaladılar
+      metin  : durand
+      duyulan: duran
+  REPLACE  ...i nancında kalan kalaşlar
+      metin  : ayni
+      duyulan: aynı
+  INSERT   ...baskı taşıdı haritanın küçülmesi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...taşıdı haritanın küçülmesi bitmedi
+      metin  : (yok)
+      duyulan: lara
+  REPLACE  ...kalaşlar değil vadide yaşıyordu
+      metin  : güneydeki
+      duyulan: yüneydeki
+  REPLACE  ...güneydeki cincaret kuh ve
+      metin  : urtsun
+      duyulan: utsun
+  REPLACE  ...başlarındaki ata heykelleri yani
+      metin  : gandaular
+      duyulan: gandağlar
+  REPLACE  ...rumbur un köylerinden fazla
+      metin  : gandau
+      duyulan: gandağ
+  REPLACE  ...yerinde değil lahor peşaver
+      metin  : karaçi
+      duyulan: karaci
+  REPLACE  ...gibi koleksiyonlarda son yıllarda
+      metin  : bumburedin
+      duyulan: boombirdin
+  REPLACE  ...babası ve amcası için
+      metin  : gandau
+      duyulan: gandağ
+  REPLACE  ...da tek yönlü olmadı
+      metin  : bumburet te
+      duyulan: kiki de boombird de
+  INSERT   ...ve müze inşasına başlandı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...toplum kuruluşunun çalışmasıyla öğretmen
+      metin  : atanasios lerunis
+      duyulan: athanasios lerounis
+  REPLACE  ...bastı ve odasında uyuyan
+      metin  : lerunis
+      duyulan: lerounis
+  REPLACE  ...esaret sonra serbest bırakılma
+      metin  : lerunis atina
+      duyulan: lerounis athina
+  REPLACE  ...hükümleri kapsamında korumaya aldı
+      metin  : vazir zada
+      duyulan: de vazirzağ da
+  REPLACE  ...aldı vazir zada hayber
+      metin  : pahtunhva
+      duyulan: pahdunva
+  REPLACE  ...göer bu sırada tanrı
+      metin  : balimain
+      duyulan: balimayn
+  REPLACE  ...kalaşların mitolojik anayurdu olan
+      metin  : tsyam
+      duyulan: siyam
+  REPLACE  ...un kar tutmuş kıvrımında
+      metin  : yer üstünde
+      duyulan: yeryüzünde
+  REPLACE  ...göer dönmeye devam ediyor
+      metin  : nöron seyahat de
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: seyahat-2026-10-10.duyulan.txt

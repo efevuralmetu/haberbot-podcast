@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-10.mp3
+
+beklenen 1951 kelime | duyulan 2003 kelime | eşleşme %92.4
+sayı ifadesi: metinde 281, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aradı ve bulamadı cevap
+      metin  : atlantiğin
+      duyulan: atlantin
+  INSERT   ...denizdeydi ama kanıt ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eklerini yaptı mayıs sabahlarının
+      metin  : çiyinden
+      duyulan: çiğinden
+  REPLACE  ...ekonomiydi i talya nın
+      metin  : adriyatik
+      duyulan: adriatik
+  REPLACE  ...talya nın adriyatik kıyısındaki
+      metin  : komakkio lagünü
+      duyulan: komakya ola günü
+  REPLACE  ...i lkbaharda denizden içeri
+      metin  : saydam
+      duyulan: saydan
+  REPLACE  ...kanaldan denize doğru akıyorlardı
+      metin  : lagün
+      duyulan: ola gün
+  INSERT   ...hiçbir zaman hiçbir mevsimde
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mevsimde i talyan anatomist
+      metin  : karlo
+      duyulan: carlo
+  REPLACE  ...en büyük doğa bilimcilerinden
+      metin  : latsaro spallantsani
+      duyulan: lazzaros palansani
+  REPLACE  ...spallantsani bunu inandırıcı bulmadı
+      metin  : komakkio
+      duyulan: dışi balık mevsiminde comacchio
+  INSERT   ...tartışma yarım sürdü ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ancak alman anatomist martin
+      metin  : ratke
+      duyulan: radke
+  INSERT   ...neredeyze komik ısrarla sürdü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...baharında trieste ye gitti
+      metin  : mikroskobunu
+      duyulan: mikroskopunu
+  INSERT   ...kurdu ve haftalar boyunca
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...tek kesti adı zigmund
+      metin  : froyd
+      duyulan: freud
+  REPLACE  ...ve soru açık kaldı
+      metin  : froyd
+      duyulan: freud
+  INSERT   ...sanmadığı canlının üstünden geçti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...verdi söğüt yaprağı biçiminde
+      metin  : cam
+      duyulan: can
+  REPLACE  ...söylenir alman doğa bilimci
+      metin  : yohan yakob
+      duyulan: johann jacob
+  INSERT   ...başka hayvan etiketiyle durdu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...battista grassi ve salvatoer
+      metin  : kalandruçço
+      duyulan: calandruccio
+  REPLACE  ...noktada hikaye danimarkalı biyologa
+      metin  : yohannes şmit
+      duyulan: johannes schmidt
+  REPLACE  ...yohannes şmit e geçiyor
+      metin  : şmit
+      duyulan: schmidt te
+  REPLACE  ...gemisiyle atlantik te çalışırken
+      metin  : faroe adaları nın
+      duyulan: faroy adalarının
+  REPLACE  ...bulunan ilk larvaydı ve
+      metin  : şmit
+      duyulan: schmidt
+  REPLACE  ...araya dünya savaşı girdi
+      metin  : şmit
+      duyulan: schmidt
+  REPLACE  ...geldi danimarka nın parası
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...biyolojik bilmecesini finanse etti
+      metin  : şmit
+      duyulan: schmidt
+  REPLACE  ...şmit yeni gemisi dana
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...keseli neredeyze biçimsiz canlılar
+      metin  : şmit
+      duyulan: schmidt de
+  REPLACE  ...toprak değil akıntılar çevreler
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...yosunu kahverengi tarlalar halinde
+      metin  : kristof
+      duyulan: christoph
+  INSERT   ...tarlalar halinde kristof kolomb
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yavaşça çöken organik döküntüyü
+      metin  : jelatinli
+      duyulan: geletinli
+  REPLACE  ...kaldıran şey yolculuğun kendisidir
+      metin  : froyd
+      duyulan: freud
+  REPLACE  ...boyunca kimse doğrudan görmedi
+      metin  : şmit
+      duyulan: schmidt
+  INSERT   ...ilk doğrudan kanıt ancak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çalışma şöyle kurulmuştu ve
+      metin  : (yok)
+      duyulan: un
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 57
+
+duyulan metin: bilim-2026-10-10.duyulan.txt

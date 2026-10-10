@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-10.mp3
+
+beklenen 2309 kelime | duyulan 2318 kelime | eşleşme %95.4
+sayı ifadesi: metinde 366, duyulanda 252  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...gölgesinden çıkıp bozkıra doğru
+      metin  : açılan
+      duyulan: (YOK — atlanmış)
+  DELETE   ...büyüdüğünde taşı dışarıdan malzeme
+      metin  : gibi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yıllarına doğru bu köyde
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...kayıtlar bu soruyu tartışmasız
+      metin  : biçimde
+      duyulan: birisimde
+  INSERT   ...zaman şikayet ettiğini bilmek
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...denilen uygulama yürürlükteydi taşradaki
+      metin  : hristiyan
+      duyulan: hıristiyan
+  DELETE   ...kadrolarına katılırdı sinan ın
+      metin  : kendi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yolla alındı yaşı tahminen
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...bırakılan şey sadece ev
+      metin  : değildi
+      duyulan: vardı
+  DELETE   ...türkçe i slam ın
+      metin  : esasları
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...doğardı defterde artık yeni
+      metin  : ad
+      duyulan: at
+  REPLACE  ...yeni ad vardı sinan
+      metin  : ağırnas ta
+      duyulan: ağırnaz da
+  REPLACE  ...kimse bilmiyor tarihe geçen
+      metin  : ad
+      duyulan: at
+  REPLACE  ...çünkü eline verilen keser
+      metin  : yıl boyunca
+      duyulan: sene önce
+  INSERT   ...bütün büyük hareketlerinde bulundu
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...kale kuşatması genç dülger
+      metin  : için
+      duyulan: (YOK — atlanmış)
+  INSERT   ...insanlar ölür ertesi yıl
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...o surlar ateşli silah
+      metin  : çağının
+      duyulan: ordunun
+  REPLACE  ...nasıl değiştirdiğinin canlı dersiydi
+      metin  : mohaç ta
+      duyulan: da muhaçta
+  INSERT   ...sonra haseki rütbesini aldı
+      metin  : (yok)
+      duyulan: lı
+  DELETE   ...aldı yaşlarının sonuna kadar
+      metin  : unvanı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...seferinde geçiyordu asıl kırılma
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...kırılma otuzların ortasında orduda
+      metin  : mühendis
+      duyulan: kendis
+  REPLACE  ...kanuni sultan süleyman ın
+      metin  : irakeyn
+      duyulan: irak ın
+  INSERT   ...ın irakeyn seferi sırasında
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...almanın yolu yoktu vezir
+      metin  : lütfi
+      duyulan: lütfü
+  DELETE   ...yok kalafat ustası kadrosu
+      metin  : yok
+      duyulan: (YOK — atlanmış)
+  INSERT   ...verilen yerde çözen adam
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aşmış adam hala asker
+      metin  : unvanı
+      duyulan: ünvanı
+  INSERT   ...emanet edilmesiydi o emanet
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...emanet bataklığın kenarında geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bataklığın kenarında geldi kanuni
+      metin  : boğdan a
+      duyulan: bodana
+  REPLACE  ...ağır top arabaları cephane
+      metin  : kağnıları
+      duyulan: kanıları
+  REPLACE  ...sefer sadece gecikme değil
+      metin  : erime
+      duyulan: derime
+  REPLACE  ...başlar mevsim kapanır sadrazam
+      metin  : lütfi
+      duyulan: lütfü
+  DELETE   ...kurdu süer için kaynaklar
+      metin  : ile gün
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mimarlığıydı kanuni bu göreve
+      metin  : prut
+      duyulan: pırut
+  INSERT   ...kuran adamı atadı yıl
+      metin  : (yok)
+      duyulan: di
+  REPLACE  ...üstünde durmak gerekir çünkü
+      metin  : insan
+      duyulan: sinan
+  INSERT   ...da yıl kalmadı yarım
+      metin  : (yok)
+      duyulan: yıl
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: biyografi-2026-10-10.duyulan.txt

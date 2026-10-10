@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-10.mp3
+
+beklenen 1788 kelime | duyulan 1810 kelime | eşleşme %94.9
+sayı ifadesi: metinde 320, duyulanda 192  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...orada bambaşka oyun olacaktı
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...girmişti dijital saat girmişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...saat girmişti piyasaya çıkan
+      metin  : psion organiser
+      duyulan: pisyon organizer
+  REPLACE  ...çıkan psion organiser yani
+      metin  : psion
+      duyulan: pisyon
+  INSERT   ...aslında nintendo dan gelmişti
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...aletinin satılabileceğini düşündü game
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...araştırma ekibi satoru okada
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...satoru okada yla birlikte
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...biçimde kullanmak böylece ortaya
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...yaklaşık kez çalışan küçük
+      metin  : sharp
+      duyulan: şarp
+  INSERT   ...adını verdi ve nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...rafta super mario land
+      metin  : alleyway
+      duyulan: aliway
+  REPLACE  ...sega nın game gear
+      metin  : ı
+      duyulan: i
+  REPLACE  ...un fiyatının epey üstündeydi
+      metin  : yokoi
+      duyulan: yokoy
+  REPLACE  ...disketlerle elden ele yayılmış
+      metin  : o
+      duyulan: dol
+  REPLACE  ...olan sovyet oyunu girdi
+      metin  : cebin
+      duyulan: diyebin
+  REPLACE  ...pahalı bedele mal oldu
+      metin  : tetris i
+      duyulan: tetrisi te
+  REPLACE  ...hesaplama merkezi nde çalışan
+      metin  : aleksey
+      duyulan: alexey
+  REPLACE  ...değil devletin malıydı oyun
+      metin  : budapeşte ye
+      duyulan: budapest e
+  REPLACE  ...yöneten robert stein oldu
+      metin  : stein
+      duyulan: swin
+  REPLACE  ...oldu stein moskova ya
+      metin  : telekslerle
+      duyulan: telexlerle
+  INSERT   ...sterlin üstüne satışların ile
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...haklar bilgisayarlar için verilmişti
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...şirketi bullet proof softwaer
+      metin  : i
+      duyulan: ı
+  REPLACE  ...proof softwaer i kurmuş
+      metin  : henk
+      duyulan: hank
+  REPLACE  ...dolar avans teklif etti
+      metin  : stein
+      duyulan: swin
+  REPLACE  ...yazılım ihracatından sorumlu kurumu
+      metin  : elektronorgteknika
+      duyulan: elektronor teknika
+  REPLACE  ...sorumlu kurumu elektronorgteknika kısaca
+      metin  : elorg
+      duyulan: el ork
+  INSERT   ...moskova ya uçtu şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...uçtu şubat tercüman tutup
+      metin  : elorg
+      duyulan: el ork
+  REPLACE  ...karşısında kurumun yeni yöneticisi
+      metin  : nikolai
+      duyulan: nikolay
+  REPLACE  ...o kartuşu görünce hiddetlendi
+      metin  : elorg
+      duyulan: el ork
+  INSERT   ...nintendo nun konsol pazarının
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...adamın yıllardır moskova ya
+      metin  : teleks
+      duyulan: telex
+  INSERT   ...düşündü ve destekledi şubat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...cevap gelmeden doldu mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...satılan her kartuş için
+      metin  : sent disketle
+      duyulan: cent diskette
+  INSERT   ...tan aldığını sandığı hakla
+      metin  : (yok)
+      duyulan: dono
+  INSERT   ...aldığını sandığı hakla mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hak bizi kapsar yargıç
+      metin  : fern
+      duyulan: farn
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: oyun-2026-10-10.duyulan.txt
