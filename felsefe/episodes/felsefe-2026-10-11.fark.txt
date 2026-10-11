@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-11.mp3
+
+beklenen 2244 kelime | duyulan 2236 kelime | eşleşme %96.7
+sayı ifadesi: metinde 236, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...günlük hayatta sanki inanç
+      metin  : seçimmiş
+      duyulan: seçilmiş
+  INSERT   ...çağdaş düşünürlerden bernard williams
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu soruyu yani inanca
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...filozof değildi matematikçiydi yılında
+      metin  : blez paskal
+      duyulan: blaize pascal
+  REPLACE  ...yılında blez paskal ile
+      metin  : piyer dö ferma
+      duyulan: pierer de fermat
+  REPLACE  ...getiren kumarla ilgilenen sosyeteydi
+      metin  : şövalye dö meer
+      duyulan: chevalier d homeer
+  REPLACE  ...matematiği masa oyunundan doğdu
+      metin  : paskal
+      duyulan: pascal de
+  INSERT   ...iğnelenmiş düşünceler bıraktı bunlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...derlenip yayımlandı eserin adı
+      metin  : panse
+      duyulan: pense
+  REPLACE  ...düşünceler in içindeki parçada
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...zorunda kalan kumarbaz der
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...değil yaptığı yer değiştirmedir
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...kurtarmıyor ve işte burada
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...elimden gelmiyor ne yapayım
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...ve de yerindedir şudur
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...sonuca ulaşmak için kullanılabilir
+      metin  : paskal
+      duyulan: pascal
+  REPLACE  ...ın çağdaşlarından sonra gelen
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...ne kadar değerlidir yani
+      metin  : paskal
+      duyulan: pascal
+  INSERT   ...zaman faturayı kim ödüyor
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yazıyı yazdıktan yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...insan süer sonra kuşku
+      metin  : duyma
+      duyulan: duymak
+  DELETE   ...çocuğuna uygulanacak tedaviyi reddetmesi
+      metin  : mühendisin şimdiye kadar hep tuttu
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ve en güçlü itirazı
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...i kincisi doğruyu bul
+      metin  : bunlar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...clifford un ölçütünü bu
+      metin  : alanlara
+      duyulan: alanları
+  DELETE   ...doğası gereği meseleyi çözemediği
+      metin  : seçeneğin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...senin mi semerkant ın
+      metin  : matürid
+      duyulan: maturid
+  REPLACE  ...alan ebu mansur el
+      metin  : matüridi
+      duyulan: maturidi te
+  REPLACE  ...inanan kişinin inancı eksiktir
+      metin  : matüridi
+      duyulan: maturidi
+  REPLACE  ...biçimde yaşayan kişi anlattı
+      metin  : gazzali tus ta
+      duyulan: gazali de tuğsta
+  INSERT   ...gazzali tus ta doğdu
+      metin  : (yok)
+      duyulan: de lu
+  DELETE   ...evden hocalarından şehrinden devralmıştı
+      metin  : çocuğun içine
+      duyulan: (YOK — atlanmış)
+  DELETE   ...çıkışı kaybetmek gibi deneyimdi
+      metin  : aylarca sürdü
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kürsüde konuşamaz hale geldi
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...sonunda kendi hikayesini yazdı
+      metin  : el münkız mine d dalal
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ama söylediği şey açıktır
+      metin  : o kesinliği eline geçmiş hazır paket olarak değil
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sorusu yeterli kanıtın var
+      metin  : mı idi
+      duyulan: mıydı
+  REPLACE  ...kanıtını kendisi seçiyor olması
+      metin  : paskal
+      duyulan: pascal
+  INSERT   ...tek pratik ölçütü var
+      metin  : (yok)
+      duyulan: bu bakımın tek pratik ölçütü var
+  REPLACE  ...tutmak çünkü o kapı
+      metin  : kapalıyken
+      duyulan: kapalı iken
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: felsefe-2026-10-11.duyulan.txt

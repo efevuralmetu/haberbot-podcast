@@ -1,0 +1,37 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-11.mp3
+
+beklenen 1138 kelime | duyulan 1153 kelime | eşleşme %98.2
+sayı ifadesi: metinde 140, duyulanda 115  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dolu ortadaki ize tuhaf
+      metin  : sağdakiyle
+      duyulan: sağdaki ile
+  REPLACE  ...diğeri aynı şeyi artı
+      metin  : şeyi
+      duyulan: şey
+  INSERT   ...pahalı paketi seçenlerin oranı
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...bu etkiyi ilk kez
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve belki daha güçlü
+      metin  : (yok)
+      duyulan: olan şimdiden daha güçlü olan şimdiden daha güçlü olan i kinci ve belki daha güçlü
+  REPLACE  ...kolaydır zor olan soru
+      metin  : hangisiyze
+      duyulan: hangisi ize
+  DELETE   ...karar verememek başka şeydir
+      metin  : karar verememe hali günlerini tüketiyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kutunun hiçbir gücü kalmıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 9 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-10-11.duyulan.txt

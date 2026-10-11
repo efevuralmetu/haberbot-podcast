@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-11.mp3
+
+beklenen 1662 kelime | duyulan 1706 kelime | eşleşme %89.7
+sayı ifadesi: metinde 311, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...finali kendisi yazdı ve
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...darı lapası alırdı adı
+      metin  : tsao
+      duyulan: tao
+  REPLACE  ...can dı ama bugün
+      metin  : tsao şüeçin
+      duyulan: tao xuye qin
+  REPLACE  ...büyümüştü bunu anlamak için
+      metin  : nancing
+      duyulan: nanjing
+  REPLACE  ...o şeher gitmek gerekir
+      metin  : tsao
+      duyulan: tao
+  REPLACE  ...sıradan memur ailesi değildi
+      metin  : tsao şüeçin
+      duyulan: tao xuye qin
+  REPLACE  ...şüeçin in büyük dedesi
+      metin  : tsao şi kangşi
+      duyulan: cao shi kang shi
+  REPLACE  ...tsao şi kangşi döneminde
+      metin  : ciangning
+      duyulan: jiang ning
+  REPLACE  ...bürokratik değil neredeyze bedenseldi
+      metin  : tsao şi
+      duyulan: cao shi
+  REPLACE  ...şi nin eşi yani
+      metin  : tsao şüeçin
+      duyulan: cao xuye qin
+  REPLACE  ...in büyük büyükannesi küçük
+      metin  : kangşi
+      duyulan: kang shi
+  REPLACE  ...bu kadının kollarında beslenmişti
+      metin  : tsao şi
+      duyulan: cao shi te
+  REPLACE  ...şi ölünce görev oğlu
+      metin  : tsao
+      duyulan: cao
+  REPLACE  ...tsao yin e geçti
+      metin  : tsao
+      duyulan: cao
+  INSERT   ...adamı güneydeki gözü kulağıydı
+      metin  : (yok)
+      duyulan: dan ye
+  REPLACE  ...nezaretin başında kaldı ve
+      metin  : kangşi
+      duyulan: kang shi
+  REPLACE  ...yıllar alacak borç bırakır
+      metin  : tsao
+      duyulan: cao
+  REPLACE  ...hanedanın tepesindeki değişimle geldi
+      metin  : tsao
+      duyulan: cao
+  INSERT   ...değişimle geldi tsao yin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yin öldü görevi oğlu
+      metin  : tsao
+      duyulan: cao
+  REPLACE  ...tsao yong a verildi
+      metin  : tsao
+      duyulan: cao
+  INSERT   ...a verildi tsao yong
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verildi tsao yong öldü
+      metin  : kangşi
+      duyulan: kang shi
+  REPLACE  ...aileyi korumak için akrabalardan
+      metin  : tsao
+      duyulan: cao
+  INSERT   ...verdi ama koruyan imparator
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...imparator öldü ve tahta
+      metin  : yongceng
+      duyulan: yong zheng
+  INSERT   ...imparatorluk ziyaretleri hediyeler borçlar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ailenin mallarına el konuldu
+      metin  : tsao
+      duyulan: cao
+  REPLACE  ...kalan küçük eve sığındılar
+      metin  : tsao şüeçin
+      duyulan: cao xu için
+  REPLACE  ...yıllarında mançu soylu kardeşle
+      metin  : dun
+      duyulan: dung
+  REPLACE  ...kardeşle dun min ve
+      metin  : dun çeng le
+      duyulan: dung cheng ile
+  REPLACE  ...benzer biliyorlardı onların şiirlerinde
+      metin  : tsao şüeçin in
+      duyulan: cao xu ecinin
+  REPLACE  ...anlatan taş çizen adam
+      metin  : dun çeng
+      duyulan: dung cheng
+  REPLACE  ...resimlerin arasında roman yazıyordu
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...şey çöken ailenin hikayesiydi
+      metin  : cia soyadlı
+      duyulan: cao soyatlı
+  REPLACE  ...merkezinde ergenliğe yeni girmiş
+      metin  : oğlan cia baoyü
+      duyulan: olan cao bao yu
+  REPLACE  ...ve keskin zekalı lin
+      metin  : dayyü
+      duyulan: dayu
+  REPLACE  ...dayyü ile ölçülü uyumlu
+      metin  : şüe baoçay
+      duyulan: xu e bao chai den
+  REPLACE  ...kitap bitmedi elinde dolaşan
+      metin  : nüshalardan
+      duyulan: nüşalardan
+  INSERT   ...tükenerek göçtü tarih tartışmalı
+      metin  : (yok)
+      duyulan: ün
+  ... ve 65 fark daha
+
+metinde olup DUYULMAYAN: 128 kelime | duyulup metinde OLMAYAN: 168
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: edebiyat-2026-10-11.duyulan.txt

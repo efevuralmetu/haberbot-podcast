@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-11.mp3
+
+beklenen 2455 kelime | duyulan 2489 kelime | eşleşme %96.8
+sayı ifadesi: metinde 369, duyulanda 262  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yangın elinde kalan son
+      metin  : şeyi de
+      duyulan: şehidi
+  REPLACE  ...çok korkulan insanı oldu
+      metin  : cork
+      duyulan: jork
+  INSERT   ...son yılında ısrarla mayıs
+      metin  : (yok)
+      duyulan: u
+  INSERT   ...taki kilize kayıtlarında ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıllarını yaşayan milyonlarca aileden
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...asılmıştı babası richard harris
+      metin  : de
+      duyulan: te
+  REPLACE  ...biriktirdi ve harris ler
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...orada öğretmen okulunda okudu
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...arasında olmayı seçen mizaç
+      metin  : memphis teydi
+      duyulan: de menfisteydi
+  REPLACE  ...george e jones adlı
+      metin  : dökümcüyle
+      duyulan: dökümcü ile
+  INSERT   ...hayat mary harris jones
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...şehrin yoksul bataklığa yakın
+      metin  : drenajsız
+      duyulan: direnaysız
+  INSERT   ...yapacak başka şey yoktu
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...sonun başlangıcıdır mary harris
+      metin  : jones un
+      duyulan: johnson
+  REPLACE  ...verdi fikir sonra geldi
+      metin  : ekim
+      duyulan: ekimbin
+  INSERT   ...hakkında anlattıklarının kısmı doğrulanamıyor
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...söyledi belgeler bunu desteklemiyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...desteklemiyor chicago yu sarsan
+      metin  : haymarket
+      duyulan: high market
+  REPLACE  ...ortada yoktu o kadın
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...harris jones kamusal hayatına
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...defalarca denedi ve beceremedi
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...şçileri sendikası o yıllarda
+      metin  : pennsylvania
+      duyulan: pensilvanya
+  REPLACE  ...ohio illinois ve batı
+      metin  : virginia
+      duyulan: virjinya
+  INSERT   ...dolaştı karanlıkta dağ geçti
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...en ünlü taktiğini kışında
+      metin  : pennsylvania
+      duyulan: pensilvania
+  REPLACE  ...grev kırıcıyı utandıran kadın
+      metin  : kalabalığıysa
+      duyulan: kalabalığı ize
+  REPLACE  ...hala dolaşımda yazında batı
+      metin  : virginia da
+      duyulan: virjinyada
+  REPLACE  ...oldu sendika eyaletin kömür
+      metin  : vadilerinde
+      duyulan: vadelerinde
+  REPLACE  ...konuşma yasak yargıç john
+      metin  : j
+      duyulan: jay
+  INSERT   ...ömrünün sonuna kadar taşıdı
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...tekstil işçisi greve çıktı
+      metin  : grevcilerin
+      duyulan: grevecilerin
+  REPLACE  ...arasında kadar çocuk vardı
+      metin  : pennsylvania
+      duyulan: pensilvanya
+  REPLACE  ...geçmesi gerekiyordu ana jones
+      metin  : grev komitesinin
+      duyulan: greve komitesi nin
+  INSERT   ...yürütmeye karar verdi temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ilk büyük yürüyen gösterilerinden
+      metin  : (yok)
+      duyulan: ne
+  REPLACE  ...geçti girdikleri her yerde
+      metin  : ana
+      duyulan: anna
+  REPLACE  ...ta kalabalık miting yaptılar
+      metin  : ana
+      duyulan: anna
+  REPLACE  ...hükümetin değil eyaletlerin yetkisinde
+      metin  : olduğuydu
+      duyulan: olduydu
+  REPLACE  ...siyaseten de rahat kapıydı
+      metin  : ana
+      duyulan: anna
+  INSERT   ...yasal olarak bitmesi için
+      metin  : (yok)
+      duyulan: i
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: biyografi-2026-10-11.duyulan.txt

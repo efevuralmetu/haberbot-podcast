@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-11.mp3
+
+beklenen 1813 kelime | duyulan 1829 kelime | eşleşme %96.0
+sayı ifadesi: metinde 243, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yıl sonra fark edecek
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...aylarında tokyo nun güneybatısındaki
+      metin  : çigasaki
+      duyulan: chigasaki
+  REPLACE  ...çigasaki kasabasında denize bakan
+      metin  : çigasakikan
+      duyulan: chigasaki khan
+  REPLACE  ...adlı han vardı kısaca
+      metin  : çigasaki hanı
+      duyulan: chigasaki han ı
+  REPLACE  ...kattaki odada adam oturuyordu
+      metin  : yasuciro ozu ydu
+      duyulan: yasujiro ozuydu
+  REPLACE  ...gibi akar yemekler içkiler
+      metin  : uzun
+      duyulan: nuzuz un
+  REPLACE  ...tonu hatta çoğu çekimin
+      metin  : kadrajı
+      duyulan: kadracı
+  REPLACE  ...güneyindeki küçük liman kasabası
+      metin  : onomiçi
+      duyulan: onomichi
+  REPLACE  ...de yaşayan yaşlı çift
+      metin  : şukiçi
+      duyulan: shukichi
+  REPLACE  ...görmeye gider büyük oğul
+      metin  : koiçi
+      duyulan: koichi
+  REPLACE  ...refahın çok gerisindedir kızı
+      metin  : şige
+      duyulan: shige
+  REPLACE  ...oğulda mola verilir ardından
+      metin  : onomiçi
+      duyulan: onomichi
+  INSERT   ...onomiçi ye varılır çekimler
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...stüdyosunda kuruldu dış çekimler
+      metin  : onomiçi
+      duyulan: onomichi
+  REPLACE  ...nun bütün kariyerini geçirdiği
+      metin  : şoçiku
+      duyulan: shochiku
+  REPLACE  ...en şaşırtıcı yanı yaşlardı
+      metin  : şukiçi
+      duyulan: shukichi
+  REPLACE  ...yaşlardı şukiçi yi oynayan
+      metin  : çişu
+      duyulan: chishu
+  REPLACE  ...duruşuyla canlandırdı anneyi oynayan
+      metin  : çieko higaşiyama
+      duyulan: chieko higashiyama
+  INSERT   ...yani tokyo hikayesi kasım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...eder ama adını koyamaz
+      metin  : (yok)
+      duyulan: kimse
+  REPLACE  ...elinde özel olarak kısaltılmış
+      metin  : tripodlar
+      duyulan: tripotlar
+  REPLACE  ...durmasını sağlayan düzenekler vardı
+      metin  : gerektiğinde
+      duyulan: gerekliğinde
+  REPLACE  ...bu hareket yaşlı çiftin
+      metin  : onomiçi
+      duyulan: onomichi
+  REPLACE  ...girersiniz en çok tartışılan
+      metin  : tarafıysa
+      duyulan: tarafı ize
+  REPLACE  ...kaç saniye süreceğini söylerdi
+      metin  : çişu
+      duyulan: chishu
+  REPLACE  ...kıpırdayan şey kamera olmayacaktır
+      metin  : onomiçi
+      duyulan: onomichi
+  REPLACE  ...olmayacaktır onomiçi ye dönüşte
+      metin  : tomi
+      duyulan: tommy
+  REPLACE  ...sahne vardır ardından baba
+      metin  : geline
+      duyulan: gelini
+  REPLACE  ...vardır filmin ilk görüntüleri
+      metin  : onomiçi
+      duyulan: onomichi
+  INSERT   ...film ihracatçılarının verdiği karardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uzak ve egzotik japonya
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...seyircinin anlayamayacağı kadar japon
+      metin  : şoçiku
+      duyulan: shochiku
+  INSERT   ...vermedi bu tutum ancak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ozu o yıl öldü
+      metin  : (yok)
+      duyulan: non
+  INSERT   ...o yıl öldü aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yaş gününde kamakura daki
+      metin  : engaku ci
+      duyulan: engakuji
+  INSERT   ...işaretin yazısı ozu nun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ozu nun askerlik yıllarında
+      metin  : nancing de
+      duyulan: nansing te
+  INSERT   ...sırada çoktan yola çıkmıştı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...toplam satılan bilet sayısı
+      metin  : (yok)
+      duyulan: dır
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: film-2026-10-11.duyulan.txt

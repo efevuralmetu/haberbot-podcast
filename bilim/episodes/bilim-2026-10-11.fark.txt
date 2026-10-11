@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-11.mp3
+
+beklenen 1757 kelime | duyulan 1754 kelime | eşleşme %96.6
+sayı ifadesi: metinde 232, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...uyan cep bulunması gerekir
+      metin  : cebin
+      duyulan: c cepin
+  REPLACE  ...yan yana gelip o
+      metin  : cebin
+      duyulan: cepin
+  INSERT   ...böyle olduğunu kanıtlayan deney
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuruldu ve enzim etkinliğinin
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...kişi amerikalı moleküler biyolog
+      metin  : cyrus levinthal
+      duyulan: sirus leventhal
+  REPLACE  ...biyolog cyrus levinthal oldu
+      metin  : levinthal
+      duyulan: leventhal
+  INSERT   ...kuşaktandı sayılarla düşünmeye alışkın
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şekilleri dener hangisi en
+      metin  : kararlıysa
+      duyulan: kararlı ize
+  REPLACE  ...en kararlıysa orada kalır
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...açılar yasaklıdır ama her
+      metin  : amino asit
+      duyulan: aminoasid
+  REPLACE  ...zincir boyunca çarpılarak büyür
+      metin  : levinthal amino asitlik
+      duyulan: leventhal aminoasidlik
+  INSERT   ...tekrarlasanız bile henüz üzeri
+      metin  : (yok)
+      duyulan: e
+  DELETE   ...saniye alır evrenin yaşı
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kabaca üzeri saniye yani
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kalır protein katlanmasını saniyenin
+      metin  : kesirleriyle
+      duyulan: keserleriyle
+  REPLACE  ...şekil sayısı sayıyı aşmaz
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...bile bu durum tarihe
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...katlandığına göer varsayım yanlıştır
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...dolaşmıyor belirli güzergahı izliyor
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...her noktayı denemektir ve
+      metin  : levinthal
+      duyulan: leventhal
+  INSERT   ...neden golf sahası olsun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...golf sahası olsun joseph
+      metin  : bryngelson
+      duyulan: bringelson
+  REPLACE  ...joseph bryngelson ve peter
+      metin  : wolynes
+      duyulan: wallins
+  REPLACE  ...ve hiçbirinde karar kılamaz
+      metin  : bryngelson
+      duyulan: bringelson
+  REPLACE  ...karar kılamaz bryngelson ve
+      metin  : wolynes
+      duyulan: wallins
+  REPLACE  ...zincirler olmadığıydı evrim çatışması
+      metin  : asgariye
+      duyulan: askeriye
+  INSERT   ...özelliğin manzaraya ne yaptığını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaptığını leopold montal ve
+      metin  : onuchic
+      duyulan: çiç
+  REPLACE  ...dağınık ama artık toparlanmış
+      metin  : yumağa
+      duyulan: yumığa
+  INSERT   ...tablonun kuramdan ibaret olmadığı
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...kuramdan ibaret olmadığı gösterildi
+      metin  : david e shaw ın ekibi anton adlı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yakınsayan güzergah ailesi var
+      metin  : levinthal
+      duyulan: leventhal
+  INSERT   ...miyiz son soru çözüldü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tıkanmış alanı hamlede açtı
+      metin  : (yok)
+      duyulan: ki ki
+  REPLACE  ...değildir i kinci soru
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...uzun sert lifler kurar
+      metin  : alzaymer
+      duyulan: alzheimer
+  REPLACE  ...beyinde çökeltiler bu türdendir
+      metin  : prion
+      duyulan: piriyon
+  REPLACE  ...daha çabuk vardığı şekildir
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...değişen şey sayı değil
+      metin  : levinthal
+      duyulan: leventhal
+  INSERT   ...değil levinthal in üzeri
+      metin  : (yok)
+      duyulan: ü
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: bilim-2026-10-11.duyulan.txt

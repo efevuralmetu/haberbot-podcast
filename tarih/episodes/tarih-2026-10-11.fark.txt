@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-11.mp3
+
+beklenen 2334 kelime | duyulan 2346 kelime | eşleşme %95.0
+sayı ifadesi: metinde 453, duyulanda 256  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ve kanallardan geçmek zorundaydı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...müttefik kontrol konseyi mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...değil paraydı savaştan kalan
+      metin  : rayhsmark
+      duyulan: reichsmark
+  DELETE   ...fiyatlar kağıt üzerinde donduğu
+      metin  : için
+      duyulan: (YOK — atlanmış)
+  INSERT   ...para çıkarmaya karar verdi
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...çıkarmaya karar verdi haziran
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...gizlice almanya ya taşınan
+      metin  : yeni
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ertesi sabah geldi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fazla insan yaşıyordu batı
+      metin  : başkentlerinde
+      duyulan: santrallerinde
+  REPLACE  ...kincisi şehri boşaltmaktı clay
+      metin  : e
+      duyulan: a
+  REPLACE  ...belgesi olurdu kimsenin ciddi
+      metin  : çözüm
+      duyulan: yol
+  INSERT   ...kağıt belirleyici oldu kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hiçbir zaman böyle belgeye
+      metin  : bağlanmamıştı
+      duyulan: alınmamıştı
+  REPLACE  ...çatışmayı göze almak olurdu
+      metin  : clay visbaden
+      duyulan: micay lay wiesbaden
+  REPLACE  ...kuvvetleri komutanı curtis lemay
+      metin  : i
+      duyulan: ı
+  REPLACE  ...sordu aktarıldığı biçimiyle lemay
+      metin  : in
+      duyulan: ın
+  INSERT   ...her şeyi taşıyabilecekleriydi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...açtı berlinliler bu işe
+      metin  : luftbrüke
+      duyulan: luftbrücke
+  REPLACE  ...önümüzdeki aylarda çözülecek asıl
+      metin  : problemin
+      duyulan: temin
+  REPLACE  ...elektrik üretimi ve fabrikaların
+      metin  : dönmesi
+      duyulan: arası
+  INSERT   ...seferde ton taşıyan c
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...dünyanın her yerindeki amerikan
+      metin  : üslerinden
+      duyulan: üstlerinden
+  DELETE   ...üstünden geçip dik açıyla
+      metin  : aşağı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çekiliyordu i ngiliz sektöründeki
+      metin  : gatov havaalanı
+      duyulan: gotthof alanı
+  INSERT   ...ama kapasitesi sınırlıydı temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...berlin e komutan william
+      metin  : tunner
+      duyulan: tuner
+  REPLACE  ...komutan william tunner geldi
+      metin  : tunner
+      duyulan: tuner
+  REPLACE  ...olarak işlendiği sanayi süreciydi
+      metin  : tunner
+      duyulan: tuner
+  DELETE   ...ikmalini macera değil fabrika
+      metin  : olarak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...su kadar heyecan vericiydi
+      metin  : tunner
+      duyulan: tuner
+  REPLACE  ...yağıyordu görüş sürekli düşüyordu
+      metin  : tunner
+      duyulan: tuner
+  REPLACE  ...gelen pilot bulutun çıkıp
+      metin  : pistte
+      duyulan: piste
+  REPLACE  ...sesle boğuşuyordu ve batıdaki
+      metin  : üslerden
+      duyulan: üstlerden
+  REPLACE  ...çünkü kimse durmalarını söylememişti
+      metin  : tunner
+      duyulan: tuner
+  DELETE   ...kuleyi susturdu sonra o
+      metin  : yığını
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dağıttı herkes yüküyle kalkış
+      metin  : üssüne
+      duyulan: üstüne
+  REPLACE  ...ve kimse ölmedi ama
+      metin  : tunner
+      duyulan: tuner
+  REPLACE  ...değil daha az karardı
+      metin  : tunner
+      duyulan: tuner
+  DELETE   ...eğer bütün uçaklar aynı
+      metin  : şeyi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tekleştirdi koridorda herkes saatte
+      metin  : kilometer
+      duyulan: km
+  ... ve 63 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 101
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: tarih-2026-10-11.duyulan.txt

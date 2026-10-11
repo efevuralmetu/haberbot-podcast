@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-11.mp3
+
+beklenen 1621 kelime | duyulan 1633 kelime | eşleşme %96.2
+sayı ifadesi: metinde 239, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...tür olarak kullanacaktı kasım
+      metin  : tokyo
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kullanacaktı kasım tokyo da
+      metin  : (yok)
+      duyulan: tokyoda
+  REPLACE  ...şirketi kuruldu kurucusunun adı
+      metin  : naotoşi zin di
+      duyulan: naotoshi zindi
+  REPLACE  ...düzenli işler şirketin adı
+      metin  : from softwaer di
+      duyulan: fromsoft verdi
+  INSERT   ...yalnızca gün sonra aralık
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...herkesin bildiği final fantasy
+      metin  : vii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...japonya da iyi sattı
+      metin  : ofis
+      duyulan: office
+  INSERT   ...kurulu başka denemeler geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...süer sonra sektörde belirli
+      metin  : ünle
+      duyulan: ünne
+  INSERT   ...o karanlık zindan damarı
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...kadar hidetaka miyazaki eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...miyazaki eylül japonya nın
+      metin  : şizuoka
+      duyulan: shizuoka
+  INSERT   ...en temel fikri olacaktı
+      metin  : (yok)
+      duyulan: g de
+  INSERT   ...bölümünden vazgeçmek anlamına geliyordu
+      metin  : (yok)
+      duyulan: g de
+  REPLACE  ...projenin yapımcılığını sony tarafından
+      metin  : takeşi kacii
+      duyulan: takeshi kaji ye
+  REPLACE  ...umursamayacaktı çünkü proje zaten
+      metin  : fiyaskoydu
+      duyulan: fiyaz koydu
+  INSERT   ...tamamen söktü oyunu stüdyonun
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nın ruhunu modern konsolda
+      metin  : diriltmek
+      duyulan: dirirtmek
+  DELETE   ...oyun tarihinde eşi olmayan
+      metin  : çok
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karanlıkta sizden önce yürümüş
+      metin  : silueti
+      duyulan: silüeti
+  INSERT   ...oyun neredeyze bitmişken ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oyun tasarlandığı gibiydi yapımcı
+      metin  : kacii
+      duyulan: kaji
+  INSERT   ...i blis ruhları şubat
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...japonya da playstation kısaca
+      metin  : psüç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sisteminde oyuna üzerinden verdi
+      metin  : puanlar
+      duyulan: poanlar
+  INSERT   ...üzerinden verdi puanlar ve
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...şirketin oyun tarafının yöneticisi
+      metin  : şuhey yoşida
+      duyulan: shuhei yoshida
+  REPLACE  ...kapalıydı boşluğu amerikalı yayıncı
+      metin  : atlus
+      duyulan: atlas
+  INSERT   ...haklarını aldı ve ekim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...aceleyle yeniden baskıya girdi
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...ize oyun ancak haziran
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...amerikan oyun sitesi gamespot
+      metin  : (yok)
+      duyulan: un
+  DELETE   ...site oyunu en iyi
+      metin  : psüç
+      duyulan: (YOK — atlanmış)
+  INSERT   ...reddedildiği yılın oyunu oldu
+      metin  : (yok)
+      duyulan: ki e
+  REPLACE  ...geçmişti sony yöneticileri o
+      metin  : yayımlama
+      duyulan: yayınlama
+  INSERT   ...büyüklüğü satış rakamlarında değil
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...devralan adam ize mayıs
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...başındaki reddi daha hatırlatır
+      metin  : şubadında
+      duyulan: ki şubat ında
+  REPLACE  ...lekeleri ve duvar mesajları
+      metin  : ortadan kalktı
+      duyulan: ortada
+  INSERT   ...getirdiler ardından sony kasım
+      metin  : (yok)
+      duyulan: de
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-10-11.duyulan.txt

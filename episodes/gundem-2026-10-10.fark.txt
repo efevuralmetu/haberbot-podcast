@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-10.mp3
+
+beklenen 1399 kelime | duyulan 1388 kelime | eşleşme %94.7
+sayı ifadesi: metinde 317, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...savunuldu ukrayna devlet başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...ulusal hava yolu şirketi
+      metin  : saudia
+      duyulan: saudiya
+  REPLACE  ...koalisyon ize yemen de
+      metin  : husileer
+      duyulan: husiler e
+  INSERT   ...çişleri bakanlığı verilerine göer
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...yönelik saldırıların durdurulmasını öngören
+      metin  : kısmi
+      duyulan: kısmı
+  REPLACE  ...ihtiyaç duyuyor ve el
+      metin  : ninyo
+      duyulan: nino
+  INSERT   ...taşıdığı alanlarda yaşıyor ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...var i ran cumhurbaşkanı
+      metin  : masoud pezeşkiyan
+      duyulan: masud pezeşkian
+  REPLACE  ...olduğunu öne sürdüğü gemiye
+      metin  : yaptırım
+      duyulan: yaptırımı
+  REPLACE  ...adlı yeni seçenek eklerken
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...karmaşık iş yükleri için
+      metin  : claude
+      duyulan: cloud
+  DELETE   ...yükleri için claude opus
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yüksek hacimli görevler için
+      metin  : claude
+      duyulan: cloud
+  DELETE   ...görevler için claude haiku
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üzerinde çalıştıklarını bildirdi google
+      metin  : ceminay
+      duyulan: gemini ai
+  REPLACE  ...erişim kurallarını değiştirdi ekim
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...bağlantılı hesapları kapattığını duyurdu
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...takdim etti piyasalarda hafta
+      metin  : iyimser
+      duyulan: imser
+  REPLACE  ...dow jones endeksi artışla
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...puandan günü tamamladı ana
+      metin  : endeks de
+      duyulan: endekste
+  INSERT   ...yüksek enerji fiyatlarının etkisiyle
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kriz duruyor ankara bölge
+      metin  : adliye
+      duyulan: atliye
+  REPLACE  ...özel yıllık partisinden ayrılmış
+      metin  : milletvekiliyle
+      duyulan: milletvekili ile
+  REPLACE  ...kurmuştu chp yargıtay aşamasındaki
+      metin  : temyiz
+      duyulan: temmiz
+  REPLACE  ...başkanı cemil tugay ın
+      metin  : ak parti ye
+      duyulan: hak partiye
+  REPLACE  ...fazla adayın yarıştığı ilçelerin
+      metin  : yedisinde
+      duyulan: sinde
+  REPLACE  ...en geç ekim de
+      metin  : meclis e
+      duyulan: meclize
+  REPLACE  ...en dikkat çekeni sosyal
+      metin  : ağ
+      duyulan: ağa
+  INSERT   ...gerileyerek uzun aradan sonra
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...eylül toplantısında politika faizini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...faizini sabit tutmuştu piyasalarda
+      metin  : ekim deki
+      duyulan: hekimdeki
+  REPLACE  ...puan arasında indirim bekleniyor
+      metin  : yurt içi
+      duyulan: yurtiçiyi
+  REPLACE  ...di sk in araştırma
+      metin  : di sk ar ın
+      duyulan: disik ağırın
+  DELETE   ...sigortalı çalışana birikimli maliyetini
+      metin  : trilyon
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nun açılışında konuştu savunma
+      metin  : sanayiinde
+      duyulan: sanayinde
+  REPLACE  ...a takım teknik direktörü
+      metin  : vinçenzo
+      duyulan: vincenzo
+  REPLACE  ...de fon başkanı kristalina
+      metin  : georgieva
+      duyulan: gorgeva
+  REPLACE  ...yurt içinde ekim bütçesinin
+      metin  : meclis e
+      duyulan: meclize
+  REPLACE  ...gerçekleşecek gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: gundem-2026-10-10.duyulan.txt

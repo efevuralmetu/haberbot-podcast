@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-11.mp3
+
+beklenen 2780 kelime | duyulan 2776 kelime | eşleşme %98.6
+sayı ifadesi: metinde 149, duyulanda 117  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ready to form bridges
+      metin  : and
+      duyulan: then
+  DELETE   ...bridges and theer aer
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...american molecular biologist cyrus
+      metin  : levinthal levinthal
+      duyulan: leventhal leventhal
+  REPLACE  ...whichever is most stable
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...protein of amino acids
+      metin  : levinthal
+      duyulan: leventhal
+  DELETE   ...somewheer around to the
+      metin  : eightieth
+      duyulan: (YOK — atlanmış)
+  DELETE   ...seconds the universe is
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...would need to the
+      metin  : seventieth
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...it this was precisely
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...down in history as
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...is wrong that was
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...search it is a
+      metin  : route
+      duyulan: root
+  REPLACE  ...following a particular path
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...biology and takes a
+      metin  : barer
+      duyulan: bearer
+  REPLACE  ...try every point and
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...golf course in joseph
+      metin  : bryngelson
+      duyulan: bringleson
+  REPLACE  ...joseph bryngelson and peter
+      metin  : wolynes
+      duyulan: wooliens
+  REPLACE  ...any of them what
+      metin  : bryngelson
+      duyulan: bringleson
+  REPLACE  ...them what bryngelson and
+      metin  : wolynes
+      duyulan: wooliens
+  REPLACE  ...in leopold montal and
+      metin  : onuchic
+      duyulan: onouchi
+  REPLACE  ...remain a single contact
+      metin  : formed
+      duyulan: form
+  DELETE   ...theory was shown in
+      metin  : david e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...measured in the laboratory
+      metin  : and
+      duyulan: did
+  REPLACE  ...the times they took
+      metin  : matched
+      duyulan: match
+  REPLACE  ...converging toward the bottom
+      metin  : levinthal
+      duyulan: leventhal
+  INSERT   ...close to experimental measurement
+      metin  : (yok)
+      duyulan: dope
+  REPLACE  ...gets theer the question
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...that contrarian intuition of
+      metin  : levinthal
+      duyulan: leventhal
+  REPLACE  ...isn t the number
+      metin  : levinthal
+      duyulan: leventhal
+  DELETE   ...privilege of special sequences
+      metin  : won
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...any search at al
+      metin  : nöron
+      duyulan: neuron
+  REPLACE  ...al nöron science de
+      metin  : bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: bugun kubudumun sono na galdik yenibir hikaya da yenidan bulushma kuzera
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-10-11.duyulan.txt

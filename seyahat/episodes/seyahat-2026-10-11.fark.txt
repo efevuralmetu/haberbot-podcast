@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-11.mp3
+
+beklenen 1863 kelime | duyulan 1882 kelime | eşleşme %94.9
+sayı ifadesi: metinde 231, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...o ipin gerildiği dağda
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...kuruldu şehrin adı derbent
+      metin  : farsçada darband
+      duyulan: farsça da darbant
+  REPLACE  ...demir kapı dediler araplar
+      metin  : babü l ebvab
+      duyulan: babül evvap
+  INSERT   ...kalede narınkala yüzyılın ortalarında
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...kaleden aşağıya uzanan paralel
+      metin  : surdur
+      duyulan: sudur
+  REPLACE  ...giren bambaşka yapı uzanır
+      metin  : dağbarı
+      duyulan: dabarı
+  INSERT   ...şehri ve savunma yapıları
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...daha eskiye milattan önce
+      metin  : binyılın
+      duyulan: yılın
+  REPLACE  ...lezgi tabasaran agul rutul
+      metin  : tsahur
+      duyulan: sahur
+  REPLACE  ...türkçesi güneyde azerbaycan türkçesi
+      metin  : derbent
+      duyulan: derben
+  INSERT   ...rani dil olan tatça
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...metreye ulaşır aşağıdaki su
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...üstünde yürümek köyün adı
+      metin  : tsovkra dağıstan
+      duyulan: sovkra dağistan
+  REPLACE  ...inip tekrar yukarı tırmanmak
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...bu yola katlanmak istemediler
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...taşıdı sovyetler nin sirkleri
+      metin  : tsovkra
+      duyulan: sofra
+  REPLACE  ...köylü aileler dedelerinin vadide
+      metin  : gerdiği
+      duyulan: geldiği
+  REPLACE  ...halatın aynısını sahne ışıkları
+      metin  : gerdi
+      duyulan: geldi
+  REPLACE  ...sanatçılara verdiği en yüksek
+      metin  : unvanlarla
+      duyulan: ünvanlarla
+  REPLACE  ...en yüksek unvanlarla döndü
+      metin  : birliğin
+      duyulan: nin
+  REPLACE  ...terbiye ettiği köy var
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...var kubaçi meter yükseklikte
+      metin  : dahaday
+      duyulan: daha da
+  INSERT   ...yükseklikte dahaday ilçesinde kurulu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...geçmesine zor izin veriyor
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...gelen zirihgeran adıyla geçer
+      metin  : türkçedeki kubaçi
+      duyulan: türkçe deki kubaci
+  REPLACE  ...tanım değildi köy zırh
+      metin  : miğfer
+      duyulan: mifer
+  REPLACE  ...çanak çömlek üslubu bu
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...aynı eller gümüşe geçti
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...tek parça haftalar alır
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...evin kapısı açıldığında içeriden
+      metin  : çekiç
+      duyulan: çekit
+  REPLACE  ...zanaatı ize kadınların elinde
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...yalnızca bu köye ait
+      metin  : dağıstan ın
+      duyulan: dağastanın
+  REPLACE  ...kadar eski olduğuna inanıyor
+      metin  : tsovkra nın
+      duyulan: sofkranın
+  REPLACE  ...inanıyor tsovkra nın halatıyla
+      metin  : kubaçi
+      duyulan: kubaci
+  REPLACE  ...yıl boyunca aynı hüneri
+      metin  : bileyebiliyorsa
+      duyulan: bilebiliyorsa
+  REPLACE  ...yerleşim var avarca adı
+      metin  : gamsutl hanın
+      duyulan: gamsutlu han ın
+  INSERT   ...köyde kadar hane ve
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...manzarası değil çalışan kasabaydı
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...ellilerin sonunda ayrılışlar başladı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sonunda ayrılışlar başladı nüfus
+      metin  : (yok)
+      duyulan: e
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 64 kelime | duyulup metinde OLMAYAN: 81
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: seyahat-2026-10-11.duyulan.txt
