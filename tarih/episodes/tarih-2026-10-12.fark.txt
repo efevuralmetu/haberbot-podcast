@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-12.mp3
+
+beklenen 2275 kelime | duyulan 2306 kelime | eşleşme %93.9
+sayı ifadesi: metinde 371, duyulanda 213  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nın en güçlü imparatorluğunu
+      metin  : sabahta
+      duyulan: sabah da
+  REPLACE  ...hiç orada değildi sonbaharında
+      metin  : marakeş
+      duyulan: marrakech
+  REPLACE  ...neredeyze tam sessizlik buldu
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...el mansur yıl önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...diplomasiyle ayakta tutuyordu şimdi
+      metin  : nijer
+      duyulan: niger
+  REPLACE  ...olan şeker kamışı işletmeleri
+      metin  : karayipler deki
+      duyulan: karayıplerdeki
+  REPLACE  ...çölün en değerli tuz
+      metin  : yatağıydı
+      duyulan: yataydı
+  REPLACE  ...songay hükümdarı cevap olarak
+      metin  : dra vadisindeki
+      duyulan: dara vadisi ndeki
+  INSERT   ...tercih etmişti el mansur
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...el mansur doğru askiya
+      metin  : davud dan
+      duyulan: davut tan
+  INSERT   ...vergi gelirinin karşılığını istedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tegaza ya saldırdı madenciler
+      metin  : bölüğüyle
+      duyulan: bölüyle
+  REPLACE  ...madenciler bölüğüyle ocakları bırakıp
+      metin  : güneydoğudaki taudeni
+      duyulan: güneydoğu daki tavdeni
+  REPLACE  ...başında bu kez askiya
+      metin  : i shak a
+      duyulan: işhaka
+  REPLACE  ...nın en büyük gücüydü
+      metin  : songay nijer
+      duyulan: son ay niger
+  REPLACE  ...iç mekanizması aşınmıştı askiya
+      metin  : davud
+      duyulan: davut
+  INSERT   ...aşınmıştı askiya davud un
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...içinde kez el değiştirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iç savaşa dönüştü ve
+      metin  : i shak
+      duyulan: işhak
+  REPLACE  ...tahta bu kavganın ardından
+      metin  : orduyu
+      duyulan: noktorduyu
+  REPLACE  ...songay ın madeni yoktu
+      metin  : nijer
+      duyulan: niger
+  REPLACE  ...metal çok daha güneyde
+      metin  : buer
+      duyulan: güer
+  INSERT   ...yine de verdi ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...de verdi ekim ordu
+      metin  : marakeş
+      duyulan: marrakech
+  REPLACE  ...götürecek adam doğduğu yerde
+      metin  : diyego
+      duyulan: diego
+  REPLACE  ...doğduğu yerde diyego de
+      metin  : gevara
+      duyulan: guevara
+  REPLACE  ...i spanya nın güneydoğusunda
+      metin  : almansora
+      duyulan: almanzora
+  REPLACE  ...nın güneydoğusunda almansora vadisindeki
+      metin  : kuevas
+      duyulan: cuevas
+  REPLACE  ...almansora vadisindeki kuevas del
+      metin  : almansora
+      duyulan: almanzora
+  REPLACE  ...düşmüş hadım edilmiş ve
+      metin  : marakeş
+      duyulan: marrakech
+  INSERT   ...ve mavi gözleriyle anılıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...belirleyici olan bu kuvvetin
+      metin  : bileşimiydi
+      duyulan: birleşimiydi
+  REPLACE  ...tüfekliydi atlıların kısmı da
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...ngiliz tüccarlarla kurulan ilişki
+      metin  : marakeş
+      duyulan: marrakech
+  DELETE   ...bırakıyordu deve yük atı
+      metin  : seyis
+      duyulan: (YOK — atlanmış)
+  INSERT   ...arkasında su hesabı vardı
+      metin  : (yok)
+      duyulan: doğunaltı
+  INSERT   ...su hesabı vardı ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hesabı vardı ekim kafile
+      metin  : marakeş
+      duyulan: marrakech
+  REPLACE  ...ayrıldı atlas ı geçip
+      metin  : dra vadisine
+      duyulan: dıra vadisi ne
+  REPLACE  ...boyunca kafile tegaza ve
+      metin  : taudeni
+      duyulan: tavdeni
+  ... ve 63 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 116
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-10-12.duyulan.txt

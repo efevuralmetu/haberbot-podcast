@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-11.mp3
+
+beklenen 1473 kelime | duyulan 1480 kelime | eşleşme %93.1
+sayı ifadesi: metinde 314, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...la verimli görüşmeler yürütüldüğünü
+      metin  : söyledi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olarak nitelendirdi dışişleri bakanı
+      metin  : arakçi
+      duyulan: arakçı
+  REPLACE  ...uzlaşının çatışmayı bitirebileceğini belirtti
+      metin  : tahran
+      duyulan: tehran
+  REPLACE  ...gerektiğini söyledi abd başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...mimarisini zayıflatacağı tartışması açıldı
+      metin  : gazze de
+      duyulan: gazete
+  INSERT   ...açıldı gazze de ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sahadaki tablonun kırılganlığıyla geçti
+      metin  : gazze deki
+      duyulan: gazetede ki
+  INSERT   ...bu yana süren saldırılarda
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...fazlası çocuk olmak üzeer
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...öngörülen hacme ulaşmaması yeniden
+      metin  : inşa takviminin
+      duyulan: inşaat akviminin
+  REPLACE  ...büyüklüğündeki artçı sonrası kosta
+      metin  : rika
+      duyulan: rica
+  REPLACE  ...a kadar ülke için
+      metin  : tsunami
+      duyulan: sunami
+  REPLACE  ...kaldırıldı abd de ize
+      metin  : isaias
+      duyulan: i sa ayaz
+  INSERT   ...bu abd de ekim
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...laos ta ulusal meclis
+      metin  : salömsay kommasit i başbakanlığa
+      duyulan: salöm saykoma city başbakanlığı
+  REPLACE  ...york ta mitingler düzenledi
+      metin  : syracuse daki
+      duyulan: siriküüz deki
+  REPLACE  ...anketlerde geride görünen cumhuriyetçi
+      metin  : aday
+      duyulan: adı
+  REPLACE  ...destek istedi ve texas
+      metin  : ile
+      duyulan: ele
+  REPLACE  ...yaşandı trump ağustosta ayrılan
+      metin  : karoline leavitt
+      duyulan: karolina lawit
+  REPLACE  ...leavitt in yerine basın
+      metin  : sözcülüğüne
+      duyulan: sözlülüğüne
+  REPLACE  ...sözcülüğüne muhafazakar yorumcu katie
+      metin  : zacharia
+      duyulan: zakarya
+  REPLACE  ...ajanı olarak çalışmak ve
+      metin  : tayvan
+      duyulan: taiwan
+  REPLACE  ...çalışmak ve tayvan lideri
+      metin  : lay çing te nin oğlu ile
+      duyulan: lai ching in oğluyla
+  REPLACE  ...yoğun iş yükleri için
+      metin  : optimize
+      duyulan: otomize
+  REPLACE  ...aşağıda konumlandı anthropic in
+      metin  : claude
+      duyulan: cloth
+  DELETE   ...anthropic in claude opus
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...baskısı yarattı sam altman
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...edilemez olduğunu söyledi dario
+      metin  : amodei
+      duyulan: amode
+  REPLACE  ...zorunlu kılan şeffaflık hükümleri
+      metin  : anthropic ize
+      duyulan: anthropix e
+  REPLACE  ...ize iç testler sırasında
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...istenmeyen işlemler yaptığını açıkladı
+      metin  : donanım
+      duyulan: donanın
+  REPLACE  ...yatırım yaptığı bulut şirketi
+      metin  : firmus grid
+      duyulan: firmuscrit
+  REPLACE  ...hafiflemesi risk iştahını destekledi
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...seviyesine dow jones ize
+      metin  : yükselişle
+      duyulan: yükselişte
+  INSERT   ...güvenli liman talebi sürüyor
+      metin  : (yok)
+      duyulan: onsalton
+  REPLACE  ...çin e yönelik yeni
+      metin  : tarife
+      duyulan: tarifi
+  INSERT   ...gerçekleşti ve yıllık oranın
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...merkez bankası politika faizini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gecelik borç verme faizini
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...verme faizini borçlanma faizini
+      metin  : (yok)
+      duyulan: te
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: gundem-2026-10-11.duyulan.txt

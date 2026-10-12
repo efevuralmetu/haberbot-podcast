@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-12.mp3
+
+beklenen 1602 kelime | duyulan 1632 kelime | eşleşme %95.9
+sayı ifadesi: metinde 279, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ilişkinin biçimi haline geldi
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...orada bulunmasının sebebi çocuğa
+      metin  : daktilo
+      duyulan: daktil
+  INSERT   ...hikayenin kökü nintendo nun
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...uzun süer boş kalmaz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...boş kalmaz guangdong eyaletinin
+      metin  : cungşan
+      duyulan: zhongshan
+  INSERT   ...atari makinesi fabrikası kuruldu
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...satmak i lk model
+      metin  : dyirmi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ve bölgesel patlama yaptı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...diye şey satmak imkansızdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i lk klavyeli model
+      metin  : sb
+      duyulan: sp
+  REPLACE  ...sb adıyla çıktı ardından
+      metin  : sb
+      duyulan: sp
+  REPLACE  ...çıktı ardından sb ve
+      metin  : sb
+      duyulan: sp
+  REPLACE  ...oldu reklam çincede yerleşik
+      metin  : deyimin
+      duyulan: değimin
+  REPLACE  ...büyük adam olmasını istemek
+      metin  : deyimin
+      duyulan: değimin
+  REPLACE  ...olmasını istemek deyimin içindeki
+      metin  : ejderha
+      duyulan: cejderha
+  INSERT   ...şe yaradı şirketin satışları
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaradı şirketin satışları yuanı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sesle söylemiyordu duan yongping
+      metin  : ağustosunda
+      duyulan: in ağustos unda
+  DELETE   ...hükümdar da devam etti
+      metin  : sb
+      duyulan: (YOK — atlanmış)
+  INSERT   ...devam etti sb ardından
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...çok bilgisayara benzeyen arayüzle
+      metin  : sb
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gündeminin birleştiği yerde duruyordu
+      metin  : basındaki
+      duyulan: bağasındaki
+  INSERT   ...dil giderek keskinleşiyordu mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...noktası annenin şikayetiydi muhabirler
+      metin  : vuhan
+      duyulan: wuhan
+  REPLACE  ...ndeki haberin çıktığı gün
+      metin  : vuhan
+      duyulan: wuhan
+  INSERT   ...eroin ay sonra haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...boşlukta ilginç denemeler oldu
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...denemeler oldu nintendo mühendis
+      metin  : vey
+      duyulan: ve
+  REPLACE  ...cihaz çıkardı çince adı
+      metin  : shenyouji
+      duyulan: shenyuji
+  INSERT   ...kolunun içine yerleştirilmiş nintendo
+      metin  : (yok)
+      duyulan: tü
+  REPLACE  ...konsolu yoktu ve belgenin
+      metin  : lafzına
+      duyulan: lafına
+  REPLACE  ...için konsol oyunu yapmaz
+      metin  : yerelleştirme
+      duyulan: yerleştirme
+  INSERT   ...kafeden girdi bu zemine
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu zemine şirket oturdu
+      metin  : şanghay
+      duyulan: şangay
+  INSERT   ...şirket oturdu şanghay da
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...oturdu şanghay da sonunda
+      metin  : çen tiençiao
+      duyulan: chen tianjiao
+  INSERT   ...haklarını aldı oyun eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kutu satmadı zaman sattı
+      metin  : ön
+      duyulan: önd
+  INSERT   ...nin eşzamanlı oyuncu sayısı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...oyuncu sayısı geçti şirket
+      metin  : (yok)
+      duyulan: te
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-10-12.duyulan.txt

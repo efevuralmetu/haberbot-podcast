@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-12.mp3
+
+beklenen 1700 kelime | duyulan 1711 kelime | eşleşme %93.4
+sayı ifadesi: metinde 259, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...vermeye hiç fırsat bulamadı
+      metin  : atlantiğin galiçya
+      duyulan: atlantin galicia
+  REPLACE  ...en sert çarptığı yerde
+      metin  : korme
+      duyulan: kormek
+  REPLACE  ...gerekir bu burnun adı
+      metin  : ronkudo galiçya
+      duyulan: roncudo galicia
+  REPLACE  ...ayakta duramadığı yerde yetişiyor
+      metin  : ronkudo burnu nun
+      duyulan: roncudo burnunun
+  REPLACE  ...meydan okumak değil okumak
+      metin  : persebeyro
+      duyulan: persebeiro
+  REPLACE  ...sabah erkenden rüzgarın yönüne
+      metin  : gelgit
+      duyulan: yelgit
+  REPLACE  ...içinde de yok bu
+      metin  : persebeyro lar
+      duyulan: persebeirolar
+  REPLACE  ...ama her zaman yetişilmez
+      metin  : ronkudo
+      duyulan: don cudo
+  REPLACE  ...oğul olarak anılan os
+      metin  : polinyos
+      duyulan: polinos
+  REPLACE  ...nun rıhtımının yanında ayrıca
+      metin  : persebeyro
+      duyulan: persebeiro
+  INSERT   ...bu kısa kıyı şeridinde
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...tabirini ilk kez a
+      metin  : korunya
+      duyulan: coruña
+  INSERT   ...da çıkan gazete kuzeybatı
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...yaşanan batıklardan sonra kullandı
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kıyı adı doğruluyordu araştırmacı
+      metin  : hose
+      duyulan: jose
+  REPLACE  ...doğruluyordu araştırmacı hose banya
+      metin  : heym
+      duyulan: hayme
+  REPLACE  ...i ngiliz savaş gemisi
+      metin  : hms
+      duyulan: haymes
+  REPLACE  ...pazarlığın en tuhaf sonucu
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...portekiz sınırını çizen minyo
+      metin  : ırmağının
+      duyulan: irmağı nın
+  REPLACE  ...bağlı küçük kırsal mahallede
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...çok erken başlar sabahın
+      metin  : yedisinden
+      duyulan: sinden
+  REPLACE  ...o sözü ödemeye gelmiştir
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...seçimi de tesadüf değil
+      metin  : hıristiyan
+      duyulan: hristiyan
+  INSERT   ...edilir i lk şapel
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...i lk şapel yenilenmiş
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olarak icat edilmedi köyün
+      metin  : yüzyıldır
+      duyulan: yıldır
+  REPLACE  ...kalabalığın içinde türkücüler vardır
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...eski söyleyiş biçimi olan
+      metin  : alalá
+      duyulan: alala
+  REPLACE  ...söyledikleri dizeyi bugün bütün
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...bugün bütün galiçya bilir
+      metin  : virşe
+      duyulan: virche
+  REPLACE  ...virşe santa marta estrela
+      metin  : do norte traemosçe os ke
+      duyulan: donorte triamosce osce
+  REPLACE  ...havasına geçer meydanda yaşlılar
+      metin  : muinyeyra
+      duyulan: muinyeira
+  REPLACE  ...en gürültülü şenliğiyle bastırmak
+      metin  : galiçya
+      duyulan: galicia
+  REPLACE  ...taş çatılı sandık adı
+      metin  : orreo
+      duyulan: oreo
+  REPLACE  ...yassı taş tabaklar farelerin
+      metin  : tırmanmasını
+      duyulan: tırmanmasına
+  REPLACE  ...nın en ünlü örneği
+      metin  : karnota
+      duyulan: carnota
+  INSERT   ...örneği karnota da duruyor
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çift ayak üstüne kurulmuş
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ötedeki lira nın ambarı
+      metin  : metreyle
+      duyulan: meter ile
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 85
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-10-12.duyulan.txt

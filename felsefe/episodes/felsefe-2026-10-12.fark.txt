@@ -1,0 +1,103 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-12.mp3
+
+beklenen 2101 kelime | duyulan 2102 kelime | eşleşme %97.6
+sayı ifadesi: metinde 220, duyulanda 202  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...aydınlığında sokağın ortasında adam
+      metin  : yüzükoyun
+      duyulan: koyun
+  REPLACE  ...aynı şeyi biliyor bu
+      metin  : cesedin
+      duyulan: cesetin
+  REPLACE  ...amaçlıyor ve işe yarıyor
+      metin  : ödeyeceğini
+      duyulan: ötleyeceğini
+  REPLACE  ...havada kalıyor yılının kışı
+      metin  : haydelberg
+      duyulan: heidelberg
+  REPLACE  ...geçmiş felsefe profesörü karl
+      metin  : yaspers
+      duyulan: jaspers
+  REPLACE  ...ertesi yıl bu dersler
+      metin  : di şuldfrage
+      duyulan: die schuldfrage
+  REPLACE  ...çok ters orantılı metinlerden
+      metin  : yaspers ın
+      duyulan: jaspers in
+  REPLACE  ...burada yük kelimesini kullanıyor
+      metin  : yaspers
+      duyulan: yasperz
+  REPLACE  ...yara açılır bunun hakimi
+      metin  : yaspers a
+      duyulan: yasperza
+  REPLACE  ...ben kimseyi öldürmedim diyerek
+      metin  : cezai
+      duyulan: cezayı
+  REPLACE  ...her defasında yanlış çıkıyor
+      metin  : yaspers ın
+      duyulan: yasper sin
+  INSERT   ...daha da keskinleştirdi daha
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...teki duruşmayı izleyip yazdığı
+      metin  : ayhman in cerusalem
+      duyulan: ayman i nceru salem
+  REPLACE  ...ayhman in cerusalem yani
+      metin  : ayhman
+      duyulan: ayman
+  REPLACE  ...herkes kendi denkini taşır
+      metin  : necm
+      duyulan: necmi
+  REPLACE  ...verir ve bu ayrım
+      metin  : yaspers ın
+      duyulan: yaz fersin
+  REPLACE  ...açıklayan isim muhtemelen i
+      metin  : bn
+      duyulan: bni
+  REPLACE  ...muhtemelen i bn haldun
+      metin  : mukaddime nin
+      duyulan: mukaddemenin
+  REPLACE  ...yapabilir kılan şey i
+      metin  : bn
+      duyulan: bni
+  REPLACE  ...başka yerinde ize açıkça
+      metin  : buyurulur
+      duyulan: buyrulur
+  REPLACE  ...babaların suçu için öldürülmeyecek
+      metin  : hezekiel
+      duyulan: hezekiyel
+  REPLACE  ...yıldönümünde biz kazandık diyor
+      metin  : o
+      duyulan: noto
+  INSERT   ...yıl geçmiş olsa bile
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kurduğu bağ apaçık biz
+      metin  : bağıdır
+      duyulan: bağdır
+  REPLACE  ...tuzağı maddeyle kapatmak yaspers
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ödenir bunun örneği yaspers
+      metin  : ın
+      duyulan: in
+  INSERT   ...ın derslerinden yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ödemeyi yıllara yayılmış takvimle
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...pratikte ne kadar işe
+      metin  : yaradığı kolektif
+      duyulan: yaradı kollektif
+  REPLACE  ...artık yalnızca senin ellerin
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: felsefe-2026-10-12.duyulan.txt

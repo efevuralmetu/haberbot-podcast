@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-12.mp3
+
+beklenen 2524 kelime | duyulan 2486 kelime | eşleşme %13.2
+sayı ifadesi: metinde 244, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...had never been theer
+      metin  : imparatorluğun sonu bazen savaş alanında değil sarayın haritasında başlar yüzyılın sonunda merakeş te hüküm süren sa di hükümdarı ahmed el mansur un zihnindeki afrika haritası çok netti güneyde sahra nın öte yakasında topraktan çıkarıldığı ülke vardı ve o ülkenin adı songay dı bu harita yanlıştı yanlış olduğu anlaşıldığında ize yıllık ticaret düzeni ve batı afrika nın en büyük devleti çoktan paramparça olmuştu el mansur tahta sıradan veraset yoluyla gelmemişti de portekiz ordusunun kuzey afrika da uğradığı büyük yenilgi yani kral savaşı diye anılan o gün hem taht hem de itibar bırakmıştı avrupa nın en iddialı krallıklarından püskürtmüş müslüman hükümdar olarak akdeniz in yakasında saygı görüyordu ama saygı hazine değildi kuzey afrika nın gelirleri sınırlıydı i berya dan ve osmanlı dan gelen baskı sürekliydi ordusunu ayakta tutmak için ateşli silah barut top ve paralı asker gerekiyordu bunların hepsi alınıyordu yüzyıllardır aynı yolu izliyordu güneyin ormanlarına yakın bölgelerde çıkarılıyor kervanlarla nijer kıyısındaki şehirleer taşınıyor orada
+      duyulan: but the gold they weer looking for had never been theer the silver they weer looking for had never been theer but the gold they weer looking for had never been theer the gold they weer looking for had never been theer a samurai d ile arasandha butalep yennidan bukez askiya ishakayile tildi wek kronik leren anna tamanaguer kuchum seijibidh dil lerede dildi songai tarafutagazayi tamaa mem boshaltip
+  REPLACE  ...şehirleer taşınıyor orada tuz
+      metin  : at kumaş ve kitapla takas ediliyor sonra develerle çöle açılıyordu bu zincirin kuzey ucu merakeş in güney ucu ize songay ın elindeydi el mansur un yapmak istediği şey basitti zincirin tamamını almak i lk hamleler diplomatikti yıllardır süren pazarlık konusu vardı sahra nın ortasındaki tagaza
+      duyulan: uretimine dahagunaydi kibashkabir havzaya kaidir mayi bilaygoze almusht messele artak
+  REPLACE  ...nın ortasındaki tagaza tuz
+      metin  : madenleri tuz güneyde kadar değerliydi o madenler ize songay ın vergi düzenine bağlıydı el mansur önce askiya davud dan madenlerin gelirinden pay istedi sonra çıkarılan tuz miktarına denk ödemesi talep etti ile arasında bu talep yeniden bu kez askiya i shak a iletildi ve kroniklerin anlatımına göer küçümseyici dille reddedildi songay tarafı tagaza yı tamamen boşaltıp tuz üretimini daha güneydeki başka havzaya kaydırmayı bile göze almıştı mesele artık tuz değildi
+      duyulan: dildi
+  REPLACE  ...tuz değildi kimin kime
+      metin  : vergi verdiğiydi el mansur un sarayında bu seferin karşıtları vardı ve itirazları sıradan değildi
+      duyulan: wergi werdeidh elman surun sarayinda buse feren karsit lerewarde we itiraz larisaradan dildi
+  REPLACE  ...itirazları sıradan değildi ulema
+      metin  : müslüman hükümdarın başka müslüman ülkeye saldırmasının caiz olmadığını söylüyordu songay camileri kadıları medreseleri olan i slam devletiydi tüccarlar ize
+      duyulan: musliman hukum daran bashkabir musliman ulkayes aldermasanan jaiz olmadunu seul yordu songai jaamileer kadleru meder selerolan islam devletide tukar lari se
+  REPLACE  ...tüccarlar ize daha pratik
+      metin  : kaygı taşıyordu işleyen ticaret savaşla kesintiye uğrardı
+      duyulan: kaygetash yordu ishleyan tijaret sabashlake sintiye urardu veher kezen bildi sheiwarde cheol mera keishe le nijerarasandha ya klashiki kibin kilo metrilik kuyularen haftalararayla dizildi boshlu kuzan yordu urdu urdususu s look down erudi nite ki meri mishtide beshus ek cenerta gu naya gandari lan ku vechol de yo kol mushtu beshus kur klar da saharanan bata kuyisandaki wahadakurulan kasa emul lu iste songai karsi saldir seela tarkedil mishti elman surun jewabu soner kyuzil da fasla tarihci elifraninin aktardu bichi manta koyunu na dayan yordu tu jarlar bu cholu kuchuk karvan narla azadamla zayif donanum la surekli gechi ursa devle hazeen sinin
+  REPLACE  ...savaşla kesintiye uğrardı ve
+      metin  : herkesin bildiği şey vardı çöl merakeş ile nijer arasında yaklaşık kilometrelik kuyuların haftalar arayla dizildiği boşluk uzanıyordu ordu orada susuzluktan erirdi nitekim erimişti de te güneye gönderilen kuvvet çölde yok olmuştu larda sahra nın batı kıyısındaki vahada kurulan kısa ömürlü üs de songay karşı saldırısıyla terk edilmişti el mansur un cevabı sonraki yüzyılda faslı tarihçi el i frani nin aktardığı biçimiyle mantık oyununa dayanıyordu tüccarlar
+      duyulan: urdusunun im kyan nari la dona til musbir ku vet nedang echemesin tukaran yaptanin sultaniya pamaz midu
+  REPLACE  ...oyununa dayanıyordu tüccarlar bu
+      metin  : çölü küçük kervanlarla az adamla zayıf donanımla sürekli geçiyorsa devlet hazinesinin
+      duyulan: akal urutme cholu mesafe surun olarak guryordu oisa cholu mesafe deil isikte karvan geche bil yordu chunku kuchuktu yawashtave yuku sudanibarete harita daki
+  REPLACE  ...geçiyorsa devlet hazinesinin ve
+      metin  : ordusunun imkanlarıyla donatılmış kuvvet neden geçemesin tüccarın yaptığını sultan yapamaz mıydı bu akıl yürütme çölü mesafe sorunu olarak görüyordu oysa çöl mesafe değil eşikti kervan geçebiliyordu çünkü küçüktü yavaştı ve yükü sudan ibaretti haritadaki ve daha büyük hata ize yerindeydi songay ın topraklarında çıkarılmıyordu madenler çok daha güneybatıda
+      duyulan: dahabu yukataai se altanin yerin deide altan songai in topra klerinda chikaril miordu medan lurchok da hagunai bata da
+  REPLACE  ...daha güneybatıda senegal ve
+      metin  : nijer
+      duyulan: nijerin yukaru kollaranin na rasandaki berge lardaeide ora daki uretim songai
+  DELETE   ...senegal ve nijer in
+      metin  : yukarı kollarının arasındaki bölgelerdeydi oradaki üretim songay ın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üretim songay ın askeri
+      metin  : denetiminin dışında yerel topluluklar eliyle yürüyordu songay ın elindeki şey
+      duyulan: deneti minin dushunda yeral toplu luklar eli le uryordu songai in elinde kishei
+  REPLACE  ...ın elindeki şey maden
+      metin  : değil pazardı
+      duyulan: deil pazarda
+  REPLACE  ...maden değil pazardı timbuktu
+      metin  : cenne
+      duyulan: jenne
+  INSERT   ...timbuktu cenne ve gao
+      metin  : (yok)
+      duyulan: altanin
+  REPLACE  ...ve gao tuzla ve
+      metin  : kuzeyin mallarıyla buluştuğu borsalardı
+      duyulan: kuzain malarile bulushtu borsalarda
+  REPLACE  ...mallarıyla buluştuğu borsalardı yani
+      metin  : el mansur kaynağı değil
+      duyulan: elman sur kajna adil
+  REPLACE  ...mansur kaynağı değil takas
+      metin  : noktasını ele geçirmek üzereydi değirmeni zapt edip buğdayın orada bittiğini sanmak gibiydi songay tarafında da zamanlama kötüydü i mparatorluk önce
+      duyulan: noktas ne elegechir mekuzereide deir meni zaptedip budai in orda bitti ne san makkibide songai tarafandada zaman namakatudu imparatorluk yuzi leunje
+  REPLACE  ...i mparatorluk önce askiya
+      metin  : muhammed döneminde
+      duyulan: mohametu ne minde
+  REPLACE  ...askiya muhammed döneminde nijer
+      metin  : kıvrımının her yakasına yayılmış vergi düzeni
+      duyulan: kivrumanin heri kiya kasanaya ilmush vergidu zene
+  REPLACE  ...vergi düzeni ordusu ve
+      metin  : ırmak
+      duyulan: urmak
+  REPLACE  ...ordusu ve ırmak filosu
+      metin  : olan yapıydı ama lerin sonunda taht kavgaları
+      duyulan: olam yapuida eime leren sonan da takavgalar
+  REPLACE  ...sonunda taht kavgaları ve
+      metin  : bastırılmış isyan yönetici sınıfı bölmüştü
+      duyulan: bastar ilmushpiri sian yuneti jisanufu bermushtu
+  REPLACE  ...askiya i shak tahta
+      metin  : de bu çatlaklarla çıktı
+      duyulan: bilbe shuzek sanisekzde buchatlaklar lechikta
+  REPLACE  ...bu çatlaklarla çıktı elinde
+      metin  : hala binlerce savaşçı ırmakta yüzlerce kayık mızrak
+      duyulan: halauan lar savascha urmakta yuzlarja kaik mizrak
+  REPLACE  ...yüzlerce kayık mızrak ve
+      metin  : okla donanmış süvari sınıfı vardı
+      duyulan: okladonan muspir suvarisunu fawarda
+  REPLACE  ...vardı elinde olmayan tek
+      metin  : şey kuzeyden gelmekte olanın
+      duyulan: shei kuzaydang yalmekta olanan neoldu yudu seferin bashena gehtri lana daman hikia isi busavashan nekadar karmashik dunyada gehti
+  DELETE   ...kuzeyden gelmekte olanın ne
+      metin  : olduğuydu seferin başına getirilen adamın hikayesi bu savaşın ne kadar karmaşık dünyada geçtiğini
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karmaşık dünyada geçtiğini tek
+      metin  : başına anlatır
+      duyulan: bashena annatur
+  REPLACE  ...tek başına anlatır judar
+      metin  : paşa endülüs ün doğusunda almería yakınlarında
+      duyulan: pasha enduru son doosunda al meriya kannaran da
+  REPLACE  ...doğusunda almería yakınlarında kasabada
+      metin  : hristiyan ailenin çocuğu
+      duyulan: hristian ailein introju
+  REPLACE  ...hristiyan ailenin çocuğu olarak
+      metin  : dünyaya geldi adı
+      duyulan: dunyaya galde ada
+  REPLACE  ...dünyaya geldi adı diego
+      metin  : ydu küçük yaşta esir alındı hadım edildi
+      duyulan: yudu kuchuk yashta esiralunde hadu medilde
+  REPLACE  ...alındı hadım edildi ve
+      metin  : merakeş sarayına getirildi orada yetişti orada yükseldi mavi gözleriyle tanınan saray adamı
+      duyulan: mera keshtara inagetirilde aurada yetishte aurada yuksalde mawigozdari le tananan sarayadamu
+  REPLACE  ...adamı sonra komutan oldu
+      metin  : sonbaharında sahra yı geçecek orduyu doğduğu kıtanın
+      duyulan: wen san baharanda sahrai gechijek urdu dodu katanan
+  REPLACE  ...orduyu doğduğu kıtanın dilini
+      metin  : bilen adam yönetiyordu ordunun
+      duyulan: bilan yuneti urdu urdu nun
+  REPLACE  ...yönetiyordu ordunun kendisi de
+      metin  : karma
+      duyulan: karmabir
+  REPLACE  ...kendisi de karma topluluktu
+      metin  : kaynakların verdiği dökümde yaklaşık hafif süvari
+      duyulan: kaina klarun werdi do kumdaiyak lashik beshy ushafif suwari
+  INSERT   ...yaklaşık hafif süvari ve
+      metin  : (yok)
+      duyulan: shtek yus
+  REPLACE  ...hafif süvari ve kadar
+      metin  : piyade vardı piyadenin büyük bölümü arkebüz denen fitilli tüfeklerle donatılmıştı saflarda endülüs kökenli askerler avrupa
+      duyulan: piaad evarda piaad enin buuk bolimu arkibuz denan fitili tu feklair le donatul mishte saflair da endulu sku kenya askar lair avru padang yal mishmihte dilair jezair taraf laran
+  ... ve 169 fark daha
+
+metinde olup DUYULMAYAN: 2192 kelime | duyulup metinde OLMAYAN: 2155
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-12.duyulan.txt

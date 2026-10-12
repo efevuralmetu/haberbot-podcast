@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-12.mp3
+
+beklenen 2574 kelime | duyulan 2577 kelime | eşleşme %93.2
+sayı ifadesi: metinde 367, duyulanda 239  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...defterler geri gelir ağustos
+      metin  : pari
+      duyulan: (YOK — atlanmış)
+  INSERT   ...gelir ağustos pari te
+      metin  : (yok)
+      duyulan: paris e
+  REPLACE  ...avukatın evinde doğdu adı
+      metin  : antuan loran lavuazye ydi
+      duyulan: antoine laurent lavazia idi
+  REPLACE  ...için en iyisini seçtiler
+      metin  : pari
+      duyulan: paris
+  REPLACE  ...kurucusunun adıyla da anılan
+      metin  : o kubbeli
+      duyulan: okoubeli da
+  REPLACE  ...gibi cübbe giyecek ailenin
+      metin  : pari
+      duyulan: paris
+  INSERT   ...plan kağıt üzerinde yürüdü
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...birlikte haftalarca at sırtında
+      metin  : kır kır
+      duyulan: (YOK — atlanmış)
+  INSERT   ...sabırlı ölçüm bitmeyen kayıt
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...asistanlar hepsi servet istiyordu
+      metin  : lavuazye
+      duyulan: lavazie
+  REPLACE  ...hakkı özel ortaklığa kiralıyordu
+      metin  : ferm jeneral
+      duyulan: fermi general
+  REPLACE  ...değil satın alınan hisseydi
+      metin  : lavuazye
+      duyulan: lavazie
+  INSERT   ...halkın tütününü sulandırmakla suçlanacaktı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...aralığında şirketin kıdemli ortaklarından
+      metin  : jak polz ün
+      duyulan: jack pauls ın
+  REPLACE  ...jak polz ün kızı
+      metin  : mari an pieret polz
+      duyulan: marie ann pierrette pauls
+  REPLACE  ...etkili çalışma ortaklıklarından dönüştü
+      metin  : mari an
+      duyulan: marie ann
+  REPLACE  ...kocasının deney defterlerini tuttu
+      metin  : lavuazye
+      duyulan: lavazze
+  REPLACE  ...barut işlerinin yönetimine getirilince
+      metin  : pari
+      duyulan: paris
+  REPLACE  ...bütün kelimeleri yeniden yazılacaktı
+      metin  : lavuazye
+      duyulan: lavazye
+  REPLACE  ...salıyordu bu varsayımsal cevheer
+      metin  : filojiston
+      duyulan: filoziston
+  REPLACE  ...ama kimya kitapları konuşuyordu
+      metin  : filojiston
+      duyulan: filoziston
+  REPLACE  ...açıklamayı kurtaran ara maddeydi
+      metin  : lavuazye
+      duyulan: lavazye
+  REPLACE  ...metal havanın parçasını yemişti
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...parçasını yemişti dördün sonbaharında
+      metin  : pari
+      duyulan: paris
+  REPLACE  ...uzun süer yaşadığı havaydı
+      metin  : lavuazye
+      duyulan: lavazie
+  INSERT   ...soluk almaya yalnızca karışıyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...her dilinde o gazı
+      metin  : pari inde
+      duyulan: pariğinde
+  INSERT   ...çağırıyoruz yıkım burada durmadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olduğu da antik inançtı
+      metin  : lavuazye
+      duyulan: lavazze
+  INSERT   ...su artık element değildi
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...artık element değildi gazın
+      metin  : bileşiğiydi
+      duyulan: bileşiydi
+  INSERT   ...fizyoloji o masada başladı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...adı artık kimyasal cümleydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yıl kendi kitabını yayımladı
+      metin  : trete
+      duyulan: trt
+  DELETE   ...ilkeyi sakin dille yazdı
+      metin  : hiçbir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hala okul tahtalarında yazılı
+      metin  : lavuazye
+      duyulan: lavazye
+  REPLACE  ...ye durmaksızın bildiri geliyordu
+      metin  : ışığın
+      duyulan: işığın
+  INSERT   ...komisyonlar kuruluyor raporlar yazılıyor
+      metin  : (yok)
+      duyulan: ay
+  INSERT   ...nin ağırlığıyla yayımlanıyordu o
+      metin  : (yok)
+      duyulan: ay
+  REPLACE  ...ya da bitiren mühürdü
+      metin  : yetmişlerin
+      duyulan: lerin
+  ... ve 70 fark daha
+
+metinde olup DUYULMAYAN: 119 kelime | duyulup metinde OLMAYAN: 140
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: biyografi-2026-10-12.duyulan.txt

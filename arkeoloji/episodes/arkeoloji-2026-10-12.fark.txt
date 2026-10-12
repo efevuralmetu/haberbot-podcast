@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-12.mp3
+
+beklenen 2246 kelime | duyulan 2272 kelime | eşleşme %94.8
+sayı ifadesi: metinde 336, duyulanda 211  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...duvardan bakıyor sonra adını
+      metin  : bodhisattva nın
+      duyulan: bodhisatvanın
+  INSERT   ...zararın yalnızca ilkiydi nisan
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...içlerinde bugün hindistan ın
+      metin  : maharaştra
+      duyulan: maharashtra
+  REPLACE  ...subayı john smith yakınlardaki
+      metin  : ajintha
+      duyulan: acinta
+  REPLACE  ...smith kaplan ararken kaplan
+      metin  : vadisine
+      duyulan: öncesine
+  REPLACE  ...hat doğanın kazara yapmayacağı
+      metin  : kavis
+      duyulan: kaviz
+  DELETE   ...biçiminde tam ortasında ışığı
+      metin  : içeri
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üstündeydi yarasalar tavanda asılıydı
+      metin  : keskin
+      duyulan: eskin
+  INSERT   ...olarak anlamadığını rahatlıkla söyleyebiliriz
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...arkeolog değil ve avcıların
+      metin  : yaptığını
+      duyulan: ıslatığını
+  REPLACE  ...duruyor çünkü smith yazarken
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...yazarken içeriyi dolduran döküntünün
+      metin  : üstünde
+      duyulan: yerine
+  INSERT   ...olabileceğinin haber yavaş yayıldı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...asya derneği nin yayınında
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...derneği nin yayınında duyurdu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...duyurdu vadiye inen james
+      metin  : fergusson
+      duyulan: ferguson
+  REPLACE  ...bu ölçekte ayakta kalmamıştı
+      metin  : fergusson
+      duyulan: ferguson te
+  REPLACE  ...kalır renk kalmaz ve
+      metin  : fergusson ın
+      duyulan: ferguson un
+  REPLACE  ...oyuk hepsi tek tek
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...takvim çok daha sarsıcıdır
+      metin  : ajanta
+      duyulan: acanta
+  DELETE   ...vardır i lk dalga
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu en eski salonlarda
+      metin  : buddha
+      duyulan: buda
+  REPLACE  ...eski salonlarda buddha nın
+      metin  : insan
+      duyulan: kan
+  REPLACE  ...kralın tek başına verdiği
+      metin  : emirle
+      duyulan: yerle
+  REPLACE  ...bakanlarından varahadeva numaralı mağarayı
+      metin  : yazıtıyla
+      duyulan: yazıtı ile
+  REPLACE  ...yanındaki mağaraları üstlendi kendi
+      metin  : yazıtında
+      duyulan: yazıtımda
+  REPLACE  ...bildirir numaralı salonun arkasında
+      metin  : buddhabhadra
+      duyulan: budha bhadra
+  REPLACE  ...buddhabhadra adlı bağışçının adı
+      metin  : vardır
+      duyulan: var
+  INSERT   ...egemenliği yıl içinde çözüldü
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kaya kapı kemeri çizilmiş
+      metin  : oyulmaya
+      duyulan: yapılmaya
+  REPLACE  ...bırakılmış gibidir bağışçılar gitti
+      metin  : para
+      duyulan: karara
+  REPLACE  ...sona gezen çinli hacı
+      metin  : şüençang
+      duyulan: xuanzang
+  DELETE   ...şunu gösterir ajanta uzun
+      metin  : süer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...smith in bıçağına kadar
+      metin  : fergusson
+      duyulan: ferguson
+  INSERT   ...da karşılık buldu ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yapmakla görevlendirdi adı robert
+      metin  : gil di
+      duyulan: gildy te
+  REPLACE  ...anlamda fresk değildir ustalar
+      metin  : kaya
+      duyulan: bu
+  REPLACE  ...toprak kaolin beyazı kandil
+      metin  : isinden
+      duyulan: mağaran
+  REPLACE  ...mağarada elinde nilüfer tutan
+      metin  : bodhisattva
+      duyulan: bodhisatva
+  REPLACE  ...yüzyıllardır hint resminin simgesi
+      metin  : sayılan
+      duyulan: olan
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 71 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: arkeoloji-2026-10-12.duyulan.txt

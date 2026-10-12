@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-12.mp3
+
+beklenen 1723 kelime | duyulan 1731 kelime | eşleşme %93.9
+sayı ifadesi: metinde 240, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sınandığı moleküle gelelim ritonavir
+      metin  : hiv e
+      duyulan: hayeve ye
+  REPLACE  ...proteazı bloke eden ilaçtır
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...eden ilaçtır doksanların ortası
+      metin  : hiv
+      duyulan: hayeve
+  INSERT   ...geçtiği dönemdi proteaz inhibitörleri
+      metin  : (yok)
+      duyulan: doho
+  INSERT   ...eksik parçasıydı ritonavir mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...vermek molekülün büyük kısmını
+      metin  : bağırsakta
+      duyulan: bağırsak da
+  REPLACE  ...kristal biçimini tanıyordu sonradan
+      metin  : form i
+      duyulan: formay
+  REPLACE  ...katlanıyor komşularıyla belirli hidrojen
+      metin  : bağ
+      duyulan: bağı
+  REPLACE  ...farklı katlanır farklı hidrojen
+      metin  : bağ
+      duyulan: bağı
+  INSERT   ...olmadığı varsayımı üzerine kuruluydu
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...en tekdüze kontrollerinden temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bıraktı desen form i
+      metin  : e
+      duyulan: ye
+  REPLACE  ...görülmemiş kristal biçimiydi form
+      metin  : ii
+      duyulan: tq
+  REPLACE  ...kapsülün içindeki sıvı form
+      metin  : ii
+      duyulan: tq
+  REPLACE  ...çözelti değil kristalleşmeyi bekleyen
+      metin  : rezervuardı
+      duyulan: rezerv vardı
+  REPLACE  ...olduysa iş tamamen değişir
+      metin  : gözle
+      duyulan: gözde
+  REPLACE  ...personelin önlüğüne bulaşan tek
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...dağılmış bu görünmez tohumlar
+      metin  : form i
+      duyulan: forma
+  REPLACE  ...aynı cevabı verdi artık
+      metin  : form ii
+      duyulan: formakügü
+  REPLACE  ...yöntem sonuç yine form
+      metin  : ii
+      duyulan: tikü
+  REPLACE  ...daha üretilemez hale geldi
+      metin  : abbott
+      duyulan: abbot
+  REPLACE  ...tarafında dolar harcadı farklı
+      metin  : kristalizasyon
+      duyulan: kristallizasyon
+  REPLACE  ...adımları temizleme stratejileri denendi
+      metin  : hiçbiri
+      duyulan: hiç
+  INSERT   ...kurtarma çabasını bıraktı ve
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...kötü tadı vardı ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sorunu değil tedavinin başarısını
+      metin  : tehdit
+      duyulan: tehtit
+  INSERT   ...zorlaştıran kısıttı yeni kapsül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu kez formülasyon form
+      metin  : ii nin
+      duyulan: tükünün
+  REPLACE  ...çalışacak şekilde yeniden kuruldu
+      metin  : oleik
+      duyulan: oleyk
+  REPLACE  ...kuruldu oleik asit ve
+      metin  : etanolün
+      duyulan: etanolun
+  REPLACE  ...edip yaşayacak taşıyıcı tasarlamaktı
+      metin  : abbott
+      duyulan: ibot
+  REPLACE  ...research and development yani
+      metin  : organik
+      duyulan: organic
+  REPLACE  ...şeylerin arasında sonunda form
+      metin  : ii yi
+      duyulan: tüküyü
+  REPLACE  ...vardı bütün bu krizin
+      metin  : abbott a
+      duyulan: abota
+  REPLACE  ...maliyeti yaklaşık dolar olarak
+      metin  : anılır
+      duyulan: alır
+  REPLACE  ...olgunun adı var kaybolan
+      metin  : polimorf
+      duyulan: polymorf
+  DELETE   ...ters yöne doğru kaybolanı
+      metin  : geri
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...değildir i ki şeyin
+      metin  : bileşimidir
+      duyulan: birleşimidir
+  REPLACE  ...meslektaşlarının topladığı örnekler kaybolan
+      metin  : polimorfların
+      duyulan: polymorfların
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: bilim-2026-10-12.duyulan.txt

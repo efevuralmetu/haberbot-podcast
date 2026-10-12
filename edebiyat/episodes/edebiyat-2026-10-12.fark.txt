@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-12.mp3
+
+beklenen 1635 kelime | duyulan 1657 kelime | eşleşme %92.9
+sayı ifadesi: metinde 224, duyulanda 143  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...parça gardiyanlardan saklayarak yazdı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...nin kuzeybatısında limuru yakınlarındaki
+      metin  : kamiriithu
+      duyulan: kamiritu
+  REPLACE  ...yıl önce kurulmuş olan
+      metin  : kamiriithu
+      duyulan: kamiritu
+  REPLACE  ...and cultural center yani
+      metin  : kamiriithu
+      duyulan: kamiritu
+  REPLACE  ...ve kültür merkezi vardı
+      metin  : kamiriithu
+      duyulan: kamiritu
+  REPLACE  ...edebiyat bölümünün başındaki yazar
+      metin  : ngugi va tiongo
+      duyulan: ngugiwa tiong o
+  REPLACE  ...basitti bize oyun yaz
+      metin  : ngugi
+      duyulan: ngugiwa
+  REPLACE  ...yaz ngugi kalkınma uzmanı
+      metin  : ngugi va
+      duyulan: ngugiwa
+  REPLACE  ...insanları oynuyordu yönetmenliği kimani
+      metin  : gecau
+      duyulan: gecav
+  REPLACE  ...gecau üstlendi oyunun adı
+      metin  : ngaahika ndeenda ydı türkçesiyle
+      duyulan: nahika nedendaydı türkçesi ile
+  REPLACE  ...can alıcı yerine dokunuyordu
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...bizzat anlayabildiği tek dildeydi
+      metin  : ngugi
+      duyulan: dongugi
+  INSERT   ...oturuyor dinliyor gülüyor tanıyordu
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...dinliyor gülüyor tanıyordu ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ngilizce yoktu hafta boyunca
+      metin  : kamiriithu
+      duyulan: kamelitu
+  INSERT   ...devlet devreye girdi kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...iş orada kapanmadı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...limuru daki eve geldi
+      metin  : ngugi
+      duyulan: nengugi
+  REPLACE  ...insanın adı elinden alınıyordu
+      metin  : ngugi va tiongo
+      duyulan: nogu vatiyongo
+  REPLACE  ...siyasi tutukluyla birlikte numaralı
+      metin  : koğuşa
+      duyulan: kovuşa
+  DELETE   ...yargısız tutmanın sonu yoktur
+      metin  : her
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aynı günün başına dönersiniz
+      metin  : ngugi
+      duyulan: nogu
+  REPLACE  ...yerde yazmak gerekiyordu kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...nezaket göstermeyecek biçimde seçilmişti
+      metin  : ngugi nin
+      duyulan: nogu nun
+  REPLACE  ...dayanıklı yazı malzemesiydi böylece
+      metin  : caitaani mutaraba ini
+      duyulan: caitani mutarabayini
+  REPLACE  ...taklit edeceği örnek yoktu
+      metin  : ngugi
+      duyulan: nogu
+  REPLACE  ...dilinin sözlü geleneğinden aldı
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...geleneğinden aldı romanın anlatıcısı
+      metin  : gicaandi
+      duyulan: gikandi
+  REPLACE  ...hesaba katarak yazıyordu hikaye
+      metin  : jasinta variinga
+      duyulan: jacinta varinga
+  REPLACE  ...en yaratıcı olanı arar
+      metin  : ngugi
+      duyulan: nogug
+  REPLACE  ...hücrede yazmak yazdığını saklamak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...ve noktada olan oldu
+      metin  : koğuşundaki
+      duyulan: kovuşundaki
+  REPLACE  ...bekleyiş başladı yazarın tek
+      metin  : nüshası
+      duyulan: nüşası
+  INSERT   ...roman böylece hayatta kaldı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...böylece hayatta kaldı aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kağıdına yazılan roman ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ize nairobi de basıldı
+      metin  : gikuyu
+      duyulan: ngikuyu
+  REPLACE  ...eline kendi dillerinde kendi
+      metin  : hikayelerini
+      duyulan: hikayelerine
+  INSERT   ...daha eskiye gidiyordu ngugi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...doğdu çocukluğunda kenya da
+      metin  : (yok)
+      duyulan: de
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: edebiyat-2026-10-12.duyulan.txt

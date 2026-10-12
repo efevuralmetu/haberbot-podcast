@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-12.mp3
+
+beklenen 1573 kelime | duyulan 1598 kelime | eşleşme %92.7
+sayı ifadesi: metinde 241, duyulanda 171  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kimsenin görmediği final duruyordu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...duruyordu şubat ayında meksiko
+      metin  : siti
+      duyulan: city
+  REPLACE  ...oğlanlara bakıyordu adı luis
+      metin  : bunyuel
+      duyulan: buñuel
+  INSERT   ...bu sahne tuhaf olurdu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kestiği o dakikalık filmi
+      metin  : ön şiyen andalu yu
+      duyulan: enchien andaluyu
+  DELETE   ...sonra laj dor yani
+      metin  : çağ
+      duyulan: (YOK — atlanmış)
+  INSERT   ...perde yırtılmış film yasaklanmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da iç savaş çıktı
+      metin  : bunyuel
+      duyulan: buñuel
+  REPLACE  ...ta müzede çalıştı hollywood
+      metin  : da
+      duyulan: ta
+  REPLACE  ...adıyla tek film çekmedi
+      metin  : meksiko siti ye
+      duyulan: da mexico city e
+  REPLACE  ...şarkılı melodram olan gran
+      metin  : kasino
+      duyulan: casino
+  INSERT   ...yıl kimse iş vermedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...vermedi çektiği el gran
+      metin  : kalavera
+      duyulan: calavera
+  REPLACE  ...kazandı ve bu yapımcısı
+      metin  : oskar
+      duyulan: oscar
+  REPLACE  ...dansijers ın kapısını araladı
+      metin  : bunyuel
+      duyulan: buñuel
+  REPLACE  ...işe yarayacağı an buydu
+      metin  : bunyuel
+      duyulan: buñuel
+  REPLACE  ...koymadığını söylüyordu senaryoyu luis
+      metin  : alkoriza
+      duyulan: alcoriza
+  REPLACE  ...başlı başına arama oldu
+      metin  : bunyuel
+      duyulan: buñuel
+  REPLACE  ...pedro için yaşındaki alfonso
+      metin  : mehiya
+      duyulan: mejia
+  REPLACE  ...sinemasının tanınmış kötü adamlarından
+      metin  : migel inklan
+      duyulan: miguel inklán
+  REPLACE  ...bilmediği için ohitos diye
+      metin  : çağrılan
+      duyulan: çağırılan
+  INSERT   ...bakışı aitti çekim şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gün çalışıldı film kısmen
+      metin  : tepeyac stüdyoları nda
+      duyulan: tepeyak stüdyolarında
+  REPLACE  ...daki çiftlik okulunda san
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...de letran caddesinde bütçe
+      metin  : pesoydu bunyuel
+      duyulan: peso ydu bu nüel
+  REPLACE  ...hasılatından ömrü boyunca tek
+      metin  : kuruş
+      duyulan: kuruşa
+  REPLACE  ...dakikaydı görüntü yönetmeni gabriel
+      metin  : figeroa ydı
+      duyulan: figueroa idi
+  REPLACE  ...duran yanardağı kazandıran adam
+      metin  : bunyuel
+      duyulan: bu nüel
+  REPLACE  ...bunyuel in anlattığına göer
+      metin  : figeroa
+      duyulan: figueroa
+  REPLACE  ...sahne için kusursuz güzellikte
+      metin  : kadraj
+      duyulan: kadraç
+  REPLACE  ...güzellikte kadraj kurdu ve
+      metin  : bunyuel
+      duyulan: bu nüel
+  REPLACE  ...kararını özetler yoksulluk burada
+      metin  : pitoresk
+      duyulan: pitores
+  REPLACE  ...hayranlıkla bakmaz içinde durur
+      metin  : bunyuel
+      duyulan: bu nüel
+  REPLACE  ...provasıydı ressam david alfaro
+      metin  : sikeyros
+      duyulan: siqueiros
+  REPLACE  ...alfaro sikeyros filmi onayladı
+      metin  : bunyuel
+      duyulan: bu nüel
+  INSERT   ...olduğu biliniyordu film kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...biliniyordu film kasım meksiko
+      metin  : siti
+      duyulan: city
+  REPLACE  ...nin roma semtindeki sine
+      metin  : mehiko
+      duyulan: mexico
+  REPLACE  ...sine mehiko da yani
+      metin  : mehiko sineması nda
+      duyulan: mexico sinemasında
+  INSERT   ...en çok tekrarlanan sayı
+      metin  : (yok)
+      duyulan: tür
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 83 kelime | duyulup metinde OLMAYAN: 104
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: film-2026-10-12.duyulan.txt

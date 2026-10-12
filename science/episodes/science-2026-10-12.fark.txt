@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-12.mp3
+
+beklenen 2532 kelime | duyulan 2514 kelime | eşleşme %98.6
+sayı ifadesi: metinde 116, duyulanda 118  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...think of the pale
+      metin  : greyish
+      duyulan: grayish
+  REPLACE  ...is bound tightly to
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...came in forms a
+      metin  : milligram
+      duyulan: mg
+  REPLACE  ...an oral solution carrying
+      metin  : milligrams
+      duyulan: mg
+  REPLACE  ...hydrogen bonds with its
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...this is called conformational
+      metin  : polymorphism
+      duyulan: polymorphomum
+  REPLACE  ...july some batches of
+      metin  : norvir
+      duyulan: norver
+  REPLACE  ...for that form and
+      metin  : a
+      duyulan: the
+  REPLACE  ...trying to make form
+      metin  : i
+      duyulan: and
+  REPLACE  ...containing polyoxyl castor oil
+      metin  : butylated
+      duyulan: befilated
+  REPLACE  ...in abbott s process
+      metin  : chemists
+      duyulan: chemist
+  REPLACE  ...the condition that brought
+      metin  : ritonavir
+      duyulan: ratonavir
+  DELETE   ...i converted to form
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  DELETE   ...about minutes of form
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...to the order of
+      metin  : nanometres
+      duyulan: nanometers
+  DELETE   ...the crystal joins in
+      metin  : too
+      duyulan: (YOK — atlanmış)
+  DELETE   ...can be reversed form
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...set out to predict
+      metin  : ritonavir
+      duyulan: ratonavir
+  DELETE   ...the corresponding to form
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...form ii sitting about
+      metin  : kilojoules
+      duyulan: kj
+  REPLACE  ...the range of to
+      metin  : kilojoules
+      duyulan: kj
+  REPLACE  ...of to kilojoules the
+      metin  : authors judgement
+      duyulan: author s judgment
+  DELETE   ...the existence of form
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of a form of
+      metin  : ritonavir
+      duyulan: ratonavir
+  REPLACE  ...isopropyl group inside it
+      metin  : and
+      duyulan: then
+  REPLACE  ...than the other forms
+      metin  : ritonavir
+      duyulan: ratonavir
+  DELETE   ...room temperatuer and form
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...itself found a career
+      metin  : ritonavir
+      duyulan: ratonavir
+  REPLACE  ...the component of the
+      metin  : nirmatrelvir
+      duyulan: nirmitrolvir
+  REPLACE  ...of the nirmatrelvir and
+      metin  : ritonavir
+      duyulan: ratonavir
+  INSERT   ...that nobody had seen
+      metin  : (yok)
+      duyulan: a
+  DELETE   ...right length of time
+      metin  : nöron science de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 26
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-10-12.duyulan.txt

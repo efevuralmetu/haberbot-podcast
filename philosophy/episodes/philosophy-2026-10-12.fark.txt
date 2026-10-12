@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-12.mp3
+
+beklenen 3483 kelime | duyulan 3471 kelime | eşleşme %98.8
+sayı ifadesi: metinde 108, duyulanda 105  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...is found in the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...it charges the whole
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...his glory in the
+      metin  : grey
+      duyulan: gray
+  REPLACE  ...stones has frozen the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...is never found the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...has an institution called
+      metin  : kasame
+      duyulan: qasami
+  REPLACE  ...behind the institution the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...is proof that the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...and it works a
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...piece breaks off the
+      metin  : façade
+      duyulan: facade
+  REPLACE  ...the example of the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...has a limit a
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...had appeared deportation lists
+      metin  : karl
+      duyulan: carl
+  REPLACE  ...lectures become a book
+      metin  : die schuldfrage
+      duyulan: de scholdfrag
+  REPLACE  ...every time hannah arendt
+      metin  : jaspers
+      duyulan: jasper
+  REPLACE  ...am al isra and
+      metin  : fatir
+      duyulan: fatiha
+  REPLACE  ...an institution called the
+      metin  : akile
+      duyulan: akalay
+  REPLACE  ...called the akile the
+      metin  : akile
+      duyulan: akalay
+  REPLACE  ...with jaspers s layers
+      metin  : uqubah
+      duyulan: ukubah
+  REPLACE  ...transferred divided or inherited
+      metin  : daman
+      duyulan: deman
+  REPLACE  ...of the hereafter the
+      metin  : akile
+      duyulan: akal
+  REPLACE  ...khaldun the concept of
+      metin  : asabiyyah
+      duyulan: asa bia
+  REPLACE  ...began by describing the
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...its own street a
+      metin  : neighbourhood
+      duyulan: neighborhood
+  REPLACE  ...ancestor s victory side
+      metin  : and
+      duyulan: then
+  DELETE   ...aer now yor hands
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: philosophy-2026-10-12.duyulan.txt

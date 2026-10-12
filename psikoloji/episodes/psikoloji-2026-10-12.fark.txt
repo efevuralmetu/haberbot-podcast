@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-12.mp3
+
+beklenen 1086 kelime | duyulan 1106 kelime | eşleşme %94.7
+sayı ifadesi: metinde 168, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...odaya mı yılının günü
+      metin  : pennsylvania
+      duyulan: pensilvanya
+  REPLACE  ...yılının günü pennsylvania daki
+      metin  : swarthmoer
+      duyulan: swartmoer
+  REPLACE  ...daki swarthmoer college yani
+      metin  : swarthmoer koleji nin
+      duyulan: swartmoer college inin
+  INSERT   ...cevaplayan insanlarda hata oranı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...deneyi kuran psikolog solomon
+      metin  : aş
+      duyulan: ash
+  REPLACE  ...kişi öğrenci değil hepsi
+      metin  : aş
+      duyulan: ash
+  INSERT   ...söyleyeceğini önceden öğrenmiş oyuncular
+      metin  : (yok)
+      duyulan: dota
+  REPLACE  ...önceden öğrenmiş oyuncular turun
+      metin  : ikisinde
+      duyulan: sinde
+  REPLACE  ...soldaki çizgi belli ki
+      metin  : ortadakiyle
+      duyulan: ortadaki ile
+  REPLACE  ...anı gibi düşünmemek lazım
+      metin  : aş
+      duyulan: ash
+  INSERT   ...sonuç şu kritik turların
+      metin  : (yok)
+      duyulan: inde
+  INSERT   ...daha çarpıcı katılımcıların yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...keer bile eğilmeyen turun
+      metin  : ikisinde
+      duyulan: sinde
+  INSERT   ...oda hemfikir diye kişiden
+      metin  : (yok)
+      duyulan: ünün
+  REPLACE  ...göründüğü anda susuyoruz aş
+      metin  : in
+      duyulan: ın
+  REPLACE  ...çocukluğunda amerika ya göçen
+      metin  : maks verthaymer
+      duyulan: max wertheimer
+  REPLACE  ...için ne gerekir aş
+      metin  : in
+      duyulan: ın
+  REPLACE  ...geldiğinde kendi gördüğünü söylüyor
+      metin  : uyma
+      duyulan: uyuma
+  INSERT   ...gördüğünü söylüyor uyma oranı
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...tek şey o çoğunluğun
+      metin  : oybirliği
+      duyulan: oy
+  REPLACE  ...o çoğunluğun oybirliği aş
+      metin  : in
+      duyulan: ın
+  REPLACE  ...ezen gücün kalabalığın büyüklüğü
+      metin  : olmadığıydı
+      duyulan: olmadıydı
+  INSERT   ...olan katılımcı turların yalnızca
+      metin  : (yok)
+      duyulan: ünde
+  INSERT   ...eğildi kişi olunca bu
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...olunca bu kişi olunca
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...olunca çıktı sonra da
+      metin  : plato
+      duyulan: pilato
+  REPLACE  ...ilk kişi baskının kilidi
+      metin  : oybirliğinde oybirliği
+      duyulan: oy birliğinde oy
+  REPLACE  ...emory üniversitesi nde gregory
+      metin  : berns
+      duyulan: burns
+  REPLACE  ...berns ve ekibinin benzer
+      metin  : uyma
+      duyulan: uyuma
+  REPLACE  ...benzer uyma görevini beyin
+      metin  : görüntülemeyle
+      duyulan: görüntüleme ile
+  REPLACE  ...ve gerilimle ilişkilendirilen bölgelerde
+      metin  : hareketlenmeyle
+      duyulan: hareketlenme ile
+  REPLACE  ...gelmiyor şey ödüyorsunuz bu
+      metin  : aş in
+      duyulan: aşın
+  REPLACE  ...yazmasını isteyin sonra okuyun
+      metin  : aş in
+      duyulan: aşın
+  REPLACE  ...hale getirmeniz bile gerekmiyor
+      metin  : aş in
+      duyulan: aşın
+  INSERT   ...çok azının becerebildiği şey
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...sabit yasa gibi davranmıyor
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...cümlesi değil mirası o
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...varlığı ve tek sesin
+      metin  : (yok)
+      duyulan: i e
+  REPLACE  ...düşünüp sırasını bekleyen kişi
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: psikoloji-2026-10-12.duyulan.txt
