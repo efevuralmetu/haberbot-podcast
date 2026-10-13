@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-13.mp3
+
+beklenen 3239 kelime | duyulan 3247 kelime | eşleşme %91.7
+sayı ifadesi: metinde 273, duyulanda 264  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...zafer dışında aramak için
+      metin  : lejyonu harran ın
+      duyulan: lejonu harra nın
+  REPLACE  ...herkes kovaya koşardı ama
+      metin  : markus lisinius krassus
+      duyulan: marcus licinius crassus
+  REPLACE  ...krassus başka şey yapardı
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...plutarkhos un anlattığına göer
+      metin  : krassus
+      duyulan: crassus
+  INSERT   ...ve yapı işlerinden anlayan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...adamın eline geçtiği söylenir
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...mülkleri açık artırmaya çıktı
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...konuşulurdu antik yazarlara göer
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...dönüşebildiği ölçüde değerliydi ama
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...parayla alınamayan şey vardı
+      metin  : mö spartaküs ün
+      duyulan: milletun de spartacus un
+  REPLACE  ...yazdı pompeius görkemli zafer
+      metin  : alayıyla
+      duyulan: alayı ile
+  REPLACE  ...görkemli zafer alayıyla onurlandırıldı
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...kaldı pompeius un gölgesi
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...de genç ve hırslı
+      metin  : gayus yulius sezar
+      duyulan: gaius julius caesar
+  REPLACE  ...sokaklarında konuşulan adam olmuştu
+      metin  : mö
+      duyulan: da
+  REPLACE  ...pompeius un askeri itibarı
+      metin  : sezar
+      duyulan: caesar
+  REPLACE  ...ın halk desteği ve
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...gelince senatonun direnmesi zorlaştı
+      metin  : mö
+      duyulan: da
+  REPLACE  ...kuzey i talya daki
+      metin  : lukka
+      duyulan: lucca
+  REPLACE  ...anlaşmaya göer pompeius ve
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...a i spanya düştü
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...ve belki hindistan uzanıyordu
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...eksiği tamamlamak istiyordu pompeius
+      metin  : unki sezar ınki
+      duyulan: un ki caesar ın ki
+  REPLACE  ...aralarında anlaşma bile vardı
+      metin  : mö
+      duyulan: in
+  REPLACE  ...bile vardı mö sonbaharında
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...şehirden ayrılırken halk tribünü
+      metin  : gayus ateyus kapito
+      duyulan: gaius atheius capito
+  REPLACE  ...ateş yaktı üzerine buhur
+      metin  : serpti
+      duyulan: serti
+  REPLACE  ...ürkütücü tanrıların adını anarak
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...tür lanetleer ciddiyetle inanırdı
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...krassus ize yürüdü önünde
+      metin  : brundisium
+      duyulan: brunidium
+  REPLACE  ...yürüdü önünde brundisium limanı
+      metin  : adriyatiğin
+      duyulan: adriat in
+  REPLACE  ...hayatının son yolculuğu vardı
+      metin  : krassus mö
+      duyulan: crassus te
+  REPLACE  ...kazandırmak demekti o kış
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...hazineleri tartıldı yahudi tarihçi
+      metin  : yosefus
+      duyulan: josephus
+  REPLACE  ...tarihçi yosefus a göer
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...yine de o kış
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...de oldu oğlu publius
+      metin  : krassus
+      duyulan: crassus
+  REPLACE  ...kazanmış genç komutan olarak
+      metin  : yanında
+      duyulan: yağınında
+  DELETE   ...bu sırada partların tahtında
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ya elçi heyeti gönderdi
+      metin  : plutarkhos
+      duyulan: plutarcos
+  ... ve 163 fark daha
+
+metinde olup DUYULMAYAN: 236 kelime | duyulup metinde OLMAYAN: 241
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: tarih-2026-10-13.duyulan.txt

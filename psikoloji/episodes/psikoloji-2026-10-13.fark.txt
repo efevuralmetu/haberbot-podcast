@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-13.mp3
+
+beklenen 1568 kelime | duyulan 1576 kelime | eşleşme %97.0
+sayı ifadesi: metinde 120, duyulanda 104  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...haberi olmayan yabancı yazmış
+      metin  : psikolojide
+      duyulan: pesikolojide
+  REPLACE  ...çalışan davranışsal iktisatçı george
+      metin  : loenstayn
+      duyulan: lowenstein lı
+  REPLACE  ...somut olduğunu gösteren çalışmalardan
+      metin  : leaf
+      duyulan: liv
+  REPLACE  ...leaf van boven ve
+      metin  : loenstayn
+      duyulan: lohenstein
+  INSERT   ...boven ve loenstayn ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...de ortaya çıkıyor daniel
+      metin  : read
+      duyulan: reed
+  REPLACE  ...read ve barbara van
+      metin  : leyuven
+      duyulan: leeuwen
+  REPLACE  ...barbara van leyuven in
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...tercihine sızmıştı i ktisatçılar
+      metin  : loenstayn
+      duyulan: loewenstein
+  REPLACE  ...o donoghue ve matthew
+      metin  : rabin
+      duyulan: robin
+  REPLACE  ...ağır kararlarda da çalışıyor
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...seksenlerin başında jay christensen
+      metin  : szalanski
+      duyulan: salansky
+  REPLACE  ...loren nordgren mary hunter
+      metin  : mcdonnel
+      duyulan: mcdonald
+  REPLACE  ...mary hunter mcdonnel ve
+      metin  : loenstayn
+      duyulan: loewenstein deki
+  INSERT   ...loren nordgren ve arkadaşları
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonucu soğuk ben sıcak
+      metin  : benin
+      duyulan: benim
+  REPLACE  ...hikayesi homeros un destanında
+      metin  : odisseus
+      duyulan: odysseus
+  REPLACE  ...yalvarırsam yalvarayım beni çözmeyin
+      metin  : odisseus
+      duyulan: odysseus
+  REPLACE  ...önceden bağlanma düzeneklerine adıyla
+      metin  : odisseus
+      duyulan: odysseus
+  INSERT   ...girmezse çarşamba akşamı saat
+      metin  : (yok)
+      duyulan: daki
+  DELETE   ...soğuk benin seçmesine dayanıyor
+      metin  : i kincisi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...anın kendisini önceden tanımlamak
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...önceden tanımlamak psikolog peter
+      metin  : golvitser
+      duyulan: golwitzer
+  REPLACE  ...bekletmek sabah okumak ve
+      metin  : öyle
+      duyulan: öğle
+  REPLACE  ...görüyoruz van boven ve
+      metin  : loenstayn ın
+      duyulan: lowenstein in
+  REPLACE  ...anlayışlı olmamızı sağlayabilir tartışmayı
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...önceden bağlanma kararı olabilir
+      metin  : odisseus
+      duyulan: odysseus
+  REPLACE  ...tutacak birinden yardım isteyerek
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: psikoloji-2026-10-13.duyulan.txt

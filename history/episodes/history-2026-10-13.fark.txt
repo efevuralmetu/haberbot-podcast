@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-13.mp3
+
+beklenen 3280 kelime | duyulan 197 kelime | eşleşme %7.1
+sayı ifadesi: metinde 253, duyulanda 4  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...camels was carrying fresh
+      metin  : roma da evin yandığını gören herkes kovaya koşardı ama marcus licinius
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ama marcus licinius crassus
+      metin  : başka şey yapardı plutarkhos un anlattığına göer
+      duyulan: (YOK — atlanmış)
+  DELETE   ...un anlattığına göer crassus
+      metin  : mimarlık ve yapı işlerinden anlayan den fazla köle satın almıştı mahallede yangın çıktığında adamlarıyla oraya gider alevler yaklaşırken çaresiz kalan ev sahibine binasını ve komşu binaları yok pahasına satmasını teklif ederdi satış yapılınca yangın söndürülür yıkılan yerin yerine yenisi yapılırdı roma nın önemli kısmının zamanla bu adamın eline geçtiği söylenir
+      duyulan: (YOK — atlanmış)
+  DELETE   ...eline geçtiği söylenir crassus
+      metin  : un serveti yalnızca yangınlardan gelmiyordu gençliğinde sulla nın tarafını seçmişti sulla iktidarı ele geçirip düşmanlarının adlarını meydanlara astırınca ölüme mahkum edilenlerin mülkleri açık artırmaya çıktı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...açık artırmaya çıktı crassus
+      metin  : bu artırmalardan çok ucuza ev arazi ve maden topladı ayrıca gümüş madenleri işletiyor faiz alıyor siyasetçileer borç veriyordu senatonun yarısının borçlu olduğu konuşulurdu antik yazarlara göer
+      duyulan: (YOK — atlanmış)
+  DELETE   ...antik yazarlara göer crassus
+      metin  : gelirinden kendi ordusunu besleyemeyen adamın zengin sayılamayacağını söylemişti bu cumhuriyetin son yıllarında gücün nereden geldiğini gösteren sözdü para ancak askeer dönüşebildiği ölçüde değerliydi ama
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ölçüde değerliydi ama crassus
+      metin  : un hayatında parayla alınamayan şey vardı mö de spartaküs ün önderliğindeki büyük köle ayaklanmasını bastıran oydu kaçan lejyonlarına eski ve korkunç cezasını uygulamış yani her askerden kurayla öldürtmüş orduyu yeniden disipline sokmuş ve isyancıları güney i talya da yenmişti yine de zaferin parlaklığı başkasına kaldı i spanya dan dönen pompeius kaçan isyancıyı yakaladı ve senatoya savaşı kendisinin bitirdiğini yazdı pompeius görkemli zafer alayıyla onurlandırıldı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...zafer alayıyla onurlandırıldı crassus
+      metin  : ize köle savaşı tam zafer sayılmadığı için ovatio denen daha küçük törenle yetinmek zorunda kaldı pompeius un gölgesi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...pompeius un gölgesi crassus
+      metin  : u hayatı boyunca izledi pompeius doğu da krallar yenmiş akdeniz i korsanlardan temizlemiş kendine büyük lakabını yakıştırmıştı de genç ve hırslı gaius julius caesar vardı galya da kazandığı zaferlerle roma nın sokaklarında konuşulan adam olmuştu mö da bu adam gayriresmi ittifak kurdu tarihçilerin triumvirlik dediği bu anlaşma değil güç dengesiydi pompeius un askeri itibarı caesar ın halk desteği ve
+      duyulan: (YOK — atlanmış)
+  DELETE   ...halk desteği ve crassus
+      metin  : un parası araya gelince senatonun direnmesi zorlaştı mö da kuzey i talya daki lucca da ittifaklarını yeniledi anlaşmaya göer pompeius ve
+      duyulan: (YOK — atlanmış)
+  DELETE   ...göer pompeius ve crassus
+      metin  : ertesi yıl birlikte konsül olacak ardından her yıllığına büyük eyalet alacaktı pompeius a i spanya düştü
+      duyulan: (YOK — atlanmış)
+  DELETE   ...i spanya düştü crassus
+      metin  : ize suriye yi seçti seçim tesadüf değildi suriye roma nın doğudaki en büyük rakibi part i mparatorluğu yla sınırdaydı fırat ın ötesinde mezopotamya nın zengin şehirleri da ötesinde efsanevi i ran yaylası ve belki hindistan uzanıyordu
+      duyulan: (YOK — atlanmış)
+  DELETE   ...belki hindistan uzanıyordu crassus
+      metin  : artık yaşına yaklaşmıştı hayatını parayla geçirmişti ve şimdi geride kalan tek eksiği tamamlamak istiyordu pompeius unki caesar ınki gibi büyük fetih ve gerçek zafer alayı ama roma da herkes bu savaşı istemiyordu partlar roma ya savaş açmamıştı aralarında anlaşma bile vardı mö in sonbaharında
+      duyulan: (YOK — atlanmış)
+  DELETE   ...mö in sonbaharında crassus
+      metin  : şehirden ayrılırken halk tribünü gaius ateius capito şehir kapısında yolunu kesti mangalda ateş yaktı üzerine buhur serpti ve eski ürkütücü tanrıların adını anarak
+      duyulan: (YOK — atlanmış)
+  DELETE   ...tanrıların adını anarak crassus
+      metin  : a lanet okudu romalılar bu tür lanetleer ciddiyetle inanırdı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...lanetleer ciddiyetle inanırdı crassus
+      metin  : ize yürüdü önünde brundisium limanı adriyatiğin kış dalgaları ve hayatının son yolculuğu vardı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...son yolculuğu vardı crassus
+      metin  : mö te suriye ye vardığında hemen harekete geçti fırat ı geçti karşı yakadaki bazı mezopotamya kasabalarını neredeyze direnişle karşılaşmadan ele geçirdi oralara garnizonlar bıraktı sonra tarihçinin ilk büyük hatası saydığı karar verdi kışı geçirmek için suriye ye geri döndü antik yazarlara göer bu düşmana hazırlanmak için koca yıl kazandırmak demekti o kış
+      duyulan: (YOK — atlanmış)
+  DELETE   ...demekti o kış crassus
+      metin  : un adamları savaştan çok para işiyle meşgul oldu suriye nin şehirlerinden asker yerine para toplandı hierapolis teki tanrıça tapınağının hazineleri tartıldı yahudi tarihçi josephus a göer
+      duyulan: (YOK — atlanmış)
+  DELETE   ...josephus a göer crassus
+      metin  : kudüs teki tapınağın hazinesine de el koydu bütün bunlar romalıların gözünde bile hoş karşılanmadı yine de o kış
+      duyulan: (YOK — atlanmış)
+  DELETE   ...de o kış crassus
+      metin  : a moral veren gelişme de oldu oğlu publius
+      duyulan: (YOK — atlanmış)
+  DELETE   ...oldu oğlu publius crassus
+      metin  : caesar ın yanında galya da savaşmış cesaretiyle ün kazanmış genç komutan olarak yanında galyalı süvariyle babasının ordusuna katıldı bu sırada partların tahtında i kinci orodes oturuyordu kral roma ya elçi heyeti gönderdi plutarkhos un anlatımına göer elçiler savaşın roma halkının isteğiyle mi yoksa yalnızca
+      duyulan: (YOK — atlanmış)
+  DELETE   ...mi yoksa yalnızca crassus
+      metin  : un şahsi hırsıyla mı açıldığını sordular
+      duyulan: (YOK — atlanmış)
+  DELETE   ...mı açıldığını sordular crassus
+      metin  : cevabını partların başkentlerinden seleukeia da vereceğini söyledi heyetin yaşlı üyesi vagises bunun üzerine avucunu açıp gösterdi ve
+      duyulan: (YOK — atlanmış)
+  DELETE   ...açıp gösterdi ve crassus
+      metin  : un seleukeia yı görmeden önce o avucun içinde kıl biteceğini söyledi bahar geldiğinde
+      duyulan: (YOK — atlanmış)
+  DELETE   ...söyledi bahar geldiğinde crassus
+      metin  : un kuvvetleri hazırdı lejyon yaklaşık süvari ve o kadar da hafif piyade bu roma ölçülerinde bile büyük orduydu tam bu noktada önemli müttefik ortaya çıktı ermenistan kralı i kinci artavasdes kendi süvarileriyle
+      duyulan: (YOK — atlanmış)
+  DELETE   ...artavasdes kendi süvarileriyle crassus
+      metin  : un kampına geldi önerisi açıktı romalılar ermenistan ın dağlık yolundan ilerlemeliydi orada part atlıları rahat hareket edemez ordu ülkede ikmal alabilirdi artavasdes buna ek olarak büyük süvari ve piyade desteği de vaat etti
+      duyulan: (YOK — atlanmış)
+  DELETE   ...de vaat etti crassus
+      metin  : bu teklifi geri çevirdi mezopotamya da garnizonlar bırakmıştı bırakmak istemiyordu doğrudan güneydoğuya seleukeia ya giden yolu seçti ordusu mö baharında fırat ı zeugma da geçti bugün gaziantep yakınlarında mozaikleriyle ünlü bu antik kentin adı yunanca köprü ya da bağlantı anlamına geliyordu antik yazarlar bu geçiş sırasında kötü alametler olduğunu yazar şimşek gök gürültüsü nehirde zorlanan at yerinden zor kaldırılan sancak bunların ne kadarının sonradan felaketin ardından eklendiğini bilemeyiz ama ordunun tedirginliği gerçekti
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ordunun tedirginliği gerçekti crassus
+      metin  : un yanında soğukkanlı subay vardı quaestor gaius cassius longinus cassius ordunun fırat ı takip etmesini böylece hem suya hem de nehirden gelecek ikmal gemilerine yakın kalmasını kuşatılmaktan korunmasını önerdi bu mantıklı plandı ama tam o sırada ordunun yanına arap şefi geldi plutarkhos ariamnes der cassius dio ize osroene kralı abgar dan söz eder bu adam romalılara partların korkudan dağıldığını hazinelerini toplayıp kaçtığını acele edilirse yetişileceğini anlattı nehirden uzaklaşıp çölün içinden kestirme yol göstereceğini söyledi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yol göstereceğini söyledi crassus
+      metin  : inandı ordu nehirden ayrıldı ve önce yeşil sonra giderek kurak sonra kumlu ve ağaçsız ovaya girdi su azaldı sıcak arttı ufukta düşman görünmüyordu ermenistan dan kötü haber de geldi kral orodes ordusunun kısmıyla bizzat ermenistan a girmişti artavasdes artık
+      duyulan: (YOK — atlanmış)
+  DELETE   ...girmişti artavasdes artık crassus
+      metin  : a asker gönderemeyeceğini ülkesini korumak zorunda olduğunu bildirdi ve
+      duyulan: (YOK — atlanmış)
+  DELETE   ...olduğunu bildirdi ve crassus
+      metin  : a dağlara yönelmesini tekrar önerdi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yönelmesini tekrar önerdi crassus
+      metin  : öfkeyle cevap verdi ermeni kralını ihanetle suçladı ve yürümeye devam etti romalıların bilmediği şey şuydu orodes kuvvetlerini bilinçli olarak bölmüştü kral piyadeleriyle ermenistan ı tutarken romalıların karşısına yalnızca süvarilerden oluşan ordu çıkarmıştı başında genç soylu vardı ailesinin adıyla anılan ve tarihe surena olarak geçen komutan surena henüz yaşındaydı plutarkhos kadınlar gibi boyayan uzun saçlı zarif adam olarak anlatır ve hemen ardından boyunun ve cesaretinin herkesi geçtiğini ekler surena ailesi part krallarına taç giydirme hakkına sahip son derece güçlü haneydi surena seferde kendi hizmetkarlarından ve bağımlılarından oluşan atlıyla geliyordu arap rehber gün bahaneyle ordudan ayrıldı ve geri dönmedi kısa süer sonra öncü birliklerden kaçabilen atlı düşmanın büyük kuvvetle yaklaştığını haber verdi romalılar artık fırat tan çok uzaktaydı yakınlarındaki tek su belih çayı denen küçük akarsuydu en yakın kale şehri ize karrhai yani bugün şanlıurfa nın güneyindeki harran dı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...güneyindeki harran dı crassus
+      metin  : önce ordusunu düşman tarafından kuşatılmamak için geniş hat halinde açmayı düşündü sonra fikrini değiştirdi ve lejyonları içi boş büyük kaer halinde dizdi her kenarda kohortlar aralarında süvari bölükleri ortada ağırlıklar komutanlar askerlerin önce dinlenmesini su içmesini kamp kurmasını önerdi ama oğlu publius un hevesi ve kendi sabırsızlığıyla
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ve kendi sabırsızlığıyla crassus
+      metin  : askerlerin ayaküstü yiyip içmesine izin verdi ve ordu yürüyüşe devam etti part ordusu ilk göründüğünde romalıları şaşırtan şey sayısının azlığıydı surena ağır zırhlı süvarilerini öndeki birliklerin arkasına saklamış zırhlarını da kumaş ve deriyle örttürmüştü sonra ovada ses yükseldi partlar savaşa borazanla değil deriyle gerilmiş kenarlarına çanlar asılmış büyük davullarla girerdi plutarkhos bu sesi vahşi hayvanların böğürmesine ve gök gürültüsüne benzetir davullar susmadan part süvarileri örtülerini attı güneşin baştan ayağa demir ve tunç zırh içindeki atlılar parladı bunlar katafraktlardı hem atı hem süvarisi zırhlı uzun ve ağır mızraklarla donatılmış savaşçılar surena nın ordusunda bunlardan yaklaşık kişi vardı surena önce mızraklı süvarilerle hücum denedi ama roma karesinin sıkı kalkan duvarını görünce saldırıyı yarıda kesti asıl silahını sahneye çıkardı atlı okçuları hafif süvariler karenin etrafında dönmeye başladı ve ok yağdırmaya koyuldu partların kullandığı bileşik yaylar katmanlı ahşap boynuz ve sinirden yapılmıştı oklar romalıların kalkanlarını zırhlarını delip geçiyordu lejyonerler sıkışık düzende durdukları için atılan hemen her ok isabet ediyordu romalıların hafif piyadeleri karşılık vermek için ileri çıktı ama oklar geri püskürttü lejyonerler kalkanlarını birleştirip yaklaşmaya çalıştığında part atlıları geri çekiliyor çekilirken de dönüp ok atmaya devam ediyordu atın sırtında geriye doğru dönerek atılan bu oklar sonraki yüzyıllarda batı dillerinde part atışı diye anılacaktı lejyonerler için bu kabustu yerinde dursalar vuruluyorlardı ilerleseler de romalılar başta umuda tutundu bu kadar ok atan düşmanın er geç okunun biteceğini düşünüyorlardı ama süer sonra arkadaki manzarayı gördüler surena nın ordusunda yaklaşık deve vardı ve bunlar sırtlarında ok yükleriyle cephenin gerisinde bekliyordu atlı okçular sadağı boşalınca develeer gidiyor yeniden doluyor ve döndükleri yerden atışa devam ediyordu romalıların savaş boyunca güvendiği tek şey de böylece ellerinden alınmış oldu
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ellerinden alınmış oldu crassus
+      metin  : kuşatılmak üzeer olduğunu görünce oğluna haber yolladı publius un hücumla düşmanı geri itmesi gerekiyordu genç komutan süvari bunların i galya dan getirdiği atlılar okçu ve kohort piyadeyle ileri atıldı karşısındaki part atlıları geri çekildi publius peşlerine düştü düşmanın kaçtığını sanıyordu ama partlar ana ordudan yeterince uzaklaştırınca durdu döndü ve birliğini çepeçever sardı toz bulutunun içinde romalılar ne düşmanı görebiliyor ne de birbirlerini galyalı atlılar burada olağanüstü cesaret gösterdi hafif mızrakları katafraktların zırhına işlemiyordu bunun üzerine part mızraklarına sarılıp ağır zırhlı süvarileri attan çekmeye çalıştılar bazıları atından inip katafraktların atlarının süzüldü ve hayvanların korunmasız karınlarına bıçak sapladı ama sıcak susuzluk ve sayısız ok da tüketti publius ağır yaralandı plutarkhos a göer yanındaki yunanlı yakındaki kasabaya kaçmasını önerdiğinde publius kendisi için ölen adamları terk etmeyeceğini söyledi ok yarası yüzünden kalkanını tutamayan elini uzatarak silahtarına kendisini öldürmesini emretti birliğinden geriye pek az kişi sağ kaldı bu sırada
+      duyulan: (YOK — atlanmış)
+  DELETE   ...kaldı bu sırada crassus
+      metin  : oğlunun düşmanı püskürttüğü haberini almış rahatlamıştı hatta oğlunu desteklemek için ordusunu ilerletti tam o sırada part atlıları davul sesleriyle geri döndü en öndeki atlının mızrağının ucunda baş vardı partlar roma saflarının önünde gezdirdi ve
+      duyulan: (YOK — atlanmış)
+  DELETE   ...önünde gezdirdi ve crassus
+      metin  : a bu soylu cesur genç adamın babasının kim olduğunu sordu romalılar publius un başını tanıdı plutarkhos a göer
+      duyulan: (YOK — atlanmış)
+  DELETE   ...plutarkhos a göer crassus
+      metin  : bu anda çökmedi saflar arasında dolaşıp askerlerine bu acının yalnızca kendisine ait olduğunu roma nın şanının ize yenilmemiş olarak hala onların elinde durduğunu söyledi ama askerlerin gözündeki son umut da kaybolmuştu ok yağmuru akşama kadar sürdü katafraktlar zaman zaman hücum ederek karenin köşelerini zorladı gün batarken partlar geri çekildi atlı göçebe orduları geceleri savaşmayı sevmezdi ve surena
+      duyulan: (YOK — atlanmış)
+  DELETE   ...sevmezdi ve surena crassus
+      metin  : a oğlunun yasını tutması için gece bağışladığını söyletti o gece karrhai ovasında roma ordusunun moral yapısı dağıldı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...moral yapısı dağıldı crassus
+      metin  : kendini pelerinine sarmış yeer uzanmıştı emir veremeyecek durumdaydı subayları octavius ve cassius savaş meclisi topladı ve geri çekilme kararı aldı ordu karanlıkta sessizce karrhai ye doğru yürüyecekti bu kararın bedeli ağırdı yürüyemeyecek kadar ağır yaralı olan yaklaşık asker geride bırakıldı arkadaşlarının kendilerini terk ettiğini anlayan yaralıların feryatları gece boyunca ovada yankılandı ertesi sabah partlar kampa girdi ve geride kalanların hepsini öldürdü geri çekilen ordudan önce süvari subayı egnatius atlıyla karrhai ye vardı surlardaki nöbetçileer
+      duyulan: (YOK — atlanmış)
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 3156 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: history-2026-10-13.duyulan.txt

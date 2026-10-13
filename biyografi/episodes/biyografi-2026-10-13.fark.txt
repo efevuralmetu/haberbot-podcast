@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-13.mp3
+
+beklenen 2988 kelime | duyulan 2992 kelime | eşleşme %94.8
+sayı ifadesi: metinde 468, duyulanda 286  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kişi daha var güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...çıktığı liman kasabası var
+      metin  : beaufort
+      duyulan: bay of horde
+  INSERT   ...konakların sıralandığı yer nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nisan bu konaklardan prince
+      metin  : sokağı ndaki mckee
+      duyulan: sokağındaki mekki
+  REPLACE  ...aileleri gösterdi küçük robert
+      metin  : in
+      duyulan: ın
+  REPLACE  ...kazançlarını kendileri alırdı robert
+      metin  : in
+      duyulan: ın
+  REPLACE  ...nın her kumsalını her
+      metin  : sığlığını
+      duyulan: sığılığını
+  REPLACE  ...kapattığını ezbeer biliyordu güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...yasalar köleye kılavuz kaptan
+      metin  : unvanı
+      duyulan: ünvanı
+  INSERT   ...başka yönden de değişti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...önceki ilişkisinden kızları vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...elizabeth adını verdikleri kızı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...güvencesi yoktu sonra nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...savaşın parçası oldu gemi
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...subay vardı kaptan charles
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...geçirmiş kollarını göğsünde kavuşturup
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...rengi dışında her şeyiyle
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...etmesini yasaklıyordu ama çiftlik
+      metin  : beyi nin
+      duyulan: beyin
+  REPLACE  ...konfederasyon bayrağını ve güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...bağlı başka geminin içinde
+      metin  : hannah
+      duyulan: hana
+  REPLACE  ...kaptanın hasır şapkasını taktı
+      metin  : relyea nın
+      duyulan: reliyanın
+  REPLACE  ...i lk engel johnson
+      metin  : kalesi ydi
+      duyulan: cullisiydi
+  REPLACE  ...gemiyi menzilinde tutuyordu saat
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...yerine teslimiyet işareti olarak
+      metin  : hannah
+      duyulan: hanna
+  REPLACE  ...çıkan subayı selamlayıp birleşik
+      metin  : devletler e
+      duyulan: devletleer
+  REPLACE  ...eski topu getirdiğini söyledi
+      metin  : gemiyi
+      duyulan: gemiye
+  REPLACE  ...terk etmesinin hesabını soruyordu
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...washington da harekete geçti
+      metin  : konger mayısı nın
+      duyulan: conger mayısının
+  REPLACE  ...özel yasa çıkardı çiftlik
+      metin  : beyi ni
+      duyulan: beyiğini
+  REPLACE  ...ve başkan abraham lincoln
+      metin  : le
+      duyulan: ile
+  REPLACE  ...süer sonra stanton güney
+      metin  : carolina
+      duyulan: karolayna
+  INSERT   ...kaydedilir en ağırlarından nisan
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu kez kılavuzuydu aralık
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...aldı ve çiftlik beyi
+      metin  : ni
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bölgedeki komutanı general quincy
+      metin  : gillmoer
+      duyulan: gilmoer
+  INSERT   ...kaptanlık ırk ayrımcılığından korumadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...korumadı çiftlik beyi için
+      metin  : philadelphia ya
+      duyulan: filadelfiye ye
+  REPLACE  ...yürüyen kampanyaya güç kattı
+      metin  : pennsylvania
+      duyulan: de pensilvanya
+  INSERT   ...yaklaşırken charleston düştü nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kalmış eski köle vardı
+      metin  : gemiyi
+      duyulan: gemiği
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 45
+
+duyulan metin: biyografi-2026-10-13.duyulan.txt

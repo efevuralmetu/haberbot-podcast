@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-13.mp3
+
+beklenen 3711 kelime | duyulan 3713 kelime | eşleşme %99.4
+sayı ifadesi: metinde 133, duyulanda 119  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...different form in in
+      metin  : königsberg
+      duyulan: konigsberg
+  INSERT   ...ran a simple experiment
+      metin  : (yok)
+      duyulan: he
+  REPLACE  ...by al harith al
+      metin  : muhasibi
+      duyulan: mu asibi
+  REPLACE  ...died in baghdad in
+      metin  : junayd
+      duyulan: june
+  REPLACE  ...those in his circle
+      metin  : muhasibi
+      duyulan: mu asibi
+  REPLACE  ...of his voice changes
+      metin  : muhasibi
+      duyulan: mu asibi
+  REPLACE  ...is not the faced
+      metin  : impostors
+      duyulan: imposters
+  REPLACE  ...who took up al
+      metin  : muhasibi
+      duyulan: mu asibi
+  REPLACE  ...ghazali who died in
+      metin  : tus
+      duyulan: touss
+  REPLACE  ...year his masterpiece the
+      metin  : ihya
+      duyulan: ayya
+  REPLACE  ...he owes to al
+      metin  : muhasibi
+      duyulan: mu asibi
+  REPLACE  ...a saying attributed to
+      metin  : fudayl ibn iyad
+      duyulan: fudelebaniad
+  REPLACE  ...what the right hand
+      metin  : has
+      duyulan: is
+  DELETE   ...balance according to the
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the and verse of
+      metin  : surah
+      duyulan: sura
+  REPLACE  ...giving as good heer
+      metin  : fudayl
+      duyulan: fudail
+  REPLACE  ...today s episode of
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 21
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-10-13.duyulan.txt

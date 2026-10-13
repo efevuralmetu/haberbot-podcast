@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-13.mp3
+
+beklenen 2014 kelime | duyulan 1314 kelime | eşleşme %11.2
+sayı ifadesi: metinde 187, duyulanda 49  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...universe had a beginning
+      metin  : şehrin ışıklarından uzak tarlada ayın batmış olduğu gece düşünün gözleriniz karanlığa alıştıkça gökyüzü dolmaya başlar önce parlak yıldızlar çıkar sonra sönükler en sonunda samanyolu nun süt beyazı şeridi yine de baktığınız yerin büyük kısmı karanlıktır yıldızların arasında koyu derin boşluk vardır bu öyle sıradan şeydir ki kimse sorgulamaz gece karanlıktır çünkü güneş batmıştır bundan daha açık ne olabilir gelin şey deneyelim evrenin sonsuz büyüklükte sonsuz yaşta ve her yerinde aşağı yukarı aynı sıklıkta yıldızlarla dolu olduğunu varsayalım kulağa makul gelen varsayım bu uzayın yerde bitmesi için neden yok gibi görünüyor yıldızların da belli köşede toplanması için yüzyıllar boyunca pek çok düşünür evreni tam da böyle hayal etti şimdi o tarlada başınızı kaldırıp gökyüzünün herhangi noktasına yıldızın arasındaki en karanlık boşluğa bakın bakış çizginiz uzaya doğru düz hat gibi uzanıp gidiyor evren sonsuzsa ve her yeri yıldızlarla doluysa bu çizgi er ya da geç yıldızın yüzeyine çarpmak zorunda bunu sık ormanın içinde durmaya benzetebilirsiniz yakınınızdaki ağaçlar seyrektir aralarından ilerisi görünür ama orman yeterince büyükse hangi yöne bakarsanız bakın görüşünüz sonunda ağaç gövdesinde biter ufka kadar uzanan boşluk görmezsiniz ağaçlardan duvar görürsünüz sonsuz yıldız ormanında da gökyüzünün her noktası yıldızın parlayan olmalıdır akla ilk gelen itiraz şu uzak yıldızlar sönüktür doğru yıldızı kat uzağa koyarsanız gelen ışık kat azalır ama aynı sırada başka şey olur kendinizi merkeze alıp uzayı soğan katmanları gibi iç içe kabuklara böldüğünüzü düşünün uzaktaki kabuk yakındakinden çok daha geniştir ve içine sığan yıldız sayısı da aynı oranda artar i ki kat uzaktaki kabukta kat fazla yıldız vardır her yıldız kat sönük kalır ama sayıları kat fazladır sonuç olarak her kabuk size aynı miktarda ışık gönderir sonsuz sayıda kabuk varsa toplam ışık da sınırsız büyür tek sınırı yakındaki yıldızların arkadakileri örtmesidir bu da bizi ormanın sonucuna geri götürür gökyüzünün tamamı yıldız kadar parlak olmalıdır bunun ne anlama geldiğini düşünün güneş
+      duyulan: if the universe weer infinite and ful of stars every point
+  REPLACE  ...geldiğini düşünün güneş in
+      metin  : yaklaşık santigrat derecedir gökyüzünde kapladığı alan ize gökkubbenin tamamının kabaca kadardır gökyüzünün her noktası güneş
+      duyulan: the sky should shine as bright as the sun s surface the darkness overhead is of the simplest pieces of evidence that the universe had a beginning if the universe weer infinite and ful of stars every point
+  REPLACE  ...her noktası güneş in
+      metin  : kadar parlasaydı dünya ya her an yaklaşık güneş
+      duyulan: the sky should shine as bright as the sun s surface kepler who was born
+  REPLACE  ...an yaklaşık güneş in
+      metin  : ışığı yağardı gece diye şey olmazdı okyanuslar kaynar kayalar erirdi gezegenimiz fırının içinde dönerdi oysa dışarı çıktığımızda karanlık ve serin gökyüzü görüyoruz bu sıradan gözlem evren hakkındaki en masum görünen varsayımlarımızla açıkça çelişiyor bu çelişkiyi fark eden ilk kişiler arasında johannes kepler vardı da galileo teleskopla gökyüzünde çıplak gözün göremediği sayısız yeni yıldız bulduğunu duyurduğunda kepler yazdığı uzun yanıtta karanlık geceyi kanıt olarak kullandı göer gece karanlıksa evrendeki yıldızların sayısı sonsuz olamazdı kepler yıldızların sınırlı bölgeye yerleştiği kapalı evrene inanıyordu yıl önce i ngiliz astronom
+      duyulan: the city of berge was born in the city of ewrena new york the day of his death his astronomer
+  REPLACE  ...i ngiliz astronom thomas
+      metin  : digges ize yıldızların sonsuz uzaya dağıldığını savunmuş uzaktakilerin görünmez kaldığını söylemişti bilmece yöne de çekiliyordu yüzyılda
+      duyulan: diggis who was born in the city of salzburg was born in moscow new york bil mackes was born in the city of new york in his last year
+  REPLACE  ...çekiliyordu yüzyılda edmond halley
+      metin  : soruyu yeniden ele aldı ama uzak yıldızların ışığının çok zayıf kaldığını söyleyerek geçiştirdi az önce gördüğümüz kabuk hesabı bu açıklamanın neden yetmediğini gösteriyor te
+      duyulan: was born in the city of el al in the city of el al the man to be seen as an astronaut edmond halley was born in the city of el al in the city of el al the man to be seen as an astronaut edmond halley was born in the city of el al the day of his death his astronomer thomas diggis who was born in the city of el al the last time
+  REPLACE  ...yetmediğini gösteriyor te i
+      metin  : sviçreli genç astronom jean philippe loys de chéseaux hesabı ciddiyetle yaptı ve sonsuz yıldız evreninde gökyüzünün göz alıcı parlaklıkla yanması gerektiği sonucuna vardı bu sonucu karanlık gökle uzlaştırmak için yıldızlararası uzayın ışığı çok az da olsa yuttuğunu öne sürdü bilmece bugün tanındığı adını yaklaşık yıl
+      duyulan: was in the military i was the supervision of a woman named anjak beli but after that she had a very difficult time getting married and was the time she was able to get married i was a young woman and in her age she lived in a smal town paubunu beersesgi olaraki fade ettu fikrisa ilarla sanayankishi yaram yuziel
+  REPLACE  ...adını yaklaşık yıl sonra
+      metin  : aldı heinrich wilhelm olbers bremen de gündüzleri hastalarına bakan geceleri evinin çatısındaki küçük gözlemevinde gökyüzünü tarayan hekimdi amatör gibi görünse de pallas ve vesta asteroitlerini keşfetmiş ciddi gökbilimciydi te yayımladığı makalede karanlık gece sorusunu açıkça ortaya koydu vardığı çözüm de chéseaux nunkine çok benziyordu uzayda yıldız ışığını yutan bize ulaşmadan söndüren ince madde olmalıydı o günden beri bilmece adıyla olbers paradoksu olarak anılıyor ne yazık ki bu çözüm işe yaramıyor bunun nedenini yüzyılın ortalarında termodinamiğin doğuşu gösterdi john herschel in de işaret ettiği gibi ışığı yutan her madde yuttuğu enerjiyle ısınır sonsuz zaman boyunca sonsuz yıldızın ışığına maruz kalan toz bulutu sonunda kendisini aydınlatan yıldızlar kadar ısınır ve kadar parlamaya başlar böyle toz perde değil yıldız duvarı olur isı yerde birikemez dengeye ulaşır ve denge de parlak gökyüzü demektir böylece bilmece bütün sertliğiyle ortada kaldı ya evren sonsuz değildi ya sonsuz yaşta değildi ya da hesapta henüz kimsenin görmediği hata vardı gece karanlığı gözümüzün önündeki en büyük gizemlerden çözüme giden yolu ilk sezen kişi astronom değil şairdi edgar allan poe ölümünden yıl önce de evrenin yapısı üzerine şiirsel deneme yazdı ve eureka yani buldum adını verdi bu metin bilimsel çalışma değildi poe nun evrenle ilgili düşüncelerinin çoğu sonradan geçerliliğini yitirdi ama karanlık gece hakkında söyledikleri dikkat çekiciydi göer yıldızlar sonsuz dizi oluşturuyor olsaydı gökyüzü baştan sona eşit parlaklıkla aydınlanırdı bu nedenle o boşlukları açıklamanın tek yolu en uzak arka planın öyle uzakta olduğunu kabul etmekti ki oradan çıkan hiçbir ışın henüz bize ulaşamamıştı bu fikrin ne kadar ince olduğuna dikkat edin poe uzayın sınırlı olduğunu söylemiyordu işığın sonlu hızla yol aldığını ve yıldızların ışık saçmaya ancak belirli zamandan beri devam ettiğini hesaba katıyordu bakış çizginiz sonsuza uzanabilir ama o çizginin sonundaki yıldızın ışığı yola çıkalı yeterince zaman geçmemişse o noktada karanlıktan başka şey göremezsiniz uzak ormanın ağaçları oradadır ama gölgede durmaktadır poe bunu sezgi olarak ifade etti fikri sayılarla sınayan kişi yarım sonra fiziğinin dev isimlerinden
+      duyulan: kuzunju yuziel fizienen devi simnerin dan
+  REPLACE  ...dev isimlerinden lord kelvin
+      metin  : oldu
+      duyulan: old
+  INSERT   ...lord kelvin oldu kelvin
+      metin  : (yok)
+      duyulan: daye imladu birmakale
+  REPLACE  ...kelvin oldu kelvin de
+      metin  : yayımladığı makalede olbers in
+      duyulan: olbersen
+  REPLACE  ...makalede olbers in sorusunu
+      metin  : ilk kez nicel olarak ele aldı yıldızların uzaydaki sıklığına ve büyüklüklerine dair o günkü tahminleri kullanarak gökyüzünün tamamen yıldız yüzeyleriyle kaplanması için bakış çizgilerimizin ne kadar uzağa gitmesi gerektiğini hesapladı sonuç akıl almaz mesafeydi o kadar uzaktan gelen ışık yolu tamamlamak için herhangi yıldızın ömründen
+      duyulan: ikkez nijel olaraki elialde yildizlerun uzaydekisikluna vebuukluklernadair ogunkutahmin nerukulanarak geuk yuzunun tamaman yildiz yuzayleri lekaplan masichin bakishchizgilerimizin nekadar uzagit mesigerektine hesseplad sonuchakal almazbir mesafaedi okadar uzaktangelan ushuk yolutamamlamakichin herhangibir yildizin umrundan
+  REPLACE  ...yıldızın ömründen kat kat
+      metin  : uzun süreye ihtiyaç duyuyordu
+      duyulan: uzunbir suraei ihtiachtu yordu
+  REPLACE  ...süreye ihtiyaç duyuyordu kelvin
+      metin  : in hesabı paradoksun asıl düğümünü çözdü gökyüzünü yıldız yüzeyleriyle doldurmak için gereken derinlik ışığın yıldızların yaşadığı süer içinde
+      duyulan: inhesaba paradoxun asildu minuchuzdu geuk yuzunu yildiz yuzayleri le doldurmakichin gerakan derin nik ushun yildizlerin yashadu suraeichin de
+  REPLACE  ...yaşadığı süer içinde kat
+      metin  : edebileceği mesafeyle karşılaştırıldığında devasa kalıyor yıldızlar yanarken ışıkları o derinlikleer ulaşamıyor ya
+      duyulan: edebilije mesafehle karshalashtrildin
+  REPLACE  ...derinlikleer ulaşamıyor ya da
+      metin  : o derinliklerden bize orman var ama
+      duyulan: devassa kalyor yildizlar yanarkyan ushiklera oderin nikdera ulasha mir yada oderin nikderdan bizei ormanvarama
+  REPLACE  ...orman var ama yolumuz
+      metin  : ağaçlara çıkmadan ışık tükeniyor
+      duyulan: achlarachikmadan ushiktukeniyar
+  REPLACE  ...çıkmadan ışık tükeniyor kelvin
+      metin  : bu sonuca
+      duyulan: bousonoka
+  REPLACE  ...kelvin bu sonuca evrenin
+      metin  : kökenine dair hiçbir şey bilmeden ulaştı zamanında
+      duyulan: kukeninidair hichbirsheybil medanulashte zamananda
+  REPLACE  ...bilmeden ulaştı zamanında evrenin
+      metin  : genişlediği bilinmiyordu galaksilerin samanyolu nun dışında ayrı yıldız adaları olduğu bile kesinleşmemişti bugün tabloyu çok daha net görüyoruz gözlemsel kozmoloji
+      duyulan: genisledi bilin mirdu galaksilirin samanyulunundushenda airi yildizadalero uldubilekessin neshmemishte bugun tablo uchoktahanet geriurus geuslimsel cosmology
+  REPLACE  ...görüyoruz gözlemsel kozmoloji evrenin
+      metin  : bugünkü halinin yaklaşık yıl önce başladığını gösteriyor bu gördüğümüz her ışık için kesin üst sınır
+      duyulan: bugun kehalinin yaklashik onuchvirgul sekizmiliar yilunjebashladun geusterior buu gerdumuz harushikichin kessinbir ustsonar
+  REPLACE  ...kesin üst sınır demek
+      metin  : hiçbir ışık ışını yıldan uzun süredir yolda
+      duyulan: hichbirushikishina onuchvirgul sekizmiliar yildan uzunsuradriyoldo
+  REPLACE  ...uzun süredir yolda olamaz
+      metin  : görebildiğimiz
+      duyulan: geribildimuz
+  REPLACE  ...yolda olamaz görebildiğimiz evrenin
+      metin  : ufku var
+      duyulan: birufkovar
+  REPLACE  ...evrenin ufku var ve
+      metin  : o ufkun ötesinden henüz hiçbir şey bize ulaşmadı yani gecenin karanlığı aslında saat gibi çalışıyor gökyüzündeki her boşluk
+      duyulan: oufkunotessin dan hinuz hichbirsheybize ulashmadu jani gejenin karanlu aslinda birsadkibichalushuar gokuzunde kiherboshluk
+  REPLACE  ...gökyüzündeki her boşluk evrenin
+      metin  : sonsuz yaşta olmadığını fısıldıyor
+      duyulan: sonsozyashta olmadunu fisildyor
+  REPLACE  ...yaşta olmadığını fısıldıyor kepler
+      metin  : karanlığı
+      duyulan: karanlu
+  REPLACE  ...fısıldıyor kepler karanlığı evrenin
+      metin  : sınırlı olduğunun kanıtı sanmıştı gerçekte karanlık
+      duyulan: senirlo uldunun kanatasanmishte gerchikte karanluk
+  REPLACE  ...sanmıştı gerçekte karanlık evrenin
+      metin  : uzayda değil
+      duyulan: uzaidadee
+  REPLACE  ...evrenin uzayda değil zamanda
+      metin  : sınırlı olduğunu söylüyor yüzyılın sonunda kozmolog
+      duyulan: senirlo uldunu suryor yermenji uzielunsonunda cosmolog
+  REPLACE  ...sonunda kozmolog edward harrison
+      metin  : karanlık gece üzerine yazdığı kitabında bu çözüme farklı açıdan baktı ve aynı yeer vardı
+      duyulan: karanluk geja uzairnayazdu kitabundabuchozumefaklibirachidanbaktive ainiyerevarde
+  REPLACE  ...aynı yeer vardı harrison
+      metin  : enerjiyi hesapladı evrendeki bütün maddenin yıldızların içinde yanabilecek
+      duyulan: enerjaye hisa playde evrende kibutun madinin yilduzlerun ichinde yanabiljek
+  REPLACE  ...içinde yanabilecek her atomun
+      metin  : ışığa dönüştüğünü varsayalım
+      duyulan: ushua dunushtunu varsayalam
+  REPLACE  ...ışığa dönüştüğünü varsayalım bu
+      metin  : ışık bile uzayın tamamını yıldız yüzeyinin parlaklığına ulaştırmaya
+      duyulan: ushikpila uzayin tamamanu yilduz yuzayinin parlaklina ulashtirmaya
+  REPLACE  ...yüzeyinin parlaklığına ulaştırmaya yetmez
+      metin  : gökyüzünü yakmak için gereken
+      duyulan: gokuzunu yakmakichingerekan
+  REPLACE  ...yakmak için gereken enerji
+      metin  : evrende sahip olduğumuzdan çok daha
+      duyulan: evrenin desahi poldumuzdan chokdaha
+  REPLACE  ...çok daha fazla evrenin
+      metin  : yıldızları gökyüzünü doldurmak için yeterince yaşlı değil
+      duyulan: yilduzleru gokuzunu doldurmakichin yeterinja yashladeel
+  REPLACE  ...yeterince yaşlı değil ve
+      metin  : yeterince yakıtları da yok peki
+      duyulan: yeterinja yakutlera dayok pekki
+  REPLACE  ...da yok peki evrenin
+      metin  : genişlemesi ne olacak popüler anlatım karanlık gecenin asıl nedeni olarak genişlemeyi gösterir
+      duyulan: genishleme sineolajak chak popula ranatam karanluk gejanin asilneden olerak genishleme igostirit
+  REPLACE  ...olarak genişlemeyi gösterir uzak
+      metin  : galaksilerin ışığı uzayın genişlemesiyle birlikte gerilir
+      duyulan: galaxilirin ushua uzayin genishleme sile liktagirilir
+  ... ve 59 fark daha
+
+metinde olup DUYULMAYAN: 1828 kelime | duyulup metinde OLMAYAN: 1128
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-10-13.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-13.mp3
+
+beklenen 1789 kelime | duyulan 1803 kelime | eşleşme %95.7
+sayı ifadesi: metinde 248, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...zamanlar atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  REPLACE  ...şehir kaldı yelkenli düşünün
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...boyunu bulur gemi bu
+      metin  : geçidi
+      duyulan: geçide
+  INSERT   ...dan gelir rivayete göer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ulaşan i spanyol kaptan
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...o günlerde koyda yerli
+      metin  : changolar
+      duyulan: çangolar
+  INSERT   ...kayıklarıyla dolaşıyordu yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kiliseden korsan baskınlarına karşı
+      metin  : tabyadan
+      duyulan: tabiyadan
+  INSERT   ...şeyi bağımsızlık değiştirdi şili
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...limanlarını dünyaya açtı valparaiso
+      metin  : pasifiğin
+      duyulan: pasifi in
+  REPLACE  ...burnu ndan ya da
+      metin  : macellan
+      duyulan: magellan
+  REPLACE  ...depolanıyor sonra peru ya
+      metin  : ekvador
+      duyulan: ecuador
+  REPLACE  ...peru ya ekvador a
+      metin  : kaliforniya
+      duyulan: california
+  INSERT   ...limana uğrayanlar arasındaydı beagle
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...evleri ve geride yükselen
+      metin  : and
+      duyulan: ant
+  REPLACE  ...açtı bugün bile tepelerde
+      metin  : anglikan
+      duyulan: anglican
+  REPLACE  ...bile tepelerde anglikan ve
+      metin  : lüteriyen
+      duyulan: lüteryen
+  INSERT   ...yan yana durur şehrin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şehrin kurulan gazetesi el
+      metin  : merkurio
+      duyulan: mercurio
+  REPLACE  ...de valparaiso yani valparaiso
+      metin  : merkürü
+      duyulan: mercuer ü
+  REPLACE  ...gazete olarak bilinir valparaiso
+      metin  : merkürü
+      duyulan: mercuer
+  INSERT   ...şehir okyanusla nefes alıyordu
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...denize bakarak durur sonra
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...o kadar zenginleşti ki
+      metin  : pasifiğin
+      duyulan: pasifin
+  REPLACE  ...küçük kabinler şehrin ilk
+      metin  : füniküleri
+      duyulan: fünüküleri te
+  INSERT   ...ateş her zaman yakınındadır
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...çıkan büyük yangından sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...o gece şehri büyüklüğü
+      metin  : (yok)
+      duyulan: in
+  DELETE   ...doğuşun ömrü kısa olacaktı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adlı yük gemisi atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  INSERT   ...işaretleri çok önce gelmişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...büyük zenginlik kaynağı olan
+      metin  : güherçile
+      duyulan: gühercile
+  INSERT   ...üretimle değerini yitirmeye başladı
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...evlerinin pek çoğu dalgalı
+      metin  : sac
+      duyulan: sak
+  REPLACE  ...meyhaneler sabaha kadar çalınan
+      metin  : kueka
+      duyulan: cueca
+  REPLACE  ...valparaiso da ortaya çıkan
+      metin  : çoriyana
+      duyulan: choriyana
+  REPLACE  ...burada tesadüf değil şair
+      metin  : serro beyavista
+      duyulan: de serrobeia vista
+  REPLACE  ...birikmiş çöpler ve plansız
+      metin  : büyümüş derme
+      duyulan: büyümüşlerme
+  INSERT   ...tırmanan alev gibi tırmanır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kadar ev yok olmuş
+      metin  : (yok)
+      duyulan: den
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: seyahat-2026-10-13.duyulan.txt

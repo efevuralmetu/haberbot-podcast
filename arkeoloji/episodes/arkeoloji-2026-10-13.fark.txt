@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-13.mp3
+
+beklenen 2771 kelime | duyulan 2756 kelime | eşleşme %93.0
+sayı ifadesi: metinde 406, duyulanda 291  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...önce toprağa girmişti asıl
+      metin  : truva yı
+      duyulan: truvaya
+  REPLACE  ...nerede bu adamın adı
+      metin  : haynrih şliman
+      duyulan: heinrich schliemann
+  REPLACE  ...şliman arkeolog değil tüccar
+      metin  : şliman
+      duyulan: schliemann de
+  REPLACE  ...şliman kuzey almanya da
+      metin  : meklenburg
+      duyulan: mecklenburg
+  REPLACE  ...da meklenburg daki küçük
+      metin  : noybuko
+      duyulan: noibuko
+  REPLACE  ...boyası ve askeri malzeme
+      metin  : ticaretiyle
+      duyulan: ticareti ile
+  REPLACE  ...ya gitti hücum döneminde
+      metin  : sakramento
+      duyulan: sacramento
+  REPLACE  ...servet tek hayalin hazırlığıydı
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...sonra kurgulandığını ileri sürdüler
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...bugünkü pınarbaşı civarında arıyordu
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...sonra kader i ngiliz
+      metin  : le
+      duyulan: de
+  REPLACE  ...finanse edecek parası yoktu
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...vardı calvert in fikri
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...ileride calvert ödeyecekti çünkü
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...gibi görünür oysa aslında
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...oysa aslında yüzyıllar hatta
+      metin  : binyıllar
+      duyulan: yıllar
+  REPLACE  ...birikmesiyle oluşmuş insan eseridir
+      metin  : kerpiç
+      duyulan: karpiç
+  REPLACE  ...öncekinin mezarı üzerinde yaşar
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...müzesi ne ait olacaktı
+      metin  : sonbaharında şliman
+      duyulan: son baharında schliemann
+  REPLACE  ...kaydeder sonra alttakine geçerdi
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...zaman aşkın işçiyle çalışarak
+      metin  : höyüğü kuzeyden
+      duyulan: höyü kuzey den
+  REPLACE  ...yarığı görür arkeologlar hala
+      metin  : şliman hendeği
+      duyulan: schliemann hendeyi
+  REPLACE  ...yanık tabakaları sökülüp atıldı
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...bulunur en altta yaklaşık
+      metin  : mö
+      duyulan: ye
+  DELETE   ...mö civarına tarihlenen truva
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i yer alır en
+      metin  : üstte
+      duyulan: üste
+  DELETE   ...lion u yani truva
+      metin  : ix
+      duyulan: (YOK — atlanmış)
+  DELETE   ...savaş ize geleneksel olarak
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karşılık gelen katlar truva
+      metin  : vi
+      duyulan: vesti
+  DELETE   ...truva vi ve truva
+      metin  : vii dir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...truva vii dir yani
+      metin  : höyüğün
+      duyulan: höyü ün
+  REPLACE  ...değil orta üst kesiminde
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...yok etti hendek derinleştikçe
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...yani yakılıp yıkılmış şehir
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...rampayı i lyada daki
+      metin  : skaia
+      duyulan: skaya
+  DELETE   ...şuydu ki truva ii
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tarihinden yıldan fazla öncesine
+      metin  : şliman
+      duyulan: schliemann
+  REPLACE  ...bunu bilmesinin imkanı yoktu
+      metin  : çanak
+      duyulan: kanak
+  REPLACE  ...dönemindeydi ama arkeolojinin ileride
+      metin  : şliman
+      duyulan: schliemann
+  ... ve 100 fark daha
+
+metinde olup DUYULMAYAN: 151 kelime | duyulup metinde OLMAYAN: 150
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: arkeoloji-2026-10-13.duyulan.txt

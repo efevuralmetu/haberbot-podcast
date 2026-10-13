@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-13.mp3
+
+beklenen 1851 kelime | duyulan 1841 kelime | eşleşme %93.6
+sayı ifadesi: metinde 205, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...oturuyor kürsüdeki vaiz babası
+      metin  : lutherci
+      duyulan: lüterci
+  REPLACE  ...vaiz babası lutherci rahip
+      metin  : erik
+      duyulan: eric
+  REPLACE  ...resimlerin en ünlüsü stockholm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ndedir yüzyılın sonlarında albertus
+      metin  : piktor
+      duyulan: pictor
+  REPLACE  ...biçimde tiyatro okulundan geçti
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...tek perdelik oyun yazdı
+      metin  : tremolning
+      duyulan: tremorling
+  REPLACE  ...nden dönen şövalye alaycı
+      metin  : silahtarı
+      duyulan: silahları
+  REPLACE  ...bu karakterlerin daha büyük
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...büyük yapım şirketi svensk
+      metin  : filmindustri
+      duyulan: film i ndüstri
+  REPLACE  ...ne götürdü şirketin başındaki
+      metin  : karl
+      duyulan: carl
+  REPLACE  ...tanrı nın susması ve
+      metin  : ortaçağ
+      duyulan: ortaçağa
+  REPLACE  ...durumu komedi değiştirdi bergman
+      metin  : sommarnattens leende
+      duyulan: te sommarnattensleyen de
+  REPLACE  ...aşk komedisi çekti film
+      metin  : kan a
+      duyulan: da kana
+  REPLACE  ...değinecekti senaryonun son haline
+      metin  : ad
+      duyulan: at
+  REPLACE  ...arkadaşı görüntü yönetmeni gunnar
+      metin  : fişer
+      duyulan: fischer
+  REPLACE  ...oyunculardan oluşuyordu şövalye antonius
+      metin  : blok u
+      duyulan: büloku
+  INSERT   ...u o sırada henüz
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...uzun boylu ve sert
+      metin  : maks fon südov
+      duyulan: max von südow
+  REPLACE  ...silahtarı yöns ü gunnar
+      metin  : byörnstrand
+      duyulan: björnstrand
+  REPLACE  ...acıya bakan gezgin oyuncu
+      metin  : yof u
+      duyulan: joffe
+  REPLACE  ...komedyen olarak tanınan nils
+      metin  : poppe
+      duyulan: pope
+  REPLACE  ...mia yı genç bibi
+      metin  : andersson
+      duyulan: anderson
+  REPLACE  ...stüdyodan çıktı ve i
+      metin  : svecin
+      duyulan: sveç in
+  REPLACE  ...karşısında ölüm durmaktadır antonius
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...kalma isteğinden fazlası vardı
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...oyun kesik kesik sürer
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...kesik sürer blok ve
+      metin  : yöns vebanın
+      duyulan: jöns veba nın
+  REPLACE  ...çizmektedir ve bu karakter
+      metin  : tebü
+      duyulan: tebük
+  REPLACE  ...nin duvarlarını boyayan albertus
+      metin  : piktor
+      duyulan: pictor
+  REPLACE  ...ilham kaynağını yerleştirmişti ressam
+      metin  : yöns le
+      duyulan: jöns ile
+  REPLACE  ...en sinsi anlarından yaşanır
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...döndüğünde rahip olmadığı anlaşılır
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...genç kızı yakılmaya götürmektedir
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...dinginlik sahnesi kurar tepede
+      metin  : yof
+      duyulan: joff
+  REPLACE  ...ve mia şövalyeye yaban
+      metin  : çileği ile
+      duyulan: çileyle
+  REPLACE  ...büyük sorulardan söz etmez
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...tek şey bu küçük
+      metin  : insanca
+      duyulan: insancı
+  REPLACE  ...oyunu son hamleleer geldiğinde
+      metin  : blok
+      duyulan: bloch
+  REPLACE  ...taşları dikkatle yerine koyarken
+      metin  : yof
+      duyulan: joff
+  REPLACE  ...mia bebekleriyle birlikte uzaklaşır
+      metin  : blok
+      duyulan: bloch
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 81
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: film-2026-10-13.duyulan.txt

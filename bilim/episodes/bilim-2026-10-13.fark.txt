@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-13.mp3
+
+beklenen 1977 kelime | duyulan 1974 kelime | eşleşme %95.3
+sayı ifadesi: metinde 235, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...daha geniştir ve içine
+      metin  : sığan
+      duyulan: sığın
+  INSERT   ...arasında yohannes kepler vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i ngiliz astronom thomas
+      metin  : digges
+      duyulan: diggs
+  REPLACE  ...yöne de çekiliyordu yüzyılda
+      metin  : edmond
+      duyulan: edmund
+  INSERT   ...açıklamanın neden yetmediğini gösteriyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i sviçreli genç astronom
+      metin  : jan filip lua dö şezo
+      duyulan: jean philippe luade chezo
+  REPLACE  ...yaklaşık yıl sonra aldı
+      metin  : haynrih vilhelm
+      duyulan: heinrich wilhelm
+  REPLACE  ...de pallas ve vesta
+      metin  : asteroitlerini
+      duyulan: asteroidlerini
+  REPLACE  ...vesta asteroitlerini keşfetmiş ciddi
+      metin  : gökbilimciydi
+      duyulan: gök bilimciydi te
+  REPLACE  ...koydu vardığı çözüm de
+      metin  : şezo nunkine
+      duyulan: chezonunkine
+  REPLACE  ...değil yıldız duvarı olur
+      metin  : isı
+      duyulan: i si
+  INSERT   ...poe ölümünden yıl önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şiirsel deneme yazdı ve
+      metin  : eureka
+      duyulan: yureka
+  REPLACE  ...bilimsel çalışma değildi poe
+      metin  : nun
+      duyulan: nin
+  INSERT   ...lord kelvin oldu kelvin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...süer içinde kat edebileceği
+      metin  : mesafeyle
+      duyulan: mesafe ile
+  REPLACE  ...sınır demek hiçbir ışık
+      metin  : ışını
+      duyulan: ışığını
+  REPLACE  ...karanlığı daha derinleştiriyor burada
+      metin  : bilmecenin
+      duyulan: bilmeyenler
+  REPLACE  ...en zarif kıvrımına geliyoruz
+      metin  : gökyüzü
+      duyulan: gök
+  REPLACE  ...de yıldız kadar sıcak
+      metin  : perdeyle
+      duyulan: perde ile
+  REPLACE  ...dönüşerek geldi bugün bu
+      metin  : ışınım
+      duyulan: ışının
+  INSERT   ...karşılık geliyor bu ışığı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...robert wilson büyük boynuz
+      metin  : anteniyle
+      duyulan: anteni ile
+  REPLACE  ...boşluklarda bile tekdüze hafif
+      metin  : parıltıyla
+      duyulan: parıltı ile
+  REPLACE  ...toplamı uzayı çok sönük
+      metin  : parıltıyla
+      duyulan: parıltı ile
+  REPLACE  ...içini dolduran ince toz
+      metin  : bulutunun
+      duyulan: blutunun
+  DELETE   ...taneleri güneş ışığını yansıtır
+      metin  : ve gökyüzüne zayıf
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...daha güçlüdür hubble uzay
+      metin  : teleskobu
+      duyulan: teleskopu
+  INSERT   ...ölçüm beklenmedik yerden geldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adlı uzay aracı temmuz
+      metin  : plüton un
+      duyulan: te plütonun
+  REPLACE  ...doğru ilerledi yeni ufuklar
+      metin  : güneş dünya ya
+      duyulan: güneşten dünyaya
+  REPLACE  ...ya olan uzaklığın katını
+      metin  : aştığında gezegenlerarası
+      duyulan: açtığında gezegenler arası
+  REPLACE  ...dünya dan bakan herhangi
+      metin  : teleskobun
+      duyulan: teleskopun
+  REPLACE  ...daha karanlık aracın üzerindeki
+      metin  : lorri
+      duyulan: lori
+  REPLACE  ...için eşsiz konumdaydı ekip
+      metin  : tod
+      duyulan: todd
+  REPLACE  ...konumdaydı ekip tod lauer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...samanyolu nun saçtığı ışığı
+      metin  : geriye kalan evrenin bütün tarihinden
+      duyulan: sönük galaksilerinden
+  INSERT   ...süzülüp gelen sönük parıltıydı
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...tekrarladı bu kez daha
+      metin  : dikkatle
+      duyulan: dikkatli
+  REPLACE  ...görüntüyle özellikle kaynağa odaklandılar
+      metin  : samanyolu nun kendi
+      duyulan: galaksilerin
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: bilim-2026-10-13.duyulan.txt
