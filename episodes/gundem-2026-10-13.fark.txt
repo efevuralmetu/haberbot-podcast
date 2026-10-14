@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-13.mp3
+
+beklenen 1445 kelime | duyulan 1451 kelime | eşleşme %95.1
+sayı ifadesi: metinde 218, duyulanda 139  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ana borsa endeksi kospi
+      metin  : (yok)
+      duyulan: ilk
+  INSERT   ...endeksi kospi gün içinde
+      metin  : (yok)
+      duyulan: yı
+  REPLACE  ...indi samsung electronics ve
+      metin  : sk hynix
+      duyulan: ska enix
+  REPLACE  ...başkent riyad daki kral
+      metin  : halid
+      duyulan: halit
+  INSERT   ...yaralılardan ölümüyle can kaybı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...alındı suudi arabistan ize
+      metin  : san
+      duyulan: sanay
+  DELETE   ...arabistan ize san a
+      metin  : ya
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...vuruldu umman açıklarında ize
+      metin  : nikaragua
+      duyulan: nicaragua
+  REPLACE  ...konseyi genel sekreteri muhsin
+      metin  : rızai
+      duyulan: rıza yı
+  REPLACE  ...arasında enerji tesislerini kapsayan
+      metin  : ateşkes
+      duyulan: ateşke
+  REPLACE  ...duyurdu ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky
+  REPLACE  ...geleceğini belirsizleştiriyor hafta sonu
+      metin  : zaporijya
+      duyulan: zaporizya
+  REPLACE  ...sözcüsü olarak atadığı katie
+      metin  : zacharia
+      duyulan: zakaria
+  REPLACE  ...etmesi için abd nezdinde
+      metin  : lobi
+      duyulan: lobby
+  REPLACE  ...yöneltiliyor filistin devlet başkanı
+      metin  : mahmud
+      duyulan: mahmut
+  INSERT   ...deki koşulları gerekçe göstererek
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...yıllık gelirinin eylül sonu
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...iş ortaklıklarından elde edilen
+      metin  : brüt
+      duyulan: brut
+  INSERT   ...düzenleyecek etkinlik türkiye saatiyle
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mini ile güncellenmiş apple
+      metin  : tv nin de
+      duyulan: televizyonun da
+  REPLACE  ...abd de pazartesi teknoloji
+      metin  : esenpi
+      duyulan: s p ün
+  INSERT   ...kaybetti ancak endeksteki sektörden
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...genel tablonun dışında kaldı
+      metin  : sensex
+      duyulan: senseks
+  REPLACE  ...endeksi sabah saatlerinde yaklaşık
+      metin  : yükselişle
+      duyulan: yükselişte
+  REPLACE  ...toplantısı nda konuşacak mhp
+      metin  : dem
+      duyulan: delawaer m
+  REPLACE  ...ve milletvekili temmuz ayında
+      metin  : chp
+      duyulan: çtb
+  REPLACE  ...partisi konumuna geçerken chp
+      metin  : milletvekiliyle meclis teki
+      duyulan: milletvekili ile meclisteki
+  REPLACE  ...erdoğan ilgili kanun teklifi
+      metin  : meclis
+      duyulan: meclisten
+  REPLACE  ...i zmir milletvekili ümit
+      metin  : özlale
+      duyulan: özdale
+  REPLACE  ...yerine yenişehir de çağdaş
+      metin  : dutlu
+      duyulan: tutlu
+  REPLACE  ...dutlu mezitli de turgut
+      metin  : selağzı
+      duyulan: selazı
+  REPLACE  ...bugün yapılacak manisa nın
+      metin  : akhisar
+      duyulan: akisar
+  REPLACE  ...ardından küresel teknoloji satışlarının
+      metin  : etkisiyle
+      duyulan: etkisi ile
+  INSERT   ...sürdüğü bildiriliyor bugün saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bakanı ömer bolat ize
+      metin  : brüksel
+      duyulan: bruksel
+  REPLACE  ...arasındaki yüksek düzeyli ticaret
+      metin  : diyaloğu toplantısı na
+      duyulan: diyalo toplantısına
+  REPLACE  ...ve abd borsalarına nasıl
+      metin  : yansıyacağı
+      duyulan: yansı
+  INSERT   ...sporda galatasaray bu akşam
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bekleniyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: gundem-2026-10-13.duyulan.txt

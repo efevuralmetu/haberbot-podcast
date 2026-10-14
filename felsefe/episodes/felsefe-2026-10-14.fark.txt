@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-14.mp3
+
+beklenen 2334 kelime | duyulan 2337 kelime | eşleşme %96.3
+sayı ifadesi: metinde 218, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...için koca kitap yazdı
+      metin  : illinois
+      duyulan: i linoit
+  REPLACE  ...bencillik olduğunu soruyor lincoln
+      metin  : ün
+      duyulan: un
+  REPLACE  ...sevmiş amerikalı filozof joel
+      metin  : feinberg
+      duyulan: feynberg
+  REPLACE  ...öne süren görüştür lincoln
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ve bu açığı lincoln
+      metin  : den yıldan
+      duyulan: dan yüzyıldan
+  REPLACE  ...adamı joseph butler görmüştü
+      metin  : feinberg
+      duyulan: feynberg
+  REPLACE  ...sokrates in tartışma arkadaşı
+      metin  : glaukon
+      duyulan: glaucon
+  REPLACE  ...arkadaşı glaukon hikaye anlatır
+      metin  : gyges
+      duyulan: gaeges
+  REPLACE  ...ve tahtı ele geçirir
+      metin  : glaukon
+      duyulan: glaucon
+  REPLACE  ...hepsi gündelik hayatın küçük
+      metin  : gyges
+      duyulan: giyes
+  REPLACE  ...de şey kazandırıyor muyuz
+      metin  : butler ın
+      duyulan: butların
+  INSERT   ...masasına farklı biçimde düştü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...farklı biçimde düştü königsberg
+      metin  : de
+      duyulan: te
+  REPLACE  ...de immanuel kant ahlak
+      metin  : metafiziğinin
+      duyulan: metafizinin
+  REPLACE  ...bundan daha cesur adım
+      metin  : da atar
+      duyulan: dağıtar
+  REPLACE  ...da atar bazı insanlar
+      metin  : yaradılıştan
+      duyulan: yaratılıştan
+  REPLACE  ...dolayısıyla bize rahatlama sunmaz
+      metin  : değer
+      duyulan: eğer
+  INSERT   ...kant tan yıl önce
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adam smith ahlaki duygular
+      metin  : kuramı
+      duyulan: kurama
+  REPLACE  ...der smith in bizim
+      metin  : konumuz
+      duyulan: konuğumuz
+  INSERT   ...kalabalık ne kadar güçlü
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...kendini sahibinden bile nasıl
+      metin  : gizlediğiydi
+      duyulan: gizlediydi
+  REPLACE  ...haris el muhasibi yaptı
+      metin  : lakabı
+      duyulan: yakab ı
+  INSERT   ...durmadan hesaba çeken adamdı
+      metin  : (yok)
+      duyulan: nük de
+  REPLACE  ...ama sarsıcı hadis vardır
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...müsned inde aktarıldığına göer
+      metin  : hz
+      duyulan: hazretleri
+  REPLACE  ...cevap vermiştir riyaya gizli
+      metin  : şirk denmesi
+      duyulan: şirklenmesi
+  REPLACE  ...nin bu karınca avını
+      metin  : yüzyıldan
+      duyulan: yıldan
+  REPLACE  ...geniş biçimde sürdüren kişi
+      metin  : tus ta
+      duyulan: de tuzda
+  REPLACE  ...kişi tus ta ölen
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...ölen gazzali oldu başyapıtı
+      metin  : i hyau
+      duyulan: ihya
+  DELETE   ...başyapıtı i hyau ulumi
+      metin  : d
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tutkusunu ve riyayı yerer
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...ziyaret ettiğini anlatır durur
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...hatırı sayılmadığında içi burkulur
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...unutuyor hissettiği ufak kırgınlık
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...duygu olduğundan söz eden
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...olan sevincin kaynağıdır dahası
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...de önce yaşamış sufi
+      metin  : fudayl
+      duyulan: fudail
+  REPLACE  ...yüzünden ameli terk etmek
+      metin  : riyadır
+      duyulan: riadır
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: felsefe-2026-10-14.duyulan.txt

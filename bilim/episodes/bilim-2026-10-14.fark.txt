@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-14.mp3
+
+beklenen 1977 kelime | duyulan 1984 kelime | eşleşme %96.2
+sayı ifadesi: metinde 235, duyulanda 182  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...belli köşede toplanması için
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...daha geniştir ve içine
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...gökyüzünde kapladığı alan ize
+      metin  : gökkubbenin
+      duyulan: gök gubbenin
+  INSERT   ...ize gökkubbenin tamamının kabaca
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eden ilk kişiler arasında
+      metin  : johannes
+      duyulan: yohannes
+  INSERT   ...arasında johannes kepler vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yöne de çekiliyordu yüzyılda
+      metin  : edmond
+      duyulan: edmund
+  INSERT   ...açıklamanın neden yetmediğini gösteriyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...genç astronom jean philippe
+      metin  : loys
+      duyulan: loize
+  REPLACE  ...jean philippe loys de
+      metin  : chéseaux
+      duyulan: chesau
+  INSERT   ...asteroitlerini keşfetmiş ciddi gökbilimciydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...koydu vardığı çözüm de
+      metin  : chéseaux nunkine
+      duyulan: chesol nanking e
+  REPLACE  ...değil yıldız duvarı olur
+      metin  : isı
+      duyulan: i si
+  INSERT   ...poe ölümünden yıl önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şiirsel deneme yazdı ve
+      metin  : eureka
+      duyulan: yureka
+  REPLACE  ...gece hakkında söyledikleri dikkat
+      metin  : çekiciydi
+      duyulan: çekecekti
+  INSERT   ...lord kelvin oldu kelvin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sınır demek hiçbir ışık
+      metin  : ışını
+      duyulan: ışığını
+  REPLACE  ...de yıldız kadar sıcak
+      metin  : perdeyle kaplı
+      duyulan: perde ile kaptı
+  REPLACE  ...dönüşerek geldi bugün bu
+      metin  : ışınım
+      duyulan: ışının
+  INSERT   ...karşılık geliyor bu ışığı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...robert wilson büyük boynuz
+      metin  : anteniyle
+      duyulan: anteni ile
+  REPLACE  ...boşluklarda bile tekdüze hafif
+      metin  : parıltıyla
+      duyulan: parıltı ile
+  REPLACE  ...toplamı uzayı çok sönük
+      metin  : parıltıyla
+      duyulan: parıltı ile
+  INSERT   ...ölçüm beklenmedik yerden geldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adlı uzay aracı temmuz
+      metin  : plüton un
+      duyulan: te pluto nun
+  REPLACE  ...doğru ilerledi yeni ufuklar
+      metin  : güneş dünya ya
+      duyulan: güneşten dünyaya
+  REPLACE  ...ya olan uzaklığın katını
+      metin  : aştığında gezegenlerarası
+      duyulan: açtığında gezegenler arası
+  REPLACE  ...daha karanlık aracın üzerindeki
+      metin  : lorri
+      duyulan: lori
+  REPLACE  ...için eşsiz konumdaydı ekip
+      metin  : tod
+      duyulan: todd
+  REPLACE  ...konumdaydı ekip tod lauer
+      metin  : in
+      duyulan: ın
+  INSERT   ...süzülüp gelen sönük parıltıydı
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...önce yeterince hesaba katılmamıştı
+      metin  : marc
+      duyulan: ki te mark
+  REPLACE  ...kalemle kağıtla hesapladığı tablo
+      metin  : plüton un
+      duyulan: pluto nun
+  REPLACE  ...kaygısı olbers in tozu
+      metin  : poe nun
+      duyulan: hoh un
+  REPLACE  ...dolduracak kadar yaşlı değil
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: bilim-2026-10-14.duyulan.txt

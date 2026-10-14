@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-14.mp3
+
+beklenen 1568 kelime | duyulan 1578 kelime | eşleşme %97.3
+sayı ifadesi: metinde 120, duyulanda 104  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çalışan davranışsal iktisatçı george
+      metin  : loewenstein
+      duyulan: lovenstein lı
+  REPLACE  ...somut olduğunu gösteren çalışmalardan
+      metin  : leaf
+      duyulan: lief
+  REPLACE  ...leaf van boven ve
+      metin  : loewenstein
+      duyulan: lowenstein
+  INSERT   ...boven ve loewenstein ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...de ortaya çıkıyor daniel
+      metin  : read
+      duyulan: reed
+  REPLACE  ...barbara van leeuwen in
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ktisatçılar loewenstein ted o
+      metin  : donoghue
+      duyulan: donoghuey
+  REPLACE  ...o donoghue ve matthew
+      metin  : rabin
+      duyulan: robin
+  REPLACE  ...ağır kararlarda da çalışıyor
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...seksenlerin başında jay christensen
+      metin  : szalanski
+      duyulan: zalansky
+  REPLACE  ...ihtiyaçlarla da sınırlı değil
+      metin  : loren
+      duyulan: lauren
+  REPLACE  ...loren nordgren mary hunter
+      metin  : mcdonnel
+      duyulan: mcdonald
+  REPLACE  ...mary hunter mcdonnel ve
+      metin  : loewenstein
+      duyulan: lovenstein deki
+  INSERT   ...loren nordgren ve arkadaşları
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...paketi yakında tutmakta daha
+      metin  : rahattılar
+      duyulan: rahatlılar
+  REPLACE  ...sonucu soğuk ben sıcak
+      metin  : benin
+      duyulan: benim
+  REPLACE  ...adımlarla işleyebilir i lki
+      metin  : ortamı değiştirmek
+      duyulan: ortami deği ştirmak
+  INSERT   ...girmezse çarşamba akşamı saat
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...dayanıyor i kincisi sıcak
+      metin  : anın kendisini
+      duyulan: anin kendi si ni
+  REPLACE  ...sıcak anın kendisini önceden
+      metin  : tanımlamak psikolog
+      duyulan: tanimlamak pesikolog
+  REPLACE  ...önceden tanımlamak psikolog peter
+      metin  : gollwitzer
+      duyulan: golwitzer
+  REPLACE  ...bekletmek sabah okumak ve
+      metin  : öyle
+      duyulan: öğle
+  REPLACE  ...etkili köprü kurar soğuk
+      metin  : benin
+      duyulan: benim
+  REPLACE  ...kurar soğuk benin sıcak
+      metin  : bene
+      duyulan: bana
+  REPLACE  ...öfkeli ya da aç
+      metin  : benin
+      duyulan: benim
+  REPLACE  ...etmeye çalışmaz sadece soğuk
+      metin  : benin
+      duyulan: benim
+  REPLACE  ...görüyoruz van boven ve
+      metin  : loewenstein
+      duyulan: lovenstein
+  REPLACE  ...anlayışlı olmamızı sağlayabilir tartışmayı
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...tutacak birinden yardım isteyerek
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-10-14.duyulan.txt

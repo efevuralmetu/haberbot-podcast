@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-14.mp3
+
+beklenen 1789 kelime | duyulan 1800 kelime | eşleşme %93.8
+sayı ifadesi: metinde 248, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...zamanlar atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  REPLACE  ...şehir kaldı yelkenli düşünün
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...rıhtımda bağıran hamallar burası
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...dan gelir rivayete göer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o günlerde koyda yerli
+      metin  : changolar
+      duyulan: çangolar
+  INSERT   ...kayıklarıyla dolaşıyordu yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...etti ama sömürge döneminin
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...kiliseden korsan baskınlarına karşı
+      metin  : tabyadan
+      duyulan: tabiyadan
+  REPLACE  ...her şeyi bağımsızlık değiştirdi
+      metin  : şili
+      duyulan: chile de
+  REPLACE  ...sonra limanlarını dünyaya açtı
+      metin  : valparaíso pasifiğin
+      duyulan: valparaiso pasifin
+  REPLACE  ...burnu ndan ya da
+      metin  : macellan boğazı ndan
+      duyulan: magellan boğazından
+  REPLACE  ...uğradığı ilk büyük limandı
+      metin  : atlantik
+      duyulan: atlantikten
+  REPLACE  ...onarmak tayfasını dinlendirmek zorundaydı
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...depolanıyor sonra peru ya
+      metin  : ekvador
+      duyulan: ecuador
+  REPLACE  ...peru ya ekvador a
+      metin  : kaliforniya
+      duyulan: california
+  INSERT   ...limana uğrayanlar arasındaydı beagle
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...evleri ve geride yükselen
+      metin  : and dağları nın
+      duyulan: ant dağlarının
+  REPLACE  ...açtı bugün bile tepelerde
+      metin  : anglikan
+      duyulan: anglican
+  REPLACE  ...bile tepelerde anglikan ve
+      metin  : lüteriyen
+      duyulan: lüteryen
+  INSERT   ...yan yana durur şehrin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gazetesi el mercurio de
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...mercurio de valparaíso yani
+      metin  : valparaíso merkürü
+      duyulan: valparaiso mercurio
+  REPLACE  ...eski gazete olarak bilinir
+      metin  : valparaíso merkürü nün
+      duyulan: valparaiso mercurio nun
+  REPLACE  ...gemi giriş çıkışlarını ve
+      metin  : navlun
+      duyulan: navlum
+  INSERT   ...şehir okyanusla nefes alıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gemi kumpanyası nın merkezi
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...denize bakarak durur sonra
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...burnu nu dolanıyor yolda
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...o kadar zenginleşti ki
+      metin  : pasifiğin
+      duyulan: pasifin
+  REPLACE  ...dünyayı birbirine bağlamak için
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...buldu dik raylar üzerinde
+      metin  : halatla
+      duyulan: halapla
+  REPLACE  ...küçük kabinler şehrin ilk
+      metin  : füniküleri
+      duyulan: fünüküleri te
+  REPLACE  ...ve sonraki yıllarda sayıları
+      metin  : kadara
+      duyulan: kadar
+  REPLACE  ...kabinle yarı yolda karşılaşmak
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...ateş her zaman yakınındadır
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...çıkan büyük yangından sonra
+      metin  : valparaíso
+      duyulan: de valparaiso
+  REPLACE  ...neden önemli olduğunu göreceğiz
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...o gece şehri büyüklüğü
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...amerika nın dar kıstağında
+      metin  : ancon
+      duyulan: ankon
+  REPLACE  ...adlı yük gemisi atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  ... ve 44 fark daha
+
+metinde olup DUYULMAYAN: 83 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: seyahat-2026-10-14.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-14.mp3
+
+beklenen 2771 kelime | duyulan 2761 kelime | eşleşme %94.5
+sayı ifadesi: metinde 406, duyulanda 289  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...arkeolog değil tüccar schliemann
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da mecklenburg daki küçük
+      metin  : neubukow
+      duyulan: neubukov
+  REPLACE  ...boyası ve askeri malzeme
+      metin  : ticaretiyle
+      duyulan: ticareti ile
+  REPLACE  ...ya gitti hücum döneminde
+      metin  : sacramento
+      duyulan: sakramento
+  REPLACE  ...eğer truva gerçekten varsa
+      metin  : bunarbaşı denen
+      duyulan: bunar başında arayan
+  REPLACE  ...sonra kader i ngiliz
+      metin  : le
+      duyulan: de
+  REPLACE  ...oysa aslında yüzyıllar hatta
+      metin  : binyıllar
+      duyulan: yıllar
+  REPLACE  ...birikmesiyle oluşmuş insan eseridir
+      metin  : kerpiç
+      duyulan: karpiç
+  REPLACE  ...schliemann bunun farkındaydı ama
+      metin  : höyüğü
+      duyulan: höyü
+  REPLACE  ...zaman aşkın işçiyle çalışarak
+      metin  : höyüğü
+      duyulan: höyü ü
+  REPLACE  ...görür arkeologlar hala schliemann
+      metin  : hendeği
+      duyulan: hendeyi
+  DELETE   ...bulunur en altta yaklaşık
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  INSERT   ...civarına tarihlenen truva i
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...helenistik ve roma dönemlerinin
+      metin  : i lion u
+      duyulan: ileonu
+  DELETE   ...lion u yani truva
+      metin  : ix
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...savaş ize geleneksel olarak
+      metin  : mö
+      duyulan: melatve xiii
+  INSERT   ...geleneksel olarak mö ve
+      metin  : (yok)
+      duyulan: xii
+  REPLACE  ...karşılık gelen katlar truva
+      metin  : vi
+      duyulan: zed
+  REPLACE  ...truva vi ve truva
+      metin  : vii dir
+      duyulan: zedidir
+  REPLACE  ...truva vii dir yani
+      metin  : höyüğün
+      duyulan: höyün
+  DELETE   ...bu katı bugün truva
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...rampayı i lyada daki
+      metin  : skaia kapısı yla
+      duyulan: skaya kapısıyla
+  REPLACE  ...sorun şuydu ki truva
+      metin  : ii mö
+      duyulan: meletue
+  DELETE   ...kendi anlatımına göer truva
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çıkardı bu sırada karısı
+      metin  : sophia
+      duyulan: sofia
+  DELETE   ...kendisi gerçek ve truva
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...duyurdu gazetelerde kitabında konferanslarda
+      metin  : priamos
+      duyulan: priyamos
+  REPLACE  ...hükümeti atina da schliemann
+      metin  : a
+      duyulan: la
+  INSERT   ...dava uzun sürdü ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bunlar sonuç vermedi sonunda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ayrılmış salonlarda sergilenmeye başladı
+      metin  : priamos
+      duyulan: priyamos
+  REPLACE  ...en sakin dönemiydi ziyaretçiler
+      metin  : camekanların
+      duyulan: kamekanların
+  REPLACE  ...ve arkeolog olan wilhelm
+      metin  : dörpfeld
+      duyulan: dörfeld
+  INSERT   ...wilhelm dörpfeld de katılıyordu
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...son kazı sezonunda truva
+      metin  : vi
+      duyulan: rals
+  DELETE   ...çağıyla çağdaş katmanın truva
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çok daha yukarıdaki truva
+      metin  : vi
+      duyulan: i
+  INSERT   ...kazı planlamaya başladı ama
+      metin  : (yok)
+      duyulan: nın
+  DELETE   ...değeri tartışılmazdı sonra geldi
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  ... ve 66 fark daha
+
+metinde olup DUYULMAYAN: 107 kelime | duyulup metinde OLMAYAN: 108
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: arkeoloji-2026-10-14.duyulan.txt

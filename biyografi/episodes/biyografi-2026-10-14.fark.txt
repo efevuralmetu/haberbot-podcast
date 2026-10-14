@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-14.mp3
+
+beklenen 2988 kelime | duyulan 3006 kelime | eşleşme %94.7
+sayı ifadesi: metinde 468, duyulanda 286  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kişi daha var güney
+      metin  : carolina
+      duyulan: karolayna
+  INSERT   ...konakların sıralandığı yer nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nisan bu konaklardan prince
+      metin  : sokağı ndaki mckee
+      duyulan: sokağındaki mekki
+  REPLACE  ...robert in sahibi henry
+      metin  : mckee
+      duyulan: mackey
+  REPLACE  ...kazandığı paranın büyük kısmı
+      metin  : mckee
+      duyulan: mackey
+  REPLACE  ...nın her kumsalını her
+      metin  : sığlığını
+      duyulan: sığılığını
+  REPLACE  ...kapattığını ezbeer biliyordu güney
+      metin  : carolina
+      duyulan: karolayna
+  INSERT   ...başka yönden de değişti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...köle kadınla hannah jones
+      metin  : la
+      duyulan: ile
+  INSERT   ...önceki ilişkisinden kızları vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...elizabeth adını verdikleri kızı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...güvencesi yoktu sonra nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...savaşın parçası oldu gemi
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...subay vardı kaptan charles
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...geçirmiş kollarını göğsünde kavuşturup
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...rengi dışında her şeyiyle
+      metin  : relyea
+      duyulan: relia
+  INSERT   ...atlayacaklardı teslim olmak yoktu
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...konfederasyon bayrağını ve güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...bağlı başka geminin içinde
+      metin  : hannah
+      duyulan: hana
+  REPLACE  ...kaptanın hasır şapkasını taktı
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...i lk engel johnson
+      metin  : kalesi ydi
+      duyulan: carlos iydi
+  REPLACE  ...gemiyi menzilinde tutuyordu saat
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...hazır savaş gemileri vardı
+      metin  : mürettebat
+      duyulan: mürettabat
+  REPLACE  ...yerine teslimiyet işareti olarak
+      metin  : hannah
+      duyulan: hanna
+  REPLACE  ...konfederasyon nakliye gemisini gördü
+      metin  : mürettebat
+      duyulan: mürettabat
+  REPLACE  ...çıkan subayı selamlayıp birleşik
+      metin  : devletler e
+      duyulan: devletleer
+  REPLACE  ...terk etmesinin hesabını soruyordu
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...washington da harekete geçti
+      metin  : konger mayısı nın
+      duyulan: conger mayıs ının
+  REPLACE  ...özel yasa çıkardı çiftlik
+      metin  : beyi ni
+      duyulan: beyni
+  REPLACE  ...ve başkan abraham lincoln
+      metin  : le
+      duyulan: ile
+  REPLACE  ...süer sonra stanton güney
+      metin  : carolina
+      duyulan: karolayna
+  INSERT   ...kaydedilir en ağırlarından nisan
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu kez kılavuzuydu aralık
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...aldı ve çiftlik beyi
+      metin  : ni
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bölgedeki komutanı general quincy
+      metin  : gillmoer
+      duyulan: gilmoer
+  INSERT   ...kaptanlık ırk ayrımcılığından korumadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...korumadı çiftlik beyi için
+      metin  : philadelphia ya
+      duyulan: filadelfiye ye
+  REPLACE  ...yürüyen kampanyaya güç kattı
+      metin  : pennsylvania
+      duyulan: de pensilvanya
+  INSERT   ...sonu yaklaşırken charleston düştü
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...yaklaşırken charleston düştü nisan
+      metin  : (yok)
+      duyulan: te
+  ... ve 52 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 102
+bölme/birleşme farkı (hata değil, elendi): 47
+
+duyulan metin: biyografi-2026-10-14.duyulan.txt
