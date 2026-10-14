@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:27.400
+2009 baharında Stockholm'de, gündüzleri başka bir şirkette çalışan bir programcı, yaratıcısının bile terk ettiği küçük bir oyunu görüp "yapmak istediğim oyun bu" dedi ve bir haftada kendi küplerini dizmeye başladı. Beş yıl sonra attığı tek bir tivit, o küplerin 2,5 milyar dolara satılmasıyla sonuçlandı. On yıl sonra ise oyun dünyanın en çok satan oyunu olmuştu ama yaratıcısının adı içinde yoktu.
+
+2
+00:00:35.600 --> 00:00:48.210
+2009 baharında Stockholm'de bir apartman dairesinde, gündüzleri bir fotoğraf albümü yazılımı şirketinde çalışan otuz yaşına yeni girmek üzere olan bir programcı, akşamları başka bir şeyle uğraşıyordu.
+
+3
+00:00:48.210 --> 00:00:53.620
+Adı Markus Persson'du ama internette herkes onu Notch diye tanıyordu.
+
+4
+00:00:53.620 --> 00:01:01.430
+Yedi yaşında babasının Commodore 128 bilgisayarıyla tanışmış, kısa süre sonra ilk basit oyununu yazmıştı.
+
+5
+00:01:01.430 --> 00:01:09.400
+Yetişkinliğinde birkaç yıl King adlı bir oyun şirketinde tarayıcı oyunları geliştirmiş, sonra daha sakin bir işe geçmişti.
+
+6
+00:01:09.400 --> 00:01:12.890
+Ama kafasında hep kendi oyununu yapma fikri vardı.
+
+7
+00:01:12.890 --> 00:01:23.260
+Yarım kalmış prototipleri, oyun yarışmalarına bir hafta sonunda yetiştirdiği küçük projeleri, bağımsız geliştiricilerin takıldığı forumlarda paylaştığı denemeleri vardı.
+
+8
+00:01:23.260 --> 00:01:28.030
+Eksik olan tek şey, bütün bu parçaları bir araya getirecek kıvılcımdı.
+
+9
+00:01:28.030 --> 00:01:32.160
+O kıvılcım, aslında terk edilmiş bir madenden geldi.
+
+10
+00:01:32.160 --> 00:01:41.570
+Aynı yılın nisan ayında Zach Barth adlı genç bir Amerikalı geliştirici, Infiniminer, yani Sonsuz Madenci adında küçük bir oyun yayımlamıştı.
+
+11
+00:01:41.570 --> 00:01:51.460
+Sonsuz Madenci'de iki takım, küplerden oluşan bir arazide kazı yaparak değerli maden arıyor, bu sırada bloklar koyarak yollar ve duvarlar örüyordu.
+
+12
+00:01:51.460 --> 00:02:00.390
+Grafikleri son derece basitti ama dünyanın her parçasının kazılabilir ve yeniden kurulabilir olması tuhaf biçimde bağımlılık yapıyordu.
+
+13
+00:02:00.390 --> 00:02:05.160
+Sonra beklenmedik bir şey oldu: oyunun kaynak kodu sızdı.
+
+14
+00:02:05.160 --> 00:02:13.130
+Kopyalar, değiştirilmiş sürümler ortalığa yayıldı ve Barth, kontrolü kaybettiği projeyi kısa süre içinde bıraktı.
+
+15
+00:02:13.130 --> 00:02:17.740
+Sonsuz Madenci, daha emekleme çağındayken sahipsiz kalmıştı.
+
+16
+00:02:17.740 --> 00:02:23.310
+Notch oyunu oynadığında içinde bir şeyin yerine oturduğunu sonradan defalarca anlattı.
+
+17
+00:02:23.310 --> 00:02:34.800
+Blok blok değiştirilebilen bir dünya fikri harikaydı; ama onun aklına gelen, bu dünyayı bir yarışma alanı olarak değil, insanın içinde yaşayabileceği bir yer olarak kurmaktı.
+
+18
+00:02:34.800 --> 00:02:48.050
+Yıllarca sevdiği başka oyunların izleri de bu fikrin içine sızdı: yeraltında koridorlar kazdığınız strateji oyunları, kendi lunaparkınızı kurduğunuz yönetim oyunları, akıl almaz ayrıntıdaki simülasyonlar.
+
+19
+00:02:48.050 --> 00:02:54.900
+Hepsinde ortak olan bir duygu vardı: bir şey inşa etmenin ve sonra onun içinde dolaşmanın keyfi.
+
+20
+00:02:54.900 --> 00:03:03.990
+Mayıs 2009'un ortalarında, Notch neredeyse bir haftalık yoğun bir çalışmanın ardından ilk sürümü bir bağımsız oyun forumunda paylaştı.
+
+21
+00:03:03.990 --> 00:03:09.880
+Projenin adı o sırada son derece mütevazıydı: Cave Game, yani Mağara Oyunu.
+
+22
+00:03:09.880 --> 00:03:13.370
+Mağara Oyunu'nda yapabileceğiniz pek bir şey yoktu.
+
+23
+00:03:13.370 --> 00:03:19.740
+Çimen ve taş bloklardan oluşan küçük bir arazi, bloğu kırmak, bloğu yerleştirmek.
+
+24
+00:03:19.740 --> 00:03:21.470
+Hepsi bu.
+
+25
+00:03:21.470 --> 00:03:26.720
+Ama forumdaki ilk yorumlar meraklıydı ve Notch bu merakı ciddiye aldı.
+
+26
+00:03:26.720 --> 00:03:34.050
+Kısa süre sonra oyuna daha iddialı bir ad verdi, Minecraft: Order of the Stone, yani Taş Tarikatı.
+
+27
+00:03:34.050 --> 00:03:40.740
+Bu uzun ad da çok yaşamadı; geriye sade ve akılda kalıcı tek bir kelime kaldı: Minecraft.
+
+28
+00:03:40.740 --> 00:03:44.390
+Kazmak ve üretmek, iki fiil, bir oyun.
+
+29
+00:03:44.390 --> 00:03:49.000
+Notch'un en önemli kararlarından biri, oyunu bitmeden satmaktı.
+
+30
+00:03:49.000 --> 00:03:51.690
+O dönem için alışılmadık bir yoldu bu.
+
+31
+00:03:51.690 --> 00:03:59.820
+Oyuncular yarım bir projenin parasını önceden ödüyor, karşılığında hem şimdiki sürümü hem de gelecekte gelecek her şeyi alıyordu.
+
+32
+00:03:59.820 --> 00:04:05.070
+Erken davrananlar daha ucuza alıyordu; oyun büyüdükçe fiyat da yükseldi.
+
+33
+00:04:05.070 --> 00:04:16.560
+Notch geliştirme sürecini bir kişisel blog üzerinden neredeyse gün gün anlatıyor, hangi özelliği eklediğini, hangi hatayla boğuştuğunu, ertesi hafta ne yapmayı düşündüğünü yazıyordu.
+
+34
+00:04:16.560 --> 00:04:22.130
+Oyuncular yalnızca bir ürün satın almıyor, bir yapım hikâyesine ortak oluyordu.
+
+35
+00:04:22.130 --> 00:04:31.220
+Bu açıklık, Minecraft'ın ilk yıllarındaki en güçlü pazarlama aracına dönüştü, üstelik bunun bir pazarlama aracı olduğunu kimse düşünmüyordu.
+
+36
+00:04:31.220 --> 00:04:36.630
+Ve tam o ilk aylarda, Notch'un ekranında hiç planlamadığı bir yaratık belirdi.
+
+37
+00:04:36.630 --> 00:04:40.440
+Notch, oyununa ilk hayvanlarını eklemeye çalışıyordu.
+
+38
+00:04:40.440 --> 00:04:42.810
+Sıradaki domuzdu.
+
+39
+00:04:42.810 --> 00:04:49.660
+Minecraft'taki her şey gibi domuz da kutulardan oluşacaktı: bir gövde, bir kafa, dört bacak.
+
+40
+00:04:49.660 --> 00:04:55.710
+Ama o dönem modelleri görsel bir araçla değil, doğrudan kodun içinde sayılarla tarif ediyordu.
+
+41
+00:04:55.710 --> 00:05:00.800
+Gövdenin ne kadar uzun, ne kadar yüksek olacağını rakamlarla yazıyordu.
+
+42
+00:05:00.800 --> 00:05:03.330
+Bir yerde iki değeri karıştırdı.
+
+43
+00:05:03.330 --> 00:05:09.540
+Uzunluk olması gereken sayı yüksekliğe, yükseklik olması gereken sayı uzunluğa gitti.
+
+44
+00:05:09.540 --> 00:05:14.470
+Oyunu çalıştırdığında karşısında yere paralel uzanan tombul bir hayvan yoktu.
+
+45
+00:05:14.470 --> 00:05:21.000
+Dimdik ayakta duran, uzun, ince, dört kısa bacağın üzerinde tuhaf biçimde yükselen bir şey vardı.
+
+46
+00:05:21.000 --> 00:05:25.290
+Çoğu geliştirici bu hatayı düzeltip yoluna devam ederdi.
+
+47
+00:05:25.290 --> 00:05:29.420
+Notch ise ekrana baktı ve bu garip silueti sevdi.
+
+48
+00:05:29.420 --> 00:05:40.110
+Domuz olmaktan çıkmış bu şeyi silmek yerine ona yeşil, benekli bir doku giydirdi, ağzını aşağı doğru kıvrılmış hüzünlü bir ifadeyle çizdi ve ona bir görev verdi.
+
+49
+00:05:40.110 --> 00:05:45.200
+Oyuncunun yanına sessizce sokulacak, bir an tıslayacak ve patlayacaktı.
+
+50
+00:05:45.200 --> 00:05:51.570
+Oyuncular bu yaratığa Creeper adını verdi; Türkçede Sinsi diye çevirebileceğimiz bir ad.
+
+51
+00:05:51.570 --> 00:05:59.540
+Sinsi, yaptığı yıkımla birlikte başka bir şey de getirdi: inşa ettiğiniz şeyin bir anda yok olabileceği korkusu.
+
+52
+00:05:59.540 --> 00:06:09.430
+Saatlerce uğraşıp yaptığınız evin duvarında bir anda açılan o krater, Minecraft'ın hem en sinir bozucu hem de en unutulmaz deneyimlerinden biri oldu.
+
+53
+00:06:09.430 --> 00:06:15.320
+Yanlış girilmiş iki sayıdan doğan Sinsi, zamanla oyunun yüzü hâline geldi.
+
+54
+00:06:15.320 --> 00:06:23.290
+Tişörtlerde, oyuncaklarda, logolarda karşımıza çıkan o yeşil surat, aslında bir domuzun boyları karışmış hâliydi.
+
+55
+00:06:23.290 --> 00:06:27.100
+Bu hikâye, Minecraft'ın ruhunu da iyi anlatıyor.
+
+56
+00:06:27.100 --> 00:06:32.350
+Oyun bir ana plan üzerine değil, sürekli bir doğaçlama üzerine kuruldu.
+
+57
+00:06:32.350 --> 00:06:38.880
+Notch bir özelliği deniyor, işe yararsa tutuyor, oyuncuların tepkisine göre yön değiştiriyordu.
+
+58
+00:06:38.880 --> 00:06:43.970
+Ve bu doğaçlamanın en büyük sıçraması, dünyanın kendisinde yaşandı.
+
+59
+00:06:43.970 --> 00:06:50.340
+İlk sürümlerde arazi sınırlıydı; bir yere kadar yürüyebilir, sonra kenara çarpardınız.
+
+60
+00:06:50.340 --> 00:06:55.910
+2010'un başında Notch, sonsuz dünya üzerinde çalışmaya başladı.
+
+61
+00:06:55.910 --> 00:07:03.880
+Fikir şuydu: dünya önceden çizilmeyecek, oyuncu ilerledikçe matematiksel kurallarla kendi kendini inşa edecekti.
+
+62
+00:07:03.880 --> 00:07:09.290
+Her yeni oyun, bir başlangıç sayısından türetilen eşsiz bir manzara demekti.
+
+63
+00:07:09.290 --> 00:07:17.100
+Dağlar, mağaralar, okyanuslar, kumsallar, kimsenin elle tasarlamadığı ama oyuncunun ilk kez gördüğü yerlerdi.
+
+64
+00:07:17.100 --> 00:07:20.750
+Bir tepenin ardında ne olduğunu Notch bile bilmiyordu.
+
+65
+00:07:20.750 --> 00:07:26.480
+Böylece Minecraft, geliştiricisinin kendisinin de keşfedebileceği bir oyuna dönüştü.
+
+66
+00:07:26.480 --> 00:07:38.770
+Bu sistemin bir yan etkisi de oldu: başlangıç noktasından milyonlarca blok uzağa gidildiğinde, hesaplamalardaki hassasiyet sınırı yüzünden arazi garip, delik deşik, devasa duvarlara dönüşüyordu.
+
+67
+00:07:38.770 --> 00:07:45.780
+Oyuncular bu bölgeye Uzak Topraklar dedi ve bazıları oraya yürüyerek ulaşmayı bir hac yolculuğuna çevirdi.
+
+68
+00:07:45.780 --> 00:07:51.830
+2010 yazında hayatta kalma modu geldi ve oyunun karakteri kökten değişti.
+
+69
+00:07:51.830 --> 00:07:53.880
+Artık güneş batıyordu.
+
+70
+00:07:53.880 --> 00:08:02.970
+İlk gecenizde, elinizde yalnızca birkaç tahta ve taşla, karanlıkta yaklaşan iniltileri dinleyerek telaşla bir sığınak kazıyordunuz.
+
+71
+00:08:02.970 --> 00:08:09.340
+Hammaddeleri birleştirerek alet yapmak, yani üretim sistemi, oyunun omurgası oldu.
+
+72
+00:08:09.340 --> 00:08:20.350
+Bir ağacı yumrukla kesip tahtaya, tahtayı masaya, masayı kazmaya, kazmayı taşa, taşı demire dönüştürmek, insanın bir medeniyeti sıfırdan kurduğu duygusunu veriyordu.
+
+73
+00:08:20.350 --> 00:08:29.600
+Daniel Rosenfeld'in, sahne adıyla C418'in ağır, seyrek piyano parçaları da bu dünyaya beklenmedik bir dinginlik kattı.
+
+74
+00:08:29.600 --> 00:08:34.050
+Satışlar, Notch'un bile hayal edemediği bir hızla yükseliyordu.
+
+75
+00:08:34.050 --> 00:08:37.380
+Aynı yaz, gündüz işini bıraktı.
+
+76
+00:08:37.380 --> 00:08:47.430
+Okul arkadaşı ve eski iş arkadaşı Jakob Porsér ile birlikte bir şirket kurdular, kısa süre sonra King'den tanıdığı Carl Manneh de yönetici olarak katıldı.
+
+77
+00:08:47.430 --> 00:08:53.800
+Şirketin adı Mojang'dı; İsveççede aşağı yukarı zımbırtı, aparat anlamına gelen bir kelime.
+
+78
+00:08:53.800 --> 00:09:00.810
+Oyun henüz deneme aşamasındayken, Ocak 2011'de satılan kopya sayısı bir milyonu geçti.
+
+79
+00:09:00.810 --> 00:09:11.820
+Kimse reklam görmemişti; insanlar arkadaşlarından duyuyor, internette başkalarının yaptığı devasa yapıların videolarını izliyor, sonra kendi dünyalarını kurmak istiyordu.
+
+80
+00:09:11.820 --> 00:09:19.310
+Bir kişinin akşam hobisi olarak başlayan proje, iki yıl içinde dünyanın en çok konuşulan oyunlarından biri olmuştu.
+
+81
+00:09:19.310 --> 00:09:28.400
+Kasım 2011'de Las Vegas'ta, Minecraft hayranlarının ilk büyük buluşmasında Notch sahneye çıktı ve oyunun tam sürümünü yayımladı.
+
+82
+00:09:28.400 --> 00:09:33.810
+Salonda binlerce kişi vardı; çoğu, kafasında küp bir başlıkla.
+
+83
+00:09:33.810 --> 00:09:42.740
+Birkaç hafta sonra ise sessiz ama anlamlı bir adım attı: oyunun baş geliştiriciliğini ekip arkadaşı Jens Bergensten'e devretti.
+
+84
+00:09:42.740 --> 00:09:46.550
+Minecraft artık onun elinden çıkıp yürümeye başlamıştı.
+
+85
+00:09:46.550 --> 00:09:52.120
+Ama yaratıcısıyla yarattığı şey arasındaki bağın asıl sınavı daha sonra gelecekti.
+
+86
+00:09:52.120 --> 00:09:57.370
+Notch, kendi ifadesiyle bir şirket yöneticisi olmak için yola çıkmamıştı.
+
+87
+00:09:57.370 --> 00:10:07.740
+Mojang büyüdükçe, Minecraft dünyanın her köşesinde yüz milyonlarca çocuğun gündelik hayatının parçası oldukça, onun internetteki her sözü de büyüyordu.
+
+88
+00:10:07.740 --> 00:10:15.390
+Bir zamanlar bir forumda samimi notlar paylaşan programcı, artık her paylaşımı haber konusu olan bir figürdü.
+
+89
+00:10:15.390 --> 00:10:26.400
+2014 yazında Mojang, oyunun kullanıcı sözleşmesindeki kuralları sunucular için daha sıkı uygulamaya karar verdiğinde, öfke dalgası doğrudan Notch'a yöneldi.
+
+90
+00:10:26.400 --> 00:10:29.730
+Kararı o vermemiş olsa da hedef oydu.
+
+91
+00:10:29.730 --> 00:10:39.940
+Haziran ayında, yarı şaka yarı yorgunluk içinde, Mojang'daki hissesini satın alıp kendisini rahat bırakacak biri olup olmadığını soran bir mesaj paylaştı.
+
+92
+00:10:39.940 --> 00:10:42.310
+Bu mesaj ciddiye alındı.
+
+93
+00:10:42.310 --> 00:10:51.400
+Birkaç ay süren görüşmelerin ardından, 15 Eylül 2014'te Microsoft, Mojang'ı 2,5 milyar dolara satın aldığını duyurdu.
+
+94
+00:10:51.400 --> 00:10:56.650
+Şirketin çoğunluk hissesi Notch'taydı; servetin aslan payı ona düştü.
+
+95
+00:10:56.650 --> 00:11:00.620
+Porsér ve Manneh de onunla birlikte şirketten ayrıldı.
+
+96
+00:11:00.620 --> 00:11:05.070
+Aynı gün Notch, kişisel sitesinde bir veda yazısı yayımladı.
+
+97
+00:11:05.070 --> 00:11:14.320
+Yazıda kendini bir girişimci ya da bir patron olarak değil, internette fikir beyan etmeyi seven sıradan bir bilgisayar meraklısı olarak tanımlıyordu.
+
+98
+00:11:14.320 --> 00:11:23.730
+Minecraft'ın artık kendisinin taşıyamayacağı kadar büyük bir anlam kazandığını, bunun parayla değil, kendi akıl sağlığıyla ilgili bir karar olduğunu anlatıyordu.
+
+99
+00:11:23.730 --> 00:11:29.940
+Oyunu sevenlerden, bu sevgiyi hak edecek kadar büyük bir yapının ellerine bıraktığını yazıyordu.
+
+100
+00:11:29.940 --> 00:12:21.410
+Satıştan sonraki tablo, dışarıdan bakınca bir masal gibiydi. Notch, Los Angeles'ın en pahalı semtlerinden birinde 70 milyon dolara bir malikâne satın aldı; şekerleme duvarları ve devasa havuzuyla haber manşetlerine taşınan bir ev. Ama içeriden gelen sesler başka bir şey söylüyordu. 2015 yazında, bir dizi kısa paylaşımla, istediği her şeye sahip olmanın insanı denemek için bir sebep bulamaz hâle getirdiğini, ünlülerle eğlendiği bir tatilde bile kendini hiç bu kadar yalnız hissetmediğini yazdı. Sahip olduğu imkânlarla etrafındakiler arasındaki dengesizliğin, gerçek bir insan ilişkisi kurmayı neredeyse imkânsız kıldığından söz ediyordu. Bir domuzu yanlış çizerek bir efsane yaratan adam, şimdi kendi hikâyesindeki en büyük ödülün içinde bir boşluk bulmuştu.
+
+101
+00:12:21.410 --> 00:12:28.100
+Sonraki yıllarda Notch'un adı, oyunla değil, sosyal medyadaki tartışmalı paylaşımlarıyla gündeme geldi.
+
+102
+00:12:28.100 --> 00:12:30.950
+Pek çok kesimden sert tepki aldı.
+
+103
+00:12:30.950 --> 00:12:41.480
+2019'da Minecraft'ın onuncu yılı kutlanırken, Microsoft yıl dönümü etkinliklerine onu davet etmedi ve oyunun içindeki bazı anma göndermelerini kaldırdı.
+
+104
+00:12:41.480 --> 00:12:49.770
+Adı oyunun jeneriğinde, yaratıcısı olarak yerinde kaldı; ama Minecraft'ın resmî hikâyesi artık onsuz anlatılıyordu.
+
+105
+00:12:49.770 --> 00:13:01.580
+Yaratıcısıyla eseri arasındaki bağ, oyunun milyonlarca oyuncusu için de karmaşık bir duyguya dönüştü: dünyalarını kurdukları oyunun mimarına artık nasıl bakacaklarını bilemediler.
+
+106
+00:13:01.580 --> 00:13:06.990
+Oysa Minecraft, satıştan sonra küçülmedi, aksine durmadan büyüdü.
+
+107
+00:13:06.990 --> 00:13:12.080
+Microsoft'un kanatları altında konsollara, telefonlara, okullara yayıldı.
+
+108
+00:13:12.080 --> 00:13:19.410
+Eğitim sürümüyle sınıflara girdi; çocuklar onunla tarih dersinde antik kentler, fizik dersinde devreler kurdu.
+
+109
+00:13:19.410 --> 00:13:27.220
+Oyunun içindeki basit kızıltaş devreleriyle hesap makineleri, hatta çalışan bilgisayarlar inşa eden oyuncular çıktı.
+
+110
+00:13:27.220 --> 00:13:35.670
+2023'te satılan kopya sayısı 300 milyonu geçti ve Minecraft, video oyunu tarihinin en çok satan oyunu oldu.
+
+111
+00:13:35.670 --> 00:13:43.640
+2025 baharında sinemaya uyarlandı ve film dünya çapında yaklaşık 950 milyon dolar hasılat yaptı.
+
+112
+00:13:43.640 --> 00:13:49.850
+Bir hafta süren bir hevesle başlayan Mağara Oyunu, bir kuşağın ortak dili hâline gelmişti.
+
+113
+00:13:49.850 --> 00:13:53.820
+Belki de Minecraft'ın mirasındaki asıl ironi şurada yatıyor.
+
+114
+00:13:53.820 --> 00:13:57.470
+Bu oyun, insanlara yalnızlığa karşı bir şey verdi.
+
+115
+00:13:57.470 --> 00:14:10.560
+Arkadaşlarıyla aynı sunucuda buluşan, birlikte köprüler, kaleler, şehirler kuran, uzak ülkelerden insanlarla aynı dünyayı paylaşan milyonlarca oyuncu için Minecraft bir buluşma yeriydi.
+
+116
+00:14:10.560 --> 00:14:16.610
+Ama o yerin kapılarını açan kişi, satışın ardından kendi yalnızlığını açıkça anlatan biri oldu.
+
+117
+00:14:16.610 --> 00:14:25.380
+Eser, yaratıcısından bağımsız bir hayat kazandı; artık hem onun hem de hiç kimsenin değildi, onu oynayan herkesindi.
+
+118
+00:14:25.380 --> 00:14:37.030
+Ve bugün bir çocuk ilk kez Minecraft'ı açıp, ilk gecesinde aceleyle kazdığı çukurun önünde o yeşil, hüzünlü suratı gördüğünde, bilmeden 2009'daki bir hatayla karşılaşıyor.
+
+119
+00:14:37.030 --> 00:14:39.400
+Boyları karışmış bir domuz.
+
+120
+00:14:39.400 --> 00:14:44.970
+Silinmesi gerekirken saklanan, sonra bütün bir dünyanın simgesi olan bir yanlışlık.
+
+121
+00:14:44.970 --> 00:14:54.060
+Minecraft'ın belki de en dürüst hikâyesi bu: en kalıcı şeyler bazen plana uymayan, beklenmedik, biraz da eğreti duran şeylerden doğuyor.
+
+122
+00:14:54.060 --> 00:15:00.910
+Onları yapan elin ise, yarattığı şeyin büyüklüğü karşısında ne yapacağını her zaman bildiği söylenemez.
+
+123
+00:15:00.910 --> 00:15:04.080
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+124
+00:15:04.080 --> 00:15:07.090
+Yeni bir hikâyede yeniden buluşmak üzere.
