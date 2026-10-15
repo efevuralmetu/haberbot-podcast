@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-15.mp3
+
+beklenen 3239 kelime | duyulan 3277 kelime | eşleşme %93.4
+sayı ifadesi: metinde 273, duyulanda 263  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...dışında aramak için lejyonu
+      metin  : harran ın
+      duyulan: hara nın
+  REPLACE  ...lejyonu harran ın kavurucu
+      metin  : ovasına
+      duyulan: obasına
+  REPLACE  ...crassus başka şey yapardı
+      metin  : plutarkhos
+      duyulan: plutarcos
+  INSERT   ...ve yapı işlerinden anlayan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...parayla alınamayan şey vardı
+      metin  : mö spartaküs ün
+      duyulan: etmiş de spartacus un
+  REPLACE  ...yazdı pompeius görkemli zafer
+      metin  : alayıyla
+      duyulan: alayı ile
+  REPLACE  ...sokaklarında konuşulan adam olmuştu
+      metin  : mö
+      duyulan: nu da
+  REPLACE  ...gayriresmi ittifak kurdu tarihçilerin
+      metin  : triumvirlik
+      duyulan: triyumvirlik
+  REPLACE  ...gelince senatonun direnmesi zorlaştı
+      metin  : mö
+      duyulan: da
+  REPLACE  ...aralarında anlaşma bile vardı
+      metin  : mö
+      duyulan: meloen in
+  REPLACE  ...ayrılırken halk tribünü gaius
+      metin  : ateius
+      duyulan: atheius
+  REPLACE  ...ateş yaktı üzerine buhur
+      metin  : serpti
+      duyulan: sertti
+  REPLACE  ...yürüdü önünde brundisium limanı
+      metin  : adriyatiğin
+      duyulan: adriat in
+  REPLACE  ...son yolculuğu vardı crassus
+      metin  : mö
+      duyulan: melatune te
+  REPLACE  ...için koca yıl kazandırmak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...oldu oğlu publius crassus
+      metin  : caesar
+      duyulan: cezar
+  DELETE   ...bu sırada partların tahtında
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ya elçi heyeti gönderdi
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...crassus cevabını partların başkentlerinden
+      metin  : seleukeia
+      duyulan: seleukeya
+  REPLACE  ...gösterdi ve crassus un
+      metin  : seleukeia
+      duyulan: seleukeya
+  REPLACE  ...ortaya çıktı ermenistan kralı
+      metin  : i kinci artavasdes
+      duyulan: artavastes
+  REPLACE  ...ordu ülkede ikmal alabilirdi
+      metin  : artavasdes
+      duyulan: artavastes
+  REPLACE  ...bırakmıştı bırakmak istemiyordu doğrudan
+      metin  : güneydoğuya seleukeia
+      duyulan: güneydoğu ya seleukeya
+  DELETE   ...giden yolu seçti ordusu
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ordusu mö baharında fıradı
+      metin  : zeugma
+      duyulan: zevkma
+  REPLACE  ...subay vardı quaestor gaius
+      metin  : cassius
+      duyulan: casius
+  REPLACE  ...quaestor gaius cassius longinus
+      metin  : cassius
+      duyulan: casius
+  REPLACE  ...yanına arap şefi geldi
+      metin  : plutarkhos
+      duyulan: plutarchos
+  REPLACE  ...geldi plutarkhos ariamnes der
+      metin  : cassius
+      duyulan: casius
+  REPLACE  ...kestirme yol göstereceğini söyledi
+      metin  : crassus
+      duyulan: qurassus
+  REPLACE  ...a girmişti artavasdes artık
+      metin  : crassus
+      duyulan: qurassus
+  REPLACE  ...zorunda olduğunu bildirdi ve
+      metin  : crassus
+      duyulan: qurassus
+  REPLACE  ...dağlara yönelmesini tekrar önerdi
+      metin  : crassus
+      duyulan: qurassus
+  REPLACE  ...komutan surena henüz yaşındaydı
+      metin  : plutarkhos
+      duyulan: plutarchos
+  REPLACE  ...hizmetkarlarından ve bağımlılarından oluşan
+      metin  : atlıyla
+      duyulan: atlı ile
+  REPLACE  ...geliyordu arap rehber gün
+      metin  : bahaneyle
+      duyulan: bahane ile
+  REPLACE  ...yakın kale şehri ize
+      metin  : karrhai
+      duyulan: karhai
+  REPLACE  ...bugün şanlıurfa nın güneyindeki
+      metin  : harran dı crassus
+      duyulan: harrandı krasus
+  REPLACE  ...hevesi ve kendi sabırsızlığıyla
+      metin  : crassus
+      duyulan: krasus
+  REPLACE  ...da kumaş ve deriyle
+      metin  : örttürmüştü
+      duyulan: örtürmüştü
+  ... ve 108 fark daha
+
+metinde olup DUYULMAYAN: 167 kelime | duyulup metinde OLMAYAN: 197
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: tarih-2026-10-15.duyulan.txt

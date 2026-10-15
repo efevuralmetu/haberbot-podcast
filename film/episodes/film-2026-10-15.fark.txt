@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-15.mp3
+
+beklenen 1851 kelime | duyulan 1839 kelime | eşleşme %92.7
+sayı ifadesi: metinde 205, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yarısı eve gitmişti ve
+      metin  : bergman
+      duyulan: berkman
+  REPLACE  ...dünyanın ortak hafızasına yerleştirdi
+      metin  : uppsala
+      duyulan: upsala
+  REPLACE  ...oturuyor kürsüdeki vaiz babası
+      metin  : lutherci
+      duyulan: lüterci
+  REPLACE  ...vaiz babası lutherci rahip
+      metin  : erik
+      duyulan: eric
+  REPLACE  ...resimlerin en ünlüsü stockholm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ünlüsü stockholm ün kuzeyindeki
+      metin  : täby kilisesi ndedir
+      duyulan: tebbi kilisesindedir
+  REPLACE  ...biçimde tiyatro okulundan geçti
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...tek perdelik oyun yazdı
+      metin  : trämålning
+      duyulan: tremorling
+  REPLACE  ...nden dönen şövalye alaycı
+      metin  : silahtarı
+      duyulan: silahları
+  REPLACE  ...hissediyordu senaryoyu genişletip i
+      metin  : svecin
+      duyulan: sveç in
+  REPLACE  ...büyük yapım şirketi svensk
+      metin  : filmindustri ye
+      duyulan: film indüstriye
+  REPLACE  ...şirketin başındaki carl anders
+      metin  : dymling metni
+      duyulan: dimling metin i
+  REPLACE  ...almış ama gişede zorlanmıştı
+      metin  : dymling
+      duyulan: dimling
+  REPLACE  ...durumu komedi değiştirdi bergman
+      metin  : sommarnattens leende
+      duyulan: te somarnattensleyen de
+  REPLACE  ...aşk komedisi çekti film
+      metin  : cannes a
+      duyulan: da kanza
+  REPLACE  ...bu fırsatı hemen değerlendirdi
+      metin  : dymling
+      duyulan: dimling
+  REPLACE  ...yarım saat kadar sessizlik
+      metin  : olur
+      duyulan: olurdu
+  REPLACE  ...film bu satırlarla açılacaktı
+      metin  : det sjunde inseglet
+      duyulan: death junde in seglet
+  INSERT   ...u o sırada henüz
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...silahtarı jöns ü gunnar
+      metin  : björnstrand
+      duyulan: björnsrand
+  REPLACE  ...acıya bakan gezgin oyuncu
+      metin  : jof u
+      duyulan: joffe
+  REPLACE  ...te komedyen olarak tanınan
+      metin  : nils poppe
+      duyulan: poppa
+  REPLACE  ...mia yı genç bibi
+      metin  : andersson
+      duyulan: anderson
+  DELETE   ...ve saçları gizlendi başına
+      metin  : sıkı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...sahnesi için bergman stüdyodan
+      metin  : çıktı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i svecin güney ucundaki
+      metin  : skåne
+      duyulan: skone
+  REPLACE  ...karşısında ölüm durmaktadır antonius
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...kalma isteğinden fazlası vardı
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...verecek tek şey görmek
+      metin  : istiyordu
+      duyulan: durdu
+  REPLACE  ...böylece ertelemeye sorgulamaya dönüştü
+      metin  : film
+      duyulan: filmin
+  REPLACE  ...oyun kesik kesik sürer
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...kesik sürer block ve
+      metin  : jöns
+      duyulan: jones
+  REPLACE  ...çizmektedir ve bu karakter
+      metin  : täby
+      duyulan: tebih
+  REPLACE  ...albertus pictor dan başkası
+      metin  : değildir
+      duyulan: verir
+  REPLACE  ...ilham kaynağını yerleştirmişti ressam
+      metin  : jöns le
+      duyulan: jones ile
+  REPLACE  ...en sinsi anlarından yaşanır
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...döndüğünde rahip olmadığı anlaşılır
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...ün kendisine söylemiştir ama
+      metin  : şövalye
+      duyulan: chevalier
+  REPLACE  ...genç kızı yakılmaya götürmektedir
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...gözlerinde yalnızca dehşet vardır
+      metin  : jöns ün
+      duyulan: jones un
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 101 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: film-2026-10-15.duyulan.txt

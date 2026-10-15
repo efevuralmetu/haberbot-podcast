@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-15.mp3
+
+beklenen 1789 kelime | duyulan 1786 kelime | eşleşme %93.1
+sayı ifadesi: metinde 248, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...zamanlar atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  REPLACE  ...şehir kaldı yelkenli düşünün
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...rıhtımda bağıran hamallar burası
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...dan gelir rivayete göer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o günlerde koyda yerli
+      metin  : changolar
+      duyulan: çangolar
+  INSERT   ...kayıklarıyla dolaşıyordu yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...etti ama sömürge döneminin
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...kiliseden korsan baskınlarına karşı
+      metin  : tabyadan
+      duyulan: tabiyadan
+  REPLACE  ...her şeyi bağımsızlık değiştirdi
+      metin  : şili
+      duyulan: chilli de
+  REPLACE  ...sonra limanlarını dünyaya açtı
+      metin  : valparaíso pasifiğin
+      duyulan: valparaiso pasifin
+  REPLACE  ...burnu ndan ya da
+      metin  : macellan boğazı ndan geçen
+      duyulan: magellan boğazından
+  REPLACE  ...onarmak tayfasını dinlendirmek zorundaydı
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...evleri ve geride yükselen
+      metin  : and
+      duyulan: an
+  REPLACE  ...açtı bugün bile tepelerde
+      metin  : anglikan
+      duyulan: anglican
+  REPLACE  ...bile tepelerde anglikan ve
+      metin  : lüteriyen
+      duyulan: lüteryen
+  REPLACE  ...gazetesi el mercurio de
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...mercurio de valparaíso yani
+      metin  : valparaíso merkürü
+      duyulan: valparaiso mercur u
+  REPLACE  ...eski gazete olarak bilinir
+      metin  : valparaíso merkürü nün ilk
+      duyulan: valparaiso mercur unun
+  REPLACE  ...düzenli seferler başlattı rüzgara
+      metin  : bağlı yelkenlilerin
+      duyulan: belkenlilerin
+  REPLACE  ...gemi kumpanyası nın merkezi
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...burnu nu dolanıyor yolda
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...o kadar zenginleşti ki
+      metin  : pasifiğin
+      duyulan: pasifin
+  REPLACE  ...dar sahil düzlüğünde bankalar
+      metin  : ve gümrük
+      duyulan: ömrük
+  REPLACE  ...dünyayı birbirine bağlamak için
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...küçük kabinler şehrin ilk
+      metin  : füniküleri
+      duyulan: fünüküleri
+  REPLACE  ...kimi neredeyze dik uçurumu
+      metin  : aşıyordu
+      duyulan: açıyordu
+  REPLACE  ...kabinle yarı yolda karşılaşmak
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...ve bu kadar yoğun
+      metin  : ahşap
+      duyulan: yap
+  REPLACE  ...çıkan büyük yangından sonra
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...şili de sürer ve
+      metin  : hikayenin
+      duyulan: bu itfaiye nin
+  REPLACE  ...neden önemli olduğunu göreceğiz
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...kuzeyde orta amerika nın
+      metin  : dar kıstağında ancon
+      duyulan: darkıstağında ankon
+  REPLACE  ...adlı yük gemisi atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  REPLACE  ...işaretleri çok önce gelmişti
+      metin  : panama da
+      duyulan: te panamada
+  REPLACE  ...ama kanal bambaşka şeydi
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...trafiğin önemli bölümü de
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...da dünya savaşı da
+      metin  : başlamıştı
+      duyulan: geçmişti
+  REPLACE  ...büyük zenginlik kaynağı olan
+      metin  : güherçile
+      duyulan: gühercile
+  INSERT   ...üretimle değerini yitirmeye başladı
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...da bu yarayı derinleştirdi
+      metin  : valparaíso
+      duyulan: valparaiso
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 101 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: seyahat-2026-10-15.duyulan.txt

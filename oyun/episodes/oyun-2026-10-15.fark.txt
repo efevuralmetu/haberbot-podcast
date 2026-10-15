@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-15.mp3
+
+beklenen 1610 kelime | duyulan 1630 kelime | eşleşme %96.9
+sayı ifadesi: metinde 232, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: çiğki
+  REPLACE  ...baharında stockholm
+      metin  : de
+      duyulan: da
+  REPLACE  ...yıl sonra attığı tek
+      metin  : tivit
+      duyulan: tweet
+  INSERT   ...yaratıcısının adı içinde yoktu
+      metin  : (yok)
+      duyulan: çiğki
+  REPLACE  ...içinde yoktu baharında stockholm
+      metin  : de
+      duyulan: da
+  REPLACE  ...başka şeyle uğraşıyordu adı
+      metin  : markus
+      duyulan: marcus
+  REPLACE  ...aynı yılın nisan ayında
+      metin  : zach barth
+      duyulan: zagbart
+  REPLACE  ...sürümler ortalığa yayıldı ve
+      metin  : barth
+      duyulan: bart
+  REPLACE  ...emekleme çağındayken sahipsiz kalmıştı
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...bu fikrin içine sızdı
+      metin  : yeraltında
+      duyulan: yer
+  INSERT   ...içinde dolaşmanın keyfi mayıs
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...dolaşmanın keyfi mayıs ortalarında
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...ilk yorumlar meraklıydı ve
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...ve üretmek fiil oyun
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...büyüdükçe fiyat da yükseldi
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...notch geliştirme sürecini kişisel
+      metin  : blog
+      duyulan: blok
+  REPLACE  ...tam o ilk aylarda
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...hiç planlamadığı yaratık belirdi
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...düzeltip yoluna devam ederdi
+      metin  : notch
+      duyulan: noc
+  REPLACE  ...baktı ve bu garip
+      metin  : silueti
+      duyulan: silüeti
+  REPLACE  ...türkçede sinsi diye çevirebileceğimiz
+      metin  : ad
+      duyulan: at
+  INSERT   ...yürüyebilir sonra kenara çarpardınız
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...bazıları oraya yürüyerek ulaşmayı
+      metin  : hac
+      duyulan: haç
+  INSERT   ...ulaşmayı hac yolculuğuna çevirdi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...rosenfeld in sahne adıyla
+      metin  : cdört
+      duyulan: in
+  REPLACE  ...eski iş arkadaşı jakob
+      metin  : porsér
+      duyulan: porser
+  REPLACE  ...king den tanıdığı carl
+      metin  : manneh de
+      duyulan: manehde
+  REPLACE  ...katıldı şirketin adı mojang
+      metin  : dı
+      duyulan: tı
+  INSERT   ...henüz deneme aşamasındayken ocak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...konuşulan oyunlarından olmuştu kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...haber konusu olan figürdü
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yarı yorgunluk içinde mojang
+      metin  : daki
+      duyulan: taki
+  INSERT   ...süren görüşmelerin ardından eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...servetin aslan payı düştü
+      metin  : porsér
+      duyulan: porser
+  INSERT   ...sesler başka şey söylüyordu
+      metin  : (yok)
+      duyulan: tiki
+  INSERT   ...kesimden sert tepki aldı
+      metin  : (yok)
+      duyulan: tiki da
+  INSERT   ...inşa eden oyuncular çıktı
+      metin  : (yok)
+      duyulan: ki te
+  INSERT   ...çok satan oyunu oldu
+      metin  : (yok)
+      duyulan: diki
+  INSERT   ...hüzünlü suratı gördüğünde bilmeden
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...her zaman bildiği söylenemez
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-10-15.duyulan.txt
