@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-16.mp3
+
+beklenen 1686 kelime | duyulan 1674 kelime | eşleşme %94.6
+sayı ifadesi: metinde 234, duyulanda 172  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kıvrımlarından kağıt çıkardı kağıtta
+      metin  : beyit
+      duyulan: beyt
+  INSERT   ...değdirmeden söylenen beytin ilk
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...diye andığı vaiz ve
+      metin  : fakihti
+      duyulan: fakihdi
+  INSERT   ...oğlu sultan veled de
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ya yerleşti bahaeddin veled
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sırada anadolu da sarsılıyordu
+      metin  : kösedağ
+      duyulan: te köse dağı
+  REPLACE  ...i peşinden gönderip geri
+      metin  : getirtti
+      duyulan: getirdi
+  REPLACE  ...dönerken söylediği gazeller ve
+      metin  : rubailer
+      duyulan: rubaylar
+  REPLACE  ...doldurdu konya çarşısında döven
+      metin  : selahaddin
+      duyulan: celaleddin
+  REPLACE  ...nın ritmini kuyumcu dükkanındaki
+      metin  : çekiç
+      duyulan: çekit
+  REPLACE  ...çekiç seslerinde duyduğu söylenir
+      metin  : selahaddin
+      duyulan: celaleddin de
+  REPLACE  ...ama kalemi elinden bırakmış
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...elinde dolaşan kitabı görür
+      metin  : senai nin hadikatü l
+      duyulan: senayinin hadikatül
+  REPLACE  ...çıkarır ve uzatır kağıtta
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...kendi yapısıyla örtüşür o
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...şöyle açılır bişnev in
+      metin  : ney çün
+      duyulan: ne için
+  REPLACE  ...in ney çün şikayet
+      metin  : mi koned
+      duyulan: mikonet
+  REPLACE  ...koned ez cüdayiha hikayet
+      metin  : mi koned
+      duyulan: mikonet
+  REPLACE  ...hikayet mi koned yani
+      metin  : dinle
+      duyulan: dinne
+  REPLACE  ...meclisinde bazen gece boyunca
+      metin  : beyitler
+      duyulan: beytler
+  REPLACE  ...bilinçli seçimdir mesnevi aruzun
+      metin  : failatün failatün failün
+      duyulan: faylatun faylatun faylün
+  REPLACE  ...failün kalıbıyla yazılmıştır bu
+      metin  : attar ın
+      duyulan: atların
+  REPLACE  ...kafiye darlığına düşmeden binlerce
+      metin  : beyit
+      duyulan: beyt
+  INSERT   ...yılına denk gelen hicri
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...beyte ulaştı sarıktan çıkan
+      metin  : beyit
+      duyulan: beyt
+  INSERT   ...ömrün yetmediğidir mevlana aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tamamını tek ciltte özenli
+      metin  : nesih hatla
+      duyulan: nesihatla
+  REPLACE  ...hatla istinsah etti bu
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...okunarak düzeltildiği bilinir konya
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...yakın metin budur bu
+      metin  : nüshanın
+      duyulan: nüşanın
+  REPLACE  ...yeniden anlaşıldı i ngiliz
+      metin  : şarkiyatçı reynold
+      duyulan: şarkıyaççı raynolt
+  REPLACE  ...çalışmasının ilerleyen ciltlerinde konya
+      metin  : nüshasını
+      duyulan: nüşası nı
+  REPLACE  ...ele kopyalanırken metne eklenmiş
+      metin  : beyitler
+      duyulan: beytler
+  REPLACE  ...metne eklenmiş beyitler bu
+      metin  : nüsha
+      duyulan: nüşağ
+  REPLACE  ...mesnevi yi okumak ve
+      metin  : beyit beyit
+      duyulan: beyt beyt
+  REPLACE  ...smail ankaravi nin hazırladığı
+      metin  : şerhtir
+      duyulan: şerttir
+  REPLACE  ...yüzyılda mevlevi şair şeyh
+      metin  : galib
+      duyulan: galip
+  REPLACE  ...okurlara da açtı etkisi
+      metin  : türkçeyle
+      duyulan: türkçe ile
+  INSERT   ...unesco doğumunun yılı olan
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...vitrininde açık duran konya
+      metin  : nüshasının
+      duyulan: nüşasının
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: edebiyat-2026-10-16.duyulan.txt

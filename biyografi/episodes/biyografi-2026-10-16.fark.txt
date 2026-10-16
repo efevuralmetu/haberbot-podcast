@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-16.mp3
+
+beklenen 2988 kelime | duyulan 2991 kelime | eşleşme %95.1
+sayı ifadesi: metinde 468, duyulanda 286  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...limanında vapur fort sumter
+      metin  : in
+      duyulan: ın
+  REPLACE  ...kişi daha var güney
+      metin  : carolina
+      duyulan: karolayna
+  INSERT   ...konakların sıralandığı yer nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nisan bu konaklardan prince
+      metin  : sokağı ndaki mckee
+      duyulan: sokağındaki mackie
+  REPLACE  ...robert in sahibi henry
+      metin  : mckee
+      duyulan: mackey
+  REPLACE  ...kazandığı paranın büyük kısmı
+      metin  : mckee
+      duyulan: mackey
+  REPLACE  ...nın her kumsalını her
+      metin  : sığlığını
+      duyulan: sığılığını
+  REPLACE  ...kapattığını ezbeer biliyordu güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...yasalar köleye kılavuz kaptan
+      metin  : unvanı
+      duyulan: ünvanı
+  INSERT   ...başka yönden de değişti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...köle kadınla hannah jones
+      metin  : la
+      duyulan: ile
+  INSERT   ...önceki ilişkisinden kızları vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...elizabeth adını verdikleri kızı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...güvencesi yoktu sonra nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...savaşın parçası oldu gemi
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...subay vardı kaptan charles
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...geçirmiş kollarını göğsünde kavuşturup
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...rengi dışında her şeyiyle
+      metin  : relyea
+      duyulan: relia
+  INSERT   ...atlayacaklardı teslim olmak yoktu
+      metin  : (yok)
+      duyulan: don eki
+  REPLACE  ...konfederasyon bayrağını ve güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...bağlı başka geminin içinde
+      metin  : hannah
+      duyulan: hana
+  REPLACE  ...kaptanın hasır şapkasını taktı
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...tuğla yapı göründü fort
+      metin  : sumter
+      duyulan: sompter
+  REPLACE  ...göründü fort sumter yani
+      metin  : sumter
+      duyulan: sompter
+  REPLACE  ...gemiyi menzilinde tutuyordu saat
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...şans dilemişti çiftlik beyi
+      metin  : sumter
+      duyulan: sompter
+  REPLACE  ...yerine teslimiyet işareti olarak
+      metin  : hannah
+      duyulan: hana
+  REPLACE  ...çıkan subayı selamlayıp birleşik
+      metin  : devletler e
+      duyulan: devletleer
+  REPLACE  ...terk etmesinin hesabını soruyordu
+      metin  : relyea
+      duyulan: relia
+  REPLACE  ...süer sonra stanton güney
+      metin  : carolina
+      duyulan: karolayna
+  INSERT   ...kaydedilir en ağırlarından nisan
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu kez kılavuzuydu aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...patlıyordu geminin beyaz kaptanı
+      metin  : paniğe
+      duyulan: pani ye
+  DELETE   ...aldı ve çiftlik beyi
+      metin  : ni
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bölgedeki komutanı general quincy
+      metin  : gillmoer
+      duyulan: gilmoer
+  INSERT   ...kaptanlık ırk ayrımcılığından korumadı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yürüyen kampanyaya güç kattı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaklaşırken charleston düştü nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kasabanın beyaz sahipleri kaçmıştı
+      metin  : ödenmeyen
+      duyulan: lötlenmeyen
+  REPLACE  ...doğduğu kulübenin önündeki evi
+      metin  : mckee
+      duyulan: mackey
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 43
+
+duyulan metin: biyografi-2026-10-16.duyulan.txt

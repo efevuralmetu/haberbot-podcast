@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-16.mp3
+
+beklenen 1851 kelime | duyulan 1840 kelime | eşleşme %94.0
+sayı ifadesi: metinde 205, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dünyanın ortak hafızasına yerleştirdi
+      metin  : uppsala
+      duyulan: upsala
+  REPLACE  ...oturuyor kürsüdeki vaiz babası
+      metin  : lutherci
+      duyulan: lüterci
+  REPLACE  ...vaiz babası lutherci rahip
+      metin  : erik
+      duyulan: eric
+  REPLACE  ...resimlerin en ünlüsü stockholm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ünlüsü stockholm ün kuzeyindeki
+      metin  : täby kilisesi ndedir
+      duyulan: tebük kilisesindedir
+  REPLACE  ...biçimde tiyatro okulundan geçti
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...tek perdelik oyun yazdı
+      metin  : trämålning
+      duyulan: tremolning
+  REPLACE  ...büyük yapım şirketi svensk
+      metin  : filmindustri ye
+      duyulan: film indüstriye
+  REPLACE  ...şirketin başındaki carl anders
+      metin  : dymling
+      duyulan: dimling
+  REPLACE  ...almış ama gişede zorlanmıştı
+      metin  : dymling
+      duyulan: dimling
+  REPLACE  ...durumu komedi değiştirdi bergman
+      metin  : sommarnattens leende
+      duyulan: te son marna tensleyen de
+  REPLACE  ...aşk komedisi çekti film
+      metin  : cannes a
+      duyulan: da kanza
+  REPLACE  ...bu fırsatı hemen değerlendirdi
+      metin  : dymling
+      duyulan: dimling
+  REPLACE  ...film bu satırlarla açılacaktı
+      metin  : det sjunde
+      duyulan: deç şunde
+  REPLACE  ...tiyatrodan tanıdığı oyunculardan oluşuyordu
+      metin  : şövalye
+      duyulan: şövalya
+  REPLACE  ...oyunculardan oluşuyordu şövalye antonius
+      metin  : block u
+      duyulan: bloku
+  INSERT   ...u o sırada henüz
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...ve sert max von
+      metin  : sydow
+      duyulan: sidov
+  REPLACE  ...acıya bakan gezgin oyuncu
+      metin  : jof u
+      duyulan: cofu
+  REPLACE  ...komedyen olarak tanınan nils
+      metin  : poppe
+      duyulan: pope
+  REPLACE  ...stüdyodan çıktı ve i
+      metin  : svecin
+      duyulan: sveç in
+  REPLACE  ...i svecin güney ucundaki
+      metin  : skåne
+      duyulan: skone
+  REPLACE  ...karşısında ölüm durmaktadır antonius
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...kalma isteğinden fazlası vardı
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...oyun kesik kesik sürer
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...kesik sürer block ve
+      metin  : jöns
+      duyulan: jones
+  REPLACE  ...çizmektedir ve bu karakter
+      metin  : täby
+      duyulan: tebü
+  REPLACE  ...ilham kaynağını yerleştirmişti ressam
+      metin  : jöns le
+      duyulan: jones ile
+  REPLACE  ...en sinsi anlarından yaşanır
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...döndüğünde rahip olmadığı anlaşılır
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...genç kızı yakılmaya götürmektedir
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...gözlerinde yalnızca dehşet vardır
+      metin  : jöns ün
+      duyulan: jones un
+  INSERT   ...bu karanlığın ortasında bergman
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...ve mia şövalyeye yaban
+      metin  : çileği ile
+      duyulan: çileğiyle
+  REPLACE  ...büyük sorulardan söz etmez
+      metin  : block
+      duyulan: budok
+  REPLACE  ...tek şey bu küçük
+      metin  : insanca
+      duyulan: insancı
+  REPLACE  ...oyunu son hamleleer geldiğinde
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...mia bebekleriyle birlikte uzaklaşır
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...kurtarmak ölüm kalan herkesi
+      metin  : block
+      duyulan: bloch
+  REPLACE  ...kara pelerinli konuk belirir
+      metin  : block
+      duyulan: bloch
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 81
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: film-2026-10-16.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-16.mp3
+
+beklenen 1789 kelime | duyulan 1804 kelime | eşleşme %94.0
+sayı ifadesi: metinde 248, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...zamanlar atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  REPLACE  ...şehir kaldı yelkenli düşünün
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...boyunu bulur gemi bu
+      metin  : geçidi
+      duyulan: geçide
+  REPLACE  ...rıhtımda bağıran hamallar burası
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...dan gelir rivayete göer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o günlerde koyda yerli
+      metin  : changolar
+      duyulan: çangolar
+  INSERT   ...kayıklarıyla dolaşıyordu yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...etti ama sömürge döneminin
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...kiliseden korsan baskınlarına karşı
+      metin  : tabyadan
+      duyulan: tabiadan
+  REPLACE  ...her şeyi bağımsızlık değiştirdi
+      metin  : şili
+      duyulan: çili de
+  REPLACE  ...sonra limanlarını dünyaya açtı
+      metin  : valparaíso pasifiğin
+      duyulan: valparaiso pasifi in
+  REPLACE  ...burnu ndan ya da
+      metin  : macellan
+      duyulan: magellan
+  REPLACE  ...onarmak tayfasını dinlendirmek zorundaydı
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...bu limana uğrayanlar arasındaydı
+      metin  : beagle
+      duyulan: bigel te
+  REPLACE  ...evleri ve geride yükselen
+      metin  : and
+      duyulan: an
+  REPLACE  ...açtı bugün bile tepelerde
+      metin  : anglikan
+      duyulan: anglican
+  REPLACE  ...bile tepelerde anglikan ve
+      metin  : lüteriyen
+      duyulan: lüteryen
+  INSERT   ...yan yana durur şehrin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gazetesi el mercurio de
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...mercurio de valparaíso yani
+      metin  : valparaíso merkürü
+      duyulan: valparaiso mercurio
+  REPLACE  ...eski gazete olarak bilinir
+      metin  : valparaíso merkürü nün
+      duyulan: valparaiso mercurio nun
+  INSERT   ...şehir okyanusla nefes alıyordu
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...gemi kumpanyası nın merkezi
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...denize bakarak durur sonra
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...burnu nu dolanıyor yolda
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...o kadar zenginleşti ki
+      metin  : pasifiğin
+      duyulan: pasifin
+  REPLACE  ...dünyayı birbirine bağlamak için
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...küçük kabinler şehrin ilk
+      metin  : füniküleri
+      duyulan: fünüküleri te
+  REPLACE  ...ve sonraki yıllarda sayıları
+      metin  : kadara
+      duyulan: kadar
+  REPLACE  ...kabinle yarı yolda karşılaşmak
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...ateş her zaman yakınındadır
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...çıkan büyük yangından sonra
+      metin  : valparaíso
+      duyulan: de valparaiso
+  REPLACE  ...neden önemli olduğunu göreceğiz
+      metin  : valparaíso
+      duyulan: valparaiso
+  INSERT   ...o gece şehri büyüklüğü
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kuzeyde orta amerika nın
+      metin  : dar kıstağında ancon
+      duyulan: darkest dağı nda ankon
+  REPLACE  ...adlı yük gemisi atlantik
+      metin  : pasifiğe
+      duyulan: pasifi ye
+  INSERT   ...işaretleri çok önce gelmişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...önce gelmişti panama da
+      metin  : kıstağı
+      duyulan: kıstığı
+  REPLACE  ...ama kanal bambaşka şeydi
+      metin  : valparaíso
+      duyulan: valparaiso
+  REPLACE  ...trafiğin önemli bölümü de
+      metin  : valparaíso
+      duyulan: valparaiso
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: seyahat-2026-10-16.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-15.mp3
+
+beklenen 1445 kelime | duyulan 1445 kelime | eşleşme %94.7
+sayı ifadesi: metinde 218, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...endeksi kospi gün içinde
+      metin  : (yok)
+      duyulan: yı
+  REPLACE  ...aynı saatlerde körfez de
+      metin  : husilerin
+      duyulan: hussilerin
+  REPLACE  ...gününe girdi yemen deki
+      metin  : husiler
+      duyulan: hussiler
+  REPLACE  ...başkent riyad daki kral
+      metin  : halid
+      duyulan: halit
+  INSERT   ...yaralılardan ölümüyle can kaybı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...sonu dammam daki kral
+      metin  : fahd
+      duyulan: faht
+  REPLACE  ...alındı suudi arabistan ize
+      metin  : san a ya
+      duyulan: sanayi
+  REPLACE  ...kimliği belirsiz mermiyle vuruldu
+      metin  : umman
+      duyulan: uman
+  REPLACE  ...vuruldu umman açıklarında ize
+      metin  : nikaragua
+      duyulan: nicaragua
+  REPLACE  ...konseyi genel sekreteri muhsin
+      metin  : rızai
+      duyulan: rızaik
+  REPLACE  ...arasında enerji tesislerini kapsayan
+      metin  : ateşkes
+      duyulan: ateşkez
+  REPLACE  ...duyurdu ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelenski
+  REPLACE  ...geleceğini belirsizleştiriyor hafta sonu
+      metin  : zaporijya
+      duyulan: zaporizya
+  REPLACE  ...sözcüsü olarak atadığı katie
+      metin  : zacharia
+      duyulan: zakaria
+  REPLACE  ...etmesi için abd nezdinde
+      metin  : lobi
+      duyulan: lobby
+  REPLACE  ...yöneltiliyor filistin devlet başkanı
+      metin  : mahmud
+      duyulan: mahmut
+  INSERT   ...deki koşulları gerekçe göstererek
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...yıllık gelirinin eylül sonu
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...iş ortaklıklarından elde edilen
+      metin  : brüt
+      duyulan: blüt
+  REPLACE  ...etkinliği düzenleyecek etkinlik türkiye
+      metin  : saatiyle
+      duyulan: saati ile de
+  REPLACE  ...mini ile güncellenmiş apple
+      metin  : tv nin de
+      duyulan: television ın da
+  INSERT   ...beyaz saray geçen hafta
+      metin  : (yok)
+      duyulan: bu
+  REPLACE  ...amd ve dolarla openai
+      metin  : üstlendi
+      duyulan: üstendi
+  REPLACE  ...kapanışına yöneldi tayvan da
+      metin  : tsmc
+      duyulan: tsms
+  REPLACE  ...abd de pazartesi teknoloji
+      metin  : esenpi
+      duyulan: ün
+  INSERT   ...kaybetti ancak endeksteki sektörden
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...endeksi sabah saatlerinde yaklaşık
+      metin  : yükselişle
+      duyulan: yükselişte
+  REPLACE  ...toplantısı nda konuşacak mhp
+      metin  : dem
+      duyulan: delawaer m
+  REPLACE  ...ve milletvekili temmuz ayında
+      metin  : chp
+      duyulan: scp
+  REPLACE  ...partisi konumuna geçerken chp
+      metin  : milletvekiliyle meclis teki
+      duyulan: milletvekili ile meclisteki
+  REPLACE  ...erdoğan ilgili kanun teklifi
+      metin  : meclis
+      duyulan: meclisten
+  REPLACE  ...i zmir milletvekili ümit
+      metin  : özlale
+      duyulan: özdale
+  REPLACE  ...nun gözaltına alınması sürecinde
+      metin  : saraçhane de
+      duyulan: saracanede
+  REPLACE  ...yerine yenişehir de çağdaş
+      metin  : dutlu
+      duyulan: tutlu
+  REPLACE  ...dutlu mezitli de turgut
+      metin  : selağzı
+      duyulan: selazı
+  REPLACE  ...bugün yapılacak manisa nın
+      metin  : akhisar
+      duyulan: akisar
+  REPLACE  ...ilçesinde pazar günü tur
+      metin  : otobüsü ile kereste
+      duyulan: otobüsüyle keres te
+  INSERT   ...sürdüğü bildiriliyor bugün saat
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...bildiriliyor bugün saat türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bakanı ömer bolat ize
+      metin  : brüksel
+      duyulan: bruksel
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: gundem-2026-10-15.duyulan.txt
