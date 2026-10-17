@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-16.mp3
+
+beklenen 1445 kelime | duyulan 1458 kelime | eşleşme %93.8
+sayı ifadesi: metinde 218, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu sabah asya piyasalarını
+      metin  : sarstı
+      duyulan: sarsıtı
+  INSERT   ...endeksi kospi gün içinde
+      metin  : (yok)
+      duyulan: yı
+  INSERT   ...durumunda karşılık vereceklerini açıkladı
+      metin  : (yok)
+      duyulan: nerco
+  INSERT   ...yaralılardan ölümüyle can kaybı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kaybı çıktı hafta sonu
+      metin  : dammam
+      duyulan: damvam
+  REPLACE  ...alındı suudi arabistan ize
+      metin  : san
+      duyulan: sanay
+  DELETE   ...arabistan ize san a
+      metin  : ya
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...vuruldu umman açıklarında ize
+      metin  : nikaragua
+      duyulan: nicaragua
+  REPLACE  ...konseyi genel sekreteri muhsin
+      metin  : rızai
+      duyulan: rıza yı
+  REPLACE  ...arasında enerji tesislerini kapsayan
+      metin  : ateşkes
+      duyulan: ateşkez
+  REPLACE  ...duyurdu ukrayna devlet başkanı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky
+  REPLACE  ...geleceğini belirsizleştiriyor hafta sonu
+      metin  : zaporijya
+      duyulan: zaporica
+  REPLACE  ...saray sözcüsü olarak atadığı
+      metin  : katie zacharia
+      duyulan: kate zakkari ye
+  REPLACE  ...yöneltiliyor filistin devlet başkanı
+      metin  : mahmud abbas
+      duyulan: mahmut abbast
+  INSERT   ...deki koşulları gerekçe göstererek
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...konu yapay zeka şirketlerinin
+      metin  : gelirleriyle
+      duyulan: gelirleri ile
+  REPLACE  ...yıllık gelirinin eylül sonu
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...etkinliği düzenleyecek etkinlik türkiye
+      metin  : saatiyle
+      duyulan: saati ile de
+  REPLACE  ...mini ile güncellenmiş apple
+      metin  : tv nin de
+      duyulan: televizyonun da
+  REPLACE  ...amd ve dolarla openai
+      metin  : üstlendi
+      duyulan: üstendi
+  REPLACE  ...openai üstlendi microsoft un
+      metin  : ceo su
+      duyulan: siyosu
+  REPLACE  ...tsmc de düşüş yaşadı
+      metin  : abd
+      duyulan: avd
+  REPLACE  ...abd de pazartesi teknoloji
+      metin  : esenpi
+      duyulan: s p ün
+  INSERT   ...kaybetti ancak endeksteki sektörden
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...endeksi sabah saatlerinde yaklaşık
+      metin  : yükselişle
+      duyulan: yükselişte
+  REPLACE  ...yükselişle puanın üzerine çıktı
+      metin  : emtia
+      duyulan: emt ya
+  REPLACE  ...toplantısı nda konuşacak mhp
+      metin  : dem
+      duyulan: delawaer m
+  REPLACE  ...partisi konumuna geçerken chp
+      metin  : milletvekiliyle meclis teki
+      duyulan: milletvekili ile meclisteki
+  REPLACE  ...erdoğan ilgili kanun teklifi
+      metin  : meclis
+      duyulan: meclisten
+  REPLACE  ...i zmir milletvekili ümit
+      metin  : özlale
+      duyulan: özdale
+  REPLACE  ...yılmaz da iddiaları itibar
+      metin  : suikastı
+      duyulan: suikasta
+  REPLACE  ...nun gözaltına alınması sürecinde
+      metin  : saraçhane
+      duyulan: saracane
+  REPLACE  ...yerine yenişehir de çağdaş
+      metin  : dutlu mezitli de
+      duyulan: tutlu mezittide
+  REPLACE  ...dutlu mezitli de turgut
+      metin  : selağzı başkanvekili
+      duyulan: selazı başkan vekili
+  REPLACE  ...bugün yapılacak manisa nın
+      metin  : akhisar
+      duyulan: aksar
+  REPLACE  ...ilçesinde pazar günü tur
+      metin  : otobüsü ile kereste
+      duyulan: otobüsüyle keresle
+  INSERT   ...sürdüğü bildiriliyor bugün saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bakanı ömer bolat ize
+      metin  : brüksel
+      duyulan: bruksel
+  REPLACE  ...ve abd borsalarına nasıl
+      metin  : yansıyacağı
+      duyulan: yansıyacak
+  INSERT   ...sporda galatasaray bu akşam
+      metin  : (yok)
+      duyulan: de
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-10-16.duyulan.txt

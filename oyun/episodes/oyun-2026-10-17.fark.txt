@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-17.mp3
+
+beklenen 1722 kelime | duyulan 1748 kelime | eşleşme %94.0
+sayı ifadesi: metinde 281, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kağıt hamuruyla uğraşıyor adı
+      metin  : fusaciro yamauçi
+      duyulan: fusachiro yamauchi
+  REPLACE  ...avuç içine sığacak küçük
+      metin  : dikdörtgenleer
+      duyulan: dikdört yenleer
+  REPLACE  ...yani çiçek kartları deniyor
+      metin  : fusaciro
+      duyulan: fusachiro
+  INSERT   ...deniyor fusaciro nun eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...atölyenin adı ize nintendo
+      metin  : koppai
+      duyulan: kopay
+  INSERT   ...japonya ya gelişi bundan
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...yanaşan portekizli tüccarlara dayanıyor
+      metin  : japonca
+      duyulan: japonya
+  REPLACE  ...karuta sözcüğü bile portekizce
+      metin  : carta
+      duyulan: karta
+  REPLACE  ...geliyor ülke yüzyılın yarısında
+      metin  : meyci
+      duyulan: meiji
+  REPLACE  ...yasakları da gevşedi ve
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...yasal olarak satılmaya başladı
+      metin  : fusaciro
+      duyulan: fusachiro
+  REPLACE  ...gecede onlarca deste tüketebiliyordu
+      metin  : fusaciro
+      duyulan: fusachiro
+  REPLACE  ...başka kart oyunu olan
+      metin  : oyço kabu da
+      duyulan: oicho kabuda
+  INSERT   ...kartların toplamının son hanesini
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...toplam eder son hane
+      metin  : (yok)
+      duyulan: dır
+  REPLACE  ...bulmak zor atölye büyüdü
+      metin  : fusaciro
+      duyulan: fusa chiro
+  REPLACE  ...en ünlü hanafuda markası
+      metin  : daitoryo
+      duyulan: daitorio
+  INSERT   ...napolyon un portresi vardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sanat yarı sanayi kurumuydu
+      metin  : fusaciro
+      duyulan: fusa chiro
+  REPLACE  ...evlat edindi ve damadı
+      metin  : yamauçi
+      duyulan: yamauchi
+  INSERT   ...yamauçi soyadını aldı sekiryo
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sekiryo şirketin başına geçti
+      metin  : fusaciro
+      duyulan: fusa chiro
+  INSERT   ...başına geçti fusaciro ize
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...atölyesini modern şirkete dönüştürdü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dönüştürdü şirketi yeniden yapılandırdı
+      metin  : otuzlarda
+      duyulan: larda
+  INSERT   ...sonra hastane odasından gelecekti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hastane odasından gelecekti sekiryo
+      metin  : yamauçi
+      duyulan: yamauchi
+  REPLACE  ...devredebileceği tek kişi torunuydu
+      metin  : hiroşi yamauçi hiroşi
+      duyulan: hiroshi yamauchi hiroshi
+  REPLACE  ...sekiryo için seçenek kalmamıştı
+      metin  : hiroşi
+      duyulan: hiroshi
+  REPLACE  ...ve kyoto ya döndü
+      metin  : hiroşi
+      duyulan: hiroshi
+  REPLACE  ...süer içinde greve gitti
+      metin  : hiroşi
+      duyulan: hiroshi
+  INSERT   ...adımları cesur ve başarılıydı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kağıdı şirketi olarak değiştirdi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...başta temkinliydi asıl sıçrama
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...temkinliydi asıl sıçrama geldi
+      metin  : hiroşi
+      duyulan: hiroshi
+  REPLACE  ...bu noktada başladı ama
+      metin  : hiroşi
+      duyulan: hiroshi
+  INSERT   ...aklını kurcalayan an vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...states playing card company
+      metin  : yi
+      duyulan: i
+  INSERT   ...oyun kağıdı gün yetmeyecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...her şey olabilirdi ve
+      metin  : hiroşi
+      duyulan: hiroshi
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 64 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: oyun-2026-10-17.duyulan.txt

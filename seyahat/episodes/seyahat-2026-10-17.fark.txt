@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-17.mp3
+
+beklenen 2237 kelime | duyulan 2236 kelime | eşleşme %93.3
+sayı ifadesi: metinde 299, duyulanda 220  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...zarfa yapıştırılır unutulur ama
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...kimi baklava biçimindeydi üzerlerinde
+      metin  : (yok)
+      duyulan: nala
+  DELETE   ...gösteremeyeceği ülkenin adı yazıyordu
+      metin  : tannu tuva
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve bu noktayı işaretlemiş
+      metin  : coğrafyacılar
+      duyulan: goğrafyacılar
+  REPLACE  ...biçiminde süsler geyik figürleri
+      metin  : taneleriyle
+      duyulan: taneleri ile
+  REPLACE  ...taşların üzerinde eski türk
+      metin  : harfleriyle
+      duyulan: harfleri ile
+  REPLACE  ...ve çoğu mezar taşıdır
+      metin  : ölen
+      duyulan: ölüen
+  REPLACE  ...dan gelen dinlediğinde tek
+      metin  : tük
+      duyulan: türk
+  REPLACE  ...ve kilometrelerin örttüğü akrabalıktır
+      metin  : tuva nın
+      duyulan: tuvağının
+  REPLACE  ...kırgızlar geldi sonra moğollar
+      metin  : teer höl gölünün
+      duyulan: terehöl gölü nün
+  INSERT   ...hala tartışılır yüzyılın ortasından
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kadar bölge çin deki
+      metin  : çing hanedanının
+      duyulan: çin hanedanı nın
+  REPLACE  ...ve dış dünya burayı
+      metin  : urianhay
+      duyulan: uryanhai
+  REPLACE  ...burayı urianhay diye tanıyordu
+      metin  : çing
+      duyulan: çin
+  INSERT   ...yıkılınca boşluk doğdu rusya
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...savaşı nın karmaşası geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anayasası ordusu parası ve
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...moskova nın yörüngesinde yaşadı
+      metin  : yirmilerin
+      duyulan: lerin
+  INSERT   ...şamanları susturmak tuvaca için
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...için latin harflerine dayanan
+      metin  : alfabe
+      duyulan: alfebe
+  INSERT   ...harflerine dayanan alfabe hazırlandı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...i lk tuva pulları
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...lk tuva pulları çıktı
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...önce özerk bölge de
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atlılar çadırlar güreşçiler hala
+      metin  : oradaydı
+      duyulan: oraydı
+  REPLACE  ...kadınların mutfak eşyası erkeklerin
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...ve mevsim değişince başka
+      metin  : otlağa
+      duyulan: otlığa
+  REPLACE  ...saygı israf etmemekle gösterilir
+      metin  : ama tuva yı
+      duyulan: çayı
+  DELETE   ...sonra o sesin üstünde
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...boğazdan çıkmaktadır buna tuvaca
+      metin  : höömey
+      duyulan: hövmey
+  REPLACE  ...ses yani armonik barındırır
+      metin  : höömey
+      duyulan: hövmey
+  REPLACE  ...dağdan dağa atlar tek
+      metin  : höömey
+      duyulan: hövmey
+  REPLACE  ...ya da ıslık gibidir
+      metin  : kargıraa
+      duyulan: kargırağı
+  REPLACE  ...akan suyun yuvarlanışına benzer
+      metin  : ezengileer
+      duyulan: ezengiler
+  INSERT   ...adını üzengiden alır atın
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...eder bu son ayrıntı
+      metin  : höömeyin
+      duyulan: hövmey in
+  REPLACE  ...özünü anlamak için anahtar
+      metin  : tuva müziğini yıllarca
+      duyulan: sadece
+  REPLACE  ...müziğini yıllarca inceleyen etnomüzikolog
+      metin  : theodoer
+      duyulan: theodor
+  REPLACE  ...levin tuvalı müzikolog valentina
+      metin  : süzükei
+      duyulan: süzükey
+  REPLACE  ...de ruhuna saygısını gösterir
+      metin  : bazı yaşlı
+      duyulan: en güzel
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: seyahat-2026-10-17.duyulan.txt

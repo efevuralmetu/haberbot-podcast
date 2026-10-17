@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-17.mp3
+
+beklenen 2606 kelime | duyulan 2613 kelime | eşleşme %95.2
+sayı ifadesi: metinde 322, duyulanda 221  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıllar sonra kendini anlatırken
+      metin  : kreol
+      duyulan: creole
+  REPLACE  ...gururla ekleyecekti o sırada
+      metin  : jamaika
+      duyulan: jamaica
+  DELETE   ...vardı ama kendi hayatını
+      metin  : kurmak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mary nin annesi jamaikalıların
+      metin  : doktoress
+      duyulan: doktor s
+  DELETE   ...merak yatıyordu hastalık neydi
+      metin  : beden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...seyahatine yanında satmak için
+      metin  : jamaika
+      duyulan: jamaica
+  REPLACE  ...bahamalar da haiti de
+      metin  : küba
+      duyulan: cuba
+  INSERT   ...kullandığını öğrendi aklında tuttu
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...öğrendi aklında tuttu kasım
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...de pansiyondaki hastalara baktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yeniden kurdu ertesi yıl
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kurdu ertesi yıl edwin
+      metin  : öldü
+      duyulan: doğdu
+  REPLACE  ...mary seacole artık yalnızdı
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...kadın değildi işi vardı
+      metin  : jamaika
+      duyulan: de jamaica
+  REPLACE  ...işi vardı jamaika yı
+      metin  : kolera
+      duyulan: cholera
+  REPLACE  ...en çok aranan şifacılarından
+      metin  : olmuştu
+      duyulan: oldu
+  INSERT   ...geçmeden bambaşka coğrafyada sınanacaktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve kanunsuzluktan ibaretti edward
+      metin  : çagres
+      duyulan: chagres
+  REPLACE  ...edward çagres nehri kıyısındaki
+      metin  : kruses
+      duyulan: cruces
+  REPLACE  ...katırcılar mary daha yerleşmeden
+      metin  : kolera
+      duyulan: cholera
+  DELETE   ...sıcak tutmaya kaybettikleri sıvıyı
+      metin  : yerine
+      duyulan: (YOK — atlanmış)
+  INSERT   ...zararlı olduğunu biliyoruz ama
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en saygın hastanelerinde bile
+      metin  : kolera
+      duyulan: cholera
+  REPLACE  ...bundan iyisi yoktu mary
+      metin  : yi
+      duyulan: i
+  DELETE   ...kimseye haber vermeden küçük
+      metin  : bedeni
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kendi eliyle açtı ölümün
+      metin  : içerden
+      duyulan: içeriden
+  REPLACE  ...nasıl göründüğünü görmek istiyordu
+      metin  : hatıratında
+      duyulan: hatıraatında
+  REPLACE  ...kapıyı tek başına ve
+      metin  : gizlice
+      duyulan: iyice
+  REPLACE  ...ayrımını da getirmişlerdi mary
+      metin  : hatıratında
+      duyulan: hatıraatında
+  REPLACE  ...bu sözcüklerle verilmiş küçük
+      metin  : ama
+      duyulan: ve
+  REPLACE  ...küçük ama net mücadeleydi
+      metin  : jamaika
+      duyulan: te jamaica
+  REPLACE  ...döndüğünde ada bu kez
+      metin  : sarıhummayla
+      duyulan: sarı humayla
+  INSERT   ...istiyordu i şte orada
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nin tanıdığı isimler vardı
+      metin  : jamaika
+      duyulan: jamaica
+  REPLACE  ...jamaika da yıllarca baktığı
+      metin  : pansiyonda
+      duyulan: pansyonda
+  DELETE   ...baktığı pansiyonda ateşlerini düşürdüğü
+      metin  : alayların
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ayak bastı yaşındaydı ceplerinde
+      metin  : jamaika
+      duyulan: jamaica
+  REPLACE  ...ceplerinde jamaika dan ve
+      metin  : panama
+      duyulan: london
+  REPLACE  ...muhabiri william howard russel
+      metin  : cepheden
+      duyulan: peden
+  DELETE   ...bu ilk grup çoktan
+      metin  : yola
+      duyulan: (YOK — atlanmış)
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: biyografi-2026-10-17.duyulan.txt

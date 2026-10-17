@@ -1,0 +1,61 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-17.mp3
+
+beklenen 1507 kelime | duyulan 1505 kelime | eşleşme %98.3
+sayı ifadesi: metinde 149, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...devlet başkanı dwight eisenhower
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...aktardı sözün özü şuydu
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yaklaşan en çarpıcı çalışmalardan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çarpıcı çalışmalardan yayımlandı meng
+      metin  : cu
+      duyulan: chiu
+  REPLACE  ...yang yang ve christopher
+      metin  : hsee
+      duyulan: hase
+  REPLACE  ...olacak gelecek ay geldiğinde
+      metin  : tabii
+      duyulan: tabi
+  INSERT   ...küçük aciliyeti henüz göremeyiz
+      metin  : (yok)
+      duyulan: en
+  REPLACE  ...dan ariely ve klaus
+      metin  : vertenbroh
+      duyulan: werthem roh de
+  REPLACE  ...dönem boyunca eşit aralıklarla
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...hafta cuma ilk bölümün
+      metin  : taslağı
+      duyulan: tasla
+  INSERT   ...ve daphna oyserman ın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...an bağlamak psikolog peter
+      metin  : golvitser
+      duyulan: golvitzer
+  REPLACE  ...son tarihin bedeli olması
+      metin  : ariely
+      duyulan: ariel i
+  REPLACE  ...bedeli olması ariely ve
+      metin  : vertenbroh
+      duyulan: verthenbroh
+  REPLACE  ...cuma akşamı sana ilk
+      metin  : taslağı
+      duyulan: taslığa
+  REPLACE  ...hangi noktada olduğunu bileceksiniz
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 13 kelime | duyulup metinde OLMAYAN: 18
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: psikoloji-2026-10-17.duyulan.txt

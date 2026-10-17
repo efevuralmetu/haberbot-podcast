@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-17.mp3
+
+beklenen 3453 kelime | duyulan 3421 kelime | eşleşme %12.6
+sayı ifadesi: metinde 313, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...spears and hide shields
+      metin  : aralık sabahı tugela nehri nin aşağı geçidinde kıyıya yakın yaşlı yaban inciri ağacının gölgesine heyet oturdu yanda natal kolonisinin i ngiliz memurları karşılarında da zulu kralı cetshwayo nun gönderdiği ileri gelenler vardı sıcak bastırıyordu nehir bulanık akıyordu toplantı zulular açısından umut verici başladı önce aylardır beklenen kararı sınır komisyonunun raporunu okudular zululuk ile transvaal arasındaki tartışmalı topraklar meselesinde komisyon büyük ölçüde zuluları haklı bulmuştu kralın adamları bunu duyunca rahatladılar öğleden sonra belge çıkarıldı bunu natal ın yerli işlerinden sorumlu ailesinin üyesi olan john shepstone okudu ve tercümanlar cümle cümle çevirdi metin okundukça ağacın altındaki hava değişti bu ültimatomdu ve şartları krallığın kendi eliyle kendini dağıtmasını istiyordu bazı talepler yakın tarihli olaylara dayanıyordu aynı yılın temmuzunda sınır bölgesinin güçlü yöneticisi sihayo nun karısı natal tarafına kaçmıştı sihayo nun oğulları başlarında mehlokazulu olmak üzeer nehri geçip kadınları yakalamış geri götürmüş ve öldürmüştü i ngilizler bu kardeşlerin teslim edilmesini ve sığır olarak ödenecek para cezası istiyordu bunlar için tanınan süer gündü asıl ağır olan ize geri kalan maddelerdi kral zulu ordusunu ayakta tutan alay sistemini dağıtacaktı delikanlılar kralın izni beklenmeden evlenebilecekti ülkeye i ngiliz temsilcisi yerleşecek misyonerler serbestçe çalışabilecekti toplam süer gündü bu maddelerin ne anlama geldiğini kavramak için
+      duyulan: the afternoon of january the sky over southern africa went dark a solar eclipse cast its shadow over a british camp at the foot of a sphinx shaped hil a solar eclipse cast its shadow over a british camp at the foot of a sphinx shaped hil the sky over southern africa went dark a solar eclipse cast its shadow over a british camp at the foot of a sphinx shaped hil the afternoon of january the sky over southern africa went dark the sky over southern africa went dark the sky over southern africa went dark a solar eclipse cast its shadow over a british camp at the foot of a sphinx shaped hil the sky over southern africa went dark the sky over southern africa went dark the sky over southern africa went dark topland sura gundu bumad delerinne annamagaldinne kavramakichin
+  REPLACE  ...kavramak için zulu toplumunun
+      metin  : nasıl işlediğini bilmek gerekir genç erkekler yaşıtlarıyla birlikte amabutho denen
+      duyulan: nasal ishle dinibilmekgerekir janchar keklar yashitlari lebirlikte amabuto denan
+  REPLACE  ...birlikte amabutho denen alaylara
+      metin  : yazılırdı bu
+      duyulan: yazilarda bo
+  REPLACE  ...askeri hem de devletin
+      metin  : iş gücüydü kralın tarlalarını sürer sığırlarını güder savaşta
+      duyulan: ishgujuudu kuralun tar lalarana surar sur larana gudar savashta
+  REPLACE  ...güder savaşta ize ordunun
+      metin  : bel kemiğini oluştururdu
+      duyulan: balke min olu strudu
+  REPLACE  ...bel kemiğini oluştururdu evlilik
+      metin  : izni bütün
+      duyulan: isni butun
+  REPLACE  ...evlilik izni bütün alaya
+      metin  : kral tarafından verilirdi
+      duyulan: kraltar fandan virlirde
+  REPLACE  ...verilirdi yani alay sistemini
+      metin  : kaldırmak yalnızca orduyu değil kralın tebaası üzerindeki otoritesini ve
+      duyulan: kaldurmak jalnazja ordu yudil kralun tebasu userinde ke otorite sineve
+  REPLACE  ...üzerindeki otoritesini ve toplumun
+      metin  : kuşaklar arası düzenini
+      duyulan: kushaklararasa duzeni nida orta dan kaldurmak demekte hich zulu kralunun bunu otusgun
+  REPLACE  ...kuşaklar arası düzenini de
+      metin  : ortadan kaldırmak demekti hiçbir zulu kralının
+      duyulan: kabulet me simimkun de ilde belgei haser leanda
+  REPLACE  ...hiçbir zulu kralının bunu
+      metin  : günde kabul etmesi mümkün değildi belgeyi hazırlayan da bunu biliyordu o kişi güney
+      duyulan: bili ordu okishi gunay
+  REPLACE  ...kişi güney afrika daki
+      metin  : i ngiliz yüksek komiseri sir
+      duyulan: ingles uksek commissary ser
+  REPLACE  ...komiseri sir henry bartle
+      metin  : freer di londra
+      duyulan: frerede londer
+  REPLACE  ...freer di londra da
+      metin  : yıldır fikir konuşuluyordu güney
+      duyulan: cilder birfikir konusu ljorde gunay
+  REPLACE  ...konuşuluyordu güney afrika daki
+      metin  : i ngiliz kolonilerini boer cumhuriyetlerini ve bağımsız
+      duyulan: ingles kolony lerine boerjumhuri et lerine webaamsez
+  REPLACE  ...cumhuriyetlerini ve bağımsız afrika
+      metin  : krallıklarını
+      duyulan: kralle klerina
+  REPLACE  ...bağımsız afrika krallıklarını tek
+      metin  : konfederasyon çatısı
+      duyulan: birkonfederation chatasa altanda
+  REPLACE  ...konfederasyon çatısı toplamak freer
+      metin  : bu planın uygulayıcısı olarak gönderilmişti ve bağımsız iyi örgütlenmiş
+      duyulan: buplanun uygula ijeso olerak guanderel mesti webaamsez ijergutlanmish
+  REPLACE  ...bağımsız iyi örgütlenmiş zulu
+      metin  : krallığını planın önündeki en büyük
+      duyulan: kralunu pilanunu ninde ke enbujuk
+  REPLACE  ...önündeki en büyük engel
+      metin  : olarak görüyordu yazışmalarında cetshwayo nun ordusunu bölgedeki bütün beyazlar için tehdit olarak tarif ediyordu londra
+      duyulan: olerak gu rjorde yazish malaranda chechwai unun ordu sonu bölge deke butun beyazlaricin birtehtit olerak tarifeh djorde londer
+  REPLACE  ...tarif ediyordu londra daki
+      metin  : hükümet
+      duyulan: hukumete
+  REPLACE  ...londra daki hükümet ize
+      metin  : o sırada yeni savaş istemiyordu sömürgeler bakanı sir
+      duyulan: osra da jini sabashistem uyorde simarilur bakanis ser
+  REPLACE  ...bakanı sir michael hicks
+      metin  : beach in mektupları ihtiyatlı dil taşıyordu ancak haberleşme haftalar sürüyordu
+      duyulan: beechun mektupleri ihti atlibir diltas uyorde anka khaber leshme haftalarsu yordo
+  REPLACE  ...haftalar sürüyordu ve freer
+      metin  : bu boşluğu kullandı ültimatom okunduğunda durdurabilecek talimatların yolda
+      duyulan: buboshlu kulande yolte matam o kundun da durebile jektali matlaren yoldu
+  REPLACE  ...durdurabilecek talimatların yolda olup
+      metin  : olmadığı bile belirsizdi
+      duyulan: olmadü bille bilir sizde
+  REPLACE  ...olmadığı bile belirsizdi freer
+      metin  : hükümeti oldubittiyle karşı karşıya bırakmıştı cetshwayo
+      duyulan: hukumete oldu bi tile kar shikar shiabarakmishte sechwayo
+  REPLACE  ...bırakmıştı cetshwayo te tahta
+      metin  : çıkarken natal yönetiminin temsilcilerinin de hazır bulunduğu törenle taç giymişti i ngilizlerle iyi geçinmenin önemini biliyordu
+      duyulan: chukar ken natalio neti minin temsil jilernin dehazir bu lundubir taran netachgeimishte engilizlar lei gechin menin mini biljordo
+  REPLACE  ...önemini biliyordu haber kendisine
+      metin  : ulaşınca
+      duyulan: ula sinja
+  REPLACE  ...haber kendisine ulaşınca zaman
+      metin  : kazanmaya sihayo meselesinde uzlaşma yolu bulmaya çalıştı
+      duyulan: kazan maya si hayo mesile sinde uzlashma yolubul maya chalishte
+  REPLACE  ...yolu bulmaya çalıştı fakat
+      metin  : istenen şey uzlaşma değildi süer ocak
+      duyulan: istenan sheibir uzlashma dilde sur ojak
+  REPLACE  ...süer ocak da doldu
+      metin  : aynı gün i ngiliz birlikleri sınırı geçti
+      duyulan: einigün engiliz liklerisan ragechte
+  REPLACE  ...birlikleri sınırı geçti ordunun
+      metin  : başında korgeneral
+      duyulan: bashen da kor general
+  REPLACE  ...başında korgeneral lord chelmsford
+      metin  : vardı kısa süer önce doğu kap ta xhosa halkına karşı savaşı bitirmişti
+      duyulan: varda ksassureunje do kapta exo sahalkanakar shibir savashibitir mishte
+  REPLACE  ...karşı savaşı bitirmişti ve
+      metin  : oradan kanaat edinmişti göer afrikalı ordular düzenli i ngiliz birliğine karşı açık arazide
+      duyulan: ordam kannate din mishte onaguer africa lo ordulardu zan nibir engiliz line karsha achikarazide
+  REPLACE  ...karşı açık arazide durmaz
+      metin  : kaçar oyalardı asıl tehlike düşmanın savaşmaması
+      duyulan: kachar oyalarda asilte like dushmanan savashmamase
+  REPLACE  ...tehlike düşmanın savaşmaması ordunun
+      metin  : aylarca boş arazide dolaşmasıydı
+      duyulan: ailarja bosharazide dolashmasid
+  REPLACE  ...boş arazide dolaşmasıydı chelmsford
+      metin  : bu zuluları savaşa zorlamayı düşünüyordu krallığa
+      duyulan: buyuzden zululara savashazorlamayi dushunyordu krala dan
+  REPLACE  ...zorlamayı düşünüyordu krallığa fazla
+      metin  : koldan girecek
+      duyulan: koldangirajek
+  REPLACE  ...fazla koldan girecek zulu
+      metin  : ordusunu toplanmaya ve karşı koymaya mecbur bırakacaktı aklındaki asıl soru düşmanın nerede olduğuydu düşmanın ne kadar güçlü olduğu sorusu
+      duyulan: ordu sonu toplan maya vekarsha koy maya mejbur burakajakte aklinda ki asilsooru dushmanan narda oldu yudu dushmanan nekadar guchlu oldu soorusu
+  REPLACE  ...güçlü olduğu sorusu pek
+      metin  : meşgul etmiyordu
+      duyulan: meshkulete myordu
+  ... ve 254 fark daha
+
+metinde olup DUYULMAYAN: 3019 kelime | duyulup metinde OLMAYAN: 2986
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-17.duyulan.txt

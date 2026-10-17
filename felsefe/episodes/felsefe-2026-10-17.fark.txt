@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-17.mp3
+
+beklenen 2222 kelime | duyulan 2219 kelime | eşleşme %96.7
+sayı ifadesi: metinde 210, duyulanda 192  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  DELETE   ...zihnin saniye bile durmuyor
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...tarihe geçen adı epiktetos
+      metin  : (yok)
+      duyulan: epiktetos
+  REPLACE  ...yüzyıllar sonra hristiyan düşünür
+      metin  : origenes
+      duyulan: orygenes
+  REPLACE  ...felsefe okuma izni verildi
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...hiç kitap yazmadı öğrencisi
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...küçük kitapçık yunanca adı
+      metin  : enkheiridion
+      duyulan: encheiridion
+  INSERT   ...okumak başka gece saat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yanılsaması psikolog ellen langer
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...koruyacak kaygı burada tür
+      metin  : büyüye
+      duyulan: büyüğe
+  INSERT   ...gelir haklı olarak gece
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...demek pek işe yaramaz
+      metin  : stoacılığın
+      duyulan: stoğacılığın
+  REPLACE  ...evrenin akılsal düzenine mi
+      metin  : stoacılar
+      duyulan: stoğacılar
+  REPLACE  ...biçimde ele alan isimlerden
+      metin  : gazzali dir
+      duyulan: gazalidir
+  REPLACE  ...bırakıp uzun arayışa çıkan
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...çocuk bekleyen de böyledir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...yapışıp sonucun asıl sahibi
+      metin  : sanmak da
+      duyulan: sanmakta
+  REPLACE  ...sonucun gerçek sahibine bağlamaktır
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...alt derecede insan iyi
+      metin  : vekile
+      duyulan: vekiyle
+  REPLACE  ...düşünmez bile yalnızca sığınır
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...aynı soruyu bu kez
+      metin  : hikayeyle
+      duyulan: hikaye ile
+  REPLACE  ...koyabiliriz hierapolisli köle de
+      metin  : tuslu
+      duyulan: tuzlu
+  REPLACE  ...göer bırakmak bilgece kabullenmedir
+      metin  : gazzali
+      duyulan: gazali
+  INSERT   ...muhataptır bu fark gece
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gece önemli şeye dönüşüyor
+      metin  : stoacının
+      duyulan: stoğacı nın
+  REPLACE  ...benim elimde değil ama
+      metin  : başıboş da
+      duyulan: başıboşta
+  REPLACE  ...yaptım gerisi benim değildi
+      metin  : stoacılar
+      duyulan: stoğocular
+  REPLACE  ...için güzel benzetme kullanır
+      metin  : çiçero stoacı
+      duyulan: cicero stoğacı
+  REPLACE  ...esebilir hedef yerinden kayabilir
+      metin  : stoacılara
+      duyulan: stoğoculara
+  REPLACE  ...hint düşüncesinin temel metinlerinden
+      metin  : bhagavad
+      duyulan: bhagavat
+  REPLACE  ...bhagavad gita da tanrı
+      metin  : krişna
+      duyulan: krishna
+  REPLACE  ...amerikalı pilot james stockdale
+      metin  : dir
+      duyulan: ır
+  INSERT   ...james stockdale dir eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...eylül kuzey vietnam üzerinde
+      metin  : uçağı
+      duyulan: uçağa
+  REPLACE  ...yankısı duyuluyor amerikalı ilahiyatçı
+      metin  : raynhold nibur
+      duyulan: reinhold niebuhr
+  REPLACE  ...ele geçirmesine izin vermemektir
+      metin  : gazzali
+      duyulan: gazali
+  INSERT   ...da omuzlamaya kalktığımızda gece
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tek özgürlük ellerini açabilmektir
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: felsefe-2026-10-17.duyulan.txt

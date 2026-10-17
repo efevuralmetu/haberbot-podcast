@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-17.mp3
+
+beklenen 1799 kelime | duyulan 1809 kelime | eşleşme %96.7
+sayı ifadesi: metinde 181, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...var kapağı açtığınızda en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...düşünün ağır olan batar
+      metin  : arşimet
+      duyulan: arşimetten
+  REPLACE  ...kutuyu açan herkes en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...kuruyemiş kum pirinç mısır
+      metin  : gevreği
+      duyulan: gevreyi
+  REPLACE  ...kaybeder i şte bu
+      metin  : arşimedin
+      duyulan: arşimetin
+  REPLACE  ...şey cevabın tek mekanizmada
+      metin  : yatmadığıydı
+      duyulan: yatmadığı
+  REPLACE  ...nde anthony rosato kathleen
+      metin  : strandburg fridrih prints
+      duyulan: strandberg friedrich prinz
+  REPLACE  ...fridrih prints ve robert
+      metin  : swendsen
+      duyulan: svensson
+  REPLACE  ...soruyordu brezilya cevizleri neden
+      metin  : üsttedir
+      duyulan: üstedir
+  INSERT   ...tamamı değildi asıl sürpriz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nden geldi james knight
+      metin  : haynrih yeger
+      duyulan: heinrich jäger
+  INSERT   ...taşınıyordu peki bu durumda
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...sıkıca durduğu kaplarda konveksiyon
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...çevirmeye çalıştıklarında ortaya çıkacaktı
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...olduğu kısa sürede anlaşıldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...troy shinbrot ve fernando
+      metin  : muzzio
+      duyulan: muzio
+  INSERT   ...brezilya cevizi etkisi dendi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önemli olabileceğini pek düşünmezdi
+      metin  : matthias
+      duyulan: de mathias
+  REPLACE  ...chicago daki arkadaşları aralarında
+      metin  : yeger
+      duyulan: yeager
+  INSERT   ...değil yüzlerce kilometer uzakta
+      metin  : (yok)
+      duyulan: kp te
+  REPLACE  ...tanelerini boyutlarına göer ayıklamıştı
+      metin  : itokawa nın
+      duyulan: itokavanın
+  INSERT   ...hideaki miyamoto ve ekibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tartışılan konu asteroidin yüzeyinde
+      metin  : kütleçekimi dünya dakinin
+      duyulan: kütle çekimi dünyadaki
+  REPLACE  ...sınamaya giriştiler bazı çalışmalar
+      metin  : asteroit
+      duyulan: asteroid
+  REPLACE  ...kalabileceğine işaret etti kısacası
+      metin  : asteroitlerin
+      duyulan: asteroidlerin
+  REPLACE  ...nın örnek toplama sondası
+      metin  : hayabusaikinin
+      duyulan: hayabusa nin
+  REPLACE  ...bloklarıyla kaplı moloz yığını
+      metin  : asteroitler
+      duyulan: asteroidler
+  INSERT   ...bennu da osiris rex
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gibi gömüldü bu tür
+      metin  : asteroitlerde
+      duyulan: asteroidlerde
+  REPLACE  ...nde dönen moloz yığını
+      metin  : asteroitlerin
+      duyulan: asteroidlerin
+  REPLACE  ...taneler duvarlarda dönen görünmez
+      metin  : girdaplar
+      duyulan: gırdaplar
+  REPLACE  ...kavanoz kuruyemişi salladığınızda en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...sorunun küçük örneğini gösteriyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: bilim-2026-10-17.duyulan.txt

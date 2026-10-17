@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-17.mp3
+
+beklenen 1898 kelime | duyulan 1889 kelime | eşleşme %94.6
+sayı ifadesi: metinde 260, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : teneke adam ın
+      duyulan: tnk adamın
+  REPLACE  ...içinde kaldı yine de
+      metin  : mgm
+      duyulan: mcm
+  REPLACE  ...un en güçlü stüdyosu
+      metin  : mgm
+      duyulan: mcm
+  REPLACE  ...stüdyosu mgm in patronu
+      metin  : louis
+      duyulan: louize
+  REPLACE  ...gişe rekoruna çevirmişti mayer
+      metin  : da
+      duyulan: de
+  REPLACE  ...da kendi masalını istiyordu
+      metin  : gözünü l
+      duyulan: gözünüyle
+  INSERT   ...l frank baum un
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...projenin başına yapımcı olarak
+      metin  : mervyn
+      duyulan: mervin
+  REPLACE  ...yanında müzikalleer tutkun söz
+      metin  : yazarıyken
+      duyulan: yazarı iken
+  REPLACE  ...yapımcılığa geçmeye hazırlanan arthur
+      metin  : freed
+      duyulan: fried
+  REPLACE  ...bu kızı perdede nasıl
+      metin  : göstereceğiydi
+      duyulan: gösterecekti
+  REPLACE  ...aşamasında kamera denemelerini norman
+      metin  : taurog
+      duyulan: taurock
+  INSERT   ...yönetti asıl çekimler ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çöpe gitti geçici olarak
+      metin  : corc kukor çağrıldı kukor
+      duyulan: corch cukor çağırıldı cukor
+  REPLACE  ...in yani rüzgar gibi
+      metin  : geçti nin
+      duyulan: geçtiğinin
+  REPLACE  ...geçti nin hazırlığıyla meşguldü
+      metin  : oz
+      duyulan: o
+  REPLACE  ...dokunuş filmin kaderini değiştirdi
+      metin  : peruğu
+      duyulan: peru u
+  REPLACE  ...kız olmasını söyledi dorothy
+      metin  : ye
+      duyulan: e
+  INSERT   ...yönetiminde çekildi fakat şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şey oldu rüzgar gibi
+      metin  : geçti nin
+      duyulan: geçtiğinin
+  REPLACE  ...projeden de ayrılmıştı ve
+      metin  : stüdyo
+      duyulan: studio
+  REPLACE  ...fleming ize rüzgar gibi
+      metin  : geçti ye
+      duyulan: geç diye
+  REPLACE  ...un çektiği kısa bölümde
+      metin  : dorothy
+      duyulan: dorothi
+  REPLACE  ...vidor un çektiği sahnelerden
+      metin  : dorothy
+      duyulan: dorothi
+  REPLACE  ...kalemi gibi görünüyordu sonunda
+      metin  : jeneriğe
+      duyulan: jeneriye
+  REPLACE  ...gün dereceyi aşıyordu zümrüt
+      metin  : şehir in
+      duyulan: şehrin
+  REPLACE  ...rolü için seçilen dansçı
+      metin  : buddy
+      duyulan: woody
+  REPLACE  ...yerine jack haley getirildi
+      metin  : haley
+      duyulan: hale
+  INSERT   ...en ağır anı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kez dublörüne geçti hamilton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...perdede gördüğü o kara
+      metin  : siluet
+      duyulan: silüet
+  INSERT   ...avrupa nın yanından getirilmişti
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...kostümünün yaşını gizlemek için
+      metin  : korse
+      duyulan: corse
+  INSERT   ...olarak anılıyor çekimler mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eşi anya ile sunset
+      metin  : bulvarı nda
+      duyulan: boulevard ında
+  REPLACE  ...the rainbow yani gökkuşağının
+      metin  : ötesinde idi
+      duyulan: ötesindeydi
+  REPLACE  ...ettiren böceğin anlatıldığı the
+      metin  : jitterbug
+      duyulan: jitterbok
+  REPLACE  ...gösterim kopyasından çıkarıldı arthur
+      metin  : freed
+      duyulan: fried
+  REPLACE  ...karşı durdu anlatılanlara göer
+      metin  : mayer
+      duyulan: meyer
+  REPLACE  ...kendisinin de gideceğini söyledi
+      metin  : mervyn
+      duyulan: mervin
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: film-2026-10-17.duyulan.txt

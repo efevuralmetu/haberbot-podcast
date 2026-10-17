@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-17.mp3
+
+beklenen 1820 kelime | duyulan 1638 kelime | eşleşme %10.1
+sayı ifadesi: metinde 150, duyulanda 62  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...than half a century
+      metin  : mutfak dolabından kavanoz karışık kuruyemiş alın i çinde fındık yer fıstığı badem belki iri ceviz var kapağı açtığınızda en üstte hep aynı manzarayla karşılaşırsınız ortalığı iri taneler kaplamış küçük taneler dibe çökmüş daha ilginci bu kavanozu süer sallarsanız iri taneler dibe gömülmez tam tersine yukarı tırmanır elinizi kavanozun dibine sokup en büyük fındığı oraya gömün dakika sallayın o fındık yeniden çıkacaktır i lk bakışta bunda tuhaf şey yokmuş gibi gelebilir ama durup düşündüğünüzde tablo sezgimize ters düşüyor büyük fındık küçük yer fıstığından daha ağırdır sudaki taşı düşünün ağır olan batar arşimet beri biliyoruz ki sıvının içinde yoğunluğu yüksek cisim aşağı iner düşük olan yukarı çıkar peki kuruyemiş kavanozunda ağırlık neden işe yaramıyor yoğunluğu aynı hatta daha fazla olan tane kendisinden hafif komşularının arasından sıyrılıp neden yukarı çıkıyor bu soru o kadar gündelik yerden doğuyor ki fizikçiler kuruyemiş paketlerinden aldıkları ad vermiş brezilya cevizi etkisi amerika da satılan karışık kuruyemiş kutularında en iri taneler brezilya cevizleri olduğu için kutuyu açan herkes en üstte bulur bizim kavanozumuzda bu rolü büyük fındık oynuyor ama olay aynı bu bilmeceyi çözmek için önce kavanozdaki maddenin ne olduğunu anlamak gerekiyor kuruyemiş kum pirinç mısır gevreği toz ilaç çakıl hepsi fizikçilerin granüler madde dediği sınıfa girer granüler madde katı tanelerden oluşur ama bu tanelerin topluluğu ne tam katı gibi ne tam sıvı gibi ne de tam gaz gibi davranır kum yığını üstüne bastığınızda sizi taşır yani katı gibidir kum saatinden akarken sıvı gibidir şiddetle sarsıldığında taneler birbirine çarpıp sağa sola savrulur gaza benzer üstelik bu taneler arasında hiçbir zaman sıvıdaki gibi sürekli itme kuvveti oluşmaz her tane komşusuna yaslanır sürtünür çarpar ve her çarpışmada enerjisinin kısmını ısıya çevirerek kaybeder i şte bu arşimet
+      duyulan: this is the time
+  REPLACE  ...şte bu arşimet in
+      metin  : kaldırma kuvveti burada bizi kurtarmıyor kaldırma kuvveti cismi her yandan saran ve basıncını her yöne eşit ileten akışkan ister hareketsiz kuruyemiş yığını böyle akışkan değildir içindeki kuvvetler tanelerin dokunduğu noktalar boyunca dal dal düzensiz zincirler halinde iletilir kavanozu sallamadığınız sürece büyük fındık neredeyze hiç kımıldamaz çünkü altındaki küçük taneler iskele gibi tutar demek ki asıl iş sallamada başlıyor ve sallama dediğimiz şey basit şey değil kavanozu her yukarı aşağı hareket ettirdiğinizde içerideki taneler an havalanır aralarında boşluklar açılır sonra yeniden yerleşirler her sarsıntıda milyonlarca küçük karar veriliyor gibidir hangi tane hangi boşluğa düşecek kim kimin üstüne büyük fındığın yükselişi bu küçük kararların toplamından doğuyor bilim insanları bu soruyu ciddiye almaya başladığında en çok şaşırdıkları şey cevabın tek mekanizmada yatmadığıydı hipotez ortaya atıldı deneylerle sınandı sonra beklenmedik mekanizma çıktı ortaya hikayenin asıl gerilimi de bu aday arasındaki yarışta i lk ciddi açıklama denemesi yılında geldi
+      duyulan: the history of the united nations it is the time in the history of the united nations in
+  REPLACE  ...denemesi yılında geldi pittsburgh
+      metin  : daki
+      duyulan: theer is the
+  REPLACE  ...pittsburgh daki carnegie mellon
+      metin  : üniversitesi nde
+      duyulan: university
+  REPLACE  ...nde anthony rosato kathleen
+      metin  : strandburg
+      duyulan: strandberg
+  DELETE   ...kathleen strandburg friedrich prinz
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...friedrich prinz ve robert
+      metin  : swendsen kavanozu gerçek kavanoz yerine bilgisayarın içinde kurdular sanal kaba farklı boyutlarda diskler doldurdular kabı sanal olarak sarstılar ve tanelerin nasıl yer değiştirdiğini adım adım izlediler makalelerinin başlığı bilmecenin kendisini soruyordu brezilya cevizleri neden üsttedir buldukları mekanizma şaşırtıcı derecede sade kavanoz sarsıldığında büyük fındık anlığına havalanır gövdesi büyüklüğünde boşluk açılır küçük taneler hemen bu boşluğa doğru kayar çünkü küçüktür ve dar aralığa sığmaları kolaydır fındık geri düştüğünde artık eski yerine inemez çünkü küçük tanelerle dolmuştur sonraki sarsıntıda aynı şey yeniden olur büyük tane her seferinde yükselir ve asla geri inemez tersini düşünün yer fıstığının üstündeki taneler kalktığında açılan küçük boşluğa büyük fındığın düşmesi neredeyze imkansızdır büyük tanenin aşağı inebilmesi için kendi gövdesi kadar boşluğun aynı anda açılması gerekir küçük tanenin aşağı sızması içinse küçük aralık yeter sonuçta küçükler sürekli aşağı sızar büyükler sürekli yukarı itilir bu tek yönde dönen cırcır mekanizmasına benziyor her sarsıntı büyük taneyi yalnızca yukarı doğru diş ilerletiyor bu boşluk doldurma açıklaması güzeldi ama tablonun tamamı değildi asıl sürpriz te chicago üniversitesi nden geldi james knight heinrich jaeger ve
+      duyulan: swenson and many others have been involved in this work in the united nations theer aer many people who have been involved in this work theer aer many people who have been involved in this work many people have been involved in this work brazil met with many people a lot of people have paul do won thesold crap and apartheid in the uk contact has beenakable for years evenama has beenallow or jump as many people as we wanted to similarly the retired local wil helpah jager with
+  REPLACE  ...jaeger ve sidney nagel
+      metin  : cam boncuklarla dolu kabı düzenli aralıklarla tıklatıp
+      duyulan: come bonchoclar la dolo beer kabu dozen ara la claer la tecla tip
+  REPLACE  ...düzenli aralıklarla tıklatıp sarsan
+      metin  : düzenek kurdular bu kez bilgisayar yerine gerçek tanelerle çalışıyorlardı ve içerideki hareketi görebilmek için akıllıca yöntem kullandılar boncukların arasına renkli işaretleyici katmanlar yerleştirdiler belirli sayıda sarsıntıdan sonra kabın içeriğini
+      duyulan: beer dozen a curdler bouquez bilgi say aer you in a gar chek tan elar lecha luci or larda we each aer the key haraketi girl make it in a collage avir yon tam kulan delar bonjocleran aer a sonar inklish aer at the age of katman nary aer lister delar beverly say the sarsen to dance a kabunich arena
+  REPLACE  ...kabın içeriğini katman katman
+      metin  : dikkatle boşaltıp renkli boncukların nereye gittiğini incelediler gördükleri şey kabın içinde yavaş
+      duyulan: de cat labo shelter prankly bonjocleran nary a get teeny in jelly delar girdle clary shea kabunich in de yawash
+  REPLACE  ...kabın içinde yavaş ama
+      metin  : düzenli dolaşım vardı kabın ortasındaki taneler yavaş yavaş yukarı çıkıyor ulaşınca kenarlara doğru yayılıyor
+      duyulan: do zannib ir dolish in word kabun orta sunda kitaan elar yawash yawash yukar it s a cuer use a olation jack in or lara doria elar
+  REPLACE  ...kenarlara doğru yayılıyor sonra
+      metin  : kabın çeperleri boyunca dar şerit halinde aşağı iniyordu isıtılan tenceer çorbada sıcak sıvının ortadan yükselip kenarlardan çökmesine
+      duyulan: kabun cheper leraboyan jadar be r shear it al in the ash i knew order is a talon beer jerech or bada sujak sivan an orthodontic celib kenar lard an truck miss in a
+  REPLACE  ...yükselip kenarlardan çökmesine benzer
+      metin  : döngü bu fizikçiler buna granüler konveksiyon adını verdi bu döngünün motoru çeperlerdeki sürtünmeydi kap her sarsıldığında duvarlara sürtünen taneler geride kalıyor böylece kenarlarda aşağı doğru akış oluşuyor ortadaki taneler
+      duyulan: beer dung bo physically urban a granular convection adonavar de budong inan motor chappelle er dekhi certain may de cap hair sarsal dunda do or lara certain anta nellar guerida color boil a jack in or larda asha door abir a kashalu shior orthodokita nellar
+  REPLACE  ...ortadaki taneler de bunu
+      metin  : dengelemek için yukarı itiliyordu bu görünmez girdap büyük fındığın sırrını yepyeni açıdan aydınlattı büyük fındık da ortadaki tanelerle birlikte yukarı taşınır çıkınca kenarlara doğru sürüklenir
+      duyulan: dang lemak it in yukari til yorda buguiran mess gird up bhiuk fundin surana yep yeni adana idun latte bhiuk fundic de orthodokita nellar le de yukari tashin ish use a chicken jack in or lara dorus rutlin ish
+  REPLACE  ...doğru sürüklenir ama sonra
+      metin  : işin kritik anı gelir aşağı inen akış duvar boyunca çok ince şerittir küçük taneler bu dar şeride rahatça girip aşağı iner
+      duyulan: ishin critic a gillar asha in an akash do warbo yunja chok in jebi shirritir kuchak tanel arbu darshar de rahat chagirip asha in or vedong yutam amlar bhiuk fundakize bhiin jesherida sumas yukari a gidan a sansuer mister ama asha in an marda venus ramas ola j use a dema surcolor night weer kadash learnin deni liren de bhiuk tanen in yuk salmeh huza chevresindiki kuchak tanel liren convexion la yuk salmeh huza ila neer desa aini de yani bhiuk tanen chos aman kendibashana turman miyar akantia kapulup tashin yordu peki budurum da deki boshluk doldurma fikriyan nishmidu hair bhugun ku anna isha gaer ikki mechanismada garchik
+  REPLACE  ...girip aşağı iner ve
+      metin  : döngüyü tamamlar büyük fındık ize bu ince şeride sığmaz yukarıya giden asansöer binmiştir ama aşağı inen merdivene sığamaz böylece mahsur kalır knight ve arkadaşlarının deneylerinde büyük tanenin yükselme hızı çevresindeki küçük tanelerin konveksiyonla yükselme hızıyla neredeyze aynıydı yani büyük tane çoğu zaman kendi başına tırmanmıyor akıntıya kapılıp taşınıyordu peki bu durumda deki boşluk doldurma fikri yanlış mıydı hayır bugünkü anlayışa göer mekanizma
+      duyulan: hangi sinnin baskanola jakoshu lara baale do war surtun me sinnin guchlu oldu tanel liren birarada sikajadurdu kaplar
+  REPLACE  ...anlayışa göer mekanizma da
+      metin  : gerçek ve hangisinin baskın olacağı koşullara bağlı duvar sürtünmesinin güçlü olduğu tanelerin arada sıkıca durduğu kaplarda konveksiyon başrolü üstlenir sarsıntının
+      duyulan: convexion bas rollu istanir sarsantanan
+  REPLACE  ...başrolü üstlenir sarsıntının daha
+      metin  : şiddetli olduğu tanelerin
+      duyulan: shidet loldu tanel liren
+  REPLACE  ...şiddetli olduğu tanelerin daha
+      metin  : serbest savrulduğu durumlarda ize boşluk
+      duyulan: sarbe stavroldu durum narda isha boshluk
+  REPLACE  ...ize boşluk doldurma ve
+      metin  : başka etkiler öne çıkabilir granüler fiziğin genel dersi
+      duyulan: bashka itkhilair aneche kabilir granular fizi in ganal arsi debu aina sonu ju fazla mechanisma urete bilur ve hangi sinnin haakim oldu na annama kichin hair iran thea bakmak yeer kyur convexion keshfi denai jilaer i puju verde er bhiuk tane yukara ta srianshe duaar larda kisurtun mei le donan girdapsa duaar larda
+  REPLACE  ...fiziğin genel dersi de
+      metin  : bu aynı sonucu fazla mekanizma üretebiliyor ve hangisinin hakim olduğunu anlamak için her ayrıntıya bakmak gerekiyor konveksiyonun keşfi deneycileer
+      duyulan: ishteer ek girdabada
+  REPLACE  ...konveksiyonun keşfi deneycileer de
+      metin  : ipucu verdi eğer büyük taneyi yukarı taşıyan şey duvarlardaki sürtünmeyle dönen girdapsa duvarları değiştirerek girdabı
+      duyulan: ishteer bilir sinnis nitekim shikago ekibi kabun kshepar leer yukara dorudu sha achildan
+  REPLACE  ...duvarları değiştirerek girdabı da
+      metin  : değiştirebilirsiniz nitekim chicago ekibi kabın çeperleri yukarı doğru dışa açıldığında dolaşımın yönünün tersine dönebildiğini gösterdi bu kez taneler kenarlardan yukarı çıkıp ortadan aşağı iniyordu böyle
+      duyulan: dola samun yonunun tarsin e dona bildini goshtarde buke stanel ar kenar lardan yukara cikaporta da na sha in yordu boile
+  REPLACE  ...aşağı iniyordu böyle kapta
+      metin  : büyük taneler çıkmak yerine yeniden içeri çekilebiliyordu
+      duyulan: bhiuk tane elar yuzae ek mak yeer na yeni daan i cheri cheki le bili yordu
+  REPLACE  ...yeniden içeri çekilebiliyordu kavanozun
+      metin  : biçimi bile fındığın kaderini değiştirmeye yetiyordu bu noktada bilmece çözülmüş gibi görünebilir ama asıl şaşırtıcı bulgular araştırmacılar etkiyi tersine çevirmeye çalıştıklarında ortaya çıkacaktı ların sonlarında araştırmacılar şunu sormaya başladı büyük
+      duyulan: bhi chimi bilay fundun kadir ne de ishteer mei yet yordu bhu nokta da bilme chechul muskibigur ne bilir ema alsil sha shirtu jibul gular arashtar majular ekki tarsin echever mei chalishtik lerenda orta echik jakta di laren sonnarenda arashtar majular shunusor mei abashtade buyuk
+  REPLACE  ...sormaya başladı büyük tane
+      metin  : her koşulda yukarı mı çıkar cevabın hayır olduğu kısa sürede anlaşıldı
+      duyulan: haar koshul da yukaram uchikar zewabun hairoldu kasasuer da anasil
+  REPLACE  ...kısa sürede anlaşıldı de
+      metin  : troy
+      duyulan: detroy
+  REPLACE  ...troy shinbrot ve fernando
+      metin  : muzzio belirli koşullarda büyük ama hafif tanelerin dibe batabildiğini gösterdi
+      duyulan: musio belir li koshul larda buyuk amaha fif tane leren di bebatabildini goshtarde
+  REPLACE  ...dibe batabildiğini gösterdi ve
+      metin  : buna ters brezilya cevizi etkisi dendi de
+      duyulan: bunatars brazilia jevisi ekki sidande da
+  REPLACE  ...quinn ve stefan luding
+      metin  : ize
+      duyulan: i se
+  REPLACE  ...stefan luding ize bu
+      metin  : tersine dönüşü yarışın sonucu olarak tarif ettiler yanda küçük tanelerin aşağı sızması diğer yanda tanelerin ağırlıklarına
+      duyulan: tarsin e donushu yarushun sonu jola araktar efete ler amda kuchuk tane leren asha sizmusi di aryanda tane leren arluk lerna
+  REPLACE  ...yanda tanelerin ağırlıklarına ve
+      metin  : sarsıntının şiddetine bağlı olarak dibe yığılma eğilimi vardı büyük tanelerin küçükleer göer ne kadar büyük
+      duyulan: sarsantanan shidetin e balol araktibe ilma ilim evarda buyuk tane leren kuchuk deregeer nekadar buyuk
+  REPLACE  ...ne kadar büyük ve
+      metin  : ne kadar ağır olduğuna göer kavanozda büyükler yukarıda
+      duyulan: nekadar aroldun ageer kavanos
+  REPLACE  ...kavanozda büyükler yukarıda da
+      metin  : toplanabiliyor aşağıda
+      duyulan: buyuk
+  REPLACE  ...da toplanabiliyor aşağıda da
+      metin  : sonraki yıllarda yapılan laboratuvar deneyleri
+      duyulan: ryukar da toplanabiliyar asha dada sanraki yalarda yapalan leberu toardene leer
+  REPLACE  ...yapılan laboratuvar deneyleri de
+      metin  : bu tersine dönüşün gerçekten gözlenebildiğini doğruladı daha
+      duyulan: butarsin e donushun gerchek dangos dene bildini dorulade
+  REPLACE  ...gözlenebildiğini doğruladı daha da
+      metin  : beklenmedik oyuncu sahneye çıktı
+      duyulan: hada beklan medik bioyin ju sahniye chekte
+  REPLACE  ...oyuncu sahneye çıktı hava
+      metin  : sıradan kavanozda taneler arasındaki boşluklar havayla
+      duyulan: suradam kavanos da tane leer rasandaki boshlu klar havaile
+  REPLACE  ...boşluklar havayla doludur ve
+      metin  : kimse bu havanın önemli olabileceğini pek düşünmezdi de matthias möbius
+      duyulan: kim se buhavanan unemnolabiliyene pekdushun mazde da mattias moebius
+  REPLACE  ...matthias möbius ve chicago
+      metin  : daki arkadaşları aralarında jaeger
+      duyulan: dekke arkadashleer aralaranda jegar
+  ... ve 55 fark daha
+
+metinde olup DUYULMAYAN: 1643 kelime | duyulup metinde OLMAYAN: 1462
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-10-17.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-17.mp3
+
+beklenen 3094 kelime | duyulan 3091 kelime | eşleşme %94.6
+sayı ifadesi: metinde 367, duyulanda 287  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gibi kusursuz yuvarlak yamaçları
+      metin  : aynı
+      duyulan: yana
+  REPLACE  ...metreyi bulan bu yapay
+      metin  : dağa
+      duyulan: dağı
+  REPLACE  ...olmuş bazıları hala kabarcık
+      metin  : gibi duruyor
+      duyulan: oluyor
+  REPLACE  ...ölülerini toprağın gömüp üstüne
+      metin  : dağ yığardı
+      duyulan: dağı yağardı
+  REPLACE  ...yığardı o krallık frigya
+      metin  : ydı frigler
+      duyulan: idi farigler
+  REPLACE  ...yaylada yavaş yavaş güç
+      metin  : topladılar
+      duyulan: aldılar
+  REPLACE  ...kentin kalbi ovadan yükselen
+      metin  : höyüğün
+      duyulan: höyün
+  DELETE   ...kirişli büyük salonlu yapılar
+      metin  : vardı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hükmedecekti büyük i skender
+      metin  : milattan
+      duyulan: dan
+  INSERT   ...i skender milattan önce
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...düğümü çözmek yerine kılıcıyla
+      metin  : kesti
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ya da müzik yarışmasında
+      metin  : apollon
+      duyulan: apollo nun
+  DELETE   ...kahramanı değil asur kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kinci sargon un yıllıklarında
+      metin  : milattan
+      duyulan: dan
+  REPLACE  ...kayıtlarda muşki ülkesinin kralı
+      metin  : mita
+      duyulan: mitha
+  REPLACE  ...hükümdar geçiyor tarihçiler bu
+      metin  : mita
+      duyulan: mitha
+  REPLACE  ...tarihçiler bu mita nın
+      metin  : frig
+      duyulan: frik
+  REPLACE  ...herodotos da midas ın
+      metin  : delfoi
+      duyulan: delphoi
+  DELETE   ...yaşamış asur la diplomasi
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yarım daha beklemek gerekecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...a geldi başlarında amerikalı
+      metin  : arkeolog
+      duyulan: otolog
+  REPLACE  ...kör tünel açıp şansa
+      metin  : güvenmek
+      duyulan: kazanmak
+  REPLACE  ...aylarca boş yeer toprak
+      metin  : oymak
+      duyulan: koymak
+  REPLACE  ...kazıcıların deneyimi ipucu veriyordu
+      metin  : frig
+      duyulan: fahirik
+  INSERT   ...yüzeyden bakıldığında dokunulmamış görünüyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve maden sondaj makinesi
+      metin  : getirtti
+      duyulan: getirdi
+  REPLACE  ...delikler açmaya başladı matkap
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...taş parçaları vardı sondajlar
+      metin  : sürdükçe
+      duyulan: tükçe
+  REPLACE  ...derinliklerinde kil ve taş
+      metin  : molozdan
+      duyulan: mollozdan
+  INSERT   ...değil güneybatıya doğru kaymıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ulaştılar mezar kalın taş
+      metin  : moloz yığınıyla
+      duyulan: molloz yığını ile
+  REPLACE  ...taş moloz yığınıyla örtülmüştü
+      metin  : moloz
+      duyulan: molloz
+  REPLACE  ...kalaslar mezar odası kutunun
+      metin  : içindeki
+      duyulan: altındaki
+  REPLACE  ...ahşap odayı içine kurmuş
+      metin  : ölüyü
+      duyulan: rüyü
+  REPLACE  ...kurmuş ölüyü ve eşyalarını
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...gün nasılsa öyle kalmıştı
+      metin  : young ın
+      duyulan: jung un
+  REPLACE  ...ve ilk bakışta gördükleri
+      metin  : sessiz
+      duyulan: hizdiz
+  REPLACE  ...anlaşıldı yerde büyük bronz
+      metin  : kazan duruyordu
+      duyulan: kazandırıyordu
+  REPLACE  ...ize sanat eseri sayılacak
+      metin  : inceliktedi aslan başı
+      duyulan: inceliktedir aslanbaşı
+  ... ve 79 fark daha
+
+metinde olup DUYULMAYAN: 130 kelime | duyulup metinde OLMAYAN: 127
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-10-17.duyulan.txt

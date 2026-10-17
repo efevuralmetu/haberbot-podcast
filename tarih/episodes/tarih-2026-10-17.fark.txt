@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-17.mp3
+
+beklenen 3444 kelime | duyulan 3441 kelime | eşleşme %93.9
+sayı ifadesi: metinde 387, duyulanda 306  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gökyüzü karardı güneş tutulması
+      metin  : sfenks
+      duyulan: sphenx
+  INSERT   ...donanmış i mparatorluk ordusunun
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...başka şey yok gibiydi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...düzenini de ortadan kaldırmak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...komiseri sir henry bartle
+      metin  : freer
+      duyulan: freier
+  REPLACE  ...daki i ngiliz kolonilerini
+      metin  : boer
+      duyulan: boyer
+  REPLACE  ...tek konfederasyon çatısı toplamak
+      metin  : freer
+      duyulan: freier
+  REPLACE  ...engel olarak görüyordu yazışmalarında
+      metin  : keçvayo nun
+      duyulan: kechvayon un
+  REPLACE  ...bakanı sir michael hicks
+      metin  : beach
+      duyulan: beech
+  REPLACE  ...haberleşme haftalar sürüyordu ve
+      metin  : freer
+      duyulan: freier
+  REPLACE  ...olup olmadığı bile belirsizdi
+      metin  : freer
+      duyulan: faleer
+  REPLACE  ...oldubittiyle karşı karşıya bırakmıştı
+      metin  : keçvayo
+      duyulan: kechvayon te
+  INSERT   ...uzlaşma değildi süer ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...vardı kıyıya yakın olan
+      metin  : kol
+      duyulan: col
+  REPLACE  ...yı aşağıdan geçecekti kuzeydeki
+      metin  : kol
+      duyulan: col
+  REPLACE  ...kolu ize albay richard
+      metin  : glyn
+      duyulan: glynn
+  REPLACE  ...istasyonunun yanındaki sığ geçitten
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...kişiyi aşkın kuvvet vardı
+      metin  : çekirdeği
+      duyulan: çekirde yi
+  REPLACE  ...kurdu tepenin adı i
+      metin  : sandlvana ydı
+      duyulan: ssandvanaydı
+  REPLACE  ...alay ın arması üzerindeki
+      metin  : sfenkse
+      duyulan: sifenkse
+  REPLACE  ...daha sonra çok tartışılacaktı
+      metin  : chelmsford
+      duyulan: chamsford
+  REPLACE  ...birliğine kimsenin saldırmaya cesaret
+      metin  : edemeyeceğiydi
+      duyulan: edemeyecekti
+  REPLACE  ...cesaret edemeyeceğiydi ocak ta
+      metin  : chelmsford
+      duyulan: chamsford
+  REPLACE  ...ve komutan rupert lonsdale
+      metin  : in
+      duyulan: ın
+  REPLACE  ...bu kuvvet tepeler arasında
+      metin  : zulu gruplarıyla
+      duyulan: zulü grupları ile
+  REPLACE  ...gruplarıyla karşılaştı karanlık çökerken
+      metin  : zuluların
+      duyulan: zulülerin
+  REPLACE  ...ocak gecesi saat sularında
+      metin  : chelmsford
+      duyulan: chamsford
+  REPLACE  ...hızlı davranırsa savaşa zorlayabilirdi
+      metin  : chelmsford
+      duyulan: chamsford
+  REPLACE  ...alay ın taburu toptan
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...kampın komutası yarbay henry
+      metin  : pulleine e
+      duyulan: pulleyne ne
+  REPLACE  ...henry pulleine e bırakıldı
+      metin  : pulleine
+      duyulan: pulleyne
+  REPLACE  ...verilen emir kampı savunmasıydı
+      metin  : chelmsford
+      duyulan: chamsford
+  REPLACE  ...geçidi nin yakınlarında bekliyordu
+      metin  : i sandlvana
+      duyulan: isantwavana
+  REPLACE  ...küçük roket bataryası vardı
+      metin  : chelmsford
+      duyulan: chamsford
+  REPLACE  ...ordusunun ana gövdesi doğuda
+      metin  : dartnel
+      duyulan: darknel
+  REPLACE  ...in karşısındaydı öyle değildi
+      metin  : dartnel
+      duyulan: darknel
+  INSERT   ...ordusu gün önce başkent
+      metin  : (yok)
+      duyulan: onendini
+  REPLACE  ...yaşlı ve saygın komutan
+      metin  : nçingvayo
+      duyulan: ne chingvayo
+  REPLACE  ...nçingvayo kamahole vardı yanında
+      metin  : mavumengvana kandlela
+      duyulan: mawumengwana candlela
+  REPLACE  ...ateş yakmamıştı ocak ta
+      metin  : i sandlvana
+      duyulan: isandlama
+  ... ve 99 fark daha
+
+metinde olup DUYULMAYAN: 164 kelime | duyulup metinde OLMAYAN: 165
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: tarih-2026-10-17.duyulan.txt

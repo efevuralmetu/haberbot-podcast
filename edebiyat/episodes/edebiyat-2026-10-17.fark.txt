@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-17.mp3
+
+beklenen 1807 kelime | duyulan 1819 kelime | eşleşme %93.8
+sayı ifadesi: metinde 287, duyulanda 204  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kurdu i stanbul lisesinde
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...ya gönderiliyor adı mehmet
+      metin  : sait
+      duyulan: said
+  REPLACE  ...türk edebiyatı yıllar sonra
+      metin  : sait
+      duyulan: said
+  REPLACE  ...yıllar sonra sait faik
+      metin  : abasıyanık
+      duyulan: abasiyanık
+  REPLACE  ...gibi anlatmak kolay oysa
+      metin  : sait faiğin
+      duyulan: said faik in
+  INSERT   ...şey okunan insan hikaye
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...için başka planları var
+      metin  : sait
+      duyulan: said
+  INSERT   ...planları var sait faik
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...belki aile işini büyütecek
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...lisesi nden mezun olan
+      metin  : sait
+      duyulan: said
+  REPLACE  ...sık başvurduğu yol avrupa
+      metin  : sait
+      duyulan: de said
+  REPLACE  ...nın dağlarla çevrili şehri
+      metin  : grönobl a
+      duyulan: grenoble
+  REPLACE  ...geçiyor kağıt üzerinde iktisat
+      metin  : öğrencisi
+      duyulan: denizcisi
+  REPLACE  ...gencin bütün tuhaflığını yaşıyor
+      metin  : grönobl
+      duyulan: grenoble
+  REPLACE  ...işçilerle denizcilerle yan yana
+      metin  : oturuyor
+      duyulan: gidiyor
+  INSERT   ...garsonlarında yeniden karşısına çıkacak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da ortada diploma yok
+      metin  : sait
+      duyulan: said
+  REPLACE  ...halıcıoğlu ndaki ermeni yetim
+      metin  : okulu nda türkçe
+      duyulan: okulunda işe
+  REPLACE  ...tahıl ticaretine girmesini istiyor
+      metin  : sait
+      duyulan: said
+  REPLACE  ...sokaklarda vakit geçiren ama
+      metin  : sait
+      duyulan: said
+  REPLACE  ...not ediyor hiçbir meslek
+      metin  : uymuyor
+      duyulan: çıkmıyor
+  INSERT   ...mesleğin ilk büyük ürünü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...büyük ürünü ortaya çıkıyor
+      metin  : sait faiğin
+      duyulan: da said faik in
+  REPLACE  ...okurun zihnindeki öykü kalıbıdır
+      metin  : sait
+      duyulan: said
+  REPLACE  ...un çizgisine yakın bulur
+      metin  : sait
+      duyulan: said
+  REPLACE  ...ki bu bilinçli doğallık
+      metin  : semaver i
+      duyulan: semaveri da
+  REPLACE  ...doğallık semaver i sarnıç
+      metin  : şahmerdan
+      duyulan: ta şahmer dan
+  REPLACE  ...kitaplar birbirini takip ettikçe
+      metin  : sait faiğin
+      duyulan: said faik in
+  REPLACE  ...aynı kahvede aynı kayıkta
+      metin  : sait
+      duyulan: said
+  REPLACE  ...yukarıdan bakmıyor kendini de
+      metin  : onların
+      duyulan: bu dünyanın
+  REPLACE  ...merkezinde ada var burgazada
+      metin  : abasıyanık
+      duyulan: abasiyanık
+  REPLACE  ...var burgazada abasıyanık ailesi
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...baba mehmet faik bey
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...mehmet faik bey ölüyor
+      metin  : sait
+      duyulan: said
+  REPLACE  ...kahvenin olduğu küçük dünya
+      metin  : sait
+      duyulan: said
+  REPLACE  ...ama gerçekliklerini hiç kaybetmiyor
+      metin  : sait
+      duyulan: te said
+  REPLACE  ...yayımlandıktan sonra bazı bölümleri
+      metin  : nedeniyle
+      duyulan: ile
+  REPLACE  ...sorun çıkıyor kitap toplatılıyor
+      metin  : sait
+      duyulan: said
+  REPLACE  ...yıllar sonra elden geçirip
+      metin  : birtakım i nsanlar
+      duyulan: de takım insanlar
+  REPLACE  ...ilgilendiği tarih kitaplarına giremeyen
+      metin  : birtakım
+      duyulan: takım
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 85 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: edebiyat-2026-10-17.duyulan.txt

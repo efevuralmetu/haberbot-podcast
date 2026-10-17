@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-17.mp3
+
+beklenen 3663 kelime | duyulan 3663 kelime | eşleşme %99.0
+sayı ifadesi: metinde 109, duyulanda 102  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...hands near present day
+      metin  : denizli
+      duyulan: dinesli
+  REPLACE  ...history remembers him by
+      metin  : is
+      duyulan: his
+  DELETE   ...master day clamped epictetus
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...things we love epictetus
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...love anxiety is held
+      metin  : to
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...and theer the answer
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...collection of imam al
+      metin  : tirmidhi
+      duyulan: turmidi
+  REPLACE  ...so the concept of
+      metin  : tawakkul
+      duyulan: tawakkil
+  REPLACE  ...weer those who understood
+      metin  : tawakkul
+      duyulan: tawakkil
+  REPLACE  ...a saying attributed to
+      metin  : sahl al
+      duyulan: salil
+  REPLACE  ...an entier section to
+      metin  : tawakkul
+      duyulan: tawakkil
+  REPLACE  ...the soil to life
+      metin  : tawakkul
+      duyulan: tawakkil
+  REPLACE  ...al ghazali also divides
+      metin  : tawakkul
+      duyulan: tawakkil
+  REPLACE  ...runs to his mother
+      metin  : tawakkul
+      duyulan: tawakkil
+  REPLACE  ...the book of the
+      metin  : masnavi
+      duyulan: maznavi
+  REPLACE  ...lion said in the
+      metin  : masnavi
+      duyulan: maznavi
+  REPLACE  ...side the slave from
+      metin  : hierapolis
+      duyulan: herapolis
+  REPLACE  ...and the scholar from
+      metin  : tus
+      duyulan: tours
+  REPLACE  ...the person who practices
+      metin  : tawakkul
+      duyulan: to walkle
+  REPLACE  ...to chance either the
+      metin  : folk
+      duyulan: folks
+  REPLACE  ...this true meaning of
+      metin  : tawakkul
+      duyulan: to walkle
+  REPLACE  ...the person who practices
+      metin  : tawakkul ties
+      duyulan: to walkle tees
+  INSERT   ...i cannot change the
+      metin  : (yok)
+      duyulan: the
+  REPLACE  ...the matuer form of
+      metin  : tawakkul rida rida
+      duyulan: tawakkal rita rita
+  REPLACE  ...lose someone they love
+      metin  : rida
+      duyulan: rita
+  REPLACE  ...to its mother the
+      metin  : peace
+      duyulan: piece
+  REPLACE  ...today s episode of
+      metin  : nöron felsefe
+      duyulan: neuron felsophae
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-10-17.duyulan.txt
