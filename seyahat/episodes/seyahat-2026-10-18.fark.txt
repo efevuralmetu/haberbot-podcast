@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-18.mp3
+
+beklenen 2184 kelime | duyulan 2181 kelime | eşleşme %95.7
+sayı ifadesi: metinde 205, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dibinde rahipler hala aynı
+      metin  : ge ez
+      duyulan: geğez
+  REPLACE  ...ge ez ilahisini okuyor
+      metin  : etiyopya
+      duyulan: etiopya
+  REPLACE  ...zagve hanedanından kraldan alıyor
+      metin  : geber meskel lalibela
+      duyulan: gebremeskel lali bela
+  INSERT   ...kudüs fikri boşuna değil
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuru deer yatağının adı
+      metin  : yordanos
+      duyulan: jordanos
+  REPLACE  ...grup doğusunda grup daha
+      metin  : kilize de
+      duyulan: kilisede
+  REPLACE  ...bu geçitte yolunu el
+      metin  : yordamıyla
+      duyulan: yordamı ile
+  REPLACE  ...i ngiliz arkeolog david
+      metin  : phillipson
+      duyulan: philipson
+  REPLACE  ...ilk ayrıntılı anlatan kişi
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...ya gelen portekizli rahip
+      metin  : fransisku alvareş ti
+      duyulan: francisco alvarești
+  REPLACE  ...bu kayalar müzeye dönüşmüş
+      metin  : geçmiş de
+      duyulan: geçmişte
+  INSERT   ...otobüsle kimisi kamyon kasasında
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...ve şafağa kadar sürüyor
+      metin  : dil ge ez
+      duyulan: dilgez
+  REPLACE  ...yaşamış ilahi bestecisi aziz
+      metin  : yared e
+      duyulan: yaer de
+  REPLACE  ...atfediliyor i lahileri söyleyenler
+      metin  : debtera
+      duyulan: deptera
+  REPLACE  ...denen kilize ilahicileri ellerinde
+      metin  : tsenatsel
+      duyulan: tenatsel
+  REPLACE  ...derin nabız atışı tutuyor
+      metin  : debteralar
+      duyulan: deteralar
+  REPLACE  ...yaşanıyor beyaz cüppeli rahipler
+      metin  : hendeğin
+      duyulan: hendeyin
+  REPLACE  ...hacı nefesini tutuyor kadınlar
+      metin  : o tiz
+      duyulan: otis
+  REPLACE  ...duvar dibinde rahip eski
+      metin  : ge ez
+      duyulan: geğez
+  REPLACE  ...söküp ayin sona erdiğinde
+      metin  : oruç da
+      duyulan: oruçta
+  REPLACE  ...tavuk yahnisi serilen incera
+      metin  : teff
+      duyulan: tef
+  REPLACE  ...koruma çatıları bu sundurmalar
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...yağmur mevsiminde yerel adıyla
+      metin  : kiremtte
+      duyulan: kiremp te
+  REPLACE  ...uluslararası çalışmalar yapıldı fransa
+      metin  : ile
+      duyulan: yla
+  INSERT   ...yapıldı fransa ile etiyopya
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kadar zor olabilir lalibela
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alınan yerlerden olmuştu bu
+      metin  : unvan
+      duyulan: invan
+  INSERT   ...yağmurdan daha sert sınav
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...savaş genişledi ve ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonra bile bölge sakinleşmedi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gençler ailelerinin buğday ve
+      metin  : teff
+      duyulan: tev
+  REPLACE  ...basamak taraçalanmış bu taraçalarda
+      metin  : teff
+      duyulan: tev
+  REPLACE  ...yeşil kahve çekirdeklerini küçük
+      metin  : sacda
+      duyulan: sakta
+  REPLACE  ...tat da var bal
+      metin  : lalibela
+      duyulan: leylibella
+  REPLACE  ...gölgesinde yaşayan insanlar rahipler
+      metin  : diyakozlar
+      duyulan: diakozlar
+  REPLACE  ...diyakozlar ve kilize okullarında
+      metin  : ge ez
+      duyulan: geğez
+  REPLACE  ...el yazmasını açıyor ve
+      metin  : ge ez
+      duyulan: gez
+  REPLACE  ...çok bu insanlara bağlı
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: seyahat-2026-10-18.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-18.mp3
+
+beklenen 1686 kelime | duyulan 1696 kelime | eşleşme %95.9
+sayı ifadesi: metinde 245, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...adları yine de unutulur
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...geçen sıcak yaz akşamları
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...ilçesine götürdü ve küçük
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...de haritasıdır diyarbakır ın
+      metin  : sivereğin
+      duyulan: siverek in
+  REPLACE  ...kalabalığında bambaşka kulağa ulaşacaktı
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...ağıtlardan anlatılan masallardan besleniyordu
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...sonra askerliğini yaptı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...üniversitesi dil ve tarih
+      metin  : coğrafya
+      duyulan: koğrafya
+  REPLACE  ...yerdi dil ve tarih
+      metin  : coğrafya
+      duyulan: koğrafya
+  REPLACE  ...hem de buluşma yeriydi
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...gösterir kurşun adlı şiir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yargılanmadan kurşuna dizilmesini anlatır
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...de yetkililerin dikkatini çekti
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...dergilerin sınırlarını kısa sürede
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...yaşamaya başlamıştı felsefe öğrencisi
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...ayrıntı hayatının seyrini değiştirecekti
+      metin  : ahmed
+      duyulan: de ahmet
+  REPLACE  ...hepsi şu konuda birleşir
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...kaldı i kinci tutuklama
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bazı biyografiler serbest kalışını
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...anlatır kesin olan şu
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...işkenceye maruz kaldığını aktarır
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...belleğiyle özdeşleşmiş yapıdır hapishane
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...çöker şiir hücer arkadaşlarını
+      metin  : koğuşun
+      duyulan: kovuşun
+  REPLACE  ...içeride sönmeyen umudu anlatır
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...özgürlüğün kendisi gibi okunur
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...ayakta kalmayı anlatır dağ
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...dayama yeri hapisten çıktığında
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...başka tanığı da mektuplardır
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...da mektuplardır ellilerin yarısında
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...önal ın da onayıyla
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çıkışı çok sonranın hikayesidir
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...sonranın hikayesidir ellilerin sonunda
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...kendi adına kitabı olmayan
+      metin  : şairdi
+      duyulan: şahirdi
+  REPLACE  ...hapisten çıktıktan sonraki yıllarda
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...aşkın süer bekledi sonunda
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sonraki yıllarda baskı sayısı
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...çeken şey bu kitabın
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...şiir kitabı olarak kalmasıdır
+      metin  : (yok)
+      duyulan: den deki
+  REPLACE  ...eden şair sayısı azdır
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...eserle bütünleşti okuyanlar için
+      metin  : ahmed
+      duyulan: ahmet
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: edebiyat-2026-10-18.duyulan.txt

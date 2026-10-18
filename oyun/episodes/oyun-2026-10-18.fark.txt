@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-18.mp3
+
+beklenen 1632 kelime | duyulan 1635 kelime | eşleşme %94.4
+sayı ifadesi: metinde 246, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nasıl yıl boyunca bitiremedi
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...adı da duke nukem
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adam aslında yeni değildi
+      metin  : teksas
+      duyulan: texas
+  DELETE   ...teksas taki küçük şirket
+      metin  : realms
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...soyut koridorlardan adı konmamış
+      metin  : üslerden
+      duyulan: üstlerden
+  REPLACE  ...ses vardı seslendirme sanatçısı
+      metin  : jon st
+      duyulan: john saint
+  REPLACE  ...tok alaycı sesi duke
+      metin  : ü
+      duyulan: u
+  REPLACE  ...yaygınlaştıran iş adamı diğeri
+      metin  : corc brusard dı
+      duyulan: corch broussard ı
+  REPLACE  ...adam bu hikayenin merkezinde
+      metin  : brusard
+      duyulan: broussard
+  INSERT   ...devam oyunu kaçınılmazdı nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yerdeydi sektörün teknoloji lideri
+      metin  : id
+      duyulan: eat
+  DELETE   ...henüz piyasaya çıkmamış quake
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  DELETE   ...quake ii yani deprem
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...motorun lisansını satın aldı
+      metin  : brusard
+      duyulan: bruceard
+  INSERT   ...max payne bunlardan ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hazır olduğunda çıkarırız bekleyin
+      metin  : değecek
+      duyulan: diyecek
+  INSERT   ...çıkarırız bekleyin değecek ve
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...ta toplanan oyun fuarı
+      metin  : eüç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...fuarı sonsuza dek duke
+      metin  : ün
+      duyulan: un
+  DELETE   ...büyük sahnesiydi ekip deprem
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hazırlanmış tanıtım filmi gösterdi
+      metin  : duke
+      duyulan: duque
+  REPLACE  ...oyun daha vardı ve
+      metin  : brusard
+      duyulan: broussard
+  REPLACE  ...o dönemin standartlarını zorluyordu
+      metin  : brusard
+      duyulan: broussard
+  DELETE   ...brusard a göer deprem
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...için yeterli değildi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da yeniden yapılmak zorundaydı
+      metin  : brusard
+      duyulan: broussard
+  REPLACE  ...stüdyoların yenilikleri sahneye geldikçe
+      metin  : brusard
+      duyulan: broussard
+  REPLACE  ...etkileyici özellik görülüyor sonsuza
+      metin  : dek duke e
+      duyulan: dec duque
+  INSERT   ...de ekip ilerliyordu ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sürümüyle hazırlanan bu görüntülerde
+      metin  : duke
+      duyulan: duque
+  INSERT   ...bittiğini düşündü yıllar sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tekrar tekrar ele alındı
+      metin  : brusard ın
+      duyulan: bruce arden
+  DELETE   ...değiştirmiş yılında take yani
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kararlar teksas taki ofiste
+      metin  : brusard ın
+      duyulan: bruce arden
+  REPLACE  ...brusard ın masasında veriliyordu
+      metin  : basın
+      duyulan: bass ın
+  REPLACE  ...dönüşmüştü şey asla gelmeyecekse
+      metin  : duke
+      duyulan: duque
+  REPLACE  ...kalmış sistemlerini devralıyordu kablolu
+      metin  : dergisinin
+      duyulan: dergisi nin da
+  INSERT   ...para harcadığını aktarıyordu aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kısa tanıtım filmi yayımlandı
+      metin  : duke
+      duyulan: duque
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: oyun-2026-10-18.duyulan.txt

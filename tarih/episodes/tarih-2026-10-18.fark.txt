@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-18.mp3
+
+beklenen 3047 kelime | duyulan 3101 kelime | eşleşme %92.5
+sayı ifadesi: metinde 379, duyulanda 271  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yi yöneten adamlar çocukken
+      metin  : bozkırlardan
+      duyulan: boskırlardan
+  REPLACE  ...karşı yola çıktılar şubat
+      metin  : dicle
+      duyulan: de diçle
+  REPLACE  ...yanda mürekkep vardı çünkü
+      metin  : bağdadın
+      duyulan: bağdat ın
+  INSERT   ...törenin parçasıydı bağdat başlangıçtı
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...kapılarını açtı suriye nin
+      metin  : eyyubi
+      duyulan: eyübi
+  INSERT   ...memlük tarihçisi makrizi yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...olacaklardı mektubu okuyan kişi
+      metin  : seyfeddin kutuz du
+      duyulan: seyfettin kutuzdu
+  REPLACE  ...kutuz du ay önce
+      metin  : kasımında
+      duyulan: un kasım ında
+  REPLACE  ...kendi anlattığına göer aslında
+      metin  : harezmşahlar
+      duyulan: harezm i şahlar
+  REPLACE  ...göer aslında harezmşahlar hanedanından
+      metin  : prensti
+      duyulan: prensdi
+  REPLACE  ...moğollara karşı savaşmış son
+      metin  : harezmşah
+      duyulan: harezm i şah
+  REPLACE  ...son harezmşah celaleddin in
+      metin  : yeğeniydi
+      duyulan: yeğneydi
+  REPLACE  ...olunan demek mısır ın
+      metin  : eyyubi
+      duyulan: eyübi
+  REPLACE  ...sultanları özellikle es salih
+      metin  : eyyub
+      duyulan: eyüp
+  REPLACE  ...çoğu karadeniz in kuzeyindeki
+      metin  : bozkırlardan
+      duyulan: boskırlardan
+  INSERT   ...askeri kardeşlik olarak kalıyorlardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tuhaf yanı da burada
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...yanı da burada ve
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...yıllarda moğol orduları kıpçak
+      metin  : bozkırını
+      duyulan: boskırını
+  INSERT   ...beklemediği biçimde değiştirmişti ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ağustos çin in güneybatısındaki
+      metin  : siçuan
+      duyulan: sichuan
+  REPLACE  ...mparatorluğu nun büyük hanı
+      metin  : möngke song
+      duyulan: mönke son
+  REPLACE  ...mermiyle yaralanmıştı kesin olan
+      metin  : möngke
+      duyulan: mönke
+  REPLACE  ...en büyük sorununu yeniden
+      metin  : açtığıydı
+      duyulan: açtıydı
+  REPLACE  ...komutanların katıldığı kurultayda seçilirdi
+      metin  : möngke
+      duyulan: mönke
+  REPLACE  ...oluşan ordu binlerce hayvan
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...ve başına güvendiği komutanlarından
+      metin  : ketbuğa yı
+      duyulan: ketbuayı
+  REPLACE  ...dönene kadar düzeni korumaktı
+      metin  : ketbuğa nayman
+      duyulan: ketbua naiman
+  REPLACE  ...için tablo artık farklıydı
+      metin  : bağdadı
+      duyulan: bağdad ı düşüren halebi yakan büyük orduları bağdad ı
+  REPLACE  ...kadar sürmeyeceğini de biliyorlardı
+      metin  : hülagü
+      duyulan: hülagi
+  INSERT   ...ordusu bölünmüştü yıl önce
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aybek bahriye adlı seçkin
+      metin  : memlük
+      duyulan: memluk
+  REPLACE  ...taki köle pazarında satılmıştı
+      metin  : çağdaş anlatılara
+      duyulan: fiyatlara
+  INSERT   ...eyyub un hizmetine girmiş
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hizmetine girmiş fransa kralı
+      metin  : lui nin
+      duyulan: louis in
+  REPLACE  ...ordusunu mansuer de durduran
+      metin  : memlük
+      duyulan: memluk
+  INSERT   ...moğollar karşısında çöktüğünü görmüştü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kalıp savunma savaşı vermeyi
+      metin  : moğolları
+      duyulan: kutuz un yolları
+  INSERT   ...emirler peşinden gitti temmuz
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...peşinden gitti temmuz sonunda
+      metin  : memlük
+      duyulan: memluk
+  ... ve 72 fark daha
+
+metinde olup DUYULMAYAN: 124 kelime | duyulup metinde OLMAYAN: 183
+bölme/birleşme farkı (hata değil, elendi): 45
+
+duyulan metin: tarih-2026-10-18.duyulan.txt

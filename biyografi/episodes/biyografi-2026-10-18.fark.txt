@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-18.mp3
+
+beklenen 2421 kelime | duyulan 2422 kelime | eşleşme %93.3
+sayı ifadesi: metinde 285, duyulanda 239  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yaralı mühendis gün önce
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...işine gidiyordu adı tsutomu
+      metin  : yamaguçi ydi
+      duyulan: yamaguchi idi do
+  INSERT   ...tsutomu yamaguçi ydi mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...doğmuştu çocukluğu tersanelerin vinçleri
+      metin  : çekiç
+      duyulan: çekit
+  REPLACE  ...önemli gemi yapım merkezlerinden
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...gerekirdi tanıyanlar sonraki yıllarda
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...henüz kucakta taşınan oğulları
+      metin  : katsutoşi
+      duyulan: katsutochi
+  REPLACE  ...ihtiyaç vardı o yaz
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...ye görev verildi şirketin
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...arkadaşı da vardı akira
+      metin  : i vanaga
+      duyulan: iwanaga
+  REPLACE  ...japonya nın ana adası
+      metin  : honşu
+      duyulan: honshu
+  REPLACE  ...honşu nun güney kıyısındaki
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...kıyısındaki hiroşima ya gittiler
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...sessizliği içindeydi askeri karargah
+      metin  : kentiydi
+      duyulan: kenti idi
+  REPLACE  ...kentleri bilerek dokunulmamış bırakmıştı
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...da bu listedeydi ne
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...yamaguçi nin ne de
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...gün boyu tersanede çalıştılar
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...gidip nagazaki ye dönecekti
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  INSERT   ...bile yoktu sabah saat
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yoktu sabah saat geçiyordu
+      metin  : yamaguçi tersane
+      duyulan: yamaguchi tershane
+  REPLACE  ...ölçümlerini yapacak aletleri taşıyordu
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...bakmaya devam etti saat
+      metin  : geçe
+      duyulan: i gece
+  REPLACE  ...saat geçe gökyüzü yarıldı
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...doğru büyüyen devasa bulut
+      metin  : sütunu
+      duyulan: sütünü
+  REPLACE  ...devasa bulut sütunu yükseliyordu
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...o sabah yerde yatan
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...saniye içinde tanınmaz hale
+      metin  : geldiğiydi
+      duyulan: geldiydi
+  REPLACE  ...yeer yığılıp daha kalkmıyordu
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...sabahı göremeyecek insanlar vardı
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...düşünce dönüyordu eve dönmek
+      metin  : nagazaki
+      duyulan: nagasaki
+  REPLACE  ...ye hisako ya ve
+      metin  : katsutoşi ye
+      duyulan: katsutoşu ya
+  REPLACE  ...ulaşmak o gece kimse
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...de aslında tokyo daki
+      metin  : hükümet
+      duyulan: hükümetler
+  REPLACE  ...yola çıktı duyduklarına göer
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...üzerindeki köprülerin bölümü yıkılmıştı
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...atlamış insanların cesetleriyle doluydu
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...görüntüleriydi tren ağustos ta
+      metin  : nagazaki
+      duyulan: nagasaki
+  REPLACE  ...ta nagazaki ye ulaştı
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  REPLACE  ...bağlı kalması beklenirdi ama
+      metin  : yamaguçi
+      duyulan: yamaguchi
+  ... ve 91 fark daha
+
+metinde olup DUYULMAYAN: 144 kelime | duyulup metinde OLMAYAN: 145
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: biyografi-2026-10-18.duyulan.txt

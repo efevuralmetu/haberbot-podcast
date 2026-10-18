@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-18.mp3
+
+beklenen 2564 kelime | duyulan 2560 kelime | eşleşme %95.9
+sayı ifadesi: metinde 283, duyulanda 239  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...psikologlar uzun zamandır inceliyor
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...döner brickman ve arkadaşlarının
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...izlediği adam vardı adı
+      metin  : diyojen di
+      duyulan: diöjendi
+  REPLACE  ...torba bütün varlığı buydu
+      metin  : diyojen in
+      duyulan: diöjenin
+  REPLACE  ...su içtiğini gördüğünü anlatır
+      metin  : diyojen
+      duyulan: diöjen
+  REPLACE  ...geçti bu küçük sahne
+      metin  : diyojen in
+      duyulan: diöjenin
+  REPLACE  ...i skender le karşılaşmasıdır
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...anlattığına göer i skender
+      metin  : korint
+      duyulan: korinth
+  REPLACE  ...i skender korint te
+      metin  : diyojen i
+      duyulan: diöjeni
+  REPLACE  ...şey olup olmadığını sorar
+      metin  : diyojen in
+      duyulan: diöjenin
+  REPLACE  ...etme başka ihsan istemem
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...eğer i skender olmasaydım
+      metin  : diyojen
+      duyulan: diöjen
+  REPLACE  ...olmak isterdim demiştir ama
+      metin  : diyojen in
+      duyulan: diöjenin
+  REPLACE  ...arzuların doğal sınırı yoktur
+      metin  : karın
+      duyulan: kağrın
+  REPLACE  ...doyurulduğunda yerini yenisine bırakır
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...imparatorluğun en zengin insanlarından
+      metin  : lukius
+      duyulan: lucius
+  REPLACE  ...zengin insanlarından lukius aneus
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...hocası ve danışmanıydı tarihçi
+      metin  : tasitus seneka
+      duyulan: tacitus seneca
+  REPLACE  ...bu devasa paraydı aynı
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...korktuğum şey bu muydu
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...ikiyüzlülük müydü bu soru
+      metin  : seneka
+      duyulan: seneca
+  INSERT   ...şeye bağımlıdır oysa doğuda
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kişi ebu hamid el
+      metin  : gazzali ydi gazzali
+      duyulan: ghazali idi ghazali
+  REPLACE  ...eser arapça adı i
+      metin  : hyau ulumi d
+      duyulan: hya ulumide
+  REPLACE  ...mal sevgisini ele alır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...hekim titizliğiyle teşhis eder
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...şeyi de biriktirmeye başlar
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...halini anlatırken buhari ve
+      metin  : müslim in
+      duyulan: müslüman
+  REPLACE  ...ancak ölümle toprakla geliyor
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...işlerinde kendinden yukarıdakine bakmak
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...oturana daha başarılı görünene
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...gönlüne öyle yerleşmiştir ki
+      metin  : kaynağı
+      duyulan: kaynağa
+  REPLACE  ...alınamaz çünkü eşya değil
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...tersine mümkün kılıyor ahilik
+      metin  : geleneğiyle
+      duyulan: geleneği ile
+  REPLACE  ...yaptım komşum henüz yapmadı
+      metin  : alın
+      duyulan: alındı
+  REPLACE  ...tamamının ayakta kalmasını önemsiyor
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...kanaat edin aynı cümle
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...kolayca susturma aracına dönüşebiliyor
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...de eğildi norveçli filozof
+      metin  : yon
+      duyulan: john
+  INSERT   ...norveçli filozof yon elster
+      metin  : (yok)
+      duyulan: te
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: felsefe-2026-10-18.duyulan.txt

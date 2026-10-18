@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-17.mp3
+
+beklenen 1462 kelime | duyulan 1473 kelime | eşleşme %95.2
+sayı ifadesi: metinde 279, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : sağanak
+      duyulan: saanak
+  REPLACE  ...kırdı kentte saatte metrekareye
+      metin  : kilogram
+      duyulan: kg
+  REPLACE  ...yağış düştü toplam yağış
+      metin  : kilograma
+      duyulan: kg a
+  REPLACE  ...arasında i ran destekli
+      metin  : husiler
+      duyulan: hussiler
+  REPLACE  ...başkenti riyad daki kral
+      metin  : halid
+      duyulan: halit
+  REPLACE  ...halid havalimanı na ve
+      metin  : abha
+      duyulan: apa
+  REPLACE  ...dolara kadar çıktı trump
+      metin  : husileri
+      duyulan: hussileri
+  REPLACE  ...gerilim doğdu devlet başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...georgia eyaletinin dalton kentinde
+      metin  : miting
+      duyulan: meeting
+  REPLACE  ...düzenledi ve demokrat senatör
+      metin  : jon ossoff u
+      duyulan: john osofu
+  REPLACE  ...ossoff u hedef aldı
+      metin  : reuters
+      duyulan: brutus
+  INSERT   ...yarışların yaşandığı seçim bölgesinin
+      metin  : (yok)
+      duyulan: inde
+  REPLACE  ...cumhuriyetçi adaylar beyaz saray
+      metin  : ile
+      duyulan: la
+  REPLACE  ...trump ayrıca ekim deki
+      metin  : mitingde
+      duyulan: meeting de
+  REPLACE  ...kaliforniya da ize san
+      metin  : klemente
+      duyulan: clemente
+  REPLACE  ...görev gücü siber güvenlik
+      metin  : biyogüvenlik
+      duyulan: bio güvenlik
+  REPLACE  ...dava açtı eyaletler şirketi
+      metin  : chatgpt
+      duyulan: chet gpt
+  REPLACE  ...güvenlik önlemleri bulunduğunu savunuyor
+      metin  : öte
+      duyulan: elete
+  REPLACE  ...için dış kaynaklı uzman
+      metin  : işe
+      duyulan: işi
+  REPLACE  ...meta parametreli açık ağırlıklı
+      metin  : muse
+      duyulan: moos
+  REPLACE  ...karma uzman mimarisine sahip
+      metin  : mai base
+      duyulan: amaibase
+  REPLACE  ...mai base modelini duyurdu
+      metin  : nvidia
+      duyulan: neva da ayda
+  REPLACE  ...yönelik çok kipli nemotron
+      metin  : nokta super vl
+      duyulan: superviel
+  INSERT   ...sürdü çin ticaret bakanlığı
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...listesine eklemek için kamuoyu
+      metin  : görüşüne
+      duyulan: görüşünü
+  REPLACE  ...için kamuoyu görüşüne açtı
+      metin  : tayvan
+      duyulan: taiwan
+  REPLACE  ...tedarik zincirindeki şirketler için
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...endeksi düşüşle puana geriledi
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...kaybetti teknoloji sektörü toplamda
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...ve enerji hariç çekirdek
+      metin  : enflasyon
+      duyulan: enflasyonu
+  INSERT   ...kapandığı saatlerde dolar civarındaydı
+      metin  : (yok)
+      duyulan: saltın
+  REPLACE  ...kapandı ve haftalık kaybı
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...sonucu öldü sarıyer in
+      metin  : ayazağa semtinde
+      duyulan: ayaza semtin de
+  INSERT   ...da ihbar alındı ve
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...isimler bulunuyor parti sözcüsü
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...uğurlanacak törene enerji ve
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...gazete de anonim ve
+      metin  : limitet
+      duyulan: limited
+  INSERT   ...için tanınan süreyi aralık
+      metin  : (yok)
+      duyulan: ye
+  DELETE   ...slam i şbirliği teşkilatı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i kinci dışişleri bakanları
+      metin  : konseyi
+      duyulan: konsey
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: gundem-2026-10-17.duyulan.txt

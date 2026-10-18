@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-18.mp3
+
+beklenen 1459 kelime | duyulan 1467 kelime | eşleşme %96.5
+sayı ifadesi: metinde 132, duyulanda 116  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tarihi adlı ansiklopedik eserinde
+      metin  : devekuşunun başını
+      duyulan: deve kuşunun
+  REPLACE  ...i srailli araştırmacılar dan
+      metin  : galai
+      duyulan: galay
+  REPLACE  ...araştırmacılar dan galai ve
+      metin  : orly sade
+      duyulan: or lissade
+  REPLACE  ...sonra geldi ekonomist niklas
+      metin  : karlsson
+      duyulan: carson
+  REPLACE  ...ekonominin önde gelen isimlerinden
+      metin  : corc lovenstayn
+      duyulan: kurt lovenstein
+  INSERT   ...lovenstayn ve duane seppi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ekranı adeta görünmez oluyordu
+      metin  : lovenstayn
+      duyulan: lovenstein
+  INSERT   ...oluyordu lovenstayn ve arkadaşları
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...belki korku dalgası gelir
+      metin  : lovenstayn
+      duyulan: lovenstein
+  REPLACE  ...yalnızca para meselesi değil
+      metin  : psikolog
+      duyulan: pesikolog
+  INSERT   ...thomas webb ve meslektaşları
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kapattığımızda başlar psikolog kate
+      metin  : sweeny
+      duyulan: sweeney
+  DELETE   ...etkisi zayıflık olmaktan çıkıp
+      metin  : anlaşılır
+      duyulan: (YOK — atlanmış)
+  DELETE   ...haline değil takvime bağlamak
+      metin  : devekuşu etkisi tam olarak ruh halimize göer bakıp bakmamaya karar verdiğimiz için ortaya çıkıyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çıkar sıradan rutine dönüşür
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...rutine dönüşür psikolog peter
+      metin  : golvitsır
+      duyulan: golwitzer
+  REPLACE  ...haftaya bakın kaçış bilinmezliğin
+      metin  : büyüklüğüyle
+      duyulan: büyüklüğü ile
+  INSERT   ...gelir adım yalnız bakmak
+      metin  : (yok)
+      duyulan: zorundayız adım yalnız bakmak zorundayız adım yalnız bakmak
+  REPLACE  ...haberle başa çıkabileceğimize inanmak
+      metin  : sweeny
+      duyulan: sivini
+  REPLACE  ...yollarıdır başkasının yanında olması
+      metin  : bilgiyi
+      duyulan: ilgiyi
+  REPLACE  ...ilgilenmek için başımızı eğmek
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: psikoloji-2026-10-18.duyulan.txt

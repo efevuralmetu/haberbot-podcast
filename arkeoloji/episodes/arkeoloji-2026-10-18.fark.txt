@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-18.mp3
+
+beklenen 2635 kelime | duyulan 2664 kelime | eşleşme %95.6
+sayı ifadesi: metinde 286, duyulanda 260  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...renkli sıvı cıva havuzu
+      metin  : (yok)
+      duyulan: sonbaharında meksika da sağanak yıldır kimsenin bastığı yeri gözlerden saklayan toprağı yarıp açtı
+  REPLACE  ...geçer bu şeher bugün
+      metin  : teotiuakan
+      duyulan: teotihuacan
+  REPLACE  ...teotiuakan diyoruz ama bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ad şehri kuranların koyduğu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kuranların koyduğu ad değil
+      metin  : teotiuakan
+      duyulan: teotihuacan
+  REPLACE  ...yeri diye okunan adın
+      metin  : teotiuakan
+      duyulan: teotihuacan
+  REPLACE  ...sonra ile arasında parlayan
+      metin  : teotiuakan kilometrekareyi
+      duyulan: teotihuacan i
+  INSERT   ...alana yayılmıştı ve nüfusunun
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...pek az şehir vardı
+      metin  : teotiuakan
+      duyulan: teotihuacan
+  INSERT   ...bloklarında yaşıyordu ve bunlardan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...uzakta i spanyolların la
+      metin  : siudadela
+      duyulan: ciudadela
+  REPLACE  ...setlerle çevrili bu avlu
+      metin  : binlerce
+      duyulan: lerce
+  REPLACE  ...büyüleyici yapısı durur templo
+      metin  : de la serpiyente
+      duyulan: della serpiente
+  REPLACE  ...kadar yüksek değildir ama
+      metin  : cephesi
+      duyulan: cepesi
+  REPLACE  ...tapınağın taşıdığı anlamın ağırlığını
+      metin  : seksenlerde
+      duyulan: lerde
+  INSERT   ...arkadan bağlanmış halde gömülmüş
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kazı planı değil sonbahar
+      metin  : sağanağı
+      duyulan: sahanağı
+  INSERT   ...değil sonbahar sağanağı oldu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...oldu yılının ekim ayında
+      metin  : teotiuakan
+      duyulan: teotihuacan
+  REPLACE  ...nde çalışan arkeolog serhiyo
+      metin  : gomes çaves di gomes
+      duyulan: gómez çavest i gómez
+  REPLACE  ...çaves di gomes yıllarca
+      metin  : teotiuakan
+      duyulan: teotihuacan
+  REPLACE  ...gibi bilen anlatılanlara göer
+      metin  : gomes
+      duyulan: gómez
+  REPLACE  ...halat bağlayıp el feneriyle
+      metin  : deliğe
+      duyulan: deliye
+  REPLACE  ...tüneli bilerek özenle tıkamıştı
+      metin  : gomes
+      duyulan: gómez
+  REPLACE  ...nereye gittiğini anlamak istedi
+      metin  : jeofizikçilerle
+      duyulan: geofizikçilerle
+  REPLACE  ...ucu hala çok uzaktaydı
+      metin  : gomes
+      duyulan: gomez
+  INSERT   ...insan yerine makine göndermekti
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...mezoamerika tanrısının adını verdiler
+      metin  : tlalok i ki
+      duyulan: tlaloc
+  DELETE   ...daha küçük yardımcısı vardı
+      metin  : tlalok i
+      duyulan: (YOK — atlanmış)
+  INSERT   ...vardı tlalok i ki
+      metin  : (yok)
+      duyulan: te tlaloc
+  REPLACE  ...tünelin sonu henüz görünmüyordu
+      metin  : gomes
+      duyulan: gomez
+  REPLACE  ...gece göğündeki yıldızlar gibi
+      metin  : ışıldıyordu gomes
+      duyulan: ışıl diyordu gomez
+  REPLACE  ...meslektaşları bu kaplamayı teotihuacanlıların
+      metin  : yeraltına
+      duyulan: yer
+  REPLACE  ...olarak yorumluyor mezoamerika inançlarında
+      metin  : yeraltı
+      duyulan: yer
+  REPLACE  ...kaplanmıştı jarosit piritin zamanla
+      metin  : bozunmasıyla
+      duyulan: bozulmasıyla
+  REPLACE  ...tünelin cömertliğinin yalnızca parçasıydı
+      metin  : gomes
+      duyulan: gomez
+  INSERT   ...aktardığına göer kazılar boyunca
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...nesnenin yanında iyi korunmuş
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...oyunuyla ilişkilendiriliyor tünelde ayrıca
+      metin  : karayipler den
+      duyulan: kara iplerden
+  REPLACE  ...oyulmuş takılar ve heykelcikler
+      metin  : obsidyen
+      duyulan: obsidiyen
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 80 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: arkeoloji-2026-10-18.duyulan.txt

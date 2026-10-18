@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-18.mp3
+
+beklenen 1774 kelime | duyulan 1779 kelime | eşleşme %97.2
+sayı ifadesi: metinde 211, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ucu yuvarlak ve dolgun
+      metin  : öteki
+      duyulan: ötteki
+  REPLACE  ...dönüşür bu nesneye bugün
+      metin  : prens
+      duyulan: prince
+  REPLACE  ...olur adlarını aldıkları kişi
+      metin  : ren prensi
+      duyulan: wren princey
+  INSERT   ...amatör bilim insanıydı monarşi
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...monarşi geri gelip kuzeni
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gözyaşı tam göer bilmeceydi
+      metin  : cemiyetin
+      duyulan: de cemiyet in
+  INSERT   ...robert hooke oldu hooke
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geniş okur kitlesine gösteren
+      metin  : mikrografia
+      duyulan: mikrografya
+  REPLACE  ...görülmeyecek kadar küçük kusurlar
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...pek az engelle karşılaşır
+      metin  : prens
+      duyulan: prince
+  REPLACE  ...purdue üniversitesi nden srinivasan
+      metin  : çandrasekar
+      duyulan: chandrasekar
+  REPLACE  ...srinivasan çandrasekar cambridge den
+      metin  : munavar çaudri
+      duyulan: munawar chaudhry
+  INSERT   ...renkli desenler halinde gösteriyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yüzeyindeki basınç bazı ölçümlerde
+      metin  : megapaskala
+      duyulan: mpa
+  DELETE   ...sağlam kaldı bu kabaca
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...inceydi başın çapının yalnızca
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...kameranın gerekmesi şaşırtıcı değil
+      metin  : çandrasekar
+      duyulan: te chandrasekar
+  REPLACE  ...şaşırtıcı değil çandrasekar ve
+      metin  : çaudri
+      duyulan: chowdry
+  REPLACE  ...yapabilen yüksek hızlı fotoğraf
+      metin  : düzeneğiyle
+      duyulan: düzene ile
+  DELETE   ...meter arasındaydı kabaca saniyede
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tek hat olarak ilerlemiyordu
+      metin  : koştukça
+      duyulan: koçtukça
+  REPLACE  ...kırıntılara dönüşmesinin sebebi buydu
+      metin  : hooke un
+      duyulan: hukum
+  REPLACE  ...laboratuvar merakıyla sınırlı kalmadı
+      metin  : prens
+      duyulan: prince
+  REPLACE  ...iç kısım sonra soğuyup
+      metin  : büzülür
+      duyulan: düzülür
+  REPLACE  ...sonra soğuyup büzülür sonuç
+      metin  : damladakiyle
+      duyulan: damladaki ile
+  REPLACE  ...nispeten zararsız cam küpü
+      metin  : yağar
+      duyulan: yayar
+  REPLACE  ...banyoda camın yüzeyindeki küçük
+      metin  : sodyum iyonları
+      duyulan: sodyümiyonları
+  REPLACE  ...banyodan gelen daha iri
+      metin  : potasyum iyonları
+      duyulan: potasyümiyonları
+  REPLACE  ...katmanıyla kaplanır fikrin özü
+      metin  : prens
+      duyulan: prince
+  REPLACE  ...damlasıyla aynıdır sıkıştırarak oradaki
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...yaratılır kimyasal güçlendirme fikri
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...yaygınlaşması ize yüzyılda cebe
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...gibi yayılan çizgileri görürsünüz
+      metin  : prens
+      duyulan: prince
+  REPLACE  ...yüzeyinde yaşamaya devam ediyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: bilim-2026-10-18.duyulan.txt

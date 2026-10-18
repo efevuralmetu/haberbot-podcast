@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-18.mp3
+
+beklenen 1888 kelime | duyulan 1902 kelime | eşleşme %95.7
+sayı ifadesi: metinde 189, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...ama sahneye yalnızca çıkabildi
+      metin  : öteki
+      duyulan: ötteki
+  INSERT   ...neredeyze iç içe geçmişti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...geçişi de sessiz oldu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...çoğu zaman yönetmenin kendisi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ceylan bunu fark etmişti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...toprak ize yönetmenin kuzeni
+      metin  : saffedi
+      duyulan: saffet i
+  REPLACE  ...genç adam filmin sonunda
+      metin  : saffedin
+      duyulan: saffet in
+  REPLACE  ...saffedin hayalleri askıda kalıyordu
+      metin  : ceylan ın
+      duyulan: d c ile nin
+  REPLACE  ...yeniden karşı karşıya gelecekti
+      metin  : ceylan
+      duyulan: d c ile n
+  REPLACE  ...gelen yusuf u canlandıracaktı
+      metin  : mahmudun
+      duyulan: mahmut un
+  REPLACE  ...bu kar efekt değildi
+      metin  : ceylan
+      duyulan: d c lan
+  REPLACE  ...uzak ta sadece atmosfer
+      metin  : öğesi
+      duyulan: öyesi
+  REPLACE  ...da böyle şehirde geçebilirdi
+      metin  : ceylan
+      duyulan: d c lan
+  REPLACE  ...aralarındaki mesafe hiç kapanmaz
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...ironiyi tek anda toplar
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...oturur şey anlamadan bekler
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...yusuf odasına gider gitmez
+      metin  : mahmut
+      duyulan: mahmud
+  INSERT   ...entelektüel vitrin işlevi görür
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...taşımadığını sanatından vazgeçtiğini vurur
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...kanada ya gitmek üzeredir
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...evinde saat kaybolur ve
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...yerinde olduğu anlaşılır ama
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...kimseye haber vermeden gider
+      metin  : mahmut
+      duyulan: mahmud
+  REPLACE  ...görülen i stanbul değildir
+      metin  : ceylan ın
+      duyulan: dejşe nin
+  INSERT   ...daha soğuk haber geldi
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...soğuk haber geldi aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...film vizyona girmek üzereydi
+      metin  : ceylan ın
+      duyulan: dejla nın
+  REPLACE  ...beri yer alan mayıs
+      metin  : sıkıntısı nda saffede uzak ta
+      duyulan: sıkıntısında saffet e uzakta
+  INSERT   ...yankısı ay sonra mayıs
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...güney kıyısında koptu uzak
+      metin  : kan
+      duyulan: cannes
+  REPLACE  ...jüri başkanlığını fransız yönetmen
+      metin  : patris şero nun
+      duyulan: patrice chérron un
+  REPLACE  ...ama hikayenin en yürek
+      metin  : burkan
+      duyulan: vurkan
+  REPLACE  ...oldu yıllar sonra kış
+      metin  : uykusu ile kan
+      duyulan: uykusuyla kaan
+  REPLACE  ...az bu kadar belirleyicidir
+      metin  : binlerin
+      duyulan: kiki in
+  REPLACE  ...kaynağı oldu kişisel sessiz
+      metin  : taşra ile
+      duyulan: taşrayla
+  REPLACE  ...izini birlikte taşır yanda
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...kalanların taşıdığı sessiz hatıra
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-10-18.duyulan.txt

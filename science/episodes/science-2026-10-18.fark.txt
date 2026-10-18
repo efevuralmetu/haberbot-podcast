@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-18.mp3
+
+beklenen 1809 kelime | duyulan 1764 kelime | eşleşme %7.4
+sayı ifadesi: metinde 182, duyulanda 80  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tension frozen inside it
+      metin  : avucunuzun içinde iri fasulye tanesinden büyük cam parçası duruyor ucu yuvarlak
+      duyulan: pinch the glass between fingers and the whole drop explodes into glittering dust faster than yor eye can follow for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside it for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside the glass pinch the glass between fingers and the whole drop explodes into glittering dust faster than yor eye can follow for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside the glass for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside the glass for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside the glass for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside the glass for moer than years this toy sized piece of glass embarrassed kings and scientists alike and its secret is an invisible tension frozen inside the glass and jidi urachan nardanbier jemi etin denei sorumluso olan gens robert hoekold hoek tayaemladu
+  REPLACE  ...duruyor ucu yuvarlak ve
+      metin  : dolgun öteki ucu gittikçe incelip saç teli kalınlığında kıvrık kuyruğa dönüşüyor iribaşa ya da yanağınızdan süzülüp donmuş gözyaşı damlasına benziyor yuvarlak başını örsün üstüne koyup çekiçle vurabilirsiniz cam yerinden kıpırdamaz çekiç geri seker şimdi aynı damlanın kuyruğunu parmağınızın arasında hafifçe bükün çıtırtı duyarsınız ve göz açıp kapayıncaya kadar damlanın tamamı patlayarak avucunuzda ince cam tozuna dönüşür bu nesneye bugün prens rupert damlası diyoruz yapması şaşırtıcı derecede kolay cam çubuğunun ucunu alevde eritiyorsunuz koyu kıvamlı kor gibi parlayan damla oluşup aşağı sarkıyor damla kendi ağırlığıyla kopup soğuk su dolu kovaya düşüyor su an fokurduyor damla dibe çöküyor ve geride yukarıdaki cam ipliğinden kalma uzun kuyruk bırakıyor damlaların kısmı daha suyun içindeyken çatlayıp dağılıyor sağlam kalanlar ize yukarıda anlattığım çelişkiyi taşıyor başları neredeyze yıkılmaz kuyrukları ize yok denecek kadar dayanıksız bu damlaları
+      duyulan: mikroskopaltandakiduniaje
+  REPLACE  ...dayanıksız bu damlaları ilk
+      metin  : kimin yaptığını bilmiyoruz bildiğimiz şu yüzyılın ilk yarısında kuzey avrupa nın cam atölyelerinde özellikle hollanda ve alman topraklarında tanınıyorlardı latince yazan bilginler lacrymae batavicae yani hollanda gözyaşları diyordu o dönemde bilimsel deney aracından çok saray salonlarında gösterilen eğlenceydiler konuğunuza damlanın başını verip kırmasını istersiniz o uğraşır ama başaramaz sonra kuyruğu siz kırarsınız ve cam gözlerinin önünde buharlaşır gibi yok olur adlarını aldıkları kişi ren prensi rupert bu gözyaşlarının mucidi değil taşıyıcısıydı i ngilteer kralı charles ın yeğeniydi ve i ngiliz i ç savaşı nda kralcı süvarileer komuta etmiş gözü pek askerdi bunun yanında kimya ve gravür denemeleri yapan meraklı amatör bilim insanıydı monarşi ta geri gelip kuzeni i kinci charles tahta çıktığında rupert bu damlalardan kısmını kraliyet sarayına getirdi kral da bunları kısa süer önce kurulmuş topluluğa iletti londra daki royal society yani kraliyet cemiyeti kraliyet cemiyeti nin kurucuları doğayı deneyle sorgulamak istiyordu elden ele dolaşan bu tuhaf cam gözyaşı tam göer bilmeceydi de cemiyetin toplantılarında damlalar kırıldı incelendi tartışıldı kimisi kuyruk kırılınca içeriden tür ruhun ya da sıkışmış havanın kaçtığını düşündü damlanın içinde zaman zaman küçük kabarcıkların görünmesi bu fikri besliyordu ama kabarcıksız damlalar da aynı biçimde patlıyordu demek ki mesele içeride hapsolmuş gaz değildi bu soruyla en ciddi uğraşanlardan cemiyetin deney sorumlusu olan genç robert hooke oldu hooke te yayımladığı ve mikroskop altındaki dünyayı ilk kez geniş okur kitlesine gösteren
+      duyulan: kezgenisbirokurkitlesinegostaran
+  REPLACE  ...kitlesine gösteren micrographia yani
+      metin  : küçük çizimler adlı kitabında bu damlalara
+      duyulan: kuchukchisim naradlikitabundabudamnalarada yerayarda ciklama sesgiduzaeindesha shertagibicimdedorudu hoek agaressuja dushangamun dushyuzu undjesarplishyar ichkusma ize ondanso unradonyardu boleje damlanun ichinde birturgerelimkilitlikaljordu tupku kurulmushbiryaygibe kurok kurildun
+  REPLACE  ...kitabında bu damlalara da
+      metin  : yer ayırdı önerdiği açıklama sezgi düzeyinde şaşırtıcı biçimde doğruydu hooke a göer suya düşen camın dış önce sertleşiyor iç kısmı ize sonra donuyordu böylece damlanın içinde tür gerilim kilitli kalıyordu tıpkı kurulmuş yay gibi kuyruk kırıldığında bu yay boşanıyor
+      duyulan: buyaiboshanur
+  REPLACE  ...bu yay boşanıyor ve
+      metin  : bütün yapı dağılıyordu hooke ana fikri yakalamıştı
+      duyulan: butunya pudaljordu hukanafikriyakalamashte
+  REPLACE  ...ana fikri yakalamıştı ama
+      metin  : kurulmuş yayın cam damlasının içinde tam olarak nasıl durduğunu başın neden bu kadar dayanıklı olduğunu
+      duyulan: kurulmushbiryayin birjamdamlasunun ichinde tamalarak nesildurdunu bashen nedanbukadar dayaniklalduunu
+  REPLACE  ...kadar dayanıklı olduğunu ve
+      metin  : yıkımın neden bu kadar hızlı ilerlediğini ölçecek araçları yoktu bu soruların ayrıntılı cevabı için yaklaşık yıl beklemek gerekecekti cevabı anlamak için
+      duyulan: yikumun nedanbukadar huzli ilarledinu ochijekarachlerioktu bussorularun irontilijevabu ichin yaklashik uchyuzilbeklemekgerekijekte seyvabu annamakichinde unje okovanan ichinde kibirkachsaniye girdun memsgerekyur ermishkam damlasuswiyadei
+  REPLACE  ...cevabı anlamak için de
+      metin  : önce
+      duyulan: anda ikyaerudunyau lushyur damlanun dushyuzeyi narja derejelikpirsujaklikfarkila anidankarsh lushyur ve nerardeize ananda katilushyur ichiriseyize hale akhorhalde yumushak veyakushkan ortayechakanshay balkava mandabirchekirdeysaran injewe sert birjamkabuk ardandan chekirdek de yawashyawash soemeyabashlyur nerdeize katalargibirjamda soodukche bussulur sorun shu chekirdek bussulmekistediinde etraafan daartek esnemeyan yirina oturmushbirkabukwar chekirdek kabu nichyuzena yapushkoldu ichin bussulur kyan kabu icheriadoru chekuyor kabukiseyur chusunu deyishtiremedi ichin diranyor sonanda ikitharafarasan da birturdonmushalat chekma oyunukalur chekirdek suraykli icheri chekkyuyor vegirilim altan da kaluyor kabukar yundan sekushtirilyor vebassan chaltan da kaluyor dhamla tamam en soodun da budurum ortadan kalkmyor jamun ichine kalijo alarakhilit lanyor muhandisler bunak kalun te girilmediyor dushardan hichbir kuve to yugulan madu hal demalze meni nichindewar olan girilme bunun nedan bukadar unemne oldun annamakichin jamun zayif noktasan bilemek girikyor khem sekushtiril mayakar shuson derejye guchludur kamblon ezmekichin chokbyuk vet girikir ama chekil maye yani giril mayakar shusasirte jedereje da zayiftir sebebi yuzayinde ki chatlak lardar nekadar purusus gurunurse gurun sun hargyam yuzayinde guzle gurunmi jekadar kuchukusurlar mikroskobik chiziklar veyar klarbulunur khem chekildin de buyar klarun aza achilir vegirilme yerun enuch noktasan da toplanur
+  REPLACE  ...için de önce o
+      metin  : kovanın içindeki saniyeye geri dönmemiz gerekiyor erimiş cam damlası suya değdiği anda ayrı dünya oluşuyor damlanın dış binlerce derecelik sıcaklık farkıyla aniden karşılaşıyor ve neredeyze anında katılaşıyor i çerisi ize hala akkor halde yumuşak ve akışkan ortaya çıkan şey bal kıvamında çekirdeği saran ince ve sert cam kabuk ardından çekirdek de yavaş yavaş soğumaya başlıyor neredeyze bütün katılar gibi cam da soğudukça büzülür sorun şu çekirdek büzülmek istediğinde etrafında artık esnemeyen yerine oturmuş kabuk var çekirdek kabuğun iç yüzeyine yapışık olduğu için büzülürken kabuğu içeriye doğru çekiyor kabuk ize ölçüsünü değiştiremediği için direniyor sonunda taraf arasında tür donmuş halat çekme oyunu kalıyor çekirdek sürekli içeri çekiliyor ve gerilim kalıyor kabuk her yönden sıkıştırılıyor ve basınç kalıyor damla tamamen soğuduğunda bu durum ortadan kalkmıyor camın içine kalıcı olarak kilitleniyor mühendisler buna kalıntı gerilme diyor dışarıdan hiçbir kuvvet uygulanmadığı halde malzemenin içinde var olan gerilme bunun neden bu kadar önemli olduğunu anlamak için camın zayıf noktasını bilmek gerekiyor cam sıkıştırılmaya karşı son derece güçlüdür cam bloğunu ezmek için çok büyük kuvvet gerekir ama çekilmeye yani gerilmeye karşı şaşırtıcı derecede zayıftır sebebi yüzeyindeki çatlaklardır ne kadar pürüzsüz görünürse görünsün her cam yüzeyinde gözle görülmeyecek kadar küçük kusurlar mikroskobik çizikler ve yarıklar bulunur cam çekildiğinde bu yarıkların ağzı açılır ve gerilme yarığın en uç noktasında toplanır o noktada atomlar arasındaki bağlar
+      duyulan: noktadar aramlar aresinde ki balar
+  REPLACE  ...tek tek kopar ve
+      metin  : çatlak ilerler metallerin aksine camın düzenli
+      duyulan: chatlak ilarlar mettalar enak sine kamun dusani
+  REPLACE  ...aksine camın düzenli kristal
+      metin  : yapısı çatlağı yavaşlatacak ya
+      duyulan: yapusu chatlal yawashlata jak yada yolunu ke sejektane sonar laryoktush kezilar lemeya bashlayan chatlakunu nde pekazengay lekarshulashir prenz rupert damlasunun bashi ishta bura
+  REPLACE  ...çatlağı yavaşlatacak ya da
+      metin  : yolunu kesecek tane sınırları yoktur kez ilerlemeye başlayan çatlak önünde pek az engelle karşılaşır prens rupert damlasının başı işte burada bambaşka davranıyor başın zaten büyük basınç çekiçle vurduğunuzda küçük çatlak oluşsa bile o çatlağın ağzı açılmıyor çünkü etrafındaki cam sürekli sıkıştırıyor çatlak doğar doğmaz kapanmaya zorlanıyor darbenin gerilme yaratabilmesi için önce bu
+      duyulan: bambashka davranur bashun yuzayizat en buyuk birbasan chaltan da chekichle wurdunuz da yuzayide kuchukbirchatlak olushtabile ochatlan aza achilmeyar chunku etrafunde ki jam onusurek di sakishtruyar chatlak doar domaz kapanmeyazorlanir darbanin jeromey yeer tabel messi ichin en jebuk
+  REPLACE  ...için önce bu kilitli
+      metin  : basıncı yenmesi gerekiyor ve çoğu zaman yenemiyor bu basıncın büyüklüğü ancak yüzyılda doğrudan ölçülebildi purdue üniversitesi nden
+      duyulan: basanju yen messigeer kyur vechozaman yene myur ulbasanjun buyuklu anjak yuzildadoru da nelchu lebildi perdu universisun den
+  REPLACE  ...purdue üniversitesi nden srinivasan
+      metin  : chandrasekar
+      duyulan: chandrasekhar
+  REPLACE  ...chandrasekar cambridge den munawar
+      metin  : chaudhri
+      duyulan: chadri
+  REPLACE  ...chaudhri ve estonya dan
+      metin  : hillar aben
+      duyulan: hilar abenin yurut du chalishmalar da damlalar shefaf seviyabatril de ve ichlerin dan polari zey usuk gechirildi gerald mey altan da ki jam ushuu giril menin buyuklu yene gurefarkli bichim debukar buyon teme foto elasti sayt den yor ve usuk jam dan chakar kyan ichinde ki gizli kuvet den hari tasun rinkli desa narhalin degus teriyor tuza os odir de yayim lanan sonuch lareguer bashen yuzayin degi basan chwasu ultim nareda us megapaskala kadarchi kuyordu buu atmosfer basan janan yakhlasik katademek aene ekibin den eylirin de damlalirin bashe ser tung stankar pilakalar arasan da ombeish yutna varan yukler altan da sekishtirilde ve saalam kalde buu kabacha buchuk tonuk ar lun parmakuju buyuklu
+  REPLACE  ...dan hillar aben in
+      metin  : yürüttüğü çalışmalarda damlalar şeffaf sıvıya batırıldı ve içlerinden polarize ışık geçirildi gerilme altındaki cam ışığı gerilmenin büyüklüğüne göer farklı biçimde büker bu yönteme fotoelastisite deniyor ve ışık camdan çıkarken içindeki gizli kuvvetlerin haritasını renkli desenler halinde gösteriyor
+      duyulan: degi jam bonju abindiril mesedemek elchim lair ser prizida haorteye chikarde buu muaazam basan chtabakasih aslanda chok injayde bashen chapunen yalnazja yuzde kadar bashen guju damnanan taman dan dheel buinje amason derejesikka kabuktangi yurdu denaylar
+  REPLACE  ...desenler halinde gösteriyor de
+      metin  : yayımlanan sonuçlara göer başın yüzeyindeki basınç bazı ölçümlerde megapaskala kadar çıkıyordu bu atmosfer basıncının yaklaşık katı demek aynı ekibin deneylerinde damlaların başı sert tungsten karbür plakalar arasında newtona varan yükler sıkıştırıldı ve sağlam kaldı bu kabaca buçuk tonluk ağırlığın parmak ucu büyüklüğündeki cam boncuğa bindirilmesi demek ölçümler sürprizi daha ortaya çıkardı bu muazzam basınç tabakası aslında çok inceydi başın çapının yalnızca u kadar başın gücü damlanın tamamından değil bu ince
+      duyulan: chatlak laren yuzayi da olu shabil di
+  REPLACE  ...değil bu ince ama
+      metin  : son derece sıkı kabuktan geliyordu deneylerde çatlakların oluşabildiği ama kabuğun içinde yön değiştirip paralel ilerlediği görüldü çatlak içeriye dalamıyor sert kabuğun içinde dolaşıp duruyordu başı yenmek için çatlağın bu ince zırhı delip içerideki gerilim bölgesine ulaşması gerekiyordu kuyruğun hikayesi ize tam tersi kuyruk
+      duyulan: kabunichin de yun deishtirip yuzayi paralaliar ladee gurul du chatlak ichirye dalam yur serat kabunichin de dolaship dur yurdu bashe yan mekichin chatlan buinje zir hudelip ichar deki girilim buulge sine ullash masageer kyurdu hirun hikia si isetam terse kuruk
+  REPLACE  ...tersi kuyruk o kadar
+      metin  : ince
+      duyulan: inse
+  REPLACE  ...o kadar ince ki
+      metin  : parmakla rahatça bükülebiliyor parmaklarınız kırdığında oluşan çatlak kalın basınç kabuğuyla karşılaşmıyor
+      duyulan: ikki parmaklu rahat che buki lebeliyar parmaklu rana zonukir danda ullushan chatlak kalun basan chkabu yu la karsh lashmyur
+  REPLACE  ...basınç kabuğuyla karşılaşmıyor ve
+      metin  : doğrudan damlanın içine gerilim altındaki çekirdeğe ulaşıyor çatlak
+      duyulan: dorudan damlana nichine girilim altan dakichekir de ullash yur chatlak
+  REPLACE  ...çekirdeğe ulaşıyor çatlak o
+      metin  : bölgeye girdiği
+      duyulan: buulge yagir di
+  REPLACE  ...bölgeye girdiği anda durum
+      metin  : tamamen tersine dönüyor artık çatlağı kapatmaya çalışan basınç yok
+      duyulan: tamam an terse nedun yur artak chatlak kapat maya chalushan basan chyok
+  REPLACE  ...çalışan basınç yok tam
+      metin  : tersine açmaya can
+      duyulan: terse ne ach maya janatan giril mevar damlan an ichinde kyan butun enarji chatlan an azan yurt makichin hazir beklu yur yani damlai yur karark yanku landa nus kuve tin neredei se hichun emiyok siz yal nuz jakapu yaral yursunuz yikumun enarji siz
+  REPLACE  ...tersine açmaya can atan
+      metin  : gerilme var damlanın içinde bütün enerji çatlağın ağzını yırtmak için hazır bekliyor
+      duyulan: ichar de soma anandam urdasakple bu tableau damlai le ilgili basa baska geuzlam nerida achik liur damlai yur furan da yinidan usitup chok yawashso tursanaz
+  REPLACE  ...için hazır bekliyor yani
+      metin  : damlayı kırarken kullandığınız kuvvetin neredeyze hiç önemi yok siz yalnızca kapıyı aralıyorsunuz yıkımın enerjisi zaten içeride soğuma anından beri orada saklı
+      duyulan: tawlar sanaz ichinde ki giril megev shar kabuk ila chekir dekarasandak yahalat chekme oyunu sana erat ortai achikan jambon juk artak nechiki jedayana bilir nedekuirun dampatlar suradan gamgi bikruler damlai ya olanustu gujunu verande yokadande aynu sheydir ichine ki litlan miskirilim
+  REPLACE  ...beri orada saklı bu
+      metin  : tablo damlayla ilgili bazı başka gözlemleri de açıklıyor damlayı fırında yeniden ısıtıp çok yavaş soğutursanız yani tavlarsanız içindeki gerilme gevşer kabuk ile çekirdek arasındaki halat çekme oyunu sona erer ortaya çıkan cam boncuk artık ne çekice dayanabilir ne de kuyruğundan patlar sıradan cam gibi kırılır damlaya olağanüstü gücünü veren de anda yok eden de aynı şeydir içine kilitlenmiş gerilim bu gerilim
+      duyulan: girilim
+  REPLACE  ...gerilim bu gerilim ortadan
+      metin  : kalkınca
+      duyulan: kalkanja
+  REPLACE  ...gerilim ortadan kalkınca hem
+      metin  : süper güç hem
+      duyulan: super gujhem
+  REPLACE  ...hem de patlama ortadan
+      metin  : kalkıyor geriye tek soru kalıyor kapı aralandığında içerideki enerji damlayı ne kadar hızlı parçalıyor kuyruğu kırılan damlanın dağılışını çıplak gözle izlemeye çalışırsanız hiçbir şey göremezsiniz an önce orada cam gözyaşı vardır an sonra parıldayan toz bulutu aradaki süreci görebilmek için insan gözünün değil saniyede binlerce
+      duyulan: kalku yur jeriye tekpir suru kal yur kapu aralandun da ichar de ki enarji damlai yinnekadar huzdu par chal yur kiru karulan damlanan dalishunu chiplak geuzde isdameye chalishirsanaz hichbirshey geuer masiniz biranunje urda gam geuzia shivardar sona parildayan tozbulutu arada ki sureji geuer bil mekichin in san geuzunun diil san ye de yuzbinarja karece ke bilan kameranangerek mesisasir tu jadeer chandrasekhar vechadri tamalarak bunu yapta san ye de
+  REPLACE  ...değil saniyede binlerce kaer
+      metin  : çekebilen kameranın gerekmesi şaşırtıcı değil te chandrasekar ve chaudhri tam olarak bunu yaptı saniyede kareye kadar çekim yapabilen yüksek hızlı fotoğraf düzeneğiyle kuyruğu kırılan damlaları kaydettiler görüntüler çatlağın kuyruktan başa doğru cephe halinde koştuğunu gösteriyordu ölçülen hız saniyede ile meter arasındaydı kabaca saniyede buçuk
+      duyulan: ekadar chekim yapabilan yuksik huzlibir fotarafduzene i le kuyru karulan damlalir keidet tilar giruntular chatlan kuyruktam bashadoru birjepehailin de koshtunu geusteryordu ulchulen huz san ye de bindurtu zelile bindukuz yuzmetra arasandade kabaja san ye de birbuchuk
+  REPLACE  ...saniyede buçuk kilometer bu
+      metin  : sesin havadaki hızının katından
+      duyulan: hawadaki huzunun dirt katan dan
+  REPLACE  ...havadaki hızının katından fazla
+      metin  : kuyruktan başa kadar santimetrelik
+      duyulan: huyruktan bashakadar san te metreilik
+  REPLACE  ...başa kadar santimetrelik yol
+      metin  : saniyenin mertebesinde sürede kat ediliyordu kayıtlar başka şeyi daha gösterdi çatlak
+      duyulan: san ye ne yuzbin de meerte besinde suradekate dilyordu kaitlar bashkabishayi dahagyo sterede chatlak
+  REPLACE  ...daha gösterdi çatlak tek
+      metin  : hat olarak ilerlemiyordu koştukça çatallanıyor her
+      duyulan: birhatolarak ilar lemyordu koshtuk chechatal laniyor herkol ye nidani kiya irolyor ve budalan madur madan tekraar laniyordu bu nun nidani chatla nujuna akan enarji nen fazlol maside tek birchatlak bu enarji i tashia ma yinja enarji yeni
+  REPLACE  ...koştukça çatallanıyor her kol
+      metin  : yeniden ayrılıyor ve bu dallanma durmadan tekrarlanıyordu bunun nedeni çatlağın ucuna akan enerjinin fazla olmasıydı tek çatlak bu enerjiyi taşıyamayınca enerji yeni kollara dağılıyordu sonuçta damlanın içinde saniyenin küçük kesrinde sayısız
+      duyulan: lara dal yordu sonuchta damlanan ichinde san ye nin kuchuk birkeisrinde sayisis
+  REPLACE  ...küçük kesrinde sayısız kola
+      metin  : ayrılmış çatlak ağacı büyüyordu damlanın büyük parçaya ayrılmak yerine ince kırıntılara dönüşüp tozlaşmasının sebebi buydu hooke un kurulmuş yay benzetmesi böylece ölçülebilir fiziğe dönüşmüştü
+      duyulan: irolymish birchatlak aajibu yordu damlanan buyuk parchaya irolymak yirne inje kurantilara dhunuship toslashmasanan se bibi budu hukun kurul musyai benzeit mesi boileje ulchu lebilir birfiziye dunushmushtu
+  REPLACE  ...ölçülebilir fiziğe dönüşmüştü damla
+      metin  : enerjisini dallanan çatlak ağına harcayarak boşalan yaydı bu hikaye yalnızca saray eğlencesiyle ya da laboratuvar merakıyla sınırlı kalmadı prens
+      duyulan: enarji sini dal lanan birchatlak alana har jayarak boshalan yayde buhi ke alnusja sarai elan jesile yadabir laboratuar mirak ilar lakal madu prans
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 1671 kelime | duyulup metinde OLMAYAN: 1628
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-10-18.duyulan.txt
