@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-18.mp3
+
+beklenen 1460 kelime | duyulan 1477 kelime | eşleşme %94.6
+sayı ifadesi: metinde 305, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...abd başkanı donald trump
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...ve kendisinin de imzaladığı
+      metin  : graham
+      duyulan: gram
+  REPLACE  ...fiyatlarını gösterdi ve rusya
+      metin  : ile
+      duyulan: yla
+  INSERT   ...yapılmasının fiyatları dengeleyeceğini savundu
+      metin  : (yok)
+      duyulan: bu
+  REPLACE  ...kararı ukrayna devlet başkanı
+      metin  : volodimir zelenski
+      duyulan: volodymyr zelenskiy
+  REPLACE  ...devam ediyor yemen deki
+      metin  : husiler
+      duyulan: hussiler
+  REPLACE  ...husiler ile ekim arasında
+      metin  : suudi
+      duyulan: saudi
+  INSERT   ...en az kişi öldü
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ve havalimanı uçuşlara kapatıldı
+      metin  : suudi
+      duyulan: saudi
+  REPLACE  ...suudi arabistan liderliğindeki koalisyon
+      metin  : husilerin
+      duyulan: hussilerin
+  REPLACE  ...saldırılara katılabileceğinin sinyalini verdi
+      metin  : husiler
+      duyulan: hussiler
+  REPLACE  ...iletken şirketlerini izleyen fon
+      metin  : nisan
+      duyulan: nissan den
+  REPLACE  ...oldu bulut bilişim şirketi
+      metin  : coreweave
+      duyulan: corewave
+  REPLACE  ...arama yapabilen yeni modeli
+      metin  : vkırk
+      duyulan: ve
+  REPLACE  ...yeni modeli vkırk flash
+      metin  : ı
+      duyulan: i
+  REPLACE  ...matematik alanlarına yönelik parametreli
+      metin  : beam
+      duyulan: beyan
+  INSERT   ...harcandı bu reklamların yaklaşık
+      metin  : (yok)
+      duyulan: inde
+  REPLACE  ...dair ibaer yer almıyor
+      metin  : öte
+      duyulan: i lete
+  REPLACE  ...bildiriliyor altyapı tarafında san
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...düşüşle kapattı cuma günü
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...en kötü haftasını geçirdi
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...abd de üretici fiyatları
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...abd merkez bankası nın
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...yaşandı uluslararası endeks kuruluşu
+      metin  : msci
+      duyulan: msi i ay
+  INSERT   ...dondurduğunu açıkladı kuruluş haziran
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...kapandı endeksin haftalık kaybı
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...kaybı aylık kaybı ize
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...geriledi kredi derecelendirme kuruluşu
+      metin  : esenpi
+      duyulan: smp
+  REPLACE  ...kuruluşu esenpi global yani
+      metin  : esenpi
+      duyulan: smp
+  REPLACE  ...bb seviyesinde görünümü de
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...de durağan olarak kaldı
+      metin  : moody s
+      duyulan: mudi z
+  REPLACE  ...kaldı moody s ve
+      metin  : fitch
+      duyulan: fi ç
+  REPLACE  ...için verdiği notlar ve
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...görünümler de değişmedi piyasalarda
+      metin  : dolar lira gram
+      duyulan: lirakram
+  REPLACE  ...piyasası kurulu da hedef
+      metin  : portföy
+      duyulan: porter
+  REPLACE  ...fiyatların enflasyondan arındırılmış yani
+      metin  : reel
+      duyulan: real
+  INSERT   ...ardından özgür özel ve
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...başkanlığı ön seçimine katıldı
+      metin  : ön
+      duyulan: yön
+  REPLACE  ...söyledi aynı gün eski
+      metin  : shp
+      duyulan: chp
+  REPLACE  ...süreciyle ilgili olarak cumhurbaşkanı
+      metin  : başdanışmanı
+      duyulan: baştanışmanı
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: gundem-2026-10-18.duyulan.txt

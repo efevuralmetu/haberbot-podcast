@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-19.mp3
+
+beklenen 2800 kelime | duyulan 2810 kelime | eşleşme %95.9
+sayı ifadesi: metinde 425, duyulanda 318  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kış sonunda sovyet
+      metin  : arkeoloğu
+      duyulan: arkeologu
+  REPLACE  ...düzlükten hafifçe yükselen toprak
+      metin  : tümseği
+      duyulan: tümseyi
+  REPLACE  ...çalışıyordu ekibin başında viktor
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...doğmuş rum kökenli sovyet
+      metin  : arkeoloğuydu
+      duyulan: arkeoluydu
+  REPLACE  ...ve orta asya nın
+      metin  : tunç çağı nı
+      duyulan: tunt çağını
+  INSERT   ...höyüğün içinde milattan önce
+      metin  : (yok)
+      duyulan: lü
+  REPLACE  ...ve sütunlu tapınak yatıyordu
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...sanki ışıktan dokunmuş örtüyle
+      metin  : kaplıymış
+      duyulan: kaplaymış
+  REPLACE  ...örtüyle kaplıymış gibi parlıyordu
+      metin  : sarianidi
+      duyulan: saryanid i
+  REPLACE  ...höyüğün içinde birbirinden meter
+      metin  : aralıkla
+      duyulan: aralıklı
+  REPLACE  ...defterlerine fazla parça geçmişti
+      metin  : pullar
+      duyulan: altınpullar
+  REPLACE  ...bilezikler yüzükler kemer tokaları
+      metin  : sikkeler
+      duyulan: sikyeler
+  REPLACE  ...çevirmiş olmalıydı bugün müzede
+      metin  : camekanın
+      duyulan: kamekanın
+  INSERT   ...mezardaki kadının başındaki taçtı
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...a kadar binlerce yıllık
+      metin  : imgeydi
+      duyulan: imgiydi
+  REPLACE  ...da hatırlatıyordu tek küçük
+      metin  : süste
+      duyulan: süsle
+  REPLACE  ...geleneğinden geliyordu araştırmacılar afrodit
+      metin  : nin
+      duyulan: in
+  REPLACE  ...yorumu olarak görüyor kimileri
+      metin  : baktriya afrodit si
+      duyulan: baktiriye afroditsi
+  REPLACE  ...yunan mitolojisinden şarap tanrısı
+      metin  : diyonisos
+      duyulan: dionysos
+  REPLACE  ...yorumlanıyor başka mezardaki ize
+      metin  : miğferli
+      duyulan: miferli
+  REPLACE  ...ize miğferli kadın tanrı
+      metin  : atena
+      duyulan: athena
+  REPLACE  ...birbirine dolanan hayvanlar işlenmişti
+      metin  : bozkırın
+      duyulan: bosker ın
+  REPLACE  ...atın kalıntıları da bulundu
+      metin  : bozkır
+      duyulan: bosker
+  REPLACE  ...çağda bu bölgenin adı
+      metin  : baktriya ydı baktriya
+      duyulan: baktiryaydı baktiriya
+  REPLACE  ...da kendi başına yunan
+      metin  : baktriya
+      duyulan: baktiriya
+  REPLACE  ...kaynakları milattan önce yüzyılda
+      metin  : yüeci
+      duyulan: yueci
+  REPLACE  ...adlı halkın doğudaki rakipleri
+      metin  : şiyung nu lar
+      duyulan: xiyunluğlar
+  REPLACE  ...tarafından yurtlarından sürüldüğünü anlatır
+      metin  : yuezhiler
+      duyulan: yüesiler
+  REPLACE  ...bölgede hareket halindeydi yunan
+      metin  : baktriya
+      duyulan: baktiriya
+  REPLACE  ...krallığı bu baskı dağıldı
+      metin  : yuezhiler
+      duyulan: yüesiler
+  REPLACE  ...lyon un bulunduğu yerdeki
+      metin  : darphanede
+      duyulan: darpanede
+  REPLACE  ...araştırmacılar sikkenin lyon dan
+      metin  : baktriya ya
+      duyulan: bakteriye ye
+  REPLACE  ...değil peki hangi halktandılar
+      metin  : sarianidi
+      duyulan: saryanidi
+  REPLACE  ...hangi halktandılar sarianidi mezarları
+      metin  : yuezhilerin
+      duyulan: yüezhilerin
+  REPLACE  ...uzmanlar sakaları ya da
+      metin  : saka ile
+      duyulan: sakayla
+  REPLACE  ...düşünüyor ortak görüş bunların
+      metin  : bozkır
+      duyulan: bosker
+  REPLACE  ...yolu adı sonradan konmuş
+      metin  : addır
+      duyulan: hattır
+  REPLACE  ...kemerlerine çizmelerine kadar ulaşmıştı
+      metin  : sarianidi nin
+      duyulan: saryanid in
+  INSERT   ...her hafta artıyordu şubat
+      metin  : (yok)
+      duyulan: da
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 74 kelime | duyulup metinde OLMAYAN: 85
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-10-19.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-19.mp3
+
+beklenen 1734 kelime | duyulan 1749 kelime | eşleşme %95.6
+sayı ifadesi: metinde 240, duyulanda 154  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...daki her oyun konsolundan
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...konsol savaşını başlatacaktı yazında
+      metin  : havai
+      duyulan: hawaii
+  REPLACE  ...en üst kademelerine yükselmiştir
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...anlatan tema serilerine dönüştürmüştür
+      metin  : he man
+      duyulan: heyman
+  INSERT   ...bitlik konsolu pazarın yaklaşık
+      metin  : (yok)
+      duyulan: ını
+  INSERT   ...da ize genesis adıyla
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu eksikliği tokyo da
+      metin  : şirket de
+      duyulan: şirkette
+  REPLACE  ...de görüyordu sega bünyesinde
+      metin  : maskot
+      duyulan: mascot
+  REPLACE  ...karakter oldu japonya da
+      metin  : doktor
+      duyulan: dr
+  REPLACE  ...doktor eggman amerika da
+      metin  : doktor
+      duyulan: dr
+  REPLACE  ...kazanan taslak tasarımcı naoto
+      metin  : oşima
+      duyulan: oshima
+  REPLACE  ...in mavisi sega logosunun
+      metin  : kobalt
+      duyulan: cobalt
+  REPLACE  ...kırmızı beyaz ayakkabıları için
+      metin  : oşima
+      duyulan: oshima
+  REPLACE  ...nın kırmızı beyaz kıyafeti
+      metin  : oşima
+      duyulan: oshima
+  REPLACE  ...nun basçısı masato nakamura
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...amerika daki pazarlama ekibinden
+      metin  : madlin şroder
+      duyulan: madlyn schroeder
+  REPLACE  ...kirpinin yeni patronu tom
+      metin  : kalinski
+      duyulan: kalinsky
+  REPLACE  ...atacak plan kurmaya başladı
+      metin  : kalinski
+      duyulan: kalinsky
+  REPLACE  ...kuruluydu genesis in fiyatı
+      metin  : dolar sentten dolar sente
+      duyulan: den e
+  REPLACE  ...değerli ürünün gelirinden vazgeçmek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...nakayama araya girdi ve
+      metin  : kalinski yi
+      duyulan: kalinsky i
+  INSERT   ...kuzey amerika da haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yaklaşık ay sonra ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nun yeni makinesi dolar
+      metin  : sentti
+      duyulan: cent ti
+  REPLACE  ...vuran mavi kirpi vardı
+      metin  : kalinski
+      duyulan: kalinsky
+  REPLACE  ...kitle seçti reklam ajansı
+      metin  : goodby
+      duyulan: goodbye
+  REPLACE  ...açıkladığı rakamlara göer şirket
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...artık gerçek rakibi vardı
+      metin  : kalinski
+      duyulan: kalinsky
+  REPLACE  ...taşındı bu tam olarak
+      metin  : mattel deki
+      duyulan: mahteldeki
+  INSERT   ...her köşesine yerleştir kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bağlamak zorlaştı nintendo da
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...bu kısıtlamalarından bazılarını gevşetti
+      metin  : kalinski
+      duyulan: kalinsky
+  REPLACE  ...atarken şirketin yakası tokyo
+      metin  : ile kaliforniya
+      duyulan: yla california
+  REPLACE  ...kaliforniya birbirinden giderek uzaklaşıyordu
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...yerine fazla yola girdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...cd eklentisi çıktı kasım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...geldi aynı ay kasım
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sadece gün sonra aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...japonya da piyasaya sürdü
+      metin  : kalinski
+      duyulan: kalinsky
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-10-19.duyulan.txt

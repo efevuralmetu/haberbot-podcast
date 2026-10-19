@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-19.mp3
+
+beklenen 2173 kelime | duyulan 2169 kelime | eşleşme %96.6
+sayı ifadesi: metinde 191, duyulanda 147  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...film stanley kubrick in
+      metin  : cinnet
+      duyulan: cinet
+  REPLACE  ...film oldu beverly hills
+      metin  : in
+      duyulan: ın
+  REPLACE  ...zengini doheny ailesi için
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...yapıya greystone malikanesi yani
+      metin  : gri taş
+      duyulan: gritash
+  REPLACE  ...gri taş konağı deniyor
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...da olmuştu kızı jennifer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elmes geçiyor ekipte catherine
+      metin  : coulson
+      duyulan: colson
+  REPLACE  ...nance in eşi olan
+      metin  : coulson
+      duyulan: colson
+  INSERT   ...ve çekimler duruyor burada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eşi oyuncu sissy spacek
+      metin  : da
+      duyulan: ta
+  REPLACE  ...sonunda vazgeçmiyor çekimler kesik
+      metin  : kesik de
+      duyulan: kesikte
+  REPLACE  ...canlı görünüyor ekip arasında
+      metin  : spike
+      duyulan: spyke
+  REPLACE  ...doğrulanmadı görüntü yönetmeni frederick
+      metin  : elmes de
+      duyulan: elmeste
+  REPLACE  ...bu sesin arkasında alan
+      metin  : splet
+      duyulan: splett
+  REPLACE  ...splet adında adam var
+      metin  : splet
+      duyulan: splett
+  INSERT   ...yorulmayan sabırlı zanaatkar lynch
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ortak buluyor i kili
+      metin  : ahırlardaki
+      duyulan: ağırlardaki
+  REPLACE  ...taşıyan araç olarak görülüyordu
+      metin  : lynch
+      duyulan: linch
+  REPLACE  ...olarak görülüyordu lynch ve
+      metin  : splet
+      duyulan: split
+  REPLACE  ...dünya arasındaki farktan doğuyor
+      metin  : müzik de
+      duyulan: müzikte
+  REPLACE  ...de aynı titizlikle seçiliyor
+      metin  : lynch
+      duyulan: linch
+  REPLACE  ...bölümlerinde caz piyanisti ve
+      metin  : orgcu
+      duyulan: orcu
+  REPLACE  ...orgcu fats waller ın
+      metin  : org
+      duyulan: ork
+  REPLACE  ...neşeli sayılabilecek bu eski
+      metin  : org
+      duyulan: ork
+  REPLACE  ...kadın deniyor ve laurel
+      metin  : near
+      duyulan: neer
+  REPLACE  ...heaven yani cennette sözlerini
+      metin  : lynch
+      duyulan: linch
+  INSERT   ...imgede topluyor çekimler nihayet
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nihayet tamamlandığında lynch ve
+      metin  : splet
+      duyulan: split
+  REPLACE  ...gibi seyircinin üzerine geliyor
+      metin  : splet
+      duyulan: split
+  REPLACE  ...splet sonraki yıllarda lynch
+      metin  : le
+      duyulan: ile
+  INSERT   ...bu filmi kim izleyecek
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...düzenlenen uluslararası film şenliği
+      metin  : filmex
+      duyulan: film x
+  REPLACE  ...önce filmi başka büyük
+      metin  : festivalleer
+      duyulan: festivaleer
+  REPLACE  ...ardından los angeles geliyor
+      metin  : nuart
+      duyulan: noir
+  REPLACE  ...sineması filmi gece yarısı
+      metin  : programına
+      duyulan: programını
+  REPLACE  ...geliyor genç yapımcı stuart
+      metin  : cornfeld
+      duyulan: cornfield
+  REPLACE  ...görüyor ve hayran kalıyor
+      metin  : cornfeld
+      duyulan: cornfield
+  REPLACE  ...anlatan film hazırlamak istiyor
+      metin  : cornfeld
+      duyulan: cornfield
+  INSERT   ...kapı kapı dolaşan yönetmen
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anlatı bütün bunlar sonradan
+      metin  : lynchvari
+      duyulan: lynchvary
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: film-2026-10-19.duyulan.txt

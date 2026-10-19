@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-19.mp3
+
+beklenen 2227 kelime | duyulan 2241 kelime | eşleşme %96.8
+sayı ifadesi: metinde 226, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sabah
+      metin  : sis
+      duyulan: da siz
+  REPLACE  ...boğuk sesler kiremit çatıların
+      metin  : hindistancevizi
+      duyulan: hindistan tv
+  REPLACE  ...dar daha berrak nam
+      metin  : kan
+      duyulan: khan
+  REPLACE  ...nam kan irmağı yani
+      metin  : kan
+      duyulan: khan
+  REPLACE  ...dediler sonraki yüzyıllarda adı
+      metin  : siyeng
+      duyulan: siang
+  REPLACE  ...vardır gençliğini angkor daki
+      metin  : kmer
+      duyulan: kemer
+  REPLACE  ...kmer sarayında geçirdi orada
+      metin  : kmer
+      duyulan: kemer
+  REPLACE  ...kmer prensesiyle evlendi yılında
+      metin  : kmer
+      duyulan: kemer
+  REPLACE  ...olduğunu anlatıyordu rivayete göer
+      metin  : kmer
+      duyulan: kemer
+  INSERT   ...varmaz ağırlıklı alaşımdan dökülmüştür
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...kral settatirat başkenti güneye
+      metin  : viyentiyan
+      duyulan: vientiane
+  REPLACE  ...büyüyordu ve geniş ovadaki
+      metin  : viyentiyan
+      duyulan: vientiane
+  REPLACE  ...hediye verdi ile arasında
+      metin  : şehir tapınağı nı
+      duyulan: altınşehir tapınağını
+  REPLACE  ...tapınağı nı yerel adıyla
+      metin  : vat siyeng tong u
+      duyulan: wat si yeng tongu
+  REPLACE  ...kolay geçmedi batıda güçlenen
+      metin  : siyam
+      duyulan: siam
+  REPLACE  ...güç mücadelesinin payını aldı
+      metin  : siyamlılar
+      duyulan: siamlılar
+  INSERT   ...kez alıp götürdü önce
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...alıp götürdü önce sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kişi fransız yardımcı konsolos
+      metin  : ogüst pavi
+      duyulan: auguste pavy
+  REPLACE  ...konsolos ogüst pavi oldu
+      metin  : pavi
+      duyulan: pavy
+  REPLACE  ...fransız etkisinin kapısını açtı
+      metin  : siyam
+      duyulan: te siam
+  REPLACE  ...himayesine girdi fransızlar idareyi
+      metin  : viyentiyan dan
+      duyulan: vientiane den
+  INSERT   ...prabang kraliyet tahtını korudu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mekong kıyısında kral sisavang
+      metin  : vong
+      duyulan: wong
+  REPLACE  ...kurduğu sessiz uyumdur sisavang
+      metin  : vong
+      duyulan: wong
+  INSERT   ...uzun ömür sürdü ve
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...halk cumhuriyeti ilan edildi
+      metin  : yılı
+      duyulan: (YOK — atlanmış)
+  INSERT   ...birbirine dakikalık yürüme mesafesinde
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...çalışır kısmı yıl sonra
+      metin  : cüppeyi
+      duyulan: cüppeği
+  REPLACE  ...teşekküer gerek yoktur çünkü
+      metin  : theravada
+      duyulan: teravada
+  REPLACE  ...ya da sebzeye batırılarak
+      metin  : ağza
+      duyulan: ağıza
+  REPLACE  ...dönemi sona erdiğinde ize
+      metin  : ışık
+      duyulan: işık
+  REPLACE  ...karanlık sularında yüzlerce küçük
+      metin  : alev akıp
+      duyulan: ale bakıp
+  REPLACE  ...bakıyordu keşişlerin santim mesafeden
+      metin  : flaşla
+      duyulan: flashla
+  REPLACE  ...kurallar sıralıyordu mesafenizi koruyun
+      metin  : flaş
+      duyulan: flash
+  INSERT   ...gösteriyordu ardından demiryolu geldi
+      metin  : (yok)
+      duyulan: tiki
+  REPLACE  ...in güneyindeki kunming den
+      metin  : viyentiyan
+      duyulan: vientiane
+  REPLACE  ...dağların arasından tüneller ve
+      metin  : viyadüklerle
+      duyulan: viadüklerle
+  REPLACE  ...tüneller ve viyadüklerle geçiyordu
+      metin  : luang
+      duyulan: duang
+  REPLACE  ...duraklarından oldu daha önce
+      metin  : viyentiyan dan
+      duyulan: vientiane den
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: seyahat-2026-10-19.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-19.mp3
+
+beklenen 2104 kelime | duyulan 2108 kelime | eşleşme %96.2
+sayı ifadesi: metinde 200, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...derin şeyin işareti olabilir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...işareti olabilir hollandalı tarihçi
+      metin  : yohan höyzinga homo ludens
+      duyulan: johan huizinga homoludens
+  REPLACE  ...yeni savaşa doğru ilerlerken
+      metin  : höyzinga
+      duyulan: huizinga
+  REPLACE  ...ama canını yakmayacağım hayvan
+      metin  : saldırı ile
+      duyulan: saldırıyla
+  REPLACE  ...da ilginci sinirbilimci yak
+      metin  : panksep
+      duyulan: panksepp lı
+  REPLACE  ...duyamayacağı kadar yüksek frekanslı
+      metin  : kilohertz
+      duyulan: khz
+  REPLACE  ...alman şair ve düşünür
+      metin  : fridrih şiller
+      duyulan: friedrich schiller
+  INSERT   ...düşünür fridrih şiller ize
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlamıyla insan olduğunda oynar
+      metin  : ve
+      duyulan: veve
+  REPLACE  ...çıkarırız kanadalı filozof bernard
+      metin  : suits
+      duyulan: suetz de
+  REPLACE  ...yayımladı the grasshopper yani
+      metin  : ağustosböceği suits ezobun
+      duyulan: ağustos böceği suetz ezob un
+  REPLACE  ...kış gelince açlıkla cezalandırılır
+      metin  : suits
+      duyulan: suetz
+  REPLACE  ...aşmaya yönelik gönüllü girişimdir
+      metin  : suits
+      duyulan: suetz
+  REPLACE  ...bu yasağın içinde doğar
+      metin  : suits
+      duyulan: suetz
+  REPLACE  ...hepsinde aynı şey var
+      metin  : engeli
+      duyulan: engelli
+  REPLACE  ...engeli ortadan kaldırmak mümkünken
+      metin  : engeli
+      duyulan: engelli
+  REPLACE  ...yer kalmaz çinli düşünür
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...bakmaz kerestesi işe yaramaz
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...çünkü hiçbir işe yaramıyor
+      metin  : cuangzı
+      duyulan: zhuangzi
+  REPLACE  ...sosyal medyada beğeni toplayacak
+      metin  : içeriğe
+      duyulan: içeriye
+  REPLACE  ...engelleri kabul etmek tamamen
+      metin  : gönüllüyze
+      duyulan: gönüllü ize
+  REPLACE  ...ciddi hayatta da hileciler
+      metin  : ikiyüzlüler
+      duyulan: ikiyüzdüler
+  REPLACE  ...kuralı çiğnemenin cazibesi büyür
+      metin  : höyzinga
+      duyulan: høysinga
+  REPLACE  ...cazibesi büyür höyzinga daha
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...büyütmektir peki oyunbozan burada
+      metin  : höyzinga
+      duyulan: høysinga
+  REPLACE  ...kurallarıyla yeni topluluk kurabilir
+      metin  : höyzinga
+      duyulan: høysinga
+  REPLACE  ...kurmayı da öğrenebilir mi
+      metin  : fridrih niçe
+      duyulan: friedrich nietzsche
+  REPLACE  ...ve karşısına dikilen büyük
+      metin  : ejderhayla
+      duyulan: ejderha ile
+  REPLACE  ...dayatılan oyunu reddeden ama
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...kutsal evet tir ve
+      metin  : niçe ad
+      duyulan: nietzsche at
+  REPLACE  ...ihtiyaç vardır bu imge
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...çok eski kökü vardır
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...gelmemiştir i mam gazali
+      metin  : i hyau
+      duyulan: ihya
+  DELETE   ...gazali i hyau ulumi
+      metin  : d
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...un aktardığı rivayette de
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...hazreti peygamber in eşi
+      metin  : hazreti aişe
+      duyulan: hz ayşe
+  REPLACE  ...yarışı yaptığı ilk yarışı
+      metin  : aişe
+      duyulan: ayşe
+  REPLACE  ...dili olarak karşımıza çıkar
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...bilerek seçilmiş saflıktır bernard
+      metin  : suits
+      duyulan: sweets
+  REPLACE  ...oyunu belki de yalnızca
+      metin  : cuangzı nin
+      duyulan: jones ın
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: felsefe-2026-10-19.duyulan.txt

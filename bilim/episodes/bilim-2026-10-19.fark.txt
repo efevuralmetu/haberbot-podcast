@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-19.mp3
+
+beklenen 1668 kelime | duyulan 1670 kelime | eşleşme %97.5
+sayı ifadesi: metinde 169, duyulanda 163  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...önce boğmalıydı bilmeceyi saniyenin
+      metin  : (yok)
+      duyulan: de i
+  REPLACE  ...yumuşak metal parçası var
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...açıklamayı da hepimiz biliriz
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...sodyum suyla tepkimeye girer
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...ilk anına yakından bakalım
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...biçimde inceleyen alman hekim
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...hekim laydınfrost un adıyla
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...daha uzun süer yaşar
+      metin  : sodyumda
+      duyulan: sodiumda
+  REPLACE  ...üstelik metalin yüzeyinde oluşan
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...akademinin kuramsal kimyacılarından pavel
+      metin  : yungvirt
+      duyulan: jungvirt
+  REPLACE  ...öncekinden farklı başlar mason
+      metin  : ın
+      duyulan: un
+  REPLACE  ...neden kendiliğinden dikenleer ayrılsın
+      metin  : isı
+      duyulan: i sy
+  REPLACE  ...geçmeden beliriyordu cevap için
+      metin  : yungvirt in
+      duyulan: jung wirtin
+  REPLACE  ...yungvirt in grubu düzine
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...tutmakta pek istekli olmamalarıdır
+      metin  : sodyum
+      duyulan: sodium
+  REPLACE  ...elektronlarını kaybetmiş artı yüklü
+      metin  : sodyum iyonları
+      duyulan: sodium ionları
+  REPLACE  ...normalde metal artı yüklü
+      metin  : iyonlarla
+      duyulan: ionlarla
+  REPLACE  ...artı yüklü iyonlarla bu
+      metin  : iyonların
+      duyulan: ionların
+  REPLACE  ...tutan kuvvetleri ve gerilimini
+      metin  : yener
+      duyulan: yenir
+  REPLACE  ...ve parçalanır fizikçiler buna
+      metin  : kulomb
+      duyulan: kulum
+  REPLACE  ...kuvveti tanımlayan fransız fizikçisi
+      metin  : kulomb dan
+      duyulan: kulomptan
+  INSERT   ...gösterinin tetikleyicisi olduğunu göstermekti
+      metin  : (yok)
+      duyulan: alkali
+  REPLACE  ...biçimde örtüşür alkali metaller
+      metin  : periyodik
+      duyulan: periodik
+  DELETE   ...daha şiddetli tepkimeye girer
+      metin  : lityum
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o kadar hızlı ve
+      metin  : kulomb
+      duyulan: kulomp
+  REPLACE  ...burada dürüst olmak gerekir
+      metin  : lityumun
+      duyulan: oyunun
+  REPLACE  ...etkenler de rol oynar
+      metin  : kulomb
+      duyulan: kulomp
+  REPLACE  ...başında i ngiliz kimyager
+      metin  : humphry
+      duyulan: humphrey
+  REPLACE  ...yol değil mason ve
+      metin  : yungvirt
+      duyulan: jungwirt
+  REPLACE  ...parmak izini gösterir ölçümler
+      metin  : metalleer
+      duyulan: metaleer
+  REPLACE  ...çok zayıf ileten sıvıdır
+      metin  : metalik
+      duyulan: metallik
+  REPLACE  ...elektron ve alkali metal
+      metin  : iyonu
+      duyulan: ionu
+  REPLACE  ...ortaya tek hikaye çıkar
+      metin  : sodyumun
+      duyulan: sodiumun
+  REPLACE  ...başında olduğunu göstermekten geldi
+      metin  : milisaniyeyi
+      duyulan: saniyeyi
+  REPLACE  ...bu eksik cümlelerden doğar
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: bilim-2026-10-19.duyulan.txt

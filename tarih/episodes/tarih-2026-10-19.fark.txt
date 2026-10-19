@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-19.mp3
+
+beklenen 3394 kelime | duyulan 3391 kelime | eşleşme %95.3
+sayı ifadesi: metinde 249, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ngiliz topları ne de
+      metin  : drake
+      duyulan: direk
+  REPLACE  ...ayında i ngilteer nin
+      metin  : fotheringhay şatosu nda
+      duyulan: foddering high shattos unda
+  REPLACE  ...ve i skoç kraliçesi
+      metin  : mary
+      duyulan: meri
+  REPLACE  ...nin başı gövdesinden ayrıldı
+      metin  : mary
+      duyulan: meri
+  REPLACE  ...tahtının meşru varisiydi i
+      metin  : nfaz
+      duyulan: nfas
+  DELETE   ...ulaştığında i spanya kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...den peru ya dan
+      metin  : filipinler e
+      duyulan: filipinleer
+  INSERT   ...dan filipinler e uzanıyordu
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...spanya dan yola çıkacak
+      metin  : manş
+      duyulan: manç
+  REPLACE  ...suyu boydan boya geçecekti
+      metin  : flander
+      duyulan: flandra
+  REPLACE  ...şey yerli yerindeydi papa
+      metin  : sikstus
+      duyulan: sixtus
+  REPLACE  ...denizcisi geçecekti santa cruz
+      metin  : markisi
+      duyulan: marquis i
+  REPLACE  ...de bazan yaşlı amiral
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...baharında francis drake küçük
+      metin  : filoyla
+      duyulan: filo ile
+  REPLACE  ...önündeydi drake portekiz kıyısında
+      metin  : saint
+      duyulan: st
+  REPLACE  ...et çürürdü i spanyol
+      metin  : tersaneleri
+      duyulan: tershaneleri
+  REPLACE  ...ize hazır olmadıklarını söylüyordu
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...söylüyordu şubadında yaşlı denizci
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...kişinin beklemediği isimdi alonso
+      metin  : perez
+      duyulan: pérez
+  REPLACE  ...hazırlıkları toparlayabilirdi gerçekten de
+      metin  : medina sidonia lizbon
+      duyulan: medin asidonya lisbon
+  REPLACE  ...resmi adıyla grande i
+      metin  : felisisima
+      duyulan: felicisima
+  INSERT   ...ve mutlu donanma mayıs
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...mutlu donanma mayıs sonlarında
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...i spanyollar takmamıştı bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kürekli ve toplu dev
+      metin  : galeasları
+      duyulan: galiyasları
+  REPLACE  ...fırtına donanmayı dağıttı medina
+      metin  : sidonia
+      duyulan: sidonya
+  REPLACE  ...spanya nın kuzeybatısındaki la
+      metin  : korunya
+      duyulan: coruña
+  REPLACE  ...i ngilteer ize eski
+      metin  : jülyen
+      duyulan: julienne
+  REPLACE  ...konuma rüzgarüstü denir rüzgarı
+      metin  : arkasına
+      duyulan: arkasını
+  REPLACE  ...frobisher gibi deneyimli denizciler
+      metin  : bulunuyordu
+      duyulan: bulunuyorlardı
+  REPLACE  ...açıyor i spanyollar ize
+      metin  : borda
+      duyulan: bordo
+  REPLACE  ...vermedi plymouth portland ve
+      metin  : wight
+      duyulan: white
+  REPLACE  ...i spanyolların kaybettiği önemli
+      metin  : gemiyze
+      duyulan: gemi ize
+  REPLACE  ...terk edildi pedro de
+      metin  : valdes
+      duyulan: valdez
+  REPLACE  ...in komuta ettiği nuestra
+      metin  : senyora
+      duyulan: señora
+  REPLACE  ...senyora del rosario yani
+      metin  : tespih meryemi
+      duyulan: tesbih meryem i
+  REPLACE  ...drake e teslim oldu
+      metin  : valdes
+      duyulan: valdez
+  REPLACE  ...hilal dağılmadı medina sidonia
+      metin  : deneyimsizliğine
+      duyulan: deneimsizliğine
+  REPLACE  ...bunları koruması gerekiyordu oysa
+      metin  : flander
+      duyulan: flandra
+  REPLACE  ...hollandalı isyancıların hafif gemileri
+      metin  : devriye
+      duyulan: devreye
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 112
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: tarih-2026-10-19.duyulan.txt

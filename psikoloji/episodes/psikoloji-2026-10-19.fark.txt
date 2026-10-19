@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-19.mp3
+
+beklenen 1332 kelime | duyulan 1334 kelime | eşleşme %98.9
+sayı ifadesi: metinde 183, duyulanda 170  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...ve tek şart akşam
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...bu parayı akşam saat
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...girdi kimin nasıl harcayacağına
+      metin  : kura ile
+      duyulan: kurayla
+  REPLACE  ...toplumlarda benzer soruları sordu
+      metin  : gallubun
+      duyulan: gallup un
+  REPLACE  ...verilerini inceledikleri çalışmada ülkenin
+      metin  : yirmisinde
+      duyulan: sinde
+  INSERT   ...tablonun ayrıntısı daha var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ayrıntısı daha var aknin
+      metin  : dunn
+      duyulan: dun
+  REPLACE  ...peki neden böyle neden
+      metin  : kendimize
+      duyulan: kendimizi
+  REPLACE  ...olduğunu hissettiriyor kendimize aldığımız
+      metin  : şey ize
+      duyulan: şeyze
+  REPLACE  ...de önemli olması aknin
+      metin  : dunn
+      duyulan: dun
+  REPLACE  ...değil kime gittiğini yazarsınız
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 10 kelime | duyulup metinde OLMAYAN: 12
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-10-19.duyulan.txt

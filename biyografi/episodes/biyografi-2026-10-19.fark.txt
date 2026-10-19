@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-19.mp3
+
+beklenen 2904 kelime | duyulan 2935 kelime | eşleşme %91.8
+sayı ifadesi: metinde 466, duyulanda 305  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...iyi evlilik yapmayı öğrenecekti
+      metin  : filip maytner
+      duyulan: philip meitner
+  REPLACE  ...ama aklı başka yerdeydi
+      metin  : viyana
+      duyulan: de vienna
+  INSERT   ...kaybediyorsun diye takıldıklarını anlatırdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kızların çoğu başaramamıştı böylece
+      metin  : viyana
+      duyulan: vienna
+  REPLACE  ...ne fizik öğrencisi olarak
+      metin  : kaydoldu
+      duyulan: kayboldu
+  REPLACE  ...hayatını değiştirecek hocayla karşılaştı
+      metin  : ludvig boltsman
+      duyulan: ludwig boltzmann
+  REPLACE  ...dünya görüşü gibi anlatırdı
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...de öğrendi sonraki yıllarda
+      metin  : boltsman
+      duyulan: boltzmann
+  INSERT   ...olarak bakmayı öğrettiğini söyleyecekti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yazdığı teziyle doktorasını aldı
+      metin  : viyana
+      duyulan: vienna
+  REPLACE  ...kadındı aynı yılın sonbaharında
+      metin  : boltsman
+      duyulan: boltzmann
+  REPLACE  ...fizikçiyi derinden sarstı ve
+      metin  : viyana
+      duyulan: vienna
+  REPLACE  ...yı için boşalttı süer
+      metin  : ştefan
+      duyulan: stefan
+  REPLACE  ...keşfedilen radyoaktivite üzerine çalıştı
+      metin  : uranyum
+      duyulan: uranium
+  REPLACE  ...üzerine çalıştı uranyum ve
+      metin  : radyum
+      duyulan: radium
+  REPLACE  ...bilimin en taze bilmecesiydi
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...e gitti niyeti dönem
+      metin  : maks plank
+      duyulan: max planck
+  REPLACE  ...plank ın derslerini dinlemekti
+      metin  : plank
+      duyulan: planck
+  REPLACE  ...profesördü yine de bu
+      metin  : viyanalı
+      duyulan: vianalı
+  REPLACE  ...kız gibi yakınlık kuruldu
+      metin  : maytner plank
+      duyulan: meitner planck
+  REPLACE  ...ama çalıştığı yer emil
+      metin  : fişer
+      duyulan: fischer
+  REPLACE  ...enstitüsü kadınları içeri almıyordu
+      metin  : fişer
+      duyulan: fischer
+  REPLACE  ...etmemişti sonunda uzlaşmaya varıldı
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...girecekti o bodrum eskiden
+      metin  : marangozhane
+      duyulan: marangoshane
+  REPLACE  ...yılı aşacak ortaklığa başladı
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...maddeleri kimyasal yollarla ayırıyor
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...hahn çalışırken brahms ve
+      metin  : şubert
+      duyulan: schubertten
+  REPLACE  ...ve şubert parçalar ıslıklar
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...açabilirdi birbirlerine resmi biçimde
+      metin  : froylayn maytner
+      duyulan: freulein meitner
+  REPLACE  ...arkadaşlığa geçmeleri yıllar aldı
+      metin  : maytner
+      duyulan: de meitner
+  REPLACE  ...üniversiteleri kadınlara kapı açınca
+      metin  : fişer
+      duyulan: fischer
+  REPLACE  ...inat etmeyi bıraktı ve
+      metin  : maytner
+      duyulan: meitner
+  INSERT   ...içinde dolaşmasına izin verdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önemli şey oldu plank
+      metin  : maytner
+      duyulan: meitner
+  REPLACE  ...yıl berlin in yeşil
+      metin  : banliyösü
+      duyulan: banliyosu
+  REPLACE  ...yeşil banliyösü dalem de
+      metin  : kayzer vilhelm i nstitut
+      duyulan: kaiser wilhelm institut
+  REPLACE  ...vilhelm i nstitut für
+      metin  : kemi
+      duyulan: chemie
+  REPLACE  ...nstitut für kemi yani
+      metin  : kayzer vilhelm
+      duyulan: kaiser wilhelm
+  REPLACE  ...yani kayzer vilhelm kimya
+      metin  : enstitüsü
+      duyulan: institüsü
+  ... ve 152 fark daha
+
+metinde olup DUYULMAYAN: 190 kelime | duyulup metinde OLMAYAN: 228
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: biyografi-2026-10-19.duyulan.txt
