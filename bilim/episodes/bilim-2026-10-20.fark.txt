@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-20.mp3
+
+beklenen 1922 kelime | duyulan 1917 kelime | eşleşme %96.7
+sayı ifadesi: metinde 214, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...adı salyut yani selam
+      metin  : (yok)
+      duyulan: idi
+  REPLACE  ...vladimir canibekov ile viktor
+      metin  : savinıh
+      duyulan: savinik
+  INSERT   ...insanlar uzaya çıkmadan neredeyze
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...takla başlamadan hareket biter
+      metin  : uzay
+      duyulan: uza
+  REPLACE  ...i sviçreli matematikçi leonard
+      metin  : oyler
+      duyulan: euler
+  REPLACE  ...oyler e kadar uzanır
+      metin  : oyler
+      duyulan: euler
+  REPLACE  ...korur tıpkı çanağın dibindeki
+      metin  : bilye
+      duyulan: bilge
+  REPLACE  ...hızlı büyür bu sefer
+      metin  : bilye
+      duyulan: bilge
+  REPLACE  ...bilye çanağın dibinde değil
+      metin  : eyerin
+      duyulan: eğerin
+  REPLACE  ...etrafındaki dönme işte böyle
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...olarak resmeden fransız matematikçi
+      metin  : lui puanso
+      duyulan: louis puenceau
+  REPLACE  ...matematikçi lui puanso oldu
+      metin  : puanso
+      duyulan: puenceau te
+  REPLACE  ...cismin hareketini üzerinde yuvarlanan
+      metin  : elipsoit
+      duyulan: elipsoid
+  REPLACE  ...tarafına geçer bu geçiş
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...takla atması demektir ardından
+      metin  : cisim
+      duyulan: cism
+  REPLACE  ...çok zayıftır sapmayı kat
+      metin  : küçültseniz
+      duyulan: küçülseniz
+  REPLACE  ...can alıcı tarafı şu
+      metin  : oyler
+      duyulan: oylar
+  REPLACE  ...denklemleri yazdığında da puanso
+      metin  : elipsoitlerini
+      duyulan: elipsoidlerini
+  INSERT   ...olur matematikçiler bu konuyu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...havaya fırlatırsanız çoğu zaman
+      metin  : ekranı
+      duyulan: ekrana
+  REPLACE  ...titrediğini sanabilirsiniz ama aslında
+      metin  : oyler in
+      duyulan: oyların
+  INSERT   ...derslerinden acı şekilde verdi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...deal katı cisim için
+      metin  : oyler in
+      duyulan: oyların
+  REPLACE  ...ekseni etrafında dönüyor bu
+      metin  : oyler e
+      duyulan: oyleer
+  REPLACE  ...ters olması için gereken
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...yalnızca meter oynar bu
+      metin  : oyler in
+      duyulan: oyların
+  REPLACE  ...dibindeki bilyenin hafif kıpırtısı
+      metin  : jeolojik
+      duyulan: geolojik
+  REPLACE  ...dünya nın manyetik kutuplarının
+      metin  : jeolojik
+      duyulan: geolojik
+  REPLACE  ...ekseni etrafında dönüyor ve
+      metin  : oyler in
+      duyulan: oyların
+  INSERT   ...atıp ters yakaladığınızda aslında
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yaptığı taklayı tekrarlamış olacaksınız
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: bilim-2026-10-20.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-20.mp3
+
+beklenen 2762 kelime | duyulan 2768 kelime | eşleşme %94.2
+sayı ifadesi: metinde 380, duyulanda 272  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yumrukla geldi yazında wisconsin
+      metin  : in
+      duyulan: ın
+  REPLACE  ...aile geldi okyanusu aşıp
+      metin  : budapeşte
+      duyulan: budapest
+  REPLACE  ...gelmişlerdi babaları mayer samuel
+      metin  : vays
+      duyulan: weiss
+  REPLACE  ...aralarındaki yaşındaki oğlanın adı
+      metin  : erik
+      duyulan: eric
+  REPLACE  ...amerika da kısa sürede
+      metin  : erih
+      duyulan: eric
+  REPLACE  ...erih e dönüştü mart
+      metin  : budapeşte
+      duyulan: te budapeş te
+  REPLACE  ...başlamıştı appleton da baba
+      metin  : vays
+      duyulan: weiss
+  REPLACE  ...görevinden uzaklaştırıldı aile milwaukee
+      metin  : ye
+      duyulan: e
+  REPLACE  ...her şeyin ilk payı
+      metin  : annesinindi
+      duyulan: annesinin idi doğdan
+  REPLACE  ...sihirbazlığın babası sayılan fransız
+      metin  : jan öjen rober
+      duyulan: can öcen robert
+  REPLACE  ...jan öjen rober udan
+      metin  : in
+      duyulan: ın
+  REPLACE  ...saygın sanat olabileceğini gösterdi
+      metin  : rober
+      duyulan: robert
+  REPLACE  ...olabileceğini gösterdi rober udan
+      metin  : frak
+      duyulan: frag
+  REPLACE  ...i ekledi ailesinin taktığı
+      metin  : ehrie
+      duyulan: eher
+  REPLACE  ...harry oldu böylece harry
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...böylece harry hudini doğdu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...söz vermesini istediği anlatılır
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...adeta ibadet olarak taşıdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çift ucube müzelerinde ucuz
+      metin  : varyete
+      duyulan: variyete
+  REPLACE  ...adını verdikleri sandık numarasıydı
+      metin  : hudini
+      duyulan: houdini
+  REPLACE  ...açıldığında sandığın üstünde duran
+      metin  : hudini
+      duyulan: houdini
+  REPLACE  ...ama büyük şöhret gelmiyordu
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...karşılaşma her şeyi değiştirdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...paul şehrinde tiyatro işletmecisi
+      metin  : hudini
+      duyulan: houdini
+  REPLACE  ...beck ti ve büyük
+      metin  : varyete
+      duyulan: variyete
+  REPLACE  ...çok daha derinden hissediyordu
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...aletlerine karşı kazanılmış zaferdi
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...polisinin karargahı scotland yard
+      metin  : a
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve yemeğe çıkmaya hazırlandı
+      metin  : hudini
+      duyulan: houdini
+  REPLACE  ...dünyasında hızla yayıldı ve
+      metin  : hudini
+      duyulan: houdini
+  REPLACE  ...çıktı ardından almanya geldi
+      metin  : dresden
+      duyulan: dresten
+  REPLACE  ...polis memuru dolandırıcılıkla suçlayınca
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...en unutulmaz meydan okumalardan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...okumalardan londra da yaşandı
+      metin  : daily
+      duyulan: dali
+  REPLACE  ...kopyalanması imkansız kelepçe ısmarlamıştı
+      metin  : hudini
+      duyulan: houdini
+  REPLACE  ...uğraşın ardından elinde açılmış
+      metin  : kelepçeyle
+      duyulan: kelepçe ile
+  REPLACE  ...ama gerilimin nasıl kurulacağını
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...suyun kendini çözüp çıktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...saniye sonra pes ediyordu
+      metin  : hudini
+      duyulan: houdini
+  INSERT   ...sahneyle de sınırlı değildi
+      metin  : (yok)
+      duyulan: da
+  ... ve 90 fark daha
+
+metinde olup DUYULMAYAN: 131 kelime | duyulup metinde OLMAYAN: 147
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: biyografi-2026-10-20.duyulan.txt

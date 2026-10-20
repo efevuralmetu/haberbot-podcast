@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-20.mp3
+
+beklenen 3293 kelime | duyulan 3290 kelime | eşleşme %99.0
+sayı ifadesi: metinde 138, duyulanda 114  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...trust the arabic word
+      metin  : gıybet
+      duyulan: gaibat
+  REPLACE  ...else its root is
+      metin  : gayb
+      duyulan: gaib
+  REPLACE  ...gayb meaning absence invisibility
+      metin  : gıybet
+      duyulan: gaibat
+  INSERT   ...fel flat his face
+      metin  : (yok)
+      duyulan: he
+  REPLACE  ...people s conversations in
+      metin  : cafés
+      duyulan: cafes
+  DELETE   ...relationship with is about
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...california matthew feinberg and
+      metin  : robb
+      duyulan: rob
+  REPLACE  ...megan robbins and alexander
+      metin  : karan
+      duyulan: caron
+  DELETE   ...university of california fitted
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...of the surah al
+      metin  : hujurat
+      duyulan: hujarat
+  REPLACE  ...is already a separate
+      metin  : and graver
+      duyulan: engraver
+  REPLACE  ...his great work the
+      metin  : ihya ulum
+      duyulan: ahya uloom
+  REPLACE  ...lying mockery idle argument
+      metin  : talebearing
+      duyulan: tail bearing
+  REPLACE  ...they envy and the
+      metin  : bored recount
+      duyulan: board recounts
+  REPLACE  ...the lithuanian rabbi yisrael
+      metin  : meir kagan
+      duyulan: merkigan
+  REPLACE  ...image between and yusuf
+      metin  : khass hajib
+      duyulan: qas hajiib
+  REPLACE  ...in verse to the
+      metin  : karakhanid
+      duyulan: karakanid
+  REPLACE  ...about the tongue yusuf
+      metin  : khass hajib
+      duyulan: qas hajiib
+  REPLACE  ...the it tears apart
+      metin  : is
+      duyulan: as
+  REPLACE  ...is its master yusuf
+      metin  : khass hajib
+      duyulan: qas hajiib
+  REPLACE  ...the lion in the
+      metin  : kutadgu
+      duyulan: kutagu
+  REPLACE  ...and speech but in
+      metin  : kierkegaard s
+      duyulan: kirka guards
+  REPLACE  ...appear in a video
+      metin  : kierkegaard
+      duyulan: kirka guard
+  REPLACE  ...useful hidden within the
+      metin  : verse s
+      duyulan: versus
+  REPLACE  ...today s episode of
+      metin  : nöron felsefe
+      duyulan: neuron felsaphae
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-10-20.duyulan.txt

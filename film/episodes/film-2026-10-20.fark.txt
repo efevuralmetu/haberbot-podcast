@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-20.mp3
+
+beklenen 1741 kelime | duyulan 1746 kelime | eşleşme %91.5
+sayı ifadesi: metinde 254, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve hayatının tek uzun
+      metin  : metrajını
+      duyulan: metracını
+  REPLACE  ...yasaklanmış film ve zayıflayan
+      metin  : bedenle
+      duyulan: bedenne
+  REPLACE  ...zayıflayan bedenle kalmıştı adı
+      metin  : jan
+      duyulan: john
+  REPLACE  ...anlattığı orta metrajlı filmi
+      metin  : dö kondüit
+      duyulan: de conduit
+  DELETE   ...gösterimini yasakladı yasak ancak
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olduğunu bilmek gerekir babası
+      metin  : migel almereyda
+      duyulan: miguel almereyde
+  INSERT   ...yıllarında tanınmış anarşist gazeteciydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vardı verem yıllar önce
+      metin  : pirenelerdeki fon romö sanatoryumunda
+      duyulan: prenelerdeki fond romeo sanatoriumunda
+  INSERT   ...da aynı hastalığı taşıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aynı hastalığı taşıyordu kızları
+      metin  : lüs
+      duyulan: lüz
+  REPLACE  ...kentle alay eden belgeseli
+      metin  : a propo dö nis
+      duyulan: apropos dönis
+  REPLACE  ...da yasaklanan okul filmi
+      metin  : hepsi
+      duyulan: bu arası
+  REPLACE  ...sonra vigo nun yapımcısı
+      metin  : jak lui nunez
+      duyulan: jacques louis nunes
+  REPLACE  ...güvenli şey önerdi elde
+      metin  : jan gine
+      duyulan: cangine
+  REPLACE  ...nehirde birlikte yaşamaya başlamalarıydı
+      metin  : nunez
+      duyulan: nunes
+  DELETE   ...yoktu yalnızca aşk hikayesi
+      metin  : vardı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...devam etmek istiyordu senaryoyu
+      metin  : alber riyera
+      duyulan: albert riera
+  REPLACE  ...baştan yazdı mavnanın adı
+      metin  : latalant ydı
+      duyulan: latalanta idi
+  REPLACE  ...yük teknesine verilmiş bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kurdu mavnanın genç kaptanı
+      metin  : jan
+      duyulan: can
+  DELETE   ...hal ve gidiş da
+      metin  : da
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gidiş da da oynayan
+      metin  : jan daste yi
+      duyulan: can dasta yı
+  REPLACE  ...jan daste yi aldı
+      metin  : gelin jülyet i
+      duyulan: filmin cülyeti
+  REPLACE  ...jülyet i alman oyuncu
+      metin  : dita
+      duyulan: dieter
+  REPLACE  ...sürprizi teknenin yaşlı tayfası
+      metin  : jül baba yı
+      duyulan: jules babay ı
+  REPLACE  ...jül baba yı oynayan
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...en güçlü karakter oyuncularından
+      metin  : jül baba yı
+      duyulan: jules babay ı
+  REPLACE  ...dövmelerle kaplı kedilerle yaşayan
+      metin  : kamarası
+      duyulan: kamerası
+  REPLACE  ...vardı kaufman sovyet belgeselci
+      metin  : ciga
+      duyulan: giga
+  REPLACE  ...nun eski çalışma arkadaşı
+      metin  : moris jober
+      duyulan: morris jobber
+  REPLACE  ...kışa uzandı mavna gerçek
+      metin  : mavnaydı
+      duyulan: mavna idi
+  REPLACE  ...ekip paris in kuzeydoğusundaki
+      metin  : kanal dö lurk
+      duyulan: canal de l urk
+  REPLACE  ...yani urk kanalı boyunca
+      metin  : sen
+      duyulan: saint
+  REPLACE  ...sen kıyısındaki mavnacı kasabası
+      metin  : konflan sent de
+      duyulan: conflans saint honorinde
+  REPLACE  ...tuhaf tören gibi yürür
+      metin  : jülyet
+      duyulan: juliet
+  REPLACE  ...dar dünyada geçer güverte
+      metin  : kamara
+      duyulan: kamera
+  REPLACE  ...miço ve sürüyle kedi
+      metin  : jülyet
+      duyulan: juliet
+  REPLACE  ...in ışıklarını görmek ister
+      metin  : jan
+      duyulan: can
+  REPLACE  ...tahtayı buğulu camları dağınık
+      metin  : kamaraları
+      duyulan: kameraları
+  REPLACE  ...içine sürekli rüya sızar
+      metin  : jül baba nın kamarası
+      duyulan: jules baban ın kamerası
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 124 kelime | duyulup metinde OLMAYAN: 134
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-10-20.duyulan.txt

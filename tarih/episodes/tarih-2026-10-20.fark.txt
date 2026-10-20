@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-20.mp3
+
+beklenen 3144 kelime | duyulan 3171 kelime | eşleşme %90.4
+sayı ifadesi: metinde 378, duyulanda 276  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kişilik ordunun karşısında
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kazanılmıştı öğleden sonra bastıran
+      metin  : sağanak
+      duyulan: saanak
+  REPLACE  ...ayında bengal in başkenti
+      metin  : murşidabad
+      duyulan: murshidabad
+  REPLACE  ...yıl boyunca neredeyze bağımsız
+      metin  : navab
+      duyulan: nabab
+  REPLACE  ...olarak yönetmişti yerine torunu
+      metin  : siracüddevle
+      duyulan: siracı devle
+  REPLACE  ...fort william yani william
+      metin  : kalesi ydi
+      duyulan: collier siydi
+  REPLACE  ...hazırlanıyordu i ngilizler william
+      metin  : kalesi nin
+      duyulan: collier sinin
+  REPLACE  ...surlarını izin almadan güçlendiriyordu
+      metin  : siracüddevle
+      duyulan: siracud devle
+  REPLACE  ...önde gelen memurlarından oğlu
+      metin  : krişna das
+      duyulan: krishnadas
+  REPLACE  ...i ngilizler teslim etmiyordu
+      metin  : siracüddevle haziranı
+      duyulan: siracud devle haziran ı
+  REPLACE  ...geride kalanların başına john
+      metin  : zephaniah
+      duyulan: zefania
+  INSERT   ...şirket memuru geçti haziran
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...o gece yaşananlar sonraki
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...göer hücreye kişi girmiş
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...arasında olabileceğini öne sürdü
+      metin  : siracüddevle
+      duyulan: siracud devle
+  REPLACE  ...ulaştığında intikam çağrısına dönüştü
+      metin  : navab kalküta nın
+      duyulan: nawab kalkütanın
+  REPLACE  ...alinagar dedi garnizon bırakıp
+      metin  : murşidabad
+      duyulan: murshidabad
+  INSERT   ...yapılan savaşlarda kendini yetiştirip
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...bırakmayacaktı filo aralık ayında
+      metin  : hugli ye
+      duyulan: hooghly e
+  REPLACE  ...ye girdi ve ocak
+      metin  : kalküta
+      duyulan: de kalküt a
+  REPLACE  ...neredeyze direnişsiz geri alındı
+      metin  : siracüddevle
+      duyulan: siracud devle
+  REPLACE  ...sisli sabah clive ın
+      metin  : baskınıyla
+      duyulan: baskını ile
+  REPLACE  ...kesin sonuç vermedi ama
+      metin  : nawabı
+      duyulan: navab ı
+  INSERT   ...ama nawabı sarstı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oldu fransızlardan kaçabilenler kuzeye
+      metin  : nawabın
+      duyulan: navab ın
+  REPLACE  ...himayesine sığındı bu noktada
+      metin  : murşidabad
+      duyulan: murshidabad
+  REPLACE  ...sarayında tehlikeli oyun başlamıştı
+      metin  : siracüddevle
+      duyulan: siracud devle
+  REPLACE  ...kız kardeşiyle evli ordunun
+      metin  : bahşisi
+      duyulan: bahçesi
+  REPLACE  ...en zengin bankacı ailesi
+      metin  : cagat set ler
+      duyulan: jagat setler
+  REPLACE  ...ler vardı bu aile
+      metin  : nawabların
+      duyulan: navab ların
+  REPLACE  ...avrupa şirketlerine kredi verirdi
+      metin  : siracüddevle nin
+      duyulan: siracı devlet in
+  REPLACE  ...başka güçlü komutan ray
+      metin  : durlab
+      duyulan: durlap
+  REPLACE  ...da komploya katıldı şirketin
+      metin  : murşidabad
+      duyulan: murshidabad
+  REPLACE  ...görüşmeler kadınların taşındığı kapalı
+      metin  : tahtırevanlarla yapıldı
+      duyulan: tahtı revanlarla yapıldığı
+  REPLACE  ...plan basitti i ngilizler
+      metin  : nawaba
+      duyulan: navab a
+  REPLACE  ...taslak antlaşmaya göer şirkete
+      metin  : kalküta nın
+      duyulan: kalkütağ ın
+  REPLACE  ...kror yani rupi verilecekti
+      metin  : kalküta
+      duyulan: kalkütağ
+  REPLACE  ...donanmaya ayrıca ödül verilecek
+      metin  : kalküta nın
+      duyulan: kalkütağ ın
+  REPLACE  ...içinde adam daha vardı
+      metin  : omiçand kalküta
+      duyulan: omi çant kalkütağ
+  REPLACE  ...i ngilizlerle iş yapan
+      metin  : nawabın
+      duyulan: navab ın
+  ... ve 126 fark daha
+
+metinde olup DUYULMAYAN: 207 kelime | duyulup metinde OLMAYAN: 247
+bölme/birleşme farkı (hata değil, elendi): 48
+
+duyulan metin: tarih-2026-10-20.duyulan.txt

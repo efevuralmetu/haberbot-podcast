@@ -1,0 +1,55 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-20.mp3
+
+beklenen 1261 kelime | duyulan 1259 kelime | eşleşme %98.3
+sayı ifadesi: metinde 131, duyulanda 121  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...da ye yazan dev
+      metin  : tabela
+      duyulan: tabel
+  REPLACE  ...şeyi düşünüyor an kendinizi
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...şeyi yapardı bu soruyu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...psikolog lee ross david
+      metin  : greene
+      duyulan: green
+  REPLACE  ...sordu deney ilk bakışta
+      metin  : tabelayla
+      duyulan: tabela ile
+  INSERT   ...edecek olanlar yalnızca yaklaşık
+      metin  : (yok)
+      duyulan: tü
+  REPLACE  ...resim çiziyordu ve her
+      metin  : grup da
+      duyulan: grupta
+  REPLACE  ...bizim gibi düşünenler oluyor
+      metin  : örneklemimiz
+      duyulan: örneklememiz
+  REPLACE  ...ta kendisi gibi geliyor
+      metin  : lee ross
+      duyulan: liros
+  REPLACE  ...zaten alındığını öğrenirsiniz telefonsuz
+      metin  : dağ
+      duyulan: daha
+  REPLACE  ...hatırlamak yargılamak yerine merak
+      metin  : etmenize
+      duyulan: etmenizi
+  REPLACE  ...desteğin yerini tutmaz ross
+      metin  : greene
+      duyulan: grün
+  REPLACE  ...tutmaz ross greene ve
+      metin  : house un
+      duyulan: hausson
+  REPLACE  ...bilen tam karşınızda oturuyordur
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-10-20.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-20.mp3
+
+beklenen 1929 kelime | duyulan 1999 kelime | eşleşme %10.0
+sayı ifadesi: metinde 176, duyulanda 72  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...is its own shape
+      metin  : yılının haziranında dünya nın yaklaşık kilometer üzerinde buz tutmuş uzay istasyonunun içinde adam çalışıyordu i stasyonun adı salyut yani selam ydi ay önce yer kontrolüyle bağlantısı kopmuş elektrik sistemi çökmüştü i çerisi dondurucu derecede soğuktu pencerelerde kırağı vardı sesten başka şey yoktu sovyet kozmonotlar vladimir canibekov ile viktor savinıh ölü istasyonu yeniden hayata döndürmek için gönderilmişlerdi canibekov kenetlenmeyi el kumandasıyla gözüyle hedefe bakarak yapmıştı ardından günler boyunca kablo taşıdılar akü bağladılar buzu erittiler sistemleri tek tek açtılar bu yorucu işlerin arasında anlatılanlara göer canibekov kargo paketini açıyordu paket kanatlı somunlarla sabitlenmişti kanatlı somunu bilirsiniz ortada vidalı gövde yanda parmakla tutup çevirmeye yarayan küçük kulak kozmonot somunlardan parmağıyla fiske vurur gibi çevirdi somun vidadan kurtulunca ağırlıksız ortamda süzülmeye başladı ve dönmeye devam etti buraya kadar şaşırtıcı şey yok uzayda serbest bırakılan cisim nasıl dönüyorsa öyle dönmeye devam eder ama saniye sonra tuhaf şey oldu somun
+      duyulan: it turns out that it s a smal nut and it spins smoothly through the air a few seconds later it flips upside down with nothing touching it a few seconds later it flips upside down with nothing touching it a few seconds later it flips upside down with nothing touching it it turns out that it s a tiny nut a few seconds later it flips upside down with nothing touching it the cause is its own shape it turns out that it spins smoothly through the air it turns out that it flips upside down with nothing touching it
+  REPLACE  ...oldu somun kendi ekseni
+      metin  : etrafında düzgünce dönerken ters oldu
+      duyulan: etra funda dusgunja donar kyan beer dan tercja uzolda
+  REPLACE  ...dönerken ters oldu sanki
+      metin  : görünmez parmakla dokunmuş gibi yarım
+      duyulan: birigurun masbir par maklado kun mushkibe yaram
+  REPLACE  ...gibi yarım tur takla
+      metin  : attı
+      duyulan: atta
+  REPLACE  ...tur takla attı ve
+      metin  : dönmesini bu kez ters yönde sürdürdü süer
+      duyulan: don mesi ne bukeis tercja unda surdurda beer surai
+  REPLACE  ...yönde sürdürdü süer sakin
+      metin  : sakin döndü sonra yine
+      duyulan: sakinduanda sauna ina
+  REPLACE  ...döndü sonra yine takla
+      metin  : attı
+      duyulan: atta
+  REPLACE  ...yine takla attı eski
+      metin  : haline geri geldi bu
+      duyulan: halina gerigalda buu
+  REPLACE  ...geldi bu tekrar tekrar
+      metin  : aşağı yukarı eşit aralıklarla sürüp gitti ortada
+      duyulan: asha yukara ishitara luklar la surupkitte orta da
+  REPLACE  ...sürüp gitti ortada ne
+      metin  : çarpma vardı
+      duyulan: beer chart mawarda
+  INSERT   ...ne çarpma vardı ne
+      metin  : (yok)
+      duyulan: beer
+  REPLACE  ...çarpma vardı ne hava
+      metin  : akımı ne
+      duyulan: akamu nede beer dushku vet somun yalnazja kendi bashanadun yordu kene bekof denai yibashkan esne larle
+  REPLACE  ...hava akımı ne de
+      metin  : dış kuvvet somun yalnızca kendi başına dönüyordu canibekov deneyi başka nesnelerle de tekrarladı ve davranışın
+      duyulan: tekrar la deve davranishun
+  REPLACE  ...ve davranışın bu somuna
+      metin  : özgü olmadığını gördü
+      duyulan: usgu olamadun yordu y
+  REPLACE  ...özgü olmadığını gördü uygun
+      metin  : biçimli serbestçe dönen cisim belli eksen etrafında döndürüldüğünde düzenli
+      duyulan: bicimli serbestje donan beer jisim beyli ekseni etra funda don durul dunde dusani
+  REPLACE  ...döndürüldüğünde düzenli olarak takla
+      metin  : atıyordu bu gözlem
+      duyulan: attu yordu buu gazlem
+  REPLACE  ...bu gözlem daha sonra
+      metin  : adıyla anılacaktı canibekov
+      duyulan: adi la annulajakte janibekof
+  REPLACE  ...adıyla anılacaktı canibekov etkisi
+      metin  : bu hikayenin etrafında zamanla efsane de büyüdü sık anlatılan rivayete göer sovyet yetkilileri bu gözlemi yıllarca gizli tutmuş çünkü bütün gezegenin de aynı şekilde ters olabileceğinden korkmuşlardı bu anlatının belgelenmiş dayanağı
+      duyulan: buu hekaini ne etra funda zaman labir efsani debuudu sek an natalan rivaya teguer soviet jetki leleer bugyozdemi yillarja gizde totmus chunku butun geze genin da aynishe kilde terse yuzola billeje indan kork muslarda buan latanen belgelan mishbir dajana
+  REPLACE  ...anlatının belgelenmiş dayanağı yok
+      metin  : en iyi ihtimalle yarı efsane
+      duyulan: eni ihitmal leyaer efsani
+  REPLACE  ...ihtimalle yarı efsane ama
+      metin  : şeyi
+      duyulan: shei
+  REPLACE  ...ama şeyi kesin olarak
+      metin  : söyleyebiliriz
+      duyulan: solye biliriz
+  REPLACE  ...olarak söyleyebiliriz bu korkunun
+      metin  : fiziksel
+      duyulan: physiksel
+  REPLACE  ...fiziksel temeli yok bunun
+      metin  : nedenine metnin sonunda döneceğiz şimdilik asıl soruya odaklanalım
+      duyulan: neden ne metnun sonun da dunu jaz shimdilek asil soriya odaklanalum
+  REPLACE  ...odaklanalım somun neden takla
+      metin  : atıyor i lk
+      duyulan: attu yordu ilk
+  REPLACE  ...atıyor i lk akla
+      metin  : gelen açıklama şeylerin
+      duyulan: gelena ciklama bisheilereno ne
+  REPLACE  ...şeylerin itmesi belki kozmonotun
+      metin  : parmağı
+      duyulan: parmaa
+  REPLACE  ...belki kozmonotun parmağı somunu
+      metin  : tam düzgün çevirmemiştir
+      duyulan: tamduz gunchevir me mishtir
+  REPLACE  ...tam düzgün çevirmemiştir belki
+      metin  : istasyonun havalandırması
+      duyulan: istasiounun hawalandur masabir
+  REPLACE  ...belki istasyonun havalandırması esinti
+      metin  : yaratmıştır
+      duyulan: arat mishtir
+  REPLACE  ...havalandırması esinti yaratmıştır ama
+      metin  : bu açıklamalar işe yaramıyor çünkü
+      duyulan: bua ciklama lari shei aram yor chunku
+  REPLACE  ...işe yaramıyor çünkü takla
+      metin  : kez olmuyor düzenli ritimle tekrar ediyor
+      duyulan: geze olm yor du zan nibi ritim nete kraarid yor ber
+  REPLACE  ...tekrar ediyor esinti somunu
+      metin  : kez devirebilir ama her saniyede sanki saat kurulmuş gibi aynı hareketi yaptıramaz i şin daha
+      duyulan: geze devir bili ramahir kacz sani ede san kisaat kurul muski bi aynahareketi apter amaz ishin
+  REPLACE  ...i şin daha da
+      metin  : ilginç yanı şu canibekov un gördüğü şey
+      duyulan: hada ilgin ciyanushu kani bekovun gurdu shei
+  REPLACE  ...un gördüğü şey yeni
+      metin  : fizik değildi
+      duyulan: fizikteyildu altan da
+  REPLACE  ...fizik değildi yatan matematik
+      metin  : insanlar uzaya çıkmadan neredeyze önce yazılmıştı sadece dünya
+      duyulan: insan nar uzaia cikmadan narese ikyu zilunja yazul mushtu saad hai chdunyaa
+  REPLACE  ...yazılmıştı sadece dünya da
+      metin  : bunu bu kadar açık görmek zordu yerçekimi her şeyi aşağı çeker döndürdüğünüz cisim saniyeler içinde
+      duyulan: bunubukkadar a cikgur meksordu yer cikime hershey a shaacheker don durdunus jisim sani eleri cinde
+  REPLACE  ...cisim saniyeler içinde yeer
+      metin  : düşer
+      duyulan: dusher
+  REPLACE  ...içinde yeer düşer takla
+      metin  : başlamadan hareket
+      duyulan: baslamadan haraket
+  REPLACE  ...takla başlamadan hareket biter
+      metin  : uzay ize bu gizli davranışın ortaya çıkması için gereken zamanı
+      duyulan: uze isse bugezli davranishan ortaia cikmasi cingeer kanzamanu
+  REPLACE  ...için gereken zamanı ve
+      metin  : sessizliği sağladı dakikalığına elinize dikdörtgen kitap aldığınızı düşünün
+      duyulan: se sizli saalade daki kaluna ilinizae dikdurt gan kitapaldunu zudushunun
+  ... ve 74 fark daha
+
+metinde olup DUYULMAYAN: 1733 kelime | duyulup metinde OLMAYAN: 1803
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-10-20.duyulan.txt

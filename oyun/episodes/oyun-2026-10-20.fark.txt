@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-20.mp3
+
+beklenen 1810 kelime | duyulan 1814 kelime | eşleşme %96.4
+sayı ifadesi: metinde 265, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mekanlara pek uğramıyordu toru
+      metin  : i vatani
+      duyulan: ivathani
+  INSERT   ...tabloya bakıp eksiklik gördü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tasarımı kendi kendine öğrenmişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şirketine girdiğinde asıl hayali
+      metin  : langırt
+      duyulan: langert
+  REPLACE  ...ize elektronik oyunlara yönelmişti
+      metin  : i vatani
+      duyulan: ivathani
+  REPLACE  ...yıllarında topla tuğla kırılan
+      metin  : langırttan
+      duyulan: langert tan
+  REPLACE  ...girmeyen içeri ne çekebilir
+      metin  : i vatani
+      duyulan: ivathani
+  REPLACE  ...anlatılmaya değecek kadar sade
+      metin  : i vatani
+      duyulan: ivathani
+  REPLACE  ...ağzını açmış yuvarlak görür
+      metin  : i vatani
+      duyulan: ivathani
+  REPLACE  ...karakteri köşeli kareye benziyordu
+      metin  : i vatani
+      duyulan: ivathani
+  DELETE   ...anlatan ses taklidi vardır
+      metin  : paku paku
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oyunun adı buradan türetilerek
+      metin  : puck
+      duyulan: pac
+  INSERT   ...ritimle açıp kapayacaktı geliştirme
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...ve yaklaşık yıl sürdü
+      metin  : i vatani
+      duyulan: ivathani
+  REPLACE  ...ekip vardı programlamanın yükünü
+      metin  : şigeo
+      duyulan: shigeo
+  REPLACE  ...bütün ses dünyası da
+      metin  : toşio
+      duyulan: toshio
+  REPLACE  ...bakışta anlayabileceği kadar açıktı
+      metin  : i vatani
+      duyulan: ivathani
+  INSERT   ...olmayan oyun oyun mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oyun mayıs tokyo nun
+      metin  : şibuya
+      duyulan: shibuya
+  REPLACE  ...çok ilgi gösteriyordu ve
+      metin  : puck
+      duyulan: pac
+  REPLACE  ...değil kovalayan renkli figürdeydi
+      metin  : i vatani
+      duyulan: ivathani
+  REPLACE  ...derecede tahmin edilebilir olurdu
+      metin  : i vatani
+      duyulan: ivathani
+  INSERT   ...küçük kuralını uyguluyordu i
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...köşesindeki iri noktalardı i
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...yalnızca çift göz kalır
+      metin  : gözler de
+      duyulan: kozlerde
+  REPLACE  ...bölgeye çekmek için konmuş
+      metin  : puanlı
+      duyulan: poanlı
+  REPLACE  ...elma ve kavun sıra
+      metin  : atlantiği
+      duyulan: atlantiyi
+  REPLACE  ...oyunun adındaki harfe takıldı
+      metin  : puck
+      duyulan: puk
+  REPLACE  ...çözüm tek harfi değiştirmekti
+      metin  : puck
+      duyulan: pac
+  REPLACE  ...oyunu haline geldi i
+      metin  : vatani nin
+      duyulan: vathanenin
+  INSERT   ...ve çizgi dizi geldi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şarkı amerikan listelerinde ilk
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...yıl amerikalı dağıtıcının piyasaya
+      metin  : sürdüğü ms
+      duyulan: sürdüğümüz
+  INSERT   ...pac man yani bayan
+      metin  : (yok)
+      duyulan: pac man
+  REPLACE  ...video oyunlarının ilk gerçek
+      metin  : maskotuydu
+      duyulan: mascotuydu
+  REPLACE  ...makine bölüm sayısını tek
+      metin  : bayt
+      duyulan: byte
+  REPLACE  ...tek bayt içinde tutuyordu
+      metin  : bayt
+      duyulan: byte
+  REPLACE  ...parçaların birbirine karıştığı anlamsız
+      metin  : mozaiğe
+      duyulan: mozaie
+  REPLACE  ...bilmeceye dönüşmüştü bu bilmecenin
+      metin  : nihai
+      duyulan: nihayi
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: oyun-2026-10-20.duyulan.txt

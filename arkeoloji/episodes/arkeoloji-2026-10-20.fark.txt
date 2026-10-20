@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-20.mp3
+
+beklenen 2815 kelime | duyulan 2825 kelime | eşleşme %95.2
+sayı ifadesi: metinde 343, duyulanda 289  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...durur gövdeleri burulmuş yaprakları
+      metin  : gümüşi
+      duyulan: gümüşü
+  REPLACE  ...mı kimse bilmiyor ama
+      metin  : ad
+      duyulan: at
+  INSERT   ...o adla anılıyor sarayı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tabletler çıktı ortaya üzerlerinde
+      metin  : lineer
+      duyulan: linear
+  REPLACE  ...günümüze kadar korumuştu yazı
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...o günden sonra pilos
+      metin  : miken
+      duyulan: myken
+  INSERT   ...büyük sürprizin kalmadığını düşünüyordu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...dibinde çalışmaya başladı ekip
+      metin  : blegen
+      duyulan: plagen
+  REPLACE  ...şey kuyu mezardı yani
+      metin  : toprağa
+      duyulan: toprağı
+  REPLACE  ...şafağına aittir en ünlüleri
+      metin  : hayrih
+      duyulan: hayri
+  REPLACE  ...ünlüleri hayrih şliman ın
+      metin  : yetmişlerde
+      duyulan: lerde
+  DELETE   ...boyunca insanlar yürümüş ekin
+      metin  : ekmiş zeytin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yapmıştı kimse farkına varmamıştı
+      metin  : blegen in
+      duyulan: bileginin
+  REPLACE  ...görünmeye başladı davis ve
+      metin  : stocker
+      duyulan: stoker
+  DELETE   ...yatırılmış adamın iskeleti vardı
+      metin  : tabut
+      duyulan: (YOK — atlanmış)
+  DELETE   ...içindeki çanak çömleğe göer
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sarayın yükselmesinden çok önce
+      metin  : miken
+      duyulan: mikan
+  INSERT   ...ilk kazı mevsiminin sonunda
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...tek sayıldıkça bu rakam
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...un da anlattığı türden
+      metin  : miğferin
+      duyulan: miferin
+  REPLACE  ...türden miğferin parçalarıydı böyle
+      metin  : miğfer
+      duyulan: mifer
+  REPLACE  ...avlanması gerekirdi yani bu
+      metin  : miğfer
+      duyulan: mifer
+  REPLACE  ...prestij nesnesiydi kılıçların ve
+      metin  : miğferin
+      duyulan: miferin
+  REPLACE  ...fildişinden oyulmuş tarak akik
+      metin  : ametist
+      duyulan: ahmetist
+  REPLACE  ...duruyordu ve gümüş kadehler
+      metin  : bronz leğenler
+      duyulan: bronzleyenler
+  REPLACE  ...yanında duruyorlardı davis ve
+      metin  : stocker
+      duyulan: stoker
+  REPLACE  ...yapılmış plaka vardı üzerine
+      metin  : griffon
+      duyulan: grifon
+  REPLACE  ...vardı üzerine griffon kazınmıştı
+      metin  : griffon
+      duyulan: grifon
+  REPLACE  ...plakadan esinlenerek lakap taktı
+      metin  : griffon
+      duyulan: grifon
+  REPLACE  ...başka tarafa yerleştirilmişti kadehler
+      metin  : leğenler
+      duyulan: leyenler
+  REPLACE  ...ortasında yükselen büyük ada
+      metin  : girit
+      duyulan: girid
+  REPLACE  ...günkü haritasına bakmak gerekir
+      metin  : mö
+      duyulan: mimösrubi
+  REPLACE  ...bakmak gerekir mö civarında
+      metin  : girit te
+      duyulan: girid de
+  REPLACE  ...nesneler arasında üstü kireçli
+      metin  : tortuyla
+      duyulan: tortu ile
+  REPLACE  ...görünen küçük taş vardı
+      metin  : yer
+      duyulan: yeraltı
+  REPLACE  ...tepeliği hilal biçiminde süslenmiş
+      metin  : miğfer
+      duyulan: miyfer
+  REPLACE  ...insanı asıl sarsan şey
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...ürünü olduğu davis ve
+      metin  : stocker akikin
+      duyulan: stoker akik in
+  REPLACE  ...ettiği temalardır burada girit
+      metin  : ustalığı ile anakaranın
+      duyulan: ustalığıyla anakara nın
+  REPLACE  ...tek dövüşler kalkanların ve
+      metin  : miğferlerin
+      duyulan: miferlerin
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 97 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-10-20.duyulan.txt

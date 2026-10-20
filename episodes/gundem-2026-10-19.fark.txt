@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-19.mp3
+
+beklenen 1330 kelime | duyulan 1329 kelime | eşleşme %93.9
+sayı ifadesi: metinde 252, duyulanda 141  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...varil başına dolara yaklaştırırken
+      metin  : endeks
+      duyulan: endek
+  REPLACE  ...işaretleriyle başlanıyor i ran
+      metin  : devrim
+      duyulan: devri
+  REPLACE  ...duyurdu muhafızlara göer gemi
+      metin  : seyir
+      duyulan: sehir
+  REPLACE  ...gemilerin düşman sayılacağı uyarısını
+      metin  : yineledi
+      duyulan: yeneledi
+  REPLACE  ...dönüştü i çişleri bakanı
+      metin  : loran nunyez
+      duyulan: loren núñez
+  INSERT   ...gözaltı sayısı resmi açıklamalarla
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...resmi açıklamalarla üzerine çıktı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...paris marsilya nis ve
+      metin  : bordo
+      duyulan: bordeaux
+  REPLACE  ...olayları yaşandı cumhurbaşkanı emanuel
+      metin  : makron
+      duyulan: macron
+  REPLACE  ...hesap vereceğini söyledi başbakan
+      metin  : sebastiyen lökornü
+      duyulan: sebastien lecornu
+  REPLACE  ...başbakan sebastiyen lökornü ize
+      metin  : bilançonun
+      duyulan: blanchot un
+  REPLACE  ...de başkan donald trump
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...da ize basın sözcüsü
+      metin  : katie zacharia
+      duyulan: kate zuckery a
+  REPLACE  ...ayrıldı trump genelkurmay başkanı
+      metin  : susie wiles ın
+      duyulan: suzy wilson
+  REPLACE  ...seçimlerde demokrat senatör jon
+      metin  : ossoff a
+      duyulan: osofa
+  INSERT   ...collins için miting düzenledi
+      metin  : (yok)
+      duyulan: en
+  REPLACE  ...öte yandan federal yargıç
+      metin  : ms now
+      duyulan: msnf
+  REPLACE  ...görünüyor ukrayna devlet başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  INSERT   ...hisselerinde satış derinleşti micron
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...belirtilen bulut altyapı şirketi
+      metin  : coreweave
+      duyulan: corewave
+  DELETE   ...yapay zeka altyapı şirketi
+      metin  : nscale e yatırımcılar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sağlıyor michigan daki palisades
+      metin  : pennsylvania
+      duyulan: pensylvania
+  REPLACE  ...temiz enerji merkezi ve
+      metin  : iowa
+      duyulan: ayava
+  INSERT   ...ekleyecek palisades in mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nextera birlikte çalışıyor openai
+      metin  : ekim başında chatgpt
+      duyulan: ekimbaşı nda chet gpt
+  REPLACE  ...yüksek kapasiteli olarak sınıflandırıyor
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...havada giriliyor cuma günü
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...ize eylülde aylık artarak
+      metin  : (yok)
+      duyulan: lük
+  REPLACE  ...eylülde aylık artarak beklentiyi
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...gelişme msci ın duyurusuydu
+      metin  : endeks
+      duyulan: endek
+  INSERT   ...kadar dondurdu ve haziran
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...statüsü ize şimdilik korunuyor
+      metin  : bist
+      duyulan: b site
+  REPLACE  ...kapattı haftalık kayıp yaklaşık
+      metin  : dörde
+      duyulan: e
+  DELETE   ...yer aldı döviz piyasasında
+      metin  : dolar lira
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işlem görüyor enerji ve
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...bayraktar ayrıca bu yıl
+      metin  : kilovatsaat
+      duyulan: kwh
+  REPLACE  ...milletvekilinin de bulunduğu grupla
+      metin  : chp den
+      duyulan: şapdn
+  REPLACE  ...duruşma gününde savcılığın ara
+      metin  : mütalaasını
+      duyulan: mütalasını
+  REPLACE  ...osman gazi üretim platformunun
+      metin  : filyos
+      duyulan: filios
+  INSERT   ...yaklaşık metreküpten metreküpe çıkacağını
+      metin  : (yok)
+      duyulan: k den
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: gundem-2026-10-19.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-20.mp3
+
+beklenen 1933 kelime | duyulan 1951 kelime | eşleşme %95.1
+sayı ifadesi: metinde 205, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: kiki in
+  INSERT   ...bazı kısımlarında demir oranı
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...demiryolu kiruna yı yandan
+      metin  : botniya körfezi ndeki luleo
+      duyulan: botnia körfezindeki luleyo
+  REPLACE  ...dağları aşarak norveç kıyısındaki
+      metin  : narviğe
+      duyulan: narvi ye
+  REPLACE  ...norveç kıyısındaki narviğe bağladı
+      metin  : narviğin
+      duyulan: narvi in
+  REPLACE  ...stream in ılık sularıydı
+      metin  : luleo
+      duyulan: luleyo
+  INSERT   ...boyu açık kalıyordu hat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şirketinin ilk yöneticisi yalmar
+      metin  : lundbum du
+      duyulan: lundbomdu
+  REPLACE  ...du şirketin tam adı
+      metin  : luossavaara kirunavara
+      duyulan: lusavara kiruna vara
+  REPLACE  ...i sveç devletine ait
+      metin  : lundbum
+      duyulan: lundbom
+  REPLACE  ...basamak basamak kesiliyordu sonra
+      metin  : yeraltına
+      duyulan: yer
+  REPLACE  ...madeni dünyanın en büyük
+      metin  : yeraltı
+      duyulan: yer
+  INSERT   ...hissediliyor bu iş mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...anladı kararın açıklandığı yıl
+      metin  : (yok)
+      duyulan: tü
+  REPLACE  ...tesadüf değil mimar gustav
+      metin  : vikman
+      duyulan: wikman
+  REPLACE  ...vikman samilerin geleneksel konik
+      metin  : çadırı ile
+      duyulan: çadırıyla
+  INSERT   ...kulübelerinden esinlenerek tasarladı kilize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i sveç prensi prens
+      metin  : eugen in
+      duyulan: yücenin
+  REPLACE  ...köşesinde izine rastlanan yalmar
+      metin  : lundbum du
+      duyulan: lundpumdu de
+  REPLACE  ...hafıza deposuydu ve o
+      metin  : kilize de
+      duyulan: kilisede
+  INSERT   ...çizgisinin yaklaştığı bölgedeydi ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...genişletildi bazı köprü ve
+      metin  : viyadükler
+      duyulan: viadükler
+  INSERT   ...hatları geçici olarak kaldırıldı
+      metin  : (yok)
+      duyulan: doğundokuz
+  REPLACE  ...kenarları kalabalıktı bazıları battaniyeleer
+      metin  : sarınmış
+      duyulan: sarılmış
+  INSERT   ...ardından yeniden ibadete açılması
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...taşınan tek yapı değil
+      metin  : lundbum
+      duyulan: lundboom
+  REPLACE  ...eski belediye oldu mimar
+      metin  : artur fon şmalense
+      duyulan: arthur von schmalense
+  INSERT   ...fon şmalense nin tasarladığı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...zor ve pahalı bulundu
+      metin  : (yok)
+      duyulan: kiki da
+  INSERT   ...yeniden dikildi yeni belediye
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uyarak yaşıyor kiruna çevresinde
+      metin  : ren geyiği
+      duyulan: rengeyi
+  REPLACE  ...kışı alçak ormanlık bölgelerde
+      metin  : likenlerin
+      duyulan: laykenlerin
+  REPLACE  ...sveççenin yanında sami dili
+      metin  : fince
+      duyulan: finca
+  REPLACE  ...vadi halkının dili olan
+      metin  : meenkieli
+      duyulan: menkeli
+  REPLACE  ...sevilen yemek donuk etin
+      metin  : incecik rendelenip tereyağında mantar ve soğanla kavrulduğu ren kavurması
+      duyulan: ince dilimlerinde kesiliyor
+  REPLACE  ...alabalığı temiz ve soğuk
+      metin  : sularda
+      duyulan: sular da yaşıyor tütsülenmiş tuzlanmış ya da tavada pişmiş haliyle bölgenin sevilen tatlarından kışın göğsü kutup alabalığı temiz ve soğuk sular da
+  REPLACE  ...taşıyan küçük hediye gibi
+      metin  : fin
+      duyulan: piffin
+  REPLACE  ...dev kar heykelleri yontuluyor
+      metin  : ren geyiği
+      duyulan: rengeyi
+  INSERT   ...kez daha bugünden bakalım
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...daha yer altındaki servetle
+      metin  : yer üstündeki
+      duyulan: yeryüzündeki
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-10-20.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-20.mp3
+
+beklenen 1648 kelime | duyulan 1671 kelime | eşleşme %90.8
+sayı ifadesi: metinde 248, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...adını elias koydular babası
+      metin  : fredrik yohan lönrot
+      duyulan: frederick johan lönroth
+  REPLACE  ...ailenin ağaç kabuğu karıştırılmış
+      metin  : ekmekle
+      duyulan: şekilde
+  INSERT   ...sıradan şey değildi finlandiya
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...büyük dükalıktı önce de
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  REPLACE  ...üniversitede i sveççe konuşulurdu
+      metin  : fince
+      duyulan: finca
+  REPLACE  ...oduncunun diliydi kendisi de
+      metin  : fince
+      duyulan: finca
+  REPLACE  ...yeniden okula döndü süer
+      metin  : hemeenlinna
+      duyulan: hemenlinna
+  REPLACE  ...latince ilaç adlarını ezberlerken
+      metin  : ileride
+      duyulan: mahkemelerde
+  INSERT   ...da belli olmaya başlamıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aydınları için adeta çağrıydı
+      metin  : lönrot
+      duyulan: lernroth
+  REPLACE  ...taşındı dersler aksadı genç
+      metin  : lönrot
+      duyulan: lernroth
+  INSERT   ...boşluğu fırsata çevirdi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cebinde defter savo ve
+      metin  : karelya
+      duyulan: karelia
+  DELETE   ...duyduklarını kağıda geçiriyordu bu
+      metin  : ilk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...mesleği yine de hekimlikti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da dünyasını birleştiriyordu finlerin
+      metin  : büyüye
+      duyulan: büyüğe
+  REPLACE  ...hem hekimin hem de
+      metin  : şiir
+      duyulan: sihir
+  REPLACE  ...çekecek alandı ertesi yıl
+      metin  : kajaani
+      duyulan: te kacani
+  REPLACE  ...bölge hekimi olarak atandı
+      metin  : kajaani
+      duyulan: kacani
+  REPLACE  ...kajaani ülkenin orta kuzeyinde
+      metin  : kainuu
+      duyulan: kainu
+  REPLACE  ...genç doktor ilaç bile
+      metin  : bulmakta
+      duyulan: halkta
+  REPLACE  ...dilde sağlık öğütleri yazdı
+      metin  : kajaani
+      duyulan: kacani
+  REPLACE  ...yanında rus topraklarında kalan
+      metin  : karelya
+      duyulan: kareliya
+  REPLACE  ...köyleri uzanıyordu lönrot o
+      metin  : köylerde
+      duyulan: yerde
+  REPLACE  ...girdi sınırın doğusundaki bölgeye
+      metin  : viena karelyası
+      duyulan: viyena kareliyası
+  REPLACE  ...karelyası yani beyaz deniz
+      metin  : karelyası
+      duyulan: kareliyası
+  REPLACE  ...yaşadığı yolları neredeyze hiç
+      metin  : olmayan
+      duyulan: kayayan
+  REPLACE  ...lönrot bu yolları defalarca
+      metin  : aştı
+      duyulan: açtı
+  DELETE   ...gezilerde katettiği mesafenin binlerce
+      metin  : kilometreyi bulduğu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yayılmasıyla çoktan unutulmaya başlamıştı
+      metin  : viena
+      duyulan: viyena
+  REPLACE  ...kendine özgü ölçüyle söylenirdi
+      metin  : kelimelerin
+      duyulan: kedimelerin
+  INSERT   ...öteki tamamlar ve tekrarlardı
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...tamamlar ve tekrarlardı gezisinde
+      metin  : lönrot vuonninen
+      duyulan: lönroth buoninen
+  REPLACE  ...gezisinde lönrot vuonninen köyünde
+      metin  : vaassila kieleveynen
+      duyulan: vasilakileveinen
+  REPLACE  ...ama başka şey yaptı
+      metin  : veynemöynen in
+      duyulan: veine möyne nin
+  REPLACE  ...bağlandığını söyledi bu sohbet
+      metin  : lönnrodun
+      duyulan: lönroth un
+  REPLACE  ...ortaya çıkardı aynı yıl
+      metin  : lönrot
+      duyulan: lönroth
+  REPLACE  ...aynı yıl lönrot topladığı
+      metin  : veynemöynen
+      duyulan: veine möyne
+  REPLACE  ...geçti bu kez yolu
+      metin  : latvayervi
+      duyulan: latvajervi
+  REPLACE  ...köye düştü ve orada
+      metin  : arhippa perttunen
+      duyulan: arhipa pertunen
+  ... ve 64 fark daha
+
+metinde olup DUYULMAYAN: 114 kelime | duyulup metinde OLMAYAN: 137
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: edebiyat-2026-10-20.duyulan.txt

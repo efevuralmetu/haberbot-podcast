@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-20.mp3
+
+beklenen 2127 kelime | duyulan 2131 kelime | eşleşme %96.7
+sayı ifadesi: metinde 237, duyulanda 202  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ipucu veriyor i ngilizcedeki
+      metin  : gossip
+      duyulan: gosip
+  INSERT   ...zorlandığı başka tat var
+      metin  : (yok)
+      duyulan: gp da
+  REPLACE  ...almancadan dünyaya yayılan kelimeyle
+      metin  : şadenfroyde
+      duyulan: schadenfreude
+  INSERT   ...bazı türlerde bu günün
+      metin  : (yok)
+      duyulan: sine
+  INSERT   ...birbirlerinin tüylerini ayıklamıyor cevabı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yetersiz kalmaya başladı tımar
+      metin  : (yok)
+      duyulan: birebirdir
+  INSERT   ...laboratuvara taşıyanlar da oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...araştırmacılar matthew feinberg ve
+      metin  : robb willer
+      duyulan: rob wheeler
+  DELETE   ...dedikodu sanıldığı kadar zehirli
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kadar zehirli de değil
+      metin  : california
+      duyulan: da kaliforniya
+  REPLACE  ...ama bu konuşmaların yaklaşık
+      metin  : nötrdü
+      duyulan: nötrüldü
+  REPLACE  ...da gecikmiyor yüzyılın ortasında
+      metin  : kopenhag da
+      duyulan: kopenhak ta
+  INSERT   ...yapabileceğini kendi hayatında öğrendi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...konusu yaptı karikatürlerde kirkegor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...dedikodusuyla kendi şehrinde gülünç
+      metin  : figüer
+      duyulan: figuer
+  DELETE   ...aynı yıl yayımladığı bugün
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...verdi gevezelik göer gerçek
+      metin  : konuşma ile
+      duyulan: konuşmayla
+  REPLACE  ...yaklaşık yıl sonra martin
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...dunbar mı haklı kirkegor
+      metin  : mı
+      duyulan: mu
+  REPLACE  ...ama asıl şaşırtıcı olan
+      metin  : müslim in sahih inde
+      duyulan: müslüman sahihinde
+  REPLACE  ...sahih inde aktarılan hadistir
+      metin  : hz
+      duyulan: herz
+  INSERT   ...incitici söz söylemeyi yasaklar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...söylemeyi yasaklar litvanyalı haham
+      metin  : yisrael
+      duyulan: i srail
+  REPLACE  ...şeyin yasağını bu kadar
+      metin  : ısrarla
+      duyulan: ısrarlı
+  REPLACE  ...arasında balasagunlu yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...eser sundu adı kutadgu
+      metin  : bilig di
+      duyulan: bilik ti
+  REPLACE  ...eserin en çok hatırlanan
+      metin  : beyitlerinden
+      duyulan: beytlerinden
+  REPLACE  ...dil hakkındadır yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...de böyledir i çimizdeki
+      metin  : düşünceyle
+      duyulan: düşünce ile
+  REPLACE  ...sahibini parçalar yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...başkasını korumanın tek yoludur
+      metin  : kutadgu bilig deki
+      duyulan: kutatgu teki
+  REPLACE  ...arasında seçim değil kirkegor
+      metin  : ın deyişiyle
+      duyulan: un deyişi ile
+  REPLACE  ...videoda görünen yabancılar kirkegor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...mutlaka o odaya gireceğini
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: felsefe-2026-10-20.duyulan.txt
