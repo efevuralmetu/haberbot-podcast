@@ -1,0 +1,653 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.450
+1980'de atari salonları uzaylı vuran, tank patlatan oyunlarla doluydu ve içeride neredeyse hiç kadın yoktu.
+
+2
+00:00:08.450 --> 00:00:15.780
+Namco'da genç bir tasarımcı bu duruma çözüm olarak ateş etmeyen, yalnızca yemek yiyen sarı bir daire çizdi.
+
+3
+00:00:15.780 --> 00:00:23.590
+O daire sonunda oyun tarihinin en çok kazandıran makinesine dönüştü, ama onu yaratan adamın maaşı hiç değişmedi.
+
+4
+00:00:31.790 --> 00:00:37.040
+1979 yılında bir Tokyo atari salonuna girdiğinizi düşünün.
+
+5
+00:00:37.040 --> 00:00:41.170
+İçerisi loş ve dumanlı, havada makinelerin uğultusu var.
+
+6
+00:00:41.170 --> 00:00:51.060
+Ekranların çoğunda aynı sahne dönüyor: gökyüzünden sıra sıra inen yaratıklar, aşağıda sağa sola kayan küçük bir top ve hiç susmayan ateş sesleri.
+
+7
+00:00:51.060 --> 00:01:04.470
+Bir yıl önce piyasaya çıkan Space Invaders, yani Uzay İstilacıları, Japonya'yı öyle sarmıştı ki makinelere atılan bozuk paralar yüzünden ülkede para sıkıntısı yaşandığına dair söylentiler dolaşıyordu.
+
+8
+00:01:04.470 --> 00:01:12.760
+Salonların müdavimleri de büyük ölçüde aynı kesimdendi: genç erkekler, öğrenciler, mesai sonrası takılan işçiler.
+
+9
+00:01:12.760 --> 00:01:16.410
+Kadınlar ya da çiftler bu mekânlara pek uğramıyordu.
+
+10
+00:01:16.410 --> 00:01:20.380
+Toru Iwatani bu tabloya bakıp bir eksiklik gördü.
+
+11
+00:01:20.380 --> 00:01:23.710
+1955'te Tokyo'da doğmuştu.
+
+12
+00:01:23.710 --> 00:01:30.400
+Bilgisayar ya da grafik eğitimi almamıştı, programlamayı ve tasarımı kendi kendine öğrenmişti.
+
+13
+00:01:30.400 --> 00:01:38.690
+1977'de Namco adlı Japon oyun şirketine girdiğinde asıl hayali langırt makineleri tasarlamaktı.
+
+14
+00:01:38.690 --> 00:01:42.340
+Şirket ise elektronik oyunlara yönelmişti.
+
+15
+00:01:42.340 --> 00:01:50.150
+Iwatani de bu iki dünyayı birleştirdi ve ilk yıllarında topla tuğla kırılan, langırttan esinlenmiş oyunlar yaptı.
+
+16
+00:01:50.150 --> 00:01:58.600
+Ama aklındaki soru giderek büyüyordu: Ateş etmeyi, öldürmeyi ve patlamayı oyundan çıkarırsanız geriye ne kalır?
+
+17
+00:01:58.600 --> 00:02:02.570
+Atari salonuna hiç girmeyen birini içeri ne çekebilir?
+
+18
+00:02:02.570 --> 00:02:07.500
+Iwatani'nin bulduğu cevap şaşırtıcı derecede gündelikti: yemek yemek.
+
+19
+00:02:07.500 --> 00:02:15.310
+Sonraki yıllarda verdiği röportajlarda o dönemde kadınların tatlıya ve kafede vakit geçirmeye düşkün olduğunu gözlemlediğini,
+
+20
+00:02:15.310 --> 00:02:22.320
+bu yüzden oyunun merkezine Japoncada "yemek" anlamına gelen "taberu" fiilini koymaya karar verdiğini anlatır.
+
+21
+00:02:22.320 --> 00:02:33.970
+Bugün bu gözlem biraz kalıp yargı gibi duyulabilir, ama sonuç açısından önemli olan şuydu: Ortaya çıkan oyunda düşman vurulmayacak, kahraman bir şeyler yiyecekti.
+
+22
+00:02:33.970 --> 00:02:40.340
+Karakterler sevimli olacak, renkler yumuşak, kontrol de olabildiğince basit kalacaktı.
+
+23
+00:02:40.340 --> 00:02:44.310
+Tek bir kol, dört yön ve başka hiçbir şey.
+
+24
+00:02:44.310 --> 00:02:47.160
+Peki bu yiyici neye benzeyecekti?
+
+25
+00:02:47.160 --> 00:02:50.490
+Efsane anlatılmaya değecek kadar sade.
+
+26
+00:02:50.490 --> 00:02:55.740
+Iwatani bir öğle yemeğinde pizza sipariş eder ve bir dilimini alır.
+
+27
+00:02:55.740 --> 00:03:01.310
+Tabaktaki pizzaya baktığında karşısında ağzını açmış yuvarlak bir yüz görür.
+
+28
+00:03:01.310 --> 00:03:06.400
+Iwatani yıllar sonra bu hikâyenin "yarı doğru" olduğunu kabul edecekti.
+
+29
+00:03:06.400 --> 00:03:13.090
+Öbür yarısı Japon yazısındaydı: "ağız" anlamına gelen kuchi karakteri köşeli bir kareye benziyordu.
+
+30
+00:03:13.090 --> 00:03:18.180
+Iwatani bu kareyi yuvarlattığında da ortaya aynı şekil çıkıyordu.
+
+31
+00:03:18.180 --> 00:03:20.390
+Pizza mı, harf mi?
+
+32
+00:03:20.390 --> 00:03:22.920
+Muhtemelen ikisi birden.
+
+33
+00:03:22.920 --> 00:03:28.810
+Ortada kesin olan tek şey vardı: Kahramanın gözü, kolu, bacağı yoktu.
+
+34
+00:03:28.810 --> 00:03:30.700
+Sadece bir ağızdı.
+
+35
+00:03:30.700 --> 00:03:33.070
+Adı da bu ağızdan geldi.
+
+36
+00:03:33.070 --> 00:03:41.040
+Japoncada ağzı hızlı hızlı açıp kapamayı, lokmaları peş peşe yutmayı anlatan bir ses taklidi vardır: "paku paku".
+
+37
+00:03:41.040 --> 00:03:44.690
+Oyunun adı buradan türetilerek Puck-Man konuldu.
+
+38
+00:03:44.690 --> 00:03:50.900
+Ekrandaki sarı daire koridorlarda ilerlerken ağzını tam da bu ritimle açıp kapayacaktı.
+
+39
+00:03:50.900 --> 00:03:56.630
+Geliştirme 1979'un başlarında başladı ve yaklaşık bir yıl sürdü.
+
+40
+00:03:56.630 --> 00:03:59.800
+Iwatani'nin yanında küçük bir ekip vardı.
+
+41
+00:03:59.800 --> 00:04:03.610
+Programlamanın yükünü Shigeo Funaki taşıyordu.
+
+42
+00:04:03.610 --> 00:04:09.820
+O tanıdık "vaka vaka" sesleriyle oyunun bütün ses dünyası da Toshio Kai'nin eseriydi.
+
+43
+00:04:09.820 --> 00:04:12.990
+Ekip oyunu bir labirentin içine yerleştirdi.
+
+44
+00:04:12.990 --> 00:04:21.600
+Labirent, ekranın her yerini aynı anda görebilen, sağdan çıkıp soldan girilebilen tünellerle döngüye bağlanmış kapalı bir dünyaydı.
+
+45
+00:04:21.600 --> 00:04:25.250
+Koridorlara 240 küçük nokta dizildi.
+
+46
+00:04:25.250 --> 00:04:28.420
+Oyuncu hepsini yediğinde bölüm bitiyordu.
+
+47
+00:04:28.420 --> 00:04:32.390
+Hedef herkesin bir bakışta anlayabileceği kadar açıktı.
+
+48
+00:04:32.390 --> 00:04:38.440
+Iwatani'nin istediği de tam olarak buydu: Kuralları açıklamaya gerek olmayan bir oyun.
+
+49
+00:04:38.440 --> 00:04:45.450
+Oyun 22 Mayıs 1980'de Tokyo'nun Shibuya semtindeki bir salonda ilk kez oyuncuların önüne kondu.
+
+50
+00:04:45.450 --> 00:04:48.140
+Karşılanışı fırtına gibi değildi.
+
+51
+00:04:48.140 --> 00:04:57.870
+Japon oyuncular o sırada şirketin başka uzay oyunlarına daha çok ilgi gösteriyordu ve Puck-Man ilk aylarda yalnızca makul bir başarı olarak görüldü.
+
+52
+00:04:57.870 --> 00:05:04.560
+Ne var ki oyunun asıl gücü ekrandaki sarı dairede değil, onu kovalayan dört renkli figürdeydi.
+
+53
+00:05:04.560 --> 00:05:13.330
+Iwatani düşmanlar konusunda baştan bir karar vermişti: Kahraman ne kadar sevimliyse onu kovalayanlar da öyle olmalıydı.
+
+54
+00:05:13.330 --> 00:05:20.980
+Korkutucu canavarlar yerine iri gözlü, etekleri dalgalı, biraz çocuk kitabından fırlamış hayaletler çizildi.
+
+55
+00:05:20.980 --> 00:05:28.790
+Dört tane oldular ve her biri ayrı bir renk taşıdı: kırmızı, pembe, açık mavi ve turuncu.
+
+56
+00:05:28.790 --> 00:05:32.120
+Asıl buluş renklerde değil, karakterlerdeydi.
+
+57
+00:05:32.120 --> 00:05:41.530
+Dört hayaletin hepsi oyuncunun üzerine aynı biçimde atılsaydı oyun ya dayanılmaz derecede zor ya da sıkıcı derecede tahmin edilebilir olurdu.
+
+58
+00:05:41.530 --> 00:05:48.700
+Iwatani bunun yerine her hayalete bir kişilik verdi ve bu kişilikler Japonca adlarına bile yansıdı.
+
+59
+00:05:48.700 --> 00:05:53.470
+Kırmızı hayaletin Japonca lakabı "kovalayan" anlamına geliyordu.
+
+60
+00:05:53.470 --> 00:05:58.720
+Yazılımda bu, onun her an Pac-Man'in tam bulunduğu kareyi hedeflemesi demekti.
+
+61
+00:05:58.720 --> 00:06:03.010
+Kırmızı hayalet hiç yorulmaz, arkanızdan ayrılmazdı.
+
+62
+00:06:03.010 --> 00:06:06.980
+Üstelik labirentteki noktalar azaldıkça hızlanırdı.
+
+63
+00:06:06.980 --> 00:06:10.150
+Pembe hayaletin lakabı "pusu kuran"dı.
+
+64
+00:06:10.150 --> 00:06:15.240
+O Pac-Man'in kendisine değil, baktığı yönde 4 kare ilerisine nişan alırdı.
+
+65
+00:06:15.240 --> 00:06:19.370
+Kırmızı arkadan sıkıştırırken pembe önünüze dikilirdi.
+
+66
+00:06:19.370 --> 00:06:25.260
+Açık mavi hayalet "kaprisli" diye anılıyordu ve en karmaşık hesap onundu.
+
+67
+00:06:25.260 --> 00:06:31.790
+Pac-Man'in iki kare ilerisini ve kırmızı hayaletin konumunu birlikte hesaba katarak hedef seçiyordu.
+
+68
+00:06:31.790 --> 00:06:36.880
+Bu yüzden hareketleri bir oyuncuya rastgele, öbürüne kurnazca görünürdü.
+
+69
+00:06:36.880 --> 00:06:40.850
+Turuncu hayaletin lakabı ise "aptalı oynayan"dı.
+
+70
+00:06:40.850 --> 00:06:49.940
+Pac-Man'den uzaktayken kovalamaya başlar, 8 kareden fazla yaklaştığında ise vazgeçip labirentin sol alt köşesine çekilirdi.
+
+71
+00:06:49.940 --> 00:06:55.670
+Bu dört kural tek başına basit görünse de bir arada tuhaf bir canlılık yaratıyordu.
+
+72
+00:06:55.670 --> 00:07:02.680
+Oyuncular hayaletlerin birlikte çalıştığına, onları bir yere sıkıştırmak için plan yaptığına yemin ederdi.
+
+73
+00:07:02.680 --> 00:07:07.450
+Oysa her biri yalnızca kendi küçük kuralını uyguluyordu.
+
+74
+00:07:07.450 --> 00:07:10.620
+Iwatani buna bir de nefes payı ekledi.
+
+75
+00:07:10.620 --> 00:07:19.550
+Hayaletler belirli aralıklarla kovalamayı bırakıp her biri kendi köşesine dağılıyor, birkaç saniye sonra yeniden avlanmaya dönüyordu.
+
+76
+00:07:19.550 --> 00:07:23.680
+Gerilim böylece dalgalar halinde yükselip alçalıyordu.
+
+77
+00:07:23.680 --> 00:07:34.690
+Küçük ayrıntılar da dengeye hizmet ediyordu: Pac-Man köşeleri hayaletlerden biraz daha hızlı dönebiliyordu, hayaletler ise yan tünellere girdiklerinde yavaşlıyordu.
+
+78
+00:07:34.690 --> 00:07:37.700
+Kaçan tarafın da elinde kozlar vardı.
+
+79
+00:07:37.700 --> 00:07:42.150
+En büyük koz labirentin dört köşesindeki iri noktalardı.
+
+80
+00:07:42.150 --> 00:07:50.120
+Iwatani bu fikri Temel Reis'in ıspanağından aldığını söyler: Bir lokma yersin ve kovalanan, kovalayana dönüşür.
+
+81
+00:07:50.120 --> 00:07:57.290
+Pac-Man bu noktalardan birini yediğinde hayaletler koyu maviye bürünür, titrer ve kaçmaya başlardı.
+
+82
+00:07:57.290 --> 00:07:59.820
+Artık onları yemek mümkündü.
+
+83
+00:07:59.820 --> 00:08:09.710
+Yenen hayaletten geriye yalnızca bir çift göz kalır, gözler de koridorlardan süzülüp labirentin ortasındaki eve dönerek yeniden hayalete dönüşürdü.
+
+84
+00:08:09.710 --> 00:08:19.120
+Aynı güçlendirme sırasında yenen her hayalet bir öncekinin iki katı puan getirirdi: 200, 400, 800 ve 1600.
+
+85
+00:08:19.120 --> 00:08:24.210
+Oyun bir anda risk ile açgözlülük arasındaki bir pazarlığa dönüşüyordu.
+
+86
+00:08:24.210 --> 00:08:26.580
+Ekip bununla da yetinmedi.
+
+87
+00:08:26.580 --> 00:08:31.510
+Bazı bölümlerin arasına kısa, sözsüz komedi sahneleri koydu.
+
+88
+00:08:31.510 --> 00:08:40.120
+Bunlarda kırmızı hayalet Pac-Man'i kovalarken bir çiviye takılıp örtüsünü yırtıyor, bir sonraki sahnede yamalı örtüsüyle beliriyordu.
+
+89
+00:08:40.120 --> 00:08:48.410
+Oyunların henüz hikâye anlatmayı pek düşünmediği bir dönemde bu küçük ara sahneler, karakterlere ekranın dışında da bir hayat veriyordu.
+
+90
+00:08:48.410 --> 00:08:59.900
+Labirentin ortasında zaman zaman beliren meyveler de oyuncuyu tehlikeli bölgeye çekmek için konmuş, puanlı yemlerdi: kiraz, çilek, portakal, elma ve kavun.
+
+91
+00:08:59.900 --> 00:09:02.590
+Sıra Atlantiği geçmeye geldi.
+
+92
+00:09:02.590 --> 00:09:09.920
+Oyunun Amerika'daki dağıtımını Midway üstlendi; şirket bu metinde artık "Amerikalı dağıtıcı" diye anılacak.
+
+93
+00:09:09.920 --> 00:09:14.690
+Amerikalı dağıtıcının gözü hemen oyunun adındaki bir harfe takıldı.
+
+94
+00:09:14.690 --> 00:09:22.660
+Puck kelimesindeki P harfinin bir parçasını kazımak, adı İngilizcede argo ve kaba bir kelimeye çevirmeye yetiyordu.
+
+95
+00:09:22.660 --> 00:09:27.750
+Salonlardaki makinelerin kalemle, çiviyle karalanmasından endişe edildi.
+
+96
+00:09:27.750 --> 00:09:30.760
+Çözüm tek bir harfi değiştirmekti.
+
+97
+00:09:30.760 --> 00:09:32.810
+Puck-Man, Pac-Man oldu.
+
+98
+00:09:32.810 --> 00:09:39.020
+Bu küçük düzeltme sonunda bir adı, bir markayı, hatta bir kuşağın ortak dilini belirledi.
+
+99
+00:09:39.020 --> 00:09:47.470
+Pac-Man 1980 sonbaharında Amerikan salonlarına girdiğinde Japonya'daki temkinli karşılanıştan eser kalmadı.
+
+100
+00:09:47.470 --> 00:09:54.320
+Makinelerin önünde kuyruklar oluştu ve oyun kısa sürede ülkenin en çok oynanan oyunu haline geldi.
+
+101
+00:09:54.320 --> 00:10:03.250
+Iwatani'nin hedeflediği kitle de gerçekten geldi: Daha önce salonlara uğramayan kadınlar ve çiftler sarı dairenin peşine takıldı.
+
+102
+00:10:03.250 --> 00:10:15.700
+Guinness Dünya Rekorları'nın kayıtlarına göre 1981 ile 1987 arasında dünya genelinde 293.822 Pac-Man makinesi satıldı.
+
+103
+00:10:15.700 --> 00:10:22.230
+Bu rakamla Pac-Man jetonla çalışan oyun makineleri arasında tarihin en başarılısı oldu.
+
+104
+00:10:22.230 --> 00:10:26.200
+Ardından ekranın dışına taşan bir çılgınlık başladı.
+
+105
+00:10:26.200 --> 00:10:33.050
+Tişörtler, beslenme çantaları, çıkartmalar, kahvaltılık gevrekler ve bir çizgi dizi geldi.
+
+106
+00:10:33.050 --> 00:10:42.300
+1982'de yayımlanan Pac-Man Fever, yani Pac-Man Ateşi adlı şarkı Amerikan listelerinde ilk 10'a kadar yükseldi.
+
+107
+00:10:42.300 --> 00:10:45.950
+Aynı yıl Amerikalı dağıtıcının piyasaya sürdüğü Ms.
+
+108
+00:10:45.950 --> 00:10:56.480
+Pac-Man, yani Bayan Pac-Man, ilk oyunun açtığı kapıdan geçti ve kahramanı fiyonklu bir kadın karakter olan bu devam oyunu da en az ilki kadar sevildi.
+
+109
+00:10:56.480 --> 00:10:59.970
+Pac-Man artık bir oyunun adı olmaktan çıkmıştı.
+
+110
+00:10:59.970 --> 00:11:06.340
+Video oyunlarının ilk gerçek maskotuydu: Oyunu hiç oynamamış insanların bile tanıdığı bir yüz.
+
+111
+00:11:06.340 --> 00:11:11.430
+Ne var ki makinenin içinde, kimsenin henüz göremediği bir duvar bekliyordu.
+
+112
+00:11:11.430 --> 00:11:17.960
+Pac-Man'in bölümleri, yazılım açısından bakıldığında sonsuza kadar sürecek gibi tasarlanmıştı.
+
+113
+00:11:17.960 --> 00:11:24.810
+Labirent hep aynı kalır, hayaletler biraz daha hızlanır, güçlendirmeler biraz daha kısalırdı.
+
+114
+00:11:24.810 --> 00:11:28.620
+Ama makine bölüm sayısını tek bir bayt içinde tutuyordu.
+
+115
+00:11:28.620 --> 00:11:33.230
+Bir bayt da en fazla 256 farklı değer alabilir.
+
+116
+00:11:33.230 --> 00:11:44.240
+Oyuncu iki yüz elli beşinci bölümü tamamlayıp iki yüz elli altıncı bölüme geçtiğinde sayaç taşıyor ve ekranın altına bonus meyveleri çizen kod kontrolden çıkıyordu.
+
+117
+00:11:44.240 --> 00:11:47.890
+Ortaya çıkan görüntü neredeyse gerçeküstüydü.
+
+118
+00:11:47.890 --> 00:11:58.580
+Ekranın sol yarısı tanıdık labirent olarak kalıyor, sağ yarısı ise harflerin, rakamların ve renkli parçaların birbirine karıştığı anlamsız bir mozaiğe dönüşüyordu.
+
+119
+00:11:58.580 --> 00:12:02.070
+O yarıdaki noktaların çoğu yok olmuştu.
+
+120
+00:12:02.070 --> 00:12:10.360
+Bölümü bitirmek için gereken noktaların hepsini yemek artık imkânsızdı ve oyun orada, ikiye bölünmüş ekranda donup kalıyordu.
+
+121
+00:12:10.360 --> 00:12:14.010
+Oyuncular bu duvara "ölüm ekranı" adını verdi.
+
+122
+00:12:14.010 --> 00:12:19.260
+Iwatani ve ekibi kimsenin bu kadar uzağa gidebileceğini hesaba katmamıştı.
+
+123
+00:12:19.260 --> 00:12:26.750
+Bir oyunun saatlerce, yorulmadan, hatasız oynanabileceği o yıllarda pek kimsenin aklına gelmezdi.
+
+124
+00:12:26.750 --> 00:12:37.120
+Oysa en tutkulu oyuncular hayaletlerin kurallarını ezberlemiş, her bölümde aynı yolu izleyerek hayaletleri adeta koreografiyle atlatan rotalar geliştirmişti.
+
+125
+00:12:37.120 --> 00:12:43.650
+Sevimli bir oyun olarak doğan Pac-Man, bir kesim için matematiksel bir bilmeceye dönüşmüştü.
+
+126
+00:12:43.650 --> 00:12:47.940
+Bu bilmecenin nihai cevabı "kusursuz oyun" diye anıldı.
+
+127
+00:12:47.940 --> 00:13:01.990
+Kusursuz oyunda oyuncu 255 bölümün her birinde bütün noktaları, bütün meyveleri ve her güçlendirmede dört hayaletin dördünü de yiyor, son olarak bölünmüş ekranda toplanabilecek her puanı topluyordu.
+
+128
+00:13:01.990 --> 00:13:04.200
+Hiç can kaybetmiyordu.
+
+129
+00:13:04.200 --> 00:13:15.850
+Ulaşılabilecek en yüksek puan 3.333.360'tı ve bu skor ilk kez 1999'da, oyunun çıkışından neredeyse 20 yıl sonra belgelendi.
+
+130
+00:13:15.850 --> 00:13:21.900
+Saatler süren bu maraton, oyunun tasarımcılarının bile öngörmediği bir sınırda bitiyordu.
+
+131
+00:13:21.900 --> 00:13:26.350
+Yani kusursuz oyun bile bir hatanın önünde son buluyordu.
+
+132
+00:13:26.350 --> 00:13:32.240
+Ekranın ikiye bölünmesi, oyunun yaratıcısının hikâyesine de tuhaf biçimde uyuyordu.
+
+133
+00:13:32.240 --> 00:13:39.250
+Pac-Man'in bir yarısında makineler, lisanslar, şarkılar ve dünya çapında bir servet vardı.
+
+134
+00:13:39.250 --> 00:13:43.060
+Öbür yarısında ise maaşlı bir şirket çalışanı.
+
+135
+00:13:43.060 --> 00:13:54.870
+Iwatani sonraki yıllarda kendisine tekrar tekrar sorulan soruya hep aynı sakinlikle cevap verdi: Pac-Man'in başarısı için kendisine özel bir ikramiye ya da pay verilmemişti.
+
+136
+00:13:54.870 --> 00:14:00.920
+O dönemin Japon şirket kültüründe bir oyun, onu tasarlayan kişinin değil şirketin malıydı.
+
+137
+00:14:00.920 --> 00:14:07.610
+Iwatani de kendini sıradan bir çalışan olarak gördüğünü, bu yüzden bir hak iddia etmediğini anlattı.
+
+138
+00:14:07.610 --> 00:14:14.300
+Ünlü bir kahramanın babası olmak ona servet değil, şirket içinde zamanla yönetim görevleri getirdi.
+
+139
+00:14:14.300 --> 00:14:22.270
+Iwatani kendi elleriyle oyun tasarlamaktan giderek uzaklaştı ve başkalarının projelerini yöneten bir konuma geçti.
+
+140
+00:14:22.270 --> 00:14:26.240
+Bu hikâyeyi bir haksızlık destanına çevirmek kolay.
+
+141
+00:14:26.240 --> 00:14:29.410
+Ama Iwatani'nin kendisi bunu yapmadı.
+
+142
+00:14:29.410 --> 00:14:38.020
+Röportajlarında daha çok oyunun insanları nasıl gülümsettiğinden, ailelerin ve çiftlerin aynı ekranın başında buluşmasından söz etti.
+
+143
+00:14:38.020 --> 00:14:45.670
+2007'de şirketten ayrılıp Tokyo'daki bir politeknik üniversitesinde oyun tasarımı dersleri vermeye başladı.
+
+144
+00:14:45.670 --> 00:14:53.800
+Bir zamanlar dumanlı salonlara bir yemek fikriyle meydan okuyan adam, şimdi yeni kuşaklara bir oyunun nasıl düşünüleceğini anlatıyordu.
+
+145
+00:14:53.800 --> 00:14:59.370
+Ona göre oyun tasarımı, oynayan insanın ne hissedeceğini düşünmekle başlıyordu.
+
+146
+00:14:59.370 --> 00:15:02.700
+Tanınma ise geç ama farklı bir biçimde geldi.
+
+147
+00:15:02.700 --> 00:15:13.390
+2005'te, oyunun yirmi beşinci yılında, Guinness Dünya Rekorları en başarılı jetonlu oyun makinesi rekorunun belgesini Iwatani'ye bizzat teslim etti.
+
+148
+00:15:13.390 --> 00:15:27.120
+2010'da, otuzuncu yıl dönümünde, Google arama sayfasının logosu birkaç günlüğüne oynanabilir bir Pac-Man labirentine dönüştü ve dünyanın dört bir yanında milyonlarca insan iş saatlerinde o labirentte dolaştı.
+
+149
+00:15:27.120 --> 00:15:34.770
+2012'de New York'taki Modern Sanat Müzesi, koleksiyonuna aldığı ilk video oyunları arasına Pac-Man'i de koydu.
+
+150
+00:15:34.770 --> 00:15:41.940
+2015'te kurulan Video Oyunları Şöhretler Salonu'nun ilk üyeleri arasında da Pac-Man vardı.
+
+151
+00:15:41.940 --> 00:15:53.590
+Hiçbiri Iwatani'nin banka hesabını değiştirmedi, ama hepsi aynı şeyi teslim ediyordu: Bir öğle yemeğinde tabağa bakan o adamın gördüğü şekil, sanat ve tarih kategorisine girmişti.
+
+152
+00:15:53.590 --> 00:15:58.360
+Pac-Man'in asıl mirası ise müzelerden çok bugünün oyunlarında yaşıyor.
+
+153
+00:15:58.360 --> 00:16:02.010
+Ateş etmeden de gerilim kurulabileceğini gösterdi.
+
+154
+00:16:02.010 --> 00:16:08.220
+Bir karakterin yalnızca bir yüzle, hatta yalnızca bir ağızla akılda kalabileceğini kanıtladı.
+
+155
+00:16:08.220 --> 00:16:17.790
+Dört hayaletin dört basit kuralı, düşmanlara kişilik vermenin ilk ve en zarif örneklerinden biri olarak hâlâ oyun tasarımı derslerinde anlatılıyor.
+
+156
+00:16:17.790 --> 00:16:29.120
+Salonların kapısında durup içeri girmeye çekinenlerin oyuna davet edilebileceğini, oyunun da yalnızca belirli bir kitleye ait olmak zorunda olmadığını ilk kez bu ölçekte o gösterdi.
+
+157
+00:16:29.120 --> 00:16:32.450
+Ve hikâyenin sonunda hep o iki yarım kalıyor.
+
+158
+00:16:32.450 --> 00:16:39.140
+Bir yanda kırk yılı aşkın süredir dünyanın her köşesinde ağzını açıp kapayan sarı bir daire.
+
+159
+00:16:39.140 --> 00:16:47.750
+Öbür yanda bu dairenin babası olmanın karşılığını parayla değil, insanların yüzündeki gülümsemeyle ölçmeyi seçen bir tasarımcı.
+
+160
+00:16:47.750 --> 00:16:51.240
+Pac-Man bir pizzanın eksik diliminden doğdu.
+
+161
+00:16:51.240 --> 00:16:58.570
+Belki de o eksik dilim hiç tamamlanmadı ve hikâyeyi bu kadar akılda kalıcı yapan da tam olarak buydu.
+
+162
+00:16:58.570 --> 00:17:01.740
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+163
+00:17:01.740 --> 00:17:04.750
+Yeni bir hikâyede yeniden buluşmak üzere.
