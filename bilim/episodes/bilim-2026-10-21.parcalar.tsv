@@ -1,0 +1,147 @@
+sira	karakter	saniye	kar_sn	metin
+1	71	4.640	15.30	Tavaya serptiğin su damlası, tava ılıkken bir anda cızırdayı
+2	102	6.240	16.35	Tavayı biraz daha ısıtırsan aynı damla bir buçuk dakika boyu
+3	104	6.560	15.85	Yani daha sıcak yüzey, suyu daha geç buharlaştırıyor ve bunu
+4	43	2.880	14.93	Mutfakta bir tava ocağın üzerinde ısınıyor.
+5	75	4.800	15.62	Yağı koymadan önce parmak uçlarınızı ıslatıp birkaç damla su
+6	103	6.560	15.70	Tava henüz ılıksa damlalar yüzeye yayılıyor, cızırdıyor, köp
+7	42	2.880	14.58	Biraz bekleyip aynı şeyi tekrarlıyorsunuz.
+8	51	3.680	13.86	Bu kez başka bir şey oluyor: damlalar cızırdamıyor.
+9	119	7.680	15.49	Küçük, parlak, neredeyse kusursuz küreler gibi tavanın üzeri
+10	53	3.680	14.40	Bazıları bir dakikadan uzun süre ortalıkta dolaşıyor.
+11	27	1.760	15.34	İlk bakışta bu bir çelişki.
+12	52	3.680	14.13	Tava daha sıcak, o halde su daha hızlı buharlaşmalı.
+13	22	1.440	15.28	Oysa tam tersi oluyor.
+14	90	5.760	15.62	Ilık tavada saniyeler içinde ölen damla, çok daha kızgın bir
+15	101	6.880	14.68	Aşçılar bu davranışı yüzyıllardır bir işaret olarak kullanıy
+16	102	6.880	14.83	Ama bu dansın arkasındaki fizik, ilk kez on sekizinci yüzyıl
+17	94	6.400	14.69	Yohan Gotlop Laydınfrost Alman bir hekimdi; Düsburg'da tıp, 
+18	87	5.920	14.70	bin yedi yüz elli altıda suyun bazı nitelikleri üzerine Lati
+19	99	5.920	16.72	Bu incelemede, ateşte iyice kızdırılmış demir bir kaşığa su 
+20	117	7.520	15.56	Kaşık yeterince sıcak olduğunda damla hemen kaybolmuyor, kaş
+21	106	6.080	17.43	Kaşık soğudukça damlanın davranışı birden değişiyor, su meta
+22	91	5.920	15.37	Laydınfrost bu gözlemi ilk yapan kişi değildi; benzer davran
+23	110	8.000	13.75	Fakat olguyu sistemli biçimde tarif eden o oldu ve bugün bu 
+24	154	9.920	15.52	Laydınfrost'un elinde bugünkü kavramlar yoktu, ama asıl önem
+25	62	4.320	14.35	Bir eşik vardı ve o eşiğin ötesinde her şey tersine dönüyord
+26	50	3.200	15.62	Bu tersine dönüşü görmek için bir deney düşünelim.
+27	154	9.120	16.89	Bir metal plakayı adım adım ısıttığımızı ve her sıcaklıkta ü
+28	64	4.640	13.79	Plaka yüz derecenin biraz üzerindeyken damla yavaş yavaş kay
+29	165	10.400	15.87	Sıcaklık arttıkça damla daha hızlı tükenir; yüz elli derece 
+30	38	2.560	14.84	Buraya kadar sezgimiz doğru çalışıyor.
+31	65	4.320	15.05	Sonra plakayı biraz daha ısıtırız ve grafik birden yukarı fı
+32	78	5.280	14.77	Su için bu eşik, sıradan bir metal yüzeyde kabaca iki yüz de
+33	81	5.440	14.89	Bu sıcaklığın hemen üzerinde, aynı damla bir dakikayı aşan s
+34	109	7.040	15.48	Ölçüm noktalarını bir eğri olarak çizdiğimizde, en kısa ömrü
+35	45	3.040	14.80	Bu dönüm noktasına Laydınfrost noktası denir.
+36	54	3.520	15.34	Bu noktanın kesin değeri yalnızca suya bağlı değildir.
+37	144	9.600	15.00	Yüzeyin pürüzlülüğü, temizliği, malzemenin cinsi, damlanın b
+38	74	4.960	14.92	Cilalı bir aynada başka, eski ve çizik bir tavada başka bir 
+39	123	7.200	17.08	Bu yüzden ders kitaplarında yazan tek bir sayıyı mutlak bir 
+40	68	4.800	14.17	Peki eşiğin öbür tarafında ne oluyor da damla birden ölümsüz
+41	75	5.440	13.79	Cevap, damlanın altında, gözle görülemeyecek kadar ince bir 
+42	155	9.920	15.62	Damla kızgın bir yüzeye değdiği anda, alt tarafındaki su o k
+43	29	2.080	13.94	Bu buhar damlayı yukarı iter.
+44	85	5.440	15.62	Damla artık metale dokunmaz; kendi buharından yapılmış bir y
+45	124	7.200	17.22	Bu yastığın kalınlığı tipik olarak milimetrenin onda biri me
+46	71	4.640	15.30	Görünmez ama damlanın bütün kaderini belirleyen o incecik ta
+47	49	3.200	15.31	Asıl sır, bu yastığın ısıyı çok kötü iletmesidir.
+48	102	7.040	14.49	Sıvı su ısıyı oldukça iyi taşır; su buharı ise bunun yaklaşı
+49	95	5.920	16.05	Yani damla, en sıcak kaynağa en yakın olduğu yerde, kendini 
+50	130	9.120	14.25	Isı hâlâ damlaya ulaşır, ama artık metalden doğrudan değil, 
+51	160	9.760	16.39	Damla yavaş yavaş buharlaşmaya devam eder, ancak bu, metalle
+52	68	4.000	17.00	Bu dengeyi kendi kendini ayarlayan bir mekanizma gibi düşüne
+53	107	7.520	14.23	Damla biraz alçalıp yüzeye yaklaşırsa, alt tarafı daha fazla
+54	86	6.400	13.44	Biraz fazla yükselirse ısı akışı azalır, buhar üretimi düşer
+55	67	4.320	15.51	Damlanın ağırlığı ile altındaki buharın basıncı birbirini de
+56	95	6.400	14.84	Buhar sürekli olarak damlanın kenarlarından dışarı akar; dam
+57	68	4.480	15.18	Bir bakıma damla, sürekli kendini yiyerek havada kalan bir y
+58	38	2.720	13.97	Ilık tavada neden bu yastık oluşmuyor?
+59	65	3.840	16.93	Bunu anlamak için kaynamanın farklı biçimlerine bakmak gerek
+60	154	10.080	15.28	bin dokuz yüz otuz dörtte Japon mühendis Shiro Nukiyama, ısı
+61	59	3.840	15.36	Bu eğri, Laydınfrost'un kaşığında gördüğünü sayılara döktü.
+62	128	7.520	17.02	Yüzey suyun kaynama sıcaklığının biraz üzerindeyken, metal ü
+63	110	6.880	15.99	Buna çekirdekli kaynama denir; bir tencerenin dibinden yükse
+64	86	5.920	14.53	Bu aşamada su metale değmeye devam eder, kabarcıklar kopar v
+65	35	2.720	12.87	Isı aktarımı son derece verimlidir.
+66	157	11.360	13.82	Tavadaki cızırdayan, köpüren ve hemen kaybolan damla tam ola
+67	85	5.600	15.18	Yüzey ısındıkça kabarcıklar çoğalır, birbirine yaklaşır ve s
+68	51	3.200	15.94	Bir noktada suyun yüzeye yeniden ulaşması zorlaşır.
+69	136	9.280	14.66	Buhar parçaları yüzeyin bazı bölgelerini kaplar, bazı bölgel
+70	112	7.680	14.58	Sıcaklık daha da artınca buhar bütün yüzeyi tek bir sürekli 
+71	37	2.720	13.60	Bu son rejimin adı film kaynamasıdır.
+72	88	5.760	15.28	Laydınfrost noktası, film kaynamasının başladığı eşiğin bir 
+73	140	9.120	15.35	Burada sezgimize ters gelen bir durum var: Bir yüzeyden suya
+74	101	7.040	14.35	O zirveden sonra yüzey ne kadar ısınırsa ısınsın, buhar film
+75	43	3.040	14.14	Dans eden damla bu çöküşün görünür yüzüdür.
+76	80	4.800	16.67	Yastığın yarattığı bir başka sonuç da sürtünmenin neredeyse 
+77	83	5.600	14.82	Damla katı bir yüzeye değmediği için, en ufak eğim ya da itm
+78	72	4.320	16.67	Tavada damlaların buz pistindeki diskler gibi süzülmesinin n
+79	166	9.760	17.01	Büyük damlalar ise sabit kalamaz: Altlarındaki buhar ortadan
+80	120	7.680	15.62	Bu desenler, yüzey gerilimi, yerçekimi ve alttan gelen buhar
+81	48	3.520	13.64	Aynı olay yalnızca suya ve tavaya özgü değildir.
+82	154	9.760	15.78	Oda sıcaklığındaki bir zemine dökülen sıvı azot, eksi yüz do
+83	77	4.960	15.52	Dökülen azot damlaları yerde kayarak, dağılıp yuvarlanarak u
+84	59	3.840	15.36	Sıvı azotla çalışan laboratuvarlarda bu görüntü sıradandır.
+85	124	8.160	15.20	Bazen bu etkinin, insanın ıslak eliyle kısa bir an çok sıcak
+86	104	6.880	15.12	bu kısmen doğrudur ama marjı son derece dar ve tahmin edilem
+87	78	5.120	15.23	Fizik burada bir güvenlik garantisi değil, olsa olsa şansın 
+88	119	7.840	15.18	Bu noktaya kadar Laydınfrost damlasını kendi halinde bıraktı
+89	132	7.680	17.19	Ama fizikçiler kısa süre önce bu rastgeleliği yönlendirebile
+90	88	5.600	15.71	Ve bu keşif, damlaların düz bir zeminde değil, yokuş yukarı 
+91	165	10.400	15.87	iki bin altıda Oregon Üniversitesi'nde Hayner Linke ve ekibi
+92	68	4.480	15.18	Her dişin bir tarafı yumuşak bir rampa, öbür tarafı dik bir 
+93	107	6.560	16.31	Plaka Laydınfrost noktasının üzerine ısıtıldığında, üzerine 
+94	64	4.000	16.00	Hepsi aynı yöne doğru, kendi kendilerine hızlanarak ilerliyo
+95	94	5.920	15.88	Plaka hafifçe eğildiğinde bile damlalar yerçekimine karşı ko
+96	47	2.880	16.32	Bunun açıklaması yine buhar yastığında yatıyor.
+97	69	4.640	14.87	Damlanın altındaki buhar düz bir yüzeyde her yöne eşit biçim
+98	108	6.720	16.07	Testere dişli bir yüzeyde ise dişlerin asimetrisi buharın ka
+99	74	4.800	15.42	Akan buhar, damlanın alt yüzeyini sürükleyerek onu da berabe
+100	218	12.800	17.03	Bu mekanizmanın ayrıntıları uzun süre tartışıldı; Paris'te D
+101	138	8.480	16.27	Bu düzeneklere cırcır, yani tek yönde dönen dişli adı verili
+102	39	2.560	15.23	Bu fikir zamanla daha da ileri taşındı.
+103	105	6.400	16.41	Araştırmacılar, aynı prensiple, buhar akışını kullanarak küç
+104	133	8.480	15.68	Su yerine katı karbondioksit, yani kuru buz kullanıldığında,
+105	82	5.280	15.53	Testere dişli bir yüzey üzerine yerleştirilen kuru buz parça
+106	155	9.600	16.15	Bunun, bir gün sıvı suyun bulunmadığı ama donmuş karbondioks
+107	129	8.160	15.81	Bu, şimdilik bir fikir ve bir laboratuvar gösteriminden ibar
+108	135	8.160	16.54	Ama Laydınfrost etkisinin en ciddi yüzü bir mutfakta ya da l
+109	125	7.680	16.28	Bir nükleer reaktörde yakıt çubukları sürekli ısı üretir ve 
+110	157	10.400	15.10	Normal çalışmada yakıt çubuklarının yüzeyinde çekirdekli kay
+111	90	5.760	15.62	Fakat ısı akışı belirli bir sınırı aştığında, Nukiyama'nın e
+112	33	2.240	14.73	Bu sınıra kritik ısı akısı denir.
+113	72	4.320	16.67	Bu eşik aşılırsa, yakıt çubuğunun yüzeyini bir buhar filmi k
+114	78	4.640	16.81	Tavadaki damlanın kendini koruduğu yastık burada metali suda
+115	94	6.400	14.69	Isı artık kolayca taşınamaz ve çubuğun sıcaklığı çok kısa sü
+116	149	8.960	16.63	Bu yüzden basınçlı su reaktörlerinin tasarımında, çekirdekli
+117	78	4.800	16.25	Reaktörün hiçbir noktasında ısı akısının bu sınıra yaklaşmas
+118	130	8.640	15.05	Reaktör mühendisliğinin en temel sınırlarından biri, kısacas
+119	81	5.440	14.89	Tehlike yalnızca normal çalışmada değil, bir kaza sonrasında
+120	73	4.640	15.73	Soğutma suyunun kaybedildiği bir durumda yakıt çubukları ısı
+121	140	9.120	15.35	Acil durum soğutma sistemleri devreye girip çekirdeği yenide
+122	121	8.320	14.54	Çubukların çevresinde bir buhar filmi oluşur ve su, tıpkı ta
+123	110	6.720	16.37	Çubuklar ancak soğuyup belirli bir eşiğin altına indiğinde s
+124	41	2.560	16.02	Mühendisler bu ana yeniden ıslanma diyor.
+125	178	11.040	16.12	Bu gecikmenin süresini doğru hesaplamak, kaza senaryolarının
+126	50	3.040	16.45	Aynı sorun metal endüstrisinde de karşımıza çıkar.
+127	124	7.520	16.49	Çelik su verilerek sertleştirilirken, kızgın parçanın çevres
+128	90	6.080	14.80	Parçanın bazı bölgeleri hızla, bazıları geç soğursa iç geril
+129	109	7.040	15.48	Yani demircinin bilinçli olarak yaptığı su verme işlemi de L
+130	117	7.200	16.25	Bu yüzden son yıllarda araştırmacılar, Laydınfrost etkisini 
+131	203	12.480	16.27	iki bin on ikide Suudi Arabistan'daki Kral Abdullah Bilim ve
+132	89	5.440	16.36	buhar filmini çok daha düşük sıcaklıklarda bile kararlı biçi
+133	79	5.760	13.72	Yani yüzeyin dokusu, eşiği hangi yöne istersek oraya itmemiz
+134	191	12.480	15.30	iki bin yirmi ikide Hong Kong'da Zuankai Wang'ın ekibi ise t
+135	101	6.880	14.68	Bu yüzeyde su, bin dereceyi aşan sıcaklıklarda bile metale t
+136	55	3.360	16.37	Ekip bu yapıya yapılandırılmış termal zırh adını verdi.
+137	168	10.560	15.91	Bu tür yüzeylerin bir gün jet motorlarında, reaktörlerde ya 
+138	98	5.760	17.01	dayanıklılık ve maliyet gibi soruların cevaplanmasını gerekt
+139	115	7.040	16.34	Böylece bir aşçının tava testinde kullandığı küçük işaret, h
+140	135	8.000	16.88	Bir tarafta suyun en sıcak yüzeyi soğutamadığı, mühendisleri
+141	121	7.680	15.76	Diğer tarafta damlaları yokuş yukarı yürüten, sürtünmeyi sil
+142	214	12.800	16.72	Laydınfrost bin yedi yüz elli altıda kızgın bir kaşığın için
+143	26	1.760	14.77	Ama gördüğü şey değişmedi.
+144	198	12.800	15.47	Bir damla, çok sıcak bir yüzeyde ölümü geciktirmek için kend
+145	45	2.720	16.54	Nöron Bilim'de bugünkü bölümün sonuna geldik.
+146	41	2.400	17.08	Yeni bir hikâyede yeniden buluşmak üzere.
