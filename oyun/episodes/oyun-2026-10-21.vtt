@@ -1,0 +1,605 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.970
+Günde elli bin dolar kazandıran bir oyunu kim siler?
+
+2
+00:00:03.970 --> 00:00:13.540
+Vietnam'da sessiz bir programcı tam bunu yaptı: Dünyanın en çok indirilen oyununu, zirvedeyken yirmi iki saat önceden haber verip kendi eliyle yok etti.
+
+3
+00:00:13.540 --> 00:00:19.430
+Ertesi sabah, içinde o oyun olan telefonlar açık artırmada araba fiyatına satılıyordu.
+
+4
+00:00:27.630 --> 00:00:30.640
+Hanoi'de bir apartman dairesi düşünün.
+
+5
+00:00:30.640 --> 00:00:36.690
+Dışarıda motosiklet kornaları, sokak satıcılarının sesleri, nemli bir Vietnam havası.
+
+6
+00:00:36.690 --> 00:00:43.380
+İçeride, ekranına eğilmiş, sigarasını yakmış, otuzuna henüz gelmemiş bir genç adam var.
+
+7
+00:00:43.380 --> 00:00:45.910
+Adı Dong Nguyen.
+
+8
+00:00:45.910 --> 00:00:52.920
+Gündüzleri mobil oyunlar üzerine çalışan bir yazılımcı, boş zamanlarında ise kendi küçük oyunlarını yapan biri.
+
+9
+00:00:52.920 --> 00:00:57.210
+Büyük bir stüdyosu, yatırımcısı, pazarlama bütçesi yok.
+
+10
+00:00:57.210 --> 00:01:02.300
+Elinde bir bilgisayar, bir telefon ve basit şeylere duyduğu bir merak var.
+
+11
+00:01:02.300 --> 00:01:06.110
+Nguyen'in oyun anlayışı aslında çok eskiye dayanıyor.
+
+12
+00:01:06.110 --> 00:01:15.200
+Çocukluğunda oynadığı oyunlar, ekrana birkaç piksel ve tek bir kuraldan fazlasını koymayan, ama insanı saatlerce başında tutan oyunlardı.
+
+13
+00:01:15.200 --> 00:01:27.170
+O da kendi oyunlarında aynı şeyi arıyordu: tek parmakla oynanabilen, otobüste ya da sırada beklerken açılıp kapanabilen, kuralı bir saniyede anlaşılan ama ustalaşması imkânsıza yakın bir şey.
+
+14
+00:01:27.170 --> 00:01:33.060
+Daha önce de birkaç deneme yapmıştı; ekranda zıplayan toplar, savrulan engeller.
+
+15
+00:01:33.060 --> 00:01:35.430
+Hiçbiri dikkat çekmemişti.
+
+16
+00:01:35.430 --> 00:01:41.480
+2013 baharında, bir hafta sonu, yeni bir fikir üzerinde çalışmaya başladı.
+
+17
+00:01:41.480 --> 00:01:47.370
+Sonradan verdiği röportajlarda bu oyunu yalnızca iki üç günde bitirdiğini söyleyecekti.
+
+18
+00:01:47.370 --> 00:01:50.380
+Fikir neredeyse çocukça sadeydi.
+
+19
+00:01:50.380 --> 00:01:53.870
+Ekranda küçük, tombul, sarı bir kuş var.
+
+20
+00:01:53.870 --> 00:02:02.320
+Ekrana her dokunduğunuzda kuş bir kez kanat çırpıp yükseliyor, dokunmayı bıraktığınızda yerçekimine teslim olup düşüyor.
+
+21
+00:02:02.320 --> 00:02:07.250
+Karşıdan yeşil borular geliyor; aralarında dar bir boşluk var.
+
+22
+00:02:07.250 --> 00:02:11.380
+Kuşu o boşluktan geçirebilirseniz bir puan alıyorsunuz.
+
+23
+00:02:11.380 --> 00:02:14.710
+Bir boruya ya da yere değerseniz oyun bitiyor.
+
+24
+00:02:14.710 --> 00:02:16.120
+Hepsi bu.
+
+25
+00:02:16.120 --> 00:02:20.090
+Ne seviye var, ne güçlendirme, ne hikâye.
+
+26
+00:02:20.090 --> 00:02:27.900
+Kuşun bir adı bile vardı, oyunun içinde ona Faby deniyordu, ama dinleyicilerin çoğu bunu hiç öğrenmeyecekti.
+
+27
+00:02:27.900 --> 00:02:32.350
+Görsel dünya, bilerek eskiden kalma gibi tasarlanmıştı.
+
+28
+00:02:32.350 --> 00:02:38.080
+Kaba pikseller, parlak gökyüzü, alttaki çimen şeridi ve o yeşil borular.
+
+29
+00:02:38.080 --> 00:02:46.850
+O borular pek çok oyuncuya hemen tanıdık gelecekti, çünkü Japon şirketi Nintendo'nun Super Mario oyunlarındaki ünlü boruları andırıyordu.
+
+30
+00:02:46.850 --> 00:02:53.380
+Nguyen de bu benzerliği hiç saklamadı; çocukluğunun oyunlarına bir selam olarak gördüğünü anlatacaktı.
+
+31
+00:02:53.380 --> 00:02:56.550
+Oyunun asıl imzası ise zorluğuydu.
+
+32
+00:02:56.550 --> 00:03:02.920
+Kuşun fiziği tuhaf biçimde ayarlanmıştı: dokunuş başına yükseliş sert, düşüş hızlıydı.
+
+33
+00:03:02.920 --> 00:03:09.770
+Çarpışma sınırları affetmiyordu; kuşun kanadının ucu bir boruya hafifçe sürtse bile her şey biterdi.
+
+34
+00:03:09.770 --> 00:03:12.460
+Puanlama da bu zorluğa göre kurulmuştu.
+
+35
+00:03:12.460 --> 00:03:18.990
+10 puana bronz, 20'ye gümüş, 30'a altın, 40'a platin madalya veriliyordu.
+
+36
+00:03:18.990 --> 00:03:28.880
+Bugün bu sayılar küçük görünebilir, ama ilk kez oynayan birinin çoğu zaman iki üç borudan öteye geçemediğini düşünürseniz, 40 puan neredeyse bir efsaneydi.
+
+37
+00:03:28.880 --> 00:03:37.970
+Nguyen oyunu, kendi küçük stüdyosu adına, Apple'ın uygulama mağazası App Store'a, yani Apple mağazasına, 24 Mayıs 2013'te yükledi.
+
+38
+00:03:37.970 --> 00:03:40.020
+Oyun ücretsizdi.
+
+39
+00:03:40.020 --> 00:03:44.470
+Para, ekranın altında beliren küçük reklamlardan gelecekti.
+
+40
+00:03:44.470 --> 00:03:46.680
+Ve sonra hiçbir şey olmadı.
+
+41
+00:03:46.680 --> 00:03:49.530
+Haftalar geçti, aylar geçti.
+
+42
+00:03:49.530 --> 00:03:58.460
+Flappy Bird, Apple mağazasının o uçsuz bucaksız rafları arasında, her gün yüklenen binlerce başka uygulama gibi sessizce durdu.
+
+43
+00:03:58.460 --> 00:04:00.350
+Kimse fark etmedi.
+
+44
+00:04:00.350 --> 00:04:06.400
+Nguyen de hayatına devam etti; aklı, belki de bir sonraki küçük denemesindeydi.
+
+45
+00:04:06.400 --> 00:04:12.130
+Ama 2013'ün son aylarında, kimsenin tam olarak açıklayamadığı bir şey başladı.
+
+46
+00:04:12.130 --> 00:04:17.860
+Grafikteki o düz çizgi, önce hafifçe, sonra dikleşerek yukarı kıvrılmaya başladı.
+
+47
+00:04:17.860 --> 00:04:22.470
+Sonbaharın sonlarına doğru indirme sayıları kıpırdamaya başladı.
+
+48
+00:04:22.470 --> 00:04:27.400
+Aralık ayında oyun, Apple mağazasının üst sıralarına tırmanıyordu.
+
+49
+00:04:27.400 --> 00:04:42.250
+Ocak 2014'e gelindiğinde ise imkânsız görünen şey olmuştu: aylarca kimsenin dönüp bakmadığı küçük sarı kuş, Amerika'da ve dünyanın pek çok ülkesinde en çok indirilen ücretsiz oyun konumuna yükselmişti.
+
+50
+00:04:42.250 --> 00:04:51.820
+Ocak sonunda Android sürümü de Google'ın uygulama mağazası Google Play'e, yani Google mağazasına çıktı ve orada da aynı hızla zirveye koştu.
+
+51
+00:04:51.820 --> 00:04:55.150
+Bu yükselişin nedeni bugün bile tartışılıyor.
+
+52
+00:04:55.150 --> 00:04:59.760
+Ne bir reklam kampanyası vardı ne de bir yayıncının desteği.
+
+53
+00:04:59.760 --> 00:05:03.730
+En yaygın açıklama, ağızdan ağıza yayılan bir çılgınlıktı.
+
+54
+00:05:03.730 --> 00:05:10.260
+Okul bahçelerinde, iş yerlerinde, sosyal medyada insanlar birbirine skorlarını gösteriyordu.
+
+55
+00:05:10.260 --> 00:05:15.830
+Kimse 5 puanını paylaşmaktan utanmıyordu, çünkü herkes aynı acıyı çekiyordu.
+
+56
+00:05:15.830 --> 00:05:27.960
+Oyunun mağazadaki yorum bölümü bir tür ortak ağıta dönüşmüştü; insanlar oyundan nefret ettiklerini, telefonlarını duvara fırlatmak istediklerini yazıyor, sonra da beş yıldız veriyordu.
+
+57
+00:05:27.960 --> 00:05:36.570
+Video paylaşım sitesi YouTube'da tanınmış oyun yayıncılarının, Flappy Bird karşısında sinirden çıldırdığı videolar milyonlarca kez izleniyordu.
+
+58
+00:05:36.570 --> 00:05:39.100
+Bu öfke, bulaşıcıydı.
+
+59
+00:05:39.100 --> 00:05:44.510
+İnsanlar o videoları izleyip "Ben daha iyisini yaparım" diyerek oyunu indiriyordu.
+
+60
+00:05:44.510 --> 00:05:52.480
+Bazı sektör yorumcuları, bu kadar ani bir sıçramanın arkasında yapay indirmeler ya da sahte yorumlar olabileceğini ileri sürdü.
+
+61
+00:05:52.480 --> 00:06:00.610
+Nguyen ise bu iddiaları reddetti; hiçbir hile yapmadığını, oyunun neden patladığını kendisinin de bilmediğini söyledi.
+
+62
+00:06:00.610 --> 00:06:07.300
+Açık olan bir şey vardı: dünya bir anda, tek bir dokunuşla oynanan bu küçük oyuna kilitlenmişti.
+
+63
+00:06:07.300 --> 00:06:09.670
+Ve beraberinde para geldi.
+
+64
+00:06:09.670 --> 00:06:18.920
+Nguyen, bir Amerikan teknoloji sitesine verdiği demeçte oyunun reklamlardan günde yaklaşık 50 bin dolar kazandırdığını açıkladı.
+
+65
+00:06:18.920 --> 00:06:26.730
+Hanoi'de tek başına çalışan bir yazılımcı için, üstelik birkaç günde yapılmış bir oyundan, bu akıl almaz bir rakamdı.
+
+66
+00:06:26.730 --> 00:06:32.460
+Oyun, kaldırıldığı güne gelindiğinde 50 milyonu aşkın kez indirilmiş olacaktı.
+
+67
+00:06:32.460 --> 00:06:35.310
+Ama zirvenin bir de öbür yüzü vardı.
+
+68
+00:06:35.310 --> 00:06:41.360
+Nguyen, bir anda hem tanınmadık bir dâhi hem de bir şüpheli muamelesi görmeye başladı.
+
+69
+00:06:41.360 --> 00:06:50.610
+Bazı yazılar, oyunun görsellerinin başka eserlerden alındığını, borulardan bulutlara kadar her şeyin bir yerden tanıdık olduğunu ileri sürdü.
+
+70
+00:06:50.610 --> 00:06:59.380
+Daha önce benzer bir kuş karakterine sahip bir oyun yapmış olan Fransız bir geliştirici, iki oyun arasındaki benzerliğe dikkat çekti.
+
+71
+00:06:59.380 --> 00:07:07.670
+Nguyen bu eleştirilere uzun açıklamalarla karşılık vermedi; zaten başından beri çocukluğunun oyunlarından ilham aldığını söylemişti.
+
+72
+00:07:07.670 --> 00:07:15.320
+Super Mario'nun sahibi Japon şirket ise boruların benzerliği konusunda herhangi bir şikâyette bulunmadı.
+
+73
+00:07:15.320 --> 00:07:20.090
+Ama tartışma, Nguyen'in üzerine düşen ilgiyi daha da sertleştirdi.
+
+74
+00:07:20.090 --> 00:07:22.620
+Sonra mesajlar geldi.
+
+75
+00:07:22.620 --> 00:07:24.030
+Binlercesi.
+
+76
+00:07:24.030 --> 00:07:30.560
+Oyunun yüzünden işten atıldığını, sınavlarını kaçırdığını, uykusuz kaldığını yazanlar vardı.
+
+77
+00:07:30.560 --> 00:07:34.210
+Ona teşekkür edenler kadar küfredenler de vardı.
+
+78
+00:07:34.210 --> 00:07:36.900
+Bir kısmı tehdit niteliğindeydi.
+
+79
+00:07:36.900 --> 00:07:40.070
+Vietnam'da ise durum daha da kişiseldi.
+
+80
+00:07:40.070 --> 00:07:45.000
+Yerel basın, ülkenin bu beklenmedik başarı hikâyesinin peşine düştü.
+
+81
+00:07:45.000 --> 00:07:48.650
+Muhabirler, Nguyen'in ailesinin kapısına dayandı.
+
+82
+00:07:48.650 --> 00:07:53.100
+Vergiler, kazançlar, yaşam tarzı sorgulanmaya başlandı.
+
+83
+00:07:53.100 --> 00:08:02.190
+İçine kapanık, kalabalıktan hoşlanmayan, kendini bir ressam ya da zanaatkâr gibi gören biri için bu, nefes alınamaz bir kuşatmaydı.
+
+84
+00:08:02.190 --> 00:08:06.480
+En çok rahatsız olduğu şey ise belki de bambaşkaydı.
+
+85
+00:08:06.480 --> 00:08:12.370
+Oyunu birkaç dakikalık bir mola için, insanlar rahatlarken oynasınlar diye tasarlamıştı.
+
+86
+00:08:12.370 --> 00:08:16.660
+Oysa ortaya çıkan şey, insanların bırakamadığı bir şeydi.
+
+87
+00:08:16.660 --> 00:08:23.830
+Bir yetişkin otobüste gözünü ekrandan ayıramıyor, bir çocuk gece yarısı yorganın altında rekor kovalıyordu.
+
+88
+00:08:23.830 --> 00:08:28.600
+Nguyen, yarattığı şeyin bir bağımlılığa dönüştüğünü düşünmeye başlamıştı.
+
+89
+00:08:28.600 --> 00:08:39.130
+Şubat'ın ilk haftasında, dünyanın dört bir yanındaki milyonlarca telefonda sarı kuş kanat çırpmaya devam ederken, Hanoi'deki o apartman dairesinde bir karar olgunlaşıyordu.
+
+90
+00:08:39.130 --> 00:08:47.740
+8 Şubat 2014'te Nguyen, kısa mesajlar paylaşılan sosyal ağ Twitter'daki hesabından kısa bir duyuru yaptı.
+
+91
+00:08:47.740 --> 00:08:54.430
+Flappy Bird oyuncularından özür diliyor ve 22 saat sonra oyunu yayından kaldıracağını söylüyordu.
+
+92
+00:08:54.430 --> 00:09:00.320
+Cümlesinin sonu, sonradan sayısız kez alıntılanacaktı: artık buna dayanamıyordu.
+
+93
+00:09:00.320 --> 00:09:08.770
+Ardından gelen mesajlarda bunun hukuki bir sorunla ilgisi olmadığını, oyunu yalnızca daha fazla elinde tutamadığını yazdı.
+
+94
+00:09:08.770 --> 00:09:17.380
+Flappy Bird'ün kendisi için bir başarı olduğunu, ama sade hayatını da mahvettiğini, bu yüzden artık ondan nefret ettiğini ekledi.
+
+95
+00:09:17.380 --> 00:09:19.430
+İlk tepki inanmamaktı.
+
+96
+00:09:19.430 --> 00:09:23.400
+Pek çok kişi bunun bir reklam numarası olduğunu düşündü.
+
+97
+00:09:23.400 --> 00:09:28.330
+Günde 50 bin dolar kazandıran bir oyunu kim kendi eliyle silerdi?
+
+98
+00:09:28.330 --> 00:09:35.180
+Bazıları bir şirketin oyunu satın aldığından, bazıları büyük bir davanın kapıda olduğundan şüphelendi.
+
+99
+00:09:35.180 --> 00:09:39.150
+Yirmi iki saat boyunca dünya bir geri sayımı izledi.
+
+100
+00:09:39.150 --> 00:09:46.800
+O saatlerde indirmeler patladı; oyunu henüz denememiş olanlar, son fırsatı kaçırmamak için mağazalara koştu.
+
+101
+00:09:46.800 --> 00:09:50.290
+Ve süre dolduğunda Nguyen, söylediğini yaptı.
+
+102
+00:09:50.290 --> 00:09:55.220
+Flappy Bird hem Apple mağazasından hem Google mağazasından kaldırıldı.
+
+103
+00:09:55.220 --> 00:10:01.910
+Telefonuna daha önce yüklemiş olanlar oynamaya devam edebiliyordu, ama yeni kimse indiremiyordu.
+
+104
+00:10:01.910 --> 00:10:06.200
+Bir anda o küçük sarı simge, nadir bir eşyaya dönüştü.
+
+105
+00:10:06.200 --> 00:10:14.330
+İnternet üzerindeki açık artırma sitelerinde, içinde Flappy Bird yüklü telefonlar binlerce dolarlık fiyatlarla satışa çıkarıldı.
+
+106
+00:10:14.330 --> 00:10:22.460
+Bu ilanların çoğu ciddi bir alışverişten çok, o günlerin tuhaf havasının bir yansımasıydı, ama yine de çok şey anlatıyordu.
+
+107
+00:10:22.460 --> 00:10:27.550
+Birkaç hafta sonra Nguyen, sessizliğini bozup birkaç gazeteciyle konuştu.
+
+108
+00:10:27.550 --> 00:10:39.360
+Amerikan iş dergisi Forbes'a, yani Forbes dergisine verdiği röportajda kararın gerekçesini sakin bir dille anlattı: oyun rahatlamak için birkaç dakika oynansın diye yapılmıştı,
+
+109
+00:10:39.360 --> 00:10:45.250
+ama bağımlılık yaratan bir ürüne dönüşmüştü ve bunun bir sorun haline geldiğini düşünüyordu.
+
+110
+00:10:45.250 --> 00:10:52.900
+Bir başka uzun söyleşide ise kendini anlatırken, kaldırdıktan sonra nihayet rahat uyuyabildiğini söylüyordu.
+
+111
+00:10:52.900 --> 00:10:56.230
+Pişman olup olmadığı soruldu; değildi.
+
+112
+00:10:56.230 --> 00:11:00.680
+Para hakkında soruldu; önemli olanın bu olmadığını anlattı.
+
+113
+00:11:00.680 --> 00:11:06.410
+Kendini bir yıldız gibi değil, kendi köşesinde bir şeyler yapan biri gibi görmek istiyordu.
+
+114
+00:11:06.410 --> 00:11:09.420
+Ama kuş gitmişti, boşluğu kalmıştı.
+
+115
+00:11:09.420 --> 00:11:11.950
+Ve o boşluk hemen dolmaya başladı.
+
+116
+00:11:11.950 --> 00:11:19.280
+Flappy Bird kaldırıldıktan sonraki haftalarda, uygulama mağazalarına akıl almaz bir hızla benzer oyunlar yüklendi.
+
+117
+00:11:19.280 --> 00:11:28.050
+Bir oyun sitesinin hesabına göre, bir dönem Apple mağazasına neredeyse her 24 dakikada bir yeni bir taklit oyun ekleniyordu.
+
+118
+00:11:28.050 --> 00:11:40.820
+Kuşun yerine arılar, balıklar, köpekler, uçan yüzler geçti; borular ağaçlara, kulelere, sütunlara dönüştü; ama kural hep aynıydı: dokun, yüksel, düş, çarpma.
+
+119
+00:11:40.820 --> 00:11:47.830
+Bazı geliştiriciler bunu açık bir saygı duruşu olarak yaptı, bazıları ise yalnızca dalgadan pay kapmak için.
+
+120
+00:11:47.830 --> 00:11:55.000
+Sonunda hem Apple'ın hem de Google'ın, adında "Flappy" kelimesi geçen yeni uygulamaları reddettiği haberleri yayıldı.
+
+121
+00:11:55.000 --> 00:12:01.050
+Bir oyun öylesine iz bırakmıştı ki, adı bile bir süreliğine yasaklı bir kelimeye dönüşmüştü.
+
+122
+00:12:01.050 --> 00:12:06.620
+Bu klon seli, aslında Flappy Bird'ün mobil oyun tarihindeki yerini de belirledi.
+
+123
+00:12:06.620 --> 00:12:14.110
+Oyun, bir bakıma, akıllı telefon çağının en saf hâliydi: tek parmak, tek kural, tek ekran.
+
+124
+00:12:14.110 --> 00:12:23.200
+Büyük stüdyoların milyonlarca dolarlık bütçelerle yaptığı oyunların arasından, birkaç günlük bir el işi sıyrılıp herkesi ele geçirebiliyordu.
+
+125
+00:12:23.200 --> 00:12:26.210
+Bu hem bir umut hem de bir uyarıydı.
+
+126
+00:12:26.210 --> 00:12:32.740
+Umuttu, çünkü bir odada tek başına çalışan birinin dünyayı yakalayabileceğini gösteriyordu.
+
+127
+00:12:32.740 --> 00:12:39.270
+Uyarıydı, çünkü o başarının nasıl bir yük getirebileceğini de herkesin gözü önünde göstermişti.
+
+128
+00:12:39.270 --> 00:12:41.640
+Nguyen oyun yapmayı bırakmadı.
+
+129
+00:12:41.640 --> 00:12:54.890
+Aynı yılın Ağustos ayında, yine tek dokunuşla oynanan, yine acımasız derecede zor yeni bir oyun yayımladı; bu kez pervaneli bir şapkayla sallanan engellerin arasından geçmeye çalışan küçük bir karakter vardı.
+
+130
+00:12:54.890 --> 00:13:00.300
+Oyun ilgi gördü, ama Flappy Bird'ün yarattığı çılgınlığın yanına bile yaklaşamadı.
+
+131
+00:13:00.300 --> 00:13:03.630
+Belki de Nguyen'in istediği tam olarak buydu.
+
+132
+00:13:03.630 --> 00:13:15.440
+Aynı yıl, kuşun kendisi de bir televizyon cihazı için, birden fazla kişinin aynı anda oynayabildiği yeni bir sürümle kısa bir süreliğine geri döndü; ama telefonlara bir daha aynı biçimde dönmedi.
+
+133
+00:13:15.440 --> 00:13:20.050
+Hikâyenin belki de en tuhaf katmanı, yıllar sonra geldi.
+
+134
+00:13:20.050 --> 00:13:26.900
+Nguyen'in oyunun adı üzerindeki marka hakkının zamanla düşmesinin ardından, bu ad başka ellere geçti.
+
+135
+00:13:26.900 --> 00:13:35.030
+2024'te kendini bir vakıf olarak tanıtan bir grup, Flappy Bird'ü yenilenmiş bir sürümle geri getireceğini duyurdu.
+
+136
+00:13:35.030 --> 00:13:38.520
+Pek çok kişi bunun Nguyen'in dönüşü olduğunu sandı.
+
+137
+00:13:38.520 --> 00:13:46.490
+Ama Nguyen yıllar sonra yine aynı kısa ve dolaysız tavrıyla sessizliğini bozdu: bu yeni oyunla hiçbir ilgisi olmadığını,
+
+138
+00:13:46.490 --> 00:13:53.820
+hiçbir şey satmadığını ve oyunun etrafında dile getirilen kripto para projelerini desteklemediğini açıkladı.
+
+139
+00:13:53.820 --> 00:13:59.710
+Bir zamanlar kendi eliyle sildiği kuş, artık onun izni olmadan uçmaya çalışıyordu.
+
+140
+00:13:59.710 --> 00:14:06.880
+Geriye dönüp baktığımızda, Flappy Bird'ün hikâyesi başarı ile vazgeçme arasındaki o ince çizgide duruyor.
+
+141
+00:14:06.880 --> 00:14:11.330
+Çoğu yaratıcı, eserinin ne kadar büyüyebileceğinin hayalini kurar.
+
+142
+00:14:11.330 --> 00:14:17.860
+Dong Nguyen ise eserinin büyüdüğü noktada, onun neye dönüştüğüne bakıp geri çekilmeyi seçti.
+
+143
+00:14:17.860 --> 00:14:22.150
+Bu kararı akıllıca bulanlar da oldu, anlamsız bulanlar da.
+
+144
+00:14:22.150 --> 00:14:25.640
+Ama kimse onun samimiyetinden şüphe edemedi.
+
+145
+00:14:25.640 --> 00:14:36.170
+Günde 50 bin doları, 50 milyonu aşan indirmeyi, dünyanın en çok konuşulan oyununu bir kenara koyup, Hanoi'deki sessiz hayatına dönmeyi tercih etmişti.
+
+146
+00:14:36.170 --> 00:14:43.180
+Bugün hâlâ bir yerlerde, eski bir telefonun ekranında, küçük sarı bir kuş kanat çırpıyor olabilir.
+
+147
+00:14:43.180 --> 00:14:48.750
+Biri dokunuyor, kuş yükseliyor, sonra düşüyor, sonra yine dokunuyor.
+
+148
+00:14:48.750 --> 00:14:52.240
+Bir boru, bir boşluk, bir puan daha.
+
+149
+00:14:52.240 --> 00:15:01.490
+Ve o oyunu yapan adam, yarattığı şeyin ne kadar güçlü olabileceğini herkesten önce fark eden kişi olarak, kuşun peşinden uçmamayı seçmiş durumda.
+
+150
+00:15:01.490 --> 00:15:04.660
+Nöron Oyun'de bugünkü bölümün sonuna geldik.
+
+151
+00:15:04.660 --> 00:15:07.670
+Yeni bir hikâyede yeniden buluşmak üzere.
