@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-21.mp3
+
+beklenen 1607 kelime | duyulan 1618 kelime | eşleşme %97.9
+sayı ifadesi: metinde 210, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...adam var adı dong
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...şeyleer duyduğu merak var
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...zıplayan toplar savrulan engeller
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...bile vardı oyunun içinde
+      metin  : faby
+      duyulan: fabi
+  REPLACE  ...oyunun asıl imzası ize
+      metin  : zorluğuydu
+      duyulan: zorluydu
+  REPLACE  ...bile her şey biterdi
+      metin  : puanlama
+      duyulan: poğanlama
+  INSERT   ...bu zorluğa göer kurulmuştu
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...göer kurulmuştu puana bronz
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...kurulmuştu puana bronz gümüş
+      metin  : (yok)
+      duyulan: a a
+  INSERT   ...yani apple mağazasına mayıs
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sonraki küçük denemesindeydi ama
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...üst sıralarına tırmanıyordu ocak
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yorumlar olabileceğini ileri sürdü
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...ve beraberinde para geldi
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...zirvenin de öbür vardı
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...arasındaki benzerliğe dikkat çekti
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...şikayette bulunmadı ama tartışma
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...hikayesinin peşine düştü muhabirler
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...yarısı yorganın rekor kovalıyordu
+      metin  : nuyen
+      duyulan: nguyen
+  REPLACE  ...bağımlılığa dönüştüğünü düşünmeye başlamıştı
+      metin  : şubadın
+      duyulan: şubat ın
+  REPLACE  ...dairesinde karar olgunlaşıyordu şubat
+      metin  : nuyen
+      duyulan: de nguyen
+  REPLACE  ...kısa mesajlar paylaşılan sosyal
+      metin  : ağ
+      duyulan: ağa
+  REPLACE  ...zamanla düşmesinin ardından bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...ad başka elleer geçti
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...yine aynı kısa ve
+      metin  : dolaysız
+      duyulan: dolayısız
+  REPLACE  ...kadar büyüyebileceğinin hayalini kurar
+      metin  : dong
+      duyulan: don
+  REPLACE  ...peşinden uçmamayı seçmiş durumda
+      metin  : nöron oyun de
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: oyun-2026-10-21.duyulan.txt

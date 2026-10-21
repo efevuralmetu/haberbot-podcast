@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-21.mp3
+
+beklenen 2781 kelime | duyulan 2813 kelime | eşleşme %95.7
+sayı ifadesi: metinde 413, duyulanda 260  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yanlış sebeple başlattı temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...neher yayıldığını yazıyor ve
+      metin  : uyarıyla
+      duyulan: uyarı ile
+  REPLACE  ...yani türkçede bilinen adıyla
+      metin  : tems
+      duyulan: thames
+  REPLACE  ...cevabın kısmı nüfusta saklı
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...yetkililer sağlığı korumak adına
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...henüz göremediği katil yüzüyordu
+      metin  : kolera
+      duyulan: colera
+  INSERT   ...britanya ya ilk kez
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...saat içinde kaybediyor derisi
+      metin  : mavimsi
+      duyulan: mavimsiz
+  INSERT   ...ölmüş olabiliyordu londra yı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...londra yı vuran salgın
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...salgın aşkın can aldı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...aldı gelen dalga ize
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...teori aslında anlaşılmaz değildi
+      metin  : kolera
+      duyulan: colera
+  REPLACE  ...kalabalık yoksul mahallelerde görülüyordu
+      metin  : koku ile
+      duyulan: kokuyla
+  REPLACE  ...sindirim sistemini çökertiyordu göer
+      metin  : kolera
+      duyulan: cholera
+  INSERT   ...suyla bulaşıyordu bu fikrini
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...pek ilgi görmedi sonra
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...yani geniş sokak çevresinde
+      metin  : kolera
+      duyulan: cholera
+  REPLACE  ...yandan şehrin uzak köşesinde
+      metin  : hampstead
+      duyulan: hempstead
+  INSERT   ...getirttiği ortaya çıktı eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tarihin ilk büyük doğal
+      metin  : epidemiyoloji
+      duyulan: epidemioloji
+  INSERT   ...hükümetin görevlendirdiği bilim kurulu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...takıldı john snow haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşında felç geçirerek öldü
+      metin  : önde
+      duyulan: endo ya
+  REPLACE  ...çıkan kısa ölüm ilanında
+      metin  : anestezi
+      duyulan: anestesi
+  REPLACE  ...buna kısa ve açık
+      metin  : ad
+      duyulan: at
+  REPLACE  ...unutamayacağını yazıyordu kraliçe victoria
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...victoria ile prens albert
+      metin  : in
+      duyulan: ın
+  INSERT   ...westminster sarayı yani parlamento
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...terk etmeye başladı avam
+      metin  : kamarası nda
+      duyulan: kamerasında
+  REPLACE  ...hazine bakanı ve avam
+      metin  : kamarası nın
+      duyulan: kamerasının
+  INSERT   ...aslında çözüm yıllardır masadaydı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...koku bu tartışmayı bitirdi
+      metin  : (yok)
+      duyulan: dom
+  INSERT   ...bu tartışmayı bitirdi temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kamarası nın önüne yasa
+      metin  : tasarısıyla
+      duyulan: tasarısı ile
+  REPLACE  ...ve dayanılmaz dehşetlerle kokuşan
+      metin  : gölcüğe
+      duyulan: gölcüye
+  REPLACE  ...da yıl boyunca küçük
+      metin  : vergiyle
+      duyulan: vergi ile
+  INSERT   ...meclisten geçti ve ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıllardır cebinde taşıyan adamdaydı
+      metin  : cozef
+      duyulan: kozef
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: tarih-2026-10-21.duyulan.txt

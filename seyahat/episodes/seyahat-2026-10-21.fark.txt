@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-21.mp3
+
+beklenen 1983 kelime | duyulan 2014 kelime | eşleşme %92.5
+sayı ifadesi: metinde 277, duyulanda 174  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hiç dinmeden kayalara çarpar
+      metin  : hawaililer
+      duyulan: hawaii liler
+  REPLACE  ...çarpar hawaililer bu uçurumlara
+      metin  : pali
+      duyulan: pahalı
+  DELETE   ...el tarafından denize bırakılmış
+      metin  : gibi duran
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kara parçası vardır adı
+      metin  : kalaupapa dır
+      duyulan: kalavu papadır
+  REPLACE  ...sönmüş krateri durur yani
+      metin  : kalaupapa
+      duyulan: kalavu papa
+  REPLACE  ...hawaii krallığı nın yöneticileri
+      metin  : kalaupapa ya
+      duyulan: kalavu papaya
+  DELETE   ...geçirmişti bunların arasına de
+      metin  : cüzam eklendi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bilinmiyordu norveçli hekim gerhard
+      metin  : armauer
+      duyulan: armaver
+  INSERT   ...armauer hansen etkeni ancak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaydığıydı tedavisi yoktu ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kral kamehameha cüzamın yayılmasını
+      metin  : önlemeye
+      duyulan: yapmaya
+  INSERT   ...aileler topraklarından çıkarıldı ocak
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...ve kadın yarımadanın doğu
+      metin  : kıyısındaki kalavao ya
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üreteceği yerleşimdi ama gönderilenlerin
+      metin  : çoğu
+      duyulan: bu
+  REPLACE  ...yiyecek yetersizdi doktor yoktu
+      metin  : hawaililerin
+      duyulan: havaililerin
+  REPLACE  ...hawaililerin bu hastalığa verdiği
+      metin  : ad
+      duyulan: at
+  REPLACE  ...adeta öbür adı oldu
+      metin  : mai hookaavale
+      duyulan: mayhukavale
+  REPLACE  ...istasyonuna götürür teşhis konursa
+      metin  : molokai ye
+      duyulan: molokay a
+  REPLACE  ...birlikte gitmeyi seçti bunlara
+      metin  : kokua
+      duyulan: kokuva
+  DELETE   ...oldukları halde sürgüne gönüllü
+      metin  : olarak katılıyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gelenlerin büyük çoğunluğu yerli
+      metin  : hawaiililerdi
+      duyulan: havaililerdi
+  INSERT   ...birbirine bağlayan dokunun yırtılmasıydı
+      metin  : (yok)
+      duyulan: dan
+  DELETE   ...yerleşimi sefil ve kuralsız
+      metin  : yer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hawaii deki katolik misyonunun
+      metin  : piskoposu kalavao
+      duyulan: psikoposu kalavau
+  REPLACE  ...belçikalı misyonerdi asıl adı
+      metin  : yozef dö vöster di
+      duyulan: josef döv österdi
+  REPLACE  ...dö vöster di tremelo
+      metin  : köyünde
+      duyulan: döv österdiğinde
+  REPLACE  ...ailesinde doğmuş tarikata katılınca
+      metin  : damiyen
+      duyulan: damien
+  INSERT   ...katılınca damiyen adını almıştı
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...damiyen adını almıştı mayıs
+      metin  : kalavao
+      duyulan: te kalavau
+  REPLACE  ...haftalık nöbet olması düşünülüyordu
+      metin  : damiyen
+      duyulan: damien
+  DELETE   ...ölüyordu ve cenazeler çoğu
+      metin  : zaman sığ
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve köpekler mezarları eşeliyordu
+      metin  : damiyen
+      duyulan: damien
+  REPLACE  ...tabutları kendi elleriyle yaptı
+      metin  : biyografilerinde
+      duyulan: biografilerinde
+  REPLACE  ...çitle çevrilmesini sağladı ama
+      metin  : damiyen
+      duyulan: damien
+  REPLACE  ...olarak anmak eksik kalır
+      metin  : kalavao
+      duyulan: kalavau
+  REPLACE  ...yarımadanın öbür ucundaki vadiden
+      metin  : yerleşime
+      duyulan: başıma
+  REPLACE  ...küçük ahşap kiliseyi büyüttü
+      metin  : sent
+      duyulan: saint
+  REPLACE  ...filomena kilisesi bugün de
+      metin  : kalavao
+      duyulan: kalavau
+  REPLACE  ...göer hastalığı ilerlemiş olanların
+      metin  : ayin
+      duyulan: ayın
+  ... ve 65 fark daha
+
+metinde olup DUYULMAYAN: 107 kelime | duyulup metinde OLMAYAN: 125
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: seyahat-2026-10-21.duyulan.txt

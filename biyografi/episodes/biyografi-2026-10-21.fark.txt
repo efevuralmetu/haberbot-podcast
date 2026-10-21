@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-21.mp3
+
+beklenen 2898 kelime | duyulan 2931 kelime | eşleşme %95.5
+sayı ifadesi: metinde 400, duyulanda 273  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kalmamasıydı bu genç adam
+      metin  : frityof
+      duyulan: fritjof
+  INSERT   ...adam frityof nansen di
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...frityof nansen di ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yani bugünkü oslo yakınlarındaki
+      metin  : stuer fröen
+      duyulan: sturefroen
+  REPLACE  ...bilimdi oslo daki üniversitede
+      metin  : zooloji
+      duyulan: zoyloji
+  INSERT   ...üniversitede zooloji okumayı seçti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...okumayı seçti henüz yaşındayken
+      metin  : fok avı
+      duyulan: fokhavı
+  REPLACE  ...hücrelerinin birbirine kaynaşmış kesintisiz
+      metin  : ağ
+      duyulan: ağa
+  REPLACE  ...bu planını tersine kurdu
+      metin  : issız
+      duyulan: i şçiz
+  REPLACE  ...sverdrup ordu subayı oluf
+      metin  : ditrikson
+      duyulan: dittrickson
+  REPLACE  ...subayı oluf ditrikson çiftçi
+      metin  : kristian kristiansen trana
+      duyulan: christian christian sentrana
+  REPLACE  ...samuel balto ve ole
+      metin  : nilsen
+      duyulan: nielsen
+  REPLACE  ...nilsen ravna ekibi taşıyan
+      metin  : fok
+      duyulan: fog
+  REPLACE  ...en yakın yerleşim yeri
+      metin  : gothob
+      duyulan: gotop
+  REPLACE  ...tahta parçalarından da kürek
+      metin  : fiyortta
+      duyulan: fjord ta
+  REPLACE  ...bu talihsizliği okula çevirdi
+      metin  : grönland
+      duyulan: groenland
+  REPLACE  ...arasında yaşadı kayıkla avlanmayı
+      metin  : kürk
+      duyulan: kürt
+  INSERT   ...doğayla birlikte yaşıyordu mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...binlerce insan karşıladı yaşındaki
+      metin  : zooloğa
+      duyulan: zoloa
+  INSERT   ...planına götüren felaket oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...norveçli meteoroloji profesörü henrik
+      metin  : mon
+      duyulan: mohn
+  REPLACE  ...akıntının kutbun yakınından geçirip
+      metin  : atlantiğe
+      duyulan: atlantıya
+  REPLACE  ...kullanacaktı londra daki kraliyet
+      metin  : coğrafya
+      duyulan: çoğrafya
+  REPLACE  ...gövde kalın meşe kaplamalarla
+      metin  : örüldü
+      duyulan: ürüldü
+  INSERT   ...norveççede ileri demek haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...demek haziran fram otto
+      metin  : sverdrubun
+      duyulan: sverdrup un
+  REPLACE  ...otto sverdrubun kaptanlığında nansen
+      metin  : le
+      duyulan: ile
+  REPLACE  ...kutup seferlerinin korkulu rüyası
+      metin  : iskorbüt
+      duyulan: iskorbut
+  REPLACE  ...i sveçli bilim insanı
+      metin  : vagn valfrid
+      duyulan: vagvalfrid
+  REPLACE  ...nansen huzursuzdu hesapları geminin
+      metin  : kutbun
+      duyulan: kutbu nun
+  REPLACE  ...üstünden geçmeyeceğini gösteriyordu akıntı
+      metin  : kutbun
+      duyulan: kutbu nun
+  INSERT   ...yohansen i seçti mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ters yöne koşuyor gibiydiler
+      metin  : (yok)
+      duyulan: ne
+  INSERT   ...yöne koşuyor gibiydiler nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sırtına tırmanıp ufka baktı
+      metin  : önünde
+      duyulan: önünün de
+  REPLACE  ...verdi hedef güneydeki frans
+      metin  : yozef toprakları ydı
+      duyulan: yosef topraklarıydı
+  REPLACE  ...yola devam etmek ölüm
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...yaptılar çatıyı mors derileriyle
+      metin  : örttüler
+      duyulan: örtüler
+  REPLACE  ...derileriyle örttüler zemini kazıp
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...yağ her şeye siniyordu
+      metin  : giysileri yağa
+      duyulan: giyisileri yağ
+  ... ve 41 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: biyografi-2026-10-21.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-21.mp3
+
+beklenen 1848 kelime | duyulan 1881 kelime | eşleşme %94.7
+sayı ifadesi: metinde 191, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...anlatacak film istiyordu greene
+      metin  : in
+      duyulan: nin
+  REPLACE  ...holly çocukluk arkadaşı harry
+      metin  : lime
+      duyulan: lyman
+  REPLACE  ...polisinden calloway ize holly
+      metin  : ye
+      duyulan: e
+  REPLACE  ...soğuk gerçeği anlatır harry
+      metin  : lime
+      duyulan: lyme
+  REPLACE  ...ıslatıldı böylece arnavutkaldırımı ve
+      metin  : molozlar
+      duyulan: mollozlar
+  REPLACE  ...harry nin sevgilisi anna
+      metin  : şmit
+      duyulan: schmidt
+  REPLACE  ...etmiyordu orson welles calloway
+      metin  : i
+      duyulan: ı
+  REPLACE  ...önce de kullanılmıştı ama
+      metin  : reed
+      duyulan: read
+  REPLACE  ...ve görüntü yönetmeni robert
+      metin  : krasker
+      duyulan: krusker
+  REPLACE  ...in filmi gördükten sonra
+      metin  : reed
+      duyulan: read
+  REPLACE  ...su terazisi gönderdiği anlatılır
+      metin  : krasker
+      duyulan: krusker
+  REPLACE  ...rolü kısaydı ve çekimde
+      metin  : viyana
+      duyulan: viana
+  REPLACE  ...yalnızca küçük noktalardır holly
+      metin  : ye
+      duyulan: e
+  REPLACE  ...teklifi kim reddedebilirdi sahne
+      metin  : penisilin karaborsasının
+      duyulan: penicil in kara borsasının
+  REPLACE  ...tek görüntüye sığdırır kurbanlar
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...önce göstermiştir calloway holly
+      metin  : yi
+      duyulan: i
+  REPLACE  ...bulmak rastlantının işiydi reed
+      metin  : viyana daki
+      duyulan: vianadaki
+  REPLACE  ...çekilen bu çalgının adı
+      metin  : zither dı
+      duyulan: zitlerdi
+  REPLACE  ...zither dı müzisyen anton
+      metin  : karas tı viyana nın
+      duyulan: karastı viananın
+  REPLACE  ...da filmin kendisiydi harry
+      metin  : lime
+      duyulan: lyme
+  REPLACE  ...lime da gülümseyerek öldürüyordu
+      metin  : viyana da
+      duyulan: vianada
+  REPLACE  ...vals çalmaya devam ediyordu
+      metin  : zither
+      duyulan: zitter
+  REPLACE  ...olduğunu hatırlatıyordu gölgelerin ve
+      metin  : zither
+      duyulan: zitter
+  REPLACE  ...lağımlardı holly sonunda calloway
+      metin  : le iş
+      duyulan: la işbirliği
+  REPLACE  ...duyulur bu sahnelerin kısmı
+      metin  : viyana
+      duyulan: vianada
+  INSERT   ...yaralı harry demir merdivene
+      metin  : (yok)
+      duyulan: tıklanır vianada yıkıntılarının arasında her kovalamaca her gölge sahnesinde her gölge sahnesinde her gölge sahnesinde her gölge sahnesinde her gölge sahnesinde her gölge sahnesinde seyirci farkı görmez sonunda yaralı harry demir merdivene
+  REPLACE  ...harry demir merdivene tırmanır
+      metin  : rögar
+      duyulan: roger
+  REPLACE  ...parmakları sokağa uzanır yukarıda
+      metin  : viyana
+      duyulan: vianada
+  REPLACE  ...indikten sonra harry holly
+      metin  : ye
+      duyulan: e
+  REPLACE  ...olmamıştır ama o dönem
+      metin  : mikelancelo
+      duyulan: mikel anselo
+  REPLACE  ...mikelancelo yu leonardo da
+      metin  : vinçi
+      duyulan: vinci
+  REPLACE  ...doğurur ahlak ize sıkıcı
+      metin  : düzen
+      duyulan: düzendir
+  REPLACE  ...sık sık hatırlatıldı welles
+      metin  : da
+      duyulan: de
+  REPLACE  ...eder holly sigara yakar
+      metin  : zither
+      duyulan: ziter
+  INSERT   ...bedelini yanında ödüyordu adam
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...girdi ve aynı yıl
+      metin  : kan
+      duyulan: cannes
+  REPLACE  ...seçti amerika da robert
+      metin  : krasker
+      duyulan: krosker
+  REPLACE  ...değiştirdi i ngiliz versiyonunda
+      metin  : viyana
+      duyulan: vianna
+  REPLACE  ...amerika da yerini holly
+      metin  : martins in
+      duyulan: martinson
+  REPLACE  ...durmadan çaldı ay önce
+      metin  : viyana
+      duyulan: vianna
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 91
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: film-2026-10-21.duyulan.txt

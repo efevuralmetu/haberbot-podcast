@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-21.mp3
+
+beklenen 2535 kelime | duyulan 2533 kelime | eşleşme %96.9
+sayı ifadesi: metinde 289, duyulanda 250  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...asıl kazılar yıl sonra
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...değil ayn gazal yaklaşık
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yol yarmasında parlayan beyaz
+      metin  : malzemeyle
+      duyulan: malzeme ile
+  INSERT   ...tarihine geçirecek olan şey
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...rakam şuydu figür bunların
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...duran tam boy heykel
+      metin  : büsttü
+      duyulan: si büstü
+  REPLACE  ...enstitüsü nde konservatör kathleen
+      metin  : tubb
+      duyulan: toop
+  INSERT   ...ve hikaye burada bitmedi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...araya getirildiğinde toplam sayı
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...ve gözbebekleri ize koyu
+      metin  : maddeyle
+      duyulan: madde ile
+  REPLACE  ...ize koyu maddeyle çizilmiştir
+      metin  : bitüm
+      duyulan: bütün
+  REPLACE  ...çoktan öğrenmişti burada ize
+      metin  : bitüm
+      duyulan: bütün
+  REPLACE  ...başka soru da heykellerin
+      metin  : cinsiyetiydi
+      duyulan: cinsiyeti idi
+  REPLACE  ...ayrı emek ayrı kaynak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...ateş ve ateş odun
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...çukurlarına bitüm sürülüyor bazen
+      metin  : boya ile
+      duyulan: boyayla
+  REPLACE  ...bu sıvalı kafatası geleneği
+      metin  : ayn gazal a
+      duyulan: aynı gazala
+  REPLACE  ...neolitik yerleşimlerde de bulunmuştur
+      metin  : ayn gazal da
+      duyulan: aynı gazalada
+  REPLACE  ...tam boy heykeller sıvalı
+      metin  : kafatasları ile
+      duyulan: kafataslarıyla
+  REPLACE  ...sürer i ki başlı
+      metin  : büstler
+      duyulan: büsler
+  REPLACE  ...bunu kesin olarak bilmiyoruz
+      metin  : ayn
+      duyulan: aynı
+  REPLACE  ...içindeki hayata dair düşündürücüdür
+      metin  : ayn
+      duyulan: aynı
+  REPLACE  ...heykeller neden gömüldü bu
+      metin  : ayn gazal ın
+      duyulan: aynı gazalın
+  REPLACE  ...dönüşüm önemlidir ölüler evlerin
+      metin  : inanç da
+      duyulan: inançla
+  DELETE   ...ize bu kalabalığa dayanamıyordu
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çok aile yılın bölümünde
+      metin  : sürüleriyle
+      duyulan: sürüleri ile
+  REPLACE  ...artık yoktu ve yaklaşık
+      metin  : mö
+      duyulan: milotmyot
+  INSERT   ...gazal ı tamamen bıraktı
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...sessizliğe gömüldü bugün bu
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...otoyollar yeni mahalleler kazılar
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...müzelerde sergilendi paris teki
+      metin  : luvr
+      duyulan: louver
+  REPLACE  ...köy kurmaya başladıkları ilk
+      metin  : binyıllarda
+      duyulan: yıllarda
+  REPLACE  ...unutulmaması gereken ders var
+      metin  : ayn gazal ın
+      duyulan: aynı gazalın
+  REPLACE  ...aradan geçen bütün o
+      metin  : binyıllara
+      duyulan: yıllara
+  REPLACE  ...rağmen hala yerinde duruyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: arkeoloji-2026-10-21.duyulan.txt

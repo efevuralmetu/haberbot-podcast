@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-21.mp3
+
+beklenen 1674 kelime | duyulan 1680 kelime | eşleşme %91.9
+sayı ifadesi: metinde 231, duyulanda 152  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...işaretin arasında yıllık sürgün
+      metin  : yarıda
+      duyulan: yırda
+  INSERT   ...uyurken duvarlara afişler yapıştırılıyor
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...sabahı uyanan parisliler cumhurbaşkanı
+      metin  : lui napolyon bonapart
+      duyulan: louis napoleon bonaparte
+  REPLACE  ...bile özenle seçilmiş amcası
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...gün cumhuriyet gece içinde
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...sona eriyor o sabah
+      metin  : viktor hügo
+      duyulan: victor hugo
+  REPLACE  ...sesine dönüşmüş meclis kürsüsünden
+      metin  : lui napolyon
+      duyulan: louis napoleon
+  REPLACE  ...eline geçirmiş durumda ve
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...nun adı tutuklanacaklar listesinde
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...ayaklanmaya çağırıyorlar aralık ta
+      metin  : sent antuan
+      duyulan: st antoine
+  REPLACE  ...mahallesinde barikatlar kuruluyor milletvekili
+      metin  : alfons bodan
+      duyulan: alphonse baudin
+  REPLACE  ...geçenler kadınlar çocuklar var
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...direniş gün içinde eziliyor
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...yakın süredir hayatında olan
+      metin  : jülyet druve
+      duyulan: juliette drouet
+  REPLACE  ...druve giriyor eski oyuncu
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...ve en sadık yardımcısı
+      metin  : jülyet hügo
+      duyulan: juliette hugo
+  REPLACE  ...sahte kimlik buluyor pasaport
+      metin  : jak
+      duyulan: jack
+  REPLACE  ...buluyor pasaport jak firmen
+      metin  : lanven
+      duyulan: lanwen
+  INSERT   ...adında dizgi işçisine ait
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...kıyafetleri başında kasketiyle adam
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...sınırı geçiyor ertesi gün
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...gün hügo belçika da
+      metin  : jülyet de
+      duyulan: juliette
+  REPLACE  ...arkasından geliyor o sırada
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...ay değil yıl sürecek
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...yıl sürecek brüksel de
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...alan sert hiciv yazıyor
+      metin  : napolyon lö pöti
+      duyulan: napoleon le petit
+  REPLACE  ...lö pöti yani küçük
+      metin  : napolyon
+      duyulan: napoleon
+  INSERT   ...yani küçük napolyon kitap
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...komşusunu kızdırmak istemeyen hükümet
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...ya kibarca gitmesini anlatıyor
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...anlatıyor hügo ailesiyle birlikte
+      metin  : manş
+      duyulan: maç
+  REPLACE  ...adadan çıkarılana kadar sonbaharında
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...bekliyor guernsey nin başkenti
+      metin  : saint
+      duyulan: st
+  REPLACE  ...dik yamaçlara tutunmuş kasaba
+      metin  : hügo
+      duyulan: hugo da
+  REPLACE  ...büyük ev satın alıyor
+      metin  : otvil haus
+      duyulan: hauss
+  REPLACE  ...alıyor otvil haus yani
+      metin  : otvil
+      duyulan: hauss
+  REPLACE  ...yayımlanan şiir kitabı le
+      metin  : kontanplasyon
+      duyulan: contemplation
+  REPLACE  ...eskisi kadar kolay değil
+      metin  : hügo
+      duyulan: hugo
+  REPLACE  ...yıllar sürecek iş başlıyor
+      metin  : hügo otvil evi ni
+      duyulan: hugo hauss evini
+  REPLACE  ...söktürüp yeniden birleştiriyor duvarları
+      metin  : delft
+      duyulan: delt
+  ... ve 58 fark daha
+
+metinde olup DUYULMAYAN: 118 kelime | duyulup metinde OLMAYAN: 124
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: edebiyat-2026-10-21.duyulan.txt

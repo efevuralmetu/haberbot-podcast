@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-21.mp3
+
+beklenen 2644 kelime | duyulan 2644 kelime | eşleşme %94.5
+sayı ifadesi: metinde 349, duyulanda 297  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...o tanıdık soruyu soruyor
+      metin  : abi
+      duyulan: ağabey
+  REPLACE  ...tirmiz den farabi de
+      metin  : farab dan
+      duyulan: faraptan
+  REPLACE  ...parçası olmuştu bugün bile
+      metin  : soyadlarımızın
+      duyulan: soyatlarımızın
+  REPLACE  ...işlek ticaret kentidir kentte
+      metin  : hikesias
+      duyulan: hikesyas
+  REPLACE  ...yaşar antik kaynaklara göer
+      metin  : hikesias
+      duyulan: hikesyas
+  REPLACE  ...sonuç sürgündür oğlun adı
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...en kışkırtıcı figürlerinden olacaktır
+      metin  : diyojen in
+      duyulan: diogenin
+  REPLACE  ...cevap felsefe tarihine kazınmıştır
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...sürgüne mahkum etti der
+      metin  : diyojen in
+      duyulan: diogenin
+  REPLACE  ...ama felsefe de var
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...önce atina da sorulmuştur
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...polites in birleşimi bugün
+      metin  : kozmopolit
+      duyulan: kosmopolit
+  REPLACE  ...yunanlı için kimlik şehir
+      metin  : devletiyle
+      duyulan: devleti ile
+  REPLACE  ...şehrin içinde insan olur
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...tek eşyası olan tasını
+      metin  : da atmıştı
+      duyulan: dağıtmıştı
+  REPLACE  ...ama derin ayrıntı var
+      metin  : diyojen in
+      duyulan: diogenin
+  REPLACE  ...tahrif etmek yunancada nomisma
+      metin  : kelimesiyle
+      duyulan: kelimesi ile
+  REPLACE  ...gelen nomos ile akrabadır
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...noktadan büyüktür bu fikir
+      metin  : diyojen le
+      duyulan: diogenle
+  REPLACE  ...le kalmadı sonra gelen
+      metin  : stoacılar
+      duyulan: stoğacılar
+  REPLACE  ...şehir yüzyıllar sonra roma
+      metin  : imparatoru markus avrelyus
+      duyulan: i mparatoru marcus aurelius
+  REPLACE  ...buhari nin derlediği hadiste
+      metin  : hz
+      duyulan: hazreti
+  INSERT   ...hz peygamber i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...paris manastırında yazıldı sen
+      metin  : viktor manastırı nın
+      duyulan: victor manastırının
+  REPLACE  ...tanınmış öğretmeni hugh of
+      metin  : st viktor
+      duyulan: staint victor
+  REPLACE  ...ya da yolcu olma
+      metin  : öğüdüyle
+      duyulan: övdüğüyle
+  INSERT   ...getiren isimlerden i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...isimlerden i bn sina
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...filozof mantıkçı i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...gözyaşları durmaz i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yerinden edildiği köylerin boşaltıldığı
+      metin  : şehirlerin
+      duyulan: şehrlerin
+  REPLACE  ...artık şiir değil gündelik
+      metin  : gerçekti
+      duyulan: gerçektir
+  REPLACE  ...rapor yazmaktadır adı simon
+      metin  : vey
+      duyulan: wey
+  REPLACE  ...üzerine düşüncelerini yazmasını istemişti
+      metin  : vey
+      duyulan: wey
+  REPLACE  ...oldu ölümünden sonra yılında
+      metin  : alber kamü nün
+      duyulan: albert camus un
+  REPLACE  ...çabasıyla yayımlanan kitabın adı
+      metin  : lanrasinman
+      duyulan: londra sinman
+  REPLACE  ...düşüncesi kitabın tam kalbindedir
+      metin  : vey
+      duyulan: wey
+  REPLACE  ...milliyetçinin toprak övgüsü değildir
+      metin  : vey
+      duyulan: wey
+  REPLACE  ...mahalle de kök olabilir
+      metin  : vey
+      duyulan: wey
+  REPLACE  ...kesen büyük güç vardı
+      metin  : fetihti
+      duyulan: fethihti
+  ... ve 41 fark daha
+
+metinde olup DUYULMAYAN: 95 kelime | duyulup metinde OLMAYAN: 102
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: felsefe-2026-10-21.duyulan.txt

@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-21.mp3
+
+beklenen 1765 kelime | duyulan 1780 kelime | eşleşme %97.4
+sayı ifadesi: metinde 212, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ciddi biçimde kağıda döküldü
+      metin  : yohan gotlop laydınfrost
+      duyulan: johann gottlob leidenfrost
+  REPLACE  ...laydınfrost alman hekimdi düsburg
+      metin  : da
+      duyulan: ta
+  INSERT   ...ve kimya dersleri veriyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve anda buharlaşıp gidiyordu
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...bu davranış adıyla anılıyor
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...adıyla anılıyor laydınfrost etkisi
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...görürüz bu dönüm noktasına
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  INSERT   ...buharı ize bunun yaklaşık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yani damla en sıcak
+      metin  : kaynağa
+      duyulan: kaynağı
+  INSERT   ...farklı biçimlerine bakmak gerekiyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ortaya koydu bu eğri
+      metin  : laydınfrost
+      duyulan: leiden frost
+  REPLACE  ...yerlerine taze su gelir
+      metin  : isı
+      duyulan: i sa
+  REPLACE  ...rejimin adı film kaynamasıdır
+      metin  : laydınfrost
+      duyulan: leiden frost
+  REPLACE  ...görünür yastığın yarattığı başka
+      metin  : sonuç da
+      duyulan: sonuçta
+  REPLACE  ...olan zemin gözünde kızgın
+      metin  : sacdır
+      duyulan: saktır
+  REPLACE  ...açıklamasıdır bu noktaya kadar
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  INSERT   ...yokuş yukarı ilerleyebileceğini gösterdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gösterdi oregon üniversitesi nde
+      metin  : hayner
+      duyulan: heiner
+  REPLACE  ...tarafı dik duvardı plaka
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...gösterdiler su yerine katı
+      metin  : karbondioksit
+      duyulan: karbondiyoksit
+  REPLACE  ...suyun bulunmadığı ama donmuş
+      metin  : karbondioksitin
+      duyulan: karbondiyoksitin
+  REPLACE  ...olup olmayacağı belirsiz ama
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...fakat ısı akışı belirli
+      metin  : sınırı aştığında nukiyama
+      duyulan: sınıra açtığında nukiama
+  REPLACE  ...metali sudan korumaya başlar
+      metin  : isı
+      duyulan: i ısı
+  REPLACE  ...su verme işlemi de
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  REPLACE  ...bu son yıllarda araştırmacılar
+      metin  : laydınfrost
+      duyulan: leidenfrost
+  INSERT   ...geçip bastırmanın yollarını arıyor
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...oraya itmemize izin verebiliyor
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...verebiliyor hong kong da
+      metin  : zuankai
+      duyulan: xuankai
+  REPLACE  ...tasarlayarak açılıp kapatılabilen davranış
+      metin  : laydınfrost
+      duyulan: leidenfrost da
+  REPLACE  ...kendisini biçimlendirerek seçmeye başlıyoruz
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: bilim-2026-10-21.duyulan.txt

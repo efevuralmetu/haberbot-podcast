@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-21.mp3
+
+beklenen 1339 kelime | duyulan 1349 kelime | eşleşme %98.4
+sayı ifadesi: metinde 144, duyulanda 127  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...biçimde daha az gitmişti
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...az gitmişti seksenlerin ortası
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...pennebaker ve öğrencisi sandra
+      metin  : beal
+      duyulan: beyal
+  REPLACE  ...ilgiliydi i şte burada
+      metin  : pennebaker
+      duyulan: penebaker
+  REPLACE  ...vardı üniversitenin sağlık merkezinin
+      metin  : kayıtları
+      duyulan: kayıtlarında
+  INSERT   ...defterinde iz bırakmıştı çalışma
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kitty klein ve adriel
+      metin  : boals
+      duyulan: bolz
+  REPLACE  ...hakkında yazan öğrencilerin çalışma
+      metin  : belleği
+      duyulan: belleyi
+  REPLACE  ...gösterdi bu bulgu başlıktaki
+      metin  : hafifletmek
+      duyulan: hafifletme
+  REPLACE  ...o programın kısmını kapatıp
+      metin  : belleğe
+      duyulan: belleye
+  REPLACE  ...bakabilmek yaşantının tek donuk
+      metin  : kareye
+      duyulan: karaya
+  REPLACE  ...bakmak için olmadığını göstermesi
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...şefkatle anlatmaya istekli olmak
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 12 kelime | duyulup metinde OLMAYAN: 17
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: psikoloji-2026-10-21.duyulan.txt
