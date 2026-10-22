@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-22.mp3
+
+beklenen 2496 kelime | duyulan 2496 kelime | eşleşme %91.5
+sayı ifadesi: metinde 277, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...temmuz sabahı kişilik ordu
+      metin  : saffuriye
+      duyulan: safurye
+  INSERT   ...yılının sonu ya da
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...ile selahaddin eyyubi arasında
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ürdün ötesi senyörü renald
+      metin  : dö şatiyon
+      duyulan: de chatillon
+  REPLACE  ...esir alıp zindanlarına kapatıyor
+      metin  : rainald
+      duyulan: reynald
+  REPLACE  ...şövalye olarak gelmiş antakya
+      metin  : prensesiyle
+      duyulan: prensesi ile
+  REPLACE  ...kaldığında da durulmadı yeni
+      metin  : evliliğiyle kereğin
+      duyulan: evliliği ile kereyn
+  INSERT   ...kadı bahaeddin i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...göer sultan o zaman
+      metin  : rainald
+      duyulan: reynald
+  REPLACE  ...ve malların iadesini istedi
+      metin  : rainald
+      duyulan: reynald
+  REPLACE  ...de yazar kudüs kralı
+      metin  : gi dö
+      duyulan: geydö
+  REPLACE  ...tazminat ödenmesini istedi ama
+      metin  : rainald
+      duyulan: reynald
+  REPLACE  ...içinde bölünmüş olarak yakalandı
+      metin  : gi
+      duyulan: giy
+  INSERT   ...olarak yakalandı gi tahta
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gi tahta eşi kraliçe
+      metin  : sibylla
+      duyulan: sibilla
+  REPLACE  ...en güçlü rakibi eski
+      metin  : naip
+      duyulan: naib
+  REPLACE  ...naip trablus kontu raymond
+      metin  : du
+      duyulan: u
+  REPLACE  ...celile bölgesinin de efendisiydi
+      metin  : gi
+      duyulan: giy
+  INSERT   ...ayrı anlaşmanın bedeli mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...selahaddin in oğlu el
+      metin  : efdal
+      duyulan: eftal
+  REPLACE  ...tapınak şövalyeleri nin üstadı
+      metin  : jerar dö ridfor tu jerar
+      duyulan: gerard de ritfortu gerard
+  REPLACE  ...uyarıyı dikkate almadı avuç
+      metin  : şövalyeyle kresson
+      duyulan: şövalye ile crescon
+  REPLACE  ...hastane şövalyeleri nin üstadı
+      metin  : roje dö mulen da
+      duyulan: roger de moulin de
+  REPLACE  ...dö mulen da öldü
+      metin  : jerar
+      duyulan: gerard
+  REPLACE  ...utandırdı kralla barışmaya zorladı
+      metin  : jerar dö ridfor u
+      duyulan: gerard de ritfortu
+  REPLACE  ...erbil emiri türk komutan
+      metin  : muzafferüddin gökböri
+      duyulan: muzaffer üddin gökbörü
+  DELETE   ...kasasında i ngilteer kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yerinden oynatacak hamle yaptı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...kudüs kralının ordusu yalnızca
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...fakat gece yarısından sonra
+      metin  : jerar dö ridfor
+      duyulan: gerard de ritford
+  REPLACE  ...tavsiyesi tuzaktı kudüs kralı
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...şerefsiz biçimde kaybederdi tapınakçılar
+      metin  : kresson
+      duyulan: crescon
+  INSERT   ...en zayıf yerine dokunuyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dönemde selahaddin ordusuyla bugünkü
+      metin  : yizer el vadisi nde
+      duyulan: yizreal vadisinde
+  REPLACE  ...gece bitmeden emir verildi
+      metin  : şafakta taberiye
+      duyulan: şafak ta taberye
+  INSERT   ...yüründü ertesi sabah temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ertesi sabah temmuz ordu
+      metin  : saffuriye
+      duyulan: saffurye
+  REPLACE  ...bıraktı önde raymond öncü
+      metin  : birliğiyle
+      duyulan: ile
+  REPLACE  ...o pınarlara daha dönmeyecekti
+      metin  : saffuriye
+      duyulan: saffurye
+  REPLACE  ...daha dönmeyecekti saffuriye ile
+      metin  : taberiye
+      duyulan: taberye
+  ... ve 76 fark daha
+
+metinde olup DUYULMAYAN: 143 kelime | duyulup metinde OLMAYAN: 161
+bölme/birleşme farkı (hata değil, elendi): 40
+
+duyulan metin: tarih-2026-10-22.duyulan.txt

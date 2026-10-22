@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-22.mp3
+
+beklenen 1622 kelime | duyulan 1647 kelime | eşleşme %97.4
+sayı ifadesi: metinde 234, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ağustos
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...konuşmadı oyunu bitirdi aralık
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...güneyindeki guildford kasabası yağmurdan
+      metin  : sırılsıklamdı
+      duyulan: sırılsıklandı
+  REPLACE  ...stüdyonun adı hello games
+      metin  : ti
+      duyulan: di
+  INSERT   ...yalnızca hafta önce aralık
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...başına efsaneye dönüştü haziran
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...haziran los angeles taki
+      metin  : eüç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...farklı olacağını soruyordu yazında
+      metin  : stiven kolber
+      duyulan: stephen colbert
+  REPLACE  ...ertelendiğinde bazı oyuncular çizgiyi
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...hiçbiri birbirine benzemiyordu ağustos
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...bozmamaları konusunda uyardı ağustos
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...anda oynayan kişi sayısı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...görüntüde topladı oyuncular murray
+      metin  : nin
+      duyulan: in
+  REPLACE  ...gibi görünüyordu oyun keşfetmenin
+      metin  : hazzını
+      duyulan: hazını
+  INSERT   ...deki eşzamanlı oyuncu sayısı
+      metin  : (yok)
+      duyulan: ın
+  INSERT   ...kabulü gibi okundu ekim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...daha az duyuluyordu kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve reklam kurallarının çiğnenmediğine
+      metin  : hükmetti
+      duyulan: hükmedi
+  INSERT   ...yalnızca gün sonra kasım
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...güncelleme oyuncuların gezegenlerde kalıcı
+      metin  : üsler
+      duyulan: üstler
+  REPLACE  ...bilinçli olarak seçtiği yoldu
+      metin  : murray
+      duyulan: muray
+  INSERT   ...disiplin haline gelmişti mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...mod oyuna eklendi ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atlas rises yani atlas
+      metin  : yükseliyor
+      duyulan: yükselior
+  INSERT   ...asıl dönüm noktası temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...next in açıklanması stüdyonun
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...yorum türü belirdi oyunu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ardına çıkarmaya devam etti
+      metin  : (yok)
+      duyulan: ki in
+  INSERT   ...ekleyen güncellemeler geldi ağustos
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kişiyle araya gelmesini sağladı
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...dönemsel keşif seferleri geldi
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...switch e de taşındı
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...e de taşındı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geçiren parçalı güncelleme yayınlandı
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...ilginç tarafı stüdyonun neyi
+      metin  : değiştirmediğiydi
+      duyulan: değiştirmediydi
+  REPLACE  ...da oyun içi para
+      metin  : harcatan
+      duyulan: harçatan
+  REPLACE  ...gelir yıllar boyunca ücretsiz
+      metin  : içeriğe
+      duyulan: içeriye
+  INSERT   ...oyunun steam sayfasındaki değerlendirmeler
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...çoğunluğu olumlu oyuncular birbirlerinin
+      metin  : üslerini
+      duyulan: üstlerini
+  REPLACE  ...başlarını kaldırdığında birbirini görüyor
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: oyun-2026-10-22.duyulan.txt

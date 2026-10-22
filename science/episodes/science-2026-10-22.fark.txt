@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-22.mp3
+
+beklenen 2192 kelime | duyulan 1927 kelime | eşleşme %10.2
+sayı ifadesi: metinde 239, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...they cannot climb over
+      metin  : yılının ağustos ayında galler in cardiff kentinde i ngiliz bilim i lerletme derneği nin yıllık toplantısında kürsüye çıkan adam salondakilerin yıllardır ertelediği soruyu ortaya koydu
+      duyulan: the sun should not shine at al it shines because protons slip through a wal they cannot climb over it shines because protons slip through a wal they cannot climb over it shines because protons slip through a wal they cannot climb over
+  REPLACE  ...ortaya koydu arthur eddington
+      metin  : o sırada
+      duyulan: author of the
+  REPLACE  ...eddington o sırada cambridge
+      metin  : in en
+      duyulan: and n
+  REPLACE  ...cambridge in en parlak
+      metin  : astronomlarından yıl önce güneş tutulması sırasında yıldız ışığının bükülmesini ölçen ekiplerden yönetmiş einstein ın genel görelilik kuramını gecede dünyaya duyuran adam olmuştu şimdi ize çok daha eski soruyu soruyordu güneş neden hala parlıyor soru masum görünüyor ama yüzyılın sonunda fizikçilerle jeologları karşı karşıya getirmişti güneş kömür gibi yansaydı yılda tükenirdi kendi ağırlığıyla yavaş yavaş büzülüp ısınıyor olsaydı
+      duyulan: astronomy wrote that kennedy r luey la yavash yavash bizulup osunyo olsaidh
+  REPLACE  ...büzülüp ısınıyor olsaydı bile
+      metin  : ancak yıl dayanabilirdi oysa jeologlar kayaların fosillerin
+      duyulan: anjak yildayana bileard oisa j ologlar kaya laren fosil laren
+  REPLACE  ...jeologlar kayaların fosillerin ve
+      metin  : aşınmanın çok daha
+      duyulan: ashan manan choctaw
+  REPLACE  ...aşınmanın çok daha uzun
+      metin  : zamana işaret ettiğini söylüyordu dünya güneş daha yaşlı olamazdı hesaplardan yanlış olması gerekiyordu
+      duyulan: bizamana isharet etiniso iordo dunia guneish dan dahayash lo olamazde heesha plard and biernin yannesholme segera kjorta
+  REPLACE  ...yanlış olması gerekiyordu eddington
+      metin  : ın cevabı cesurdu kısa süer önce kimyager
+      duyulan: and javaba j surdu kussasura and j kimi agaer
+  REPLACE  ...önce kimyager francis aston
+      metin  : atomların kütlesini o güne kadar görülmemiş hassasiyetle ölçmüştü bu ölçümleer göer helyum çekirdeği hidrojen çekirdeğinin toplamından daha hafifti
+      duyulan: atomler and kutlecin ogunekadar gurun memish birhassa sietle ochmushtu buailchum neregeer birhelium chekirde dert hidrojan chekirde nen toplaman dan birazdaha
+  REPLACE  ...daha hafifti aradaki fark
+      metin  : den azdı
+      duyulan: yuzde birazazde
+  REPLACE  ...fark den azdı eddington
+      metin  : a göer bu kayıp kütle boşa
+      duyulan: and gurebukayip kutle borsha
+  REPLACE  ...kütle boşa gitmiyordu einstein
+      metin  : ın kütle
+      duyulan: and kutle
+  REPLACE  ...einstein ın kütle ile
+      metin  : enerjinin aynı şeyin olduğunu söyleyen denklemi doğruysa güneş in derinliklerinde hidrojen helyuma dönüşürken bu küçük fark enerji olarak açığa çıkıyor olmalıydı güneş kütlesinin yalnızca küçük kısmını bu şekilde harcasa bile milyarlarca yıl boyunca parlayabilirdi jeologların istediği zaman ortaya çıkmıştı
+      duyulan: enerjin ina sheyin ikyuzu oldun solian dankle midor ousa guneishin deer niklerin de hidrojan héliu madun shurkan kuchukfark energe olerak achakuyorol malide guneishkutlecin nen yalnazde kuchukbirkusmano bushekhil deharja sabile larga yilboyunja parleya biliarda j o loglerin istediz aman ortea chekmishte
+  REPLACE  ...çıkmıştı fikir zarifti ama
+      metin  : içinde büyük
+      duyulan: ichinde byuk
+  REPLACE  ...ama içinde büyük sorun
+      metin  : vardı ve bu
+      duyulan: warda vebu
+  REPLACE  ...vardı ve bu sorun
+      metin  : ilk
+      duyulan: ik
+  REPLACE  ...sorun ilk kez tam
+      metin  : olarak
+      duyulan: olerak
+  REPLACE  ...kez tam olarak eddington
+      metin  : ın kendi hesaplarıyla görünür hale geldi hidrojen çekirdeği tek protondur ve protonlar pozitif yüklüdür aynı yüke sahip parçacık birbirini iter yaklaştıkça bu
+      duyulan: and kende hesaplarila gurun urha legelde hidrojan chekirde techbir proton der vebu proton nar positive yuklu der aini yuke sahib chajik itar yakhla shtuk chabu
+  REPLACE  ...iter yaklaştıkça bu itme
+      metin  : de sertleşir fizikçiler bu itmeye coulomb engeli
+      duyulan: desert leshir physik chalarbu itme kullu mengele
+  REPLACE  ...itmeye coulomb engeli der
+      metin  : i ki protonun kaynaşabilmesi için çekirdeklerin içinde işleyen güçlü kuvvetin etkili olduğu mesafeye
+      duyulan: ikiproton unkay nasha bilmesi ichin chekirdek der ichin deh isleyan guchluku vethin etkilo oldo mesa faeh
+  REPLACE  ...olduğu mesafeye yani metrenin
+      metin  : birinden bile küçük aralığa
+      duyulan: milyanda milyanda danbile kuchukbir arala
+  REPLACE  ...bile küçük aralığa kadar
+      metin  : yaklaşmaları
+      duyulan: yakhla shmalar
+  REPLACE  ...aralığa kadar yaklaşmaları gerekir
+      metin  : o mesafeye
+      duyulan: omesa faeh
+  REPLACE  ...o mesafeye varana kadar
+      metin  : ize devasa elektriksel duvarı aşmak zorundadırlar eddington yıldızların iç yapısını incelerken güneş in merkezindeki sıcaklığı tahmin etmenin
+      duyulan: isay devasah elektrixal duvarah ashmak zorun dadar lar errington yildiz larun ichiya pasane injelar kyan guneshin markezin dekhi sujak lidu tahminet menin
+  REPLACE  ...tahmin etmenin yolunu buldu
+      metin  : gazın basıncının üstteki katmanların ağırlığını taşıması gerekiyordu ve bu denge merkezin ne
+      duyulan: ghazan basanjanan ustekhi katman naran arlunu tashimasa gerek yordu vebu dengge markezin nekadar sujak olajan belir liordu bogun bil demis der yakhla shuk ombesh der insan olcheh inde akal al maz sujak likbu aime proton larun olcheh inde durum bashkha deristede protonan ortalama haraket nrgc kulam engi liene ashmak gerek and in yakhla shuk
+  REPLACE  ...denge merkezin ne kadar
+      metin  : sıcak olacağını belirliyordu bugün bildiğimiz değer yaklaşık derecedir i nsan ölçeğinde akıl almaz sıcaklık bu ama protonların ölçeğinde durum başka derecede protonun
+      duyulan: dar classic physie geer proton larun duvaru duzan olerak ashabil mesichin guneshin markezin kach der sujak liktu olmas bhu gerchek derin yuzlerje katadamek sujak gazda butun partrajek lar ainu hizdah haraket atmaz baseleru
+  REPLACE  ...başka derecede protonun ortalama
+      metin  : hareket enerjisi coulomb engelini aşmak için gerekenin yaklaşık kadardır klasik fiziğe göer protonların duvarı düzenli olarak aşabilmesi için güneş in merkezinin derece sıcaklıkta olması gerekirdi bu gerçek değerin yüzlerce katı demek sıcak gazda bütün parçacıklar aynı hızda hareket etmez bazıları ortalamadan çok daha hızlıdır eddington
+      duyulan: dan chokdaha hizludur edington
+  REPLACE  ...eddington belki de en
+      metin  : hızlı azınlığın işi gördüğünü düşünüyordu
+      duyulan: hizlu azunlun ishigurdu nudushun yordu
+  REPLACE  ...işi gördüğünü düşünüyordu ama
+      metin  : hesap bu ihtimali
+      duyulan: hissapu ikhtimali da neri
+  REPLACE  ...hesap bu ihtimali de
+      metin  : neredeyze indiriyordu engeli aşacak
+      duyulan: sesufura indi yordu angelia shajak
+  REPLACE  ...indiriyordu engeli aşacak kadar
+      metin  : hızlı protonların oranı o
+      duyulan: hizlu proton larun oran okadar kuchuktuk guneshin ichinde kimo azam sayedah partrajek bilebo achiuk kapatamiordu kusajesugunesh fizikkitaplarunan soledina bakalursa yanami yajak
+  REPLACE  ...protonların oranı o kadar
+      metin  : küçüktü ki güneş in içindeki muazzam sayıda parçacık bile bu açığı kapatamıyordu kısacası güneş fizik kitaplarının söylediğine bakılırsa yanamayacak
+      duyulan: sujuktu ella shtirman ner bunok daya saldar de aralaran da ingilis fizikchi james jeansin de bulundu bilemin saner yilduzdaran hidro jankai nastra yajak
+  REPLACE  ...söylediğine bakılırsa yanamayacak kadar
+      metin  : soğuktu eleştirmenler bu noktaya saldırdı aralarında i ngiliz fizikçi james jeans in
+      duyulan: sujak olmadinu soljordu edington geri adem atmada dayem lanan yilduzdaran yajak kitapta buitra zabugunhala aktar lambeir jewapverde anlamakaba jashrudo yilduzdaran buishitin yetturinjesugak olmadinu solian ella shtirman nettartus mioreus dahasugak bierbulmasun soljoreus busuzun ingilis yedetashdui ima achiukte dahasugak yair jehan namde buin eli jewabun arkesan
+  REPLACE  ...james jeans in de
+      metin  : bulunduğu bilim insanları yıldızların hidrojen kaynaştıracak kadar sıcak olmadığını söylüyordu eddington geri adım atmadı da yayımlanan yıldızların iç yapısı üzerine yazdığı kitapta bu itiraza bugün hala aktarılan cevap verdi anlamı kabaca şuydu yıldızların bu iş için yeterince sıcak olmadığını söyleyen eleştirmenle tartışmıyoruz daha sıcak yer bulmasını söylüyoruz bu sözün i ngilizcede taşıdığı
+      duyulan: birdayan akwarda edington gerslamler and hidrojan kainashmasun yisharetetin dan emindive hezaptaki exikparchan and bulunajana ina njordu ama
+  REPLACE  ...i ngilizcede taşıdığı ima
+      metin  : açıktı daha sıcak yer cehennemdi bu iğneli cevabın arkasında dayanak vardı eddington gözlemlerin hidrojen kaynaşmasını işaret ettiğinden emindi ve hesaptaki eksik parçanın gün bulunacağına inanıyordu ama lerin ortasında elinde o eksik parça yoktu güneş her gün doğuyordu
+      duyulan: liren orta sunda elindeo exikparcha yokto gunesh hurgun do yordu
+  REPLACE  ...gün doğuyordu ve bilinen
+      metin  : fizik
+      duyulan: physik
+  REPLACE  ...ve bilinen fizik buna
+      metin  : izin vermiyordu çözüm astronomiden gelmeyecekti atom çekirdeğinin içinde
+      duyulan: isin verme yordu selzum astronomed and gelmi jekti aram chekirdanen ichinde
+  REPLACE  ...bitene bakan yeni ve
+      metin  : oldukça
+      duyulan: oldukcha
+  REPLACE  ...yeni ve oldukça tuhaf
+      metin  : fizik dalından gelecekti yazında yaşındaki sovyet fizikçi
+      duyulan: physik dalandang erejekte yazanda yermidort yashinda soviet physik
+  REPLACE  ...sovyet fizikçi george gamow
+      metin  : almanya daki göttingen üniversitesi ne geldi burası o yıllarda kuantum mekaniğinin doğduğu merkezlerden
+      duyulan: almaya the kigotingen university senegal bureza oyelar the quantum mechaninin do do merkesler dan
+  ... ve 83 fark daha
+
+metinde olup DUYULMAYAN: 1982 kelime | duyulup metinde OLMAYAN: 1717
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-10-22.duyulan.txt

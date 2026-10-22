@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-22.mp3
+
+beklenen 1844 kelime | duyulan 1866 kelime | eşleşme %95.1
+sayı ifadesi: metinde 231, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : macellan ın
+      duyulan: de macella nın
+  REPLACE  ...beagle kanalı nın üzerinde
+      metin  : griyle
+      duyulan: gri ile
+  REPLACE  ...sırtları kasabanın renkli çatılarına
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...az yıldır bu kanalların
+      metin  : koyların
+      duyulan: koyuların
+  REPLACE  ...yeniden canlandırmak hayati beceriydi
+      metin  : macellan
+      duyulan: de magellan
+  REPLACE  ...deniz canlılarının artıklarından oluşmuş
+      metin  : yığınlar
+      duyulan: yağınlar
+  REPLACE  ...ın kaptanı robert fitzroy
+      metin  : fuegolu
+      duyulan: da golü
+  REPLACE  ...götürdü bunlardan i ngilizlerin
+      metin  : jemmy
+      duyulan: jimmy
+  REPLACE  ...button adını verdiği genç
+      metin  : yağandı
+      duyulan: yağındı
+  INSERT   ...gelen kalıcı yerleşimden doğdu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...buraya yerleşen thomas bridges
+      metin  : yağanların
+      duyulan: yağınların
+  REPLACE  ...içinde fazla kelime içeren
+      metin  : yağanca
+      duyulan: yağınca
+  REPLACE  ...olarak bugün hala anılıyor
+      metin  : yağancada
+      duyulan: yağınca da
+  REPLACE  ...anlamına geliyor haritaya bakınca
+      metin  : tarifin
+      duyulan: tarifi
+  REPLACE  ...misyonun yanına devlet geldi
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...inde arjantin donanmasından augusto
+      metin  : lasserer
+      duyulan: lacerer
+  INSERT   ...deniz kaçan nereye gidebilirdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nereye gidebilirdi ilk mahkumlar
+      metin  : usuaya
+      duyulan: ushuaia
+  INSERT   ...de buraya taşındı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...büyük yapının temeli atıldı
+      metin  : karsel
+      duyulan: carcel
+  REPLACE  ...temeli atıldı karsel de
+      metin  : reinsidentes
+      duyulan: reyn sidentes
+  INSERT   ...kişi sıkıştırıldığı mahkum sayısının
+      metin  : (yok)
+      duyulan: ü ü
+  REPLACE  ...disiplinden hastalıklardan uzun yalnızlıktan
+      metin  : söz ediyor
+      duyulan: duruyor
+  REPLACE  ...haftalar süren deniz yolculuğu
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...petiso orehudo diye andığı
+      metin  : kayetano
+      duyulan: cayetano
+  REPLACE  ...diye andığı kayetano santos
+      metin  : godino ydu
+      duyulan: godinoydu te
+  INSERT   ...yürüdü anarşist simon radoviçki
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aires polis şefi ramon
+      metin  : falkon
+      duyulan: falcon
+  INSERT   ...yıllarını usuaya da geçirdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yakalanıp geri getirildi sonunda
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gösteren en bilinen örnektir
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...kıyıya sürgüne gönderildi yazar
+      metin  : rikardo rohas
+      duyulan: ricardo rojas
+  REPLACE  ...olmayan topluluklarını kırıp geçirdi
+      metin  : seksenlerde
+      duyulan: lerde
+  INSERT   ...olduğu tahmin edilen nüfus
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...koya verilmiş olan insanlardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verilmiş olan insanlardı hapishane
+      metin  : kararnameyle
+      duyulan: kararname ile
+  REPLACE  ...kasaba küçüldü asıl dönüşüm
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...bölgeye insan çekmek için
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sabah güneş öğlen yatay
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...beyaz et karada ize
+      metin  : patagonya
+      duyulan: patagonia
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: seyahat-2026-10-22.duyulan.txt

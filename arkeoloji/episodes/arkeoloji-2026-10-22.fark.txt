@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-22.mp3
+
+beklenen 2974 kelime | duyulan 2954 kelime | eşleşme %95.0
+sayı ifadesi: metinde 381, duyulanda 287  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bulunamadı bu adam yıldır
+      metin  : ölüydü
+      duyulan: ölüyordu
+  INSERT   ...ama kışı geçirtir mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mayıs silkebor kasabasının yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kasabasının yaklaşık kilometer batısında
+      metin  : tollund
+      duyulan: tollunt
+  REPLACE  ...köyü yakınlarındaki turbalıkta kardeş
+      metin  : viggo
+      duyulan: biggo
+  REPLACE  ...üniversitesi nden profesör peter
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...profesör peter vilhelm glob
+      metin  : du
+      duyulan: tu
+  INSERT   ...biliniyordu hatta aynı bataklıkta
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kadın bedeni bulunmuştu arkeologlar
+      metin  : (yok)
+      duyulan: elin
+  REPLACE  ...efsane de olmayacaktı sandık
+      metin  : kopenhag daki
+      duyulan: kopenhak taki
+  REPLACE  ...bulunduğu yerin adıyla anılıyordu
+      metin  : tollund
+      duyulan: tollunt
+  REPLACE  ...canlı mikroorganizmalara bağlıdır ancak
+      metin  : jutland
+      duyulan: cudland
+  REPLACE  ...dönüştürür turba yosunu öldüğünde
+      metin  : sfagnan
+      duyulan: sfagnum
+  REPLACE  ...eskiye ait olduğunu gösterir
+      metin  : glob
+      duyulan: globe
+  REPLACE  ...tek cümle bile bırakmadılar
+      metin  : kopenhag
+      duyulan: copenhagen
+  INSERT   ...insanlarının eline geçti ama
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...bekletildi ardından alkol ve
+      metin  : tolüen
+      duyulan: toluyen
+  REPLACE  ...özeni göremedi büyük ölçüde
+      metin  : kurumaya
+      duyulan: korumaya
+  INSERT   ...saklandı uzun yıllar sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çekik halde sergileniyor gövdenin
+      metin  : kaybı
+      duyulan: kaybu
+  REPLACE  ...düğümlendiği yerde ensede kaybolur
+      metin  : tollund adamı nın
+      duyulan: tollunt adamının
+  INSERT   ...görüntüleme yöntemleri devreye girdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...metnine dayanır romalı tarihçi
+      metin  : tasitus
+      duyulan: tacitus
+  REPLACE  ...germen halkları üzerine yazdığı
+      metin  : germanya
+      duyulan: germania
+  REPLACE  ...çırpıdan örülmüş kafes konurdu
+      metin  : tasitus
+      duyulan: tacitus
+  REPLACE  ...bu anlatım ilk bakışta
+      metin  : tollund adamı nın
+      duyulan: tollunt adamının
+  REPLACE  ...ama ciddi sorunlar barındırır
+      metin  : tasitus tollund adamı nın
+      duyulan: tacitus tollunt adamının
+  REPLACE  ...yaşamıyla karşılaştırarak eleştirmekti kısacası
+      metin  : tasitus
+      duyulan: tacitus
+  REPLACE  ...değil uzaktan bakan yorumcuydu
+      metin  : tollund adamı nın
+      duyulan: tollunt adamının
+  REPLACE  ...fırlatılmamış sanki uyuyormuş gibi
+      metin  : cenin
+      duyulan: c nin
+  REPLACE  ...koyduğu yorum işte buydu
+      metin  : tollund
+      duyulan: tollunt
+  REPLACE  ...gümüş gundestrup kazanıdır glob
+      metin  : tollund adamı nın
+      duyulan: tollunt adamının
+  REPLACE  ...başka işaretler de vardır
+      metin  : tasitus
+      duyulan: tacitus
+  REPLACE  ...de vardır tasitus un
+      metin  : germanya sında
+      duyulan: cermanyasında
+  REPLACE  ...tanrıça kültü de anlatılır
+      metin  : tasitus
+      duyulan: tacitus
+  REPLACE  ...duran eşikti i nsanlar
+      metin  : dünyası ile
+      duyulan: dünyasıyla
+  REPLACE  ...hiçbir zaman bilemeyeceğiz ama
+      metin  : bedeninin
+      duyulan: bedenin
+  INSERT   ...kucağında şaşırtıcı ölçüde korunmuştu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...korunmuştu danimarkalı arkeobotanikçi hans
+      metin  : helbek
+      duyulan: helbeck
+  REPLACE  ...arpayla birlikte toplanmış olmalıydı
+      metin  : helbek
+      duyulan: helbeck
+  ... ve 37 fark daha
+
+metinde olup DUYULMAYAN: 97 kelime | duyulup metinde OLMAYAN: 100
+bölme/birleşme farkı (hata değil, elendi): 33
+
+duyulan metin: arkeoloji-2026-10-22.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-22.mp3
+
+beklenen 2167 kelime | duyulan 2129 kelime | eşleşme %93.5
+sayı ifadesi: metinde 305, duyulanda 237  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geçebilmesi yılının ağustos ayında
+      metin  : galler
+      duyulan: guller
+  REPLACE  ...bükülmesini ölçen ekiplerden yönetmiş
+      metin  : aynştayn
+      duyulan: einstein
+  DELETE   ...tükenirdi kendi ağırlığıyla yavaş
+      metin  : yavaş
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işaret ettiğini söylüyordu dünya
+      metin  : güneş
+      duyulan: güneşten
+  DELETE   ...francis aston atomların kütlesini
+      metin  : o güne kadar
+      duyulan: (YOK — atlanmış)
+  INSERT   ...daha hafifti aradaki fark
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kayıp kütle boşa gitmiyordu
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...boşa gitmiyordu aynştayn ın
+      metin  : kütle ile
+      duyulan: kütleyle
+  REPLACE  ...güneş kütlesinin yalnızca küçük
+      metin  : kısmını
+      duyulan: atomlarını
+  REPLACE  ...milyarlarca yıl boyunca parlayabilirdi
+      metin  : jeologların
+      duyulan: geologların
+  DELETE   ...yüke sahip parçacık birbirini
+      metin  : iter
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sertleşir fizikçiler bu itmeye
+      metin  : kulomb
+      duyulan: kulum
+  REPLACE  ...aşmak zorundadırlar eddington yıldızların
+      metin  : iç yapısını
+      duyulan: meselesini
+  INSERT   ...protonların ölçeğinde durum başka
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...protonun ortalama hareket enerjisi
+      metin  : kulomb
+      duyulan: kulum
+  REPLACE  ...kulomb engelini aşmak için
+      metin  : gerekenin
+      duyulan: bu meselenin
+  DELETE   ...en hızlı azınlığın işi
+      metin  : gördüğünü
+      duyulan: (YOK — atlanmış)
+  DELETE   ...jeans in de bulunduğu
+      metin  : bilim
+      duyulan: (YOK — atlanmış)
+  INSERT   ...eddington geri adım atmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gün bulunacağına inanıyordu ama
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...bilinen fizik buna izin
+      metin  : vermiyordu
+      duyulan: alıyordu
+  REPLACE  ...yazında yaşındaki sovyet fizikçi
+      metin  : corc gamov
+      duyulan: korç gamow
+  REPLACE  ...burası o yıllarda kuantum
+      metin  : mekaniğinin
+      duyulan: mekaninin
+  REPLACE  ...kuantum mekaniğinin doğduğu merkezlerden
+      metin  : gamov
+      duyulan: gamow
+  REPLACE  ...aklındaki problem ilk bakışta
+      metin  : güneş le ilgili
+      duyulan: güneşle
+  REPLACE  ...güneş le ilgili değildi
+      metin  : uranyum
+      duyulan: uranium
+  REPLACE  ...nötrondan oluşan küçük kümedir
+      metin  : uranyum
+      duyulan: uranium
+  REPLACE  ...kuvvetle tutulur ve etrafını
+      metin  : kulomb
+      duyulan: kulomp
+  REPLACE  ...etrafını kulomb engelinden duvar
+      metin  : sarar
+      duyulan: var
+  REPLACE  ...bazıları saniyenin içinde yapıyordu
+      metin  : gamov
+      duyulan: gamow
+  REPLACE  ...gamov un çözümü kuantum
+      metin  : mekaniğinin
+      duyulan: deneyinin
+  REPLACE  ...belli noktada duran küçük
+      metin  : bilye
+      duyulan: bilge
+  REPLACE  ...değildir nerede bulunabileceğini anlatan
+      metin  : dalga ile
+      duyulan: dalgayla
+  REPLACE  ...öbür tarafında olma ihtimaline
+      metin  : geçiyor
+      duyulan: geliyor
+  REPLACE  ...olsa da gerçek sayıdır
+      metin  : gamov
+      duyulan: gamow
+  REPLACE  ...gamov formülünü kurduğunda alfa
+      metin  : bozunmasının
+      duyulan: olmasının
+  REPLACE  ...olasılığını kat kat değiştiriyordu
+      metin  : uranyumun
+      duyulan: uraniumun
+  REPLACE  ...e yönelmesi uzun sürmedi
+      metin  : gamov
+      duyulan: gamow
+  INSERT   ...duvarını aşarak çekirdeğe sızabilirdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...robert atkinson ile fizikçi
+      metin  : frits hautermans gamov
+      duyulan: fritz houtermans gamow
+  ... ve 46 fark daha
+
+metinde olup DUYULMAYAN: 95 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 33
+
+duyulan metin: bilim-2026-10-22.duyulan.txt

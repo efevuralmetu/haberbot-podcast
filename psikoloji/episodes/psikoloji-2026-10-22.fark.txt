@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-22.mp3
+
+beklenen 1473 kelime | duyulan 1483 kelime | eşleşme %97.6
+sayı ifadesi: metinde 199, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sabahki toplantıda sunumunuz beğenildi
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...tanıdık geldiyze yalnız değilsiniz
+      metin  : psikolojide
+      duyulan: pesikolojide
+  REPLACE  ...aynı büyüklükteki olaydan iyi
+      metin  : kötüyze
+      duyulan: kötü ize
+  REPLACE  ...bu fikir yılında ayrı
+      metin  : makaleyle
+      duyulan: makale ile
+  REPLACE  ...yanda sosyal psikolog roy
+      metin  : baumayster
+      duyulan: baumeister
+  REPLACE  ...güçlüdür aynı yıl paul
+      metin  : rozin
+      duyulan: rosen
+  REPLACE  ...paul rozin ve edward
+      metin  : royzman
+      duyulan: roisman
+  REPLACE  ...da benzer sonuca vardı
+      metin  : baumayster
+      duyulan: baumeister
+  REPLACE  ...araştırmacılar bunun tersini yani
+      metin  : iyinin
+      duyulan: iğinin
+  REPLACE  ...sözü kenara koyup tek
+      metin  : eleştiriyi
+      duyulan: eleştiriği
+  REPLACE  ...beyinde de görmek mümkün
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...tiffany ito ve john
+      metin  : kaçiopo
+      duyulan: cacioppo
+  REPLACE  ...bulunduğu araştırmacılar insanlara hoş
+      metin  : nötr
+      duyulan: nötür
+  REPLACE  ...öne çıkıyor tehdit sinyalini
+      metin  : yakalamakta
+      duyulan: yakalamak da
+  REPLACE  ...daniel kahneman ve amos
+      metin  : tverski
+      duyulan: tversky
+  INSERT   ...ve amos tverski nin
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...katı kadar güçlü hisseder
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ölçülebilir olması eğer kötü
+      metin  : iyiden
+      duyulan: i den
+  REPLACE  ...gelmesi için kefeye kaç
+      metin  : iyi
+      duyulan: i
+  REPLACE  ...gottman ve meslektaşı robert
+      metin  : levenson yetmişlerden
+      duyulan: levinson lerden
+  REPLACE  ...levenson yetmişlerden itibaren yüzlerce
+      metin  : çifti
+      duyulan: çiftli
+  REPLACE  ...düşüyordu gottman bu bulguyu
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...ilişki dilindeki karşılığıydı kötü
+      metin  : iyiden
+      duyulan: iğden
+  REPLACE  ...iyiden güçlü olduğu için
+      metin  : iyiden
+      duyulan: iğden
+  INSERT   ...oranı öne süren çalışma
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...martin seligman ve ekibinin
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...atladığı şeyleer dikkat çevirmek
+      metin  : adım eleştiriyi ayrıştırmak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adım ize belki en
+      metin  : insanca
+      duyulan: insancı
+  REPLACE  ...bunlar iyi kelimeler olsun
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-10-22.duyulan.txt

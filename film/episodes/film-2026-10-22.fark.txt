@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-22.mp3
+
+beklenen 1943 kelime | duyulan 1946 kelime | eşleşme %95.2
+sayı ifadesi: metinde 208, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...pillars of wisdom yani
+      metin  : bilgeliğin
+      duyulan: bilgeley in
+  REPLACE  ...sütunu da yıllar içinde
+      metin  : kült
+      duyulan: kül
+  REPLACE  ...çöl de fazla uzaktı
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...girmeye karar verdi yapımcı
+      metin  : sem spigıl
+      duyulan: sam spiegel
+  REPLACE  ...i kili daha önce
+      metin  : kwai köprüsü nü
+      duyulan: kvay köprüsünü
+  REPLACE  ...birlikte yapmış bu filmle
+      metin  : oscar ları
+      duyulan: oskarları
+  INSERT   ...emeği resmi olarak ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...adı peter o toole
+      metin  : du
+      duyulan: dü
+  REPLACE  ...seyircisi neredeyze hiç tanımıyordu
+      metin  : spigıl
+      duyulan: spiegel
+  REPLACE  ...aldı hem gerçek lawrence
+      metin  : tan
+      duyulan: dan
+  REPLACE  ...emir faysal rolü alec
+      metin  : guinness
+      duyulan: guiness
+  REPLACE  ...rolü alec guinness e
+      metin  : huveytat
+      duyulan: hüveytat
+  REPLACE  ...savaşçı şeyhi avde ebu
+      metin  : tayi
+      duyulan: tayy
+  REPLACE  ...avde ebu tayi rolü
+      metin  : anthony
+      duyulan: antony
+  REPLACE  ...anthony quinn e komutan
+      metin  : allenby
+      duyulan: allen b
+  REPLACE  ...bentley karakterini arthur kennedy
+      metin  : canlandırdı
+      duyulan: verirdi
+  REPLACE  ...un kızıl kayalıkları ve
+      metin  : cafr
+      duyulan: caffra
+  REPLACE  ...bobinleri kilometrelerce öteden getiriliyordu
+      metin  : lean
+      duyulan: leon
+  REPLACE  ...kadar değişmişti bu nedenle
+      metin  : almeriya
+      duyulan: almeria
+  REPLACE  ...perdeye yansıyan şeydeydi çünkü
+      metin  : lean
+      duyulan: layen
+  REPLACE  ...kahier deki karargahta genç
+      metin  : teğmen
+      duyulan: teymen
+  REPLACE  ...kesmenin arkasında kurgucu anne
+      metin  : v
+      duyulan: wey
+  REPLACE  ...coates in denemesini gören
+      metin  : lean
+      duyulan: leon
+  REPLACE  ...temelinden besleniyordu görüntü yönetmeni
+      metin  : freddie
+      duyulan: freddy
+  REPLACE  ...neredeyze sonsuza kadar uzatıyordu
+      metin  : lean
+      duyulan: lee in
+  REPLACE  ...dir bu çekim için
+      metin  : panavision
+      duyulan: panavizyon
+  REPLACE  ...için panavision özel olarak
+      metin  : milimetrelik
+      duyulan: mm lik
+  REPLACE  ...tesadüf uluslararası kariyerini başlattı
+      metin  : o toole
+      duyulan: otaule
+  REPLACE  ...bu saldırıya karşılık veremez
+      metin  : lean
+      duyulan: lee in
+  REPLACE  ...veremez lean bu sahneyi
+      metin  : almeriya
+      duyulan: almeria
+  REPLACE  ...sesi var fransız besteci
+      metin  : moris jar
+      duyulan: maurice jarer
+  REPLACE  ...için tasarlanmış yapıydı ama
+      metin  : lean in
+      duyulan: lee nin
+  REPLACE  ...kendisini belgesel olarak sunmuyordu
+      metin  : lean in
+      duyulan: liye nin
+  INSERT   ...efsanesiyle yüzleşmesiydi film aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...film aralık londra da
+      metin  : prömiyer
+      duyulan: premier
+  REPLACE  ...ve en iyi kurgu
+      metin  : o toole da
+      duyulan: othule de
+  REPLACE  ...kendisi parça parça küçülüyordu
+      metin  : prömiyerdeki
+      duyulan: premierdeki
+  INSERT   ...süer sonra film kısaltıldı
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...yeniden gösterimde ize süer
+      metin  : dakikaya
+      duyulan: dk ya
+  REPLACE  ...bakışlar seyirci yıllar boyunca
+      metin  : lean
+      duyulan: layne
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-10-22.duyulan.txt

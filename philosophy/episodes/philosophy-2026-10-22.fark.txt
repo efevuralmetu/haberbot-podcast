@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-22.mp3
+
+beklenen 3532 kelime | duyulan 3530 kelime | eşleşme %98.9
+sayı ifadesi: metinde 128, duyulanda 112  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...see or hair turns
+      metin  : grey
+      duyulan: gray
+  REPLACE  ...question years ago yusuf
+      metin  : has
+      duyulan: as
+  REPLACE  ...careful definition something like
+      metin  : ageing
+      duyulan: aging
+  REPLACE  ...make up for what
+      metin  : has
+      duyulan: is
+  REPLACE  ...almost cheerful little book
+      metin  : cato maior de senectute
+      duyulan: catto major disenectute
+  REPLACE  ...strength of a bul
+      metin  : in
+      duyulan: and
+  DELETE   ...has another side confucius
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the lands of the
+      metin  : karakhanids
+      duyulan: kurukhanids
+  REPLACE  ...karakhanids a man from
+      metin  : balasagun
+      duyulan: balasugun
+  REPLACE  ...presents his book to
+      metin  : tabghach bughra
+      duyulan: tabguch bugra
+  REPLACE  ...history remembers him as
+      metin  : khass hajib
+      duyulan: khashajib
+  REPLACE  ...the book is called
+      metin  : kutadgu
+      duyulan: khutadgu
+  REPLACE  ...a white swan but
+      metin  : kutadgu
+      duyulan: khutadgu
+  REPLACE  ...central characters the ruler
+      metin  : kuntoghdi
+      duyulan: kuntagdi
+  REPLACE  ...represents justice the vizier
+      metin  : aytoldi
+      duyulan: itoldi
+  REPLACE  ...the vizier s son
+      metin  : ogdulmish
+      duyulan: ogdolmesh
+  REPLACE  ...and the reclusive dervish
+      metin  : odgurmish
+      duyulan: ogdurmesh
+  REPLACE  ...what lies beyond it
+      metin  : odgurmish
+      duyulan: ogdurmesh
+  REPLACE  ...in many verses of
+      metin  : kutadgu
+      duyulan: khutadgu
+  REPLACE  ...a legend told of
+      metin  : khoja
+      duyulan: koja
+  REPLACE  ...between the lament in
+      metin  : kutadgu bilig
+      duyulan: kuta gubilig
+  REPLACE  ...to listen to the
+      metin  : aksakal
+      duyulan: axikal
+  REPLACE  ...volume its title is
+      metin  : la vieillesse
+      duyulan: le viesse
+  REPLACE  ...becomes most concrete in
+      metin  : türkiye
+      duyulan: turkey
+  INSERT   ...to a cause intellectual
+      metin  : (yok)
+      duyulan: deo
+  REPLACE  ...being even as yusuf
+      metin  : khass
+      duyulan: qas
+  REPLACE  ...stil being lived when
+      metin  : erik erikson
+      duyulan: eric erickson
+  REPLACE  ...not set right for
+      metin  : erikson
+      duyulan: erickson
+  REPLACE  ...them see them the
+      metin  : aksakal
+      duyulan: axikal
+  REPLACE  ...its elders invisible it
+      metin  : impoverishes
+      duyulan: is
+  REPLACE  ...today s episode of
+      metin  : nöron felsefe
+      duyulan: neuron felsiphae
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-10-22.duyulan.txt

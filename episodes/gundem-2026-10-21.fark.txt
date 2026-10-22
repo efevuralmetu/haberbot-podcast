@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-21.mp3
+
+beklenen 1399 kelime | duyulan 1404 kelime | eşleşme %94.3
+sayı ifadesi: metinde 292, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...açıklandı ukrayna devlet başkanı
+      metin  : volodimir zelenski
+      duyulan: volodymyr zelensky
+  REPLACE  ...nin özel temsilcisi steve
+      metin  : witkoff
+      duyulan: witkov
+  REPLACE  ...sabır gerektiğini de ekledi
+      metin  : zelenski
+      duyulan: zelensky
+  REPLACE  ...sonra yeniden başladığını açıkladı
+      metin  : witkoff
+      duyulan: witkov
+  REPLACE  ...gitmesi bekleniyor moskova ize
+      metin  : zelenski
+      duyulan: zelensky
+  REPLACE  ...sürüyor başkan donald trump
+      metin  : beyaz saray
+      duyulan: beyazaray
+  REPLACE  ...doğruladı i ran cumhurbaşkanı
+      metin  : mesud pezeşkiyan
+      duyulan: mesut pezeşkian
+  REPLACE  ...yemen de çatışmalar ağırlaştı
+      metin  : şabva
+      duyulan: şabba
+  INSERT   ...saldırısında asker hayatını kaybetti
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...güney sudan arasındaki tartışmalı
+      metin  : abyei
+      duyulan: eybayı
+  INSERT   ...aracı saldırısında can kaybının
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...can kaybının yükseldiği bildirildi
+      metin  : gazze de ateşkes
+      duyulan: gazete ateş kes
+  REPLACE  ...devam ediliyor world food
+      metin  : programme
+      duyulan: program
+  INSERT   ...temsilciler meclisi türkiye ile
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...salgın endişesi de büyüyor
+      metin  : nijerya
+      duyulan: nigeria
+  REPLACE  ...konuşuluyor softbank ve abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...ve abu dabi merkezli
+      metin  : mgx
+      duyulan: mcx
+  REPLACE  ...alabileceği belirtiliyor zamanlamanın rakip
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...ortasında yapması beklenen halka
+      metin  : arzla
+      duyulan: arza
+  REPLACE  ...arzla bağlantılı olduğu düşünülüyor
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...güvenlik bakanlığı sivil federal
+      metin  : kurumlara
+      duyulan: kurumları
+  REPLACE  ...verdi siparişler yapay zeka
+      metin  : çıkarımı
+      duyulan: çıkarıma
+  INSERT   ...istasyonu kartını kapsıyor teslimatların
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...maliyetine mal oldu microsoft
+      metin  : da
+      duyulan: ta
+  REPLACE  ...salesforce müşteri etkileşimi platformu
+      metin  : braze i
+      duyulan: brazi
+  INSERT   ...satın alacağını duyurdu amazon
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...ajansı mars ın uydusu
+      metin  : fobos
+      duyulan: phobos
+  REPLACE  ...az gram örnek toplayıp
+      metin  : dünya ya
+      duyulan: de dünyaya
+  REPLACE  ...dün yükselişle puana çıktı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...gelir büyümesi üst üste
+      metin  : çeyrekte yavaşladı
+      duyulan: çeyrekteye başladı
+  REPLACE  ...varili düşüşle dolara abd
+      metin  : ham
+      duyulan: han
+  INSERT   ...ize düşüşle dolara geriledi
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...da güçlü yükseliş yaşandı
+      metin  : bist
+      duyulan: beast
+  INSERT   ...lira civarında tamamladı gram
+      metin  : (yok)
+      duyulan: lik
+  INSERT   ...kurulu kararını yarın saat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ilk indirimin bu toplantıda
+      metin  : (yok)
+      duyulan: den ya
+  REPLACE  ...kapasite kullanım oranı ile
+      metin  : reel
+      duyulan: real
+  INSERT   ...teklifi ni bugün saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...piyasası kurulu da alnus
+      metin  : bulls
+      duyulan: buls
+  REPLACE  ...toplantısında uzmanların hesaplarına dayandırdığı
+      metin  : değerlendirmeyle
+      duyulan: değerlendirme ile
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: gundem-2026-10-21.duyulan.txt

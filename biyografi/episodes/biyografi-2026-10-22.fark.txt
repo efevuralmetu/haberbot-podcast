@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-22.mp3
+
+beklenen 2838 kelime | duyulan 2892 kelime | eşleşme %94.0
+sayı ifadesi: metinde 355, duyulanda 263  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yaşında tek başına aylık
+      metin  : hac
+      duyulan: haç
+  INSERT   ...lakabıyla tanıyacak i bn
+      metin  : (yok)
+      duyulan: i
+  DELETE   ...hesabına göer bu yolculuk
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kendi kadısı seçiyor henüz
+      metin  : yirmilerinin
+      duyulan: lerinin
+  REPLACE  ...bn battuta burhaneddin el
+      metin  : aric
+      duyulan: ariç
+  REPLACE  ...seviyorsun hindistan da kardeşim
+      metin  : ferideddin i sind de kardeşim rükneddin i
+      duyulan: ferideddini sindekardeşim rükneddini
+  REPLACE  ...hacca gideceksin yemen i
+      metin  : irağı
+      duyulan: ira ı
+  REPLACE  ...alın yazısı gibi yaşamış
+      metin  : kahier yi
+      duyulan: kahireyi
+  REPLACE  ...sonra anadolu ya geçiyor
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...anlatıyor karadeniz i geçip
+      metin  : orda ya
+      duyulan: altınordaya
+  INSERT   ...gitmek istiyor i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...geçerken sultanın ne kadar
+      metin  : uzağı
+      duyulan: uzağa
+  INSERT   ...atı olduğu i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...muhammed tuğluk i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...öldürülen cesedi bulunuyor sultan
+      metin  : farsça
+      duyulan: farzça
+  INSERT   ...emri verebiliyor i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yol açmış i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...aylar sürüyor i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...rivayet ediliyor i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ediliyor i bn battuta
+      metin  : delhi
+      duyulan: deli
+  INSERT   ...çıkıyor ortaya i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...genellikle kurtulmadığını i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...bıkkınlık var i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yeniden çağırıyor i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...çin deki moğol imparatoru
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...istiyor başına da kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...kaplar kılıçlar yılı sonunda
+      metin  : delhi
+      duyulan: deli
+  INSERT   ...taşıyan hazine i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...olduğunu henüz bilmiyor kafile
+      metin  : delhi
+      duyulan: deli
+  INSERT   ...yardıma koşuyor i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...grupla dolaşırken i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...malabar kıyısına kalikuda ulaşıyor
+      metin  : kalikut
+      duyulan: kalikud
+  INSERT   ...cönkü demirli i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...gemileri hayranlıkla anlatıyor güverteli
+      metin  : kamaralı
+      duyulan: kameralı
+  INSERT   ...yükleniyor ama i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...de var büyük cönkteki
+      metin  : kamaraların
+      duyulan: kameraların
+  INSERT   ...gün cuma i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kabarıyor malabar kıyısında fırtına
+      metin  : mevsimi
+      duyulan: mevzimi
+  INSERT   ...çıkamıyor sabah i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...gidiyor heyetteki arkadaşları aralarında
+      metin  : delhi den beri
+      duyulan: daily denberi
+  ... ve 63 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 121
+bölme/birleşme farkı (hata değil, elendi): 47
+
+duyulan metin: biyografi-2026-10-22.duyulan.txt

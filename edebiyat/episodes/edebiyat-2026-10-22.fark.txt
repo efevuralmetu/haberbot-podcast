@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-22.mp3
+
+beklenen 1629 kelime | duyulan 1638 kelime | eşleşme %95.8
+sayı ifadesi: metinde 221, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çocuk dünyaya gelir adını
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...hanım dır çocukluğu vardar
+      metin  : ırmağının
+      duyulan: irmağı nın
+  REPLACE  ...söner annesi veremden ölür
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...a gelir i kinci
+      metin  : abdülhamit
+      duyulan: abdülhamid
+  REPLACE  ...ve sessizliğin şehridir genç
+      metin  : ahmed
+      duyulan: ahmet
+  INSERT   ...gençler arasında fısıltıyla dolaşmaktadır
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tam yıl kalır süer
+      metin  : ekol libr
+      duyulan: ecole
+  REPLACE  ...süer ekol libr de
+      metin  : siyans politik e
+      duyulan: science politique
+  REPLACE  ...yönünü değiştirir özellikle tarihçi
+      metin  : alber sorel
+      duyulan: albert sorrel
+  REPLACE  ...düşünmeye başlar fransız tarihçi
+      metin  : kamiy jülyan
+      duyulan: camille jullian
+  REPLACE  ...fransız şiirini aslından okur
+      metin  : parnasçıların
+      duyulan: parnazçıların
+  REPLACE  ...tutkusu verlen in müziği
+      metin  : jan moreas nın
+      duyulan: john moria sının
+  INSERT   ...sürecek mükemmeliyetçiliğinin de tohumudur
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...merak edilen isim olur
+      metin  : ahmed agah
+      duyulan: ahmet aga
+  REPLACE  ...imzasını kullanmaya başlamıştır önce
+      metin  : darüşşafaka
+      duyulan: darül şafaka
+  REPLACE  ...adlarından olacak ahmet hamdi
+      metin  : tanpınar
+      duyulan: tampınar
+  REPLACE  ...hamdi tanpınar da vardır
+      metin  : tanpınar
+      duyulan: tampınar
+  INSERT   ...de ilginçtir mütareke yıllarında
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dolaşır derginin yazarları arasında
+      metin  : tanpınar
+      duyulan: tampınar
+  REPLACE  ...yön verir yahya kemal
+      metin  : aruz
+      duyulan: ağruz
+  REPLACE  ...stanbul un konuşulan türkçesini
+      metin  : aruzun
+      duyulan: ağruz un
+  REPLACE  ...yazar defalarca düzeltir yazdığı
+      metin  : mısraın
+      duyulan: mısra nın
+  INSERT   ...almak günü gelmişse zamandan
+      metin  : (yok)
+      duyulan: şarj
+  REPLACE  ...ve urfa milletvekili olarak
+      metin  : meclis e
+      duyulan: meclize
+  INSERT   ...ardından diplomatın şiiri olur
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...atanır orada yıl kalır
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...madrid e geçer ve
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...kaleme aldığı endülüs te
+      metin  : raks
+      duyulan: rax
+  INSERT   ...i stanbul milletvekilliği yapar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...büyükelçisi olarak gider ve
+      metin  : karaçi
+      duyulan: karaciğ
+  INSERT   ...karaçi de yıl kalır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu meclislerde yaşar kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nde hayata gözlerini yumar
+      metin  : rumelihisarı ndaki aşiyan mezarlığı na boğaz a
+      duyulan: rumeli hisar ındaki aşıyan mezarlığına boğaza
+  INSERT   ...öğrencileri ölümünün hemen ardından
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu emeğin ilk meyvesi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...meyvesi çıkar kendi gök
+      metin  : kubbemiz
+      duyulan: kubemiz
+  REPLACE  ...şiirlerden oluşan eski şiirin
+      metin  : rüzgarıyle
+      duyulan: rüzgarıyla
+  REPLACE  ...şiirin rüzgarıyle gelir sonra
+      metin  : rubaileri
+      duyulan: rubayları
+  REPLACE  ...sonra rubaileri ve hayyam
+      metin  : rubailerini
+      duyulan: rubaylarını
+  INSERT   ...rubailerini türkçeye aktarışı yayımlanır
+      metin  : (yok)
+      duyulan: te
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: edebiyat-2026-10-22.duyulan.txt
