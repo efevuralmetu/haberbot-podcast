@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-23.mp3
+
+beklenen 1907 kelime | duyulan 1947 kelime | eşleşme %15.7
+sayı ifadesi: metinde 147, duyulanda 95  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...babies a day old
+      metin  : sessiz
+      duyulan: cessisbir
+  REPLACE  ...day old sessiz odada
+      metin  : çok hassas
+      duyulan: chokhas sasbir
+  REPLACE  ...çok hassas mikrofonu kulak
+      metin  : kanalınıza yerleştirseler büyük ihtimalle ses kaydederlerdi bu ses dışarıdan gelmiyor kulağınızın kendisinden geliyor duymak için yapılmış organımız
+      duyulan: canalanazayar leshtirselar buyuk ihti ma lebir seskaidadar larda busez tushardan galmyor kulaanazan kendisindangelior duimakichin yapulmush organamuz
+  REPLACE  ...için yapılmış organımız kimsenin
+      metin  : fark etmediği biçimde sürekli şarkı söylüyor yılında i kinci dünya savaşı nın
+      duyulan: farket medibichim desurek lisharka soylior yolanda ekinji dunyasava sinnan
+  REPLACE  ...dünya savaşı nın radar
+      metin  : laboratuvarlarından
+      duyulan: laboratoar leran dan
+  REPLACE  ...nın radar laboratuvarlarından yeni
+      metin  : çıkmış genç fizikçi işitme uzmanlarının pek hoşuna gitmeyecek
+      duyulan: cikmush genchbir physikci ishitme usman leranan pekoshunagitme jekbir
+  REPLACE  ...pek hoşuna gitmeyecek soru
+      metin  : sordu
+      duyulan: soru
+  REPLACE  ...gitmeyecek soru sordu thomas
+      metin  : gold un sorusu basitti
+      duyulan: goldin soru subasiti
+  REPLACE  ...sorusu basitti kulak sesi
+      metin  : yalnızca
+      duyulan: yalnazja
+  REPLACE  ...alan mikrofon mu yoksa
+      metin  : gelen
+      duyulan: galan
+  REPLACE  ...yoksa gelen sesi kendi
+      metin  : enerjisiyle güçlendiren amplifikatör mü bu sorunun neden rahatsız edici olduğunu anlamak için kulağın içine bakmak
+      duyulan: energisi leguchlanderan amplificaturmu busez nun nedan rahat sa zedije oldu no annamakichin kulaanichin ebakmak
+  REPLACE  ...kulağın içine bakmak gerekir
+      metin  : dış kulak
+      duyulan: dushkulak
+  REPLACE  ...kulak sesi toplar kulak
+      metin  : zarı titrer orta kulaktaki minik
+      duyulan: zarititrer ortokulakta ki uchminik
+  REPLACE  ...orta kulaktaki minik kemik
+      metin  : bu titreşimi iç kulağa taşır i ç kulakta salyangoz kabuğu gibi kıvrılmış sıvıyla dolu yapı vardır
+      duyulan: putitreshemi ichkulatasir ichkulakta sa ljangos kabugibi kuvrulmush svila dolubir japovardar
+  REPLACE  ...yapı vardır koklea koklea
+      metin  : boyunca
+      duyulan: boyunka
+  REPLACE  ...koklea boyunca uzanan zar
+      metin  : baziler membran gelen
+      duyulan: bazeelir membren gelin
+  REPLACE  ...baziler membran gelen sesle
+      metin  : dalgalanır zarın her noktası farklı
+      duyulan: dalgalanur zaran hernokta sufarklibir
+  REPLACE  ...her noktası farklı frekansa
+      metin  : en güçlü tepkiyi verir tabana yakın kısım tiz sesleer
+      duyulan: enguchlutep kivirir tabayana yakin kasum tisesleer
+  REPLACE  ...kısım tiz sesleer tepeye
+      metin  : yakın kısım pes sesleer ayarlıdır
+      duyulan: yakin kasum pesesler arludar
+  INSERT   ...sesleer ayarlıdır yani koklea
+      metin  : (yok)
+      duyulan: sesifer kansler na iran janlir pianoklavyesigibi chelushir goldun zamananda buklavienen enairan talaharita sugeorg von bekhesinen ulchum nirindangi ljordu bekezi insan kadavralaran danaldu koklealur mekroskopaltan da inji ljordu zaran uzerinde ilar ljan dalga yegozu le isljordu gurdu shei yurian dalgaide sesta bandangirip zarboyunja ilar ljordu bey libinokta da tepeye pupso njordu buchalushma sonradan bandokuzu zatmushbir denobaltu pudulu nugeti rejecte ama bekezi ningurdu tepeleur genisti yayvande boile yayvan titreshim nechok yakin ye ayrte itmeye itmazde oisa insan kulabuniya pabilir eitimli dinnejye frekansler kachorananda farkle ndana irabiliyor ustilik kulandu ya bildi en
+  DELETE   ...ayarlıdır yani koklea sesi
+      metin  : frekanslarına ayıran canlı piyano klavyesi gibi çalışır gold un zamanında bu klavyenin en ayrıntılı haritası georg von békésy nin ölçümlerinden geliyordu békésy insan kadavralarından aldığı kokleaları mikroskop inceliyor zarın üzerinde ilerleyen dalgayı gözüyle izliyordu gördüğü şey yürüyen dalgaydı ses tabandan girip zar boyunca ilerliyor belli noktada tepe yapıp sönüyordu bu çalışma sonradan de nobel tıp ödülü nü getirecekti ama békésy nin gördüğü tepeler genişti yayvandı böyle yayvan titreşim birbirine çok yakın notayı ayırt etmeye yetmezdi oysa insan kulağı bunu yapabiliyor eğitimli dinleyici frekansları oranında farklı sesi birbirinden ayırabiliyor üstelik kulağın duyabildiği en sessiz
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...duyabildiği en sessiz sesle
+      metin  : acı veren en gürültülü ses arasında milyonlarca
+      duyulan: ajiveran enguru tulu sesarasandamiliyor narja
+  REPLACE  ...ses arasında milyonlarca kat
+      metin  : güç farkı var
+      duyulan: guchfarkavar
+  REPLACE  ...farkı var gold radar
+      metin  : alıcılarıyla çalışmış
+      duyulan: ala jalarila chalushmushbir
+  REPLACE  ...radar alıcılarıyla çalışmış olarak
+      metin  : bu tabloya baktı ve mühendis gibi düşündü sıvı içinde titreşen
+      duyulan: butabloya bakte bey muhandiski bidushundu sivi ichinde titreshan
+  REPLACE  ...sıvı içinde titreşen zar
+      metin  : sürtünme yüzünden enerjisini hızla kaybeder bu kadar
+      duyulan: surtun mei yuzundan enarjisi nihuzla kaibedar buka dar
+  REPLACE  ...kaybeder bu kadar keskin
+      metin  : ayarı yalnızca pasif sistemle elde edemezsiniz yerlerde sürtünmeyi telafi eden titreşime enerji pompalayan şey olmalı
+      duyulan: ayaar yalnuz japasif sistemne ilde edemesiniz yurlerda surtun mei itelafiedan titreshima enarjipom palayan shei olmalu
+  REPLACE  ...pompalayan şey olmalı gold
+      metin  : bu fikri meslektaşı r j pumphrey ile birlikte yayımladı önerisi kulağın içinde geri besleme mekanizması bulunduğuydu tıpkı
+      duyulan: bufikri meslekta ashe ar jay pamfri el birlekte ya yimlade lunarisi kulan ichinde giribes leme mechanisma sibulundu yudu tupka
+  REPLACE  ...mekanizması bulunduğuydu tıpkı eski
+      metin  : radyo alıcılarında sinyali güçlendirmek için kullanılan devreler gibi ve bu fikirden
+      duyulan: radiolojelaran da sinya liguchlan dermekichen kulan alan devrelargibe vy bufikir den
+  REPLACE  ...ve bu fikirden cesur
+      metin  : öngörü çıkardı eğer
+      duyulan: birangiruchakarde ear
+  REPLACE  ...öngörü çıkardı eğer kulak
+      metin  : gerçekten amplifikatörse
+      duyulan: garchak den amplificaturse
+  REPLACE  ...kulak gerçekten amplifikatörse her
+      metin  : amplifikatör gibi bazen kontrolden çıkabilirdi
+      duyulan: amplificaturgibe bazan kontrol den cikabilerde
+  REPLACE  ...bazen kontrolden çıkabilirdi mikrofonu
+      metin  : hoparlöer fazla yaklaştırdığınızda duyduğunuz o tiz uğultu gibi
+      duyulan: hopar luer fazlajak lashtarden uzdaduidunu zotizul tugibe
+  REPLACE  ...tiz uğultu gibi kulak
+      metin  : da kendi kendine ses üretmeye başlayabilirdi
+      duyulan: ta kendikendi ne sesuret mei basleebilerde
+  REPLACE  ...üretmeye başlayabilirdi yani kulak
+      metin  : en azından bazen konuşuyor olmalıydı
+      duyulan: enazundan bazan konushu arolmalide
+  REPLACE  ...olmalıydı gold bu sesi
+      metin  : yakalamaya çalıştı
+      duyulan: a kalamaya chalishte
+  REPLACE  ...sesi yakalamaya çalıştı ama
+      metin  : ların mikrofonları
+      duyulan: laren mikrofonnaer
+  REPLACE  ...ama ların mikrofonları kulak
+      metin  : kanalının içindeki bu kadar zayıf
+      duyulan: kanalunu nichinde ki bukadar zaif
+  REPLACE  ...bu kadar zayıf sesi
+      metin  : ortam gürültüsünden ayıracak hassasiyete sahip değildi ölçüm başarısız oldu i şitme bilimi camiası
+      duyulan: ortamgirutu sundana irjakhasasye te sahipde ilde ilchim basher sesoldo ishitme bilimijami asada fikresok bakte birianda kadavra koklea suzerinde titizdik layapulmusholchimnaer duriyordu ur birianda ishitme alanana dushardang yalmishbir fizik chenin kanatsas muhandistik sesgize gold sanraki yelarda astrophizye yonalde ve kulak la ilgili dushunjese yelboiunja naredeize hi chanulmade jeriye bakunja bekhezininolchimnaer nde gozdanka chanbirirun tawarda anjeladee koklea lar urudu ve zaranhariketinigier bilmekicin chok yuksek seslarle uyarmaksorundayde golden aridu amplificatur ar varsa tambdabu ikikoshal
+  DELETE   ...şitme bilimi camiası da
+      metin  : fiker soğuk baktı yanda kadavra kokleası üzerinde titizlikle yapılmış ölçümler duruyordu öbür yanda işitme alanına dışarıdan gelmiş fizikçinin kanıtsız mühendislik sezgisi gold sonraki yıllarda astrofiziğe yöneldi ve kulakla ilgili düşüncesi yıl boyunca neredeyze hiç anılmadı geriye bakınca békésy nin ölçümlerinde gözden kaçan ayrıntı vardı i ncelediği koklealar ölüydü ve zarın hareketini görebilmek için çok yüksek seslerle uyarmak zorundaydı gold un aradığı amplifikatör eğer varsa tam da bu koşulda
+      duyulan: (YOK — atlanmış)
+  ... ve 145 fark daha
+
+metinde olup DUYULMAYAN: 1602 kelime | duyulup metinde OLMAYAN: 1643
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-10-23.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-23.mp3
+
+beklenen 2680 kelime | duyulan 2673 kelime | eşleşme %95.3
+sayı ifadesi: metinde 243, duyulanda 192  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bağırıyorlardı dakika sonra saat
+      metin  : halifax
+      duyulan: de halifaks
+  REPLACE  ...silindi yılının aralık ayında
+      metin  : halifax
+      duyulan: halifaks
+  REPLACE  ...nın doğu kıyısında nova
+      metin  : skoşa
+      duyulan: scotia
+  REPLACE  ...kıyısında nova skoşa yarımadasının
+      metin  : atlantiğe
+      duyulan: atlantiye
+  REPLACE  ...daha küçük kasaba olan
+      metin  : dartmouth
+      duyulan: dartmoot
+  REPLACE  ...arınmış derin koydan içeri
+      metin  : sokulur
+      duyulan: sokunur
+  REPLACE  ...ngilizcedeki adı the narrows
+      metin  : tur
+      duyulan: dur
+  REPLACE  ...the narrows tur yani
+      metin  : dar boğaz
+      duyulan: darboaz
+  INSERT   ...torpillenip batıyordu buna karşı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dardı böylece halifax anda
+      metin  : atlantiğin
+      duyulan: atlantik in
+  REPLACE  ...görmediği kalabalığa alıştı i
+      metin  : skelelerde
+      duyulan: skalelerde
+  REPLACE  ...trenler kanada nın içlerinden
+      metin  : buğday
+      duyulan: buday
+  REPLACE  ...her zaman harfiyen işlemiyordu
+      metin  : halifax
+      duyulan: halifaks
+  REPLACE  ...karşı kıyıda dartmouth tarafında
+      metin  : mi kmaq
+      duyulan: mikmak
+  REPLACE  ...az kişi fark etti
+      metin  : mon blan
+      duyulan: mont blanc
+  REPLACE  ...gemisi de çekmemişti gemi
+      metin  : halifax a
+      duyulan: halif aksa
+  REPLACE  ...ağlar çoktan kapanmıştı kaptan
+      metin  : lö medek
+      duyulan: lomadek
+  REPLACE  ...gemiye alınan yerel kılavuz
+      metin  : francis mackey
+      duyulan: fransız maki
+  REPLACE  ...belçikalı siviller için erzak
+      metin  : yükleyecekti
+      duyulan: yüklüyordu
+  REPLACE  ...için erzak yükleyecekti kaptanı
+      metin  : hokon from
+      duyulan: håkon fröm
+  REPLACE  ...kaptanı hokon from kılavuzu
+      metin  : halifaxlı
+      duyulan: halifakslı
+  INSERT   ...serin deniz sakindi saat
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...dartmouth kıyısına yakın gitmek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...çıkan norveç gemisinin ize
+      metin  : halifax
+      duyulan: halifaks
+  REPLACE  ...yükünün farkında olan kılavuz
+      metin  : mackey
+      duyulan: mekkey
+  REPLACE  ...karşıdan gelen amerikan yük
+      metin  : gemisiyle
+      duyulan: gemisi ile
+  REPLACE  ...bu hikayedeki römorkörümüz arkasında
+      metin  : mavnayla
+      duyulan: mavna ile
+  REPLACE  ...fransız gemisinin köprüsünde kılavuz
+      metin  : mackey
+      duyulan: mekkey
+  REPLACE  ...dönük gelen gemiyi gördüğünde
+      metin  : düdüğe
+      duyulan: düdüye
+  REPLACE  ...kapanıyordu mackey ile kaptan
+      metin  : lö medek
+      duyulan: lomadek
+  REPLACE  ...saat civarında norveç gemisinin
+      metin  : pruvası
+      duyulan: provası
+  REPLACE  ...söndürülemezdi ve geminin ne
+      metin  : yattığı
+      duyulan: yaptığı
+  REPLACE  ...erişilmesi güç köşesindeydi kaptan
+      metin  : lö medek
+      duyulan: le medec
+  REPLACE  ...gösteriydi gemi varillerin içindeki
+      metin  : benzolün
+      duyulan: benzolun
+  REPLACE  ...havaya fırlıyordu uzaktan bakana
+      metin  : havai
+      duyulan: havay
+  REPLACE  ...norveç gemisinin yolunu kesen
+      metin  : römorkör
+      duyulan: remorkeur
+  REPLACE  ...coleman adım sonra durdu
+      metin  : saint
+      duyulan: st
+  REPLACE  ...durduruldu ya da yavaşlatıldı
+      metin  : saint
+      duyulan: st
+  REPLACE  ...coleman masasından kalkmadı arkadaşı
+      metin  : lovett de
+      duyulan: lovette
+  INSERT   ...geçmişti takvim aralık saat
+      metin  : (yok)
+      duyulan: u
+  ... ve 37 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 91
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: tarih-2026-10-23.duyulan.txt

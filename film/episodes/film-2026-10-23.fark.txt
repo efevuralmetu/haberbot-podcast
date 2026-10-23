@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-23.mp3
+
+beklenen 2321 kelime | duyulan 2321 kelime | eşleşme %92.2
+sayı ifadesi: metinde 239, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...fransızlar kaçak mülteciler ne
+      metin  : idüğü
+      duyulan: idiği
+  REPLACE  ...burnett in yazı ortağı
+      metin  : joan alison
+      duyulan: john allison
+  REPLACE  ...gelir dir mekan fransız
+      metin  : fas ındaki kazablanka
+      duyulan: faasındaki casablanca
+  REPLACE  ...avrupa dan kaçanlar burada
+      metin  : lizbon
+      duyulan: lisbon
+  INSERT   ...masasına düşer tarih aralık
+      metin  : (yok)
+      duyulan: dir
+  REPLACE  ...girmiştir stüdyonun hikaye okuyucusu
+      metin  : irene lee metni
+      duyulan: i reneli metin i
+  INSERT   ...tam olarak şimdidir ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...film büyük ilgi görmüştür
+      metin  : egzotik
+      duyulan: eksotik
+  REPLACE  ...duruyordur yeni film artık
+      metin  : kazablanka
+      duyulan: casablanca
+  REPLACE  ...başrollerinde ronald reagan ve
+      metin  : ann
+      duyulan: anne
+  REPLACE  ...bu yana bu bülten
+      metin  : kazablanka
+      duyulan: casablanca
+  REPLACE  ...bu tür duyurular yapıyordu
+      metin  : wallis
+      duyulan: wallace
+  REPLACE  ...olmamıştır kadın başrol için
+      metin  : wallis
+      duyulan: wallace
+  REPLACE  ...bergman yapımcı david o
+      metin  : selznick le
+      duyulan: oysa seznikle
+  REPLACE  ...peşinde olduğu direniş lideri
+      metin  : viktor
+      duyulan: victor
+  REPLACE  ...lazlo yu avusturyalı paul
+      metin  : henreid
+      duyulan: henraid
+  REPLACE  ...dönen fransız polis şefi
+      metin  : lui reno
+      duyulan: louis rena
+  REPLACE  ...rolü i ngiliz claude
+      metin  : rains
+      duyulan: reims
+  REPLACE  ...yönetmen koltuğuna macar asıllı
+      metin  : maykıl kurtiz
+      duyulan: michael curtiz
+  REPLACE  ...asıllı maykıl kurtiz oturur
+      metin  : kurtiz
+      duyulan: curtiz
+  REPLACE  ...keskin alaycı repliklerde ustadırlar
+      metin  : reno nun
+      duyulan: rena nın
+  REPLACE  ...destek verdiği o günlerde
+      metin  : frenk kapra
+      duyulan: frank capra
+  REPLACE  ...belgesel dizisinde çalışacaklardır yerlerine
+      metin  : hauvırd kok
+      duyulan: howard koch
+  REPLACE  ...yerlerine hauvırd kok gelir
+      metin  : kok
+      duyulan: koch
+  INSERT   ...rick in geçmişini kurar
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...etiyopya ya silah kaçırmış
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sona bağlanmamıştır kamera mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ilerledikçe sayfalar da gelir
+      metin  : kok
+      duyulan: koch
+  REPLACE  ...repliklerini makyaj sandalyesinde ezberler
+      metin  : kurtiz
+      duyulan: kurtis
+  REPLACE  ...ahlak yönetmeliğiyle çalışmaktadır joseph
+      metin  : breen
+      duyulan: brin
+  REPLACE  ...şte yazarları aylarca uğraştıran
+      metin  : düğüm
+      duyulan: düğün
+  REPLACE  ...yalnızca kağıt üzerinde değildir
+      metin  : kazablanka
+      duyulan: casablanca
+  INSERT   ...adı geçen oyuncudan yalnızca
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...bogart sam i oynayan
+      metin  : dooley
+      duyulan: dolly
+  REPLACE  ...kalpli nazi binbaşısı strasser
+      metin  : i
+      duyulan: ı
+  REPLACE  ...strasser i oynayan konrad
+      metin  : fayt
+      duyulan: feith
+  REPLACE  ...birlikte ülkeyi terk etmiştir
+      metin  : viyana
+      duyulan: vienna
+  REPLACE  ...etmiştir viyana doğumlu peter
+      metin  : lorer da
+      duyulan: loretta
+  REPLACE  ...eder kafenin fransız krupiyesi
+      metin  : marsel dalyo
+      duyulan: marcel dalio
+  REPLACE  ...in terk ettiği sevgilisi
+      metin  : i von u
+      duyulan: yvonne
+  ... ve 68 fark daha
+
+metinde olup DUYULMAYAN: 121 kelime | duyulup metinde OLMAYAN: 133
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: film-2026-10-23.duyulan.txt

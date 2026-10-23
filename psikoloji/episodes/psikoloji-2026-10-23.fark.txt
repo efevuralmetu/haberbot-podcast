@@ -1,0 +1,103 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-23.mp3
+
+beklenen 1409 kelime | duyulan 1420 kelime | eşleşme %97.3
+sayı ifadesi: metinde 154, duyulanda 125  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...olmayı kabul edenlerin oranı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da bu oran neredeyze
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ülke almanya ile avusturya
+      metin  : binlerin
+      duyulan: kibinlerin
+  INSERT   ...kabul edenlerin oranı yaklaşık
+      metin  : (yok)
+      duyulan: idi
+  INSERT   ...avusturya da bu oran
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...grupta bağışçı olmayı seçenler
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...söylediler bu grupta oran
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...kadar güçlü olduğunu araştırmacılar
+      metin  : mekanizmayla
+      duyulan: kez izmayla
+  INSERT   ...örnek organ bağışı değil
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...brigitte madrian ile dennis
+      metin  : shea
+      duyulan: dil
+  INSERT   ...sonra işe girenlerde oran
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...kendi isteğiyle katılan çalışanların
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...nakledilen organ sayısı bu
+      metin  : rakamın
+      duyulan: konunun
+  INSERT   ...konusunda da hemfikirler galler
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hemfikirler galler i ngilteer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu değişikliklerin etkisi hala
+      metin  : tartışılıyor
+      duyulan: hızlılaşılıyor
+  DELETE   ...akşam eve geldiğinizde kendinizi
+      metin  : genellikle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geçmeniz gerekir madrian ile
+      metin  : shea nın
+      duyulan: shaye nin
+  REPLACE  ...kalabilirsiniz belki ayda küçük
+      metin  : hatırlatma
+      duyulan: hızlatma
+  REPLACE  ...cubur dolabın en üst
+      metin  : rafında
+      duyulan: tarafında
+  DELETE   ...uygulamalarını ana ekrandan kaldırıp
+      metin  : klasörün içine taşımak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bilgilerini silmek bunlardan bazıları
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...zaman bu kadarı otomatik
+      metin  : pilotta
+      duyulan: pilota
+  REPLACE  ...varsayılan görüşmemektir ayın ilk
+      metin  : cumartesisi
+      duyulan: cumartesi
+  REPLACE  ...alışkanlıkları var tartışmada ilk
+      metin  : tepkiniz
+      duyulan: tepkini
+  REPLACE  ...değişir burada adil olmak
+      metin  : gerekiyor
+      duyulan: geliyor
+  REPLACE  ...durumlarda ruh sağlığı uzmanıyla
+      metin  : konuşmak
+      duyulan: değiştirmek
+  REPLACE  ...yaşadığı karardır bu güç
+      metin  : sorumluluk
+      duyulan: bu durumluluk
+  REPLACE  ...kutunun hangi tarafta işaretli
+      metin  : duracağına
+      duyulan: olana
+  REPLACE  ...fazla siz karar verebilirsiniz
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: psikoloji-2026-10-23.duyulan.txt

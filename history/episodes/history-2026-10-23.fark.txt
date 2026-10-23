@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-23.mp3
+
+beklenen 2710 kelime | duyulan 2063 kelime | eşleşme %10.9
+sayı ifadesi: metinde 199, duyulanda 61  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...was packed with nearly
+      metin  : tonnes
+      duyulan: tons
+  REPLACE  ...they had been watching
+      metin  : yılının aralık ayında
+      duyulan: in the meantime the people of
+  REPLACE  ...yılının aralık ayında halifax
+      metin  : haritada küçük ama savaşın gidişatında büyük yer tutan şehirdi kanada nın doğu kıyısında nova scotia yarımadasının atlantiğe bakan kurulmuştu nüfusu civarındaydı limanın karşı kıyısında daha küçük kasaba olan
+      duyulan: crowded at their windows to watch a burning ship in the harbor with no idea that its hold was packed with no idea that its hold was packed with some of the same scenes they had been watching at minutes past the shock wave shattered those windows to watch a burning ship in the harbor with no idea that its hold was packed with no idea that its hold was packed with some of the same scenes they had been watching at minutes past the shock wave shattered those windows to watch a burning ship in the lowndes and thousands of people lost their sight to the same scene they had been watching at minutes past the shock wave shattered those windows to watch routem larda demirjolo atollierinde shekhar rafinerisinde documa fabrikasinde chalishanayilirin asha pevleri yamajasiralanmashti o koller killa siller kuchuk duqyanlar beirde liman boyunja uzanan demirjolo hatte karsha kuyida
+  REPLACE  ...küçük kasaba olan dartmouth
+      metin  : vardı okyanus buzdan arınmış derin koydan içeri sokulur kıyı arasında daralır sonra yeniden açılarak geniş ve korunaklı iç suya varırdı bu iç suyun adı bedford basin dir biz kısaca bedford havzası diyelim havzayı dış limana bağlayan dar geçidin i ngilizcedeki adı the narrows tur yani dar boğaz bu hikayenin neredeyze tamamı bu geçitte yaşandı dünya savaşı nın yılıydı ve atlantik alman denizaltılarının av sahasına dönmüştü i ngilteer ile müttefikleri amerika dan ve kanada dan gelen yiyeceğe yakıta cephaneye ve askeer muhtaçtı tek başına yola çıkan yük gemilerinin bölümü okyanusun ortasında torpillenip batıyordu buna karşı de konvoy sistemi yaygınlaştırıldı ticaret gemileri
+      duyulan: tarafinda mikma kalkanamensoop kuchuk beirdopaluk kuyayakun evelardayasiyordu kuzayyakasinan sakineri penjeer lirindan
+  REPLACE  ...yaygınlaştırıldı ticaret gemileri limanda
+      metin  : toplanıyor savaş gemilerinin refakatinde topluca yola çıkıyordu bedford havzası bu iş için biçilmiş kaftandı onlarca gemiyi aynı anda barındıracak kadar genişti girişi ize kolayca korunacak kadar dardı böylece halifax anda atlantiğin kapısına dönüştü liman barış zamanında görmediği kalabalığa alıştı i skelelerde vinçler gece gündüz çalışıyor trenler kanada nın içlerinden buğday ve kereste taşıyor kışlalar avrupa ya gidecek askerlerle doluyordu dönüş yolunda ize başka yük vardı yaralılar cepheden dönen hastane gemileri de bu limana yanaşıyordu şehir savaşı uzaktan izlemiyordu savaşın lojistiğini bizzat sırtlanıyordu bu yoğunluğun de güvenlik tarafı vardı denizaltıların limana sızmasını önlemek için dış limanın ağzına çelik ağlar gerilmişti ağlar sabah açılıyor akşam karanlık çökünce kapanıyordu gece gelen gemi dışarıda demirleyip sabahı beklemek zorundaydı limana girip çıkan her
+      duyulan: kiherhareketigurabiliordu jemezlemek burdekichurjukleran gundelik aylanjesidhe fef aralikwinokuzuz onyideakshama dushlimanan anazandabir
+  REPLACE  ...girip çıkan her geminin
+      metin  : denetimi askeri kontrol subayının dümen başındaki rehberlik ize yerel kılavuz kaptanların işiydi kurallar kağıt üzerinde açıktı ama kalabalık limanda savaşın aceleciliği içinde kurallar her zaman harfiyen işlemiyordu halifax ın kuzeyinde dar boğaz ın hemen kıyısında richmond adlı mahalle vardı biz kuzey yakası diyelim burası şehrin işçi yakasıydı rıhtımlarda demiryolu atölyelerinde şeker rafinerisinde dokuma fabrikasında çalışan ailelerin ahşap evleri yamaca sıralanmıştı okullar kiliseler küçük dükkanlar de liman boyunca uzanan demiryolu hattı karşı kıyıda dartmouth tarafında mi kmaq halkına mensup küçük topluluk kıyıya yakın evlerde yaşıyordu kuzey yakası nın sakinleri pencerelerinden limandaki her hareketi görebiliyordu gemi izlemek buradaki çocukların gündelik eğlencesiydi aralık akşamı dış limanın ağzında geminin demirlediğini pek az kişi fark etti
+      duyulan: demirledini pekazkyshefarkete
+  REPLACE  ...fark etti mont blanc
+      metin  : adlı fransız yük gemisiydi bu biz
+      duyulan: adlibir francis uke gemisidabu bizona
+  REPLACE  ...bu biz bundan sonra
+      metin  : kısaca fransız gemisi diyeceğiz kaptanı aimé le médec ti gemi
+      duyulan: kusaja francis gemisidijes kaptani aime lamedekti jemee
+  REPLACE  ...ti gemi new york
+      metin  : ta yüklenmişti
+      duyulan: da uke lanmishte
+  REPLACE  ...york ta yüklenmişti ve
+      metin  : ambarlarında fransa daki cephe için yaklaşık ton patlayıcı taşıyordu
+      duyulan: ambarleran da france dake jepeyichin yaklashik ikibindokuzuston patlaijutashyordu
+  REPLACE  ...ton patlayıcı taşıyordu bunun
+      metin  : büyük kısmı
+      duyulan: buyuk kisma
+  REPLACE  ...bunun büyük kısmı top
+      metin  : mermilerinde kullanılan kuru halde son derece hassas
+      duyulan: marmilerinde kullanalan kurohal desondeer jehassasbir
+  REPLACE  ...son derece hassas madde
+      metin  : olan pikrik asitti yanında tnt ve nitroselüloz vardı güvertede ize varil varil
+      duyulan: olam pikrikasite jananda t t venitrocellulozuarda gueverta isay veral veral
+  REPLACE  ...ize varil varil benzol
+      metin  : istiflenmişti yani kolayca tutuşan motor yakıtı barış zamanında böyle yük taşıyan gemi
+      duyulan: esteflanmishte janikolaija tutushanbir motoryakete barishzamananda boilebir yuptashiangemi
+  REPLACE  ...yük taşıyan gemi limana
+      metin  : girerken direğine kırmızı bayrak çekmek zorundaydı savaş koşullarında ize gemiler denizaltıların dikkatini çekmemek için bu işareti çoğu zaman çekmiyordu fransız gemisi de çekmemişti gemi halifax a
+      duyulan: girarkeandireinakur muzibir bairakchekmekzorundayde savashkoshuluranda isay gemilardenizaltilurundi katini chekmemekichin buyisharetichozaman chekmeordu francis ghemiside chekmemichte jemmy halifaxa
+  REPLACE  ...gemi halifax a bordeaux
+      metin  : ya gidecek konvoya katılmak için gelmişti yavaştı yükü ağırdı kendi başına okyanusu geçmesi düşünülemezdi ne var ki o akşam
+      duyulan: gidejekbir convoye katilmakichin galmichte yavashte yuki arde kendibashina okyanosugech mesedushunulamezde nevarkeo aksham
+  REPLACE  ...ki o akşam limana
+      metin  : vardığında ağlar çoktan kapanmıştı kaptan le médec ve gemiye alınan yerel kılavuz
+      duyulan: vardun da alar choktan kapanmichte captain lemedekwe ghemi alunan yerelkalavuz
+  REPLACE  ...yerel kılavuz francis mackey
+      metin  : geceyi dışarıda geçirip
+      duyulan: gegeyidushar da gechirip
+  REPLACE  ...geceyi dışarıda geçirip sabah
+      metin  : ilk ışıkla havza ya girmeye karar verdiler aynı gece havza nın içinde başka gemi de sabahı sabırsızlıkla bekliyordu
+      duyulan: ikhushuklahavza yegirmeyakarar vardilar eine gege havzana nychinde vashkabir ghemi da sabahasabursazliklebekli ordu
+  REPLACE  ...sabahı sabırsızlıkla bekliyordu bu
+      metin  : gemi imo ydu
+      duyulan: ghemi imoidu
+  REPLACE  ...gemi imo ydu yani
+      metin  : norveç gemisi norveç bayrağı taşıyordu ve savaşta tarafsız ülkenin gemisi olarak işgal altındaki belçika ya yardım götüren uluslararası komisyonun hizmetindeydi bordasına iri harflerle belçika yardımı anlamına gelen yazı boyanmıştı ki denizaltılar savaş gemisiyle karıştırmasın boş olarak
+      duyulan: norvech ghemisi norvech baira tashyordu vesavashta tarafsas birelkhenen ghemi solarak iskal altandaki balchekaya yardem gyatranuluslararasibir commisionan hizmetindayde borde sana irihar flairle balchekaya yardem annamuna galan biryazuboyan muztiki denizaltiluronu savashkemisi le karishtirmasan bosholarak
+  REPLACE  ...karıştırmasın boş olarak new
+      metin  : york a gidecek orada belçikalı siviller için erzak yükleyecekti kaptanı
+      duyulan: yorkagidajek orda balchikalasivilerichin arzakhuklijekte captain
+  REPLACE  ...yükleyecekti kaptanı haakon from
+      metin  : kılavuzu halifaxlı
+      duyulan: kalavuzu halafakslu
+  REPLACE  ...from kılavuzu halifaxlı william
+      metin  : hayes ti norveç gemisinin aralık ta yola çıkması gerekiyordu ancak yakıt olarak alacağı kömür geç teslim edilmiş yükleme bittiğinde ağlar kapanmıştı
+      duyulan: haysday norvech jamisonen bose araluktayola chikmasageri kjordu ankak yekatolarak alajaya kymurgechte slime dilmish yukleme bithinde alar kapanmishte
+  REPLACE  ...bittiğinde ağlar kapanmıştı gemi
+      metin  : gün gecikmişti aralık sabahı hava açık ve
+      duyulan: biergun gajikmishte araluk sabahe havaacikwe
+  REPLACE  ...açık ve serin deniz
+      metin  : sakindi
+      duyulan: sakinde
+  REPLACE  ...serin deniz sakindi saat
+      metin  : e doğru norveç
+      duyulan: eite doru norvech
+  REPLACE  ...e doğru norveç gemisi
+      metin  : demir aldı ve havza dan çıkıp dar boğaz a yöneldi kayıp zamanı
+      duyulan: demiraldewe havzadan chikupdar boazayonalde kajip zamanu
+  REPLACE  ...yöneldi kayıp zamanı telafi
+      metin  : etmek ister gibi
+      duyulan: eitmekistargibi limanichin olan sa ilandan hizlegi diordu nerdaiz ainasat lairde francis gemisi dedish limandan echirigirme abashtamishte
+  REPLACE  ...etmek ister gibi liman
+      metin  : için olağan sayılandan hızlı gidiyordu neredeyze aynı saatlerde fransız
+      duyulan: kuralu basitte hargimikendi sanjak tarafunda yani saat tarafunda kalujakte echirigiran francis
+  REPLACE  ...aynı saatlerde fransız gemisi
+      metin  : de dış limandan içeri girmeye başlamıştı liman kuralı basitti her
+      duyulan: echinbu dartmouth kiyosanayakan gitmektemekte dusarichikan norvech gemisi niniseh halifax kiyosanayakan seiret mesigirek yordu francis gemisi doru sheredin deite ar yukununfarkanda olan kalavuzmeky
+  INSERT   ...kuralı basitti her gemi
+      metin  : (yok)
+      duyulan: ar ar yurut yordu norvech gemisi yize yanlesh sheredit teboldukandine darboaz agirairkan eunja karshadangelan american yuk gemisi lekarshalashte kuralun tersine iskeledil sanjak taraflurandan birnegechte buman everan norvech gemisi nikanalan dartmouth tarafunaite ardundan stela marisadlibir romorkar yani buhi kyaideki romorkarumuz arkasinda ikimavnayla yolunukesti norvech gemisi romorkarude sakanmakichin dartmouth kiyosanada hadayaklashte ar teck echirigirmekto olan francis gemisi nin tam karshasana sheridine girmishte francis gemisi nin kuprisunde kullavuz meki birnukandisinadonuk gelangemiyi yorduinde dudu yasilde teckwe kusa duduk chalde denesilik dilindebu rotomusan jaache viryorum demekte bashkabir deyshle van
+  REPLACE  ...basitti her gemi kendi
+      metin  : sancak tarafında yani sağ tarafında kalacaktı i çeri giren fransız
+      duyulan: sheridim deim sande kendi sheridinegech norvech
+  REPLACE  ...çeri giren fransız gemisi
+      metin  : için bu
+      duyulan: nin duduklejawap gelde bunun anlamashudu benisklejedunurum jani norvech gemisi sheridinadonmijek
+  REPLACE  ...gemisi için bu dartmouth
+      metin  : kıyısına yakın gitmek demekti dışarı çıkan norveç gemisinin ize halifax kıyısına yakın seyretmesi gerekiyordu fransız
+      duyulan: tarafundakalmaktadirenejekte francis
+  REPLACE  ...seyretmesi gerekiyordu fransız gemisi
+      metin  : doğru şeridindeydi ağır yükünün farkında olan kılavuz mackey gemiyi ağır ağır yürütüyordu norveç gemisi ize yanlış şeritte buldu kendini dar boğaz a girerken önce karşıdan gelen amerikan yük gemisiyle karşılaştı i ki gemi kuralın tersine iskele değil sancak taraflarından birbirini geçti bu manevra norveç gemisini kanalın
+      duyulan: ustrarla birkhesdahatek duduk chalde jaineikki duduk chevabu gelde bududuk duyelosu limanda bashkagemilardande duyuldu vesonrai apoljak sorysturmanan enchoktartushlan konusolujakte herikki kuprudade insanlar karsutarafun jolvier jainewarsa yordu mesafis lakhapani yordu maki al kaptan lamedek karar vermeksurundejde salaranda
+  REPLACE  ...norveç gemisini kanalın dartmouth
+      metin  : tarafına itti ardından stella maris adlı römorkör yani bu hikayedeki römorkörümüz arkasında mavnayla yolunu kesti norveç gemisi römorkörü de sakınmak için dartmouth kıyısına daha da yaklaştı artık içeri girmekte olan fransız gemisinin tam karşısına şeridine girmişti fransız gemisinin köprüsünde kılavuz mackey burnu kendisine dönük gelen gemiyi gördüğünde düdüğe asıldı tek ve kısa düdük çaldı denizcilik dilinde bu rotamı sancağa çeviriyorum demekti başka deyişle ben kendi şeridimdeyim sen de kendi şeridine geç norveç gemisinden kısa düdükle cevap geldi bunun anlamı şuydu ben iskeleye dönüyorum yani norveç gemisi şeridine dönmeyecek dartmouth tarafında kalmakta direnecekti fransız gemisi ısrarla kez daha tek düdük çaldı yine düdük cevabı geldi bu düdük düellosu limanda başka gemilerden de duyuldu ve sonra yapılacak soruşturmanın en çok tartışılan konusu olacaktı her köprüde de insanlar karşı tarafın yol vereceğini varsayıyordu mesafe hızla kapanıyordu mackey ile kaptan le médec karar vermek zorundaydı sağlarında dartmouth kıyısı vardı daha fazla sağa kaçacak yer kalmamıştı son anda dümeni sola kırdılar
+      duyulan: krisawarde dahafazla saakachajak yarkalmamishte sun anadimeni solakardelar
+  REPLACE  ...dümeni sola kırdılar fikir
+      metin  : geminin sancak taraflarından birbirine paralel biçimde kıl payı geçmesiydi
+      duyulan: ikigeminin sanjak taraflerandan birbirne paralalbichimde kulpayi gech meside
+  REPLACE  ...geçmesiydi tam o anda
+      metin  : norveç gemisi de makinelerini
+      duyulan: norvech gemiside makinelereni
+  REPLACE  ...gemisi de makinelerini tam
+      metin  : yol geriye aldı
+      duyulan: jolge realda
+  ... ve 118 fark daha
+
+metinde olup DUYULMAYAN: 2447 kelime | duyulup metinde OLMAYAN: 1801
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-23.duyulan.txt

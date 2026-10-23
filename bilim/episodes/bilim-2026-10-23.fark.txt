@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-23.mp3
+
+beklenen 1845 kelime | duyulan 1848 kelime | eşleşme %96.7
+sayı ifadesi: metinde 179, duyulanda 139  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...sürekli şarkı söylüyor yılında
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sıvıyla dolu yapı vardır
+      metin  : koklea koklea
+      duyulan: koklaya koklaya
+  REPLACE  ...tabana yakın kısım tiz
+      metin  : sesleer
+      duyulan: sesleri
+  REPLACE  ...tepeye yakın kısım pes
+      metin  : sesleer
+      duyulan: sesleri
+  REPLACE  ...pes sesleer ayarlıdır yani
+      metin  : koklea
+      duyulan: koklaya
+  REPLACE  ...klavyenin en ayrıntılı haritası
+      metin  : georg fon bekeşi
+      duyulan: george von bekeche
+  REPLACE  ...bekeşi nin ölçümlerinden geliyordu
+      metin  : bekeşi
+      duyulan: bekeche
+  REPLACE  ...bekeşi insan kadavralarından aldığı
+      metin  : kokleaları
+      duyulan: koklayaları
+  INSERT   ...sönüyordu bu çalışma sonradan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ödülü nü getirecekti ama
+      metin  : bekeşi
+      duyulan: bekeche
+  REPLACE  ...gold bu fikri meslektaşı
+      metin  : r j
+      duyulan: raer joe
+  REPLACE  ...içinde geri besleme mekanizması
+      metin  : bulunduğuydu
+      duyulan: bulunduydu
+  REPLACE  ...sesi yakalamaya çalıştı ama
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...soğuk baktı yanda kadavra
+      metin  : kokleası
+      duyulan: koklyası
+  REPLACE  ...sezgisi gold sonraki yıllarda
+      metin  : astrofiziğe
+      duyulan: astrofiziye
+  REPLACE  ...ayrıntı vardı i ncelediği
+      metin  : koklealar ölüydü
+      duyulan: koklyalar ölüyordu
+  REPLACE  ...seslerle dinleyebilen çıkınca gelecekti
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...ilk çatlaklar belirmeye başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çatlaklar belirmeye başladı william
+      metin  : rhode
+      duyulan: road
+  REPLACE  ...rhode canlı sincap maymunlarının
+      metin  : kokleasında
+      duyulan: koklyasında
+  REPLACE  ...ngiliz bilim insanı david
+      metin  : kemp
+      duyulan: camp de
+  REPLACE  ...geçip orta kulağı aşması
+      metin  : kokleaya
+      duyulan: koklayaya
+  REPLACE  ...daha geç dönüyordu tıpkı
+      metin  : kokleanın
+      duyulan: koklayanın
+  REPLACE  ...ve saf ton yayıyordu
+      metin  : gold un
+      duyulan: golden
+  REPLACE  ...sesi üreten nedir cevap
+      metin  : kokleanın
+      duyulan: koklayanın
+  REPLACE  ...demetlerinden alırlar her insan
+      metin  : kokleasında
+      duyulan: kokliasında
+  INSERT   ...liflerinin büyük çoğunluğu yaklaşık
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...sayıları fazla katkıları azdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...beyne iletir i şitme
+      metin  : fizyoloğu
+      duyulan: fizyoluğu
+  REPLACE  ...hallowel davis bu sisteme
+      metin  : koklear
+      duyulan: koklayar
+  REPLACE  ...koklear amplifikatör adını verdi
+      metin  : kemp
+      duyulan: camp
+  REPLACE  ...amplifikatör mükemmel düzende çalışmaz
+      metin  : kokleadaki
+      duyulan: koklayadaki
+  REPLACE  ...ortaya çıkıyor gibi görünüyor
+      metin  : gold un
+      duyulan: golden
+  REPLACE  ...northwestern üniversitesi nde peter
+      metin  : dallos
+      duyulan: dalos
+  INSERT   ...kanıt yıl sonra geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl sonra geldi charles
+      metin  : liberman
+      duyulan: lieberman
+  REPLACE  ...liberman jing zheng peter
+      metin  : dallos
+      duyulan: dullos
+  REPLACE  ...dallos ve meslektaşları prestin
+      metin  : geni
+      duyulan: yeni
+  REPLACE  ...frekans ayrımları bulanıklaşmıştı başka
+      metin  : deyişle prestini
+      duyulan: değişle prestin i
+  REPLACE  ...prestini ortadan kaldırdığınızda kulak
+      metin  : bekeşi
+      duyulan: bekesi
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: bilim-2026-10-23.duyulan.txt

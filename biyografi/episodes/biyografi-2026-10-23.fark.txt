@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-23.mp3
+
+beklenen 2638 kelime | duyulan 2673 kelime | eşleşme %92.3
+sayı ifadesi: metinde 333, duyulanda 228  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...takıldı ve kalıcı oldu
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...yer değiştiren şehir gibiydi
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...un baş hatunu saray
+      metin  : mülk hatun
+      duyulan: mülkatun
+  REPLACE  ...timur un seferleri sırasında
+      metin  : uluğ
+      duyulan: ulu
+  DELETE   ...bey in yolu yaklaşık
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kalıntılarına düşmüş moğol hükümdarı
+      metin  : hülagü nün kurdurduğu
+      duyulan: hülagün ün kurduğu
+  REPLACE  ...kesin olarak bilemeyiz ama
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...de akıyordu sonbaharında timur
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...bazıları evlendirildi daha yaşındaki
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...günlerde kastilya kralının elçisi
+      metin  : klaviho
+      duyulan: claviho
+  REPLACE  ...kralının elçisi klaviho da
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...çadırları sofraları hayranlıkla anlattı
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...otrar a ulaştı ve
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...torunları hemen birbirine düştü
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...sultan ın eline geçti
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...sonunda şahruh imparatorluğun asıl
+      metin  : hakimi
+      duyulan: hakim
+  REPLACE  ...hakimi oldu ama başkenti
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...taşımadı herat ta kaldı
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...kaldı semerkant a ve
+      metin  : maveraünnehir e
+      duyulan: maveraun nehier
+  INSERT   ...bakacaktı şahruh bu görevi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...herat ta imparatorluğu yönetirken
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...ama bu genç vali
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...aklında başka fetih vardı
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...vardı uluğ bey in
+      metin  : semerkant
+      duyulan: semerkand
+  INSERT   ...da kale değil okuldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kadına farzdır hemen ardından
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...en tanınmış meydanlarından olan
+      metin  : registan
+      duyulan: recistan
+  REPLACE  ...ve astronomi de okutulacaktı
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...yola çıkmış ve sonunda
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...sonunda semerkant a ulaşmıştı
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...ile ilgili anlatılan hikaye
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...gün kadızade derse gelmemiş
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...de bittiğini düşündüğünü söylemiş
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...yüzyıllar sonra bile anlatılması
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...gelen gıyaseddin cemşid el
+      metin  : kaşi ydi kaşi
+      duyulan: kaşı idi kaşı
+  REPLACE  ...belki de en güçlü
+      metin  : hesapçısıydı semerkant
+      duyulan: hesapçısı idi semerkand
+  REPLACE  ...asır sonra aşılabilecek sonuçtu
+      metin  : kaşi nin
+      duyulan: kaşı nın
+  REPLACE  ...mektup bugüne ulaştı mektupta
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...ve hükümdarın kendisini anlatır
+      metin  : kaşi ye
+      duyulan: kaşı ya
+  REPLACE  ...anlatır kaşi ye göer
+      metin  : uluğ
+      duyulan: ulu
+  ... ve 98 fark daha
+
+metinde olup DUYULMAYAN: 139 kelime | duyulup metinde OLMAYAN: 169
+bölme/birleşme farkı (hata değil, elendi): 33
+
+duyulan metin: biyografi-2026-10-23.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-22.mp3
+
+beklenen 1461 kelime | duyulan 1474 kelime | eşleşme %93.4
+sayı ifadesi: metinde 277, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ize gözler bugün saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...insansız hava aracı havada
+      metin  : düşürüldü
+      duyulan: düşürdü
+  REPLACE  ...ölümüne yol açtı suudi
+      metin  : yetkililer
+      duyulan: etkililer
+  REPLACE  ...içinde de çatışmalar sürüyor
+      metin  : husilerin şebve
+      duyulan: husiler in şevve
+  INSERT   ...füze saldırısında ölü sayısı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yeniden hareketlendi devlet başkanı
+      metin  : zelenskiy
+      duyulan: zelenskiyi
+  REPLACE  ...putin çin başbakanı li
+      metin  : çiang
+      duyulan: chang
+  REPLACE  ...zirvesinde putin trump ve
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...düzey yöneticilerinden kim yo
+      metin  : cong
+      duyulan: kong
+  REPLACE  ...süreceğini açıkladı kim yo
+      metin  : cong
+      duyulan: kong
+  REPLACE  ...da ize fransa cumhurbaşkanı
+      metin  : makron
+      duyulan: macron
+  REPLACE  ...açığı bulut güvenliği şirketi
+      metin  : wiz
+      duyulan: viz
+  DELETE   ...çalıştırmaya imkan tanıyor ve
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ülke sayısı eylül deki
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...bulunduğu çinli şirketi yaptırım
+      metin  : listesine
+      duyulan: listesini
+  REPLACE  ...şirketi yaptırım listesine aldı
+      metin  : bilanço
+      duyulan: blancho
+  REPLACE  ...ve tesla dün akşam
+      metin  : çeyrek
+      duyulan: e
+  INSERT   ...hisseler işlem sonrası seansta
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...hisse sınıfı oluşturacağını duyurdu
+      metin  : öte yandan
+      duyulan: netoedan dan
+  REPLACE  ...tesla ize hisse başına
+      metin  : sent
+      duyulan: cent
+  REPLACE  ...sent kar açıkladı beklenti
+      metin  : sentti
+      duyulan: centti
+  REPLACE  ...jones endeksi artışla puana
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...işlemlerde satış baskısı var
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...in iş gücünün yaklaşık
+      metin  : (yok)
+      duyulan: unu
+  REPLACE  ...fiyatı artışla dolara abd
+      metin  : ham
+      duyulan: han
+  INSERT   ...faiz kararını bugün saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...toplantısında faiz sabit tutulmuştu
+      metin  : aa
+      duyulan: ai
+  REPLACE  ...finans ın anketine katılan
+      metin  : ekonomistten baz
+      duyulan: ekonomisten u bas
+  INSERT   ...baz puanlık indirimle faizin
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...ayı tüketici güven endeksini
+      metin  : bddk
+      duyulan: bdtk
+  REPLACE  ...alıcı buldu bu sabah
+      metin  : onstaki
+      duyulan: taki
+  REPLACE  ...davasında savcı esas hakkındaki
+      metin  : mütalaasını
+      duyulan: mütalasını
+  REPLACE  ...esas hakkındaki mütalaasını açıkladı
+      metin  : mütalaada
+      duyulan: mütalada
+  REPLACE  ...için ceza talep edildi
+      metin  : ak parti ye
+      duyulan: nika partiye
+  REPLACE  ...aynı kurultaya ilişkin mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...yargıtay hukuk dairesi ndeki
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...bu süreçte özgür özel
+      metin  : chp
+      duyulan: ççp
+  REPLACE  ...ile belediye meclis üyesi
+      metin  : chp den
+      duyulan: siyahı pd ni
+  REPLACE  ...da gündem yoğun yönetimine
+      metin  : kayyım
+      duyulan: kayyum
+  REPLACE  ...yönetimine kayyım atanan halk
+      metin  : tv nin
+      duyulan: televizyon un
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 70
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: gundem-2026-10-22.duyulan.txt

@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-23.mp3
+
+beklenen 1873 kelime | duyulan 1877 kelime | eşleşme %97.2
+sayı ifadesi: metinde 252, duyulanda 188  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bilemedi ve herkes kayboldu
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...adında küçük kasaba var
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...var ellilerin sonunda ve
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...vardı bu çocuğun adı
+      metin  : şigeru
+      duyulan: shigeru
+  INSERT   ...adı şigeru miyamoto ydu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ne olduğunu merak etmek
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...endüstriyel tasarım okudu ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve nintendo ya girdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kong ile adını duyurdu
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...super mario bros yani
+      metin  : süper
+      duyulan: super
+  REPLACE  ...en önemli tasarımcılarından olacak
+      metin  : takaşi
+      duyulan: takashi
+  REPLACE  ...için kayıt şarttı miyamoto
+      metin  : ile
+      duyulan: yla
+  INSERT   ...sistemle aynı gün şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hikayesi ize kasıtlı olarak
+      metin  : sade
+      duyulan: saade
+  REPLACE  ...tutulmuştu kötü güçlerin efendisi
+      metin  : ganon
+      duyulan: gonon
+  REPLACE  ...parçaları toplayacak sonra da
+      metin  : ganon
+      duyulan: gonon
+  INSERT   ...nintendo nun besteci kadrosunda
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...katılmış genç müzisyen vardı
+      metin  : koci
+      duyulan: koji
+  REPLACE  ...seçim yapmıştı fransız besteci
+      metin  : moris
+      duyulan: maurice
+  INSERT   ...üzereyken ortaya çıktı ravel
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ilk oyunlardan olarak ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ezbeer bilen danışmanlar oturuyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...okul bahçesindeki o kulaktan
+      metin  : kulağa
+      duyulan: kulağı
+  DELETE   ...zelda efsanesi dünya genelinde
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ulaştı ve nintendo nun
+      metin  : seksenlerdeki
+      duyulan: lerdeki
+  INSERT   ...de kendi içinde büyüdü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...of time yani zamanın
+      metin  : okarinası hyrule u
+      duyulan: ocarinası hayrulu
+  INSERT   ...de en anlamlı dönüş
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...the wild yani vahşinin
+      metin  : nefesi ile
+      duyulan: nefesiyle
+  INSERT   ...nun ekibi bilinçli olarak
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...satan oyunlarından oldu ve
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...tepenin yamacında gördüğü karanlık
+      metin  : oyuğa
+      duyulan: oyoğa
+  INSERT   ...fener artık oyuncunun elindedir
+      metin  : (yok)
+      duyulan: justly league s
+  REPLACE  ...geçiyor melodinin günde yazılması
+      metin  : koci
+      duyulan: koji
+  DELETE   ...her geçtiği yerde aynı
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adlarını özgün halleriyle bıraktım
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-10-23.duyulan.txt

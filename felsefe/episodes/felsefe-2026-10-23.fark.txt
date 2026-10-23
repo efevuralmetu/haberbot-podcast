@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-23.mp3
+
+beklenen 2368 kelime | duyulan 2367 kelime | eşleşme %96.3
+sayı ifadesi: metinde 249, duyulanda 226  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  DELETE   ...ya da uyku gibi
+      metin  : içeriden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...söyleyerek başlar bütün insanlar
+      metin  : doğaları
+      duyulan: duaları
+  REPLACE  ...sorusuna yunan felsefesi tek
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...kelimeyle cevap verdi hayret
+      metin  : platon un teaytetos
+      duyulan: plato nun theaitetos
+  REPLACE  ...un teaytetos diyaloğunda genç
+      metin  : teaytetos
+      duyulan: theaitetos
+  REPLACE  ...daha büyük olanlara geçtiler
+      metin  : ayın
+      duyulan: i lgin
+  REPLACE  ...başlar kuzey afrika nın
+      metin  : hippo kentinde piskopos
+      duyulan: hippokentinde psikopoz
+  REPLACE  ...augustinus yüzyılın son yıllarında
+      metin  : konfesyones
+      duyulan: confessiones
+  REPLACE  ...incelikli tuzağa gelir adını
+      metin  : kitab ı mukaddes
+      duyulan: kitabı mukaddesten
+  REPLACE  ...kokuyor bak ne kadar
+      metin  : sert de
+      duyulan: sertle
+  REPLACE  ...sistemli hale getirdi örneğin
+      metin  : tomas akvinas
+      duyulan: thomas aquinas
+  REPLACE  ...dille alman filozof martin
+      metin  : haydeger
+      duyulan: heidegger
+  INSERT   ...martin haydeger yeniden sordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...haydeger yeniden sordu yayımlanan
+      metin  : zayn unt tsayt
+      duyulan: sein und seid
+  REPLACE  ...konuşma belirsizlik ve merak
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...insanın varoluş biçimine taşır
+      metin  : haydeger e
+      duyulan: heidegeer
+  REPLACE  ...önünde durdurur bilmezliğiyle yüzleştirirdi
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...besleyici değildir augustinus ve
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...asır sonra horasan ın
+      metin  : tus
+      duyulan: tuz
+  REPLACE  ...geldi ebu hamid el
+      metin  : gazzali
+      duyulan: ghazali de
+  INSERT   ...el gazzali dünyaya geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gazzali dünyaya geldi yine
+      metin  : tus
+      duyulan: tuz
+  REPLACE  ...bizzat yaşamış insanın hayatıdır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...sonlarına doğru yazdığı el
+      metin  : munkız mine d
+      duyulan: munkiz mined
+  REPLACE  ...aristoteles in bütün insanlar
+      metin  : doğaları
+      duyulan: duaları
+  REPLACE  ...kalemindeki yankısı gibidir bu
+      metin  : gazzali
+      duyulan: ghazali
+  INSERT   ...susuzluk çok yükseğe taşıdı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çok yükseğe taşıdı henüz
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...kadar konuşuluyordu kelamı felsefeyi
+      metin  : fıkhı
+      duyulan: fıkkı
+  REPLACE  ...sahip olduğunu düşünürdü ama
+      metin  : gazzali
+      duyulan: ghazali
+  INSERT   ...o kadar büyüdü ki
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...suçlanan merakın ölçüsünü kaybetmesi
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...kavram var faydalı ilim
+      metin  : hz peygamber e
+      duyulan: hertz peygambeer
+  REPLACE  ...a faydasız ilimden sığınır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...öğrencisine mektup olarak yazdığı
+      metin  : eyyühe l
+      duyulan: ey yuhel
+  REPLACE  ...söyler ey oğul da
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...hesap tamamlanan çevrimiçi kurs
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...öğrenmiş sayılmazsın bilgi seni
+      metin  : değiştirdiyze
+      duyulan: değiştirdi ize
+  REPLACE  ...başına ömer bedel olabilir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...verenler burada ilginç olan
+      metin  : gazzali
+      duyulan: gazali
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 71 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: felsefe-2026-10-23.duyulan.txt

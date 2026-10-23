@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-23.mp3
+
+beklenen 2944 kelime | duyulan 2952 kelime | eşleşme %94.5
+sayı ifadesi: metinde 393, duyulanda 333  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...otopsi masasında midesinden çıkan
+      metin  : (yok)
+      duyulan: u
+  INSERT   ...saati saatine anlatmaya başladı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...anlatmaya başladı son aylarında
+      metin  : çangşa nın
+      duyulan: changshan ın
+  REPLACE  ...iniyordu çin in sovyetler
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...kurumun hava saldırısına karşı
+      metin  : yeraltında sığınak açmak
+      duyulan: yer sığına kaçmak
+  REPLACE  ...halkının yüzyıllardır bildiği yuvarlak
+      metin  : tümseğin
+      duyulan: tümseyin
+  REPLACE  ...duruyordu yerliler bu yeer
+      metin  : mavangduey
+      duyulan: mawangdui
+  REPLACE  ...bu yeer mavangduey yani
+      metin  : kral ma tümseği
+      duyulan: kralma tümseyi
+  REPLACE  ...topraklarda hüküm süren ma
+      metin  : yin in
+      duyulan: iyenin
+  REPLACE  ...gelen arkeologlar yeri incelediklerinde
+      metin  : tümseğin
+      duyulan: tümseyin yıl
+  REPLACE  ...yaklaşık yıl yanılıyordu doğudaki
+      metin  : tümseğin
+      duyulan: tümseyin
+  REPLACE  ...sınavdı haber yukarılara başbakan
+      metin  : cou enlay
+      duyulan: ku enle
+  REPLACE  ...her vuruşunu hesaplamış gibiydi
+      metin  : henüz
+      duyulan: i kiniz
+  REPLACE  ...hesaplamış gibiydi henüz kimse
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...duruyordu bunlar arasında telli
+      metin  : zither
+      duyulan: ziter
+  INSERT   ...şeritler üzerine mürekkeple yazılmış
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...nesneye karşılık geldiğini gördü
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...kendisiyle birlikte sağlam çıkmıştı
+      metin  : lake
+      duyulan: leke
+  REPLACE  ...en dıştaki sade siyah
+      metin  : lakeyle
+      duyulan: lekeyle
+  DELETE   ...sade siyah lakeyle kaplıydı
+      metin  : i kincisi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...birbirini kovalayan tuhaf yaratıklarla
+      metin  : bezenmişti
+      duyulan: bezelmişti
+  REPLACE  ...yaratıklarla bezenmişti parlak kırmızı
+      metin  : lakeyle
+      duyulan: lekeyle
+  REPLACE  ...kaplıydı ve üzerinde ejderhalar
+      metin  : geyikler
+      duyulan: yeyikler
+  REPLACE  ...liter civarındaydı bu sıvının
+      metin  : cenazeyle
+      duyulan: cenaze ile
+  REPLACE  ...kadın yılı aşkın süredir
+      metin  : ölüydü
+      duyulan: ölüyordu
+  DELETE   ...kişisel mühürde karakter okunuyordu
+      metin  : şin cuey
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kadının han hanedanına bağlı
+      metin  : çangşa krallığı nın başveziri
+      duyulan: changsha krallığının başvesiri
+  REPLACE  ...krallığı nın başveziri li
+      metin  : tsang
+      duyulan: tang
+  REPLACE  ...eşi olduğunu gösteriyordu li
+      metin  : tsang
+      duyulan: tang
+  REPLACE  ...markisi unvanını taşıyordu bu
+      metin  : şin cuey
+      duyulan: xingzhui
+  REPLACE  ...dünyanın tanıyacağı adıyla day
+      metin  : markizi
+      duyulan: markisi
+  REPLACE  ...adıyla day markizi oldu
+      metin  : çangşa
+      duyulan: changsha
+  REPLACE  ...süer içinde daha sevimli
+      metin  : ad
+      duyulan: at
+  REPLACE  ...daha sevimli ad taktı
+      metin  : uyuyan
+      duyulan: uyan
+  INSERT   ...ad taktı uyuyan hanım
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...uyuyan hanım sonunda day
+      metin  : markizi
+      duyulan: markisi
+  REPLACE  ...ölçüler alındı kadının boyu
+      metin  : santimeter
+      duyulan: cm
+  DELETE   ...santimeter kadardı ve kilosu
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...söyleyeceğine inanıyorlardı söylediler de
+      metin  : day markizi
+      duyulan: d markyzi
+  ... ve 57 fark daha
+
+metinde olup DUYULMAYAN: 122 kelime | duyulup metinde OLMAYAN: 125
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: arkeoloji-2026-10-23.duyulan.txt

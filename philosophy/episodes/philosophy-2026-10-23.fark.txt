@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-23.mp3
+
+beklenen 2384 kelime | duyulan 1983 kelime | eşleşme %14.5
+sayı ifadesi: metinde 228, duyulanda 235  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...know really worth knowing
+      metin  : gece yarısı köy evinin damında sırtüstü yatan çocuk düşünün elektrik yok ışık kirliliği yok gökyüzü bütün ağırlığıyla üstüne çökmüş çocuk yıldızı gözüne kestiriyor sonra başkasını ardından aklına o soru geliyor bunların sonu nerede sonu varsa sonun ötesinde
+      duyulan: this is the story of the century the century is the time when the world was created the electric field was built in the early the time of the century was the time of the century the century was the time of the century the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the aer theer any other questions that i can ask you i would like to ask you a few yor message is not to you but to the present day in the last edition of the american literatuer the african hippocant in the piscopo solan augustinus the poet of the new zealand sun and the of the confessions led by e t ranflaradle and the azerian cantor of the gjemas hichbir zaman din
+  REPLACE  ...varsa sonun ötesinde ne
+      metin  : var kimse bu soruyu öğretmedi okulda böyle ders yok annesi babası da sormasını istemedi soru kendiliğinden geldi tıpkı açlık ya da uyku gibi içeriden i nsanın bilmek istemesi tarih boyunca en sıradan aynı zamanda en tuhaf özelliklerinden olarak görüldü aristoteles metafizik adlı eserine bunu söyleyerek başlar bütün insanlar doğaları gereği bilmek ister kanıt olarak da çok gündelik şeyi gösterir duyularımızdan hiçbir işimize yaramasalar bile zevk alırız en çok da görmekten hiçbir şey yapmayacak olsak da görmeyi neredeyze her şeye tercih ederiz çünkü görmek bize şeyler arasındaki farkları en çok gösteren duyudur aristoteles e göer bilme
+      duyulan: nasal par leor demes gez bil menin undergibigurulur buyuzdan merakta gezlerin
+  REPLACE  ...e göer bilme arzusu
+      metin  : ihtiyacın ürünü değildir daha derinde insanın yapısındadır bu arzunun nereden başladığı sorusuna yunan felsefesi tek kelimeyle cevap verdi hayret platon un theaitetos diyaloğunda genç theaitetos sokrates in sorularından başı dönmeye başladığını itiraf eder sokrates bunu kusur saymaz tam tersine iltifat eder bu hayret duygusu filozofa özgüdür felsefenin bundan başka başlangıcı yoktur hemen ardından da mitolojiden ince ayrıntıya dikkat çeker gökkuşağı tanrıçası i ris i adı hayret anlamına gelen thaumas ın kızı yapan kişi soyları iyi bilen biriymiş yani gökyüzünü yeryüzüne bağlayan haberci hayretten doğar aristoteles bu fikri daha işler i nsanlar önce gözlerinin önündeki küçük bilmeceleer şaşırdılar sonra yavaş yavaş daha büyük olanlara geçtiler ayın evreleri güneşin ve yıldızların hareketleri evrenin nasıl oluştuğu göer şaşıran insan bilmediğini fark etmiş demektir bilmezlikten kurtulmak için felsefe yapan da bilgiyi fayda için değil sadece bilmek için arar aristoteles burada de ilginç not düşer mitleri kişi de anlamda bilgeliği sever çünkü mitler de hayret verici şeylerden oluşur bu tablo çok sıcak ve iyimser merak insanı hayvandan ayıran yıldızlara bakmaya zorlayan ilmi ve felsefeyi doğuran asil dürtü gündelik hayatta da bunun izlerini görürüz çocuğun durmadan sorduğu neden ler tamircinin bozuk motoru söküp içine bakma isteği öğrencinin gece yarısı ders dışı kitaba dalıp sabahı etmesi bunların hepsini takdir ederiz meraklı insanı zeki canlı hayata açık olarak görürüz peki dama yatan o çocuk yıldızlara bakmayı bırakıp aşağıdaki sokakta kavga eden komşuyu izlemeye başlasa ya da yolda kaza olsa ve herkes gibi o da başını uzatıp ne olduğuna bakmak istese bu da merak değil mi yıldızlara bakmakla kaza yerine bakmak aynı arzunun mü yoksa bambaşka şey mi felsefe tarihinin en sert merak eleştirisi bu soruyla başlar kuzey afrika nın hippo kentinde piskopos olan augustinus yüzyılın son yıllarında confessiones yani i tiraflar adlı eserini yazarken kendini acımasızca sorguluyordu kitabın bölümünde ruhu tanrı
+      duyulan: sayyilur dokun mayla yada ishitmeyledo ulza agastinusu asal insaniyapanisey kyan desinindebu arzudan kurtulamaduna achikcha kaboulet mesidur artik sirkleragit medine yilduzlaren haraketlerin
+  DELETE   ...bölümünde ruhu tanrı dan
+      metin  : uzaklaştıran arzuları tek tek sayarken bedensel zevklerden sonra daha incelikli tuzağa gelir adını kitab ı mukaddes alır gözlerin şehveti kastettiği şey bilme arzusunun kendisi değil belirli biçimidir bu arzu şeyi anlamak ya da faydalanmak için değil sadece deneyimlemek görmüş olmak için bilmek ister augustinus bu arzuyu tarif etmek için çok çarpıcı örnek verir i nsanlar parçalanmış cesedi görmek için koşarlar oysa o görüntü dehşete düşürür gece kabuslarına girer güzel şeye bakmak zevk verir bunu anlarız ama insan kendini rahatsız edecek korkutacak şeye neden bakmak ister augustinus a göer işte bu merakın zevkten ayrı şey olduğunu gösterir zevk hoşa gidenin peşindedir merak ize sadece yeninin bilinmeyenin deneyimlenmemiş olanın peşindedir bugün otoyolda kaza olduğunda karşı şeritte oluşan trafiği düşünün kimse kaza yerini görmekten keyif almıyor ama hemen herkes yavaşlayıp bakıyor augustinus un başka gözlemi de şaşırtıcı biçimde bugüne seslenir dilimizde görmek fiilini bütün duyular için kullanırız der bak ne kadar parlıyor deriz ama bak nasıl ses çıkarıyor bak nasıl kokuyor bak ne kadar sert de deriz hiçbir zaman dinle nasıl parlıyor demeyiz göz bilmenin önderi gibi görülür bu merak da gözlerin arzusu sayılır dokunmayla ya da işitmeyle de olsa augustinus u asıl insani yapan ize kendisinin de bu arzudan kurtulamadığını açıkça kabul etmesidir artık sirkleer gitmediğini yıldızların hareketlerinden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gitmediğini yıldızların hareketlerinden kehanet
+      metin  : aramadığını söyler
+      duyulan: aramaduna soylar
+  REPLACE  ...aramadığını söyler ama sonra
+      metin  : itiraf eder kırda köpeğin tavşan kovaladığını görse gideceği yeri unutup bakar
+      duyulan: itirafedar kurdabir kepein tawshan kowaladun gursay didejeir unu tuponabakar
+  REPLACE  ...yeri unutup bakar evde
+      metin  : otururken duvarda
+      duyulan: oturuken duvar da
+  REPLACE  ...otururken duvarda sinek yakalayan
+      metin  : kertenkele ya da ağına
+      duyulan: karten kele yada ana
+  REPLACE  ...da ağına sinek dolayan
+      metin  : örümcek bile dikkatini çekip alır
+      duyulan: urmjek biladik katiniceki palar
+  REPLACE  ...dikkatini çekip alır bunlar
+      metin  : küçük şeylerdir
+      duyulan: kuchuk shaylardar
+  REPLACE  ...bunlar küçük şeylerdir ama
+      metin  : asıl mesele de budur
+      duyulan: asal mesile debudur
+  REPLACE  ...mesele de budur merak
+      metin  : insanı büyük kötülüklerle değil sayısız küçük dağılmayla esir alır
+      duyulan: insan buyuk kurtuluklar ledil sayyisus kuchuk dal mayla isiralar
+  REPLACE  ...dağılmayla esir alır dua
+      metin  : etmeye
+      duyulan: et maya
+  REPLACE  ...etmeye oturan zihin sinek
+      metin  : vızıltısıyla başka
+      duyulan: wizultasi labashka
+  REPLACE  ...sinek vızıltısıyla başka yeer
+      metin  : kayar augustinus tan
+      duyulan: kayaar agustinistan
+  REPLACE  ...augustinus tan sonra orta
+      metin  : çağ düşünürleri bu ayrımı sistemli hale getirdi örneğin
+      duyulan: chadushnur leer buayramu sistem nihalagitirde ernein
+  REPLACE  ...getirdi örneğin thomas aquinas
+      metin  : bilgiye yönelen ölçülü
+      duyulan: bilgeeyo nelan ouchilu
+  REPLACE  ...bilgiye yönelen ölçülü ve
+      metin  : düzenli
+      duyulan: duzenne
+  REPLACE  ...ölçülü ve düzenli arzuyu
+      metin  : erdem olarak dağınık
+      duyulan: eardemolarak danek
+  REPLACE  ...erdem olarak dağınık ve
+      metin  : ölçüsüz olanı
+      duyulan: ouchusu zolana
+  REPLACE  ...ve ölçüsüz olanı ize
+      metin  : kusur olarak ayırdı yani tartışma hiçbir zaman
+      duyulan: kusurolarak ayerde yanitartish mahich bizaman
+  REPLACE  ...tartışma hiçbir zaman bilmek
+      metin  : iyi mi kötü mü sorusu değildi
+      duyulan: imi kutumu
+  REPLACE  ...mü sorusu değildi soru
+      metin  : şuydu
+      duyulan: sudeilde soru shuudu
+  REPLACE  ...değildi soru şuydu bilme
+      metin  : arzusu yöne mi akıyor
+      duyulan: arzu subir yoneme aqyor
+  REPLACE  ...yöne mi akıyor yoksa
+      metin  : her yöne dağılıyor mu bu soruyu yaklaşık asır
+      duyulan: heryone dal yormu bussor yu yaklishik om beshasur
+  REPLACE  ...soruyu yaklaşık asır sonra
+      metin  : bambaşka
+      duyulan: bambashka
+  REPLACE  ...sonra bambaşka dille alman
+      metin  : filozof
+      duyulan: philosof
+  REPLACE  ...alman filozof martin heidegger
+      metin  : yeniden
+      duyulan: yeni dan
+  REPLACE  ...heidegger yeniden sordu de
+      metin  : yayımlanan
+      duyulan: yeyem lanan
+  REPLACE  ...de yayımlanan sein und
+      metin  : zeit yani varlık ve
+      duyulan: seit yanivar likwe
+  REPLACE  ...yani varlık ve zaman
+      metin  : adlı eserinde insanın gündelik hayatta kendinden nasıl uzaklaştığını anlatırken olguyu arada inceler boş konuşma belirsizlik
+      duyulan: adle isirinde in sanan gundelikayatta kendindan nasal uzakhlashtuna anna tirkyan uchol guyubirarada injelar boshkonushma bilir sizlik
+  REPLACE  ...belirsizlik ve merak heidegger
+      metin  : burada augustinus u adıyla anar ve görmek fiiliyle
+      duyulan: bura agustinu suadila anarve gyrmek filile
+  REPLACE  ...ve görmek fiiliyle ilgili
+      metin  : gözlemini aynen alıntılar
+      duyulan: gözle mi ne aynan aluntalar
+  REPLACE  ...gözlemini aynen alıntılar ama
+      metin  : meseleyi dini günahtan çıkarıp insanın varoluş biçimine taşır
+      duyulan: meselayi dinibir gunahtanchkarup in sanan warolushpichimine tashir
+  REPLACE  ...varoluş biçimine taşır heidegger
+      metin  : e göer gündelik
+      duyulan: göra gundelik
+  REPLACE  ...e göer gündelik merak
+      metin  : gördüğünü anlamak için değil sadece görmek için görür yeniyi
+      duyulan: gördunu anna makichin deil saadajagörmikichin göruf yeni
+  REPLACE  ...görür yeniyi arar ama
+      metin  : yeniye ulaştığı
+      duyulan: yeni aulashtuna
+  REPLACE  ...ama yeniye ulaştığı anda
+      metin  : bırakıp sonrakine atlamak için
+      duyulan: onuburakup sonra kina atlamakichin
+  REPLACE  ...sonrakine atlamak için bu
+      metin  : merakın belirgin özelliği vardır hiçbir şeyin yanında
+      duyulan: merakan uchpelir genozayli wardar berenchi si hichbir sein yananda
+  REPLACE  ...şeyin yanında durmaz oyalanmaz
+      metin  : i kincisi sürekli dağılır olasılıktan olasılığa savrulur de belki
+      duyulan: jisi surektida alur ola salaktan ola sala saavulur uchun jisi debalki ena arde hichbir yarde yurte dinemaz aras todolai zen heireti in sanu durdurur bilmazli ila yuzleishtirrde heidegger
+  ... ve 164 fark daha
+
+metinde olup DUYULMAYAN: 2068 kelime | duyulup metinde OLMAYAN: 1667
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-10-23.duyulan.txt
