@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-24.mp3
+
+beklenen 2210 kelime | duyulan 2219 kelime | eşleşme %97.2
+sayı ifadesi: metinde 289, duyulanda 206  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...balıkçı kasabasına sürgüne gönderildi
+      metin  : ceza yıldı
+      duyulan: naycezağı yıldır
+  REPLACE  ...konakta bunu kimse bilemezdi
+      metin  : kabaağaçlızade
+      duyulan: kabağaçlızade
+  REPLACE  ...paşa sultan i kinci
+      metin  : abdülhamit
+      duyulan: abdülhamid
+  REPLACE  ...çocuğunun en büyüğüydü kardeşlerinden
+      metin  : fahrünnisa
+      duyulan: fahri nisa
+  REPLACE  ...sanatçısı olarak tanınacaktı yeğeni
+      metin  : füreya
+      duyulan: füreyya
+  REPLACE  ...kapısını açacaktı sonra robert
+      metin  : kolej
+      duyulan: college
+  REPLACE  ...ngilizceden yaptığı çeviri i
+      metin  : kdam
+      duyulan: ktam
+  INSERT   ...ya gitti resim çalıştı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...çiftliğine gitti orada temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...doğuda patlak veren şeyh
+      metin  : sait
+      duyulan: said
+  REPLACE  ...şeyh sait isyanının gölgesindeydi
+      metin  : hükumet
+      duyulan: hükümet
+  INSERT   ...çok ağır suçlamaydı nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kasabanın tepesindeki kale orta
+      metin  : çağ da sen jan
+      duyulan: çağda sencan
+  REPLACE  ...halikarnas ın taşlarını kullanarak
+      metin  : yükselttiği
+      duyulan: yükseltiği
+  INSERT   ...karşılaşmadan yepyeni edebiyat doğdu
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...tuzlu sert ama şiirsel
+      metin  : türk
+      duyulan: türkiye
+  REPLACE  ...burası tarihin babası sayılan
+      metin  : herododun
+      duyulan: herodot un
+  REPLACE  ...yakın sıfatı koydu balıkçı
+      metin  : halikarnas
+      duyulan: halikarnast
+  INSERT   ...kıyılarından adlı hikaye kitabı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nin dibi yaşasın deniz
+      metin  : gülen ada
+      duyulan: gulenada
+  REPLACE  ...yatan antik mirasın çöp
+      metin  : yığını
+      duyulan: yağını
+  REPLACE  ...anadolu nun ege kıyılarında
+      metin  : i yonya
+      duyulan: ionia
+  REPLACE  ...lidya daydı homeros tan
+      metin  : herododa tales
+      duyulan: herodo da thales
+  REPLACE  ...o aydınların başında sabahattin
+      metin  : eyüboğlu
+      duyulan: eyboğlu
+  INSERT   ...yıllarında emeği takdir gördü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çok geniş külliyat bıraktı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıllarında kemik kanserine yakalandı
+      metin  : (yok)
+      duyulan: dot
+  INSERT   ...kemik kanserine yakalandı ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...müzenin parçası haline geldi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve ailesinin çalkantılı hikayesi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...deniz halk dil ve
+      metin  : ad
+      duyulan: at
+  REPLACE  ...koylara doğru yelken açıyor
+      metin  : nöron biyografi
+      duyulan: neuron biografi
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-10-24.duyulan.txt

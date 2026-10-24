@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-24.mp3
+
+beklenen 1255 kelime | duyulan 1261 kelime | eşleşme %98.0
+sayı ifadesi: metinde 180, duyulanda 169  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...size kalmış bu sahne
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...psikologlar deborah smal george
+      metin  : lovenstayn
+      duyulan: lovenstein
+  REPLACE  ...smal george lovenstayn ve
+      metin  : pol slovik
+      duyulan: paul slovick
+  REPLACE  ...yoktu yalnızca rakamlar vardı
+      metin  : malavi
+      duyulan: malawi
+  REPLACE  ...çocuğu etkileyen gıda kıtlığı
+      metin  : zambiya
+      duyulan: zambia
+  REPLACE  ...hikayesini okuyanlar ortalama dolar
+      metin  : sent
+      duyulan: cent
+  REPLACE  ...okuyanlar ize ortalama dolar
+      metin  : sent
+      duyulan: cent
+  INSERT   ...kadar büyük olmasını bekler
+      metin  : (yok)
+      duyulan: don un
+  REPLACE  ...bu olguya ad verdi
+      metin  : psişik
+      duyulan: pisişik
+  REPLACE  ...i sveçli meslektaşı daniel
+      metin  : vestfyel
+      duyulan: westfiel
+  INSERT   ...hepimiz kez yaşadık eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tek çocuğun görüntüsü oldu
+      metin  : slovik
+      duyulan: slowik
+  REPLACE  ...dönemi inceledi i sveç
+      metin  : kızılhaçı
+      duyulan: kızılhacı
+  REPLACE  ...not almak ya da
+      metin  : önemsediğiniz
+      duyulan: önemseydiğiniz
+  REPLACE  ...basit ama etkili yolu
+      metin  : rokia
+      duyulan: rokya
+  REPLACE  ...konuşmalar sıklıkla tek tek
+      metin  : hikayeyle
+      duyulan: hikaye ile
+  REPLACE  ...var bazı insanlar bu
+      metin  : bilgiyle
+      duyulan: bilgi ile
+  REPLACE  ...acısını aynı yoğunlukta taşıyamaz
+      metin  : psişik
+      duyulan: psikolojik
+  REPLACE  ...kalbimize neyi göstereceğini seçebilir
+      metin  : rokia
+      duyulan: rokya
+  REPLACE  ...yolu o milyonların her
+      metin  : rokia
+      duyulan: rokya
+  REPLACE  ...yetişemediği yeer kadar uzanabilir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 25
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-10-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-24.mp3
+
+beklenen 2133 kelime | duyulan 2143 kelime | eşleşme %95.6
+sayı ifadesi: metinde 279, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ekim
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...almadılar tula nın güneyinde
+      metin  : huş
+      duyulan: kuş
+  REPLACE  ...tek temize çekiyor adı
+      metin  : sofya
+      duyulan: sofia
+  REPLACE  ...çayır anlamına geliyor lev
+      metin  : nikolayeviç
+      duyulan: nikolayevich
+  INSERT   ...geliyor lev nikolayeviç tolstoy
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...konuşulan romanlarından burada yazdı
+      metin  : kont unvanını
+      duyulan: sont ünvanını
+  INSERT   ...da tanınan yazar yapmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşındayken kendisinden yaş küçük
+      metin  : sofya bers
+      duyulan: sofia berz
+  REPLACE  ...en verimli dönem oldu
+      metin  : napolyon
+      duyulan: te napoleon
+  REPLACE  ...da çıkan edebiyat dergisi
+      metin  : russkiy vestnik
+      duyulan: ruskii vesnik
+  INSERT   ...itibaren adıyla yayımlandı kitap
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...süren bu çalışma boyunca
+      metin  : sofya
+      duyulan: sofia
+  REPLACE  ...çalışma boyunca sofya andreyevna
+      metin  : metnin
+      duyulan: mednin
+  REPLACE  ...peş peşe çocuklar doğuyordu
+      metin  : sofya
+      duyulan: sofia
+  INSERT   ...çocuk dünyaya getirdi bunların
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ediyordu i çinde balolar
+      metin  : düellolar
+      duyulan: duellolar
+  REPLACE  ...akıntının yüzeyindeki köpüklerdi pierer
+      metin  : bezuhov
+      duyulan: rebezuhov
+  REPLACE  ...hayatın anlamını arayışı prens
+      metin  : andrey in
+      duyulan: andreyevna nın
+  REPLACE  ...şeyin boşluğunu sezdiği an
+      metin  : nataşa
+      duyulan: natasha
+  REPLACE  ...ardından gelen anna karenina
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...kendi evinden uzaklaştıracaktı yasnaya
+      metin  : polyana
+      duyulan: polunana
+  REPLACE  ...sessiz savaşa dönüşmek üzereydi
+      metin  : seksenlerden
+      duyulan: lerden
+  INSERT   ...yaşlı adamı peygambeer benzetiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bedelini evde ödeyen vardı
+      metin  : sofya
+      duyulan: sofia
+  REPLACE  ...öğrettiği şeyin samimiyeti yoktu
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...gelir böylece aileye kaldı
+      metin  : sofya
+      duyulan: sofia
+  INSERT   ...etti satışları takip etti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tolstoy gazeteleer mektup göndererek
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...isim giderek büyüyordu vladimir
+      metin  : çertkov
+      duyulan: chertkov
+  REPLACE  ...eski muhafız subayı olan
+      metin  : çertkov
+      duyulan: chertkov te
+  REPLACE  ...subayı olan çertkov tolstoy
+      metin  : la
+      duyulan: ile
+  REPLACE  ...güven ve sevgi duyuyordu
+      metin  : sofya
+      duyulan: sofia
+  REPLACE  ...duyuyordu sofya andreyevna ize
+      metin  : çertkov
+      duyulan: chertkov
+  REPLACE  ...çalışan rakip olarak görüyordu
+      metin  : çertkov
+      duyulan: chertkov
+  REPLACE  ...olarak çizen biyografiler var
+      metin  : sofya
+      duyulan: sofia
+  REPLACE  ...kuşatma altındaydı tolstoy yaşındaydı
+      metin  : sofya
+      duyulan: sofia
+  REPLACE  ...buhranı yaşıyordu kocasının günlüklerinin
+      metin  : çertkov
+      duyulan: chertkov
+  INSERT   ...i şte bu atmosferde
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...rus takvimine göer yasnaya
+      metin  : polyana ya
+      duyulan: polyonanaya
+  REPLACE  ...polyana ya kilometer uzaklıktaki
+      metin  : grumont
+      duyulan: gurumont
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 81
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: edebiyat-2026-10-24.duyulan.txt

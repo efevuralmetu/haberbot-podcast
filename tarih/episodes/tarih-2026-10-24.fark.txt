@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-24.mp3
+
+beklenen 2323 kelime | duyulan 2336 kelime | eşleşme %97.0
+sayı ifadesi: metinde 316, duyulanda 227  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...avustralya nın buğday kuşağında
+      metin  : perth
+      duyulan: pört
+  REPLACE  ...ve kırmızımsı toprak var
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...ve düzensiz yerlerdi bunlar
+      metin  : campion
+      duyulan: kampiyon
+  REPLACE  ...yerlerdi bunlar campion ve
+      metin  : walgoolan
+      duyulan: valgolan
+  INSERT   ...öğrendikleri şey vardı dayanmak
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...olmayacak kadar küçük kaldı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...kasım aylarında tahminen emu
+      metin  : campion
+      duyulan: kampiyon
+  REPLACE  ...tahminen emu campion ve
+      metin  : walgoolan
+      duyulan: valgolan
+  REPLACE  ...tarlalara indi buğdayı yemedikleri
+      metin  : başakları
+      duyulan: bacakları
+  INSERT   ...emu batı avustralya da
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...savunma bakanı sir george
+      metin  : pearce
+      duyulan: pierce
+  REPLACE  ...george pearce a başvurdu
+      metin  : pearce
+      duyulan: perch
+  REPLACE  ...sürülerini dağıtsın buğday kurtulsun
+      metin  : pearce
+      duyulan: perch
+  REPLACE  ...de hesaba katmıştı ama
+      metin  : pearce
+      duyulan: pierce
+  REPLACE  ...meredith atandı tam adı
+      metin  : gwynydd
+      duyulan: gwynedd
+  REPLACE  ...tam adı gwynydd purves
+      metin  : wynne
+      duyulan: wyn
+  REPLACE  ...çavuş mcmurray ve topçu
+      metin  : o halloran
+      duyulan: ohan loran
+  INSERT   ...dağılacağından emindi operasyonun ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...basında yer almaya başladı
+      metin  : kanberra
+      duyulan: canberra
+  REPLACE  ...haber filmlerini hazırlayan fox
+      metin  : movietone
+      duyulan: movitone
+  INSERT   ...bacaklı tetikte bekleyen kuşlar
+      metin  : (yok)
+      duyulan: kiki
+  INSERT   ...tetikte bekleyen kuşlar kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bekleyen kuşlar kasım askerler
+      metin  : campion
+      duyulan: kampiyon
+  REPLACE  ...ama arazide işler farklıydı
+      metin  : engebeli
+      duyulan: engabeli
+  REPLACE  ...alay konusu olmaktan kurtulamadı
+      metin  : campion dan
+      duyulan: kampiyondan
+  REPLACE  ...campion dan gelen haberler
+      metin  : kanberra
+      duyulan: canberra
+  REPLACE  ...olup olmadığını tartışmaya açtı
+      metin  : pearce bu
+      duyulan: pr çabu
+  REPLACE  ...ve meclisteki tartışmalar karşısında
+      metin  : pearce
+      duyulan: pierce
+  REPLACE  ...yalnız bırakmadığını göstermek gerekiyordu
+      metin  : pearce
+      duyulan: p arch a
+  INSERT   ...dönme izni verdi kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...civarında askerlerin haftada yaklaşık
+      metin  : emu
+      duyulan: emü
+  INSERT   ...almak gibiydi meredith aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...göer mermi atılmış ve
+      metin  : emu
+      duyulan: emü
+  INSERT   ...askeri yardım talep etti
+      metin  : (yok)
+      duyulan: te te
+  INSERT   ...yardım talep etti ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...emular için ödül uygulaması
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...zamanlamasıyla çalışıyordu sonuçlar çarpıcıydı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...uzak tutmaya yardımcı oldu
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...tutmaya yardımcı oldu ve
+      metin  : altmışlarda
+      duyulan: larda
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: tarih-2026-10-24.duyulan.txt

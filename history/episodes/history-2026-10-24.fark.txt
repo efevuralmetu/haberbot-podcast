@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-24.mp3
+
+beklenen 2569 kelime | duyulan 2279 kelime | eşleşme %10.4
+sayı ifadesi: metinde 242, duyulanda 107  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...that could not fly
+      metin  : batı avustralya da perth ün yüzlerce
+      duyulan: australia when the us us u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u the top ranked war was in in the us us u u u u u u u u u u u u u u the us us us u u u u u u u u u u u u u u u u u u u u u u u the top ranked war was in australia a
+  REPLACE  ...perth ün yüzlerce kilometer
+      metin  : doğusunda ufka kadar uzanan düz ve kızıl toprak var bu topraklara bugün buğday kuşağı deniyor sonbaharında yani güney yarımkürenin ilkbaharında bu kuşağın en doğu ucunda ekili tarlaların bittiği ve çalılıkla kaplı iç bölgenin başladığı sınırda aile buğday yetiştirmeye çalışıyordu toprak kuru yağmur kararsız en yakın kasaba çoğu zaman günlük yol uzaklıktaydı bu ailelerin önemli kısmı sıradan çiftçiler değildi dünya savaşı bittiğinde avustralya hükümeti cepheden dönen askerleer teşekkür etmek ve yeniden sivil hayata bağlamak için program başlatmıştı terhis edilen gazileer toprak veriliyor onlardan o toprağı işleyip çiftçiye dönüşmeleri bekleniyordu fikir kağıt üzerinde cömertti
+      duyulan: away from the island of hizlakosha in riberg kustur in australia it is known that hariel urememev simindan sondra ichberge lerdan kuyador göche där it is known that it is the largest island in the world in
+  REPLACE  ...kağıt üzerinde cömertti ama
+      metin  : dağıtılan toprakların çoğu sınırdaki verimi düşük daha önce hiç sürülmemiş arazilerdi gelibolu da fransa nın siperlerinde ya da filistin çöllerinde savaşmış adamlar şimdi okaliptüs köklerini sökmeye çalıyı temizlemeye ve kuraklıkla pazarlık etmeye çalışıyordu sonra geldi büyük buhran dünya ekonomisini sarstığında avustralya hükümeti çiftçileer tek çağrıda bulundu daha fazla buğday ekin ekim alanlarını genişletmeleri karşılığında devlet desteği vaat edildi çiftçiler bu çağrıya uydu yeni
+      duyulan: the yolund ustunde artec yenibi sheyvard temizlan mish surun mish ekil mish
+  REPLACE  ...çağrıya uydu yeni tarlalar
+      metin  : açtı borçlandı
+      duyulan: and chifchilirin haiwan nari ichin achtu sukainaklaer the yolund ustunde artec yenibi sheyvard ichberge lerdan kuyador göche där it is known that it is the largest island in the world in
+  REPLACE  ...tarlalar açtı borçlandı ama
+      metin  : söz verilen destek hiçbir zaman tam olarak gelmedi bu arada buğday fiyatları düşmeye devam etti ekim ine gelindiğinde durum öyle noktaya varmıştı ki bölgedeki çiftçiler o yılın hasadını teslim etmeyi reddetmekle tehdit ediyordu tam bu sırada sınırın öbür tarafından başka sorun yaklaştı avustralya nın simgelerinden olan emu uçamayan boyu neredeyze metreye varabilen uzun bacaklarıyla saatte kilometreye yakın hızla koşabilen iri kuştur batı avustralya nın emuları her yıl üreme mevsiminden sonra iç bölgelerden kıyıya doğru göç eder bu göç yüzyıllardır aynı rotayı izliyordu ama de yolun üstünde artık yeni şey vardı temizlenmiş sürülmüş ekilmiş tarlalar ve çiftçilerin hayvanları için açtığı su kaynakları kuşun bakış açısından bu çölün ortasında beliren ziyafet sofrasıydı o yıl yaklaşık emunun bölgeye geldiği tahmin ediliyor kuşlar özellikle chandler ve walgoolan çevresindeki tarlalara akın etti olgunlaşmakta olan buğdayı yemedikleri kısmını iri gövdeleriyle ezip çiğnediler asıl zarar ize başka yerdeydi emular tel örgüleri devirip yırtıyor çitlerde büyük gedikler açıyordu bu gedikler de avustralya tarımının çok daha eski düşmanına tavşanlara kapı açıyordu yani çiftçi için emu sürüsü yalnızca o günün kaybı değildi arkasında yıllarca sürecek yıkım bırakıyordu fiyatların çöktüğü desteklerin gelmediği borçların büyüdüğü yılda de bu yıkımla karşılaşan gaziler çaresizdi ellerindeki tüfeklerle kuşları tek tek avlamak binlerce emudan oluşan göç karşısında hiçbir işe yaramıyordu bu adamlar başka çözüm biliyordu fransa da kendi gözleriyle görmüşlerdi gazilerden oluşan heyet sorunu doğrudan federal hükümete götürmeye karar verdi muhatapları savunma bakanı sir george pearce tı pearce batı avustralya nın siyasetçisiydi ve uzun yıllardır bu eyaletin federal senatörüydü yani bu insanların derdini hem siyasi olarak hem de bölgesel olarak yakından tanıyordu heyetin talebi açıktı makineli tüfek bu adamlar dünya savaşı nda makineli tüfeğin ovayı nasıl boşaltabildiğini görmüşlerdi kalabalık halinde ilerleyen hedefe karşı bundan daha etkili silah bilmiyorlardı emular kalabalık sürüler halinde geliyordu mantık basit görünüyordu pearce talebi kabul etti ama şartlarla silahları sivil çiftçiler değil askeri personel kullanacaktı askerlerin bölgeye ulaşım masrafını batı avustralya eyalet hükümeti karşılayacaktı çiftçiler de askerlerin yiyeceğini ve barınağını sağlayacak üstelik harcanacak cephanenin parasını ödeyecekti kısacası federal hükümet bu işe silah ve asker veriyordu faturanın geri kalanı ize yerel halka kalıyordu bakanın neden bu kadar kolay ikna olduğu konusunda farklı yorumlar var bazı anlatılara göer pearce operasyonu askerler için iyi atış talimi fırsatı olarak görüyordu bazı gözlemciler ize işin siyasi boyutu olduğunu savundu o yıllarda batı avustralya da federasyondan ayrılmayı savunan güçlü hareket vardı eyalet halkı uzaktaki başkentin kendi sorunlarıyla ilgilenmediğini düşünüyordu nitekim te yapılan referandumda seçmenlerin yaklaşık ayrılık yönünde oy verecekti böyle ortamda federal hükümetin sıkıntıdaki gazi çiftçilerin yardımına asker göndermesi canberra nın sizi unutmadığını göstermenin somut yoluydu operasyonun propaganda boyutu da vardı askerlerle birlikte bölgeye kameraman gönderildi bu kameraman dönemin sinema salonlarında filmlerden önce gösterilen haber filmlerini üreten fox movietone dan yani fox haber filmlerinden geliyordu plan belliydi modern silahlar disiplinli askerler ve kısa sürede kazanılmış zafer kameraya alınacak ülkenin yanındaki seyircileer gösterilecekti görev avustralya kraliyet topçusu nun ağır batarya sından gwynydd purves wynne aubrey meredith e verildi yanında yalnızca kişi vardı çavuş s
+      duyulan: the yolund ustunde artec yenibi sheyvard temizlan mish ekil mish ekil mish ekil mish and chifchilirin haiwan nari ichin achtu sukainaklaer it is known that it is the largest island in the world the yolund ustunde artec yenibi sheyvard ichberge lerdan kuyador göche där it is known that it is the largest island in the world it is known that it is the largest island in the world it is known that it is known that it is the largest island in the world in the yolund ustunde artec yenibi sheygard ichberge lerdan kuyador göche där it is known that it is the largest island in the world it is known that it is the largest island in the world it is known that it is known that it is the largest island in the world it is known that it is the largest island in the world
+  REPLACE  ...vardı çavuş s mcmurray
+      metin  : ve topçu er
+      duyulan: was top
+  REPLACE  ...er j o halloran
+      metin  : ellerinde
+      duyulan: ellorinde ikki
+  REPLACE  ...o halloran ellerinde adet
+      metin  : lewis makineli tüfeği
+      duyulan: louis makinelli tufaei
+  REPLACE  ...lewis makineli tüfeği ve
+      metin  : mermi bulunuyordu gazete
+      duyulan: marmibulu nyordu birgazete
+  REPLACE  ...mermi bulunuyordu gazete haberine
+      metin  : göer askerleer görev daha verilmişti hafif süvarilerin şapkalarını süsleyen tüyler için emu derisi
+      duyulan: guer aska lier birgurev dahavir ilmishte hafiv suvarile rin shapkaleren susleyan tuyleri cin yuzemudeer si
+  REPLACE  ...için emu derisi toplamak
+      metin  : avustralya süvarilerinin şapkalarındaki o meşhur tüyler gerçekten
+      duyulan: australia suvarile rin nyn shapkaleren daki omeshur tuyler garchaktan
+  REPLACE  ...tüyler gerçekten de emu
+      metin  : tüyüydü
+      duyulan: tuyd
+  REPLACE  ...de emu tüyüydü askeri
+      metin  : müdahalenin
+      duyulan: muda halinin
+  INSERT   ...tüyüydü askeri müdahalenin ekim
+      metin  : (yok)
+      duyulan: nontod nelyutu tudebashtamasa pilan nanmishte ema doa ilkhamle
+  REPLACE  ...askeri müdahalenin ekim de
+      metin  : başlaması planlanmıştı ama doğa ilk hamlede askerlerden önce davrandı bölgeye beklenmedik yağmurlar düştü yağmur kurak arazinin her köşesinde geçici su birikintileri oluşturdu emuların artık suyu bulmak için çiftlikleer gelmesine gerek kalmamıştı sürüler geniş alana dağıldı kurulan planlar bekletildi ancak kasım ın ilk günlerinde yağmur kesildi toprak yeniden
+      duyulan: asker lerden unja davrande bilgei beklan medik yamur lardushte yamur kurakarazinin herkasha sindegeci ju subirikintilir olushturdu emularen artak suyubulmakichin ciflikleragalme sinegerek kalmamishte suri lergenishpiralana dalde kuralan plan lar bekletilde ekak kasaman ilkgunnerinde yamur kesilde tuprak yiniden
+  REPLACE  ...kesildi toprak yeniden kurumaya
+      metin  : başladı su birikintileri buharlaştı
+      duyulan: bashlade subirikintilir buhar lashte
+  REPLACE  ...ve emular tekrar tarlalara
+      metin  : yöneldi kasım de meredith
+      duyulan: yonalde tukasem mondotuz artatud e binbasha meridit
+  INSERT   ...kasım de meredith ve
+      metin  : (yok)
+      duyulan: ikki
+  REPLACE  ...de meredith ve askeri
+      metin  : makineli tüfekleriyle birlikte cepheye
+      duyulan: makineletufekleri leberlikte jpeye
+  REPLACE  ...tüfekleriyle birlikte cepheye yani
+      metin  : campion çevresindeki buğday tarlalarına doğru
+      duyulan: kampyon chevresinde kibudai tarlalar nador
+  REPLACE  ...buğday tarlalarına doğru yola
+      metin  : çıktı i lk gün kasım da askerler yaklaşık
+      duyulan: cikte ilkgun ekak kasumda asker ler yaklashik elle
+  REPLACE  ...da askerler yaklaşık emudan
+      metin  : oluşan sürü gördü ama kuşlar menzilin dışındaydı yerel çiftçiler kuşları makineli tüfeklerin bulunduğu noktaya doğru sürmeye çalıştı
+      duyulan: olushan gurdu ema kushlar menzi indushandayda yaral cifchilar kushlar makineletufekderin bulundu noktayador surmeyechelishte
+  REPLACE  ...doğru sürmeye çalıştı fikir
+      metin  : sürüyü pusuya çekmekti
+      duyulan: suru pusu yachekmekte
+  REPLACE  ...pusuya çekmekti fakat emular
+      metin  : beklenen gibi davranmadı sürü yaklaşan tehlikeyi sezer sezmez dağıldı
+      duyulan: beklenangibidavramada suru yaklashan tehli kei sezersezmezdald
+  REPLACE  ...sezer sezmez dağıldı ve
+      metin  : küçük gruplara bölündü
+      duyulan: kuchukkuruplarabolundu
+  REPLACE  ...küçük gruplara bölündü her
+      metin  : grup başka yöne koştu i lk yaylım ateşi menzil yetmediği için boşa gitti i kinci yaylım ateşinde kayıtlara olarak geçen sayıda kuş vuruldu gün içinde başka küçük sürüyle karşılaşıldığında ize vurulan kuş sayısı belki düzine kadardı asıl sınav gün
+      duyulan: group bashkabirane koshtu ilk yayla mateshi menzi lietmedi icin boshagitte yayla mateshinde kayitlara birkacholara kyachansayida kushwuruldu guni cindebashka kuchukbir suru lekarshilashildan daiseh wurulan kushseyize bakibir duzi nekadarde asyl sinawiki gun
+  REPLACE  ...asıl sınav gün sonra
+      metin  : geldi kasım da meredith taktiğini değiştirdi kuşları kovalamak yerine onların ayağına gitmeyi seçti emuların düzenli olarak su içmeye geldiği yerel su göletinin yakınına pusu kurdu
+      duyulan: galde forkasumda marideth taktini daishturde kushleri kovala makirene onnaren ayanagitmeyisehte emular en duzeni olerak suychmeyagaldi yaral sugoletenin yakanana pusukurdu
+  REPLACE  ...yakınına pusu kurdu bu
+      metin  : savaştan çıkmış askerin bildiği türden klasik plandı düşmanın
+      duyulan: savashtanchuk muspiraskirin bildi turdangkalesik birplanda dushmanan
+  REPLACE  ...klasik plandı düşmanın mutlaka
+      metin  : uğrayacağı noktayı
+      duyulan: uri jabi noktayi
+  REPLACE  ...mutlaka uğrayacağı noktayı bul
+      metin  : orada bekle yaklaşmasına izin ver
+      duyulan: urdabeklaya klashmasana isin var
+  REPLACE  ...yaklaşmasına izin ver plan
+      metin  : başta mükemmel işliyor gibiydi askerler mevzilerine doğru ilerleyen
+      duyulan: bashtamukhem malishli urgibide askrler mevzeelaren dori larleyan kadaer muyu gurdu bu makinele tufekchinin hayale debileje enkalabala kedefte merideth and adamlarus saber la bekla dea wancheki gunun daersina almschlarde kushlar ijaya klashana
+  REPLACE  ...mevzilerine doğru ilerleyen kadar
+      metin  : emuyu gördü bu makineli tüfekçinin hayal edebileceği en kalabalık hedefti meredith in adamları sabırla bekledi önceki günün dersini almışlardı kuşlar iyice yaklaşana kadar tetiğe dokunmadılar gölün kıyısına doğru akan o devasa sürü
+      duyulan: te tiedokun madalar gunun kuyusana doro akano devasah suru
+  REPLACE  ...devasa sürü tam menzile
+      metin  : girdiğinde ateş açıldı ve silah tutukluk yaptı lewis makineli tüfeği yalnızca kuş vurulduktan sonra sustu mekanizmanın sıkışmasıyla birlikte o kuşluk sürü anda dağıldı askerler silahı yeniden ateş eder
+      duyulan: girdin de atesha childe vey sila te tuklukyapta luis mekinele tufe yalnazja kushvurul duktansun rasustu mechanismanan sekushmasila likte obin kushluksuru dalde askrler sila hayeni dan atesha dar
+  REPLACE  ...yeniden ateş eder hale
+      metin  : getirene kadar kuşlar çoktan çalılığın içinde kaybolmuştu o gün
+      duyulan: ge trenekadar kushlar choktan chalalu nichinde kaibol mushtu ogun
+  REPLACE  ...o gün daha tek
+      metin  : emu bile görülmedi aylardır beklenen kağıt üzerinde kusursuz görünen
+      duyulan: emubile gurul mede elardar beklenan kadu tuzerinde kusursus gurunan
+  REPLACE  ...üzerinde kusursuz görünen pusu
+      metin  : tutukluk yüzünden kuşla sonuçlanmıştı
+      duyulan: tuklukyusun dan kushla sonuchlan mushtu
+  REPLACE  ...yüzünden kuşla sonuçlanmıştı sonraki
+      metin  : günlerde meredith güneye yöneldi
+      duyulan: gunlar de merideth gunea yunalde
+  REPLACE  ...meredith güneye yöneldi oradaki
+      metin  : kuşların
+      duyulan: kushlaran
+  REPLACE  ...yöneldi oradaki kuşların daha
+      metin  : uysal olduğu bildirilmişti
+      duyulan: usal oldu bildril mushtu
+  REPLACE  ...uysal olduğu bildirilmişti ama
+      metin  : sonuç değişmedi
+      duyulan: sonuchte ishmede
+  ... ve 133 fark daha
+
+metinde olup DUYULMAYAN: 2316 kelime | duyulup metinde OLMAYAN: 2026
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: history-2026-10-24.duyulan.txt

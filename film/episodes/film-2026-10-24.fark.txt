@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-24.mp3
+
+beklenen 1780 kelime | duyulan 1775 kelime | eşleşme %96.3
+sayı ifadesi: metinde 211, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...seyirci de geri döndü
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...video kasetleri geldi sonra
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...kalan karakterlerinden bazılarını yaratmıştı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nasıl yalnız kaldığını anlatmıştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...cudi dağı nda jandarmayla
+      metin  : çatışan
+      duyulan: yaşan
+  REPLACE  ...yıl hapis yattıktan sonra
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...kahramanlık destanı olarak değil
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...baran ın sevdiği kadın
+      metin  : keje
+      duyulan: kece
+  REPLACE  ...sorusuyla iç içeydi baran
+      metin  : keje yi
+      duyulan: keceyi
+  REPLACE  ...bağı kurulur turgul bu
+      metin  : bağı
+      duyulan: bağ
+  REPLACE  ...için her şeyi kazanmıştır
+      metin  : keje
+      duyulan: kece
+  REPLACE  ...o konağın içinde sermin
+      metin  : hürmericin
+      duyulan: hürmerici
+  REPLACE  ...cumali emel i ve
+      metin  : sedadı
+      duyulan: sedat ı
+  INSERT   ...unutulmaz oldu eşkıya kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...vargı nın yapımcılığı ve
+      metin  : filma cass
+      duyulan: film açaz
+  DELETE   ...de film sezonunda yaklaşık
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ama içinde dolaştığı dünya
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...filmler kadar güçlü görünen
+      metin  : hikayeyle
+      duyulan: hikaye ile
+  REPLACE  ...yeniden güvenilir olabileceğine dair
+      metin  : işaretti
+      duyulan: işareti
+  REPLACE  ...in cumali si de
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...ilk notalarından tanınır oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bittiğini değil başladığını görmüştü
+      metin  : nöron film de
+      duyulan: neuron filmde
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 23 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: film-2026-10-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-23.mp3
+
+beklenen 1402 kelime | duyulan 1404 kelime | eşleşme %94.6
+sayı ifadesi: metinde 253, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çevresinde tankerin vurulduğunu duyurdu
+      metin  : devrim muhafızları
+      duyulan: devrimuhafızları
+  REPLACE  ...özel temsilcisi steve witkoff
+      metin  : saint petersburg da
+      duyulan: santi persberg ta
+  REPLACE  ...kasım ortasında başlayabileceğini açıkladı
+      metin  : volodimir zelenskiy
+      duyulan: volodymyr zelensky i
+  REPLACE  ...çağırdı kansas ve güney
+      metin  : carolina
+      duyulan: karolyna
+  REPLACE  ...dönüşen protestolar sürüyor başbakan
+      metin  : sebastiyen lökornü
+      duyulan: sebastien lecornu
+  REPLACE  ...nun çağrısıyla paris lyon
+      metin  : nis
+      duyulan: nice
+  REPLACE  ...paris lyon nis ve
+      metin  : lil
+      duyulan: lille
+  REPLACE  ...büyük şehirlerde gösteriler yasaklandı
+      metin  : limoj
+      duyulan: limonj
+  REPLACE  ...çan kulesi çöktü cumhurbaşkanı
+      metin  : emanuel makron
+      duyulan: emmanuel macron
+  REPLACE  ...makron i çişleri bakanı
+      metin  : loran nunyez
+      duyulan: laurent núñez
+  REPLACE  ...yarı iletken satışlarının etkisiyle
+      metin  : güne
+      duyulan: güney
+  REPLACE  ...güne üzerinde düşüşle başladı
+      metin  : seul
+      duyulan: seyul
+  REPLACE  ...kuzey koer lideri kim
+      metin  : cong un un
+      duyulan: konku nun
+  REPLACE  ...kız kardeşi kim yo
+      metin  : cong
+      duyulan: kong
+  REPLACE  ...ve serbest nakit akışının
+      metin  : eksiye
+      duyulan: eksiğe
+  REPLACE  ...tesla çeyrekte hisse başına
+      metin  : sentlik
+      duyulan: centlik
+  REPLACE  ...sentlik düzeltilmiş karla beklentileri
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...ize dolarlık gelir ve
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...tutarın katı yatırımcılar arasında
+      metin  : catl
+      duyulan: stlt
+  REPLACE  ...yatırımcılar arasında catl tencent
+      metin  : meituan
+      duyulan: mateone
+  REPLACE  ...catl tencent meituan ve
+      metin  : geely
+      duyulan: gali
+  REPLACE  ...geçiyor i ngiliz bankası
+      metin  : barclays
+      duyulan: barclay
+  REPLACE  ...da gündemde google deepmind
+      metin  : dan
+      duyulan: tan
+  REPLACE  ...nedeniyle istifa etti anthropic
+      metin  : claude opus nokta
+      duyulan: clotopus
+  REPLACE  ...proaktif biçimde yardım eden
+      metin  : claude
+      duyulan: clot
+  REPLACE  ...ispatında yapay zeka destekli
+      metin  : iş
+      duyulan: veriş
+  REPLACE  ...new york borsalarında nasdaq
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...yıllık tahvil faizi yaklaşık
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...civarına indi petrol fiyatları
+      metin  : mayıstan
+      duyulan: mayistan
+  REPLACE  ...dolar aralığında abd ham
+      metin  : petrolü
+      duyulan: petroli
+  INSERT   ...petrol ve faiz endişeleriyle
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...politikası kurulu politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: den ya
+  INSERT   ...gecelik borç verme faizi
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...faizi borçlanma faizi ize
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...bankacılık endeksi gün içinde
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...olmadan tutuklamaya karşı olduğunu
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...ediyor özel in halk
+      metin  : tv ye
+      duyulan: televizyonu ya
+  REPLACE  ...ak parti genel sekreteri
+      metin  : eyyüp
+      duyulan: eyüp
+  INSERT   ...meclisi nin türkiye ile
+      metin  : (yok)
+      duyulan: da
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: gundem-2026-10-23.duyulan.txt

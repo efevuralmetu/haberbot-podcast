@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-24.mp3
+
+beklenen 2692 kelime | duyulan 2730 kelime | eşleşme %95.2
+sayı ifadesi: metinde 285, duyulanda 256  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...üstüne yenisi yapılır bu
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  REPLACE  ...i lk ciddi kazıyı
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...kazıyı otuzlarda fransız arkeolog
+      metin  : lui dölaport
+      duyulan: louis d olaporte
+  REPLACE  ...arkeolog lui dölaport yaptı
+      metin  : dölaport
+      duyulan: d olaporte den a
+  REPLACE  ...aslanların sırrını çözdü bunlar
+      metin  : mö binyılın
+      duyulan: yılın
+  REPLACE  ...geçer ve kentin bağımsızlığı
+      metin  : mö
+      duyulan: milatnokya de
+  DELETE   ...bağımsızlığı mö asur kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...un seferiyle sona erer
+      metin  : dölaport
+      duyulan: d olaporte
+  REPLACE  ...genç ve en üstteki
+      metin  : kabuğuydu
+      duyulan: kabuydu
+  DELETE   ...eski dünya yatıyordu fakat
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yeniden sustu asıl hikaye
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başladı o yıl roma
+      metin  : sapiyentsa
+      duyulan: sapienza
+  REPLACE  ...i talyan ekip salvatoer
+      metin  : pulyisi
+      duyulan: polisi
+  REPLACE  ...türkiye de aynı ekibin
+      metin  : kesintisiz
+      duyulan: kesintisi
+  INSERT   ...en uzun kazılardan olacaktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...uzun kazılardan olacaktı başkanlığı
+      metin  : marçella francipane
+      duyulan: marcella fransipane
+  INSERT   ...yıl boyunca o yönetti
+      metin  : (yok)
+      duyulan: ki den
+  REPLACE  ...başında yine aynı okuldan
+      metin  : françeska
+      duyulan: francesca
+  REPLACE  ...françeska balossi restelli var
+      metin  : francipane
+      duyulan: fransipane
+  REPLACE  ...çok beklenmedik şeyle karşılaştılar
+      metin  : mö binyılın
+      duyulan: milhavroje yılın
+  REPLACE  ...kendi örgütlü yönetimini kurmuştu
+      metin  : güneyle
+      duyulan: güney ile
+  REPLACE  ...üstüne de yaş kil
+      metin  : topağı
+      duyulan: topağa
+  DELETE   ...saklanıyorlardı sarayın içinde kazıcıların
+      metin  : aiki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...fazla kretula bulundu bunlardan
+      metin  : (yok)
+      duyulan: inde
+  INSERT   ...depolara konuyor depolar mühürleniyor
+      metin  : (yok)
+      duyulan: öte
+  REPLACE  ...kakma vardı bu silahlar
+      metin  : mö binyılın
+      duyulan: döncü yılın
+  DELETE   ...binyılın son çeyreğine kabaca
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...buluntunun önemini anlamak için
+      metin  : hançerle
+      duyulan: hançer ile
+  INSERT   ...çok eski silahtır ve
+      metin  : (yok)
+      duyulan: çok
+  REPLACE  ...da en azından şiddet
+      metin  : tehdidinin
+      duyulan: tehditinin
+  REPLACE  ...de anıtsal yapılar vardı
+      metin  : mö binyılın
+      duyulan: yılın
+  REPLACE  ...rızasına ortak törenleer dayanıyordu
+      metin  : vi
+      duyulan: ve i
+  REPLACE  ...başına şey olmaya başlamıştı
+      metin  : francipane
+      duyulan: fransipane
+  REPLACE  ...arslantepe nin sarayı da
+      metin  : çatırdıyordu
+      duyulan: çatırdıordu
+  REPLACE  ...belki ama son yaklaşıyordu
+      metin  : mö
+      duyulan: milletce e
+  REPLACE  ...yeniden kurulmadı mühür sistemi
+      metin  : tayın
+      duyulan: tayin
+  INSERT   ...metal işçiliğinin sürdüğünü anlatıyordu
+      metin  : (yok)
+      duyulan: öl
+  DELETE   ...için oraya yerleştirildiğini yazıyor
+      metin  : kurban ağır kelime
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geçirmişti bu durumda mezar
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...ve yapı gelenekleri vardı
+      metin  : mö binyılın
+      duyulan: millokör yılın
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 41
+
+duyulan metin: arkeoloji-2026-10-24.duyulan.txt

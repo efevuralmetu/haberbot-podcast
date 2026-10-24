@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-24.mp3
+
+beklenen 1658 kelime | duyulan 1669 kelime | eşleşme %96.4
+sayı ifadesi: metinde 191, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...zindan öncekine hiç benzemez
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...türü doğurdu yılına doğru
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kaliforniya üniversitesi nin santa
+      metin  : kruz kampüsünde
+      duyulan: cruz kampüsü nde
+  REPLACE  ...deneyimdi ama zaafı vardı
+      metin  : bulmacaları
+      duyulan: bulmaçaları
+  REPLACE  ...aynı mağaraydı toy ile
+      metin  : wichman
+      duyulan: witchman
+  REPLACE  ...tam da buna takılmıştı
+      metin  : wichman
+      duyulan: witchman
+  REPLACE  ...yıllar sonra kaleme aldığı
+      metin  : rog un
+      duyulan: rogan
+  REPLACE  ...buna prosedürel üretim diyoruz
+      metin  : rog un
+      duyulan: rogan
+  INSERT   ...oyuncu et işaretidir yani
+      metin  : (yok)
+      duyulan: et
+  REPLACE  ...zombi d ejderha k
+      metin  : kerkenez
+      duyulan: kerkenes
+  INSERT   ...başında zarlarla oynanan dungeons
+      metin  : (yok)
+      duyulan: and
+  REPLACE  ...farklı komutlarla çalışıyordu toy
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...aynı şekilde yapmayı sağlıyordu
+      metin  : rog
+      duyulan: roger
+  REPLACE  ...görünen karardan geliyordu ölüm
+      metin  : rog da
+      duyulan: rogada
+  REPLACE  ...giderse kayıttan devam ederdiniz
+      metin  : rog da
+      duyulan: rogada
+  REPLACE  ...ölüm deniyor toy ve
+      metin  : wichman
+      duyulan: witchman
+  REPLACE  ...yayılması berkeley sayesinde gerçekleşti
+      metin  : berkeley
+      duyulan: berkele
+  INSERT   ...araştırma kurumunun bilgisayarlarında çalışıyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kurumunun bilgisayarlarında çalışıyordu yayımlanan
+      metin  : nokta
+      duyulan: bsd
+  REPLACE  ...unix in yaratıcılarından dennis
+      metin  : ritchie
+      duyulan: richie
+  REPLACE  ...şakaya göer rog tarihte
+      metin  : en
+      duyulan: oyun
+  REPLACE  ...çok işlemci zamanını boşa
+      metin  : harcatan
+      duyulan: harçatan
+  INSERT   ...laboratuvarı bulmak zordu rog
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...mellon üniversitesi nde michael
+      metin  : mauldin
+      duyulan: maldin
+  REPLACE  ...michael mauldin ve arkadaşları
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...doğurdu massachusetts te lisede
+      metin  : jay fenlason
+      duyulan: j f lason
+  REPLACE  ...arkadaşları rog dan esinlenerek
+      metin  : hack
+      duyulan: heck
+  REPLACE  ...oklahoma üniversitesi nde robert
+      metin  : alan koeneke
+      duyulan: allen koneke
+  REPLACE  ...şey olabilirdi michael toy
+      metin  : jon
+      duyulan: john
+  REPLACE  ...in kişisel bilgisayarına taşıdı
+      metin  : glenn
+      duyulan: gualen
+  REPLACE  ...sonra bu işe katıldı
+      metin  : pc
+      duyulan: pd
+  INSERT   ...setinden yararlanıyordu artık oyuncu
+      metin  : (yok)
+      duyulan: et
+  REPLACE  ...çiziliyordu ardından oyun yayıncısı
+      metin  : epyx
+      duyulan: epix
+  REPLACE  ...ve aksiyon oyunlarıyla tanınıyordu
+      metin  : epyx
+      duyulan: epix
+  REPLACE  ...geliştiren gönüllülerin elindeydi a
+      metin  : i
+      duyulan: e
+  REPLACE  ...soluklu oyun şirketine dönüşmedi
+      metin  : epyx
+      duyulan: epics
+  REPLACE  ...gölgesinde bambaşka hayat buluyordu
+      metin  : hack
+      duyulan: huck de
+  REPLACE  ...gönüllülerin eline geçti ve
+      metin  : nethack
+      duyulan: net huck
+  INSERT   ...geldi moria nın çizgisinden
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tek ortak ad gerekiyordu
+      metin  : doksanların
+      duyulan: ların
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-10-24.duyulan.txt

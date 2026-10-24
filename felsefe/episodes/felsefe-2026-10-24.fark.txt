@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-24.mp3
+
+beklenen 2367 kelime | duyulan 2376 kelime | eşleşme %95.8
+sayı ifadesi: metinde 310, duyulanda 253  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuzeyinde uruguay nehri kıyısında
+      metin  : fray
+      duyulan: fry
+  REPLACE  ...kasaba var arjantinli yazar
+      metin  : horhe
+      duyulan: jorge
+  REPLACE  ...arjantinli yazar horhe luis
+      metin  : borhes
+      duyulan: borges de
+  REPLACE  ...funes el memorioso yani
+      metin  : belleği
+      duyulan: belleyi
+  REPLACE  ...artık hiçbir şeyi unutamaz
+      metin  : borhes
+      duyulan: borges
+  REPLACE  ...funes nisan sabahı güney
+      metin  : göğündeki
+      duyulan: gölü ndeki
+  REPLACE  ...öğrenir ama bu sınırsız
+      metin  : belleğin
+      duyulan: belleyin
+  REPLACE  ...rahatsız eden şeylerden saat
+      metin  : geçe
+      duyulan: ü gece
+  REPLACE  ...geçe yandan görülen köpekle
+      metin  : geçe
+      duyulan: ü gece
+  REPLACE  ...seferinde başka karşılaşır ve
+      metin  : borhes
+      duyulan: borges
+  INSERT   ...hatıralarının çöplüğünde yaşar ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...borhes i doğrulamış olmasıdır
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...bu adamın adı solomon
+      metin  : şereşevski ydi
+      duyulan: szereşevski idi
+  REPLACE  ...boyunca inceleyen sovyet nöropsikolog
+      metin  : aleksandr
+      duyulan: alexander
+  REPLACE  ...yabancı dilde şiirler verdi
+      metin  : şereşevski
+      duyulan: szereşevski
+  REPLACE  ...öyküsünden çok mücadeleye benziyor
+      metin  : şereşevski
+      duyulan: szereşevski
+  REPLACE  ...kadın bellek araştırmacısı james
+      metin  : mcgaugh
+      duyulan: mcgonagal
+  REPLACE  ...tartıştığını televizyonda ne izlediğini
+      metin  : mcgaugh
+      duyulan: mcgonagal
+  INSERT   ...ekibi yıllarca inceledi ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çok yükü tarif ediyordu
+      metin  : belleğinin
+      duyulan: belleyinin
+  REPLACE  ...sonra bile ilk günkü
+      metin  : tazeliğiyle
+      duyulan: tazeliyle
+  REPLACE  ...sizin isteğinizden bağımsız olarak
+      metin  : zihninizde
+      duyulan: zihninizle
+  INSERT   ...öyküsünden yaklaşık yıl önce
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...klasik filoloji profesörü olan
+      metin  : fridrih niçe
+      duyulan: friedrich nietzsche
+  REPLACE  ...soruya bambaşka kapıdan girmişti
+      metin  : zamana
+      duyulan: zaman ı
+  REPLACE  ...açılışlarından başlar sürü inekle
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...ama bunu türlü başaramaz
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...yüceltiyor gibi görünür ama
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...bile kaldırmaya cesaret edemez
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...kısmının karanlıkta kalması gerekir
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...şimdinin mezar kazıcısı olmamalıdır
+      metin  : niçe
+      duyulan: nietzsche
+  INSERT   ...olmamalıdır niçe yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl sonra yayımladığı ahlakın
+      metin  : soykütüğü
+      duyulan: soykütü
+  REPLACE  ...bu kapıcı olmadan der
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...de şimdi burada durup
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...da hatırlamayı gerektirir yani
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...vermek zorunda olan varlıktır
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...imgesine de başvurur henüz
+      metin  : yadsıyacak
+      duyulan: yatsıyacak
+  INSERT   ...richards ve paul frankland
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eski bilgilerin yeni kararları
+      metin  : yanıltmasını
+      duyulan: yanıtmasını
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 67 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: felsefe-2026-10-24.duyulan.txt

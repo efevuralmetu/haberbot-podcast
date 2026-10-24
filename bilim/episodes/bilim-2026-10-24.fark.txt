@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-24.mp3
+
+beklenen 1914 kelime | duyulan 1917 kelime | eşleşme %97.7
+sayı ifadesi: metinde 189, duyulanda 157  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...dönüp ayağının üstüne iner
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bilim kurumu akademi de
+      metin  : siyans
+      duyulan: science
+  REPLACE  ...ev kedisi fotoğrafları çeken
+      metin  : etyen jül
+      duyulan: etienne jules
+  REPLACE  ...kuşun kanat çırpışını atın
+      metin  : dörtnalını
+      duyulan: nalını
+  REPLACE  ...arda dizilmiş kareleer bölüyor
+      metin  : kronofotografi
+      duyulan: fotoğrafi
+  REPLACE  ...itmedikçe çekmedikçe ya da
+      metin  : burmadıkça
+      duyulan: vurmadıkça
+  DELETE   ...hiç değmeden yerinde dururken
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olması cambridge deki trinity
+      metin  : koleji nde
+      duyulan: college inde
+  REPLACE  ...elektromanyetizmanın denklemlerini kuran james
+      metin  : clerk
+      duyulan: clark
+  REPLACE  ...oturduğunuzu ve elinizdeki ağır
+      metin  : tekerleği
+      duyulan: tekerleyi
+  REPLACE  ...kez arka gövdesini ön
+      metin  : gövdeyle
+      duyulan: gövde ile
+  INSERT   ...dönüşe gerçekten katkı yapıyor
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...atıldı i talyan matematikçi
+      metin  : cuzeppe
+      duyulan: giuseppe
+  INSERT   ...yıl kadar beklemek gerekti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...üniversitesi nden mühendis thomas
+      metin  : kane
+      duyulan: cain
+  REPLACE  ...thomas kane ve öğrencisi
+      metin  : mo scher
+      duyulan: mosher
+  REPLACE  ...ekseni etrafında öbürüne göer
+      metin  : burulmayacaktı
+      duyulan: vurulmayacaktı
+  REPLACE  ...fazla burkamaz kane ile
+      metin  : scher
+      duyulan: sher
+  REPLACE  ...biçimde örtüşüyordu kane ile
+      metin  : scher
+      duyulan: sher
+  REPLACE  ...kedinin havadaki dansı sinir
+      metin  : sistemi ile
+      duyulan: sistemiyle
+  REPLACE  ...verilen ize biçim değiştirmek
+      metin  : biçim
+      duyulan: bicim
+  REPLACE  ...sonunda net dönme bırakıyor
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...alfred shapeer ve frank
+      metin  : wilczek
+      duyulan: wilchek
+  REPLACE  ...matematik dille ele aldılar
+      metin  : wilczek
+      duyulan: wilchek
+  INSERT   ...içindeki kuvvetleer dair çalışmalarıyla
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...denen matematikle tarif ettiler
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...alacağı burgu yok thomas
+      metin  : kane
+      duyulan: cain
+  INSERT   ...da aynı dersi alıyor
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...konuyordu bu peano nun
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kayıtlarına ve kane ile
+      metin  : scher in
+      duyulan: shear ın
+  REPLACE  ...iş görüyor shapeer ile
+      metin  : wilczek
+      duyulan: wilchek
+  REPLACE  ...in çalışmasının çıkış noktalarından
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...düşen kedinin geometrisi ile
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  INSERT   ...hakkında söylediği şey var
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kameralarla ve ayrıntılı bilgisayar
+      metin  : modelleriyle
+      duyulan: modelleri ile
+  REPLACE  ...bulabileceğini kez daha gösteriyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: bilim-2026-10-24.duyulan.txt

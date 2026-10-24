@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-24.mp3
+
+beklenen 1880 kelime | duyulan 1902 kelime | eşleşme %95.0
+sayı ifadesi: metinde 293, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kale de sığınak gibi
+      metin  : cirokastra
+      duyulan: cirocastra
+  REPLACE  ...dağ ın eteğine yaslanan
+      metin  : cirokastra
+      duyulan: cirocastra
+  REPLACE  ...da buradan beslenir rumca
+      metin  : argirokastro
+      duyulan: argyrocastro
+  REPLACE  ...dışarıyı uzak tutar ahşap
+      metin  : içeriyi
+      duyulan: içeriği
+  INSERT   ...arasında yapıldığı kabul edilir
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...konaklarda ize zaman sanki
+      metin  : kırklardan
+      duyulan: lardan
+  REPLACE  ...merkezindeki eski pazar yani
+      metin  : pazari
+      duyulan: pazarii
+  REPLACE  ...pazar yani pazari i
+      metin  : vyeter
+      duyulan: viyeter
+  REPLACE  ...yokuşluğu öyle şeydir ki
+      metin  : cirokastra
+      duyulan: ciro castra
+  REPLACE  ...romanında bu şehirde sokakta
+      metin  : ayağı
+      duyulan: ayağa
+  INSERT   ...bütün kalmasının sebebi de
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karışması kısıtlandı tarihi evler
+      metin  : kayda
+      duyulan: kaydı
+  REPLACE  ...kayda alındı yıllar sonra
+      metin  : cirokastra
+      duyulan: te ciro castra
+  INSERT   ...mirası listesi ne girdi
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...genişletildi ama bu korumanın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sokak vardır yerliler sokaku
+      metin  : i tı marrıve der
+      duyulan: iti marrıveder
+  REPLACE  ...kadaer enver hoca ekim
+      metin  : cirokastra
+      duyulan: de ciro castra
+  REPLACE  ...okudu ardından fransa da
+      metin  : monpelye
+      duyulan: montpellier
+  INSERT   ...komünist direnişin önderlerinden oldu
+      metin  : (yok)
+      duyulan: den teki
+  INSERT   ...çin le yollarını ayırdı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...smail kadaer ize ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kinci dünya savaşı yılları
+      metin  : cirokastra
+      duyulan: cirocastra
+  INSERT   ...döndü kadaer bu yılları
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kronik te anlattı taş
+      metin  : kroniğin
+      duyulan: kronik in
+  INSERT   ...eserleri defalarca sansürle karşılaştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...defalarca sansürle karşılaştı yayımlanan
+      metin  : palati i ındrave
+      duyulan: palatii indirave
+  INSERT   ...ülkelerini gördüler kadaer ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tarihte artık yaşamıyordu nisan
+      metin  : tiran da
+      duyulan: te tiranda
+  REPLACE  ...nisan tiran da ölmüştü
+      metin  : cirokastra
+      duyulan: cirocastra
+  REPLACE  ...da ölmüştü cirokastra nın
+      metin  : müze şehir
+      duyulan: de müzeşehir
+  INSERT   ...hikayenin parçasıdır asıl ev
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...parçasıdır asıl ev yanmıştı
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...etnografya müzesine dönüştürüldü bugün
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...içeride diktatörün çocukluğunu değil
+      metin  : cirokastra
+      duyulan: cirocastra
+  REPLACE  ...giysilerini ve odalarını görürsünüz
+      metin  : kadaer
+      duyulan: cadaer
+  INSERT   ...kadaer nin evi ize
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kaleye de düşer kale
+      metin  : arnavutluğun
+      duyulan: arnavutlu nun
+  REPLACE  ...güçlendirdi saat kulesi döneminden
+      metin  : kalmadır
+      duyulan: kalmadı
+  REPLACE  ...yüzyıldaki işlevi daha karanlıktı
+      metin  : otuzlarda
+      duyulan: larda
+  INSERT   ...devam etti ve ancak
+      metin  : (yok)
+      duyulan: de
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 85
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: seyahat-2026-10-24.duyulan.txt
