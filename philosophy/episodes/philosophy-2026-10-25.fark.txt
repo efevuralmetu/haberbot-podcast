@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-25.mp3
+
+beklenen 2162 kelime | duyulan 1912 kelime | eşleşme %13.5
+sayı ifadesi: metinde 213, duyulanda 121  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sinceer or simply rude
+      metin  : sabah apartmandan çıkıyorsunuz arkanızdan geliyor kapıyı saniye tutuyorsunuz o da başını hafifçe eğip teşekkürler diyor siz de rica ederim diyorsunuz köşedeki fırında tezgahtaki gence kolay gelsin diyorsunuz o da sağ olun afiyet olsun diye karşılık veriyor asansörde komşuya geçmiş olsun duydum rahatsızlanmışsınız diyorsunuz daha saat olmadan belki tane böyle kalıp söz kullanmış oluyorsunuz ve hiçbirini düşünerek seçmiyorsunuz peki o fırındaki gence gerçekten işinin kolay geçmesini mi dilediniz kapıyı tuttuğunuz kişinin bile tam görmediniz teşekkür eden de içinden gerçekten minnet duymadı belki yine de bu küçük alışverişlerden eksik kalsa hemen fark ederiz selam verdiğiniz karşılık vermeden geçip gitse bütün gün aklınıza takılabilir demek ki bu sözler boş değil taşıdıkları şey anlamdan çok başka yük kanadalı sosyolog erving goffman bu yükü adlandırmaya çalışanlardan te yazdığı makalede her insanın toplum içinde taşıdığını söyler yani başkalarının gözünde kendine ait saydığı korumaya çalıştığı değer türkçede kızarmak bulmak yüzsüzlük derken aslında aynı şeyden söz ediyoruz goffman
+      duyulan: when someone says i m just being honest i m
+  REPLACE  ...söz ediyoruz goffman a
+      metin  : göer gündelik etkileşimin büyük kısmı karşılıklı olarak bu korumaya harcanan sessiz emektir şey istemeden önce rahatsız etmiyorsam demek hata yapanın mahcubiyetini olur öyle şeyler diye hafifletmek saçma şey söylediğinde konuyu fark ettirmeden değiştirmek hepsi bu emeğin parçası daha sonra dilbilimciler penelope brown ile stephen levinson bu fikri geliştirip nezaketi birbirimizin tehdit eden davranışları yumuşatmanın evrensel yolu olarak tarif ettiler her dilde kalıplar farklı olsa da işlev neredeyze aynı bu açıdan bakınca kolay gelsin dilek olmaktan çok işarettir aşağı yukarı şunu söyler seni görüyorum burada insan olarak varsın aramızda husumet yok kalıp olması eksiklik değil aksine işe yaramasının şartıdır herkes ne anlama geldiğini bildiği için kimsenin her seferinde yeni cümle kurmasına karşısındakinin niyetini çözmeye çalışmasına gerek kalmaz yolların trafik işaretleri gibi düşünün kırmızı ışıkta durmanız sürücüleer duyduğunuz derin sevgiden kaynaklanmaz ama o ışık olmasa kavşakta kimse güvende olmaz nezaket tarihi de bu işaretlerin yavaş yavaş nasıl biriktiğini gösterir
+      duyulan: straightforward person aer they being sinceer aer they being sinceer aer they being generous and when someone says i m a straightforward person aer they being generous or simply rude is al of this a polite lie you smile at a relative you can t stand you sign off with best regards to someone you don t regard at al and you say enjoy yor meal without thinking is al of this a polite lie or is the mask slowly shaping the face beneath it and when someone says i m a straightforward person aer they being generous aer they being generous aer they being generous aer they being generous
+  REPLACE  ...nasıl biriktiğini gösterir alman
+      metin  : sosyolog norbert
+      duyulan: s socioloq norbird
+  REPLACE  ...sosyolog norbert elias avrupa
+      metin  : da sofra adabının sümkürmenin tükürmenin yatak odasının kurallarının içinde nasıl değiştiğini izlemiş ve şunu fark etmişti zamanlar dışarıdan açıkça öğretilen
+      duyulan: das ofra adabunen simkurmenen tukurmenen yatakodasenen kurallernen birkatyuzilichinden nasildeyishtini islemishveshunofarketmishti zamanar dushardan achukchauretylan
+  REPLACE  ...açıkça öğretilen kurallar zamanla
+      metin  : içselleşiyor insanlar artık kural olduğu için değil
+      duyulan: ichsaylishyor insanar artek kuralloldu ichindeel
+  REPLACE  ...olduğu için değil aksini
+      metin  : yapmak utanç verdiği için öyle davranıyor rotterdamlı erasmus un da çocuklar için yazdığı görgü kitabı bugün
+      duyulan: apmak utanshvirdi ichin olyedavraniyor radardamle erasmusen beishwiz otirzda chojuklarichin yazde gyrgukitabbe bugun
+  REPLACE  ...kitabı bugün kimsenin yazmaya
+      metin  : gerek duymayacağı tavsiyelerle
+      duyulan: gerektu imeja tawclr le
+  REPLACE  ...gerek duymayacağı tavsiyelerle doludur
+      metin  : bugün
+      duyulan: bugun
+  REPLACE  ...tavsiyelerle doludur bugün bize
+      metin  : doğal gelen pek çok incelik aslında yüzyıllar süren terbiyenin
+      duyulan: dolgelan pekchok injelik aslan da yuzillar suranbir tarbienen
+  REPLACE  ...yüzyıllar süren terbiyenin tortusudur
+      metin  : ama tam burada rahatsız edici
+      duyulan: eimatambor da rahatsuz edigybir sorubeliriyor bukadar otomatik bukadar dushunun medansoilen ansoizdar garchik dan bishayifade edyormu furindakigenge kolaygazin deiparkasandan mesaisinin uzununu umursam yorsak yadakapayitutu muskishiye ichimizdansoilen yorsak nezakette dimizshay iybir oyunjuluktani barit diyirmi belkhi debbutun buinjelik garchik duygularumuzun uzerine urtulmush harkesin ayni deseninigii diyir kumashtir bu
+  REPLACE  ...burada rahatsız edici soru
+      metin  : beliriyor bu kadar otomatik bu kadar düşünülmeden söylenen sözler gerçekten şey ifade ediyor mu fırındaki gence kolay gelsin deyip arkasından mesaisinin uzunluğunu umursamıyorsak ya da kapıyı tuttuğumuz kişiye içimizden söyleniyorsak nezaket dediğimiz şey iyi oyunculuktan ibaret değil mi belki de bütün bu incelik gerçek duygularımızın üzerine örtülmüş herkesin aynı desenini giydiği kumaştır bu soruyu sesini yükselterek soran ilk kişilerden yüzyıllar önce paris yakınlarında
+      duyulan: sesiniyuksalterek soranik kishilardanbir yuzillar unjepari siakunlarandabir
+  REPLACE  ...önce paris yakınlarında yolda
+      metin  : yürüyen adamdı yazında jean
+      duyulan: yurianbir adamda yazenda john
+  REPLACE  ...yazında jean jacques rousseau
+      metin  : vincennes deki kalede tutuklu bulunan diderot yu ziyarete gidiyordu yol uzundu hava sıcaktı yürürken okumak için yanına dergi almıştı derginin sayfasında dijon akademisi nin açtığı yarışmanın duyurusunu gördü
+      duyulan: vin sensteki kalidetu tuklubulunandostu didero yuziarete yoluzundu hawasajakte yururken okumakichin yananabir dargyalmishte durjanin saifasinda dijonakademisinin achtir yarishmanin du yurusunugardu
+  REPLACE  ...yarışmanın duyurusunu gördü soru
+      metin  : şuydu bilimlerin ve sanatların yeniden canlanması ahlakın arınmasına katkıda bulunmuş muydu
+      duyulan: shuudu bilimnerin wesanatlarin yenidanjanlanmasi ahliakan arinmasina katkadabulunmushmudu
+  REPLACE  ...muydu rousseau sonradan bu
+      metin  : satırları okuduğu anda başının döndüğünü ağacın çöküp ağladığını anlatır cevabı o an bilmişti hayır
+      duyulan: satirleru okudu andabashinin dundunu altanatru kipaladun amnatir sivabouan bilmishte hair
+  REPLACE  ...an bilmişti hayır tam
+      metin  : tersine ertesi yıl de yazdığı deneme ödülü kazandı
+      duyulan: tersinein erte siil yan bidyuzuz elide yazdu denemeu dulukazandu
+  REPLACE  ...ödülü kazandı ve rousseau
+      metin  : yu anda ünlü yaptı metnin
+      duyulan: yunuyaptu mitnin
+  REPLACE  ...ünlü yaptı metnin en
+      metin  : sert sayfalarından bazıları doğrudan
+      duyulan: sairte saifalaran dan baseler dorudan
+  REPLACE  ...sayfalarından bazıları doğrudan nezakete
+      metin  : ayrılmıştır
+      duyulan: irolmishte
+  REPLACE  ...doğrudan nezakete ayrılmıştır rousseau
+      metin  : ya göer zamanının parlak paris salonlarında herkes aynı kalıba dökülmüştü herkes aynı biçimde selamlıyor aynı biçimde iltifat ediyor aynı inceliklerle konuşuyordu sorun
+      duyulan: yaguer zamanunun parlakparis salonaran daherkaz aine kalabadukulmishte hurkaz aine bichimde selamluur aine bichimde iltefate duur aine injeliklarlekonu shiurdu soren
+  REPLACE  ...konuşuyordu sorun da tam
+      metin  : buydu bu tekdüze ve aldatıcı örtünün ne olduğunu
+      duyulan: baidu butek du zewe aldatu je urtunun altan da neoldunu
+  REPLACE  ...örtünün ne olduğunu kimse
+      metin  : bilemiyordu kuşku
+      duyulan: bilimyurdu kushku
+  REPLACE  ...kimse bilemiyordu kuşku korku
+      metin  : soğukluk gizli kin hatta
+      duyulan: soekluk gizlikin hata
+  REPLACE  ...gizli kin hatta ihanet
+      metin  : hepsi kibarlığın pürüzsüz yüzeyinin arkasına saklanabiliyordu i nsanlar artık oldukları gibi görünmeye cesaret edemiyordu
+      duyulan: hepsy kibarlun purusuzu zainin arkazana saklanabiliurdu in san nair arte koldu klerugibigurun mea jesarete bilimyurdu
+  REPLACE  ...cesaret edemiyordu rousseau nun
+      metin  : yakınması aşağı yukarı şuydu mı
+      duyulan: yakunmasa asha yukarushrudu birdostlamu
+  REPLACE  ...yukarı şuydu mı yoksa
+      metin  : düşmanla mı konuştuğunuzu anlamak için o kişinin davranışına bakmak yetmez oldu çünkü de aynı zarafetle gülümsüyor
+      duyulan: birdushmanlamu konushtunu za annamakichin okishinin davranishinabakmak yetmezoldu aine zarafet legulim syor
+  REPLACE  ...aynı zarafetle gülümsüyor bunun
+      metin  : karşısına
+      duyulan: karshesana
+  REPLACE  ...bunun karşısına rousseau kaba
+      metin  : ama dürüst geçmişin hayalini koyar
+      duyulan: amadurust michin hayali nekoyar
+  REPLACE  ...geçmişin hayalini koyar eski
+      metin  : insanların görgüsü
+      duyulan: in san naran gurgeusu
+  REPLACE  ...eski insanların görgüsü kaba
+      metin  : olabilirdi ama birbirlerini kolayca tanıyabiliyorlardı ve
+      duyulan: ola bilirde amabir nekolaija taniye biljorlardu webukarsuluk lishefafluk pektrok kutuluktang koryordu nezaket bubakishla ahelakan ilarlemesidil ahelakan taklididu erdemin kandisi kibaldurken kostumu injaldikche injalmishte rousseau bufikri birkachil sonra dahadirin birkirkle balade in san da kandini seve meoldun seolete herkan ludabulunan kandini korumaya yonelyksa debirichkududu rete ki isse toplumichinde doan surekle bashkalari lakuyaslayan onnaren guzun de dayarligurun meyachalushan kaskanch niksev gisidu kibarlak buikinjiturun enrafin arajidu gulumse memiz ilti flatemiz injelimiz bashkasonan ili ichin deel bizinasil gurdu ichin warde boileje in san yavash yavash kendi ichinde deel bashkalaranan bakishandaya shamaaya bashfiyordu
+  REPLACE  ...kolayca tanıyabiliyorlardı ve bu
+      metin  : karşılıklı şeffaflık pek çok kötülükten koruyordu nezaket
+      duyulan: suchlamabugun de tanadik geller toplantad haarkezin birbirne chokde arli birkatkadide koridor daize okatkila alayadildi ishiarlerinidushunun yada yuzunuzae sujajik gulumseib arkanazdankonushan birtanadik boileanardak kibarlak garchak dan birmaskeye hatda birsilahadunushur kibar kababirindan daha tehli keli bilayola bilir chunku kabanan nedushundunu enazandam bilir siniz rusaudan yaklashik yuzielunje franzas dushunur la roshefu kold aina salonarun hawasanatek jumnelik osdeishte resudirmishte bunlardan butartishmanan kalbine saplanar ik yuzduluk kotuluun ardeme odedibir saigovargisidir
+  REPLACE  ...kötülükten koruyordu nezaket bu
+      metin  : bakışla ahlakın ilerlemesi değil ahlakın taklidiydi erdemin kendisi kaybolurken kostümü inceldikçe incelmişti rousseau bu fikri yıl sonra
+      duyulan: kamle ik yunne ke ser yandan kebarlun chouzaman sahte oldunu kabuledar le te yandan ilginj shayi imaedar kotuluuk bilayardam kalunagirme aitiatu yursa demekki yardam halabirulchudur kimse achikcha kabaolmayey uvinchkonusu yapam yursa toplum nein doro oldunu henuzunutmamishtir rusaudan efkesinin gujur burada bizafa dakapu aralar eyarichimizde ke harduy guyoldugibidu shavur makduru stuksi kazgan oldumus guin herkesi kazgan nimuzagustar meimis sikildumus dakar shimuzdakinin yuzun esne meimis gerekir boile dunyanan
+  REPLACE  ...fikri yıl sonra daha
+      metin  : derin kökle bağladı i nsanda tür kendini sevme olduğunu söyledi her canlıda bulunan kendini korumaya yönelik sade içgüdüydü öteki ize toplum içinde doğan sürekli başkalarıyla kıyaslayan onların gözünde değerli görünmeye çalışan kıskanç benlik sevgisiydi kibarlık bu türün en rafine aracıydı gülümsememiz iltifatımız inceliğimiz başkasının iyiliği için değil bizi nasıl gördüğü için vardı böylece insan yavaş yavaş kendi içinde değil başkalarının bakışında yaşamaya başlıyordu bu suçlama bugün de tanıdık gelir toplantıda herkesin birbirine çok değerli katkı dediği koridorda ize o katkıyla alay edildiği iş yerlerini düşünün ya da yüzünüze sıcacık gülümseyip arkanızdan konuşan tanıdığı böyle anlarda kibarlık gerçekten maskeye hatta silaha dönüşür kibar kaba birinden daha tehlikeli bile olabilir çünkü kabanın ne düşündüğünü en azından bilirsiniz rousseau dan yaklaşık yıl önce fransız düşünür la rochefoucauld aynı salonların havasını tek cümlelik özdeyişleer sığdırmıştı bunlardan bu tartışmanın kalbine saplanır i kiyüzlülük kötülüğün erdeme ödediği saygı vergisidir bu cümle yöne keser yandan kibarlığın çoğu zaman sahte olduğunu kabul eder öte yandan ilginç şeyi ima eder kötülük bile erdem kılığına girmeye ihtiyaç duyuyorsa demek ki erdem hala ölçüdür kimse açıkça kaba olmayı övünç konusu yapamıyorsa toplum neyin doğru olduğunu henüz unutmamıştır rousseau nun öfkesinin gücü burada zaafa da kapı aralar eğer içimizdeki her duyguyu olduğu gibi dışa vurmak dürüstlükse kızgın olduğumuz gün herkese kızgınlığımızı göstermemiz sıkıldığımızda karşımızdakinin esnememiz gerekir böyle dünyanın daha şeffaf olacağı doğru
+      duyulan: shefafolajar doro
+  REPLACE  ...olacağı doğru ama daha
+      metin  : iyi olacağı şüphelidir dahası rousseau nun özlediği o kaba
+      duyulan: yolajar shupilidur daha se rusaunun uzledi okaba
+  REPLACE  ...özlediği o kaba ama
+      metin  : içten geçmişin gerçekten var olup olmadığını
+      duyulan: ichtang echmishin garchik tan warolup olmadunu
+  REPLACE  ...var olup olmadığını kimse
+      metin  : bilmiyor
+      duyulan: bilmyor
+  REPLACE  ...olmadığını kimse bilmiyor kendisi
+      metin  : de bunun tarih anlatısı olmaktan çok düşünce deneyi olduğunu sezdirir asıl açık
+      duyulan: debunun tari hannata saol makdan chok dushunje deneyo oldunu seizdirir assala chik
+  REPLACE  ...asıl açık kalan soru
+      metin  : şudur dış ile iç arasındaki uçurum her
+      duyulan: shudur dush ila ichar asandaki uchurum har
+  REPLACE  ...uçurum her zaman yalan
+      metin  : mı demektir yoksa bu uçurum bazen
+      duyulan: mademektir yoksabu uchurum baazan
+  REPLACE  ...bu uçurum bazen yolun
+      metin  : başlangıcı olabilir mi rousseau nun paris inden çok uzakta yıldan
+      duyulan: bashlan gujo alla bilirme rusaunun parison den chokuzakta dan yildan
+  ... ve 125 fark daha
+
+metinde olup DUYULMAYAN: 1882 kelime | duyulup metinde OLMAYAN: 1634
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-10-25.duyulan.txt

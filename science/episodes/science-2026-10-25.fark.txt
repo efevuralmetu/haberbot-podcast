@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-25.mp3
+
+beklenen 1604 kelime | duyulan 1244 kelime | eşleşme %13.1
+sayı ifadesi: metinde 167, duyulanda 98  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...that does the rest
+      metin  : mutfak düşünün ocakta su kaynıyor tezgahta paket kuru spagetti duruyor siz de pek çok insanın yaptığı şeyi yapıyorsunuz avuç makarnayı ucundan tutup tencereye sığsın diye ortadan kırmak istiyorsunuz çıt sesi gelir ama elinizde yarım kalmaz tezgaha yeer ocağın kenarına küçük parça sıçrar tek çubuğu yavaşça dikkatle büksek bile sonuç pek değişmez spagetti neredeyze hiçbir zaman tam ortadan ayrılmaz çoğunlukla parça çıkar bazen bazen daha fazla bu küçük tuhaflığı fark eden ve bırakmayan insanlardan yüzyılın en ünlü fizikçilerinden
+      duyulan: beer mutfaktushenen in the early days beer was used to break into just pieces the part is the last part which is the dirt which is the water in the early days the break was in the early days and the break was in the early days of
+  REPLACE  ...ünlü fizikçilerinden richard feynman
+      metin  : dı kuantum elektrodinamiğine yaptığı katkılarla te nobel fizik ödülü nü paylaşan kasa kilitlerini açmayı hobi edinen bongo çalan
+      duyulan: quantum electrodynamics weer used to break into just pieces the was in the mobile physics lab the was in the physics lab the was in
+  REPLACE  ...edinen bongo çalan feynman
+      metin  : sıradan şeylerin içindeki bilmeceleer karşı tükenmez merak taşırdı dostlarının anlatımlarından derlenen kitapta aktarılan hikayeye göer gece mutfakta arkadaşıyla birlikte saatlerce kuru spagetti kırdılar paket paket makarna harcadılar her seferinde aynı sonuçla karşılaştılar çubuk değil ya da daha çok parçaya ayrılıyordu neden böyle olduğuna dair tatmin edici açıklama bulamadılar i lk bakışta mesele basit görünüyor i nce uzun kırılgan çubuğu ucundan tutup büküyorsunuz bükülen çubukta en büyük gerilme eğriliğin en fazla olduğu yerde yani kabaca ortada toplanır çubuğun dış gerilir iç sıkışır kuru spagetti esnemeye çok az dayanabilen cam gibi gevrek malzemedir dış yüzeydeki gerilme belli eşiği geçtiğinde orada çatlak başlar ve çubuk kırılır buraya kadar her şey sezgimize uyuyor sezgimize göer hikaye burada bitmeli kırık parça ama deneyler başka şey söylüyor kırık tane değil fazla üstelik ve kırıklar rastgele yerlerde de değil çoğu zaman ilk kırığın yakınında komşu bölgelerde ortaya çıkıyorlar sanki ilk kırılma kapı açıyor ve ardından gelenler o kapıdan geçiyor i şin ilginç yanı şu ilk kırılma anında çubuktaki gerilme azalmalı sonuçta çubuk kırıldı uç artık birbirine bağlı değil bükülme kuvveti ortadan kalktı gerilim kalkınca parçaların gevşemesi düzleşmesi rahatlaması beklenir peki ama gerilimin azaldığı anda yeni kırıklar nasıl oluşuyor feynman ın kafasını kurcalayan ve o gece mutfakta cevapsız kalan soru tam olarak buydu bu bilmecenin cevabı kırılma anının kendisinde gözün yakalayamayacağı kadar kısa zaman diliminde saklıydı ve görebilmek için feynman ın mutfağından onlarca yıl sonra
+      duyulan: and the was in the computer science lab in the early days the break was in the mobile physics lab the was in the laboratory lab the was in the laboratory lab and the was in the computer science lab was in the equi frances physics lab and the was in the sebastian neukirch lab
+  REPLACE  ...onlarca yıl sonra paris
+      metin  : teki laboratuvarda saniyenin dilimlerini kaydedebilen kameraların önünde spagetti kırmak gerekecekti yılında fransız fizikçi basile audoly ve sébastien neukirch bu soruyu ciddiye aldı paris teki université
+      duyulan: tech university
+  REPLACE  ...paris teki université pierer
+      metin  : et
+      duyulan: and
+  REPLACE  ...pierer et marie curie
+      metin  : de yani pierer ve marie curie üniversitesi nde çalışan spagettiyi mutfak eğlencesi olarak değil daha genel problemin örneği olarak gördü ince ve gevrek çubuk uçlarından bükülerek kırıldığında ne olur bu soru yalnızca makarnayla ilgili değildi aynı mantık ince cam çubuklara kuru dallara kırılgan lifleer de uygulanabilirdi spagetti ize ucuz her yerde bulunan ve son derece düzenli biçimli deney malzemesiydi i ki fizikçi çubukları kontrollü biçimde büken düzenek kurdu ve kırılma anını yüksek hızlı kamerayla kaydetti görüntüler yavaşlatıldığında çıplak gözle tek çıt sesi gibi algılanan olayın aslında dizi olaydan oluştuğu ortaya çıktı önce çubuk eğriliğin en fazla olduğu bölgede kırılıyordu ardından kırılmadan sonra geriye kalan yarının her hızlı titreşim başlıyor bu titreşim çubuk boyunca ilerliyor ve kısa süer içinde yeni kırıklar beliriyordu burada kilit
+      duyulan: day in physics the same day the computer control of the computer computer was used to break into just pieces according to the research the break was in the early days and the break was in the laboratory lab the other hand the last break was in the laboratory lab in the early days the computer engineering lab was used in the part the break was in the laboratory lab and you wil be able to see it in the next video boredek kilat
+  REPLACE  ...beliriyordu burada kilit kavram
+      metin  : geri tepme bükülmüş spagetti gerilmiş yay gibi enerji depolar çubuk kırıldığı
+      duyulan: geertep may bukul mushbir spagheti geral mushbir yaygibi nrg deppolar shubuk kural deu
+  REPLACE  ...depolar çubuk kırıldığı anda
+      metin  : her yarı
+      duyulan: hari kiyarida ujundan serbeskalur busser best uch deppola deu nrg iboshaltarak duzdesmekister vehuzla giri savrulur biroltan and missina sukopdun
+  REPLACE  ...anda her yarı da
+      metin  : birdenbier ucundan serbest kalır bu serbest uç depoladığı enerjiyi boşaltarak düzleşmek ister ve hızla geri savrulur oltanın misinası koptuğunda kamışın ucunun nasıl sıçradığını düşünün ama spagetti bu geri savrulma sırasında bütün
+      duyulan: kamushen ujunun nasil sichradun adushunun ima spagheti bugeri savrul masirasan da butun
+  REPLACE  ...savrulma sırasında bütün halinde
+      metin  : kaskatı
+      duyulan: kaskatibir
+  REPLACE  ...halinde kaskatı sopa gibi
+      metin  : hareket etmez serbest uçtan başlayan hareket çubuk boyunca dalga olarak yayılır fizikçiler
+      duyulan: haraketet mas serbesk uchtan bashlayan haraket shubuk bojunja birdalgolarak yayilur physik tjilair
+  REPLACE  ...olarak yayılır fizikçiler buna
+      metin  : eğilme dalgası diyor çubuğun
+      duyulan: eil medalga sudur shubuun
+  REPLACE  ...dalgası diyor çubuğun kendi
+      metin  : ekseni boyunca ilerleyen oraya
+      duyulan: exeni bojunja ilair lian orea
+  REPLACE  ...boyunca ilerleyen oraya buraya
+      metin  : kıvıran
+      duyulan: kavuran
+  REPLACE  ...oraya buraya kıvıran bozulma
+      metin  : i şte paradoks tam burada çözülüyor
+      duyulan: ishta paradox tambura da chuzulur
+  REPLACE  ...burada çözülüyor evet ilk
+      metin  : kırılmayla birlikte çubuğu büken dış kuvvet ortadan kalkar ama geri
+      duyulan: kirl mayilabir likte chubu bükandushku vet orta dankalkar ima giri
+  REPLACE  ...kalkar ama geri tepen
+      metin  : uçtan
+      duyulan: uchtan
+  REPLACE  ...geri tepen uçtan yola
+      metin  : çıkan eğilme dalgası ilerlediği bölgelerde çubuğun eğriliğini anlığına artırabilir audoly ve neukirch çubuğun hareketini tarif eden esnek çubuk denklemlerini
+      duyulan: chikan eil medalga sudur ilair le deebulge larede chubuun eyri lini anluna artur abiliur adoli v newkirch chubuun haraketinitari fedan essnek chubuk denklamnerine
+  REPLACE  ...esnek çubuk denklemlerini kullanarak
+      metin  : bunu ayrıntılı biçimde gösterdi kırılmadan hemen
+      duyulan: buna iron talibichim da gostarde kirl madan heman
+  REPLACE  ...kırılmadan hemen sonra kalan
+      metin  : parçalardaki eğrilik bazı
+      duyulan: parkalarda ki eyri likbazu
+  REPLACE  ...parçalardaki eğrilik bazı noktalarda
+      metin  : kırılmadan önceki değerin de üzerine çıkabiliyor
+      duyulan: kirl madan unjaki dairin da uzaira nechika biliur
+  REPLACE  ...de üzerine çıkabiliyor yani
+      metin  : parça
+      duyulan: parcha
+  REPLACE  ...çıkabiliyor yani parça rahatlamak
+      metin  : üzereyken
+      duyulan: uzairaykan
+  REPLACE  ...parça rahatlamak üzereyken kendi
+      metin  : geri tepmesinin yarattığı
+      duyulan: giri tepmenin yaratdul
+  REPLACE  ...geri tepmesinin yarattığı dalga
+      metin  : tarafından kez
+      duyulan: tarafandan kezdaha hemde
+  REPLACE  ...dalga tarafından kez daha
+      metin  : hem de daha sert biçimde bükülüyor spagetti zaten kırılma sınırının hemen bükülmüş durumda olduğu için bu ek bükülme çoğu zaman sınırı aşmaya yetiyor böylece kırık oluşuyor i kinci kırık
+      duyulan: sartbichim da bükul uur spajari zatan kirl masunranan heman altan da bükul mushturum da ulduichin buek bükul mechauzaman sonra ashmaya yetiur boileja kurek olushuur kurek
+  REPLACE  ...kırık da yeni serbest
+      metin  : uç ve
+      duyulan: uchwe
+  REPLACE  ...serbest uç ve yeni
+      metin  : geri tepme demek
+      duyulan: giri tepmedemek
+  REPLACE  ...geri tepme demek bu
+      metin  : kez daha küçük parçada aynı süreç tekrarlanabiliyor kırıklar zincir
+      duyulan: kezdaha kuchuk parchada ainu surech tekrarlana biliur kureklar zindjir
+  REPLACE  ...tekrarlanabiliyor kırıklar zincir gibi
+      metin  : birbirini tetikliyor araştırmacılar
+      duyulan: neetetikliur arashtir majelar
+  REPLACE  ...birbirini tetikliyor araştırmacılar bu
+      metin  : olguyu birbirini izleyen çatlakların oluşturduğu çağlayana benzetti çağlayanın ne kadar süreceği parçaların uzunluğuna ve içlerinde kalan enerjiye bağlı
+      duyulan: olguiur ni islayan chatlakliran olushturdu chaleyana benseti chaleyana nekadar suryeji parchalaran uzun veichlerin dekalan enerji abalu
+  REPLACE  ...enerjiye bağlı enerji yeni
+      metin  : kırılma için yetersiz kaldığında zincir
+      duyulan: kirl meichin ye tersis kaldan da zindjir
+  REPLACE  ...yetersiz kaldığında zincir sona
+      metin  : eriyor mutfak tezgahına sıçrayan o küçük parçalar
+      duyulan: eryur mut faktez gehena sitreyano kuchuk parchalar
+  REPLACE  ...o küçük parçalar bu
+      metin  : zincirin halkaları bu açıklama feynman ın gözlediği ayrıntıyı
+      duyulan: zindjirin halkalur bua chiklama feynmanan geuzde dibi iron tiida annamnakalur ikkuriklaran genalikle ikkuruya yakunbergeler
+  REPLACE  ...ın gözlediği ayrıntıyı da
+      metin  : anlamlı kılıyor ek kırıkların genellikle ilk kırığa yakın bölgelerde ortaya çıkması eğilme dalgası
+      duyulan: orteyachikmasu eylme dalga
+  REPLACE  ...çıkması eğilme dalgası serbest
+      metin  : uçtan çıkıp ilerlerken eğriliği
+      duyulan: uchtan chikupilar larkan eyrli enchok arthur duyar lar ojani spetan yakunbergeler oluur dola isila kurek raskele yerde dil dalganan ensart vurdu yerde achalur odolive njukurchen chalushmasu fezein
+  REPLACE  ...çıkıp ilerlerken eğriliği en
+      metin  : çok artırdığı yerler o uca nispeten yakın bölgeler oluyor dolayısıyla kırık rastgele yerde değil dalganın en sert vurduğu yerde açılıyor audoly ve neukirch in çalışması fiziğin en saygın dergilerinden
+      duyulan: saigon dergelerendan
+  REPLACE  ...review letters ta yani
+      metin  : fiziksel i nceleme mektupları nda yayımlandı makalenin başlığı da
+      duyulan: physiksal injele memektu plaranda ye imlande makalinen bashluda
+  REPLACE  ...makalenin başlığı da meselenin
+      metin  : özünü saklamıyordu çubukların art arda gelen çatlaklarla parçalanmasını ve spagettinin neden kırılmadığını konu alıyordu bu çalışma yılında fizikçiye
+      duyulan: uzunu saklamiordu trubuklaran arthardagelan chatlaklar la parcalan masunave spagetinin nedenikiye kurilmadinu konaliordu bua chalushma ikki yolanda ikki physikchiye
+  REPLACE  ...yılında fizikçiye ig nobel
+      metin  : fizik ödülü nü kazandırdı
+      duyulan: physikodunu kazandardu
+  ... ve 59 fark daha
+
+metinde olup DUYULMAYAN: 1417 kelime | duyulup metinde OLMAYAN: 1057
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-10-25.duyulan.txt

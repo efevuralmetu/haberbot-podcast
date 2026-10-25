@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-24.mp3
+
+beklenen 1460 kelime | duyulan 1468 kelime | eşleşme %95.6
+sayı ifadesi: metinde 338, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ran a yeni askeri
+      metin  : harekat
+      duyulan: hareket
+  REPLACE  ...başkent paris in yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yaşandı i çişleri bakanı
+      metin  : loran nunez
+      duyulan: loren nunes
+  REPLACE  ...motivasyonu olup olmadığını inceliyor
+      metin  : trap
+      duyulan: trump
+  REPLACE  ...ın amerikan diplomatlarına ve
+      metin  : personeline
+      duyulan: personelene
+  REPLACE  ...yarışı ize daha çekişmeli
+      metin  : kalshi
+      duyulan: kals i
+  REPLACE  ...ihtimali olarak fiyatlanıyor kuzey
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...georgia ohio michigan ve
+      metin  : maine
+      duyulan: meyne
+  REPLACE  ...mücadeleler olarak öne çıkıyor
+      metin  : maine
+      duyulan: meyne
+  REPLACE  ...son yoklama cumhuriyetçi senatör
+      metin  : susan
+      duyulan: suzan
+  INSERT   ...ordusu kuzey koer nin
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...mayını döşediğini tahmin ediyor
+      metin  : seul
+      duyulan: seyul
+  REPLACE  ...askeri görüşmeler önerdi bölgede
+      metin  : champi
+      duyulan: şampi
+  REPLACE  ...koer nin güneyi ve
+      metin  : ceju
+      duyulan: cecu
+  REPLACE  ...emirlikleri merkezli yatırımcılar ve
+      metin  : coatue
+      duyulan: kuwait
+  REPLACE  ...sağlık alanında microsoft un
+      metin  : mai dxo
+      duyulan: mydxo
+  INSERT   ...göer sistem karmaşık vakaların
+      metin  : (yok)
+      duyulan: ünde
+  INSERT   ...basamak hekimlerinde bu oran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...de ize moonshot şirketi
+      metin  : kimi kotuz
+      duyulan: kimiko
+  REPLACE  ...jones endeksi düşüşle puana
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...kurulu toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: den ya
+  INSERT   ...gecelik borç verme faizi
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...gecelik borçlanma faizi ize
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...da zorlu hafta yaşandı
+      metin  : bist
+      duyulan: bst
+  INSERT   ...cuma günü gün içinde
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...günü gün içinde varan
+      metin  : düşüşle
+      duyulan: düşüş de
+  INSERT   ...bankacılık endeksi gün içinde
+      metin  : (yok)
+      duyulan: yı
+  INSERT   ...düşüşle kapattı bu şubat
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...serisi piyasalarda cuma kapanışı
+      metin  : itibarıyla dolar
+      duyulan: itibariyle
+  REPLACE  ...nda kabul edilerek yasalaştı
+      metin  : düzenlemeyle
+      duyulan: düzenleme ile
+  INSERT   ...açığı öngörülüyor hükümet için
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...olağan kurultayı hakkında mutlak
+      metin  : butlan
+      duyulan: mutlak
+  INSERT   ...zonguldak ta ize çöken
+      metin  : (yok)
+      duyulan: ile
+  INSERT   ...tutuklamalara karşı bugün saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bütçenin genel görüşmeleri başlayacak
+      metin  : yeni delhi
+      duyulan: yenidel i
+  REPLACE  ...de açıklanacak microsoft ve
+      metin  : alphabet bilançoları
+      duyulan: alfabet plançoları
+  REPLACE  ...belirleyici olmaya devam edecek
+      metin  : abd
+      duyulan: ebd
+  REPLACE  ...olacak gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: gundem-2026-10-24.duyulan.txt

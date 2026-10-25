@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-25.mp3
+
+beklenen 2629 kelime | duyulan 2615 kelime | eşleşme %93.5
+sayı ifadesi: metinde 267, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...dediler oysa bu bronzlar
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kalan yemyeşil tepelik bölgede
+      metin  : i gbo ukvu
+      duyulan: igbo ukwu
+  REPLACE  ...kuyunun dibine bakmaya zorlar
+      metin  : isaiah anozie
+      duyulan: i sa ya anozia
+  REPLACE  ...şeye çarptı metalik tını
+      metin  : anozie
+      duyulan: anozia ya
+  REPLACE  ...bronz eserlerdi bunlar üzerleri
+      metin  : patinayla
+      duyulan: patina ile
+  REPLACE  ...bunlar üzerleri patinayla kaplanmıştı
+      metin  : anozie
+      duyulan: anozia ya
+  REPLACE  ...yönetiminin görevlisine bölge yöneticisi
+      metin  : j
+      duyulan: ja
+  REPLACE  ...gitti ama o yıllarda
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...meşguldü avrupa savaştaydı doğu
+      metin  : nijerya
+      duyulan: nigeria
+  INSERT   ...i fe benin bronzları
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yoruba ve edo topraklarındaydı
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...saraylar ve krallarla ilişkilendiriliyordu
+      metin  : igbo
+      duyulan: i kbo
+  REPLACE  ...da olmaz diye düşünülüyordu
+      metin  : isaiah anozie
+      duyulan: i zaya anozye
+  REPLACE  ...ve yöntemle kazılması gerekecekti
+      metin  : anozie
+      duyulan: anozye
+  REPLACE  ...dairesi bölgeye arkeolog gönderdi
+      metin  : thurstan
+      duyulan: turstan
+  REPLACE  ...afrika da özellikle bugünkü
+      metin  : gana
+      duyulan: ghana
+  REPLACE  ...ngiliz arkeologdu görevi açıktı
+      metin  : anozie
+      duyulan: anozye
+  INSERT   ...bilimsel yöntemlerle kazmak ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başladı kazı alanı vardı
+      metin  : isaiah anozie
+      duyulan: izaya anozye
+  REPLACE  ...anozie nin avlusu igbo
+      metin  : isaiah
+      duyulan: izaya
+  REPLACE  ...i kincisi akrabası richard
+      metin  : anozie
+      duyulan: anozye
+  REPLACE  ...ize yine aileden jonah
+      metin  : anozie
+      duyulan: anozye
+  INSERT   ...alanı ile arasında kazdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bambaşka hikaye anlattı igbo
+      metin  : isaiah sarnıcın
+      duyulan: izaya sarnıç ın
+  INSERT   ...mekan izlenimi verdi burada
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zamanlar tapınak ya da
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...richard dan çıktı richard
+      metin  : anozie
+      duyulan: anozzi
+  REPLACE  ...nin arazisinde kazı derinleştikçe
+      metin  : shaw un
+      duyulan: shav ın
+  REPLACE  ...gömü odasının üst kısmında
+      metin  : shaw
+      duyulan: şao
+  INSERT   ...bulundu bu insanlar kimdi
+      metin  : (yok)
+      duyulan: yükne
+  REPLACE  ...tören mi söz konusuydu
+      metin  : shaw
+      duyulan: şao
+  REPLACE  ...ama bütün bunların ötesinde
+      metin  : shaw
+      duyulan: şao
+  REPLACE  ...nasıl bu kadar ustaydı
+      metin  : i gbo ukvu
+      duyulan: igbo ukwu
+  REPLACE  ...gördüğüne inanmakta zorlanır igbo
+      metin  : isaiah tan
+      duyulan: izah yatan
+  REPLACE  ...değildi törensel ritüel ve
+      metin  : unvanla
+      duyulan: ünvanla
+  REPLACE  ...adamın çevresinde ve üzerinde
+      metin  : shaw
+      duyulan: show
+  INSERT   ...bütününde toplanan boncuk sayısı
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...yapılmıştı ve işte burada
+      metin  : i gbo ukvu nun
+      duyulan: igbo uqvunun
+  REPLACE  ...işaret ettiğini gösterdi bu
+      metin  : i gbo ukvu yu
+      duyulan: igbo uqvuyu
+  REPLACE  ...güneye iniyor ve sonunda
+      metin  : nijer
+      duyulan: niger
+  ... ve 45 fark daha
+
+metinde olup DUYULMAYAN: 126 kelime | duyulup metinde OLMAYAN: 124
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: arkeoloji-2026-10-25.duyulan.txt

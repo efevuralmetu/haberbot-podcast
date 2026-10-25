@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-25.mp3
+
+beklenen 1595 kelime | duyulan 1594 kelime | eşleşme %97.1
+sayı ifadesi: metinde 178, duyulanda 165  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...richard feynman dı kuantum
+      metin  : elektrodinamiğine
+      duyulan: elektrodinamine
+  INSERT   ...kuantum elektrodinamiğine yaptığı katkılarla
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...önünde spagetti kırmak gerekecekti
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...gerekecekti yılında fransız fizikçi
+      metin  : bazil
+      duyulan: bazille
+  REPLACE  ...fizikçi bazil odoli ve
+      metin  : sebastiyen nökirş
+      duyulan: sébastien nökerch
+  REPLACE  ...ciddiye aldı paris teki
+      metin  : université piyer
+      duyulan: üniversite pierer
+  REPLACE  ...teki université piyer et
+      metin  : mari küri
+      duyulan: marie curie
+  REPLACE  ...mari küri de yani
+      metin  : piyer
+      duyulan: pierer
+  REPLACE  ...de yani piyer ve
+      metin  : mari küri üniversitesi nde
+      duyulan: marie curie üniversitesinde
+  REPLACE  ...küri üniversitesi nde çalışan
+      metin  : spagettiyi
+      duyulan: spagettiği
+  REPLACE  ...olur bu soru yalnızca
+      metin  : makarnayla
+      duyulan: makarna ile
+  REPLACE  ...anlığına artırabilir odoli ve
+      metin  : nökirş
+      duyulan: nöker
+  INSERT   ...gösterdi kırılmadan hemen sonra
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...benzetti çağlayanın ne kadar
+      metin  : süreceği
+      duyulan: süreci
+  REPLACE  ...zincirin halkaları bu açıklama
+      metin  : feynman
+      duyulan: feyman
+  REPLACE  ...yerde açılıyor odoli ve
+      metin  : nökirş
+      duyulan: nökirch
+  REPLACE  ...lisansüstü öğrenci olan ronald
+      metin  : heisser
+      duyulan: heiser
+  REPLACE  ...olan ronald heisser ve
+      metin  : vishal
+      duyulan: vichal
+  REPLACE  ...ve vishal patil matematikçi
+      metin  : yörn dunkel
+      duyulan: jörn dunkle
+  REPLACE  ...eklemekti kendi ekseni etrafında
+      metin  : burmak
+      duyulan: vurmak
+  REPLACE  ...kısmı zaten burulmanın yarattığı
+      metin  : gerilmeyle
+      duyulan: gerilme ile
+  REPLACE  ...tam olarak gereken miktarda
+      metin  : burup
+      duyulan: vurup
+  REPLACE  ...the national academy of
+      metin  : sciences
+      duyulan: science
+  REPLACE  ...yıllar kazandıran o dalganın
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-10-25.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-25.mp3
+
+beklenen 1974 kelime | duyulan 1979 kelime | eşleşme %94.5
+sayı ifadesi: metinde 268, duyulanda 197  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...değil kablolarla lambalarla ve
+      metin  : rölelerle
+      duyulan: rolelerle
+  REPLACE  ...etmeyi fizikçi vardı william
+      metin  : higinbotham
+      duyulan: higginbottom
+  REPLACE  ...arkadaşları kısaca willy derdi
+      metin  : higinbotham
+      duyulan: higginbottom da
+  REPLACE  ...laboratuvarında çalışmaya başladı orada
+      metin  : katot
+      duyulan: katod
+  REPLACE  ...anlamlı iz çıkarmak gündelik
+      metin  : işiydi
+      duyulan: işi idi
+  INSERT   ...sonunda bambaşka kapıyı açacak
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...bambaşka kapıyı açacak sonlarında
+      metin  : higinbotham
+      duyulan: higginbottom
+  REPLACE  ...bozar deney başarısız olurdu
+      metin  : higinbotham ın
+      duyulan: higginbottom un
+  REPLACE  ...bombanın saatini kuran el
+      metin  : eliydi
+      duyulan: eli idi don
+  INSERT   ...kuran el eliydi temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...denemesi yapıldı hafta sonra
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...hafta sonra hiroşima ve
+      metin  : nagazaki
+      duyulan: nagasaki
+  REPLACE  ...nagazaki ye bombalar atıldı
+      metin  : higinbotham
+      duyulan: higginbottom
+  REPLACE  ...gerektiğine inanarak örgütlenmeye başladı
+      metin  : higinbotham
+      duyulan: higginbottom
+  INSERT   ...önde gelen isimlerinden oldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ses haline geldi ama
+      metin  : higinbotham ın
+      duyulan: higginbottom un
+  INSERT   ...yeri yine de laboratuvardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...radyasyon ölçüm cihazları vardı
+      metin  : higinbotham
+      duyulan: higginbottom
+  REPLACE  ...vardı higinbotham zamanla laboratuvarın
+      metin  : enstrümantasyon
+      duyulan: enstrümanasyon
+  REPLACE  ...ve açıklama panolarından ibaretti
+      metin  : higinbotham ın
+      duyulan: higginbottom un
+  REPLACE  ...ve geçip gidiyordu yazında
+      metin  : higinbotham
+      duyulan: higginbottom
+  REPLACE  ...düşmesi yeer çarpıp sekmesi
+      metin  : higinbotham ın
+      duyulan: higginbottom un
+  REPLACE  ...olsaydı ya kişi vurabilseydi
+      metin  : higinbotham
+      duyulan: higginbottom
+  REPLACE  ...ize laboratuvarın teknisyenlerinden robert
+      metin  : dvorak
+      duyulan: devorak
+  REPLACE  ...teknisyenlerinden robert dvorak oldu
+      metin  : dvorak
+      duyulan: devorak
+  REPLACE  ...kabloları bağladı parçaları yerleştirdi
+      metin  : düzeneği
+      duyulan: düzeneyi
+  DELETE   ...şeye tennis for yani
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...adı verildi şimdi o
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...ışıkla çizilmiş yatay çizgi
+      metin  : tenis
+      duyulan: tennis
+  REPLACE  ...bilgisayarın direnç kondansatör ve
+      metin  : rölelerden
+      duyulan: rolelerden
+  REPLACE  ...basma düğmesi bulunuyordu döner
+      metin  : düğmeyle
+      duyulan: düğme ile
+  INSERT   ...kortun üzerinden geçiyordu ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bölümünün sergisinin köşesine yerleştirilmişti
+      metin  : higinbotham
+      duyulan: higginbottam
+  DELETE   ...o kadar açıktı ki
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kişilik tenis ertesi yıl
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...uzay yarışının yeni başladığı
+      metin  : sputniğin
+      duyulan: sputnik in
+  REPLACE  ...bilgisayarlarda oyun denemeleri yapılmıştı
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...i ngilteer de tic
+      metin  : tac
+      duyulan: touch
+  INSERT   ...gerçek zamanlı hareket vardı
+      metin  : (yok)
+      duyulan: i ki
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: oyun-2026-10-25.duyulan.txt

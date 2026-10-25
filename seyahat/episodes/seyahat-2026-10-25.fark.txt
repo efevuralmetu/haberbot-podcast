@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-25.mp3
+
+beklenen 1967 kelime | duyulan 1994 kelime | eşleşme %94.3
+sayı ifadesi: metinde 193, duyulanda 151  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuzey
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...böyle akşam i skoçya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...keman sesi gelir ne
+      metin  : akordeon
+      duyulan: akordiyon
+  REPLACE  ...da danslarla birlikte söylediği
+      metin  : baladlar
+      duyulan: balatlar
+  REPLACE  ...sözün kendisidir o söze
+      metin  : kveayi
+      duyulan: kveayı
+  REPLACE  ...o söze kveayi denir
+      metin  : kveayi
+      duyulan: kveayı
+  REPLACE  ...kveayi uzun anlatı yüklü
+      metin  : baladlardır
+      duyulan: balatlardır
+  REPLACE  ...sonunda gelen nakaratı adalıların
+      metin  : niyurlea
+      duyulan: niurle ya
+  REPLACE  ...de takip eder bu
+      metin  : baladların
+      duyulan: balatların
+  REPLACE  ...boyunca adaların yazı dili
+      metin  : danimarkacaydı
+      duyulan: danimarkacı ydı
+  REPLACE  ...yazı dili danimarkacaydı kilize
+      metin  : danimarkaca
+      duyulan: danimarkacı a
+  REPLACE  ...ve resmi yazışmalar da
+      metin  : danimarkacaydı
+      duyulan: danimarkacı ydı
+  REPLACE  ...da danimarkacaydı halkın konuştuğu
+      metin  : faroe
+      duyulan: farö
+  REPLACE  ...kış gecelerinde ezberden söylenen
+      metin  : kveayi ler
+      duyulan: kive ayiler
+  REPLACE  ...kendisini taşıyordu yüzyılın sonlarında
+      metin  : yens kristyan
+      duyulan: jens christian
+  REPLACE  ...svabo adlı adalı bu
+      metin  : baladları
+      duyulan: balatları
+  REPLACE  ...büyüdü danimarkalı halkbilimci svend
+      metin  : grundvi
+      duyulan: grundvih
+  REPLACE  ...halkbilimci svend grundvi ile
+      metin  : faroeli yörgen
+      duyulan: faröeli jörgen
+  REPLACE  ...oluşturuldu bu derleme sonradan
+      metin  : korpus karminum
+      duyulan: corpus carminum
+  REPLACE  ...korpus karminum feroensium yani
+      metin  : faroe
+      duyulan: faröe
+  REPLACE  ...adıyla basıldı külliyatta yüzlerce
+      metin  : balad
+      duyulan: balat
+  REPLACE  ...yer alır aynı dönemde
+      metin  : venseslaus
+      duyulan: da wenceslaus
+  REPLACE  ...aynı dönemde venseslaus ulrikus
+      metin  : hamershaymb faroe
+      duyulan: hammersheim farö
+  REPLACE  ...vardı yazı arkasından geldi
+      metin  : baladların
+      duyulan: balatların
+  REPLACE  ...un hikayesini anlatır bazıları
+      metin  : şarlman ın
+      duyulan: şarmanın
+  REPLACE  ...yılan dır yüzyılın başında
+      metin  : yens kristyan curhus
+      duyulan: jens christian kürhus
+  REPLACE  ...curhus tarafından yazılan bu
+      metin  : balad
+      duyulan: balat
+  REPLACE  ...balad norveç kralı olaf
+      metin  : trügvason
+      duyulan: trugvasson
+  INSERT   ...savaşını anlatır uzun yılan
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...köy salonlarında dans edildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vardır adalılar bu kulübeye
+      metin  : yatlur
+      duyulan: yatılır
+  REPLACE  ...doğru yavaş yavaş değişir
+      metin  : ilık
+      duyulan: i yilik
+  REPLACE  ...toplar bu ara aşamaya
+      metin  : ræst denir
+      duyulan: rastlenir
+  REPLACE  ...koyun etidir bu tadı
+      metin  : dışarlıklıya
+      duyulan: dışarlıklığa
+  REPLACE  ...köyün havası başkadır bu
+      metin  : ræst
+      duyulan: rest
+  REPLACE  ...adaların adı da gelir
+      metin  : faroe
+      duyulan: farue
+  INSERT   ...da tapu belgesidir koyunlar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sokak sokak gezilebiliyordu ama
+      metin  : faroe
+      duyulan: farue
+  REPLACE  ...rüzgarın keyfine bırakılmıştır köyler
+      metin  : fiyortların
+      duyulan: fiyotların
+  REPLACE  ...ötekine gitmek uzun süer
+      metin  : ya
+      duyulan: yağ
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: seyahat-2026-10-25.duyulan.txt

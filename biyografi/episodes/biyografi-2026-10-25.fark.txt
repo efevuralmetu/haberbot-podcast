@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-25.mp3
+
+beklenen 2275 kelime | duyulan 2301 kelime | eşleşme %96.3
+sayı ifadesi: metinde 316, duyulanda 208  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...zaman o yaptı mayıs
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kendisinden yaş büyük ağabeyi
+      metin  : gavırnir kemble
+      duyulan: governor campbel
+  REPLACE  ...gavırnir kemble warren dı
+      metin  : gavırnir
+      duyulan: governor
+  REPLACE  ...sonra kız kardeşinin eğitimini
+      metin  : o
+      duyulan: oy
+  REPLACE  ...gettysburg muharebesi nin gününde
+      metin  : gavırnir
+      duyulan: governor
+  REPLACE  ...yılının şubat ayında kışlık
+      metin  : karargahta
+      duyulan: karargahda
+  REPLACE  ...adam yaşındaki washington augustus
+      metin  : roubling di
+      duyulan: robling ti
+  INSERT   ...yıl bile geçmeden ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olacaktı kayınpederi john augustus
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...augustus roubling almanya nın
+      metin  : mülhauzen
+      duyulan: mülhausen
+  REPLACE  ...varlık olarak girdi john
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...tuttuğunda vapurlar saatlerce bekliyordu
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...tekniği yerinde görmek gerekiyordu
+      metin  : kesonları
+      duyulan: quezonları
+  INSERT   ...açık dev ahşap sandıkları
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da ailenin kökeni olan
+      metin  : mülhauzen
+      duyulan: mulhausen
+  REPLACE  ...dedesinden aldı john augustus
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...ın son günlerinde john
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...iskele kazıklarına sertçe çarptı
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...parmaklarını kesmek zorunda kaldı
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...itirazlarını dinlemedi gün içinde
+      metin  : tetanoz
+      duyulan: tetanos
+  INSERT   ...yaklaşık hafta sonra temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tek kişi oğluydu washington
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...washington roubling yaşında baş
+      metin  : mühendis
+      duyulan: mühendisi
+  INSERT   ...hatanın bedeli i nşaat
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...çıktığında bacakları tutmuyordu bu
+      metin  : bedeninin
+      duyulan: bedenin
+  REPLACE  ...washington karar verdi keson
+      metin  : fit derinlikte
+      duyulan: fitlerinlikte
+  REPLACE  ...odada yatmaya başladı böylece
+      metin  : roubling
+      duyulan: robling
+  INSERT   ...dayanımını gerilme analizini kablonun
+      metin  : (yok)
+      duyulan: uygulaması malzemelerin dayanımını gerilme analizini kablonun
+  REPLACE  ...bazen pencerenin önüne oturup
+      metin  : dürbünle nehrin
+      duyulan: durbinle nehri nin
+  REPLACE  ...ama sahadaki ses emily
+      metin  : ydi
+      duyulan: di
+  REPLACE  ...baş mühendisi aslında bayan
+      metin  : roubling di
+      duyulan: robling ti
+  INSERT   ...ait olduğunu ısrarla söyledi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu ölçekte hiç kullanılmamıştı
+      metin  : roubling
+      duyulan: robling
+  REPLACE  ...teli sözleşmesini j lloyd
+      metin  : haigh
+      duyulan: haig
+  INSERT   ...kusurlu tellerle değiştiriliyordu hile
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...edici soru işaretine dönüşüyordu
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...brooklyn belediye başkanlığına seth
+      metin  : low
+      duyulan: lowe
+  REPLACE  ...kurulunda da söz sahibiydi
+      metin  : low
+      duyulan: lowe
+  REPLACE  ...adam nasıl yönetebilirdi washington
+      metin  : roubling
+      duyulan: rubling
+  REPLACE  ...öneri gibi görünüyordu oysa
+      metin  : roubling
+      duyulan: rubling
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: biyografi-2026-10-25.duyulan.txt

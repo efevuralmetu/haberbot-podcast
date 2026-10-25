@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-25.mp3
+
+beklenen 2932 kelime | duyulan 2921 kelime | eşleşme %94.1
+sayı ifadesi: metinde 401, duyulanda 288  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yarısı
+      metin  : ortaçağ
+      duyulan: ortaçağı
+  REPLACE  ...atası diye sergilendi dişleri
+      metin  : eğeyle
+      duyulan: eyeyle
+  REPLACE  ...da dikkatli bakmak gerekmiyordu
+      metin  : sussex
+      duyulan: suseks
+  REPLACE  ...in yumuşak tepeleri arasında
+      metin  : uckfield
+      duyulan: ackfield
+  DELETE   ...sakin yerdi köyün yakınındaki
+      metin  : barkham manor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tarih dernekleri için yazılar
+      metin  : kaleme
+      duyulan: kalemi
+  REPLACE  ...adını vermişti bile dawson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...kahverengi şey çıkarmışlardı bunu
+      metin  : hindistancevizi
+      duyulan: hindistan tv
+  REPLACE  ...kürekle kırmışlardı parçalardan dawson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...dawson ın eline geçti
+      metin  : hindistancevizi
+      duyulan: hindistan tv
+  DELETE   ...parçasıydı dawson sonraki yıllarda
+      metin  : ocağa
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ocağa defalarca geri döndü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çok eski görünüyorlardı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çapında otoriteydi dawson mektubunda
+      metin  : haydelberg de
+      duyulan: heidelberg te
+  REPLACE  ...genç fransız da vardı
+      metin  : piyer teyar dö şarden
+      duyulan: pierer théard de chardin
+  DELETE   ...toplarken tanışmıştı ve yıllar
+      metin  : sonra
+      duyulan: (YOK — atlanmış)
+  INSERT   ...olabilirlerdi ve sonra haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve sonra haziran dawson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...biçimi neredeyze tamamen maymununkine
+      metin  : benziyordu ince
+      duyulan: kalıyordu i nce
+  INSERT   ...sussex in çakılında yatıyordu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...londra soğuk ve yağmurluydu
+      metin  : piccadilly
+      duyulan: pictadilly
+  REPLACE  ...salonu ize tıklım tıklımdı
+      metin  : jeoloji
+      duyulan: geoloji
+  DELETE   ...çıktı ve yeniden inşa
+      metin  : ettiği
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tanıttı bu yeni tüer
+      metin  : eoantropus
+      duyulan: eoanthropus
+  DELETE   ...eski temsilcilerinden belki yarım
+      metin  : yıl
+      duyulan: (YOK — atlanmış)
+  INSERT   ...dönemin havasını hatırlamak gerekir
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...avrupa ya neandertalleri tanıtmıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...neandertalleri tanıtmıştı hollandalı hekim
+      metin  : öjen
+      duyulan: özen
+  INSERT   ...ve uyluk kemiği bulmuştu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kemiği bulmuştu almanya da
+      metin  : haydelberg yakınında
+      duyulan: heidelberg adında
+  DELETE   ...fosilleer bakarak yürütmek zorunda
+      metin  : kalıyordu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...atasını veren kafatasıydı ama
+      metin  : piltdown ı
+      duyulan: pilthown u
+  REPLACE  ...özelliklerin ardından geldiği düşünülüyordu
+      metin  : piltdown
+      duyulan: pilthown
+  DELETE   ...büyük ölçüde fosilin sahte
+      metin  : olup
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yerleştirilmeliydi ve beyin hacmi
+      metin  : santimetreküpe
+      duyulan: cm küpe
+  REPLACE  ...ve çene aynı canlıya
+      metin  : aitti
+      duyulan: etti
+  INSERT   ...uzmanı david waterston daha
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...müzesi olan smithsonian dan
+      metin  : gerrit
+      duyulan: garrett
+  INSERT   ...smithsonian dan gerrit smith
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ama bu itirazlar tek
+      metin  : çukurda
+      duyulan: çakılda
+  ... ve 85 fark daha
+
+metinde olup DUYULMAYAN: 136 kelime | duyulup metinde OLMAYAN: 134
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-10-25.duyulan.txt

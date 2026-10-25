@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-25.mp3
+
+beklenen 2970 kelime | duyulan 2763 kelime | eşleşme %15.3
+sayı ifadesi: metinde 282, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...very closely to notice
+      metin  : sussex
+      duyulan: the the old testament the old testament is of the most famous traditions
+  REPLACE  ...to notice sussex in
+      metin  : yumuşak tepeleri arasında uckfield kasabasına yakın yerde piltdown adında küçük köy vardır yüzyılın başında burası rüzgarın yeşil çayırlarda dolaştığı kilisesinin çanından başka pek sesin duyulmadığı sakin yerdi köyün yakınındaki barkham
+      duyulan: the middle east and the oldest of the people who weer buried in a building in the old testament in the middle east in the old testament the old testament was used by the people and it was built by the people who weer buried in the old testament in the middle east kuyunyakunandaki barkam
+  REPLACE  ...köyün yakınındaki barkham manor
+      metin  : yani barkham malikanesi nin arazisinde işçilerin yol yapımı için çakıl çıkardığı sığ ocak vardı çakıl taşı kum ve kahverengi toprak kimsenin dönüp bakmayacağı türden çukur bu çukura dönüp bakan adamın adı
+      duyulan: yanyi barkam mallikanisinin arazi sinde istiliren yolyapumicin chakhalchikarde sibirojakvarde chakhaltashe kumve kahverengitoprak kimsinin dunip bakmija turdanbirchukur bhu chukura dunip bakanada munadu
+  REPLACE  ...adamın adı charles dawson
+      metin  : dı doğumlu
+      duyulan: nteitheint domle
+  REPLACE  ...dawson dı doğumlu dawson
+      metin  : mesleği gereği sözleşmeler tapular ve miras davalarıyla uğraşan avukattı
+      duyulan: meslegerei sozlech melar tapularve mirastawalarila urashanbiravukatte
+  REPLACE  ...davalarıyla uğraşan avukattı ama
+      metin  : asıl tutkusu geçmişti yıllardır
+      duyulan: asultutkusugetmishte jelardar
+  REPLACE  ...tutkusu geçmişti yıllardır fosil
+      metin  : topluyor
+      duyulan: topljor
+  REPLACE  ...yıllardır fosil topluyor eski
+      metin  : çanak çömlek parçalarının
+      duyulan: chanak chumlek parchalernan
+  REPLACE  ...çanak çömlek parçalarının roma
+      metin  : tuğlalarının tuhaf taşların peşinde dolaşıyordu bulduğu şeyleri londra daki bilim çevrelerine gönderiyor yerel tarih dernekleri için yazılar kaleme alıyordu bazı buluşları öylesine dikkat çekiciydi
+      duyulan: tula lernan tuaftashlern peshinde dolashyordu buldushayleri londrada
+  REPLACE  ...öylesine dikkat çekiciydi ki
+      metin  : çevresi amatör bilim insanı gözüyle bakıyordu doğa tarihi müzesi bazı fosillerine adını vermişti bile dawson ın
+      duyulan: bilymcevrelerna gonderyor yeraltarih darneklerichin yazularkalemallyordu baazu bulushleer ulecine dikkachekijidike tchevresi amaturbir bilyminsan gezuyu lebakuyordu dovatari himuzesi baazu fosilleer nenonadunewermishte bilye dawsonan
+  REPLACE  ...bile dawson ın sonradan
+      metin  : anlattığına göer hikaye civarında başladı çakıl ocağında çalışan işçiler toprağın içinden
+      duyulan: anlatunagurehikiai bindokuzusekizjiwaran dabashlade chakhalojanda chalushan ischilartopranichindan
+  REPLACE  ...toprağın içinden yuvarlak kahverengi
+      metin  : şey çıkarmışlardı bunu hindistancevizi sanıp kürekle kırmışlardı parçalardan
+      duyulan: bishaychakarmushlardu bunubir hindistansvisi sanubkurekhlekarmushlardu parkalardan dawsonan elinegechte hindistansvisi deildi buhkullan koyurengtli birinsan kafatasanum parchasid
+  REPLACE  ...kürekle kırmışlardı parçalardan dawson
+      metin  : ın eline geçti hindistancevizi değildi bu kalın koyu renkli insan kafatasının parçasıydı dawson sonraki yıllarda ocağa defalarca geri döndü
+      duyulan: sonrakiyilarda ojaedefalarja geridundu
+  REPLACE  ...defalarca geri döndü de
+      metin  : parça daha buldu kemikler çakılın demir oksitli suyuyla boyanmış gibi derin kahverengiye bürünmüştü çok eski görünüyorlardı şubat
+      duyulan: parcha dahabuldu khemikler chakhalan demiroxitli suyula boyanmushkibidirin birkahverengi abirunmushtuh chokeskigurun yolarda shubhatbundukuzoniki
+  REPLACE  ...görünüyorlardı şubat de dawson
+      metin  : doğa tarihi müzesi nin jeoloji bölümünün başındaki
+      duyulan: doa thar hymuzesinin geolojibolumununbashindaki
+  INSERT   ...bölümünün başındaki arthur smith
+      metin  : (yok)
+      duyulan: woodwarda birmektup yazde
+  REPLACE  ...başındaki arthur smith woodward
+      metin  : a mektup yazdı woodward döneminin en saygın fosil uzmanlarından özellikle fosil balıklar konusunda dünya çapında otoriteydi
+      duyulan: doneminin ensygan fosiluzmanlarandan ozaalikle fosilbalaklarkonusundadunyachapundabiratoriteide
+  REPLACE  ...çapında otoriteydi dawson mektubunda
+      metin  : heidelberg
+      duyulan: heidelbergde bulunan unnu insan chenesele yarsha bilejek bishayyarasladuna imaiedyordu ojaas woodward haftasondlaran piltdown dagechirmeyabashlade janlerunde genshbir francis
+  REPLACE  ...dawson mektubunda heidelberg de
+      metin  : bulunan ünlü insan çenesiyle yarışabilecek şeye rastladığını ima ediyordu o yaz woodward hafta sonlarını piltdown da geçirmeye başladı yanlarında genç fransız da vardı
+      duyulan: varda
+  REPLACE  ...pierer teilhard de chardin
+      metin  : yakındaki
+      duyulan: yekandaki
+  REPLACE  ...de chardin yakındaki hastings
+      metin  : te eğitim gören bu cizvit rahip adayı
+      duyulan: de eytim gouran bhujizvit rahi padayi
+  REPLACE  ...cizvit rahip adayı dawson
+      metin  : la fosil toplarken tanışmıştı ve yıllar
+      duyulan: nafosil toplarkantanushmushtuh veyildar
+  REPLACE  ...tanışmıştı ve yıllar sonra
+      metin  : kendisi
+      duyulan: kyandisi
+  REPLACE  ...yıllar sonra kendisi de
+      metin  : ünlü paleontolog ve düşünür olacaktı adam elekleriyle küçük kazmalarıyla çakılı karıştırıyordu de ocağın çevresinde dolaşan bulguları
+      duyulan: unnu birpaleontolok vedushinirolajaktuh uchadam elekle rile kuchuk kazmalarile chakhalakarishtiriyordu ojaan chevresinde dolashan bulgular
+  REPLACE  ...çevresinde dolaşan bulguları korumakla
+      metin  : görevli kaz vardı bu küçük ayrıntı sonradan yayımlanan fotoğraflarda bile yer alacaktı kazılar bereketliydi kafatasının
+      duyulan: gurevli warda bukuchuk ironti sonra dan yayimlanan fotaraflarda bileyaralajaktuh kazalar beraketlide kafatasanen
+  REPLACE  ...kazılar bereketliydi kafatasının yeni
+      metin  : parçaları çıktı yanında hayvan fosilleri vardı fil türünün dişleri hipopotam dişi kunduz kalıntıları
+      duyulan: parchalarechiktuh yananda haiwan fosilleer warda birfilthurunundishleer hippopotamdishi kunduskalantileer
+  REPLACE  ...dişi kunduz kalıntıları mastodon
+      metin  : parçası
+      duyulan: parchasse
+  REPLACE  ...kalıntıları mastodon parçası bunlar
+      metin  : çakılın çok eski döneme ait olduğunu düşündürüyordu
+      duyulan: chekalen chok eskibirdonema aetoldunu dushindriyordu
+  REPLACE  ...ait olduğunu düşündürüyordu kaba
+      metin  : biçimde yontulmuş çakmaktaşları da bulundu
+      duyulan: bichimde yontulmushchak maktashleer dabulundu
+  REPLACE  ...çakmaktaşları da bulundu ilk
+      metin  : insanların aletleri olabilirlerdi
+      duyulan: insanleren aletleer olabileer larde
+  REPLACE  ...aletleri olabilirlerdi ve sonra
+      metin  : haziran de dawson ın kazdığı
+      duyulan: hazir dasanen kazdu
+  REPLACE  ...dawson ın kazdığı noktada
+      metin  : en heyecan verici parça ortaya çıktı alt çenenin yarısı çene tuhaftı biçimi neredeyze
+      duyulan: enhei janveerije parcha orteyachiktuh chenenen yaruse cine tuhaftu bichimeneerdeyze
+  REPLACE  ...tuhaftı biçimi neredeyze tamamen
+      metin  : maymununkine benziyordu ince
+      duyulan: birmaimununkine bensiyordu inje
+  REPLACE  ...maymununkine benziyordu ince uzun
+      metin  : çenesi olmayan yapı
+      duyulan: chenese olmeyan
+  REPLACE  ...çenesi olmayan yapı ama
+      metin  : üzerindeki azı dişi düzdü tıpkı yiyeceğini yanlara doğru çiğneyen insanın dişleri gibi aşınmıştı çenenin ön kısmı
+      duyulan: uzerinde ke ikeyazu dishiduzdu tupkuye jeni anaradoru cinean sanan dishlerigibyaishunmushtuh cenenin oenkusme
+  REPLACE  ...çenenin ön kısmı yani
+      metin  : kafatasıyla birleşeceği eklem bölgesi
+      duyulan: kafatasi le birlesije ek lambergeisi
+  REPLACE  ...birleşeceği eklem bölgesi ve
+      metin  : köpek dişinin yeri kırılmış ve kayıptı
+      duyulan: kirpekdishinin yier kurilmushvekayipte
+  REPLACE  ...kırılmış ve kayıptı woodward
+      metin  : için parçalar birbirini tamamlıyordu elinde insan gibi geniş beyin
+      duyulan: ichen parchalar birbirinitamamlyordu ilinde insangebir genish
+  REPLACE  ...geniş beyin kutusu ve
+      metin  : maymun gibi çene vardı bu aynı canlıya aitse ortaya insanla maymun arasındaki o efsanevi geçiş halkası çıkıyordu üstelik bu halka almanya da fransa da ya da uzak doğu da değil i ngilteer nin
+      duyulan: maimungebir chenewardu buikisi aine janliya aetse orteye insan na maimunaresandaki oefsanivygechishhalkasichukyordu astelik bohalka almanyada fransada yada uzakdo oedadeel ingilterenen
+  REPLACE  ...i ngilteer nin kalbinde
+      metin  : sussex in çakılında yatıyordu aralık akşamı
+      duyulan: saseksinchakalandaya tuyordu etarilik mindokuzuzoniki akshamu
+  ... ve 244 fark daha
+
+metinde olup DUYULMAYAN: 2531 kelime | duyulup metinde OLMAYAN: 2323
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-25.duyulan.txt

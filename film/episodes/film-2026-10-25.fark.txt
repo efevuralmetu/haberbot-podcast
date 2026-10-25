@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-25.mp3
+
+beklenen 1603 kelime | duyulan 1600 kelime | eşleşme %96.5
+sayı ifadesi: metinde 179, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...filmden kurtulmanın tek yolunun
+      metin  : küreğe
+      duyulan: küreye
+  REPLACE  ...hiç film yazmamış leo
+      metin  : marks i kinci
+      duyulan: marx
+  REPLACE  ...başına geçmiş cephe gerisindeki
+      metin  : telsizcilerin
+      duyulan: tersizcilerin
+  REPLACE  ...da sıradan yönetmen değildi
+      metin  : emerik
+      duyulan: amerik
+  REPLACE  ...meselesi bunlardan sadece ama
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...tek başına iş arıyordu
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...ilk konuştukları proje aslında
+      metin  : zigmund froyd
+      duyulan: sigmund freud
+  REPLACE  ...amerika da john huston
+      metin  : ın
+      duyulan: un
+  REPLACE  ...bu fikir rafa kalktı
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...yerine başka şey önerdi
+      metin  : froyd
+      duyulan: freud
+  REPLACE  ...ayarı yapan sessiz utangaç
+      metin  : kameraman
+      duyulan: kamera kreman
+  REPLACE  ...ama asıl uğraşı başka
+      metin  : mark
+      duyulan: marx
+  REPLACE  ...kendi korkusunun yansımasını görüyor
+      metin  : marks
+      duyulan: marx
+  REPLACE  ...büyüyüp gözetleyen adam olmuş
+      metin  : powel
+      duyulan: mowel
+  REPLACE  ...tuttu mark rolüne başta
+      metin  : laurence
+      duyulan: lawrence
+  REPLACE  ...ama sonunda avusturyalı oyuncu
+      metin  : karl böm
+      duyulan: carl böhm
+  REPLACE  ...oyuncu karl böm seçildi
+      metin  : böm
+      duyulan: böhm
+  REPLACE  ...böm ünlü orkestra şefi
+      metin  : karl böm
+      duyulan: carl böhm
+  REPLACE  ...in kör annesini maxine
+      metin  : audley
+      duyulan: oetley
+  REPLACE  ...pabuçlar ın balerini moira
+      metin  : shearer
+      duyulan: scherrer
+  REPLACE  ...powel ın gerçek oğlu
+      metin  : columba
+      duyulan: columbo
+  REPLACE  ...kahkahalar yükseliyor mark pencereden
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...i hiç filme almak
+      metin  : istememesi
+      duyulan: istemem
+  REPLACE  ...geldiğini biliyor film burada
+      metin  : sevgi ile
+      duyulan: sevgiyle
+  REPLACE  ...için fark ediyor brian
+      metin  : easdale in
+      duyulan: aisdale ın
+  REPLACE  ...kapıdayken o yıllardır kurduğu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  INSERT   ...hazır değildi röntgenci nisan
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...değildi powel ın kendisiydi
+      metin  : dağıtımcı
+      duyulan: dağatımcı
+  REPLACE  ...avustralya ya gitti orada
+      metin  : they er
+      duyulan: theer
+  REPLACE  ...ardından genç helen mirren
+      metin  : ın
+      duyulan: in
+  REPLACE  ...sahibi olarak anıldı diriliş
+      metin  : atlantiğin
+      duyulan: atlantin
+  REPLACE  ...atlantiğin öbür yakasından geldi
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...keşfediyordu bunların başında martin
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...başında martin skorsezi vardı
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...şiddetin neye dönüşebileceğini anlatıyordu
+      metin  : federiko
+      duyulan: federico
+  REPLACE  ...bu filmde bulunduğunu söyleyecekti
+      metin  : skorsezi
+      duyulan: da scorsese
+  REPLACE  ...sonu da var powel
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...aracılığıyla filmlerinin kurgucusu thelma
+      metin  : schoonmaker
+      duyulan: schoenmaker
+  INSERT   ...schoonmaker la tanıştı ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kalın cilt halinde yazdı
+      metin  : (yok)
+      duyulan: da
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: film-2026-10-25.duyulan.txt

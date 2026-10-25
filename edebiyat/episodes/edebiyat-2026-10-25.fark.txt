@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-25.mp3
+
+beklenen 1425 kelime | duyulan 1434 kelime | eşleşme %95.8
+sayı ifadesi: metinde 177, duyulanda 126  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yalnızca sıcaklıktan ağır değildi
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...ttihat ve terakki bu
+      metin  : suikastı
+      duyulan: suikastlı
+  REPLACE  ...gazeteci vardı adı refik
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...kirpi adıyla tanıyordu refik
+      metin  : halit
+      duyulan: halid de
+  REPLACE  ...maliye de katiplik yaptı
+      metin  : i kinci
+      duyulan: de
+  INSERT   ...kapıldı ve gazeteciliğe atıldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bakanın kurumunu mebusun boş
+      metin  : vaadini
+      duyulan: vadini
+  REPLACE  ...ankara ya oradan da
+      metin  : bileciğe
+      duyulan: bileci ye
+  REPLACE  ...yaşamak zorunda kaldı kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...halidin dili de değişti
+      metin  : fecr i ati
+      duyulan: fecreati
+  INSERT   ...ölçüde sürgün yıllarında atıldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...stanbul a dönebildi refik
+      metin  : halit
+      duyulan: halid
+  INSERT   ...de döndü yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...vardır ama küçümseme yoktur
+      metin  : acıma
+      duyulan: ağacıma
+  INSERT   ...de bu mesafeyi gösterdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...halit ülkeden ayrıldı önce
+      metin  : beyruda
+      duyulan: beyrut a
+  REPLACE  ...kişilik listede sonraki yıllarda
+      metin  : yüzellilikler
+      duyulan: likler
+  REPLACE  ...anlatır bu romanı yeni
+      metin  : cumhuriyet in laik
+      duyulan: cumhuriyetin layık
+  INSERT   ...bu bekleyiş yıl sürdü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...geniş okur kitlesine ulaştı
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...içine sürülen adamın gözlemleriydi
+      metin  : (yok)
+      duyulan: i kincisi
+  INSERT   ...dışına düşen adamın hatıraları
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...doğru hatıralarını kaleme aldı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...eserlerine kalıcı derinlik kattı
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: edebiyat-2026-10-25.duyulan.txt

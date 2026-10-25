@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-25.mp3
+
+beklenen 1520 kelime | duyulan 1541 kelime | eşleşme %96.9
+sayı ifadesi: metinde 211, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: doğdu
+  REPLACE  ...ağustos gecesi monte
+      metin  : karlo
+      duyulan: carlo
+  REPLACE  ...şeyi biliyordu bu kadar
+      metin  : siyahtan
+      duyulan: siyahdan
+  INSERT   ...şey o insanların zihniydi
+      metin  : (yok)
+      duyulan: doğdu
+  REPLACE  ...insanların zihniydi ağustos akşamı
+      metin  : monako kazino dö
+      duyulan: monaco casino de
+  REPLACE  ...monako kazino dö monte
+      metin  : karlo
+      duyulan: carlo
+  REPLACE  ...karlo nun yani monte
+      metin  : karlo kumarhanesi nin
+      duyulan: carlo kumarhanesinin
+  REPLACE  ...o masada şey oluyor
+      metin  : siyahtan
+      duyulan: siyattan
+  REPLACE  ...düşünce var bu kadar
+      metin  : siyahtan
+      duyulan: siyattan
+  REPLACE  ...masada olsaydınız ne yapardınız
+      metin  : siyahtan
+      duyulan: siyahdan
+  REPLACE  ...ilk tur olsun ister
+      metin  : siyahtan
+      duyulan: siyahdan
+  INSERT   ...zaman tam olarak aynıdır
+      metin  : (yok)
+      duyulan: de nin
+  REPLACE  ...o geceye atıfla monte
+      metin  : karlo
+      duyulan: carlo
+  REPLACE  ...doğru çekiliyor psikologlar amos
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...tverski ve daniel kahneman
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...sapma hata gibi gelir
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...derecede belirgin ekonomistler charles
+      metin  : clotfelter
+      duyulan: claude felter
+  INSERT   ...sayı kazandıktan sonraki günlerde
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...oysa çekiliş makinesi de
+      metin  : rulet
+      duyulan: roulette
+  REPLACE  ...kartlar değişir yediğiniz her
+      metin  : as
+      duyulan: az
+  REPLACE  ...her as sonraki kartın
+      metin  : as
+      duyulan: az
+  INSERT   ...yargıç rulet çarkı değil
+      metin  : (yok)
+      duyulan: tıpkı rulet çarkı gibi her karar öncekinden bağımsız olmalı ama yargıç rulet çarkı değil
+  INSERT   ...ve insanın hafızası var
+      metin  : (yok)
+      duyulan: tiki
+  REPLACE  ...tobias moskowitz ve kelly
+      metin  : shue
+      duyulan: hsu
+  REPLACE  ...sonrakini reddetmeye daha meyilliydi
+      metin  : beyzbol
+      duyulan: basebal
+  REPLACE  ...giriyordu burada olanı monte
+      metin  : karlo
+      duyulan: carlo
+  INSERT   ...sokacağına inanmak görünüşte birbirine
+      metin  : (yok)
+      duyulan: benzer görünüşte birbirine
+  REPLACE  ...şey aynı hafızası olmayan
+      metin  : şeye
+      duyulan: şeyi
+  REPLACE  ...sonra içinizden fazla cömert
+      metin  : davranmayayım sesi
+      duyulan: davranma imsesi
+  REPLACE  ...kazanmam lazım düşüncesi monte
+      metin  : karlo
+      duyulan: carlo
+  INSERT   ...çok daha sağlıklı yol
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...değerine bakılmayı hak ediyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-10-25.duyulan.txt

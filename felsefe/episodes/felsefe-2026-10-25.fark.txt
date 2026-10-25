@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-25.mp3
+
+beklenen 2124 kelime | duyulan 2141 kelime | eşleşme %96.0
+sayı ifadesi: metinde 246, duyulanda 211  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...başka yük kanadalı sosyolog
+      metin  : erving
+      duyulan: erwin
+  INSERT   ...bu yükü adlandırmaya çalışanlardan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dilbilimciler penelope brown ile
+      metin  : stephen
+      duyulan: steven
+  REPLACE  ...kural olduğu için değil
+      metin  : aksini
+      duyulan: ve bu çizgi taksini
+  INSERT   ...davranıyor rotterdamlı erasmus un
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yolda yürüyen adamdı yazında
+      metin  : jan jak russo vensen deki
+      duyulan: jean jacques rousseau wensendeki
+  REPLACE  ...deki kalede tutuklu bulunan
+      metin  : didro yu
+      duyulan: diderot u
+  REPLACE  ...arınmasına katkıda bulunmuş muydu
+      metin  : russo
+      duyulan: rousseau
+  INSERT   ...tam tersine ertesi yıl
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...deneme ödülü kazandı ve
+      metin  : russo
+      duyulan: rousseau
+  REPLACE  ...bazıları doğrudan nezakete ayrılmıştır
+      metin  : russo
+      duyulan: rousseau
+  REPLACE  ...gibi görünmeye cesaret edemiyordu
+      metin  : russo
+      duyulan: rousseau
+  REPLACE  ...zarafetle gülümsüyor bunun karşısına
+      metin  : russo
+      duyulan: rousseau
+  REPLACE  ...kaybolurken kostümü inceldikçe incelmişti
+      metin  : russo
+      duyulan: rousseau
+  REPLACE  ...düşündüğünü en azından bilirsiniz
+      metin  : russo
+      duyulan: ruso
+  REPLACE  ...önce fransız düşünür la
+      metin  : roşfuko
+      duyulan: rochefoucault
+  REPLACE  ...doğru olduğunu henüz unutmamıştır
+      metin  : russo
+      duyulan: ruso
+  REPLACE  ...iyi olacağı şüphelidir dahası
+      metin  : russo
+      duyulan: ruso
+  REPLACE  ...yolun başlangıcı olabilir mi
+      metin  : russo
+      duyulan: ruso
+  REPLACE  ...giden yolun ta kendisiydi
+      metin  : konfüçyüs
+      duyulan: konfüçyüz
+  REPLACE  ...öğrencilerinin sözlerini derlediği kitap
+      metin  : lunyu
+      duyulan: lünyü
+  REPLACE  ...insan olarak görme hali
+      metin  : öteki
+      duyulan: ötöteki
+  REPLACE  ...oturulacağı i lk bakışta
+      metin  : konfüçyüs
+      duyulan: konfüçyüz
+  REPLACE  ...dikkatle okunduğunda tablo değişir
+      metin  : konfüçyüs
+      duyulan: konfüçyüz
+  REPLACE  ...konfüçyüs yerde insanlığı olmayan
+      metin  : törenle
+      duyulan: törenine
+  REPLACE  ...da görür fakat çözümü
+      metin  : biçimi
+      duyulan: biçime
+  REPLACE  ...insanlığın ne olduğunu sorduğunda
+      metin  : konfüçyüs
+      duyulan: konfüçyüz
+  REPLACE  ...yapmıyor sabır huyu olmuş
+      metin  : konfüçyüsçü
+      duyulan: konfüçyüzçü
+  REPLACE  ...gelenek bu dönüşüme güvenir
+      metin  : konfüçyüs
+      duyulan: konfüçyüz yıl
+  REPLACE  ...amerikalı düşünür herbert fingarette
+      metin  : li
+      duyulan: lee
+  REPLACE  ...küçük kırılma yaşanır fingarette
+      metin  : e
+      duyulan: ye
+  REPLACE  ...yüzyıllarda yaşayan i bn
+      metin  : miskeveyh tehzibü l
+      duyulan: i miskevey tehzib ül
+  REPLACE  ...için yapılan iyiliği yani
+      metin  : riyayı
+      duyulan: riayı
+  REPLACE  ...gözüne girmek için takılan
+      metin  : maske ile
+      duyulan: maskeyle
+  INSERT   ...kant tan geldi kant
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...barışmış alman filozofa kaldı
+      metin  : artur şopenhauer
+      duyulan: arthur schopenhauer de
+  REPLACE  ...kirpi donmamak için birbirine
+      metin  : sokulur
+      duyulan: sokunur
+  REPLACE  ...katlanılabilecek orta mesafe bulurlar
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  REPLACE  ...ve görgüdür bu mesel
+      metin  : maske ile
+      duyulan: maskeyle
+  REPLACE  ...birbirimize batmadan ısınabilmenin yoludur
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: felsefe-2026-10-25.duyulan.txt
