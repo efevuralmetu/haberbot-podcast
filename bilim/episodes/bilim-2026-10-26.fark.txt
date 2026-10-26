@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-26.mp3
+
+beklenen 2049 kelime | duyulan 2079 kelime | eşleşme %96.6
+sayı ifadesi: metinde 317, duyulanda 249  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sınırı ölçtü ve aralarında
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...şeyle karşılaştı i spanya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...sınır i spanyol kaynaklarında
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kaynaklarında ize aynı sınır
+      metin  : kilometreydi
+      duyulan: km idi
+  REPLACE  ...aynı sınır kilometreydi arada
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...fazla fark vardı hollanda
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...söz konusuydu kaynak öbürü
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...sabitliyorsunuz diyelim ki haritada
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...şimdi pergelin açıklığını daraltın
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...ister istemez artıyor pergeli
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...biçimde dikti o kıyı
+      metin  : fiyortlarla
+      duyulan: fiyotlarla
+  INSERT   ...aldı ama bu ek
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...ek ölümünden sonra ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eki okuyup içindeki doğruların
+      metin  : eğimine
+      duyulan: eğmine
+  REPLACE  ...bakana kadar o kişi
+      metin  : bönua mandelbrot tu
+      duyulan: benoit mandelbrottu
+  INSERT   ...ölçekte pürüzlü kalan düzensizlik
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...daha doğrusu cevap tamamen
+      metin  : ölçeğe
+      duyulan: ölçeye
+  REPLACE  ...tamamen ölçeğe bağlıydı ve
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...birleşik krallığın kıyısı için
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...büyük britanya anakarası için
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...ayrıntı düzeyinde yapılmış ölçümlerdir
+      metin  : mandelbrodun
+      duyulan: mandelbrot un
+  INSERT   ...gerekir küpte bu sayı
+      metin  : (yok)
+      duyulan: diki
+  REPLACE  ...yani üzeri üzeri üzeri
+      metin  : üsteki
+      duyulan: üstteki
+  REPLACE  ...daha eskiye alman matematikçi
+      metin  : feliks hausdorf
+      duyulan: felix hausdorff
+  INSERT   ...matematikçi feliks hausdorf un
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...hausdorf un çalışmalarına uzanır
+      metin  : hausdorf
+      duyulan: hausdorff
+  INSERT   ...bu canavarların en ünlüsünü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i sveçli matematikçi helge
+      metin  : fon kok
+      duyulan: von koch
+  REPLACE  ...helge fon kok tanımlamıştı
+      metin  : eşkenar
+      duyulan: eşkener
+  REPLACE  ...kadar ortaya çıkan şekle
+      metin  : kok kar tanesi
+      duyulan: kokkardanesi
+  INSERT   ...denklemi sağlayan sayı yaklaşık
+      metin  : (yok)
+      duyulan: dır
+  REPLACE  ...boyut arasında yerde durur
+      metin  : mandelbrodun
+      duyulan: mandelbrot un
+  INSERT   ...eğimden hesaplanan boyut yaklaşık
+      metin  : (yok)
+      duyulan: di
+  INSERT   ...söylemek çoğu zaman zordur
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...gelen fraktus kelimesinden türetti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kum tanelerine sonunda da
+      metin  : molekülleer
+      duyulan: moleküllerine
+  REPLACE  ...uzun süer açık kaldı
+      metin  : kıyıyı
+      duyulan: kıyı
+  INSERT   ...hiç de açık değildi
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...açık değildi fransız fizikçi
+      metin  : bernar
+      duyulan: bernard
+  REPLACE  ...modeli önerdiler modelde dalgalar
+      metin  : kıyıyı
+      duyulan: kıyı
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: bilim-2026-10-26.duyulan.txt

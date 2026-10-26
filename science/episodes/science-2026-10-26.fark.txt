@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-26.mp3
+
+beklenen 2072 kelime | duyulan 1979 kelime | eşleşme %12.7
+sayı ifadesi: metinde 257, duyulanda 158  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...with portugal is about
+      metin  : kilometers
+      duyulan: km
+  REPLACE  ...gets with no limit
+      metin  : harita açın ve ülke arasındaki sınıra bakın taraftan dağ sırası öbür taraftan nehir kıvrılarak uzanıyor bu çizginin uzunluğu olmalı değil mi komşu ülke aynı sınırı paylaşıyorsa de aynı sayıyı söylemeli sınır nihayetinde sınırdır tarafından ölçtüğünüzde başka öbür tarafından ölçtüğünüzde başka uzunlukta olamaz ama yüzyılın ortalarında i ngiliz bilim insanı tam olarak bunun olduğunu fark etti adı lewis fry
+      duyulan: spain said its border with portugal is about km long and portugal says it is moer than both measured the same line and the shorter the coast of britain gets with no limit both measured the same line and the shorter the coast of britain gets with no limit in spain the port of port equis is about km long port equis is about km long it is about km long the island of aisle belgium is about km long it is about km long in the summertime the sea level is about km it is about km long the sea level is about km a m r
+  REPLACE  ...adı lewis fry richardson
+      metin  : dı matematikçi fizikçi ve meteorologdu aynı zamanda koyu barışseverdi dünya savaşı nda silah taşımayı reddetmiş cephede ambulans şoförü olarak çalışmıştı savaşın dehşeti hayatının geri kalanında tek soruyla uğraşmaya itti savaşları matematikle anlamak mümkün müydü ülkeleri birbirine düşüren şeyler sayılarla ifade edilebilir miydi richardson ın aklına makul fikir geldi belki ülke arasındaki çatışma ihtimali aralarındaki ortak sınırın uzunluğuyla ilişkiliydi ne kadar uzun sınır o kadar çok temas o kadar çok sürtüşme bunu sınamak için ihtiyacı olan tek şey sınır uzunluklarını gösteren güvenilir tabloydu ansiklopedileri atlasları resmi yayınları taramaya başladı i şte o zaman tuhaf şeyle karşılaştı i spanya ile portekiz arasındaki sınır i spanyol kaynaklarında kilometer olarak geçiyordu portekiz kaynaklarında ize aynı sınır kilometreydi arada kilometreden fazla fark vardı hollanda ile belçika arasındaki sınır için de benzer durum söz konusuydu kaynak öbürü kilometer diyordu i lk akla gelen açıklama birilerinin hata yaptığıdır belki ölçümler özensiz yapılmıştı belki sınırlar zaman içinde değişmişti ama richardson daha derine indi ve farklı şey fark etti fark kimin haklı olduğundan değil nasıl ölçüldüğünden kaynaklanıyordu bunu anlamak için pergel düşünün bacaklarını belli açıklıkta sabitliyorsunuz diyelim ki haritada kilometreye
+      duyulan: is about km from the sea the sea level is about km from the sea it is about km from the sea bajaklaran belibirachikliqta sabit yursunuz deyelimkiharita da yuskilometreya
+  REPLACE  ...ki haritada kilometreye denk
+      metin  : gelen açıklıkta
+      duyulan: yelanbirachikliqta
+  REPLACE  ...denk gelen açıklıkta sonra
+      metin  : pergeli kıyı çizgisi boyunca adım adım yürütüyorsunuz her adımda bacak çizginin üzerinde kalıyor öbürü ileri sıçrıyor kaç adım attığınızı sayıp ile çarptığınızda uzunluk elde ediyorsunuz şimdi pergelin açıklığını daraltın kilometreye
+      duyulan: purjelikayichisgisiboyunja adamadum yurutu yursunuz hur adamdabir bajakchisginin uzairindekalu yur uburu ilerisichu yur kach adamatdunuz saip yuzilechakdunuz dabiruzunuqeldayd yursunuz shimdepargilin achiklunu daraltun elikilometreya
+  REPLACE  ...daraltın kilometreye indirin ve
+      metin  : aynı işi tekrarlayın bu sefer
+      duyulan: aini ishitekrarlayan yousafar
+  REPLACE  ...tekrarlayın bu sefer daha
+      metin  : önce atladığınız küçük girintileer çıkıntılara pergel girebiliyor büyük adımların düz hatla geçip gittiği koy artık adımda dolaşılıyor toplam uzunluk ister istemez artıyor pergeli kilometreye indirdiğinizde
+      duyulan: unja atladunuz kuchukkirintilaer chikuntilaer pargalgeier bilyo byuk adamnaran doosbir hatlagechip gitibir koi arthuk bikachadum da dolashil yur toplamuzun lukastiristemaz rt yur purjeli enderdinuz da
+  REPLACE  ...kilometreye indirdiğinizde daha da
+      metin  : artıyor bu kendi başına çok şaşırtıcı değil pürüzlü çizgiyi kaba aletle ölçerseniz kıvrımları kaçırırsınız
+      duyulan: rt yur bukendibashana chokshashirtu jedil puruzlibirchisgi kababir aletla ulcharseniz kurum larukachirurseniz
+  REPLACE  ...ölçerseniz kıvrımları kaçırırsınız daha
+      metin  : ince aletle ölçtüğünüzde değer artar normalde beklentimiz şudur
+      duyulan: injebir aletla ulchdunuz de darartar normal debeklentimiz shudur
+  REPLACE  ...normalde beklentimiz şudur aleti
+      metin  : inceltmeye devam ettikçe sonuç yerde yatışır gerçek uzunluğa yaklaşır çemberin çevresini giderek küçülen düz parçalarla ölçtüğünüzde olan
+      duyulan: injalt mea devamitikche sonuch yar de yatushir garchik uzunuayaklashir chenbirin chevresinigidarek kuchulandu sparchalaar la ulchdunuz de olam
+  REPLACE  ...parçalarla ölçtüğünüzde olan budur
+      metin  : sonuç çemberin gerçek çevresine yaklaşan
+      duyulan: sonuch chenbirin garchik chevresinayaklashan
+  REPLACE  ...gerçek çevresine yaklaşan sabit
+      metin  : değeer oturur ama
+      duyulan: darauturur a m a
+  REPLACE  ...değeer oturur ama richardson
+      metin  : kıyı çizgilerinde
+      duyulan: kicisgilirin devekarasanar larundabununulmadunugurdu ulchum adumunu kuchultukche uzunuk de yar yaklashmyar bui mea devamit yordu unu sistamni bicimde injelemekicin ulchum adumunu
+  REPLACE  ...richardson kıyı çizgilerinde ve
+      metin  : kara sınırlarında bunun olmadığını gördü ölçüm adımını küçülttükçe uzunluk değeer yaklaşmıyor büyümeye devam ediyordu bunu sistemli biçimde incelemek için ölçüm adımını ve elde edilen uzunluğu
+      duyulan: lde edilan uzunu
+  REPLACE  ...elde edilen uzunluğu logaritmik
+      metin  : grafiğe döktü ortaya çıkan
+      duyulan: grafiaduktu orta echkan
+  REPLACE  ...döktü ortaya çıkan noktalar
+      metin  : dağınık bulut oluşturmadı düzgün doğru üzerine
+      duyulan: daanik bulutolu sturmadu dusgun dauru yuzerine
+  REPLACE  ...düzgün doğru üzerine dizildi
+      metin  : bu
+      duyulan: buu
+  REPLACE  ...üzerine dizildi bu arada
+      metin  : çok basit
+      duyulan: chokbasit
+  REPLACE  ...çok basit ve kesin
+      metin  : kural olduğu anlamına geliyordu adımı belli
+      duyulan: kuraloldu anna munagel yordu adumu belibi
+  REPLACE  ...geliyordu adımı belli oranda
+      metin  : küçülttüğünüzde uzunluk da hep aynı
+      duyulan: kuchultunuzde uzunukta hepainu
+  REPLACE  ...da hep aynı oranda
+      metin  : büyüyordu
+      duyulan: buu yordu
+  REPLACE  ...oranda büyüyordu daha da
+      metin  : ilginci bu doğrunun eğimi kıyıdan kıyıya değişiyordu britanya nın batı kıyısı için eğim belirgin biçimde dikti o kıyı fiyortlarla
+      duyulan: ilginje budorunun aime kuyadaan kuyadeish yordu britannianan bata kuyesei chen aime bilirgin bicimdedikte okuyefjortlarla
+  REPLACE  ...o kıyı fiyortlarla koylarla
+      metin  : kayalık burunlarla sayısız adacıkla örülüdür güney afrika nın kıyısı ize neredeyze düzdü ölçüm adımını küçültmek uzunluğu pek değiştirmiyordu avustralya kıyısı ile almanya nın kara sınırı
+      duyulan: kayalukburunlarla sayisuzada jikla urudur guni afrikanan kuyesei neredeisei duzdu ulchum adumunukkuchultmek uzunu pekdeishtirmyordu australia kuyesei le almanyanan karasanra
+  REPLACE  ...nın kara sınırı ikisinin
+      metin  : arasında yerde duruyordu peki bu durumda i spanya ile portekiz in anlaşmazlığı nasıl açıklanıyordu muhtemelen ülke aynı sınırı farklı ölçeklerde ölçmüştü küçük ülkenin büyük komşusuyla
+      duyulan: arasundabiarda duryordu pekki budurum da ispania ila portekizin annasmasli nasala chiklan yordu mokhtemelen ik yurke aynasunru farklu urchek lardu urchmishtu kuchukbirurkinen vyuk kom shusul
+  REPLACE  ...ülkenin büyük komşusuyla olan
+      metin  : sınırını
+      duyulan: sunru nada
+  REPLACE  ...komşusuyla olan sınırını daha
+      metin  : ayrıntılı haritalarla
+      duyulan: ayrantala harita larla
+  REPLACE  ...daha ayrıntılı haritalarla daha
+      metin  : ince adımlarla ölçmesi şaşırtıcı değildir i ki rakamın
+      duyulan: inja adum larla urchmesi shashurtu jedildir ikirakamun
+  REPLACE  ...i ki rakamın de
+      metin  : yanlış değildi hatta
+      duyulan: yamnush tilde hata
+  REPLACE  ...değildi hatta belki de
+      metin  : doğruydu sadece farklı soruların cevabıydılar
+      duyulan: dorudu saada jefarklu sorularan jevabu idalar
+  REPLACE  ...farklı soruların cevabıydılar richardson
+      metin  : bu gözlemlerini savaşlar üzerine yaptığı geniş çaplı
+      duyulan: bugel zamlerini sabashlar uzerne japtu jenish chaple
+  REPLACE  ...yaptığı geniş çaplı istatistik
+      metin  : çalışmasının eki olarak kaleme aldı
+      duyulan: chalushmasanan ekio olerak kalema alde
+  REPLACE  ...aldı ama bu ek
+      metin  : teki ölümünden
+      duyulan: nantizondat lishte kyolumun dan
+  REPLACE  ...ek teki ölümünden sonra
+      metin  : ancak de yayımlandı ve neredeyze hiç dikkat çekmedi barışseverin savaş istatistiklerine eklediği küçük not gibi duruyordu
+      duyulan: anjak bondo kuzuzatmishbir deja yimlande venaer dese hichtik katchek mede bar sevaren sabash istatistik lernae ikli diyikuchukbir notkibidu ryordu
+  REPLACE  ...not gibi duruyordu kimse
+      metin  : bu tuhaf tablonun
+      duyulan: budu haftablonun
+  REPLACE  ...tuhaf tablonun geometriye dair
+      metin  : çok köklü şey söylediğini fark etmemişti ta
+      duyulan: chokkuklu sheyso iladeenifarket memesti taki o ekio okuyu pichinde
+  REPLACE  ...fark etmemişti ta ki
+      metin  : o eki okuyup içindeki doğruların eğimine dikkatle bakana kadar o kişi
+      duyulan: doruluren ei minedik katde bakanakadar okishi
+  REPLACE  ...kadar o kişi benoit
+      metin  : mandelbrot tu varşova
+      duyulan: mandelbrotu varshova
+  REPLACE  ...mandelbrot tu varşova da
+      metin  : doğmuş fransa
+      duyulan: domus france
+  REPLACE  ...da doğmuş fransa da
+      metin  : yetişmiş
+      duyulan: yetishmish
+  REPLACE  ...fransa da yetişmiş sonra
+      metin  : amerika
+      duyulan: america
+  ... ve 126 fark daha
+
+metinde olup DUYULMAYAN: 1810 kelime | duyulup metinde OLMAYAN: 1718
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-10-26.duyulan.txt

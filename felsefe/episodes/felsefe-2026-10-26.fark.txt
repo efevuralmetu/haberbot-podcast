@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-26.mp3
+
+beklenen 2150 kelime | duyulan 2161 kelime | eşleşme %96.0
+sayı ifadesi: metinde 279, duyulanda 234  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tutacağı konusunda birbirine girmiştir
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...bile tayfalar işe yaramaz
+      metin  : gevezeye
+      duyulan: geveseye
+  REPLACE  ...hesabını el kaldırarak yapmayız
+      metin  : öyleyze
+      duyulan: ölöyze
+  REPLACE  ...sandığa attı o sırada
+      metin  : seksenlerinde
+      duyulan: lerinde
+  INSERT   ...ağırlığı ize liber kalabalık
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...yaşamış fransız düşünürdü yılında
+      metin  : marki dö kondorse
+      duyulan: marky de condorse
+  REPLACE  ...yayımladı aydınlanma çağının en
+      metin  : iyimser
+      duyulan: imser
+  REPLACE  ...toplamı bilgeliğe dönüşebilirdi ama
+      metin  : kondorse
+      duyulan: condorse
+  INSERT   ...kalabalığı değerlendirmektedir i ktisatçılar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kişinin görüşünün kez yankılanmasıdır
+      metin  : kondorse nin
+      duyulan: condorsenin
+  REPLACE  ...tarih çoğunluğun yanılabileceğine dair
+      metin  : kondorse den
+      duyulan: condorseden
+  REPLACE  ...atina da kişilik halk
+      metin  : jürisi
+      duyulan: cürisi
+  INSERT   ...i yargıladı aşağı yukarı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...hocasının bu sonu yatıyordu
+      metin  : kondorse nin
+      duyulan: condorsenin
+  INSERT   ...siyasi rüzgarın hedefi oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve hücresinde ölü bulundu
+      metin  : kondorse nin
+      duyulan: condorsenin
+  REPLACE  ...sonra genç fransız aristokrat
+      metin  : aleksi dö tokvil atlantiği
+      duyulan: alexis de tocqueville atlantıyı
+  INSERT   ...aşıp amerika ya gitti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çoğunluğun tiranlığı adını verdi
+      metin  : tokvil
+      duyulan: tocqueville
+  REPLACE  ...kapılar kapanır sözünüz dinlenmez
+      metin  : tokvil
+      duyulan: tocqueville
+  REPLACE  ...kaygıyla karşı karşıya duruyor
+      metin  : kondorse
+      duyulan: condorse
+  REPLACE  ...kendi aklıyla karar verecek
+      metin  : tokvil
+      duyulan: tocqueville
+  REPLACE  ...başlar bağımsızlık kaybolur ve
+      metin  : kondorse
+      duyulan: condorse
+  REPLACE  ...fıkıh usulünde ize dönemdeki
+      metin  : müçtehitlerin
+      duyulan: mücdehitlerin
+  REPLACE  ...tirmizi ve i bn
+      metin  : mace
+      duyulan: i maci
+  REPLACE  ...sıkı biçimde sorgulamışlardır her
+      metin  : müçtehidin
+      duyulan: mücdehidin
+  REPLACE  ...olduğunu söylemiştir bu yapıyı
+      metin  : kondorse
+      duyulan: condorse
+  REPLACE  ...koyunca ilginç akrabalık beliriyor
+      metin  : kondorse
+      duyulan: condorse
+  INSERT   ...değerli sayıldı aynı gelenek
+      metin  : (yok)
+      duyulan: aynı gelenek
+  REPLACE  ...am suresinde yeryüzündekilerin çoğuna
+      metin  : uyulursa
+      duyulan: uylursa
+  REPLACE  ...saptırılacağını çünkü onların yalnızca
+      metin  : zanna
+      duyulan: zanla
+  REPLACE  ...yani danışma kuran da
+      metin  : peygamber e
+      duyulan: peygambeer
+  DELETE   ...girdi yazdığı otobiyografik eser
+      metin  : el munkız mine d dalal yani dalaletten kurtuluş
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...benimsenmiş kabullerden yani taklitten
+      metin  : kurtulup
+      duyulan: kurtulurken
+  INSERT   ...çok derin gözlem restoranı
+      metin  : (yok)
+      duyulan: yorum yüzünden seçtiğimizi fark etti mi o kabulün camı kırılır ve artık eskisi gibi yapıştırılamaz
+  INSERT   ...sağlıklı olabilir ama sadece
+      metin  : (yok)
+      duyulan: sadece
+  REPLACE  ...buldu yılında amerika da
+      metin  : swarthmoer koleji nde
+      duyulan: swartmoer kolejinde
+  REPLACE  ...belki sonuçların kendisinden de
+      metin  : öğreticiydi
+      duyulan: öğreteceğiydi
+  REPLACE  ...arzusunun gölgesidir yine de
+      metin  : asch ın
+      duyulan: aşın
+  INSERT   ...idaer ediyor i bn
+      metin  : (yok)
+      duyulan: i
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: felsefe-2026-10-26.duyulan.txt

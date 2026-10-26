@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-26.mp3
+
+beklenen 3404 kelime | duyulan 3419 kelime | eşleşme %87.1
+sayı ifadesi: metinde 326, duyulanda 257  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ele geçirmiş adam ordusunu
+      metin  : yangçe nin
+      duyulan: yangchenin
+  INSERT   ...romanın uydurduğu kısım hangisi
+      metin  : (yok)
+      duyulan: çi ki
+  REPLACE  ...sırada han hanedanının başbakanı
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...en güçlü kişisiydi adı
+      metin  : tsao tsao
+      duyulan: tao tao
+  INSERT   ...artık kendi başlarına buyruktu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sınır komutanı olan dong
+      metin  : cuo
+      duyulan: kuo
+  REPLACE  ...yerine henüz çocuk yaştaki
+      metin  : şiyen ı
+      duyulan: xi en i
+  REPLACE  ...oyun tahtasına dönüştü tsao
+      metin  : tsao
+      duyulan: t o
+  INSERT   ...geldi başıboş kalmış genç
+      metin  : (yok)
+      duyulan: imparator xi en
+  DELETE   ...başıboş kalmış genç i
+      metin  : mparator şiyen ı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...alıp kendi merkezi olan
+      metin  : xu
+      duyulan: su
+  INSERT   ...ardından askeri zaferler geldi
+      metin  : (yok)
+      duyulan: xi ki
+  REPLACE  ...kalabalık ordusuna sahip olan
+      metin  : yüen şao yu
+      duyulan: yuan shaoyu
+  REPLACE  ...yendi takip eden yıllarda
+      metin  : yüen
+      duyulan: yuan
+  INSERT   ...kalıntılarını tek tek temizledi
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...bozkırlarına uzanan zorlu seferle
+      metin  : vuhuan
+      duyulan: wu huan
+  REPLACE  ...vuhuan boylarını dize getirdi
+      metin  : sarı
+      duyulan: sağrı
+  INSERT   ...artık tek elde toplanmıştı
+      metin  : (yok)
+      duyulan: xi ki
+  REPLACE  ...tek elde toplanmıştı yazında
+      metin  : tsao tsao
+      duyulan: cao cao
+  REPLACE  ...güneyde ize tablo dağınıktı
+      metin  : yangçe nin
+      duyulan: yang chen in
+  REPLACE  ...cing eyaletini yaşlı vali
+      metin  : lyu byao
+      duyulan: liu biao
+  REPLACE  ...aşağı kıyılarında genç sun
+      metin  : çüen ın
+      duyulan: qu en in
+  REPLACE  ...ın toprakları vardı batıda
+      metin  : siçuan
+      duyulan: sichuan
+  REPLACE  ...ötekine sığınarak ayakta kalmış
+      metin  : lyu bey
+      duyulan: liu bei
+  REPLACE  ...lyu bey o sırada
+      metin  : lyu byao
+      duyulan: liu biao
+  REPLACE  ...in kuzey sınırında bekliyordu
+      metin  : tsao tsao
+      duyulan: cao cao
+  REPLACE  ...talih armağan daha verdi
+      metin  : lyu byao
+      duyulan: liu biao
+  REPLACE  ...öldü yerine geçen oğlu
+      metin  : lyu tsong
+      duyulan: liu zong
+  REPLACE  ...neredeyze tek ok atılmadan
+      metin  : tsao tsao
+      duyulan: cao cao
+  REPLACE  ...tsao tsao ya geçti
+      metin  : lyu bey
+      duyulan: liu bei
+  REPLACE  ...sivil yüzünden yavaş ilerliyordu
+      metin  : tsao tsao
+      duyulan: cao cao
+  REPLACE  ...aşacak şekilde peşine saldı
+      metin  : çangban
+      duyulan: changban
+  REPLACE  ...saldı çangban da yetiştiler
+      metin  : lyu bey
+      duyulan: liu bei
+  REPLACE  ...kafilesi dağıldı komutanı cao
+      metin  : yün un lyu bey
+      duyulan: yu nun liu bei
+  REPLACE  ...karmaşanın içinden kurtardığı anlatılır
+      metin  : lyu bey
+      duyulan: liu bei
+  REPLACE  ...doğuya kaçmayı başardı ve
+      metin  : lyu byao
+      duyulan: liu biao
+  REPLACE  ...byao nun büyük oğlu
+      metin  : lyu çi nin
+      duyulan: liu qin in
+  REPLACE  ...nin elindeki küçük nehir
+      metin  : üssüne
+      duyulan: üstüne
+  REPLACE  ...küçük nehir üssüne sığındı
+      metin  : tsao tsao
+      duyulan: cao cao
+  REPLACE  ...almıştı cing in kalbindeki
+      metin  : ciangling
+      duyulan: jiangling
+  ... ve 198 fark daha
+
+metinde olup DUYULMAYAN: 379 kelime | duyulup metinde OLMAYAN: 409
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: tarih-2026-10-26.duyulan.txt

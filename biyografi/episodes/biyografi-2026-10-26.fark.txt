@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-26.mp3
+
+beklenen 2431 kelime | duyulan 2449 kelime | eşleşme %94.4
+sayı ifadesi: metinde 332, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...de hayır cevabı geldi
+      metin  : çiune sugihara
+      duyulan: chiuunesugihara
+  REPLACE  ...kalkıp salondan çıkıyor adı
+      metin  : çiune sugihara
+      duyulan: chiuunesugihara
+  REPLACE  ...sessiz itirazı sayılabilir babası
+      metin  : yoşimizu
+      duyulan: yoshimizu
+  REPLACE  ...ailesini disiplinle yöneten adamdı
+      metin  : çiune
+      duyulan: chiuune
+  REPLACE  ...dönüşü olmayacak biçimde reddetmişti
+      metin  : çiune
+      duyulan: chiuune
+  INSERT   ...biçimde reddetmişti çiune ocak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sınav kağıdını boş bırakmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dil olarak girmedi ortodoks
+      metin  : hristiyanlığı
+      duyulan: hıristiyanlığı
+  REPLACE  ...ortodoks hristiyanlığı seçti ve
+      metin  : vaftizde
+      duyulan: vafdiz de
+  INSERT   ...vaftizde pavel adını aldı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fırtına toplanıyordu sonbaharında japon
+      metin  : kvantung
+      duyulan: kwantung
+  REPLACE  ...sonbaharında japon kvantung ordusu
+      metin  : mukden
+      duyulan: mukten
+  REPLACE  ...etti yıl sonra bölgede
+      metin  : mançukuo
+      duyulan: manchuku
+  REPLACE  ...çin in son imparatoru
+      metin  : puyi
+      duyulan: puyo
+  REPLACE  ...önemli kondu kuzey mançurya
+      metin  : demiryolu hat
+      duyulan: demir yolu hattı
+  INSERT   ...çekilmesine yardım etti sonunda
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yerine konmadığını görmeye dayanamıyordu
+      metin  : demiryolu
+      duyulan: te demir yolu
+  REPLACE  ...imzalanmasından kısa süer önce
+      metin  : mançukuo
+      duyulan: manchukuo
+  REPLACE  ...da aynı dönemde değişti
+      metin  : klavdiya
+      duyulan: claudia
+  INSERT   ...değişti klavdiya ile evliliği
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...japonya ya döndü ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ya döndü ve yukiko
+      metin  : kikuçi
+      duyulan: kikuchi
+  INSERT   ...helsinki ye gönderildi sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...görevi gözlemdi tokyo almanya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...ile sovyetler arasındaki ilişkiyi
+      metin  : yakından
+      duyulan: buradan
+  REPLACE  ...arasında sıkışmış küçük ülkenin
+      metin  : başkentiydi
+      duyulan: başkenti idi
+  REPLACE  ...da koruma sağlıyordu sugihara
+      metin  : sonbaharında
+      duyulan: son
+  REPLACE  ...ama kaçacak yer neredeyze
+      metin  : kalmamıştı
+      duyulan: kalmıştı
+  REPLACE  ...taki hollanda fahri konsolosu
+      metin  : yan zvartendeyk
+      duyulan: jan zwartendijk
+  REPLACE  ...kağıt üzerinde son durak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...ni boydan boya geçmek
+      metin  : vladivostok
+      duyulan: vila divostok
+  REPLACE  ...temsilcileriyle konuştu aralarında zerah
+      metin  : varhaftig
+      duyulan: varhavtik
+  INSERT   ...ittifak hafta sonra eylül
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...geleceğini söyledi yukiko nun
+      metin  : cevabı
+      duyulan: sabahı
+  DELETE   ...ay başladı sugihara vizeleri
+      metin  : elle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yukiko kollarına masaj yapıyordu
+      metin  : yemeğe
+      duyulan: yemeye
+  REPLACE  ...kapsıyordu kayıt tutmayı bıraktığı
+      metin  : günler de oldu
+      duyulan: günlerde
+  REPLACE  ...yazmaya devam etti kapı
+      metin  : kapanmıştı
+      duyulan: almıştı
+  INSERT   ...ama kalabalık izliyordu eylül
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...kaunas tren istasyonuna geldi
+      metin  : çiune
+      duyulan: chiyune
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 99
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: biyografi-2026-10-26.duyulan.txt

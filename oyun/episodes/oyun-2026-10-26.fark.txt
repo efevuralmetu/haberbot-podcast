@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-26.mp3
+
+beklenen 1765 kelime | duyulan 1762 kelime | eşleşme %96.9
+sayı ifadesi: metinde 194, duyulanda 178  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...içinde füze bekliyor sonra
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...yıl önce piyasaya çıkan
+      metin  : asteroids
+      duyulan: asteroid
+  REPLACE  ...fikri alan isim dave
+      metin  : theurer
+      duyulan: turer
+  REPLACE  ...da dönemin ruhunu saklamıyor
+      metin  : armagedon
+      duyulan: armageddon
+  INSERT   ...bu adı anlamak için
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...güç arasındaki yumuşama dönemi
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...kuzeyden güneye eureka san
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...halinde ekrandan silindi şehirler
+      metin  : adsız
+      duyulan: atsız
+  REPLACE  ...adsız birbirinin aynı küçük
+      metin  : siluetleer
+      duyulan: silüetleer
+  REPLACE  ...şeridinin son dakikaları oyunun
+      metin  : mekaniği
+      duyulan: mekaneyi
+  REPLACE  ...gerilimi kusursuz biçimde taşıyor
+      metin  : theurer
+      duyulan: türer
+  REPLACE  ...klasik kumanda kolu yerine
+      metin  : iztopu
+      duyulan: istopu
+  REPLACE  ...boşluğa koymanız gerekiyor oyun
+      metin  : refleksten
+      duyulan: reflex
+  REPLACE  ...yi oyuncu ekrana bakıp
+      metin  : tehdidin
+      duyulan: tehditin
+  REPLACE  ...var ve renkler değişiyor
+      metin  : gökyüzü
+      duyulan: gök
+  REPLACE  ...çoktan oyun olmaktan çıkmıştı
+      metin  : dave theurer
+      duyulan: david törrer
+  REPLACE  ...nedenini anlamak zor değil
+      metin  : theurer
+      duyulan: törrer
+  REPLACE  ...gece bilincin geri dönüyordu
+      metin  : theurer
+      duyulan: törrer
+  REPLACE  ...tasarımın kendisine de sızdı
+      metin  : theurer
+      duyulan: törrer
+  REPLACE  ...oyunu intikam fantezisine çevirebilirdi
+      metin  : theurer
+      duyulan: törrer
+  REPLACE  ...adı gidince ekrandaki küçük
+      metin  : siluet
+      duyulan: silüet
+  REPLACE  ...aynı şehirleri korudu böylece
+      metin  : theurer
+      duyulan: thorar
+  REPLACE  ...birlikte uzun saatler çalıştılar
+      metin  : theurer
+      duyulan: thorar
+  REPLACE  ...burada ilginç ironi var
+      metin  : theurer
+      duyulan: thorar
+  REPLACE  ...sonraki dalgada da orada
+      metin  : theurer
+      duyulan: thorar
+  REPLACE  ...sorusundan farklı değildi ve
+      metin  : theurer
+      duyulan: thorar
+  REPLACE  ...tekrar deneme hakkı yoktur
+      metin  : theurer
+      duyulan: törer
+  REPLACE  ...çoğalıyor akıllı bombalar sıklaşıyor
+      metin  : puan
+      duyulan: poan
+  REPLACE  ...düşmanın baskısı durmuyor belli
+      metin  : puan
+      duyulan: poan
+  REPLACE  ...savunma kurarsak kurtulabileceğimiz inancını
+      metin  : theurer
+      duyulan: türer
+  REPLACE  ...ekranın ortasında patlayan o
+      metin  : kelimedeydi
+      duyulan: kelime değdi
+  REPLACE  ...atari yaklaşık kabin sattı
+      metin  : iztopunun
+      duyulan: istopunun
+  REPLACE  ...o ince çizgiler salonun
+      metin  : loş
+      duyulan: loj
+  INSERT   ...da aynı soruyla boğuştu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve mekaniklerle kurulması fikri
+      metin  : iztopunun
+      duyulan: de istopunun
+  REPLACE  ...ve o kelimeyi görüyor
+      metin  : dave theurer
+      duyulan: david taurer
+  INSERT   ...dalga daha şehir daha
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...küçük şehir hala bekliyor
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: oyun-2026-10-26.duyulan.txt

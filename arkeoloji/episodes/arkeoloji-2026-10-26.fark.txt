@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-26.mp3
+
+beklenen 2303 kelime | duyulan 2314 kelime | eşleşme %96.8
+sayı ifadesi: metinde 305, duyulanda 252  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kazma iri taşlarla örtülü
+      metin  : tümseğin
+      duyulan: tümseyin
+  REPLACE  ...kısa ve serin i
+      metin  : ö binyılın
+      duyulan: laç ördün yılın
+  REPLACE  ...gölgede tutar ve kış
+      metin  : soğuğunun
+      duyulan: soğunun
+  REPLACE  ...değerli şey bıraktı deriyi
+      metin  : keçeyi
+      duyulan: keçeği
+  REPLACE  ...biliyordu yazında rus arkeolog
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...anlamaya başlıyordu buzla karşılaşan
+      metin  : arkeoloğun
+      duyulan: arkeologun
+  REPLACE  ...uzun sessizlik geldi rudenko
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...kazı alanlarından uzak kaldı
+      metin  : pazırığa
+      duyulan: pazıra
+  DELETE   ...uzak kaldı pazırığa ancak
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...dünya savaşı nın ardından
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nın ardından dönebildi ve
+      metin  : (yok)
+      duyulan: a
+  DELETE   ...yaratığa dönüşmüş atla gidecekti
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...boşluklar bitki ve ottan
+      metin  : dolguyla
+      duyulan: doluyla
+  REPLACE  ...tarihçilerinin hayvan üslubu dediği
+      metin  : bozkır
+      duyulan: bosker
+  REPLACE  ...göçebelerine özgü o hareketli
+      metin  : dil
+      duyulan: değil
+  INSERT   ...ya ömrünün buluntusunu verdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eski düğümlü halıydı bu
+      metin  : santimetrekaresinde
+      duyulan: santimeter karesinde
+  REPLACE  ...pers etkisine bakıp güneydeki
+      metin  : ahameniş
+      duyulan: ahmeniş
+  REPLACE  ...yer sayılır yazında novosibirsk
+      metin  : teki
+      duyulan: liti
+  REPLACE  ...etnografya enstitüsü nden arkeolog
+      metin  : natalya
+      duyulan: natalia
+  REPLACE  ...çıkan şey hayal kırıklığıydı
+      metin  : tümseğin
+      duyulan: tümseyin
+  REPLACE  ...üzerine hiçbir dehliz açılmamıştı
+      metin  : polosmağın
+      duyulan: polosmak ın
+  REPLACE  ...ekibin önce gördüğü şey
+      metin  : kürk
+      duyulan: kürt
+  REPLACE  ...aynı zamanda tuhaf mahcubiyet
+      metin  : karışımıyla
+      duyulan: karışımı ile
+  REPLACE  ...atlar yatıyordu at her
+      metin  : eyerli
+      duyulan: eğerli
+  REPLACE  ...izler gömülmeden önce tek
+      metin  : darbeyle
+      duyulan: darbe ile
+  REPLACE  ...çatalları çiçek biçimli dallarla
+      metin  : sonlanan
+      duyulan: somlanan
+  REPLACE  ...hepsi basın kısa sürede
+      metin  : ad
+      duyulan: at
+  REPLACE  ...keçe çizmeler vardı de
+      metin  : kürk
+      duyulan: kürt
+  REPLACE  ...perukun üzerinde ize yaklaşık
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...gücünün adıydı ama bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...bu buluntular yunan tarihçi
+      metin  : herododun
+      duyulan: herodot un
+  REPLACE  ...herododun yaklaşık aynı dönemde
+      metin  : bozkır
+      duyulan: bosker
+  REPLACE  ...ancak yıllar sonra anlaşıldı
+      metin  : novosibirsk
+      duyulan: ki te novosibirsik
+  INSERT   ...duran elbette bu yorum
+      metin  : (yok)
+      duyulan: keki
+  REPLACE  ...de çalıştı ardından novosibirsk
+      metin  : teki
+      duyulan: e ki
+  INSERT   ...talepler yıllarca sürdü sonunda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gördü kimileri ize ancak
+      metin  : ukoğa
+      duyulan: uko a
+  REPLACE  ...edeceği cevabı yok ama
+      metin  : ukoğun
+      duyulan: uko un
+  REPLACE  ...büyük ölçüde kapattı ama
+      metin  : ukoğun
+      duyulan: uko un
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 56
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: arkeoloji-2026-10-26.duyulan.txt

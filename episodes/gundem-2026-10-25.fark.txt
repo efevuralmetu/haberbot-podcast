@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-25.mp3
+
+beklenen 1338 kelime | duyulan 1344 kelime | eşleşme %94.0
+sayı ifadesi: metinde 262, duyulanda 143  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...günde yaşanan en ağır
+      metin  : bilanço
+      duyulan: lançe
+  REPLACE  ...kabul edilmiyor i ran
+      metin  : devrim
+      duyulan: devri
+  REPLACE  ...halinde çatışmanın bölgedeki amerikan
+      metin  : üslerine
+      duyulan: üstlerine
+  REPLACE  ...arabistan destekli yemen hükümeti
+      metin  : ekim başında husilerin
+      duyulan: ekimbaşı nda hussilerin
+  REPLACE  ...almak için kapsamlı askeri
+      metin  : harekat
+      duyulan: hareket
+  REPLACE  ...arasında karşılıklı saldırılar sürüyor
+      metin  : husilerin şebve
+      duyulan: hussilerin şevve
+  INSERT   ...de gündemde bu çatışmalar
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...başında devlet başkanı luis
+      metin  : i nasyo
+      duyulan: inacio
+  REPLACE  ...da silva ile senatör
+      metin  : flavyo
+      duyulan: flavio
+  REPLACE  ...kanada da ize alberta
+      metin  : eyaletinde
+      duyulan: ialetinde
+  REPLACE  ...güvenlik boyutu öne çıktı
+      metin  : teksas başsavcısı
+      duyulan: texas baş savcısı
+  REPLACE  ...aleyhine dava açtı davada
+      metin  : chatgpt
+      duyulan: çetçiy pt
+  REPLACE  ...bağlanmasını talep ediyor anthropic
+      metin  : de
+      duyulan: te
+  REPLACE  ...yayımladı rapora göer claude
+      metin  : mythos
+      duyulan: mithos
+  INSERT   ...modeli siber güvenlik testinin
+      metin  : (yok)
+      duyulan: unda
+  REPLACE  ...güvenlik cephesinde openai ın
+      metin  : codex
+      duyulan: codec
+  REPLACE  ...ekibi node js yazılımının
+      metin  : brotli
+      duyulan: brodly
+  REPLACE  ...devlet dairelerinde chatgpt ve
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...su andy jassy aws
+      metin  : nin
+      duyulan: in
+  REPLACE  ...çinli moonshot şirketi de
+      metin  : kimi kotuz
+      duyulan: kimiko
+  REPLACE  ...açıdan ize abd liderliğindeki
+      metin  : paks silika
+      duyulan: paksilika
+  REPLACE  ...çin in öncülük ettiği
+      metin  : waico
+      duyulan: vaiko
+  REPLACE  ...petrolün varili artışla dolara
+      metin  : brent
+      duyulan: brand
+  REPLACE  ...yükselişle dolara çıktı bu
+      metin  : nisandan
+      duyulan: nissan dan
+  REPLACE  ...yüksek kapanış cuma günü
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...nasdaq ize değer kaybetti
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...amazon başta olmak üzeer
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...üzeer esenpi şirketlerinin yaklaşık
+      metin  : bilanço
+      duyulan: te i bilanç o
+  INSERT   ...yılın aynı dönemine göer
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...deki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: den ya
+  REPLACE  ...zor hafta geride kaldı
+      metin  : bist
+      duyulan: liste
+  DELETE   ...puanı gördü serbest piyasada
+      metin  : dolar lira
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...parti yönetimi göreve dönmüştü
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...dairesi nde bulunuyor ve
+      metin  : nihai
+      duyulan: nihay i
+  REPLACE  ...yıl dönümünü genel başkan
+      metin  : müsavat
+      duyulan: müsabat
+  REPLACE  ...kanun teklifi ele alınacak
+      metin  : teklife
+      duyulan: teklifi
+  REPLACE  ...yıl hapis cezasına çarptırıldı
+      metin  : kocaeli de
+      duyulan: kocaeyde
+  REPLACE  ...çarptırıldı kocaeli de anadolu
+      metin  : otoyolu nda tırın
+      duyulan: otoyolunda trın
+  REPLACE  ...açıklanacak aynı gün akşam
+      metin  : alphabet
+      duyulan: alfabet
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: gundem-2026-10-25.duyulan.txt

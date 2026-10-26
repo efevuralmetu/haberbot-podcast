@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-26.mp3
+
+beklenen 1611 kelime | duyulan 1652 kelime | eşleşme %91.4
+sayı ifadesi: metinde 251, duyulanda 147  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...mayıs
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ödülü elleriyle reddettirecekti mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şairlerinden karşısındaki genç adam
+      metin  : serciyo
+      duyulan: sergio
+  REPLACE  ...ve idealist komünist olan
+      metin  : cancakomo
+      duyulan: gianciacomo
+  REPLACE  ...önce şaşırdı sonra düşündü
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...cümlenin ağırlığını anlamak için
+      metin  : pasternağın
+      duyulan: pasternak ın
+  INSERT   ...geçtiği yolları bilmek gerekir
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...resimlemiş tanınmış ressamdı annesi
+      metin  : roza
+      duyulan: rosa
+  REPLACE  ...roza kaufman ize konser
+      metin  : piyanistiydi
+      duyulan: pianistiydi
+  REPLACE  ...sonunda şiirde karar kılmıştı
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...parlak seslerinden sayılıyordu ama
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...arkadaşlarının kaybolduğunu gördü şair
+      metin  : osip mandelştam
+      duyulan: ossip mandelstam
+  INSERT   ...pasternak şekilde hayatta kaldı
+      metin  : (yok)
+      duyulan: pasternak
+  REPLACE  ...hem de sığınaktı romana
+      metin  : savaşın
+      duyulan: savaşı nın
+  REPLACE  ...ortaya çıkan kitap doktor
+      metin  : jivago
+      duyulan: givago
+  REPLACE  ...jivago ydu kahramanı yuri
+      metin  : jivago
+      duyulan: givago
+  INSERT   ...ruhlu hekimdi hayatı devriminden
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...devriminden dünya savaşı na
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...savaşın kanlı yıllarına uzanıyordu
+      metin  : jivago
+      duyulan: givago
+  REPLACE  ...aşkı lara romanın sonunda
+      metin  : jivago
+      duyulan: givago
+  REPLACE  ...isyan çağrısı değildi tehlike
+      metin  : pasternağın
+      duyulan: pasternahın
+  INSERT   ...gerçek kadın vardı pasternak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...edebiyat dergisi editörü olga
+      metin  : i vinskaya ile
+      duyulan: ivinskaya yla
+  REPLACE  ...uzun ilişki yaşamaya başlamıştı
+      metin  : i vinskaya
+      duyulan: da ivinskaya
+  INSERT   ...stalin in ölümünden sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sovyet sınırlarını aşmak üzereydi
+      metin  : dancelo elyazmasını
+      duyulan: dansello el yazmasını
+  REPLACE  ...bavuluna koyup ya döndü
+      metin  : peredelkino
+      duyulan: deredelkino
+  REPLACE  ...çeviriyi rus edebiyatı uzmanı
+      metin  : piyetro zveteremiç
+      duyulan: pietro zveteremic
+  INSERT   ...de bırakmamıştı ama eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eylül önemli edebiyat dergisi
+      metin  : novıy
+      duyulan: novi
+  REPLACE  ...bu mektup o gün
+      metin  : kamuoyuyla
+      duyulan: kamuoyu ile
+  REPLACE  ...gün kamuoyuyla paylaşılmadı ama
+      metin  : pasternağın
+      duyulan: pasternak ın
+  REPLACE  ...için harekete geçti önce
+      metin  : pasternağa
+      duyulan: pasternak a
+  REPLACE  ...edilmeye çalışıldı sovyet yazarlar
+      metin  : birliğinden
+      duyulan: nden
+  INSERT   ...partisinden de ayrıldı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da raflara çıktı bu
+      metin  : doktor jivago
+      duyulan: dr givago
+  INSERT   ...oyuncu daha devreye girdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da gizlice bastırdı yazında
+      metin  : brüksel
+      duyulan: bruksel
+  REPLACE  ...peter finn ve petra
+      metin  : kuve
+      duyulan: cove
+  REPLACE  ...ayrıntılarını gün ışığına çıkardılar
+      metin  : pasternağın
+      duyulan: pasternak ın
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: edebiyat-2026-10-26.duyulan.txt

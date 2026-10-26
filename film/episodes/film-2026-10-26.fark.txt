@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-26.mp3
+
+beklenen 1706 kelime | duyulan 1709 kelime | eşleşme %93.8
+sayı ifadesi: metinde 185, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...güne kadar henry kaptan
+      metin  : bligh
+      duyulan: bleak
+  REPLACE  ...henry kaptan bligh ve
+      metin  : notr dam
+      duyulan: noter dame
+  REPLACE  ...olarak tanınmış oyuncu charles
+      metin  : laughton
+      duyulan: lawton
+  REPLACE  ...gelmesiyle birlikte kaybolduğuna inanıyor
+      metin  : laughton ın
+      duyulan: lawton un
+  REPLACE  ...moundsville kasabasında büyümüş davis
+      metin  : grubb
+      duyulan: grup te
+  REPLACE  ...sıradan mahkum değildir kendini
+      metin  : vaiz
+      duyulan: vahiz
+  REPLACE  ...çocuklarınsa peşine düşer kitabı
+      metin  : laughton
+      duyulan: lahton
+  REPLACE  ...olan yapımcı paul gregory
+      metin  : ydi
+      duyulan: di
+  REPLACE  ...i kisi amerika yı
+      metin  : turneyle
+      duyulan: turne ile
+  REPLACE  ...yı turneyle dolaşmış okuma
+      metin  : gösterileriyle
+      duyulan: gösterileri ile
+  REPLACE  ...gregory sinemaya geçmek istiyordu
+      metin  : laughton
+      duyulan: lahton
+  REPLACE  ...şair ve romancı james
+      metin  : agee
+      duyulan: age i
+  REPLACE  ...romancı james agee ancak
+      metin  : agee nin
+      duyulan: age inin
+  REPLACE  ...film için fazlasıyla uzundu
+      metin  : laughton
+      duyulan: lahton
+  REPLACE  ...bazı yerlerini baştan yazdı
+      metin  : jenerikte
+      duyulan: cenerikte
+  REPLACE  ...baştan yazdı jenerikte yalnızca
+      metin  : agee
+      duyulan: age
+  REPLACE  ...senaryo taslakları gün çıkıp
+      metin  : agee
+      duyulan: age
+  REPLACE  ...anlaşılana kadar yıllarca tartışıldı
+      metin  : laughton ın
+      duyulan: lahton un
+  REPLACE  ...halini yansıtan sahne gibidir
+      metin  : laughton ın
+      duyulan: lahton un
+  REPLACE  ...yıldızlarından lillian gish in
+      metin  : laughton
+      duyulan: lahton
+  REPLACE  ...bakışlı umursamaz sert adamıydı
+      metin  : laughton
+      duyulan: lahton
+  REPLACE  ...canlandıracaktı çocuklar için billy
+      metin  : chapin
+      duyulan: chaplin
+  REPLACE  ...için billy chapin ile
+      metin  : minicik
+      duyulan: minicick
+  REPLACE  ...bulundu ekip tamamlanmıştı ama
+      metin  : laughton ın
+      duyulan: lahton un
+  DELETE   ...i sol elininkilerde n
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olduğunu en baştan bilir
+      metin  : laughton ın
+      duyulan: lahton un
+  REPLACE  ...alman dışavurumculuğunun gölgeli eğri
+      metin  : büğrü
+      duyulan: büyürü
+  REPLACE  ...bunun en çarpıcı örneği
+      metin  : willa
+      duyulan: villa
+  REPLACE  ...düşen ışık duvarı böler
+      metin  : willa
+      duyulan: villa
+  REPLACE  ...cenazesine hazırlanmış gibi yatar
+      metin  : powel
+      duyulan: povel
+  REPLACE  ...cebinden sustalı bıçağı çıkar
+      metin  : laughton
+      duyulan: lahton
+  INSERT   ...ürpertici görüntüsü gelir yaşlı
+      metin  : (yok)
+      duyulan: burdi
+  REPLACE  ...suyun iner direksiyonun başında
+      metin  : willa
+      duyulan: villa
+  REPLACE  ...ve korkunç güzellik yaratır
+      metin  : laughton ın
+      duyulan: lahton un
+  REPLACE  ...kaybeden çocuklar kaçar john
+      metin  : pearl ü
+      duyulan: purdyot u
+  REPLACE  ...gizlendiği oyuncak bebeği alıp
+      metin  : amca nın
+      duyulan: burdi amcanın
+  REPLACE  ...neredeyze tamamen stüdyoda kuruldu
+      metin  : laughton
+      duyulan: lahton
+  REPLACE  ...çizgisinde ay ışığında atlının
+      metin  : siluetini
+      duyulan: silüetini
+  REPLACE  ...duygusunu güçlendirmek için ufukta
+      metin  : midilliye
+      duyulan: midilliğe
+  REPLACE  ...cooper ın evine sığınır
+      metin  : gish
+      duyulan: giş
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: film-2026-10-26.duyulan.txt

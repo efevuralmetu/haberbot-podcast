@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-26.mp3
+
+beklenen 1521 kelime | duyulan 1534 kelime | eşleşme %97.7
+sayı ifadesi: metinde 139, duyulanda 126  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...pek gelmedi değil mi
+      metin  : psikologlar
+      duyulan: pesikologlar
+  INSERT   ...kadar değilim diye düşüneceksin
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...lin ve lee ross
+      metin  : la
+      duyulan: ile
+  REPLACE  ...dışında da denediler san
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...bakılan yerde pronin ve
+      metin  : joanna
+      duyulan: johanna
+  INSERT   ...pronin ve joanna kugler
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...soruyu ele aldılar ve
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ben sadece olanı görüyorum
+      metin  : lee ross
+      duyulan: learos
+  REPLACE  ...russel meserve ve keith
+      metin  : stanoviç
+      duyulan: stanowicz
+  INSERT   ...ve keith stanoviç in
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...merak konusu da değil
+      metin  : pronin in
+      duyulan: prony nin
+  REPLACE  ...geriye baskı kalır karşı
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...ve elizabeth preston ın
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...tamamı o cümlenin içinde
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 13 kelime | duyulup metinde OLMAYAN: 18
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: psikoloji-2026-10-26.duyulan.txt

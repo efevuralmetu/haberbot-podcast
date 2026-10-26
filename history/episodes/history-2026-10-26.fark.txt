@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-26.mp3
+
+beklenen 3427 kelime | duyulan 2889 kelime | eşleşme %10.1
+sayı ifadesi: metinde 265, duyulanda 123  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...in the winter of
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...was burning the water
+      metin  : yılının sonbaharında çin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yılının sonbaharında çin in
+      metin  : büyük nehirlerinden doğru inen yollarda uzun ordu ilerliyordu atlılar yaya kolları erzak arabaları ve sancaklar bu ordunun başındaki adam o sırada han hanedanının başbakanı fiilen de imparatorluğun en güçlü kişisiydi adı cao cao ydu ve yaşındaydı hayatının büyük kısmını dağılan devletin parçalarını kılıç zoruyla yeniden birleştirmeye harcamıştı şimdi bakışlarını güneye çinlilerin kısaca uzun nehir dediği yangçe nin ötesine çevirmişti bu yürüyüşün neden bu kadar önemli olduğunu anlamak için yıl geriye gitmek gerekiyor han hanedanı yaklaşık yıldır çin i yönetiyordu ama yüzyılın sonuna gelindiğinde sarayın içi çürümüştü hadımlar ile saray ailelerinin iktidar kavgası yönetimi felç etmişti köylüler ize kıtlık ve vergi eziliyordu yılında sarı sarıklılar adıyla bilinen dev halk ayaklanması patlak verdi i syan bastırıldı ama bastırmak için güçlenen komutanlar artık kendi başlarına buyruktu da sert sınır komutanı olan dong zhuo başkente girip imparatoru tahttan indirdi yerine henüz çocuk yaştaki xian ı oturttu ertesi yıl eski başkent luoyang ateşe verildi o andan sonra imparatorluk birbirine düşman savaş beylerinin oyun tahtasına dönüştü cao cao bu kargaşada önce sıradan beylerden öne çıkaran hamle yılında geldi başıboş kalmış genç i mparator xian ı himayesine alıp kendi merkezi olan xu kentine yerleştirdi bundan sonra verdiği her emir en azından kağıt üzerinde imparatorun ağzından çıkıyordu rakipleri karşı geldiklerinde yalnızca beye değil meşru hanedana da karşı gelmiş oluyordu çinli tarihçiler bu durumu imparatoru elinde tutup adına beyleer emir vermek diye özetler ardından
+      duyulan: the winter of the man who already ruled northern china was burning the water he was a man who always ruled northern china he was a man who always ruled northern china he was a man who always ruled northern china in the man who ruled northern china was a man who always ruled northern china arden dan
+  REPLACE  ...diye özetler ardından askeri
+      metin  : zaferler geldi yılında kuzeyin en kalabalık ordusuna sahip olan
+      duyulan: s affair largaalda yalanda kuzayin enkalabaluk ordosunasahhipolan
+  REPLACE  ...yuan shao yu guandu
+      metin  : da yendi
+      duyulan: dayan de
+  REPLACE  ...guandu da yendi takip
+      metin  : eden yıllarda
+      duyulan: aidan yalarda
+  REPLACE  ...takip eden yıllarda yuan
+      metin  : ailesinin kalıntılarını tek tek temizledi de ize çin seddi nin ötesine kuzeydoğunun bozkırlarına uzanan zorlu seferle
+      duyulan: ilesin enkalantalerna tektak temizlede isse chinsedin inotesinae kuzaydonun boskri lerna oozanan zorlubi seffarle
+  REPLACE  ...uzanan zorlu seferle wuhuan
+      metin  : boylarını dize getirdi sarı nehir havzası yani çin
+      duyulan: boilerna dizegeterde today i would like to introduce you to some of the most famous artists
+  REPLACE  ...havzası yani çin in
+      metin  : nüfusça en kalabalık ve en zengin bölgesi artık tek elde toplanmıştı yazında cao cao devletin en üst makamını kaldırıp yerine başbakanlık makamını kurdu ve oraya kendisi oturdu güneyde ize tablo dağınıktı yangçe nin orta kesimindeki geniş jing eyaletini yaşlı vali
+      duyulan: the world years ago in i was the artist in the world to make the most of my work today i would like to introduce you to the most famous artists in the world the city has the largest population and the largest population in the world moer than people aer living in the city the biggest population in the world is the lowest population people live in the city of germany theer aer over people living in the city in the past we have had a lot of fun in the past
+  REPLACE  ...yaşlı vali liu biao
+      metin  : yönetiyordu daha doğuda nehrin aşağı kıyılarında genç
+      duyulan: years old during his time with liu chang he has been working in the industry for moer than years he has been working in the industry for moer than years he has been working in the industry for moer than years this has been going for few centuries he he has lived in the past and has continued to be an actor and is of the most important characters in his life chang has been acting in the spheer of the world for since then he has actually placed strong surroundings into his life i hope that you wil be able to see this video in the next video this video wil be recorded in the next video the video wil be recorded in the next video and wil be recorded in the next video this video wil be recorded in the next video if you have any questions about this video please let me know in the comments section below david gribi gurunan bujumle aslinda achiq birtahedite mettup
+  REPLACE  ...aşağı kıyılarında genç sun
+      metin  : quan ın toprakları vardı batıda sichuan dağlarının ardında başka vali oturuyordu de toprağı olmayan ama adı her yerde bilinen adam vardı han hanedanının uzak kolundan geldiğini söyleyen yıllardır efendiden ötekine sığınarak ayakta kalmış liu bei o sırada liu biao nun konuğu olarak jing
+      duyulan: trianan che sangda kisarayina ulashtun da ghen shukkum dar henu zirmalte yasundeida butopra clariqandasi fatetme mishti meera salmishta babasa sun jyan savashta ulmisht abi sun jese yang chenin ashaakuyelir nikolajilabir lestir diktan sonrai ekeuzilunde biswii khastanu juhayatana kaibet mishti arguement lered a bosh dilde caucao imperatoran adonahareketed yordo onadiran mekbir isyanjigibigurun mekdemekd istilik gunayin enbyuk guvenze si yangchen
+  REPLACE  ...konuğu olarak jing in
+      metin  : kuzey sınırında bekliyordu cao cao güneye doğru yürürken talih armağan daha verdi liu biao sonbaharında hastalanıp öldü yerine geçen oğlu liu cong kuzeyden gelen orduyu görünce savaşmadan teslim oldu böylece jing eyaleti ordusu ve en önemlisi donanmasıyla birlikte neredeyze tek ok atılmadan cao cao ya geçti liu bei ize teslim olmayı reddedip güneye kaçtı izleyen binlerce sivil yüzünden yavaş ilerliyordu cao cao bunu fırsat bildi seçme atlılarını gün gecede uzun mesafeyi aşacak şekilde peşine saldı changban da yetiştiler liu bei nin kafilesi dağıldı komutanı zhao yun un liu bei nin bebek oğlunu karmaşanın içinden kurtardığı anlatılır liu bei avuç adamla doğuya kaçmayı başardı ve liu biao nun büyük oğlu liu qi nin elindeki küçük nehir üssüne sığındı cao cao ize asıl ödülünü almıştı jing in kalbindeki jiangling şehri yani nehir tersanesi gemileri erzak ambarları ve silah depolarıyla birlikte artık kuzeyin atlı ordusu böylece anda nehir donanmasına da kavuşmuştu
+      duyulan: kendisidé kuziyan atlulaer
+  REPLACE  ...donanmasına da kavuşmuştu bu
+      metin  : noktada cao cao nehrin aşağısındaki sun quan a mektup gönderdi mektup kısaydı ve tonu neredeyze alaycıydı i mparatorun buyruğuyla suçluları cezalandırmak için yola çıktığını sancakları güneye döner dönmez liu cong un elini kolunu bağlayıp teslim olduğunu yazıyordu sonra şunu ekliyordu şimdi kişilik deniz ordusu hazırlamıştı ve wu topraklarında sun quan la birlikte ava çıkmayı arzuluyordu davet gibi görünen bu cümle aslında açık tehditti mektup sun quan ın chaisang daki sarayına ulaştığında genç hükümdar henüz yaşındaydı bu toprakları kendisi fethetmemişti miras almıştı babası sun jian savaşta ölmüş ağabeyi sun ce ize yangçe nin aşağı kıyılarını kılıcıyla birleştirdikten sonra yılında suikast sonucu hayatını kaybetmişti sun quan o zaman yaşındaydı yıldır ağabeyinin bıraktığı danışmanlar ve komutanlarla birlikte hüküm sürüyordu ama hiçbir zaman böyle sınavla karşılaşmamıştı mektup danışmanlara okunduğunda salona ağır sessizlik çöktü ardından konuşanların çoğu aynı sonuca vardı teslim olmak gerekiyordu bu görüşün başını sun ailesine uzun yıllar hizmet etmiş saygın devlet adamı zhang zhao çekiyordu argümanları da boş değildi cao cao imparatorun adına hareket ediyordu direnmek isyancı gibi görünmek demekti üstelik güneyin en büyük güvencesi yangçe nin kendisiydi kuzeyin atlıları bu geniş nehri geçemezdi
+      duyulan: genish nehrige chamezde
+  REPLACE  ...nehri geçemezdi ama jing
+      metin  : donanması artık cao cao nun elindeydi
+      duyulan: donan masri artak jao jaunun elindeide
+  REPLACE  ...nun elindeydi ve nehrin
+      metin  : sağladığı üstünlük gecede ortadan kalkmıştı sayılar da ortadaydı sun quan ın ordusu kuzeyin ordusunun yanında küçük kalıyordu sun quan
+      duyulan: salade ustu nukbirgejeda orta dan kalkmishte sayilarda orta dayte sunchuanan orto sukuzain orto sunun yananda kuchukkalu yordo sunchuan
+  REPLACE  ...kalıyordu sun quan tek
+      metin  : kelime etmeden kalktı
+      duyulan: kelimet me dan kalkte
+  REPLACE  ...kelime etmeden kalktı ve
+      metin  : üstünü değiştirmek bahanesiyle salondan çıktı peşinden giden
+      duyulan: ustu nudayishtir mekbahanese le salon dan chukte peisindangi dan
+  REPLACE  ...çıktı peşinden giden tek
+      metin  : kişi lu su oldu lu su sun quan ın en güvendiği stratejistlerinden koridorda kimsenin duymadığı yerde hükümdarına çok sade
+      duyulan: kishi lusu oldo lusu sunchuanan enguvande strategisleran dan corridorda kimse ninduimadu biryarda hukimdar na chok saade
+  REPLACE  ...hükümdarına çok sade hesap
+      metin  : yaptı kendisi
+      duyulan: yapte kendi si
+  REPLACE  ...kendisi gibi memurun teslim
+      metin  : olmaktan kaybedeceği
+      duyulan: ol maktan kai bhedejayi
+  REPLACE  ...teslim olmaktan kaybedeceği pek
+      metin  : şey yoktu memleketine gönderirlerdi küçük makama atanır öküz arabasıyla dolaşır zamanla belki yine yükselirdi
+      duyulan: shei yokto memle ke tine gondeer larde kuchuk makamatanar ukuzarabasila dolashir zaman labalki yina yukselirde
+  REPLACE  ...yine yükselirdi peki ya
+      metin  : sun quan
+      duyulan: sunchuan
+  REPLACE  ...ya sun quan teslim
+      metin  : olan hükümdar nereye gidecek
+      duyulan: ollan hukimdar nereyegidjek
+  REPLACE  ...hükümdar nereye gidecek kimin
+      metin  : emrinde ne olacaktı lu su ya göer
+      duyulan: emrin dene ollajakte lusu yaguer
+  REPLACE  ...su ya göer teslim
+      metin  : olmayı öneren danışmanlar
+      duyulan: ollmaye uneran danushmanlar
+  REPLACE  ...olmayı öneren danışmanlar kendi
+      metin  : geleceklerini düşünüyordu sun quan ın geleceğini değil sun quan ın
+      duyulan: gelejek deni dushunyordu sunchuanan gelejene dil sunchuanan
+  REPLACE  ...sun quan ın bu
+      metin  : sözler üzerine iç geçirerek salondakilerin kendisini hayal kırıklığına uğrattığını yalnızca lu su nun aynı şeyi düşündüğünü söylediği aktarılır lu su bu konuşmadan önce boş durmamıştı
+      duyulan: sozleruzerne ichkechirarek sa londakileren kandisina hajalkiriklina uratene yalnazja lusunun aynishayidushundu nusole diaktereler lusu bukonushmadanunje boshturmamushte
+  REPLACE  ...önce boş durmamıştı liu
+      metin  : biao nun ölüm
+      duyulan: bianun ollum
+  REPLACE  ...biao nun ölüm haberi
+      metin  : gelir gelmez taziye bahanesiyle batıya gitmiş changban daki bozgundan kaçan liu bei yle buluşmuştu dönerken yanında liu bei nin genç danışmanı zhuge liang da vardı zhuge
+      duyulan: gelyirgal maz tazia bahanisile batyagitmish changbandakibos gundankachan liubayle bulushmushte danerkin yananda liubaynin genshtanushmanu juga liangdavarda juga
+  REPLACE  ...vardı zhuge liang o
+      metin  : sırada yaşındaydı ve sun quan ın huzuruna
+      duyulan: surada diorte enayeshindaydav e sunchuanan huzurna
+  REPLACE  ...quan ın huzuruna yenik
+      metin  : adamın elçisi olarak çıkıyordu zhuge liang ın biyografisinde aktarılan konuşma kurnazca kurulmuştur önce sun quan ı kışkırttı direnecek gücü
+      duyulan: biradaman elchis olerakchikuyordu juga liangan biografie sindayaktarlan konushma kurnazja kurulmushtur wan sanchuanu kushkurtu direnejek juju
+  REPLACE  ...kışkırttı direnecek gücü yoksa
+      metin  : neden hemen teslim olup kuzeye boyun eğmiyordu sun quan
+      duyulan: nedan hemanteslim ollup kuzeboyun emiyordu sunchuanu
+  REPLACE  ...sun quan o halde
+      metin  : liu bei nin neden
+      duyulan: liubaynin nedan
+  REPLACE  ...bei nin neden teslim
+      metin  : olmadığını sorunca zhuge
+      duyulan: ollmadunasurunja juga
+  REPLACE  ...olmadığını sorunca zhuge liang
+      metin  : hanedan soyundan geldiğini böyle başkasına baş eğmeyeceğini söyledi ardından asıl tezini ortaya koydu cao cao nun ordusu uzaktan gelmiş ve
+      duyulan: nedan soyundangaldine bole bashkasana bashemije ini surlede ardun dan asultesinu oorteyakoidu satsaunun oordusu usaktanggal mishwe
+  REPLACE  ...uzaktan gelmiş ve yorgundu
+      metin  : liu bei yi kovalarken günde koca
+      duyulan: luubayi kovalarkan gundekhoja
+  REPLACE  ...kovalarken günde koca mesafeyi
+      metin  : kat etmişti zhuge
+      duyulan: katetmishte juga
+  REPLACE  ...zhuge liang bu durumu
+      metin  : güçlü yayın uçuşunun
+      duyulan: guchlu yeyan uchushunun
+  REPLACE  ...yayın uçuşunun sonundaki okun
+      metin  : ince ipek kumaşı bile delemeyecek hale gelmesine benzetti kuzeyliler nehir savaşına alışık değildi
+      duyulan: injebiripek kumashibile delameyejek halagal mesinebenzeti kuzaylilair nehirsavashnalu shuktilde
+  REPLACE  ...savaşına alışık değildi jing
+      metin  : halkı ize cao cao ya gönülden değil mecburiyetten bağlanmıştı ama sun quan ın asıl duymak istediği ses kendi komutanlarından aitti lu su nun önerisiyle poyang gölü kıyısındaki görevinde bulunan zhou
+      duyulan: halkeuse jaujau yagunul dandil mejburi et tambalamushte emei sunchuanun asultu imakistedi seskendikomutanarun dan aite luusunun unerisile po yanggulu kuyusundaki gurevindebulunan jo yuajilan saraya charalda jo
+  ... ve 157 fark daha
+
+metinde olup DUYULMAYAN: 3105 kelime | duyulup metinde OLMAYAN: 2568
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-10-26.duyulan.txt

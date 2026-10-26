@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-26.mp3
+
+beklenen 2154 kelime | duyulan 2131 kelime | eşleşme %95.7
+sayı ifadesi: metinde 202, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hiç bırakmadı yağmurlar başlayıp
+      metin  : nijer
+      duyulan: niger
+  REPLACE  ...ve ortasında devasa camisiyle
+      metin  : cenne dir taşkın
+      duyulan: cennedir başkın
+  REPLACE  ...zenginleştirmiştir bugünkü şehrin yaklaşık
+      metin  : kilometer güneydoğusunda
+      duyulan: km güney doğusunda
+  REPLACE  ...ceno yani eski cenne
+      metin  : diye bilir
+      duyulan: diyebilir de
+  REPLACE  ...görünen mahalle kümeleri vardı
+      metin  : mcintosh lar
+      duyulan: mekin toşlar
+  REPLACE  ...yerleşim en parlak döneminde
+      metin  : kerpiç
+      duyulan: kerpç
+  REPLACE  ...yavaş söndü yenisi de
+      metin  : yerini
+      duyulan: yerine
+  REPLACE  ...yerdir rivayetler cenne hükümdarı
+      metin  : koy konboro nun
+      duyulan: koykomboron un
+  REPLACE  ...rivayete göer songay hükümdarı
+      metin  : sonni
+      duyulan: sonny
+  REPLACE  ...değişmez suyla çevrili bu
+      metin  : kerpiç
+      duyulan: kerpit
+  REPLACE  ...ele geçirmek kolay değildi
+      metin  : kerpiç
+      duyulan: kerpit
+  REPLACE  ...cenne ulu camisi koy
+      metin  : konboro
+      duyulan: komboro
+  REPLACE  ...masina devletini kuran şeyh
+      metin  : amadu
+      duyulan: hamado
+  REPLACE  ...ve bunlar bereket ile
+      metin  : temizliği simgeler
+      duyulan: temizli isim gelir
+  REPLACE  ...pazartesi cenne pazarı kurulur
+      metin  : çever köylerden
+      duyulan: çevreköylerden
+  INSERT   ...hali yıl öncesinden farklı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şehir dokusunu eski cenne
+      metin  : höyüğü
+      duyulan: höyü
+  REPLACE  ...kırılma anı da vardı
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...sınırdır asıl kırılma ize
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...satan dükkanların kepenkleri indi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bıraktı ve bu boşluk
+      metin  : kerpiç
+      duyulan: karpit
+  REPLACE  ...bakımında da hissedildi çünkü
+      metin  : kerpiç
+      duyulan: karpit
+  REPLACE  ...büyütmüştü ile yılları arasında
+      metin  : ağa han
+      duyulan: ahan
+  REPLACE  ...var loncanın bilgisi kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...nasıl süreceğini bilen ellerdir
+      metin  : cenne
+      duyulan: çenle
+  REPLACE  ...boyunca saklanan el yazmaları
+      metin  : fıkıh
+      duyulan: fıkı
+  REPLACE  ...kumaş satılıyor eski cenne
+      metin  : höyüğü
+      duyulan: höyü
+  REPLACE  ...birlikte çamura ellerini batırmak
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: www feyyaz tv
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: seyahat-2026-10-26.duyulan.txt
