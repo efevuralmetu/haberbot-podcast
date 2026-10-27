@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-27.mp3
+
+beklenen 2188 kelime | duyulan 2207 kelime | eşleşme %96.0
+sayı ifadesi: metinde 288, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...londra nın yoksul semtinde
+      metin  : müzikhol
+      duyulan: müzikol
+  REPLACE  ...annenin oğlu olarak doğdu
+      metin  : öteki
+      duyulan: ötteki
+  REPLACE  ...fark eden chaplin değildi
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...çok ihtiyacı olacaktı çünkü
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...ve siyaset denetimini yürüten
+      metin  : hays
+      duyulan: heiss
+  REPLACE  ...yürüten hays office yani
+      metin  : hays
+      duyulan: heiss
+  REPLACE  ...geldiğini anlatır söylenene göer
+      metin  : hays
+      duyulan: heiss
+  INSERT   ...kabul etmekti çekimler eylül
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...hastanede kalan yahudi berber
+      metin  : (yok)
+      duyulan: f
+  REPLACE  ...hayali ülkenin diktatörü adenoid
+      metin  : hinkel
+      duyulan: hinckel
+  REPLACE  ...hinkel berber hastaneden çıkıp
+      metin  : gettodaki
+      duyulan: ghetto daki
+  REPLACE  ...baştan sona isimlerle oynuyor
+      metin  : hinkel in
+      duyulan: hinckelin
+  REPLACE  ...hinkel in propaganda bakanı
+      metin  : garbiç
+      duyulan: garbage
+  REPLACE  ...oynuyor madalyalarla donanmış şişman
+      metin  : mareşal herring
+      duyulan: marechal haring
+  REPLACE  ...yapan bu karakteri jack
+      metin  : oakie
+      duyulan: o key
+  INSERT   ...basit değildi sesli sinema
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...geçmişti chaplin ize direndi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...city lights yani şehir
+      metin  : işıkları nı
+      duyulan: ışıklarını da
+  REPLACE  ...patlamaları ve aralara sıkıştırılmış
+      metin  : şnitzel
+      duyulan: şinitsel
+  REPLACE  ...balona dönüşür arka planda
+      metin  : vagner in loengrin
+      duyulan: wagner ın lohengrin
+  REPLACE  ...ayna da yerleştirir sonra
+      metin  : gettodaki
+      duyulan: ghetto daki
+  REPLACE  ...ize diktatörün karşılaşmasıdır jack
+      metin  : oakie
+      duyulan: o kee
+  REPLACE  ...adamdır ve bu enerji
+      metin  : hinkel
+      duyulan: hynkel
+  REPLACE  ...titizliğini ezer geçer chaplin
+      metin  : hinkel
+      duyulan: hynkel
+  REPLACE  ...uzun olduğu yarışına indirgenmiştir
+      metin  : oakie
+      duyulan: o kee
+  REPLACE  ...oyuncu dalında aday gösterildi
+      metin  : gettodaki
+      duyulan: ghetto daki
+  REPLACE  ...ama film bu sıcaklığı
+      metin  : tehdidin
+      duyulan: tehditin
+  REPLACE  ...sıcaklığı tehdidin gölgesinde gösterir
+      metin  : getto
+      duyulan: ghetto
+  REPLACE  ...nda hayatını kurtardığı pilot
+      metin  : şults
+      duyulan: schultz
+  REPLACE  ...reginald gardiner ın oynadığı
+      metin  : şults
+      duyulan: schultz
+  REPLACE  ...hareketini kendisi gösteriyordu kardeşi
+      metin  : sydney
+      duyulan: sidney
+  REPLACE  ...fiker dayanır berber ile
+      metin  : şults
+      duyulan: schultz
+  REPLACE  ...sanılır ve komşu ülke
+      metin  : osterlich in
+      duyulan: osterl için
+  REPLACE  ...ve uzun süer susar
+      metin  : şults
+      duyulan: schultz
+  REPLACE  ...karakteri ortadan kalkar ne
+      metin  : hinkel
+      duyulan: hinkal
+  INSERT   ...kişisel anlarından film ekim
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...iyi erkek oyuncu jack
+      metin  : oakie
+      duyulan: o key
+  INSERT   ...soruşturma uzun sürmedi aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...savaş bittikten sonra geldi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...o kampta berber ile
+      metin  : şults
+      duyulan: schultz
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-10-27.duyulan.txt

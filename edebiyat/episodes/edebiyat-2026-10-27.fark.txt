@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-27.mp3
+
+beklenen 1761 kelime | duyulan 1794 kelime | eşleşme %95.1
+sayı ifadesi: metinde 241, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kıyısındaki bu küçük şehirde
+      metin  : rüştiyeye
+      duyulan: rüştüye ye
+  REPLACE  ...stanbul a döner ve
+      metin  : darülfünun un
+      duyulan: darülfünü nün
+  INSERT   ...un edebiyat bölümüne yazılır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...görev haline de gelecekti
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...de gelecekti yirmilerin sonunda
+      metin  : maarif
+      duyulan: marif
+  REPLACE  ...topladı bu kitapta müfettişin
+      metin  : raporu ile
+      duyulan: raporuyla
+  REPLACE  ...stanbul daki fransız rahibe
+      metin  : okulunda notr dam dö siyon
+      duyulan: okulu nda noter dame de sion
+  REPLACE  ...dö siyon da yani
+      metin  : siyon
+      duyulan: sion
+  REPLACE  ...nişanlanır çocukluğundan beri hem
+      metin  : kızdığı
+      duyulan: kızdı
+  INSERT   ...stanbul dan kopup gelmiş
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...en unutulmaz karakterlerinden karşılaşır
+      metin  : munize
+      duyulan: munis e
+  REPLACE  ...en acı sayfaları da
+      metin  : munize
+      duyulan: munis e
+  REPLACE  ...feride yerden ötekine geçer
+      metin  : kuşadası
+      duyulan: kuşa adası
+  REPLACE  ...doktor olan hayrullah bey
+      metin  : le
+      duyulan: ile
+  REPLACE  ...değil baba koruyucu olur
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...ama en derin karakterlerinden
+      metin  : romanın
+      duyulan: romamın
+  INSERT   ...anahtarı olur bu romanın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...izleri bugün bile sürülebiliyor
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...genç kadınların anılarında bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...dedikodular reşat nuri nin
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kamusal rolü de büyüdü
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yeniden eğitim bürokrasisine döndü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...döndü paris e kültür
+      metin  : ataşesi
+      duyulan: ateşesi
+  REPLACE  ...bütün emeği arkasında kalır
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...odasında sona erdi aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...stanbul a getirildi ve
+      metin  : karacaahmet mezarlığı na
+      duyulan: kara cahmet mezarlığına
+  INSERT   ...çalıkuşu yeni hayata başladı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yi türkan şoray canlandırdı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yurtdışında tanınmasına katkıda bulundu
+      metin  : (yok)
+      duyulan: kiki de
+  INSERT   ...türkiye de öğretmenlik artık
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...okula öğretmen kuşağından ötekine
+      metin  : (yok)
+      duyulan: always nu
+  REPLACE  ...tarihini kesin bilmediğim için
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...yabancı ad kuralı gereği
+      metin  : notr dam dö siyon
+      duyulan: noter dame de sion
+  REPLACE  ...dam dö siyon özgün
+      metin  : yazımıyla
+      duyulan: yazımı ile
+  REPLACE  ...kez geçiyor hemen ardından
+      metin  : siyon
+      duyulan: sion
+  INSERT   ...kurala girmiyor reşat nuri
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hiç doğrudan alıntı yapmadım
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: edebiyat-2026-10-27.duyulan.txt

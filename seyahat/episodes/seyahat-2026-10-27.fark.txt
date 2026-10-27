@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-27.mp3
+
+beklenen 1796 kelime | duyulan 1797 kelime | eşleşme %95.9
+sayı ifadesi: metinde 168, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...almış develeer ve yorgun
+      metin  : geldiniz
+      duyulan: geldiğiniz
+  INSERT   ...gösterdiği anlatılır rivayete göer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...getirdi bunların en önemlisi
+      metin  : şahrud
+      duyulan: şahrut
+  REPLACE  ...önemlisi şahrud yani şah
+      metin  : kanalı idi
+      duyulan: kanalıydı
+  REPLACE  ...taş havuzlardı yerel dilde
+      metin  : hauz
+      duyulan: havuz
+  REPLACE  ...parlak ilim merkezlerinden i
+      metin  : bn
+      duyulan: bni
+  REPLACE  ...merkezlerinden i bn i
+      metin  : sina
+      duyulan: ssina
+  REPLACE  ...dururdu çölün ortasında bolluk
+      metin  : vaadi
+      duyulan: vadi
+  REPLACE  ...vaadi gibi fakat bu
+      metin  : vaadin
+      duyulan: vadin
+  REPLACE  ...şehri hasta ediyordu kurdu
+      metin  : çıkarmanın
+      duyulan: çıkartmanın
+  REPLACE  ...kimi tahminleer göer kadarı
+      metin  : rişta
+      duyulan: rişda
+  INSERT   ...topallayan insanlardan söz ediyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ne katıldı yeni yönetim
+      metin  : rişta
+      duyulan: rişda
+  REPLACE  ...rus parazitolog getirildi leonid
+      metin  : mihayloviç i sayev i sayev
+      duyulan: mihailovich isayev isayev
+  REPLACE  ...hastalıklar enstitüsü kuruldu ve
+      metin  : sıtma ile rişta ya
+      duyulan: sıtmayla rişdaya
+  REPLACE  ...vurulmuş yaraydı i ki
+      metin  : görüş de
+      duyulan: görüşte
+  INSERT   ...yıldan yıla azaldı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...örneklerden olarak anılır bugün
+      metin  : gine
+      duyulan: yine
+  REPLACE  ...sürüyor ve vaka sayısı
+      metin  : düzineye
+      duyulan: düzeneye
+  REPLACE  ...eski şehrin ortasında duran
+      metin  : lyab i hauz
+      duyulan: liyabi havuz
+  REPLACE  ...beklemenin adıdır havuz kıyısı
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...eski zamanlardan beri yaşıyor
+      metin  : farsçanın
+      duyulan: farscan ın
+  REPLACE  ...sonuna doğru ve özellikle
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...vardı oşi sabo yani
+      metin  : sebt
+      duyulan: sept
+  REPLACE  ...kendi buharında pişmeye bırakılırdı
+      metin  : sebt
+      duyulan: sept
+  REPLACE  ...bu pilav bugün queens
+      metin  : teki
+      duyulan: deki
+  INSERT   ...hazırcevap bilge çocukların tırmandığı
+      metin  : (yok)
+      duyulan: mod
+  REPLACE  ...kıyısında oturmayı bilmek mi
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-10-27.duyulan.txt

@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-27.mp3
+
+beklenen 1998 kelime | duyulan 1996 kelime | eşleşme %97.6
+sayı ifadesi: metinde 183, duyulanda 167  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...taş duruyor alt hafifçe
+      metin  : kavisli
+      duyulan: kahvisli
+  REPLACE  ...i ngilizce konuşulan dünyada
+      metin  : rattleback
+      duyulan: ratlebek
+  REPLACE  ...kendisi kadar tuhaf latince
+      metin  : keltis
+      duyulan: celtis
+  REPLACE  ...ize sanki bu kuralı
+      metin  : çiğniyor
+      duyulan: çiğnüyor
+  INSERT   ...gilbert walker oldu walker
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...genç cambridge matematikçisiyken avucuna
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...tabanı yumurtanın ya da
+      metin  : elipsoidin
+      duyulan: elipsoydin
+  REPLACE  ...istemediği yönde dönerken dönüş
+      metin  : hareketiyle
+      duyulan: hareketi ile
+  REPLACE  ...yardıma koşmasıyla mümkün oldu
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...saklı korunum yasası dışarıdan
+      metin  : burulma
+      duyulan: vurulma
+  REPLACE  ...olarak taşa dışarıdan uygulanan
+      metin  : burulma
+      duyulan: vurulma
+  REPLACE  ...tersine döndüğünde masa yönde
+      metin  : burulma
+      duyulan: vurulma
+  REPLACE  ...de eşit miktarda ters
+      metin  : burulma
+      duyulan: vurulma
+  REPLACE  ...çünkü dikey eksen etrafında
+      metin  : burulma
+      duyulan: vurulma
+  REPLACE  ...ısı yavaşlama gelir oysa
+      metin  : kelt
+      duyulan: kelp
+  REPLACE  ...aktarır i şte bu
+      metin  : kelt
+      duyulan: kelp
+  REPLACE  ...kozmoloji alanındaki çalışmalarıyla tanınan
+      metin  : hermann
+      duyulan: herman
+  INSERT   ...çalışmalarıyla tanınan hermann bondi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve i van mamayev
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...binlerin başında bu ideal
+      metin  : kelt
+      duyulan: kelp
+  REPLACE  ...gösterebildiğini buldular avuç içine
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...yönlülüğü diyor matematikçiler keith
+      metin  : moffatt
+      duyulan: moffat
+  REPLACE  ...keith moffatt ve tadashi
+      metin  : tokieda
+      duyulan: tokiya da
+  REPLACE  ...kenarından iten masa var
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: bilim-2026-10-27.duyulan.txt

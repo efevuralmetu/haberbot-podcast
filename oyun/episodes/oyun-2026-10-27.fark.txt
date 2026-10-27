@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-27.mp3
+
+beklenen 1875 kelime | duyulan 1882 kelime | eşleşme %95.7
+sayı ifadesi: metinde 225, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...duyulur sonra oyun açılır
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve kendi içinde sakladığı
+      metin  : kopyayla
+      duyulan: kopya ile
+  REPLACE  ...ekip çıktı argonaut softwaer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...argonaut softwaer in kurucusu
+      metin  : jez san
+      duyulan: jess sun
+  INSERT   ...ergenlik yaşlarında başlamış şirketini
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kurmuştu argonaut yılın ortalarında
+      metin  : ev
+      duyulan: el
+  INSERT   ...boyutlu grafiklerle adını duyurmuştu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...derecede basit çözüm buldular
+      metin  : jez san ın
+      duyulan: jessa nın
+  REPLACE  ...ın aktardığına göer bu
+      metin  : düzeneğin
+      duyulan: düzeneyin
+  REPLACE  ...nintendo nun dikkatini çekti
+      metin  : jez san ın
+      duyulan: jessa nın
+  REPLACE  ...taki genç programcılardan dylan
+      metin  : cuthbert
+      duyulan: cutbert
+  INSERT   ...yazmakla görevlendirilmişti bu çalışma
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gelen büyük konsolda çözülecekti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ama gerçek boyut yani
+      metin  : çokgenlerden
+      duyulan: çokkenlerden
+  REPLACE  ...döngüyle çalışan bu işlemci
+      metin  : çokgen
+      duyulan: çokken
+  REPLACE  ...ağır takılan görüntü oldu
+      metin  : jez san
+      duyulan: jessan
+  REPLACE  ...argonaut un donanım ekibi
+      metin  : çokgen
+      duyulan: çokken
+  REPLACE  ...hızlı çalışan işlemci tasarladı
+      metin  : çipin
+      duyulan: chip in
+  REPLACE  ...kelimelerin baş harflerinden oluşan
+      metin  : kısaltmaydı çip
+      duyulan: kısaltma idi chip
+  REPLACE  ...masası da en az
+      metin  : çip
+      duyulan: chip
+  REPLACE  ...az çip kadar ilginçti
+      metin  : jez san
+      duyulan: jessan
+  REPLACE  ...söylemiş nintendo kabul etmiş
+      metin  : san
+      duyulan: sun
+  REPLACE  ...henüz hazır olmadığı alanda
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...anahtar satın alıyordu bu
+      metin  : çipin
+      duyulan: chipin
+  REPLACE  ...üzerinde çalışacak oyunu nintendo
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...yapımcı olarak başındaydı katsuya
+      metin  : eguçi
+      duyulan: eguchi
+  REPLACE  ...üstlendi argonaut tan dylan
+      metin  : cuthbert
+      duyulan: cutbert
+  REPLACE  ...tan dylan cuthbert ve
+      metin  : giles
+      duyulan: gilles
+  REPLACE  ...çıkıp kötü bilim insanı
+      metin  : andross
+      duyulan: andros
+  REPLACE  ...savaşıyordu miyamoto ve ekibi
+      metin  : çipin
+      duyulan: chipin
+  REPLACE  ...ateş ediyordu bu yapı
+      metin  : çipin
+      duyulan: chipin
+  REPLACE  ...ilhamı da kyoto daki
+      metin  : fuşimi i nari
+      duyulan: fushimi inari
+  INSERT   ...geliyordu star fox şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...avrupa da başka firmanın
+      metin  : tescilli
+      duyulan: kirli
+  INSERT   ...gelişmiş sürümü super fx
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...rafa kaldırıldı ve ancak
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...nun küçültülmüş super nintendo
+      metin  : classic
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...de star fox yıllarında
+      metin  : çokgenlerle
+      duyulan: çokkenlerle
+  REPLACE  ...sundu yanıt olumsuz oldu
+      metin  : jez san
+      duyulan: jessan
+  REPLACE  ...platform oyunu super mario
+      metin  : dördü
+      duyulan: ü da
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-10-27.duyulan.txt

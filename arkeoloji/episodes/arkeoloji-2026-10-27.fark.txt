@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-27.mp3
+
+beklenen 3057 kelime | duyulan 3052 kelime | eşleşme %95.6
+sayı ifadesi: metinde 388, duyulanda 277  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...haritalamaya çalışıyordu adı mani
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...pazar günleri beyaz şallara
+      metin  : sarınmış
+      duyulan: sarılmış
+  REPLACE  ...yani bugün eriter denizi
+      metin  : seyir
+      duyulan: sehir
+  REPLACE  ...de basılmıştı ağırlıkları roma
+      metin  : standardına
+      duyulan: standartına
+  REPLACE  ...dönem sikkelerinde hilal ile
+      metin  : disk
+      duyulan: diz
+  REPLACE  ...zamanında bu semboller yerini
+      metin  : haça
+      duyulan: haca
+  REPLACE  ...zafer metinleri aynı olayı
+      metin  : ge ez
+      duyulan: geğez
+  REPLACE  ...yüzyılda mısırlı tüccar olan
+      metin  : kosmas
+      duyulan: kozmaz
+  INSERT   ...cevabı yerin kazılarla öğrendik
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...en büyüğü yerel halkın
+      metin  : taaka
+      duyulan: taka
+  REPLACE  ...var dungur halk arasında
+      metin  : saba melikesi nin
+      duyulan: sabah melikesinin
+  REPLACE  ...çok katlı bu süslü
+      metin  : steller
+      duyulan: stelliler
+  REPLACE  ...bugün hala yarım bırakılmış
+      metin  : stel
+      duyulan: sitel
+  REPLACE  ...oldu bu ve nasıl
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...i ngiliz arkeolog david
+      metin  : phillipson
+      duyulan: philipson
+  REPLACE  ...da kapsamlı kazılar yaptı
+      metin  : stellerin
+      duyulan: sitellerin
+  REPLACE  ...nedenle devrildiğini düşünür ama
+      metin  : phillipson ın
+      duyulan: philipsa nın
+  REPLACE  ...krallık hristiyanlığa geçti büyük
+      metin  : stel in düşüşü ile
+      duyulan: stelin düşüşüyle
+  INSERT   ...askerler gelene kadar ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...az sayıdaki devletten ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve imparatorluk iddiasıydı mayıs
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yeni imparatorluğu ilan edecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...arazide kamyonlarla kızıldeniz kıyısındaki
+      metin  : massaua
+      duyulan: masavva
+  REPLACE  ...yer de özenle seçilmişti
+      metin  : sirkus maksimus
+      duyulan: circus maximus
+  REPLACE  ...un hemen yakınında porta
+      metin  : kapena meydanı nda
+      duyulan: capena meydanında
+  INSERT   ...nın işgali uzun sürmedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da kaldı savaştan sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...maddesi açıktı i talya
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...i ki ülke arasında
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...bazı i talyan çevreleri
+      metin  : stelin
+      duyulan: stalin
+  INSERT   ...toplandı diplomatik görüşmeler yapıldı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıllar geçti sonra mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sökülecekti neden evine gönderilmesin
+      metin  : kasım stel
+      duyulan: asım te sitel
+  INSERT   ...kez daha yeer indirildi
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...boyunca aksum un büyük
+      metin  : steli
+      duyulan: siteli
+  REPLACE  ...gelip gittiği süer sökülen
+      metin  : stel
+      duyulan: sitel
+  INSERT   ...ayrıldı sorun taşımanın kendisiydi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...darbeleer karşı korundu nisan
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...söyledi kilize çanları çaldı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etiyopya ve i talya
+      metin  : hükümetleri ile
+      duyulan: hükümetleriyle
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 53
+
+duyulan metin: arkeoloji-2026-10-27.duyulan.txt

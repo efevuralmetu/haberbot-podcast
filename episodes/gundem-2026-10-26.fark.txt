@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-26.mp3
+
+beklenen 1451 kelime | duyulan 1444 kelime | eşleşme %94.4
+sayı ifadesi: metinde 205, duyulanda 116  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sırbistan da yıllık aleksandar
+      metin  : vuçiç
+      duyulan: vucic
+  REPLACE  ...listesi meclis çoğunluğunu alırken
+      metin  : vuçiç
+      duyulan: vucic
+  REPLACE  ...resmi olmayan sonuçlara göer
+      metin  : luiz i nasyo
+      duyulan: luis inácio
+  REPLACE  ...sandıklar kapandıktan sonra konuşan
+      metin  : vuçiç
+      duyulan: vucic
+  REPLACE  ...seçim kurulu henüz açıklamadı
+      metin  : vuçiç
+      duyulan: vucic
+  DELETE   ...dış destekli sürecin ürünü
+      metin  : olarak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...az farkla önde bitiren
+      metin  : flavyo
+      duyulan: flavio
+  DELETE   ...bazı sandıkların saat daha
+      metin  : açık
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saldırı olmayacağını açıkladı katarlı
+      metin  : arabulucuların
+      duyulan: arapulucuların
+  REPLACE  ...ran dışişleri bakanı abbas
+      metin  : arakçi
+      duyulan: arakci
+  REPLACE  ...arabistan liderliğindeki koalisyon başkent
+      metin  : sana yı
+      duyulan: sanayi
+  REPLACE  ...avantajla önde olduğunu öngörüyor
+      metin  : maine teksas
+      duyulan: mayne texas
+  REPLACE  ...teksas ve michigan daki
+      metin  : senato
+      duyulan: nato
+  REPLACE  ...katıldı i çişleri bakanı
+      metin  : loran nunyez
+      duyulan: laurent nunez
+  DELETE   ...açıkladı lyon ve nis
+      metin  : gibi
+      duyulan: (YOK — atlanmış)
+  DELETE   ...trilyon dolar değerleme üzerinden
+      metin  : dolara
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çinli yapay zeka şirketi
+      metin  : deepseek in
+      duyulan: deepsea kin
+  REPLACE  ...deepseek in tencent ve
+      metin  : catl
+      duyulan: chahtle
+  REPLACE  ...abd yönetiminin federal kurumlara
+      metin  : deepseek
+      duyulan: deepsea ki
+  INSERT   ...siparişlerin teslim tarihi ocak
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...ocak kadar uzanıyor anthropic
+      metin  : de
+      duyulan: te
+  REPLACE  ...devreye giren ve binlerce
+      metin  : harici
+      duyulan: haracı
+  REPLACE  ...bekleniyor siber güvenlik alanında
+      metin  : phpikishel
+      duyulan: php pikişel
+  DELETE   ...verilen kritik açık gündemin
+      metin  : üst sıralarında
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...savunma hem saldırı amaçlı
+      metin  : dron
+      duyulan: drone
+  REPLACE  ...zeka alanında işbirliği bildirgesi
+      metin  : imzaladı
+      duyulan: hizmetini bağladı
+  REPLACE  ...harcamaları verisi açıklanacak şirket
+      metin  : bilançoları
+      duyulan: plançoları
+  REPLACE  ...günlerde yaşanan dalgalanma bu
+      metin  : bilançoları
+      duyulan: plançoları
+  DELETE   ...ve temmuzdan bu yana
+      metin  : ilk
+      duyulan: (YOK — atlanmış)
+  DELETE   ...güveni endeksi ile beklentinin
+      metin  : üzerinde
+      duyulan: (YOK — atlanmış)
+  INSERT   ...aylık enflasyon beklentisi ize
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...içi piyasalarda haftanın başında
+      metin  : dolar lira
+      duyulan: lirası
+  REPLACE  ...lira seviyesinde işlem görüyor
+      metin  : gram
+      duyulan: kram
+  REPLACE  ...görüyor gram yaklaşık lira
+      metin  : bist
+      duyulan: biiste
+  DELETE   ...türkiye cumhuriyet merkez bankası
+      metin  : geçen
+      duyulan: (YOK — atlanmış)
+  INSERT   ...indirimine giderek politika faizini
+      metin  : (yok)
+      duyulan: den ya
+  DELETE   ...türkiye nin gündeminde yatırım
+      metin  : fonları
+      duyulan: (YOK — atlanmış)
+  INSERT   ...göer soruşturmada tutuklu sayısı
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...fonu tasfiye etmesi yaklaşık
+      metin  : yatırımcıyı
+      duyulan: yatırımcıya
+  INSERT   ...cumhurbaşkanı yardımcısı cevdet yılmaz
+      metin  : (yok)
+      duyulan: genel
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: gundem-2026-10-26.duyulan.txt

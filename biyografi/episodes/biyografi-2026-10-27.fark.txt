@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-27.mp3
+
+beklenen 2752 kelime | duyulan 2761 kelime | eşleşme %96.3
+sayı ifadesi: metinde 355, duyulanda 242  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...da dil öğrendi okyanus
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...sonra kendi uçağından düştü
+      metin  : kemerini
+      duyulan: ömer ini
+  INSERT   ...terazinin başında başladı ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...güneyinde pamuk kuşağının ortasındaki
+      metin  : waxahachie
+      duyulan: wexahachie
+  REPLACE  ...kızılderili kökler vardı annesi
+      metin  : susan
+      duyulan: suzanne
+  REPLACE  ...yetmezdi bessie çocuklu ailenin
+      metin  : onuncusuydu
+      duyulan: suydu
+  REPLACE  ...de yanına çağırdı ama
+      metin  : susan
+      duyulan: suzanne
+  REPLACE  ...ara sıra kitap getiren
+      metin  : seyyar
+      duyulan: seyar
+  INSERT   ...siyah insanların bulunduğunu öğreniyordu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...çizdiği hayata razı olmayacaktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...o yıllarda herkesin aklındaydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...doğru kişiyi buldu robert
+      metin  : sengstacke
+      duyulan: sangstake
+  INSERT   ...de bunu biliyordu kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kadar uzundu fransa da
+      metin  : manş
+      duyulan: manche
+  REPLACE  ...da manş denizi kıyısında
+      metin  : som
+      duyulan: somme
+  REPLACE  ...nin denize kavuştuğu yerde
+      metin  : lö krotua
+      duyulan: le croteau
+  REPLACE  ...kasabası vardı havacılığın öncülerinden
+      metin  : kodron
+      duyulan: codron
+  REPLACE  ...ay sürdü öğrenciler fransızların
+      metin  : nyöpor
+      duyulan: neopor
+  REPLACE  ...bunun sinirlerini fena halde
+      metin  : sarstığını
+      duyulan: sarsıdığını
+  INSERT   ...giden yolun hazırlığı gibiydi
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...yolun hazırlığı gibiydi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gibiydi haziran federasyon aeronotik
+      metin  : enternasyonal
+      duyulan: internasyonal
+  INSERT   ...ay daha kaldı eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...amerika da kimse vermeyecekti
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...gidip ünlü uçak tasarımcısı
+      metin  : anthony fokker
+      duyulan: antony foker
+  INSERT   ...eğitim uçuşları yaptı ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...açmayı hayal ediyordu eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dışında long island daki
+      metin  : curtiss sahası nda
+      duyulan: curtis sahasında
+  INSERT   ...mümkündü hafta sonra ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dükkanından lokantadan tanıyanlar vardı
+      metin  : basın
+      duyulan: basin
+  REPLACE  ...çocukluğunun geçtiği kasabaya dönüşüydü
+      metin  : teksas
+      duyulan: te texas
+  REPLACE  ...bu ama o yılların
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...insanlar için kullanıyordu aynı
+      metin  : teksas
+      duyulan: texas
+  INSERT   ...aynı teksas turunda haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da uçtu bu tarih
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...uçağıyla kısa turlara çıkardı
+      metin  : pek
+      duyulan: tek
+  REPLACE  ...havalanıyordu ama bu coşkulu
+      metin  : teksas
+      duyulan: texas
+  INSERT   ...için batı kıyısına gitti
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...uçağı satın aldı curtiss
+      metin  : jn
+      duyulan: j
+  DELETE   ...bunları ucuza elden çıkarmıştı
+      metin  : ve gösteri pilotlarının çoğu jenny lerle uçuyordu ucuzdular ama eskiydiler ve çoğu bakımsızdı
+      duyulan: (YOK — atlanmış)
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: biyografi-2026-10-27.duyulan.txt

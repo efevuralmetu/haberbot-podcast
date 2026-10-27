@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-10-27.mp3
+
+beklenen 2915 kelime | duyulan 2332 kelime | eşleşme %9.6
+sayı ifadesi: metinde 223, duyulanda 87  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...even lift their swords
+      metin  : yaz öğleden sonrası güneş batmadan önce
+      duyulan: when the sun went down tens of thousands of people weer walking into a closing pocket the day of the war the roman empier was in the midst of the war the roman empier was fighting against the german army and the allies weer fighting against the allies the day of the war the roman empier was fighting against the allies to make the world a better place for people to live i would like to thank al of you for yor support consul sempronius longus carla beersabhach asgarlir and buzgibi urmaktangichirip karthajallalir nuzir nisrudu thank you to al of you for yor support romal alar and al of you for yor support thank you to al of you for yor support thank you to al of you for yor support thank you to al of you for yor support consul gaius flaminius ordosunu giolila tepelererasundaki darbi sherita yuraturkan karthajallalaria machlardana shainde romal asgarlir savashtusenene bilegiremede flaminius orda uldu veyaklashik ombeshpin romal asgalebir liktegolunkyisundakalda ikkyi lychinde ikkyi consul ordosuyoke dilmishte
+  REPLACE  ...güneş batmadan önce roma
+      metin  : nın sahaya sürdüğü en büyük
+      duyulan: olanustudurumlarichin ayrdubir makama bashfurdu vekintus fabius maximus dictatorsechte fabius and enerdiyon tam romanan savashkelenene tamaman terstushy
+  REPLACE  ...sürdüğü en büyük ordu
+      metin  : küçük ovada sıkışıp boğuldu ölülerin parmaklarından toplanan yüzükler kartaca senatosunun önünde yeer döküldü yine
+      duyulan: hanebawla meydan muharribesene girmemek karthaka ordosunu tepelerdanis lijek erzak toplayan kuchukbir liklerne av lijek yavashyavashi pratyakte hannibal yabanjibiruke
+  REPLACE  ...yeer döküldü yine de
+      metin  : herkesin beklediği teslimiyet gelmedi çünkü roma yenilgiyi kabul etmeyi reddetti milattan önce yılının sonbaharında alplerin yüksek geçitlerinde kar erken bastırmıştı buzla kaplı patikalarda katırlar kayıp uçurumlara düşüyor dağ kabileleri kayaların arkasından taş yağdırıyor afrika dan getirilmiş filler daracık yollarda ürkek adımlarla ilerliyordu bu kafilenin başında yaşında kartacalı komutan vardı hamilkar barka nın oğlu hannibal i spanya dan yola çıktığında ordusu kalabalıktı polybios un aktardığına göer i talya ovasına indiğinde elinde yaklaşık piyade ile süvari kalmıştı çok yıpranmış aç ve yorgun orduydu bu
+      duyulan: iqmal desteindan yoxundu zaman alehi neishli ordu strategia kalujaide
+  REPLACE  ...orduydu bu ama roma
+      metin  : nın hiç beklemediği yerden kuzeyden karadan gelmişti o dönemde
+      duyulan: lulurun guruni injitu ordu hannibal anatlulur italianan envirimnitar lulurun yakarkan lejonnerin uzaktan seiret mesihalko efkelanderde fabius alayolu kanktaytir jani oyalayeja lakabutakilde yalar sonra bulakapiruv gyedunushejekte ama ogunnarde birhakarete fabius analta aylek gurevsurese dolarkan
+  REPLACE  ...gelmişti o dönemde roma
+      metin  : i talya yarımadasının büyük bölümünü ittifaklar ağıyla yönetiyordu her yıl konsül seçiliyor savaş zamanında orduları yönetiyordu hannibal ın planı basitti ama cüretkardı roma yı kendi topraklarında yenmek ve bağlaşıklarının bu ağır yükü taşımaktan vazgeçeceğini göstermek i lk büyük darbe aynı yılın aralık ayında trebbia irmağı kıyısında geldi konsül sempronius longus karlı sabah aç askerlerini buz gibi ırmaktan geçirip kartacalıların üzerine sürdü hannibal ize kardeşi mago yu grup seçkin askerle ırmak yatağındaki çalılıklara saklamıştı romalılar ileri atıldığında pusu arkalarından açıldı ordunun büyük kısmı kırıldı kurtulabilenler yakındaki kentleer dağıldı ertesi baharda hannibal apenin dağlarını aştı ve bataklıklarda ilerlerken gözünü enfeksiyon yüzünden kaybetti milattan önce yılının haziran ayında trasimeno gölü nün kıyısında sabah sisinin içinde tuzağını kurdu konsül gaius flaminius ordusunu göl ile tepeler arasındaki dar şeritte yürütürken kartacalılar yamaçlardan aşağı indi romalı askerler savaş düzenine bile giremedi flaminius orada öldü ve yaklaşık romalı askerle birlikte gölün kıyısında kaldı i ki yıl içinde konsül ordusu yok edilmişti roma olağanüstü durumlar için ayırdığı makama başvurdu ve quintus fabius maximus u diktatör seçti fabius un önerdiği yöntem roma nın savaş geleneğine tamamen ters düşüyordu hannibal la meydan muharebesine girmemek kartaca ordusunu tepelerden izleyecek erzak toplayan küçük birliklerini avlayacak yavaş yavaş yıpratacaktı hannibal yabancı ülkede ikmal desteğinden yoksundu zaman aleyhine işliyordu strateji akıllıcaydı ama romalıların gururunu incitiyordu hannibal ın atlıları i talya nın en verimli tarlalarını yakarken lejyonların uzaktan seyretmesi halkı öfkelendirdi fabius a alay yollu cunctator yani oyalayıcı lakabı takıldı yıllar sonra bu lakap övgüye dönüşecekti ama o günlerde hakaretti fabius un aylık görev süresi dolarken roma da tek soru konuşuluyordu daha ne kadar bekleyeceğiz bu sorunun cevabı milattan önce yılının konsül seçimlerinde verildi seçilenlerden
+      duyulan: datekbir sorukonu shuliyordu dahanekadarbekdijes bussorunun jevaba milatanunje ikuzonalti yilunun konsul sechimnerin deberilde sechilener denbiri
+  REPLACE  ...verildi seçilenlerden gaius terentius
+      metin  : varro ydu
+      duyulan: varodu
+  REPLACE  ...terentius varro ydu antik
+      metin  : kaynaklar babası kasap olan halkın öfkesini kullanan aceleci politikacı olarak anlatır diğer konsül lucius
+      duyulan: kajnaklaronu babasakasapolan halkanufkisinukulananajedibir politikajola rakannathir d r consul luches
+  REPLACE  ...diğer konsül lucius aemilius
+      metin  : paullus ize köklü soylu aileden geliyordu daha önce
+      duyulan: paulus isekuklibir soilo aylid angeliordu dahaunje
+  REPLACE  ...geliyordu daha önce de
+      metin  : konsül olmuştu
+      duyulan: konsul olmestu
+  REPLACE  ...de konsül olmuştu ve
+      metin  : i lirya da başarılı sefer yönetmişti ancak burada küçük ihtiyat payı bırakmak gerekiyor bu savaşı anlatan en önemli tarihçi polybios paullus un torunu sayılan scipio aemilianus un yakın dostuydu
+      duyulan: ileriada basherdulibir sefaryunetmishte eankak borada kuchukbirihtyat paibrakmakkirikyor bussavasha annatan enonemnitarichci polibios paulusun torunusailanskipio aemilianusun yakundostudu
+  REPLACE  ...un yakın dostuydu livius
+      metin  : da büyük ölçüde soylu geleneğin hatıralarını aktarıyordu varro yu bütün suçun sahibi gibi gösteren anlatıların kısmı
+      duyulan: dabiukolci de solubirgeleniin hatralernaktariordu varoyubutun suchun sahibigibigyosteren annatilern birkesme
+  REPLACE  ...gösteren anlatıların kısmı felaketin
+      metin  : faturasını kimin ödeyeceğine dair sonradan yapılmış hesaplaşmanın izlerini taşıyor olabilir
+      duyulan: faturasunukimin odeijeina dayir sonradanjapilmishbirhesaplashmanan islerinetashuarola bilir
+  REPLACE  ...taşıyor olabilir kesin olan
+      metin  : şu ki roma bu kez kararını vermişti fabius un yolu bırakılacak hannibal ın karşısına ezici güçle çıkılacaktı polybios a göer
+      duyulan: shuki romabukas kararina vermishte fabiosun yoluburakolajak henebalan karshesan ezejibir guchlechikolajakte palibiosaguer
+  REPLACE  ...polybios a göer senato
+      metin  : o güne kadar hiç görülmemiş şey yaptı
+      duyulan: ogunekadar hichgurul memishpishayyaptu
+  REPLACE  ...görülmemiş şey yaptı ve
+      metin  : lejyonu aynı seferde topladı müttefik birliklerle birlikte ortaya yaklaşık
+      duyulan: sekizleijonu ainuseferde toplade mutefik biliklerle bilikto ortayeyakleshik seksambin
+  REPLACE  ...ortaya yaklaşık piyade ve
+      metin  : fazla süvariden oluşan
+      duyulan: altibindam fazdasuvari denolushan birorduchikte bo romana nozamanakadar sahayasurdu enbyuk ordulardam ordunan kamuta duzeni isetu hafta ikki konsul ainu orduilabirlekte yuredu ichin gelenei uygun olarakkomutayi gun ashiradevralu orlarda verro ertesi gun palas buduzan birbirindan chokfarkladusunan ikiadamon srayla ainu ordunun dumeninagech mesannamunagelu
+  REPLACE  ...fazla süvariden oluşan ordu
+      metin  : çıktı
+      duyulan: henebal
+  INSERT   ...oluşan ordu çıktı bu
+      metin  : (yok)
+      duyulan: serada gunaya bugunki pugliaburgi sineinmishte yasbashinda romalilurun bergede ki unemnibir erzakte posunubarundran kuchukkane kalesinele gechirde keneninununde aufidusir ma bugunki adile ophanto genishve duzbir ovadangecherek denizaya kuyordu henebal enenguchli silehu suvarilereide bu ova suvarilereichin bichilmishkaftande
+  REPLACE  ...ordu çıktı bu roma
+      metin  : nın o zamana kadar sahaya sürdüğü en büyük ordulardan
+      duyulan: ordusu temmusonon da kartakalilurun yakanana ulashte polibioza geoer varunun komutaeti
+  INSERT   ...en büyük ordulardan ordunun
+      metin  : (yok)
+      duyulan: ondulirarasundabirchatishma chiktive romalilur bu chatishmadan ustun airelde bu kuchukbashir varunun özguvenin artur mushola bilir pala seystuzarazide sawaashmaktan chikine ordu ankak buka darbyuk birordunun oile gegeri chikilmeside imkansizde ordu aufidusun ikiakasana kurulan kampayarlishte sonra kiganerde henebal kishkirtmayabashlade ordusun ousavashtuzeninde disipeklade romalilar karshalik vermeinje numidiala atlulurna urmaktansu almaya inan romalisakalurun uzerine salde ordunun sukayna atelikdae sesabrudakasalers plutarkosun aktardunaguer sabah varunun chadunun uzerinde kirmazibirtunikasalide bu ova ordusun da sawaashisharetide roma takwimineguer di austostu
+  REPLACE  ...büyük ordulardan ordunun komuta
+      metin  : düzeni ize tuhaftı i
+      duyulan: sresovarodeide lezyanlar urmahgechibduzlea yayilde karshikuida hanebal da ordusunu disde arkasan da rusgyar ununde chokkalabalik dushman warde plutarkosun sabataan sahneyaktirur gezgawadun da bikarta chalo subai karshita rafta uzayipke dan roma saflarin abakarak bukalabalun nekadar urkutuju oldunu soilat hannibal chitdee yuzlea onadunarve gezgonun gezundang kachan chokdaha shashirta jibir sheyoldunu soilat karshita
+  REPLACE  ...ize tuhaftı i ki
+      metin  : konsül aynı orduyla birlikte yürüdüğü için geleneğe uygun olarak komutayı gün aşırı devralıyorlardı gün varro ertesi gün paullus bu düzen birbirinden çok farklı düşünen adamın sırayla aynı ordunun dümenine geçmesi anlamına geliyordu
+      duyulan: obin narja adamanarasundag gezgo adundat tekkishiyoktu etraftakilur gilmaya bashlar vibukakhkaha saflar boyunja yayilder buhi kaydorud ola bilir sonradan suislan mishteh oma ordosunun moralini espirinin bilayuksiata bilijeini bilan komutanun portresinichi ziyar roma ordosu suradan sabashtuzeninde dizilme mishteh polibayosagir manipul adavirlan buluklar neda hayakan yarleshtiril mishteh saflar genishle mekyir nedirin nesh mishteh amachpe lide muazam piadekutlesile karta jamarkezine ezip gechmek saakanata urmakkaisandapolus komutasandakiromala suvarilardu ryordu solkannada izei varunun yaneti mirtefiq suvarilir wardu hannibal anduzeni izei tarihin enchok injelenandizilishtirindan birolajakte merkizin galiali ve espanol piadele riyarlishtirde galialelar belinekadarchiplak elerinde uzunkhesijekalichlartashyordu espanolar izei morkhenarle beyazkhetantu niklargimishte
+  REPLACE  ...anlamına geliyordu hannibal bu
+      metin  : sırada güneye bugünkü puglia bölgesine inmişti yaz başında romalıların bölgedeki önemli erzak deposunu barındıran küçük cannae kalesini ele geçirdi cannae nin önünde aufidus irmağı bugünkü adıyla ofanto geniş ve düz ovadan geçerek denize akıyordu hannibal ın en güçlü silahı süvarileriydi bu ova süvariler için biçilmiş kaftandı roma ordusu temmuz sonunda kartacalıların yakınına ulaştı polybios a göer varro nun komuta ettiği gün ordunun öncüleri arasında çatışma çıktı ve romalılar bu çatışmadan üstün ayrıldı bu küçük başarı varro nun özgüvenini artırmış olabilir paullus ize düz arazide savaşmaktan çekiniyordu ancak bu kadar büyük ordunun öylece geri çekilmesi de imkansızdı ordu aufidus un yakasına kurulan ayrı kampa yerleşti sonraki günlerde hannibal kışkırtmaya başladı ordusunu savaş düzeninde dizip bekledi romalılar karşılık vermeyince numidyalı atlılarını ırmaktan su almaya inen romalı sakaların üzerine saldı ordunun su kaynağı tehlikedeyze sabrı da kısalır plutarkhos un aktardığına göer sabah varro nun çadırının üzerinde kırmızı tunik asılıydı bu roma ordusunda savaş işaretiydi roma takvimine göer ağustos tu komuta sırası varro daydı lejyonlar ırmağı geçip düzlüğe yayıldı karşı kıyıda hannibal da ordusunu dizdi arkasında rüzgar önünde çok kalabalık düşman vardı plutarkhos o sabahtan sahne aktarır gisgo adında kartacalı subay karşı tarafta uzayıp giden roma saflarına bakarak bu kalabalığın ne kadar ürkütücü olduğunu söyler hannibal ciddi döner ve gisgo nun gözünden kaçan çok daha şaşırtıcı şey olduğunu söyler karşıdaki o binlerce adamın arasında gisgo adında tek kişi yoktu etraftakiler gülmeye başlar ve bu kahkaha saflar boyunca yayılır bu hikaye doğru da olabilir sonradan süslenmiş de ama ordusunun moralini esprinin bile yükseltebileceğini bilen komutanın portresini çiziyor roma ordusu sıradan savaş düzeninde dizilmemişti polybios a göer manipul adı verilen bölükler birbirine daha yakın yerleştirilmişti saflar genişlemek yerine derinleşmişti amaç belliydi muazzam piyade kütlesiyle kartaca merkezini ezip geçmek sağ kanatta ırmak kıyısında paullus komutasındaki romalı süvariler duruyordu sol kanatta ize varro nun yönettiği müttefik süvariler vardı hannibal ın düzeni ize tarihin en çok incelenen dizilişlerinden olacaktı merkezine galyalı ve i spanyol piyadeleri yerleştirdi galyalılar beline kadar çıplak ellerinde uzun kesici kılıçlar taşıyordu i spanyollar ize mor kenarlı beyaz keten tunikler giymişti hannibal bu merkezi düz çizgi halinde bırakmadı ortasını romalılara doğru öne çıkardı ve ortaya düşmana doğru
+      duyulan: mir kazi dusbir chizgehalinde burakhmadeh oortasen romalularadouru enichkardeweh oortayedushmanadouru
+  REPLACE  ...ortaya düşmana doğru kabaran
+      metin  : hilal çıktı hilalin ucunun arkasında geride afrikalı ağır piyadeler bekliyordu polybios a göer
+      duyulan: hilalchikte hilaliniki ujunun arkasundah birazgirideh afrikalah arpiadele erbekliordu polybiosaguer
+  REPLACE  ...a göer bu askerler
+      metin  : trasimeno daki zaferden sonra toplanan
+      duyulan: trasimenoda kiza ferdansoratoplanan
+  REPLACE  ...zaferden sonra toplanan roma
+      metin  : silah ve zırhlarıyla donatılmıştı
+      duyulan: silahwezir hlerila donatul mishteh
+  REPLACE  ...zırhlarıyla donatılmıştı uzaktan bakan
+      metin  : kolayca romalı sanabilirdi sol kanatta ırmak tarafında
+      duyulan: kolaje roma lisanabilirde salkanata urmaktarafunda
+  REPLACE  ...kanatta ırmak tarafında hasdrubal
+      metin  : komutasındaki ağır i spanyol ve galyalı süvariler duruyordu sağ kanatta ize hızlı ve hafif numidyalı atlılar vardı
+      duyulan: komuttasinde ki auri espanolve galialisuvarilardu riyardu sakanata izei huzlvehafifnumidiyala atlalarvardu
+  REPLACE  ...numidyalı atlılar vardı hannibal
+      metin  : ve kardeşi
+      duyulan: vaykardeshi
+  REPLACE  ...hannibal ve kardeşi mago
+      metin  : en tehlikeli yerde
+      duyulan: entelikiliyarde
+  REPLACE  ...en tehlikeli yerde hilalin
+      metin  : merkezindeydi livius a göer o gün bölgede volturnus denen sıcak rüzgar esiyordu ve romalıların toz savuruyordu savaş önce hafif piyadelerin ok ve sapan atışlarıyla başladı livius un anlatımına göer paullus daha bu ilk dakikalarda sapan taşıyla ağır yaralandı ardından ırmak kenarında süvariler çarpıştı burası o kadar dardı ki manevra yapacak yer yoktu polybios bu çatışmayı alışılmışın dışında dövüş olarak anlatır atlılar birbirine sıkışmış pek çoğu atından inip yaya olarak boğuşmaya başlamıştı hasdrubal ın ağır süvarileri sayıca az olan romalı atlıları kısa sürede dağıttı ve ırmak boyunca kovaladı hasdrubal bundan sonra dağılan düşmanı kovalamak yerine savaşın kaderini belirleyecek karar verdi birliklerini topladı roma piyadesinin arkasından dolanıp öbür kanada numidyalıların oyalamakta olduğu müttefik süvarilerinin üzerine sürdü kendilerine doğru yaklaşan bu yeni kitleyi gören müttefik süvarileri dağıldı varro da bu kaçanların arasındaydı hasdrubal numidyalıları kaçanların peşine takıp kendi ağır süvarilerini kez daha döndürdü şimdi roma piyadesinin sırtına dönüktü bu sırada merkezde lejyonlar hannibal ın hilaline çarpmıştı galyalılar ve i spanyollar dişini sıkarak direndi ama yavaş yavaş geri çekildi belki planlanmış belki de yalnızca kaçınılmaz geri çekilmeydi bu hilal önce düzleşti sonra ters yöne doğru büküldü romalılara doğru kabarık olan çizgi şimdi içine çeken çanağa dönüşmüştü lejyonerler zafer kazandıklarını sanarak boşluğa doğru akın etti i lerledikçe saflar daha da daraldı arka sıralar öndekilerin üzerine yığıldı i şte o anda hilalin ucunda bekleyen afrikalılar içeriye doğru döndü
+      duyulan: merkizindede livia sazureo ogunbolgedevol turnusten ansejak birizgeresiordu
+  REPLACE  ...doğru döndü ve roma
+      metin  : kütlesine yandan saldırdı hemen ardından
+      duyulan: lileren yuzune tosa vuryordu savash eunjehafifpiadeleren okwesapanatishlirilabashladeh livia sunanalatimunagier paulusdahabu iktakikalarda birsapan tashila r yerelande ardundan urmakkenerandasuvarilarcharpistu borasi okadardar dikki manavrayapajak yaryoktou kalybaios buchatushmaya alishilmushindushenda birdovisholarak anathir atlalar birbirnesukushmush pektro attandanini piyayolarak boshmayabashtamushte hasdrubalun r suvarilir saeja azolan romala atlalir kasasurededat teve urmakboinja kowaladeh hasdrubalbundan sonra dalandushmani kowalamakkirenessa vashankadirinibiliyar lijek birkararvarde burlek lirini topladeh romapiadisinin arkasundandolanup uberkannada numidiyalilirin oyalamaktauldu mutefiksuvarilirinin uzirne surdu kendelareen doriyaklashan buyanikitleigaran mutefiksuvariliridalda varoda bukhachanlirin arasundaidha
+  REPLACE  ...saldırdı hemen ardından hasdrubal
+      metin  : ın süvarileri arkadan geldi çember kapanmıştı polybios un
+      duyulan: numidiyalilirikachanlirin peshenetakup kendar suvarilirinibirkezdahadundur shimdi yuzu romapiadisinin sirtanadunuktuh bussarada merkizde lezhonar hanibalan hililin charkmashtuh galyalalarva ispaniolar disinisakaraktirende ama yavash yavashgirichekilde belki plannanmash belkida yalnuzjekachenel masbir geirichekilmeydebo hilal ounja duzleishte sonra tashyonadur bukhildu romalalaradur kaburkolanchizge shimde ichnechekan birchanadunushmashtuh lezhonar lirzafairkazandeklerun sanarak boshladur akunete ilar lidikche saflar dahadadaraldu arkasralarandekilirin yuzirneyildu iste oanda hilalin ikiujundabeklayan afrikalalarichiriedorudundu
+  REPLACE  ...kapanmıştı polybios un ve
+      metin  : livius un anlattıklarından çıkan tablo korkunçtur
+      duyulan: romakutlesina ikiandan saldurdu hemenardun dan hasdrubalun suvarilirakadangalde semberkapenmishtuh palibayozunrin velivyucinun anlektiklerundan chikan tabla korkunstur
+  REPLACE  ...tablo korkunçtur roma ordusunun
+      metin  : en büyük avantajı olan kalabalık ölümcül yüke dönüşmüştü i çerideki binlerce asker kılıcını kaldıracak yer bulamayacak kadar sıkışmıştı dışarıdaki
+      duyulan: enbyukavanta jolan kalabaluk ullumjul biryukedunushmashtuh ichardeki askar kalujuna kaldurajak yarbulamiyijak kadarsakushmashtuh dusardeki
+  REPLACE  ...kadar sıkışmıştı dışarıdaki halkada
+      metin  : savaşan asker
+      duyulan: sabashan binaskar
+  REPLACE  ...savaşan asker ize durmadan
+      metin  : dönüyor yoruluyor ve düşüyordu kaçacak yer yoktu sabah dizilen
+      duyulan: dunyur yurluyur vedushyurdu kachajak biryayoktu saba dizilan
+  REPLACE  ...yoktu sabah dizilen ordu
+      metin  : öğleden
+      duyulan: oledan
+  REPLACE  ...dizilen ordu öğleden sonra
+      metin  : boyunca saatlerce sistemli biçimde eritildi
+      duyulan: boyunja saatlerje sistamni bichimde iritilde
+  ... ve 112 fark daha
+
+metinde olup DUYULMAYAN: 2657 kelime | duyulup metinde OLMAYAN: 2074
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: history-2026-10-27.duyulan.txt

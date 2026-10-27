@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-27.mp3
+
+beklenen 2695 kelime | duyulan 2698 kelime | eşleşme %95.8
+sayı ifadesi: metinde 274, duyulanda 243  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ortağı mı yaz sonu
+      metin  : bağ
+      duyulan: bağa
+  REPLACE  ...alacakaranlıkta duruyor norveçli düşünür
+      metin  : yon
+      duyulan: john
+  INSERT   ...norveçli düşünür yon elster
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...öteki i ngilteer sinden
+      metin  : piskopostu
+      duyulan: psikopostu te
+  REPLACE  ...paris alman işgali altındayken
+      metin  : jan pol sartr letr e lö nean
+      duyulan: jean paul sarter letter l honnean
+  REPLACE  ...bölümlerinden kendini kandırmaya ayrılmıştı
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...ayrılmıştı sartr bu durumu
+      metin  : movez fua
+      duyulan: mouvez foua
+  REPLACE  ...bu çeviri yanıltıcı olabilir
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...kendi inancını sahte tutmak
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...açıklamanın en yaygın yolu
+      metin  : froyd dan
+      duyulan: freud den
+  REPLACE  ...de böylece masum kalır
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...yalnızca bekçinin kulübesine taşınıyor
+      metin  : paradoks
+      duyulan: paradox
+  REPLACE  ...paradoks orada aynen duruyor
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...kandırdığımızda bunu bakıma biliyoruz
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...böylece seçim yapmaktan kurtuluyor
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...garsonun hareketleri hatta fazlası
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...o yükten kaçmanın yolu
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...hiçbir zaman onlardan tamamen
+      metin  : kopuk da
+      duyulan: kopukta
+  INSERT   ...geriye londra ya gidelim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hukukçuların ibadet ettiği rolls
+      metin  : şapeli nde
+      duyulan: chapel inde
+  REPLACE  ...yayımladı butler daha sonra
+      metin  : durham piskoposu
+      duyulan: durran psikoposu
+  INSERT   ...olarak hatırlanıyor vaaz ın
+      metin  : (yok)
+      duyulan: su
+  REPLACE  ...tan sahneyle açılır kral
+      metin  : davud
+      duyulan: davut
+  REPLACE  ...uriya nın karısı bat
+      metin  : şeba
+      duyulan: sheba
+  REPLACE  ...öldürülmesini sağlamıştır gün peygamber
+      metin  : natan
+      duyulan: nathan
+  REPLACE  ...yoksulun kuzusunu alıp kesmiş
+      metin  : davud
+      duyulan: davut
+  REPLACE  ...kat ödemesi gerektiğini haykırır
+      metin  : natan
+      duyulan: nathan
+  REPLACE  ...sarsıcıdır o adam sensin
+      metin  : butler ın
+      duyulan: butların
+  REPLACE  ...çektiği nokta çok ince
+      metin  : davud
+      duyulan: davut
+  REPLACE  ...gelince aynı vicdan körleşiyor
+      metin  : butler a
+      duyulan: butlara
+  REPLACE  ...sanığa türlü sert davranamaz
+      metin  : butler ın
+      duyulan: butların
+  REPLACE  ...bu konuda da haklıyımdır
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...varlığını reddeden ateist diğeri
+      metin  : anglikan piskoposu
+      duyulan: anglican psikoposu
+  REPLACE  ...geliyor ebu hamid el
+      metin  : gazzali tus ta
+      duyulan: ghazali de tust a
+  REPLACE  ...hocaydı ama sonradan yazdığı
+      metin  : el munkız mine d
+      duyulan: elmun kız mined i
+  REPLACE  ...inzivaya çekilir bu hikaye
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...yazdığı büyük eser i
+      metin  : hyau
+      duyulan: hya
+  DELETE   ...eser i hyau ulumi
+      metin  : d
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...doğrudan gurura ayrılmıştır ama
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...anlamına gelen kökten gelir
+      metin  : gazzali
+      duyulan: ghazali
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 99 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: felsefe-2026-10-27.duyulan.txt

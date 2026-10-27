@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-27.mp3
+
+beklenen 2863 kelime | duyulan 2867 kelime | eşleşme %95.4
+sayı ifadesi: metinde 251, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yola çıktığında ordusu kalabalıktı
+      metin  : polibios
+      duyulan: polybios
+  REPLACE  ...baharda hannibal apenin dağlarını
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...ayırdığı makama başvurdu ve
+      metin  : kuintus
+      duyulan: quintus
+  REPLACE  ...başvurdu ve kuintus fabius
+      metin  : maksimus
+      duyulan: maximus
+  REPLACE  ...zaman aleyhine işliyordu strateji
+      metin  : akıllıcaydı
+      duyulan: akıllıca idi
+  REPLACE  ...fabius a alay yollu
+      metin  : kunktator
+      duyulan: cunctator
+  REPLACE  ...verildi seçilenlerden gaius terentius
+      metin  : varro ydu
+      duyulan: varroi du
+  REPLACE  ...olarak anlatır diğer konsül
+      metin  : lukius
+      duyulan: lucius
+  REPLACE  ...diğer konsül lukius emilius
+      metin  : paullus
+      duyulan: paulus
+  REPLACE  ...anlatan en önemli tarihçi
+      metin  : polibios paullus
+      duyulan: polybius paulus
+  REPLACE  ...paullus un torunu sayılan
+      metin  : skipio emilianus
+      duyulan: scipio emilius
+  REPLACE  ...un yakın dostuydu livius
+      metin  : da
+      duyulan: ta
+  REPLACE  ...karşısına ezici güçle çıkılacaktı
+      metin  : polibios
+      duyulan: polybius
+  INSERT   ...ortaya yaklaşık piyade ve
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...gün varro ertesi gün
+      metin  : paullus
+      duyulan: paulus
+  REPLACE  ...bu sırada güneye bugünkü
+      metin  : pulya
+      duyulan: puglia
+  REPLACE  ...aufidus irmağı bugünkü adıyla
+      metin  : ofanto
+      duyulan: ophanto
+  REPLACE  ...ofanto geniş ve düz
+      metin  : ovadan
+      duyulan: obadan
+  REPLACE  ...sonunda kartacalıların yakınına ulaştı
+      metin  : polibios
+      duyulan: polybios
+  REPLACE  ...nun özgüvenini artırmış olabilir
+      metin  : paullus
+      duyulan: paulus
+  REPLACE  ...tehlikedeyze sabrı da kısalır
+      metin  : plutarkhos
+      duyulan: plutarchos
+  REPLACE  ...komuta sırası varro daydı
+      metin  : lejyonlar
+      duyulan: lejonlar
+  REPLACE  ...çok kalabalık düşman vardı
+      metin  : plutarkhos
+      duyulan: plutarchos
+  REPLACE  ...o sabahtan sahne aktarır
+      metin  : gisgo
+      duyulan: gisco
+  REPLACE  ...hannibal ciddi döner ve
+      metin  : gisgo
+      duyulan: gisco
+  REPLACE  ...o binlerce adamın arasında
+      metin  : gisgo
+      duyulan: gisco
+  REPLACE  ...sıradan savaş düzeninde dizilmemişti
+      metin  : polibios
+      duyulan: polybios
+  REPLACE  ...dizilmemişti polibios a göer
+      metin  : manipul
+      duyulan: manipül
+  REPLACE  ...sağ kanatta ırmak kıyısında
+      metin  : paullus
+      duyulan: paulus
+  REPLACE  ...afrikalı ağır piyadeler bekliyordu
+      metin  : polibios
+      duyulan: polybius
+  REPLACE  ...sol kanatta ırmak tarafında
+      metin  : hasdrubal
+      duyulan: hazrubal
+  REPLACE  ...livius un anlatımına göer
+      metin  : paullus
+      duyulan: paulus
+  REPLACE  ...manevra yapacak yer yoktu
+      metin  : polibios
+      duyulan: polybius
+  REPLACE  ...yaya olarak boğuşmaya başlamıştı
+      metin  : hasdrubal
+      duyulan: hazdrubal
+  REPLACE  ...ve ırmak boyunca kovaladı
+      metin  : hasdrubal
+      duyulan: hazdrubal
+  REPLACE  ...da bu kaçanların arasındaydı
+      metin  : hasdrubal
+      duyulan: hazdrubal
+  REPLACE  ...arkadan geldi çember kapanmıştı
+      metin  : polibios
+      duyulan: polybius
+  REPLACE  ...sistemli biçimde eritildi livius
+      metin  : paullus
+      duyulan: paulus
+  REPLACE  ...dair sahne aktarır neus
+      metin  : kornelius
+      duyulan: cornelius
+  REPLACE  ...kendi atını vermek ister
+      metin  : paullus
+      duyulan: paulus
+  ... ve 53 fark daha
+
+metinde olup DUYULMAYAN: 110 kelime | duyulup metinde OLMAYAN: 110
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: tarih-2026-10-27.duyulan.txt

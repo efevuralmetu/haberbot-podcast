@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-27.mp3
+
+beklenen 3043 kelime | duyulan 3034 kelime | eşleşme %98.9
+sayı ifadesi: metinde 92, duyulanda 84  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...for it is the
+      metin  : celt
+      duyulan: selt
+  REPLACE  ...to do with the
+      metin  : celts
+      duyulan: kelts
+  REPLACE  ...celts in archaeology a
+      metin  : celt
+      duyulan: selt
+  REPLACE  ...that a latin word
+      metin  : celtis
+      duyulan: seltis
+  REPLACE  ...at that point was
+      metin  : certe
+      duyulan: certi
+  INSERT   ...certainly in other words
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...outside acts it the
+      metin  : celt
+      duyulan: silt
+  DELETE   ...solutions simulations in the
+      metin  : eighties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...from outside but the
+      metin  : celt
+      duyulan: seltz
+  REPLACE  ...theer every time a
+      metin  : celt
+      duyulan: seltz
+  REPLACE  ...at play in the
+      metin  : celt
+      duyulan: seltz
+  REPLACE  ...layers added to the
+      metin  : celt
+      duyulan: seltz
+  REPLACE  ...when the russian mathematicians
+      metin  : alexey
+      duyulan: alexei
+  REPLACE  ...alexey borisov and ivan
+      metin  : mamaev
+      duyulan: mamayev
+  REPLACE  ...mamaev studied this idealized
+      metin  : celt stone
+      duyulan: seltstone
+  DELETE   ...model in the early
+      metin  : thousands
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...property imagine placing a
+      metin  : celt stone
+      duyulan: seltstone
+  REPLACE  ...in other words the
+      metin  : celt stone
+      duyulan: seltstone
+  REPLACE  ...from the mathematicians keith
+      metin  : moffatt
+      duyulan: moffat
+  REPLACE  ...keith moffatt and tadashi
+      metin  : tokieda
+      duyulan: tokietta
+  REPLACE  ...tadashi tokieda approached the
+      metin  : celt stone
+      duyulan: seltstone
+  REPLACE  ...this perspective turns the
+      metin  : celt stone
+      duyulan: seltstone
+  REPLACE  ...the same handedness the
+      metin  : celt stone
+      duyulan: seltstone
+  REPLACE  ...degrees is enough today
+      metin  : celt stones
+      duyulan: seltstones
+  REPLACE  ...today s episode of
+      metin  : nöron bilim
+      duyulan: neuron billim
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-10-27.duyulan.txt

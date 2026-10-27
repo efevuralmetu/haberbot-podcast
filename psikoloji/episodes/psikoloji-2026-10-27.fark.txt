@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-27.mp3
+
+beklenen 1506 kelime | duyulan 1512 kelime | eşleşme %98.4
+sayı ifadesi: metinde 136, duyulanda 127  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...haberi veriyor sonraki saniye
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...hissedeceğini belki de ilişkileri
+      metin  : hakkında
+      duyulan: arasında
+  REPLACE  ...yüklediler diye sorabilir son
+      metin  : ihtimalde ize
+      duyulan: ihtimaldeyze
+  REPLACE  ...cevap tek haber psikolog
+      metin  : shelly
+      duyulan: shelley
+  INSERT   ...shelly gable ve meslektaşlarının
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...daha eski fikir var
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...başlarına gelen güzel şeyleri
+      metin  : başkalarıyla
+      duyulan: başkaları ile
+  INSERT   ...değil gable ve ekibi
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...o kadar net değil
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...içimizde istemediğimiz şeyler kıpırdatır
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...kendi durumunu hatırlatıyor belki
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...niyet ne olursa olsun
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...zeynebin duyduğu şey değişmez
+      metin  : sevincim
+      duyulan: sevinçim
+  REPLACE  ...haber başka şey taşır
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...karışık duygular varsa ya
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...kim olabildiğimizin dokusunu oluştururlar
+      metin  : zeynebin
+      duyulan: zeynep in
+  REPLACE  ...sevincinizin güvende olduğu yer
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-10-27.duyulan.txt
