@@ -1,0 +1,186 @@
+sira	karakter	saniye	kar_sn	metin
+1	76	4.480	16.96	You spin a boat-shaped stone clockwise on a tabletop, and it
+2	151	8.800	17.16	But spin it the other way, and after a few turns it stops, b
+3	139	7.200	19.31	How does a stone decide which way to turn, and how does it d
+4	90	5.120	17.58	On the table sits a smooth stone about the size of your palm
+5	48	3.360	14.29	Its underside is gently curved, its top is flat.
+6	63	3.520	17.90	You take it by the edge with your finger and spin it clockwi
+7	79	5.120	15.43	The stone turns a few times, slows down, and then something 
+8	95	6.240	15.22	It stops spinning and begins to rock, its nose tipping up an
+9	107	6.880	15.55	The rocking lasts a few seconds, and then, all by itself, it
+10	108	5.760	18.75	Nobody touched it, yet the stone rejected the direction you 
+11	41	2.880	14.24	Now spin the same stone counterclockwise.
+12	38	2.720	13.97	This time there's no objection at all.
+13	88	5.120	17.19	The stone turns calmly, and it keeps on turning until fricti
+14	98	5.440	18.01	It's as if the stone has a preference: it accepts spinning o
+15	97	5.600	17.32	In the English-speaking world this object is called a rattle
+16	32	2.560	12.50	Another name for it is the celt.
+17	84	6.080	13.82	In Turkish, too, it's known as the Kelt stone, a name derive
+18	72	3.840	18.75	But the name is misleading, because it has nothing to do wit
+19	100	6.240	16.03	In archaeology, a celt is the name given to prehistoric axe 
+20	67	4.000	16.75	And the story of the word itself is almost as strange as the
+21	73	5.280	13.83	For a long time, it was accepted that a Latin word, celtis, 
+22	100	5.440	18.38	The source cited for this word was a line in the Book of Job
+23	150	10.880	13.79	Later comparisons, however, revealed that in more reliable m
+24	104	5.760	18.06	a single copyist's slip of the pen may have given archaeolog
+25	217	11.200	19.38	According to the story that has been handed down, in the nin
+26	112	6.400	17.50	Exactly who made this observation, and where it was first re
+27	106	5.280	20.08	There is no evidence whatsoever that prehistoric people deli
+28	119	6.240	19.07	The behavior was most likely a by-product of the fact that a
+29	114	5.920	19.26	If the stone held a secret at all, that secret lay not in th
+30	62	3.200	19.38	And that is precisely what caught the attention of physicist
+31	83	4.960	16.73	Because it seemed to shake one of the most basic intuitions 
+32	42	3.520	11.93	A spinning body tends to keep on spinning.
+33	99	6.400	15.47	You spin a top, the top slows down and stops, but it never s
+34	87	4.640	18.75	The quantity we call angular momentum is conserved unless so
+35	97	5.600	17.32	The celt, though, seemed to be breaking that rule, reversing
+36	128	6.720	19.05	The first person to take this puzzle seriously in mathematic
+37	147	8.480	17.33	In a paper published in eighteen ninety-six, Walker set out 
+38	63	3.680	17.12	Today, Walker's name is remembered mostly in a different fie
+39	166	8.320	19.95	He would later go on to head the meteorological service in I
+40	145	8.160	17.77	But as a young Cambridge mathematician, he was wrestling wit
+41	71	5.440	13.05	And the conclusion he reached was this: there is no magic in
+42	96	5.600	17.14	But there is, in its shape, a very subtle twist, one that do
+43	102	5.920	17.23	To understand that twist, we need to think about two differe
+44	49	2.880	17.01	The first is how the stone's mass is distributed.
+45	86	4.800	17.92	A long, flat object has certain axes around which it is easi
+46	59	3.840	15.36	In physics, these are called the principal axes of inertia.
+47	145	7.520	19.28	Think of a long ruler: spinning it around its long axis is e
+48	70	4.320	16.20	The distribution of mass draws an invisible set of axes onto
+49	58	3.200	18.12	The second identity is the shape of the stone's underside.
+50	72	4.320	16.67	The base of a celt is curved, like the bottom of an egg or a
+51	50	2.880	17.36	But that curve is not the same in every direction.
+52	110	5.920	18.58	Along one direction the curve is sharper, and along the dire
+53	53	3.840	13.80	These two directions form the base's own set of axes.
+54	75	5.120	14.65	In an ordinary, symmetrical object, these two sets of axes l
+55	81	5.280	15.34	The long axis of the mass runs along the same line as the lo
+56	30	2.400	12.50	In a celtic stone, they don't.
+57	89	5.760	15.45	There is a small angle between the two sets of axes, often a
+58	102	5.920	17.23	Sometimes this is done with weights placed on top of the sto
+59	61	3.680	16.58	Sometimes it is done by carving the base with a slight twist
+60	43	2.880	14.93	The eye usually can't catch the difference.
+61	19	1.760	10.80	But the stone does.
+62	53	2.720	19.49	All of its stubbornness comes from this hidden angle.
+63	61	4.000	15.25	Now, instead of spinning the stone, let's try something else
+64	93	4.960	18.75	While the stone sits still on the table, press gently on one
+65	84	4.960	16.94	The stone starts rocking back and forth like a seesaw, its n
+66	24	1.920	12.50	This is called pitching.
+67	75	4.480	16.74	On a symmetrical stone, the rocking would simply die away wh
+68	114	6.720	16.96	On a celtic stone, though, the stone slowly begins to turn w
+69	138	7.200	19.17	If you press on the side edge instead and tip it from side t
+70	28	2.720	10.29	The rocking turns into spin.
+71	58	4.320	13.43	And the kind of rocking decides which way the stone spins.
+72	45	3.360	13.39	Let's follow, step by step, why this happens.
+73	97	5.440	17.83	As the stone pitches, the point where it touches the table s
+74	177	9.440	18.75	If the base were symmetrical, this contact point would trave
+75	138	6.880	20.06	But because the curvature axes of the base are turned slight
+76	40	2.560	15.62	It moves along a slightly diagonal path.
+77	76	4.480	16.96	When the stone tips forward, the contact point shifts a litt
+78	112	6.400	17.50	When it tips back, it shifts a little to the left, or the ot
+79	22	2.400	9.17	This shift is the key.
+80	71	4.320	16.44	The table is pushing on the stone at the contact point at ev
+81	122	6.080	20.07	That push is made up of an upward force holding the stone up
+82	183	10.080	18.15	When these forces act not directly in line with the center o
+83	95	5.760	16.49	Pushing a door in line with its hinges does nothing, but pus
+84	80	4.800	16.67	In the same way, the table pushes the stone slightly off cen
+85	30	2.720	11.03	And here is the real subtlety.
+86	150	8.000	18.75	If the stone is pushed from the right when it tips forward, 
+87	34	2.400	14.17	They add up in the same direction.
+88	77	4.160	18.51	Every rock gives the stone another small nudge of spin in th
+89	87	4.800	18.12	Now let's go back to the very beginning, to the moment we sp
+90	175	9.280	18.86	While the stone spins in the direction it doesn't like, ther
+91	60	3.680	16.30	The spin feeds small pitching oscillations inside the stone.
+92	111	6.720	16.52	The tiny vibrations that are always there, instead of fading
+93	67	4.000	16.75	In the language of mathematics, spin in this direction is un
+94	96	5.280	18.18	The moment the stone starts to rattle is the moment spin ene
+95	143	8.000	17.88	As the rocking grows, the mechanism we just described kicks 
+96	86	5.760	14.93	The spin slows, stops, and finally starts up again in the di
+97	52	3.040	17.11	In this new direction, the link works the other way.
+98	55	4.160	13.22	The spin no longer makes the rocking grow, it damps it.
+99	46	3.040	15.13	The stone settles down and spins along easily.
+100	46	2.880	15.97	So there is no will at work here, only a loop.
+101	81	4.800	16.88	Spin in the unwanted direction creates the rocking that brin
+102	78	4.480	17.41	Spin in the preferred direction suppresses the rocking and k
+103	112	5.600	20.00	What we call the stone's stubbornness is nothing more than t
+104	152	8.480	17.92	Although this explanation was laid out in qualitative terms 
+105	109	5.920	18.41	Walker built a linearized model of the motion for small osci
+106	200	11.520	17.36	But following the whole reversal, that long, nonlinear proce
+107	117	6.400	18.28	Simulations in the nineteen-eighties showed that the behavio
+108	162	8.640	18.75	It even turned out that some stones, depending on their desi
+109	43	3.360	12.80	These stones never settle on one direction.
+110	80	4.640	17.24	They go back and forth between the two several times, a litt
+111	79	4.000	19.75	But how does all of this square with the firm rule we stated
+112	49	3.680	13.32	Wasn't angular momentum supposed to be conserved?
+113	70	4.480	15.62	The stone was spinning clockwise, and now it's spinning the 
+114	61	3.200	19.06	Where did that spin go, and where did the new spin come from
+115	90	4.800	18.75	The answer lies in remembering when the conservation of angu
+116	100	5.920	16.89	The conservation law holds for an isolated system, one that 
+117	35	2.560	13.67	But the celt stone is not isolated.
+118	91	5.120	17.77	At every moment it touches the table, and at every moment th
+119	97	5.440	17.83	That off-center push we just saw is precisely a twisting for
+120	73	4.800	15.21	So when the stone's own angular momentum changes, no law is 
+121	77	4.800	16.04	The conservation law hasn't vanished; it has simply moved to
+122	185	9.600	19.27	If you consider the stone and the table together, along with
+123	174	9.600	18.12	When the stone, spinning clockwise, slows down and reverses 
+124	60	3.680	16.30	That angular momentum is ultimately passed on to our planet.
+125	112	5.920	18.92	The Earth's mass is so enormous that the change this transfe
+126	30	3.200	9.38	But in principle, it is there.
+127	102	5.920	17.23	Every time a celt stone changes direction, the Earth's rotat
+128	73	5.120	14.26	The law hasn't disappeared; it has simply hidden itself insi
+129	40	2.560	15.62	There is one more important detail here.
+130	124	7.040	17.61	For this mechanism to work, the table has to be able to grip
+131	106	6.400	16.56	On a perfectly slippery surface, say a flawless ice rink, th
+132	156	8.160	19.12	And those vertical forces could have only a very limited eff
+133	100	5.920	16.89	Real experiments and calculations show that as friction decr
+134	119	5.760	20.66	The true driver of the stone's stubbornness is the friction 
+135	54	2.880	18.75	But the word friction invites a misunderstanding here.
+136	75	4.800	15.62	When we hear friction, most of us think of lost energy, heat
+137	106	6.080	17.43	Yet the friction at play in the celt stone is, to a first ap
+138	116	6.720	17.26	As long as the stone rolls across the table without slipping
+139	91	5.280	17.23	A force applied to a point that doesn't move does no work, w
+140	105	5.760	18.23	This force only steers the direction of motion, transferring
+141	106	5.760	18.40	And this is one of the most surprising layers added to the c
+142	186	9.760	19.06	Hermann Bondi, known for his work in cosmology, took up the 
+143	186	9.280	20.04	When physicists examined the stone's motion using an idealiz
+144	78	4.480	17.41	In other words, the loss of energy is not what causes the ch
+145	124	6.560	18.90	The energy of the spin flows into the wobble, and the energy
+146	69	4.480	15.40	In real stones, of course, some energy does escape as heat a
+147	38	2.560	14.84	That clattering noise is exactly that.
+148	82	5.280	15.53	But the heart of the story is not energy disappearing; it is
+149	52	3.520	14.77	This idealized model has an unexpected side as well.
+150	152	8.480	17.92	In physics, we tend to think that systems which conserve ene
+151	188	10.560	17.80	Systems bound by the condition of rolling without slipping, 
+152	220	12.320	17.86	When the Russian mathematicians Alexey Borisov and Ivan Mama
+153	98	5.120	19.14	and even strange attractors, which are normally considered a
+154	145	8.480	17.10	This toy that fits in the palm of your hand became, for math
+155	80	4.800	16.67	The story has one more layer, and this one touches the stone
+156	50	3.200	15.62	Imagine placing a celt stone in front of a mirror.
+157	72	4.160	17.31	Its reflection is a stone whose hidden angle is skewed the o
+158	101	5.120	19.73	If you were to actually make that mirror-image stone, it wou
+159	133	7.680	17.32	In other words, the celt stone, just like our right and left
+160	46	3.840	11.98	Scientists call this chirality, or handedness.
+161	201	10.400	19.33	In a study from two thousand eight, the mathematicians Keith
+162	78	4.160	18.75	The stone's preference is the handedness of its shape reflec
+163	93	4.800	19.38	Neither the table, nor gravity, nor the Earth's rotation fav
+164	71	3.680	19.29	The only thing that chooses the direction is the stone's own
+165	111	6.240	17.79	This perspective turns the Celt stone from a simple tabletop
+166	68	4.160	16.35	Nature is full of processes that favor one direction over th
+167	195	10.720	18.19	In chemistry, the right-handed and left-handed forms of a mo
+168	101	5.280	19.13	The Celt stone is not the answer to these great questions, a
+169	204	11.040	18.48	But it shows something very concrete: even when the laws the
+170	67	4.320	15.51	Symmetric rules need no great force to produce asymmetric ou
+171	40	3.200	12.50	A shift of just a few degrees is enough.
+172	130	8.160	15.93	Today, Celt stones are made of plastic, wood, or stone, and 
+173	73	4.160	17.55	Anyone who sees one for the first time almost always reacts 
+174	151	8.160	18.50	First they are surprised, then they look for the trick, wond
+175	142	7.200	19.72	Learning that the trick is actually in plain sight, in the v
+176	199	10.720	18.56	This journey, which begins with a prehistoric axe head, take
+177	26	2.080	12.50	arrives at a single point.
+178	73	4.640	15.73	Even in its strangest-looking behavior, nature never breaks 
+179	63	3.680	17.12	It simply applies them in a corner we don't immediately noti
+180	45	3.360	13.39	And the stone is still spinning on the table.
+181	73	4.000	18.25	Whichever direction you give it, it will eventually turn bac
+182	83	4.160	19.95	But now we know that behind this stubbornness there is neith
+183	137	7.200	19.03	There is only a curved base, a mass sitting slightly turned 
+184	56	3.040	18.42	We've come to the end of today's episode of Nöron Bilim.
+185	35	2.080	16.83	Until we meet again in a new story.
