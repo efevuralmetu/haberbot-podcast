@@ -1,0 +1,553 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.090
+Londra'da bir avuç genç programcı, Nintendo'nun en sıkı korunan cihazının kilidini kırdı ve dava beklerken Kyoto'dan bir davet aldı.
+
+2
+00:00:09.090 --> 00:00:17.540
+Onlardan istenen şey, küçük bir kartuşun içine gizlenecek bir çiple Super Nintendo'ya hiç sahip olmadığı üçüncü boyutu kazandırmaktı.
+
+3
+00:00:25.740 --> 00:00:32.910
+Kartuşu yuvasına itip düğmeye bastığınızda ekranın üst kenarından tek bir kelime süzülür: Nintendo.
+
+4
+00:00:32.910 --> 00:00:39.760
+Kelime ağır ağır ortaya iner, durur, kısa ve tiz bir ses duyulur, sonra oyun açılır.
+
+5
+00:00:39.760 --> 00:00:48.850
+1989'da piyasaya çıkan Game Boy'u eline alan milyonlarca çocuk için bu birkaç saniye, oyundan önce gelen sıradan bir selamlamaydı.
+
+6
+00:00:48.850 --> 00:00:52.660
+Oysa o kelime selam vermekten fazlasını yapıyordu.
+
+7
+00:00:52.660 --> 00:00:57.430
+Ekrandaki logo bir kilitti, makinenin kapısında duran bir bekçiydi.
+
+8
+00:00:57.430 --> 00:01:09.560
+Kilit şöyle çalışıyordu: Game Boy açıldığında içindeki küçük başlangıç programı, kartuşun belleğinde belirli bir yerde duran logo verisini okuyor ve kendi içinde sakladığı kopyayla karşılaştırıyordu.
+
+9
+00:01:09.560 --> 00:01:14.970
+İkisi birebir tutmazsa makine oyunu başlatmıyor, ekranda öylece kalıyordu.
+
+10
+00:01:14.970 --> 00:01:17.820
+Bu düzenin bir de hukuki yanı vardı.
+
+11
+00:01:17.820 --> 00:01:26.270
+Nintendo'nun izni olmadan kartuş üreten bir firma, oyununu çalıştırmak için o logoyu kartuşa koymak zorundaydı.
+
+12
+00:01:26.270 --> 00:01:31.360
+Koyduğu anda da Nintendo'nun tescilli markasını izinsiz kullanmış oluyordu.
+
+13
+00:01:31.360 --> 00:01:36.290
+Yani teknik bir engel, aynı zamanda mahkemede kullanılabilecek bir kozdu.
+
+14
+00:01:36.290 --> 00:01:42.980
+Nintendo, yayıncıları sıkı lisans anlaşmalarına bağlayan iş modelini bu bekçiye emanet etmişti.
+
+15
+00:01:42.980 --> 00:01:46.950
+Bu bekçinin karşısına Londra'dan küçük bir ekip çıktı.
+
+16
+00:01:46.950 --> 00:01:57.320
+Argonaut Software'in kurucusu Jez San, programlamaya ergenlik yaşlarında başlamış, şirketini 1982'de, henüz 16 yaşındayken kurmuştu.
+
+17
+00:01:57.320 --> 00:02:04.170
+Argonaut, sekizinci on yılın ortalarında ev bilgisayarlarında üç boyutlu grafiklerle adını duyurmuştu.
+
+18
+00:02:04.170 --> 00:02:17.420
+1986'da çıkan uzay oyunu Starglider, o dönemin makinelerinde dolgu çizimli değil tel kafes çizgilerle kurulmuş bir üç boyutlu dünyada uçma hissi veriyordu ve büyük ilgi görmüştü.
+
+19
+00:02:17.420 --> 00:02:22.990
+Argonaut'un uzmanlığı da buydu: çok kısıtlı donanımdan üç boyut çıkarmak.
+
+20
+00:02:22.990 --> 00:02:28.080
+Game Boy ise bu iş için hayal edilebilecek en zor makinelerden biriydi.
+
+21
+00:02:28.080 --> 00:02:34.130
+Dört tonlu yeşilimsi bir ekranı, mütevazı bir işlemcisi ve kısıtlı bir belleği vardı.
+
+22
+00:02:34.130 --> 00:02:39.060
+Daha da önemlisi, Argonaut'un elinde resmî bir geliştirme kiti yoktu.
+
+23
+00:02:39.060 --> 00:02:45.590
+Nintendo bu kitleri seçtiği firmalara veriyordu ve Londra'daki bu küçük stüdyo o listede değildi.
+
+24
+00:02:45.590 --> 00:02:49.400
+Ekip bu yüzden makineyi kendi başına çözmeye girişti.
+
+25
+00:02:49.400 --> 00:02:57.690
+Donanımı adım adım inceleyip neyin nasıl çalıştığını tersine mühendislikle buldular, kendi araçlarını kendileri yazdılar.
+
+26
+00:02:57.690 --> 00:03:04.380
+Bu kazının ortasında logo meselesine de takıldılar ve şaşırtıcı derecede basit bir çözüm buldular.
+
+27
+00:03:04.380 --> 00:03:14.590
+Jez San'ın yıllar sonra anlattığına göre başlangıç programı, logoyu ekrana çizmek için kartuştan bir kez okuyor, doğrulamak için bir kez daha okuyordu.
+
+28
+00:03:14.590 --> 00:03:23.360
+Argonaut'un mühendisleri kartuş devresine bir direnç ve bir kondansatör ekleyerek bu iki okumanın farklı sonuç vermesini sağladılar.
+
+29
+00:03:23.360 --> 00:03:31.650
+Böylece ekrana istedikleri herhangi bir kelime inebiliyor, makine yine de doğru logoyu okuduğuna inanıp oyunu başlatıyordu.
+
+30
+00:03:31.650 --> 00:03:37.060
+San'ın aktardığına göre bu düzeneğin malzeme maliyeti aşağı yukarı 1 sentti.
+
+31
+00:03:37.060 --> 00:03:44.870
+Dünyanın en güçlü oyun şirketlerinden birinin hem teknik hem hukuki kalkanı, bir sentlik iki parçayla aşılmıştı.
+
+32
+00:03:44.870 --> 00:03:47.880
+Bu noktada hikâye iki yöne gidebilirdi.
+
+33
+00:03:47.880 --> 00:03:55.210
+Argonaut bu açığı sessizce kullanıp lisanssız kartuş satabilir ya da yöntemi başka firmalara pazarlayabilirdi.
+
+34
+00:03:55.210 --> 00:04:00.300
+Nintendo da çoğu büyük şirketin yapacağı gibi avukatlarını devreye sokabilirdi.
+
+35
+00:04:00.300 --> 00:04:01.870
+İkisi de olmadı.
+
+36
+00:04:01.870 --> 00:04:12.880
+Argonaut'un geliştirdiği Game Boy demosu, ekranda logo yerine kendi yazısını indirerek açılıyor ve ardından o küçük ekranda dönen üç boyutlu nesneler gösteriyordu.
+
+37
+00:04:12.880 --> 00:04:15.570
+Demo Nintendo'nun dikkatini çekti.
+
+38
+00:04:15.570 --> 00:04:22.900
+Jez San'ın anlatımına göre şirket, yöntemi Nintendo'yla paylaştı ki Nintendo donanımda bu açığı kapatabilsin.
+
+39
+00:04:22.900 --> 00:04:27.510
+Kilidi kıran ekip, anahtarı kilidin sahibine geri vermişti.
+
+40
+00:04:27.510 --> 00:04:31.160
+Bu jestin bedeli bir dava değil, bir davet oldu.
+
+41
+00:04:31.160 --> 00:04:41.210
+Nintendo, kendi makinesini resmî kit olmadan söküp anlamış ve üstüne o makinede üç boyutlu grafik çalıştırmış bu Londralı ekiple çalışmak istedi.
+
+42
+00:04:41.210 --> 00:04:48.380
+Argonaut'taki genç programcılardan Dylan Cuthbert, Game Boy için bir üç boyut motoru yazmakla görevlendirilmişti.
+
+43
+00:04:48.380 --> 00:04:57.310
+Bu çalışma, 1992'de yalnızca Japonya'da Nintendo tarafından yayımlanan, adı tek bir harften oluşan X oyununa dönüştü.
+
+44
+00:04:57.310 --> 00:05:03.040
+Tel kafes araçlarla dolu bu oyun, Game Boy'un yapabileceği sanılanın çok ötesindeydi.
+
+45
+00:05:03.040 --> 00:05:10.850
+Ama Nintendo'yla Argonaut arasındaki asıl mesele bu küçük ekranda değil, yeni gelen büyük konsolda çözülecekti.
+
+46
+00:05:10.850 --> 00:05:19.940
+1990'da Japonya'da piyasaya çıkan Super Famicom, Batı'daki adıyla Super Nintendo, iki boyutlu oyunlar için olağanüstü bir makineydi.
+
+47
+00:05:19.940 --> 00:05:30.470
+Renkli katmanlı arka planları ustaca kaydırabiliyor, tek bir resmi döndürüp büyüterek zemine derinlik hissi veren meşhur Mode 7 efektini üretebiliyordu.
+
+48
+00:05:30.470 --> 00:05:39.880
+Ama gerçek üç boyut, yani çokgenlerden kurulmuş, her yöne dönebilen nesneler söz konusu olduğunda makinenin ana işlemcisi yetersiz kalıyordu.
+
+49
+00:05:39.880 --> 00:05:48.010
+Saniyede 3.58 milyon döngüyle çalışan bu işlemci, çokgen hesaplarının ağır matematiğini taşıyacak güçte değildi.
+
+50
+00:05:48.010 --> 00:05:50.700
+Argonaut bunu bizzat denedi.
+
+51
+00:05:50.700 --> 00:05:57.710
+Ekip, Starglider'ı Super Nintendo'ya taşıyan bir deneme hazırladı ve sonuç ağır, takılan bir görüntü oldu.
+
+52
+00:05:57.710 --> 00:06:08.560
+Jez San'ın vardığı sonuç cesurdu: Makinenin içindeki işlemci bu işi yapamıyorsa, işi yapacak ikinci bir işlemciyi oyunun kartuşunun içine koymak gerekirdi.
+
+53
+00:06:08.560 --> 00:06:14.450
+Konsol değişmeyecek, ama her kartuş kendi yardımcı beynini yanında getirecekti.
+
+54
+00:06:14.450 --> 00:06:19.220
+Fikir kâğıt üzerinde basit, uygulamada zorlu bir mühendislik işiydi.
+
+55
+00:06:19.220 --> 00:06:29.270
+Argonaut'un donanım ekibi, çokgen çizimine ve üç boyut matematiğine özel olarak biçilmiş, sade komut kümesiyle hızlı çalışan bir işlemci tasarladı.
+
+56
+00:06:29.270 --> 00:06:33.400
+Çipin ilk adı bile Nintendo'ya göz kırpıyordu: MARIO.
+
+57
+00:06:33.400 --> 00:06:42.330
+Bu, İngilizcede matematik, Argonaut, döndürme ve giriş çıkış anlamına gelen kelimelerin baş harflerinden oluşan bir kısaltmaydı.
+
+58
+00:06:42.330 --> 00:06:45.980
+Çip piyasaya Super FX adıyla çıkacaktı.
+
+59
+00:06:45.980 --> 00:07:00.830
+Super FX'in işi şuydu: Oyun dünyasındaki her nesnenin köşe noktalarını hesaplamak, bu noktaları perspektife göre ekrana yansıtmak, aradaki yüzeyleri doldurmak ve ortaya çıkan görüntüyü kartuştaki ayrı bir belleğe çizmek.
+
+60
+00:07:00.830 --> 00:07:04.960
+Super Nintendo bu hazır görüntüyü alıp ekrana basıyordu.
+
+61
+00:07:04.960 --> 00:07:12.770
+Yani konsol, aslında kendi başına üretemeyeceği bir resmi, kartuşun içinde saklanan bu küçük ressamdan teslim alıyordu.
+
+62
+00:07:12.770 --> 00:07:17.060
+Anlaşmanın pazarlık masası da en az çip kadar ilginçti.
+
+63
+00:07:17.060 --> 00:07:29.830
+Jez San yıllar sonraki bir söyleşisinde, Nintendo'nun bu iş için ne kadar istediğini sorduğu anı anlatır: Aklına gelen en büyük rakamı düşünmüş, bu 1 milyon dolarmış, sonra onu ikiye katlayıp söylemiş.
+
+64
+00:07:29.830 --> 00:07:32.360
+Nintendo kabul etmiş.
+
+65
+00:07:32.360 --> 00:07:38.890
+San'ın gülerek aktardığı bu sahne, iki tarafın o gün neyin değerini ne kadar bildiğini de gösteriyor.
+
+66
+00:07:38.890 --> 00:07:46.060
+Nintendo, kendi mühendislerinin henüz hazır olmadığı bir alanda dışarıdan hazır bir anahtar satın alıyordu.
+
+67
+00:07:46.060 --> 00:07:51.470
+Bu çipin üzerinde çalışacak oyunu Nintendo ile Argonaut birlikte geliştirdi.
+
+68
+00:07:51.470 --> 00:07:57.200
+Shigeru Miyamoto yapımcı olarak başındaydı, Katsuya Eguchi yönetmenliği üstlendi.
+
+69
+00:07:57.200 --> 00:08:05.170
+Argonaut'tan Dylan Cuthbert ve Giles Goddard gibi genç programcılar Kyoto'ya giderek Nintendo'nun ekibiyle yan yana çalıştı.
+
+70
+00:08:05.170 --> 00:08:08.660
+İki ayrı dünyanın buluşmasıydı bu.
+
+71
+00:08:08.660 --> 00:08:15.990
+Bir yanda üç boyut matematiğini parmaklarının ucunda bilen ama oyun tasarımına teknik bir gözle bakan İngilizler,
+
+72
+00:08:15.990 --> 00:08:23.800
+öte yanda dünyanın en iyi oyun tasarımcıları arasında sayılan ama çokgenlerle henüz çalışmamış bir Japon ekip vardı.
+
+73
+00:08:23.800 --> 00:08:26.490
+Ortaya çıkan oyun Star Fox'tu.
+
+74
+00:08:26.490 --> 00:08:37.500
+Oyuncu, uzay gemisi Arwing'in kokpitinde, tilki Fox McCloud olarak Corneria gezegeninden yola çıkıp kötü bilim insanı Andross'un ordularına karşı savaşıyordu.
+
+75
+00:08:37.500 --> 00:08:42.750
+Miyamoto ve ekibi, çipin sınırlarını bir oyun tasarımı kararına dönüştürdü.
+
+76
+00:08:42.750 --> 00:08:52.000
+Açık bir dünyada serbestçe gezinmek yerine, gemi önceden belirlenmiş bir rotada ilerliyor, oyuncu bu koridor içinde sağa sola kaçıp ateş ediyordu.
+
+77
+00:08:52.000 --> 00:08:58.050
+Bu yapı, çipin her karede ekrana ne kadar şey çizmesi gerekeceğini kontrol altında tutuyordu.
+
+78
+00:08:58.050 --> 00:09:10.180
+Oyunun dünyasındaki hayvan karakterlerin ilhamı da, Kyoto'daki Fushimi İnari tapınağının tilki heykellerinden ve oradaki kırmızı kapı dizilerinin bir uçuş koridorunu çağrıştırmasından geliyordu.
+
+79
+00:09:10.180 --> 00:09:15.270
+Star Fox, 21 Şubat 1993'te Japonya'da çıktı.
+
+80
+00:09:15.270 --> 00:09:21.480
+Avrupa'da, başka bir firmanın tescilli markasıyla çakışmamak için Starwing adıyla satıldı.
+
+81
+00:09:21.480 --> 00:09:29.930
+Bugünün gözüyle bakıldığında görüntü kaba, kare hızı düşüktü; gemiler ve binalar birkaç düzine düz renkli yüzeyden ibaretti.
+
+82
+00:09:29.930 --> 00:09:41.580
+Ama 1993'te bir ev konsolunda kokpitten bakarak dönen, uzaklaşan, büyüyen üç boyutlu nesneler görmek pek çok oyuncu için ilk kez yaşanan bir deneyimdi.
+
+83
+00:09:41.580 --> 00:09:52.110
+Oyun dünya çapında 4 milyondan fazla sattı ve kutusunun üzerindeki Super FX ibaresi, kartuşun içinde ayrı bir çip taşındığını bir satış argümanına çevirdi.
+
+84
+00:09:52.110 --> 00:09:55.760
+Super FX, Star Fox'la sınırlı kalmadı.
+
+85
+00:09:55.760 --> 00:10:01.490
+Argonaut'un da katkı verdiği yarış oyunu Stunt Race FX aynı çipi kullandı.
+
+86
+00:10:01.490 --> 00:10:14.580
+Çipin daha gelişmiş ikinci sürümü Super FX 2, 1995'te çıkan Yoshi's Island'da üç boyut için değil, iki boyutlu dünyada sprite'ları döndürüp esnetmek için devreye girdi.
+
+87
+00:10:14.580 --> 00:10:19.510
+Aynı ikinci sürüm, Doom'un Super Nintendo uyarlamasını da mümkün kıldı.
+
+88
+00:10:19.510 --> 00:10:26.680
+Argonaut, çipin üzerinde çalışan daha iddialı bir devam oyunu olan Star Fox 2 için de Nintendo'yla çalıştı.
+
+89
+00:10:26.680 --> 00:10:39.610
+Oyun neredeyse tamamlandığı halde, yeni nesil konsolların yaklaştığı bir dönemde rafa kaldırıldı ve ancak 2017'de, Nintendo'nun küçültülmüş Super Nintendo Classic konsolunun içinde gün ışığına çıktı.
+
+90
+00:10:39.610 --> 00:10:46.460
+Kartuşun içindeki o küçük ikinci işlemci, Nintendo'ya üç boyutun ne olduğunu kendi mutfağında öğretmişti.
+
+91
+00:10:46.460 --> 00:10:53.150
+Ama tam da bu öğrenme, Argonaut'un Nintendo için vazgeçilmez olduğu dönemin sonunu yaklaştırıyordu.
+
+92
+00:10:53.150 --> 00:11:02.080
+Nintendo'nun bir sonraki konsolu Nintendo 64, üç boyutu artık bir kartuş eklentisi olarak değil, makinenin kalbinde taşıyacaktı.
+
+93
+00:11:02.080 --> 00:11:06.690
+Kartuşa yardımcı işlemci koyma ihtiyacı ortadan kalkıyordu.
+
+94
+00:11:06.690 --> 00:11:13.220
+Nintendo'nun kendi ekipleri de Star Fox yıllarında çokgenlerle çalışmanın inceliklerini öğrenmişti.
+
+95
+00:11:13.220 --> 00:11:20.070
+Argonaut ise bu yeni dönemde ortaklığını sürdürmenin yolunu, kendi hazırladığı bir oyun fikriyle aradı.
+
+96
+00:11:20.070 --> 00:11:28.200
+Fikir, Mario'nun sadık yeşil dinozoru Yoshi'nin başrolde olduğu, serbestçe dolaşılabilen üç boyutlu bir platform oyunuydu.
+
+97
+00:11:28.200 --> 00:11:32.330
+Argonaut bir prototip hazırladı ve Nintendo'ya sundu.
+
+98
+00:11:32.330 --> 00:11:34.540
+Yanıt olumsuz oldu.
+
+99
+00:11:34.540 --> 00:11:44.590
+Jez San'ın sonradan anlattığına göre Nintendo o güne kadar kendi karakterlerini dışarıdan bir şirketin eline hiç vermemişti ve bu kez de vermeyecekti.
+
+100
+00:11:44.590 --> 00:11:54.000
+Kısa süre sonra Nintendo, kendi ilk büyük üç boyutlu platform oyunu Super Mario 64'ü 1996'da piyasaya sürdü.
+
+101
+00:11:54.000 --> 00:12:01.970
+San, yıllar içinde verdiği söyleşilerde kendi prototiplerinin Super Mario 64'e benzediğini ileri sürmüştür.
+
+102
+00:12:01.970 --> 00:12:07.060
+Bu, doğrulanmış bir olgu değil, San'ın kendi değerlendirmesidir.
+
+103
+00:12:07.060 --> 00:12:17.430
+Nintendo'nun oyunu kendi yolculuğunun ürünüydü ve iki oyunun benzerliği, aynı dönemde aynı soruya kafa yoran ekiplerin benzer cevaplara varmasıyla da açıklanabilir.
+
+104
+00:12:17.430 --> 00:12:59.140
+Yoshi'siz kalan prototip çöpe gitmedi. Argonaut, oyunu kendi karakteriyle yeniden kurdu: Yeşil dinozor gitti, yerine sevimli, iri gözlü küçük bir timsah geldi. Adı Croc'tu. Gobbo adlı tüylü küçük yaratıkları kurtarmaya çalışan bu timsah, 1997'de Fox Interactive'in yayıncılığıyla, bu kez Nintendo'nun değil, Sony'nin PlayStation'ının ve kişisel bilgisayarların ekranlarına çıktı. Croc büyük bir ticari başarı oldu; PlayStation'da 3 milyondan fazla sattı ve bir devam oyununa da ulaştı. Argonaut'un en çok satan kendi markası, Nintendo'nun reddettiği bir fikrin küllerinden doğmuştu.
+
+105
+00:12:59.140 --> 00:13:02.310
+Ama bu başarı şirketin yönünü de belirledi.
+
+106
+00:13:02.310 --> 00:13:11.560
+Argonaut, artık bir donanım ortağı değil, başka şirketlerin siparişlerine ve lisanslı markalara iş yapan büyük bir geliştirme stüdyosuydu.
+
+107
+00:13:11.560 --> 00:13:20.330
+2000'lerin başında film ve oyuncak markalarına dayanan oyunlar üretti; bunlardan biri, PlayStation için yapılan ilk Harry Potter oyunuydu.
+
+108
+00:13:20.330 --> 00:13:25.260
+Şirket büyüdü, birden çok stüdyoya yayıldı, borsaya açıldı.
+
+109
+00:13:25.260 --> 00:13:29.550
+Fakat bu yapı, sektördeki her dalgalanmaya karşı kırılgandı.
+
+110
+00:13:29.550 --> 00:13:38.000
+Bir yayıncının sözleşmeyi iptal etmesi ya da ertelemesi, yüzlerce maaşı ödeyen nakit akışını bir anda kesebiliyordu.
+
+111
+00:13:38.000 --> 00:13:41.010
+2004'te tam olarak bu oldu.
+
+112
+00:13:41.010 --> 00:13:51.540
+Peş peşe gelen proje kayıpları ve finansman sıkıntısı karşısında Argonaut, Ekim 2004'te kayyuma devredildi, çalışanların büyük kısmı işsiz kaldı.
+
+113
+00:13:51.540 --> 00:13:59.030
+Bir zamanlar Nintendo'nun kilidini bir sentlik parçalarla açan şirket, kendi hesap defterinin kilidini açamamıştı.
+
+114
+00:13:59.030 --> 00:14:03.640
+Yine de Argonaut'un hikâyesi, şirketin kapanmasıyla bitmiyor.
+
+115
+00:14:03.640 --> 00:14:08.410
+Belki en şaşırtıcı mirası, oyun dünyasının çok dışında kaldı.
+
+116
+00:14:08.410 --> 00:14:16.860
+Super FX'i tasarlayan donanım birikimi, şirketin içinde ayrı bir koldan büyüyerek genel amaçlı bir işlemci tasarımına dönüştü.
+
+117
+00:14:16.860 --> 00:14:22.110
+Argonaut RISC Core, kısaltmasıyla ARC adını taşıyan bu tasarım,
+
+118
+00:14:22.110 --> 00:14:32.480
+ARC International adıyla bağımsız bir şirket olarak ayrıldı ve başka firmaların kendi çiplerine yerleştirebileceği bir işlemci çekirdeği olarak lisanslanmaya başladı.
+
+119
+00:14:32.480 --> 00:14:40.770
+Bu soy, el değiştire değiştire bugün de sürüyor ve sayısız elektronik cihazın içinde, adı hiç anılmadan çalışıyor.
+
+120
+00:14:40.770 --> 00:14:49.380
+Star Fox'un kartuşunda saklanan o küçük ressamın torunları, şimdi oyunla hiç ilgisi olmayan makinelerin derinlerinde iş görüyor.
+
+121
+00:14:49.380 --> 00:14:52.870
+İnsan mirası da en az bu kadar kalıcı oldu.
+
+122
+00:14:52.870 --> 00:14:57.960
+Star Fox için Kyoto'ya giden genç programcılar oradan tamamen kopmadı.
+
+123
+00:14:57.960 --> 00:15:09.770
+Giles Goddard, Nintendo'da kalarak Super Mario 64'ün açılışında oyuncunun fareyle çekiştirip yüzünü buruşturabildiği o meşhur Mario kafası demosunun programlanmasında çalıştı.
+
+124
+00:15:09.770 --> 00:15:20.620
+Dylan Cuthbert ise 2001'de Kyoto'da kendi stüdyosu Q-Games'i kurdu ve yıllar sonra Nintendo'yla yeniden, bu kez kendi şirketinin adıyla iş birliği yaptı.
+
+125
+00:15:20.620 --> 00:15:26.670
+Game Boy'u kendi elleriyle söken o kuşak, Japon oyun endüstrisinin kalbine yerleşmişti.
+
+126
+00:15:26.670 --> 00:15:31.600
+Nintendo'nun kendi tarafında ise Star Fox'un bıraktığı iz daha da derindi.
+
+127
+00:15:31.600 --> 00:15:41.330
+Çokgen düşünmeyi, kamerayı oyuncunun arkasına koymayı, üç boyutlu bir alanda oyunu nasıl okunur kılacağını şirket ilk kez bu işbirliğinde deneyimledi.
+
+128
+00:15:41.330 --> 00:15:51.700
+Star Fox serisi Nintendo 64'te ve sonraki konsollarda devam etti, Fox McCloud Nintendo'nun kendi kahramanlarından biri hâline geldi.
+
+129
+00:15:51.700 --> 00:15:57.270
+Ama serinin ilk oyunu, kartuşunun içinde Londra'da tasarlanmış bir çip taşıyordu.
+
+130
+00:15:57.270 --> 00:16:05.080
+Geriye dönüp bakıldığında bu hikâyenin dönüm noktası, ne Star Fox'un çıkış günüdür ne de Argonaut'un kapandığı gün.
+
+131
+00:16:05.080 --> 00:16:12.090
+Asıl dönüm noktası, bir grup gencin ekrana Nintendo yazısı yerine kendi kelimelerini indirdiği o andır.
+
+132
+00:16:12.090 --> 00:16:19.100
+O gün Argonaut'un önünde iki yol vardı: açığı kendi kazancı için saklamak ya da kilidin sahibine götürmek.
+
+133
+00:16:19.100 --> 00:16:20.990
+İkincisini seçtiler.
+
+134
+00:16:20.990 --> 00:16:29.600
+Bu seçim onlara Nintendo'nun kapısını açtı, o kapıdan da bir çip, bir oyun serisi ve bugün hâlâ çalışan bir işlemci soyu çıktı.
+
+135
+00:16:29.600 --> 00:16:33.730
+Kapı yıllar sonra bir dinozor fikriyle yeniden kapandı.
+
+136
+00:16:33.730 --> 00:16:38.500
+Ama içeride bıraktıkları şey, kapı kapandıktan sonra da yerinde kaldı.
+
+137
+00:16:38.500 --> 00:16:41.670
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+138
+00:16:41.670 --> 00:16:44.680
+Yeni bir hikâyede yeniden buluşmak üzere.
