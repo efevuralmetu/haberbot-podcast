@@ -1,0 +1,175 @@
+sira	karakter	saniye	kar_sn	metin
+1	69	4.320	15.97	Right now, somewhere on Earth, the air is not moving sideway
+2	54	3.360	16.07	Nobody arranged this, and no weather system causes it.
+3	22	1.920	11.46	Mathematics forces it.
+4	174	9.440	18.43	Try to comb every hair on a ball flat without leaving a sing
+5	52	3.840	13.54	Elini başının arkasına, tepeye yakın bir yere götür.
+6	168	10.400	16.15	Parmaklarının altında saçların bir merkezin etrafında döndüğ
+7	47	3.680	12.77	Çoğu insanda bir tane bulunur, bazılarında iki.
+8	77	6.080	12.66	O noktada saç teli hiçbir yöne yatmaz, çünkü her yöne aynı a
+9	44	3.040	14.47	Sıradan bir biyolojik tuhaflık gibi görünür.
+10	113	7.040	16.05	Oysa matematikçilere göre bu küçük girdabın arkasında, ne ka
+11	35	2.560	13.67	Bunu bir düşünce deneyiyle görelim.
+12	113	7.200	15.69	Bir tenis topu düşün; ama tüyleri kısa ve keçe gibi değil, u
+13	24	2.560	9.38	Görevin bu topu taramak.
+14	212	13.920	15.23	Kural basit: her tel yüzeye yatırılacak, hiçbir tel dimdik k
+15	40	2.880	13.89	Kâğıt üzerinde ne kadar masum bir istek.
+16	76	5.440	13.97	Yine de dünyadaki hiçbir kuaför, hiçbir makine, hiçbir sabır
+17	116	7.520	15.43	Topun üzerinde en az bir yerde ya bir tel dik kalır, ya da s
+18	178	10.720	16.60	Matematikçilerin şakacı bir adla "saçlı top teoremi" dediği 
+19	58	3.520	16.48	Hemen denemeye başlayalım ve nerede tıkandığımızı görelim.
+20	81	6.240	12.98	En doğal fikir, bütün telleri kuzeyden güneye, boylam çizgil
+21	82	7.200	11.39	Ekvatorda her şey harika görünür; teller paralel, düzgün, bi
+22	119	7.680	15.49	Ama kuzey kutbuna çıktığında sorun belirir: bütün teller ora
+23	72	4.800	15.00	Güney kutbunda da hepsi tek bir noktaya akar, bir lavabonun 
+24	50	3.360	14.88	İki kutupta da bir tel ne yöne yatacağını bilemez.
+25	61	4.640	13.15	Peki telleri doğudan batıya, enlem çizgileri boyunca tarasak
+26	134	7.840	17.09	Bu kez ekvator ve çevresi yine kusursuz, ama kutuplarda saçl
+27	55	3.680	14.95	Tam merkezde ise bir tel ne doğuya ne batıya gidebilir.
+28	53	4.000	13.25	Sorunu bir yerden kovalarsın, başka bir yerden çıkar.
+29	183	11.520	15.89	İki kutuptan birini düzeltirsen bile ikinci bir kusur bir ye
+30	73	4.480	16.29	Bu sonucu matematik diliyle söylemek için tellerin yerine ok
+31	128	7.680	16.67	Kürenin her noktasına yüzeye teğet bir ok yerleştirdiğini dü
+32	37	3.040	12.17	Matematikçiler buna vektör alanı der.
+33	205	12.640	16.22	Teorem şunu söyler: bir kürenin üzerinde sürekli bir teğet v
+34	43	4.320	9.95	Orada ok yoktur; yön yoktur; her şey durur.
+35	54	3.680	14.67	Bu fikrin kökleri on dokuzuncu yüzyılın sonuna uzanır.
+36	213	13.120	16.23	Fransız matematikçi Henri Poincaré, 1880'lerde diferansiyel 
+37	182	11.680	15.58	1912'de Hollandalı matematikçi Luitzen Egbertus Jan Brouwer 
+38	121	8.000	15.12	Bugün teoremin adı çoğu zaman Brouwer'le birlikte anılır, am
+39	92	5.440	16.91	Şimdi başındaki girdaba dürüstçe geri dönmek gerekiyor, çünk
+40	125	8.160	15.32	Kafatasın tam bir küre gibi her yerinden saç çıkaran bir yüz
+41	170	10.080	16.87	Matematik açısından kenarı olan bir yüzey, örneğin düz bir h
+42	129	8.320	15.50	Yani teorem kafandaki girdabı zorunlu kılmıyor; o girdap, sa
+43	182	11.040	16.49	Ama eğer bir gün tüm kafan, yüzün dahil, kesintisiz bir saçl
+44	105	6.400	16.41	Başının arkasındaki kepçe teoremin kendisi değil; ama teorem
+45	48	3.840	12.50	Asıl merak edilmesi gereken soru şu: neden küre?
+46	113	7.200	15.69	Neden yüzey düz bir kâğıt olunca sorun ortadan kalkıyor, ama
+47	77	4.960	15.52	Cevap şaşırtıcı biçimde yüzeyin büyüklüğüyle de, eğriliğiyle
+48	46	3.680	12.50	Cevap, yüzeyde kaç tane delik olduğunda saklı.
+49	34	3.040	11.18	Bir topla bir simidi yan yana koy.
+50	49	2.880	17.01	İkisi de kapalı yüzeyler; ikisinin de kenarı yok.
+51	71	4.800	14.79	Ama aralarında temel bir fark var: simidin ortasında bir del
+52	62	4.320	14.35	Ve bu tek delik, tarama sorununun kaderini tamamen değiştiri
+53	38	3.040	12.50	Bir simidi tüylerle kapladığını düşün.
+54	177	11.040	16.03	Bütün telleri simidin çevresi boyunca, büyük halka yönünde y
+55	30	3.200	9.38	Simit, kusursuzca taranabilir.
+56	29	2.880	10.07	Top taranamaz, simit taranır.
+57	122	7.200	16.94	Aradaki farkı ölçmenin bir yolu var ve bu yolun izi on sekiz
+58	135	8.960	15.07	Euler, 1750'lerde çokyüzlüler üzerinde çalışırken basit bir 
+59	11	1.600	6.88	Bir küp al.
+60	18	2.400	7.50	Köşelerini say: 8.
+61	20	2.400	8.33	Kenarlarını say: 12.
+62	17	2.880	5.90	Yüzlerini say: 6.
+63	74	6.400	11.56	Şimdi köşelerden kenarları çıkar, yüzleri ekle: 8 eksi 12 ar
+64	57	5.600	10.18	Bir piramitle dene: 5 köşe, 8 kenar, 5 yüz; sonuç yine 2.
+65	126	9.440	13.35	Bir futbol topunun dikiş deseniyle, yani beşgen ve altıgenle
+66	55	3.840	14.32	Bu sayı, şekli ne kadar karmaşık bölersen böl değişmez.
+67	102	6.560	15.55	Bir kürenin yüzeyini istediğin kadar küçük üçgenlere ayır, k
+68	56	3.520	15.91	Bu değişmeyen sayıya bugün Euler karakteristiği deniyor.
+69	72	4.640	15.52	Aynı hesabı bir simidin yüzeyine uygularsan bambaşka bir son
+70	117	7.840	14.92	Simidi küçük dörtgenlere ayıran bir ızgara çiz; ne kadar sık
+71	97	6.400	15.16	İki delikli bir yüzey, yani iki delikli bir simit için sonuç
+72	62	5.280	11.74	Kural basit: her yeni delik, Euler karakteristiğini 2 azaltı
+73	43	3.680	11.68	Bu sayı yüzeyin şeklini değil, özünü ölçer.
+74	140	8.480	16.51	Bir küreyi ezip bir yumurtaya, bir küpe ya da bir armuda çev
+75	86	5.280	16.29	Topoloji dediğimiz matematik dalı, tam da bu esnemeyle bozul
+76	48	3.520	13.64	Şimdi bu sayıyla saçlar arasındaki bağı kuralım.
+77	86	5.760	14.93	Bunun için kusurlara, yani okların sıfırlandığı noktalara bi
+78	119	6.880	17.30	Bir durgun noktanın etrafında küçük bir çember çizdiğini ve 
+79	62	4.160	14.90	Çemberi bir kez dolaştığında okların kendisi de kaç tur dönd
+80	35	2.560	13.67	Bu sayıya o noktanın indeksi denir.
+81	142	8.960	15.85	Kuzey kutbundaki fıskiye gibi her yöne dışarı fışkıran bir n
+82	50	3.520	14.20	Lavabo gideri gibi içeri akan nokta da artı 1'dir.
+83	43	2.880	14.93	Başının arkasındaki dönen girdap da artı 1.
+84	47	3.840	12.24	Ama bir başka tür kusur daha var: eyer noktası.
+85	137	7.840	17.47	Saçların iki yönden içeri gelip diğer iki yönden dışarı çıkt
+86	78	5.440	14.34	Bunun etrafında dolaşırken oklar ters yönde bir tur döner; i
+87	22	2.400	9.17	Ve işte konunun kalbi.
+88	174	11.520	15.10	Alman matematikçi Heinz Hopf'un 1926'da genel biçimini kanıt
+89	181	11.040	16.39	Teorem şunu söyler: kapalı bir yüzey üzerindeki herhangi bir
+90	51	3.680	13.86	Hangi akışı seçtiğin, nasıl taradığın önemli değil.
+91	55	4.000	13.75	Toplam, yüzeyin delik sayısıyla önceden belirlenmiştir.
+92	26	2.400	10.83	Küre için bu toplam 2'dir.
+93	15	2.560	5.86	Sıfır değil, 2.
+94	61	4.160	14.66	Eğer hiç kusur olmasaydı toplam sıfır olurdu; bu da imkânsız
+95	63	4.160	15.14	Demek ki küre üzerinde en az bir durgun nokta bulunmak zorun
+96	88	6.080	14.47	Saçlı top teoremi, böylece daha derin bir yasanın özel bir d
+97	96	6.080	15.79	Kuzeyden güneye taradığımızda kutuplarda bulduğumuz fıskiye 
+98	54	4.320	12.50	Enlem boyunca taradığımızda iki girdap, yine toplam 2.
+99	116	7.360	15.76	İki girdabı tek bir noktada birleştirmeyi başarırsan, indeks
+100	80	6.240	12.82	Üç girdap ve bir eyer noktası da olabilir: 1 artı 1 artı 1 e
+101	104	6.560	15.85	Kusurları istediğin gibi doğurabilir, taşıyabilir, birleştir
+102	27	2.720	9.93	Simit için toplam sıfırdır.
+103	154	9.440	16.31	Bu, simidin üzerinde hiç kusur bulunmayan bir akışın matemat
+104	49	3.840	12.76	Delik, kusurun ihtiyaç duyduğu kaçış yolunu açar.
+105	43	3.840	11.20	Simidin kurtuluşu, ortasındaki boşluktadır.
+106	75	4.640	16.16	Bu fikir boyutlar arasında da gezinir ve orada da tuhaf bir 
+107	114	8.160	13.97	Bir çember, yani tek boyutlu bir küre düşün: üzerindeki bütü
+108	19	2.400	7.92	Çember taranabilir.
+109	49	3.840	12.76	İki boyutlu küre, yani bildiğimiz top, taranamaz.
+110	207	13.120	15.78	Brouwer'in genellemesinin vardığı yer şudur: boyutu çift say
+111	30	2.240	13.39	kusursuz bir tarama mümkündür.
+112	71	4.800	14.79	Topun inatçılığı, onun ait olduğu çift boyutlu ailenin ortak
+113	85	5.600	15.18	Buraya kadar her şey saçlar, toplar ve simitler hakkında mas
+114	35	3.040	11.51	Ama gezegenimiz de kabaca bir küre.
+115	66	5.440	12.13	Ve yüzeyinde, saç telleri yerine sürekli akan bir şey var: r
+116	76	4.800	15.83	Dünya'nın yüzeyinde esen rüzgârı her noktada bir okla temsil
+117	48	4.480	10.71	Okun yönü rüzgârın estiği yön, uzunluğu da hızı.
+118	159	9.920	16.03	Hava, büyük ölçekte sürekli bir akışkan gibi davranır; bir n
+119	182	10.720	16.98	Bu durumda saçlı top teoremi gezegene doğrudan bir hüküm ver
+120	63	4.800	13.12	Bir yerlerde hava, yer yüzeyine paralel düzlemde, kıpırdamıy
+121	58	5.280	10.98	Bu bir hava durumu tahmini değil; bir matematik kesinliği.
+122	44	3.200	13.75	Burada bir sınırı dürüstçe çizmek gerekiyor.
+123	149	10.080	14.78	Gerçek atmosferde hava yalnızca yatay değil, aşağı ve yukarı
+124	58	4.480	12.95	O durgun noktada hava yükseliyor ya da alçalıyor olabilir.
+125	82	5.440	15.07	Ayrıca teorem bu noktanın nerede olacağını söylemez, yalnızc
+126	144	8.960	16.07	Yine de bu kadarı bile şaşırtıcıdır: gezegenin bütün rüzgâr 
+127	104	7.200	14.44	Daha da güzeli, Poincaré-Hopf teoreminin indeks hesabı hava 
+128	108	6.880	15.70	Bir alçak basınç merkezinin, yani bir siklonun etrafında rüz
+129	113	7.200	15.69	Bir yüksek basınç merkezinin, yani bir antisiklonun etrafınd
+130	192	12.000	16.00	İki alçak ve iki yüksek basınç merkezi arasında kalan, meteo
+131	207	12.480	16.59	Teorem, yüzey rüzgârlarını iyi tanımlanmış bir akış olarak e
+132	18	1.920	9.38	sonuç 2 olmalıdır.
+133	100	7.040	14.20	Hava haritasında onlarca girdap ve onlarca eyer belirip kayb
+134	40	3.520	11.36	Ama hesap her an sessizce dengede kalır.
+135	86	5.280	16.29	Bir girdap doğduğunda ya bir eyer de doğar, ya da başka bir 
+136	90	5.760	15.62	Bu, atmosfer fizikçilerinin akışları sınıflandırırken kullan
+137	55	3.520	15.62	Bir kasırganın gözü bu fikrin en dramatik görüntüsüdür.
+138	123	9.280	13.25	Saatte 200 kilometreyi aşan rüzgârların çevrelediği merkezde
+139	112	7.200	15.56	Bu sükûnetin fiziksel nedenleri karmaşıktır; merkezkaç etkil
+140	96	6.080	15.79	Matematik ise daha yalın bir şey söyler: dönen bir girdabın 
+141	55	4.480	12.28	Kasırganın gözü, gökyüzüne çizilmiş bir saç girdabıdır.
+142	133	8.000	16.62	Şimdi bakışımızı gökyüzünden yeryüzündeki en iddialı mühendi
+143	115	7.520	15.29	Nükleer füzyon, hafif atom çekirdeklerini birleştirerek muaz
+144	89	5.440	16.36	Bunu Dünya'da yapmak için hidrojen yakıtını 100 milyon derec
+145	106	7.360	14.40	Bu sıcaklıkta madde, elektronları çekirdeklerinden kopmuş, e
+146	54	3.680	14.67	Hiçbir malzeme böyle bir plazmaya dokunarak dayanamaz.
+147	157	9.120	17.21	Tek çare onu manyetik alanla havada tutmaktır, çünkü yüklü p
+148	54	4.160	12.98	Plazmayı tutacak manyetik kabı nasıl şekillendirirsin?
+149	73	5.760	12.67	İlk akla gelen biçim belki bir küredir: her yönden eşit, sim
+150	141	8.960	15.74	Ama manyetik alan çizgilerinin kapalı bir yüzey üzerinde, yü
+151	160	10.240	15.62	Bir küre üzerinde, alan çizgilerinin her yerde sıfırdan fark
+152	139	8.640	16.09	Simit biçimi ise bu engeli ortadan kaldırır, çünkü Euler kar
+153	201	12.800	15.70	Füzyon araştırmalarının en yaygın makinesi olan tokamakın, 1
+154	39	2.880	13.54	işin en temelindeki şartlardan biridir.
+155	148	10.240	14.45	Tokamaklarda alan çizgileri simidin hem uzun çevresi boyunca
+156	175	11.040	15.85	Fransa'nın güneyinde, Cadarache'ta otuzdan fazla ülkenin ort
+157	126	8.320	15.14	Rakip tasarım olan stellaratör ise simidi bükülmüş, kıvrılmı
+158	56	3.680	15.22	Kusursuz bir manyetik kabın, bir delik taşıması gerekir.
+159	54	4.160	12.98	Teoremin izleri gündelik teknolojide de karşına çıkar.
+160	187	10.880	17.19	Bilgisayar grafiklerinde bir karakterin saçını, bir hayvanın
+161	177	11.680	15.15	Animatörler bu kusurlardan kaçamayacaklarını bilirler; yapab
+162	84	5.280	15.91	Küresel yüzeyleri ızgaraya bölen hesaplama yöntemlerinde de 
+163	149	8.320	17.91	Hava tahmin modellerinde kullanılan klasik enlem-boylam ızga
+164	112	6.880	16.28	bu yüzden bazı modern modeller küreyi altıgenlere ya da şişi
+165	64	4.640	13.79	Kusur yine oradadır, ama artık zararsız noktalara dağıtılmış
+166	91	5.600	16.25	Matematiğin dayattığı bir kusurdan kurtulamazsın; ancak onu 
+167	64	4.160	15.38	Belki de saçlı top teoreminin bize öğrettiği en derin şey bu
+168	190	11.520	16.49	Bir yüzeyin üzerinde neyin mümkün, neyin imkânsız olduğu, o 
+169	177	10.400	17.02	Bir küpü sayan Euler'in 2'si, başının arkasındaki girdaptan 
+170	45	3.360	13.39	Şu anda gezegenin bir yerinde rüzgâr duruyor.
+171	33	2.560	12.89	Nerede olduğunu kimse söyleyemez.
+172	43	4.000	10.75	Ama orada olduğunu, kesin olarak biliyoruz.
+173	47	3.200	14.69	Nöron Science'de bugünkü bölümün sonuna geldik.
+174	41	3.040	13.49	Yeni bir hikâyede yeniden buluşmak üzere.
