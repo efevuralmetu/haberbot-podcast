@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-28.mp3
+
+beklenen 2557 kelime | duyulan 2589 kelime | eşleşme %95.3
+sayı ifadesi: metinde 443, duyulanda 298  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...mparatorluğu nun silezya sınırında
+      metin  : hayntsendorf
+      duyulan: haintsendorf
+  REPLACE  ...köyde çocuk doğdu adını
+      metin  : yohan
+      duyulan: johan
+  REPLACE  ...babası anton ve annesi
+      metin  : rozine
+      duyulan: rosine
+  REPLACE  ...ve dayanıklı sırta bağlıydı
+      metin  : yohan
+      duyulan: johan
+  REPLACE  ...üstelik para da isteyecekti
+      metin  : yohan
+      duyulan: johan
+  REPLACE  ...da isteyecekti yohan önce
+      metin  : laypnik
+      duyulan: leipnick
+  REPLACE  ...laypnik kasabasındaki okula sonra
+      metin  : troppau
+      duyulan: tropau
+  INSERT   ...ders vererek geçinmeye çalıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geliri iyice azaldı genç
+      metin  : yohan
+      duyulan: johan
+  REPLACE  ...ortaya çıkacaktı liseden sonra
+      metin  : olmüts
+      duyulan: olmütz
+  REPLACE  ...kez kız kardeşi terezya
+      metin  : çeyizinin
+      duyulan: çeyzi nin
+  REPLACE  ...eğitim masraflarını kendisi karşıladı
+      metin  : olmüts
+      duyulan: olmütz
+  REPLACE  ...olmüts deki fizik hocası
+      metin  : fridrih frants
+      duyulan: friedrich franz
+  REPLACE  ...gerçekçi yolu görüyordu manastır
+      metin  : brün
+      duyulan: rün
+  REPLACE  ...brün kentindeki yani bugünkü
+      metin  : brno
+      duyulan: biyerno
+  REPLACE  ...yani bugünkü brno daki
+      metin  : augustinci
+      duyulan: agustince
+  REPLACE  ...brno daki augustinci aziz
+      metin  : tomas
+      duyulan: thomas
+  REPLACE  ...sıradan manastır değildi başrahip
+      metin  : siril nap
+      duyulan: cyril knapp
+  REPLACE  ...botanikle astronomiyle felsefeyle uğraşıyordu
+      metin  : nap
+      duyulan: knapp
+  REPLACE  ...yetiştiriciliği çevreleriyle yakından ilgileniyordu
+      metin  : frants nap
+      duyulan: franz knapp
+  REPLACE  ...öğrenci olarak tanıttı sonbaharında
+      metin  : yohan
+      duyulan: johann
+  INSERT   ...bağcılık derslerine de katıldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ki kendisi hastalanıyordu başrahip
+      metin  : nap
+      duyulan: knapp
+  REPLACE  ...başında işe yarayacağını gördü
+      metin  : tsnaym
+      duyulan: da tesnaim
+  INSERT   ...öğretmenlik sınavını geçmesi gerekiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...öğretmenliği sınavına girdi sınav
+      metin  : viyana
+      duyulan: viana
+  REPLACE  ...zooloji kısımlarında işler bozuldu
+      metin  : kendi
+      duyulan: kurul
+  INSERT   ...yine devreye girdi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...girdi ve mendel i
+      metin  : viyana
+      duyulan: viana
+  REPLACE  ...en iyi bilim insanlarının
+      metin  : amfilerinde
+      duyulan: anfilerinde
+  REPLACE  ...bilim insanlarının amfilerinde oturuyordu
+      metin  : viyana
+      duyulan: viana
+  REPLACE  ...dalgalarındaki frekans kaymasıyla anılan
+      metin  : kristiyan dopler
+      duyulan: christian doppler
+  REPLACE  ...yardımcı olarak da çalıştı
+      metin  : dopler
+      duyulan: doppler
+  REPLACE  ...deneyle sınanabileceğini gördü andreas
+      metin  : fon etingshauzen
+      duyulan: von ettinghausen
+  REPLACE  ...görünüyordu önemli isim botanikçi
+      metin  : frants
+      duyulan: franz
+  REPLACE  ...gözlemleri sayıya dökmemişti mendel
+      metin  : brün e
+      duyulan: te brüne
+  REPLACE  ...kentteki teknik liseye yani
+      metin  : oberrealşule
+      duyulan: oberia şule
+  REPLACE  ...ve doğa tarihi okutuyordu
+      metin  : öğrencileri
+      duyulan: öğlencileri
+  INSERT   ...ve esprili olarak hatırladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kez girdi bu kez
+      metin  : viyana üniversitesi nde
+      duyulan: vienna üniversitesinde
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 107
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: biyografi-2026-10-28.duyulan.txt

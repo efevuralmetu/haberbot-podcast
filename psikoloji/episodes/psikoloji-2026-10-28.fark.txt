@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-28.mp3
+
+beklenen 1398 kelime | duyulan 1405 kelime | eşleşme %98.2
+sayı ifadesi: metinde 156, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...özünü oluşturuyor fikrin sahibi
+      metin  : katherine
+      duyulan: catherine
+  REPLACE  ...keyif vermeyen işler duruyor
+      metin  : egzersiz
+      duyulan: eksersiz
+  REPLACE  ...julia minson ve kevin
+      metin  : volpp
+      duyulan: wolt
+  REPLACE  ...gerilimli romanlar vardı bunlardan
+      metin  : suzanne
+      duyulan: susan
+  REPLACE  ...vardı bunlardan suzanne collins
+      metin  : in
+      duyulan: ın
+  INSERT   ...fidyesi de antrenman sonuçlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...böyle düzeneğe yani keyifli
+      metin  : içeriğe
+      duyulan: içeriye
+  INSERT   ...para öder miydiniz katılımcıların
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...dayanıyor psikolog david premack
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...geniş ölçekte de sınandı
+      metin  : (yok)
+      duyulan: mikman
+  REPLACE  ...daki büyük spor salonu
+      metin  : zinciriyle
+      duyulan: zinciri ile
+  REPLACE  ...ne bulduğu değil bu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...da türlü başlayamadığınız yazı
+      metin  : işiyle
+      duyulan: işi ile
+  REPLACE  ...ikisinden de şey anlamazsınız
+      metin  : karmaşık
+      duyulan: karmışık
+  INSERT   ...ve bırakmanız kolaylaşır deneyde
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...bırakmanız kolaylaşır deneyde bu
+      metin  : düzeneğe
+      duyulan: düzeneye
+  REPLACE  ...de önemli paketleme gündelik
+      metin  : ertelemeyle
+      duyulan: erteleme ile
+  REPLACE  ...paketleme gündelik ertelemeyle sıradan
+      metin  : isteksizlikle
+      duyulan: isteksizlik ile
+  INSERT   ...de tür akıllıca karar
+      metin  : (yok)
+      duyulan: mikman
+  REPLACE  ...seferinde daha ileriye çekebilir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 24
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-10-28.duyulan.txt

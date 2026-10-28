@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-28.mp3
+
+beklenen 2428 kelime | duyulan 2446 kelime | eşleşme %94.7
+sayı ifadesi: metinde 280, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en çok kez kurgulanmış
+      metin  : en
+      duyulan: diyen
+  INSERT   ...gelecek tasvirlerinden olacaktı hikaye
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...of electric sheep yani
+      metin  : androidler
+      duyulan: androids
+  REPLACE  ...taklitlerini beslediği dünya bu
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...bu romanın kahramanı rick
+      metin  : deckard
+      duyulan: deckhart
+  REPLACE  ...da insan kılığındaki kaçak
+      metin  : androidleri
+      duyulan: androids
+  REPLACE  ...insanı insan yapan ne
+      metin  : romanı
+      duyulan: romamı
+  DELETE   ...film taslağına rastladı burroughs
+      metin  : bu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...burroughs bu taslağı alan
+      metin  : nourse un
+      duyulan: norzen in
+  REPLACE  ...hakları satın alındı ve
+      metin  : androidleri
+      duyulan: androidları
+  REPLACE  ...androidleri avlayan polisleer böylece
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...biyolojide hücer kopyalamayı anlatan
+      metin  : terimden
+      duyulan: filmden
+  INSERT   ...ridley scott oturdu scott
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gelme görsel takıntısı vardı
+      metin  : kadrajdaki
+      duyulan: kadradaki
+  REPLACE  ...kapalı mekan dramasını alıp
+      metin  : çok katmanlı
+      duyulan: yaratmanlı
+  REPLACE  ...kaynakları arasında fransız çizer
+      metin  : möbiyus
+      duyulan: möbius
+  REPLACE  ...için scott endüstriyel tasarımcı
+      metin  : syd mead
+      duyulan: sid meade
+  REPLACE  ...syd mead i çağırdı
+      metin  : mead
+      duyulan: meade
+  REPLACE  ...çizmeye başlayınca filmin görsel
+      metin  : fütüristi
+      duyulan: futüristi
+  REPLACE  ...fütüristi oldu scott ile
+      metin  : mead
+      duyulan: meade
+  REPLACE  ...in ortak fikri kendisine
+      metin  : retrofitting
+      duyulan: retrofiting
+  INSERT   ...eskinin üzerine yamamak diyebiliriz
+      metin  : (yok)
+      duyulan: tiki un
+  REPLACE  ...binaların cephelerine borular havalandırma
+      metin  : kanalları
+      duyulan: panoları
+  REPLACE  ...ışıldayacaktı sokaklar warner bros
+      metin  : stüdyosunun
+      duyulan: duke stüdyosu nun
+  REPLACE  ...kuruldu yıllar boyunca sayısız
+      metin  : gangster
+      duyulan: göster
+  REPLACE  ...çıkaran borular ve sürekli
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...bu sokağı neredeyze hiç
+      metin  : dinmeyen
+      duyulan: dinleyen
+  REPLACE  ...bradbury building yani bradbury
+      metin  : nda
+      duyulan: binasında
+  REPLACE  ...kullanıldı deckard ın evindeki
+      metin  : desenli
+      duyulan: yeni
+  REPLACE  ...efektlerinde çalışmış ışığı ve
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...pozlanan katmanlar halinde çekildi
+      metin  : maketçilerin
+      duyulan: makedçilerin
+  REPLACE  ...köşesinde yıldız savaşları ndaki
+      metin  : millennium
+      duyulan: millenium
+  REPLACE  ...ve işi ekibindeki david
+      metin  : dryer
+      duyulan: dreyer
+  REPLACE  ...peki romanın sahibi bütün
+      metin  : bunlar
+      duyulan: film
+  INSERT   ...sonra ize fikrini değiştirdi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ekranda canlandığını görünce yapımcılara
+      metin  : heyecanlı
+      duyulan: kanlı
+  INSERT   ...bitmiş halini hiç göremedi
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...halini hiç göremedi mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...asıl fırtına başlayacaktı çekimler
+      metin  : mart
+      duyulan: de
+  ... ve 53 fark daha
+
+metinde olup DUYULMAYAN: 87 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: film-2026-10-28.duyulan.txt

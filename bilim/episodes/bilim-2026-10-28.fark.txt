@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-28.mp3
+
+beklenen 2025 kelime | duyulan 2033 kelime | eşleşme %96.4
+sayı ifadesi: metinde 295, duyulanda 273  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...koyalım kürenin her noktasına
+      metin  : teğet
+      duyulan: teyet
+  REPLACE  ...söyler kürenin üzerinde sürekli
+      metin  : teğet
+      duyulan: teyet
+  REPLACE  ...sonuna uzanır fransız matematikçi
+      metin  : anri puankaer seksenlerde
+      duyulan: henri poincaré lerde
+  INSERT   ...içermesi gerektiğini fark etti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fark etti hollandalı matematikçi
+      metin  : löytsen
+      duyulan: leutzen
+  REPLACE  ...hollandalı matematikçi löytsen ehbertus
+      metin  : yan brauver
+      duyulan: jan brouwer
+  REPLACE  ...teoremin adı çoğu zaman
+      metin  : brauver
+      duyulan: brouwer
+  REPLACE  ...ama sezginin ilk kıvılcımı
+      metin  : puankaer
+      duyulan: poincaré
+  INSERT   ...edilmesi gereken soru şu
+      metin  : (yok)
+      duyulan: neden küer
+  REPLACE  ...hiçbir tel dik kalmaz
+      metin  : simit
+      duyulan: simid
+  REPLACE  ...kusursuzca taranabilir top taranamaz
+      metin  : simit
+      duyulan: simid
+  REPLACE  ...i sviçreli matematikçi leonhard
+      metin  : oyler
+      duyulan: euler
+  REPLACE  ...leonhard oyler e uzanıyor
+      metin  : oyler ellilerde çokyüzlüler
+      duyulan: euler lerde çok yüzlüler
+  DELETE   ...köşelerden kenarları çıkar ekle
+      metin  : eksi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yani ve altıgenlerden oluşan
+      metin  : şekille
+      duyulan: şekilde
+  DELETE   ...küçük üçgenleer ayır köşe
+      metin  : eksi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu değişmeyen sayıya bugün
+      metin  : oyler
+      duyulan: oylar
+  DELETE   ...sık çizersen çiz köşe
+      metin  : eksi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ki delikli yani delikli
+      metin  : simit
+      duyulan: simid
+  REPLACE  ...basit her yeni delik
+      metin  : oyler
+      duyulan: oylar
+  REPLACE  ...yırtmadığın ve yapıştırmadığın sürece
+      metin  : oyler
+      duyulan: oylar
+  REPLACE  ...dalı tam da bu
+      metin  : esnemeyle
+      duyulan: esneme ile
+  REPLACE  ...konunun kalbi alman matematikçi
+      metin  : haynts
+      duyulan: heinz
+  INSERT   ...matematikçi haynts hopf un
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...un genel biçimini kanıtladığı
+      metin  : puankaer
+      duyulan: poincaré
+  REPLACE  ...üzerine kurulan sonuç bugün
+      metin  : puankaer
+      duyulan: poincaré
+  REPLACE  ...sonuç her zaman o
+      metin  : oyler
+      duyulan: oylar
+  REPLACE  ...gider her artı toplam
+      metin  : enlem
+      duyulan: enden
+  REPLACE  ...elde edersin girdap ve
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...yani bildiğimiz top taranamaz
+      metin  : brauver
+      duyulan: braver
+  REPLACE  ...kaldıramaz daha da güzeli
+      metin  : puankaer
+      duyulan: poincaré
+  REPLACE  ...rüzgar döner merkez artı
+      metin  : indeksli
+      duyulan: indexli
+  REPLACE  ...yönde ama yine artı
+      metin  : indeksle
+      duyulan: indexli
+  REPLACE  ...merkezi arasında kalan meteorologların
+      metin  : col
+      duyulan: kol
+  REPLACE  ...türkçede kimi zaman basınç
+      metin  : eyeri
+      duyulan: eğeri
+  REPLACE  ...diye anılan bölgeler ize
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...ize eyer noktasıdır ve
+      metin  : indeksleri
+      duyulan: indexleri
+  REPLACE  ...ve antisiklon merkezlerinin sayısından
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...onlarca girdap ve onlarca
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...kalır girdap doğduğunda ya
+      metin  : eyer
+      duyulan: eğer
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: bilim-2026-10-28.duyulan.txt

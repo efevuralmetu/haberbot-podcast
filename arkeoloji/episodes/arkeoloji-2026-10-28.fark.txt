@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-28.mp3
+
+beklenen 2286 kelime | duyulan 2307 kelime | eşleşme %95.6
+sayı ifadesi: metinde 314, duyulanda 243  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...buçuk asırdır ziyaretçiler
+      metin  : pompei
+      duyulan: pompey
+  INSERT   ...son nefesinde çocuğunu kucaklamış
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bitmemiş kimse dağdan korkmuyor
+      metin  : vezüv
+      duyulan: vezuv
+  REPLACE  ...üzüm yetişiyor romalıların dilinde
+      metin  : yanardağ
+      duyulan: yanardağı
+  REPLACE  ...doğru dağın tepesi yarılıyor
+      metin  : körfezin
+      duyulan: körfezi nin
+  REPLACE  ...yakasında misenum daki donanma
+      metin  : üssünde
+      duyulan: üstünde
+  REPLACE  ...yazdığı mektupta gördüklerini anlatacak
+      metin  : gökyüzünde
+      duyulan: gök
+  REPLACE  ...kıyıya geçiyor bu yolculuktan
+      metin  : sağ
+      duyulan: sağa
+  REPLACE  ...almakta zorlanarak hayatını kaybedecek
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...önce herkulaneum u sonra
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...bölgeye yardım gönderiyor ama
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...anlamına gelen sözcükle la
+      metin  : çivita
+      duyulan: civita
+  REPLACE  ...kalanların nasıl okunduğu çünkü
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...iştahıyla başladı yüzyılın başlarında
+      metin  : vezüv ün
+      duyulan: vezuv un
+  INSERT   ...sürede soyluların kulağına gitti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...villa yaptıran avusturyalı prens
+      metin  : delböf
+      duyulan: delboeuf
+  REPLACE  ...çıkardı bulduğu yerin aslında
+      metin  : herkulaneum
+      duyulan: herculaneum
+  INSERT   ...gitti asıl kazılar ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...napoli tahtında oturan genç
+      metin  : burbon
+      duyulan: bourbon
+  REPLACE  ...i spanyol askeri mühendize
+      metin  : roke hoakin
+      duyulan: roque joaquín
+  REPLACE  ...mühendize roke hoakin de
+      metin  : alkubiyerer
+      duyulan: alcubierer
+  REPLACE  ...de alkubiyerer ye verdi
+      metin  : alkubiyerer
+      duyulan: alcubierer
+  REPLACE  ...yöntemi maden ocağını andırıyordu
+      metin  : herkulaneum
+      duyulan: herculaneum
+  REPLACE  ...üzerindeki resmi kesip çıkarıyorlardı
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...şehri anlamak değil kralın
+      metin  : portiçi
+      duyulan: portici
+  REPLACE  ...sarayında kurulan müzeyi doldurmaktı
+      metin  : alkubiyerer
+      duyulan: de alcubierer
+  REPLACE  ...dikkatini kilometer güneydeki la
+      metin  : çivita
+      duyulan: civita
+  INSERT   ...sandılar şehrin kimliği ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...imparator adına kamu arazilerini
+      metin  : pompeiilileer
+      duyulan: pompeylileer
+  REPLACE  ...kazılarda daha sistemli dönem
+      metin  : alkubiyerer nin
+      duyulan: alkubiyerrenin
+  REPLACE  ...i sviçreli mühendis karl
+      metin  : veber
+      duyulan: weber
+  REPLACE  ...karl veber ile geldi
+      metin  : veber
+      duyulan: weber
+  REPLACE  ...başladı alman sanat tarihçisi
+      metin  : vinkelman
+      duyulan: winkelmann
+  REPLACE  ...dikkatini bu şeher çekti
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...vazgeçilmez durağıydı göte geldi
+      metin  : motsart
+      duyulan: mozart
+  REPLACE  ...dünyayı aradı böylece gelindiğinde
+      metin  : pompei
+      duyulan: pompeii
+  INSERT   ...de romantik sahne olmuştu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...i ngiliz yazar edward
+      metin  : bulwer
+      duyulan: bolver
+  REPLACE  ...the last days of
+      metin  : pompei
+      duyulan: pompeii
+  REPLACE  ...days of pompei yani
+      metin  : pompei
+      duyulan: pompeii
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: arkeoloji-2026-10-28.duyulan.txt

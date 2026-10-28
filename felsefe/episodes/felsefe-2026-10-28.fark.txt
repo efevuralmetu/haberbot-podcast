@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-28.mp3
+
+beklenen 2026 kelime | duyulan 2033 kelime | eşleşme %95.0
+sayı ifadesi: metinde 230, duyulanda 205  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...içinde sevinçle birlikte küçük
+      metin  : huzursuzluk da
+      duyulan: huzursuzlukla
+  REPLACE  ...kadar gündelik olması sizi
+      metin  : yanıltmasın
+      duyulan: yanıtmasın
+  REPLACE  ...romalı filozof boğuştu geçen
+      metin  : yüzyılın
+      duyulan: yılın
+  REPLACE  ...sonra yüzyılda roma da
+      metin  : lukiyus
+      duyulan: lucius
+  REPLACE  ...roma da lukiyus anneus
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...seneka adında adam yaşadı
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...sarayda çok yakından gördü
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...yazdı kitaptan oluşan de
+      metin  : benefikiis
+      duyulan: beneficis
+  REPLACE  ...yani i yilikler üzerine
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...imge kurar yunan mitolojisindeki
+      metin  : kharis i
+      duyulan: karisi
+  REPLACE  ...kız heykellerde ve resimlerde
+      metin  : el
+      duyulan: ele
+  REPLACE  ...halka halinde dans eder
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...eder seneka kendinden önceki
+      metin  : stoacı krisippos
+      duyulan: stoğacı chrysippos
+  REPLACE  ...kopması bütün dansı bozar
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...bile yaşamayı sürdürür bu
+      metin  : seneka
+      duyulan: seneca
+  INSERT   ...aradan yaklaşık yıl geçer
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıl geçer fransız sosyolog
+      metin  : marsel mos ese sür lö
+      duyulan: marcel mauss esse sur le
+  REPLACE  ...deneme adlı inceleme yayımlar
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...inceleme yayımlar mos kütüphane
+      metin  : antropoloğuydu
+      duyulan: antropoloydu
+  REPLACE  ...ölçüde ortak yapı buldu
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...iade edilmesi bunların hepsi
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...un zorunluluğunun gündelik halleridir
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...zelanda nın yerli halkı
+      metin  : maorilerden
+      duyulan: mauriler den
+  REPLACE  ...maorilerden aktarılan kavrama takılır
+      metin  : hau maori
+      duyulan: how mauri
+  REPLACE  ...yorumu çok tartıştı ama
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...kadar gerilebileceğini göstermek için
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...mos kuzeybatı amerika daki
+      metin  : kvakiutl
+      duyulan: kavakyutlu
+  REPLACE  ...karşılık veremeyen taraf ezilir
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...armağanı hem zehri karşılıyordu
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...düğüm bedava değildi ama
+      metin  : ticaret de
+      duyulan: ticarette
+  REPLACE  ...borçlu tutarak arada tutan
+      metin  : yapıştırıcıydı
+      duyulan: yapıştırıcı idi
+  REPLACE  ...seneka nın dans eden
+      metin  : halkası ile mos
+      duyulan: halkasıyla mauss
+  DELETE   ...topluluğa bağlar fakat çemberin
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çemberin de karanlık olduğunu
+      metin  : mos
+      duyulan: mauss
+  REPLACE  ...zincier dönüşür yine gündelik
+      metin  : sahneyle
+      duyulan: sahne ile
+  REPLACE  ...an yapılan iyilik ilk
+      metin  : günkünden
+      duyulan: günküünden
+  REPLACE  ...olan deyim var başa
+      metin  : kakmak
+      duyulan: kalkmak
+  REPLACE  ...bile şiddet çağrıştırır çünkü
+      metin  : kakmak
+      duyulan: kalkmak
+  REPLACE  ...şöyle seslenilir sadakalarınızı başa
+      metin  : kakarak
+      duyulan: kalkarak
+  REPLACE  ...gelir yani iyiliği başa
+      metin  : kakmak
+      duyulan: kalkmak
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: felsefe-2026-10-28.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-28.mp3
+
+beklenen 1770 kelime | duyulan 1775 kelime | eşleşme %92.6
+sayı ifadesi: metinde 242, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...duruyor yılının musonunda batı
+      metin  : ghatlar ın
+      duyulan: gatların
+  REPLACE  ...kapısı olmuştu açılansa sonradan
+      metin  : koçi
+      duyulan: koç u
+  REPLACE  ...adı muziris ti yaşlı
+      metin  : plinius
+      duyulan: plinyus
+  REPLACE  ...nın yüzünden doğuya akıyordu
+      metin  : plinius
+      duyulan: plinyus
+  REPLACE  ...her yıl en az
+      metin  : sesters
+      duyulan: ses ders
+  REPLACE  ...da saklanan ve muziris
+      metin  : papirüsü
+      duyulan: papyrus u
+  REPLACE  ...kadar ciddi olduğunu gösterir
+      metin  : hermapollon
+      duyulan: herma pollen
+  REPLACE  ...kumaş ve servet değerinde
+      metin  : gange
+      duyulan: ganje
+  INSERT   ...tahminlerin konusu olarak kaldı
+      metin  : (yok)
+      duyulan: ki den
+  REPLACE  ...kaldı beri kodungallur yakınındaki
+      metin  : pattanam
+      duyulan: patanam
+  DELETE   ...da yılında kudüs teki
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...verir gündüz kandil yakma
+      metin  : tahtırevanla
+      duyulan: tahdrevanla
+  REPLACE  ...branice dualara bile soktukları
+      metin  : şingli
+      duyulan: shingli
+  REPLACE  ...bile soktukları şingli de
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  INSERT   ...de yüzyıllarca yaşadı sonra
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...yüzyılın başında portekizlilerle geldi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...büyük kısmı korumaya alan
+      metin  : koçi racasına
+      duyulan: koçir acısına
+  REPLACE  ...evi oldu bugün kale
+      metin  : koçi
+      duyulan: koç u
+  REPLACE  ...yaygın anlatıya göer bu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...geldi ardından da portekizliler
+      metin  : vasko
+      duyulan: vasco
+  REPLACE  ...da portekizliler vasko da
+      metin  : gama kalikuda
+      duyulan: gamma de kaliku da
+  REPLACE  ...hali ahşap olan aziz
+      metin  : francis
+      duyulan: fransiz
+  REPLACE  ...eski kilize sayılır da
+      metin  : gama
+      duyulan: gamma
+  REPLACE  ...da gama yolculuğunda valilik
+      metin  : unvanıyla
+      duyulan: ünvanıyla
+  REPLACE  ...unvanıyla döndüğü bu şehirde
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...ve bu kiliseye gömüldü
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...yakın yerde saray yaptırdılar
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...hollandalılar portekizlileri şehirden attı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tapınakla neredeyze sırt sırta
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...raca verdi hindu hükümdarın
+      metin  : tapınağıyla
+      duyulan: tapınayla
+  INSERT   ...yalnızca duvar vardı portekizliler
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...verdiler hollanda yönetimi gelince
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olan tüccar ezekiel rahabi
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...başınızı kaldırınca tavandan sarkan
+      metin  : belçika avizelerini
+      duyulan: belçi kavizelerini
+  REPLACE  ...hep aynı şeydir biber
+      metin  : sinagogdan
+      duyulan: sinagoktan
+  REPLACE  ...zencefil zerdeçal kakule ve
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...dua kitapları okunur mutfaklarda
+      metin  : hindistancevizi
+      duyulan: hindistan tv
+  REPLACE  ...söylerdi bu şarkılar kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...şarkılar kuşaktan kuşağa ağızdan
+      metin  : ağıza
+      duyulan: ağza
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 43
+
+duyulan metin: seyahat-2026-10-28.duyulan.txt

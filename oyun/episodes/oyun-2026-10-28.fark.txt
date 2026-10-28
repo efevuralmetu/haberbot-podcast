@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-28.mp3
+
+beklenen 1869 kelime | duyulan 1871 kelime | eşleşme %94.0
+sayı ifadesi: metinde 223, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...barışçıl direnişin simgesi
+      metin  : gandi
+      duyulan: gandhi
+  REPLACE  ...yalan gerçeğin yerini aldı
+      metin  : yılı maryland
+      duyulan: mariland
+  REPLACE  ...işini bilen programcıdır sid
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...değiştiren satış adamıdır bil
+      metin  : stealey
+      duyulan: steely
+  REPLACE  ...oynanan hava savaşı oyunu
+      metin  : stealey
+      duyulan: steely
+  REPLACE  ...skor yapmaz sonra sıra
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...mayır e gelir ve
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...mayır skorunu rahatça geçer
+      metin  : stealey
+      duyulan: steely
+  REPLACE  ...pilotu uçak oyununda yener
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...o meşhur iddia gelir
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...oyunu kısa sürede yazabileceğini
+      metin  : söyler stealey nin
+      duyulan: bilir steely in
+  REPLACE  ...şirketlerini kurdu şirketin adı
+      metin  : microprose
+      duyulan: micropros
+  REPLACE  ...microprose du bizim kulağımızla
+      metin  : maykroproz
+      duyulan: micropros
+  REPLACE  ...bizim kulağımızla maykroproz merkezleri
+      metin  : stealey nin
+      duyulan: steely in
+  DELETE   ...lk ürünleri tahmin edilebileceği
+      metin  : gibi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gibi hava savaşı oyunuydu
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...oyunuydu mayır kodu yazıyor
+      metin  : stealey
+      duyulan: steely
+  REPLACE  ...birbirini tamamladığı düzene oturdu
+      metin  : stealey nin
+      duyulan: steely in
+  REPLACE  ...ilk yıllarının rengini belirledi
+      metin  : maykroproz
+      duyulan: micropros
+  REPLACE  ...hem de ün getirdiler
+      metin  : stealey nin
+      duyulan: steely in
+  REPLACE  ...getirdiler stealey nin kafasında
+      metin  : maykroproz
+      duyulan: micropros
+  REPLACE  ...kimliği belliydi simülasyon ama
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...gerçekliğin kurallarına uymak zorundaydı
+      metin  : mayır
+      duyulan: meier
+  INSERT   ...düşünce önce denizleer götürdü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıkan pirates yani korsanlar
+      metin  : karayipler de
+      duyulan: karayıplerde
+  REPLACE  ...da yer aldı sid
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...o güne kadar oyunlar
+      metin  : genellikle
+      duyulan: birlikte
+  REPLACE  ...yazarı gibi kapağa koymak
+      metin  : stealey nin
+      duyulan: stilinin
+  REPLACE  ...ürünüydü kısa sürede bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...işareti haline geldi ardından
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...haritanın tamamı sizin masanızdı
+      metin  : mayır
+      duyulan: meier
+  DELETE   ...zorunda mıydı ya oyuncunun
+      metin  : kurduğu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...de koca medeniyet olsaydı
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...shelley de yanındaydı shelley
+      metin  : maykroproz
+      duyulan: microprose
+  REPLACE  ...i ngiliz tasarımcı francis
+      metin  : ın
+      duyulan: newman de
+  REPLACE  ...kuruyor keşifler yaparak ilerliyordu
+      metin  : mayır
+      duyulan: meier
+  DELETE   ...simcity haritayı keşfederek fethetmeye
+      metin  : dayanan
+      duyulan: (YOK — atlanmış)
+  INSERT   ...başındaydı ortaya çıkan oyun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aynı adı taşıyordu sid
+      metin  : mayır
+      duyulan: meier
+  REPLACE  ...sid mayır s civilization
+      metin  : maykroproz
+      duyulan: microprose
+  ... ve 52 fark daha
+
+metinde olup DUYULMAYAN: 96 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-10-28.duyulan.txt

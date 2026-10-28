@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-27.mp3
+
+beklenen 1436 kelime | duyulan 1442 kelime | eşleşme %94.4
+sayı ifadesi: metinde 263, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...seçmenler bugün sandalyeli parlamento
+      metin  : knesset
+      duyulan: kineset
+  REPLACE  ...saldırısı ve ardından gelen
+      metin  : gazze
+      duyulan: gazete
+  REPLACE  ...eski genelkurmay başkanı gadi
+      metin  : ayzenkot
+      duyulan: aizenkot
+  REPLACE  ...liderliğindeki merkez partisinin ile
+      metin  : sandalyeyle
+      duyulan: sandalye ile
+  REPLACE  ...yair lapid in kurduğu
+      metin  : beyahad
+      duyulan: beyahat
+  INSERT   ...bloğu ne de muhalefet
+      metin  : (yok)
+      duyulan: halkmış
+  REPLACE  ...petrol pompa istasyonlarını ve
+      metin  : riyad
+      duyulan: riyadh
+  REPLACE  ...de başlaması planlanan yerel
+      metin  : ateşkese
+      duyulan: ateşkesi
+  REPLACE  ...süredir iktidarda olan aleksandar
+      metin  : vuçiç
+      duyulan: vucic
+  REPLACE  ...protestolardan doğmuştu brezilya da
+      metin  : lula da
+      duyulan: rulada
+  INSERT   ...lula da silva oyların
+      metin  : (yok)
+      duyulan: unu
+  REPLACE  ...alarak yeniden seçildi rakibi
+      metin  : flavyo
+      duyulan: flavio
+  REPLACE  ...kamuoyuyla paylaşması nasdaq ve
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...paket hazırladığı bildirildi teslimatların
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...açıkladı şirket bu sonucun
+      metin  : lean
+      duyulan: lane
+  REPLACE  ...hakem incelemesinden geçmesi gerekiyor
+      metin  : öte
+      duyulan: erte
+  REPLACE  ...geçmesi gerekiyor öte yandan
+      metin  : teksas başsavcısı
+      duyulan: texas baş savcısı
+  REPLACE  ...güvenliği de gündemde anthropic
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...intel kuantum yazılımı girişimi
+      metin  : classiq i
+      duyulan: klasiki
+  REPLACE  ...teknoloji şirketlerinin işlem gördüğü
+      metin  : star
+      duyulan: setar
+  REPLACE  ...kaybetti küresel piyasalarda haftaya
+      metin  : iyimser
+      duyulan: imser
+  REPLACE  ...yapıldı new york borsasında
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...da bist endeksi dün
+      metin  : yükselişle
+      duyulan: yükselişte
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...gündemi chp deki mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...devam ediyor ankara bölge
+      metin  : adliye mahkemesi nin
+      duyulan: atliye mahkemesinin
+  REPLACE  ...özel ize temmuz ayında
+      metin  : milletvekiliyle
+      duyulan: milletvekileli
+  REPLACE  ...temmuz ayında milletvekiliyle birlikte
+      metin  : chp den
+      duyulan: şah p denen
+  REPLACE  ...ara ödeme yapılabilecek ödemeler
+      metin  : fonun
+      duyulan: fonunun
+  INSERT   ...operasyonlarında şüpheli yakalandı bunlardan
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...şüpheli yakalandı bunlardan tutuklanırken
+      metin  : (yok)
+      duyulan: sı
+  REPLACE  ...in haftasındaki derbide galatasaray
+      metin  : victor osimhen in
+      duyulan: viktor osimhe nin
+  REPLACE  ...pazarlıkları geliyor yarın açıklanacak
+      metin  : fed
+      duyulan: fet
+  REPLACE  ...stanbul da hava aralıklı
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...yer yer gök gürültülü
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...yağışın kuvvetli olması ve
+      metin  : sel ile
+      duyulan: selliyle
+  REPLACE  ...hava bulutlu ve aralıklı
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...yer kuvvetli gök gürültülü
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...olacak gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-10-27.duyulan.txt

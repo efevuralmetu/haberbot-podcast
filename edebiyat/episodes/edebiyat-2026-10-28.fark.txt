@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-28.mp3
+
+beklenen 1839 kelime | duyulan 1833 kelime | eşleşme %96.2
+sayı ifadesi: metinde 189, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dilini bırakıp sokakta konuşulan
+      metin  : türkçeyle
+      duyulan: türkçe ile
+  REPLACE  ...türkçe rumca ladino ve
+      metin  : bulgarca
+      duyulan: bulgarça
+  INSERT   ...subaya aitti ömer seyfettin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...şevki bey de subaydı
+      metin  : ömer
+      duyulan: öler
+  REPLACE  ...okudu edirne deki askeri
+      metin  : idadiyi
+      duyulan: idadeyi
+  INSERT   ...da harbiye ye girdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dönüm noktası selanik oldu
+      metin  : i kinci
+      duyulan: de
+  REPLACE  ...cevaplara cevaplar birbirini izledi
+      metin  : ömer
+      duyulan: önümer
+  REPLACE  ...konuşurken gerçekten konuşur ama
+      metin  : selaniğin
+      duyulan: selani in
+  REPLACE  ...garnizon şehri çevreleyen tepelerdeki
+      metin  : tabyalarda
+      duyulan: tabialarda
+  INSERT   ...kaçınılmaz an geldi mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...in esaret günleri yunanların
+      metin  : nafplion
+      duyulan: naflion
+  REPLACE  ...beklenmedik fırsat da oldu
+      metin  : cephenin
+      duyulan: cefenin
+  INSERT   ...da varoluş sorusuna dönüşmüştü
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...uzak tarihe de döndü
+      metin  : forsa
+      duyulan: forza
+  REPLACE  ...türk yurdu ve yeni
+      metin  : mecmua
+      duyulan: mecmuha
+  REPLACE  ...çocukluğuna döner kardeşi ahmet
+      metin  : le
+      duyulan: ile
+  REPLACE  ...hasan gün merakına yenilir
+      metin  : kaşağıyı
+      duyulan: kaşağı
+  REPLACE  ...korkuyla suçu küçük kardeşi
+      metin  : ahmedin
+      duyulan: ahmet in
+  INSERT   ...geri dönüşü olmayan an
+      metin  : (yok)
+      duyulan: el
+  REPLACE  ...hikayeyle ve o kırık
+      metin  : kaşağının
+      duyulan: kaşığanın
+  REPLACE  ...taşıdığı suçlulukla akla gelir
+      metin  : kaşağı nın
+      duyulan: kaşığanın
+  REPLACE  ...izler sıkça görülür ve
+      metin  : kaşağı
+      duyulan: kaşığa
+  INSERT   ...hastalığı hızla ilerledi mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yalnızca gün sonra mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dilinin genel yönünü belirledi
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...imzasız bildirinin mirasını taşır
+      metin  : öte yandan
+      duyulan: götmüyan dan
+  REPLACE  ...hep aynı yeer genç
+      metin  : kalemler e
+      duyulan: kalemleer
+  REPLACE  ...te imzasız bildiriyle başlayan
+      metin  : yanya nın tabyalarında
+      duyulan: yan yanın tabialarında
+  REPLACE  ...okunduğu anda anlaşılan kırık
+      metin  : kaşağının
+      duyulan: kaşığanın
+  REPLACE  ...olduğunu kez daha kanıtladı
+      metin  : nöron edebiyat ta
+      duyulan: neuron edebiyatta
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: edebiyat-2026-10-28.duyulan.txt

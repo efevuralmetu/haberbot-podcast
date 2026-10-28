@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-28.mp3
+
+beklenen 2059 kelime | duyulan 2412 kelime | eşleşme %14.4
+sayı ifadesi: metinde 276, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...has to stop somewheer
+      metin  : elini başının arkasına tepeye yakın yeer götür parmaklarının saçların merkezin etrafında döndüğü küçük girdap var berberlerin her seferinde uğraştığı ne kadar su dökülse de yatmayan o inatçı nokta çoğu insanda tane bulunur bazılarında o noktada saç teli hiçbir yöne yatmaz çünkü her yöne aynı anda gitmek ister sıradan biyolojik tuhaflık gibi görünür oysa matematikçileer göer bu küçük girdabın arkasında ne kadar uğraşırsan uğraş değiştiremeyeceğin yasa var bunu düşünce deneyiyle görelim tenis topu düşün ama tüyleri kısa ve keçe gibi değil uzun ve yumuşak olsun her noktasından tel çıksın görevin bu topu taramak
+      duyulan: the following video is a short video how to cut black hair or how you wil start to do it at home this video wil make yor hair even thicker and deeper if you have a hair that has a ful surface you can use a cloth to cut and make it look moer beautiful it wil enjoy the smile of a date when finished and what about the day of the year you may mention the day of the year the of zeros which weer identified in the past gave us zeroth the was a geologic geologist as the scientific scientist i would like to introduce you to several of these zeros the is a geologist the is a geologist a geologist with a geology and a geology professor who studied geology girvan buto putaramak
+  REPLACE  ...taramak kural basit her
+      metin  : tel yatırılacak hiçbir tel
+      duyulan: tale usaye yatir lajak hichbir tale
+  REPLACE  ...yatırılacak hiçbir tel dimdik
+      metin  : kalmayacak ve tarama düzgün olacak
+      duyulan: kal mijak vetarama dusgu no lajak
+  REPLACE  ...yani yan yana duran
+      metin  : tel birbirine zıt yönleer bakmayacak yerde
+      duyulan: nazutyon nehrabak mijak biriarda
+  REPLACE  ...yönleer bakmayacak yerde ani
+      metin  : ayrım ya da kesik çizgi oluşmayacak kağıt üzerinde ne kadar
+      duyulan: birayrum yadakisikchisgi olushmijak kaad uzerinde nakadar
+  REPLACE  ...üzerinde ne kadar masum
+      metin  : istek yine de dünyadaki hiçbir kuaför hiçbir makine hiçbir sabır
+      duyulan: biristek yined dunyadaki hichbir kuafer hichbir makinae hichbir sabur
+  REPLACE  ...makine hiçbir sabır bunu
+      metin  : başaramaz
+      duyulan: basharamas
+  REPLACE  ...sabır bunu başaramaz topun
+      metin  : üzerinde en az yerde ya tel dik kalır ya da saçlar girdap ayrım ya da tepecik oluşturur matematikçilerin şakacı adla saçlı top teoremi dediği sonuç tam olarak
+      duyulan: uzerinde nasbir yarda yabi tale dikkalar yadasakhalar girdab ayrum yadavir te pegi kolushterur meth matik chilirin shaka jibiradla sakhala topte oremidedi sonuch tamolarak
+  REPLACE  ...sonuç tam olarak bunu
+      metin  : söyler kürenin yüzeyini her yerde pürüzsüzce hiçbir boşluk bırakmadan
+      duyulan: soilar kurenin yuseini haryarde pirus suzje hichbir boshluk burak madan
+  REPLACE  ...hiçbir boşluk bırakmadan taramak
+      metin  : imkansızdır
+      duyulan: im kyansasdar
+  REPLACE  ...bırakmadan taramak imkansızdır hemen
+      metin  : denemeye başlayalım ve nerede tıkandığımızı görelim en doğal
+      duyulan: denemaya bashalilum venaratakandu mzugurelem endo al
+  REPLACE  ...görelim en doğal fikir
+      metin  : bütün telleri kuzeyden güneye boylam çizgileri boyunca yatırmak ekvatorda her şey harika görünür
+      duyulan: butun tale rekusay dangunae boilam chisgileri boyunjaya tirmak ekwetorda hir shayharika gurunur
+  REPLACE  ...harika görünür teller paralel
+      metin  : düzgün hayvanın kürkü gibi ama kuzey kutbuna çıktığında
+      duyulan: dusgun haivanan kurkyibe amakusay kutpunna chiktunda
+  REPLACE  ...kuzey kutbuna çıktığında sorun
+      metin  : belirir bütün
+      duyulan: beilirir butun
+  REPLACE  ...sorun belirir bütün teller
+      metin  : oradan dışarı doğru fışkırır sanki fıskiyenin ağzındasın güney kutbunda
+      duyulan: ordan dusheradoru fishkirir sanky fuskyenin azundasun guni kutpunda
+  REPLACE  ...ağzındasın güney kutbunda da
+      metin  : hepsi
+      duyulan: hipsy
+  REPLACE  ...kutbunda da hepsi tek
+      metin  : noktaya
+      duyulan: noctaya
+  REPLACE  ...noktaya akar lavabonun gideri
+      metin  : gibi i ki
+      duyulan: gibe
+  REPLACE  ...ki kutupta da tel
+      metin  : ne yöne yatacağını bilemez peki
+      duyulan: neyonaya tajana bilamez pekki
+  REPLACE  ...yatacağını bilemez peki telleri
+      metin  : doğudan batıya enlem çizgileri boyunca
+      duyulan: da ordan batia en lamchis gileri boyunja
+  INSERT   ...enlem çizgileri boyunca tarasak
+      metin  : (yok)
+      duyulan: bukes ekwetorve chevresi yine kusursus amakutu plarda sachlar kuchik halka chiserik dunar tub kubashinan arkasan da kyogir dapkyibe tam merkas de isay tel ney doya ney batia gide bilirf sorunu yardan kovalarsan bashka yardan chikar kutupta dan nidusel tir san bila kusur ler de mutlaka ya shamaya de wa medar en kur naz taramaila kusur ler tek nokta ya tople ya bilir sin amasu fura indiramas sin
+  REPLACE  ...çizgileri boyunca tarasak bu
+      metin  : kez ekvator ve çevresi yine kusursuz ama kutuplarda saçlar küçük halka çizerek döner tıpkı başının arkasındaki o girdap gibi tam merkezde ize tel ne doğuya ne batıya gidebilir sorunu yerden kovalarsın başka yerden çıkar i ki kutuptan düzeltirsen bile kusur yerlerde mutlaka yaşamaya devam eder
+      duyulan: sonu chu mathamatik dili le soyle meki chin tellerin yerini oklar koyalum kurinen hir nokta sana yuzayete et okyaleshtir dinudusun okun yonu tellin yatma yonu uzunnu da nakadar guchri yat du mate matik chilar bunna vector alanedar tir am shunu soylar kurenin yuzerin de surek libir teet vector alanu kurar san yane oklar nokta dan kom shusuna ani sitra malar olma dan de ishirse
+  REPLACE  ...yaşamaya devam eder en
+      metin  : kurnaz taramayla kusurları tek noktaya toplayabilirsin ama indiremezsin bu sonucu matematik diliyle söylemek için tellerin yerine okları koyalım kürenin her noktasına teğet ok yerleştirdiğini düşün
+      duyulan: as nokta da
+  REPLACE  ...ok yerleştirdiğini düşün okun
+      metin  : yönü telin yatma yönü uzunluğu da ne kadar güçlü yattığı matematikçiler buna vektör alanı der teorem şunu söyler kürenin üzerinde sürekli teğet vektör alanı kurarsan yani oklar noktadan komşusuna ani sıçramalar olmadan değişirse en az noktada okun uzunluğu
+      duyulan: usun nu usifur
+  REPLACE  ...noktada okun uzunluğu olmak
+      metin  : zorundadır orada ok yoktur yön yoktur her şey
+      duyulan: zorundadir orda okyoktar yunyoktar hershey
+  REPLACE  ...şey durur bu fikrin
+      metin  : kökleri yüzyılın sonuna uzanır fransız matematikçi henri poincaré
+      duyulan: koklaraye yuzilan sonu na usaner frances mathamatik chi henry poinkaray sekunzetzy
+  REPLACE  ...matematikçi henri poincaré lerde
+      metin  : diferansiyel denklemlerin çözümlerinin üzerinde nasıl aktığını incelerken küer üzerindeki akışların
+      duyulan: differencial danklam nerin chosum nerin yuzay yuzerin de na selakta na injelerkan kuray yuzerin de ki akishlarin
+  REPLACE  ...üzerindeki akışların mutlaka durgun
+      metin  : noktalar içermesi gerektiğini fark etti
+      duyulan: nokta leri chaer mesigerik tina farkette anxi went wonda holan dala mathamatik chi luizen egbertos yan brower sonu jugenail leshtirde ve boyutla kuray lesaner lekal mayan da hai yuksek boyutlaar
+  REPLACE  ...gerektiğini fark etti de
+      metin  : hollandalı matematikçi luitzen egbertus jan brouwer sonucu genelleştirdi ve boyutlu küreyle sınırlı kalmayan daha yüksek boyutlardaki küreleer
+      duyulan: ki kureleer
+  REPLACE  ...yüksek boyutlardaki küreleer de
+      metin  : uzanan kanıt verdi bugün
+      duyulan: uzananan birkhanat werde bugun
+  REPLACE  ...kanıt verdi bugün teoremin
+      metin  : adı çoğu zaman brouwer le birlikte anılır ama sezginin ilk kıvılcımı poincaré nin akış çalışmalarındadır şimdi başındaki girdaba dürüstçe geri dönmek gerekiyor çünkü burada önemli incelik var kafatasın tam küer gibi her yerinden saç çıkaran değil kulaklar ve
+      duyulan: aduchos aman brower lebir likta anilir amases ginin ik kovil jamu poinkarenin akishchali shmalarindadir shim de bashindaki girda badurus chageridan mek gerik yor trinky burda injelik war kafata santam kuregi behar yerin dan sachikaran yuzay dil yuz kulaklarve
+  REPLACE  ...değil kulaklar ve ense
+      metin  : saçlı bölgeye kenar çiziyor matematik açısından kenarı olan örneğin düz halı
+      duyulan: sachli ber gay ken archis yor meth matika chasan dang kenerolan yuzay erni indus hali yadabir yarum kurei rahatlik la taranabidir butun teleer ini yone me sela en senedori
+  REPLACE  ...örneğin düz halı ya
+      metin  : da yarım küer rahatlıkla taranabilir bütün telleri aynı yöne mesela ensene doğru yatırman yeter
+      duyulan: terman ya tar
+  REPLACE  ...yatırman yeter yani teorem
+      metin  : kafandaki girdabı zorunlu kılmıyor o
+      duyulan: kafan daki girda bzorun nukkil miyor ogear dap sachkoklarinin deridaki dizirish picchiminin yani biolejinin sonuju ama ey gyun tum kafan yuzun dahil kesintesis sachla kaplan saydu ishta ozaman matamatik devray egrar ven enas
+  REPLACE  ...zorunlu kılmıyor o girdap
+      metin  : saç köklerinin derideki diziliş biçiminin yani biyolojinin sonucu ama eğer gün tüm kafan dahil kesintisiz saçla kaplansaydı işte o zaman matematik devreye girer ve en az girdap ya da ayrım noktasını
+      duyulan: yada irum noktasanu
+  REPLACE  ...da ayrım noktasını sana
+      metin  : kesin olarak dayatırdı başının arkasındaki kepçe
+      duyulan: kesinolarak dayatirdu boshinan arkasan daki kepche
+  REPLACE  ...arkasındaki kepçe teoremin kendisi
+      metin  : değil
+      duyulan: deil
+  REPLACE  ...kendisi değil ama teoremin
+      metin  : her gün aynada gördüğün hatırlatıcısı asıl merak edilmesi gereken soru şu neden küer neden düz kağıt olunca
+      duyulan: hair gyun ana da girdun hatila tejisu asil mehra kedil me sigeer kan sorushu nedan kurei nedan yuzay dus kha tolunjas
+  REPLACE  ...kağıt olunca sorun ortadan
+      metin  : kalkıyor
+      duyulan: kal kyor
+  REPLACE  ...sorun ortadan kalkıyor ama
+      metin  : kapalı
+      duyulan: kapalu
+  ... ve 157 fark daha
+
+metinde olup DUYULMAYAN: 1734 kelime | duyulup metinde OLMAYAN: 2085
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: science-2026-10-28.duyulan.txt

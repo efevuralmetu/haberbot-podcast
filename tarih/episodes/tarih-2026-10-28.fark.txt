@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-28.mp3
+
+beklenen 2458 kelime | duyulan 2471 kelime | eşleşme %96.2
+sayı ifadesi: metinde 300, duyulanda 201  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...neden kimse kralı durduramadı
+      metin  : yirmilerin stokholm ünü
+      duyulan: lerin stockholm unu
+  REPLACE  ...stokholm ünü düşünün şehir
+      metin  : baltığa
+      duyulan: balta
+  INSERT   ...i sveç tahtında henüz
+      metin  : (yok)
+      duyulan: lu
+  DELETE   ...yaşlarına girmemiş kral oturuyor
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...i kinci gustav adolf
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olacak gemiler istiyordu ocak
+      metin  : stokholm deki
+      duyulan: te stockholm daki
+  REPLACE  ...sveç te bu tersaneye
+      metin  : şepsgorden
+      duyulan: schepsgården
+  REPLACE  ...hollandalı gemi ustası henrik
+      metin  : hübertson
+      duyulan: hubertzon
+  REPLACE  ...hübertson ve iş ortağı
+      metin  : arent dö hrote ydi
+      duyulan: arendt de hothay di
+  REPLACE  ...yapımcıları sayılıyordu i sveç
+      metin  : de
+      duyulan: te
+  REPLACE  ...ydı hanedanın arması demet
+      metin  : buğday başağıydı
+      duyulan: budaybaşa ydı
+  INSERT   ...yer alacaktı i nşaat
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...boyutları da belirginleşiyordu vasa
+      metin  : cıvadrasının
+      duyulan: civadrasının
+  REPLACE  ...propaganda afişi gibi tasarlanmıştı
+      metin  : pruvasında
+      duyulan: provasında
+  INSERT   ...gemide top olacaktı bunların
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bu toplar da i
+      metin  : svecin
+      duyulan: sveç in
+  REPLACE  ...pek görülmemiş ateş gücü
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...daha eklendi henrik hübertson
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i şi yardımcısı heyn
+      metin  : yakobson
+      duyulan: jacobson
+  REPLACE  ...yardımcısı heyn yakobson devraldı
+      metin  : yakobson
+      duyulan: jacobson
+  REPLACE  ...belirlenmiş gövdeyi tamamlamak zorundaydı
+      metin  : gemiyi
+      duyulan: gemi
+  INSERT   ...beklediği tarihe yetiştirebilirdi vasa
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu sarayın adı ter
+      metin  : krunur du
+      duyulan: kronurdu
+  REPLACE  ...üst rütbeli komutanlarından amiral
+      metin  : klas
+      duyulan: klaas
+  REPLACE  ...de geminin kaptanı söfring
+      metin  : hansson
+      duyulan: hanson
+  REPLACE  ...hansson da kılavuz kaptan
+      metin  : yöran matson
+      duyulan: jöran madson
+  INSERT   ...ama hazırlıklar devam etti
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...rüzgar hafifti güneybatıdan esiyordu
+      metin  : stokholm
+      duyulan: stockholm
+  REPLACE  ...götürüldü oraya varınca yelkenden
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...belki de rahatladı kaptan
+      metin  : hansson
+      duyulan: hanson
+  REPLACE  ...geldi bu adanın adı
+      metin  : bekholmen dir
+      duyulan: beckholmendir
+  REPLACE  ...adı bekholmen dir yani
+      metin  : bek
+      duyulan: beck
+  REPLACE  ...bayrakları hala dalgalanan vasa
+      metin  : stokholm
+      duyulan: stockholm
+  REPLACE  ...gün civarında kişi öldü
+      metin  : ölenler
+      duyulan: ölülenler
+  REPLACE  ...vardı ya mürettebat görevini
+      metin  : savsaklamıştı
+      duyulan: safsaklamıştı
+  DELETE   ...donanma komutanlarından oluşan kurul
+      metin  : taç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...teker dinlendi kılavuz kaptan
+      metin  : yöran
+      duyulan: yoran
+  REPLACE  ...ve deney durdurulmuştu bu
+      metin  : ifadeyle
+      duyulan: ifade ile
+  REPLACE  ...kez tersane tarafı sorgulandı
+      metin  : heyn yakobson
+      duyulan: hayne jacobson
+  REPLACE  ...sorgulandı heyn yakobson ve
+      metin  : arent dö hrote
+      duyulan: arend de haute
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: tarih-2026-10-28.duyulan.txt

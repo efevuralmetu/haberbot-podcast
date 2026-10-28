@@ -1,0 +1,67 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-28.mp3
+
+beklenen 3281 kelime | duyulan 3280 kelime | eşleşme %99.3
+sayı ifadesi: metinde 119, duyulanda 105  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...christ a man named
+      metin  : lucius annaeus
+      duyulan: luciusineius
+  REPLACE  ...at court both what
+      metin  : kindness is
+      duyulan: kindnesses
+  REPLACE  ...in books called de
+      metin  : beneficiis
+      duyulan: beneficis
+  REPLACE  ...image he recalls the
+      metin  : charites
+      duyulan: ksherites
+  REPLACE  ...of an earlier stoic
+      metin  : chrysippus
+      duyulan: crucipus
+  REPLACE  ...the kindness be silent
+      metin  : and
+      duyulan: then
+  REPLACE  ...publishes a study titled
+      metin  : essai
+      duyulan: essay
+  REPLACE  ...study titled essai sur
+      metin  : le don
+      duyulan: la donne
+  REPLACE  ...the gift an essay
+      metin  : mauss
+      duyulan: maussi
+  REPLACE  ...people of new zealand
+      metin  : hau
+      duyulan: how
+  REPLACE  ...receives to show how
+      metin  : taut
+      duyulan: taught
+  REPLACE  ...idiom for exactly this
+      metin  : başa
+      duyulan: bashah
+  REPLACE  ...that wound the word
+      metin  : mann
+      duyulan: man
+  REPLACE  ...helper stands above the
+      metin  : helped
+      duyulan: help
+  REPLACE  ...receiver feels crushed what
+      metin  : mauss
+      duyulan: mouses
+  REPLACE  ...his book donner le
+      metin  : temps
+      duyulan: temme
+  REPLACE  ...debt is the real
+      metin  : knot
+      duyulan: nod
+  REPLACE  ...bil the kindness that
+      metin  : has
+      duyulan: is
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-10-28.duyulan.txt
