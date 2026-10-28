@@ -1,0 +1,685 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.210
+Şu an, şu saniyede, Dünya'nın üzerinde rüzgârın hiç esmediği en az bir nokta var.
+
+2
+00:00:06.210 --> 00:00:11.300
+Bunu bir meteoroloji uydusu söylemiyor, bir matematik teoremi söylüyor.
+
+3
+00:00:11.300 --> 00:00:14.950
+Üstelik o noktayı yok etmenin hiçbir yolu yok.
+
+4
+00:00:14.950 --> 00:00:17.960
+Kafanızdaki kepçe saçla aynı sebepten.
+
+5
+00:00:26.160 --> 00:00:29.970
+Elini başının arkasına, tepeye yakın bir yere götür.
+
+6
+00:00:29.970 --> 00:00:41.300
+Parmaklarının altında saçların bir merkezin etrafında döndüğü küçük bir girdap var: berberlerin her seferinde uğraştığı, ne kadar su dökülse de yatmayan o inatçı nokta.
+
+7
+00:00:41.300 --> 00:00:45.110
+Çoğu insanda bir tane bulunur, bazılarında iki.
+
+8
+00:00:45.110 --> 00:00:50.680
+O noktada saç teli hiçbir yöne yatmaz, çünkü her yöne aynı anda gitmek ister.
+
+9
+00:00:50.680 --> 00:00:53.690
+Sıradan bir biyolojik tuhaflık gibi görünür.
+
+10
+00:00:53.690 --> 00:01:01.820
+Oysa matematikçilere göre bu küçük girdabın arkasında, ne kadar uğraşırsan uğraş değiştiremeyeceğin bir yasa var.
+
+11
+00:01:01.820 --> 00:01:04.510
+Bunu bir düşünce deneyiyle görelim.
+
+12
+00:01:04.510 --> 00:01:12.160
+Bir tenis topu düşün; ama tüyleri kısa ve keçe gibi değil, uzun ve yumuşak olsun, her noktasından bir tel çıksın.
+
+13
+00:01:12.160 --> 00:01:14.530
+Görevin bu topu taramak.
+
+14
+00:01:14.530 --> 00:01:28.420
+Kural basit: her tel yüzeye yatırılacak, hiçbir tel dimdik kalmayacak, ve tarama düzgün olacak, yani yan yana duran iki tel birbirine zıt yönlere bakmayacak, bir yerde ani bir ayrım ya da kesik çizgi oluşmayacak.
+
+15
+00:01:28.420 --> 00:01:31.750
+Kâğıt üzerinde ne kadar masum bir istek.
+
+16
+00:01:31.750 --> 00:01:37.480
+Yine de dünyadaki hiçbir kuaför, hiçbir makine, hiçbir sabır bunu başaramaz.
+
+17
+00:01:37.480 --> 00:01:46.090
+Topun üzerinde en az bir yerde ya bir tel dik kalır, ya da saçlar bir girdap, bir ayrım ya da bir tepecik oluşturur.
+
+18
+00:01:46.090 --> 00:01:57.420
+Matematikçilerin şakacı bir adla "saçlı top teoremi" dediği sonuç tam olarak bunu söyler: bir kürenin yüzeyini her yerde pürüzsüzce, hiçbir boşluk bırakmadan taramak imkânsızdır.
+
+19
+00:01:57.420 --> 00:02:01.390
+Hemen denemeye başlayalım ve nerede tıkandığımızı görelim.
+
+20
+00:02:01.390 --> 00:02:07.440
+En doğal fikir, bütün telleri kuzeyden güneye, boylam çizgileri boyunca yatırmak.
+
+21
+00:02:07.440 --> 00:02:13.650
+Ekvatorda her şey harika görünür; teller paralel, düzgün, bir hayvanın kürkü gibi.
+
+22
+00:02:13.650 --> 00:02:21.300
+Ama kuzey kutbuna çıktığında sorun belirir: bütün teller oradan dışarı doğru fışkırır, sanki bir fıskiyenin ağzındasın.
+
+23
+00:02:21.300 --> 00:02:26.070
+Güney kutbunda da hepsi tek bir noktaya akar, bir lavabonun gideri gibi.
+
+24
+00:02:26.070 --> 00:02:29.720
+İki kutupta da bir tel ne yöne yatacağını bilemez.
+
+25
+00:02:29.720 --> 00:02:34.490
+Peki telleri doğudan batıya, enlem çizgileri boyunca tarasak?
+
+26
+00:02:34.490 --> 00:02:43.740
+Bu kez ekvator ve çevresi yine kusursuz, ama kutuplarda saçlar küçük bir halka çizerek döner, tıpkı başının arkasındaki o girdap gibi.
+
+27
+00:02:43.740 --> 00:02:48.350
+Tam merkezde ise bir tel ne doğuya ne batıya gidebilir.
+
+28
+00:02:48.350 --> 00:02:52.320
+Sorunu bir yerden kovalarsın, başka bir yerden çıkar.
+
+29
+00:02:52.320 --> 00:03:04.610
+İki kutuptan birini düzeltirsen bile ikinci bir kusur bir yerlerde mutlaka yaşamaya devam eder; en kurnaz taramayla kusurları tek bir noktaya toplayabilirsin, ama sıfıra indiremezsin.
+
+30
+00:03:04.610 --> 00:03:09.220
+Bu sonucu matematik diliyle söylemek için tellerin yerine okları koyalım.
+
+31
+00:03:09.220 --> 00:03:17.990
+Kürenin her noktasına yüzeye teğet bir ok yerleştirdiğini düşün: okun yönü telin yatma yönü, uzunluğu da ne kadar güçlü yattığı.
+
+32
+00:03:17.990 --> 00:03:20.680
+Matematikçiler buna vektör alanı der.
+
+33
+00:03:20.680 --> 00:03:34.090
+Teorem şunu söyler: bir kürenin üzerinde sürekli bir teğet vektör alanı kurarsan, yani oklar bir noktadan komşusuna ani sıçramalar olmadan değişirse, en az bir noktada okun uzunluğu sıfır olmak zorundadır.
+
+34
+00:03:34.090 --> 00:03:37.740
+Orada ok yoktur; yön yoktur; her şey durur.
+
+35
+00:03:37.740 --> 00:04:18.390
+Bu fikrin kökleri on dokuzuncu yüzyılın sonuna uzanır. Fransız matematikçi Henri Poincaré, 1880'lerde diferansiyel denklemlerin çözümlerinin bir yüzey üzerinde nasıl aktığını incelerken, küre üzerindeki akışların mutlaka durgun noktalar içermesi gerektiğini fark etti. 1912'de Hollandalı matematikçi Luitzen Egbertus Jan Brouwer sonucu genelleştirdi ve iki boyutlu küreyle sınırlı kalmayan, daha yüksek boyutlardaki kürelere de uzanan bir kanıt verdi. Bugün teoremin adı çoğu zaman Brouwer'le birlikte anılır, ama sezginin ilk kıvılcımı Poincaré'nin akış çalışmalarındadır.
+
+36
+00:04:18.390 --> 00:04:24.760
+Şimdi başındaki girdaba dürüstçe geri dönmek gerekiyor, çünkü burada önemli bir incelik var.
+
+37
+00:04:24.760 --> 00:04:33.690
+Kafatasın tam bir küre gibi her yerinden saç çıkaran bir yüzey değil; yüz, kulaklar ve ense, saçlı bölgeye bir kenar çiziyor.
+
+38
+00:04:33.690 --> 00:04:44.860
+Matematik açısından kenarı olan bir yüzey, örneğin düz bir halı ya da bir yarım küre, rahatlıkla taranabilir: bütün telleri aynı yöne, mesela ensene doğru yatırman yeter.
+
+39
+00:04:44.860 --> 00:04:53.950
+Yani teorem kafandaki girdabı zorunlu kılmıyor; o girdap, saç köklerinin derideki diziliş biçiminin, yani biyolojinin bir sonucu.
+
+40
+00:04:53.950 --> 00:05:05.760
+Ama eğer bir gün tüm kafan, yüzün dahil, kesintisiz bir saçla kaplansaydı, işte o zaman matematik devreye girer ve en az bir girdap ya da ayrım noktasını sana kesin olarak dayatırdı.
+
+41
+00:05:05.760 --> 00:05:12.930
+Başının arkasındaki kepçe teoremin kendisi değil; ama teoremin her gün aynada gördüğün bir hatırlatıcısı.
+
+42
+00:05:12.930 --> 00:05:17.060
+Asıl merak edilmesi gereken soru şu: neden küre?
+
+43
+00:05:17.060 --> 00:05:24.230
+Neden yüzey düz bir kâğıt olunca sorun ortadan kalkıyor, ama kapalı bir topa dönüşünce bu inatçı nokta beliriyor?
+
+44
+00:05:24.230 --> 00:05:29.480
+Cevap şaşırtıcı biçimde yüzeyin büyüklüğüyle de, eğriliğiyle de ilgili değil.
+
+45
+00:05:29.480 --> 00:05:33.130
+Cevap, yüzeyde kaç tane delik olduğunda saklı.
+
+46
+00:05:33.130 --> 00:05:35.820
+Bir topla bir simidi yan yana koy.
+
+47
+00:05:35.820 --> 00:05:39.470
+İkisi de kapalı yüzeyler; ikisinin de kenarı yok.
+
+48
+00:05:39.470 --> 00:05:44.720
+Ama aralarında temel bir fark var: simidin ortasında bir delik bulunur.
+
+49
+00:05:44.720 --> 00:05:49.170
+Ve bu tek delik, tarama sorununun kaderini tamamen değiştirir.
+
+50
+00:05:49.170 --> 00:05:52.180
+Bir simidi tüylerle kapladığını düşün.
+
+51
+00:05:52.180 --> 00:06:04.310
+Bütün telleri simidin çevresi boyunca, büyük halka yönünde yatırabilirsin; her tel bir öncekini izler, hiçbir yerde başlangıç ya da bitiş noktası oluşmaz, hiçbir tel dik kalmaz.
+
+52
+00:06:04.310 --> 00:06:07.160
+Simit, kusursuzca taranabilir.
+
+53
+00:06:07.160 --> 00:06:09.850
+Top taranamaz, simit taranır.
+
+54
+00:06:09.850 --> 00:06:17.980
+Aradaki farkı ölçmenin bir yolu var ve bu yolun izi on sekizinci yüzyıla, İsviçreli matematikçi Leonhard Euler'e uzanıyor.
+
+55
+00:06:17.980 --> 00:06:27.870
+Euler, 1750'lerde çokyüzlüler üzerinde çalışırken basit bir sayma oyununun beklenmedik bir şekilde hep aynı sonucu verdiğini fark etti.
+
+56
+00:06:27.870 --> 00:06:29.440
+Bir küp al.
+
+57
+00:06:29.440 --> 00:06:32.130
+Köşelerini say: 8.
+
+58
+00:06:32.130 --> 00:06:34.660
+Kenarlarını say: 12.
+
+59
+00:06:34.660 --> 00:06:37.190
+Yüzlerini say: 6.
+
+60
+00:06:37.190 --> 00:06:43.720
+Şimdi köşelerden kenarları çıkar, yüzleri ekle: 8 eksi 12 artı 6, sonuç 2.
+
+61
+00:06:43.720 --> 00:06:49.450
+Bir piramitle dene: 5 köşe, 8 kenar, 5 yüz; sonuç yine 2.
+
+62
+00:06:49.450 --> 00:06:59.660
+Bir futbol topunun dikiş deseniyle, yani beşgen ve altıgenlerden oluşan şekille dene: 60 köşe, 90 kenar, 32 yüz; sonuç yine 2.
+
+63
+00:06:59.660 --> 00:07:03.950
+Bu sayı, şekli ne kadar karmaşık bölersen böl değişmez.
+
+64
+00:07:03.950 --> 00:07:11.120
+Bir kürenin yüzeyini istediğin kadar küçük üçgenlere ayır, köşe eksi kenar artı yüz her zaman 2 çıkar.
+
+65
+00:07:11.120 --> 00:07:15.410
+Bu değişmeyen sayıya bugün Euler karakteristiği deniyor.
+
+66
+00:07:15.410 --> 00:07:20.660
+Aynı hesabı bir simidin yüzeyine uygularsan bambaşka bir sonuç bulursun.
+
+67
+00:07:20.660 --> 00:07:28.790
+Simidi küçük dörtgenlere ayıran bir ızgara çiz; ne kadar sık çizersen çiz, köşe eksi kenar artı yüz sıfıra eşit olur.
+
+68
+00:07:28.790 --> 00:07:36.600
+İki delikli bir yüzey, yani iki delikli bir simit için sonuç eksi 2, üç delikli için eksi 4 olur.
+
+69
+00:07:36.600 --> 00:07:41.530
+Kural basit: her yeni delik, Euler karakteristiğini 2 azaltır.
+
+70
+00:07:41.530 --> 00:07:45.020
+Bu sayı yüzeyin şeklini değil, özünü ölçer.
+
+71
+00:07:45.020 --> 00:07:54.430
+Bir küreyi ezip bir yumurtaya, bir küpe ya da bir armuda çevirebilirsin; yırtmadığın ve yapıştırmadığın sürece Euler karakteristiği 2 kalır.
+
+72
+00:07:54.430 --> 00:08:00.160
+Topoloji dediğimiz matematik dalı, tam da bu esnemeyle bozulmayan özellikleri inceler.
+
+73
+00:08:00.160 --> 00:08:03.650
+Şimdi bu sayıyla saçlar arasındaki bağı kuralım.
+
+74
+00:08:03.650 --> 00:08:09.220
+Bunun için kusurlara, yani okların sıfırlandığı noktalara bir puan vermemiz gerekiyor.
+
+75
+00:08:09.220 --> 00:08:16.870
+Bir durgun noktanın etrafında küçük bir çember çizdiğini ve bu çember boyunca yürürken okların yönünü izlediğini düşün.
+
+76
+00:08:16.870 --> 00:08:21.480
+Çemberi bir kez dolaştığında okların kendisi de kaç tur döndü?
+
+77
+00:08:21.480 --> 00:08:24.170
+Bu sayıya o noktanın indeksi denir.
+
+78
+00:08:24.170 --> 00:08:34.380
+Kuzey kutbundaki fıskiye gibi her yöne dışarı fışkıran bir nokta, çemberi bir tur dolaşırken oklarını da bir tur döndürür; indeksi artı 1'dir.
+
+79
+00:08:34.380 --> 00:08:38.190
+Lavabo gideri gibi içeri akan nokta da artı 1'dir.
+
+80
+00:08:38.190 --> 00:08:41.680
+Başının arkasındaki dönen girdap da artı 1.
+
+81
+00:08:41.680 --> 00:08:45.970
+Ama bir başka tür kusur daha var: eyer noktası.
+
+82
+00:08:45.970 --> 00:08:54.900
+Saçların iki yönden içeri gelip diğer iki yönden dışarı çıktığı, bir at eyerinin ya da iki dağ arasındaki geçidin biçimini andıran nokta.
+
+83
+00:08:54.900 --> 00:09:01.270
+Bunun etrafında dolaşırken oklar ters yönde bir tur döner; indeksi eksi 1'dir.
+
+84
+00:09:01.270 --> 00:09:03.640
+Ve işte konunun kalbi.
+
+85
+00:09:03.640 --> 00:09:15.450
+Alman matematikçi Heinz Hopf'un 1926'da genel biçimini kanıtladığı, Poincaré'nin daha önceki çalışmalarının üzerine kurulan sonuç, bugün Poincaré-Hopf teoremi olarak bilinir.
+
+86
+00:09:15.450 --> 00:09:27.740
+Teorem şunu söyler: kapalı bir yüzey üzerindeki herhangi bir düzgün akışta, bütün durgun noktaların indekslerini toplarsan, sonuç her zaman o yüzeyin Euler karakteristiğine eşittir.
+
+87
+00:09:27.740 --> 00:09:31.550
+Hangi akışı seçtiğin, nasıl taradığın önemli değil.
+
+88
+00:09:31.550 --> 00:09:35.840
+Toplam, yüzeyin delik sayısıyla önceden belirlenmiştir.
+
+89
+00:09:35.840 --> 00:09:38.370
+Küre için bu toplam 2'dir.
+
+90
+00:09:38.370 --> 00:09:40.740
+Sıfır değil, 2.
+
+91
+00:09:40.740 --> 00:09:45.510
+Eğer hiç kusur olmasaydı toplam sıfır olurdu; bu da imkânsız.
+
+92
+00:09:45.510 --> 00:09:49.800
+Demek ki küre üzerinde en az bir durgun nokta bulunmak zorunda.
+
+93
+00:09:49.800 --> 00:09:55.530
+Saçlı top teoremi, böylece daha derin bir yasanın özel bir durumu olarak ortaya çıkıyor.
+
+94
+00:09:55.530 --> 00:10:03.340
+Kuzeyden güneye taradığımızda kutuplarda bulduğumuz fıskiye ve gider, her biri artı 1, toplam 2.
+
+95
+00:10:03.340 --> 00:10:07.470
+Enlem boyunca taradığımızda iki girdap, yine toplam 2.
+
+96
+00:10:07.470 --> 00:10:15.920
+İki girdabı tek bir noktada birleştirmeyi başarırsan, indeksi artı 2 olan tek, daha karmaşık bir kusur elde edersin.
+
+97
+00:10:15.920 --> 00:10:22.290
+Üç girdap ve bir eyer noktası da olabilir: 1 artı 1 artı 1 eksi 1, sonuç yine 2.
+
+98
+00:10:22.290 --> 00:10:29.780
+Kusurları istediğin gibi doğurabilir, taşıyabilir, birleştirebilirsin; ama hesap her zaman 2'de kapanır.
+
+99
+00:10:29.780 --> 00:10:32.790
+Simit için toplam sıfırdır.
+
+100
+00:10:32.790 --> 00:10:43.000
+Bu, simidin üzerinde hiç kusur bulunmayan bir akışın matematiksel olarak mümkün olduğu anlamına gelir; az önce elle bulduğumuz tarama da tam olarak buydu.
+
+101
+00:10:43.000 --> 00:10:46.970
+Delik, kusurun ihtiyaç duyduğu kaçış yolunu açar.
+
+102
+00:10:46.970 --> 00:10:50.620
+Simidin kurtuluşu, ortasındaki boşluktadır.
+
+103
+00:10:50.620 --> 00:10:55.710
+Bu fikir boyutlar arasında da gezinir ve orada da tuhaf bir düzen gösterir.
+
+104
+00:10:55.710 --> 00:11:03.680
+Bir çember, yani tek boyutlu bir küre düşün: üzerindeki bütün okları saat yönünde dizebilirsin, hiç kusur oluşmaz.
+
+105
+00:11:03.680 --> 00:11:05.730
+Çember taranabilir.
+
+106
+00:11:05.730 --> 00:11:10.020
+İki boyutlu küre, yani bildiğimiz top, taranamaz.
+
+107
+00:11:10.020 --> 00:11:23.910
+Brouwer'in genellemesinin vardığı yer şudur: boyutu çift sayı olan bütün kürelerde bu imkânsızlık geçerlidir; ama boyutu tek sayı olan kürelerde, örneğin dört boyutlu uzayın içinde yaşayan üç boyutlu kürede,
+
+108
+00:11:23.910 --> 00:11:26.600
+kusursuz bir tarama mümkündür.
+
+109
+00:11:26.600 --> 00:11:31.530
+Topun inatçılığı, onun ait olduğu çift boyutlu ailenin ortak kaderidir.
+
+110
+00:11:31.530 --> 00:11:37.420
+Buraya kadar her şey saçlar, toplar ve simitler hakkında masum bir oyun gibi duruyor.
+
+111
+00:11:37.420 --> 00:11:40.110
+Ama gezegenimiz de kabaca bir küre.
+
+112
+00:11:40.110 --> 00:11:45.200
+Ve yüzeyinde, saç telleri yerine sürekli akan bir şey var: rüzgâr.
+
+113
+00:11:45.200 --> 00:11:50.130
+Dünya'nın yüzeyinde esen rüzgârı her noktada bir okla temsil ettiğini düşün.
+
+114
+00:11:50.130 --> 00:11:54.420
+Okun yönü rüzgârın estiği yön, uzunluğu da hızı.
+
+115
+00:11:54.420 --> 00:12:05.110
+Hava, büyük ölçekte sürekli bir akışkan gibi davranır; bir noktadaki rüzgâr ile birkaç metre ötedeki rüzgâr arasında, matematiksel olarak ani bir kopuş yoktur.
+
+116
+00:12:05.110 --> 00:12:17.080
+Bu durumda saçlı top teoremi gezegene doğrudan bir hüküm verir: şu anda, tam bu saniyede, Dünya'nın yüzeyinde rüzgârın yatay hızının sıfır olduğu en az bir nokta bulunmak zorundadır.
+
+117
+00:12:17.080 --> 00:12:22.170
+Bir yerlerde hava, yer yüzeyine paralel düzlemde, kıpırdamıyor.
+
+118
+00:12:22.170 --> 00:12:26.300
+Bu bir hava durumu tahmini değil; bir matematik kesinliği.
+
+119
+00:12:26.300 --> 00:12:29.310
+Burada bir sınırı dürüstçe çizmek gerekiyor.
+
+120
+00:12:29.310 --> 00:12:39.360
+Gerçek atmosferde hava yalnızca yatay değil, aşağı ve yukarı da hareket eder; teorem yalnızca yüzeye teğet olan, yani yatay bileşen hakkında konuşur.
+
+121
+00:12:39.360 --> 00:12:43.650
+O durgun noktada hava yükseliyor ya da alçalıyor olabilir.
+
+122
+00:12:43.650 --> 00:12:49.540
+Ayrıca teorem bu noktanın nerede olacağını söylemez, yalnızca var olduğunu söyler.
+
+123
+00:12:49.540 --> 00:12:59.270
+Yine de bu kadarı bile şaşırtıcıdır: gezegenin bütün rüzgâr sistemleri, ne kadar karmaşık ve kaotik olursa olsun, bu noktayı ortadan kaldıramaz.
+
+124
+00:12:59.270 --> 00:13:06.440
+Daha da güzeli, Poincaré-Hopf teoreminin indeks hesabı hava haritalarında neredeyse doğrudan okunabilir.
+
+125
+00:13:06.440 --> 00:13:14.090
+Bir alçak basınç merkezinin, yani bir siklonun etrafında rüzgâr döner; merkez artı 1 indeksli bir girdaptır.
+
+126
+00:13:14.090 --> 00:13:21.740
+Bir yüksek basınç merkezinin, yani bir antisiklonun etrafında da hava döner, ters yönde ama yine artı 1 indeksle.
+
+127
+00:13:21.740 --> 00:13:34.670
+İki alçak ve iki yüksek basınç merkezi arasında kalan, meteorologların "col" dediği, Türkçede kimi zaman "basınç eyeri" diye anılan bölgeler ise birer eyer noktasıdır ve indeksleri eksi 1'dir.
+
+128
+00:13:34.670 --> 00:13:47.600
+Teorem, yüzey rüzgârlarını iyi tanımlanmış bir akış olarak ele aldığında şunu dayatır: herhangi bir anda gezegen genelinde siklon ve antisiklon merkezlerinin sayısından eyer noktalarının sayısını çıkarırsan,
+
+129
+00:13:47.600 --> 00:13:49.650
+sonuç 2 olmalıdır.
+
+130
+00:13:49.650 --> 00:13:57.460
+Hava haritasında onlarca girdap ve onlarca eyer belirip kaybolur; fırtınalar doğar, birleşir, söner.
+
+131
+00:13:57.460 --> 00:14:00.630
+Ama hesap her an sessizce dengede kalır.
+
+132
+00:14:00.630 --> 00:14:06.680
+Bir girdap doğduğunda ya bir eyer de doğar, ya da başka bir yerde bir girdap kaybolur.
+
+133
+00:14:06.680 --> 00:14:12.890
+Bu, atmosfer fizikçilerinin akışları sınıflandırırken kullandığı topolojik bakışın özüdür.
+
+134
+00:14:12.890 --> 00:14:17.020
+Bir kasırganın gözü bu fikrin en dramatik görüntüsüdür.
+
+135
+00:14:17.020 --> 00:14:25.790
+Saatte 200 kilometreyi aşan rüzgârların çevrelediği merkezde, hava neredeyse sakindir; gökyüzü bazen açılır, güneş görünür.
+
+136
+00:14:25.790 --> 00:14:33.280
+Bu sükûnetin fiziksel nedenleri karmaşıktır; merkezkaç etkiler, alçalan hava ve basınç dengesi birlikte çalışır.
+
+137
+00:14:33.280 --> 00:14:40.130
+Matematik ise daha yalın bir şey söyler: dönen bir girdabın merkezinde, okların bir yönü olamaz.
+
+138
+00:14:40.130 --> 00:14:44.420
+Kasırganın gözü, gökyüzüne çizilmiş bir saç girdabıdır.
+
+139
+00:14:44.420 --> 00:14:52.390
+Şimdi bakışımızı gökyüzünden yeryüzündeki en iddialı mühendislik projelerinden birine çevirelim: Güneş'i bir kapta yakalama çabasına.
+
+140
+00:14:52.390 --> 00:15:00.360
+Nükleer füzyon, hafif atom çekirdeklerini birleştirerek muazzam enerji açığa çıkarır; Güneş'i parlatan süreç budur.
+
+141
+00:15:00.360 --> 00:15:06.410
+Bunu Dünya'da yapmak için hidrojen yakıtını 100 milyon derecenin üzerine ısıtmak gerekir.
+
+142
+00:15:06.410 --> 00:15:13.900
+Bu sıcaklıkta madde, elektronları çekirdeklerinden kopmuş, elektrik yüklü bir gaza, yani plazmaya dönüşür.
+
+143
+00:15:13.900 --> 00:15:17.870
+Hiçbir malzeme böyle bir plazmaya dokunarak dayanamaz.
+
+144
+00:15:17.870 --> 00:15:29.040
+Tek çare onu manyetik alanla havada tutmaktır, çünkü yüklü parçacıklar manyetik alan çizgilerinin etrafında sarmal çizerek bu çizgileri izleme eğilimindedir.
+
+145
+00:15:29.040 --> 00:15:32.850
+Plazmayı tutacak manyetik kabı nasıl şekillendirirsin?
+
+146
+00:15:32.850 --> 00:15:38.580
+İlk akla gelen biçim belki bir küredir: her yönden eşit, simetrik, zarif.
+
+147
+00:15:38.580 --> 00:15:47.350
+Ama manyetik alan çizgilerinin kapalı bir yüzey üzerinde, yüzeye paralel biçimde dolaştığını düşünürsen, bu tam olarak saçlı top problemidir.
+
+148
+00:15:47.350 --> 00:15:58.520
+Bir küre üzerinde, alan çizgilerinin her yerde sıfırdan farklı olduğu düzgün bir manyetik alan kuramazsın; bir yerlerde alan sıfırlanır, ve plazma oradan sızar.
+
+149
+00:15:58.520 --> 00:16:07.930
+Simit biçimi ise bu engeli ortadan kaldırır, çünkü Euler karakteristiği sıfırdır ve üzerinde hiçbir kusur barındırmayan bir akış mümkündür.
+
+150
+00:16:07.930 --> 00:16:20.860
+Füzyon araştırmalarının en yaygın makinesi olan tokamakın, 1950'lerde Sovyetler Birliği'nde geliştirildiğinden bu yana simit biçiminde olmasının pek çok mühendislik nedeni var; ama bu topolojik gerçek,
+
+151
+00:16:20.860 --> 00:16:24.030
+işin en temelindeki şartlardan biridir.
+
+152
+00:16:24.030 --> 00:16:33.600
+Tokamaklarda alan çizgileri simidin hem uzun çevresi boyunca hem de kesiti etrafında dönerek iç içe geçmiş simit yüzeyleri üzerinde sarmallar çizer.
+
+153
+00:16:33.600 --> 00:16:44.930
+Fransa'nın güneyinde, Cadarache'ta otuzdan fazla ülkenin ortaklığıyla inşa edilen ITER, yani Uluslararası Füzyon Reaktörü de bu simit biçiminin bugüne kadarki en büyük örneği.
+
+154
+00:16:44.930 --> 00:16:54.500
+Rakip tasarım olan stellaratör ise simidi bükülmüş, kıvrılmış, adeta yoğrulmuş bir biçime sokar; ama o da özünde bir simittir.
+
+155
+00:16:54.500 --> 00:16:58.630
+Kusursuz bir manyetik kabın, bir delik taşıması gerekir.
+
+156
+00:16:58.630 --> 00:17:02.760
+Teoremin izleri gündelik teknolojide de karşına çıkar.
+
+157
+00:17:02.760 --> 00:17:14.090
+Bilgisayar grafiklerinde bir karakterin saçını, bir hayvanın kürkünü ya da bir gezegenin yüzeyindeki doku desenini üretirken, yazılımın kürenin üzerine yön alanları yerleştirmesi gerekir.
+
+158
+00:17:14.090 --> 00:17:25.580
+Animatörler bu kusurlardan kaçamayacaklarını bilirler; yapabildikleri tek şey, girdapları gözün en az fark edeceği yerlere, bir kulağın arkasına, bir çenenin altına saklamaktır.
+
+159
+00:17:25.580 --> 00:17:31.470
+Küresel yüzeyleri ızgaraya bölen hesaplama yöntemlerinde de aynı sorun ortaya çıkar.
+
+160
+00:17:31.470 --> 00:17:40.720
+Hava tahmin modellerinde kullanılan klasik enlem-boylam ızgarası, kutuplarda çizgilerin tek bir noktada toplanması yüzünden sayısal sorunlar yaratır;
+
+161
+00:17:40.720 --> 00:17:47.730
+bu yüzden bazı modern modeller küreyi altıgenlere ya da şişirilmiş bir küpün yüzlerine bölen ızgaralar kullanır.
+
+162
+00:17:47.730 --> 00:17:52.500
+Kusur yine oradadır, ama artık zararsız noktalara dağıtılmıştır.
+
+163
+00:17:52.500 --> 00:17:58.550
+Matematiğin dayattığı bir kusurdan kurtulamazsın; ancak onu nereye koyacağını seçebilirsin.
+
+164
+00:17:58.550 --> 00:18:03.320
+Belki de saçlı top teoreminin bize öğrettiği en derin şey budur.
+
+165
+00:18:03.320 --> 00:18:16.410
+Bir yüzeyin üzerinde neyin mümkün, neyin imkânsız olduğu, o yüzeyin boyutuna, malzemesine ya da üzerinde esen rüzgârın şiddetine değil, onun en sade özelliğine, kaç deliği olduğuna bağlıdır.
+
+166
+00:18:16.410 --> 00:18:27.900
+Bir küpü sayan Euler'in 2'si, başının arkasındaki girdaptan bir kasırganın sessiz gözüne, oradan da yıldızların ateşini taşımaya çalışan devasa bir simidin içine kadar uzanıyor.
+
+167
+00:18:27.900 --> 00:18:31.390
+Şu anda gezegenin bir yerinde rüzgâr duruyor.
+
+168
+00:18:31.390 --> 00:18:34.240
+Nerede olduğunu kimse söyleyemez.
+
+169
+00:18:34.240 --> 00:18:37.890
+Ama orada olduğunu, kesin olarak biliyoruz.
+
+170
+00:18:37.890 --> 00:18:41.220
+Nöron Bilim'de bugünkü bölümün sonuna geldik.
+
+171
+00:18:41.220 --> 00:18:44.390
+Yeni bir hikâyede yeniden buluşmak üzere.
