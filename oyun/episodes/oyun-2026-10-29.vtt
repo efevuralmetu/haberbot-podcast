@@ -1,0 +1,537 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.330
+Valve'ın ofisinde masaya bir öğrenci projesi konur: duvara bir kapı açıyorsunuz, karşı duvardan çıkıyorsunuz.
+
+2
+00:00:07.330 --> 00:00:12.740
+Gabe Newell sunumun sonunda bir oyun değil, bir ekip satın almaya karar verir.
+
+3
+00:00:12.740 --> 00:00:20.870
+Bir yıl sonra yedi öğrencinin bulmacası, Half-Life'ın yanında bonus diye pakete konan ama herkesin konuştuğu oyun olur.
+
+4
+00:00:29.070 --> 00:00:31.280
+Bir duvara bakıyorsunuz.
+
+5
+00:00:31.280 --> 00:00:38.450
+Elinizdeki aletle duvarda bir delik açıyorsunuz, sonra odanın öbür ucundaki tavana ikinci bir delik.
+
+6
+00:00:38.450 --> 00:00:43.860
+Birinciden içeri adım attığınız anda kendinizi ikincisinden düşerken buluyorsunuz.
+
+7
+00:00:43.860 --> 00:00:49.430
+İki nokta arasındaki mesafe ortadan kalkmış, oda bir bilmeceye dönüşmüştür.
+
+8
+00:00:49.430 --> 00:00:52.600
+Bugün bu fikir bir oyun klasiği sayılıyor.
+
+9
+00:00:52.600 --> 00:00:58.010
+Ama ilk kez ekrana geldiğinde ortada ne büyük bir stüdyo vardı ne de bir bütçe.
+
+10
+00:00:58.010 --> 00:01:02.620
+Bir okul ödevi vardı, bir de birbirine inat eden yedi öğrenci.
+
+11
+00:01:02.620 --> 00:01:10.590
+Hikâye Washington eyaletinin Redmond kentinde, oyun geliştirme eğitimiyle tanınan DigiPen Teknoloji Enstitüsü'nde başlıyor.
+
+12
+00:01:10.590 --> 00:01:17.600
+DigiPen'de öğrenciler mezun olmadan önce takım hâlinde, baştan sona çalışan bir oyun yapmak zorunda.
+
+13
+00:01:17.600 --> 00:01:24.290
+Motor dahil her şeyi kendileri yazacaklar, bir yıl boyunca bir yazılım şirketi gibi çalışacaklar.
+
+14
+00:01:24.290 --> 00:01:33.860
+2004-2005 öğretim yılında bir grup öğrenci kendilerine Nuclear Monkey Software, yani Nükleer Maymun Yazılım adını veriyor.
+
+15
+00:01:33.860 --> 00:01:44.390
+Ekipte ileride bu hikâyenin en çok bilinen yüzü olacak Kim Swift var, bir de Jeep Barnett, Dave Kircher, Garret Rickey ve Realm Lovejoy gibi adlar.
+
+16
+00:01:44.390 --> 00:01:49.640
+Ortaya çıkan oyunun adı Narbacular Drop, yani Narbaküler Düşüş.
+
+17
+00:01:49.640 --> 00:01:52.330
+Ad bilerek tuhaf seçilmiş.
+
+18
+00:01:52.330 --> 00:01:58.540
+Ekip internette arandığında başka hiçbir şeyle karışmayacak, kendine ait bir kelime istemiş.
+
+19
+00:01:58.540 --> 00:02:07.470
+Hikâyesi de en az adı kadar masalsı: Prenses Dizsiz adında bir kahraman, Grumpus adlı bir iblis tarafından bir zindana kapatılıyor.
+
+20
+00:02:07.470 --> 00:02:13.040
+Ama bu zindan sıradan değil, Wally adında canlı, düşünen bir varlık.
+
+21
+00:02:13.040 --> 00:02:20.210
+Prensesin dizi olmadığı için zıplayamaması da bir şaka gibi görünse de aslında bir tasarım kararı.
+
+22
+00:02:20.210 --> 00:02:25.780
+Oyuncu engelleri atlayarak aşamıyor, mekânın kendisini değiştirerek aşmak zorunda.
+
+23
+00:02:25.780 --> 00:02:28.310
+Bunu da iki portalla yapıyor.
+
+24
+00:02:28.310 --> 00:02:32.920
+Fare tuşlarından biri bir portal açıyor, öteki ikincisini.
+
+25
+00:02:32.920 --> 00:02:35.930
+Bir portaldan giren, öbüründen çıkıyor.
+
+26
+00:02:35.930 --> 00:02:41.500
+Kâğıt üstünde basit bir kural, ama içinden bambaşka bir düşünme biçimi çıkıyor.
+
+27
+00:02:41.500 --> 00:02:48.510
+Ekibin keşfettiği en önemli şey, oyuncunun portaldan girerken taşıdığı hızın çıkarken de korunması oldu.
+
+28
+00:02:48.510 --> 00:02:54.400
+Yüksekten bir portala düşerseniz, duvardaki öbür portaldan aynı hızla fırlıyorsunuz.
+
+29
+00:02:54.400 --> 00:02:59.330
+Böylece normalde ulaşılamayacak bir uçurumun karşısına uçabiliyorsunuz.
+
+30
+00:02:59.330 --> 00:03:05.060
+Yerçekimi, ivme ve geometri birden oyunun ana malzemesi hâline geldi.
+
+31
+00:03:05.060 --> 00:03:09.510
+Oyun teknik açıdan bir öğrenci projesinin sınırlarını taşıyordu.
+
+32
+00:03:09.510 --> 00:03:15.880
+Görselleri sadeydi, bölüm sayısı azdı, hikâyesi ince bir masal çerçevesinden ibaretti.
+
+33
+00:03:15.880 --> 00:03:22.570
+Ama oynayan herkes aynı anı yaşıyordu: ilk kez bir portalın içinden kendi sırtını gördüğü an.
+
+34
+00:03:22.570 --> 00:03:27.500
+Bu düşünce, başka hiçbir oyunun alışkanlık hâline getirmediği bir şeydi.
+
+35
+00:03:27.500 --> 00:03:34.510
+Narbaküler Düşüş 2005'te ücretsiz olarak internete konduğunda küçük ama heyecanlı bir kitle buldu.
+
+36
+00:03:34.510 --> 00:03:39.600
+Asıl kritik izleyici ise başka bir yerdeydi, okulun kariyer fuarında.
+
+37
+00:03:39.600 --> 00:03:45.810
+DigiPen'in yıllık fuarları, sektörün yeni yetenek aramaya geldiği bir vitrin işlevi görüyordu.
+
+38
+00:03:45.810 --> 00:03:53.620
+Okulun Redmond'daki kampüsü ile Valve'ın o dönemki merkezi Bellevue birbirine yalnızca birkaç kilometre uzaklıktaydı.
+
+39
+00:03:53.620 --> 00:04:01.910
+Valve, Half-Life serisiyle dünyanın en saygın stüdyolarından biri olmuştu ve Steam platformu da yeni yeni büyüyordu.
+
+40
+00:04:01.910 --> 00:04:08.600
+Fuarda Narbaküler Düşüş'ü gören Valve çalışanları, ekibi şirkete gelip oyunu göstermeye davet etti.
+
+41
+00:04:08.600 --> 00:04:15.130
+Öğrenciler bu toplantıyı bir tanıtım olarak, belki bir tavsiye mektubu fırsatı olarak düşünüyordu.
+
+42
+00:04:15.130 --> 00:04:22.300
+Valve'ın kurucusu Gabe Newell'ın ve şirketin kıdemli tasarımcılarının karşısına geçip oyunu oynattılar.
+
+43
+00:04:22.300 --> 00:04:32.670
+Kim Swift yıllar sonra verdiği röportajlarda o günü anlatırken sunumun kısa sürdüğünü ve Newell'ın neredeyse hemen ekibin tamamını işe almayı teklif ettiğini söyler.
+
+44
+00:04:32.670 --> 00:04:38.880
+Swift'in anlatımına göre sunum bitmeden, dakikalar içinde iş teklifi masadaydı.
+
+45
+00:04:38.880 --> 00:04:45.410
+Okul ödevi için bir yıl uğraşmış yedi kişi, Valve'ın kapısından çalışan olarak çıkmıştı.
+
+46
+00:04:45.410 --> 00:04:51.140
+Valve'ı bu kadar hızlı karar vermeye iten, oyunun kendisinden çok içindeki fikirdi.
+
+47
+00:04:51.140 --> 00:04:57.190
+Portal mekaniği, Valve'ın fizik tabanlı oynanışa duyduğu ilgiyle kusursuz uyuşuyordu.
+
+48
+00:04:57.190 --> 00:05:07.880
+Şirket birkaç yıl önce Half-Life 2'de oyuncunun eline nesneleri kaldırıp fırlatan bir yerçekimi silahı vermiş ve fizik bilmecelerini oyunun merkezine taşımıştı.
+
+49
+00:05:07.880 --> 00:05:16.650
+Narbaküler Düşüş'teki portal ise aynı felsefeyi bir adım öteye götürüyordu, çünkü nesneleri değil mekânın kendisini oyuncağa çeviriyordu.
+
+50
+00:05:16.650 --> 00:05:24.140
+Valve'ın küçük, odaklı ekiplerle deneme yapma kültürü de bu öğrencilerin şirkete kolayca yerleşmesini sağladı.
+
+51
+00:05:24.140 --> 00:05:37.550
+Ekip 2005 ortasında Valve'da çalışmaya başladı ve önlerine açık bir görev kondu: bu fikri Valve'ın kendi motoru Source, yani Kaynak motoru üzerinde, profesyonel ölçekte yeniden kurmak.
+
+52
+00:05:37.550 --> 00:05:42.480
+İlk aşamada yaptıkları şey oyunu soyup çıplak hâline indirmek oldu.
+
+53
+00:05:42.480 --> 00:05:46.930
+Prenses gitti, iblis gitti, masal zindanı gitti.
+
+54
+00:05:46.930 --> 00:05:50.420
+Elde yalnızca portallar ve test odaları kaldı.
+
+55
+00:05:50.420 --> 00:05:58.070
+Ekip her yeni fikri önce oyunculara deniyor, kimin nerede takıldığını, kimin neyi kendi başına keşfettiğini izliyordu.
+
+56
+00:05:58.070 --> 00:06:06.200
+Valve'ın test oyuncularını saatlerce izleyip tasarımı onların davranışına göre biçimlendirme alışkanlığı Portal'ın bel kemiği oldu.
+
+57
+00:06:06.200 --> 00:06:11.290
+Bu testlerden çıkan derslerden biri, oyunun öğretme biçimini belirledi.
+
+58
+00:06:11.290 --> 00:06:15.900
+Portal mekaniği ilk kez karşılaşan biri için kafa karıştırıcıydı.
+
+59
+00:06:15.900 --> 00:06:21.950
+Ekip bu yüzden oyunu, her odanın tek bir yeni kavram öğrettiği bir merdiven gibi kurdu.
+
+60
+00:06:21.950 --> 00:06:32.640
+Önce oyuncuya hazır açılmış portallar gösteriliyor, sonra tek portal açma yeteneği veriliyor, ancak ondan sonra iki portal birlikte oyuncunun eline teslim ediliyordu.
+
+61
+00:06:32.640 --> 00:06:40.930
+İvmenin korunması gibi zor bir fikir, öğretici bir metinle değil, oyuncunun kendi kendine şaşırıp keşfedeceği bir odayla anlatılıyordu.
+
+62
+00:06:40.930 --> 00:06:45.860
+Ama boş, steril test odaları tek başına bir oyunu ayakta tutamazdı.
+
+63
+00:06:45.860 --> 00:06:50.150
+Ekibin bir sesi, bir karakteri, bir anlamı olması gerekiyordu.
+
+64
+00:06:50.150 --> 00:06:57.960
+Valve bu noktada ekibe iki yazar kattı: daha önce mizahi yazılarıyla tanınan Erik Wolpaw ve Chet Faliszek.
+
+65
+00:06:57.960 --> 00:07:03.530
+Onların getirdiği şey, oyunu bir bilmece koleksiyonundan bir hikâyeye çevirdi.
+
+66
+00:07:03.530 --> 00:07:14.540
+Oyuncu artık Chell adında sessiz bir kadındı ve Aperture Science, yani Aperture Bilim adında gizemli bir araştırma şirketinin tesisinde, bir dizi teste tabi tutuluyordu.
+
+67
+00:07:14.540 --> 00:07:21.070
+Testleri yöneten ise oyunun gerçek yıldızı olacak bir yapay zekâydı: GLaDOS.
+
+68
+00:07:21.070 --> 00:07:30.320
+GLaDOS'u seslendiren Ellen McLain'in sesi, bilgisayarla hafifçe işlenerek tekdüze, kibar ama tedirgin edici bir tona büründürüldü.
+
+69
+00:07:30.320 --> 00:07:37.490
+GLaDOS önce yardımsever bir rehber gibi konuşuyordu, oyuncuyu cesaretlendiriyor, kurallarını açıklıyordu.
+
+70
+00:07:37.490 --> 00:07:42.420
+Fakat cümlelerin arasına giderek daha karanlık şeyler sızmaya başlıyordu.
+
+71
+00:07:42.420 --> 00:07:48.150
+Ekibin keşfettiği şey, kısıtlı bir oyunda anlatının da kısıtlı olabileceğiydi.
+
+72
+00:07:48.150 --> 00:07:52.120
+Ara sahne yoktu, karşınıza başka bir karakter çıkmıyordu.
+
+73
+00:07:52.120 --> 00:07:58.330
+Bütün hikâye tek bir sesin tonundaki çatlaklardan ve duvarlardaki izlerden anlaşılıyordu.
+
+74
+00:07:58.330 --> 00:08:03.420
+Bu küçük oyunu nasıl satacağı sorusuna Valve'ın cevabı alışılmadıktı.
+
+75
+00:08:03.420 --> 00:08:08.510
+Portal tek başına piyasaya çıkmayacak, bir paketin parçası olacaktı.
+
+76
+00:08:08.510 --> 00:08:15.520
+10 Ekim 2007'de Valve, The Orange Box, yani Turuncu Kutu adlı derlemeyi yayımladı.
+
+77
+00:08:15.520 --> 00:08:25.090
+Kutunun içinde Valve'ın en çok beklenen işleri vardı: Half-Life 2'nin yeni bölümü ve yıllardır beklenen çok oyunculu bir nişancı oyunu.
+
+78
+00:08:25.090 --> 00:08:30.820
+Portal bu iki büyük yapımın yanına, kimsenin pek konuşmadığı bir bonus olarak eklenmişti.
+
+79
+00:08:30.820 --> 00:08:35.590
+Birkaç saatte bitirilebilen, deneysel bir yan iş gibi görünüyordu.
+
+80
+00:08:35.590 --> 00:08:39.880
+Oyuncular kutuyu açıp Portal'ı denediğinde durum tersine döndü.
+
+81
+00:08:39.880 --> 00:08:46.570
+Sohbetlerde, forumlarda ve eleştiri yazılarında en çok konuşulan şey bonus oyun oldu.
+
+82
+00:08:46.570 --> 00:08:50.860
+Kısa süresi bir kusur değil, bir erdem gibi algılandı.
+
+83
+00:08:50.860 --> 00:08:59.630
+Portal tek bir fikri alıp onu hiç sulandırmadan, her odada biraz daha zorlayarak sonuna kadar götürüyor ve tam doyum noktasında bitiyordu.
+
+84
+00:08:59.630 --> 00:09:02.800
+Oyunun mizahı da bu yoğunluğun bir parçasıydı.
+
+85
+00:09:02.800 --> 00:09:11.090
+GLaDOS'un oyuncuyu tesellisi ile tehdidi arasında gidip gelen cümleleri kısa sürede alıntılanan, tekrarlanan bir dile dönüştü.
+
+86
+00:09:11.090 --> 00:09:13.780
+Bu dilin merkezinde bir pasta vardı.
+
+87
+00:09:13.780 --> 00:09:19.190
+GLaDOS, testleri tamamlayan oyuncuya ödül olarak pasta vaat ediyordu.
+
+88
+00:09:19.190 --> 00:09:26.040
+Oyuncu ilerledikçe, tesisin kuytu köşelerinde başka birinin bıraktığı izler bulmaya başlıyordu.
+
+89
+00:09:26.040 --> 00:09:32.730
+Duvarlara karalanmış notlar, çizimler ve tekrar tekrar yazılmış tek bir cümle: pasta bir yalan.
+
+90
+00:09:32.730 --> 00:09:41.020
+Bu cümle, oyuncuya GLaDOS'un kendisini kandırdığını ve testlerin sonunda bir ödül değil bir son beklediğini sezdiriyordu.
+
+91
+00:09:41.020 --> 00:09:47.550
+Oyunun tamamında anlatıcı ile oyuncu arasındaki güvensizlik, bu birkaç kelimeyle özetlenmiş oldu.
+
+92
+00:09:47.550 --> 00:09:51.360
+Kısa süre içinde de oyun dünyasının dışına taştı.
+
+93
+00:09:51.360 --> 00:09:59.490
+İnternet sohbetlerinde, tişörtlerde, sahte vaatlerle ilgili her türlü esprinin içinde aynı cümle dolaşmaya başladı.
+
+94
+00:09:59.490 --> 00:10:03.940
+Oyunun başka bir kahramanı daha vardı, hiç konuşmayan bir küp.
+
+95
+00:10:03.940 --> 00:10:14.310
+Bölümlerden birinde oyuncuya, kenarları pembe kalplerle süslenmiş bir küp veriliyor ve adı Weighted Companion Cube, yani Ağırlıklı Yoldaş Küp olarak konuyordu.
+
+96
+00:10:14.310 --> 00:10:23.560
+Oyuncu bütün bölüm boyunca bu küpü yanında taşıyor, bilmeceleri onunla çözüyor, GLaDOS da küpün sadık bir dost olduğunu ısrarla hatırlatıyordu.
+
+97
+00:10:23.560 --> 00:10:28.810
+Bölümün sonunda ise oyuncudan küpü yakma fırınına atması isteniyordu.
+
+98
+00:10:28.810 --> 00:10:33.580
+Kim Swift bu fikrin test oyuncularını izlerken doğduğunu anlatır.
+
+99
+00:10:33.580 --> 00:10:37.710
+Oyuncular odalar arasında küpü unutup geride bırakıyordu.
+
+100
+00:10:37.710 --> 00:10:45.360
+Tasarımcılar küpe bir isim, kalpler ve GLaDOS'un sevecen cümlelerini ekleyince oyuncular onu bırakmaz oldu.
+
+101
+00:10:45.360 --> 00:10:52.530
+Sonunda o küpü feda etmek, cansız bir nesneye bağlanmanın tuhaf ama gerçek bir anına dönüştü.
+
+102
+00:10:52.530 --> 00:10:59.380
+Finalde, GLaDOS'la yüzleşmenin ardından jenerikte çalan şarkı da bu efsanenin bir parçası oldu.
+
+103
+00:10:59.380 --> 00:11:12.470
+Şarkıcı ve söz yazarı Jonathan Coulton'ın yazdığı ve GLaDOS'un sesiyle söylenen Still Alive, yani Hâlâ Hayattayım, yapay zekânın kırgın, alaycı ve tuhaf biçimde dokunaklı bir veda mektubuydu.
+
+104
+00:11:12.470 --> 00:11:21.560
+Oyunun bütün mizahını ve karanlığını birkaç dakikaya sığdıran bu şarkı, oyuncuların jeneriği sonuna kadar izlediği nadir anlardan birini yarattı.
+
+105
+00:11:21.560 --> 00:11:23.290
+Ödüller de geldi.
+
+106
+00:11:23.290 --> 00:11:32.220
+2008'deki Oyun Geliştiricileri Konferansı'nda, yani meslektaşların birbirini oyladığı törende, Portal yılın oyunu seçildi.
+
+107
+00:11:32.220 --> 00:11:44.670
+Bir zamanlar okul ödevi olan bir fikrin, devlerle aynı kutuda bonus olarak dağıtıldıktan sonra o kutudaki en çok ödüllendirilen yapım olması, hikâyeyi tam bir kahramanlık masalına çevirdi.
+
+108
+00:11:44.670 --> 00:11:50.400
+Basın, Portal'ı kısa oyunların da başyapıt olabileceğinin kanıtı olarak gösterdi.
+
+109
+00:11:50.400 --> 00:11:55.330
+Bu başarının en kalıcı sonucu belki de Valve'ın kendi içinde yaşandı.
+
+110
+00:11:55.330 --> 00:12:03.620
+Şirket, DigiPen'den bir ekibi bir fikirle birlikte işe almanın ne kadar verimli olabileceğini görmüştü ve bunu tekrarladı.
+
+111
+00:12:03.620 --> 00:12:15.110
+Birkaç yıl sonra aynı okuldan, yüzeylere boya sürerek zıplamayı ve kaymayı değiştiren Tag: The Power of Paint, yani Boyanın Gücü adlı bir öğrenci projesinin ekibi de Valve'a katıldı.
+
+112
+00:12:15.110 --> 00:12:22.280
+O boya fikri, 2011 Nisanı'nda çıkan Portal 2'deki jelatin benzeri sıvılara dönüştü.
+
+113
+00:12:22.280 --> 00:12:27.370
+Böylece Portal sadece bir oyun değil, bir yetenek bulma yöntemi oldu.
+
+114
+00:12:27.370 --> 00:12:33.580
+Bir okul koridorunda doğan fikirler, doğrudan büyük bir stüdyonun ana yapımlarına akabiliyordu.
+
+115
+00:12:33.580 --> 00:12:42.670
+Portal 2, ilk oyunun kısa ve sade yapısını çok daha geniş bir hikâyeye, karakter kadrosuna ve iki kişilik bir ortak oyun moduna taşıdı.
+
+116
+00:12:42.670 --> 00:12:47.920
+Aperture Bilim'in tarihini derinleştirdi, GLaDOS'un geçmişini açtı.
+
+117
+00:12:47.920 --> 00:12:50.290
+Ama oyunun özü değişmemişti.
+
+118
+00:12:50.290 --> 00:12:59.060
+Hâlâ iki delik vardı, hâlâ ivme korunuyordu, hâlâ oyuncu duvarlara bakıp aklından geçen imkânsız yolu bulmaya çalışıyordu.
+
+119
+00:12:59.060 --> 00:13:02.870
+İlk ekibin üyeleri zamanla farklı yollara dağıldı.
+
+120
+00:13:02.870 --> 00:13:11.640
+Kim Swift Valve'dan ayrılıp başka stüdyolarda kendi bilmece oyunlarını yaptı, ekibin diğer üyelerinin bir kısmı ise yıllarca Valve'da kaldı.
+
+121
+00:13:11.640 --> 00:13:17.850
+Ama hepsinin adı, bilmece oyunlarının çehresini değiştiren bir dönemin başlangıcına yazıldı.
+
+122
+00:13:17.850 --> 00:13:26.780
+Portal'dan sonra birinci şahıs kamerayla oynanan, şiddet yerine düşünmeyi merkeze alan bilmece oyunları ayrı bir tür gibi anılmaya başladı.
+
+123
+00:13:26.780 --> 00:13:35.870
+Bağımsız geliştiriciler, mekânın kurallarını büken, fizikle oynayan, tek bir mekanik üzerine kurulmuş oyunlarla bu yoldan ilerledi.
+
+124
+00:13:35.870 --> 00:13:45.760
+Pek çok tasarımcı Portal'ı, bir oyunun tek bir iyi fikri nasıl öğretip, nasıl derinleştirip, nasıl tam zamanında bitirmesi gerektiğinin ders kitabı olarak anar.
+
+125
+00:13:45.760 --> 00:13:52.450
+Bugün geriye dönüp bakınca hikâyenin en çarpıcı yanı, ortada hiçbir garantinin olmamasıdır.
+
+126
+00:13:52.450 --> 00:13:58.020
+Yedi öğrenci tuhaf adlı, zıplayamayan bir prensesle bir okul ödevi yaptı.
+
+127
+00:13:58.020 --> 00:14:01.350
+Bir kariyer fuarında birileri durup baktı.
+
+128
+00:14:01.350 --> 00:14:05.800
+Bir toplantı odasında birkaç dakika içinde karar verildi.
+
+129
+00:14:05.800 --> 00:14:13.290
+Ve büyük oyunların yanında bonus olarak dağıtılan küçük bir deney, o kutunun en uzun yaşayan parçası oldu.
+
+130
+00:14:13.290 --> 00:14:17.900
+Portal'ın açtığı delik yalnızca test odalarının duvarında değildi.
+
+131
+00:14:17.900 --> 00:14:24.270
+Oyun sektörünün öğrenci projelerine, küçük fikirlere ve kısa oyunlara bakışında da bir delik açtı.
+
+132
+00:14:24.270 --> 00:14:29.520
+O delikten geçenlerin bir kısmı hâlâ öbür taraftan çıkmaya devam ediyor.
+
+133
+00:14:29.520 --> 00:14:32.530
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+134
+00:14:32.530 --> 00:14:35.860
+Yeni bir hikâyede yeniden buluşmak üzere.
