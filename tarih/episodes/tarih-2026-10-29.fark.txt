@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-29.mp3
+
+beklenen 3097 kelime | duyulan 3106 kelime | eşleşme %96.9
+sayı ifadesi: metinde 440, duyulanda 312  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sonra şubat ta harlem
+      metin  : deki
+      duyulan: daki
+  REPLACE  ...leyden e geldi adı
+      metin  : karolus klusius
+      duyulan: carolus clusius
+  REPLACE  ...ve bu bahçenin başına
+      metin  : klusius
+      duyulan: clusius
+  REPLACE  ...sarayına gönderdiği flaman elçi
+      metin  : ojye
+      duyulan: oje
+  REPLACE  ...flaman elçi ojye gislen
+      metin  : dö büsbek ellilerin
+      duyulan: de busbek lerin
+  REPLACE  ...dediği çiçek de vardı
+      metin  : büsbek
+      duyulan: busbek
+  REPLACE  ...bu küçük karışıklıktan türedi
+      metin  : büsbek
+      duyulan: busbek
+  INSERT   ...doğa bilimci konrad gesner
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bilimci konrad gesner augsburg
+      metin  : da
+      duyulan: ta
+  REPLACE  ...ilk resmi tasviridir klusius
+      metin  : da
+      duyulan: ta
+  REPLACE  ...bu ağın tam ortasındaydı
+      metin  : büsbek
+      duyulan: busbek
+  INSERT   ...hollanda doğu hindistan şirketi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kimsenin bilmediği bu neden
+      metin  : hollanda nın
+      duyulan: hollandalıların
+  REPLACE  ...çok nadirliğindeydi amsterdamlı vakanüvis
+      metin  : nikolas fan vasenar yirmilerin
+      duyulan: nicolas van wassenaer lerin
+  REPLACE  ...ortasında bu laleden yalnızca
+      metin  : düzine
+      duyulan: düzüne
+  REPLACE  ...hindistan şirketi nin yöneticilerinden
+      metin  : adriyan
+      duyulan: adrian
+  REPLACE  ...pau un harlem yakınlarındaki
+      metin  : hemstede
+      duyulan: hempstede
+  REPLACE  ...verdikleri de zayıf kalıyordu
+      metin  : klusius
+      duyulan: clusius
+  INSERT   ...bu paradoksun cevabı ancak
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...cevabı ancak sonra bulundu
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...ngiliz bitki bilimci dorothy
+      metin  : cayley
+      duyulan: keighley
+  REPLACE  ...biti hasta laleden emdiği
+      metin  : özsuyla
+      duyulan: össüyle
+  REPLACE  ...görenlerin tanıklığına güvenmek zorundaydı
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...güvenmek zorundaydı yirmilerde ve
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...ortada çiçek bile kalmayacaktı
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...bu işe kendi dillerinde
+      metin  : vindhandel
+      duyulan: windhandel
+  REPLACE  ...yani rüzgar ticareti dediler
+      metin  : elle
+      duyulan: el ile
+  REPLACE  ...amsterdam da leyden de
+      metin  : alkmar
+      duyulan: alkmağır
+  REPLACE  ...belirli hanların arka odalarında
+      metin  : lale
+      duyulan: lalet
+  REPLACE  ...ağırlık gramın kadar gelen
+      metin  : aas
+      duyulan: ağız
+  REPLACE  ...bu evin fiyatına yaklaşabiliyordu
+      metin  : haarlemli
+      duyulan: haharlemli
+  REPLACE  ...fiyatına yaklaşabiliyordu haarlemli tarihçi
+      metin  : teodorus skrevelius
+      duyulan: theodorus scrivelius te
+  INSERT   ...soğanının değeri şöyle somutlaştırılır
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...alkmar kentinde han işleten
+      metin  : vauter bartelmis vinkel
+      duyulan: wouter barthelmis winkel
+  REPLACE  ...vinkel adlı adam vardı
+      metin  : vinkel
+      duyulan: winkel
+  INSERT   ...oluşan etkileyici koleksiyon biriktirmişti
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...verdi açık artırma şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adlı soğan gulden getirdi
+      metin  : enkhöyzen
+      duyulan: enközen
+  INSERT   ...kasıp kavuran bu salgın
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kentin sokaklarında dolaştığı aylardı
+      metin  : (yok)
+      duyulan: nın
+  ... ve 20 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: tarih-2026-10-29.duyulan.txt

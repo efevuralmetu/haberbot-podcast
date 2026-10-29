@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-29.mp3
+
+beklenen 1596 kelime | duyulan 1602 kelime | eşleşme %96.1
+sayı ifadesi: metinde 180, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yazılım şirketi gibi çalışacaklar
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...nuclear monkey softwaer yani
+      metin  : nükleer
+      duyulan: nuclear
+  REPLACE  ...de jeep barnett dave
+      metin  : kircher garret
+      duyulan: kurcher garrett
+  REPLACE  ...kircher garret rickey ve
+      metin  : realm
+      duyulan: ryan
+  REPLACE  ...adı narbacular drop yani
+      metin  : narbaküler
+      duyulan: narbacular
+  REPLACE  ...adı kadar masalsı prenses
+      metin  : dizsiz
+      duyulan: dissiz
+  REPLACE  ...prenses dizsiz adında kahraman
+      metin  : grumpus
+      duyulan: gurumpus
+  REPLACE  ...bu zindan sıradan değil
+      metin  : wally
+      duyulan: wal e
+  INSERT   ...getirmediği şeydi narbaküler düşüş
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...görüyordu okulun redmond daki
+      metin  : kampüsü ile
+      duyulan: kampüsüyle
+  INSERT   ...yalnızca kilometer uzaklıktaydı valve
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...valve ın kurucusu gabe
+      metin  : newel
+      duyulan: newal
+  REPLACE  ...sunumun kısa sürdüğünü ve
+      metin  : newel
+      duyulan: newal
+  DELETE   ...çalışan olarak çıkmıştı valve
+      metin  : ı
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yıl önce half life
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bilmecelerini oyunun merkezine taşımıştı
+      metin  : narbaküler
+      duyulan: narbacular
+  REPLACE  ...öğretme biçimini belirledi portal
+      metin  : mekaniği
+      duyulan: mekaniyi
+  REPLACE  ...önce mizahi yazılarıyla tanınan
+      metin  : erik wolpaw
+      duyulan: eric wolpuff
+  REPLACE  ...erik wolpaw ve chet
+      metin  : faliszek
+      duyulan: falizek
+  REPLACE  ...hikayeye çevirdi oyuncu artık
+      metin  : chel
+      duyulan: çel
+  REPLACE  ...glados u seslendiren ellen
+      metin  : mclain
+      duyulan: maclain
+  INSERT   ...çıkmayacak paketin parçası olacaktı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...paketin parçası olacaktı ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...işleri vardı half life
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...un oyuncuyu tesellisi ile
+      metin  : tehdidi
+      duyulan: tehdit
+  REPLACE  ...oyuncu arasındaki güvensizlik bu
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...taşıyor bilmeceleri çözüyor glados
+      metin  : da
+      duyulan: ta
+  REPLACE  ...ve söz yazarı jonathan
+      metin  : coulton ın
+      duyulan: colton un
+  REPLACE  ...sığdıran bu şarkı oyuncuların
+      metin  : jeneriği
+      duyulan: jeneriyi
+  INSERT   ...yarattı ödüller de geldi
+      metin  : (yok)
+      duyulan: ki deki
+  REPLACE  ...tam kahramanlık masalına çevirdi
+      metin  : basın
+      duyulan: baas ın
+  REPLACE  ...zıplamayı ve kaymayı değiştiren
+      metin  : tag
+      duyulan: tug
+  REPLACE  ...nisanı nda çıkan portal
+      metin  : jelatin
+      duyulan: deki gelatin
+  REPLACE  ...yapısını çok daha geniş
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...ı oyunun tek iyi
+      metin  : fikri
+      duyulan: oyunu
+  REPLACE  ...durup baktı toplantı odasında
+      metin  : dakika
+      duyulan: kapa
+  REPLACE  ...taraftan çıkmaya devam ediyor
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: oyun-2026-10-29.duyulan.txt

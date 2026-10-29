@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-29.mp3
+
+beklenen 2578 kelime | duyulan 2581 kelime | eşleşme %93.7
+sayı ifadesi: metinde 329, duyulanda 258  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...neredeyze tamamen unuttu şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...canet dediği tevrat ta
+      metin  : soan
+      duyulan: soğan
+  REPLACE  ...kopmuş heykeller uzanır fransız
+      metin  : mısırbilimci piyer
+      duyulan: mısır bilimci pierer
+  INSERT   ...harabelerin arasında kazı yapıyordur
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...arasında kazı yapıyordur geldiğinde
+      metin  : tanis
+      duyulan: tanist
+  REPLACE  ...yeni yer olmadığını biliyordu
+      metin  : ogüst maryet
+      duyulan: auguste mariette
+  REPLACE  ...çalışmış flinders petrie de
+      metin  : seksenlerde
+      duyulan: lerde
+  DELETE   ...parçalı çağa girmişti tanis
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ilk girdiği yapı hanedandan
+      metin  : i kinci osorkon un
+      duyulan: osorko nun
+  REPLACE  ...yapıda kralın oğlu prens
+      metin  : hornakht
+      duyulan: hornakt
+  DELETE   ...yazılar burada yatanın hanedandan
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...değil de başka kralın
+      metin  : psusennes
+      duyulan: susennes
+  INSERT   ...resmi törene dönüştü mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...douglas derry tarafından incelendi
+      metin  : derry nin
+      duyulan: derinin
+  INSERT   ...enfeksiyon sonucu ölmüştü kral
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...ölmüştü kral yaşlarında adamdı
+      metin  : faruğun
+      duyulan: faru nun
+  INSERT   ...yalnızca gün önce mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...önce mart alman askerleri
+      metin  : prag
+      duyulan: prague
+  REPLACE  ...küçük yer bulabildi bu
+      metin  : tanis
+      duyulan: tannis
+  REPLACE  ...ize henüz işini bitirmemişti
+      metin  : ön
+      duyulan: ölen
+  REPLACE  ...sürede mezarın planını anladı
+      metin  : psusennes
+      duyulan: pesusennes
+  INSERT   ...etti monte kazıya şubat
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...çıktı bu lahit aslında
+      metin  : psusennes
+      duyulan: pesusennes
+  DELETE   ...sahibi hanedanın firavunlarından büyük
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bu lahit aradan geçen
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...yazılı olduğu çerçeveler seçilebiliyordu
+      metin  : psusennes
+      duyulan: pesusennes
+  REPLACE  ...içinde lahit vardı siyah
+      metin  : granitten
+      duyulan: graniten
+  REPLACE  ...görülen gümüşün benzeri parlıyordu
+      metin  : psusennes
+      duyulan: pesusennes
+  REPLACE  ...kullanılan sürahiler kaseler bulundu
+      metin  : psusennes
+      duyulan: pesusennes
+  REPLACE  ...in adının mısırca biçimi
+      metin  : pasebahaenniut
+      duyulan: pasebahayeniyot
+  REPLACE  ...dev duvarı yaptırmış kraldı
+      metin  : derry
+      duyulan: derri
+  REPLACE  ...derry kemiklerini de inceledi
+      metin  : psusennes
+      duyulan: pesusennes
+  REPLACE  ...izlerini taşıyordu dişlerinde ağır
+      metin  : apseler
+      duyulan: hapseler
+  REPLACE  ...mezarın sürprizleri bununla bitmedi
+      metin  : psusennes
+      duyulan: pesusennes
+  REPLACE  ...odalardan başlangıçta kralın eşi
+      metin  : mutnecmet
+      duyulan: mut nekmet
+  INSERT   ...için hazırlanmıştı monte nisan
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...değil başka firavunu buldu
+      metin  : psusennes
+      duyulan: pesusennes
+  INSERT   ...kasasına dönüşmüştü savaşın ardından
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oda daha buldu burada
+      metin  : psusennes
+      duyulan: pesusennes
+  REPLACE  ...psusennes in komutanlarından komutan
+      metin  : vencebauenced
+      duyulan: vencebo encet
+  ... ve 31 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 56
+
+duyulan metin: arkeoloji-2026-10-29.duyulan.txt

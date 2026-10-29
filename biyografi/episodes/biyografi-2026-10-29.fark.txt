@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-29.mp3
+
+beklenen 3176 kelime | duyulan 3183 kelime | eşleşme %95.1
+sayı ifadesi: metinde 487, duyulanda 310  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...taktığınız her alet adamın
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...her alet adamın yaşlarında
+      metin  : budapeşte
+      duyulan: budapest de
+  REPLACE  ...parkta yürürken kafasında kurduğu
+      metin  : makineyle
+      duyulan: makine ile
+  REPLACE  ...taşlı tepeleri arasındaki küçük
+      metin  : smilyan
+      duyulan: similyan
+  DELETE   ...söylemiş annesi ize karşılık
+      metin  : olarak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...atamamış doğa koca kedi
+      metin  : miyze
+      duyulan: mi ize
+  REPLACE  ...parlak zekasıyla anılan ağabeyi
+      metin  : dane
+      duyulan: tane
+  REPLACE  ...başladı gözünün önünde gerçek
+      metin  : nesnelerin
+      duyulan: evlerin
+  DELETE   ...yetişkinliğinde de çoğu buluşunu
+      metin  : kağıda
+      duyulan: (YOK — atlanmış)
+  INSERT   ...olarak görmek istiyordu sonra
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...razı oldu oğul iyileşti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...notlarla geçti fizik profesörü
+      metin  : pöşl
+      duyulan: poesch
+  REPLACE  ...yön değiştirmeye zorlayan komütatörüne
+      metin  : baktı
+      duyulan: kaldı
+  REPLACE  ...bitti askeri sınır yönetiminin
+      metin  : verdiği
+      duyulan: kutluluğu
+  INSERT   ...kapıldı derslerden koptu ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra baharında tesla öldü
+      metin  : prag
+      duyulan: de prague
+  REPLACE  ...dersleri izledi ama bu
+      metin  : yolculuk da
+      duyulan: yolculukta
+  REPLACE  ...yolculuk da diplomayla bitmedi
+      metin  : budapeşte ye
+      duyulan: de budapest e
+  REPLACE  ...anlatır uzaktaki saatin tıkırtısı
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...geçen arabanın titreşimi bedenine
+      metin  : işliyordu
+      duyulan: okuyordu
+  REPLACE  ...iyileşmesine yardım etmeye çalışıyordu
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...yok kıvılcım yok tesla
+      metin  : dal
+      duyulan: bal
+  REPLACE  ...şemayı çizdi ve sigeti
+      metin  : ye
+      duyulan: yi
+  INSERT   ...da okyanusun ötesine götürecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da uygulayan şirkette işe
+      metin  : girdi
+      duyulan: başladı
+  REPLACE  ...aydınlatma tesislerini kuruyordu şirket
+      metin  : strazburg a
+      duyulan: strasburga
+  REPLACE  ...başardı boş vakitlerinde gizlice
+      metin  : fazlı
+      duyulan: fazla
+  REPLACE  ...günü şöyle özetler cebinde
+      metin  : sent
+      duyulan: cent
+  REPLACE  ...şebekesiyle dünyanın en ünlü
+      metin  : mucidiydi
+      duyulan: muciziydi
+  REPLACE  ...deneme yanılmanın adamıydı binlerce
+      metin  : malzemeyi
+      duyulan: emeği
+  REPLACE  ...halde taşıyan matematiği önceleyen
+      metin  : hayalperestti
+      duyulan: hayalperesti
+  DELETE   ...başladı tesla nın anlattığına
+      metin  : göer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...biliyoruz edison tarafında böyle
+      metin  : vaadi
+      duyulan: vadi
+  INSERT   ...ama sonuç kesin tesla
+      metin  : (yok)
+      duyulan: in
+  DELETE   ...rahway kasabasında ark lambalarıyla
+      metin  : sokak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kaldı ve ile arasındaki
+      metin  : kış
+      duyulan: an
+  REPLACE  ...ile arasındaki kış geldi
+      metin  : graz da prag da budapeşte
+      duyulan: gras ta prague ta budapeş te
+  REPLACE  ...kazma sapını tutarak donmuş
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...günleri olarak anacak bilime
+      metin  : mekaniğe
+      duyulan: mekaniye
+  REPLACE  ...o günlerde alay gibi
+      metin  : geldiğini
+      duyulan: kendini
+  ... ve 75 fark daha
+
+metinde olup DUYULMAYAN: 109 kelime | duyulup metinde OLMAYAN: 127
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: biyografi-2026-10-29.duyulan.txt

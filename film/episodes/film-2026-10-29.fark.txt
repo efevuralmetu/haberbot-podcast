@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-29.mp3
+
+beklenen 2073 kelime | duyulan 2067 kelime | eşleşme %92.9
+sayı ifadesi: metinde 219, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve hastaneye kaldırıldı yılında
+      metin  : klod lanzman
+      duyulan: claude lanzmann
+  REPLACE  ...üzerine çektiği ilk filmi
+      metin  : purkua
+      duyulan: purkuva
+  REPLACE  ...ilk filmi purkua i
+      metin  : srael
+      duyulan: srail
+  REPLACE  ...saatlik proje olarak düşünüyordu
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...sonunda ortaya çıkan film
+      metin  : şoa
+      duyulan: shoah
+  REPLACE  ...film şoa türkçe okunuşuyla
+      metin  : şoa
+      duyulan: shoah
+  REPLACE  ...en önemli belgesellerinden oldu
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...gazeteci ve yazar olmuş
+      metin  : jan pol sartr
+      duyulan: john paul sarter
+  REPLACE  ...treblinka da sobibor da
+      metin  : bevjets
+      duyulan: bevjet
+  REPLACE  ...ağaç dikilmiş toprak sürülmüştü
+      metin  : ölüler
+      duyulan: ölülüler
+  REPLACE  ...kanıtını da yok etmekti
+      metin  : lanzman ın
+      duyulan: lanzmannın
+  REPLACE  ...karar da bu oldu
+      metin  : şoa
+      duyulan: shoah
+  REPLACE  ...film bütünüyle şimdide geçecekti
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...ya da tren rayıydı
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...bakmaktan çok daha sarsıcıdır
+      metin  : lanzman ın
+      duyulan: lanzmannın
+  REPLACE  ...simon srebnik polonya daki
+      metin  : helmno
+      duyulan: helno
+  REPLACE  ...sesi yüzünden hayatta tutulmuş
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...boşluğun üzerine kurulur çekimler
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...başladı ve yıllarca sürdü
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...in başlangıçtaki desteği yetmedi
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...ağzından gerçeği almaktı ve
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...adam koltuğunda oturuyor karşısında
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...da görev yapmış ss
+      metin  : astsubayı frants suhomel dir
+      duyulan: assubayı franz suhomeldir
+  REPLACE  ...bazen netlik kaybolur bazen
+      metin  : kadraj
+      duyulan: kadraç
+  REPLACE  ...in filme alındığını bilmemesidir
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...yaşlı adamın titreyen görüntüsü
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...kameranın karşısında asla konuşmazdı
+      metin  : lanzman
+      duyulan: lanzmann
+  DELETE   ...kimliğe büründü uydurma adla
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...antetli kağıtları bile vardı
+      metin  : suhomel
+      duyulan: suhoemel
+  REPLACE  ...filmde kullanılmayacağı sözünü verdi
+      metin  : suhomel
+      duyulan: suhoemel
+  REPLACE  ...işleyen üretim hattı ara
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...ezberletilen şarkıyı söylemesini ister
+      metin  : suhomel
+      duyulan: suhoemel
+  REPLACE  ...an hiçbir yorum gerekmez
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...gerekmez lanzman sözünü tutmadı
+      metin  : suhomel
+      duyulan: suhoemel
+  REPLACE  ...adı filmde açıkça yazılır
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...yöntemin bedeli de oldu
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...katliamlara katılmış birliğin subayı
+      metin  : hayns şubert
+      duyulan: heinz schubert
+  REPLACE  ...kez işler ters gitti
+      metin  : şubert
+      duyulan: schubert
+  REPLACE  ...gizli kamerayı fark etti
+      metin  : lanzman
+      duyulan: lanzmann
+  REPLACE  ...uğradı ekipman elden alındı
+      metin  : lanzman
+      duyulan: lanzmann
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 116 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-10-29.duyulan.txt

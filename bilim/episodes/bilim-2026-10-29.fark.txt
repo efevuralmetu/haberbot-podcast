@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-29.mp3
+
+beklenen 1973 kelime | duyulan 1988 kelime | eşleşme %96.1
+sayı ifadesi: metinde 263, duyulanda 229  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...denge kararsızdır kalem tam
+      metin  : dikken
+      duyulan: diken
+  REPLACE  ...ucunda ağırlık olan ve
+      metin  : takılı
+      duyulan: akılı
+  REPLACE  ...hareket küçük olsun yalnızca
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...tekrar dikeye döner sanki
+      metin  : yukarıdan
+      duyulan: yukardan
+  INSERT   ...kendisi aslında yeni değil
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i ngiliz matematikçi andrew
+      metin  : stephenson
+      duyulan: stevenson
+  REPLACE  ...kapitsa oldu bu bugün
+      metin  : düzeneğe
+      duyulan: düzeneye
+  INSERT   ...bu çalışmayla çok sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ödülü nü alacaktı ancak
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...titreşen sarkaç da bunlardan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...makale yayımladı makalelerde yalnızca
+      metin  : sarkacın
+      duyulan: sarkaç ın
+  REPLACE  ...birbirini götürür o halde
+      metin  : sarkacın
+      duyulan: sarkaç ın
+  REPLACE  ...en alçaktır titreşim yeterince
+      metin  : güçlüyze
+      duyulan: güçlü ize
+  REPLACE  ...çanakta durur kenara itilince
+      metin  : çanağın
+      duyulan: çanağının
+  REPLACE  ...ayakta kalır rakamlarla bakalım
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...santimeter uzunluğunda çubuk ve
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...küçük salınımları fransız matematikçisi
+      metin  : emil matyö nün
+      duyulan: emile mathieu nun
+  REPLACE  ...kadar kullanışlı bulundu ki
+      metin  : lev
+      duyulan: lew
+  REPLACE  ...ki lev landau ile
+      metin  : yevgeni lifşits
+      duyulan: yevgeny lifshitz
+  REPLACE  ...ileri götürülebileceği de denendi
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ve deneysel fizikçi tom
+      metin  : mullin
+      duyulan: muellen
+  INSERT   ...böyle yer gerçekten var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kanıtladı yüklü parçacığı yalnızca
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...boşlukta kararlı biçimde tutamazsınız
+      metin  : elektrodları
+      duyulan: elektrotları
+  REPLACE  ...olmaz en iyi ihtimalle
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...şekli elde edersiniz at
+      metin  : eyerini
+      duyulan: eğerini
+  REPLACE  ...sağa bakınca ortası tümsektir
+      metin  : eyerin
+      duyulan: eğerin
+  REPLACE  ...için bu ciddi engeldi
+      metin  : iyonu
+      duyulan: ionu
+  REPLACE  ...earnshaw ın kanıtı ize
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...alanlarla bunun yapılamayacağını söylüyordu
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...yapılamayacağını söylüyordu ellilerin başında
+      metin  : bonn da
+      duyulan: bonda
+  REPLACE  ...bonn da alman fizikçi
+      metin  : volfgang
+      duyulan: wolfgang
+  REPLACE  ...tümsek oluyordu bu düzende
+      metin  : iyonun
+      duyulan: ionun
+  REPLACE  ...titreşen üstündeki çubuğun başına
+      metin  : gelenle
+      duyulan: gelen ne
+  REPLACE  ...gerçekten var olmamasından gelir
+      metin  : i yon
+      duyulan: ion
+  REPLACE  ...da vardır alanın değişim
+      metin  : hızı ile
+      duyulan: hızıyla
+  REPLACE  ...aralıkta olmalıdır aralığın dışında
+      metin  : iyon
+      duyulan: ion
+  REPLACE  ...kararlılık bölgeleri de aynı
+      metin  : matyö
+      duyulan: mathieu
+  REPLACE  ...zaman mekanik model kullanırdı
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...hızda dönerken ize bilye
+      metin  : eyerin
+      duyulan: eğerin
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: bilim-2026-10-29.duyulan.txt

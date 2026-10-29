@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-29.mp3
+
+beklenen 2131 kelime | duyulan 2137 kelime | eşleşme %95.7
+sayı ifadesi: metinde 216, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ölçülmüş davranış google ın
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...mobil siteleer yapılan ziyaretlerin
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...ediliyor massachusetts üniversitesi nden
+      metin  : ramesh
+      duyulan: rames
+  REPLACE  ...demek hastaneye yatan kişiye
+      metin  : patient
+      duyulan: pasiyent
+  REPLACE  ...deneyine de kısaca bakalım
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...stanford üniversitesi nde psikolog
+      metin  : valter mişel
+      duyulan: walter michel
+  REPLACE  ...tertullianus sabır üzerine risale
+      metin  : kaleme
+      duyulan: kalemi
+  REPLACE  ...üzerine risale kaleme aldı
+      metin  : latince
+      duyulan: zatince
+  REPLACE  ...risalenin girişi şaşırtıcı derecede
+      metin  : dürüsttür
+      duyulan: dürüstür
+  DELETE   ...var tertullianus tan yaklaşık
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yaklaşık buçuk asır önce
+      metin  : roma da stoacı
+      duyulan: romada stoğacı
+  REPLACE  ...roma da stoacı filozof
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...neden kötü şeyler gelir
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...kadar da teselli edicidir
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...ancak zorlu seferde sınanır
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...ruhu terbiye eden ustadır
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...sonra yılında i mparator
+      metin  : klaudiyus korsika
+      duyulan: claudius corsica
+  REPLACE  ...adasına sürgün etti ve
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...teselli mektubunda kendisi için
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...teselli eden kişi sürgündeki
+      metin  : oğulun
+      duyulan: oğlun
+  REPLACE  ...neron ölüm emrini gönderdiğinde
+      metin  : tasitus
+      duyulan: tassitus
+  REPLACE  ...tasitus un aktardığına göer
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...ne işe yarayacağını sormuştu
+      metin  : stoacılığın
+      duyulan: stoğcılığın
+  REPLACE  ...özetliyor öğrencilerinin derlediği ve
+      metin  : enkheiridion
+      duyulan: enchiridion
+  REPLACE  ...davranmaktan doğar roma yazarı
+      metin  : aulus
+      duyulan: avius
+  REPLACE  ...vurup vurmamak sizin elinizde
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...sorusunu arka plana iter
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...insanlara sızlanmaktır umudu kesmektir
+      metin  : yakubun
+      duyulan: yakup un
+  REPLACE  ...umudu kesmektir yakubun sabrı
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...kalbin sabrıdır aynı ayrım
+      metin  : hz
+      duyulan: hazreti bahri
+  REPLACE  ...isim ebu hamid el
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...hamid el gazzali dir
+      metin  : gazzali tus
+      duyulan: ghazali de tuz
+  INSERT   ...parlak hocası oldu ama
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yazdığı dev eser i
+      metin  : hyau ulumi d
+      duyulan: hya u ulu midi
+  REPLACE  ...sabra ve şüker ayırır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...tatmin isteyen arzunun itkisidir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...beslenen uzağı gören itkidir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...gücün karşı ayakta durabilmesidir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...arapça kökündeki alıkoymaya taşır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...erken kalkıp işe devam
+      metin  : etmek de
+      duyulan: etmekte
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: felsefe-2026-10-29.duyulan.txt

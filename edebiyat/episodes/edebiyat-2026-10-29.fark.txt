@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-29.mp3
+
+beklenen 1980 kelime | duyulan 1993 kelime | eşleşme %91.8
+sayı ifadesi: metinde 287, duyulanda 192  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aşkın süredir i spanya
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...spanya toprağı kazılıyor ama
+      metin  : federiko garsia lorka
+      duyulan: federico garcia lorca
+  REPLACE  ...batısında vega denen verimli
+      metin  : ovanın
+      duyulan: obanın
+  REPLACE  ...pancarı tarlalarıyla çevrili yer
+      metin  : federiko garsia lorka
+      duyulan: federico garcia lorca
+  INSERT   ...federiko garsia lorka haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu köyde doğdu babası
+      metin  : federiko garsia rodrigez
+      duyulan: federico garcia rodríguez
+  REPLACE  ...varlıklı toprak sahibiydi annesi
+      metin  : visenta lorka
+      duyulan: vicenta lorca
+  REPLACE  ...aşıladı çocuk köyün kadınlarından
+      metin  : ninniler
+      duyulan: ninliler
+  INSERT   ...akmaya devam edecekti aile
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sohbetlerinde besteci manuel de
+      metin  : faya
+      duyulan: falla
+  INSERT   ...ve aralarında derin kuruldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elhamra sarayı nın avlusunda
+      metin  : kante hondo
+      duyulan: cantejondo
+  REPLACE  ...kante hondo yarışması düzenlediler
+      metin  : kante hondo
+      duyulan: cantejondo
+  REPLACE  ...yaralı ve ağır şarkılarıdır
+      metin  : lorka
+      duyulan: lorca
+  INSERT   ...tanıklarıydı ama daha önce
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...genç zekalarını araya getiren
+      metin  : residensia
+      duyulan: residencia
+  REPLACE  ...konferansların konserlerin tartışmaların merkeziydi
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...dali ile sinemacı luis
+      metin  : bunyuel
+      duyulan: buñuel
+  REPLACE  ...ve kuşağının pek çok
+      metin  : şairiyle
+      duyulan: şairi ile
+  REPLACE  ...yoğundu birbirlerine mektuplar yazdılar
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...öğrenci yurdu nun salonlarında
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...girdiğinde havayı değiştiren adam
+      metin  : lorka
+      duyulan: lorca
+  INSERT   ...spanya ya tanıtan kitap
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ya tanıtan kitap çıktı
+      metin  : romansero hitano
+      duyulan: romance rojitano
+  REPLACE  ...hitano yani çingene romansları
+      metin  : romans
+      duyulan: romance
+  REPLACE  ...olayı kavgayı aşkı anlatırdı
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...i spanyol jandarma teşkilatı
+      metin  : romansı nda guardiya
+      duyulan: romansında gardia
+  REPLACE  ...suçlama gibi hatırlayacaktı ün
+      metin  : lorka
+      duyulan: lorca
+  INSERT   ...hayatında da sarsıntılar yaşıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...york a gitti ardından
+      metin  : küba
+      duyulan: cuba
+  INSERT   ...ta şair adıyla yayımlanacaktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...cumhuriyet ilan edilecekti ve
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...i spanya da girecekti
+      metin  : nisanında i kinci
+      duyulan: nisan ında
+  REPLACE  ...fikri bu ortamda doğdu
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...rios eğitim bakanı olmuştu
+      metin  : lorka
+      duyulan: lorca
+  REPLACE  ...geçti topluluğun adı la
+      metin  : barraka
+      duyulan: barraca
+  REPLACE  ...adı la barraka yani
+      metin  : kulübe idi
+      duyulan: kulübeydi
+  REPLACE  ...yöneticisi yazar eduardo ugarte
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...farkı görünüyordu amblemleri ressam
+      metin  : benhamin palensia
+      duyulan: benjamin palencia
+  REPLACE  ...yazında soria yöresindeki küçük
+      metin  : burgo de osma
+      duyulan: burgode osman
+  ... ve 71 fark daha
+
+metinde olup DUYULMAYAN: 124 kelime | duyulup metinde OLMAYAN: 137
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: edebiyat-2026-10-29.duyulan.txt

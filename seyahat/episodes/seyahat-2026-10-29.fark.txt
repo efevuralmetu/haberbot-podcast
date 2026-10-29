@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-29.mp3
+
+beklenen 2222 kelime | duyulan 2238 kelime | eşleşme %95.4
+sayı ifadesi: metinde 292, duyulanda 225  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dinlediği efsane var yüzyılda
+      metin  : kartli
+      duyulan: kartlı
+  REPLACE  ...var yüzyılda kartli kralı
+      metin  : vahtang
+      duyulan: vahtank
+  REPLACE  ...da buradan gelir çünkü
+      metin  : gürcücede tbili
+      duyulan: gürgüce de tibili
+  REPLACE  ...üzerinde anlaştığı çekirdek şudur
+      metin  : vahtang gorgasali
+      duyulan: vahtan gorgas ali
+  REPLACE  ...başlarında başkenti eski merkez
+      metin  : mtsheta
+      duyulan: emteşeta
+  REPLACE  ...kuleleri olan hamamdır gürcüler
+      metin  : çreli
+      duyulan: çerel i
+  REPLACE  ...aslında şehrin hikayesini anlatır
+      metin  : tiflis
+      duyulan: titlis
+  REPLACE  ...rus i mparatorluğu arasında
+      metin  : el değiştirdi
+      duyulan: elde iştirdi
+  INSERT   ...istemek için bakışılan yerlerdi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yazdı o cümle yaklaşık
+      metin  : yüzyıldır
+      duyulan: yıldır
+  REPLACE  ...yıl sonra fransız yazar
+      metin  : aleksandr düma da tiflis
+      duyulan: alexander dumada titlis
+  REPLACE  ...övdü yabancı yolcular için
+      metin  : tiflis
+      duyulan: titlis
+  REPLACE  ...götürür bu deer vadisine
+      metin  : leğvtahevi
+      duyulan: levtahevi
+  REPLACE  ...ağaçları büyürmüş başınızı kaldırdığınızda
+      metin  : yamacın
+      duyulan: yamaçın
+  INSERT   ...görünür yanındaki sırtta da
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...şarabı da çok gördü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dibinden nehir geçer gürcülerin
+      metin  : mtkvari
+      duyulan: emtakvari
+  REPLACE  ...gibi kendisine verilen dar
+      metin  : yatağa
+      duyulan: yatağı
+  REPLACE  ...soslu patlıcan dilimleri nar
+      metin  : taneleriyle
+      duyulan: taneleri ile
+  REPLACE  ...gömülmüş dev amforalarda gürcülerin
+      metin  : kvevri
+      duyulan: kivevri
+  INSERT   ...bekler unesco bu yöntemi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...parçasıdır tiflis in eski
+      metin  : mahallelerinde
+      duyulan: mahallerinde
+  REPLACE  ...adamdı adı niko pirosmani
+      metin  : ydi
+      duyulan: idi de
+  REPLACE  ...dolaşmaya başladı tiflis in
+      metin  : yer
+      duyulan: yeraltı
+  INSERT   ...hüzünlü gözlerle pirosmani yi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...e gelen genç sanatçılar
+      metin  : zdaneviç
+      duyulan: zadaneviç
+  REPLACE  ...ama ün geç geldi
+      metin  : pirosmani
+      duyulan: pir osmani de
+  INSERT   ...iç içe yaşadığını düşünür
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...düşünür sonra yaz gecesi
+      metin  : tiflislilerin
+      duyulan: tiflistlilerin
+  REPLACE  ...karışan küçük derelerden de
+      metin  : veer dir
+      duyulan: veredir
+  REPLACE  ...edilmeyecek kadar sakin çaydır
+      metin  : tiflisliler
+      duyulan: tiflistliler
+  INSERT   ...yolların gömmüştü bu vadide
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...de bulunuyordu kuşaklar boyunca
+      metin  : tiflisli
+      duyulan: tiflistli
+  REPLACE  ...ilk zürafalarını burada gördü
+      metin  : veer nin
+      duyulan: verenin
+  INSERT   ...ve şehir bunu biliyordu
+      metin  : (yok)
+      duyulan: ta te de
+  INSERT   ...şehir bunu biliyordu ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve taşmıştı ama hiçbiri
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...süren şiddetli yağmur yağdı
+      metin  : tiflis
+      duyulan: tiflist
+  REPLACE  ...doğru kaydı bu kütle
+      metin  : veer nin
+      duyulan: verenin
+  REPLACE  ...hükümet haziran ı ulusal
+      metin  : yas
+      duyulan: yaz
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: seyahat-2026-10-29.duyulan.txt
