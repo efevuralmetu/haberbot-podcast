@@ -1,0 +1,717 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.530
+1990'da İskoçya'da bir animatör, başka bir oyun için sekiz piksel boyunda birkaç yaratık çizdi ve onları ekranda bir silaha doğru yürüttü.
+
+2
+00:00:10.530 --> 00:00:16.580
+Yaratıklar birer birer ezilip düşerken odadaki biri "bunun içinde bir oyun var" dedi.
+
+3
+00:00:16.580 --> 00:00:25.510
+O yaratıklara adını veren efsane ise ortada tek bir kanıt yokken, bir film ekibi onları uçurumdan kendi eliyle ittiği için doğmuştu.
+
+4
+00:00:33.710 --> 00:00:41.840
+1989 yılında İskoçya'nın doğu kıyısındaki Dundee hem soğuk hem de yorgun bir sanayi kentiydi.
+
+5
+00:00:41.840 --> 00:00:44.850
+Jüt fabrikaları çoktan susmuştu.
+
+6
+00:00:44.850 --> 00:00:53.780
+Kente bir dönem umut veren Timex fabrikası, Sinclair'in ZX Spectrum bilgisayarlarını üreterek bir kuşağı ekran başına oturtmuştu.
+
+7
+00:00:53.780 --> 00:00:58.230
+O fabrikada çıraklık yapan gençlerden biri David Jones'tu.
+
+8
+00:00:58.230 --> 00:01:10.040
+Jones gündüzleri elektronik devrelerle uğraştı, akşamları kendi oyunlarını yazdı ve 1987'de birkaç arkadaşıyla küçük bir stüdyo kurdu: DMA Design.
+
+9
+00:01:10.040 --> 00:01:13.050
+Biz ona kısaca Dundee stüdyosu diyelim.
+
+10
+00:01:13.050 --> 00:01:20.540
+Stüdyonun Menace ve Blood Money gibi Amiga oyunları ses getirmişti, ama ekip hâlâ birkaç genç adamdan oluşuyordu.
+
+11
+00:01:20.540 --> 00:01:23.870
+Her biri bir köşede kendi işine gömülmüştü.
+
+12
+00:01:23.870 --> 00:01:31.200
+Bu gençlerden biri olan Mike Dailly, o günlerde Walker, yani Yürüyen adlı bir oyun için grafik denemeleri yapıyordu.
+
+13
+00:01:31.200 --> 00:01:35.330
+Dev bir savaş makinesinin oynatıldığı bir projeydi bu.
+
+14
+00:01:35.330 --> 00:01:41.060
+Makinenin karşısına çıkacak minik insanların ne kadar küçük çizilebileceği tartışılıyordu.
+
+15
+00:01:41.060 --> 00:01:51.110
+Ekibin grafikçilerinden Gary Timmons, 16 piksellik bir kare içinde bile karakterlerin fazla iri kaldığını, bunların çok daha küçük yapılabileceğini söyledi.
+
+16
+00:01:51.110 --> 00:01:54.120
+Dailly bunu bir meydan okuma gibi aldı.
+
+17
+00:01:54.120 --> 00:02:02.090
+Deluxe Paint adlı çizim programını açtı ve 8 piksele 8 piksellik bir alana sığan yürüyen adamcıklar çizdi.
+
+18
+00:02:02.090 --> 00:02:09.100
+Bu küçücük alanda bir kafa, bir gövde ve sallanan iki bacak ancak birkaç noktayla anlatılabiliyordu.
+
+19
+00:02:09.100 --> 00:02:11.950
+Sonra deneyi bir adım öteye taşıdı.
+
+20
+00:02:11.950 --> 00:02:17.040
+Adamcıkları sıra sıra yürüttü, yollarına da kaçınılmaz bir son koydu.
+
+21
+00:02:17.040 --> 00:02:23.410
+Kimi tepesine inen dev bir ağırlığın altında eziliyor, kimi kocaman bir silahın önünde dağılıyordu.
+
+22
+00:02:23.410 --> 00:02:26.100
+Ortada oyun da kural da yoktu.
+
+23
+00:02:26.100 --> 00:02:32.950
+Bu sadece bir test animasyonuydu ve minicik figürlerin ekranda okunup okunmadığını görmek için yapılmıştı.
+
+24
+00:02:32.950 --> 00:02:42.200
+Ama ortaya garip biçimde komik, hatta biraz dokunaklı bir şey çıkmıştı: Başlarına gelecekten habersiz, inatla yürüyen minik bir kalabalık.
+
+25
+00:02:42.200 --> 00:02:47.610
+Animasyonu izleyenlerden biri, ekibin programcılarından Russell Kay'di.
+
+26
+00:02:47.610 --> 00:02:52.380
+Sonradan efsaneleşen tepkisi kısaydı: Bunun içinde bir oyun vardı.
+
+27
+00:02:52.380 --> 00:02:54.910
+Bu kalabalığa adını da Kay verdi.
+
+28
+00:02:54.910 --> 00:03:03.360
+Doğanın en yanlış anlaşılmış küçük kemirgenlerinden biri olan lemming, uçurumlardan topluca atladığı inancıyla kuşaklardır anılıyordu.
+
+29
+00:03:03.360 --> 00:03:09.410
+Durmadan bir uçuruma doğru yürüyen minik adamcıklar için bundan uygun bir ad bulunamazdı.
+
+30
+00:03:09.410 --> 00:03:14.180
+Adın arkasındaki o inancın ne kadar sahte olduğuna birazdan döneceğiz.
+
+31
+00:03:14.180 --> 00:03:18.790
+Ancak test animasyonu ile oyun arasında büyük bir boşluk vardı.
+
+32
+00:03:18.790 --> 00:03:23.720
+Ekranda yürüyen bir kalabalık güzeldi, peki oyuncu ne yapacaktı?
+
+33
+00:03:23.720 --> 00:03:27.210
+Dundee stüdyosunda aylarca bu soru konuşuldu.
+
+34
+00:03:27.210 --> 00:03:31.340
+Asıl buluş, oyuncuyu bu kalabalığın içine koymamak oldu.
+
+35
+00:03:31.340 --> 00:03:34.830
+Oyuncu hiçbir lemmingi doğrudan yönetmeyecekti.
+
+36
+00:03:34.830 --> 00:03:40.720
+Onlar kendi akıllarınca, yani akılsızca, dümdüz yürümeye devam edecekti.
+
+37
+00:03:40.720 --> 00:03:46.770
+Oyuncunun elindeki tek güç, tek tek seçtiği yaratıklara belirli görevler vermekti.
+
+38
+00:03:46.770 --> 00:03:49.940
+Bu görevler zamanla sekiz beceriye dönüştü.
+
+39
+00:03:49.940 --> 00:03:52.950
+Tırmanıcı duvarlara dikine tırmanabiliyordu.
+
+40
+00:03:52.950 --> 00:03:58.520
+Şemsiyeli, yüksekten düşerken küçük bir şemsiye açıp yere süzülüyordu.
+
+41
+00:03:58.520 --> 00:04:05.050
+Engelleyici kollarını iki yana açıp duruyor, arkadan gelenleri geri çeviren canlı bir duvara dönüşüyordu.
+
+42
+00:04:05.050 --> 00:04:08.380
+İnşaatçı tuğla tuğla merdiven döşüyordu.
+
+43
+00:04:08.380 --> 00:04:14.270
+Üç kazıcı vardı: biri yatay, biri çapraz, biri dikey kazıyordu.
+
+44
+00:04:14.270 --> 00:04:18.240
+Bir de bombacı vardı, ondan da birazdan söz edeceğiz.
+
+45
+00:04:18.240 --> 00:04:23.810
+Ekip bu becerilerle oynayıp gelişigüzel haritalar çizdikçe bir şey fark etti.
+
+46
+00:04:23.810 --> 00:04:30.980
+Basit kurallar birbirine eklendiğinde, ekranda tasarımcıların bile önceden kestiremediği çözümler doğuyordu.
+
+47
+00:04:30.980 --> 00:04:34.470
+Oyunun yayıncısı Liverpool'daki Psygnosis oldu.
+
+48
+00:04:34.470 --> 00:04:40.520
+Siyah kapakları ve görkemli kutu resimleriyle Amiga dünyasının en havalı markasıydı.
+
+49
+00:04:40.520 --> 00:04:44.810
+Liverpoollu yayıncı, Dundee'den gelen bu tuhaf fikre güvendi.
+
+50
+00:04:44.810 --> 00:04:54.540
+Yaklaşık bir buçuk yıllık çalışmanın sonunda Lemmings, 14 Şubat 1991'de, yani Sevgililer Günü'nde Amiga için raflara çıktı.
+
+51
+00:04:54.540 --> 00:04:58.030
+İlk gün 55 bin kopya satıldığı aktarılıyor.
+
+52
+00:04:58.030 --> 00:05:02.960
+O dönemin Avrupa bilgisayar oyunu pazarında akıl almaz bir rakamdı bu.
+
+53
+00:05:02.960 --> 00:05:08.530
+Sekiz piksellik bir deneme, bir anda bir kuşağın ortak hafızasına yerleşmişti.
+
+54
+00:05:08.530 --> 00:05:14.900
+Lemmings'i açan oyuncu ilk olarak, gökyüzünde asılı duran bir kapağın yavaşça aralandığını görürdü.
+
+55
+00:05:14.900 --> 00:05:21.430
+Sonra yeşil saçlı, mavi cüppeli yaratıklar boşluğa birer birer düşmeye başlardı.
+
+56
+00:05:21.430 --> 00:05:26.520
+Yere değdikleri anda yürümeye koyulurlardı, hiç durmadan ve hiç düşünmeden.
+
+57
+00:05:26.520 --> 00:05:32.730
+Önlerinde bir uçurum, bir lav gölü ya da sivri bir tuzak olsa bile yürürlerdi.
+
+58
+00:05:32.730 --> 00:05:36.380
+Bir duvara çarptıklarında dönerlerdi, o kadar.
+
+59
+00:05:36.380 --> 00:05:39.230
+Ekranın bir köşesinde zaman akardı.
+
+60
+00:05:39.230 --> 00:05:44.640
+Bir başka köşede de bu bölümü geçmek için kaç tanesini kurtarmanız gerektiği yazardı.
+
+61
+00:05:44.640 --> 00:05:48.770
+İşte Lemmings'i dönemindeki her oyundan ayıran şey buydu.
+
+62
+00:05:48.770 --> 00:05:51.140
+Ortada bir kahraman yoktu.
+
+63
+00:05:51.140 --> 00:05:57.190
+Mario gibi zıplayan, kılıç sallayan, düşmanı alt eden tek bir figür kontrolünüzde değildi.
+
+64
+00:05:57.190 --> 00:06:02.920
+Siz bir kalabalığın kaderinden sorumluydunuz ve o kalabalık size hiç yardım etmiyordu.
+
+65
+00:06:02.920 --> 00:06:08.330
+Oyuncu bir askerden çok trafik polisine, belki de minik bir tanrıya benziyordu.
+
+66
+00:06:08.330 --> 00:06:12.460
+Her şeyi görüyordu ama dokunabildiği şeyler sınırlıydı.
+
+67
+00:06:12.460 --> 00:06:18.190
+Her bölümde hangi beceriden kaç tane kullanılabileceği önceden belirlenmişti.
+
+68
+00:06:18.190 --> 00:06:22.800
+Belki yalnızca 2 merdiven ustanız, 1 kazıcınız vardı.
+
+69
+00:06:22.800 --> 00:06:26.290
+Bunları yanlış yerde harcarsanız geri dönüş yoktu.
+
+70
+00:06:26.290 --> 00:06:29.780
+Gerilim tam da bu kıtlıktan doğuyordu.
+
+71
+00:06:29.780 --> 00:06:33.430
+Oyuncu sahneyi saniyeler içinde okumak zorundaydı.
+
+72
+00:06:33.430 --> 00:06:47.160
+Kalabalık uçuruma yaklaşırken ilk yaratığı engelleyiciye çevirmek, geri dönenler sürüklenip giderken bir başkasına merdiven kurdurmak, merdivenin son tuğlası konduğu anda bir diğerine duvarı deldirmek gerekiyordu.
+
+73
+00:06:47.160 --> 00:06:51.450
+Ekrandan yaratıkların çıkış hızını bile ayarlayabiliyordunuz.
+
+74
+00:06:51.450 --> 00:06:58.140
+Kapağı hızlandırmak zamanı kurtarabilirdi, ama planınız hazır değilse felakete davetiye çıkarırdı.
+
+75
+00:06:58.140 --> 00:07:00.670
+Bir de duraklatma tuşu vardı.
+
+76
+00:07:00.670 --> 00:07:04.640
+Birçok oyuncu için bu tuş, nefes alınabilen tek andı.
+
+77
+00:07:04.640 --> 00:07:11.810
+Orijinal Amiga sürümünde 120 bölüm vardı ve bunlar 30'arlı dört zorluk basamağına ayrılmıştı.
+
+78
+00:07:11.810 --> 00:07:14.020
+İlk basamak eğlenceliydi.
+
+79
+00:07:14.020 --> 00:07:18.790
+Son basamağın adı ise Kargaşa demekti ve hakkını veriyordu.
+
+80
+00:07:18.790 --> 00:07:27.560
+Bölümlerin çoğunu ekibin kendisi tasarlamıştı ve adlarında iç şakalar, Liverpoollu yayıncının diğer oyunlarına göndermeler saklıydı.
+
+81
+00:07:27.560 --> 00:07:31.690
+Bazı bölümlerde ekrana 100 lemming birden dökülüyordu.
+
+82
+00:07:31.690 --> 00:07:36.940
+Tek bir yanlış tıklama, onlarca yaratığın lavın içinde kaybolması demekti.
+
+83
+00:07:36.940 --> 00:07:43.950
+Amiga sürümüne iki farenin aynı anda bağlandığı, bölünmüş ekranlı bir iki oyunculu mod bile eklenmişti.
+
+84
+00:07:43.950 --> 00:07:51.120
+İki oyuncu kendi renkteki yaratıklarını çıkışa ulaştırmaya çalışırken birbirlerinin kalabalığını da çalmaya uğraşıyordu.
+
+85
+00:07:51.120 --> 00:07:58.130
+Ama Lemmings'in asıl tedirgin edici tarafı başka yerdeydi: Kurtarmak için bazen öldürmek gerekiyordu.
+
+86
+00:07:58.130 --> 00:08:03.860
+En sadık yardımcınız olan engelleyici, kollarını açtığı yerde sonsuza dek kalırdı.
+
+87
+00:08:03.860 --> 00:08:07.990
+Kalabalığı korurdu ama bölümün bitmesine de izin vermezdi.
+
+88
+00:08:07.990 --> 00:08:11.960
+Çözüm çoğu zaman tekti: onu bombacıya çevirmek.
+
+89
+00:08:11.960 --> 00:08:17.530
+Bombacıya dönüşen yaratığın başının üstünde beşten geriye doğru bir sayaç belirirdi.
+
+90
+00:08:17.530 --> 00:08:26.940
+Sayaç bitmeden hemen önce yaratık ellerini başına götürür, ince bir sesle "Oh no!" der ve küçük renkli parçacıklar hâlinde dağılırdı.
+
+91
+00:08:26.940 --> 00:08:30.110
+Oyunun en çok hatırlanan sesi bu oldu.
+
+92
+00:08:30.110 --> 00:08:33.760
+Komikti, ama içinde küçük bir sızı da vardı.
+
+93
+00:08:33.760 --> 00:08:37.890
+Bazen bir bombacıyı bilerek kayanın içine yerleştirirdiniz.
+
+94
+00:08:37.890 --> 00:08:43.620
+Patlamanın açtığı delik, geri kalan doksan küsur yaratığın tek kurtuluş yolu olurdu.
+
+95
+00:08:43.620 --> 00:08:46.310
+Bazen de durum umutsuzlaşırdı.
+
+96
+00:08:46.310 --> 00:08:53.800
+Merdivenler yanlış yere kurulmuş, kazıcı boşluğa düşmüştür, kalabalık bir çukurda sonsuza dek dönüp durmaktadır.
+
+97
+00:08:53.800 --> 00:08:59.370
+O zaman oyunun belki de en karanlık düğmesine uzanırdınız: Kıyamet.
+
+98
+00:08:59.370 --> 00:09:04.780
+Bu düğmeye basıldığında ekrandaki her lemming aynı anda bombacıya dönüşürdü.
+
+99
+00:09:04.780 --> 00:09:12.590
+Bir süre sonra o ince "Oh no!" sesleri art arda yükselir, ekran bir havai fişek gösterisi gibi parçalanırdı.
+
+100
+00:09:12.590 --> 00:09:14.640
+Bölüm baştan başlardı.
+
+101
+00:09:14.640 --> 00:09:20.850
+Oyuncu da kendini biraz suçlu hisseder, bir dahaki sefere daha dikkatli olacağına söz verirdi.
+
+102
+00:09:20.850 --> 00:09:24.340
+Dönemin dergileri bu oyunu tanımlamakta zorlandı.
+
+103
+00:09:24.340 --> 00:09:29.750
+Bir bulmaca oyunu muydu, bir strateji oyunu mu, yoksa bir aksiyon oyunu mu?
+
+104
+00:09:29.750 --> 00:09:31.640
+Aslında hepsiydi.
+
+105
+00:09:31.640 --> 00:09:37.210
+Her bölüm sabit bir bilmeceydi, ama çözüm gerçek zamanlı uygulanmak zorundaydı.
+
+106
+00:09:37.210 --> 00:09:42.140
+Düşünmek yetmiyordu, düşündüğünüzü doğru saniyede yapmanız gerekiyordu.
+
+107
+00:09:42.140 --> 00:09:51.870
+Bu da Lemmings'i yalnızca çocukların değil, ofis çalışanlarının, öğretmenlerin, normalde oyunlara burun kıvıran yetişkinlerin de ekranına taşıdı.
+
+108
+00:09:51.870 --> 00:09:56.320
+Kimse silah kullanmıyordu, kimse kimseyi yenmiyordu.
+
+109
+00:09:56.320 --> 00:09:59.810
+Tek amaç küçük bir kalabalığı evine ulaştırmaktı.
+
+110
+00:09:59.810 --> 00:10:07.940
+Oyunun bu ölçüde sevilmesini sağlayan şey, şiddet içermemesi ile bitmek bilmeyen o gerginliğin bir araya gelmesiydi.
+
+111
+00:10:07.940 --> 00:10:13.510
+Oyunun adını aldığı inanç da, oyuncunun yaşadığı bu duyguyla doğrudan ilgiliydi.
+
+112
+00:10:13.510 --> 00:10:19.240
+Ekrandaki yaratıklar körü körüne ölüme yürüyordu ve oyuncu onları durdurmaya çalışıyordu.
+
+113
+00:10:19.240 --> 00:10:26.570
+Bu imge dinleyenlere tanıdık geliyordu, çünkü insanlar onu otuz yılı aşkın süredir sinema perdesinde izliyordu.
+
+114
+00:10:26.570 --> 00:10:30.860
+Ne var ki o perdede gösterilenin bir kısmı hiç yaşanmamıştı.
+
+115
+00:10:30.860 --> 00:10:40.110
+1958'de Disney, doğa belgeseli serisinin bir parçası olarak White Wilderness, yani Beyaz Vahşi Doğa adlı bir film yayımladı.
+
+116
+00:10:40.110 --> 00:10:51.760
+Filmin en akılda kalan sahnesinde lemmingler bir yamaçtan aşağı akın ediyor, kayalık bir uçurumun kenarından suya düşüyor ve dalgaların arasında çırpınarak kayboluyordu.
+
+117
+00:10:51.760 --> 00:10:57.810
+Anlatıcı sahneyi, sürünün içgüdüyle kendini denize attığı bir doğa olayı gibi sunuyordu.
+
+118
+00:10:57.810 --> 00:11:05.940
+Beyaz Vahşi Doğa, en iyi belgesel dalında Oscar kazandı ve bu görüntüler milyonlarca insanın zihnine kazındı.
+
+119
+00:11:05.940 --> 00:11:08.950
+Gerçek ise yıllar sonra ortaya çıktı.
+
+120
+00:11:08.950 --> 00:11:18.360
+Kanada'nın kamu yayıncısı CBC, 1983'te Cruel Camera, yani Acımasız Kamera adlı bir araştırma programı yayımladı.
+
+121
+00:11:18.360 --> 00:11:26.970
+Gazeteci Brian Vallee'nin hazırladığı bu programa göre sahne Arktik kıyılarında değil, Kanada'nın Alberta eyaletinde çekilmişti.
+
+122
+00:11:26.970 --> 00:11:33.020
+Lemmingler başka bölgelerden getirilmişti ve uçurumdan kendi istekleriyle atlamamışlardı.
+
+123
+00:11:33.020 --> 00:11:37.790
+Kamera ekibi onları bir nehrin üzerindeki yamaçtan aşağı itmişti.
+
+124
+00:11:37.790 --> 00:11:41.920
+Anlatıcının okyanus dediği su da aslında bir nehirdi.
+
+125
+00:11:41.920 --> 00:11:49.570
+Acımasız Kamera'nın ortaya koyduğu bu iddialar, sahnenin kurgusal olduğu konusunda bugün geniş kabul görüyor.
+
+126
+00:11:49.570 --> 00:11:54.020
+Lemminglerin toplu intihar ettiği inancı Disney'den eskiydi.
+
+127
+00:11:54.020 --> 00:12:00.710
+Kuzey Avrupa'da yüzyıllar önce, bu hayvanların yağmurla birlikte gökten yağdığı bile anlatılırdı.
+
+128
+00:12:00.710 --> 00:12:04.040
+Bilimin bugün söylediği daha sade bir şey.
+
+129
+00:12:04.040 --> 00:12:07.370
+Lemming nüfusu birkaç yılda bir patlıyor.
+
+130
+00:12:07.370 --> 00:12:16.780
+Kalabalıklaşan hayvanlar yeni yaşam alanları aramak için dağılıyor ve bu yolculukta bazıları bir nehri ya da göleti geçmeye çalışırken boğuluyor.
+
+131
+00:12:16.780 --> 00:12:21.070
+Bunun ardında bir ölüm arzusu değil, yaşama arzusu var.
+
+132
+00:12:21.070 --> 00:12:27.440
+Yani Lemmings'teki minik yaratıklar, adlarını gerçekte hiç var olmamış bir davranıştan almıştı.
+
+133
+00:12:27.440 --> 00:12:30.930
+Dundee'deki gençler bunu bilerek seçmemişlerdi.
+
+134
+00:12:30.930 --> 00:12:34.580
+Onlar da herkes gibi o efsaneyle büyümüşlerdi.
+
+135
+00:12:34.580 --> 00:12:40.150
+Efsane sahte olabilirdi ama oyun gerçekti ve durdurulamaz biçimde yayıldı.
+
+136
+00:12:40.150 --> 00:12:47.480
+Amiga'dan sonra sıra DOS'lu kişisel bilgisayarlara, Atari ST'ye, Acorn makinelerine geldi.
+
+137
+00:12:47.480 --> 00:12:56.250
+Ardından Super Nintendo, Mega Drive, Game Boy, Game Gear ve daha nice konsol, el bilgisayarı ve ev bilgisayarı geldi.
+
+138
+00:12:56.250 --> 00:13:00.220
+Lemmings kısa sürede yirmiden fazla sisteme taşındı.
+
+139
+00:13:00.220 --> 00:13:07.070
+Çoğu zaman her platform, kendi ekranının sınırlarına göre yeniden çizilmiş birer kalabalık demekti.
+
+140
+00:13:07.070 --> 00:13:11.520
+Aynı yıl yeni bölümlerle dolu bir ek paket olan Oh No!
+
+141
+00:13:11.520 --> 00:13:14.530
+More Lemmings, yani Eyvah!
+
+142
+00:13:14.530 --> 00:13:16.900
+Daha Fazla Lemming çıktı.
+
+143
+00:13:16.900 --> 00:13:22.310
+Noel temalı kısa sürümler, kutularında kar yağan bayram baskıları yayımlandı.
+
+144
+00:13:22.310 --> 00:13:30.920
+1993'te çıkan devam oyununda yaratıklar on iki kabileye ayrıldı ve ellerindeki beceri sayısı yarım yüzü aştı.
+
+145
+00:13:30.920 --> 00:13:34.410
+Sonraki yıllarda üç boyutlu denemeler geldi.
+
+146
+00:13:34.410 --> 00:13:38.860
+Tahminlere göre seri toplamda 20 milyona yakın kopya sattı.
+
+147
+00:13:38.860 --> 00:13:43.310
+Ancak yaratıklar yayıldıkça onları doğuran dünya dağılıyordu.
+
+148
+00:13:43.310 --> 00:13:48.400
+Sony, 1993'te Liverpoollu yayıncıyı satın aldı.
+
+149
+00:13:48.400 --> 00:13:53.810
+Siyah kutuların asi ruhu yavaş yavaş dev bir şirketin içinde eridi.
+
+150
+00:13:53.810 --> 00:14:00.980
+Stüdyo yıllar içinde ad değiştirdi, PlayStation için yarış oyunları yaptı ve 2012'de kapatıldı.
+
+151
+00:14:00.980 --> 00:14:03.990
+Lemmings'in hakları ise Sony'de kaldı.
+
+152
+00:14:03.990 --> 00:14:09.080
+Amiga'nın üreticisi Commodore 1994'te iflas etti.
+
+153
+00:14:09.080 --> 00:14:13.850
+Lemmings'in doğduğu makine, kendi kuşağıyla birlikte tarihe karıştı.
+
+154
+00:14:13.850 --> 00:14:20.220
+Dundee stüdyosunun hikâyesi farklı ama bir o kadar burukluk taşıyan bir yöne evrildi.
+
+155
+00:14:20.220 --> 00:14:25.150
+Lemmings'in kazandırdığı para ve özgüvenle ekip başka denemelere girişti.
+
+156
+00:14:25.150 --> 00:14:31.040
+Bunlardan biri, yukarıdan bakılan bir şehirde araba kovalamacalarına dayanan bir projeydi.
+
+157
+00:14:31.040 --> 00:14:37.570
+Proje 1997'de Grand Theft Auto, yani GTA adıyla piyasaya çıktı.
+
+158
+00:14:37.570 --> 00:14:43.300
+Stüdyo birkaç kez el değiştirdi ve 2002'de Rockstar North adını aldı.
+
+159
+00:14:43.300 --> 00:14:52.230
+Uçuruma yürüyen masum yaratıkların yaratıcıları, oyun tarihinin en tartışmalı ve en çok satan serilerinden birinin evine dönüşmüştü.
+
+160
+00:14:52.230 --> 00:14:57.000
+David Jones yıllar sonra bu bağı hep bir merak konusu olarak anlattı.
+
+161
+00:14:57.000 --> 00:15:04.170
+Ona göre iki oyunun ortak noktası, oyuncuya kurallarla oynanabilecek küçük, yaşayan bir dünya vermesiydi.
+
+162
+00:15:04.170 --> 00:15:08.940
+Lemmings markası ise uzun süre kendi uçurumunun kenarında bekledi.
+
+163
+00:15:08.940 --> 00:15:13.390
+2006'da PSP için güzel bir yeniden yapım çıktı.
+
+164
+00:15:13.390 --> 00:15:17.360
+Ardından PlayStation Vita için dokunmatik bir sürüm geldi.
+
+165
+00:15:17.360 --> 00:15:28.050
+2018'de cep telefonları için yeniden doğdu, ama bu kez ücretsiz oynanan, bekleme süreleri ve uygulama içi satın almalarla örülü bir yapıyla.
+
+166
+00:15:28.050 --> 00:15:36.180
+Bazı eski oyuncular bunu, kalabalığın kendi becerinizle değil cüzdanınızla kurtarıldığı bir dünyaya geçiş olarak yorumladı.
+
+167
+00:15:36.180 --> 00:15:41.590
+Bazıları ise yeni bir kuşağın o yeşil saçlı yaratıklarla tanışmasına sevindi.
+
+168
+00:15:41.590 --> 00:15:47.640
+Oysa Lemmings'in gerçek mirası hiçbir resmî sürümde değil, oyunun bıraktığı fikirdedir.
+
+169
+00:15:47.640 --> 00:15:58.650
+Bir oyuncunun hiçbir karakteri doğrudan yönetmeden, yalnızca kurallara dokunarak bir kalabalığı kurtarabileceği fikri o günden beri sayısız bulmaca ve strateji oyununa sızdı.
+
+170
+00:15:58.650 --> 00:16:07.420
+Hayranlar orijinal bölümleri kendi bilgisayarlarında yeniden kodladılar ve bölüm düzenleyicileriyle binlerce yeni harita çizdiler.
+
+171
+00:16:07.420 --> 00:16:10.590
+Oyunu hesap makinelerine kadar taşıdılar.
+
+172
+00:16:10.590 --> 00:16:19.040
+Sekiz piksellik adamcıklar, kendilerini doğuran şirketlerden, makinelerden, hatta adlarını aldıkları efsaneden bile uzun yaşadı.
+
+173
+00:16:19.040 --> 00:16:24.610
+Belki de en dokunaklı olan şu: Gerçek lemmingler hiçbir zaman ölüme yürümedi.
+
+174
+00:16:24.610 --> 00:16:28.420
+Onlar yalnızca yaşamak için yeni bir yer arıyorlardı.
+
+175
+00:16:28.420 --> 00:16:34.150
+Dundee'deki o test animasyonundan doğan minik yaratıklar da aslında aynı şeyi yapıyordu.
+
+176
+00:16:34.150 --> 00:16:39.400
+Durmadan yürüyorlardı, çünkü bir yerde onları bekleyen bir çıkış kapısı vardı.
+
+177
+00:16:39.400 --> 00:16:44.650
+Onları o kapıya ulaştırmak da her zaman ekranın başındaki insanın işiydi.
+
+178
+00:16:44.650 --> 00:16:48.140
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+179
+00:16:48.140 --> 00:16:51.310
+Yeni bir hikâyede yeniden buluşmak üzere.
