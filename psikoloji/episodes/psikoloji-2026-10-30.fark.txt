@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-30.mp3
+
+beklenen 1301 kelime | duyulan 1307 kelime | eşleşme %97.7
+sayı ifadesi: metinde 137, duyulanda 125  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...nasıl olur da büyütür
+      metin  : kaliforniya
+      duyulan: kalifornia
+  REPLACE  ...kaybedersiniz yılında psikolog paul
+      metin  : piff
+      duyulan: peef
+  REPLACE  ...önde gelen isimlerinden psikolog
+      metin  : dacher
+      duyulan: daşer
+  REPLACE  ...başka çalışmalar da var
+      metin  : yang bai
+      duyulan: young bay
+  REPLACE  ...ilginç stanford dan melanie
+      metin  : rudd
+      duyulan: rath
+  REPLACE  ...dan melanie rudd kathleen
+      metin  : vohs
+      duyulan: vos
+  REPLACE  ...kathleen vohs ve jennifer
+      metin  : aaker
+      duyulan: acker
+  INSERT   ...ve jennifer aaker ın
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...hayır olduğunu gösteriyor san
+      metin  : fransisko
+      duyulan: francisco
+  INSERT   ...karar verdi katılımcılar yaşları
+      metin  : (yok)
+      duyulan: ın
+  INSERT   ...çizdiği küçük ben burada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...biçiminin ürünü olabilir okaliptüsler
+      metin  : berkeley
+      duyulan: berkley
+  REPLACE  ...okaliptüsler berkeley de sturm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...doğumu ya da vedayı
+      metin  : yaşamak da
+      duyulan: yaşamakta
+  REPLACE  ...kincisi niyet önemli sturm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...örneklemlerle tekrarlanması gerekiyor sturm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...süregiden kaygının uzun süren
+      metin  : çökkünlüğün
+      duyulan: çökünlüğün
+  REPLACE  ...da tanıdığınız sessizce gösterdiği
+      metin  : cesaret de
+      duyulan: cesaretle
+  REPLACE  ...daha az yer bırakın
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 20
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: psikoloji-2026-10-30.duyulan.txt

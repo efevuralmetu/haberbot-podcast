@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-30.mp3
+
+beklenen 3076 kelime | duyulan 3118 kelime | eşleşme %92.3
+sayı ifadesi: metinde 438, duyulanda 289  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kasım doğum gününde alfred
+      metin  : vegener
+      duyulan: ve jenner
+  REPLACE  ...ortasından eksi derecede köpek
+      metin  : kızağıyla
+      duyulan: kızarıyla
+  INSERT   ...balonu yavaşça yerden kalkıyor
+      metin  : (yok)
+      duyulan: nokta
+  REPLACE  ...kardeş var yaşındaki alfred
+      metin  : vegener
+      duyulan: ve jenner
+  REPLACE  ...kafasında hedef daha şekilleniyor
+      metin  : grönland
+      duyulan: greenland
+  REPLACE  ...daha şekilleniyor grönland alfred
+      metin  : lotar vegener
+      duyulan: lothar ve jenner
+  INSERT   ...alfred lotar vegener kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...berlin de doğdu babası
+      metin  : rihart vegener
+      duyulan: richard ve jenner
+  REPLACE  ...ailenin berlin in kuzeyindeki
+      metin  : kır evinde
+      duyulan: krew inde
+  REPLACE  ...geçiyordu alfred çocukken kutup
+      metin  : kaşiflerinin
+      duyulan: keşiflerinin
+  INSERT   ...geçmedi üniversitede astronomi okudu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yerine içine girmeyi seçti
+      metin  : ağabeyiyle
+      duyulan: ağabey ile
+  REPLACE  ...çaldı danimarkalı kaşif ludvig
+      metin  : mülius
+      duyulan: mülyus
+  REPLACE  ...grönland ın hiç haritası
+      metin  : çıkarılmamış
+      duyulan: çıkartılmamış
+  REPLACE  ...keşif yolculuğu düzenliyordu danmark
+      metin  : ekspedişonen
+      duyulan: expeditionen
+  REPLACE  ...meteorolog arıyordu ve yaşındaki
+      metin  : vegener
+      duyulan: wegener
+  REPLACE  ...yıl sürdü bu sefer
+      metin  : vegener
+      duyulan: wegener
+  REPLACE  ...tükenmişti de hayatını kaybetti
+      metin  : vegener
+      duyulan: ve wegener
+  INSERT   ...karmaşık konuları sadeleştirmekte ustaydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iklim bilimcilerinden olan vladimir
+      metin  : köppen
+      duyulan: köpen
+  REPLACE  ...sık gidip gelmeye başladı
+      metin  : köppen
+      duyulan: köpen
+  REPLACE  ...oldu sonra da kayınpederi
+      metin  : vegener
+      duyulan: ve wegener te
+  REPLACE  ...daki o sakin yıllarda
+      metin  : vegener
+      duyulan: ve wegener
+  REPLACE  ...olmayan soru sonlarına doğru
+      metin  : vegener
+      duyulan: ve wegener
+  REPLACE  ...afrika nın batı kıyısındaki
+      metin  : gine körfezi nin
+      duyulan: gene körfezinin
+  REPLACE  ...benzerliğe dikkat çekmişti ama
+      metin  : vegener
+      duyulan: ve wegener
+  REPLACE  ...sonra köprüler suya gömülmüştü
+      metin  : vegener
+      duyulan: ve wegener
+  REPLACE  ...uzaklaştıysa bu fikir sardı
+      metin  : jeoloji
+      duyulan: geoloji
+  REPLACE  ...hayvanın okyanusu geçmesi düşünülemezdi
+      metin  : glossopteris
+      duyulan: gilosopteris
+  INSERT   ...kabul etmek zorundasınızdır ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ile arasında danimarkalı subay
+      metin  : yohan
+      duyulan: johann
+  REPLACE  ...danimarkalı subay yohan peter
+      metin  : kok
+      duyulan: koch
+  REPLACE  ...notları tek kitapta topladı
+      metin  : di entştehung
+      duyulan: de die enstehung
+  REPLACE  ...di entştehung der kontinente
+      metin  : unt otseane
+      duyulan: und otzeane
+  REPLACE  ...baskılarda bu süper kıtaya
+      metin  : pangea
+      duyulan: pange
+  INSERT   ...defalarca genişletip yeniden yazdı
+      metin  : (yok)
+      duyulan: de de
+  INSERT   ...genişletip yeniden yazdı ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve yeni baskılar çıktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeni baskılar çıktı kayınpederi
+      metin  : köppen
+      duyulan: köpen
+  ... ve 93 fark daha
+
+metinde olup DUYULMAYAN: 146 kelime | duyulup metinde OLMAYAN: 198
+bölme/birleşme farkı (hata değil, elendi): 43
+
+duyulan metin: biyografi-2026-10-30.duyulan.txt

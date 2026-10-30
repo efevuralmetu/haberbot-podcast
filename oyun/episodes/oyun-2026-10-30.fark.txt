@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-30.mp3
+
+beklenen 1740 kelime | duyulan 1769 kelime | eşleşme %95.9
+sayı ifadesi: metinde 251, duyulanda 197  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kanıt yokken film ekibi
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...kente dönem umut veren
+      metin  : timex
+      duyulan: t max
+  REPLACE  ...gençlerden david jones tu
+      metin  : jones
+      duyulan: john s
+  INSERT   ...kendi oyunlarını yazdı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dundee stüdyosu diyelim stüdyonun
+      metin  : menace
+      duyulan: menece
+  REPLACE  ...bu gençlerden olan mike
+      metin  : dailly
+      duyulan: daly
+  REPLACE  ...daha küçük yapılabileceğini söyledi
+      metin  : dailly
+      duyulan: daly
+  REPLACE  ...ekibin programcılarından russel kay
+      metin  : di
+      duyulan: dı
+  REPLACE  ...anlaşılmış küçük kemirgenlerinden olan
+      metin  : lemming
+      duyulan: lemmink
+  REPLACE  ...adamcıklar için bundan uygun
+      metin  : ad
+      duyulan: at
+  REPLACE  ...peki oyuncu ne yapacaktı
+      metin  : dundee stüdyosunda
+      duyulan: dunday stüdyosu nda
+  REPLACE  ...kapakları ve görkemli kutu
+      metin  : resimleriyle
+      duyulan: resimleri ile
+  INSERT   ...çalışmanın sonunda lemmings şubat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bölüm vardı ve bunlar
+      metin  : (yok)
+      duyulan: arlı
+  REPLACE  ...ve adlarında iç şakalar
+      metin  : liverpoollu
+      duyulan: liverpoollı
+  REPLACE  ...saklıydı bazı bölümlerde ekrana
+      metin  : lemming
+      duyulan: lemmink
+  REPLACE  ...açtığı delik geri kalan
+      metin  : küsur
+      duyulan: küsür
+  REPLACE  ...art arda yükselir ekran
+      metin  : havai
+      duyulan: havay
+  INSERT   ...gösterilenin kısmı hiç yaşanmamıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en akılda kalan sahnesinde
+      metin  : lemmingler
+      duyulan: lemminkler
+  INSERT   ...nın kamu yayıncısı cbc
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...programı yayımladı gazeteci brian
+      metin  : vallee
+      duyulan: valleye
+  REPLACE  ...nın alberta eyaletinde çekilmişti
+      metin  : lemmingler
+      duyulan: lemminkler
+  REPLACE  ...bugün geniş kabul görüyor
+      metin  : lemminglerin
+      duyulan: lemminklerin
+  REPLACE  ...söylediği daha sade şey
+      metin  : lemming
+      duyulan: lemmink
+  REPLACE  ...yaşama arzusu var yani
+      metin  : lemmings
+      duyulan: lemmink
+  REPLACE  ...var olmamış davranıştan almıştı
+      metin  : dundee deki
+      duyulan: dunday daki
+  DELETE   ...amiga dan sonra sıra
+      metin  : lu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...lu kişisel bilgisayarlara atari
+      metin  : st ye acorn
+      duyulan: sty h or
+  REPLACE  ...ve ev bilgisayarı geldi
+      metin  : lemmings
+      duyulan: lemmink s
+  INSERT   ...geldi lemmings kısa sürede
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...paket olan no moer
+      metin  : lemmings
+      duyulan: lemmink s
+  REPLACE  ...yani eyvah daha fazla
+      metin  : lemming
+      duyulan: lemmink
+  INSERT   ...yağan bayram baskıları yayımlandı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...doğuran dünya dağılıyordu sony
+      metin  : liverpoollu
+      duyulan: te liverpool lu
+  INSERT   ...yarış oyunları yaptı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oyunları yaptı ve kapatıldı
+      metin  : lemmings
+      duyulan: lemmink s
+  INSERT   ...amiga nın üreticisi commodoer
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üreticisi commodoer iflas etti
+      metin  : lemmings
+      duyulan: lemmink s
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-10-30.duyulan.txt

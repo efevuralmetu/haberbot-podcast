@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-30.mp3
+
+beklenen 1741 kelime | duyulan 1745 kelime | eşleşme %92.8
+sayı ifadesi: metinde 210, duyulanda 152  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...zafer havası yoktur ekmek
+      metin  : karneyle
+      duyulan: karne ile
+  REPLACE  ...tanışır prag doğumlu hans
+      metin  : yanoviç
+      duyulan: janowicz
+  REPLACE  ...biçimlendirecek olan lunapark gecesidir
+      metin  : yanoviç
+      duyulan: yanovich
+  REPLACE  ...götürür anlattığına göer hamburg
+      metin  : da
+      duyulan: ta
+  REPLACE  ...ama filmdeki kasabanın adı
+      metin  : holstenval
+      duyulan: holstenwal
+  REPLACE  ...holstenval tam da hamburg
+      metin  : daki
+      duyulan: taki
+  REPLACE  ...de çakar mayer ile
+      metin  : yanoviç
+      duyulan: yanovich
+  REPLACE  ...emretmiştir hikaye böyle doğar
+      metin  : holstenval
+      duyulan: paul stenwal
+  REPLACE  ...kasabaya panayır kurulur doktor
+      metin  : kaligari
+      duyulan: caligari
+  REPLACE  ...andıran dolapta saklanan uyurgezer
+      metin  : kaligari
+      duyulan: caligari
+  REPLACE  ...düşer gece olunca çezaer
+      metin  : kaligari
+      duyulan: caligari
+  REPLACE  ...doktorun adı bile tesadüftür
+      metin  : yanoviç
+      duyulan: yanovich
+  REPLACE  ...yanoviç in anlattığına göer
+      metin  : standal
+      duyulan: stendal
+  REPLACE  ...i talya da tanıştığı
+      metin  : kaligari
+      duyulan: caligari
+  REPLACE  ...subaydan söz edilir bu
+      metin  : ad
+      duyulan: at
+  INSERT   ...hem tekinsiz gelir senaryoyu
+      metin  : (yok)
+      duyulan: den a
+  REPLACE  ...ve hırslı yapımcı vardır
+      metin  : erih
+      duyulan: erich
+  REPLACE  ...i lk düşündüğü yönetmen
+      metin  : frits
+      duyulan: fritz
+  REPLACE  ...tanınmış oyuncu olan robert
+      metin  : vine ye
+      duyulan: wine e
+  REPLACE  ...tartışılır ama sonuç ortadadır
+      metin  : vine
+      duyulan: wine
+  REPLACE  ...ressam ve dekoratörle çalışır
+      metin  : herman varm valter rayman
+      duyulan: hermann warm walter reymann
+  REPLACE  ...varm valter rayman ve
+      metin  : valter rörih
+      duyulan: walter röhrig
+  REPLACE  ...mekanlarda gerçek ışıkla çekilmektedir
+      metin  : varm
+      duyulan: warm
+  REPLACE  ...kartondan yapılmış panolar dikilir
+      metin  : holstenval
+      duyulan: holstenwal
+  REPLACE  ...eğri üçgenleer dönüşür sokaklar
+      metin  : zikzak
+      duyulan: ziksak
+  REPLACE  ...oyunculuk da değişmek zorundadır
+      metin  : kaligari yi verner kraus
+      duyulan: caligarii werner krauss
+  REPLACE  ...arkasından sinsice bakan adamdır
+      metin  : çezaer yi
+      duyulan: çezareyi
+  REPLACE  ...çezaer yi ize genç
+      metin  : konrad
+      duyulan: conrad
+  REPLACE  ...eğri ağaçların dallarına benzer
+      metin  : francis
+      duyulan: franzis
+  REPLACE  ...dallarına benzer francis rolünde
+      metin  : fridrih
+      duyulan: friedrich
+  REPLACE  ...talihsiz alan rolünde hans
+      metin  : haynrih fon tvardovski
+      duyulan: heinrich von twardowsky
+  REPLACE  ...filmin en ünlü sahnelerinden
+      metin  : çezaer nin
+      duyulan: çezarenin
+  REPLACE  ...sivri tepelerin üzerinden geçer
+      metin  : çezaer nin
+      duyulan: çezarenin
+  INSERT   ...yeer yığılıp ölür çekimler
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...son aylarında başlar ve
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...görsel dünyanın parçası olur
+      metin  : pommer
+      duyulan: pomer
+  INSERT   ...merak büyür film şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...film şubat berlin deki
+      metin  : marmorhaus
+      duyulan: marmor house
+  REPLACE  ...anlatmak için yeni sözcük
+      metin  : türetir
+      duyulan: üretir
+  REPLACE  ...eklenmiştir film bahçede başlar
+      metin  : francis
+      duyulan: fransız
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 105 kelime | duyulup metinde OLMAYAN: 113
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: film-2026-10-30.duyulan.txt

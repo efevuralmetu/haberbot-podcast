@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-30.mp3
+
+beklenen 3475 kelime | duyulan 3482 kelime | eşleşme %94.4
+sayı ifadesi: metinde 389, duyulanda 303  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ekim
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tahtında hak iddia ediyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kendi içinde parçalanmıştı kral
+      metin  : şarl
+      duyulan: şar
+  REPLACE  ...normandiya kıyısındaki liman kenti
+      metin  : arflör dü
+      duyulan: arfleur du
+  REPLACE  ...ve kirli su orduya
+      metin  : dizanteriyi
+      duyulan: dizantereyi
+  REPLACE  ...kavurdu kralın yakın norwich
+      metin  : piskoposu
+      duyulan: psikoposu
+  REPLACE  ...yakın norwich piskoposu richard
+      metin  : courtenay
+      duyulan: courtney
+  REPLACE  ...courtenay bu salgında öldü
+      metin  : suffolk
+      duyulan: sofok
+  REPLACE  ...michael de la pole
+      metin  : da
+      duyulan: de
+  REPLACE  ...geri gönderilenlerin sayısı buluyordu
+      metin  : arflör
+      duyulan: arfleur
+  REPLACE  ...henry ize bunu reddetti
+      metin  : eli boş
+      duyulan: elibos
+  REPLACE  ...ngiliz elindeydi ve yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yükler geride bırakıldı plan
+      metin  : som nehri ni
+      duyulan: son nehrini
+  REPLACE  ...aşmaktı bu geçidin adı
+      metin  : blanştak tı
+      duyulan: blanchtachte
+  REPLACE  ...yıl önce edward da
+      metin  : kresi
+      duyulan: cresy
+  REPLACE  ...dönüm noktalarından olacaktı sonunda
+      metin  : ekimde betankur
+      duyulan: ekim de betancor
+  REPLACE  ...sonunda ekimde betankur ve
+      metin  : vuayen
+      duyulan: voyen
+  REPLACE  ...doğru yürüdü ekim günü
+      metin  : ternuaz
+      duyulan: ternoize
+  REPLACE  ...birbirinden çok farklıydı dönemin
+      metin  : vakanüvisleri
+      duyulan: vakonüvisleri
+  REPLACE  ...islanmış kiriş gevşer ve
+      metin  : okun
+      duyulan: okum
+  REPLACE  ...aldı eserin adı gesta
+      metin  : henriki kuinti
+      duyulan: henrique quinti
+  REPLACE  ...ize daha çok burgonyalı
+      metin  : vakanüvislerden
+      duyulan: bakanüvislerden
+  REPLACE  ...burgonyalı vakanüvislerden öğreniyoruz bunlardan
+      metin  : jan lö fevr
+      duyulan: john lefebver
+  REPLACE  ...genç haberci olarak bulunuyordu
+      metin  : jan dö
+      duyulan: john de
+  REPLACE  ...kişi vardı bu soru
+      metin  : yüzyıldır
+      duyulan: yıldır
+  REPLACE  ...ordusuna karşı durduğunu söyler
+      metin  : vakanüvislerin
+      duyulan: bakanüvislerin
+  REPLACE  ...son yıllarda tarihçi anne
+      metin  : curry
+      duyulan: curie
+  REPLACE  ...ordusunun başında kral yoktu
+      metin  : şarl
+      duyulan: charles
+  REPLACE  ...atacağı düşünülerek kralın da
+      metin  : veliaht lui nin
+      duyulan: veliaut louis in
+  REPLACE  ...yüksek askeri makamı olan
+      metin  : konnetabl şarl dalber
+      duyulan: connet abchar dalger
+  DELETE   ...şarl dalber ile tecrübeli
+      metin  : mareşal busiko ya bırakıldı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...görmek isteyen soylularla doluydu
+      metin  : orlean
+      duyulan: orléans
+  REPLACE  ...soylularla doluydu orlean dükü
+      metin  : burbon
+      duyulan: bourbons
+  REPLACE  ...orlean dükü burbon dükü
+      metin  : alanson
+      duyulan: alençon
+  REPLACE  ...ama sahada her büyük
+      metin  : senyör
+      duyulan: seyyar
+  REPLACE  ...istiyordu ön safta olmak
+      metin  : şerefti
+      duyulan: şerefli
+  REPLACE  ...planının ilk taslağı aslında
+      metin  : akıllıcaydı
+      duyulan: akıllıca idi
+  REPLACE  ...karşısına dizildi o gün
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...hristiyan takviminde kardeş azizler
+      metin  : krispin
+      duyulan: crispin
+  REPLACE  ...kardeş azizler krispin ve
+      metin  : krispinianus
+      duyulan: crispinianus
+  ... ve 73 fark daha
+
+metinde olup DUYULMAYAN: 136 kelime | duyulup metinde OLMAYAN: 146
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: tarih-2026-10-30.duyulan.txt

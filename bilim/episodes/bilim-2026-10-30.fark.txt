@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-30.mp3
+
+beklenen 1852 kelime | duyulan 1864 kelime | eşleşme %96.8
+sayı ifadesi: metinde 207, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şubatında hasta yatağındaki
+      metin  : kristiyan höyhens
+      duyulan: christian huyhens
+  REPLACE  ...içinde birbirine kilitlendiğini gördü
+      metin  : bozsa
+      duyulan: bossa
+  REPLACE  ...adam hollandalı bilim insanı
+      metin  : kristiyan höyhens
+      duyulan: christian huyhens
+  REPLACE  ...şimdi de daha iddialı
+      metin  : işin
+      duyulan: saat
+  REPLACE  ...en değerli teknik sorunlarından
+      metin  : höyhens
+      duyulan: huyhens
+  REPLACE  ...dönüyordu bu tesadüf olabilirdi
+      metin  : tabii höyhens
+      duyulan: tabi huyhens
+  REPLACE  ...anlamına da gelebiliyordu ama
+      metin  : höyhens
+      duyulan: huyhens
+  REPLACE  ...uyum kayboldu yeniden aynı
+      metin  : kirişe
+      duyulan: kirişi
+  REPLACE  ...bugün neden bu kadar
+      metin  : önemsendiğini
+      duyulan: önemlendiğini
+  REPLACE  ...nden matthew bennett kurt
+      metin  : vizenfeld
+      duyulan: wiesenfeld
+  REPLACE  ...işin matematiğini çıkardılar ters
+      metin  : fazda
+      duyulan: fazla
+  REPLACE  ...önce amerikalı biyolog arthur
+      metin  : winfree
+      duyulan: winfrey de
+  REPLACE  ...topluluk uyuma geçiyordu ama
+      metin  : winfree
+      duyulan: winfrey
+  INSERT   ...kimse tam olarak çözemiyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...japon fizikçi yoshiki kuramoto
+      metin  : winfree
+      duyulan: winfrey
+  REPLACE  ...neresinde olduğu yani fizikçilerin
+      metin  : deyişiyle fazı
+      duyulan: değişiğiyle fazla
+  REPLACE  ...arasındaki farkı kapatmaya çalışıyor
+      metin  : önündekiler
+      duyulan: ön öndekiler
+  REPLACE  ...her yanına dağılıyor topluluğa
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...ani geçişin zamanda da
+      metin  : olabileceğiydi
+      duyulan: olabilecekti
+  REPLACE  ...yetiyor bu ilk bakışta
+      metin  : sağduyuya
+      duyulan: saduya
+  REPLACE  ...sonuç yerinde durdu böylece
+      metin  : höyhens
+      duyulan: huyhens
+  REPLACE  ...dumanlı dağlar da fotinus
+      metin  : karolinus
+      duyulan: carolinus
+  REPLACE  ...çalışıyor kalbin sağ kulakçığında
+      metin  : sinüs
+      duyulan: sinus
+  REPLACE  ...ritim başlatıyor beynin derinlerinde
+      metin  : suprakiazmatik
+      duyulan: suprakyazmatik
+  INSERT   ...biçimde gösteren olay haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...haziran londra da yaşandı
+      metin  : thames
+      duyulan: thomas
+  REPLACE  ...zarif yaya köprüsü olan
+      metin  : millennium
+      duyulan: millenium
+  REPLACE  ...olan millennium bridge yani
+      metin  : milenyum
+      duyulan: millenium
+  REPLACE  ...insanı aynı ritme soktu
+      metin  : höyhens
+      duyulan: höyens
+  REPLACE  ...aşıldığında salınım başlıyordu bu
+      metin  : kuramoto
+      duyulan: kramoto
+  INSERT   ...ders kitabı gibi örneğiydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...türden modelle tarif ettiler
+      metin  : milenyum
+      duyulan: milenium
+  INSERT   ...yerleştirdi ve köprü şubat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yasanın ürünü höyhens in
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bazen çok şeyi değiştiriyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: bilim-2026-10-30.duyulan.txt

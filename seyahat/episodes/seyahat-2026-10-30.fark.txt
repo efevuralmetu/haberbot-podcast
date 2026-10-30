@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-30.mp3
+
+beklenen 2177 kelime | duyulan 2193 kelime | eşleşme %96.4
+sayı ifadesi: metinde 192, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ordunun almayı başaramadığı kale
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yağmurla eridi çünkü duvarları
+      metin  : tuzdandı sahra nın
+      duyulan: tuzlandı sahranın
+  REPLACE  ...buydu siva libya sınırına
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...bile bazı geçitlerde el
+      metin  : yordamıyla
+      duyulan: yordamı ile
+  REPLACE  ...dar labirentin ortasında atik
+      metin  : camii
+      duyulan: cami
+  INSERT   ...işledi ama zaman değişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mısır ın hükümdarı kavalalı
+      metin  : mehmed
+      duyulan: mehmet
+  INSERT   ...sonra o yıl geldi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...birbirinin üzerine çökmeye başladı
+      metin  : (yok)
+      duyulan: yıla
+  INSERT   ...şimdi rüzgarın uğradığı oyuktur
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yaşadığı o eski yer
+      metin  : ağurmi
+      duyulan: aurmi
+  REPLACE  ...yanına duyuran yer orasıdır
+      metin  : ağurmi kayalığının
+      duyulan: aurmi kayalığı nın
+  DELETE   ...ağurmi kayalığının tepesindeki tapınak
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve bu tanrıya zeus
+      metin  : ammon
+      duyulan: amon
+  DELETE   ...vermek yeterli tarihçiye göer
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karşısına alıyordu ve sonra
+      metin  : mö
+      duyulan: in
+  REPLACE  ...skender in seferini anlatan
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...silince de rehberler belirdi
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...vardığında baş rahip karşıladı
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...antik kaynaklara göer annesi
+      metin  : olimpias
+      duyulan: olympias
+  REPLACE  ...çağların izleri de vardır
+      metin  : ağurmi nin tapınağı
+      duyulan: aurmin in tapınağa
+  REPLACE  ...ya da kendi adlarıyla
+      metin  : amazig
+      duyulan: amazik
+  REPLACE  ...konuşulan dillerin akrabası olan
+      metin  : sivaca
+      duyulan: sivac
+  REPLACE  ...yazılı standarda dönüşmedi kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...gösterir tanrılar değişti zamanlar
+      metin  : amun a
+      duyulan: amına
+  REPLACE  ...birbirine düşman olabiliyordu çölün
+      metin  : tehdidine
+      duyulan: tehditine
+  INSERT   ...şehir kendi içinde bölünmüştü
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...içinde bölünmüştü yüzyılda vahaya
+      metin  : medeniyye
+      duyulan: medeniye
+  REPLACE  ...sonra zikir başlar dolunay
+      metin  : dağın
+      duyulan: dağı nın
+  REPLACE  ...içilir çoğu zaman taze
+      metin  : naneyle
+      duyulan: nane ile
+  REPLACE  ...yeniden keşif de yaşanıyor
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...tekniği yaşlılardan öğrenen yeni
+      metin  : kuşağı
+      duyulan: kuşağa
+  INSERT   ...bu vaha cevabın kısmını
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...anlamda yaşamaya devam ediyor
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-10-30.duyulan.txt

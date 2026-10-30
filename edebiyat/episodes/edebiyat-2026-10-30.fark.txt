@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-30.mp3
+
+beklenen 1901 kelime | duyulan 1914 kelime | eşleşme %93.7
+sayı ifadesi: metinde 319, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...defter var defter haziran
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...almanya dan gelmişti anne
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...aileyi hollanda ya taşıdı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...takmaları zorunlu oldu temmuz
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...başında anne nin ablası
+      metin  : margot
+      duyulan: margo
+  REPLACE  ...çıktı ve otto frank
+      metin  : in prinsenhraht
+      duyulan: ın prinzenrath
+  REPLACE  ...binasına yerleşti otto frank
+      metin  : in
+      duyulan: ın
+  REPLACE  ...katıldı önce otto frank
+      metin  : in
+      duyulan: ın
+  REPLACE  ...in iş arkadaşı herman
+      metin  : fan
+      duyulan: van
+  REPLACE  ...herman fan pels eşi
+      metin  : auguste
+      duyulan: august
+  REPLACE  ...kasımda da diş hekimi
+      metin  : frits
+      duyulan: fritz
+  REPLACE  ...eşi yan genç sekreter
+      metin  : bep vosköyl
+      duyulan: beb vosgöy
+  REPLACE  ...viktor kugler ve yohannes
+      metin  : kleyman
+      duyulan: kleiman
+  REPLACE  ...girişini gizleyen o döner
+      metin  : kitaplık da
+      duyulan: kitaplıkta
+  REPLACE  ...döner kitaplık da ağustos
+      metin  : bep in
+      duyulan: de bebin
+  REPLACE  ...ağustos bep in babası
+      metin  : yohan vosköyl
+      duyulan: yohannes vosgöy
+  REPLACE  ...mektuplar biçiminde annesiyle anlaşamamasını
+      metin  : pfeffer le
+      duyulan: pefferle
+  INSERT   ...halka seslendiği yayındı mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sanat ve bilim bakanı
+      metin  : herit bolkesteyn
+      duyulan: herith bolkestein
+  REPLACE  ...bakanı herit bolkesteyn konuştu
+      metin  : bolkesteyn
+      duyulan: bolkestein
+  REPLACE  ...savaştan sonra toplanmasını istiyordu
+      metin  : bolkesteyn ın
+      duyulan: bolkestein in
+  REPLACE  ...toplamak için kurulan devlet
+      metin  : enstitüsünün
+      duyulan: institüsünün
+  REPLACE  ...o zaman bulmuştu het
+      metin  : ahterhöys
+      duyulan: achterhuis
+  REPLACE  ...ahterhöys yani arka ev
+      metin  : hollandacada
+      duyulan: hollandaçada
+  REPLACE  ...bakmayan arka bölümüne verilen
+      metin  : addı
+      duyulan: adlı
+  INSERT   ...iz bırakmak istiyordu mayıs
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...peki anne neyi değiştirdi
+      metin  : (yok)
+      duyulan: it
+  REPLACE  ...hazırladı örneğin odasını paylaştığı
+      metin  : frits
+      duyulan: fritz
+  REPLACE  ...için de süer farklı
+      metin  : soyadları
+      duyulan: soyatları
+  INSERT   ...daha önce de vardı
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...yazımın değeri daha var
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...daha var son günlerinden
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...anne kitabını tam da
+      metin  : bolkesteyn ın
+      duyulan: bolkeste nin
+  REPLACE  ...eden viktor kugler ve
+      metin  : yohannes kleyman
+      duyulan: johannes kleiman
+  REPLACE  ...eşya ararken otto frank
+      metin  : in
+      duyulan: ın
+  REPLACE  ...sığınaktakiler önce hollanda daki
+      metin  : vesterbork
+      duyulan: westerbork
+  REPLACE  ...doğuya giden son trenlerden
+      metin  : auşvits
+      duyulan: auschwitz
+  REPLACE  ...ayrıldı edith frank ocak
+      metin  : auşvits de
+      duyulan: te auschwitz te
+  REPLACE  ...hayatını kaybetti anne ve
+      metin  : margot
+      duyulan: margote
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 64 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: edebiyat-2026-10-30.duyulan.txt

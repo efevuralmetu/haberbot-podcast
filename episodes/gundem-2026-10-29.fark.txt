@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-10-29.mp3
+
+beklenen 1358 kelime | duyulan 1369 kelime | eşleşme %94.2
+sayı ifadesi: metinde 212, duyulanda 122  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...erdirmeye yönelik yeni anlaşma
+      metin  : taslağı
+      duyulan: taslığa
+  INSERT   ...ortaya koydu oyların yaklaşık
+      metin  : (yok)
+      duyulan: ının
+  REPLACE  ...kaldı muhalefet tarafında gadi
+      metin  : ayzenkot
+      duyulan: aizenkot
+  REPLACE  ...hükümet kurmak için sandalyelik
+      metin  : knesset
+      duyulan: kneset
+  REPLACE  ...zafer ilan etti ancak
+      metin  : ayzenkot
+      duyulan: aizenkot
+  REPLACE  ...ve zorlu geçmesi bekleniyor
+      metin  : gazze de
+      duyulan: gazetede
+  REPLACE  ...bekleniyor gazze de ize
+      metin  : ateşkes
+      duyulan: ateşket
+  REPLACE  ...toledo eyaletinde madrid ile
+      metin  : sevilya
+      duyulan: sevilla
+  REPLACE  ...hattında renfe ye ait
+      metin  : ave
+      duyulan: ab
+  REPLACE  ...ave treni hatta duran
+      metin  : iryo
+      duyulan: i rio
+  INSERT   ...göer hayatını kaybedenlerin sayısı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...işaret ediyor başbakan pedro
+      metin  : sançez
+      duyulan: sanchez
+  REPLACE  ...sançez ülkede günlük resmi
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...duyurdu abd merkez bankası
+      metin  : fed
+      duyulan: fet
+  REPLACE  ...i ki üye faizin
+      metin  : baz
+      duyulan: pas
+  REPLACE  ...artırılması yönünde oy kullandı
+      metin  : fed
+      duyulan: feğer
+  REPLACE  ...hiçbir rol oynamadığını vurguladı
+      metin  : abd
+      duyulan: mbd
+  REPLACE  ...yıllık enflasyon ağustosta iken
+      metin  : eylülde
+      duyulan: eylül de ye
+  REPLACE  ...enerji fiyatlarının etkisi büyük
+      metin  : fed eylülde
+      duyulan: fet eylül de den
+  INSERT   ...aralıkta yeni artış ihtimalini
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...yeniden gündemin merkezine oturdu
+      metin  : alphabet in
+      duyulan: alfabetin
+  REPLACE  ...in bulut google cloud
+      metin  : çeyrekte
+      duyulan: çeyrek de
+  REPLACE  ...dolara çıkardı ve beklentileri
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...tahminlerin gerisinde kaldı şirket
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hisse yaklaşık değer kaybetti
+      metin  : alphabet
+      duyulan: alfabet
+  REPLACE  ...hedefini korudu microsoft cephesinde
+      metin  : azuer
+      duyulan: azur
+  REPLACE  ...bugün amazon un da
+      metin  : bilanço
+      duyulan: vilancho
+  REPLACE  ...yeni darboğaz ortaya çıkıyor
+      metin  : nikkey
+      duyulan: nikke
+  REPLACE  ...anthropic in belgelerini yakında
+      metin  : kamuoyuyla
+      duyulan: kamuoyu ile
+  REPLACE  ...kalmasını bekliyor değerli metallerde
+      metin  : fed
+      duyulan: saltın fet
+  REPLACE  ...geçen hafta politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...ın özbekistan cumhurbaşkanı şevket
+      metin  : mirziyoyev
+      duyulan: mirzyoyev
+  REPLACE  ...ankara bölge adliye mahkemesi
+      metin  : mayısta
+      duyulan: maista
+  REPLACE  ...özel ve yakın milletvekilleri
+      metin  : chp
+      duyulan: thp
+  REPLACE  ...ilişkin maddelik kanun teklifini
+      metin  : meclis e
+      duyulan: meclize
+  REPLACE  ...silah bırakma ve örgütün
+      metin  : feshi
+      duyulan: feşi
+  REPLACE  ...yüksek enerji faturası cari
+      metin  : denge
+      duyulan: dengi
+  REPLACE  ...geliyor seçim sonuçları hem
+      metin  : konger deki
+      duyulan: kongredeki
+  REPLACE  ...etkileyebilir i srail de
+      metin  : nihai
+      duyulan: nihayi
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: gundem-2026-10-29.duyulan.txt

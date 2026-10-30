@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-30.mp3
+
+beklenen 2616 kelime | duyulan 2624 kelime | eşleşme %95.1
+sayı ifadesi: metinde 308, duyulanda 274  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...ve iyiyim demen bekleniyor
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...i ki yıl önce
+      metin  : konfüçyüs
+      duyulan: konfüç yüüs
+  REPLACE  ...aynı şeyi sormuştu yıl
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...sonra gelir gelir gecede
+      metin  : mevlit
+      duyulan: mevlid
+  REPLACE  ...bu süer yıla uzar
+      metin  : viktorya
+      duyulan: victoria
+  REPLACE  ...kurallarına hiç uymadı kraliçe
+      metin  : viktorya
+      duyulan: victoria
+  INSERT   ...kraliçe viktorya eşi albert
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...eşi albert öldükten sonra
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...arasındaki gerilim yüzünden çıkar
+      metin  : konfüçyüs ün
+      duyulan: confucius un
+  REPLACE  ...yenisi filizlenir bunun üzerine
+      metin  : konfüçyüs
+      duyulan: confucius
+  REPLACE  ...hiç düşünmeden ettirir der
+      metin  : konfüçyüs
+      duyulan: confucius
+  REPLACE  ...zay vo odadan çıkınca
+      metin  : konfüçyüs
+      duyulan: confucius
+  REPLACE  ...dikkat çekici şey var
+      metin  : konfüçyüs
+      duyulan: confucius
+  REPLACE  ...mi aynı çin topraklarında
+      metin  : konfüçyüs
+      duyulan: confucius
+  REPLACE  ...bakışta skandal gibi görünür
+      metin  : cuangzı
+      duyulan: joang z
+  REPLACE  ...kapıdan girdiğinde gözlerine inanamaz
+      metin  : cuangzı
+      duyulan: joang z
+  REPLACE  ...bu fazla değil mi
+      metin  : cuangzı
+      duyulan: joang z
+  REPLACE  ...mi cuangzı nin cevabı
+      metin  : cuangzı
+      duyulan: joang z
+  REPLACE  ...ben nasıl etkilenmeyeyim yani
+      metin  : cuangzı
+      duyulan: joang z
+  REPLACE  ...bu durdum ifadesi önemlidir
+      metin  : cuangzı
+      duyulan: joang z
+  REPLACE  ...halkası olarak bakmayı öğrenir
+      metin  : çanağa
+      duyulan: çanağı
+  REPLACE  ...sözlerini değil mektupla iletir
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...milattan sonra yılı civarında
+      metin  : marsiya
+      duyulan: marsya
+  REPLACE  ...uzun teselli mektubu yazar
+      metin  : marsiya
+      duyulan: marsya
+  REPLACE  ...yaslı değildir babası tarihçi
+      metin  : kremutius kordus
+      duyulan: cremutius cordus
+  REPLACE  ...suçlanmış ve ölüme sürüklenmişti
+      metin  : marsiya
+      duyulan: marsya
+  REPLACE  ...metilius ölünce yıkılmıştır ve
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...aldığında yası yılına girmiştir
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...el sürülmez ama artık
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...augustus un kız kardeşi
+      metin  : oktavya dır
+      duyulan: oktaviyadır
+  REPLACE  ...öteki augustus un karısı
+      metin  : livia dır
+      duyulan: livyadır
+  REPLACE  ...hakkında konuşmaktan teselli bulmuştur
+      metin  : seneka marsiya
+      duyulan: seneca marsya
+  REPLACE  ...biçmek yerine yön gösterir
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...kaybettiğin insanı nasıl taşıdığındır
+      metin  : oktavya
+      duyulan: oktaviyadır
+  REPLACE  ...kaçmak için da hatırlamaz
+      metin  : livia
+      duyulan: livyadır
+  REPLACE  ...acının dinmesine izin verir
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...izin verir seneka nın
+      metin  : yasla
+      duyulan: yazla
+  REPLACE  ...sözleri ize yıllar sonra
+      metin  : lusilyus
+      duyulan: lusilius
+  REPLACE  ...yazdığı mektuplardan karşımıza çıkar
+      metin  : lusilyus
+      duyulan: lusilius
+  REPLACE  ...çıkar lusilyus un yakın
+      metin  : flakkus
+      duyulan: flaccus
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 96 kelime | duyulup metinde OLMAYAN: 107
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: felsefe-2026-10-30.duyulan.txt
