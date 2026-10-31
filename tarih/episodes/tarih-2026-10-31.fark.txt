@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-10-31.mp3
+
+beklenen 2457 kelime | duyulan 2466 kelime | eşleşme %94.4
+sayı ifadesi: metinde 283, duyulanda 195  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...korumaya gönderilmiş asker sabah
+      metin  : ayin
+      duyulan: ayın
+  INSERT   ...oturup ufku izliyordu çoğu
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...gerekiyor belçika kongosu haziran
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...bölgeye sözü geçmez oldu
+      metin  : (yok)
+      duyulan: zon
+  REPLACE  ...en güneydeki eyalet katanga
+      metin  : moiz
+      duyulan: mois
+  REPLACE  ...bazıları vardı bakırın yanında
+      metin  : kobalt
+      duyulan: cobalt
+  REPLACE  ...sermayeli dev şirket işletiyordu
+      metin  : ünyon minyer dü
+      duyulan: union minier du
+  INSERT   ...bu büyük adımdı ülke
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...büyük adımdı ülke birleşmiş
+      metin  : milletler e
+      duyulan: milletleer
+  REPLACE  ...de erkenden anlaşılmıştı kasım
+      metin  : niemba
+      duyulan: ta niyamba
+  REPLACE  ...fransa dan belçika dan
+      metin  : rodezya
+      duyulan: rodezia
+  REPLACE  ...deneyimli adamlardı fransızlar le
+      metin  : zafrö
+      duyulan: zafro
+  REPLACE  ...ağırlıklı olarak ülkenin ortasındaki
+      metin  : athlone
+      duyulan: atlone
+  REPLACE  ...ülkenin ortasındaki athlone kasabasından
+      metin  : custume
+      duyulan: küstüme
+  REPLACE  ...ndan toplanmıştı komutanı patrick
+      metin  : quinlan dı quinlan
+      duyulan: quinland ı quinland
+  REPLACE  ...ne yeni görev verildi
+      metin  : elizabetvil
+      duyulan: elizabethville
+  REPLACE  ...kilometer kuzeybatısındaki maden kasabası
+      metin  : jadovil e
+      duyulan: jadoville
+  REPLACE  ...jandarma da açıkça düşmancaydı
+      metin  : quinlan
+      duyulan: quinland
+  REPLACE  ...nehri üzerindeki köprüden geçiyordu
+      metin  : quinlan
+      duyulan: quinland
+  INSERT   ...olduğunu gün içinde anlayacaklardı
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...gün içinde anlayacaklardı eylül
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...içinde anlayacaklardı eylül sabahı
+      metin  : elizabetvil
+      duyulan: elizabethville
+  REPLACE  ...elizabetvil de birleşmiş milletler
+      metin  : morthor
+      duyulan: mortor
+  REPLACE  ...adlı harekat başlattı kelime
+      metin  : hintçede
+      duyulan: hincçede
+  REPLACE  ...verecek hedef aradı hedeflerden
+      metin  : jadovil
+      duyulan: jadoville
+  REPLACE  ...yalnız bölüktü o sabah
+      metin  : jadovil
+      duyulan: jadoville
+  REPLACE  ...başladı ilk gören nöbetteki
+      metin  : er
+      duyulan: air
+  REPLACE  ...nöbetteki er billy ready
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...siperlerine koştu dakika içinde
+      metin  : quinlan ın
+      duyulan: kinninna nın
+  REPLACE  ...hattını aşamadı kuşatmanın sonunda
+      metin  : bilanço
+      duyulan: blancho
+  INSERT   ...en çok söylenen tahmin
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ve açık arazide bırakıyordu
+      metin  : quinlan
+      duyulan: queen lan
+  REPLACE  ...üzerinde jadovil uzak değildi
+      metin  : elizabetvil
+      duyulan: elizabethville
+  REPLACE  ...rlandalı askerlerden ve hintli
+      metin  : gurkhalardan
+      duyulan: gurkalardan
+  INSERT   ...oluşuyordu sayıları kişi kadardı
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...de siyasi boyutu vardı
+      metin  : morthor
+      duyulan: mortor
+  REPLACE  ...temsilcisi i rlandalı diplomat
+      metin  : conor cruize
+      duyulan: connor cruz
+  REPLACE  ...birleşmiş milletler genel sekreteri
+      metin  : dag hammarşöld
+      duyulan: doug hammarskjöld
+  REPLACE  ...hammarşöld durumu çözmek için
+      metin  : çombe ile
+      duyulan: çombey le
+  REPLACE  ...uçak eylül gecesi kuzey
+      metin  : rodezya
+      duyulan: rhodesya
+  ... ve 47 fark daha
+
+metinde olup DUYULMAYAN: 87 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: tarih-2026-10-31.duyulan.txt

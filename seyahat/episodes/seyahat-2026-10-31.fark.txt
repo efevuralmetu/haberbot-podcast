@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-10-31.mp3
+
+beklenen 2270 kelime | duyulan 2247 kelime | eşleşme %95.9
+sayı ifadesi: metinde 183, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ipek dokuyucuları aynı merdivenden
+      metin  : ganj a
+      duyulan: ganca
+  REPLACE  ...adı varanasi dir bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ile assi den gelir
+      metin  : hacılar
+      duyulan: kacılar
+  REPLACE  ...daha eski adıyla anar
+      metin  : kaşi
+      duyulan: kashi
+  REPLACE  ...duman asılıdır burası manikarnika
+      metin  : türkçesiyle
+      duyulan: türkçesi ile
+  REPLACE  ...efsane yatar anlatıya göer
+      metin  : vişnu burada
+      duyulan: vişnubur da
+  REPLACE  ...ederler ram nam satya
+      metin  : hai
+      duyulan: hay
+  REPLACE  ...neher indirilir son kez
+      metin  : ganj ın
+      duyulan: gancın
+  REPLACE  ...kirli saydığı için domlar
+      metin  : kast
+      duyulan: kas
+  REPLACE  ...domların kralı denir bu
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...odunların yanması saatler sürer
+      metin  : domlar
+      duyulan: donlar
+  REPLACE  ...su döker ve uzaklaşır
+      metin  : gatta
+      duyulan: gatda
+  REPLACE  ...gat adını efsanevi kral
+      metin  : harishçandra dan
+      duyulan: hariş çandradan
+  REPLACE  ...adı samsaradır ve kurtuluşa
+      metin  : mokşa
+      duyulan: moksha
+  REPLACE  ...anlatıya göer ölüm anında
+      metin  : şiva
+      duyulan: shiva
+  REPLACE  ...yaklaştığında hastanın ağzına damla
+      metin  : ganj
+      duyulan: ganç
+  REPLACE  ...yürüme mesafesindedir ölü kefenlenir
+      metin  : sedyeye
+      duyulan: sediyeye
+  INSERT   ...vardır bunlar zaman içinde
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...ölümünün yaklaştığını hisseden yaşlı
+      metin  : baba ile
+      duyulan: babayla
+  REPLACE  ...ile gündelik hayat aynı
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...ritüeli daha yaşanır buralarda
+      metin  : akhara
+      duyulan: akara
+  REPLACE  ...geleneksel güreş alanları vardır
+      metin  : kuşi denen
+      duyulan: kushi denilen
+  REPLACE  ...tan alır gelenek buradaki
+      metin  : akharanın
+      duyulan: akara nın
+  REPLACE  ...üzerinden çevirerek güç kazanırlar
+      metin  : akharanın
+      duyulan: akara nın
+  REPLACE  ...için kızgın yağda kabaran
+      metin  : kachoriler
+      duyulan: kaçoriler
+  REPLACE  ...kış aylarında sokak satıcıları
+      metin  : malaiyo
+      duyulan: malayo
+  REPLACE  ...sokak satıcıları malaiyo satar
+      metin  : malaiyo
+      duyulan: malayo
+  REPLACE  ...gün ilerledikçe dükkanların önünde
+      metin  : paan
+      duyulan: pahan
+  REPLACE  ...paan hazırlayan ustalar görünür
+      metin  : paan
+      duyulan: pahan
+  REPLACE  ...yapılan lokmadır varanasi nin
+      metin  : paanı
+      duyulan: pahanı
+  REPLACE  ...desenler bulunur düğün sarisini
+      metin  : dokumak
+      duyulan: dokunmak
+  INSERT   ...gatlarda pratik yapmasıyla anılır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...halde varanasi yi ve
+      metin  : ganj
+      duyulan: ganc
+  REPLACE  ...gatı olan daşaşvamed yani
+      metin  : at gatı na
+      duyulan: gatına
+  DELETE   ...yaratıcı tanrı brahma burada
+      metin  : atı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...küçük mum bulunur ardından
+      metin  : ganj aarti si
+      duyulan: ganca artısı
+  REPLACE  ...ganj aarti si başlar
+      metin  : aarti
+      duyulan: artı
+  REPLACE  ...kendisine tanrıça olarak görülen
+      metin  : ganj a
+      duyulan: ganca
+  REPLACE  ...aslında oldukça yenidir ve
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...birlikte yavaş yavaş uzaklaşır
+      metin  : varanasi
+      duyulan: varanası
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-10-31.duyulan.txt

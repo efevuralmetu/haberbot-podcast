@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-10-31.mp3
+
+beklenen 1762 kelime | duyulan 1780 kelime | eşleşme %95.4
+sayı ifadesi: metinde 201, duyulanda 140  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...basınının en sevdiği doom
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nun ortağı olduğu küçük
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...konuşulan stüdyosu olmuştu ama
+      metin  : quake in
+      duyulan: quakin
+  REPLACE  ...için de yalnız değildi
+      metin  : id nin
+      duyulan: mayden in
+  REPLACE  ...sahibi olacak oyunlar önce
+      metin  : fikirleriyle
+      duyulan: fikirleri ile
+  REPLACE  ...yapmak isteyen çoktu sonunda
+      metin  : tomb raider
+      duyulan: tom prader
+  REPLACE  ...fazla oyunu kapsayan cömert
+      metin  : anlaşmayla
+      duyulan: anlaşma ile
+  REPLACE  ...plan iddialıydı romero nun
+      metin  : daikatana sı
+      duyulan: dayı kat anası
+  REPLACE  ...daikatana sı tom hal
+      metin  : un
+      duyulan: ın
+  REPLACE  ...bilimkurgu rol yapma oyunu
+      metin  : anachronox
+      duyulan: anakronox
+  REPLACE  ...düzenlemesine yaklaşık dolar harcandı
+      metin  : dev cam
+      duyulan: devcan
+  REPLACE  ...pencerelerden dallas ın bütün
+      metin  : siluetini
+      duyulan: silüetini
+  REPLACE  ...karargahını andıran hava vardı
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...takvim de en az
+      metin  : vizyon
+      duyulan: vision
+  REPLACE  ...de imkansız görüneni yapmıştı
+      metin  : gökdelenin
+      duyulan: göktelenin
+  INSERT   ...her şey mümkün görünüyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nun eski evinden çıktı
+      metin  : id
+      duyulan: dr d
+  REPLACE  ...çıktı id softwaer quake
+      metin  : ii yi
+      duyulan: i
+  DELETE   ...kinci yolu seçtiler quake
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ortaya çıktı dergi reklamı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...önce kibrin simgesine dönüştü
+      metin  : daikatana
+      duyulan: dayikatana
+  REPLACE  ...bu ilanın gölgesinde değerlendirilecekti
+      metin  : gökdelenin
+      duyulan: göktelenin
+  INSERT   ...büyük ölçüde gençlerden oluşuyordu
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...sarsılıyordu porter ın dominion
+      metin  : ı
+      duyulan: u de
+  REPLACE  ...yayıncılık şirketi kurdu baharında
+      metin  : daikatana
+      duyulan: die catana
+  REPLACE  ...daikatana büyük oyun fuarı
+      metin  : eüçte
+      duyulan: te
+  REPLACE  ...hala toparlanmaya çalışan projeydi
+      metin  : basının
+      duyulan: bağasının
+  REPLACE  ...kalbine dokunan olay yaşandı
+      metin  : daikatana
+      duyulan: die catana
+  REPLACE  ...başladı ion storm buna
+      metin  : mahkemeyle
+      duyulan: mahkeme ile
+  INSERT   ...observer yani dallas gözlemcisi
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...un stüdyo üzerindeki ağırlığı
+      metin  : arttıkça
+      duyulan: artıkça
+  INSERT   ...aşağı değişmişti half life
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hikaye çeşitlilik ve kapsam
+      metin  : vaadi
+      duyulan: vadi
+  REPLACE  ...sık sık takılıp kalıyor
+      metin  : duvarlara
+      duyulan: duvara
+  REPLACE  ...bu sürüm aynı hikayeyi
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...sadece yükünü taşıyamadı dallas
+      metin  : ofisinin
+      duyulan: office inin
+  REPLACE  ...erdi tom hal un
+      metin  : anachronox
+      duyulan: anacronox
+  REPLACE  ...anachronox u yazında çıktı
+      metin  : övgü
+      duyulan: ölgü
+  REPLACE  ...yıl romero ve hal
+      metin  : ion
+      duyulan: eon
+  ... ve 17 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: oyun-2026-10-31.duyulan.txt

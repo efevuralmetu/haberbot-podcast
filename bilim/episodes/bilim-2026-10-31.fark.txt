@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-10-31.mp3
+
+beklenen 1590 kelime | duyulan 1599 kelime | eşleşme %96.6
+sayı ifadesi: metinde 185, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : kablonu
+      duyulan: kaçablonu
+  INSERT   ...şaşırtıcı biçimde derin çıktı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...biçimde derin çıktı yılında
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kadar sadeydi kenarları ve
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...yaptılar i p uzunluğunu
+      metin  : santimetreden metreye
+      duyulan: cm den m ye
+  REPLACE  ...getirdi en kısa ipler
+      metin  : santimetrelik
+      duyulan: cm lik
+  REPLACE  ...ne kadar çeşitli düğümler
+      metin  : ürettiğiydi
+      duyulan: ürettiydi
+  REPLACE  ...yakaladı bu güzel çalışma
+      metin  : ig nobel
+      duyulan: de ignobel
+  REPLACE  ...neden böyle olmak zorunda
+      metin  : olduğuydu
+      duyulan: oldu
+  REPLACE  ...uçları hayali olarak birleştirilir
+      metin  : raymer
+      duyulan: reimer
+  REPLACE  ...yonca düğümü en az
+      metin  : kesişmeyle
+      duyulan: kesişme ile
+  REPLACE  ...bu büyüme sorunun kalbidir
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...kalbidir altmışların başında kimyager
+      metin  : hari friş
+      duyulan: harry frisch
+  REPLACE  ...onlardan bağımsız olarak biyofizikçi
+      metin  : maks delbrük
+      duyulan: max delbruck
+  INSERT   ...yaklaşık çeyrek kanıtsız kaldı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çeyrek kanıtsız kaldı matematikçiler
+      metin  : de witt
+      duyulan: david
+  REPLACE  ...yönlü kapı meselesi var
+      metin  : düğüm
+      duyulan: düğün
+  REPLACE  ...daha kötüye gittiğini açıklıyor
+      metin  : raymer
+      duyulan: reimer
+  REPLACE  ...ize matematiğin öngördüğü gibi
+      metin  : düğüme
+      duyulan: düğme
+  INSERT   ...çözmeden var olamazdı çözümü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olamazdı çözümü biyokimyacı james
+      metin  : wang
+      duyulan: wenk
+  REPLACE  ...wang bağırsak bakterisi e
+      metin  : coli de
+      duyulan: nokta colide
+  REPLACE  ...proteinle ortaya çıkardı bu
+      metin  : topoizomeraz
+      duyulan: topoisomeraz
+  REPLACE  ...ailesinin keşfedilen ilk üyesiydi
+      metin  : topoizomerazlar
+      duyulan: topoisomerazlar
+  REPLACE  ...düğüm kuramcısının hayalindeki aleti
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...ana türleri var tip
+      metin  : topoizomerazlar
+      duyulan: topoisomerazlar
+  REPLACE  ...dönmesine izin verir sonra
+      metin  : kesiği
+      duyulan: kesiyi
+  REPLACE  ...gibi i kinci tip
+      metin  : topoizomerazlar
+      duyulan: topoisomerazlar
+  REPLACE  ...bütünüyle geçirir ve ardından
+      metin  : kesiği
+      duyulan: kesiyi
+  INSERT   ...zarif ayrıntısı devreye giriyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kozarelli nin ekibi tip
+      metin  : topoizomerazların
+      duyulan: topoisomerazların
+  REPLACE  ...enzimlerin düğümlenmeyi ve dolanmayı
+      metin  : o rastgele
+      duyulan: bu şekilde
+  REPLACE  ...tıpta da kendini gösteriyor
+      metin  : siprofloksasin
+      duyulan: siprofloxasin
+  REPLACE  ...kestiği anda yakalar ve
+      metin  : kesiği
+      duyulan: kesiyi
+  REPLACE  ...minik protein kabuklarına doldurur
+      metin  : havyer
+      duyulan: tiki de javier
+  REPLACE  ...karmaşık olduğunu gösterdi bu
+      metin  : raymer
+      duyulan: reimer
+  REPLACE  ...hücrede küçük zafer kazanıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: bilim-2026-10-31.duyulan.txt

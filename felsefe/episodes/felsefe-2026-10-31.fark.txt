@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-10-31.mp3
+
+beklenen 2230 kelime | duyulan 2231 kelime | eşleşme %97.7
+sayı ifadesi: metinde 204, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gözlerinizi bile kapatıyorsunuz saatte
+      metin  : kilometreyle
+      duyulan: km ile
+  REPLACE  ...bile alman sosyolog niklas
+      metin  : luhman
+      duyulan: luhmann de
+  REPLACE  ...ve yolumuza devam ederiz
+      metin  : luhman
+      duyulan: luhmann
+  REPLACE  ...mi burada amerikalı filozof
+      metin  : anet
+      duyulan: annette
+  REPLACE  ...amerikalı filozof anet bayer
+      metin  : in
+      duyulan: ın da
+  INSERT   ...yaşanmaz i ngiliz filozof
+      metin  : (yok)
+      duyulan: honora
+  INSERT   ...ngiliz filozof o neil
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve en ünlü kullanımı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kullanımı ronald reagan ile
+      metin  : mihail gorbaçov
+      duyulan: mikhail gorbachev
+  REPLACE  ...reagan sözü rusça söylemiş
+      metin  : gorbaçov
+      duyulan: gorbachev
+  REPLACE  ...olabilir danimarkalı düşünür sören
+      metin  : kirkegor
+      duyulan: kierkegor de
+  REPLACE  ...bakışta saflık gibi görünür
+      metin  : kirkegor ın
+      duyulan: kierkegor un
+  REPLACE  ...inan diyemeyiz gerçek hayat
+      metin  : kirkegor ın
+      duyulan: kierkegor un
+  REPLACE  ...ve nun harflerinden oluşan
+      metin  : emn
+      duyulan: em
+  REPLACE  ...bağın en bilinen örneği
+      metin  : hz
+      duyulan: hazret
+  INSERT   ...değerli eşyalarını bırakmayı sürdürmüştü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...medine ye hicret ederken
+      metin  : hz
+      duyulan: hazreti
+  REPLACE  ...geniş anlam da kazanır
+      metin  : ahzab
+      duyulan: ahzap
+  REPLACE  ...bu konuyu büyük eseri
+      metin  : i hyau ulumi d din in
+      duyulan: ihya ulu midnin
+  INSERT   ...istemek güvenin zeminini hazırlar
+      metin  : (yok)
+      duyulan: i kincisi
+  REPLACE  ...sızar alman asıllı düşünür
+      metin  : hana arent
+      duyulan: hannah arendt de
+  REPLACE  ...yarın ne yapacağını bilemeyiz
+      metin  : arent
+      duyulan: arendt
+  REPLACE  ...gibi değildir çünkü artık
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...üzerine düşünmeye değer tuhaflıktır
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: felsefe-2026-10-31.duyulan.txt

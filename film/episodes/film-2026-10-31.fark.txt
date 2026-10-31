@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-10-31.mp3
+
+beklenen 1663 kelime | duyulan 1664 kelime | eşleşme %94.6
+sayı ifadesi: metinde 211, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nasıl bu kadar kızdırdı
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...sahneyle açılan filmin adı
+      metin  : sedmikraski
+      duyulan: sedmik rasky
+  REPLACE  ...papatyalar yönetmeni vera hitilova
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...vera hitilova ydı hitilova
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...asistanı olarak çalıştı sonunda
+      metin  : prag
+      duyulan: prague
+  REPLACE  ...kurmacayı aynı yapıda birleştiren
+      metin  : o nyeçem
+      duyulan: oniyeçem
+  INSERT   ...yani başka şey hakkında
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olmayan oyuncu canlandırdı yitka
+      metin  : tserhova
+      duyulan: teserhova
+  REPLACE  ...tasarımı da üstlenen ester
+      metin  : krumbahova
+      duyulan: kurumbahova
+  REPLACE  ...hitilova nın eşi kuçera
+      metin  : yan nyemets
+      duyulan: jan jemets
+  REPLACE  ...birbirinden ayrılır kesilen bedenler
+      metin  : kolaj
+      duyulan: kolaç
+  REPLACE  ...görüntüleriyle kesilir i ki
+      metin  : mariye nin
+      duyulan: maria nın
+  REPLACE  ...papatyalar ın son bölümünde
+      metin  : mariye
+      duyulan: maria
+  REPLACE  ...ezerler sonunda tavandaki büyük
+      metin  : avizeye
+      duyulan: havizeye
+  REPLACE  ...aklıyla tamamlayabilirdi filmin yapımı
+      metin  : prag da
+      duyulan: prak ta
+  REPLACE  ...gevşediği döneme denk geldi
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...olduğu çoğu zaman ancak
+      metin  : aştıktan
+      duyulan: açtıktan
+  INSERT   ...sonra belli oluyordu papatyalar
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tartışma çabuk büyüdü mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...meclisi nde milletvekili yaroslav
+      metin  : prujinets
+      duyulan: procinet
+  REPLACE  ...papatyalar dı öteki ester
+      metin  : krumbahova
+      duyulan: kurumbahova
+  REPLACE  ...nın senaryosunu yazdığı yan
+      metin  : nyemets in
+      duyulan: yemetsin
+  REPLACE  ...yani şölen ve davetliler
+      metin  : prujinets in
+      duyulan: procinet sin
+  REPLACE  ...tavandaki avize üzerlerine düşer
+      metin  : film
+      duyulan: fil
+  REPLACE  ...ize ithafın tam da
+      metin  : prujinets
+      duyulan: projinet
+  REPLACE  ...tabak yemeğe öfkelenenlerin çifte
+      metin  : standardını
+      duyulan: standartını
+  INSERT   ...yurt dışında açılıyordu papatyalar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...her şey değişecekti baharında
+      metin  : aleksander dubçek
+      duyulan: alexander dubcek
+  REPLACE  ...bu süreç baharında gustav
+      metin  : husak
+      duyulan: husag
+  REPLACE  ...seçti i şgalden sonra
+      metin  : krumbahova
+      duyulan: kurumbahova
+  REPLACE  ...açıdan cüretkar film çekti
+      metin  : ovotse stromu rayskih yime
+      duyulan: ovozestromur eskihime
+  INSERT   ...ağaçlarının meyvesini yiyoruz film
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...film çekmesine izin verilmedi
+      metin  : krumbahova
+      duyulan: kurumbahova
+  INSERT   ...ömrünün en verimli yıllarında
+      metin  : (yok)
+      duyulan: lı
+  INSERT   ...durumu uzun süer kabullenmedi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kıldı ardından kapı aralandı
+      metin  : hra
+      duyulan: da hera
+  REPLACE  ...kapı aralandı hra o
+      metin  : yablko
+      duyulan: yabloko
+  INSERT   ...devam etme ilkesini savundu
+      metin  : (yok)
+      duyulan: daki
+  INSERT   ...akademisinde ders vermeyi sürdürdü
+      metin  : (yok)
+      duyulan: kiki de
+  ... ve 12 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: film-2026-10-31.duyulan.txt

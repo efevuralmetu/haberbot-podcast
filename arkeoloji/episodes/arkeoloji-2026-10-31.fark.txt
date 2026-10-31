@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-10-31.mp3
+
+beklenen 2631 kelime | duyulan 2632 kelime | eşleşme %95.3
+sayı ifadesi: metinde 282, duyulanda 249  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıl boyunca
+      metin  : ubar
+      duyulan: ubağır
+  REPLACE  ...akıldan çıkmayan pasaj vardır
+      metin  : ad
+      duyulan: at
+  REPLACE  ...boyunca uzun anlatı ördü
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ettiler bazı anlatılarda ubar
+      metin  : ad
+      duyulan: at
+  REPLACE  ...lawrence yani arabistanlı lawrence
+      metin  : tır
+      duyulan: dır
+  REPLACE  ...arabistanlı lawrence tır lawrence
+      metin  : a
+      duyulan: e
+  REPLACE  ...atlantis i ydi bu
+      metin  : deyiş
+      duyulan: değiş
+  REPLACE  ...imkansızdı göer doğru yol
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...arasındaki mesafe günlerle ölçülür
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...yine i ngiliz olan
+      metin  : st
+      duyulan: sid
+  REPLACE  ...ngiliz olan st john
+      metin  : philby
+      duyulan: filby
+  REPLACE  ...yi başka güzergahtan geçti
+      metin  : philby
+      duyulan: filby
+  REPLACE  ...philby nin aklında da
+      metin  : vabar
+      duyulan: wabar
+  REPLACE  ...düşen göktaşının izleriydi bugün
+      metin  : vabar
+      duyulan: wabar
+  REPLACE  ...toplanır bu kurumuş reçine
+      metin  : ateşe
+      duyulan: ateşi
+  REPLACE  ...olarak yaygınlaşması yaklaşık olarak
+      metin  : mö
+      duyulan: meylot mök
+  REPLACE  ...yıllara doğru arabistan ın
+      metin  : çöllerini
+      duyulan: çöllerine
+  REPLACE  ...romalı doğa bilimci yaşlı
+      metin  : plinius
+      duyulan: plinyos
+  REPLACE  ...i mparator neron eşi
+      metin  : poppea
+      duyulan: popeya
+  REPLACE  ...çağırıyordu haritada aynı bölgede
+      metin  : ommanum
+      duyulan: omanum
+  REPLACE  ...izi aramaya benziyordu bu
+      metin  : açmazı
+      duyulan: açmaza
+  REPLACE  ...lawrence ın eski fikrini
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...amerikalı film yapımcısı nicholas
+      metin  : clapp seksenlerin
+      duyulan: klopp lerin
+  REPLACE  ...nicholas clapp seksenlerin başında
+      metin  : bertram
+      duyulan: bertrand
+  REPLACE  ...aklına takıldı sonraki yıllarda
+      metin  : clapp efsaneyle
+      duyulan: klopp efsane ile
+  REPLACE  ...de kilometrelerce genişlikte alandı
+      metin  : clapp
+      duyulan: klopp
+  REPLACE  ...i tki laboratuvarı bulunuyordu
+      metin  : clapp
+      duyulan: klopp
+  REPLACE  ...ilgi gösteren isim radar
+      metin  : jeoloğu
+      duyulan: jeolu u
+  INSERT   ...heyecan verici geçmişi vardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şaşırtan şey göstermişti kumun
+      metin  : gözle
+      duyulan: gözde
+  REPLACE  ...çok bantlı görüntüleri fransız
+      metin  : spot
+      duyulan: epote
+  REPLACE  ...fotoğrafları ve sonbaharında uzay
+      metin  : mekiğiyle
+      duyulan: mekiği ile
+  REPLACE  ...yerden zor seçilirdi ama
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...dalga boyuyla bakınca belirgin
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...önemli olan izlerin nereye
+      metin  : gittiğiydi
+      duyulan: gittiydi
+  REPLACE  ...küçük vahaydı adı şisr
+      metin  : di clapp
+      duyulan: idi klap
+  INSERT   ...di clapp ın ekibi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ekibi sahaya çıktı ekipte
+      metin  : clapp
+      duyulan: klap
+  REPLACE  ...ünlü i ngiliz kaşif
+      metin  : ranulph fiennes
+      duyulan: ranulf fiyanes
+  REPLACE  ...arabistan arkeolojisini yakından bilen
+      metin  : yuris zarinş
+      duyulan: juris zarinc
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: arkeoloji-2026-10-31.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-10-31.mp3
+
+beklenen 1642 kelime | duyulan 1813 kelime | eşleşme %18.3
+sayı ifadesi: metinde 168, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...touched it yet it
+      metin  : knotted
+      duyulan: nodded
+  REPLACE  ...yor cells right now
+      metin  : sabah kulaklığını özenle sarıp cebine
+      duyulan: saba kulakh luna ozanisarup jibine
+  REPLACE  ...özenle sarıp cebine koydun
+      metin  : öğlen çıkardığında elinde yumak var
+      duyulan: o lancha kardun da ilinde bhiyumakvar
+  REPLACE  ...elinde yumak var kablo
+      metin  : kendi üstünden geçmiş ilmek atmış yerde de gerçek düğüm oluşturmuş kimse dokunmadı
+      duyulan: kende ustundang echmish ilme katmish biyarda da garchik dujmol usturmush kim sei dokun mada
+  REPLACE  ...oluşturmuş kimse dokunmadı sen
+      metin  : sadece yürüdün
+      duyulan: saaer jeyurudun
+  REPLACE  ...sen sadece yürüdün oturdun
+      metin  : kalktın fizikçilerin bu küçük gündelik sıkıntıyı merak etmesi çok uzun sürdü sonunda merak ettiklerinde ize cevap şaşırtıcı derecede derin çıktı yılında kaliforniya üniversitesi
+      duyulan: kalkten physiktilaren bukuchuk yundelikse kantiye meraket mesi chokuzun surdu sonan da meraket tiklaren daize jewap shashir tajudeer jedeer cukte yolanda california university se
+  REPLACE  ...üniversitesi san diego dan
+      metin  : fizikçi
+      duyulan: physiktio
+  INSERT   ...dan fizikçi douglas smith
+      metin  : (yok)
+      duyulan: we also had a laboratory and the orangio alan dorian reymer bu nu och mea kadar verde ju zene kleri chu jukko yunja kadar basitte kenar leron beishve otus centimeter olan kukpichiminde kutullari aptullar her nen ichine belir lu zun nukta ipkoi dullar kutuyukapatullar
+  REPLACE  ...fizikçi douglas smith ve
+      metin  : o sırada laboratuvarında öğrenci olan dorian raymer bunu ölçmeye karar verdi düzenekleri çocuk oyuncağı kadar basitti kenarları ve santimeter olan küp biçiminde kutular yaptılar her içine belirli uzunlukta ip koydular kutuyu kapattılar ve motorla saniyede tur hızla saniye boyunca döndürdüler kutu döndükçe ip kalkıyor düşüyor
+      duyulan: motur la saaniye de turhuz laon saaniye boyunja dundur dullar kutudun dukche ipkal kuyor dushyor
+  REPLACE  ...ip kalkıyor düşüyor kendi
+      metin  : üstüne yığılıyordu tıpkı her adımda cebinde çalkalanan kablo gibi
+      duyulan: ustun eil yordu tupkahaira dumda jebinde chal kalanan kablogibi
+  REPLACE  ...çalkalanan kablo gibi sonra
+      metin  : kutuyu açıp ipin ucundan tuttular
+      duyulan: kutuyua cip i pini kyujundan tutullar
+  REPLACE  ...ucundan tuttular ve arada
+      metin  : düğüm oluşup oluşmadığına baktılar bunu kez yapmadılar kez yaptılar i pin uzunluğunu santimetreden metreye kadar değiştirdiler
+      duyulan: dujmolusu polushmadina baktullar bu nu keziap madullar keziap tullar
+  REPLACE  ...metreye kadar değiştirdiler ipin
+      metin  : sertliğini kutunun boyutunu
+      duyulan: uzun nunu kurkalta centimeter dan altometer ekadar deishtir dillar ipin sartline kutununbojutunu
+  REPLACE  ...sertliğini kutunun boyutunu ve
+      metin  : dönme süresini de ayarladılar
+      duyulan: dun messurecina daiarla dillar
+  REPLACE  ...süresini de ayarladılar her
+      metin  : denemeden
+      duyulan: denemedan
+  REPLACE  ...her denemeden sonra ipi
+      metin  : fotoğrafladılar
+      duyulan: fotarafla dillar
+  REPLACE  ...sonra ipi fotoğrafladılar ve
+      metin  : ortaya çıkan düğümü matematiksel olarak sınıflandırdılar
+      duyulan: ortajecan dumu matamatiksel olaraksanu flandar dillar
+  REPLACE  ...matematiksel olarak sınıflandırdılar yani
+      metin  : düğümlendi yazıp geçmediler düğümün hangi türden olduğunu
+      duyulan: dumlan diyazupkech medillar dumun hangitur dan oldunu
+  REPLACE  ...olduğunu ve ipin kendi
+      metin  : üstünden kaç kez geçtiğini kaydettiler sonuçlar sezgiyi doğruladı
+      duyulan: ustun dan kackezgechtine kaidet dillar sonuchlar doruladu
+  REPLACE  ...sonuçlar sezgiyi doğruladı ve
+      metin  : beklenmedik ayrıntı ortaya çıkardı en kısa ipler
+      duyulan: beklan medik ayran torte echkarda enkasa iplar
+  REPLACE  ...en kısa ipler yani
+      metin  : santimetrelik olanlar hiç düğümlenmedi uzunluk arttıkça düğümlenme olasılığı hızla tırmandı
+      duyulan: kurkalta centimeter li kolanar hich dujmlan medi uzun luk arthikcha dujmlan me ollasili hizla turmande
+  REPLACE  ...olasılığı hızla tırmandı ama
+      metin  : belli
+      duyulan: beli
+  REPLACE  ...ama belli noktadan sonra
+      metin  : tırmanış durdu
+      duyulan: turmanishturdu
+  REPLACE  ...sonra tırmanış durdu ve
+      metin  : yarının sabitlendi nedeni mantıklı küçük kutudaki çok
+      duyulan: yarunun birazaltan da savitlan de nedini mantikli kuchuk kutudakichok
+  REPLACE  ...küçük kutudaki çok uzun
+      metin  : ip serbestçe savrulamaz sıkışır hareket edemeyen ip de
+      duyulan: ipsearbeische savrulamas sukashir harket edemian ipte
+  REPLACE  ...edemeyen ip de yeni
+      metin  : ilmekler oluşturamaz
+      duyulan: ilmeklerol usturamas
+  REPLACE  ...yeni ilmekler oluşturamaz yani
+      metin  : düğüm için şey gerekiyordu yeterli uzunluk
+      duyulan: dujmichin ikishegeer kyordu yatarlu uzun nuk
+  REPLACE  ...gerekiyordu yeterli uzunluk ve
+      metin  : o uzunluğun kıvrılabileceği yeterli hareket sertlik de önemliydi
+      duyulan: ou zunun kuvrulabilije yatarlu haraket sirtlakte anemlidi
+  REPLACE  ...sertlik de önemliydi daha
+      metin  : sert ipler
+      duyulan: sirti plar
+  REPLACE  ...sert ipler daha az
+      metin  : düğümlendi çünkü o kadar kolay bükülemiyorlardı
+      duyulan: dujmlan di chunku okadar kolai bukulemi orlarda
+  REPLACE  ...kolay bükülemiyorlardı daha da
+      metin  : ilginci kısa saniyelik çalkalamanın ne kadar çeşitli düğümler üretebildiğiydi
+      duyulan: ilginji kusabir ilik chalkalamanan nekadar ciitli dujmlar uretabildide
+  REPLACE  ...çeşitli düğümler üretebildiğiydi kutulardan
+      metin  : en sık çıkan düğüm düğüm
+      duyulan: ensek chukan dujm dujm
+  REPLACE  ...çıkan düğüm düğüm teorisinin
+      metin  : en basit düğümü
+      duyulan: enbasit dujm
+  REPLACE  ...en basit düğümü olan
+      metin  : yonca düğümüydü her ayakkabı bağladığında düşünmeden attığın o temel ilmek ama yanında kendi üstünden
+      duyulan: yonja dujm udu har ayakababaladun da dushun medanatun otemelilmek amayananda kendu ustun dan
+  REPLACE  ...kendi üstünden tekrar tekrar
+      metin  : geçen çok daha karmaşık yapılar da vardı düğüm ne kadar karmaşıksa o kadar seyrek görünüyordu ama oradaydılar peki düğüm kendiliğinden nasıl oluşur araştırmacılar videoları izleyerek
+      duyulan: gechan chokdah karmashik ya polardawarda dujm nekadar karmashik sa okadar seirek gurnjordu ema oradadler pikibir dujm kendilindan nasololushur arashtar majelar videolaer isterek
+  REPLACE  ...araştırmacılar videoları izleyerek basit
+      metin  : mekanizma önerdi
+      duyulan: mekanizmo yanarde
+  REPLACE  ...basit mekanizma önerdi kutu
+      metin  : döndükçe
+      duyulan: dun duksha
+  REPLACE  ...ip yan yana duran
+      metin  : sarmallar
+      duyulan: saar malar
+  REPLACE  ...yana duran sarmallar halinde
+      metin  : kendi üstüne kıvrılıyor sonra
+      duyulan: kendu ustun ekavr luor saunra
+  REPLACE  ...üstüne kıvrılıyor sonra ipin
+      metin  : ucu bu kıvrımların arasından kıvrılarak ilerliyor sonrakinin üstünden geçiyor uç her böyle geçtiğinde
+      duyulan: ujubu kuvrim larenar asandan kavr larakilar luor nen altan dan saunra kinen ustun dan gechur uch har boile gechti inde
+  ... ve 162 fark daha
+
+metinde olup DUYULMAYAN: 1325 kelime | duyulup metinde OLMAYAN: 1495
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-10-31.duyulan.txt

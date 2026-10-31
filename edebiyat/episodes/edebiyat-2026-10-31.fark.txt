@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-10-31.mp3
+
+beklenen 1580 kelime | duyulan 1600 kelime | eşleşme %96.0
+sayı ifadesi: metinde 240, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...geriye gitmek gerekir atılgan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve edebiyatı okudu ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...topraklarının başına geçti ve
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...geçti ve ellilerin başından
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...düşünmemek gerekir çiftçilik ağır
+      metin  : işti
+      duyulan: içti
+  INSERT   ...geliyordu i lk sinyal
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ardından geldi aylak adam
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yarışmasına gönderildi ve aldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o diye işaret ediliyor
+      metin  : c
+      duyulan: medgarüs
+  REPLACE  ...yakınlık hem rahatsızlık duyar
+      metin  : c
+      duyulan: vejjati
+  INSERT   ...haklı yanı var c
+      metin  : (yok)
+      duyulan: nok
+  REPLACE  ...okumak da eksik kalır
+      metin  : c
+      duyulan: ceceri
+  REPLACE  ...nin dolaştığı i stanbul
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...kadar içeriden bu kadar
+      metin  : dolaysız
+      duyulan: dolayısız
+  INSERT   ...da köyüne tarlasına döndü
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...tarlasına döndü öykülerini bodur
+      metin  : minareden
+      duyulan: minaer den
+  INSERT   ...atılgan ın meşhur titizliğiyle
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ironi taşır otelin katibi
+      metin  : zebercet
+      duyulan: zeberced
+  REPLACE  ...büyütür ardından cinayet gelir
+      metin  : zebercet
+      duyulan: zeberced
+  REPLACE  ...adım adım çözülmeyi izler
+      metin  : zebercet
+      duyulan: zeberced
+  REPLACE  ...ürkütücü kılar anlatım yerde
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...hayatının sıkışmışlığıyla birleşmesinden doğar
+      metin  : romanı
+      duyulan: romamı
+  INSERT   ...yalnızlığın gibi birbirini tamamlıyor
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...şiirler yazdı ve bunlar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yetmedi yusuf atılgan ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...atılmıştı ömer kavur anayurt
+      metin  : oteli ni
+      duyulan: otelini de
+  REPLACE  ...sinemaya uyarladı zebercedi macit
+      metin  : koper
+      duyulan: kopper
+  REPLACE  ...kitaba film üzerinden ulaştı
+      metin  : doksanlardan
+      duyulan: lardan
+  REPLACE  ...gelecekteki okurları için yazıyordu
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: edebiyat-2026-10-31.duyulan.txt

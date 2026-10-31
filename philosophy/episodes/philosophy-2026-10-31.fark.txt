@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-10-31.mp3
+
+beklenen 2251 kelime | duyulan 1987 kelime | eşleşme %12.4
+sayı ifadesi: metinde 177, duyulanda 97  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...another person s hands
+      metin  : gece yarısına doğru havalimanından çıkıyorsunuz yorgunsunuz telefonunuzun şarjı bitmek üzeer ve kapıda bekleyen ilk taksiye biniyorsunuz şoförün adını bilmiyorsunuz ehliyetini görmediniz frenlerin en son ne zaman bakıma girdiğini sormadınız o gece kaç saat uyuduğunu
+      duyulan: the moment that but arrives what is actually left of the trust tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yourself in another person s hands tonight we ask whether trusting someone is a calculation a decision or knowingly placing yesupelandi birsheybulur veguvan za tanyikilmishtir ya daa hich birsheybul amaz jidurum
+  REPLACE  ...kaç saat uyuduğunu da
+      metin  : bilmiyorsunuz yine de arka koltuğa yerleşiyor adresi söylüyor belki gözlerinizi bile kapatıyorsunuz saatte kilometreyle giden aracın içinde hayatınızı dakika önce gördüğünüz yabancıya bırakmışsınız ve bunu karar olarak bile yaşamıyorsunuz düşününce bu tuhaf şey gün boyunca benzer anlar yaşıyoruz i çeriğini bilmediğimiz ilacı eczacının elinden alıp içiyoruz hiç görmediğimiz pilotun kullandığı uçakta uyuyoruz lokantada mutfağa girmeden önümüze konan yemeği yiyoruz bütün bu anlarda başkasının iyi niyetine ve becerisine dayanıyoruz bunu da çoğu zaman fark etmiyoruz bile alman sosyolog niklas luhmann de güven üzerine yazdığı kitapta bunun nedenini açıklar göer dünya tek insanın hesaplayamayacağı kadar karmaşıktır her ihtimali tartmaya kalksak sabah yataktan çıkamayız güven bu karmaşıklığı azaltan mekanizmadır bilmediğimiz her şeyi tek tek kontrol etmek yerine tür ön kabul yaparız ve yolumuza devam ederiz luhmann a göer güven bilginin eksik kaldığı yerde devreye girer her şeyi bilseydik güvene ihtiyacımız olmazdı hiçbir şey bilmeseydik de güvenemezdik güven bildiğimizle bilmediğimiz arasındaki boşlukta durur
+      duyulan: rahat larmu kasa sura ichin balki
+  REPLACE  ...arasındaki boşlukta durur ama
+      metin  : taksiye binmekle sevdiğimiz güvenmek aynı şey mi burada amerikalı filozof annette baier in da yaptığı ayrım işimize yarar baier şeyi birbirinden ayırır şeye dayanmak ve güvenmek sabah çalar saate dayanırsınız çalmazsa kızarsınız belki saati yeer atarsınız ama ihanete uğradığınızı hissetmezsiniz çünkü saatin size karşı niyeti yoktur dostunuz sırrınızı başkasına anlattığında ize yaşadığınız şey bambaşkadır hayal kırıklığından daha derin şeydir bu ihanettir baier e göer fark şuradan gelir güvendiğimizde değer verdiğimiz şeyi başka iyi niyetine emanet ederiz bize zarar verebileceğini bilerek savunmasız kalmayı kabul ederiz bu tanımın içinde kolayca gözden kaçan şey var güvenmek karşımızdakine takdir yetkisi tanımak demektir çocuğunuzu bakıcıya bıraktığınızda dakika dakika ne yapacağını yazan talimat vermezsiniz çocuk ağlarsa düşerse acıkırsa ne yapacağına karar vereceğini kabul edersiniz güven öbür insanın kendi aklıyla ve vicdanıyla hareket edeceği alan bırakır o alan ne kadar daralırsa güvenin yerini o kadar başka şey alır taksideki yolcuya dönelim belki yola çıkınca telefonunu açıp haritadan rotayı izlemeye başlıyor şoför sokağa saptığında yolcu ekrana bakıyor doğru yönde mi gidiyoruz diye bu yolcu artık güveniyor mu yoksa denetliyor mu taksi için cevap belki önemsizdir ama aynı soruyu en yakınımızdaki insanlara sorduğumuzda iş değişir sana güveniyorum ama bu cümleyi ya söylemişizdir ya da duymuşuzdur ama dan sonra gelen kısım genellikle istektir nerede olduğunu haber ver konumunu paylaş telefonunun şifresini bileyim kiminle konuştuğunu söyle her tek başına makul görünür hatta sevginin ve ilginin göstergesi gibi sunulur merak ediyorum endişeleniyorum başına şey gelmesin istiyorum bunların çoğu samimidir de yine de bu cümlenin kendi içinde çelişki vardır eşin gece öbürü uyurken telefonunu alıp mesajlarına baktığını düşünelim i ki ihtimal var ya şüphelendiği şey bulur ve güven zaten yıkılmıştır ya da hiçbir şey bulamaz i kinci durumda rahatlar mı kısa süer için belki ama aynı kişi ertesi
+      duyulan: aynikishi arti se
+  REPLACE  ...aynı kişi ertesi hafta
+      metin  : yine
+      duyulan: yina
+  REPLACE  ...ertesi hafta yine bakma
+      metin  : ihtiyacı duyacaktır çünkü gece temiz çıkan
+      duyulan: ichti ajaduya jaktar shrinku temis chikan
+  REPLACE  ...gece temiz çıkan telefon
+      metin  : sonraki geceyi garanti etmez kontrol güveni beslemez
+      duyulan: birsonreki geje garante itmas control guvani bes lamaz
+  REPLACE  ...kendi kendini besler her
+      metin  : kontrol sonrakinin gerekçesi olur
+      duyulan: control birsonreki nen gerek ches oler
+  REPLACE  ...sonrakinin gerekçesi olur daha
+      metin  : derindeki sorun şu kontrol başarılı oldukça güvene yer
+      duyulan: derinde kisorun shu control basher la oldukcha guvane yaar
+  REPLACE  ...güvene yer kalmaz her
+      metin  : adımını bildiğiniz güvenmenize
+      duyulan: ada mana bildines guvane menize
+  REPLACE  ...adımını bildiğiniz güvenmenize gerek
+      metin  : yoktur izliyorsunuzdur annette baier in tanımına
+      duyulan: yoktush anu isliir sunuzdur anet bairan tanumana
+  REPLACE  ...baier in tanımına geri
+      metin  : dönersek güven karşımızdakine takdir alanı bırakmaktı
+      duyulan: donarsek guvane karsi muzdakine taktiralana burakmakte control tam daa ollana kapatir boileje
+  REPLACE  ...takdir alanı bırakmaktı kontrol
+      metin  : tam da o alanı kapatır böylece kontrol korumaya çalıştığı şeyi ortadan kaldırır eşinin
+      duyulan: kormaya chalishtu shayi ortadaan kaldar eshinin
+  REPLACE  ...kaldırır eşinin konumunu her
+      metin  : an gören sadakati değil yalnızca konumu görür
+      duyulan: angur anbiri sadakatideil yalnuzja konumugurr
+  REPLACE  ...yalnızca konumu görür sadakat
+      metin  : ancak görmediğimiz yerde sınanabilecek şeydir
+      duyulan: anjak gurmedi mizyar desanana bilajek bishaydir eshin de karsi tarafawar islanen kishi nehi sedar choa usa man kendisi ne hichti isse chu de guvaneil medine bu hizin sanadeishtirr kendisi ne guvaneil meyan
+  REPLACE  ...yerde sınanabilecek şeydir i
+      metin  : şin de karşı tarafı var i zlenen kişi
+      duyulan: kiyon dan
+  REPLACE  ...i zlenen kişi ne
+      metin  : hisseder çoğu zaman kendisine hiç değilse ölçüde güvenilmediğini bu his insanı değiştirir kendisine güvenilmeyen yönden kayar
+      duyulan: kayaar
+  REPLACE  ...güvenilmeyen yönden kayar ya
+      metin  : sürekli
+      duyulan: surak di
+  REPLACE  ...kayar ya sürekli kendini
+      metin  : kanıtlamaya çalışan her adımını açıklayan
+      duyulan: kannat lamaya chalishan heradumuna achiklayan
+  REPLACE  ...her adımını açıklayan yorgun
+      metin  : insana dönüşür ya da nasıl
+      duyulan: bi insanadunu shuryada nasal
+  REPLACE  ...da nasıl olsa bana
+      metin  : inanmıyorsun diyerek gerçekten de saklamaya başlar i kinci
+      duyulan: inan miarsundi erek gerchek dan desak lamaya bashlar ekindji
+  REPLACE  ...başlar i kinci durumda
+      metin  : kontrolün şüphesi kendi kendini doğrulamış olur
+      duyulan: kontrolun shupesi kendikendini dorulamusholur
+  REPLACE  ...kendini doğrulamış olur bu
+      metin  : gerilim yalnızca kişi arasında yaşanmaz i ngiliz filozof o neil de
+      duyulan: gurelim yalnuzja kishiarasundaya shanmaz ingiliz filozov bikibin zaturu be
+  REPLACE  ...o neil de bbc
+      metin  : radyosunda verdiği konferans dizisinde aynı şeyi kurumlar üzerinden tartıştı doktorlara öğretmenleer
+      duyulan: radiosunda verdibir konferenstizisinde ainishayi kurumlaruzirindan tartishti doctor lara eret meneer
+  REPLACE  ...tartıştı doktorlara öğretmenleer kamu
+      metin  : görevlilerine duyulan güvenin azaldığından yakınılıyordu çözüm olarak da
+      duyulan: gurevilir ne dujulan guveni nazal den danya kunluurdu shuzumolarakta
+  REPLACE  ...form daha fazla performans
+      metin  : ölçütü öneriliyordu o neil bu yaklaşımın ters teptiğini
+      duyulan: olsi te ljordu buyaklashimun tars tepti ini
+  REPLACE  ...yaklaşımın ters teptiğini savundu
+      metin  : her şeyin ölçüldüğü ve raporlandığı sistemde profesyoneller gerçekten iyi olanı değil ölçülebilir olanı yapmaya başlar öğretmen öğretmek yerine sınav sonucunu doktor iyileştirmek yerine istatistiği yönetir
+      duyulan: hersein olsi lduvera porlan dubir sistem de profesionaler gerchek tan i olanu deil olsi le bilir olanu yap maya bashlar eret menu eret mek yerne sanav sonu junu doctor i leishtir mek yerne istatisti jonetir
+  REPLACE  ...yerine istatistiği yönetir denetim
+      metin  : kültürü güveni onarmak için kurulur ama sonunda şüpheyi kalıcı hale getirir o neil
+      duyulan: kulturu guvenu makicin kurulurama sonun da shupeyi kaluja halagetirur en shuzumu denetim itum dan kalder makteilde onaguer asal gerekan
+  REPLACE  ...getirir o neil in
+      metin  : çözümü denetimi tümden kaldırmak değildi göer asıl gereken insanların neye ve
+      duyulan: sanlaran neve
+  REPLACE  ...insanların neye ve kime
+      metin  : güvenebileceklerini akıllıca değerlendirebilmeleriydi körü körüne güvenmek
+      duyulan: guvene bilajeklirne a kaluja
+  REPLACE  ...körü körüne güvenmek de
+      metin  : hiçbir şeye güvenmemek de çözüm sayılmazdı
+      duyulan: arlander bilmeleride karu karune guvan mekte hechpirsey guvan mekte chuzum sayil mazde
+  REPLACE  ...sayılmazdı belki de bu
+      metin  : güven ama doğrula sözü bu kadar akılda kalır
+      duyulan: yuzden guvan amadorula seu zubuka darakildakalar
+  REPLACE  ...akılda kalır bu eski
+      metin  : rus atasözüdür ve en ünlü kullanımı de
+      duyulan: rusa ta seu zudurve enu nukulanum bindokuzu seksanyedide
+  REPLACE  ...ronald reagan ile mihail
+      metin  : gorbaçov un
+      duyulan: gorbachev
+  REPLACE  ...mihail gorbaçov un orta
+      metin  : menzilli nükleer füzeleri kaldıran antlaşmayı imzaladıkları törendedir
+      duyulan: menzi le nuklar fuzelir kaldran anplashmayi imzala declaritorandidir
+  REPLACE  ...antlaşmayı imzaladıkları törendedir reagan
+      metin  : sözü rusça söylemiş gorbaçov
+      duyulan: seu zu ruscha seulemish gorbachev
+  REPLACE  ...rusça söylemiş gorbaçov da
+      metin  : gülümseyerek bunu her toplantıda tekrarladığını söylemişti i
+      duyulan: gulem seirek buno hertoplanta da tekrala denu seulemishte ikki supergucharasan da bu seuzi eirendeide ka yel nefuzi eiremish ikki devletin ilishki seguvan diil dorulama yuzirne kurulush pekki aina formul eivliliye anneile argancho juarasan da
+  REPLACE  ...tekrarladığını söylemişti i ki
+      metin  : süper güç arasında bu söz yerindeydi onlarca yıl birbirine füze çevirmiş devletin ilişkisi güven değil doğrulama üzerine kurulur peki aynı formül evliliğe dostluğa anne ile ergen çocuğu arasındaki ilişkiye uyar mı sevdiğimiz insanla aramızdaki ilişkiyi silahsızlanma müzakeresine çevirmek yakınlığın kendisini kaybetmek demek olabilir danimarkalı düşünür søren kierkegaard de yayımladığı
+      duyulan: ilishki e uyarme sev di imiz insan la aramuzdaki ilishki isilasaslan ma muzakier sine eiremek ya kunlun kendisine kaibet mekte mek ola bilir danimar kaludushunur seoran kirkegart kurkiya diya yumladr
+  REPLACE  ...kierkegaard de yayımladığı sevginin
+      metin  : i şleri nde bu konuda insanı şaşırtan şey söyler
+      duyulan: ishlerin debukonu da insan shashirtan bishai seulat
+  REPLACE  ...şey söyler sevgi her
+      metin  : şeye inanır
+      duyulan: shaya inanar
+  INSERT   ...şeye inanır der ama
+      metin  : (yok)
+      duyulan: yina da asla aldatul maz ilk bakishta saflik gibigurunur kirkegarden kastet te se shudur shupeji insan kandaril mamakichin hichbir shaya inan mazwe boileja kendine korudunu sanar ama bu yola sev me imkyanunu da kaibet ar sevan insan aize aldatul sabile asl kaibidenin aldatan oldunu bilir kendisi sev mishve sevgi de kalmishtir bu chozum herkaze yetme a bilir belki kimse yetam yet maz eim as soru yudur yerete shir asl soru kandarilup kandaril mi jamuzdil kandaril ma korkusunun bizin asl adunushturdudur
+  ... ve 128 fark daha
+
+metinde olup DUYULMAYAN: 1982 kelime | duyulup metinde OLMAYAN: 1719
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-10-31.duyulan.txt

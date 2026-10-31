@@ -1,0 +1,79 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-10-31.mp3
+
+beklenen 1481 kelime | duyulan 1481 kelime | eşleşme %97.9
+sayı ifadesi: metinde 158, duyulanda 139  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...şey tam olarak ne
+      metin  : (yok)
+      duyulan: doğundokuz
+  REPLACE  ...sürmüştüm bahsettiği su limon
+      metin  : suyuydu
+      duyulan: suyudu
+  REPLACE  ...düşündü öyle değildi wheeler
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ürpertici tarafına bakalım wheeler
+      metin  : ı
+      duyulan: i
+  REPLACE  ...sonucu test etmiş ve
+      metin  : testten
+      duyulan: testen
+  REPLACE  ...almanağı nın özgün adıyla
+      metin  : world
+      duyulan: wörth
+  REPLACE  ...aklına soru takıldı wheeler
+      metin  : ın
+      duyulan: in
+  REPLACE  ...bu soruyu öğrencisi justin
+      metin  : kruger
+      duyulan: krueger
+  INSERT   ...la birlikte laboratuvara taşıdı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...katılımcılara alanda testler verdiler
+      metin  : mizah
+      duyulan: miza
+  INSERT   ...dilimdeydi yani kişiden yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...aptal olduğu anlamına gelmiyor
+      metin  : wheeler ın
+      duyulan: velilerin
+  REPLACE  ...başka araştırmacılar etkinin bu
+      metin  : artefaktla
+      duyulan: artefakla
+  REPLACE  ...kadar yürümek gerekiyor wheeler
+      metin  : ın
+      duyulan: in
+  REPLACE  ...i kinci yol wheeler
+      metin  : ın
+      duyulan: in
+  REPLACE  ...genişler ve kenarda gördüğün
+      metin  : boşluk da
+      duyulan: boşlukta
+  INSERT   ...için söylerler charles darwin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...doğurur dunning ile kruger
+      metin  : da
+      duyulan: de
+  REPLACE  ...işaretlemek en güçlü aracıydı
+      metin  : mcarthur
+      duyulan: macarthur
+  REPLACE  ...güçlü aracıydı mcarthur wheeler
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ne görüyorsun diye sorabilmek
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-10-31.duyulan.txt

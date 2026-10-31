@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-10-31.mp3
+
+beklenen 2750 kelime | duyulan 2716 kelime | eşleşme %94.4
+sayı ifadesi: metinde 281, duyulanda 245  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dicle ile fıradın birleşip
+      metin  : şattülarap
+      duyulan: şaddülarap
+  REPLACE  ...hasan el hasan el
+      metin  : heysem
+      duyulan: haysem
+  REPLACE  ...heysem di tarih i
+      metin  : bnü l heysem
+      duyulan: bn ül haysem
+  INSERT   ...hayatını anlatan başlıca kaynaklar
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...adamı olduğudur ama i
+      metin  : bnü l heysem
+      duyulan: bn ül haysem
+  REPLACE  ...rahatsız ettiğini anlatır her
+      metin  : mezhep
+      duyulan: mezzeb
+  REPLACE  ...bu eserleri okudu özetledi
+      metin  : şerhler
+      duyulan: şerler
+  REPLACE  ...cümleye yol açtı i
+      metin  : bnü l kıfti nin
+      duyulan: bnül kıftiğ in
+  REPLACE  ...başkent yapmış fatımi hanedanıydı
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...ize fatımi halifesi hakim
+      metin  : biemrillah
+      duyulan: biyemrillah
+  REPLACE  ...kurdurmuş alimleri cömertçe desteklemişti
+      metin  : öte
+      duyulan: ötüete
+  REPLACE  ...edecek set ya da
+      metin  : bent
+      duyulan: bend
+  DELETE   ...böyle işi mümkün olsaydı
+      metin  : neden
+      duyulan: (YOK — atlanmış)
+  DELETE   ...çıkmıştı burada küçük tarihi
+      metin  : ironiyi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...olduğu ortaya çıktı ama
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...ortaya çıktı ama sonra
+      metin  : nil
+      duyulan: nilil
+  DELETE   ...insan sorumlu tutulmazdı delinin
+      metin  : sözüne
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu hikayenin en acı
+      metin  : yanıdır
+      duyulan: adıdır
+  REPLACE  ...meslektaşları deli olarak biliyordu
+      metin  : biyografi
+      duyulan: biografi
+  REPLACE  ...de halifeye rapor veriyordu
+      metin  : rolü
+      duyulan: rolu
+  REPLACE  ...heysem in hayatında hem
+      metin  : hapis
+      duyulan: pis
+  REPLACE  ...yıllarda en azından kafasında
+      metin  : şekillendiğini
+      duyulan: belirlendiğini
+  REPLACE  ...sonra yılının şubat ayında
+      metin  : kahier yi
+      duyulan: kahireyi
+  REPLACE  ...sarsan haber yayıldı hakim
+      metin  : biemrillah
+      duyulan: biyemrillah
+  REPLACE  ...ama cesedi hiçbir zaman
+      metin  : bulunamadı
+      duyulan: anlamadı
+  REPLACE  ...kaybolmasından sonra delilik rolünü
+      metin  : bıraktı
+      duyulan: yaptı
+  DELETE   ...ışığın ve görmenin doğasını
+      metin  : yeniden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geometri kitabını batlamyus un
+      metin  : büyük
+      duyulan: ilk
+  DELETE   ...kitaplarını yazarak kendi düşüncelerine
+      metin  : yer açıyordu
+      duyulan: (YOK — atlanmış)
+  DELETE   ...matematikçiler gözden dışarıya doğru
+      metin  : ışınlar çıktığını
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...görmenin nesneden göze gelen
+      metin  : etki ile
+      duyulan: etkiyle
+  INSERT   ...ama fiziği yanlış kuruyordu
+      metin  : (yok)
+      duyulan: ölü
+  DELETE   ...öteki taraf fiziğe daha
+      metin  : yakın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu acının açıklaması olmazdı
+      metin  : acı
+      duyulan: ağacı
+  DELETE   ...açıyla gelen ışınların görüntüyü
+      metin  : belirlediğini
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ne söylediği kadar nasıl
+      metin  : söylediğiydi
+      duyulan: söylediydi
+  DELETE   ...bnü l heysem merak
+      metin  : konusu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...örtülür o anda içerideki
+      metin  : lekelerden
+      duyulan: kandillerden
+  REPLACE  ...düşünün zamanlar kapalı evde
+      metin  : dışarıyla
+      duyulan: dışarı ile
+  DELETE   ...başka çalışmasında ufka yakın
+      metin  : ay ın
+      duyulan: (YOK — atlanmış)
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 83 kelime | duyulup metinde OLMAYAN: 70
+bölme/birleşme farkı (hata değil, elendi): 44
+
+duyulan metin: biyografi-2026-10-31.duyulan.txt
