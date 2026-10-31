@@ -15,7 +15,20 @@
 <itunes:category text="Science"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Wed, 28 Oct 2026 14:34:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 14:34:23 +0000</lastBuildDate>
+<item>
+<title>Why the Cable in Your Pocket Knots Itself</title>
+<description>A translation of the same day's science episode. It explains why an earphone cable in a pocket, or an extension cord in a bag, ties itself in knots when nobody touches it. It starts with the tumbling-box experiment Raymer and Smith published in PNAS in two thousand seven, where about half of the strings longer than one and a half meters knotted within seconds and one hundred twenty different knot types were classified. It then covers the Sumners–Whittington theorem of nineteen eighty-eight, which says the chance of a chain staying unknotted falls to zero exponentially as it grows longer. It ends with why the same mathematics keeps DNA inside the cell under constant threat of knotting, and how topoisomerase enzymes cut those knots apart.
+
+Konular: knot theory, spontaneous knotting, topology, dna knots, statistical physics.</description>
+<itunes:subtitle>A translation of the same day's science episode. It explains why an earphone cable in a pocket, or an extension cord in a bag, ties itself in knots when nobody touches it. It starts with the tumbling-box experiment Raymer and Smith published in PNAS in two thousand seven, where about half of the strings longer than one and a half meters knotted within seconds and one hundred twenty different knot types were classified. It then covers the Sumners–Whittington theorem of nineteen eighty-eight, which says the chance of a chain staying unknotted falls to zero exponentially as it grows longer. It ends with why the same mathematics keeps DNA inside the cell under constant threat of knotting, and how topoisomerase enzymes cut those knots apart.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-10-31.vtt" type="text/vtt" language="en" rel="captions"/>
+<pubDate>Sat, 31 Oct 2026 04:32:37 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-10-31.mp3" length="11298860" type="audio/mpeg"/>
+<guid isPermaLink="false">science-2026-10-31</guid>
+<itunes:duration>15:45</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>You Can't Comb a Hairy Ball: Where Earth's Wind Stops</title>
 <description>A translation of the same day's science episode. The hairy ball theorem says that a continuous field of directions laid flat on the surface of a sphere must vanish at at least one point. So at any moment there is somewhere on Earth where the horizontal wind is zero. The episode goes from Poincaré's eighteen eighty-five work and Brouwer's nineteen twelve proof to the Euler characteristic. It explains why a doughnut can be combed flat while a sphere cannot, and shows the same rule at work in the whorl of hair on the crown of the head and in why fusion reactors are built in a ring shape.
