@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-01.mp3
+
+beklenen 1786 kelime | duyulan 1796 kelime | eşleşme %96.9
+sayı ifadesi: metinde 192, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kenara gittiği fizikçilerin ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yağ damlacıkları ve çözünmüş
+      metin  : maddeler
+      duyulan: parçacıklar
+  REPLACE  ...belki parçacıklar ağırdır ve
+      metin  : damlanın
+      duyulan: kanın
+  REPLACE  ...belki kahveye özgü kimyasal
+      metin  : tepkimedir
+      duyulan: tepki midir
+  REPLACE  ...kuruyan herhangi damlanın genel
+      metin  : özelliğidir
+      duyulan: iyidir
+  REPLACE  ...kez ciddiye alan ekip
+      metin  : doksanların
+      duyulan: ların
+  DELETE   ...birlikte gündelik hayatın bu
+      metin  : sıradan
+      duyulan: (YOK — atlanmış)
+  INSERT   ...olaylarla uğraşmayı araştırmacıydı ekip
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...saklıdır damla kururken şey
+      metin  : olabilir
+      duyulan: yapılır
+  REPLACE  ...temas çizgisi bu pürüzleer
+      metin  : takılır
+      duyulan: kalır
+  REPLACE  ...en hızlı kenarda gerçekleşir
+      metin  : deegan
+      duyulan: degan
+  DELETE   ...gerçek elimizde kenar sabit
+      metin  : duruyor
+      duyulan: (YOK — atlanmış)
+  DELETE   ...denir ve nehir yolunda
+      metin  : bulduğu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kağıt üzerinde bırakmadı damlaların
+      metin  : içine mikroskopla
+      duyulan: mikroskop ile
+  REPLACE  ...de yaptı karşı ihtimalleri
+      metin  : teker
+      duyulan: her
+  REPLACE  ...oluşması için parçacıkların neyden
+      metin  : yapıldığı
+      duyulan: kaldığı
+  REPLACE  ...buharlaşmadır bu aynı mekanizma
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  DELETE   ...olayı açıkladığını gösterir hikayenin
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  INSERT   ...de son perdesi var
+      metin  : (yok)
+      duyulan: ki ki de
+  REPLACE  ...perdesi var hollanda daki
+      metin  : tvente
+      duyulan: tevente
+  REPLACE  ...hücumu anlamında ad verdiler
+      metin  : sonuç da
+      duyulan: sonuçta
+  REPLACE  ...uyar renk pigmentleri noktanın
+      metin  : kenarına
+      duyulan: arasına
+  REPLACE  ...biyoloji laboratuvarlarında da aynı
+      metin  : dert
+      duyulan: şey
+  DELETE   ...gerilimi sıcaklığa ve bileşimine
+      metin  : göer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...inceleyen i talyan fizikçi
+      metin  : karlo
+      duyulan: carlo
+  REPLACE  ...damlayı soğutur ve bu
+      metin  : soğuma
+      duyulan: da
+  INSERT   ...içinde dönen akım başlatır
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...ve ronald larson bu
+      metin  : fikri sınadı
+      duyulan: fikrisin adı
+  REPLACE  ...olmuyor hu ve larson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...kendisinden gelen eser miktardaki
+      metin  : aktif
+      duyulan: yüzeyaktif
+  REPLACE  ...bilinçli olarak uygun miktarda
+      metin  : aktif
+      duyulan: yüzeyaktif
+  REPLACE  ...da beklenmedik yerden geldi
+      metin  : viskiden
+      duyulan: whisky den da
+  REPLACE  ...viskiden princeton üniversitesi nden
+      metin  : hyoungsoo
+      duyulan: hayoung su
+  REPLACE  ...ve howard stone kuruyan
+      metin  : viski
+      duyulan: whisky
+  REPLACE  ...marangoni akışı yaratıyordu ve
+      metin  : viskinin
+      duyulan: whisky nin
+  INSERT   ...parçacıkların kendi şekliyle oynamaktı
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...pennsylvania üniversitesi nden peter
+      metin  : yunker
+      duyulan: juncker
+  REPLACE  ...nden peter yunker arjun
+      metin  : yodh
+      duyulan: yot
+  REPLACE  ...yumurtamsı ya da uzun
+      metin  : şekerleme
+      duyulan: ısıtılma arame
+  REPLACE  ...halka kaybolmuştu nedeni parçacıkların
+      metin  : su yüzeyiyle
+      duyulan: ile
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: bilim-2026-11-01.duyulan.txt

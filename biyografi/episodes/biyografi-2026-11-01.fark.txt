@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-01.mp3
+
+beklenen 2917 kelime | duyulan 2942 kelime | eşleşme %91.0
+sayı ifadesi: metinde 459, duyulanda 307  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gecesi yaşında genç sabah
+      metin  : düelloda
+      duyulan: duelloda
+  INSERT   ...yazdığı sayfaları çözmeye uğraşarak
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...soluklandığı küçük kasaba vardı
+      metin  : bur la ren
+      duyulan: bourg laren
+  INSERT   ...bur la ren ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adını evarist koydular babası
+      metin  : nikola gabriyel galua
+      duyulan: nicolas gabriel galois
+  INSERT   ...sohbetiyle sevilen liberal adamdı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...süren son iktidarı sırasında
+      metin  : bur la ren
+      duyulan: bourg laren
+  REPLACE  ...in ilk öğretmeni annesiydi
+      metin  : adelaid mari dömant
+      duyulan: adelaide marie domande
+  DELETE   ...öğretti klasik yazarları okuttu
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  INSERT   ...insanın arasında büyüdü ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...saygın okullarından gönderildi lize
+      metin  : lui lö gran
+      duyulan: louis loughran
+  REPLACE  ...lui lö gran yani
+      metin  : lui lö gran
+      duyulan: louis loughran
+  REPLACE  ...varışından yalnızca ay sonra
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...öğrenci okuldan atıldı küçük
+      metin  : galua
+      duyulan: galois
+  INSERT   ...bıkmıştı notları düştü ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oldu çünkü aynı yıl
+      metin  : vernye
+      duyulan: vernier
+  REPLACE  ...yazıldı o derse kadar
+      metin  : galua
+      duyulan: galois
+  REPLACE  ...hiçbir şey bilmiyordu eline
+      metin  : adriyen mari löjandr
+      duyulan: adrienne marie legender
+  REPLACE  ...löjandr ın ünlü kitabı
+      metin  : elöman dö jeometri
+      duyulan: eloman de geometrie
+  REPLACE  ...doğrudan büyük ustalara yöneldi
+      metin  : lagranj
+      duyulan: lagrange
+  REPLACE  ...öğrenci olarak tarif ediyorlardı
+      metin  : vernye
+      duyulan: verney
+  REPLACE  ...vernye sistemli çalışmasını öğütlüyordu
+      metin  : galua
+      duyulan: galois
+  REPLACE  ...çarpma bölme ve kök
+      metin  : almayla
+      duyulan: alma ile
+  REPLACE  ...almayla çözecek formül bulamadı
+      metin  : galua
+      duyulan: galois
+  INSERT   ...bunu neye bakarak anlarız
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en prestijli bilim okulu
+      metin  : ekol politeknik
+      duyulan: ecole polytechnique
+  REPLACE  ...okulu ekol politeknik yani
+      metin  : politeknik
+      duyulan: polytechnique
+  REPLACE  ...gerçekten anlayan öğretmen girdi
+      metin  : lui pol emil rişar rişar
+      duyulan: louis paul emile richard richard
+  REPLACE  ...sahip olduğunu kayda geçirdi
+      metin  : galua
+      duyulan: galois
+  INSERT   ...ciddiye alındığını hissetti nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yazdığı ilk makalesi anal
+      metin  : dö jergon
+      duyulan: de jorgon
+  REPLACE  ...anal dö jergon yani
+      metin  : jergon
+      duyulan: jorgon
+  REPLACE  ...gelen darbelerle karardı baharında
+      metin  : galua
+      duyulan: galois
+  REPLACE  ...yüksek bilim kurumu olan
+      metin  : akademi de siyans
+      duyulan: académie des sciences
+  REPLACE  ...dönemin en ünlü matematikçilerinden
+      metin  : ogüsten lui koşi ye
+      duyulan: augustin louis cauchy e
+  REPLACE  ...lui koşi ye verildi
+      metin  : koşi
+      duyulan: cauchy
+  REPLACE  ...verildi koşi bu makaleleri
+      metin  : akademide
+      duyulan: académie de
+  REPLACE  ...düşünüldü bugün bazı tarihçiler
+      metin  : koşi
+      duyulan: cauchy
+  REPLACE  ...genç adama çalışmalarını birleştirip
+      metin  : akademinin
+      duyulan: académie nin
+  REPLACE  ...gerçek ne olursa olsun
+      metin  : galua nın
+      duyulan: galois un
+  ... ve 127 fark daha
+
+metinde olup DUYULMAYAN: 220 kelime | duyulup metinde OLMAYAN: 250
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: biyografi-2026-11-01.duyulan.txt

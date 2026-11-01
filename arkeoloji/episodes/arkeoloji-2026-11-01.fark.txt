@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-01.mp3
+
+beklenen 2311 kelime | duyulan 2315 kelime | eşleşme %94.6
+sayı ifadesi: metinde 242, duyulanda 190  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ve aile kavgalarıyla başlar
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...önce tuhaflık fark ettiler
+      metin  : dil akadcaydı
+      duyulan: babil akatçaydı
+  REPLACE  ...babil saraylarının süslü törensel
+      metin  : akadcasına
+      duyulan: akatcasına
+  REPLACE  ...nın yazısı ve dili
+      metin  : dicle
+      duyulan: diçle
+  REPLACE  ...dili dicle den yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...üzeer kapalı tutulmuş belgeler
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...önce fransız araştırmacı ernest
+      metin  : şantr
+      duyulan: chanter
+  INSERT   ...ernest şantr geldi ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tablet sayısı taneyi geçmedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sayısı taneyi geçmedi alman
+      metin  : asurolog
+      duyulan: asirolog
+  REPLACE  ...geçmedi alman asurolog hugo
+      metin  : vinkler da
+      duyulan: winkler de
+  INSERT   ...yanlış noktaya bakıyordu düğüm
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...noktaya bakıyordu düğüm çözüldü
+      metin  : hititçeyi
+      duyulan: hittitçeyi
+  REPLACE  ...çözmesiyle tanınan çek bilgin
+      metin  : bedrih hrozni kültepe
+      duyulan: bedri hroznikül tepe
+  REPLACE  ...eteğinden tarlaların çıktığını gösterdi
+      metin  : hrozni
+      duyulan: hroznikül tepe
+  REPLACE  ...höyük var antik adıyla
+      metin  : kaniş
+      duyulan: kanish
+  REPLACE  ...antik adıyla kaniş sonraki
+      metin  : hitit
+      duyulan: hittit
+  REPLACE  ...karum diye anılan mahalleydi
+      metin  : akadcada
+      duyulan: akatka da
+  REPLACE  ...onların pazarının adı olmuş
+      metin  : kaniş
+      duyulan: kanish
+  INSERT   ...daki ticaret ağının merkeziydi
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...karumun tabakası dediği kabaca
+      metin  : mö
+      duyulan: melotö
+  REPLACE  ...dönemden bu tabakadaki evler
+      metin  : arkeoloğun
+      duyulan: arkeologun
+  REPLACE  ...yazılı kurallarla işliyordu asurlular
+      metin  : kaniş
+      duyulan: kanish
+  REPLACE  ...gönderir karum bunları uygulardı
+      metin  : kaniş
+      duyulan: kanish
+  REPLACE  ...nun yanında hattuşa dan
+      metin  : acemhöyüğe
+      duyulan: acemhöyü ye
+  REPLACE  ...ufaklı ticaret istasyonları vardı
+      metin  : kaniş
+      duyulan: kanish
+  REPLACE  ...merkezi ve ana pazarıydı
+      metin  : ağ
+      duyulan: ağa
+  REPLACE  ...en eski izleri arasındadır
+      metin  : kaniş
+      duyulan: kanish
+  REPLACE  ...yerlilerinin konuştuğu dil sonradan
+      metin  : hititçe
+      duyulan: hittitçe
+  REPLACE  ...hititçe dediğimiz dilin atasıydı
+      metin  : hititler
+      duyulan: hittitler
+  REPLACE  ...eğitim gerektiren uzmanlık alanıydı
+      metin  : kaniş
+      duyulan: kanish
+  REPLACE  ...nehir geçişine para ödenirdi
+      metin  : kaniş e
+      duyulan: kanishe
+  REPLACE  ...ne bulunduğunu neyi ne
+      metin  : kadara
+      duyulan: kadar
+  REPLACE  ...alınmışken gün aniden kesildi
+      metin  : mö
+      duyulan: te
+  REPLACE  ...yeniden iskan edildi kazıcıların
+      metin  : ib
+      duyulan: ip
+  REPLACE  ...siyasi haritası da değişiyordu
+      metin  : kuşşara
+      duyulan: kuşçara
+  REPLACE  ...da değişiyordu kuşşara kralı
+      metin  : pithana kaniş i
+      duyulan: pitana kanishi
+  REPLACE  ...içinden adıyla çıkmış oldu
+      metin  : ib
+      duyulan: i p
+  REPLACE  ...oldu ib tabakası da
+      metin  : mö
+      duyulan: milatuer
+  REPLACE  ...kullandığı sözleşme anlamına gelen
+      metin  : işhiuli
+      duyulan: işyuli
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 44
+
+duyulan metin: arkeoloji-2026-11-01.duyulan.txt

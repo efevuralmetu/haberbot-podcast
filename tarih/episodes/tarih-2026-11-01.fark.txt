@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-01.mp3
+
+beklenen 3309 kelime | duyulan 3332 kelime | eşleşme %93.8
+sayı ifadesi: metinde 281, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gönderilmiş tek yalana bağladılar
+      metin  : kserkses
+      duyulan: kıserk ses
+  REPLACE  ...bu tepelerin kireçtaşı ile
+      metin  : şist
+      duyulan: şiş
+  DELETE   ...küçük para basıyordu fakat
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...daha zengin damara rastlandı
+      metin  : sığ
+      duyulan: sığı
+  REPLACE  ...rastlandı sığ işletmesi bambaşka
+      metin  : ölçeğe
+      duyulan: ölçeye
+  REPLACE  ...olduğunda yurttaşlar arasında paylaştırılabiliyordu
+      metin  : herododun
+      duyulan: herodot un
+  REPLACE  ...gemisi yapımına harcanmasını önerdi
+      metin  : herododa
+      duyulan: herodot a
+  DELETE   ...persler daha yıl önce
+      metin  : mö marathon
+      duyulan: (YOK — atlanmış)
+  INSERT   ...önce mö marathon da
+      metin  : (yok)
+      duyulan: maratonda
+  REPLACE  ...kapısına kadar gelmişti ama
+      metin  : marathon
+      duyulan: maraton
+  REPLACE  ...pier limanının tam karşısındaki
+      metin  : aigina
+      duyulan: aygina
+  REPLACE  ...tam karşısındaki aigina adası
+      metin  : aigina
+      duyulan: aygina
+  REPLACE  ...denizci şehriydi ve atina
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...yıpratıcı çatışma içindeydi gemiler
+      metin  : aigina
+      duyulan: aygina
+  REPLACE  ...yapılacak gemi tipinin adı
+      metin  : trieresti
+      duyulan: tiryaresti
+  REPLACE  ...adı trieresti yani sıra
+      metin  : kürekli
+      duyulan: küreklü
+  REPLACE  ...halinde oturan yaklaşık kürekçi
+      metin  : pruvanın
+      duyulan: pıruvanın
+  REPLACE  ...hizasının hemen bronz kaplı
+      metin  : mahmuz trieres
+      duyulan: mahmus tiryarest
+  REPLACE  ...karşısında dürüstlüğüyle ün salmış
+      metin  : aristeides
+      duyulan: aristeydes
+  REPLACE  ...yazılan isimle yapılan sürgün
+      metin  : oylaması mö
+      duyulan: oynaması de
+  REPLACE  ...kırıklara isim kazıdı ve
+      metin  : aristeides
+      duyulan: aristeydes
+  REPLACE  ...uzaklaştırıldı plutarhos un aktardığı
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...yazma bilmeyen köylü tanımadığı
+      metin  : aristeides
+      duyulan: aristeydes
+  REPLACE  ...in kendisine yaklaşıp kırığına
+      metin  : aristeides
+      duyulan: aristeydes
+  REPLACE  ...kırığına aristeides yazmasını istemiş
+      metin  : aristeides
+      duyulan: aristeydes
+  INSERT   ...aristeides nedenini sorunca adam
+      metin  : (yok)
+      duyulan: newton
+  REPLACE  ...adil demesinden bıktığını söylemiş
+      metin  : aristeides
+      duyulan: aristeydes
+  REPLACE  ...önce paraya sonra keresteye
+      metin  : ziftle
+      duyulan: zifle
+  REPLACE  ...keteni ve bronza dönüştü
+      metin  : atina
+      duyulan: athena
+  REPLACE  ...öbür yakasında pers kralı
+      metin  : kserkses
+      duyulan: kaserses
+  REPLACE  ...pers kralı kserkses babası
+      metin  : dareyos
+      duyulan: darius
+  REPLACE  ...bıraktığı işi tamamlamaya hazırlanıyordu
+      metin  : kserkses
+      duyulan: kaserses
+  REPLACE  ...gemilerden yapılmış köprü kuruldu
+      metin  : atos yarımadasının
+      duyulan: athos yarımadası nın
+  REPLACE  ...kalmasın diye kanal kazıldı
+      metin  : mö
+      duyulan: melos a
+  REPLACE  ...kanal kazıldı mö baharında
+      metin  : herododun
+      duyulan: herodot un
+  REPLACE  ...kuvvet avrupa ya geçti
+      metin  : herododun
+      duyulan: herodot un
+  REPLACE  ...büyük kararda yaptıkları gibi
+      metin  : delfi
+      duyulan: delphi
+  REPLACE  ...olacağını anlatıyordu elçiler yıkılmıştı
+      metin  : delfi
+      duyulan: delphi
+  INSERT   ...dikenli çit olduğunu söyledi
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...atinalıların yenileceği şeklinde okuyordu
+      metin  : temistokles
+      duyulan: themistocles
+  ... ve 107 fark daha
+
+metinde olup DUYULMAYAN: 162 kelime | duyulup metinde OLMAYAN: 178
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: tarih-2026-11-01.duyulan.txt

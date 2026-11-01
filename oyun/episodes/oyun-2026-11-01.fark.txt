@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-01.mp3
+
+beklenen 1986 kelime | duyulan 1991 kelime | eşleşme %95.1
+sayı ifadesi: metinde 302, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendi oyunuyla dilediği gibi
+      metin  : oynama
+      duyulan: oynamak
+  REPLACE  ...sorusunu bugün bile cevaplıyor
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...ev bilgisayarlarına oyun yazıyordu
+      metin  : codemasters
+      duyulan: da codey masters
+  INSERT   ...ekran yanıp sönüp duruyordu
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...beliriyordu ve kodlar bu
+      metin  : harflerden
+      duyulan: harflardan
+  REPLACE  ...daha vardı kartuş oyun
+      metin  : cini
+      duyulan: jinny
+  REPLACE  ...görüyor ve kapıyı açıyordu
+      metin  : cinin
+      duyulan: jinny in
+  REPLACE  ...oyuncak şirketini buldular lewis
+      metin  : galoob
+      duyulan: gallup
+  REPLACE  ...lewis galoob toys yani
+      metin  : galoob
+      duyulan: gallup
+  REPLACE  ...toys yani galoob oyuncak
+      metin  : galoob
+      duyulan: gallup
+  REPLACE  ...satacaktı plan hazırdı oyun
+      metin  : cini
+      duyulan: jinny da
+  REPLACE  ...nintendo nun gözünde oyun
+      metin  : cini
+      duyulan: jinny
+  REPLACE  ...sayısı tasarımın parçasıydı oyun
+      metin  : cini
+      duyulan: jinny
+  DELETE   ...çocuğun oyundan çabuk sıkılacağından
+      metin  : bunun
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hukuki iddiaydı nintendo oyun
+      metin  : cini
+      duyulan: jinny
+  REPLACE  ...nintendo ya göer oyun
+      metin  : cini
+      duyulan: jinny
+  REPLACE  ...izinsiz uyarlamalarını üreten makineydi
+      metin  : galoob
+      duyulan: galop
+  INSERT   ...istedi ve aldı temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...mahkeme dava sonuçlanana kadar
+      metin  : galoob
+      duyulan: galop
+  REPLACE  ...kadar galoob oyuncağın oyun
+      metin  : cini ni
+      duyulan: jinny ini
+  REPLACE  ...tedbir kararı verdi bu
+      metin  : galoob
+      duyulan: galop
+  REPLACE  ...ürün depolarda bekleyecekti oyun
+      metin  : cini
+      duyulan: jinny
+  REPLACE  ...satışı durdurmadı ve oyun
+      metin  : cini
+      duyulan: jinny
+  REPLACE  ...itiraz etti ama daier
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...daier temyiz mahkemesi şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...farklı dünya görüşü karşı
+      metin  : karşıyaydı
+      duyulan: karşıya idi
+  INSERT   ...bile serbesttir bu konuda
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kasasında kararı bekliyordu karar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sürümlerini kendisi satabileceği ve
+      metin  : oyun cini nin
+      duyulan: oyuncinin
+  REPLACE  ...somut planla desteklenmiyordu nintendo
+      metin  : temyize
+      duyulan: temize
+  REPLACE  ...gitti kez daha daier
+      metin  : temyiz mahkemesi nin
+      duyulan: temiz mahkemesinin
+  INSERT   ...nin önüne geldi mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önüne geldi mayıs yargıç
+      metin  : jerome farris
+      duyulan: jeremy ferris
+  REPLACE  ...derece mahkemesinin kararını bu
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...araç şüpheli hale gelirdi
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...istedi ama yüksek mahkeme
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mahkeme ele almayı reddetti
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...dolarlık teminat ne olacaktı
+      metin  : galoob
+      duyulan: galop
+  REPLACE  ...hak kazandığını savundu mahkeme
+      metin  : galoob
+      duyulan: galop
+  REPLACE  ...sonucuna varıldı nintendo teminatın
+      metin  : galoob oyuncağa
+      duyulan: galop oyuncağı
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: oyun-2026-11-01.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-01.mp3
+
+beklenen 1596 kelime | duyulan 1593 kelime | eşleşme %93.4
+sayı ifadesi: metinde 199, duyulanda 158  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...daha yüksek sesle güldü
+      metin  : ışıklar
+      duyulan: işıklar
+  REPLACE  ...sesle güldü ışıklar yandığında
+      metin  : monika vitti
+      duyulan: monica witte
+  REPLACE  ...sonbaharında sicilya nın kuzeyindeki
+      metin  : eolye adaları nın
+      duyulan: eulie adalarının
+  REPLACE  ...kaya parçası var liska
+      metin  : byanka
+      duyulan: bayanka
+  REPLACE  ...bu kayalığa taşıyor yönetmen
+      metin  : mikelancelo antonyoni
+      duyulan: mikel anselo antonioni
+  REPLACE  ...hem de dönüm noktası
+      metin  : lavventura
+      duyulan: la ventura
+  REPLACE  ...noktası lavventura yani macera
+      metin  : antonyoni
+      duyulan: antonioni
+  INSERT   ...ne de tanınmış usta
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...usta ferrara da doğmuş
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...sokakları anlatarak ün kazanmış
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...anna nın yakın arkadaşı
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...anna ortadan kayboluyor senaryoyu
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...sandro yu gabriele ferzetti
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...ferzetti klaudya yı da
+      metin  : monika
+      duyulan: monica
+  REPLACE  ...daha çok sesiyle tanınıyor
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...çığlık ta oyuncuyu seslendirmiş
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...vitti nin ilk büyük
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...olmayan iş için bekliyor
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...doğru açıya gelmesini bekliyor
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...da yayıncılıkla servet edinmiş
+      metin  : çino
+      duyulan: cino
+  REPLACE  ...servet edinmiş çino del
+      metin  : duka
+      duyulan: duca
+  REPLACE  ...sicilya ya taşınıyor messina
+      metin  : barok
+      duyulan: baroque
+  REPLACE  ...yanardağı na bakan taormina
+      metin  : film
+      duyulan: filmim
+  REPLACE  ...üstelik zamanla neredeyze unutuluyor
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...hemen yeni gerilimle dolduruyordu
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...dolduran şey sandro ile
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...arama sürerken birbirine yakınlaşıyor
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...gerçekten özleyen var mı
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...kamera da birlikte gider
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...da arama sürerken sandro
+      metin  : ile klaudya
+      duyulan: yla claudia
+  REPLACE  ...çok ruh hali gibi
+      metin  : monika
+      duyulan: monica
+  REPLACE  ...dilin en önemli taşıyıcısı
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...olmuyor yine de seyirci
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...içinde şeylerin kırıldığını hissediyor
+      metin  : covanni fusko nun
+      duyulan: gavanni fuscon un
+  REPLACE  ...ve ayak sesleri duyuluyor
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...taormina daki lüks otelde
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...sandro bankta oturup ağlıyor
+      metin  : klaudya
+      duyulan: claudia
+  REPLACE  ...ilk gösterimde ödendi mayıs
+      metin  : kan
+      duyulan: ta cannes
+  REPLACE  ...nde salon dolu seyirciler
+      metin  : antonyoni
+      duyulan: antonioni
+  REPLACE  ...kahkahalar atılıyor arama sürüyor
+      metin  : anna
+      duyulan: anla
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-11-01.duyulan.txt

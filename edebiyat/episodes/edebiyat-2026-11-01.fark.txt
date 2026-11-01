@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-01.mp3
+
+beklenen 1591 kelime | duyulan 1607 kelime | eşleşme %94.9
+sayı ifadesi: metinde 224, duyulanda 141  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...romanını yazdığında elinde dil
+      metin  : alfabe
+      duyulan: alfebe
+  INSERT   ...yıl i stanbul da
+      metin  : (yok)
+      duyulan: ini
+  INSERT   ...da başlıyor halit ziya
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çocukken ticaret işleri bozuldu
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...küçük yayın denemelerine giriştiler
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kıvrımlarını anlatan cümleler kuruyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yönetimini üstlendiği servet i
+      metin  : fünun
+      duyulan: fı nın
+  REPLACE  ...romancı olarak halit ziya
+      metin  : çağrıldı mai
+      duyulan: çağırıldı mayı
+  REPLACE  ...bu dergide tefrika edildi
+      metin  : romanın
+      duyulan: romamın
+  INSERT   ...anlatacaktı aşk ı memnu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ı memnu servet i
+      metin  : fünun da
+      duyulan: fı nunda
+  INSERT   ...tefrika edilmeye başlandı ve
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...kadar sürdü kitap olarak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...roman adının hakkını verdi
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...birlikte fransız mürebbiye matmazel
+      metin  : dö kurton
+      duyulan: de courton
+  REPLACE  ...büyük zina anlatılarıyla özellikle
+      metin  : flober
+      duyulan: flaubert
+  REPLACE  ...toprağına basar kuşatan şey
+      metin  : boğaz yalısının
+      duyulan: boğaziyalısının
+  REPLACE  ...hayatını belirleyen dedikodu ağıdır
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...da bu nefes alamaz
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...ama içindeki hayat dağılmıştır
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...okurun alıştığı dil değildi
+      metin  : halit
+      duyulan: halid
+  INSERT   ...önce başka şey oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ortamı da sona eriyordu
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...dönemde sustu sonraki yıllar
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...çok devlet hizmetine götürdü
+      metin  : i kinci
+      duyulan: de
+  INSERT   ...ülke tanınmayacak kadar değişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hızla arındırılmaya başlandı bu
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...olma tehlikesiyle karşı karşıyaydı
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...yazdı aslında bu iş
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...getiriyordu asıl büyük adım
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...adım otuzların sonunda geldi
+      metin  : mai
+      duyulan: mayı
+  INSERT   ...geldi mai ve siyah
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...siyah aşk ı memnu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...brahim hilmi kitabevi çıkardı
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...halit ziya o sırada
+      metin  : yetmişlerinin
+      duyulan: lerinin
+  INSERT   ...başındaydı bihter i yaratan
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...yalnızca anlam taşıyıcısı değildir
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...burada hüzünlü ironi var
+      metin  : halit
+      duyulan: halid
+  REPLACE  ...deki gençliğine servet i
+      metin  : fünun
+      duyulan: fün ün
+  REPLACE  ...geçmişi geleceğe ulaştırmaya çalışıyordu
+      metin  : halit
+      duyulan: halid
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: edebiyat-2026-11-01.duyulan.txt

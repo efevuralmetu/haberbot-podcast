@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-01.mp3
+
+beklenen 2140 kelime | duyulan 2133 kelime | eşleşme %95.6
+sayı ifadesi: metinde 237, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hoş geldiniz kaldığınız kemer
+      metin  : bab
+      duyulan: bap
+  DELETE   ...küçük yerleşim kurar oğlu
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...alanlarından sayılması da bundan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uzun zamandır dikkat çekiyor
+      metin  : yirmilerde fes e
+      duyulan: lerde fese
+  REPLACE  ...gelen amerikalı gezgin amy
+      metin  : bend
+      duyulan: bent
+  INSERT   ...vakıf için bağış bırakmış
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...için bağış bırakmış bu
+      metin  : bağışla
+      duyulan: bağışta
+  REPLACE  ...sarı ya da beyaz
+      metin  : babuşlar
+      duyulan: babuçlar
+  REPLACE  ...sedir talaşı nane kızgın
+      metin  : yağ
+      duyulan: ya
+  REPLACE  ...ölünce mirasını kızına fatıma
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...cami meryem nehrin yakasında
+      metin  : endülüslülerin
+      duyulan: endülüstlüler in
+  INSERT   ...dan gelenlerin yaşadığı yakada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gelenlerin yaşadığı yakada bugün
+      metin  : karaviyyin
+      duyulan: karaviyin
+  REPLACE  ...adı bile oradan geliyor
+      metin  : karaviyyin
+      duyulan: karaviyin
+  REPLACE  ...kadının mirasıyla kurulduğu kesin
+      metin  : karaviyyin
+      duyulan: karaviyin
+  REPLACE  ...zamanla astronomi matematik ve
+      metin  : tıp da
+      duyulan: tıpta
+  REPLACE  ...tıp da eklendi hoca
+      metin  : sütunun
+      duyulan: sütünün
+  REPLACE  ...yarım daier kurardı bugün
+      metin  : karaviyyin
+      duyulan: karaviyin
+  REPLACE  ...rekorlar kitabı da bu
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...yahudi filozof ve hekim
+      metin  : maymonides altmışlarda
+      duyulan: maimonides larda
+  INSERT   ...tarih düşünürü i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...alimleriyle yakın ilişkiler kurdu
+      metin  : karaviyyin in
+      duyulan: karaviyenin
+  INSERT   ...in kütüphanesinde i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bizzat bağışladığı söylenen mukaddime
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...derisine yazılmış kur an
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...süren restorasyonu yönetti yeni
+      metin  : drenaj
+      duyulan: direneş
+  INSERT   ...kontrollü oda kuruldu kütüphane
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...elden geçirmesi hikayeye sessiz
+      metin  : simetri katıyor karaviyyin in
+      duyulan: simetrik atıyor karaviyenin
+  REPLACE  ...sayılan medreseleri kazandırdı bunlardan
+      metin  : karaviyyin in
+      duyulan: karaviyenin
+  REPLACE  ...karaviyyin in hemen yanında
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...hemen yanında yirmilerde yapılan
+      metin  : attarin
+      duyulan: atarin
+  REPLACE  ...alt kısmı geometrik desenli
+      metin  : zellij
+      duyulan: zelle
+  REPLACE  ...desenli zellij çinilerle kaplı
+      metin  : zellij
+      duyulan: zelli
+  REPLACE  ...yapılır her yıldız her
+      metin  : çokgen
+      duyulan: çokken
+  REPLACE  ...sedir ağacından oyma saçaklar
+      metin  : yer alır
+      duyulan: yaralır
+  REPLACE  ...kapı ya yakın olan
+      metin  : buinaniye
+      duyulan: buynaniye
+  REPLACE  ...yakın olan buinaniye medresesi
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...yapıya bakınca inanmak kolaylaşıyor
+      metin  : buinaniye
+      duyulan: buynaniye
+  INSERT   ...meriniler yalnızca medrese yaptırmadı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kışlalar bahçeler buradaydı yüzyılda
+      metin  : otuzların
+      duyulan: ların
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: seyahat-2026-11-01.duyulan.txt

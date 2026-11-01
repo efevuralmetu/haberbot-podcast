@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-01.mp3
+
+beklenen 1449 kelime | duyulan 1456 kelime | eşleşme %97.3
+sayı ifadesi: metinde 149, duyulanda 119  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...değil sosyolog james henslin
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...james henslin altmışların ortasında
+      metin  : st louis
+      duyulan: saynıcı lewis
+  INSERT   ...uzun süer gözlemledi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonra harvard lı psikolog
+      metin  : ellen
+      duyulan: alan
+  REPLACE  ...bu davranışın arkasındaki zihinsel
+      metin  : düzeneğe
+      duyulan: düzeneye
+  INSERT   ...ad verdi kontrol yanılsaması
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...alım satımcılarla yapılan ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...diyen kişi masadan kalkar
+      metin  : psikologlar
+      duyulan: pesikologlar
+  REPLACE  ...psikologlar shelley taylor ve
+      metin  : jonathon
+      duyulan: jonathan
+  INSERT   ...taylor ve jonathon brown
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yanılsamaların kontrolü olduğundan fazla
+      metin  : görmek de
+      duyulan: görmekte
+  INSERT   ...az kez böyle yüklenmişizdir
+      metin  : (yok)
+      duyulan: tıki te
+  INSERT   ...şehirdeki yaklaşık yaya butonundan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...boşa basılan düğmeler bilet
+      metin  : seçmek de
+      duyulan: seçmekte
+  REPLACE  ...de düğmedir zarı sert
+      metin  : atmak da
+      duyulan: atmakta
+  REPLACE  ...önce zamanlar köle olan
+      metin  : stoacı düşünür epiktetos
+      duyulan: stoğacı düşünü repik tetos
+  REPLACE  ...yerinde olmayan ya da
+      metin  : çökkünlük
+      duyulan: çökünlük
+  REPLACE  ...da çökkünlük yaşayan insanların
+      metin  : langer
+      duyulan: langar
+  REPLACE  ...çok uğraşmış olmamdan mı
+      metin  : langer
+      duyulan: langar
+  REPLACE  ...karşıya geçerken tarafa da
+      metin  : bakmak
+      duyulan: bak
+  REPLACE  ...olan düğmeler için saklayın
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 26
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: psikoloji-2026-11-01.duyulan.txt
