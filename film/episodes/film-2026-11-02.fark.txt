@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-02.mp3
+
+beklenen 2029 kelime | duyulan 2032 kelime | eşleşme %95.3
+sayı ifadesi: metinde 206, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...savaşır akira kurosawa nın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nın gösterime giren filmi
+      metin  : şiçinin no samuray
+      duyulan: shichi nin noh samurai
+  REPLACE  ...şiçinin no samuray yani
+      metin  : samuray işte
+      duyulan: samurai i şte
+  REPLACE  ...fikir ilk başta bambaşkaydı
+      metin  : raşomon
+      duyulan: rashomon
+  REPLACE  ...kendi canına kıyıyor senarist
+      metin  : şinobu haşimoto
+      duyulan: shinobu hashimoto
+  REPLACE  ...haydutlara karşı korumaları için
+      metin  : efendisiz
+      duyulan: efendisi
+  REPLACE  ...bilgiyi duyunca hikayeyi buldu
+      metin  : haşimoto
+      duyulan: hashimoto
+  REPLACE  ...insandı adam belirlendi lider
+      metin  : kambey şimada
+      duyulan: kanbei shimada
+  REPLACE  ...nın en sadık oyuncularından
+      metin  : takaşi şimura
+      duyulan: takashi shimura
+  REPLACE  ...savaş kaybetmiş sabırlı stratejist
+      metin  : kambey
+      duyulan: kanbei
+  REPLACE  ...rehin alıp ambara kapanmıştır
+      metin  : kambey
+      duyulan: kanbei
+  REPLACE  ...topu alarak ambara girer
+      metin  : şimura
+      duyulan: shimura
+  REPLACE  ...için saçını gerçekten kestirdi
+      metin  : kambey
+      duyulan: kanbei
+  REPLACE  ...olsa da moral veren
+      metin  : heyhaçi kambey
+      duyulan: heihachi kanbei
+  REPLACE  ...nin eski silah arkadaşı
+      metin  : şiçiroci
+      duyulan: shichiroji
+  REPLACE  ...ve hayranlık duyan genç
+      metin  : katsuşiro
+      duyulan: katsushiro
+  REPLACE  ...adam ize listeye uymuyordu
+      metin  : toşiro
+      duyulan: toshiro
+  REPLACE  ...toşiro mifune nin oynadığı
+      metin  : kikuçiyo
+      duyulan: kikuchiyo
+  REPLACE  ...kikuçiyo samuray değil çalıntı
+      metin  : soy kütüğüyle
+      duyulan: soykütüyle
+  REPLACE  ...enerji gerektiğine karar vermesiyle
+      metin  : kikuçiyo
+      duyulan: kikuchiyo
+  REPLACE  ...beden dili verdi hazırlık
+      metin  : süreci de
+      duyulan: sürecinde
+  INSERT   ...ödedi final savaşı şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve tükenmişlik büyük ölçüde
+      metin  : oynanmış değil
+      duyulan: oynanmıştı
+  REPLACE  ...kurosawa görüntü yönetmeni asakazu
+      metin  : nakai
+      duyulan: naka
+  REPLACE  ...sahneyi aynı anda fazla
+      metin  : kamerayla
+      duyulan: kamera ile
+  INSERT   ...pratik yararı vardı atların
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...anlaşılır kılmak ize zordur
+      metin  : kambey nin
+      duyulan: kanbey in
+  REPLACE  ...tek etkisiz hale getirmektir
+      metin  : kambey
+      duyulan: kanbey
+  REPLACE  ...bu bilginin içinden büyür
+      metin  : heyhaçi
+      duyulan: heihachi
+  REPLACE  ...en yüksek çatısında dalgalanır
+      metin  : heyhaçi
+      duyulan: heihachi
+  REPLACE  ...böyle kullanılıyordu filmin başlarında
+      metin  : kambey nin
+      duyulan: kan beynin
+  REPLACE  ...göer sanki saniye uzar
+      metin  : kurosawa dan
+      duyulan: kurosavadan
+  REPLACE  ...kurosawa dan sonra sam
+      metin  : peckinpah tan
+      duyulan: pei chin pahtan
+  REPLACE  ...çevirir gibi hissettirir müzik
+      metin  : kurosawa nın
+      duyulan: kurosavanın
+  REPLACE  ...hayatını kaybetti samurayların ağır
+      metin  : teması ile
+      duyulan: temasıyla
+  REPLACE  ...keşfeder öfkeyle köylüleer yönelirler
+      metin  : kikuçiyo
+      duyulan: kikuchiyo
+  REPLACE  ...ve filmin en uzun
+      metin  : monoloğunu
+      duyulan: monologunu
+  REPLACE  ...köylerini yakan tarlalarını çiğneyen
+      metin  : angaryaya
+      duyulan: angariye
+  REPLACE  ...koşan kadınlarını alan samuraylardır
+      metin  : monoloğun
+      duyulan: monologun
+  REPLACE  ...alan samuraylardır monoloğun sonunda
+      metin  : kikuçiyo
+      duyulan: kikuchiyo
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: film-2026-11-02.duyulan.txt

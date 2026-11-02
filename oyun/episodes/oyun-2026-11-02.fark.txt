@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-02.mp3
+
+beklenen 1812 kelime | duyulan 1821 kelime | eşleşme %96.0
+sayı ifadesi: metinde 172, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...an yeni tür doğdu
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...her sabah pencereden aynı
+      metin  : silueti
+      duyulan: silüeti
+  REPLACE  ...gördü çocuğun adı david
+      metin  : brevik
+      duyulan: brevick
+  REPLACE  ...en tanınan oyunlarından verilecekti
+      metin  : breviğin
+      duyulan: brevick in
+  INSERT   ...daha eski geleneğe dayanıyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bu hayali gerçekleştirmek için
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ortakla birlikte yola çıktı
+      metin  : maks şeyfır
+      duyulan: max schaeffer
+  REPLACE  ...çıktı maks şeyfır ve
+      metin  : erik şeyfır
+      duyulan: eric schaeffer
+  REPLACE  ...da condor games yani
+      metin  : kondor
+      duyulan: condor
+  REPLACE  ...genesis sürümüydü aynı oyunun
+      metin  : süper
+      duyulan: super
+  REPLACE  ...ize güney kaliforniya da
+      metin  : irvine
+      duyulan: irvanda
+  REPLACE  ...ve birbirlerinin işini beğendiler
+      metin  : kondor
+      duyulan: condor
+  REPLACE  ...paraları başka yerleer yatırıyorlardı
+      metin  : breviğin
+      duyulan: brevy in
+  REPLACE  ...kaldı oyun sıra tabanlıydı
+      metin  : brevik
+      duyulan: brevy
+  REPLACE  ...canavarlar sırayla karşılık verecekti
+      metin  : kondor
+      duyulan: condor
+  INSERT   ...dev şirket değildi ama
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...adını duyurmuştu görüşmelerin ardından
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...başında şirket anlaşma imzaladı
+      metin  : kondor
+      duyulan: condor
+  REPLACE  ...her şey yolundaydı fakat
+      metin  : irvine dan
+      duyulan: irwin inden
+  REPLACE  ...siz beklerken de saldırıyordu
+      metin  : irvine daki
+      duyulan: irwin e deki
+  REPLACE  ...ısrar etmeye devam etti
+      metin  : kondor
+      duyulan: condor
+  REPLACE  ...sertleşti sonunda şirketin içinde
+      metin  : konunun
+      duyulan: condor un
+  REPLACE  ...oylamaya sunulmasına karar verildi
+      metin  : kondor
+      duyulan: condor
+  REPLACE  ...oylar sayıldığında sonuç ortadaydı
+      metin  : breviğin
+      duyulan: brevik in
+  REPLACE  ...temel kararını kaybetmişti ama
+      metin  : breviği
+      duyulan: brevik i
+  REPLACE  ...izni olmadan akmaya başlamıştı
+      metin  : breviğin
+      duyulan: brevik in
+  REPLACE  ...zor haz veriyordu kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...kasabanın kilisesinin açılan zindana
+      metin  : iniyordu
+      duyulan: iniyor
+  REPLACE  ...rastgelelik kalmış sıra gitmişti
+      metin  : breviğin
+      duyulan: brevik in
+  REPLACE  ...bilmeden karanlığa adım atmak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...büyük adım da yine
+      metin  : irvine
+      duyulan: irvina
+  REPLACE  ...de internet üzerinden bu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...nı kar fırtınası nın
+      metin  : irvine
+      duyulan: irvina
+  REPLACE  ...irvine daki ekibi geliştirdi
+      metin  : kondor
+      duyulan: condor
+  REPLACE  ...kondor oyunun kendisine odaklanırken
+      metin  : irvine
+      duyulan: irvina
+  REPLACE  ...adım atıldı kar fırtınası
+      metin  : kondor
+      duyulan: da condor
+  REPLACE  ...devam etti brevik ve
+      metin  : şeyfır
+      duyulan: schaeffer
+  INSERT   ...girdi sonunda diablo aralık
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu tecrübeden ders çıkardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...başlıyorsanız bunun yolunu döşeyenlerden
+      metin  : (yok)
+      duyulan: nın
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: oyun-2026-11-02.duyulan.txt

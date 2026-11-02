@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-02.mp3
+
+beklenen 1769 kelime | duyulan 1775 kelime | eşleşme %96.2
+sayı ifadesi: metinde 164, duyulanda 136  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...görelilik kuramını yazan adam
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eski usul yapraklar doğrudan
+      metin  : bardağa
+      duyulan: bardağı
+  REPLACE  ...suyu kenarlara atar laboratuvardaki
+      metin  : santrifüj
+      duyulan: santrifüş
+  REPLACE  ...barındırdığını gösterir bu meselenin
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...anılmasının nedeni yılına dayanır
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...tam o yıllarda ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bunu alman bilim dergisi
+      metin  : di naturvisenşaften
+      duyulan: dinatur wiesenschaften
+  REPLACE  ...zamandı ne de kuantum
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...aktığını menderes denen o
+      metin  : yılankavi
+      duyulan: yılan kahvi
+  REPLACE  ...ve ne olduğuna bakın
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...zordur suyun içi görünmez
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...yani bu basit sahne
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...burada noktayı netleştirmek gerekir
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...lord kelvin in ağabeyi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kıvrımlarındaki dip akıntısını anlatmıştı
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...dipte içeri ortada yukarı
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...kenarda aşağı fizikçiler buna
+      metin  : akış
+      duyulan: lakış
+  REPLACE  ...küçük yaprak yığını oluşur
+      metin  : santrifüj
+      duyulan: santrifüş
+  REPLACE  ...zayıflamıştır ve orada sözü
+      metin  : basınç
+      duyulan: basıntı
+  REPLACE  ...sözü basınç söyler bu
+      metin  : akışın
+      duyulan: lakışın
+  REPLACE  ...dönen suya karışır yani
+      metin  : akış
+      duyulan: lakış
+  REPLACE  ...ince sütunu bile yakalayabilirsiniz
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...aslında tam olarak buydu
+      metin  : formüle
+      duyulan: formule
+  REPLACE  ...formüle geçmeden önce bakın
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...taşır ve orada biriktirir
+      metin  : jeologlar
+      duyulan: geologlar
+  REPLACE  ...nehrin adından türemiştir bu
+      metin  : akışın
+      duyulan: lakışın
+  REPLACE  ...ünlü yılankavi çizgiler çıkar
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...doğa bilimci karl ernst
+      metin  : fon ber
+      duyulan: von baer
+  REPLACE  ...öne sürmüştü bu gözlem
+      metin  : ber
+      duyulan: baer
+  REPLACE  ...ber yasası adıyla anılır
+      metin  : ber
+      duyulan: baer
+  REPLACE  ...dünya nın dönmesine bağlamıştı
+      metin  : aynştayn dünya nın
+      duyulan: einstein dünyanın
+  REPLACE  ...sapma etkisinin de aynı
+      metin  : akışı
+      duyulan: lakışı
+  REPLACE  ...kıyaslanırsa son derece zayıftır
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...jeolojik zamanlarda birikebileceğini söylüyordu
+      metin  : ber
+      duyulan: baer
+  REPLACE  ...payı konusunda uzlaşmış değildir
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...dönen rüzgar yükseklerde basınç
+      metin  : farkı ile
+      duyulan: farkıyla
+  REPLACE  ...de kullanılır fabrikalarını düşünün
+      metin  : arpa maltından
+      duyulan: arpam
+  REPLACE  ...maltından elde edilen şerbet
+      metin  : şerbetçiotuyla
+      duyulan: şerbet çotuyla
+  REPLACE  ...şerbet büyük silindir biçimli
+      metin  : tanka yandan
+      duyulan: tank ayağından
+  REPLACE  ...hattının parçası olarak çalışır
+      metin  : ölçeği
+      duyulan: ölçeyi
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: bilim-2026-11-02.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-02.mp3
+
+beklenen 1888 kelime | duyulan 1880 kelime | eşleşme %94.8
+sayı ifadesi: metinde 214, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bile söylenti olarak kaldı
+      metin  : şiirleriyze
+      duyulan: şiirleri ize
+  REPLACE  ...stanbul şehrin ilmiye ailelerinden
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...mahlası seçmesi tesadüf değil
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...yaşayan ailelerdendi babası kadı
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...babası kadı mehmed efendi
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...köklü ilim ailesi olan
+      metin  : karaçelebizadelerden
+      duyulan: kara celebizadelerden
+  REPLACE  ...olan karaçelebizadelerden geliyordu yani
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...arasında sevilmemiş adının önüne
+      metin  : mülakkab
+      duyulan: mülakkap
+  REPLACE  ...aileyi derinden sarsmıştı kalabalığın
+      metin  : insanı
+      duyulan: insanın
+  REPLACE  ...yeniden karşımıza çıkacak genç
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...olan klasik ilimleri öğrendi
+      metin  : hafız ı saib i
+      duyulan: hafızı sahibi
+  DELETE   ...ı saib i fuzuli
+      metin  : yi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ideal bahçe cennetin yansıması
+      metin  : şarap da
+      duyulan: şarapta
+  REPLACE  ...sevgili mücerret güzel değildir
+      metin  : kağıthane ye
+      duyulan: kağıtaneye
+  REPLACE  ...un meclislerinde okunuyordu bestekarlardan
+      metin  : enfi
+      duyulan: enfiy
+  REPLACE  ...taşıyanlardan böylece medrese hocası
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...kesişecekti yılında osmanlı devleti
+      metin  : pasarofça
+      duyulan: pasarovça
+  REPLACE  ...osmanlı devleti pasarofça antlaşması
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...aynı yıl sadrazamlığa sultan
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...ancak yüzyılın başında tarihçi
+      metin  : ahmed refiğin
+      duyulan: ahmet refik in
+  REPLACE  ...bilinen işi müneccimbaşı derviş
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...türkçeye aktarmaktı bu çeviri
+      metin  : sahaifü l
+      duyulan: sahayfül
+  REPLACE  ...gösteriyor bu resmin merkezinde
+      metin  : sadabad
+      duyulan: sadabat
+  INSERT   ...ucunda kağıthane deresinin kıyısında
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zamandan beri dillerdedir bu
+      metin  : şehr
+      duyulan: şehri
+  REPLACE  ...dillerdedir bu şehr i
+      metin  : sitanbul
+      duyulan: stanbul
+  REPLACE  ...şehr i sitanbul ki
+      metin  : bi misl ü behadır
+      duyulan: mis übehadır
+  REPLACE  ...çok farklı anlam kazanacaktı
+      metin  : lale
+      duyulan: lahle
+  INSERT   ...da yükselmeye devam etti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oldu ertesi yıl molla
+      metin  : kırımi
+      duyulan: kırmi
+  INSERT   ...molla kırımi medresesi ne
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...öfke artık gizlenemiyordu eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gelenleri teslim edilmeliydi sultan
+      metin  : ahmed tahtını
+      duyulan: ahmet tahtı nı
+  REPLACE  ...verildi bu da yetmedi
+      metin  : ahmed tahttan
+      duyulan: ahmet tahtan
+  REPLACE  ...tahttan indirildi yerine yeğeni
+      metin  : mahmud
+      duyulan: mahmut
+  REPLACE  ...stanbul biliyordu o günlerde
+      metin  : sekban
+      duyulan: sekvan
+  REPLACE  ...vardı naaşı üsküdar da
+      metin  : karacaahmet mezarlığı nın
+      duyulan: karacahmet mezarlığının
+  REPLACE  ...denilen kısmına gömüldü hayatını
+      metin  : halicin
+      duyulan: haliç in
+  REPLACE  ...divanının bilinen en eski
+      metin  : nüshası
+      duyulan: nüşası
+  INSERT   ...ölümünden yalnızca yıl sonra
+      metin  : (yok)
+      duyulan: da
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: edebiyat-2026-11-02.duyulan.txt

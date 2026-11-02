@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-02.mp3
+
+beklenen 3109 kelime | duyulan 3131 kelime | eşleşme %96.8
+sayı ifadesi: metinde 423, duyulanda 303  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yaşında krallık miras aldı
+      metin  : (yok)
+      duyulan: unda
+  INSERT   ...hayalindeki şehri kez fethetti
+      metin  : (yok)
+      duyulan: ünde
+  REPLACE  ...zahirüddin muhammed haberi aldığında
+      metin  : andican
+      duyulan: andikan
+  INSERT   ...aldığında andican daydı yaşı
+      metin  : (yok)
+      duyulan: di
+  REPLACE  ...yaşı ailesi ve dostları
+      metin  : babür
+      duyulan: bağbür
+  REPLACE  ...kaplan anlamına gelen bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ad ömrü boyunca taşıyacağı
+      metin  : ad
+      duyulan: at
+  INSERT   ...boyunca taşıyacağı ad oldu
+      metin  : (yok)
+      duyulan: dota
+  INSERT   ...taşıyacağı ad oldu şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çocuğa verilebilecek en parlak
+      metin  : soy kütüğüydü
+      duyulan: soykütüydü
+  REPLACE  ...bölünmüş şehir şehir paylaşılmıştı
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...geçti babür ün amcası
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...amcası semerkant hükümdarı sultan
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...vardı babür o gün
+      metin  : andican ın
+      duyulan: andika nın
+  REPLACE  ...çok yol gösteren kişi
+      metin  : anneannesi
+      duyulan: annen nesi
+  REPLACE  ...den yanaydı amcası sultan
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...kaybedildi askerin morali çöktü
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...fatih olarak girdi medreselerini
+      metin  : uluğ
+      duyulan: ulu
+  REPLACE  ...beyler fırsatı kaçırmadı tanbal
+      metin  : adlı
+      duyulan: atlı
+  REPLACE  ...mirza yı öne sürerek
+      metin  : andican
+      duyulan: andikan
+  REPLACE  ...ağzına pamukla su damlatılıyordu
+      metin  : andican
+      duyulan: andikan
+  REPLACE  ...ama yola çıktığı gün
+      metin  : andican
+      duyulan: andikan
+  REPLACE  ...semerkant ı geride bırakmış
+      metin  : andican
+      duyulan: andikan
+  REPLACE  ...de en karanlık dönemiydi
+      metin  : hocend e
+      duyulan: kocende
+  REPLACE  ...kurulduğu küçük savaşlarla geçti
+      metin  : andican
+      duyulan: andikan
+  INSERT   ...mirza yeniden semerkant taydı
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...ortasında küçük insani teselli
+      metin  : semerkant
+      duyulan: semerkand
+  INSERT   ...fergana ya dönmeyi denedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...a karşı yürüdüler ama
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu ittifakı da dağıttı
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...bulunduğunu yerde kabil çevresinde
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...yılları kolay da geçmedi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bağlı çekirdek kadrosu vardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ittifak kurmak istemişti babür
+      metin  : herat ta
+      duyulan: herad da
+  REPLACE  ...gördü kısa süer sonra
+      metin  : herat
+      duyulan: herad
+  INSERT   ...farkındalık unvana da dönüştü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ama gözü hala kuzeydeydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonunda safevi ordusunun da
+      metin  : gucduvan
+      duyulan: gukşduvan
+  REPLACE  ...getirtti bunların en önemlileri
+      metin  : üstat
+      duyulan: üstad
+  INSERT   ...rumi adlı topçu ustasıydı
+      metin  : (yok)
+      duyulan: da
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: biyografi-2026-11-02.duyulan.txt

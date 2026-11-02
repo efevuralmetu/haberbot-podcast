@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-02.mp3
+
+beklenen 3311 kelime | duyulan 3269 kelime | eşleşme %10.6
+sayı ifadesi: metinde 253, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...the fate of gaul
+      metin  : milattan önce yılının yazında galya nın ortasındaki yaylada
+      duyulan: a roman general surrounds a hil to starve out the army trapped top of it whoever is left standing between those walls wil decide the fate of gaul caesar does not retreat he does not retreat whoever is left standing between those walls wil decide the fate of gaul whoever is left standing between those walls wil decide the fate of gaul he builds a wal facing outward and so becomes both the besiegers and the besiegers caesar does not retreat he does not retreat kendi halka na korkunshbir fedak arlukyaptarda
+  REPLACE  ...nın ortasındaki yaylada roma
+      metin  : nın
+      duyulan: ordosunun erzakpula bilejei koyleri ambarleri hatta butun kasabalera ateşeh vardarda cesar agaer de fazlar bituriges kasabasiyan de bituriges halka galianan enguzal sheherlerin dan saidekleer avarichumun baushlan masiichin yalvarde vercinger rexganulsiz de razo oldovei haklucikte cesar avarichumukushatepalde cesaran vardirakamagura içar dekhi kirkbenkishidan anjaksekizyuskadar kurtulabilde amabufe laket vercinget oriksin itibaranasarsmadde tam tersinne onuguchlan dirde sheherin savunulmamasugerektine
+  REPLACE  ...yaylada roma nın en
+      metin  : tehlikeli komutanı hayatında pek yaşamadığı şey yaşıyordu geri çekiliyordu gaius julius sezar arvernlerin yüksek kalesi
+      duyulan: bastan soylean oidu
+  REPLACE  ...arvernlerin yüksek kalesi gergovia
+      metin  : nın eteklerinde ağır yenilgi almıştı kendi anlatımına göer o gün yaklaşık asker ve kaybetmişti roma ordusunun belkemiği sayılan yüzbaşılar için bu acı rakamdı sezar bu rakamı da diğer her şey gibi kendi kaleme aldığı ve kendinden hep şahısla söz ettiği eserinde commentarii de bello gallico da
+      duyulan: isey hersheyideishtirde cesaran yeni lebileje artek kanatlan mushta yilardar romanan en saadik mutefiki olan romasenatosunun kardesh diyaandu aeduilar bilesafte ishtirde galianan butun kabileleer aedu leren buyukkale sheheribi braktade
+  REPLACE  ...bello gallico da yani
+      metin  : galya savaşları nda yazdı alesia ya dair bildiklerimizin büyük kısmı bu kitaptan geliyor anlatının olayların en büyük aktörlerinden kaleminden çıktığını akılda tutmak gerekir gergovia nın karşısında duran adam genç arvern soylusuydu vercingetorix babası celtillus zamanlar bütün galya ya hükmetmek istediği için kendi halkı tarafından öldürülmüştü oğul aynı tutkunun daha tehlikeli sürümünü taşıyordu o yılın başında kendi kabilesinin ihtiyarları gergovia dan kovmuştu o da kırsaldan yoksulları ve sürgünleri toplayıp geri döndü şehri aldı ve taraftarları kral unvanını verdi ardından başka kabileleer elçiler yolladı kısa sürede senonlar parisiiler pictonlar cadurcilar ve okyanus kıyısındaki bütün kavimler etrafında toplandı vercingetorix
+      duyulan: aedu
+  REPLACE  ...etrafında toplandı vercingetorix i
+      metin  : önceki galyalı liderlerden ayıran şey disiplin ve strateji anlayışıydı roma yı meydan muharebesinde yenmenin zor olduğunu biliyordu bu düşmanı aç bırakmayı seçti kendi halkına korkunç fedakarlık yaptırdı roma ordusunun erzak bulabileceği köyleri ambarları hatta bütün kasabaları ateşe verdirdi sezar a göer günde fazla bituriges kasabası yandı bituriges halkı galya nın en güzel şehirlerinden saydıkları avaricum un bağışlanması için yalvardı vercingetorix gönülsüzce razı oldu ve haklı çıktı sezar avaricum u kuşatıp aldı sezar ın verdiği rakama göer içerideki kişiden ancak kadarı kurtulabildi ama bu felaket vercingetorix in itibarını sarsmadı tam tersine güçlendirdi şehrin savunulmaması gerektiğini en baştan söyleyen oydu gergovia ize her şeyi değiştirdi sezar ın yenilebileceği artık kanıtlanmıştı yıllardır roma nın en sadık müttefiki olan roma senatosunun kardeş diye andığı aeduiler bile saf değiştirdi galya nın bütün kabileleri aeduilerin büyük kale şehri bibracte de yani aedui başkenti nde toplandı aeduiler komutanlığın kendilerine verilmesini istediler oy birliğiyle reddedildiler meclis vercingetorix
+      duyulan: baashkantinde toplande aedu ilar kamutan lern kandileer neviril mesiniste dilaer oibir lileer dildilaer mekles vercinget oriksi butun galia ordulernan baashkomutanu olerakon ailade cesaran yazdunagier aedu
+  REPLACE  ...reddedildiler meclis vercingetorix i
+      metin  : bütün galya ordularının başkomutanı olarak onayladı sezar ın yazdığına göer aedui soyluları bu karara içerleyerek boyun eğdiler
+      duyulan: soilulaer bukararei charlearek buyunadeilaer
+  REPLACE  ...içerleyerek boyun eğdiler belki
+      metin  : de galya tarihinde ilk kez birbirleriyle yüzyıllardır çekişen onlarca
+      duyulan: degal yatari hinde ilkkez leerile yuziel lardar cekishan onlarja
+  REPLACE  ...çekişen onlarca kavim tek
+      metin  : adamın sözüne bağlanmıştı vercingetorix vakit kaybetmedi kabilelerden rehineler
+      duyulan: biradaman suzune baalan mushta vercinget oriksfakat ke batmedi kebile lardan rehinalar
+  REPLACE  ...kaybetmedi kabilelerden rehineler istedi
+      metin  : süvari topladı
+      duyulan: suvari topladave romanan eski aileto olan gunaideki narbonetopraklar na baskan narduzanette cesarize bolun musordusunu birleishtirmek zorundayda yardam jesu teetas labienus kuzayde bugun kuparisin atas olan lutetiya jiwaranda sefaryuruti ordu labienus chattashmaye kazanup gunayadundu veikyo ordu birleishtih cesar shayi dahaayapta rehninote sindeki german kabile lerin dan suvari gehturti german atlaer kuchuk vedayanaksizda cesar da subailernan ve atla shavayelernan binekhaivan lerna alup german niradatte bukuchuk airentunan butun sabashun kadirne etkilei jayne ogun kim sebilmyordu cesar ailete koroma kichingunaydoye sekuaneran topraklar na dor yurur kyan vergingetorix fursatagurdunu dushundu suvari komutanerana toplade
+  REPLACE  ...süvari topladı ve roma
+      metin  : nın eski eyaleti olan güneydeki narbonne topraklarına baskınlar düzenletti sezar ize bölünmüş ordusunu birleştirmek zorundaydı yardımcısı titus labienus kuzeyde bugünkü paris in atası olan lutetia civarında sefer yürütüyordu labienus çatışmayı kazanıp güneye döndü
+      duyulan: leran kachtuna shimdisal der mazlar sa dahabuyuk la geridunajekler nisoylade suvari ler kutsal yeminete ler roma kolunu nichindaniki kezatlar ila gechmeyan hichbir savasce evine karisanan trojuk lernan
+  REPLACE  ...kazanıp güneye döndü ve
+      metin  : ordu birleşti sezar şeyi daha yaptı ren in ötesindeki
+      duyulan: annebabasanan yanana birdahan miajekte erteisigun galia suvari si roma yuruyushkoluna uchiandan saalderde lezhonar yukhaivan neru no ortaya alup savun mayagechte sonuku
+  REPLACE  ...ren in ötesindeki germen
+      metin  : kabilelerinden süvari getirtti germen atları küçük ve dayanıksızdı sezar da subaylarının ve atlı şövalyelerinin hayvanlarını alıp germenleer dağıttı bu küçük ayrıntının bütün savaşın kaderini etkileyeceğini o gün kimse bilmiyordu sezar eyaleti korumak için güneydoğuya sekuanların topraklarına doğru yürürken vercingetorix fırsatı gördüğünü düşündü süvari komutanlarını topladı ve romalıların kaçtığını şimdi saldırmazlarsa daha büyük orduyla geri döneceklerini söyledi süvariler kutsal yemin ettiler roma kolunun içinden kez atlarıyla geçmeyen hiçbir savaşçı evine karısının çocuklarının ve anne babasının yanına daha dönmeyecekti ertesi gün galya süvarisi roma yürüyüş koluna yönden saldırdı lejyonlar yük hayvanlarını ortaya alıp savunmaya geçti sonucu germen atlıları belirledi sağ kanatta tepeyi ele geçirip galyalıları geri püskürttüler ardından neher kadar kovaladılar galya süvarisi dağıldı soylularından bazıları
+      duyulan: atlalar bilalade saakanattabir tepeye elegechirip galia lular geripuskurtular ardandan nehrekadar kovaladalar galia suvari si daalde soylularan dan basalar
+  REPLACE  ...dağıldı soylularından bazıları esir
+      metin  : düştü vercingetorix piyadesini toplayıp
+      duyulan: dusht versinga toriks payadeesini to playep
+  REPLACE  ...vercingetorix piyadesini toplayıp kuzeye
+      metin  : çekildi hedefi mandubii kabilesinin tepe üstündeki kalesiydi
+      duyulan: chekilde hee dee fye man du bi kabileisinan tepeyustunde kekalaisiide
+  REPLACE  ...üstündeki kalesiydi alesia alesia
+      metin  : bugün fransa nın burgonya bölgesinde
+      duyulan: bugun fransanem borgonya bergisinde
+  REPLACE  ...bölgesinde alize sainte reine
+      metin  : köyünün yani
+      duyulan: koyunun yane
+  REPLACE  ...köyünün yani azize reine
+      metin  : köyü nün tepesinde yüksek ve düz
+      duyulan: koyunun tepeisinde yuksek veduzbir piliatonunu zerende kuruluitu sezeran tarifineguer yamachlar okadar diktiki anja kushatma ila uluna bilirde tepeinin ikki anun dan deer aku yordu otunun de batada yaklasek uchmil uzunun da achuk ova uzan yordu jeri kalanyun naerde ize aini yuksek likte baska tepelar alesia yibir halkagibichever yordu versinga toriksin ordu su
+  REPLACE  ...yüksek ve düz platonun
+      metin  : üzerinde kuruluydu sezar ın tarifine göer yamaçları o
+      duyulan: do yamajana hende kwe alta ayak yuksek linde tashtu varla korunan kamkurmushtu sezeraguer ichar de seksan piaade vardu versinga toriksin plana be lide galyanan giri kalana ayak halkap yardama gele nekadar tepeide dayanmak sezeran planize roma askirimu hendislinin buguna
+  REPLACE  ...göer yamaçları o kadar
+      metin  : dikti ki ancak kuşatmayla alınabilirdi tepenin yanından deer akıyordu önünde batıda yaklaşık uzunluğunda açık
+      duyulan: enchok analan urneklirin dan ologakte saldar mak yerine shehri tama man kapat meyakarar verde wen juzbiri chalka chizilde sezeraguer buhat zunun daide yani kilometer yah shiordu hatan uzerne yerme uchkuchuk kalekondu bunlarda gunduzleri nobechilair gejeleri guchlir liklair bekliordu inshaat surair kyan galya suvari si chukushyapup ischilair saalderdu
+  REPLACE  ...yaklaşık uzunluğunda açık ova
+      metin  : uzanıyordu geri kalan yönlerde ize aynı yükseklikte başka tepeler alesia yı halka gibi çevreliyordu vercingetorix in ordusu platonun doğu yamacına hendek ve ayak yüksekliğinde taş duvarla korunan kamp kurmuştu sezar a göer içerde piyade vardı vercingetorix in planı belliydi galya nın geri kalanı ayağa kalkıp yardıma gelene kadar tepede dayanmak sezar ın planı ize roma askeri mühendisliğinin bugüne kadar en çok anılan örneklerinden olacaktı saldırmak yerine şehri tamamen kapatmaya karar verdi önce iç halka çizildi sezar a göer bu hat uzunluğundaydı yani kilometreyi aşıyordu hattın üzerine küçük kale kondu bunlarda gündüzleri nöbetçiler geceleri güçlü birlikler bekliyordu i nşaat sürerken galya süvarisi çıkış yapıp işçileer saldırdı ova kez daha atlıların savaş alanı
+      duyulan: kezdaha atlu laren savashala no
+  REPLACE  ...savaş alanı oldu ve
+      metin  : kez daha germen süvarisi galyalıları
+      duyulan: kezdaha gyarman suvari si galya lalar
+  REPLACE  ...germen süvarisi galyalıları tepeye
+      metin  : geri sürdü kaçanlar
+      duyulan: giri surdu kachanlar kendikamplaranan dar kapalaran da ne isdilair buchatushmanan aardan dan virgin gerarix an amni kararalda roma halkasakapan madan geje butun suvari si ne dushar gyan derde hretliya kendikabile sine donme sine ve silachta shiya bileja kehirkezi alesiya ya gehtir me sine emrette a kendiyor chusuneguer otusgun nuk tahul bulundunu idarili kullanalir sabirazdaha uzatala bilijeinu soylidu heyvannar askar leredat tahul
+  REPLACE  ...geri sürdü kaçanlar kendi
+      metin  : kamplarının dar kapılarında birbirlerini ezdiler bu çatışmanın ardından vercingetorix önemli karar aldı
+      duyulan: deni te minalde ve atlalar karanakta
+  REPLACE  ...önemli karar aldı roma
+      metin  : halkası kapanmadan gece bütün süvarisini dışarı gönderdi her atlıya kendi kabilesine dönmesini ve silah taşıyabilecek herkesi alesia ya getirmesini emretti kendi ölçüsüne göer günlük tahıl bulunduğunu idareli kullanılırsa daha uzatılabileceğini söyledi hayvanları askerleer dağıttı tahılı kendi denetimine aldı ve atlılar karanlıkta roma hatlarının boşluklarından sızıp gitti
+      duyulan: hatlaranan boshrukleran dan sazap gite
+  REPLACE  ...sızıp gitti bu kararla
+      metin  : alesia nın
+      duyulan: alesianan
+  REPLACE  ...kararla alesia nın kaderi
+      metin  : artık
+      duyulan: artak
+  REPLACE  ...nın kaderi artık tepenin
+      metin  : dışında galya nın kabile meclislerinde belirlenecekti sezar atlıların neden gittiğini anlamıştı yardım ordusu gelecekti
+      duyulan: dushanda galianan kabilemejdistirinde bilir lenejekte sezer atlaran nedangitin annamishte yardem urdu sugelejekte
+  REPLACE  ...yardım ordusu gelecekti tepenin
+      metin  : etrafına çektiği
+      duyulan: etrafunachekti
+  REPLACE  ...tepenin etrafına çektiği halka
+      metin  : artık yeterli değildi dışarıya karşı
+      duyulan: artak yatarli dilde dushariyakarsha
+  REPLACE  ...değildi dışarıya karşı da
+      metin  : duvar gerekiyordu romalılar böylece iç içe
+      duyulan: duargeer kyorda roma lalar boleje icice ike
+  REPLACE  ...böylece iç içe halka
+      metin  : inşa etmeye başladılar i ç hattın en dışında galyalıların gece baskınlarını yavaşlatmak için
+      duyulan: inshaet me abashladalar ich hatan endushanda galia lalaran gejebaskan lerni abashlatma kichen yirma
+  REPLACE  ...baskınlarını yavaşlatmak için ayak
+      metin  : genişliğinde kenarları
+      duyulan: genishliinde kenarlar
+  REPLACE  ...genişliğinde kenarları dimdik hendek
+      metin  : kazıldı asıl tahkimat
+      duyulan: kazulte asultakimat
+  REPLACE  ...kazıldı asıl tahkimat bu
+      metin  : hendekten
+      duyulan: hendek tan dort yuzayak gerde bashliorda boleje icher dan gerjek salderu roma lalaran menziline germedan unje buachiklugech mek zorundakalajakte arkasan da ombeishar
+  REPLACE  ...tahkimat bu hendekten ayak
+      metin  : geride başlıyordu böylece içeriden gelecek saldırı romalıların menziline girmeden önce bu açıklığı geçmek zorunda kalacaktı arkasında er
+      duyulan: genishliinde ve derin neeinde ike hendek taha warda sezhar ovaaya bakan alchak ke simde ichtekini deredan chevri lansu iladol durtu anlaran arkasan da
+  REPLACE  ...kalacaktı arkasında er ayak
+      metin  : genişliğinde ve derinliğinde hendek daha vardı sezar ovaya bakan alçak kesimde içtekini dereden çevrilen suyla doldurttu onların arkasında ayak yüksekliğinde toprak sur yükseliyordu
+      duyulan: yuxekliinde topraksur yuxeliorda
+  REPLACE  ...toprak sur yükseliyordu surun
+      metin  : üstünde kazık çit mazgallı göğüs
+      duyulan: ustunde kazukchit masgal de geyus
+  REPLACE  ...çit mazgallı göğüs siperi
+      metin  : siperden dışarı doğru
+      duyulan: siperdan dusharudoru
+  REPLACE  ...dışarı doğru uzanan sivri
+      metin  : dal çatalları ve her ayakta ahşap
+      duyulan: dalchataleer veher ayak tabir akhshap
+  ... ve 184 fark daha
+
+metinde olup DUYULMAYAN: 2962 kelime | duyulup metinde OLMAYAN: 2919
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-11-02.duyulan.txt

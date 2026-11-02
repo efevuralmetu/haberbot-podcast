@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-02.mp3
+
+beklenen 3298 kelime | duyulan 3325 kelime | eşleşme %96.4
+sayı ifadesi: metinde 395, duyulanda 300  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...eylül
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...irmağı nın kıvrımlarına yaslanmış
+      metin  : montinyak
+      duyulan: montignac
+  REPLACE  ...bol kasabanın yukarısındaki tepede
+      metin  : lasko
+      duyulan: lascaux
+  REPLACE  ...tepede lasko adlı eski
+      metin  : malikanenin
+      duyulan: malikhanenin
+  REPLACE  ...çukur bırakmış köylüler bu
+      metin  : deliği
+      duyulan: deliyi
+  REPLACE  ...da eski söylenti dolaşıyor
+      metin  : malikaneden
+      duyulan: malikhaneden
+  REPLACE  ...söylentinin peşine düşen yaşındaki
+      metin  : marsel
+      duyulan: marcel
+  INSERT   ...ama sonrası iyi belgelenmiştir
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...sonrası iyi belgelenmiştir eylül
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...daha alarak tepeye çıkıyor
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...alarak tepeye çıkıyor yaşındaki
+      metin  : jak
+      duyulan: jack
+  INSERT   ...jak marsal kasabanın çocuğu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...marsal kasabanın çocuğu yaşındaki
+      metin  : jorj anyel
+      duyulan: george anial
+  INSERT   ...anyel tatil için gelmiş
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...için gelmiş yaşındaki simon
+      metin  : koenkas
+      duyulan: coencas
+  REPLACE  ...paris li yahudi çocuk
+      metin  : dördü
+      duyulan: don ü
+  REPLACE  ...sonunda doğru kişiye gidiyorlar
+      metin  : montinyak
+      duyulan: montignac
+  REPLACE  ...tanınmış tarihöncesi uzmanı rahip
+      metin  : anri bröy e
+      duyulan: andré breu ya
+  REPLACE  ...anri bröy e ulaşıyor
+      metin  : bröy
+      duyulan: breu
+  REPLACE  ...dün sürülmüş gibi canlı
+      metin  : bröy in lasko
+      duyulan: breu yun lascau
+  REPLACE  ...kalmıştı duvarların yüzeyini ince
+      metin  : saydam
+      duyulan: saydan
+  REPLACE  ...şey tam olarak neydi
+      metin  : lasko
+      duyulan: lascaux
+  REPLACE  ...yuvalar büyük olasılıkla ahşap
+      metin  : kirişleri
+      duyulan: girişleri
+  REPLACE  ...işaretler duruyor bu işaretler
+      metin  : lasko nun
+      duyulan: lascaux un
+  REPLACE  ...en çok avladığı hayvan
+      metin  : ren geyiğiydi lasko
+      duyulan: rengeydi lascaux
+  REPLACE  ...geyiğiydi lasko da ize
+      metin  : ren geyiği
+      duyulan: rengeyi
+  REPLACE  ...ve ne zaman yaşadılar
+      metin  : bröy
+      duyulan: büroy
+  REPLACE  ...kendi dönemini de yansıtıyor
+      metin  : bröy in
+      duyulan: büroin
+  REPLACE  ...açıklamayı zayıflattı sonraki kuşaktan
+      metin  : ander lörua
+      duyulan: andrei loroa
+  REPLACE  ...odanın zemininde kayaya açılmış
+      metin  : yarık aşağı
+      duyulan: yarı kaşağa
+  REPLACE  ...bu sahne sade neredeyze
+      metin  : aceleyle
+      duyulan: acele ile
+  REPLACE  ...gövde parmaklı eller kollar
+      metin  : yanlara
+      duyulan: yanları
+  REPLACE  ...gergedanın arkasında nokta sıralanmış
+      metin  : lasko
+      duyulan: lasco
+  INSERT   ...buluntularıyla da dikkat çekiyor
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...mağarada çalışan rahip ander
+      metin  : glori
+      duyulan: glory
+  REPLACE  ...mızrak uçları da bulundu
+      metin  : glori
+      duyulan: glory den
+  REPLACE  ...gibi iç içe geçiyordu
+      metin  : glori
+      duyulan: glory
+  REPLACE  ...nin titiz çalışması olmasa
+      metin  : lasko
+      duyulan: lasco
+  REPLACE  ...kapıda başlayacaktı savaş bittiğinde
+      metin  : lasko nun
+      duyulan: lascaux un
+  REPLACE  ...dışarıya bu kadar açılmıştı
+      metin  : lasko
+      duyulan: lascaux
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: arkeoloji-2026-11-02.duyulan.txt

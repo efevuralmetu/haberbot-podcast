@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-02.mp3
+
+beklenen 2680 kelime | duyulan 2682 kelime | eşleşme %95.4
+sayı ifadesi: metinde 296, duyulanda 223  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...aktardığına göer gemi sayısı
+      metin  : (yok)
+      duyulan: dir
+  REPLACE  ...durumda güçlü yapabildiğini yapar
+      metin  : zayıf da
+      duyulan: zayıfta
+  REPLACE  ...yok olur binlerce atinalı
+      metin  : siraküza
+      duyulan: siracusa
+  REPLACE  ...bu tesadüf değildir hobbes
+      metin  : a
+      duyulan: e
+  REPLACE  ...ilişki doğa durumuna benzer
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...gücüne dayanır romalı hatip
+      metin  : çiçero
+      duyulan: çiçekero
+  REPLACE  ...deki hippo kentinde yaşlı
+      metin  : piskopos
+      duyulan: psikopos
+  REPLACE  ...bu soruyla boğuşur adı
+      metin  : augustinus tur
+      duyulan: agustinustur te
+  INSERT   ...adı augustinus tur doğmuş
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...vandallar kentini kuşatmışken ölmüştür
+      metin  : augustinus
+      duyulan: agustinus
+  INSERT   ...dağıldığı kentlerin yağmalandığı dünyadır
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...büyük eserine yöneltir de
+      metin  : kivitate
+      duyulan: quivitate
+  REPLACE  ...dei yani tanrı devleti
+      metin  : augustinus
+      duyulan: agustinus
+  REPLACE  ...acımasızlık hükmetme tutkusudur yani
+      metin  : augustinus
+      duyulan: agustinus
+  REPLACE  ...çağ boyunca olgunlaşır yüzyılda
+      metin  : tomas akuinas
+      duyulan: thomas aquinas
+  REPLACE  ...özel kişilerde ya da
+      metin  : derebeyinin
+      duyulan: derebeğinin
+  REPLACE  ...evine hırsız girdiğini düşünün
+      metin  : ev
+      duyulan: eve
+  REPLACE  ...üniversitesi nde ilahiyat hocası
+      metin  : fransisko
+      duyulan: fransisco
+  REPLACE  ...ilahiyat hocası fransisko de
+      metin  : vitorya
+      duyulan: vitoria
+  INSERT   ...yerli halkların hristiyan olmaması
+      metin  : (yok)
+      duyulan: donlara
+  REPLACE  ...için haklı sebep midir
+      metin  : vitorya
+      duyulan: vitoria
+  REPLACE  ...şanı haklı sebep sayılamaz
+      metin  : vitorya
+      duyulan: vitoria
+  REPLACE  ...hapse mahkum edilir ve
+      metin  : luvestayn kalesi ne
+      duyulan: luvesteyn kalesine
+  INSERT   ...luvestayn kalesi ne kapatılır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...e sığınır paris te
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yayımladığı eserin adı de
+      metin  : yuer
+      duyulan: juer
+  INSERT   ...savaş haklı mı sorusudur
+      metin  : (yok)
+      duyulan: i kincisi
+  REPLACE  ...doğdu ama aynı sorulara
+      metin  : augustinus
+      duyulan: agustinus
+  REPLACE  ...çok daha ayrıntılı biçimde
+      metin  : yılında hz muhammed in
+      duyulan: muhammedin
+  REPLACE  ...rivayetleri vardır i mam
+      metin  : maliğin hadis derlemesi muvatta da
+      duyulan: malik in hadislerlemesi muvattada
+  REPLACE  ...biçimiyle yer alır i
+      metin  : çeriği
+      duyulan: çeriyi
+  REPLACE  ...manastırlara çekilmiş insanlar göreceksiniz
+      metin  : kendilerini
+      duyulan: kendilerine
+  REPLACE  ...hukuk çevresinde yetişir harun
+      metin  : reşid
+      duyulan: reşit
+  REPLACE  ...en kapsamlı eseri es
+      metin  : siyerü l kebir
+      duyulan: siyer ülke
+  INSERT   ...siyerini i ngilizceye çevirdi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...talimatından farklı düşünmesidir haşr
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...sesli değildir i nsani
+      metin  : kaygı ile
+      duyulan: kaygıyla
+  REPLACE  ...yüzyılda bugünkü türkmenistan daki
+      metin  : serahs tan
+      duyulan: serahtan
+  REPLACE  ...tan yetişen büyük hukukçu
+      metin  : serahsi
+      duyulan: serahti
+  REPLACE  ...büyük hukukçu serahsi büyük
+      metin  : siyer e
+      duyulan: siyeer
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: felsefe-2026-11-02.duyulan.txt

@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-02.mp3
+
+beklenen 1625 kelime | duyulan 1608 kelime | eşleşme %97.2
+sayı ifadesi: metinde 142, duyulanda 134  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...de ürünü sattıktan sonra
+      metin  : puanlar
+      duyulan: poanlar
+  REPLACE  ...imza kağıdını gündür çantada
+      metin  : unuttuğunuzu
+      duyulan: tuttuğunuzu
+  REPLACE  ...koydu harvard dan ekonomist
+      metin  : sendil
+      duyulan: sandil
+  INSERT   ...dan psikolog eldar şafir
+      metin  : (yok)
+      duyulan: ki
+  DELETE   ...arkadaşlık hangisinin kıtlığını çekersek
+      metin  : çekelim
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...minnesota üniversitesi nde fizyolog
+      metin  : ancel keys
+      duyulan: angel keyes
+  REPLACE  ...aç kalmış halkları nasıl
+      metin  : besleyeceğini
+      duyulan: yapacağını
+  REPLACE  ...koydu film izlerken bile
+      metin  : aklında
+      duyulan: tünelin dışında
+  REPLACE  ...tünelin içindeki şey olağanüstü
+      metin  : netleşiyor
+      duyulan: yaşıyor
+  REPLACE  ...tünelin dışında kalan her
+      metin  : şey ize
+      duyulan: şeyze
+  REPLACE  ...gerek teslim tarihi yaklaştığında
+      metin  : birçoğumuz
+      duyulan: çoğumuz
+  REPLACE  ...bunu oyun masasında gösterdi
+      metin  : anuc şah
+      duyulan: anukşah
+  DELETE   ...çözdüler bunların içinde soyut
+      metin  : akıl yürütmeyi ölçen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etmeye araştırmacılar bu düşüşün
+      metin  : büyüklüğünü
+      duyulan: mutlulukluğunu
+  REPLACE  ...hasattan sonra ize nispeten
+      metin  : rahatlıyorlar
+      duyulan: alıyorlar
+  REPLACE  ...olmak gerekiyor çünkü bu
+      metin  : bulgular
+      duyulan: uygular
+  REPLACE  ...mulaynatan ile şafir buna
+      metin  : bant
+      duyulan: band
+  REPLACE  ...dikkat öz denetim ve
+      metin  : ileriyi
+      duyulan: ileri
+  REPLACE  ...kimde ve hangi koşulda
+      metin  : ortaya çıktığı
+      duyulan: çıkıyor
+  REPLACE  ...amerika nın missouri eyaletindeki
+      metin  : st john s
+      duyulan: san jones
+  REPLACE  ...tutasınız ama sonuç şaşırtıcıydı
+      metin  : aciller
+      duyulan: aciler
+  REPLACE  ...masrafta ya da geciken
+      metin  : otobüste
+      duyulan: üste
+  DELETE   ...beklenmedik olanın planın tamamını
+      metin  : yıkmasını
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...araç otomatik olanı kullanmak
+      metin  : bant
+      duyulan: band
+  REPLACE  ...olanı kullanmak bant genişliği
+      metin  : kıtsa
+      duyulan: yıkıtsa
+  REPLACE  ...edildiği şirketlerde kendi başvurmalarının
+      metin  : beklendiği
+      duyulan: öndeyi
+  DELETE   ...kurmak ya da hep
+      metin  : aynı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yardımına gönderiyorsunuz araç ize
+      metin  : nefes payı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ve kaçırılınca her şeyin
+      metin  : kaybedildiği
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kısmını başka yangını söndürmeye
+      metin  : harcıyordu
+      duyulan: gidiyordu
+  REPLACE  ...davranıyorsa bunun karakterden çok
+      metin  : tünel yatıyor
+      duyulan: yatağın yanıyor
+  REPLACE  ...tampon ve otomatik ödeme
+      metin  : talimatı
+      duyulan: otomatı
+  REPLACE  ...işlevleri bozan umutsuzluk duygusunu
+      metin  : kalıcılaştıran
+      duyulan: kalıcılastıran
+  DELETE   ...boşluk açabiliriz o boşluk
+      metin  : ilk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zaman tam da odur
+      metin  : nöron psikoloji de
+      duyulan: neuron psikolojide
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 33
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-11-02.duyulan.txt

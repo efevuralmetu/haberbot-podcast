@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-01.mp3
+
+beklenen 1405 kelime | duyulan 1398 kelime | eşleşme %94.8
+sayı ifadesi: metinde 259, duyulanda 141  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...harekata hazırlanmaları için körfez
+      metin  : ülkelerini
+      duyulan: ülkelerine
+  REPLACE  ...sert yükselişle kapattı i
+      metin  : ddiayı
+      duyulan: ddiaayı
+  REPLACE  ...veriyor abd dışişleri bakanı
+      metin  : marko
+      duyulan: marco
+  REPLACE  ...ran ın dini lideri
+      metin  : müçteba hamaney
+      duyulan: müştebahamani
+  REPLACE  ...ize hala açık katarlı
+      metin  : arabulucular
+      duyulan: arapulucular
+  REPLACE  ...kadar en az deniz
+      metin  : ticaretiyle
+      duyulan: ticareti ile
+  REPLACE  ...gemiyi rotasından çevirdiğini açıkladı
+      metin  : abd
+      duyulan: ebd
+  REPLACE  ...yarış çok daha çekişmeli
+      metin  : teksas
+      duyulan: texas
+  DELETE   ...abd nin atlanta kentindeki
+      metin  : gyirmi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...husiler arasındaki çatışmalar sürüyor
+      metin  : gazze de
+      duyulan: gazetede
+  REPLACE  ...endeksi düşüşle puana geriledi
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...intel hisseleri tek günde
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...intelligence özelliklerinde alibaba nın
+      metin  : qwen
+      duyulan: kuven
+  REPLACE  ...kullanıma ize aralık ayında
+      metin  : ay o es nokta
+      duyulan: ios
+  REPLACE  ...isteklerini model eğitiminde kullanmayacağını
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...robotlarının seçmen sorularına yapay
+      metin  : zekayla
+      duyulan: zeka ile
+  REPLACE  ...hafta kayıplar öne çıktı
+      metin  : bist
+      duyulan: beast e
+  REPLACE  ...kararının ardından baskı kaldı
+      metin  : gram
+      duyulan: kadram
+  INSERT   ...ve haftalık kaybı yaklaşık
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...aralığında sabit bıraktı karar
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...oyla alındı ve üye
+      metin  : baz
+      duyulan: bas
+  REPLACE  ...özgür özel ve milletvekili
+      metin  : chp den
+      duyulan: çiğebeten
+  REPLACE  ...butlan kararına karşı yapılan
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...tbmm başkanlığı sandalye sayısı
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...ekim de politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...de tüi k saat
+      metin  : ekim ayı
+      duyulan: da ekimayı
+  REPLACE  ...apple ın çin deki
+      metin  : qwen
+      duyulan: qn
+  INSERT   ...yı ağırlayacak formula de
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ağırlayacak formula de meksika
+      metin  : gran pri si
+      duyulan: grand prix i
+  REPLACE  ...bekleniyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: gundem-2026-11-01.duyulan.txt

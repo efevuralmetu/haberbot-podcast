@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-02.mp3
+
+beklenen 2094 kelime | duyulan 2085 kelime | eşleşme %96.3
+sayı ifadesi: metinde 216, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hükümdara nasıl yönetmesi gerektiğini
+      metin  : beyitle
+      duyulan: beytle
+  REPLACE  ...anlatıyordu bugün o şehrin
+      metin  : kerpiç
+      duyulan: kerpit
+  REPLACE  ...dünya arasındaki son büyük
+      metin  : durağa
+      duyulan: durağı
+  REPLACE  ...in yüksek yaylaları güneyinde
+      metin  : karakurum
+      duyulan: karakorum
+  REPLACE  ...toplayıp dönen çinli rahip
+      metin  : şüanzang
+      duyulan: xuanzang
+  REPLACE  ...göer hanedanın önderlerinden satuk
+      metin  : buğra han
+      duyulan: burahan
+  REPLACE  ...kuru kayısı üzüm ceviz
+      metin  : badem
+      duyulan: vadem
+  REPLACE  ...bu kalabalığın kalbinde i
+      metin  : d kah
+      duyulan: tkah
+  REPLACE  ...insanlar sema denen toplu
+      metin  : dansla
+      duyulan: danslı
+  REPLACE  ...dansla halka olurdu i
+      metin  : d kah ın
+      duyulan: dikahın
+  REPLACE  ...okuyan medrese hocası pazardaki
+      metin  : soğd
+      duyulan: sold
+  REPLACE  ...arasında karahanlı hükümdarı tabgaç
+      metin  : buğra han
+      duyulan: burahan
+  REPLACE  ...diye hatırlar eserin adı
+      metin  : kutadgu bilig
+      duyulan: kutadgubilik
+  REPLACE  ...gibi kurulmuş hükümdar kün
+      metin  : togdı
+      duyulan: togdu
+  REPLACE  ...adaleti temsil eder veziri
+      metin  : ay toldı
+      duyulan: ayt oldu
+  REPLACE  ...şansı simgeler vezirin oğlu
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...çekip dağda yaşayan derviş
+      metin  : odgurmuş
+      duyulan: otgurmuş
+  REPLACE  ...nde bulunmuş olan namangan
+      metin  : nüshasıdır
+      duyulan: nüşası dır
+  REPLACE  ...çinili kubbesi ve sessiz
+      metin  : bahçesiyle
+      duyulan: bahçesi ile
+  REPLACE  ...hüseyin olduğu ailesinin kökeninin
+      metin  : isık
+      duyulan: i syık
+  REPLACE  ...i slam dünyasının başkenti
+      metin  : bağdada
+      duyulan: bağdat a
+  DELETE   ...gereklilik olduğundan söz eder
+      metin  : ile
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...taşır bağdat ta halife
+      metin  : muktedi biemrillah
+      duyulan: mukted i biyemrillah
+  REPLACE  ...türbesi kaşgar ın yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...hala oradan su içer
+      metin  : bağdadın
+      duyulan: bağdat ın
+  REPLACE  ...birbirini tamamlayan ayna gibidir
+      metin  : kutadgu bilig
+      duyulan: kutadgubilik
+  REPLACE  ...güneşte kurutulmuş kerpiçten kavak
+      metin  : kirişlerinden
+      duyulan: girişlerinden
+  INSERT   ...çoğu zaman duvara dayanır
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...görmek mümkün değil i
+      metin  : d kah
+      duyulan: tkah
+  REPLACE  ...bu ekmek kervan yolcularının
+      metin  : azığıydı
+      duyulan: azıydı
+  REPLACE  ...çeker gibi incelttiğini görebilirsiniz
+      metin  : lağman
+      duyulan: daman
+  REPLACE  ...pazar fiyatlarını konuşurdu köşede
+      metin  : tanbur
+      duyulan: tambur
+  REPLACE  ...köşede tanbur ya da
+      metin  : dutar
+      duyulan: tutar
+  DELETE   ...büyük süit biçimiyle uygur
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kelimesini de paylaşmış olur
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-11-02.duyulan.txt

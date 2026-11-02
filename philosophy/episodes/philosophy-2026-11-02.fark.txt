@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-02.mp3
+
+beklenen 2718 kelime | duyulan 2410 kelime | eşleşme %13.8
+sayı ifadesi: metinde 237, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...history trying to refute
+      metin  : milattan önce yazında ege nin güneyinde bugün adını verdiğimiz küçük adanın kıyısına
+      duyulan: blya saibis koi maduk bizden unja devarda bizden sonradolajak melos tesla maw maz kushatma kishpoyunja surat sonun da kentinichinden ihaanet cikarve melos tushar tukidaid sonu kutek kurujumnei leyazar atinalular askar likchanda kibutunair kekleri uldurush kadunarive chodukleri kule olaraksatar adai candilerindan beyshuziaar lishimjigyondirilar kikayenin de devamuardar ve tukididez bilaer kemen arkayakoyar sonraki yalayna
+  REPLACE  ...küçük adanın kıyısına atina
+      metin  : donanması demir atar thukydides in aktardığına göer gemi sayısı dir gemilerden binlerce ağır piyade okçu ve atlı okçu iner adanın halkı melosludur köken olarak spartalıdırlar ama atina ile sparta arasında yıllardır süren büyük savaşta tarafsız kalmaya çalışmışlardır atina onlardan tek şey ister teslim olmaları atina nın müttefiki olmaları ve vergi ödemeleri atinalı elçiler halkın önünde konuşmak istemez melos un yöneticileri kapalı odada küçük meclisin karşısında dinler thukydides peloponnesos savaşı nı anlattığı eserinde bu görüşmeyi tiyatro sahnesi gibi karşılıklı konuşmalar halinde yazar tarihçiler bu konuşmaların kelimesi kelimesine böyle geçtiğini düşünmez thukydides olayın özünü kendi kalemiyle yeniden kurmuştur yine de sahne yıldır siyaset felsefesinin en çok tartışılan metinlerinden çünkü içinde bugün hala sorduğumuz soru vardır güç konuştuğunda adaletin söyleyecek sözü kalır mı atinalılar daha en başta oyunun kuralını koyar haklı mıyız haksız mıyız bunu tartışmayalım derler size bizim haklı olduğumuzu anlatan güzel nutuklar atmayacağız siz de bize hiçbir zarar vermediğinizi söyleyip vakit kaybetmeyin adalet ancak güçleri eşit olanlar arasında konuşulur öteki durumda güçlü yapabildiğini yapar zayıf da katlanmak zorunda olduğuna katlanır bu cümle o kadar çıplaktır ki ilk duyduğumuzda insanı ürpertir ama dikkat edin atinalılar melosluları kötü ya da suçlu ilan etmez cezalandırdıklarını da söylemez mesele ahlak değil hesap meselesidir tarafsız ada adalar arasında atina nın zayıflığının işareti sayılır bağımsız bırakmak öteki müttefikleer kötü örnek olur melosluların cevabı da dikkat çekicidir çünkü da ahlak üzerinden değil çıkar üzerinden konuşmaya çalışır adaleti bütünüyle kenara atarsanız derler gün siz de düştüğünüzde kimse size merhamet göstermez bu ilke en çok sizin işinize yarar tanrıların haklıdan yana olacağını sparta nın soydaşlarını yalnız bırakmayacağını umduklarını söylerler atinalılar bu umudu da soğukkanlılıkla geri çevirir umut derler kaybedecek çok şeyi olanlar için pahalı tesellidir tanrıların ve insanların doğası gereği güçlü olan her yerde hükmeder bu yasayı biz koymadık bizden önce de vardı bizden sonra da olacak melos teslim olmaz kuşatma kış boyunca sürer sonunda kentin içinden ihanet çıkar ve melos düşer thukydides sonucu tek kuru cümleyle yazar atinalılar askerlik çağındaki bütün erkekleri öldürür kadınları ve çocukları köle olarak satar adaya kendilerinden yerleşimci gönderirler hikayenin de devamı vardır ve thukydides bilerek hemen arkaya koyar sonraki yıl aynı atina ölçüsüz özgüvenle sicilya ya büyük sefer düzenler
+      duyulan: ulchusuz usguvanne sijiliyaya buyuk seferduzannar
+  REPLACE  ...sefer düzenler bu sefer
+      metin  : yılında felaketle biter donanma yok olur binlerce atinalı siraküza nın taş ocaklarında esir düşer thukydides hiçbir yerde işte cezası demez ama okuru
+      duyulan: yalinda felaket libiter donan mayokolur narje atina lisirakusanan tashorjakleranda esirdushar fukidaids hichbir yarde istejesasa demazama okurubusonu jakandisigaturush gudjun hichbir sonar tanama de yarde ki de sonar tanamas melos di alo sonra ki yuzielar da siasee garchik chilin kurjumet nisayil mishtir onyaydinchi yuzielda tamas habs tukididezi ingilizje ikcheveran nardan oldur
+  REPLACE  ...demez ama okuru bu
+      metin  : sonuca kendisi götürür gücün hiçbir sınır tanımadığı yerde kibir de sınır tanımaz melos diyaloğu sonraki yüzyıllarda siyasi gerçekçiliğin kurucu metni sayılmıştır yüzyılda thomas hobbes thukydides i i ngilizceye ilk çevirenlerden olur bu tesadüf değildir hobbes a göer devletler arasındaki ilişki doğa durumuna
+      duyulan: tasaraduf deildur habve zaguer devletlerarasandaki ilishki doadurumuna
+  REPLACE  ...ilişki doğa durumuna benzer
+      metin  : üstte
+      duyulan: istebir
+  REPLACE  ...benzer üstte hakem yoksa
+      metin  : herkes kendi gücüne dayanır romalı hatip cicero
+      duyulan: harkes kendigujunedayanir romal haatip jeseroda savunma konushmasan
+  REPLACE  ...romalı hatip cicero da
+      metin  : savunma konuşmasında aynı sezgiyi kısa cümleye sığdırmıştı
+      duyulan: aina sezgiye kasabir jumnayasir durmishtir
+  REPLACE  ...kısa cümleye sığdırmıştı silahlar
+      metin  : konuşurken
+      duyulan: konushurkan
+  REPLACE  ...silahlar konuşurken yasalar susar
+      metin  : bugünün gerçekçi düşünürleri de
+      duyulan: bugunun garchik chidushunurleride
+  REPLACE  ...gerçekçi düşünürleri de benzer
+      metin  : şey söyler savaşa
+      duyulan: bishai soylar savasha
+  REPLACE  ...şey söyler savaşa ahlak
+      metin  : ölçüsü getirmek ya safdilliktir ya da ikiyüzlülük herkes
+      duyulan: ulchusugetir mek yasafti liktir yada ikkyuzluruk hurks
+  REPLACE  ...da ikiyüzlülük herkes kendini
+      metin  : haklı ilan eder kazanan ize
+      duyulan: hakla ilana dar kazanani se
+  REPLACE  ...kazanan ize tarihi yazar
+      metin  : bu görüş kolayca geçiştirilecek görüş değildir çünkü içinde acı dürüstlük vardır
+      duyulan: bugurush kolayja gechishtirilajek gurushtiildur shunku ichinde ajibir durushtuk wardar ayma insanak busonu jahichbir zaman tamaman razo ulmamishtir melo seiten sonra gelan yuzielar da bashkabu sorubelir meyabashtade savasha tamaman un nae meosak enazan dan naein savashtayla bilijayni ve savashta naein yapulami jana surliye bilirmeis melo seiten yaklishiksekiz yuziel sonra kuzay afrikada bugun ku jesayir dekhi hipo kentinde yashlibir piskopos busorilaboshur ada agastin ustur uchuzeli dorte domush dorte uzotus davan dalar kentin kushatmushkan ulmushtur agastin ustavasisei meyan adamdur
+  REPLACE  ...acı dürüstlük vardır ama
+      metin  : insanlık bu sonuca hiçbir zaman tamamen razı olmamıştır melos tan sonra gelen yüzyıllarda başka soru belirmeye başladı savaşı tamamen önleyemiyorsak en azından neyin savaş sayılabileceğini ve savaşta neyin yapılamayacağını söyleyebilir miyiz melos tan yaklaşık yıl sonra kuzey afrika
+      duyulan: ichinde yashadu dunya romanan sonar liranan daal du kent liran yamalan du dunyaadur deng
+  REPLACE  ...sonra kuzey afrika da
+      metin  : bugünkü cezayir deki hippo kentinde yaşlı piskopos bu soruyla boğuşur adı augustinus tur te doğmuş da vandallar kentini kuşatmışken ölmüştür augustinus savaşı sevmeyen adamdır ama içinde yaşadığı dünya roma nın sınırlarının dağıldığı kentlerin yağmalandığı dünyadır da roma nın vizigotlarca yağmalanması en büyük eserine yöneltir
+      duyulan: romanan visigotlarja yamalan masu enbu yukessir nae yonaltir
+  REPLACE  ...büyük eserine yöneltir de
+      metin  : civitate
+      duyulan: jivitei
+  REPLACE  ...de civitate dei yani
+      metin  : tanrı devleti augustinus un
+      duyulan: tanru devreti agastin ustan
+  REPLACE  ...devleti augustinus un ortaya
+      metin  : koyduğu şey ilk bakışta paradoks gibi görünen düşüncedir barış için savaşılır romalı komutana yazdığı mektupta aşağı yukarı şunu söyler barış savaşmak için istenmez savaş barışa ulaşmak için yapılır
+      duyulan: koi dushay ik bakishta paradoxki bi gurunan dushunjedur barishichin savashilir bi roma lukomutanayaz du mek tupta asha yukershunu soylar barish savashmakichin istanmaz savash barisha ulashmakichin yapilir
+  REPLACE  ...için yapılır o halde
+      metin  : savaşırken
+      duyulan: savashur ken
+  REPLACE  ...o halde savaşırken bile
+      metin  : barışı gözeten ol göer savaşın asıl kötülüğü ölümün
+      duyulan: barisige zetan guer savashin asl kyutulu ulumun
+  REPLACE  ...asıl kötülüğü ölümün kendisi
+      metin  : değildir çünkü insanlar zaten gün ölecektir asıl kötülük zarar
+      duyulan: deildir chunki insan narzat en guno lijektir asl kyutulu xarar
+  REPLACE  ...kötülük zarar verme arzusu
+      metin  : intikam hırsı acımasızlık hükmetme tutkusudur
+      duyulan: inti kamhursu ajumasizluk hukmet metutku sudur
+  REPLACE  ...acımasızlık hükmetme tutkusudur yani
+      metin  : augustinus
+      duyulan: agastinas
+  REPLACE  ...tutkusudur yani augustinus ahlaki
+      metin  : ağırlığı kılıcın kendisinden alır kılıcı tutan elin niyetine taşır
+      duyulan: arlu kulijan kendisindan alar kulijatutan ilin nietanetashir
+  REPLACE  ...taşır bu sezgi orta
+      metin  : çağ boyunca olgunlaşır yüzyılda
+      duyulan: chabo yunja olgun nashir chunju yuzildat
+  REPLACE  ...olgunlaşır yüzyılda thomas aquinas
+      metin  : düzenli biçime
+      duyulan: du zan nibir bichime
+  REPLACE  ...aquinas düzenli biçime sokar
+      metin  : ve savaşın haklı sayılması için şart sayar meşru otoritedir savaş ilan etme yetkisi özel kişilerde ya da derebeyinin keyfinde değil
+      duyulan: vebir savashin haklu sail masiichin utshar tsayar si meshru otoritetir savash ilanet meyetki se uzalki shilarda yadabir derebeinin kei fin dedil
+  REPLACE  ...derebeyinin keyfinde değil kamu
+      metin  : düzeninden
+      duyulan: du zenindan
+  REPLACE  ...değil kamu düzeninden sorumlu
+      metin  : meşru yöneticidedir
+      duyulan: meshru yunetiji dedir si haklu sebeptir karsha tarafun garchik birhaksizluki apmushol masigirekir yuchunju sudorun
+  REPLACE  ...sorumlu meşru yöneticidedir i
+      metin  : kincisi haklı sebeptir karşı tarafın gerçek haksızlık yapmış olması gerekir doğru niyettir haklı sebeple başlanan savaş
+      duyulan: etir haklu plebaslanan savash
+  REPLACE  ...sebeple başlanan savaş bile
+      metin  : açgözlülük ya da intikamla sürdürülürse
+      duyulan: achkauzluk yada inti kamla surdurulurse
+  REPLACE  ...intikamla sürdürülürse ahlaki temelini
+      metin  : yitirir
+      duyulan: itirir
+  REPLACE  ...ahlaki temelini yitirir bu
+      metin  : şartları günlük
+      duyulan: shartlar gunnuk
+  REPLACE  ...bu şartları günlük hayata
+      metin  : çevirelim mahallede evine hırsız girdiğini düşünün
+      duyulan: chevirelim mahalede evina hursaz girdi nidushunun
+  REPLACE  ...hırsız girdiğini düşünün ev
+      metin  : sahibinin
+      duyulan: sahibinan
+  REPLACE  ...düşünün ev sahibinin kendini
+      metin  : savunması meşrudur ama aynı
+      duyulan: savun masime shrudur eimaa aina
+  REPLACE  ...ama aynı ev sahibi
+      metin  : hırsızın evini bulup yakarsa ailesini cezalandırırsa artık savunmadan söz edemeyiz hırsızlığın gerçek olması intikamı haklı kılmaz haklı savaş geleneğinin özü budur şeyi
+      duyulan: hursuzun evina bulupya karsa aile sini jeza alandirrsa artak savun madanso zemayiz hursuzlun garchik olmasi inti kamahaklakilmas haklu savash kelenen uzubudur shayi
+  REPLACE  ...özü budur şeyi yapmaya
+      metin  : hakkın olması istediğin biçimde
+      duyulan: hakkan olmasi istedin bichim de
+  REPLACE  ...olması istediğin biçimde yapmaya
+      metin  : hakkın olduğu anlamına gelmez yüzyılda bu gelenek
+      duyulan: hakkan oldu anna munag almas altanju yuzuilda bugelenek
+  REPLACE  ...yüzyılda bu gelenek yeni
+      metin  : sınavla karşılaşır i spanya amerika kıtasına yayılmaktadır
+      duyulan: sanavla karsalashir ispania america katasana yayil maktadir
+  ... ve 187 fark daha
+
+metinde olup DUYULMAYAN: 2359 kelime | duyulup metinde OLMAYAN: 2053
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-11-02.duyulan.txt

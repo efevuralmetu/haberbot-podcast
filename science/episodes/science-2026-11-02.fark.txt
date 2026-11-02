@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-02.mp3
+
+beklenen 1786 kelime | duyulan 1735 kelime | eşleşme %15.4
+sayı ifadesi: metinde 139, duyulanda 82  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...out to shape rivers
+      metin  : fincan çay düşünün demliksiz eski usul yapraklar doğrudan bardağa atılmış kaşıkla tur karıştırıyorsunuz sonra kaşığı çekip bekliyorsunuz su dönmeye devam ediyor yavaş yavaş duruluyor dibe bakınca yapraklar oradaydı tam ortada küçük tümsek halinde toplanmışlardı bunu muhtemelen yüzlerce kez görmüşsünüzdür ve büyük ihtimalle üzerinde hiç düşünmemişsinizdir oysa düşününce
+      duyulan: zat an
+  REPLACE  ...düşünmemişsinizdir oysa düşününce bu
+      metin  : görüntünün tuhaflığı var dönen şeyin içindeki ağır parçaların dışarı savrulduğunu hepimiz biliriz çamaşır makinesi sıkma yaparken suyu kenarlara atar laboratuvardaki santrifüj kandaki ağır hücreleri tüpün dibine yani dönme ekseninden en uzak noktaya iter lunaparktaki dönme oyuncağında sizi koltuğun dış kenarına yapıştıran da aynı etkidir
+      duyulan: yuzd an dibet rakar lar ar olan dusharigidar oledirme fin ken
+  REPLACE  ...da aynı etkidir bu
+      metin  : sezgiyle bakınca çay yapraklarının fincanın kenarına duvarın dibine toplanması gerekir çoğu yaprak sudan ağırdır zaten bu dibe çökerler ağır olan dışarı gider öyle değil mi fincan bu sezgiye uymaz yapraklar kenarda değil merkezde
+      duyulan: sez giye oimaz ja pra klar ken ardadil merkizde
+  REPLACE  ...kenarda değil merkezde hem
+      metin  : de neredeyze her
+      duyulan: den erdei seher
+  INSERT   ...neredeyze her seferinde bu
+      metin  : (yok)
+      duyulan: yuzd an
+  REPLACE  ...her seferinde bu bu
+      metin  : görüntüye
+      duyulan: gurun tuye
+  REPLACE  ...bu bu görüntüye fizik
+      metin  : literatüründe çay yaprağı paradoksu
+      duyulan: leteraturunde cha ya pra paradoxu
+  REPLACE  ...çay yaprağı paradoksu denir
+      metin  : aslında gerçek paradoks değildir
+      duyulan: aslam da garchik paradox tiyilder
+  REPLACE  ...paradoks değildir yani fizik
+      metin  : yasalarıyla çelişkisi yoktur çelişki bizim sezgimizle fincanın içinde olan biten arasındadır
+      duyulan: ya salarile cheliski si oktor cheliski bism sez gimizle finjana nichindo olam bitanar asandadar buda finjan cayin gurun dundan chokdaha karmashik birakushbarundar dena gostirir
+  REPLACE  ...olan biten arasındadır bu
+      metin  : da fincan çayın göründüğünden çok daha karmaşık akış barındırdığını gösterir bu meselenin
+      duyulan: me se lennin
+  REPLACE  ...gösterir bu meselenin einstein
+      metin  : ın adıyla anılmasının
+      duyulan: an adila anulmasanan
+  REPLACE  ...ın adıyla anılmasının nedeni
+      metin  : yılına dayanır
+      duyulan: bindokuzuzir malto yilana dayanit
+  REPLACE  ...nedeni yılına dayanır einstein
+      metin  : o sırada yaşındaydı görelilik kuramları yerine oturmuş
+      duyulan: osarada kurtu satyashindaita gurili likkuramnar yirne oturmush
+  REPLACE  ...kuramları yerine oturmuş nobel
+      metin  : ödülünü almış dünyanın en ünlü bilim insanı olmuştu
+      duyulan: udunu almush dunyanan enunu biliminsan oalmushtu
+  REPLACE  ...insanı olmuştu tam o
+      metin  : yıllarda ocak da
+      duyulan: yil larda ojak bindokuzuzir maltada
+  REPLACE  ...yıllarda ocak da prusya
+      metin  : bilimler akademisi nde kısa konuşma yaptı
+      duyulan: bilim nerakademisinde kasabir konushmayaptu
+  REPLACE  ...kısa konuşma yaptı ve
+      metin  : aynı yıl bunu
+      duyulan: aini ilbunu
+  REPLACE  ...yıl bunu alman bilim
+      metin  : dergisi die naturwissenschaften de
+      duyulan: dargisi dinaturvisan shaftende
+  REPLACE  ...die naturwissenschaften de yani
+      metin  : doğa bilimleri dergisinde yayımladı makalenin konusu
+      duyulan: dua bilim nerdargisi nde yayimladu makalan in konusun e usa isamanda nede quantum einstein
+  REPLACE  ...yayımladı makalenin konusu ne
+      metin  : uzay zamandı
+      duyulan: herleran nedan kavrla kavrlaaktuna manderes tenan ojilankavi kavramlarun nerdan caktuna soryordu bu sorya girmedan unja okuruna deneo
+  REPLACE  ...ne uzay zamandı ne
+      metin  : de kuantum einstein nehirlerin neden kıvrıla kıvrıla aktığını menderes denen o yılankavi kıvrımların nereden çıktığını soruyordu bu soruya girmeden önce okuruna deney öneriyordu düz tabanlı fincanı çayla
+      duyulan: ryordu dusta banlabir finjan chayla
+  REPLACE  ...tabanlı fincanı çayla doldurun
+      metin  : içinde yaprak olsun çayı karıştırın
+      duyulan: ichinde birkachi aprakolsun chaya karishtirun
+  REPLACE  ...çayı karıştırın ve ne
+      metin  : olduğuna bakın
+      duyulan: oldunabakan
+  REPLACE  ...ne olduğuna bakın einstein
+      metin  : ın çay fincanını seçmesi süs değildi nehir kıvrımlarında olup biteni kafada canlandırmak zordur suyun içi görünmez ölçeği büyüktür süreç yüzyıllar sürer fincansa elinizin altındadır yaprakları da akışı gösteren küçük işaretler
+      duyulan: en chai finjanan nasech mesibir susteilde neher kavramlarun daoluk bitenika fada janlandar maksoordur suyunichigurun mes olchei buuktur suretuzi alar suresh fin kansa elenizin altanda dar yapraklerda akushugoostaran kuchuk ishaar etlar
+  REPLACE  ...gösteren küçük işaretler gibi
+      metin  : çalışır
+      duyulan: chalushir
+  REPLACE  ...bu basit sahne einstein
+      metin  : için daha büyük
+      duyulan: ichindaha buukbir
+  REPLACE  ...için daha büyük sorunun
+      metin  : anahtarıydı burada noktayı netleştirmek gerekir
+      duyulan: anahtarida bara nokta in etleishtir mekgerekir
+  REPLACE  ...noktayı netleştirmek gerekir einstein
+      metin  : bu olguyu ilk fark eden kişi değildi
+      duyulan: bolgu ilkfarketen kishidilde
+  REPLACE  ...eden kişi değildi konunun
+      metin  : özü
+      duyulan: ouzu
+  REPLACE  ...değildi konunun özü yani
+      metin  : bükülen akışta
+      duyulan: bukulan birakushta
+  REPLACE  ...yani bükülen akışta dipte
+      metin  : ters yönlü dolaşım oluştuğu fikri yüzyılda mühendislerin
+      duyulan: tersuyunu birdolashimolu stufikri ondokuzunju yuzildan muhandisteren
+  REPLACE  ...fikri yüzyılda mühendislerin ve
+      metin  : fizikçilerin gündemindeydi örneğin i ngiliz mühendis
+      duyulan: fisiktuliren gundemindeide erne en ingles muendes
+  REPLACE  ...i ngiliz mühendis james
+      metin  : thomson ünlü fizikçi lord kelvin in ağabeyi da nehir kıvrımlarındaki dip akıntısını anlatmıştı
+      duyulan: thompson unu fisiktulord kelvinen aabei binsekuzu zietmishaltada neher kavramlarun daikidip akantasunanatmishtir
+  REPLACE  ...dip akıntısını anlatmıştı einstein
+      metin  : ın katkısı bu dağınık bilgiyi sayfada fincandan
+      duyulan: en katkasu budanuk bilgiir saifada finjan dan
+  REPLACE  ...bilgiyi sayfada fincandan neher
+      metin  : uzanan
+      duyulan: usanan
+  REPLACE  ...fincandan neher uzanan tek
+      metin  : fiziksel mantıkla toparlamasıydı bu açıklamanın kilit noktası da fincanın
+      duyulan: fisiksel mantik la topar la masiide boachaklamanan kelit noktasudafinjanan
+  REPLACE  ...noktası da fincanın dibinde
+      metin  : kimsenin bakmadığı yerdedir kaşığı çektiğiniz anı daha yakından izleyelim çay bütün olarak dönüyor dönen her su parçası düz çizgide gitmek ister dairesel
+      duyulan: kimseinan bakmadu yarededir kashu chektinizane birazdaha ya kandanizliyilim chei butun olerakdun yer donen hirsu parchasi duz gidegit mekistair daier sal
+  REPLACE  ...ister dairesel yolda tutan
+      metin  : şeyin olması gerekir bu iş basınca düşer fincanın dış kenarındaki su iç kısımdaki suya göer daha yüksek basınç altındadır
+      duyulan: bishayin olmasigerekir buishbasan jadushir finkan anandushkeneran dakisu ichkasam dakisu yagaer birazdaha yukssek basanj altandadar
+  REPLACE  ...basınç altındadır ve bu
+      metin  : basınç farkı her su parçasını içeri doğru
+      duyulan: basanj farka harsu parchasan icheer doro
+  REPLACE  ...parçasını içeri doğru merkeze
+      metin  : doğru iter dönme
+      duyulan: doro itar dume
+  ... ve 132 fark daha
+
+metinde olup DUYULMAYAN: 1512 kelime | duyulup metinde OLMAYAN: 1463
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-11-02.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-02.mp3
+
+beklenen 3284 kelime | duyulan 3315 kelime | eşleşme %93.1
+sayı ifadesi: metinde 305, duyulanda 254  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geri çekiliyordu gaius julius
+      metin  : sezar arvernlerin
+      duyulan: caesar arverner in
+  REPLACE  ...için bu acı rakamdı
+      metin  : sezar
+      duyulan: caesar
+  REPLACE  ...şahısla söz ettiği eserinde
+      metin  : kommentarii
+      duyulan: commentarii
+  REPLACE  ...eserinde kommentarii de bello
+      metin  : galliko
+      duyulan: gallico
+  REPLACE  ...galya savaşları nda yazdı
+      metin  : alesia
+      duyulan: alesya
+  REPLACE  ...adam genç arvern soylusuydu
+      metin  : versenjetoriks babası keltillus
+      duyulan: vercen cetorix tabası celtillus
+  REPLACE  ...aldı ve taraftarları kral
+      metin  : unvanını
+      duyulan: ünvanını
+  REPLACE  ...yolladı kısa sürede senonlar
+      metin  : parisiiler
+      duyulan: parisiler
+  REPLACE  ...sürede senonlar parisiiler pictonlar
+      metin  : cadurcilar
+      duyulan: cadurcular
+  REPLACE  ...bütün kavimler etrafında toplandı
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...a göer günde fazla
+      metin  : bituriges
+      duyulan: bitturiges
+  REPLACE  ...fazla bituriges kasabası yandı
+      metin  : bituriges
+      duyulan: bitturiges
+  REPLACE  ...en güzel şehirlerinden saydıkları
+      metin  : avarikum
+      duyulan: avaricum
+  REPLACE  ...un bağışlanması için yalvardı
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...ve haklı çıktı sezar
+      metin  : avarikum
+      duyulan: avaricum
+  REPLACE  ...kurtulabildi ama bu felaket
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...aeduilerin büyük kale şehri
+      metin  : bibrakte
+      duyulan: bibracte
+  REPLACE  ...oy birliğiyle reddedildiler meclis
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...tek adamın sözüne bağlanmıştı
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...ötesindeki germen kabilelerinden süvari
+      metin  : getirtti
+      duyulan: getirdi
+  REPLACE  ...sekuanların topraklarına doğru yürürken
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...soylularından bazıları esir düştü
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...toplayıp kuzeye çekildi hedefi
+      metin  : mandubii
+      duyulan: mandubi
+  REPLACE  ...kabilesinin tepe üstündeki kalesiydi
+      metin  : alesia alesia
+      duyulan: alessia alessia
+  REPLACE  ...fransa nın burgonya bölgesinde
+      metin  : aliz sent
+      duyulan: alice saint
+  REPLACE  ...ren köyünün yani azize
+      metin  : reine köyü nün
+      duyulan: reyne köyünün
+  REPLACE  ...düz platonun üzerinde kuruluydu
+      metin  : sezar
+      duyulan: cezar
+  INSERT   ...tepenin yanından deer akıyordu
+      metin  : (yok)
+      duyulan: ön
+  REPLACE  ...aynı yükseklikte başka tepeler
+      metin  : alesia
+      duyulan: alessia
+  REPLACE  ...yı halka gibi çevreliyordu
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...duvarla korunan kamp kurmuştu
+      metin  : sezar
+      duyulan: cezar
+  REPLACE  ...kurmuştu sezar a göer
+      metin  : içerde
+      duyulan: içeride
+  REPLACE  ...göer içerde piyade vardı
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...gelene kadar tepede dayanmak
+      metin  : sezar
+      duyulan: cezar
+  REPLACE  ...tamamen kapatmaya karar verdi
+      metin  : önce
+      duyulan: enco
+  REPLACE  ...önce iç halka çizildi
+      metin  : sezar
+      duyulan: cezar
+  REPLACE  ...ezdiler bu çatışmanın ardından
+      metin  : versenjetoriks
+      duyulan: vercen cetorix
+  REPLACE  ...ve silah taşıyabilecek herkesi
+      metin  : alesia
+      duyulan: alesya
+  REPLACE  ...sızıp gitti bu kararla
+      metin  : alesia
+      duyulan: alesya
+  INSERT   ...geçmek zorunda kalacaktı arkasında
+      metin  : (yok)
+      duyulan: er
+  ... ve 120 fark daha
+
+metinde olup DUYULMAYAN: 190 kelime | duyulup metinde OLMAYAN: 217
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: tarih-2026-11-02.duyulan.txt
