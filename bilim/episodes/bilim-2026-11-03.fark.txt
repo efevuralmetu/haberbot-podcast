@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-03.mp3
+
+beklenen 2060 kelime | duyulan 2080 kelime | eşleşme %97.0
+sayı ifadesi: metinde 226, duyulanda 175  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...silolar bunu öğrenene kadar
+      metin  : (yok)
+      duyulan: çoğu
+  INSERT   ...çünkü davranışı sezgimize uyuyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...uyuyor i talyan fizikçi
+      metin  : evancelista toriçelli
+      duyulan: evangelista torricelli
+  REPLACE  ...söylemek gerekirse hız yüksekliğin
+      metin  : karekökü
+      duyulan: kaer kökü
+  INSERT   ...yarıya indiğinde akış yaklaşık
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...akış yaklaşık düşer seviye
+      metin  : (yok)
+      duyulan: te e
+  REPLACE  ...düşer bu fiziğin kusurunu
+      metin  : geometriyle
+      duyulan: geometri ile
+  INSERT   ...olarak ilk dikkatli kaydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dikkatli kaydı prusyalı mühendis
+      metin  : gothilf
+      duyulan: gotilf
+  REPLACE  ...daha çok borulardaki sıvı
+      metin  : akışıyla
+      duyulan: akışı ile
+  REPLACE  ...değildi yükseklik deliğin katını
+      metin  : aştıktan
+      duyulan: açtıktan
+  INSERT   ...aynıydı yaklaşık asır sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...asır sonra hollandalı araştırmacılar
+      metin  : beverlo leniger
+      duyulan: bewerlo lenniger
+  REPLACE  ...araştırmacılar beverlo leniger ve
+      metin  : fan dö
+      duyulan: van de
+  REPLACE  ...sayısal yasaya döktü bugün
+      metin  : beverlo
+      duyulan: bewerlo
+  REPLACE  ...kum miktarı delik çapının
+      metin  : kuvvetiyle
+      duyulan: kuvveti ile
+  REPLACE  ...dışarı itmiyor suda işleyen
+      metin  : toriçelli
+      duyulan: torricelli
+  INSERT   ...özellikle duvarlarından hasar görüyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hasar görüyordu alman mühendis
+      metin  : ha
+      duyulan: h
+  REPLACE  ...alman mühendis ha a
+      metin  : yansen
+      duyulan: jansen
+  REPLACE  ...o ağırlık nereye gidiyordu
+      metin  : yansen
+      duyulan: jansen
+  REPLACE  ...ağırlığının bölümünü duvarlara devreder
+      metin  : yansen
+      duyulan: jansen
+  REPLACE  ...çap mertebesindedir bu derinliği
+      metin  : aştığınızda
+      duyulan: açtığınızda
+  REPLACE  ...duvarlar tarafından taşınır bugün
+      metin  : yansen
+      duyulan: jansen
+  REPLACE  ...gerçek mühendislik sorunudur ama
+      metin  : yansen
+      duyulan: jansen
+  REPLACE  ...yöntem fotoelastisite oldu bazı
+      metin  : saydam
+      duyulan: saydan
+  REPLACE  ...da parlak desenler verir
+      metin  : duke üniversitesi nden
+      duyulan: duque üniversitesinden
+  INSERT   ...arjantinli ve fransız araştırmacıların
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çapına ve yerçekimine bağlıdır
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...özgür düşüştür beverlo yasasındaki
+      metin  : kuvvet de
+      duyulan: kuvvette
+  REPLACE  ...çıkış hızı ize çapın
+      metin  : kareköküyle
+      duyulan: kaer köküyle
+  REPLACE  ...çapın kuvveti ortaya çıkar
+      metin  : hagen in
+      duyulan: hage nin deki
+  REPLACE  ...ama sabır ister kaba
+      metin  : bilyeler
+      duyulan: bilgeler
+  REPLACE  ...büyüdükçe çok hızlı artıyordu
+      metin  : ekibin
+      duyulan: teki
+  REPLACE  ...hale geldi delik bundan
+      metin  : darsa
+      duyulan: derse
+  INSERT   ...ve douglas durian ın
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...geliyor zurigel in ekibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...akış hızı neredeyze hiç
+      metin  : değişmedi
+      duyulan: değişmiyor
+  REPLACE  ...bu buluşmayı bozar anlamda
+      metin  : yansen
+      duyulan: janssen
+  REPLACE  ...yalnızca tahıl ya da
+      metin  : bilye
+      duyulan: bilge
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: bilim-2026-11-03.duyulan.txt

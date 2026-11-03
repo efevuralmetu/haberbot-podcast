@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-03.mp3
+
+beklenen 2000 kelime | duyulan 2006 kelime | eşleşme %95.9
+sayı ifadesi: metinde 266, duyulanda 236  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...suçu bana babam işledi
+      metin  : (yok)
+      duyulan: bokta
+  REPLACE  ...halep ile hama arasında
+      metin  : maarretünnuman
+      duyulan: mağer tünnaman
+  REPLACE  ...ebu l ala el
+      metin  : maarri ydi
+      duyulan: mağriydi
+  REPLACE  ...eklerdi ruhunun hapsolduğu beden
+      metin  : maarri
+      duyulan: mağri
+  REPLACE  ...ve ma cenaytu ala
+      metin  : ahad
+      duyulan: ahat
+  REPLACE  ...sonrakine aktarmadığı için temiz
+      metin  : maarri
+      duyulan: mağri
+  REPLACE  ...aldığı yükü kimseye devretmemek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...halka zincirde sona eriyordu
+      metin  : maarri
+      duyulan: mağri
+  REPLACE  ...çok sert dizeler yazan
+      metin  : şairdi
+      duyulan: şahirdi
+  REPLACE  ...yüzyıllardır aynı nakaratı söyler
+      metin  : sofokles
+      duyulan: sophocles
+  REPLACE  ...erken ölmek yüzyıllar sonra
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  REPLACE  ...verdi bu sesler arasında
+      metin  : maarri
+      duyulan: mari
+  REPLACE  ...şey şikayetini suçlamaya dönüştürmesidir
+      metin  : sofokles
+      duyulan: sophocles
+  REPLACE  ...korosu yazgıya ağıt yakar
+      metin  : maarri
+      duyulan: mari
+  INSERT   ...olarak bu noktadan başlar
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...ın mumbai kentinde yaşayan
+      metin  : raphael
+      duyulan: rafael
+  REPLACE  ...amerikalı hukuk felsefecisi seana
+      metin  : shiffrin
+      duyulan: schifrin da
+  REPLACE  ...makalesinde bunun üzerinde durdu
+      metin  : shiffrin
+      duyulan: schifrin
+  REPLACE  ...razı olup olmadığını sormamıştır
+      metin  : shiffrin e
+      duyulan: schifrine
+  INSERT   ...nde ders veren benatar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i yi adlı kitabında
+      metin  : maarri
+      duyulan: mari
+  REPLACE  ...giydirdi benatar ın kanıtı
+      metin  : asimetri
+      duyulan: asymmetri
+  REPLACE  ...var elinde terazi tutuyordu
+      metin  : maarri
+      duyulan: mağri
+  REPLACE  ...sonunda ebu hamid el
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...etkili eserlerinden oldu i
+      metin  : hyau ulumi d din
+      duyulan: hya ul middin
+  REPLACE  ...evliliğin adabına ayrılmıştır ve
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...tanrı dan uzaklaştırması vardır
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...başında şey vardır çocuk
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...efendi buna ne der
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...çürümeye bırakmaktır bu benzetmeyi
+      metin  : maarri nin
+      duyulan: mağarinin
+  REPLACE  ...derin karşıtlık ortaya çıkıyor
+      metin  : maarri
+      duyulan: mağari
+  REPLACE  ...dünyaya getirmek yük devretmektir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...emanete ihanet hiç kullanmamaktır
+      metin  : maarri
+      duyulan: mağari
+  REPLACE  ...maarri zinciri kırmakla övünür
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...kendisine nasıl bakıldığı yatar
+      metin  : gazzali
+      duyulan: ghazali
+  INSERT   ...den önce i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...ayrı ağırlıktır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...varlık zaten iyiliğin kendisidir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...acıyı inkar etmek değildir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...dizeye konu olur konu
+      metin  : raphael
+      duyulan: rafael
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: felsefe-2026-11-03.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-03.mp3
+
+beklenen 2004 kelime | duyulan 1588 kelime | eşleşme %14.8
+sayı ifadesi: metinde 237, duyulanda 134  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...committed it against no
+      metin  : kuzey suriye de halep ile hama arasında maarretünnuman adında küçük kasaba var yılında orada şair öldü adı ebu l ala el maarri ydi yaşındayken geçirdiği çiçek hastalığı yüzünden gözlerini kaybetmişti ömrünün son yarım yüzyılını evinden neredeyze hiç çıkmadan geçirdi kendisine zindanın tutsağı diyordu zindanlardan körlüğüydü öteki evi bazen de eklerdi ruhunun hapsolduğu beden maarri hiç evlenmedi çocuğu olmadı bu rastlantı değildi bilerek verdiği karardı anlatılana göer öldüğünde mezar taşına şu sözün yazılmasını istemişti haza cenahu ebi aleyye
+      duyulan: merhamethi okadar jainishtiki henus varol mayanerda ichinelyardu merhamethi okadar jainishtiki henus varol mayanerda ichinelyardu raphael semoyol adandar yirmiyediyashandar birgench anneve babasanumakhyameyewermekistedinachikladu gerek cessi shudu ondanizin almadanonu dunyaya gehtirmishlardu haber kasasurede dunyaya dolasht pek chok kishibunaguldu basleri isekustu ishin ilginciana anneve babasa avukatu
+  REPLACE  ...cenahu ebi aleyye ve
+      metin  : ma cenaytu ala ahad yani bu babamın bana işlediği suçtur ben ize kimseye işlemedim cümleyi kez daha düşünelim adam ölmüş ve yaşadığı hayatın bütün hesabını tek satıra sığdırmış satırdaki suçlu dünyaya getiren babası kendisi ize o suçu sonrakine aktarmadığı için temiz maarri ye göer çocuk sahibi olmamak babasından aldığı yükü kimseye devretmemek demekti halka zincirde sona eriyordu maarri yi yalnızca karamsar adam saymak haksızlık olur sofrasına et koymayan hayvanların sütünü ve balını bile onların hakkı sayan ikiyüzlülüğe karşı çok sert dizeler yazan şairdi merhameti o kadar genişti ki henüz var olmayanları da içine alıyordu göer doğmamış çocuğa yapılabilecek en büyük iyilik doğurmamaktı bu düşünceyle tek başına değildi batı edebiyatında da benzer koro yüzyıllardır aynı nakaratı söyler sofokles in son oyunlarından koro insan için en iyisinin hiç doğmamak olduğunu doğduysa da geldiği yeer an önce dönmek olduğunu söyler daha eski yunan efsanesine göer kral midas orman cini silenos u yakalar ve insan için en iyi şeyin ne olduğunu sorar cin önce susar sonra gülerek cevap verir en iyisi hiç doğmamaktır en iyisi de erken ölmek yüzyıllar sonra schopenhauer bu duyguyu felsefe sistemine dönüştürdü yüzyılda ize romanya doğumlu emil cioran kitabına doğrudan doğmuş olmanın sakıncası adını verdi bu sesler arasında maarri yi ayıran şey şikayetini suçlamaya dönüştürmesidir sofokles in korosu yazgıya ağıt yakar maarri ize faile işaret eder göer hayat yalnızca acı verici değildir birisinin başkası adına verdiği karardır karar verilen kişiye ize hiçbir şey sorulmamıştır felsefenin bu meseleyi yıl sonra yeniden ele alması da tam olarak bu noktadan başlar yılının şubat ayında hindistan ın mumbai kentinde yaşayan raphael
+      duyulan: oleri labukonuyu evde gaya tsakinbichimdetartu shiolardu enesi gazetesileer oludou madanunja nasal sorajaklerna achikliye bilirse suchukabule di jaini soilemishte butche vapsakitsae ama mesalei bittermyar cinqis
+  REPLACE  ...kentinde yaşayan raphael samuel
+      metin  : adında yaşında genç anne ve babasını mahkemeye vermek istediğini açıkladı gerekçesi şuydu izin
+      duyulan: nderde garchiktandasorulami jakbishade gundelik ahlakumuzda rzaichokunemlidur chirah ameliat gerektibilaulsa bilinjeirende birhastayona ina
+  REPLACE  ...gerekçesi şuydu izin almadan
+      metin  : dünyaya getirmişlerdi haber kısa sürede dünyayı dolaştı pek çok kişi buna güldü bazıları ize kızdı i şin ilginç yanı anne ve babası avukattı ve oğullarıyla bu konuyu evde gayet sakin biçimde tartışıyorlardı annesi gazetecileer oğlu doğmadan önce nasıl soracaklarını açıklayabilirse suçu kabul edeceğini söylemişti bu cevap zekice ama meseleyi bitirmiyor çünkü samuel in derdi gerçekten de sorulamayacak şeydi gündelik ahlakımızda rıza çok önemlidir cerrah ameliyat gerekli bile olsa bilinci yerinde hastayı onayını almadan ameliyat edemez hayatını kökten değiştirecek karar sorulmadan verilmez oysa doğum insanın başına gelebilecek en kökten olaydır ve rızasının alınması mantıken imkansızdır
+      duyulan: ameliat edemaz hayatunu kuktan deishtirejek birkaraar sorul madan virilmes oi sadom sanan bashanagele wilijek enkuktan olaydur veresasanun alun masamantu kenim kyansizdur
+  REPLACE  ...alınması mantıken imkansızdır ortada
+      metin  : henüz
+      duyulan: henu
+  REPLACE  ...imkansızdır ortada henüz soru
+      metin  : sorulacak kimse
+      duyulan: sorulajakkimse
+  REPLACE  ...soru sorulacak kimse yoktur
+      metin  : amerikalı hukuk felsefecisi seana shiffrin da yayımlanan makalesinde bunun üzerinde durdu shiffrin benzetme
+      duyulan: amerikuluhukfelsa fejusi seyana shifrin dantasodok sandokozayimlanan makalisindebununuzirindedurdu shifrin birbenzetmei
+  REPLACE  ...shiffrin benzetme kurar zengin
+      metin  : adanın üstünden geçerken uçaktan külçeleri atar
+      duyulan: biradanunustundang gechakyan uchaktan altan kulchelyarataar
+  REPLACE  ...uçaktan külçeleri atar niyeti
+      metin  : iyidir insanlara armağan vermek ister ama külçelerden kolunu kırar alan kişi belki sonunda zenginleşmiştir yine
+      duyulan: eyadir insanlera armaan vermikistir emei kulchelyar dan kolonukurar altana alankishibaykisonanda zengin neshmishtir yanei
+  REPLACE  ...sonunda zenginleşmiştir yine de
+      metin  : armağanı
+      duyulan: armaan
+  REPLACE  ...yine de armağanı vereni
+      metin  : sorumluluktan
+      duyulan: sorumluuktan
+  REPLACE  ...armağanı vereni sorumluluktan kurtaran
+      metin  : şey
+      duyulan: bishayi
+  REPLACE  ...sorumluluktan kurtaran şey yoktur
+      metin  : çünkü kimse bu riski almaya razı
+      duyulan: shrinkukimse buriski almayarazu
+  REPLACE  ...riski almaya razı olup
+      metin  : olmadığını sormamıştır shiffrin e göer doğum da böyledir
+      duyulan: olmadin usorma mishtir shifrin egera domdaboylidir
+  REPLACE  ...doğum da böyledir hayat
+      metin  : değerli olabilir ama kaçınılmaz olarak acıyla birlikte gelir
+      duyulan: de arluolabidir amakachanul mazolarak ajilabir liktegellir
+  REPLACE  ...birlikte gelir ve o
+      metin  : acıyı yüklenecek kişiye danışılmamıştır bu tartışmanın en keskin sesi ize güney afrikalı felsefeci
+      duyulan: aji yuktlenijek kishiedanishilma mishtir bhutar tishmanan enkiskin seseisey gunay afrikalufaase fejid
+  REPLACE  ...afrikalı felsefeci david benatar
+      metin  : dır
+      duyulan: dar
+  REPLACE  ...benatar dır cape town
+      metin  : üniversitesi nde ders veren
+      duyulan: universitane dei der spaan
+  REPLACE  ...nde ders veren benatar
+      metin  : da yayımladığı
+      duyulan: de yayemladu
+  REPLACE  ...never to have been
+      metin  : yani hiç var olmamış olmak daha i yi adlı kitabında maarri nin şiirde söylediğine mantıksal kanıt kılığı giydirdi benatar ın kanıtı asimetri adını verdiği gözleme dayanır cümleyi yan yana koyar acının varlığı kötüdür i kincisi hazzın varlığı iyidir buraya kadar herkes hemfikirdir acının yokluğu iyidir o yokluktan yararlanacak kimse olmasa bile hazzın yokluğu ize kötü değildir meğer ki
+      duyulan: yanei hichwarolmamusholmakdaha iyadlikita bandha maarin maarin maar yanei hichwarolmamusholmakdaha iyadlikita bandha maarin maarin durdan jesu hazan yoklu iyisek kurtu diyildir maar kyun dan
+  REPLACE  ...meğer ki yoksun kalan
+      metin  : olsun
+      duyulan: birolsun
+  REPLACE  ...yoksun kalan olsun benatar
+      metin  : bu dengesizliği gündelik sezgilerimizle destekler ciddi kalıtsal hastalık taşıyan çiftin çocuk
+      duyulan: boodengis isliy gundelikses gilerim isledes tekler chidi kalit salhastaluktashyan birchiftin chojuk
+  REPLACE  ...çiftin çocuk sahibi olmaktan
+      metin  : vazgeçtiğini düşünelim çoğumuz o çocuğun çekmeyeceği acılardan söz ederek onların sorumlu davrandığını söyleriz şimdi tersini düşünelim sağlıklı
+      duyulan: wazgechti nidushunilim cho omuz cakmije ajilardan soze derek onneran sorumnudavrandin usoyeliris shim di terse nidushunilim salikli
+  REPLACE  ...düşünelim sağlıklı ve mutlu
+      metin  : çocuk
+      duyulan: chojuk
+  REPLACE  ...ve mutlu çocuk sahibi
+      metin  : olabilecek çift çocuk
+      duyulan: olabilejek chojuk
+  REPLACE  ...çift çocuk yapmamaya karar
+      metin  : veriyor hiçbirimiz kalkıp yazık o çocuk bunca mutluluktan
+      duyulan: hichbir imizkalkup yazek bunja mutlu luktan
+  REPLACE  ...çocuk bunca mutluluktan mahrum
+      metin  : kaldı demeyiz
+      duyulan: kalda demays
+  REPLACE  ...kaldı demeyiz mahrum kalan
+      metin  : yoktur
+      duyulan: yoktor
+  REPLACE  ...mahrum kalan yoktur benatar
+      metin  : a göer bu tutarsızlık değil derin
+      duyulan: agar abutu tarsaz lakdil diren
+  REPLACE  ...tutarsızlık değil derin ahlaki
+      metin  : sezgidir sonucu da sarsıcıdır var
+      duyulan: seizgidir sunu chu de saar sejidir war
+  REPLACE  ...da sarsıcıdır var olmamak
+      metin  : var olmaya göer her zaman üstündür var
+      duyulan: war olmayagir eharzaman ustundir war
+  REPLACE  ...zaman üstündür var olmamak
+      metin  : acıyı ama hiçbir şey kaybettirmez var
+      duyulan: ajiye sufir larama hichbir sheikai bettir maz war
+  REPLACE  ...şey kaybettirmez var olmak
+      metin  : ize
+      duyulan: ase
+  REPLACE  ...var olmak ize miktar
+      metin  : iyilik getirir
+      duyulan: ilik gehtirir
+  REPLACE  ...iyilik getirir ama mutlaka
+      metin  : acıyı
+      duyulan: ajiye
+  REPLACE  ...ama mutlaka acıyı da
+      metin  : beraberinde getirir
+      duyulan: berabirinde gehtirir
+  REPLACE  ...da beraberinde getirir benatar
+      metin  : adım
+      duyulan: adam
+  REPLACE  ...benatar adım daha atar
+      metin  : i nsanların kendi hayatlarının kalitesini sistemli olarak abarttığını söyler
+      duyulan: insan laren kendahayat laren kalite sine sistem di olarakabartin usoyelar
+  REPLACE  ...olarak abarttığını söyler kötü
+      metin  : günleri unuturuz sıradan günleri iyi sayarız açlık yorgunluk kaşıntı sıkıntı
+      duyulan: günneri unaturus sradan günneri isayiris achlük jorgunluk kashente sikente
+  REPLACE  ...yorgunluk kaşıntı sıkıntı beklemek
+      metin  : gündelik hayatın sessiz dokusudur
+      duyulan: gündilik hayatan seisizdokusudur
+  ... ve 134 fark daha
+
+metinde olup DUYULMAYAN: 1737 kelime | duyulup metinde OLMAYAN: 1320
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-11-03.duyulan.txt

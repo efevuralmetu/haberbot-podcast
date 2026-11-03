@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-03.mp3
+
+beklenen 3499 kelime | duyulan 3532 kelime | eşleşme %94.9
+sayı ifadesi: metinde 501, duyulanda 322  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yazında
+      metin  : atlantiğin
+      duyulan: atlantin
+  REPLACE  ...burnundan kayıyordu adı alfred
+      metin  : russel
+      duyulan: rosal
+  REPLACE  ...adı alfred russel wallace
+      metin  : tı
+      duyulan: dı
+  REPLACE  ...wallace tı galler sınırındaki
+      metin  : usk
+      duyulan: uska
+  INSERT   ...sınırındaki usk kasabasında ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dünyaya gelmişti babası thomas
+      metin  : veer
+      duyulan: vaer
+  REPLACE  ...ölçümünü yapanlardan de wallace
+      metin  : tı
+      duyulan: dı
+  INSERT   ...yürüdüğü kırlar konuşmaya başlamıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...işleri de azaldı wallace
+      metin  : leicester
+      duyulan: de lester
+  REPLACE  ...böcekleri gösterdi wallace yalnızca
+      metin  : leicester
+      duyulan: lester
+  REPLACE  ...anlatan seyahat günlüğüydü de
+      metin  : aleksander fon humbolt
+      duyulan: alexander von humboldt
+  INSERT   ...türler değişiyorsa nasıl değişiyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...değişiyordu başında ağabeyi william
+      metin  : zatürreden
+      duyulan: zatürer den
+  REPLACE  ...kadastro işini devralmak için
+      metin  : galler deki neath
+      duyulan: gallardaki neyette
+  INSERT   ...ama aklı başka yerdeydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bilim kurumu ne de
+      metin  : hami
+      duyulan: hamı
+  INSERT   ...ve sağlam inat nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ulaştılar ormanın ilk günleri
+      metin  : wallace
+      duyulan: wallas
+  REPLACE  ...süer sonra yollarını ayırdı
+      metin  : bates
+      duyulan: baytes
+  REPLACE  ...un ana koluna yöneldi
+      metin  : wallace
+      duyulan: wallas
+  REPLACE  ...ya ve daha ötesindeki
+      metin  : vaupes
+      duyulan: vaupez
+  INSERT   ...neredeyze hiç gitmediği yerleer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yerleer küçük kardeşi herbert
+      metin  : de
+      duyulan: te
+  INSERT   ...orada sarıhummaya yakalandı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yakalandı ve yaşında öldü
+      metin  : wallace
+      duyulan: wallas
+  REPLACE  ...gemisine yükledi helen temmuz
+      metin  : para dan
+      duyulan: de paradan
+  REPLACE  ...para dan ayrıldı ambarında
+      metin  : kauçuk
+      duyulan: kavcuk
+  REPLACE  ...kakao de fıçılar içinde
+      metin  : kopaiba
+      duyulan: kopayba
+  REPLACE  ...içinde kopaiba balsamı vardı
+      metin  : kopaiba
+      duyulan: kopayba
+  REPLACE  ...yemin ettiğini yazdı ekim
+      metin  : para dan
+      duyulan: de paradan
+  REPLACE  ...çıkışından neredeyze ay sonra
+      metin  : deal limanında
+      duyulan: dillimanı nda
+  REPLACE  ...ın sokakta kalmamasını sağladı
+      metin  : ve
+      duyulan: veve
+  REPLACE  ...ulaştı yeni hedefi asya
+      metin  : ile
+      duyulan: yla
+  INSERT   ...yaklaşık kilometer yol yapacak
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...bölge britanyalı maceracı james
+      metin  : brooke un
+      duyulan: brook ın
+  REPLACE  ...brooke un yönetimindeydi ve
+      metin  : brooke
+      duyulan: brook
+  REPLACE  ...wallace yağmur mevsimini kulübede
+      metin  : brooke
+      duyulan: brook
+  INSERT   ...un kitaplarıyla geçirdi şubat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...adalar arasında dolaşmaya başladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ardından doğudaki komşu ada
+      metin  : lomboğa
+      duyulan: lombo a
+  ... ve 76 fark daha
+
+metinde olup DUYULMAYAN: 120 kelime | duyulup metinde OLMAYAN: 148
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: biyografi-2026-11-03.duyulan.txt

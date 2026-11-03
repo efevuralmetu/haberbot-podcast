@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-03.mp3
+
+beklenen 1663 kelime | duyulan 1677 kelime | eşleşme %95.0
+sayı ifadesi: metinde 217, duyulanda 157  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kesmeden havuzun suyunun dalıyor
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...festival salonunda yeniden doğdu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...havana sında hava hala
+      metin  : barut
+      duyulan: baharut
+  REPLACE  ...ya o güne kadar
+      metin  : karayipler i
+      duyulan: kara ipleri
+  REPLACE  ...hikayesini anlattığı turnalar uçarken
+      metin  : kan da palmiye
+      duyulan: de kanda altınpalmi ye
+  REPLACE  ...filmin görüntülerini de çeken
+      metin  : sergey
+      duyulan: sergei
+  REPLACE  ...devrimden hemen sonra kurulan
+      metin  : icaic
+      duyulan: ejit
+  REPLACE  ...kuşağın sesi sayılan yevgeni
+      metin  : yevtuşenko
+      duyulan: yevtushenko
+  REPLACE  ...küba tarafında ize yazar
+      metin  : enrike
+      duyulan: enrique
+  REPLACE  ...ize yazar enrike pineda
+      metin  : barnet
+      duyulan: barnett
+  REPLACE  ...gösteriyordu i lk hikayede
+      metin  : marya
+      duyulan: maria
+  REPLACE  ...amerikalı adamı fransız oyuncu
+      metin  : jan buiz
+      duyulan: john boyes
+  REPLACE  ...jan buiz canlandırıyor adam
+      metin  : marya
+      duyulan: maria
+  REPLACE  ...hikaye havana da geçiyor
+      metin  : enrike
+      duyulan: enrique
+  REPLACE  ...sesi kübalı tiyatro oyuncusu
+      metin  : rakel
+      duyulan: raquel
+  REPLACE  ...oluyor ancak bu ses
+      metin  : yevtuşenko
+      duyulan: yevtushenko
+  REPLACE  ...nin yanında genç operatör
+      metin  : aleksandr kalzati
+      duyulan: alexander kazati
+  REPLACE  ...filmin ortalarında geliyor öğrenci
+      metin  : enrike
+      duyulan: enrique
+  REPLACE  ...için ekip arasına kablolar
+      metin  : gerdi
+      duyulan: geldi
+  REPLACE  ...geniş açılı objektifler kullanıyordu
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...birlikte çalışıyordu kübalı besteci
+      metin  : karlos
+      duyulan: carlos
+  REPLACE  ...bu yaklaşımı sovyet sinemasının
+      metin  : yirmilerdeki
+      duyulan: lerdeki
+  REPLACE  ...büyük deneysel geleneğine dönüştü
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  REPLACE  ...eleştirilmiş neredeyze yasaklanmıştı ben
+      metin  : küba
+      duyulan: cuba
+  INSERT   ...deneyimdi kalatozov ve ekibi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...etmediği sessizlik oldu ben
+      metin  : küba
+      duyulan: cuba te
+  REPLACE  ...karşılaştıkları şey rahatsız etti
+      metin  : kübalılar
+      duyulan: cuba lılar
+  REPLACE  ...yoksulluk tablosu olarak resmediyordu
+      metin  : kübalıların
+      duyulan: cuba lıların
+  REPLACE  ...lakap takıldı no soy
+      metin  : kuba
+      duyulan: cuba
+  REPLACE  ...soy kuba yani ben
+      metin  : küba
+      duyulan: cuba
+  REPLACE  ...dil artık eskimiş görünüyordu
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...yönelmişti üstelik aynı yıl
+      metin  : ekim inde kruşçev
+      duyulan: ekiminde kruşchev
+  REPLACE  ...siyasi iklim değişti ben
+      metin  : küba
+      duyulan: cuba
+  REPLACE  ...görülmedi amerika birleşik devletleri
+      metin  : küba
+      duyulan: cuba
+  REPLACE  ...ya ambargo uyguluyordu sovyet
+      metin  : küba
+      duyulan: cuba
+  REPLACE  ...girmesi düşünülemezdi böylece ben
+      metin  : küba
+      duyulan: cuba
+  INSERT   ...film daha çekti ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...urusevski de yıl sonra
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...göremedi sonra dünya değişti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...değiştirmeye festivalleer ulaşmaya başladı
+      metin  : (yok)
+      duyulan: de
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: film-2026-11-03.duyulan.txt

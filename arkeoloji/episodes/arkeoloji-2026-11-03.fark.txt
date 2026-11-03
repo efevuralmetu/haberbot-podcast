@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-03.mp3
+
+beklenen 2104 kelime | duyulan 2107 kelime | eşleşme %96.3
+sayı ifadesi: metinde 235, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kayıp dünya duruyordu ekim
+      metin  : nijer
+      duyulan: de niger
+  REPLACE  ...arazideydiler ekibin fotoğrafçısı mike
+      metin  : hettwer
+      duyulan: hetver
+  REPLACE  ...yapılmış zıpkın uçları vardı
+      metin  : hettwer
+      duyulan: hetver
+  REPLACE  ...manzara anda bambaşka soru
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...diyordu sereno yıl sonra
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...uzmanlarına ihtiyaç vardı ve
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...i talyan arkeolog elena
+      metin  : garçea
+      duyulan: garcea
+  REPLACE  ...çağı kültürleri üzerine çalışıyordu
+      metin  : biyoarkeolog kris
+      duyulan: biyo arkeolog chris
+  REPLACE  ...okuyabiliyordu fransız paleontolog elen
+      metin  : jus da
+      duyulan: justa
+  REPLACE  ...ırmaklarla ve göllerle kaplıydı
+      metin  : fil
+      duyulan: fel
+  REPLACE  ...bereketli dünyada yaşadı arkeologlar
+      metin  : kiffian
+      duyulan: kifyan
+  REPLACE  ...arkeologlar kiffian kültürü diyor
+      metin  : kiffianlar
+      duyulan: kifyanlar
+  REPLACE  ...diyor kiffianlar yaklaşık olarak
+      metin  : mö
+      duyulan: mine
+  REPLACE  ...yaklaşık olarak mö ile
+      metin  : mö
+      duyulan: mine
+  REPLACE  ...ele veriyordu gölde nil
+      metin  : levreği
+      duyulan: levreyi
+  REPLACE  ...stoyanovski nin incelemelerine göer
+      metin  : kiffianlar
+      duyulan: kifyanlar
+  REPLACE  ...avları taşıyan insanların bedeniydi
+      metin  : kiffianlar
+      duyulan: kifyanlar
+  REPLACE  ...göğsüne doğru sıkıca kıvırarak
+      metin  : cenin
+      duyulan: c nin
+  REPLACE  ...içinde ileri geri oynuyordu
+      metin  : kiffianlar
+      duyulan: kifyanlar
+  REPLACE  ...kazı ekibinin topladığı yaklaşık
+      metin  : radyokarbon
+      duyulan: radiokarbon
+  REPLACE  ...uzun sürdüğünü de gösteriyordu
+      metin  : kiffianlar
+      duyulan: kifyanlar
+  DELETE   ...mezarların tarihlerinde boşluk beliriyordu
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zaman sertleşiyor yağmurlar azalıyordu
+      metin  : mö yüzlerde
+      duyulan: lerde
+  REPLACE  ...ve kuraklık olduğunu biliyor
+      metin  : grönland
+      duyulan: groenland
+  REPLACE  ...azalıyor mezarlar sona eriyor
+      metin  : kiffianların
+      duyulan: kifyanların
+  REPLACE  ...için fazlasıyla yeterli süer
+      metin  : kiffianların
+      duyulan: kifyanların
+  REPLACE  ...sonra yağmurlar geri döndü
+      metin  : mö
+      duyulan: milokyun da
+  REPLACE  ...gobero ya dönen insanlar
+      metin  : kiffianlara
+      duyulan: kifyanlara
+  REPLACE  ...ayırıyordu teneer kültürünün insanları
+      metin  : kiffianların
+      duyulan: kifyanların
+  REPLACE  ...öğrenemeyeceğiz teneer kültürü yaklaşık
+      metin  : mö mö
+      duyulan: miladmokra den e
+  REPLACE  ...da yaşadı onların dünyası
+      metin  : kiffianlarınkinden
+      duyulan: kifyanlarınkinden
+  REPLACE  ...de başka türlü gömüyordu
+      metin  : kiffianların
+      duyulan: kifyanların
+  REPLACE  ...yas tutma biçimi bugünkü
+      metin  : insanlarınkinden
+      duyulan: insanlarkinden
+  REPLACE  ...bilim insanları bu yoruma
+      metin  : temkinli
+      duyulan: temkinliği
+  REPLACE  ...sonsuza kadar sürmedi yaklaşık
+      metin  : mö binlerden
+      duyulan: melot dökü lerden
+  REPLACE  ...başladı bu kez değişim
+      metin  : kiffianların
+      duyulan: kifiyanların
+  INSERT   ...kimi bölgelerde bu süreç
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kültürünün son mezarları yaklaşık
+      metin  : mö
+      duyulan: melot ve gökyo e
+  REPLACE  ...zamanlarda açığa çıkarmaya başladı
+      metin  : hettwer
+      duyulan: hetver
+  REPLACE  ...kadar ayrıntılı biçimde gösterdi
+      metin  : kiffianlarla
+      duyulan: kifyanlarla
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: arkeoloji-2026-11-03.duyulan.txt

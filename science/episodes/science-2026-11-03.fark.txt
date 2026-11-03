@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-03.mp3
+
+beklenen 2096 kelime | duyulan 1338 kelime | eşleşme %6.2
+sayı ifadesi: metinde 177, duyulanda 51  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...walls hold it up
+      metin  : masanın üzerinde eski zaman ölçer duruyor dar delikten damla damla su akıyor ötekinde ince kum ipliği aşağı süzülüyor
+      duyulan: the walls hold it up sand in an hourglass ignores this rule ful or nearly empty it falls at the same pace grain by grain the wal holds it up the walls hold it up sand in an hourglass ignores this rule ful or nearly empty we want to say that in ireland people aer moer than welcome to stay therefoer we want to say that when people come along we wil be very happy we have to take action and we wil keep or eyes or own we wil also have a meeting with the local people we also want to say that we do not have a chance to be moer than welcome to stay beverly yosses and the key key role of the in jacob etta borad angle is delicallen a chapin carousel a beer tanila rent chukush is a chapin kareku lei it is a charcoal dunda chapin ikibigurf in jacob etta or to each car hagen in decigues them in damn be rebelling and busa yeah arctic beer physics address motor ancak kammerler and he chaos in in karan look be rianna davar a nick mr deline thomas to the corollars y al aer o s aman akash durer beer and a hitch beer we aer al modern come sat in in delhi can
+  REPLACE  ...ipliği aşağı süzülüyor i
+      metin  : kisini aynı anda başlatıyorsunuz
+      duyulan: really come tanis er asandaki or an critic be rationing student a total masa tanya deline oz and the beer beer in a aslanar webber kapru kuraj boo kuchuk kapru is tuned a kibutun you can aer lara akhter of a system kil it in it boo sana in in a gang suku jus or under and
+  REPLACE  ...aynı anda başlatıyorsunuz i
+      metin  : lk dakikalarda
+      duyulan: m be reader tahel silo learned a elatch fabric a learned a tablet learn actor who nice a clean decoupler
+  REPLACE  ...i lk dakikalarda de
+      metin  : kararlı görünüyor
+      duyulan: modern or jack learn the key jb harboon car learned a shake er she meant of a plastic granule hot learn the inola yashan aer akash keseler be really gay lip kababurra tit resterer yada chubuk ladur tear is panya deki navarra university cindan physically cars or a goal of a mess like tashleri buta kan malari larger systematic olerak in jelly dan a larry basich yor neuromas arborist air beer kabab leeler doldur ruler alt take a delica chiller ve akash kendali in dan durana kadar back linear sonra kemar beer hava puskrit messila kurula akashi any dan bashlar ve beer sonra kitak an maya kadar kashtana gauge de sailor boo ish lamb in theer jack has tekra liner sonich lardik katchek ejide to kan malarar asin the key tannin say sir delic beuduk che chock is the art yorda akib in do tease us sweet a tiki chalish mass and a which boy at the cura cel tanele urchin delic chapa tanecha punan yak lashik beish katana yak lash tukcha to kan malarar asin deki or talama tannin say sonan sansa giddy or mushkibi beudu gurdu boo beish tanele keshik olerak be linear highly gal de delic bundan darsa a kush area to get skillet liners the hygienist say to kana pratik tegural mejek kadar nadi rollers borada durist almak get a cuer boo a sheen kiskin beer sonar mu yoksa chock dick beer a room al do halata to show yor americana physical air clara thomas with douglas durian and in ombesh tekhi chalish massa to kan malasil anon delic ghenish the dicta ustelo laraka zalda na
+  REPLACE  ...de kararlı görünüyor ama
+      metin  : süer sonra su saatinde şeyin değiştiğini fark ediyorsunuz damlalar seyreliyor akış tembelleşiyor kap boşaldıkça su sanki isteksizleşiyor
+      duyulan: hich biz aman tam so for a in medina nesser do boogeru sugar a yatorinja was unbeklarsen is ghenish beer delik biletta kanabili yalnaz jabu suray evren in yashana sha bili hangi yoromundor oldu henus kesin nesh mehstil pratik tekhi sona chi say aine
+  REPLACE  ...sanki isteksizleşiyor kum saati
+      metin  : ize hiçbir şey olmamış gibi devam ediyor üst haznede avuç
+      duyulan: ustelo ri deli tanele rin birkachka te ghenish likte tutar boo yus den iber
+  INSERT   ...üst haznede avuç kum
+      metin  : (yok)
+      duyulan: saati nde kulanulan kum chos aman suradan pilaj kum udeyildir oleri uvarlak boyutlar nayakan ve nemden arandarul musha uzal tozlar sechilir ka sheli du zan sez tan elar kemar kur maya daha meyildir ve ishim di ishin entu haf balki de eng guzal kasmegelyar zuri galan ekibi dibizi di bandar soru sordu deli inhemanustun ekuchuk al koyar sak neolur sezgi bunundurumu kotu leishtir ejni soylat zatan dar olan birgechiden de eng al koymak ishleri dahadazor lashtir maludur eimad denei tam tersini gosderdi deli in ustun edoru me safe dayal leishtir elan kuchuk al te kanma ola salunu yuskata varanoran narda du shurdu ustelik akush huzuneradei sehichte ishmede bunun surer engelinyaktu ishta sakhlu engel ustengelan yukun kasmanu ustenir deli inhemanustun dekitaan elerin sak kushmasana azaltir ve onlarundaha gevshek du zanne kubbe yolashmasana salar kemer kurulabil mesi itin taan elerin ai nanda doorachalar la veyye terinja sak birbichim de birarayagal mesi gerekir engel bubolushmei bozar anlamda jansenin silo larunde duar larinyaktu ishi kuchuk urchekte ve tam gerekan yar deyapar bubolgeo yalnuz jatahilya
+  REPLACE  ...haznede avuç kum da
+      metin  : kalsa ağzına kadar dolu
+      duyulan: biliye ichin deyil zurigel ve meslektashtru ikibinondurte chokfarklu sistemneer ainu cherche ve dekashlashturdu silodan akan taan eler seve ichin de suzulian microscopic parchajeklar dar kapdan aharagiran koyunlar ve chukushayunelan insan kalabaliklar hepxinde akushin ke sintilipatla malar halinde ilar ledi ve tukan malaran benzeri statistikler udogiruldu bu sistemneren ortak yane tek tek biraylerin dil nayaslanan kalabalun davranishin belir lian darboazdur kalabaliklar la ilgili olgu izalikle dikarcekijidur gisa yar benze timne rive baazu den elar insan nar chukusha daha chokiterek yon al diinde tahlianin hizlan mayip yavashliye bil diinigyos teriyor buna daha hizlolan daha yavashturet kisi denis it meartuk che vijutlararasan
+  REPLACE  ...ağzına kadar dolu da
+      metin  : olsa o ince iplik aynı hızla akıyor
+      duyulan: ke merolushmola sili artar ve kaputakanur baradan doan birfikir ajil chikushlerun unine uygun sutun koi maktir
+  REPLACE  ...aynı hızla akıyor bu
+      metin  : fark sıradan ayrıntı gibi görünebilir oysa doğanın en inatçı bulmacalarından açılan kapı önce su saatine bakalım çünkü davranışı sezgimize uyuyor te i talyan fizikçi evangelista torricelli kabın dibindeki delikten fışkıran sıvının hızının delik üzerindeki sıvı sütununun yüksekliğine bağlı olduğunu gösterdi kesin söylemek gerekirse hız yüksekliğin karekökü ile orantılıdır su yükseldikçe dipteki basınç artar basınç arttıkça su
+      duyulan: fikir benze timne rde ve kontroli den elar de umut viri juson uchlar varde ama insan kalabalu bi elar den chok
+  REPLACE  ...basınç arttıkça su daha
+      metin  : hızlı itilir su seviyesi yarıya indiğinde akış yaklaşık e düşer seviye indiğinde ize akış başlangıçtaki hızın yarısına iner yani su saati doğası gereği zaman geçtikçe yavaşlayan saattir eski ustalar bunu biliyordu en azından deneyimle mısır
+      duyulan: kar ma shiktir insan lardushinur korkar ne olvir bu nedan ne sutun naran gar chek alar
+  REPLACE  ...azından deneyimle mısır da
+      metin  : karnak tapınağı nda bulunan
+      duyulan: guvenilir chuzumolupol madu halar arashtir liyor
+  REPLACE  ...tapınağı nda bulunan ve
+      metin  : amenhotep dönemine yani yaklaşık yıl öncesine tarihlenen taş su saatinin iç düz değil eğimlidir kap yukarıda geniş aşağıda dardır böylece su seviyesi düştükçe akış yavaşlasa da daralan kapta seviye daha hızlı iner
+      duyulan: ke sin tasarim kuralanadonushmushtiyil taneilimad denin bukadar shashir taja olmasanan denir in ne denivar fizik katalar
+  REPLACE  ...daha hızlı iner ve
+      metin  : iç yüzeydeki çizgiler eşit zaman aralıklarına daha yakın düşer bu fiziğin kusurunu geometriyle telafi etmenin ustaca yoluydu kum saatinin böyle telafiye ihtiyacı yok avrupa da yüzyılda yaygınlaşan bu alet sienalı ressam ambrogio lorenzetti nin yılında tamamladığı freskte bile görülür yüzyıllar boyunca gemilerde nöbet sürelerini ve seyir hızını ölçmek için kullanıldı denizcilerin güvenmesinin nedeni vardı gemi sallansa da üst hazne boşalsa da akış ritmini korur dolu kum saatinin son dakikası ilk dakikasıyla neredeyze aynı hızda geçer bunun bilimsel olarak ilk dikkatli kaydı
+      duyulan: sivalar iyan niyor sivanan akashanu iqyuz yilayakan gechmisha olan denklam nar le oldukcha hassas bichim
+  REPLACE  ...ilk dikkatli kaydı de
+      metin  : prusyalı mühendis gotthilf hagen den gelir hagen bugün daha çok borulardaki sıvı akışıyla ilgili çalışmalarıyla bilinir
+      duyulan: hesapliye bil yorus
+  REPLACE  ...ilgili çalışmalarıyla bilinir ama
+      metin  : kum üzerine yaptığı deneylerde şaşırtıcı şey gördü kaptan delikten akan kumun miktarı kaptaki kum yüksekliğine neredeyze hiç bağlı değildi yükseklik deliğin katını aştıktan sonra ister karış ister meter kum olsun saniyede geçen kum aynıydı yaklaşık asır sonra de hollandalı araştırmacılar beverloo leniger ve van de velde bu gözlemi sayısal yasaya döktü bugün beverloo yasası olarak bilinen bu ilişkiye göer delikten geçen kum miktarı delik çapının inci kuvvetiyle artar deliği katına çıkarırsanız akış yaklaşık kat büyür formülde yüksekliğe dair hiçbir terim yoktur ayrıntı daha var delik çapından tane boyutunun yaklaşık katı kadar pay düşülür sanki deliğin kenarlarında tanelerin giremediği ince ölü şerit vardır tane deliğin
+      duyulan: avuchkum ne
+  REPLACE  ...vardır tane deliğin tam
+      metin  : kenarından geçemez çünkü kendi gövdesi içeride tutar burada durup düşünmek gerekiyor kum da tıpkı su gibi ağırlığı olan maddedir üst haznedeki her tane yerçekimi tarafından aşağı çekilir kum
+      duyulan: katan
+  REPLACE  ...aşağı çekilir kum ne
+      metin  : kadar çoksa toplam ağırlık o kadar büyüktür peki bu ağırlık nereye gidiyor neden deliğin hemen üstündeki taneleer baskı yapıp daha hızlı dışarı itmiyor suda işleyen torricelli yasası kumda neden susuyor bu sorunun cevabı saat atölyesinde değil devasa tahıl depolarında bulundu yüzyılın sonlarında tarım sanayileşiyordu tahıl yüksek ve dar silolarda saklanmaya başlanmıştı mühendislerin önünde ciddi soru vardı bu siloların tabanı ne kadar yüke dayanmalı saf sezgi sıvılardaki gibi düşünmeyi önerirdi silo kat yüksekse tabana kat basınç ama bu varsayımla tasarlanan yapılar ya gereğinden ağır ve pahalı oluyordu ya da beklenmedik yerlerden özellikle duvarlarından hasar görüyordu te alman mühendis h a janssen meseleyi deneyle çözmeye girişti model silolar kurdu mısır taneleriyle doldurdu ve tabana yükü ölçtü sonuç sezgiye tamamen aykırıydı silo doldukça tabandaki basınç önce artıyor ama sonra artış yavaşlıyor ve sonunda neredeyze sabit değeer ulaşıyordu siloya tahıl eklemeye devam ettiğinizde eklenen ağırlık tabana ulaşmıyordu taban noktadan sonra yeni gelen her taneye kayıtsız kalıyordu peki o ağırlık nereye gidiyordu janssen in cevabı duvarlara sıvıda basınç her yöne eşit dağılır ve sıvı molekülleri duvara sürtünerek tutunamaz taneli maddede ize durum farklıdır taneler birbirine yaslanır yükü yalnızca aşağı değil yanlara da iletir yana iletilen yük taneleri duvara bastırır duvarla taneler arasında sürtünme oluşur
+      duyulan: tam sivadar durgan kam yonu uzerne yuriyebilir siniz eyik yuzayde isseh sivagibiyakar salkalanan jadagazgibidavran abilir
+  REPLACE  ...sürtünme oluşur ve bu
+      metin  : sürtünme ağırlığın kısmını yukarı doğru taşır her katman kendi ağırlığının bölümünü duvarlara devreder janssen bunu basit matematiksel modelle ifade etti modele göer tabandaki basınç derinlikle birlikte üstel eğriyle doyum değerine yaklaşır bu doyuma ulaşmak için gereken derinlik silonun çapıyla orantılıdır ve genellikle çap mertebesindedir bu derinliği aştığınızda silonun üst kısmındaki tüm tahıl fiilen duvarlar tarafından taşınır bugün janssen etkisi denen bu olgu silo mühendisliğinin temel taşlarından taneli malzemelerin tehlikeli de var boşaltma sırasında taneler yeniden düzenlenir ve duvarlara yük durgun haldeki değerin çok üstüne çıkabilir siloların duvarlarından yarılması ya da çökmesi bu yüklerin yanlış tahmin edilmesinden doğan gerçek mühendislik sorunudur ama janssen in modeli şeyi açıklamıyordu taneler bu yükü içeride nasıl taşıyor bunu görebilmek için görünmeyeni görünür kılan yönteme ihtiyaç vardı bu yöntem fotoelastisite oldu bazı saydam malzemeler sıkıştırıldıklarında polarize ışık renkli ya da parlak desenler verir duke üniversitesi nden fizikçi robert behringer ve ekibi bu malzemeden yapılmış disklerle boyutlu taneli yığınlar kurdu polarize ışık ortaya çıkan görüntü çarpıcıydı yük yığına eşit dağılmıyordu bazı diskler parlak şekilde ışıldarken hemen yanlarındakiler neredeyze karanlık kalıyordu parlak diskler birbirine bağlanarak dallanan kırık çizgili zincirler oluşturuyordu bunlara kuvvet zincirleri denir kuvvet zincirleri taneli maddenin iskeletidir yükün büyük kısmını tanelerin azınlığı taşır geri kalanlar bu zincirlerin arasında görece rahat durur zincirler düz aşağı inmez eğilir kıvrılır ve çoğu zaman duvarlara dayanır i şte janssen in duvarlara aktarılan ağırlığı bu zincirler aracılığıyla yolculuk eder zincirlerin özel biçimi daha var kemer taş köprünün kemerini düşünün kemerdeki her taş üstündeki yükü komşu taşlara yanlara doğru iter sonunda bütün yük ayaklara iner ve kemerin altındaki boşluk korunur taneli yığında da benzer kemerler kendiliğinden oluşur taneler birbirine kenetlenerek boşluğun üzerinde yay şeklinde yapı kurar ve üstteki ağırlığı yanlara savurur bu kemerler sürekli oluşur çöker ve yeniden kurulur şimdi kum saatine dönelim kumun ağırlığının dibe inmemesinin ilk nedeni bu üst haznedeki kumun büyük kısmı kuvvet zincirleri ve kemerler aracılığıyla camın eğimli duvarlarına yaslanır deliğin üzerindeki taneler bütün kum kütlesinin ağırlığını hissetmez uzun süer hikaye burada bitiyordu ders kitapları kum saatinin sabit akışını janssen etkisiyle açıklıyordu ama yüzyılda yapılan deneyler tablonun daha ince olduğunu gösterdi arjantinli ve fransız araştırmacıların da yayımladığı çalışmada taneler yerçekimiyle değil hareketli bant üzerinde yatay olarak açıklığa doğru taşındı böylece açıklık üzerindeki basınç ile tanelerin akış hızı birbirinden ayrılabildi sonuç netti akış basınca değil açıklığa yakın tanelerin hareketine bağlıydı başka deneyler de basıncın henüz doyuma ulaşmadığı durumlarda bile akışın yükseklikten bağımsız kalabildiğini gösterdi bugünkü uzlaşı şöyle özetlenebilir janssen etkisi gerçektir ve dipteki basıncın neden sınırlı kaldığını açıklar ama akış hızını belirleyen asıl şey deliğin hemen üstünde olup bitenlerdir deliğin üzerinde yaklaşık delik büyüklüğünde hayali kubbe düşünün fizikçiler buna serbest düşüş kemeri der bu kubbenin üstünde taneler birbirine sürtünerek yavaşça ve kalabalık halde aşağı süzülür kubbenin sınırını geçen tane ize komşularından kurtulur ve neredeyze serbestçe düşer düştüğü mesafe delik çapı mertebesinde olduğu için kazandığı hız da yalnızca delik çapına ve yerçekimine bağlıdır üstte ne kadar kum olduğunun önemi yoktur çünkü yukarıdaki kalabalık ancak kubbeye kadar itebilir sonrası özgür düşüştür beverloo yasasındaki inci kuvvet de buradan gelir delik alanı çapın karesiyle büyür tanelerin çıkış hızı ize çapın kareköküyle i kisi çarpıldığında çapın inci kuvveti ortaya çıkar hagen in deki gözleminden beri bilinen bu sayı artık fiziksel resme oturur ancak kemerlerin hikayesinin karanlık yanı da var aynı kemer deliğin tam üstünde kurulursa ne olur o zaman akış durur anda hiçbir uyarı olmadan kum saatinin delik kenarı ile kum tanesi arasındaki oran kritik eşiğin üstünde tutulmazsa tane deliğin ağzında birbirine yaslanır ve köprü kurar bu küçük köprü üstündeki bütün yükü kenarlara aktarır ve sistem kilitlenir bu sanayinin en can sıkıcı sorunlarından tahıl silolarında ilaç fabrikalarında tabletlerin aktığı huni şeklinde kaplarda maden ocaklarındaki cevher bunkerlerinde şeker çimento ve plastik granül hatlarında aynı olay yaşanır akış kesilir birileri gelip kaba vurur titreştirir ya da çubukla dürter i spanya daki navarra üniversitesi nden fizikçi iker zuriguel ve meslektaşları bu tıkanmaları yıllarca sistematik olarak inceledi deneyleri basit görünür ama sabır ister kaba bilyeler doldurulur alttaki delik açılır ve akış kendiliğinden durana kadar beklenir sonra kemer hava püskürtmesiyle kırılır akış yeniden başlar ve sonraki tıkanmaya kadar kaç tane geçtiği sayılır bu işlem binlerce kez tekrarlanır sonuçlar dikkat çekiciydi tıkanmalar arasındaki tane sayısı delik büyüdükçe çok hızlı artıyordu ekibin teki çalışmasında boyutlu küresel taneler için delik çapı tane çapının yaklaşık katına yaklaştıkça tıkanmalar arasındaki ortalama tane sayısının sonsuza gidiyormuş gibi büyüdüğü görüldü bu tanelik eşik olarak bilinir hale geldi delik bundan darsa akış er ya da geç kilitlenir daha genişse tıkanma pratikte görülmeyecek kadar nadir olur burada dürüst olmak gerekiyor bu eşiğin keskin sınır mı yoksa çok dik eğri mi olduğu hala tartışılıyor amerikalı fizikçiler clara thomas ve douglas durian ın teki çalışması tıkanma olasılığının delik genişledikçe üstel olarak azaldığını ama hiçbir zaman tam inmediğini öne sürdü bu görüşe göer yeterince uzun beklerseniz geniş delik bile tıkanabilir yalnızca bu süer evrenin yaşını aşabilir hangi yorumun doğru olduğu henüz kesinleşmiş değil pratikteki sonuç ize aynı kum saati ustaları deliği tanelerin katı genişlikte tutar bu iyi kum saatinde kullanılan kum çoğu zaman sıradan plaj kumu değildir taneleri yuvarlak boyutları birbirine yakın ve nemden arındırılmış özel tozlar seçilir köşeli düzensiz taneler kemer kurmaya daha meyillidir ve şimdi işin en tuhaf belki de en güzel kısmı geliyor zuriguel in ekibi de soru sordu deliğin hemen üstüne küçük engel koyarsak ne olur sezgi bunun durumu kötüleştireceğini söyler zaten dar olan geçidin önüne de engel koymak işleri daha da zorlaştırmalıdır ama deney tam tersini gösterdi deliğin üstüne doğru mesafede yerleştirilen küçük engel tıkanma olasılığını kata varan oranlarda düşürdü üstelik akış hızı neredeyze hiç değişmedi bunun sırrı engelin yaptığı işte saklı engel üstten gelen yükün kısmını üstlenir deliğin hemen üstündeki tanelerin sıkışmasını azaltır ve onların daha gevşek düzenle kubbeye ulaşmasını sağlar kemer kurulabilmesi için tanelerin aynı anda doğru açılarla ve yeterince sıkı biçimde araya gelmesi gerekir engel bu buluşmayı bozar anlamda janssen in silolarında duvarların yaptığı işi küçük ölçekte ve tam gereken yerde yapar bu bulgu yalnızca tahıl ya da bilye için değil zuriguel ve meslektaşları te çok farklı sistemleri aynı çerçevede karşılaştırdı silodan akan taneler sıvı içinde süzülen mikroskobik parçacıklar dar kapıdan ahıra giren koyunlar ve çıkışa yönelen insan kalabalıkları hepsinde akışın kesintili patlamalar halinde ilerlediği ve tıkanmaların benzer istatistikleer uyduğu görüldü bu sistemlerin ortak yanı tek tek bireylerin değil birbirine yaslanan kalabalığın davranışını belirleyen darboğazdır kalabalıklarla ilgili olgu özellikle dikkat çekicidir bilgisayar benzetimleri ve bazı deneyler insanlar çıkışa daha çok iterek yöneldiğinde tahliyenin hızlanmayıp yavaşlayabildiğini gösteriyor buna daha hızlı olan daha yavaştır etkisi denir i tme arttıkça vücutlar arasında kemer oluşma olasılığı artar ve kapı tıkanır buradan doğan fikir acil çıkışların önüne uygun sütun koymaktır bu fikir benzetimlerde ve kontrollü deneylerde umut verici sonuçlar verdi ama insan kalabalığı bilyelerden çok daha karmaşıktır i nsanlar düşünür korkar birbirine yol verir bu nedenle sütunların gerçek binalarda güvenilir çözüm olup olmadığı hala araştırılıyor ve kesin tasarım kuralına dönüşmüş değil taneli maddenin bu kadar şaşırtıcı olmasının derin nedeni var fizik katıları ve sıvıları iyi anlıyor sıvının akışını yakın geçmişi olan denklemlerle oldukça hassas biçimde hesaplayabiliyoruz ama avuç kum ne tam katı ne tam sıvıdır durgun kum yığını üzerine yürüyebilirsiniz eğik ize sıvı gibi akar çalkalanınca da gaz gibi davranabilir ve bu hal arasındaki geçişi tüm koşullarda doğru tahmin eden herkesin kabul ettiği
+      duyulan: chalar asan dekegechi tumkoshu lardar doru tahmina den herkezin kabuleti
+  REPLACE  ...kabul ettiği tek kuram
+      metin  : henüz
+      duyulan: heinuz
+  REPLACE  ...tek kuram henüz yok
+      metin  : son yılda önemli ilerlemeler kaydedildi
+      duyulan: san yermeilde unemni ilar le melar kaididilte
+  REPLACE  ...önemli ilerlemeler kaydedildi ama
+      metin  : tıkanmanın kuvvet zincirlerinin
+      duyulan: tikan manan kuvetzinjir lerenin
+  REPLACE  ...tıkanmanın kuvvet zincirlerinin ve
+      metin  : kemerlerin
+      duyulan: ke marleren
+  REPLACE  ...zincirlerinin ve kemerlerin tam
+      metin  : kuramı fizikçiler arasında hala açık soru olarak görülüyor
+      duyulan: kuramu fizik chilarar asan da halar achuk sorolar aqyuryor
+  REPLACE  ...soru olarak görülüyor bu
+      metin  : sorunun önemi
+      duyulan: soronun unemi
+  REPLACE  ...bu sorunun önemi kum
+      metin  : saatinin çok ötesine uzanıyor dünyada işlenen hammaddelerin çok büyük kısmı taneli haldedir tahıllar madenler ilaç tozları kömür çimento bunları taşırken depolarken
+      duyulan: satinin chokotesine usan yor dun yada ish lenan hamad delerin chok buyuk kasmatan e lehaldedir tahullar madenar ilachtozleri kumur chimento bunlar tashir ken depolar ken
+  REPLACE  ...bunları taşırken depolarken ve
+      metin  : boşaltırken harcanan enerjinin
+      duyulan: boshaltur ken harjanan enarjinin
+  REPLACE  ...boşaltırken harcanan enerjinin ve
+      metin  : yaşanan kesintilerin önemli bölümü
+      duyulan: yashanan ke sintilaren unemni birbulumu
+  INSERT   ...kesintilerin önemli bölümü tam
+      metin  : (yok)
+      duyulan: dabutakan ma vebasin chorunarandan keinaklanur silon divi nayar leishtir lejek doru bichim de kuchuk engal fabrikahattan
+  REPLACE  ...önemli bölümü tam da
+      metin  : bu tıkanma
+      duyulan: satlarje suran durushlaer unnei bilir aye yada marsta topra kazup ish lemei pilan nayan muhendislar da aina fizik da karsi karsi adar orada yarchekim i farkludur
+  REPLACE  ...da bu tıkanma ve
+      metin  : basınç sorunlarından kaynaklanır silonun dibine yerleştirilecek doğru biçimde küçük engel fabrika hattında saatlerce süren duruşları önleyebilir ay ya
+      duyulan: tozlarun davran shadun yada ki denai lardan tamolar aqtahmina dilemas bunedan ne dushuk yarchekim in detanel e akusha injelayan denai larsuryor ve bichun bunarun kuchuk urnai halabir rafta mutfaktez giahan
+  REPLACE  ...önleyebilir ay ya da
+      metin  : mars ta toprağı kazıp işlemeyi planlayan mühendisler de aynı fizikle karşı karşıyadır orada yerçekimi farklıdır ve tozların davranışı dünya daki deneylerden tam olarak tahmin edilemez bu nedenle düşük yerçekiminde taneli akışı inceleyen deneyler sürüyor ve bütün bunların küçük örneği hala rafta mutfak tezgahında ya da
+      duyulan: yada
+  REPLACE  ...ya da masa oyununun
+      metin  : kutusunda duruyor
+      duyulan: kutusundaduryor
+  REPLACE  ...oyununun kutusunda duruyor kum
+      metin  : saatini ters çevirdiğinizde üst hazneye dolan binlerce
+      duyulan: sati ni terseche virdinizde ust hasni adolan narje
+  REPLACE  ...hazneye dolan binlerce tane
+      metin  : hemen işe koyulur birbirine yaslanır kemerler
+      duyulan: hemani shekoyulur yaslanur ke merlar
+  REPLACE  ...birbirine yaslanır kemerler kurar
+      metin  : ağırlıklarını cam duvarlara aktarır deliğin üstündeki küçük kubbeye ulaşan her tane kalabalıktan ayrılıp serbestçe düşer delik yeterince geniş ve taneler yeterince
+      duyulan: oyar leklarun jamdovarlar aqtarur de lien ustunde ki kuchuk kubayu lashan hertane kalabaluktan ayrilup sarbeis chedushar de la kerense jeni shvetan elar ye terinja
+  REPLACE  ...ve taneler yeterince yuvarlak
+      metin  : olduğu için kemerler deliğin ağzında kalıcı köprü kuramaz böylece zaman torricelli nin su saatlerinde olduğu
+      duyulan: oldu ichen ke merlar delin asan da kalujibir kurprukuramas vayle jezaman tori chelinin sus atlerin da oldu
+  REPLACE  ...su saatlerinde olduğu gibi
+      metin  : yavaşlamadan aynı ritimle akar
+      duyulan: yawashlamadan ayniritim la aqar
+  REPLACE  ...aynı ritimle akar kumun
+      metin  : ağırlığı dibe inmez çünkü
+      duyulan: arlu dibein maz chunku
+  REPLACE  ...dibe inmez çünkü yolda
+      metin  : taşıyan görünmez mimari vardır nöron
+      duyulan: onutashian gurun maz mi mari wardar niran
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 1989 kelime | duyulup metinde OLMAYAN: 1231
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-03.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-03.mp3
+
+beklenen 1512 kelime | duyulan 1547 kelime | eşleşme %95.7
+sayı ifadesi: metinde 255, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu yarışmaya katıldı niklas
+      metin  : hed
+      duyulan: het
+  REPLACE  ...katıldı niklas hed yarno
+      metin  : vekevaynen
+      duyulan: ve kevainen
+  REPLACE  ...yarno vekevaynen ve kim
+      metin  : dikert
+      duyulan: dickert
+  INSERT   ...da kendi şirketlerini kurdular
+      metin  : (yok)
+      duyulan: çiğki te
+  REPLACE  ...şirketlerini kurdular aile yatırımcısı
+      metin  : kay hed
+      duyulan: kai het
+  INSERT   ...nun yaptığı oyun sayısı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...kişiye yaklaşan kadroya ulaşmıştı
+      metin  : (yok)
+      duyulan: kiki in
+  INSERT   ...darbeyi alanlar arasında oldu
+      metin  : (yok)
+      duyulan: kiki a
+  REPLACE  ...artık sıkıcı soru soruyordu
+      metin  : devam
+      duyulan: kıvam
+  REPLACE  ...cebine koyabiliyordu bu arada
+      metin  : kay hed
+      duyulan: kai head
+  REPLACE  ...niklas ın kuzeni mikael
+      metin  : hed
+      duyulan: head
+  INSERT   ...değil kendi oyununu yapacaktı
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...topladı kıdemli oyun tasarımcısı
+      metin  : yakko i salo
+      duyulan: jacco isalo
+  INSERT   ...anlamda gazete manşetlerinden geldi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...crush the castle yani
+      metin  : kaleyi
+      duyulan: kale i
+  REPLACE  ...soran küçük bulmacaya dönüşüyordu
+      metin  : puanlama
+      duyulan: poanlama
+  INSERT   ...gerçekten de son kozlardan
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...de son kozlardan aralık
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...a tanıttı ve şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...öne çıkan oyunu olarak
+      metin  : vitrine
+      duyulan: litrine
+  REPLACE  ...bu da adeta kendi
+      metin  : kendini
+      duyulan: kendine
+  INSERT   ...temalarla yeni sürümler hazırladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rovio nun pazarlama peter
+      metin  : vesterbaka kapüşonlu
+      duyulan: westerbaka kapişonlu
+  REPLACE  ...peter vesterbaka kapüşonlu kırmızı
+      metin  : sweatshirt üyle
+      duyulan: sweatshirtiyle
+  REPLACE  ...konferanslarında boy gösteriyor angry
+      metin  : ün
+      duyulan: ın
+  REPLACE  ...angry ün oyundan fazlası
+      metin  : mickey
+      duyulan: mitchie
+  INSERT   ...oyun parkları açıldı mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eğlence şirketine dönüşmüştü mikael
+      metin  : hed
+      duyulan: head
+  INSERT   ...yarattığı heyecanı yakalamakta zorlandı
+      metin  : (yok)
+      duyulan: kiki de
+  INSERT   ...büyük bahsini sinemaya yaptı
+      metin  : (yok)
+      duyulan: kiki da
+  INSERT   ...sorunları olan aksi kahramandı
+      metin  : (yok)
+      duyulan: kiki da
+  INSERT   ...film geldi rovio da
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bugüne bakan son halkası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...siparişlerini yetiştirmeye çalışan küçük
+      metin  : fin
+      duyulan: film
+  REPLACE  ...duyuldu bilgileer dair not
+      metin  : operatör
+      duyulan: not kerator
+  REPLACE  ...dair not operatör için
+      metin  : metnin
+      duyulan: metin in
+  INSERT   ...yapılmadan bilgilerime dayanarak yazıldı
+      metin  : (yok)
+      duyulan: mamnu
+  REPLACE  ...bilerek genel ifade ettim
+      metin  : kay hed
+      duyulan: kai head
+  REPLACE  ...kay hed ile niklas
+      metin  : hed
+      duyulan: head
+  REPLACE  ...arasındaki akrabalık aile yatırımcısı
+      metin  : şenliğin
+      duyulan: key teki shenley in
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-11-03.duyulan.txt

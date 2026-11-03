@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-03.mp3
+
+beklenen 2048 kelime | duyulan 2050 kelime | eşleşme %90.1
+sayı ifadesi: metinde 231, duyulanda 188  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şiirlerinde kullandığı mahlasla tanıyoruz
+      metin  : nevai
+      duyulan: nevay
+  REPLACE  ...mahlasla tanıyoruz nevai yani
+      metin  : nağme
+      duyulan: name
+  INSERT   ...olan ali şir şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...küçük çocuğun böyle tasavvufi
+      metin  : eseri
+      duyulan: eseer
+  INSERT   ...oraya daha çok var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karşılaşma oldu ünlü tarihçi
+      metin  : şerefeddin
+      duyulan: şerefettin
+  REPLACE  ...ile şiir arasında aradı
+      metin  : meşhed de
+      duyulan: meşhet te
+  REPLACE  ...ta okudu siyasi rüzgar
+      metin  : heradın
+      duyulan: herat ın
+  REPLACE  ...semerkant a geçti orada
+      metin  : fazlullah
+      duyulan: fazullah
+  DELETE   ...geçti orada fazlullah ebu
+      metin  : l
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kalemde geleceği gördüğünü gösterir
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ele geçirip tahta oturdu
+      metin  : semerkant
+      duyulan: semerkand
+  REPLACE  ...kişi anlamına gelen özel
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...unvan verip yanında tuttu
+      metin  : nevai
+      duyulan: neva yı
+  REPLACE  ...sonra resmi makamdan çok
+      metin  : hami
+      duyulan: hamı
+  REPLACE  ...kültür önderi olarak yaşadı
+      metin  : herat
+      duyulan: herad
+  REPLACE  ...sanat merkezlerinden oldu minyatürde
+      metin  : bihzad
+      duyulan: bihzat
+  REPLACE  ...oldu minyatürde bihzad müzikte
+      metin  : hat
+      duyulan: had
+  REPLACE  ...çalışıyordu pek çoğunun arkasında
+      metin  : nevai nin
+      duyulan: neva yı nın
+  REPLACE  ...köprüleer ve darüşşifaya harcadı
+      metin  : herat taki
+      duyulan: herad daki
+  REPLACE  ...harcadı herat taki i
+      metin  : hlasiyye
+      duyulan: hlasiye
+  REPLACE  ...akla gelen dil farsçaydı
+      metin  : nevai
+      duyulan: neva y
+  REPLACE  ...yazan şairler elbette vardı
+      metin  : harezm de orda
+      duyulan: harezmede altınorda
+  REPLACE  ...gölgenin kalan küçük ışıklardı
+      metin  : nevai
+      duyulan: nevay
+  REPLACE  ...kendi kalemiyle yeniden işledi
+      metin  : nevai nin
+      duyulan: nevay ın
+  REPLACE  ...da hocası ve abdurrahman
+      metin  : cami
+      duyulan: camii
+  REPLACE  ...hamse yazmak kendi dilinde
+      metin  : nizami ile
+      duyulan: nizamiyle
+  REPLACE  ...kadar tam hamse yoktu
+      metin  : nevai
+      duyulan: nevay
+  INSERT   ...nevai bu işe yaklaşık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...l ebrar yani i
+      metin  : yilerin
+      duyulan: lil in
+  REPLACE  ...her bahsi kısa hikayelerle
+      metin  : süsler nevai
+      duyulan: süslüyor nevay
+  REPLACE  ...istiyordu i kinci mesnevi
+      metin  : ferhad ü şirin
+      duyulan: ferhat üşir in
+  REPLACE  ...ferhad ü şirin burada
+      metin  : nevai nin
+      duyulan: nevay ın
+  REPLACE  ...şirin e aşkı vardı
+      metin  : ferhad
+      duyulan: ferhat
+  REPLACE  ...dağ delen taş ustasıydı
+      metin  : nevai
+      duyulan: nevay
+  REPLACE  ...tersine çevirdi kendi mesnevisinde
+      metin  : ferhad
+      duyulan: ferhat
+  REPLACE  ...ama hileye başvuran rakiptir
+      metin  : ferhad
+      duyulan: ferhat
+  REPLACE  ...başında hayata veda eder
+      metin  : nevai nin
+      duyulan: nevay ın
+  REPLACE  ...farsça edebiyatta defalarca işlenmişti
+      metin  : nevai nin
+      duyulan: nevay ın
+  REPLACE  ...i seyyar yani gezegen
+      metin  : sasani
+      duyulan: sassani
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 94 kelime | duyulup metinde OLMAYAN: 96
+bölme/birleşme farkı (hata değil, elendi): 70
+
+duyulan metin: edebiyat-2026-11-03.duyulan.txt

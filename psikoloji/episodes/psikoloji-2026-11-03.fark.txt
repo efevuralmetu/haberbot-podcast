@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-03.mp3
+
+beklenen 1510 kelime | duyulan 1523 kelime | eşleşme %97.3
+sayı ifadesi: metinde 168, duyulanda 145  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çiftlik avlusu düşünün yıl
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...alan kişi tarım mühendisi
+      metin  : maksimilyen ringelman
+      duyulan: maximilian ringelmann
+  REPLACE  ...aslında aklında psikoloji yok
+      metin  : ringelman
+      duyulan: ringelmann
+  REPLACE  ...aşağı yukarı kişilik kuvvet
+      metin  : ringelman
+      duyulan: ringelmann
+  INSERT   ...uzun süer bekletti ancak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...doğruluk payı var ama
+      metin  : ringelman
+      duyulan: ringelmann
+  INSERT   ...cevabı neredeyze asır bekledi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sandığımız önemliydi yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tembel insanların özelliği değildi
+      metin  : gönüllüyü
+      duyulan: gönüllüğü
+  REPLACE  ...gönüllüyü de çalışkanı da
+      metin  : hevesliyi
+      duyulan: hevesliği
+  REPLACE  ...çabaladığını tahmin etmeye başlıyor
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...psikolog norbert kerr bunu
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...gösterdi grubun üyesinin işi
+      metin  : savsakladığını
+      duyulan: saf sakladığını
+  REPLACE  ...sahibinin belirsizleştiği her köşede
+      metin  : ringelman
+      duyulan: ringelmann
+  REPLACE  ...bu koşulların neler olduğu
+      metin  : ringelman
+      duyulan: ringelmann
+  REPLACE  ...bu tüm hikayenin anahtarı
+      metin  : steven karau
+      duyulan: stephen carow
+  INSERT   ...karau ve kipling williams
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ekibi küçük birimleer bölmek
+      metin  : ringelman ın
+      duyulan: ringelmannın
+  REPLACE  ...biliyoruz ki inanç ile
+      metin  : iber
+      duyulan: ibri
+  REPLACE  ...gücünü yeniden hissedebildiği düzen
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 26
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: psikoloji-2026-11-03.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-03.mp3
+
+beklenen 2985 kelime | duyulan 2969 kelime | eşleşme %96.5
+sayı ifadesi: metinde 221, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...limanları kapatacaktı biblos ve
+      metin  : arvad
+      duyulan: arvat
+  REPLACE  ...surlar sarıyordu antik yazar
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...karşısında denizden yükselen taş
+      metin  : dağ
+      duyulan: daha
+  REPLACE  ...baktığı için sayda limanı
+      metin  : güneydekine
+      duyulan: yüneydekine
+  REPLACE  ...tarafsızlıkta açık tehdit gördü
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...u arkada bırakırsa persler
+      metin  : kıyıyı
+      duyulan: kıyıyi
+  REPLACE  ...denize attılar bu ayrıntıyı
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...yapılacaktı bu dolguya yunanlılar
+      metin  : khoma
+      duyulan: koma
+  REPLACE  ...kulelerini ve koçbaşlarını getirebilecekti
+      metin  : coğrafya
+      duyulan: koğrafya
+  REPLACE  ...zorluk adaya yaklaştıkça başlıyordu
+      metin  : arrianos
+      duyulan: arianos
+  DELETE   ...dibinde derinlik kulaca yani
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...lübnan dağlarından kütükler kesildi
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...binlerce yerli de vardı
+      metin  : kurtius
+      duyulan: setius
+  DELETE   ...i skender in babası
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...büyük gelişme göstermişti teselyalı
+      metin  : polyidos
+      duyulan: polididos
+  REPLACE  ...teselyalı polyidos adlı mühendis
+      metin  : filibin
+      duyulan: filip in
+  REPLACE  ...filibin kuşatmalarında çalışmış öğrencisi
+      metin  : diades de
+      duyulan: diyades te
+  REPLACE  ...katılmıştı romalı mimar vitruvius
+      metin  : diades
+      duyulan: diyades
+  REPLACE  ...sur u i skender
+      metin  : le
+      duyulan: ile
+  REPLACE  ...gemi yangın silahına dönüştürüldü
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...taşların arasındaki dolguyu yıkadı
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...taşıyan muhafız birliklerini ve
+      metin  : agrianlı
+      duyulan: agriyanlı
+  REPLACE  ...tapınakları artık makedonların elindeydi
+      metin  : arrianos
+      duyulan: aryanos
+  INSERT   ...hafta içinde hiç savaşmadan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...geçirdi sayda ya döndüğünde
+      metin  : peloponnez
+      duyulan: peloponnes
+  REPLACE  ...skender surlu gemileer karşı
+      metin  : kürekli
+      duyulan: küreklü
+  REPLACE  ...nöbete koydu surlu dalgıçlar
+      metin  : sualtından
+      duyulan: su
+  REPLACE  ...moralini korumak zorlaştı hem
+      metin  : diodoros
+      duyulan: diodorus
+  REPLACE  ...skender de rüya gördü
+      metin  : arrianos
+      duyulan: arianos
+  REPLACE  ...gemilerine saldırdı kıbrıs kralı
+      metin  : pnitagoras
+      duyulan: pinitagoras
+  REPLACE  ...kendi sıra kürekli gemisi
+      metin  : androkles
+      duyulan: androples
+  REPLACE  ...günlerde kullandığı yöntemleri anlatır
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...koçbaşı gemilerini güney surundaki
+      metin  : gediğe
+      duyulan: gediye
+  REPLACE  ...bölümünü yıktı ardından gemi
+      metin  : gediğe
+      duyulan: gediye
+  REPLACE  ...muhafız ötekinde koinos un
+      metin  : falanks
+      duyulan: phalanx
+  REPLACE  ...aynı anda vuruluyordu admetos
+      metin  : gediğe
+      duyulan: gediye
+  REPLACE  ...mızrak darbesiyle düştü arkadaşları
+      metin  : yerini
+      duyulan: yerine
+  REPLACE  ...kaybetmiş askerlerde öfke biriktirmişti
+      metin  : arrianos
+      duyulan: aryanos
+  REPLACE  ...boyunca surlu çarmıha gerildi
+      metin  : arrianos
+      duyulan: aryanos
+  REPLACE  ...sessizce kaçırıyordu makedonların kaybı
+      metin  : arrianos
+      duyulan: aryanos
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: tarih-2026-11-03.duyulan.txt

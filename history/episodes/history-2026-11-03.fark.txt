@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-03.mp3
+
+beklenen 2904 kelime | duyulan 2162 kelime | eşleşme %9.0
+sayı ifadesi: metinde 181, duyulanda 97  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...never would be again
+      metin  : milattan önce yılının sonbaharında i sos ovası nda pers kralı dareios ordusunu bırakıp kaçtığında makedonyalı i skender önünde yol buldu kaçan kralın peşine düşüp mezopotamya nın içlerine dalabilirdi
+      duyulan: it was the last time tyer had ever been taken away from the sea and it never would be again then a young king refused to be turned away from its temple and ordered his men to do what no thought possible to fil the sea itself with earth months later tyer was no longer an island and it never would be again months later tyer was no longer an island and it never would be again months later tyer was no longer an island and it never would be again months later tyer was no longer an island and it never would be again months later tyer was no longer an island and it never would be again months later tyer was no longer an island and it never would be again months later tyer was no longer an island and it never would be again bölle jeset denizin ortasanda ilar lian vekandikän deni savunan birkaläyedunustu kula lärdan atalan mer surluge uzaktutuyar surlerun uzerin deki savunu jullerda rahatsi zeduyardu mendirek artek surlarau olduk chaya klashmishte suryalar buyoltam amlanursa adanan adawal maktanchi kajana veşehir lernin kadirinin karada savasan dunjanan eni ordusuna kalajana annamishte shayyap malar gerek yordu ve yapta klar shayy buku shatmanan enchok anna talan sahnilirindam edunu shajekte suryalar enplanar gemi isilaha chevir mekte eriyanosasun ayran tala anna tamunagaer atta shumakichin
+  INSERT   ...nın içlerine dalabilirdi ya
+      metin  : (yok)
+      duyulan: palmushgeniş buyuk gemi sechtilar ambaran kurudalar chira odunlar zift kukurt vehemantutu shajak hartur lumaazemäyla döldur dular prüvaya ikidirek tiktilar ve herdirein serena ajuna alevaldun
+  REPLACE  ...içlerine dalabilirdi ya da
+      metin  : güneye fenike kıyısına inebilirdi i kinciyi seçti çünkü sorun hala çözülmemişti pers donanması ege
+      duyulan: yana gemalze mey asadu kejek kazan na rasildu sanra kuchtarafuna tash ve kum döldur arak ar lashtir dular böyülece kuchtsuya gömüldu pruva hawaya kalkte böyüran te nidu gemi mendireye caktun da burnu tash setin uzerne biniptam küleleren dibine ulaşa bilejekte saldarichin rüzgean sehirdan mendireye döra esme sini bekte dular uygeun güngaildin da ateshgemi sekurek di savashgemi lerne balanü bhizla setedor ucekildu sananda ichirai dekhi ateshya kildu gemi icekyan murete baat halatler ke sti ve denizye atleirak yuzupuzak lashtir alevelerichin dekhi gövde ruzgearan da etkisi leivme kazanarak mendirein ujuna ikki kulenin unun echarpte direklar dekhi seren nar karildu kazan narda ke yana gemalze mekulleren ustun eboşalde deri keplamal arbu ateshe dyanamadu ikki kulle
+  REPLACE  ...pers donanması ege de
+      metin  : dolaşıyordu
+      duyulan: kasasuer da alevalda buşra da surlu gemileer mendirein yana nayana shep yangunu söndur meçalu shan makedon yalelera okya adarda aina anda sehir dan küçük teknelarle cakan surlu larsetin farklun oktalerna cakte iştileer koromakicin cakalmushkazekler sekupatte
+  REPLACE  ...ege de dolaşıyordu ve
+      metin  : bu donanmanın bel kemiği fenike şehirlerinin gemileriydi kıyıdaki limanlar pers e bağlı kaldıkça i skender kara savaşlarını kazansa bile denizde her an arkadan vurulabilirdi o plan basitti limanları tek tek almak donanmayı denizde yenmek yerine üssüz bırakmak i lk aşama kolay geçti arvad kapılarını açtı biblos teslim oldu sayda halkı pers yönetiminden memnun olmadığı için makedonyalıları neredeyze sevinçle karşıladı
+      duyulan: ateshin ullashmadu kushatma makinelereni dejakte eylar der suran emein en deyarli kasme birarledan
+  REPLACE  ...neredeyze sevinçle karşıladı sonra
+      metin  : sıra sur a geldi sur fenike şehirlerinin en zengini ve en gururlusuydu akdeniz in yanına koloniler kurmuş kartaca yı doğurmuş mor boyası ve ticaret filolarıyla adını uzak kıyılara duyurmuştu ama sur u asıl farklı kılan coğrafyasıydı şehrin kalbi karada değil kıyıdan yaklaşık meter açıktaki adanın üzerindeydi karadaki eski yerleşim eski sur denilen mahalle kıyıda kalmıştı asıl şehir surları doğrudan denizden yükselen kaya adasıydı surlular i skender e karşı düşmanca davranmadı tam tersine yolda karşılamak üzeer elçiler gönderdiler arrianos un anlatımına göer bu heyette sur kralı azemilkos un oğlu
+      duyulan: ichinde kuloldu kirches büne felaket
+  REPLACE  ...azemilkos un oğlu da
+      metin  : vardı kralın kendisi o sırada pers donanmasıyla birlikte denizdeydi elçiler sur un i skender in istediği her şeyi yapmaya hazır olduğunu söylediler i skender bu sözleer teşekkür etti ve isteğini iletti şeher girip herakles e kurban sunmak istiyordu bu istek göründüğü kadar masum değildi yunanlıların herakles dediği tanrı surluların koruyucusu melkart tı adadaki tapınağı fenike dünyasının en eski ve en saygın kutsal mekanlarından makedonya kral soyu da kendini herakles e bağlıyordu yani i skender hem dini görev yerine getirmek hem de atasının tapınağında şehrin en kutsal noktasında şehrin yeni efendisi olarak görünmek istiyordu üstelik takvim de anlamlıydı melkart ın büyük yıllık bayramı yaklaşıyordu surluların cevabı kibar ama kesindi i skender kurbanını kıyıdaki eski sur da bulunan eski herakles tapınağında sunabilirdi ama adadaki şeher ne pers ne de makedon girecekti sur bu savaşta tarafsız kalmayı seçiyordu bu kendi bakış açılarından makul hesaptı savaş henüz bitmemişti dareios yeni ordu toplayabilirdi kapılarını i skender e açan şehir persler geri döndüğünde bunun bedelini ödeyebilirdi ayrıca yüzyıllardır hiçbir ordunun bu adayı zorla alamadığını biliyorlardı buçuk asır kadar önce babil kralı nebukadnezar şehri yıl kuşatmış sonunda ancak anlaşmayla yetinmek zorunda kalmıştı adanın etrafındaki deniz surluların gözünde aşılmaz hendekti i skender için ize bu cevap kabul edilemezdi arrianos kralın öfkeyle elçileri geri gönderdiğini ve komutanlarını toplayıp konuşma yaptığını anlatır bu konuşmada i skender in mantığı açıkça görülür mısır a yürürken arkada bağımsız sur bırakmak denizin perslerin elinde kalması demekti sur düşerse bütün fenike düşecek fenike gemileri pers donanmasından kopacak kıbrıs da peşinden gelecekti sur kurban meselesi olarak başlamıştı ama artık bütün seferin anahtarıydı quintus curtius işin adım daha ileri gittiğini yazar göer i skender barış için şeher haberciler yolladı surlular
+      duyulan: ha ekler guer kasasuer sonra cakanshi detli furtana dalgaleren altano oydu mendirein buyük bölümenu parchalade tashlar kayyip derin suyagümüldu mäkadon kampun
+  REPLACE  ...yolladı surlular da bu
+      metin  : habercileri öldürüp cesetlerini surlardan denize attı arrianos
+      duyulan: darbe moralacisun dan balki yangun dan da arde baaz easkerler
+  REPLACE  ...denize attı arrianos bu
+      metin  : ayrıntıyı vermez bu olayın böyle yaşanıp yaşanmadığı tartışmalıdır ama hangi anlatıyı izlersek izleyelim sonuç aynıdır milattan önce yılının kış aylarında i skender kuşatma kararını verdi sorun şuydu ki elinde neredeyze hiç gemi yoktu ve düşman denizin ortasındaydı i skender in bulduğu çözüm ilk duyulduğunda delilik gibi görünüyordu gemisi olmadığına göer denize yol yapacaktı kıyıdan adaya doğru taş ve topraktan set mendirek uzatacak ordusunu bu yolun üzerinden şehrin surlarının dibine kadar yürütecekti coğrafya bu fiker kapı aralıyordu kıyıya yakın sular sığ ve çamurluydu işçiler oraya taş yığarak hızla ilerleyebiliyordu ama adaya yaklaştıkça deniz derinleşiyordu arrianos a göer şehrin hemen önünde derinlik kulaç kadardı yani ila meter civarı bunun yanında güneybatı rüzgarı estiğinde dalgalar boğazın içine sert biçimde giriyordu diodoros a göer mendirek yaklaşık meter genişliğinde planlandı bu kadar geniş yolun amacı belliydi üzerinde yalnızca askerler değil devasa kuşatma kuleleri de yürüyebilmeliydi malzeme etraftan toplandı lübnan dağlarından kesilen ağaçlar kazık olarak çamura çakıldı taşlar için ize i skender kıyıdaki eski sur u kullandı surluların kurban sunmasını teklif ettiği eski şehir evleri ve duvarlarıyla birlikte sökülüp denize döküldü bunda acı ironi vardı surluların atalarının ilk yerleşimi şimdi torunlarının şehrine uzanan yolun temeli oluyordu çevredeki köylerden ve şehirlerden binlerce işçi toplandı i skender çalışmanın başında bizzat bulundu işçileri teşvik etti iyi çalışanları ödüllendirdi i lk haftalarda iş beklenenden hızlı ilerledi sığ suda kazıklar kolayca tutunuyor aralarına dökülen taş ve çamur sağlam zemin oluşturuyordu surlular başta bu işle alay ettiler kaynaklar gemilerle yaklaşıp işçileer seslenen ve i skender in denizi karaya mı çevirmeye çalıştığını soran surluları anlatır ama mendirek ilerledikçe alaycı sesler yerini endişeye bıraktı bu endişe sur içinde tuhaf biçimde de kendini gösterdi curtius şehirde apollon un büyük heykeli bulunduğunu ve surlunun rüyasında bu tanrının şehri terk etmek istediğini gördüğünü yazar halk heykeli zincirlerle kaidesine bağladı tanrı kaçmasın diye başka anlatıya göer ize rüya gören i skender di plutarkhos kralın kuşatma sırasında rüyasında herakles in surların üstünden el uzatıp çağırdığını gördüğünü aktarır her taraf
+      duyulan: yishin bashtan imkansu söldunu acikca söylemeya bashtamushta iskandar en jevaba geriçekin mektil
+  REPLACE  ...aktarır her taraf da
+      metin  : gökyüzüne bakıyor tanrıların kimden yana olduğunu soruyordu mendirek derin suya ulaştığında işler değişti artık işçiler surların ok menziline girmişti yüksek surlardan arrianos a göer kara tarafında yer yer metreye varan duvarlardan ok ve taş yağıyordu daha kötüsü surluların donanması vardı ve bu donanma mendireğin yanına kolayca yaklaşabiliyordu kürekli savaş gemileri sete sokulup taşları taşıyan kazık çakan işçileer saldırıyordu çalışanlar ağır yük hareket edemez haldeydi zırh da giyemiyorlardı kayıplar artmaya başladı i skender bu tehdide karşı mühendislikle cevap verdi mendireğin ucuna en ileri noktaya yüksek kule diktirdi kuleler ahşaptan yapılmıştı ama yanmaya karşı ham deri ve postlarla kaplanmıştı tepelerine taş ve ok fırlatan mancınıklar yerleştirildi kulelerin önünde ize işçileri korumak için deri perdeler gerildi böylece set denizin ortasında ilerleyen ve kendi kendini savunan kaleye dönüştü kulelerden atılan mermiler surlu gemilerini uzak tutuyor surların üzerindeki savunucuları da rahatsız ediyordu mendirek artık surlara oldukça yaklaşmıştı surlular bu yol tamamlanırsa adanın ada olmaktan çıkacağını ve şehirlerinin kaderinin karada savaşan dünyanın en iyi ordusuna kalacağını anlamıştı şey yapmaları gerekiyordu ve yaptıkları şey bu kuşatmanın en çok anlatılan sahnelerinden dönüşecekti surluların planı gemiyi silaha çevirmekti arrianos un ayrıntılı anlatımına göer at taşımak için yapılmış geniş büyük gemi seçtiler ambarını kuru dallar çıra odunları zift kükürt ve hemen tutuşacak her türlü malzemeyle doldurdular pruvaya direk diktiler ve her direğin seren ağacına alev aldığında yanıcı malzemeyi aşağı dökecek kazanlar asıldı sonra kıç tarafına taş ve kum doldurarak ağırlaştırdılar böylece kıç suya gömüldü pruva havaya kalktı bu ayrıntı önemliydi gemi mendireğe çarptığında burnu taş setin üzerine tam kulelerin dibine ulaşabilecekti saldırı için rüzgarın şehirden mendireğe doğru esmesini beklediler uygun gün geldiğinde ateş gemisi kürekli savaş gemilerine bağlanıp hızla sete doğru çekildi son anda içerideki ateş yakıldı gemiyi çeken mürettebat halatları kesti ve denize atlayarak uzaklaştı alevler içindeki gövde rüzgarın da etkisiyle ivme kazanarak mendireğin ucuna kulenin önüne çarptı direklerdeki serenler kırıldı kazanlardaki yanıcı malzeme kulelerin üstüne boşaldı deri kaplamalar bu ateşe dayanamadı i ki kule de kısa sürede alev aldı bu sırada surlu gemileri mendireğin yanına yanaşıp yangını söndürmeye çalışan makedonyalılara ok yağdırdı aynı anda şehirden küçük teknelerle çıkan surlular setin farklı noktalarına çıktı işçileri korumak için çakılmış kazıkları söküp attı ve ateşin ulaşmadığı kuşatma makinelerini de yaktı aylardır süren emeğin en değerli kısmı öğleden sonra içinde kül oldu curtius buna felaket daha ekler göer kısa süer sonra çıkan şiddetli fırtına dalgaların oyduğu mendireğin büyük bölümünü parçaladı taşlar kayıp derin suya gömüldü makedon kampında bu darbe moral açısından belki yangından da ağırdı bazı askerler bu işin baştan imkansız olduğunu açıkça söylemeye başlamıştı i skender in cevabı geri çekilmek değil daha büyüğünü yapmaktı mendireğin
+      duyulan: ha buyunu yapmakte mendirein
+  REPLACE  ...yapmaktı mendireğin yeniden bu
+      metin  : kez
+      duyulan: kesdaha genish insha edilme sine emreti böyülege uzerine da hafazla küle suyagük set dalgalarakarsha da hadayana klölüjakte eriyanu zagüra yeni külelarve yeni makine lariyapelmasi chen muhandisler natalimat värde diodorus mäkadon laren bu kesbutun áchlar da larile likte suyayatirip uzerine tashyüdünü böyülege dalaren tashlar aagibitutun annatir ama iskandar bu yangun dan asildarsi chen karmishte suru almakit chen tek pashanabir yol yetmiyejekte suruler denies hake moldu sureja mendirei istidik deriardan vurabiler istidik derikadar gejiktirebilerde tashyülünda denizin da ainanda elegeciril mesigeer kyortu bününichin tek bishay lazumda donanma v iskandar en yoktü yada
+  REPLACE  ...yeniden bu kez daha
+      metin  : geniş inşa edilmesini emretti böylece üzerine daha fazla kule sığacak set dalgalara karşı daha dayanıklı olacaktı arrianos a göer yeni kuleler
+      duyulan: dorusu henus yoktü kral lirnin kasmana alarak kriyaboyunja kusayye saida yayonalde orada savashun yununu deishtirajek bishay olmak uzeride iskandar en fenike sehir lirnin elegecir mesinin beklan medik sonu jawarde arvadun biblosun
+  REPLACE  ...göer yeni kuleler ve
+      metin  : yeni makineler yapılması için mühendislerine talimat verdi diodoros makedonların bu kez bütün ağaçları dallarıyla birlikte suya yatırıp üzerine taş yığdığını böylece dalların taşları ağ gibi tuttuğunu anlatır ama i skender bu yangından asıl dersi çıkarmıştı sur u almak için tek başına yol yetmeyecekti surlular denize hakim olduğu sürece mendireği istedikleri yerden vurabilir istedikleri kadar geciktirebilirdi taş yolun da denizin
+      duyulan: saidunun gemileer paris donanmasunun parcheso alarak ege dese fardeide mirete batlar kendishehir lirnin artek ma kedun yunitimine gehtinu irandin
+  REPLACE  ...yolun da denizin de
+      metin  : aynı anda ele geçirilmesi gerekiyordu bunun için tek şey lazımdı donanma ve i skender in yoktu ya da daha doğrusu henüz yoktu kral birliklerinin kısmını alarak kıyı boyunca kuzeye sayda ya yöneldi orada savaşın yönünü değiştirecek şey olmak üzereydi i skender in fenike şehirlerini ele geçirmesinin beklenmedik sonucu vardı arvad ın biblos un ve sayda nın gemileri pers donanmasının parçası olarak ege de seferdeydi mürettebatlar kendi şehirlerinin artık makedon yönetimine geçtiğini öğrendiğinde pers komutanlarına bağlı kalmak için
+      duyulan: paris komutaner na bala kalma kicin
+  REPLACE  ...bağlı kalmak için sebep
+      metin  : görmediler gemilerin başındaki yerel
+      duyulan: gyr medilar gemileren basindak yeral
+  REPLACE  ...başındaki yerel krallar arvad
+      metin  : kralı
+      duyulan: kral
+  REPLACE  ...kralı gerostratos ve biblos
+      metin  : kralı enylos filolarıyla birlikte pers donanmasından ayrılıp sayda
+      duyulan: kral enilos filolarile likte paris donanmasun danairulup saida
+  REPLACE  ...donanmasından ayrılıp sayda ya
+      metin  : i skender in yanına geldi sayda gemileri
+      duyulan: iskandarin yununagalde saida gemileer
+  REPLACE  ...geldi sayda gemileri de
+      metin  : katıldı arrianos a göer
+      duyulan: katilde erianosaguer
+  REPLACE  ...göer bu fenike filosu
+      metin  : yaklaşık gemiden oluşuyordu arkası
+      duyulan: yaklasik seksang yemida nolu shyordu arkasuda geldi rodostan gemi ke likya
+  REPLACE  ...gemiden oluşuyordu arkası da
+      metin  : geldi rodos tan gemi kilikya daki soloi
+      duyulan: kisoloy
+  REPLACE  ...kilikya daki soloi ve
+      metin  : mallos şehirlerinden
+      duyulan: malyos shehir lirin dan uch
+  REPLACE  ...gemi likya dan gemi
+      metin  : gönderildi ama asıl büyük katkı kıbrıs tan geldi i sos taki yenilgiyi
+      duyulan: geonderelde eima zal bujuk katku kubrustan gelde isostake yenil giiv e fenike nen elde yishtir dinidu jan kubrus kralerda parseler dan yuschevirde ve yaklasuk yuzirmi gemile saida ya yalkanachte boileje iskandarin elinde arianosun verdi isayilarla iqyuzu ashan donanmatoplan mushti kachayon je tek savashge miso olmadan denizye tashto kankral shimde doaak denizin enguchrifil oleran dan nen bashen daide iskandar bu gemi saiplerin ke namada jesada vermede erianosun aaktardinaguer parse donanmasandabulun malarin kandi isteklerile dil zorun nuluktang yaptakleru sheyolarak kabulete butavar hesaplida dun dushmansafanda olambu insanar yarun onunichin savasha jakta donan mahazur lanarkan kraal boashtur made asker lorindan kasmanalup lubnanda lernanote sinde ke anti lubnan bulge sine kasabir seferechikte ve aachke sein istileer salderan daakabileler nekashi aaklesik suran harikat yurutte dun dunde saida da mujde daha bekliurdu kleandarausk peloponez dan toplan mushyaklesik dirtbin paralu yunan askeri legal mushti ardun dan donan masavashdu zenina sokuldu iskandar kandisi saakanakta kubraslu
+  REPLACE  ...taki yenilgiyi ve fenike
+      metin  : nin el değiştirdiğini duyan kıbrıs kralları da perslerden çevirdi ve yaklaşık gemiyle sayda ya yelken açtı böylece
+      duyulan: li kraal laren gemile rile likte yaralte hid ef surlu donan maya achuk denizde yakalayip deniz savasana zorlamakte surlu loruzakta nyaklasan bufilo yurgyurdu klearen daashaskan nauurade iskandar n bukadar gemi esahe poldun dan haber liri oktu wa insa ishuk denizde karsala kvarmi
+  REPLACE  ...yelken açtı böylece i
+      metin  : skender in elinde arrianos un verdiği sayılarla ü aşan donanma toplanmıştı ay önce tek savaş gemisi olmadan denize taş döken kral şimdi doğu akdeniz in en güçlü filolarından başındaydı i skender bu gemi sahiplerini kınamadı ceza da vermedi arrianos un aktardığına göer pers donanmasında bulunmalarını kendi istekleriyle değil zorunluluktan yaptıkları şey olarak kabul etti bu tavır hesaplıydı dün düşman safında olan bu insanlar yarın için savaşacaktı donanma hazırlanırken kral boş durmadı askerlerinden kısmını alıp lübnan dağlarının ötesindeki antilübnan bölgesine kısa sefeer çıktı ve ağaç kesen işçileer saldıran dağ kabilelerine karşı yaklaşık gün süren harekat yürüttü döndüğünde sayda da müjde daha bekliyordu kleandros peloponez den toplanmış yaklaşık paralı yunan askeriyle gelmişti ardından donanma savaş düzenine sokuldu i skender kendisi sağ kanatta kıbrıslı ve fenikeli kralların gemileriyle birlikte yer aldı hedef surlu donanmayı açık denizde yakalayıp deniz savaşına zorlamaktı surlular uzaktan yaklaşan bu filoyu gördüklerinde şaşkınlığa uğradı i skender in bu kadar gemiye sahip olduğundan haberleri yoktu önce açık denizde karşılık vermeyi düşündüler ama gemi sayısını görünce vazgeçtiler gemilerini limanlarının ağızlarına dizip girişleri kapattılar sur adasının limanı vardı kuzeydeki sayda ya
+      duyulan: dushun dular amagemisa isan gurun jevazgech dilar gemile rini liman laren an aslar na dizipkirishtir kapat telash sir edisonan ikilimanu varda kuzeideki seidae
+  REPLACE  ...sayda ya bakan limana
+      metin  : sayda limanı güneydeki mısır a
+      duyulan: seida limana gunaideki musra
+  REPLACE  ...a bakan limana ize
+      metin  : mısır limanı deniyordu i skender limanı da abluka aldı kıbrıs gemileri kuzey limanın önüne
+      duyulan: musar limana deni urdu iskandar ikilimanu daabluka altana alda kubras gemile ri kuzei limanun unu ne
+  REPLACE  ...kuzey limanın önüne fenike
+      metin  : gemileri güney limanın önüne demirledi artık
+      duyulan: gemile ri gunaile limanun unu ne demirle de artek
+  REPLACE  ...önüne demirledi artık surlu
+      metin  : donanması limanlarına hapsolmuştu
+      duyulan: donan masa liman laren hapsol mushtu
+  REPLACE  ...donanması limanlarına hapsolmuştu ve
+      metin  : mendireğin inşası rahatça sürüyordu kıyıya yeni kuleler çıkıyor kıbrıs
+      duyulan: mendirein inshaa surahacha suri urdu kuzei yene kulle larchi kuur kubras
+  REPLACE  ...çıkıyor kıbrıs ve fenike
+      metin  : den getirilen mühendisler yeni kuşatma makineleri kuruyordu bunların kısmı
+      duyulan: dange teri lan muhandislar yene kushatma makine leer kuri urdu bunlaran makarada mabirbirne balan musbuktasuma gemile rini nuzeer ne yaarle shtirilde yuzan koch baslera artek surlera haryun dan yaklasabilejekte ima surlu lar halan teslimol mamusht surleran dibinde denizde bukkay alarduk muslarde bunlar gemile rin surlera yanashmasane enge al yordu makkadonlar butashlera vinclear le sudanci kar meye chalushte surler buna zirhle kuchuk teknelear le gelip vinche gemile rinen chapa halatler ne keserek karshelek werde iskandar aine bichimde zirhlam mishteknelear le busalder leru ne meye chalushte surlu dalgachlar bukez suyun altan dan gelip halatler kese meyabashlade sonan da makkadonlar halatyerine zinjer kulanda tashlar tekar tekar chekilde surleran unu te mislande surlu lar san laiyabte kuze limonan girishni yalkan bezderi le gizde ip arkasan da sechme murete batla onuchge mehazar ladalar ule sa atine makkadon denizde larenen
+  REPLACE  ...kuruyordu bunların kısmı karada
+      metin  : kısmı birbirine bağlanmış büyük taşıma gemilerinin üzerine yerleştirildi koçbaşları artık surlara her yönden yaklaşabilecekti
+      duyulan: yamek yip din lande iskandaran da ganalik le kendichadrana chekilde zamanu sechtilar sese achilup nebete ke kubris ke saalder dalar ani baske net kila uldu salami skaralu pinitagorasan amatus skaralu androklesan vekuryon skaralu pasekratasan ge bataral da yada karaya utr tuldu
+  DELETE   ...her yönden yaklaşabilecekti ama
+      metin  : surlular hala teslim olmamıştı surların dibinde denize büyük kayalar dökmüşlerdi bunlar gemilerin surlara yanaşmasını engelliyordu makedonlar bu taşları vinçlerle sudan çıkarmaya çalıştı surlular buna zırhlı küçük teknelerle gelip vinç gemilerinin çapa halatlarını keserek karşılık verdi i skender aynı biçimde zırhlanmış teknelerle bu saldırıları önlemeye çalıştı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saldırıları önlemeye çalıştı surlu
+      metin  : dalgıçlar bu kez suyun gelip halatları kesmeye başladı sonunda makedonlar halat yerine zincir kullandı taşlar teker teker çekildi surların önü temizlendi surlular son hamle yaptı kuzey limanın girişini yelken bezleriyle gizleyip arkasında seçme mürettebatla gemi hazırladılar öğle saatini makedon denizcilerinin karada yemek yiyip dinlendiği i skender in de genellikle kendi çadırına çekildiği zamanı seçtiler sessizce açılıp nöbetteki kıbrıs gemilerine saldırdılar ani baskın etkili oldu salamis kralı pnytagoras ın amathus kralı androkles in ve kurion kralı pasikrates in gemileri batırıldı ya da karaya oturtuldu ama surluların şansı
+      duyulan: laren shan se
+  REPLACE  ...ama surluların şansı burada
+      metin  : bitti o gün i skender her zamanki gibi çadırına çekilmemiş kısa süer
+      duyulan: bitte ogun iskandar herzaman ke gibichadrana chekil memish kasasuer
+  REPLACE  ...çekilmemiş kısa süer sonra
+      metin  : gemilerin yanına dönmüştü baskını görünce elindeki gemilerle limanın ağzını kapattı kısmıyla
+      duyulan: ge janan adun mishte baske ne gurunje elinde ke gemilar le limanan asan ke patte birkasmila
+  REPLACE  ...kapattı kısmıyla da kendisi
+      metin  : surlulara doğru ilerledi
+      duyulan: surlu laradauro ilarle de
+  REPLACE  ...surlulara doğru ilerledi surlarda
+      metin  : olanları izleyen kadınlar ve erkekler
+      duyulan: olanra islayan kadun narve arke klar
+  REPLACE  ...kadınlar ve erkekler kendi
+      metin  : gemilerine geri dönmeleri için bağırıp işaret etti
+      duyulan: ge geridun chin baarup isharetete
+  REPLACE  ...bağırıp işaret etti ama
+      metin  : artık çok geçti
+      duyulan: artak chokgechte
+  ... ve 94 fark daha
+
+metinde olup DUYULMAYAN: 2673 kelime | duyulup metinde OLMAYAN: 1931
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-11-03.duyulan.txt
