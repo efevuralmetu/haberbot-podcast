@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-04.mp3
+
+beklenen 2532 kelime | duyulan 2388 kelime | eşleşme %17.0
+sayı ifadesi: metinde 259, duyulanda 139  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...floor had gone silent
+      metin  : yılının başlarında
+      duyulan: was the year in
+  REPLACE  ...yılının başlarında new york
+      metin  : ta
+      duyulan: that
+  REPLACE  ...new york ta cyrus
+      metin  : west
+      duyulan: westfield was the to appear the stage in the season the
+  REPLACE  ...ta cyrus west field
+      metin  : adında yaşında adam çalışma odasındaki küreyi ağır ağır döndürüyordu field kağıt ticaretinden kısa sürede büyük servet kazanmış yıl önce de işi bırakmıştı artık zengindi boştaydı ve yeni uğraş arıyordu o günlerde kardeşi
+      duyulan: was set to be the to appear the stage in the season the season was set to be the season of the season ogunerdekhardishe
+  REPLACE  ...o günlerde kardeşi matthew
+      metin  : aracılığıyla frederic
+      duyulan: aregelila frederik
+  REPLACE  ...matthew aracılığıyla frederic gisborne
+      metin  : adında mühendisle tanıştı
+      duyulan: and the birmuhandistletanisti
+  REPLACE  ...adında mühendisle tanıştı gisborne
+      metin  : un planı vardı ama parası bitmişti
+      duyulan: and birplanawarda amaparasibitmisti
+  REPLACE  ...parası bitmişti newfoundland i
+      metin  : yani nüfaundland adası nı kara telgrafıyla kanada ya bağlamak istiyordu avrupa dan gelen gemiler amerika kıyılarına ulaşmadan önce bu adanın yakınından geçiyordu haberler
+      duyulan: jani newfoundland adasina karatagrafila kanadayabala makistiordo avrupadangelangemilar america krylerna ulashmadanunjeboadanan yakunandangetiordo heberler
+  REPLACE  ...yakınından geçiyordu haberler adada
+      metin  : alınıp telgrafla aktarılırsa gün kazanılacaktı field planı dinledi sonra küreye baktı ve aklına çok daha cüretli soru geldi telgraf neden bu adada dursun
+      duyulan: alunip talgrafla aktarellursa birkachgunkazanalajakte fieldplanadinadi sona kureyabakteve akluna choktahajuritlibir sorugaelde talgraf nedanbo adadadursun
+  REPLACE  ...bu adada dursun okyanusun
+      metin  : karşı yakasına kadar neden gitmesin o sıralar bu soru deliliğe yakın görünüyordu telgraf kara üzerinde yıldır yaygınlaşıyordu
+      duyulan: karsiakasunakadar nedangitmisin osiralarbusorudeliliyayakungurunyordo talgraf karauzirinde birkachilder yaganlasyordo weksiidevent
+  REPLACE  ...üzerinde yıldır yaygınlaşıyordu de
+      metin  : manş denizi nin döşenen kablo
+      duyulan: menstinizinin altandandashenan birkablo ingilteer
+  REPLACE  ...nin döşenen kablo i
+      metin  : ngilteer yi fransa ya bağlamıştı
+      duyulan: francei abalomishte
+  REPLACE  ...fransa ya bağlamıştı ama
+      metin  : o kablonun geçtiği yol kilometer
+      duyulan: okablonun gehti olkurkkilometer
+  REPLACE  ...geçtiği yol kilometer bile
+      metin  : değildi i rlanda ile nüfaundland arasındaysa kilometreyi aşan karanlık ve derinliği tam bilinmeyen
+      duyulan: bierlanda ila newfoundland arasundaisa uchbinkilometer yashan karanlukvederin nietam bilinmeyan okyanuswarde gemi lai avrupadan america yagidan haber oilarda enas yoldakalyordo fieldkendibilge sinin sonar lerna biliordo buyuzden isha eni usmanarasur maklabashladu abd donan masan den
+  REPLACE  ...derinliği tam bilinmeyen okyanus
+      metin  : vardı gemiyle avrupa dan amerika ya giden haber o yıllarda en az gün yolda kalıyordu field kendi bilgisinin sınırlarını biliyordu bu işe en iyi uzmanlara sormakla başladı önce abd donanması ndan okyanus bilimci
+      duyulan: bilimge
+  REPLACE  ...bilimci matthew fontaine maury
+      metin  : ye yazdı
+      duyulan: a yazde
+  REPLACE  ...maury ye yazdı maury
+      metin  : deniz tabanından alınmış derinlik ölçümlerini ve numuneleri incelemişti verdiği cevap
+      duyulan: denis tabonun denalun mishteer nikalchimner nive numunelier enjele mishte verdi jevap
+  REPLACE  ...incelemişti verdiği cevap field
+      metin  : ı çok cesaretlendirdi i rlanda ile nüfaundland arasında
+      duyulan: chokjesaret landerde yerlanda ila newfoundland arasundah
+  REPLACE  ...ile nüfaundland arasında sonradan
+      metin  : telgraf platosu diye anılacak geniş ve görece düz deniz tabanı uzanıyordu
+      duyulan: telegraph plato sudia annulajak ghenishve geurreje duzber denis tabonu usan yordu
+  REPLACE  ...deniz tabanı uzanıyordu dipten
+      metin  : çıkarılan çamur mikroskop incelendiğinde minicik kabukların kırılmadan durduğu görülmüştü bu da orada güçlü akıntıların olmadığını
+      duyulan: chikarulan chamur microscope altanda enjelandin de minijik kabuklerun kyrilmadan durdu geurulmishte buddha oradaguchlu akantalaran olmadunu
+  REPLACE  ...akıntıların olmadığını dibin sakin
+      metin  : olduğunu gösteriyordu
+      duyulan: oldunu geusteer yordu
+  REPLACE  ...sakin olduğunu gösteriyordu maury
+      metin  : ye göer bu düzlük sanki tam da kabloları taşısın diye oraya konmuştu
+      duyulan: egeer buduzluksang ki tamda kablolarata shisundia orea konmushtu
+  REPLACE  ...oraya konmuştu field sonra
+      metin  : telgrafın öncülerinden
+      duyulan: telegraph enunjelarindan
+  REPLACE  ...telgrafın öncülerinden samuel morse
+      metin  : a danıştı
+      duyulan: danishte
+  INSERT   ...morse a danıştı morse
+      metin  : (yok)
+      duyulan: daishin electrica chisundan mimkun oldunu soilete fielden asiliyeten e bunokta
+  DELETE   ...a danıştı morse da
+      metin  : işin elektrik açısından mümkün olduğunu söyledi field ın asıl yeteneği bu noktada
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yeteneği bu noktada ortaya
+      metin  : çıktı i kna etmeyi biliyordu
+      duyulan: chikte ikna itmei biliordu
+  REPLACE  ...etmeyi biliyordu new york
+      metin  : ta
+      duyulan: te
+  REPLACE  ...york ta peter cooper
+      metin  : gibi zengin işadamlarını masaya topladı önce nüfaundland deki
+      duyulan: gibizenge nishadamlar nibirmasaya toplade gochis new found lande ki
+  REPLACE  ...önce nüfaundland deki kara
+      metin  : hattı için şirket kurdular ama kısa sürede anlaşıldı
+      duyulan: hatte ichin shirkit kurdalar amakusasuer de anna shildi
+  REPLACE  ...kısa sürede anlaşıldı ki
+      metin  : asıl
+      duyulan: asil
+  REPLACE  ...ki asıl para ve
+      metin  : asıl uzmanlık londra daydı
+      duyulan: asil usmannik londradaite
+  REPLACE  ...uzmanlık londra daydı field
+      metin  : da i ngilteer ye geçti
+      duyulan: te ingilteer egechte
+  REPLACE  ...atlantic telegraph company yani
+      metin  : atlantik telgraf şirketi kuruldu şirketin sermayesi sterlindi
+      duyulan: atlantic telegraph shirkit kurdal shirkitin sermae se uchuzelibin sterlin de
+  REPLACE  ...şirketin sermayesi sterlindi ve
+      metin  : hisseler hafta içinde satıldı yatırımcılar arasında tüccarlar bankacılar
+      duyulan: hisselar chafta ichin de satilde yatirim jullararasandat tu jarlar banka jullar
+  REPLACE  ...arasında tüccarlar bankacılar ve
+      metin  : bilim insanları vardı ekibin
+      duyulan: bilimin sanne rewarde ekubin usleri
+  REPLACE  ...insanları vardı ekibin de
+      metin  : bu sırada belli
+      duyulan: busurada beyli
+  REPLACE  ...bu sırada belli oldu
+      metin  : başmühendis yaşındaki
+      duyulan: bashmuhandis skritid yashendaki
+  REPLACE  ...başmühendis yaşındaki charles tilston
+      metin  : bright tı elektrikle ilgili işler aslen cerrah olan
+      duyulan: brighte electrica lilgili isler aslanjera holan
+  REPLACE  ...aslen cerrah olan ve
+      metin  : telgraf deneylerine
+      duyulan: telegraph den eiler ne
+  ... ve 234 fark daha
+
+metinde olup DUYULMAYAN: 2112 kelime | duyulup metinde OLMAYAN: 1969
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-11-04.duyulan.txt

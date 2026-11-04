@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-04.mp3
+
+beklenen 2069 kelime | duyulan 2488 kelime | eşleşme %12.0
+sayı ifadesi: metinde 211, duyulanda 132  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...of light drifts slowly
+      metin  : in
+      duyulan: and
+  REPLACE  ...without anyone planning it
+      metin  : ekim pazar öğleden sonrası i ngilteer nin devon bölgesindeki widecombe
+      duyulan: burden kil us in each in a beer shake yor yor tonic learn son rather than that than a girl you parlay be retested above pencil aer currently or cool in tashler year
+  REPLACE  ...bölgesindeki widecombe in the
+      metin  : moor yani bozkırdaki widecombe köyünde cemaat kilisede ayin için toplanmış dışarıda gök kararmış rüzgar taş duvarlara çarpıyor kilisenin içine şey giriyor tanıkların sonradan anlattığına göer büyük parlayan ateş topu bu pencereler kırılıyor kulenin taşları yerinden oynuyor kükürt kokulu duman sıraların arasını dolduruyor o gün kişi ölüyor kadar kişi yaralanıyor köylüler başlarına geleni kendi dönemlerinin diliyle anlatıyor kimi şeytanı kimi ilahi cezayı görüyor bugün bu olay
+      duyulan: new year cuckoo cuckoo to be demands rather than a recent older you er you er dirty she earlier at miska dark issue you er allen you er clearly aer bashed a galini candida name learning dealing the tor kimchi tonight he may be able to use a girl you er bugle bal i
+  REPLACE  ...bugün bu olay top
+      metin  : yıldırımı denen olgunun yazılı kayda geçmiş en eski ve en ünlü örneklerinden sayılıyor
+      duyulan: you l do it in an old woman years ago the guy that gets me eneski we er any newer nectar in them be resale you er
+  REPLACE  ...ünlü örneklerinden sayılıyor top
+      metin  : yıldırımı tanıkların anlattıklarıyla tanımlanan olgu bu anlatımlar yüzyıllardır birbirinden habersiz insanlardan şaşırtıcı tutarlılıkla geliyor genellikle fırtına sırasında çoğu zaman sıradan yıldırım düştükten hemen sonra ortaya çıkıyor boyu çoğunlukla greyfurt kadar bazen
+      duyulan: you l do it a clarin that to clary latin beer al go let them learn use yor larder beer beer and then have or season son larder shasher to jib you er too tal to look like you er generally clear for tennis and the chosen answer beer you l do them district and him and so or take a cuer boy you er shown look like we er great for cut or bars and we er
+  REPLACE  ...greyfurt kadar bazen golf
+      metin  : topundan küçük bazen insan boyundan büyük olduğu söyleniyor rengi kırmızı turuncu sarı beyaz ya da
+      duyulan: top and kuchak bars and be reading some boy and buccal do so linear rangy kermuzi to run ju sir a be as yet the
+  REPLACE  ...beyaz ya da mavi
+      metin  : olabiliyor asıl tuhaf olan davranışı sıradan yıldırım saniyenin kadar sürer
+      duyulan: al ability or a cel to half a land of run issue sir don t yield the room sanyin in beta cadar sir arsh
+  REPLACE  ...saniyenin kadar sürer top
+      metin  : yıldırımı ize saniye kimi anlatımlarda dakikaya yakın havada kalıyor yeer paralel süzülüyor bazen duvar boyunca kayıyor bazen penceer camından geçip odaya giriyor bazen sessizce sönüyor bazen patlamayla yok oluyor ardında çoğu zaman keskin koku kalıyor ozon kükürt yanık bu anlatımların bazıları bilim tarihinin içine de düşüyor yazında rus bilimler akademisi nden fizikçi
+      duyulan: yielder me say we er catch sany a kima the tomorrow the beard a key kayak and how about a collier yor parallel sousa leer bars and beer do or boy and jack a year bars and beer pendulum and dang it s a poor day agree or basin says he s a son you er basin beer potlum i like a lawyer aer done that shows among kiskin beer coca color ozone cuckooed yannick latin learn basel aer a tari in any chineda do suer mail is swiss in what he just said stride isn t the ruspil in their academic and then physically
+  REPLACE  ...nden fizikçi georg wilhelm
+      metin  : richmann sankt
+      duyulan: richman thank
+  REPLACE  ...wilhelm richmann sankt petersburg
+      metin  : daki evinde fırtınalı havanın elektriğini ölçmek için düzenek kurmuştu çatıdaki
+      duyulan: the key even the fraternal havanan electric nodes make it in beer do zenek kermuz to chat to the key beer
+  REPLACE  ...düzenek kurmuştu çatıdaki demir
+      metin  : çubuk içerideki ölçüm aletine bağlıydı fırtına yaklaşınca richmann aletin başına geçti yanındaki gravür ustası ivan sokolov un anlattığına göer düzenekten
+      duyulan: to book each year the key beer or tomorrow it in a bali de for tonight a clashing jr richman al it in boshan against it yananda key grab a rooster so even so cola that to nagaer do zenek
+  REPLACE  ...düzenekten soluk mavi yumruk
+      metin  : büyüklüğünde ateş topu çıktı ve richmann ın alnına çarptı fizikçi oracıkta öldü sokolov yeer savruldu odanın kapı kasası parçalandı richmann atmosfer elektriğiyle deney yaparken ölen ilk bilim insanı olarak tarihe geçti ölümüne yol açan şeyin ne olduğu ize bugün
+      duyulan: puklu in the beer at esto projective a rich man in al the nacharpe
+  REPLACE  ...olduğu ize bugün de
+      metin  : tartışılıyor yine
+      duyulan: physically or a jicto do so cola of yor several do or don t kapuk us a superchal under richman atmospheer electric led in a park and an ek billim in san hola rakhtari he gets to eliminate y al a chance in the old way say buggin detar to show you you need a beel him doing yasa butcher the temlara ouzon suer kushku yla bakhta bununan lashilir berna denivar
+  REPLACE  ...de tartışılıyor yine de
+      metin  : bilim dünyası bu tür anlatımlara uzun süer kuşkuyla baktı bunun anlaşılır nedeni vardı fizik tekrarlanabilen gözlemler üzerine kurulur
+      duyulan: physique tekralana bil and goes lamblers aer in a cooler
+  REPLACE  ...gözlemler üzerine kurulur top
+      metin  : yıldırımı ize ne zaman ve nerede çıkacağı bilinmeyen saniyede kaybolan ölçüm aleti yanındayken neredeyze hiç görünmeyen olguydu elde yalnızca insanların hatırladıkları vardı
+      duyulan: yielder me say nezaman venar de cukja billin man saniya de kai bolan ultimately tiananda i can narrow the sehich guren man beer al good l day y al nazja in san naran hutter ladik lirivar de
+  REPLACE  ...insanların hatırladıkları vardı korku
+      metin  : ve şaşkınlık içindeki insanın saniyelik ışığı nasıl hatırlayacağı da tartışmaya açık yüzyılın ortalarına kadar
+      duyulan: vashaskan likit cinde kibir in san and saniya like nasal hutter lea jada tartish maya chuk yurmenji use you learn or tel her nakadar
+  REPLACE  ...yüzyılın ortalarına kadar pek
+      metin  : çok fizikçi
+      duyulan: truck physically
+  REPLACE  ...pek çok fizikçi top
+      metin  : yıldırımını göz yanılması abartı ya da halk efsanesi olarak gördü yıldırım çakmasının retinada bıraktığı iz
+      duyulan: yielder money goes in almasa abartia the hulk if sannis olerak gird beer yielder i m chakmasan and retina debraak to ease
+  REPLACE  ...retinada bıraktığı iz yani
+      metin  : ardıl görüntü en sık önerilen açıklamaydı
+      duyulan: ardul gurun to ensek rilana cukla maide
+  REPLACE  ...sık önerilen açıklamaydı parlak
+      metin  : ışığa baktıktan
+      duyulan: baktak tan
+  REPLACE  ...parlak ışığa baktıktan sonra
+      metin  : gözünüzü kırptığınızda gördüğünüz o renkli leke bakışınızla birlikte hareket eder ve saniyede kaybolur kuşkucular tanıkların gördüğü süzülen
+      duyulan: goes in usa krypton is that gordon is orang te lekhe bakishan is la birlikta haraketa darve saniya de kai bola kushku jular tanak liran girdu suzulan
+  REPLACE  ...gördüğü süzülen topun tam
+      metin  : da bu olduğunu düşünüyordu kuşkucuları sarsan şeylerden fizikçinin
+      duyulan: dabu oldu nudu suniordu kushku jular isar san sheilar dan birfisik cinin
+  REPLACE  ...sarsan şeylerden fizikçinin kendi
+      metin  : gözüyle gördükleriydi te i ngiliz radyo astronomu
+      duyulan: guzu yla gurduk deride to ingles radio astronomer
+  REPLACE  ...roger jennison new york
+      metin  : tan
+      duyulan: town
+  INSERT   ...new york tan washington
+      metin  : (yok)
+      duyulan: is lers o clock darlande is statistic large karil de larger kuraman real de emma exit olan sheyhep i need doada billim sel alet lerle tesadu fandil de ulch lirek kaididil mistake beer top yielder ma boo exit click baklan medic erde tibet platosunun kuze ujunda gide real de tam use in berg jesse cinin ching hai
+  REPLACE  ...york tan washington a
+      metin  : giden gece uçuşundaydı uçak elektrik fırtınasına girmişti jennison ın anlattığına göer pilot kabininden santimetreden büyük mavimsi beyaz küer çıktı yolcuların arasındaki koridorda yerden meter kadar yüksekte ağır ağır uçağın arkasına doğru süzüldü ve gözden kayboldu jennison bunu yıllar sonra da bilim dünyasının en saygın yayınlarından natuer yani doğa dergisinde kısa notla anlattı notun ağırlığı şuradan geliyordu tanık ışık ve göz konusunda eğitimli bilim insanıydı ardıl görüntünün koridor boyunca belirli yöne gidip gitmediğini ayırt edebilecek böylece yüzyılın yarısında durum değişti
+      duyulan: letin de denize cevies in dan chok yuk sector was an unbear does duct a lungiada kibir university dan galan keep yielder mavunda physics jngn uva arkada shlera
+  REPLACE  ...yarısında durum değişti top
+      metin  : yıldırımı tamamen reddedilen şey olmaktan çıktı açıklanamayan şey oldu binlerce tanıklık derlendi istatistikler çıkarıldı onlarca kuram önerildi ama eksik olan şey hep aynıydı doğada bilimsel aletlerle tesadüfen değil de ölçülerek kaydedilmiş tek top yıldırımı bu eksiklik beklenmedik yerde tibet platosu nun kuzey ucunda giderildi temmuz nin gecesi çin
+      duyulan: yielder ma aram yorlar seradan yielder me
+  REPLACE  ...nin gecesi çin in
+      metin  : qinghai eyaletinde deniz seviyesinden çok yüksekte uzanan düzlükte lanzhou daki üniversiteden gelen ekip yıldırım avında fizikçi cen jianyu ve arkadaşları top yıldırımı aramıyorlar sıradan yıldırımı inceliyorlar kurdukları düzenekte yüksek hızlı kameralar ve spektrograflar var spektrograf ışığı renklerine ayıran
+      duyulan: jelly orlar kurduk lerdu zenakte yuksik has the camera larva spectrograph larvar spectrograph was suer and clear in iran beer
+  REPLACE  ...renklerine ayıran alet her
+      metin  : kimyasal
+      duyulan: kim yasol
+  REPLACE  ...alet her kimyasal element
+      metin  : ısıtıldığında kendine özgü renklerde ışık yayar bu renkler spektrumda ince çizgiler halinde görünür bu çizgiler ışık kaynağının neyden yapıldığını gösteren
+      duyulan: is settled in the kendina osu rank layer that was shook yar borin claier spectrum that injec is gilaar halinda gurnish butch is gilaar shik kainan and nay danya pulled in a ghost arambia
+  REPLACE  ...neyden yapıldığını gösteren parmak
+      metin  : izi gibidir ekibin amacı yıldırım kanalının içinde
+      duyulan: is a good a kibin amaju yielder can alone in each in the
+  REPLACE  ...yıldırım kanalının içinde hangi
+      metin  : elementlerin parladığını ve plazmanın ne kadar sıcak olduğunu ölçmekti o gece kameraların görüş alanında yaklaşık meter uzakta buluttan
+      duyulan: elemental in parlor denave plasma and nekadar suja koldun ouch makte who gets a camera leran gurushalananda yak lashik tokus us metra was acta bullet tan
+  REPLACE  ...meter uzakta buluttan yeer
+      metin  : yıldırım düştü ve yıldırımın toprağa çarptığı noktadan ışık topu yükseldi kayıtlarda olay adım adım izlenebiliyor ana yıldırım kanalı söndükten
+      duyulan: yildirim dusht we yielder man topra charp to knock the dan shik top yuk seldi kait larda al i had a madam is the new bil you er an a yielder can also induct and so right heer the parlak be knocked a color boo knocked a topar lana puer cuer a donation or vayar dan kalki or cuer a yak lashik ombish metra yata yola luer busra the yuk silly or arash turma jilaran tahmin in a gurecha pubesh maiter jivaranda
+  REPLACE  ...yıldırım kanalı söndükten sonra
+      metin  : yerde parlak nokta kalıyor bu nokta toparlanıp küreye dönüşüyor ve yerden kalkıyor küer yaklaşık meter yatay yol alıyor bu sırada yükseliyor araştırmacıların tahminine göer çapı meter civarında sonra soluyor küçülüyor ve kayboluyor doğumundan ölümüne geçen süer saniye yüzyıllardır tanıkların anlattığı şey bu kez kameranın ve spektrografın önünde gerçekleşmişti asıl önemli
+      duyulan: solely or cutially or vocabulary or dome and an alumina get chance to be knocked out to start saniya use yor lardar tonic leran that too shay book is beer camera nun we beer spectrographon and a gar check this misty a solo namely
+  REPLACE  ...gerçekleşmişti asıl önemli olan
+      metin  : spektrumdu sonuçlar te fiziğin en seçici dergilerinden
+      duyulan: spectrum do son which lar s dirt fizzy in ncg dark leran dan
+  REPLACE  ...physical review letters yani
+      metin  : fiziksel
+      duyulan: physics l inch lmm etc to play and
+  REPLACE  ...letters yani fiziksel i
+      metin  : nceleme mektupları nda yayımlandığında ışık topunun
+      duyulan: am landa shuk top
+  REPLACE  ...yayımlandığında ışık topunun parmak
+      metin  : izi herkesin dikkatini çekti spektrumda havanın elementleri
+      duyulan: is a her case indicate in a check t spectrum the havanan element later
+  REPLACE  ...spektrumda havanın elementleri olan
+      metin  : azot ve oksijenin yanında silisyum
+      duyulan: azote oxygen in yananda siliceum
+  REPLACE  ...oksijenin yanında silisyum demir
+      metin  : ve kalsiyum çizgileri vardı bunlar havada bulunmaz toprakta bulunur silisyum
+      duyulan: vakalsium chisgili reward banlar hava de balloon mas topraktable or siliceum
+  ... ve 121 fark daha
+
+metinde olup DUYULMAYAN: 1795 kelime | duyulup metinde OLMAYAN: 2214
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-04.duyulan.txt

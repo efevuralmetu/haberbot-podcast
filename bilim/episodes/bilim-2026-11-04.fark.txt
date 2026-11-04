@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-04.mp3
+
+beklenen 2083 kelime | duyulan 2108 kelime | eşleşme %94.9
+sayı ifadesi: metinde 272, duyulanda 215  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...anlatıları ciddiye almadı sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ngilteer nin devon bölgesindeki
+      metin  : widecombe
+      duyulan: whitecombe
+  REPLACE  ...in the moor yani
+      metin  : bozkırdaki widecombe
+      duyulan: bosker daki whitecombe
+  REPLACE  ...sonradan anlattığına göer büyük
+      metin  : parlayan
+      duyulan: karlayan
+  REPLACE  ...ortaya çıkıyor boyu çoğunlukla
+      metin  : greyfurt
+      duyulan: greyford
+  REPLACE  ...akademisi nden fizikçi georg
+      metin  : vilhelm rihman
+      duyulan: wilhelm rihmann
+  REPLACE  ...aletine bağlıydı fırtına yaklaşınca
+      metin  : rihman
+      duyulan: rihmann
+  REPLACE  ...ateş topu çıktı ve
+      metin  : rihman
+      duyulan: rihmann
+  REPLACE  ...odanın kapı kasası parçalandı
+      metin  : rihman
+      duyulan: rihmann
+  INSERT   ...fizikçinin kendi gözüyle gördükleriydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ngiliz radyo astronomu roger
+      metin  : jennison
+      duyulan: jenison
+  REPLACE  ...uçak elektrik fırtınasına girmişti
+      metin  : jennison ın
+      duyulan: jenison un
+  REPLACE  ...anlattığına göer pilot kabininden
+      metin  : santimetreden
+      duyulan: cm den
+  REPLACE  ...süzüldü ve gözden kayboldu
+      metin  : jennison
+      duyulan: jenison
+  INSERT   ...jennison bunu yıllar sonra
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kuzey ucunda giderildi temmuz
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...temmuz gecesi çin in
+      metin  : çinghay
+      duyulan: qinghai
+  REPLACE  ...çok yüksekte uzanan düzlükte
+      metin  : lancou
+      duyulan: lanku
+  REPLACE  ...ekip yıldırım avında fizikçi
+      metin  : tsın
+      duyulan: teng jianyu
+  REPLACE  ...spektrograflar var spektrograf ışığı
+      metin  : renklerine
+      duyulan: renklerini
+  REPLACE  ...kalkıyor küer yaklaşık meter
+      metin  : yatay
+      duyulan: yatağa
+  DELETE   ...doğumundan ölümüne geçen süer
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...önemli olan spektrumdu sonuçlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...azot ve oksijenin yanında
+      metin  : silisyum
+      duyulan: silisiyum
+  REPLACE  ...havada bulunmaz toprakta bulunur
+      metin  : silisyum
+      duyulan: silisiyum
+  REPLACE  ...havada süer ışık saçmıştı
+      metin  : kayıtta
+      duyulan: kayıpta
+  REPLACE  ...gösteriyordu bu kaydın önemini
+      metin  : abartmamak da
+      duyulan: abartmamakta
+  REPLACE  ...içeriği okunmuş olguydu bu
+      metin  : içerik de
+      duyulan: içerikte
+  REPLACE  ...abrahamson ve öğrencisi james
+      metin  : dinniss
+      duyulan: dennis
+  INSERT   ...kuram önce laboratuvarda sınandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...laboratuvarda sınandı brezilya daki
+      metin  : pernambuko
+      duyulan: pernambuco
+  REPLACE  ...pernambuko federal üniversitesi nden
+      metin  : antonyo pavaun
+      duyulan: antonio pavao
+  REPLACE  ...nden antonyo pavaun ve
+      metin  : jerson payva
+      duyulan: gerson paiva
+  REPLACE  ...benzeyen şey üretilmişti çinghay
+      metin  : deki
+      duyulan: daki
+  REPLACE  ...uçakta beliren topu açıklayamıyor
+      metin  : jennison ın
+      duyulan: cenisa nın
+  REPLACE  ...gövdenin içinde toprakla hiçbir
+      metin  : bağı
+      duyulan: bağ
+  INSERT   ...mikrodalgaya bu fikrin kökü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kapitsa ya uzanıyor kapitsa
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yeterli enerji yoktur enerji
+      metin  : dışarıdan
+      duyulan: dışardan
+  INSERT   ...de laboratuvarda karşılık buldu
+      metin  : (yok)
+      duyulan: de
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: bilim-2026-11-04.duyulan.txt

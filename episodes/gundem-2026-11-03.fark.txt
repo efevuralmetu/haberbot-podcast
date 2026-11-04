@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-03.mp3
+
+beklenen 1345 kelime | duyulan 1361 kelime | eşleşme %94.8
+sayı ifadesi: metinde 238, duyulanda 125  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...önce i ran ın
+      metin  : keşm
+      duyulan: keşme
+  REPLACE  ...yetkililer devrim muhafızları mensuplarının
+      metin  : keşm
+      duyulan: keşme
+  REPLACE  ...süresinin geri kalanında temsilciler
+      metin  : meclisi ile
+      duyulan: meclisiyle
+  REPLACE  ...yemen de ize hükümet
+      metin  : güçleri ile
+      duyulan: güçleriyle
+  REPLACE  ...ağırlaşmaya devam ediyor al
+      metin  : jazeera
+      duyulan: jazira
+  INSERT   ...salgında hayatını kaybedenlerin sayısı
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...oldu teknoloji dünyasında gözler
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...neredeyze katı şirketin eylül
+      metin  : itibarıyla taahhüt
+      duyulan: itibariyle tahüt
+  REPLACE  ...chatgpt ile kodlama aracı
+      metin  : codex in plus
+      duyulan: codexin
+  REPLACE  ...abonelerinde tek ortak kullanım
+      metin  : kotasından
+      duyulan: kodasından
+  REPLACE  ...alanda i ngiliz girişim
+      metin  : salience
+      duyulan: salient
+  INSERT   ...harcama limiti koydu ajanlardan
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...limiti koydu ajanlardan e
+      metin  : postayla
+      duyulan: posta ile
+  REPLACE  ...oldu abd nin hafif
+      metin  : ham
+      duyulan: han
+  REPLACE  ...nin hafif ham petrolü
+      metin  : wti da
+      duyulan: wt yi de
+  REPLACE  ...yükselirken teknoloji hisselerindeki satış
+      metin  : esenpi
+      duyulan: esempi
+  REPLACE  ...beklentilerin üzerinde performans gösterdi
+      metin  : ism imalat
+      duyulan: i sem i malat
+  INSERT   ...ekimde olan beklentiyi aşarak
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...değerli metallerde gün içinde
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...gün içinde üzerinde yükseldi
+      metin  : jeopolitik
+      duyulan: geopolitik
+  REPLACE  ...tahvil piyasalarında dikkat çekici
+      metin  : eşik de
+      duyulan: eşikte
+  REPLACE  ...de aşıldı küresel tahvillerin
+      metin  : sekseninden
+      duyulan: inden
+  REPLACE  ...tahvillerin sekseninden fazlası artık
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...en kritik verisi saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...rakamlarını duyuracak anadolu ajansı
+      metin  : finans ın ekonomistle
+      duyulan: finansı nın ekonomiste
+  INSERT   ...arasında değişiyor yıllık enflasyonun
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...dün güçlü gün geçirdi
+      metin  : bist endeksi
+      duyulan: bi s de
+  INSERT   ...bankacılık endeksi gün içinde
+      metin  : (yok)
+      duyulan: in
+  DELETE   ...değer kazandı bu sabah
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yeni tarihle canlandı cumhurbaşkanlığı
+      metin  : başdanışmanı
+      duyulan: başlanışmanı
+  INSERT   ...mehmet uçum seçimin nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...in yanı sıra mhp
+      metin  : dem
+      duyulan: delawaer m
+  REPLACE  ...de devlet başkanı li
+      metin  : ce
+      duyulan: çd
+  INSERT   ...iflasların bu yıl artması
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...başlıklar yoğun sabah saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yarın sabahtan itibaren netleşecek
+      metin  : keşm
+      duyulan: keşme
+  REPLACE  ...fiyatlarının seyri yakından izlenecek
+      metin  : anthropic
+      duyulan: antropik
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 51
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: gundem-2026-11-03.duyulan.txt

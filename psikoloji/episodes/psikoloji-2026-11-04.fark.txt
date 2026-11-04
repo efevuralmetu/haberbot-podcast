@@ -1,0 +1,70 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-04.mp3
+
+beklenen 1435 kelime | duyulan 1432 kelime | eşleşme %97.8
+sayı ifadesi: metinde 145, duyulanda 135  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...görürseniz ayak bileğinize bağlı
+      metin  : elektrottan
+      duyulan: elektrodan
+  REPLACE  ...hafif elektrik şoku gelebilir
+      metin  : acı
+      duyulan: ağacı
+  REPLACE  ...kadar güçlü değil ama
+      metin  : hoş da
+      duyulan: hoşta
+  INSERT   ...beyniniz olası tehlikeye hazırlanıyor
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yılında o sırada wisconsin
+      metin  : madison üniversitesi nde
+      duyulan: medicine üniversitesinde
+  REPLACE  ...nde çalışan psikolog james
+      metin  : coan
+      duyulan: coyne
+  REPLACE  ...james coan ile meslektaşları
+      metin  : hillary schaefer
+      duyulan: hilary schaeffer
+  REPLACE  ...başımıza öğrenmemiz gerektiğine inanıyoruz
+      metin  : coan
+      duyulan: koan
+  REPLACE  ...küçük çıkıyordu bu gözlem
+      metin  : coan
+      duyulan: koan
+  REPLACE  ...karşı hazırlamak zorunda kalıyor
+      metin  : kuram
+      duyulan: kur an
+  INSERT   ...biçiminde de ortaya çıkıyor
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yokuştan geldi yılında simone
+      metin  : şnal
+      duyulan: schnal
+  REPLACE  ...simone şnal kent harber
+      metin  : cenin stefanuçi
+      duyulan: jenin stefanucci
+  REPLACE  ...cenin stefanuçi ve dennis
+      metin  : proffitt
+      duyulan: profitt
+  REPLACE  ...eğimini tahmin etmelerini istedi
+      metin  : proffitt
+      duyulan: profitt
+  REPLACE  ...olacağını yokuşun görüntüsüne yansıtıyor
+      metin  : şnal
+      duyulan: schnal
+  REPLACE  ...önemli hatırlatma yapmak gerekiyor
+      metin  : coan
+      duyulan: koan
+  REPLACE  ...yanınızda varken beyniniz o
+      metin  : tehdidi
+      duyulan: tehditi
+  REPLACE  ...olmanın en eski bilgeliklerinden
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-11-04.duyulan.txt

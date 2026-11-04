@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-04.mp3
+
+beklenen 2513 kelime | duyulan 2512 kelime | eşleşme %93.3
+sayı ifadesi: metinde 358, duyulanda 248  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ağustos
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...çok güvenen adamın elindeki
+      metin  : volt olduğu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yılının başlarında new york
+      metin  : ta
+      duyulan: da
+  REPLACE  ...yaşında adam çalışma odasındaki
+      metin  : küreyi
+      duyulan: küreği
+  REPLACE  ...de işi bırakmıştı artık
+      metin  : zengindi
+      duyulan: zengin
+  REPLACE  ...günlerde kardeşi matthew aracılığıyla
+      metin  : frederic
+      duyulan: frederich
+  REPLACE  ...adında mühendisle tanıştı gisborne
+      metin  : un
+      duyulan: ın
+  REPLACE  ...ama parası bitmişti newfoundland
+      metin  : i
+      duyulan: ı
+  REPLACE  ...bitmişti newfoundland i yani
+      metin  : nüfaundland adası nı
+      duyulan: newfoundland adasını
+  REPLACE  ...kara üzerinde yıldır yaygınlaşıyordu
+      metin  : manş
+      duyulan: de manch
+  REPLACE  ...yol kilometer bile değildi
+      metin  : i rlanda ile nüfaundland
+      duyulan: irlanda yla newfoundland
+  REPLACE  ...bilimci matthew fontaine maury
+      metin  : ye
+      duyulan: e
+  REPLACE  ...field ı çok cesaretlendirdi
+      metin  : i rlanda ile nüfaundland
+      duyulan: irlanda yla newfoundland
+  REPLACE  ...incelendiğinde minicik kabukların kırılmadan
+      metin  : durduğu
+      duyulan: doğru
+  REPLACE  ...sakin olduğunu gösteriyordu maury
+      metin  : ye
+      duyulan: e
+  REPLACE  ...telgrafın öncülerinden samuel morse
+      metin  : a
+      duyulan: ye
+  REPLACE  ...zengin işadamlarını masaya topladı
+      metin  : önce nüfaundland deki
+      duyulan: i nacın newfoundland daki
+  INSERT   ...uzmanlık londra daydı field
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...atlantic telegraph company yani
+      metin  : atlantik
+      duyulan: atlantic
+  REPLACE  ...şirketi kuruldu şirketin sermayesi
+      metin  : sterlindi
+      duyulan: tl indi
+  REPLACE  ...yaşındaki charles tilston bright
+      metin  : tı
+      duyulan: ı
+  REPLACE  ...tı elektrikle ilgili işler
+      metin  : aslen
+      duyulan: aslan
+  REPLACE  ...telgraf deneylerine merak salmış
+      metin  : wildman
+      duyulan: wideman
+  REPLACE  ...fizik profesörü oturuyordu william
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...üstü güneydoğu asya ağaçlarının
+      metin  : özsuyundan
+      duyulan: özsüyünden
+  REPLACE  ...anlaşıldı i ki yarıyı
+      metin  : birleştirmek
+      duyulan: değiştirmek
+  REPLACE  ...niagara yı yani amerikan
+      metin  : fırkateyni niyagara
+      duyulan: fırkateyi ni niagara
+  REPLACE  ...fırkateyni niyagara yı gönderdi
+      metin  : niyagara
+      duyulan: niagara
+  REPLACE  ...güneybatı ucundaki valentia yani
+      metin  : valensiya adası nda
+      duyulan: valencia adasında
+  REPLACE  ...valensiya adası nda büyük
+      metin  : tören
+      duyulan: yöntem
+  REPLACE  ...ucu kıyıya çekildi ve
+      metin  : niyagara
+      duyulan: niagara
+  REPLACE  ...yola çıktı plan basitti
+      metin  : niyagara
+      duyulan: niagara
+  REPLACE  ...ekleyecek agamemnon da işi
+      metin  : nüfaundland
+      duyulan: newfoundland
+  REPLACE  ...çözülüp sessizce karanlık suya
+      metin  : iniyordu
+      duyulan: çıkıyordu
+  REPLACE  ...karanlık suya iniyordu sinyaller
+      metin  : valensiya
+      duyulan: valencia
+  INSERT   ...başında makinist nöbet tutuyordu
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...sıkıldı gergin kablo silah
+      metin  : gibi patlayarak
+      duyulan: atlayarak
+  REPLACE  ...gelince kendiliğinden gevşiyordu plan
+      metin  : da değişti
+      duyulan: geçti
+  REPLACE  ...güvertedeki kablo makarası kaydı
+      metin  : mürettebat
+      duyulan: mürettabat
+  REPLACE  ...da kablolar okyanusun ortasında
+      metin  : birleştirildi
+      duyulan: araştırıldı
+  ... ve 62 fark daha
+
+metinde olup DUYULMAYAN: 116 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: tarih-2026-11-04.duyulan.txt

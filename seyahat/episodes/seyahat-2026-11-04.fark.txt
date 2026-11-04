@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-04.mp3
+
+beklenen 2008 kelime | duyulan 2020 kelime | eşleşme %94.0
+sayı ifadesi: metinde 263, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geride kaldıktan sonra yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...sonra yaklaşık kilometer daha
+      metin  : atlantiğin
+      duyulan: atlantin
+  REPLACE  ...gölge uçurumlara dönüşür burası
+      metin  : sent
+      duyulan: st
+  REPLACE  ...sent kilda takımadası yani
+      metin  : sent
+      duyulan: st
+  REPLACE  ...dilinde gal dilinde adı
+      metin  : hiort tur takımadanın
+      duyulan: hjorttur takım adanın
+  REPLACE  ...yolcu önce kuşları duyar
+      metin  : sent
+      duyulan: st
+  REPLACE  ...sent kilda bugün kuzey
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...toplar ya da anakaradan
+      metin  : getirtirdi
+      duyulan: getirtir
+  REPLACE  ...hayat kuşlar üzerine kuruluydu
+      metin  : sent
+      duyulan: st
+  REPLACE  ...özgün yapı yaymışlardı bunlara
+      metin  : cleit
+      duyulan: clayt
+  INSERT   ...da bu taş kilerlerden
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...sessiz arşividir ada halkının
+      metin  : dışarıyla
+      duyulan: dışarı ile
+  REPLACE  ...üzerinden kuruluyordu takımada yüzyıllarca
+      metin  : skye adasındaki maklaud
+      duyulan: sky adası ndaki mcleod
+  REPLACE  ...ve tahıl olarak alırdı
+      metin  : sent
+      duyulan: sand
+  INSERT   ...ilk ayrıntılı biçimde anlatanlardan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ana cadde anlamına gelen
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kalabalığı da beraberinde getirdi
+      metin  : yetmişlerden
+      duyulan: lerden
+  REPLACE  ...dan kalkan bu gemiler
+      metin  : viktorya
+      duyulan: victoria
+  REPLACE  ...satın alır fotoğraf çeker
+      metin  : kayaya
+      duyulan: kaya
+  REPLACE  ...ardından yayılan nezle ve
+      metin  : öksürüğe
+      duyulan: öksürüye
+  REPLACE  ...salgına dönüşebiliyordu daha eski
+      metin  : felaket
+      duyulan: felaketti hafızalardaydı
+  DELETE   ...daha eski felaket de
+      metin  : hafızalardaydı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...silip süpürmüştü ada sonradan
+      metin  : hebridler den
+      duyulan: hebritlerden
+  REPLACE  ...ziyaretçilerle gelen değişimin yanında
+      metin  : sent
+      duyulan: st
+  REPLACE  ...gün arasında başlardı bebek
+      metin  : emmeyi
+      duyulan: emmeği
+  INSERT   ...buna gün hastalığı diyordu
+      metin  : (yok)
+      duyulan: dot
+  INSERT   ...takdiri olarak karşıladı kırılma
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...papaz olarak atanan angus
+      metin  : fiddes
+      duyulan: fides
+  REPLACE  ...öğrendi ve adaya eğitimli
+      metin  : ebe
+      duyulan: eve
+  REPLACE  ...sonuç çok çabuk görüldü
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...başından itibaren gün hastalığı
+      metin  : sent
+      duyulan: st
+  REPLACE  ...hastalığı sent kilda dan
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...fiilen silindi yüzyıllardır süren
+      metin  : yas
+      duyulan: yaz
+  INSERT   ...nüfusu göçle de eriyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...küçük olan topluluktan anda
+      metin  : (yok)
+      duyulan: üçtebirlik
+  INSERT   ...topluluktan anda pay kopardı
+      metin  : (yok)
+      duyulan: doğum
+  INSERT   ...da derin değişim getirdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...free church yani özgür
+      metin  : kilize ye
+      duyulan: kiliseye
+  INSERT   ...aylarca hiçbir gemi gelmezdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gelmezdi adada mahsur kalan
+      metin  : gazeteci ile
+      duyulan: gazeteciyle
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: seyahat-2026-11-04.duyulan.txt

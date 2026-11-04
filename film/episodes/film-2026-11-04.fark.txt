@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-04.mp3
+
+beklenen 2149 kelime | duyulan 2143 kelime | eşleşme %93.0
+sayı ifadesi: metinde 183, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kovulacak mıyım francis ford
+      metin  : koppola
+      duyulan: coppola
+  INSERT   ...film mario puzo nun
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nun yayımlanan ve satış
+      metin  : listelerini
+      duyulan: listelerine
+  REPLACE  ...kalmış taslağı için dolarlık
+      metin  : opsiyon
+      duyulan: opsyon
+  REPLACE  ...ve ekibi sonunda genç
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...sözünü daha kolay dinlerdi
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...warner bros a ciddi
+      metin  : borç
+      duyulan: borçaltına
+  REPLACE  ...a ciddi borç girmişti
+      metin  : lucas
+      duyulan: lujas
+  REPLACE  ...var bu işi al
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...aldı ama kendi koşullarıyla
+      metin  : romanı
+      duyulan: romamı
+  REPLACE  ...bakıma da kalkanı olacaktı
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...da beraberinde getirdi hikaye
+      metin  : kırklarda
+      duyulan: larda
+  REPLACE  ...ize oyuncu seçiminde verildi
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...verildi koppola don vito
+      metin  : korleone
+      duyulan: corleone
+  REPLACE  ...olarak görülüyordu paramount yönetimi
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...filmde oynamayacağını açıkça söyledi
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...çekimi yaptırmak neredeyze hakaretti
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...sicilyalı aile reisi belirdi
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...hazırladığı ağız protezi aldı
+      metin  : michael korleone
+      duyulan: mikail corleone
+  REPLACE  ...parlak yakışıklı yıldızlarından istiyordu
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...tanınmayan tiyatrodan gelen al
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...ısrar ediyordu evans ın
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...yu fazla kısa ve
+      metin  : sıska
+      duyulan: sızka
+  REPLACE  ...ve sıska bulduğu biliniyor
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...repliklerini bile tam söyleyemedi
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...olabilirdi sicilya sahnelerinde de
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...ailenin ateşli büyük oğlu
+      metin  : sonny
+      duyulan: sonia
+  REPLACE  ...kay i ve john
+      metin  : kazal nin
+      duyulan: cazal ın
+  REPLACE  ...fredo su kadroyu tamamladı
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...stüdyoda hayal kırıklığı yarattı
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...sönük görüntüler fazla karanlık
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...da fazla yavaş bulunuyordu
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...belki de haftalığına kurtardı
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...restoranında vurduğu sahne oldu
+      metin  : koppola
+      duyulan: coppola
+  REPLACE  ...sahnenin çekimini öne almıştı
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...yöneticileri ikna etti stüdyo
+      metin  : paçino
+      duyulan: pacino
+  REPLACE  ...nun öncülüğündeydi yapımcı albert
+      metin  : ruddy
+      duyulan: rudy
+  REPLACE  ...isimler sete gelip gitti
+      metin  : luka
+      duyulan: luca
+  REPLACE  ...eski güreşçi lenny montana
+      metin  : brando nun
+      duyulan: brandon ın
+  REPLACE  ...gölgede kaldı seyirci don
+      metin  : korleone
+      duyulan: corleone
+  ... ve 46 fark daha
+
+metinde olup DUYULMAYAN: 99 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: film-2026-11-04.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-04.mp3
+
+beklenen 2483 kelime | duyulan 2510 kelime | eşleşme %94.7
+sayı ifadesi: metinde 372, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...tepelerin üzerinden savurur ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oynadığı en sevdiği oyun
+      metin  : gena idi
+      duyulan: genaydı
+  INSERT   ...vardı abebe henüz yaşındayken
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...selasiye sürgüne gitti ülke
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kentinde duran devasa taş
+      metin  : dikilitaş
+      duyulan: dikili taş de
+  REPLACE  ...hikayemize gün geri dönecek
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...geçit töreninde bakışta saklıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...takibi sabırla kurulan dayanıklılık
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...sakin ölçüyle ilerliyordu yazında
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...sayılan muhafız arkadaşı vami
+      metin  : nun
+      duyulan: un
+  REPLACE  ...bu yarışlarla belirliyordu ve
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...kırdı yerine son anda
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...son anda abebe yazıldı
+      metin  : cato
+      duyulan: kato
+  REPLACE  ...yeni ayakkabı aradı ama
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...oluşturdu sonunda karar verildi
+      metin  : abebe
+      duyulan: abb
+  INSERT   ...yalınayak etiyopyalı askeri saymıyordu
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...nden koşucu yola çıktı
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...öne çıkan isim kalmıştı
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...ve faslı radi ben
+      metin  : abdesselam
+      duyulan: abdestselam
+  REPLACE  ...koşuyordu sonra hava karardı
+      metin  : appia yolu nun
+      duyulan: abya yolunun
+  REPLACE  ...alevlerin arasından geçen ince
+      metin  : siluetti abebe
+      duyulan: silüetti abb
+  REPLACE  ...radi her hamlede yanında
+      metin  : abebe
+      duyulan: abb
+  INSERT   ...dikilitaşı nın önünden geçiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...roma nın meydanında duruyordu
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...cevabın ne olduğundan bağımsızdı
+      metin  : abebe bikila
+      duyulan: abb kilo
+  DELETE   ...altındaki çizgiyi saat dakika
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geldi yeni zelandalı barry
+      metin  : magee
+      duyulan: mcgee
+  REPLACE  ...ama asıl şaşırtıcı olan
+      metin  : finişten
+      duyulan: finishten
+  REPLACE  ...olan finişten sonraki görüntüydü
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...şeyin ötesini fark etmişti
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...kadar gurur dalgası yarattı
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...yetindiği söyleniyordu bu söz
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...doldu i mparator hayle
+      metin  : selasiye
+      duyulan: selasiyye
+  INSERT   ...yalnızca ay sonra aralık
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...aralık i mparator hayle
+      metin  : selasiye
+      duyulan: selasiyye
+  REPLACE  ...yeni hükümeti duyurmaya zorladı
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...sokaklarında silah sesleri duyuldu
+      metin  : rehinelerin
+      duyulan: ağabeyin inelerinin
+  REPLACE  ...yargılandı ve idam edildi
+      metin  : abebe
+      duyulan: abb
+  REPLACE  ...olarak görülmedi askerin komutanlarının
+      metin  : emirleri ile imparatoruna
+      duyulan: emirleriyle i mparatoruna
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 85 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: biyografi-2026-11-04.duyulan.txt

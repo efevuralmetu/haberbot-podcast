@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-04.mp3
+
+beklenen 1816 kelime | duyulan 1832 kelime | eşleşme %96.8
+sayı ifadesi: metinde 216, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...modelleer gömülüyordu adı min
+      metin  : le ydi
+      duyulan: leydie
+  REPLACE  ...i nternetteki oyun topluluklarında
+      metin  : gooseman
+      duyulan: gu saman
+  REPLACE  ...daha önce id softwaer
+      metin  : in
+      duyulan: ın
+  INSERT   ...nin aradığı motor kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...türün çıtasını yükselten oyundu
+      metin  : valve
+      duyulan: valvev
+  REPLACE  ...bilimkurgu atmosferi ve senaryo
+      metin  : anlatımıyla
+      duyulan: anlatımı ile
+  REPLACE  ...ilgilendiren hikayesi değil motoruydu
+      metin  : valve
+      duyulan: valvev
+  INSERT   ...değil motoruydu valve nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yanında ortak vardı jess
+      metin  : cliffe cliffe
+      duyulan: cliffey cliff
+  REPLACE  ...ölümü pahalı kıldı köşeden
+      metin  : aceleyle
+      duyulan: acele ile
+  INSERT   ...lk beta sürümü haziran
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve mike harrington tarafından
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...satın aldı ve min
+      metin  : le ile
+      duyulan: leyle
+  REPLACE  ...min le ile jess
+      metin  : cliffe i
+      duyulan: cliffie
+  INSERT   ...ticari ürüne dönüştü kasım
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...kasım counter strike ın
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...arasında oyunun kimliğine dönüşecekti
+      metin  : de dust
+      duyulan: d u s t
+  INSERT   ...neredeyze kusursuzdu johnston mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...counter strike demek toz
+      metin  : (yok)
+      duyulan: nin
+  DELETE   ...sahnesi de doğuyordu sürüm
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...valve ın counter strike
+      metin  : tan
+      duyulan: dan
+  INSERT   ...oyunun kendisi değildi şirket
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...açtı başlangıçta amacı valve
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...valve daki yolculuğu ize
+      metin  : oyununkiyle
+      duyulan: oyununki ile
+  REPLACE  ...oyunları geliştirmeye yöneldi jess
+      metin  : cliffe ize
+      duyulan: cliffface e
+  INSERT   ...farklı uzaklıklarda durur oldu
+      metin  : (yok)
+      duyulan: deki
+  DELETE   ...rekabetçi topluluğun önemli kısmı
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bölünmeyi kapatma görevi ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olarak değiştirecek güncellemeydi ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...değiştirecek güncellemeydi ağustos valve
+      metin  : (yok)
+      duyulan: ve
+  INSERT   ...bahis yapmak da yaygınlaştı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...vurguladı tartışma yalnızca amerika
+      metin  : ile
+      duyulan: yla
+  INSERT   ...amerika ile sınırlı kalmadı
+      metin  : (yok)
+      duyulan: kiki de
+  INSERT   ...modeli de değişti aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...strike yine ücretsizdi ama
+      metin  : (yok)
+      duyulan: daki
+  INSERT   ...yine ücretsizdi ama ücretsizlikle
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...çok farklı şeylerdi eylül
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...un yerine counter strike
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...kadar kırılgan olduğu ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fiyatlar sert biçimde düştü
+      metin  : basına
+      duyulan: bazısına
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: oyun-2026-11-04.duyulan.txt

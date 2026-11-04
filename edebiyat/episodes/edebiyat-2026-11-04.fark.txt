@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-04.mp3
+
+beklenen 1949 kelime | duyulan 1952 kelime | eşleşme %94.4
+sayı ifadesi: metinde 281, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kaybın küllerinden doğdu aralık
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...lozan da işler uzayınca
+      metin  : hadley
+      duyulan: headley
+  REPLACE  ...yapacaklar kışı birlikte geçirecekler
+      metin  : hadley
+      duyulan: headley
+  REPLACE  ...el valizine koyar roman
+      metin  : taslağı
+      duyulan: taslığı
+  REPLACE  ...yan yana durmaktadırlar hadley
+      metin  : liyon
+      duyulan: lyon
+  REPLACE  ...güneye giden trenlerin kalktığı
+      metin  : gar dö liyon
+      duyulan: gaer de lyon
+  REPLACE  ...dö liyon a yani
+      metin  : liyon garı
+      duyulan: lyon gaer
+  REPLACE  ...adlı öyküydü gazeteci lincoln
+      metin  : steffens
+      duyulan: stephens
+  INSERT   ...uzun süer kemirdi ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kaybetmiş yazar eksikliğin de
+      metin  : anlatabileceğini
+      duyulan: yapabileceğini
+  INSERT   ...aynı zamanda yoksulluk yıllarıdır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...oğulları john dünyaya gelir
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...ailenin geçimini büyük ölçüde
+      metin  : hadley
+      duyulan: headley
+  REPLACE  ...küçük gelirine bırakmak demektir
+      metin  : kereste
+      duyulan: keresli
+  REPLACE  ...yazacaktı karnı aç olduğunda
+      metin  : lüksemburg bahçesi ndeki
+      duyulan: luxemburg bahçesindeki
+  REPLACE  ...da düzyazıyı en yalın
+      metin  : parçalarına
+      duyulan: tablolarına
+  INSERT   ...başlangıcın ilk tuğlaları olur
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıl amerikalı derlemeci edward
+      metin  : o brien
+      duyulan: ryan
+  INSERT   ...ciddi tanınmayı getirmiştir ardından
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...zamanımızda kitap öykülerle aralarına
+      metin  : yerleştirilmiş
+      duyulan: değiştirilmiş
+  REPLACE  ...gider boğa güreşleri içki
+      metin  : kıskançlıklar
+      duyulan: kançlıklar
+  INSERT   ...gerilen dostluklar dönüşte temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...temmuz yani doğum gününde
+      metin  : valensiya
+      duyulan: valencia
+  INSERT   ...ayda bitirir bu roman
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sun also rises yani
+      metin  : güneş de doğar dır
+      duyulan: güneşte doğardır
+  REPLACE  ...ya uzanan yolculuğunu anlatır
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...epigraf vardır gertrude stein
+      metin  : ın
+      duyulan: in
+  REPLACE  ...bütün dönemin adı olacaktı
+      metin  : güneş de
+      duyulan: güneşte
+  REPLACE  ...olacaktı güneş de doğar
+      metin  : liyon garı ndaki
+      duyulan: leon garandaki
+  DELETE   ...sonra ortaya çıkan baştan
+      metin  : sona
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ne olduğu bilinmiyor ama
+      metin  : güneş de doğar ın
+      duyulan: güneşte doğarın
+  REPLACE  ...de acı tarafı vardır
+      metin  : roman
+      duyulan: romam
+  REPLACE  ...pauline pfeiffer hayatına girmiştir
+      metin  : güneş de
+      duyulan: güneşte
+  INSERT   ...ve oğullarına adanır ocak
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...tazminat mıdır vicdan borcu
+      metin  : mu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yazarlarından yaşlı adam ve
+      metin  : deniz ile pulitzer i
+      duyulan: denizle
+  INSERT   ...almıştır ama bedeni yorgundur
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ile paris te plas
+      metin  : vandom
+      duyulan: vendôme
+  REPLACE  ...hikayeye göer otelin sahibi
+      metin  : şarl
+      duyulan: charles
+  REPLACE  ...bodrumda unutulmuş küçük sandık
+      metin  : olduğunu
+      duyulan: larını
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 85 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: edebiyat-2026-11-04.duyulan.txt

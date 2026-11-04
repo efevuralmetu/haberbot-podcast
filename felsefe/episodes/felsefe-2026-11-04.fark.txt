@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-04.mp3
+
+beklenen 2374 kelime | duyulan 2359 kelime | eşleşme %95.2
+sayı ifadesi: metinde 262, duyulanda 227  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...duymuşuzdur bana öyle bakma
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...bakışta hüküm vardı yüzyılda
+      metin  : jan jak ruso
+      duyulan: jean jacques rousseau
+  INSERT   ...duyguyu bambaşka yeer koydu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bile bunu ölçüde yaşar
+      metin  : ruso
+      duyulan: rousseau
+  REPLACE  ...toplumun bu kendiliğinden duyguyu
+      metin  : körelttiğiydi
+      duyulan: köreltti idi
+  REPLACE  ...ize kavgayı ayırmaya koşar
+      metin  : ruso
+      duyulan: rousseau
+  REPLACE  ...masum çekirdektir yıl sonra
+      metin  : i skoç
+      duyulan: da iskoç
+  DELETE   ...başka hiçbir çıkar sağlamasa
+      metin  : bile
+      duyulan: (YOK — atlanmış)
+  DELETE   ...hüzündür ve hüzün insanın
+      metin  : gücünü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ilginçtir ki ötekinin hayranıydı
+      metin  : artur şopenhauer
+      duyulan: arthur schopenhauer da
+  REPLACE  ...soru ahlakın temelinin ne
+      metin  : olduğuydu şopenhauer in
+      duyulan: olduğuydü schopenhauer ın
+  REPLACE  ...temeli acımadır kendi kelimesiyle
+      metin  : mitlayd
+      duyulan: mid light
+  REPLACE  ...sen arasındaki duvar yıkılır
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  REPLACE  ...yarışmaya katılan tek kişi
+      metin  : şopenhauer di
+      duyulan: schopenhauer dı
+  REPLACE  ...sert sözleri de beğenmemişti
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  REPLACE  ...öfkeyle not etti gençliğinde
+      metin  : şopenhauer i
+      duyulan: schopenhauer ı
+  REPLACE  ...şopenhauer i okuyup büyülenen
+      metin  : fridrih niçe
+      duyulan: friedrich nietzsche
+  REPLACE  ...en sert eleştiriyi geliştirdi
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...hem de bulaşıcı hastalık
+      metin  : deccal
+      duyulan: dezcal
+  REPLACE  ...hayır demenin pratiğidir ama
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...sessizce büyür böyle buyurdu
+      metin  : zerdüşt te
+      duyulan: zerdüşte
+  REPLACE  ...hastane asansörüne geri dönelim
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...göz bakarken yükseklik kurar
+      metin  : niçe
+      duyulan: nietzsche
+  INSERT   ...dipnotu var anlatılana göer
+      metin  : (yok)
+      duyulan: un
+  DELETE   ...var anlatılana göer ocak
+      metin  : ayının
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...arabacının atını kırbaçladığını gören
+      metin  : niçe
+      duyulan: nietzsche
+  REPLACE  ...olabilir ama kesin olan
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...derin acımayla son buldu
+      metin  : niçe nin
+      duyulan: nietzchenin
+  REPLACE  ...böylece önümüzde kalıyor yanda
+      metin  : ruso
+      duyulan: russo
+  REPLACE  ...yanda ruso smith ve
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  REPLACE  ...kesiliriz öbür yanda spinoza
+      metin  : niçe
+      duyulan: nietzsche
+  DELETE   ...tartışmasından yüzyıllar önce bambaşka
+      metin  : sözlük
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bambaşka sözlük ve bambaşka
+      metin  : imgeyle
+      duyulan: imge ile
+  REPLACE  ...hepsi aynı kökten gelir
+      metin  : r h
+      duyulan: ra he ci
+  REPLACE  ...gelir r h ve
+      metin  : m
+      duyulan: mem
+  DELETE   ...dildeki kökü annenin içinde
+      metin  : çocuğunu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ve tirmizi nin derlediği
+      metin  : kudsi
+      duyulan: kutsi
+  DELETE   ...imgenin ne kadar güçlü
+      metin  : olduğunu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...varlık olarak görmez kendi
+      metin  : bedeninin
+      duyulan: bedenin
+  REPLACE  ...baştan yoktur buhari ve
+      metin  : müslim in
+      duyulan: müslüman
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 97 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: felsefe-2026-11-04.duyulan.txt

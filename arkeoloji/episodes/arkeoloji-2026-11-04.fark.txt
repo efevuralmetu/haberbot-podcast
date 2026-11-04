@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-04.mp3
+
+beklenen 2308 kelime | duyulan 2325 kelime | eşleşme %93.1
+sayı ifadesi: metinde 321, duyulanda 229  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...vaha kasabası vardır kasabanın
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...bakınca arı peteğine benzer
+      metin  : yamacın
+      duyulan: yamaçın
+  REPLACE  ...sıradan aileler yeni mağaralar
+      metin  : oydurdu
+      duyulan: oydu
+  REPLACE  ...gösterirdi bugün bu mağaraların
+      metin  : ikisinde
+      duyulan: sinde
+  REPLACE  ...bu terk edilmiş yeer
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...edilmiş yeer doksanların sonunda
+      metin  : vang yüenlu
+      duyulan: wang yuanlu
+  REPLACE  ...yüenlu adında adam geldi
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...ayaklanması nın kıvılcımları tutuşurken
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...kullandığı ince sapı bu
+      metin  : çatlağa
+      duyulan: çatlağı
+  REPLACE  ...diye kaydedilen o gün
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...de sırdı yüzyıllar önce
+      metin  : hongbiyen
+      duyulan: hongbian
+  REPLACE  ...duvara gömülü taş yazıt
+      metin  : hongbiyen
+      duyulan: hongbian
+  REPLACE  ...kim olduğunu anlatıyordu ama
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...büyük tüccar halkının dili
+      metin  : soğdca
+      duyulan: soğutça
+  REPLACE  ...yazılmış fal kitabı irk
+      metin  : bitig
+      duyulan: bitik
+  REPLACE  ...kalmıyordu budist metinlerin yanında
+      metin  : maniheist
+      duyulan: manihaist
+  REPLACE  ...yanında maniheist ilahiler ve
+      metin  : maniheist
+      duyulan: manihaist
+  REPLACE  ...doğu kilisesi ne bağlı
+      metin  : hristiyanların çinceye
+      duyulan: hıristiyanların çince ye
+  INSERT   ...yıldız haritası kuzey göğündeki
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...kuzey göğündeki aşkın yıldızı
+      metin  : takımyıldızlarıyla
+      duyulan: takımı yıldızlarıyla
+  REPLACE  ...yıldız atlası olarak biliniyor
+      metin  : vang yüenlu
+      duyulan: wang yuanlu
+  REPLACE  ...götürdü sonra bölge yöneticilerine
+      metin  : örnekler
+      duyulan: önlökler
+  REPLACE  ...taşımanın masrafını hesaplayınca vazgeçti
+      metin  : vang
+      duyulan: te wang
+  REPLACE  ...yeniden kapat ve koru
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...beklemeye başladı beklediği şey
+      metin  : tapınağı
+      duyulan: tapınağa
+  REPLACE  ...hindistanı hizmetindeki arkeolog aurel
+      metin  : ştayn
+      duyulan: stein
+  REPLACE  ...arkeolog aurel ştayn vardı
+      metin  : ştayn
+      duyulan: stein
+  REPLACE  ...ize tüccardan duymuştu ancak
+      metin  : ştayn
+      duyulan: stein
+  REPLACE  ...çince okuyamıyordu bu yanında
+      metin  : ciyang şiyavan
+      duyulan: chiang shi yawan
+  REPLACE  ...sekreter ve tercüman vardı
+      metin  : ştayn
+      duyulan: stein
+  REPLACE  ...ştayn dunhuang a vardığında
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...başına iş açmasından korkuyordu
+      metin  : ştayn
+      duyulan: stein
+  REPLACE  ...anahtarı beklenmedik yerde buldu
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...e getiren hacı keşiş
+      metin  : şüenzang
+      duyulan: yuan zhang
+  REPLACE  ...keşişin yolculuğundan sahneler resmettirmişti
+      metin  : ştayn
+      duyulan: stein
+  REPLACE  ...hayranlığı fark etti ve
+      metin  : şüenzang
+      duyulan: xuanzang
+  REPLACE  ...istediğini söyledi bu benzetme
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...gece yarısı yürütülen pazarlıktı
+      metin  : vang
+      duyulan: wang
+  REPLACE  ...odadan çıkınları gizlice getiriyor
+      metin  : ciyang
+      duyulan: jiang
+  REPLACE  ...gizlice getiriyor ciyang karanlıkta
+      metin  : ştayn ın
+      duyulan: stein in
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 127
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: arkeoloji-2026-11-04.duyulan.txt
