@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-05.mp3
+
+beklenen 1889 kelime | duyulan 1903 kelime | eşleşme %98.4
+sayı ifadesi: metinde 194, duyulanda 152  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kara bitkisi türlerinin yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...i skoçya daki küçük
+      metin  : rhynie köyünün
+      duyulan: rainiköy ünün
+  INSERT   ...takasın büyüklüğü insanı şaşırtıyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...pazarlık hollandalı biyolog toby
+      metin  : kiers
+      duyulan: kearse
+  INSERT   ...toby kiers ve ekibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yönlendirdiğini gösterdi i ki
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...bilim hikayelerinden tohumu oldu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...genç orman bilimci olan
+      metin  : süzan
+      duyulan: suzan
+  INSERT   ...bunları ayırt edebiliyor karbon
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...özel cihazlarla ölçüyor karbon
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...ve köknarları plastik torbalarla
+      metin  : örttü
+      duyulan: örtü
+  REPLACE  ...gerekirdi eğer mantar bağlantısı
+      metin  : önemliyze
+      duyulan: önemli ize
+  INSERT   ...neredeyze hiç almamalıydı sonuçlar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...haritalamaya girişti öğrencisi kevin
+      metin  : beiler
+      duyulan: byler
+  INSERT   ...douglas köknarı ormanında yaklaşık
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...mantar bireyini paylaştığını varsaydı
+      metin  : (yok)
+      duyulan: tiki da
+  REPLACE  ...kazandı alman ormancı peter
+      metin  : volleben in
+      duyulan: wollebe nin de
+  REPLACE  ...in yayımlanan kitabı das
+      metin  : gehayme
+      duyulan: geheime
+  REPLACE  ...das gehayme leben der
+      metin  : boyme
+      duyulan: boime
+  INSERT   ...listesine girdi simar ın
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ne kadarını gerçekten destekliyor
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...karst amerikalı ekolog jason
+      metin  : hoeksema
+      duyulan: hawksama
+  INSERT   ...ekolog jason hoeksema ve
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...değil kütüphaneye gittiler ortak
+      metin  : mikoriza
+      duyulan: mikorize
+  REPLACE  ...doğrudan birbirine kaynaşabiliyor karbon
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...karbon dördün ve karbon
+      metin  : (yok)
+      duyulan: ün
+  DELETE   ...köke ulaşması kimyasal olay
+      metin  : buna
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...daha zengin gizem sunuyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 33
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: bilim-2026-11-05.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-05.mp3
+
+beklenen 1717 kelime | duyulan 1724 kelime | eşleşme %94.9
+sayı ifadesi: metinde 266, duyulanda 185  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...fikrin peşine düştü alex
+      metin  : rigopulos
+      duyulan: rigopoulos
+  REPLACE  ...alex rigopulos ile eran
+      metin  : egozi
+      duyulan: egosi
+  REPLACE  ...ile eran egozi massachusetts
+      metin  : teknoloji
+      duyulan: technoloji
+  REPLACE  ...harmonix adını verdiler biz
+      metin  : armoni
+      duyulan: armani
+  REPLACE  ...buna hazır olduğu söylenemezdi
+      metin  : armoni
+      duyulan: armani
+  INSERT   ...nun ilk ciddi ürünü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ilk ciddi ürünü çıktı
+      metin  : the axe
+      duyulan: d ax
+  INSERT   ...hedefleri ize hep konsollardı
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...kapı aralandı sony yani
+      metin  : soni
+      duyulan: sony
+  REPLACE  ...nun hazırladığı frequency yani
+      metin  : frekans
+      duyulan: frequence
+  REPLACE  ...frekans adlı oyunu yayımladı
+      metin  : frekans ta
+      duyulan: frequence da
+  REPLACE  ...devam oyunu amplitude yani
+      metin  : genlik
+      duyulan: genmic
+  INSERT   ...söyletmeye çağıran karaoke revolution
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geldi bu şirketin adı
+      metin  : redoctane di
+      duyulan: red octane i
+  REPLACE  ...diyelim kai ve charles
+      metin  : huang
+      duyulan: huan
+  REPLACE  ...dans pedleri üretmeye geçmişti
+      metin  : huang
+      duyulan: huan
+  REPLACE  ...oyun salonlarında konami nin
+      metin  : guitarfreaks
+      duyulan: gitar freaks
+  INSERT   ...ortaya çıkan oyun kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...oyun kasım raflara geldi
+      metin  : guitar
+      duyulan: gitar
+  REPLACE  ...hiçbir önemi yoktu ağızdan
+      metin  : ağıza
+      duyulan: ağza
+  INSERT   ...oyuncularının dikkatini hemen çekti
+      metin  : (yok)
+      duyulan: kiki da
+  DELETE   ...geldi yayıncı devi activision
+      metin  : yani aktivizyon
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...çatı şirketi viacom yani
+      metin  : vayakom
+      duyulan: vayacom
+  REPLACE  ...a aitti dolayısıyla artık
+      metin  : aktivizyon
+      duyulan: activision
+  REPLACE  ...serinin anahtarlarını teslim etti
+      metin  : aktivizyon
+      duyulan: activision
+  INSERT   ...yerine koca grup kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...insanlar ödedi aynı sonbaharda
+      metin  : aktivizyon
+      duyulan: activision
+  REPLACE  ...plastik enstrüman satacaktı rakamlar
+      metin  : başdöndürücüydü aktivizyon
+      duyulan: baş döndürücüydü activision
+  REPLACE  ...video oyunu olarak tanıttı
+      metin  : armoni
+      duyulan: armonist
+  INSERT   ...kapalı kapılarından açılmasıydı eylül
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...odalarında sessiz yığılma başlamıştı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...metallica ya ve van
+      metin  : halen a
+      duyulan: halene
+  INSERT   ...müzik oyunlarının toplam geliri
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...en parlak yıldızı olan
+      metin  : tür
+      duyulan: türk
+  INSERT   ...karşılık vermeye çalıştı ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...almak istemiyordu aynı yıl
+      metin  : vayakom
+      duyulan: vayacom
+  REPLACE  ...ödemeler yüzünden mahkemelik olmuşlardı
+      metin  : medya
+      duyulan: media
+  INSERT   ...elinde tutmak istemiyordu aralık
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu hafta sonra şubat
+      metin  : (yok)
+      duyulan: de
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 71
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: oyun-2026-11-05.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-05.mp3
+
+beklenen 2690 kelime | duyulan 2392 kelime | eşleşme %12.8
+sayı ifadesi: metinde 224, duyulanda 127  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...and deceiving them begin
+      metin  : haklıydın kanıtın
+      duyulan: you aer right you know you weer right and you stil lost the argument then someone else won it with a smile a story and a single wel timed pause wheer does persuading someone end and deceiving them begin wheer does persuading someone end and deceiving them begin you weer right you knew you weer right and you stil lost the argument you weer right you know you weer right and you stil lost the argument when you weer right you knew you weer right and you stil lost the argument then someone else won it with a smile a story and a single wel timed pause wheer does persuading someone end and deceiving them begin you weer right you knew you weer right and you stil lost the argument bübenzet meyannas jasofistleri eleshtirmjor birkehanetetasjor tsunkumilattan undje uchuzdaksandokuzilandas sokrates gärcektände böle býrzurininunenecikajakte jenschleri joldanci karmak veshehrintanulerna inanmamak la sutlande atina jelenene göer davaaya yuzdärje yurtashtanolushan býrzuribakköyordu anna tlera göer beshyuz býrkishi platonun savunmasundasokrates suze ygincpiruja rilabashlas tsuchlejdilernan jurei ustabir konusma joldu konusunda uyardunne bunun enutanmasjelan oldunu soylär kändisi suzlu suzdär kurmyejaktär akhlanä gäldi gibi konusujak veyannas jadoryu soylijjektär jett mi seshanda kibiradam hayatne kurtaer bilejek otek konusma
+  REPLACE  ...begin haklıydın kanıtın da
+      metin  : vardı
+      duyulan: belagatin bütunhilerni bilerek rededär alayan chöjuklärne makhjemeigetirip jurei döygulandermas merhametdilenmez hata suchlubulunduktanson ra jesä eunärmesi iständiinde shehrejaptu jismetichin umurboyu devletsofresundä yemek yemeihaketi nysoylär sanuch bile nyor sökratei suchlubulundu kändisi oylärärsundä kifarkan chokazoldunu übertarafagetsä beräte dije nysoylär ardun dan ullum jesä segäldi ve baldran zeher shimde orahatsus edije söryusormanan zamanä sökrateis häkledä dieläm
+  REPLACE  ...kanıtın da vardı ama
+      metin  : tartışmayı kaybettin karşındaki ize tek doğru cümle kurmadan herkesi arkasına aldı bu durumda gerçekten kaybeden hangisi sen mi yoksa hakikat mi atina milattan önce yüzyılın son çeyreği agora sabahtan beri kalabalık zeytinyağı satan tüccarın yanında kumaşçı tezgahını kurmuş ötede sütunların gölgesinde iyi giyimli adam çevresine toplanan gençleer şey anlatıyor sattığı şey zeytin de değil kumaş da değil söz daha doğrusu sözü kullanma becerisi meclis te nasıl konuşulur mahkemede kendini nasıl savunursun rakibinin iddiasını nasıl çürütürsün kalabalığı nasıl peşinden sürüklersin bunları öğretiyor ve karşılığında para alıyor hem de azımsanmayacak kadar bu adamlara sofist deniyordu kelime ilk başta bilge usta anlamına geliyordu zamanla bambaşka renk alacaktı sofistlerin müşteri bulmakta zorlanmamasının basit nedeni vardı atina doğrudan demokrasiyle yönetiliyordu avukat yoktu savcı yoktu sizi dava ettiğinde jürinin karşısına kendiniz çıkar kendinizi kendiniz savunurdunuz meclis te savaş mı barış mı kararı verilecekse yurttaşlar dinler en iyi konuşanın ardından giderdi böyle şehirde konuşmayı bilmemek mülkünü itibarını hatta canını kaybetmek demekti sofistlerin en ünlülerinden protagoras insan her şeyin ölçüsüdür diyordu herkesin kendi ölçüsüne göer doğru bulduğu farklıysa iyi konuşmacının işi hakikati bulmak değil dinleyicinin ölçüsünü ustaca kendi tarafına çevirmekti sofistleer yöneltilen en ağır suçlama da buradan doğdu zayıf olan sözü güçlü gösterme yani haksız olanı haklı zayıf olanı sağlam gibi sunmak bu kalabalığın içinde başka daha dolaşıyordu yalınayak eski pelerin giymiş dikkat çekecek kadar çirkin yaşlı adam kimseden para almıyordu kimseye şey öğretmediğini de söylüyordu yaptığı tek şey soru sormaktı komutana cesaretin ne olduğunu rahibe dindarlığın ne olduğunu sofiste de tam olarak ne sattığını soruyordu adı sokrates ti sokrates le sofistler arasındaki fark ilk bakışta önemsiz görünebilir ama bütün meselemiz bu farkta yatıyor sofist sana sorar ne istiyorsun davayı mı kazanmak gel öğreteyim sokrates ize sorar haklı mısın gerçekten bildiğini sandığın şeyi biliyor musun kazanmanın yolunu öğretiyor öteki doğru olanın peşine düşüyor öğrencisi platon gorgias adlı diyalogunda bu çatışmayı sahneye dönüştürür diyalogda sokrates retoriğin yani hitabet sanatının gerçek bilgi olmadığını iddia eder göer retorik tür pohpohlamadır dalkavukluktur benzetmesi de çarpıcıdır tıp bedenin gerçekten iyiliğini gözetir aşçılık ize yalnızca damak tadını okşar ve kendini tıp kılığına sokar sokrates daha sonra bunu acı görüntüyle tamamlar doktorla tatlıcıyı çocuklardan oluşan jürinin önünde yarıştırsanız kim kazanır doktor size acı ilaç verdim perhiz uygulattım ama iyiliğiniz içindi der tatlıcı ben size bal verdim şeker verdim der çocuklar tatlıcıyı alkışlar i şte asıl gerilim burada başlıyor bu benzetme yalnızca sofistleri eleştirmiyor kehanet de taşıyor çünkü milattan önce yılında sokrates gerçekten de böyle jürinin önüne çıkacaktı gençleri yoldan çıkarmak ve şehrin tanrılarına inanmamakla suçlandı atina geleneğine göer davaya yüzlerce yurttaştan oluşan jüri bakıyordu anlatılara göer kişi platon un savunma sında sokrates söze ilginç uyarıyla başlar suçlayıcılarının jüriyi usta konuşmacı olduğu konusunda uyardığını bunun en utanmazca yalan olduğunu söyler kendisi süslü sözler kurmayacaktır aklına geldiği gibi konuşacak ve yalnızca doğruyu söyleyecektir yaşındaki adam hayatını kurtarabilecek o tek konuşmada belagatin bütün hilelerini bilerek reddeder ağlayan çocuklarını mahkemeye getirip jüriyi duygulandırmaz merhamet dilenmez hatta suçlu bulunduktan sonra ceza önermesi istendiğinde şeher yaptığı hizmet için ömür boyu devlet sofrasında yemek yemeyi hak ettiğini söyler sonuç biliniyor sokrates suçlu bulundu kendisi oylar arasındaki farkın çok az olduğunu oy öbür tarafa geçse beraat edeceğini söyler ardından ölüm cezası geldi ve baldıran zehri şimdi o rahatsız edici soruyu sormanın zamanı sokrates haklıydı diyelim ama haklı olması kurtarmadı
+      duyulan: häklu ollmasu kurtärmadä
+  REPLACE  ...haklı olması kurtarmadı belki
+      metin  : de kurtaramazdı
+      duyulan: dekertärä mäsda
+  REPLACE  ...belki de kurtaramazdı belki
+      metin  : haklı olmak hele kalabalığın karşısında yetmiyordu
+      duyulan: häklu ollmak helä kalabalun karshesundä jetmjordä
+  REPLACE  ...yetmiyordu o zaman sofistler
+      metin  : bakıma haklı mıydı hakikat kendi başına yürüyemiyorsa ses silah gerekmez mi
+      duyulan: birbakkama häklu medä häkikät kändibashanä yurei emjorsa birbinek birsiläk gerekmäsmä
+  REPLACE  ...silah gerekmez mi ve
+      metin  : eğer gerekiyorsa aynı silahı haksız olanın da kullanmasını nasıl engelleyeceğiz
+      duyulan: er gerekeursa einäsilä hö häksesollananda kulanmasunä nässelängä lijes
+  REPLACE  ...kullanmasını nasıl engelleyeceğiz bu
+      metin  : soruya en cesur cevabı veren adam aslında sokrates in kuşağından sicilya dan gelmişti
+      duyulan: sooryä encesur jevääbo veränadam aslanda sökratetesin kushaandän sijiliädängälmishti
+  REPLACE  ...sicilya dan gelmişti gorgias
+      metin  : leontinoi şehrinden atina ya milattan önce yılında elçi olarak geldi anlatılara göer meclis te yaptığı konuşma atinalıları büyüledi sözcükleri müzik gibi diziyor karşıt kavramları birbirine çarptırıyor cümlelerini ritimli ve kafiyeli kuruyordu atinalılar o güne dek böyle şey duymamıştı
+      duyulan: lianti noi shehrindän attina jämilättänunje dirt juzirmi edi lunda el ciölläräkgeldä anlata lärägöer medjistä jäptu konushma attina lärbyulädä sözdukleri musikki bi dizyor karsit kävramlaribir kärptärjor jumnelärini ritimnive kafjälä kurjordo ettinälullär ogünädäk bäulebi sheydui mamishtä
+  REPLACE  ...böyle şey duymamıştı gorgias
+      metin  : tan bize ulaşan en ünlü
+      duyulan: andän bisei ullasanä enunnu
+  REPLACE  ...ulaşan en ünlü metin
+      metin  : helene ye övgü dür
+      duyulan: helänäya uvgu dör
+  REPLACE  ...ye övgü dür konusu
+      metin  : son derece kışkırtıcıdır truva savaşı nın sorumlusu olarak bütün yunan dünyasının lanetlediği helene yi savunur
+      duyulan: såndärejä kyshkertä jödör fruvasäva sävashänän sörumnuso oleräk butun jönändunjaasänän länätttled di helänäi sävunur
+  REPLACE  ...yi savunur gorgias bunu
+      metin  : mantık oyunuyla yapar helene ya tanrıların iradesiyle ya zorla kaçırıldığı için ya aşka yenik düştüğü için ya da sözle ikna edildiği için gitmiştir hangisi olursa
+      duyulan: mäntäk oyunu ilä japär helänä jätänru lären iräade sile jäzorlä kächirildu ichin jä ashka jäniktustu ichin jädä söslä iknäe dildi ichin gitmästär hängi si oler sa
+  REPLACE  ...gitmiştir hangisi olursa olsun
+      metin  : suçlu değildir i şte
+      duyulan: söchludä jilder istä
+  REPLACE  ...değildir i şte en
+      metin  : dikkat çekici kısım da sonuncusudur çünkü
+      duyulan: dikkäk cäkkejikasam dasonunju sudur sunki
+  REPLACE  ...da sonuncusudur çünkü gorgias
+      metin  : burada sözün doğasını anlatır
+      duyulan: purä dasosun doasanä anna tär
+  REPLACE  ...sözün doğasını anlatır göer
+      metin  : söz büyük hükümdardır
+      duyulan: sösbyuk hukkimdärdär
+  REPLACE  ...söz büyük hükümdardır gözle
+      metin  : görülmeyecek
+      duyulan: görul mejäk
+  REPLACE  ...hükümdardır gözle görülmeyecek kadar
+      metin  : küçük bedeni vardır ama en ilahi işleri yapar
+      duyulan: kuchuk bedänivärdäramä enilähi ichleriapär
+  REPLACE  ...işleri yapar korkuyu dindirir
+      metin  : acıyı siler sevinç uyandırır merhamet doğurur
+      duyulan: ajis silär sevin cuyandirir marhamet dorur
+  REPLACE  ...uyandırır merhamet doğurur gorgias
+      metin  : sözün
+      duyulan: sözun
+  REPLACE  ...doğurur gorgias sözün ruha
+      metin  : etkisini ilaçların bedene etkisine benzetir
+      duyulan: ettkisini ilächlären bedänä ettkisini benzeter
+  REPLACE  ...bedene etkisine benzetir kimi
+      metin  : ilaç hastalığı iyileştirir
+      duyulan: ilächastalu ilächtirir
+  REPLACE  ...hastalığı iyileştirir kimi hayata
+      metin  : son verir
+      duyulan: sånveirir
+  REPLACE  ...hayata son verir kimi
+      metin  : söz üzer
+      duyulan: sözuzär
+  REPLACE  ...sevindirir kimi korkutur kimi
+      metin  : de kötü ikna ile
+      duyulan: däkötubir iknäi le
+  REPLACE  ...kötü ikna ile ruhu
+      metin  : zehirler ve büyüler
+      duyulan: zähirlarve büler
+  REPLACE  ...zehirler ve büyüler sözle
+      metin  : ikna edilen zorla götürülen
+      duyulan: iknäe dilänbier zorlä götur ulanbier
+  REPLACE  ...zorla götürülen kadar masumdur
+      metin  : çünkü söz de
+      duyulan: chunku sözde
+  REPLACE  ...de tür zordur gorgias
+      metin  : ın bu fikri bugün bile insanı ürpertir çünkü ikna edilen kişi ikna edildiğini çoğu zaman fark etmez
+      duyulan: en bufi kribugun bilä insänö yurpertir tsuki iknäe dilänkishi iknäe dildil diinä chöza manfärket mäz
+  REPLACE  ...zaman fark etmez kendi
+      metin  : kararını verdiğini sanır
+      duyulan: karäränä värdi ini sänur
+  REPLACE  ...kararını verdiğini sanır zorla
+      metin  : sürüklenen en azından sürüklendiğini
+      duyulan: sörlu klenänbier enazandan sörlu klandini
+  REPLACE  ...azından sürüklendiğini bilir sözle
+      metin  : sürüklenen ize yürüdüğünü düşünür
+      duyulan: sörlu klenäni sejurudunu düshunur
+  REPLACE  ...ize yürüdüğünü düşünür gorgias
+      metin  : bunu eleştiri olarak değil gerçeklik tespiti olarak söylüyordu ve sanatını tam da bu gücün üzerine kuruyordu platon bu gücü tehlikeli bulup hitabetten büyük ölçüde şüphelendi
+      duyulan: bunubier läshtir oleräk diil gärcektik tespit oleräk sölyurdu wä sänä tänö tämda bugujü nüzerinä kuruyurdu pläitin bugujü täli keli bulupi täbätän bujükölchü deshüpälände
+  REPLACE  ...büyük ölçüde şüphelendi ama
+      metin  : platon un
+      duyulan: pläätänun
+  REPLACE  ...ama platon un en
+      metin  : parlak öğrencisi başka yol seçti aristoteles retoriği ne gorgias gibi kutsadı ne de hocası gibi mahkum etti inceledi tıpkı bitkiyi hayvanı anayasayı inceler gibi parçalarına ayırdı aristoteles in
+      duyulan: parläkärängisi baschka jölsächte aristotle is retori nä gorgiäsgebi kutsa adenädä höjässegebi mäkjümeti injäledi tüpka býtkei jäivänä anäjäsäi injälärgebi parcalar näjerde aristotle is en
+  REPLACE  ...ayırdı aristoteles in retorik
+      metin  : adlı eseri şu kısa cümleyle başlar
+      duyulan: adle eserishukusajüm näylä baschlar
+  REPLACE  ...kısa cümleyle başlar retorik
+      metin  : diyalektiğin karşılığıdır yani hitabet felsefi tartışma sanatının eşi ikizidir retoriği de her durumda
+      duyulan: dialekti inkarsaludar jani hita bet falsefi tärtishmasanatanan ecsi ikizidar retoridä herdurumda
+  REPLACE  ...de her durumda ikna
+      metin  : edici olabilecek şeyleri görebilme yeteneği diye tanımlar bu tanımdaki inceliğe dikkat edin aristoteles
+      duyulan: edi jola biläjäksäyleri göer bilmejetä näidietä namlar butanamdaki injäli edikkäteden ristoteles
+  REPLACE  ...dikkat edin aristoteles ikna
+      metin  : etme demiyor
+      duyulan: ett medemjor
+  ... ve 177 fark daha
+
+metinde olup DUYULMAYAN: 2364 kelime | duyulup metinde OLMAYAN: 2066
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-11-05.duyulan.txt

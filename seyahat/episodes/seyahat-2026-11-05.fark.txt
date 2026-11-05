@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-05.mp3
+
+beklenen 1839 kelime | duyulan 1828 kelime | eşleşme %93.7
+sayı ifadesi: metinde 212, duyulanda 171  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendi elleriyle yeniden yontan
+      metin  : vadiyi
+      duyulan: vadi
+  REPLACE  ...çıkar o köşkün adı
+      metin  : kastamandap
+      duyulan: kastamanda
+  REPLACE  ...kalırdı ortasında yoga ustası
+      metin  : gorakhnat
+      duyulan: gorak nat
+  REPLACE  ...daha sonra yapılan kazılardaki
+      metin  : radyokarbon
+      duyulan: radiyokarbon
+  REPLACE  ...kuranlar vadinin kadim halkı
+      metin  : newarlardı newarlar himalayalar ın
+      duyulan: nivarlardı nivarlar himalayaların
+  REPLACE  ...nepal basa yı yani
+      metin  : newarcayı
+      duyulan: nivarkayı
+  REPLACE  ...belirler vadinin büyük şehri
+      metin  : katmandu
+      duyulan: kathmandu
+  REPLACE  ...şehri katmandu patan ve
+      metin  : baktapur
+      duyulan: bakdapur
+  REPLACE  ...ve baktapur yüzyıllar boyunca
+      metin  : malla hanedanının
+      duyulan: mallı hanedanı nın
+  REPLACE  ...bu tatlı kıskançlık sayesindedir
+      metin  : nevar
+      duyulan: nivar
+  REPLACE  ...işlenmiştir ki dışarıdan bakan
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...genç nevar usta önce
+      metin  : tibede
+      duyulan: tipe de
+  REPLACE  ...saray meydanı nda tahta
+      metin  : köşk
+      duyulan: köşkten
+  REPLACE  ...tuğla yılında kral caya
+      metin  : prakaş malla
+      duyulan: prakash mal la
+  REPLACE  ...günü eylül civarında kutlanan
+      metin  : i ndra catra
+      duyulan: indra çatra
+  REPLACE  ...kadar güçlü olduğunu gösterir
+      metin  : i ndra bayramı nda
+      duyulan: deki indra bayramında
+  REPLACE  ...nda şehir kutlama yaparken
+      metin  : gorkha
+      duyulan: gorka
+  REPLACE  ...kutlama yaparken gorkha kralı
+      metin  : pritvi narayan
+      duyulan: prithvin arayan
+  INSERT   ...açık kumarilerin eğitim hakkı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...basamaklarında oturan yaşlılar vardı
+      metin  : gorkha
+      duyulan: gorka
+  REPLACE  ...başladı sarsıntı vadiye ulaştığında
+      metin  : yüzyıllık
+      duyulan: yıllık
+  REPLACE  ...havuzu yaptırmıştı depremde ortasındaki
+      metin  : tapınak hasar
+      duyulan: tapınağ kasar
+  REPLACE  ...yeniden inşa işi önce
+      metin  : müteahhitlik
+      duyulan: mütahhitlik
+  REPLACE  ...arkeologlar nepal in arkeoloji
+      metin  : dairesi ile
+      duyulan: dairesiyle
+  REPLACE  ...öğrettiler pek çok yerde
+      metin  : orijinal
+      duyulan: orjinal
+  REPLACE  ...kanallarıyla çeşmeleer ulaşır havuzlar
+      metin  : yer
+      duyulan: yeraltı
+  REPLACE  ...yüzyıllardır ayakta tutan şey
+      metin  : newarların
+      duyulan: nivarların
+  REPLACE  ...arabasını yapmak gibi çoğu
+      metin  : guthinin
+      duyulan: guti nin
+  INSERT   ...finanse eden arazileri vardır
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...patan da her yıl
+      metin  : kızıl maçindranat ın
+      duyulan: kızılma çindıranatın
+  REPLACE  ...bağırır müzik çalar sonunda
+      metin  : cavalakel de
+      duyulan: kavalak elde
+  REPLACE  ...nepal yeni yılı bisket
+      metin  : catra
+      duyulan: çatra
+  REPLACE  ...bisket catra yani bisket
+      metin  : bayramı ile
+      duyulan: bayramıyla
+  REPLACE  ...dizilir bu kapların kısmı
+      metin  : cucu dau
+      duyulan: cücü dağı
+  REPLACE  ...tatlı yoğurt çıkar kase
+      metin  : cucu dau
+      duyulan: cücü dağ
+  REPLACE  ...almak çömlekçinin sütçünün ve
+      metin  : yoğurtçunun
+      duyulan: yoğurtcunun
+  REPLACE  ...bayramlarda yapraktan tabaklara samay
+      metin  : baci
+      duyulan: bağıcı
+  REPLACE  ...her bayram halatına düşüyor
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: seyahat-2026-11-05.duyulan.txt

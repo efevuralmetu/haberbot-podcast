@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-05.mp3
+
+beklenen 1832 kelime | duyulan 1849 kelime | eşleşme %96.1
+sayı ifadesi: metinde 217, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kavgasını getiren adam olacaktı
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...inatçı düşüncelerini saklamayan hukukçudur
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çareyi ülkeden ayrılmakta bulur
+      metin  : önce
+      duyulan: lönce
+  REPLACE  ...önce suriye ye oradan
+      metin  : beyruda
+      duyulan: beyrut a
+  REPLACE  ...oğlu vardır beyrut delikanlı
+      metin  : raşit
+      duyulan: raşid
+  REPLACE  ...ne olacağını bilmeden yaşarlar
+      metin  : raşit
+      duyulan: raşid
+  REPLACE  ...bedelini öğrenir süer sonra
+      metin  : raşit
+      duyulan: raşid
+  REPLACE  ...vardiyaya geçer dönem fabrikada
+      metin  : katiplik
+      duyulan: kağıt iplik
+  REPLACE  ...ekmek için verilen kavga
+      metin  : raşit
+      duyulan: raşid
+  INSERT   ...o kalabalığın içinden çıkmıştır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tanıştığı genç kızla nuriye
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...sürecek nuriye hanım kocasının
+      metin  : hapisliklerinde
+      duyulan: hapistiklerinde
+  REPLACE  ...uyaklı dizeler büyük sözler
+      metin  : raşit kemali
+      duyulan: raşid kemal i
+  INSERT   ...yönünü değiştirecek olan tutuklama
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olan tutuklama askerliğini yaparken
+      metin  : raşit
+      duyulan: raşid
+  REPLACE  ...bulunan kitaplar aralarında nazım
+      metin  : hikmedin
+      duyulan: hikmet in
+  INSERT   ...yıl hapis cezasına çarptırır
+      metin  : (yok)
+      duyulan: li
+  DELETE   ...meslek almamış genç kendini
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bölümünü başka cezaevlerinde geçirir
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...aynı zamanda sabırlı öğretmendir
+      metin  : koğuşta
+      duyulan: kovuşta
+  REPLACE  ...edebiyatının büyük isimlerini anlatır
+      metin  : raşidin
+      duyulan: rashid in
+  REPLACE  ...gördüğü başka şey vardır
+      metin  : raşidin
+      duyulan: rashid in
+  REPLACE  ...önünde akan malzeme deposudur
+      metin  : koğuşlarda
+      duyulan: kovuşlarda
+  REPLACE  ...okuma yazma bilmeyen köylüler
+      metin  : raşit
+      duyulan: raşid
+  REPLACE  ...bu insanlar yıllar sonra
+      metin  : i kinci koğuş
+      duyulan: kovuş
+  REPLACE  ...isim de doğar mehmet
+      metin  : raşit
+      duyulan: raşid
+  REPLACE  ...yaşar i lk öyküleri
+      metin  : kırkların
+      duyulan: ların
+  INSERT   ...artık şair değil hikayecidir
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...konuşma yazacağı hikayenin parçasıdır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...açılan kapı olarak kullanır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dönemin en önemli eseri
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kalmaya çalışan genç kadını
+      metin  : vukuat
+      duyulan: vukuvat
+  REPLACE  ...inat dayanışma ve kahkahadır
+      metin  : kalemiyle
+      duyulan: kalemi ile
+  INSERT   ...sinemaya da yaklaştırır eserlerinin
+      metin  : (yok)
+      duyulan: çoğu
+  INSERT   ...ama geçmiş peşini bırakmaz
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sayılabildiğini görmek ağır deneyimdir
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...yolculuk son yolculuğu olur
+      metin  : (yok)
+      duyulan: çi ki
+  INSERT   ...son yolculuğu olur haziran
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tersine giderek büyür ailesi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...orhan kemal in nazım
+      metin  : hikmedin
+      duyulan: hikmet in
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: edebiyat-2026-11-05.duyulan.txt

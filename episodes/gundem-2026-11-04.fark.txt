@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-04.mp3
+
+beklenen 1317 kelime | duyulan 1312 kelime | eşleşme %93.8
+sayı ifadesi: metinde 213, duyulanda 118  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yarısına muhalefetin hakim olduğu
+      metin  : konger ile
+      duyulan: kongreyle
+  REPLACE  ...meclisi nde demokratların lideri
+      metin  : hakeem
+      duyulan: hakem
+  REPLACE  ...koltuk aldı teksas ta
+      metin  : ceyms talariko
+      duyulan: james talarico
+  REPLACE  ...ohio da sherrod brown
+      metin  : jon husted
+      duyulan: john hustat
+  REPLACE  ...vali roy cooper michael
+      metin  : whatley yi
+      duyulan: watley i
+  REPLACE  ...teksas ta demokrat aday
+      metin  : cina i nohosa
+      duyulan: gina inhosa
+  REPLACE  ...ye atfedilen saldırılar düzenlendi
+      metin  : keşm
+      duyulan: keşma
+  REPLACE  ...arabulucu katar a göer
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...ukrayna da rusya nın
+      metin  : zaporijya
+      duyulan: zaporizya
+  REPLACE  ...devlet başkanı zelenski abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...ran destekli husi güçleri
+      metin  : aden
+      duyulan: adem
+  REPLACE  ...güçleri aden kentine yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...hayatını kaybettiği bildirildi birleşmiş
+      metin  : milletler e
+      duyulan: milletleer
+  REPLACE  ...için geliştirici önizlemesi başlattı
+      metin  : ay o es nokta
+      duyulan: ios
+  DELETE   ...es nokta ve macos
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...beta sürümlerde uygulamalar app
+      metin  : intents
+      duyulan: intense
+  REPLACE  ...da ekosisteme katmayı hedefliyor
+      metin  : öte yandan
+      duyulan: eteandan
+  REPLACE  ...dev yatırımlar sürüyor halka
+      metin  : arz
+      duyulan: ars
+  REPLACE  ...dolara yaklaştı bilişim altyapısı
+      metin  : taahhütleri
+      duyulan: tahütleri
+  REPLACE  ...i ngilteer nin kuzey
+      metin  : yorkshier
+      duyulan: yokşar
+  REPLACE  ...erişimlerini korumak için gelirlerinin
+      metin  : birinden
+      duyulan: inden
+  REPLACE  ...çıkarma yapacağını duyurdu telif
+      metin  : cephesinde
+      duyulan: çepesinde
+  REPLACE  ...seyir izlendi nasdaq yaklaşık
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...endeksi ekim deki rekorunun
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...de yıllık tahvil faizi
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...enflasyon ize eylüldeki seviyesinden
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...bulunuyor parti kaynaklarına göer
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...ve konuşmaların kaldırılması oldu
+      metin  : chp
+      duyulan: dsp
+  REPLACE  ...kaldırılması oldu chp sözcüsü
+      metin  : müslim
+      duyulan: müslüm
+  INSERT   ...bulundu kılıçdaroğlu bugün saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yoğun hafta yaşanıyor genel
+      metin  : kurul
+      duyulan: kurulu
+  REPLACE  ...teklifin ize yarın genel
+      metin  : kurul
+      duyulan: kurulu
+  REPLACE  ...koer devlet başkanı li
+      metin  : ce myung
+      duyulan: ç e mung
+  INSERT   ...imzalandı erdoğan türkiye de
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...iş birliğinin derinleşeceğini söyledi
+      metin  : öte yandan
+      duyulan: bdn dan
+  REPLACE  ...yarışlarının netleşmesi ile yeni
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...konger nin beyaz saray
+      metin  : la
+      duyulan: ile
+  REPLACE  ...merkez bankası bugün saat
+      metin  : reel
+      duyulan: da real
+  REPLACE  ...saat reel efektif döviz
+      metin  : kurunu
+      duyulan: kurulu nu
+  REPLACE  ...meteoroloji yurt genelinde aralıklı
+      metin  : sağanak
+      duyulan: sağnak
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: gundem-2026-11-04.duyulan.txt

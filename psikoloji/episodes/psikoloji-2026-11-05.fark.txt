@@ -1,0 +1,40 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-05.mp3
+
+beklenen 1593 kelime | duyulan 1600 kelime | eşleşme %98.3
+sayı ifadesi: metinde 200, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...en yüksek olduğu günlerin
+      metin  : altısında
+      duyulan: sında
+  REPLACE  ...ruh halinin yaşandığı günlerin
+      metin  : yedisinde
+      duyulan: sinde
+  INSERT   ...ize bu günlerin ancak
+      metin  : (yok)
+      duyulan: inde
+  REPLACE  ...aslında daha eskiydi örgüt
+      metin  : psikoloğu karl
+      duyulan: psikologu carl
+  REPLACE  ...örgüt psikoloğu karl weick
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...aslında günlüklerden değil ayrı
+      metin  : ankettendi
+      duyulan: anketlendi
+  REPLACE  ...iyi hissetmek işe katılımı
+      metin  : artırıyor
+      duyulan: arttırıyor
+  REPLACE  ...de çoğu zaman büyük
+      metin  : jestleri
+      duyulan: cesleri
+  REPLACE  ...için yeterli sebep olabilir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 9 kelime | duyulup metinde OLMAYAN: 10
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: psikoloji-2026-11-05.duyulan.txt

@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-05.mp3
+
+beklenen 2649 kelime | duyulan 2659 kelime | eşleşme %96.9
+sayı ifadesi: metinde 245, duyulanda 218  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...adı sokrates ti sokrates
+      metin  : le
+      duyulan: ile
+  REPLACE  ...doktorla tatlıcıyı çocuklardan oluşan
+      metin  : jürinin
+      duyulan: cürinin
+  REPLACE  ...sokrates gerçekten de böyle
+      metin  : jürinin
+      duyulan: cürinin
+  REPLACE  ...davaya yüzlerce yurttaştan oluşan
+      metin  : jüri
+      duyulan: cüri
+  REPLACE  ...sında sokrates söze ilginç
+      metin  : uyarıyla
+      duyulan: uyarı ile
+  REPLACE  ...ilginç uyarıyla başlar suçlayıcılarının
+      metin  : jüriyi
+      duyulan: cüriyi
+  REPLACE  ...ağlayan çocuklarını mahkemeye getirip
+      metin  : jüriyi
+      duyulan: cüriyi
+  REPLACE  ...başka yol seçti aristoteles
+      metin  : retoriği
+      duyulan: retoriyi
+  REPLACE  ...hayvanı anayasayı inceler gibi
+      metin  : parçalarına
+      duyulan: parçalarını
+  REPLACE  ...adlı eseri şu kısa
+      metin  : cümleyle
+      duyulan: cümle ile
+  REPLACE  ...kısa cümleyle başlar retorik
+      metin  : diyalektiğin
+      duyulan: dialektiğin
+  REPLACE  ...tartışma sanatının eşi ikizidir
+      metin  : retoriği
+      duyulan: retoriyi
+  REPLACE  ...kaynaktan gelir konuşanın karakteridir
+      metin  : yunanca
+      duyulan: yunancı
+  REPLACE  ...konuşanın karakteridir yunanca adıyla
+      metin  : etos
+      duyulan: ethos
+  REPLACE  ...veren cümle odur aristoteles
+      metin  : retoriğin
+      duyulan: retorinin
+  REPLACE  ...kullanan suçludur ayrıca kendini
+      metin  : sözle
+      duyulan: sözde
+  REPLACE  ...soruldu aristoteles in eserleri
+      metin  : süryanice
+      duyulan: süriyaniçe
+  REPLACE  ...farabi oldu türkistan daki
+      metin  : farab
+      duyulan: farap
+  DELETE   ...ize endülüs kadı oldu
+      metin  : kurtuba
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kadı oldu kurtuba da
+      metin  : (yok)
+      duyulan: kurtubada
+  REPLACE  ...da doğan i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...yani yorumcu diye anılacaktı
+      metin  : retoriğe
+      duyulan: retoriye
+  REPLACE  ...kesin söz i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...burhan ehlidir kısmı tartışmayla
+      metin  : cedelle
+      duyulan: cedalle
+  REPLACE  ...ikna olur i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...tartışmayı öğütler i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...saklamamak gerekir i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...seçersek seçelim i bn
+      metin  : rüşd
+      duyulan: i rüşt
+  REPLACE  ...söz zehirli aşı bala
+      metin  : yağa
+      duyulan: yağı
+  INSERT   ...köyünde yeniden karşımıza çıkar
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...kadar önce yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...yusuf has hacib de
+      metin  : kutadgu bilig de
+      duyulan: kutat gubilik te
+  INSERT   ...en çıplak biçimde gösterir
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...gösterir new york ta
+      metin  : paskalya
+      duyulan: pascalia
+  REPLACE  ...ilişkiler uzmanı edward bernays
+      metin  : in
+      duyulan: ın
+  REPLACE  ...niyetteydi bernays aristoteles in
+      metin  : patos
+      duyulan: pathos
+  INSERT   ...nin ve i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...gibi gösterebilir tatlıcı çocuk
+      metin  : jürisinin
+      duyulan: cürisinin
+  REPLACE  ...söz savaşı da kesebilir
+      metin  : baş da
+      duyulan: başta
+  REPLACE  ...birlikte doğruyu mu bulmak
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: felsefe-2026-11-05.duyulan.txt

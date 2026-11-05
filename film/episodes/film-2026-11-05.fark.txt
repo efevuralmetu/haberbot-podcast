@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-05.mp3
+
+beklenen 1863 kelime | duyulan 1878 kelime | eşleşme %93.4
+sayı ifadesi: metinde 221, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kimse göremedi baharında san
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...sahici olacaktı bu adam
+      metin  : erih fon ştrohaym dı
+      duyulan: erich von stroheim di
+  REPLACE  ...yani türkçesiyle açgözlülük hikaye
+      metin  : ştrohaym
+      duyulan: stroheim
+  REPLACE  ...frank norris in norris
+      metin  : mcteague
+      duyulan: da mac teague
+  REPLACE  ...adlı roman yayımlamıştı amerikan
+      metin  : natüralizminin
+      duyulan: naturalizminin
+  REPLACE  ...varlık olarak gösteriyordu kahramanı
+      metin  : mcteague
+      duyulan: mac teague
+  REPLACE  ...çıraklık eder sonra san
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...sonra san fransisko daki
+      metin  : polk sokağı na
+      duyulan: sakağına
+  REPLACE  ...diş tabelası asılıdır arkadaşı
+      metin  : marcus schouler
+      duyulan: markus scholler
+  REPLACE  ...kuzeni trina yı tanıştırır
+      metin  : mcteague
+      duyulan: mac teague
+  REPLACE  ...trina piyangodan dolar kazanır
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...insanları nasıl çürüttüğünü anlatır
+      metin  : ştrohaym
+      duyulan: stroheim
+  REPLACE  ...sahneler bile ekledi film
+      metin  : mcteague
+      duyulan: mac teague
+  REPLACE  ...hizmetçi maria ile hurdacı
+      metin  : zerkov
+      duyulan: zerkow
+  REPLACE  ...edemeyen yaşlı insanın bay
+      metin  : grannis
+      duyulan: granis
+  REPLACE  ...gösterecekti bu tutkunun ardında
+      metin  : ştrohaym
+      duyulan: stroheim
+  REPLACE  ...sonradan ortaya çıkan belgeler
+      metin  : viyanalı
+      duyulan: vianalı
+  REPLACE  ...yönetmenliğe geçtiğinde ize aşırı
+      metin  : titizliğiyle
+      duyulan: titizliği ile
+  REPLACE  ...yaptırır bütçeleri aşar stüdyo
+      metin  : yöneticileriyle
+      duyulan: yöneticileri ile
+  REPLACE  ...aynı gerçeklik arayışını yansıtıyordu
+      metin  : mcteague i
+      duyulan: mike teague
+  REPLACE  ...i ngiliz asıllı gibson
+      metin  : gowland
+      duyulan: golland
+  REPLACE  ...marcus u danimarka doğumlu
+      metin  : jean hersholt
+      duyulan: john herscholt
+  REPLACE  ...çevrede şaşkınlık yarattı ama
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...ve william daniels kullandı
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...daniels kullandı ştrohaym onlardan
+      metin  : stüdyo
+      duyulan: sütüyo
+  REPLACE  ...sokağı nın sıradan hayatı
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...birikecekti yine de şehir
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...istediği gerçekliğin sadece yarısıydı
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...yarısıydı romanın sonu san
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...en acımasız topraklarında geçiyordu
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...yerle taklit etmeyi reddetti
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...reddetti romanın son bölümünde
+      metin  : mcteague
+      duyulan: mac teague
+  REPLACE  ...kaptırmanın kinini hiç unutmamıştır
+      metin  : mcteague
+      duyulan: mac teague
+  REPLACE  ...parasına daha sıkı yapışır
+      metin  : mcteague
+      duyulan: mac teague
+  REPLACE  ...kez karşı karşıya gelir
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...gönderildi çekimler haftalarca sürdü
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...yuvarlandı boğuştu anlatılanlara göer
+      metin  : ştrohaym
+      duyulan: shetroheim
+  REPLACE  ...kadar hiçbir şey yok
+      metin  : mcteague
+      duyulan: mektig
+  REPLACE  ...son yumuşaklığın simgesi gibidir
+      metin  : marcus
+      duyulan: markus
+  REPLACE  ...simgesi gibidir marcus sonunda
+      metin  : mcteague
+      duyulan: mektig
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 102 kelime | duyulup metinde OLMAYAN: 118
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: film-2026-11-05.duyulan.txt

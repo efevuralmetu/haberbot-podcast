@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-05.mp3
+
+beklenen 2545 kelime | duyulan 2548 kelime | eşleşme %93.0
+sayı ifadesi: metinde 274, duyulanda 205  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...demir alıyordu adı batavia
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...adı batavia ydı bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ydı bu ad hollandalıların
+      metin  : cava
+      duyulan: ceva
+  REPLACE  ...adasında kurduğu ve bugün
+      metin  : cakarta
+      duyulan: jakarta
+  REPLACE  ...en güçlü ticaret kuruluşuydu
+      metin  : fereniğde ostindize kompanyi
+      duyulan: ferenide ostendize compagnyi
+  REPLACE  ...birbiriyle ilişkisi baştan sorunluydu
+      metin  : fransisko pelsart ti
+      duyulan: francisco pelsartti
+  REPLACE  ...kincisi geminin kaptanı aryan
+      metin  : yakops di
+      duyulan: jacobs ti
+  REPLACE  ...iyi tanıyan yoktu pelsart
+      metin  : le
+      duyulan: ile
+  REPLACE  ...soğukluk bu sefeer taşınmıştı
+      metin  : yakops
+      duyulan: jacobs
+  INSERT   ...ize en az tanınanıydı
+      metin  : (yok)
+      duyulan: i kinci
+  REPLACE  ...en az tanınanıydı tüccar
+      metin  : yeronimus kornelis
+      duyulan: jeronimus cornelis
+  REPLACE  ...tartışmalıdır kesin olan şu
+      metin  : kornelis
+      duyulan: cornelis
+  REPLACE  ...kadın herkesin dikkatini çekiyordu
+      metin  : lukretsiya yans
+      duyulan: lucretia jans
+  REPLACE  ...erkeğin gözünde ulaşılmazdı kaptan
+      metin  : yakops
+      duyulan: jacobs
+  REPLACE  ...ama karşılık bulamayınca ilgisini
+      metin  : lukretsiya
+      duyulan: lucretia
+  REPLACE  ...ilgisini lukretsiya nın hizmetçisi
+      metin  : zvantsi hendriks
+      duyulan: zevanse hendrix
+  INSERT   ...e yöneltti gemi nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...biçimde azarladı bu azar
+      metin  : yakops
+      duyulan: jacobs
+  REPLACE  ...ve tam bu noktada
+      metin  : kornelis
+      duyulan: cornelis
+  REPLACE  ...gemiyi ele geçirmek pelsart
+      metin  : i
+      duyulan: ı
+  REPLACE  ...yaradığı açıktır pelsart hastalanıp
+      metin  : kamarasına
+      duyulan: kamerasına
+  REPLACE  ...gece kimliğini gizleyen adam
+      metin  : lukretsiya
+      duyulan: lucretia
+  REPLACE  ...kirletip aşağıladı amaç pelsart
+      metin  : i
+      duyulan: ı
+  REPLACE  ...doğuya akıyordu bu rota
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...beyaz parıltı gördü kaptan
+      metin  : yakops
+      duyulan: jakobs
+  REPLACE  ...yıllar önce hollandalı denizci
+      metin  : frederik dö hautman
+      duyulan: frederic de houtman
+  REPLACE  ...deyimden geldiği düşünülen adlarıyla
+      metin  : hautman abrolyuş
+      duyulan: houtman abrolüş
+  REPLACE  ...çorak ağaçsız ada göründü
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...insanlar sandal ve küçük
+      metin  : kayıkla
+      duyulan: kayıklı
+  REPLACE  ...adını hak edecekti batavia
+      metin  : s kerkhof
+      duyulan: skerkhov
+  REPLACE  ...anda enkazda kaldı aralarında
+      metin  : yeronimus kornelis
+      duyulan: jeronimus cornelis
+  REPLACE  ...azdı pelsart ve kaptan
+      metin  : yakops
+      duyulan: jacobs
+  REPLACE  ...getirecekti sandalda kişi vardı
+      metin  : lukretsiya
+      duyulan: lucretia
+  REPLACE  ...vardı lukretsiya nın hizmetçisi
+      metin  : zvantsi
+      duyulan: zevansi
+  REPLACE  ...terk edildiklerini düşündü pelsart
+      metin  : in
+      duyulan: ın
+  REPLACE  ...şarap mahzenine ulaştılar içtiler
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...başka hesap işliyordu pelsart
+      metin  : in
+      duyulan: ın
+  REPLACE  ...ve o gemiyle birlikte
+      metin  : lukretsiya
+      duyulan: lukretziya
+  REPLACE  ...hesabı da gelecekti kaptan
+      metin  : yakops
+      duyulan: jakobs
+  REPLACE  ...direnişi dağıtmaktı kornelis askerlerden
+      metin  : vibe
+      duyulan: v b
+  ... ve 52 fark daha
+
+metinde olup DUYULMAYAN: 112 kelime | duyulup metinde OLMAYAN: 126
+bölme/birleşme farkı (hata değil, elendi): 38
+
+duyulan metin: tarih-2026-11-05.duyulan.txt

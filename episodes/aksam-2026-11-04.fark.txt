@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: aksam-2026-11-04.mp3
+
+beklenen 696 kelime | duyulan 3374 kelime | eşleşme %32.1
+sayı ifadesi: metinde 512, duyulanda 291  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: i yi akşamlar neuron haber akşam bülten in de bugünün öne çıkan gelişmelerini sizin için derledik ve değerlendirdik bugün kasım çarşamba ben pınar ben barış bu akşam dünyadan ekonomiye teknolojiden türkiye gündemine günün öne çıkan başlıklarını birlikte ele alıp değerlendireceğiz pınar söz sende gündemin epey yoğun olduğu akşam gündemin epey yoğun olduğu akşam şimdi dünyaya özellikle de amerika birleşik devletleri ne dönüyoruz çünkü atlantin in öbür yakasında dün gece siyaset haritası yeniden çizildi
+  REPLACE  ...görevde olan cumhuriyetçi senatör
+      metin  : susan
+      duyulan: suzan
+  REPLACE  ...collins i geride bıraktı
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...james talarico ken paxton
+      metin  : ı
+      duyulan: u
+  INSERT   ...paxton ı yenerek eyaletin
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...oldu michigan da seçilen
+      metin  : abdul el
+      duyulan: abdülay
+  INSERT   ...ta da adam hamilton
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ilk siyah kadın oldu
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...oldu teksas ta cina
+      metin  : hinohosa
+      duyulan: hinojosa
+  REPLACE  ...görevdeki vali greg abbott
+      metin  : ı
+      duyulan: u
+  REPLACE  ...ize amy acton vivek
+      metin  : ramaswamy
+      duyulan: ramazvami
+  REPLACE  ...florida da kazanan byron
+      metin  : donalds
+      duyulan: donaldson
+  REPLACE  ...kazanan byron donalds oldu
+      metin  : donalds
+      duyulan: donaldson
+  REPLACE  ...birlikte çalışmayı beklediğini söyledi
+      metin  : öte yandan
+      duyulan: leteyan dan
+  REPLACE  ...yönde oldu dini lider
+      metin  : mücteba hamaney
+      duyulan: mücdebe hamane
+  REPLACE  ...iç siyasetindeki değişimin washington
+      metin  : ın
+      duyulan: un
+  REPLACE  ...srail abd den aldığı
+      metin  : silahların
+      duyulan: silahlarının
+  REPLACE  ...ize acı bilanço ağırlaşıyor
+      metin  : zaporijya
+      duyulan: zaporizya
+  INSERT   ...saldırısında hayatını kaybedenlerin sayısı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...haber alınamıyor devlet başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  REPLACE  ...zelenski saldırıyı savaşın en
+      metin  : ölümcül
+      duyulan: ölümcü
+  REPLACE  ...aldığını açıkladı kiev ve
+      metin  : jitomir
+      duyulan: citomir
+  REPLACE  ...girişimlerine ilişkin uyarılara dayandırdı
+      metin  : varşova
+      duyulan: varshova
+  REPLACE  ...dan haber ulaştırma bakanı
+      metin  : oskar
+      duyulan: oscar
+  REPLACE  ...etti puente başbakan pedro
+      metin  : sançes
+      duyulan: sanchez
+  REPLACE  ...dan hürmüz e oradan
+      metin  : zaporijya
+      duyulan: zaporica
+  INSERT   ...tabloyu sen nasıl okuyorsun
+      metin  : (yok)
+      duyulan: pınar bence bu akşamın bütün başlıklarını birbirine bağlayan tek kelime var o da washington ara seçim sonuçları önümüzdeki yıl boyunca beyaz saray ile konger arasında daha fazla pazarlık ve denge arayışı olacağını gösteriyor bu da i ran dan i srail e yardıma kadar dış politika dosyalarının artık yalnızca yürütmenin elinde olmayacağı anlamına geliyor tahrandan gelen birbirine zıt mesajlar da aslında bu belirsizliği nasıl okuyacaklarını henüz kestiremediklerini gösteriyor hürmüzdeki her gerginlikte enerji fiyatları üzerinden bizim gibi bölge ülkelerini doğrudan ilgilendiriyor ukrayna da ize yandan ateşkes için diplomatik temaslar sürerken öte yandan sivil kayıpların artması sağdaki gerçekle masadaki çabanın hala birbirinden uzak olduğunu hatırlatıyor polonya nın sınırda aldığı önlemler de bu kırılganlığın avrupa nın doğusunda ne kadar ciddiye alındığının açık işareti gelelim teknoloji ve yapay zeka dünyasına bugün gündem hem borsada hem okullarda hem de sandıkta epey hareketli i lk haberimiz çip sektöründen amd kasım da açıkladığı çeyrek sonuçlarında dolarlık rekor gelier ulaştı şirketin veri merkezi bölümünün geliri geçen yılın aynı dönemine göer arttı bu büyümede instinct grafik işlemcileri ile apys sunucu işlemcilerine gelen yapay zeka talebi etkili oldu histe başına kar dolar olarak açıklandı şirket yönetimi yeni nesil ürünlerin üretimi hızlandıkça son çeyrekte büyümenin daha da artmasını bekliyor eğitim cephesinde ize google ın yeni okul ayarları tartışma yarattı google ın yeni düzenlemesine göer kendi yapay zeka araçlarını kapatmayı seçen okullar öğrenci hesaplarında google aramayı da kullanamayacak yani okullar ya birlikte açık tutacak ya da ikisinden vazgeçecek şirket aynı gün öğrencileer adım adım rehberlik eden guided learning özelliklerini de duyurdu karar özellikle eğitimcilerden ve politikacılardan tepki aldı apple cephesinde gelişme var şirket yıllık faaliyet raporunda ilk kez otonom yapay zeka ajanlarını iş riski olarak tanımladı raporda bu ajanların kendilerine verilen yetkinin dışına çıkabileceği izinsiz işlem yapabileceği ya da öngörülemeyen biçimlerde davranabileceği uyarısı yer alıyor bu uyarı apple ın siri nin yapay zeka özelliklerini ios beta sürümüyle tüm geliştiricileer açtığı haftaya denk geldi böylece uygulamalar içeriklerini ve işlevlerini siri ye bağlayabilecek openai ize güvenlik başlığıyla gündemde brutish yani reuters haber ajansı kaynağa dayandırdığı araştırmasında openai çalışanların deki chat gpt lansmanından önce bile hassas bilgileri erişimin fazla geniş olduğu konusunda uyarılarda bulunduğunu yazdı openai güvenliği ihmal ettiği iddiasını reddediyor şirket ayrıca kendi savunmasını test etmesi için cathedral systems adlı güvenlik girişimiyle ortaklık kurdu ve hata ödülü programındaki ödülleri artırdı bu arada openai nin paylaştığı verileer göer chat gpt nin haftalık kullanıcı sayısı ulaştı son haberimiz amerika birleşik devletleri ndeki ara seçimlerden the washington post yani washington postası gazetesinin haberine göer seçim gününde en az yerel yönetimde veri merkezlerine yönelik yasak moratorium enerji sınırı ya da halkona işareti getiren düzenlemeler kabul edildi bu önlemlerden i ohio eyaletinde oylandı yapay zeka yatırımlarının elektrik tüketimi ve faturalar üzerindeki etkisi böylece doğrudan seçmenin önüne gelmiş oldu barış yanda rekor gelirler yanda sandıktan çıkan kısıtlamalar bu tabloyu sen nasıl okuyorsun bugünkü haberler aslında aynı resmin farklı parçalarını gösteriyor pınar amd nin rakamları yapay zekaya yönelik altyapı talebinin hala çok güçlü olduğunu söylüyor ama ohio daki oylamalar bu altyapının yerel halkın enerji ve maliyet kaygılarıyla artık daha sık karşılaşacağını gösteriyor enekte yandan apple ın kendi raporuna ajan riskini yazması ve openai nin güvenlik konusunda dış destek arayışı sektörün hızla büyürken denetim ve güven sorusunu da ciddiye almak zorunda kaldığını ortaya koyuyor google ın okullara sunduğu ya hepsi ya hiç seçeneği ize önümüzdeki dönemde yapay zekanın günlük hizmetlerden ayrılamaz hale gelmesinin ve kullanıcıya ne kadar seçim hakkı bırakıldığının çok daha fazla konuşulacağına işaret ediyor gelelim ekonomiye ve piyasalara bugün yatırımcıların gözü hem washington daki seçim sonuçlarındaydı hem de dün açıklanan enflasyon rakamlarındaydı borsa i stanbul da günün havası çok olumluydu beast e endeksi güne yükselişle puandan başladı öğleden sonra yükselişi ya çıkardı ve puan civarında işlem gördü endeks gün içinde puanla zirveyi gördü yükselişe bütün sektörler katıldı madencilik endeksi yaklaşık bankacılık endeksi de ının üzerinde değer kazandı i şlem hacmi gün ortasında liraya ulaştı önceki günün aynı saatinde bu rakam lira civarındaydı analistler abd deki ara seçimlerde sonuçların netleşmesi ile belirsizliğin azalmasını yükselişin başlıca nedeni olarak gösteriyor döviz ve ize tablo şöyle dolar liradan avro liradan işlem görüyor gram ün üzerinde değer kazanarak lira seviyesine çıktı dolar böylece lira eşiğinin üzerinde kalmaya devam ediyor küresel tarafta dolar endeksi gerileyerek a indi abd nin yıllık tahvil faizi de a düştü dün türkiye i statistik kurumu ekimayı enflasyon verilerini açıkladı tüketici fiyatları ekimde aylık arttı böylece aylık enflasyon son ayın en yüksek seviyesine çıktı yıllık enflasyon ize eylül deki den ye yükseldi ve aydır süren düşüş serisi sona erdi ekonomistlerin aylık beklentisi civarındaydı gıda ve alkolsüz içecek fiyatları ekimde aylık arttı yıllık bazda en yüksek artış ize ile konut su elektrik ve gaz grubunda oldu çekirdek enflasyon göstergesi yıllık ya geriledi dış ticarette ize rekor haberi geldi ticaret bakanı ömer bolad ın dün paylaştığı verileer göer ihracat ekimde önceki yılın aynı ayına göer artarak dolara ulaştı bu rakam tüm zamanların en yüksek ekim ayı ihracatı oldu yılın ilk ayındaki ihracat dolara ulaştı son ayda ize mal ihracatı dolar oldu bakan bolad bu rakamın dolarlık yıllık hedefin üzerinde olduğunu vurguladı aynı dönemde dış ticaret açığı yıllık bazda azaldı dünya piyasalarında ize yön türkiye den farklıydı ve evvedeki ara seçimlerin ilk sonuçlarında demokratlar öne geçti bazı yatırımcılar kongrenin kanadında da demokratların çoğunluğu almasının teknoloji ve yapay zeka şirketlerine yönelik düzenlemeleri sıkılaştırabileceğinden endişe ediyor bu kaygıyla sabah saatlerinde asya da sert satışlar görüldü nikke yani japonya borsa endeksi geriledi erbiyede de vadeli endeksler de güne düşüşle başladı yurt içinde ize otomotif pazarı ekimde daraldı bu kadar yoğun günden sonra sen ne dersin barış bugün farklı tablo yan yana durdu pınar asya da satış dalgası yaşanırken borsa i stanbul un ün üzerinde yükselmesi yatırımcının küresel belirsizlikten çok dolardaki zayıflamaya ve yurt içinde son zamanlarda geride kalmış banka hisselerine odaklandığını gösteriyor ancak dünkü enflasyon verisi dezenflasyon sürecinin düz çizgide ilerlemeyeceğini hatırlattı gıda ve barınma kalemlerindeki katılık para politikasında temkinin süer daha korunacağına işaret ediyor öte yandan ihracattaki rekor ve dış ticaret açığındaki daralma cari dengenin finansmanı açısından ekonomi yönetimine önemli hareket alanı sağlıyor gram altındaki lük yükseliş de bize şunu söylüyor borsadaki iyimserlik güçlü olsa da yatırımcılar riske karşı korunmayı ihmal etmiyor akşamın türkiye gündemine geçiyoruz siyasette yoğun gün yaşandı mecliste bütçe mesaisi sürüyor ekonomide dünkü enflasyon verisi konuşuluyor adliye koridorlarında da önemli davalar var i lk haberimiz şiak pdn genel başkan kemal kılıçdaroğlu bugün ankara da partisi nin merkez yönetim kurulu toplantısına başkanlık etti hatırlatalım ankara bölge adliye mahkemesi mayıs ta olağan kurultay için mutlak butlan kararı vermiş özgür özel ve yönetimini tedbiren görevden almış kılıçdaroğlu ve önceki yönetimi göreve iade etmişti kararın ardından özgür özel yeni partinin genel başkanı olarak siyasete devam ediyor konunun yargı tarafı ize henüz kapanmadı kurultay daki usulsüzlük iddiaları ile ilgili ceza davası kasım a ertelenmişti yargıtay daki inceleme de sürüyor mecliste bugün i yi parti ve yeni yol partisi de grup toplantılarını yaptı mecliste bütçesinin görüşmeleri sürüyor ttbmm plan ve bütçe komisyonu bugün ticaret bakanlığının bütçesini ele aldı ticaret bakanı ömer bolat bakanlığın bütçe teklifinin yaklaşık lira olduğunu söyledi bolat ın verdiği bilgiye göer bütçe onaylanırsa gelecek yıl mal ve hizmet ihracatını desteklemek için lira ayrılacak teklifte personel giderleri yaklaşık lira tutuyor komisyon bugün ayrıca helal akreditasyon kurumu ile rekabet kurumu nun bütçelerini de görüştü komisyon aşamasının kasım da bitirilmesi planlanıyor genel kurul da ize bu hafta türk kızılay kanunu teklifi üzerindeki çalışma devam ediyor ekonomideki ana konu dün açıklanan enflasyon verisi tüi k e göer tüketici fiyatları ekimde aylık arttı yıllık enflasyon da oldu ekonomistlerin aylık beklentisi ortalama civarındaydı yani veri tahminlerin üzerinde geldi eylül de aylık enflasyon tü en büyük katkı gıdadan geldi gıda ve alkolsüz içecek fiyatları ayda yükseldi bu verilerle kasım ayında kira artışı için uygulanacak üst sınırda olarak belli oldu emeklilerle ilgili de gelişme var kulis bilgilerine göer emekli aylıkları için refah payı düzenlemesi hazırlanıyor yaş ve prim gün sayısına göer formül üzerinde çalışılıyor ancak henüz kesinleşmiş oran ya da tablo yok yargıdan devam ediyoruz kamuoyunda i bb davası olarak bilinen davanın duruşması bugün silivri de marmara cezaevi nin karşısındaki salonda i stanbul ağır ceza mahkemesinde görüldü davada sı tutuklu sanık yargılanıyor ekrem i mamoğlu da duruşmadaydı bugün gizli tanıklar dinlendi gürgen ve zeytin kod adlı tanıklar sgbi s üzerinden sesleri değiştirilmiş ve görüntüleri buzlanmış olarak bağlandı i ki tanık da suçlamalara konu olayları kendileri görmediklerini duyduklarını aktardıklarını söyledi savunma avukatları ize gizli tanıklık usulüne itiraz etti eski hdp eşgenel başkanı selahattin demirtaş ın diyarbakır daki davasında da bugün karar çıktı avukatların talebi üzerine diyarbakır asliye ceza mahkemesi yetkisizlik kararı verdi ve mersin asliye ceza mahkemesi ndeki davayla birleştirilmek üzeer mersin e gönderdi demirtaş da diyarbakır da katıldığı etkinlik yüzünden ayrı suçlama ile yargılanıyor hakkında ile yıl arasında hapis cezası isteniyor son olarak dış temaslar cumhurbaşkanı recep tayyip erdoğan güney koer devlet başkanı li çeyber meyung un davetiyle güney koer de bulunuyor ziyarette emine erdoğan bugün yunus emer enstitüsü nün seul deki türk kültür merkezi ni resmen açtı merkezde türkçe dersleri öğrenci değişimi türk mutfağı kursları ve el sanatları atölyeleri olacak şu anda kişi burada türkçe öğreniyor gün dolu geçti değil mi bütçe enflasyon mahkemeler de seul senin gözüne en çok ne takıldı bence bugünün ortak noktası şu pınar ankara nın gündemi yanda rakamlarla yanda mahkeme salonlarında belirleniyor enflasyonun beklentinin üzerinde gelmesi özellikle de gıdadaki lik artış bütçe görüşmelerinde ekonomi yönetiminin elini daha dikkatli oynamasını gerektirecek yandan ihracat desteğine lira ayrılması öte yandan emekliler için refah payı tartışması kaynakların sınırlı olduğu dönemde öncelik belirlemenin ne kadar zor olduğunu gösteriyor siyaset tarafında ize chp deki mutlak butlan süreci i bb davası ve demirtaş yargı kararlarının siyasi dengeleri doğrudan etkilediği döneme girdiğimizi hatırlatıyor önümüzdeki hafta kasım daki duruşma ve kasım enflasyonuna dayanacak emekli zammı hesapları hem siyasetin hem de vatandaşın gündeminde ilk sırada olacak gibi görünüyor akşamın spor gündemine geçiyoruz avrupa kupalarında heyecan dolu hafta yaşanıyor ve türk takımları peş peşe sahneye çıkıyor bence dün akşamdan güzel sonuç şampiyonlar ligi lig aşamasının haftasında galatasaray ramspark ta almanya nın stuttgart ekibine yendi golde yaşındaki rus oyuncu aleksey batrakov dan geldi batrakov ve dakikalarda kez fileleri havalandırdı yaz transfer döneminde kadroya katılan genç futbolcu şampiyonlar liginde maçta gole ulaştı sarı kırmızılılar üst üste galibiyetini aldı ve puanını ya yükseltti gözler şimdi bu akşamki dev maçta fenerbahçe şampiyonlar liginin haftasında liverpool u ağırlıyor çobani stadyumundaki karşılaşma saat te başlıyor ve trt şifresiz yayınlanıyor maçı fransız hakem clement turpen yönetecek fenerbahçe nin teknik direktörü dirk köyth ün geçmişte formasını giydiği liverpool la karşılaşması da maça ayrı anlam katıyor sarı lacivertliler bu maça puanla çıkıyor roma ve slavia prague ile beraber kalan aston villa ya ize yenilen takım ligdeki ilk galibiyetini arıyor liverpool ize puanla üst sıralarda yer alıyor fenerbahçe de natana k marco asensio ve osterwalde sakatlıkları nedeniyle forma giymeyecek liverpool da da gravemberg frimpong bradley ve ekitike kadro da yok yarın sıra diğer temsilcilerimizde avrupa ligi nde beşiktaş i skoçya da celtic e konuk olacak glasgow daki maç saat te başlayacak ve alman hakem sascha stegeman tarafından yönetilecek bu karşılaşma siyah beyazlıların avrupa kupalarındaki maça olacak konferans ligi nde ize trabzonspor papara park ta almanya nın freiburg takımını ağırlayacak saat teki maçta düdük estonyalı hakem christo tohver de olacak kupa cephesinde de bugün mesai vardı türkiye kupası nda fethiye spor ile eyüp spor öğle saatlerinde karşılaştı
+  INSERT   ...maçı bu akşam oynanıyor
+      metin  : (yok)
+      duyulan: vasterisk asterisk
+  REPLACE  ...girecekse skoru eklemek gerekir
+      metin  : fethiyespor eyüpspor
+      duyulan: asterisk asterisk fethiye spor eyüp spor
+  INSERT   ...eyüpspor maçının skorunu bulamadım
+      metin  : (yok)
+      duyulan: vasterisk asterisk
+  INSERT   ...sterseniz o satırı çıkarabilirsiniz
+      metin  : (yok)
+      duyulan: asterisk asterisk
+  INSERT   ...galatasaray ın sırasını yazmadım
+      metin  : (yok)
+      duyulan: asterisk asterisk
+  INSERT   ...ve sıra arasında bölünüyor
+      metin  : (yok)
+      duyulan: şimdi kültür ve sanat dünyasına geçiyoruz bu akşam i stanbul dan sydney ye londra dan tokyo ya uzanan gelişmeler var bu önce i stanbul dan sergi haberi ünlü fotoğrafçı ara güler i anlatan ara güler master of leica yani leica ustası ara güler sergisi bugün bomontiyada daki ara güler müzesi nde açıldı sergiyi ara güler arşiv ve araştırma merkezi hazırladı alman fotoğraf makinesi üreticisi leica camera ag de içeriye katkı verdi ziyaretçiler ustanın kişisel ekipmanlarını ve arşivinden seçilmiş fotoğraflarını görebilecek sergi ara güler in de aldığı leica ustası ünvanıyla başlayan yolculuğunu anlatıyor ve nisan ye kadar açık kalacak avustralya da ize büyük müze açılmadan önce tartışmaya düştü sydney de yapımı yaklaşık avustralya dolarına mal olan powerhouse yani sydney bilim ve sanat müzesi nin kasım da kapılarını açması bekleniyor ancak müzenin bazı üst düzey yöneticileri görevi kötüye kullanma ve satın alma süreçleriyle ilgili soruşturma nedeniyle geçici olarak görevden çekildi açılış takvimi şimdilik değişmedi i ngilteer den sürpriz keşif haberi geliyor ressam duncan grant ın hayat arkadaşı ressam vanessa bel i ölüm döşeğinde çizdiği porter aile belgelerinin arasında ortaya çıktı kurşun kalem ve tükenmez kalemle yapılan çizim tate britain yani britanya tate galerisi ndeki sergiye hazırlanırken bulundu eser seneye sanatçının eski evi olan ve bugün müze olarak kullanılan charleston da sergilenecek uzak doğu da ize sanat haftası başladı art week tokyo yani tokyo sanat haftası bugünden kasım a kadar sürecek etkinliğin ana programında farklı mekanda sergi yer alıyor japon sanatçı tadashi kawamata da hafta için özel eser hazırladı son olarak almanya dan haber kasel de düzenlenen ve dünyanın önemli çağdaş sanat buluşmalarından sayılan dokumenta nın yani kasel çağdaş sanat sergisinin edisyonuna yeni külatör katıldı ekibe osei bonsu raven chacon tayma younghouse ve noam segal dahil oldu akşam bültenimizin son bölümüne geçiyoruz bu gece ve önümüzdeki günlerde takip edeceğimiz başlıklara birlikte bakalım gözler bu akşam önce okyanusun öte yakasında abd de dün yapılan ara seçimlerde son tahminleer göer kongrenin kanadını da demokratlar kazandı demokratlar senato da şimdiden en az sandalyeye ulaştı alaska ve mississippi deki yarışların sonucu ize hala bekleniyor başkan trump demokratların kendisiyle çalışmak isteyeceğini aksi halde yasaları veto edeceğini söyledi yeni konger ocak ayında göreve başlayacak washington daki bu yeni dengenin piyasalara ve dış politikaya etkisi gece boyunca yakından izlenecek i ç siyasette ize meclisteki bütçe mesaisi sürüyor tbmm plan ve bütçe komisyonu nda bugün ticaret bakanlığı nın bütçesi ele alındı komisyondaki görüşmeler hafta boyunca diğer bakanlıklarla devam edecek ekonomi cephesinde dün açıklanan ekim enflasyonu hala gündemde aylık enflasyon ile beklentinin üzerinde gerçekleşti yıllık enflasyon ize ye çıktı böylece yıllık enflasyondaki aylık düşüş serisi sona erdi sporseverler için gece yoğun geçecek fenerbahçe uefa şampiyonlar ligi nin haftasında saat de liverpool u ağırlıyor beşiktaş avrupa ligi nde celtic ile trabzonspor ize konferans ligi nde freiburg ile karşılaşacak hava durumunu da unutmayalım meteoroloji il için sarı il için turuncu kodlu uyarı yaptı i stanbul da da kuvvetli sağanak ve fırtına bekleniyor haftanın geri kalanına bakarsak perşembe günü bank of england yani i ngilteer merkez bankası faiz kararını açıklayacak cuma günü ize abd nin ekim ayı istihdam verileri gelecek i ki veri de küresel piyasaların yönü açısından önemli gelecek hafta ize türkiye uluslararası buluşmaya ev sahipliği yapıyor birleşmiş milletler i klim değişikliği konferansı cheop kasım pazartesi günü antalya da başlıyor devlet ve hükümet başkanlarının katılacağı liderler zirvesi ve kasım da yapılacak antalya da kapsamlı güvenlik önlemleri alındı kasım salı günü ize gazi mustafa kemal atatürk ebediyete intikalinin yıl dönümünde tüm yurtta törenlerle anılacak aynı gün eylül ayı sanayi üretimi verisi açıklanacak kasım da da merkez bankası yılın son enflasyon raporunu kamuoyuyla paylaşacak bülteni hava durumuyla sürdürüyoruz meteoroloji genel müdürlüğü bugün i stanbul ve i zmir dahil il için sarı kodlu uyarı verdi hatay ve osmaniye de ize uyarı turuncu koda çıktı marmara kuzey ege ve batı karadeniz kıyılarında kuzeyden esen rüzgarın saatte ila km ye ulaşması ve yer yer fırtınaya dönmesi bekleniyor uzmanlar ani sel su baskını yıldırım ve dolu riskine karşı dikkatli olunmasını istiyor yarından itibaren sıcaklıklar batıdan başlayarak belirgin biçimde düşecek i stanbul da bugün sıcaklık ile derece arasında yer yer kuvvetli sağanak ve sert rüzgar var yarında sağanak sürecek sıcaklık ile derece arasına inecek ankara bugün aralıklı sağanakla ile derece arasında seyrediyor yarın yağış sürecek sıcaklık ile derece arasında olacak i zmir de bugün gök gürültülü kuvvetli sağanak var sıcaklık ile derece arasında yarın hava çok bulutlu olacak sıcaklık ile derece arasında beklenir i ç kesimlerin yüksek yerlerinde sabah saatlerinde buzlanma ve don görülebileceği için sürücülerin dikkatli olması gerekiyor akşam bültenimizin sonuna geldik gündemi sizin için nöron değerlendirdi bilgi ile kalın hoşça kalın
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 2711
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: aksam-2026-11-04.duyulan.txt

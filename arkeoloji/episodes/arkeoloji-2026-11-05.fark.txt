@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-05.mp3
+
+beklenen 2703 kelime | duyulan 2703 kelime | eşleşme %95.3
+sayı ifadesi: metinde 318, duyulanda 275  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıl önce
+      metin  : and
+      duyulan: ant
+  REPLACE  ...duruyordu peru nun kuzeyinde
+      metin  : and
+      duyulan: ant
+  REPLACE  ...yandan mosna öbür yandan
+      metin  : uaçeksa ırmağı
+      duyulan: uacaksa ırma
+  REPLACE  ...çoğu yüzlerce kilometer doğuda
+      metin  : and ların
+      duyulan: antıların
+  REPLACE  ...oymalarından olan ve inceleyen
+      metin  : arkeoloğun
+      duyulan: arkeologun
+  REPLACE  ...inceleyen arkeoloğun adıyla anılan
+      metin  : teyo dikilitaşı nın
+      duyulan: teo dikilitaşının
+  REPLACE  ...vadilerden taşınmış taşlar çıktı
+      metin  : çavin
+      duyulan: çavi nin
+  REPLACE  ...dururdu gözlerinin önündeki taş
+      metin  : dağ
+      duyulan: daha
+  REPLACE  ...yatırılmış uzun yassı taş
+      metin  : kirişler
+      duyulan: girişler
+  REPLACE  ...gelen kelimeden türetilmiş adıyla
+      metin  : lanson
+      duyulan: lansón
+  REPLACE  ...dişler yırtıcıya aittir ve
+      metin  : figüer
+      duyulan: figuer
+  REPLACE  ...cesuru çavin i tür
+      metin  : duyu
+      duyulan: duyum
+  INSERT   ...yapının çökmesini önlemek ama
+      metin  : (yok)
+      duyulan: lı
+  INSERT   ...çökmesini önlemek ama ve
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...yürüten perulu arkeolog luis
+      metin  : giyermo
+      duyulan: guillermo
+  INSERT   ...eşlik eden başka ses
+      metin  : (yok)
+      duyulan: çiki
+  REPLACE  ...eden başka ses yılında
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...sonradan galeria de las
+      metin  : karakolas
+      duyulan: caracolas
+  REPLACE  ...deniz salyangozlarının kabuklarından yapılmıştı
+      metin  : and
+      duyulan: ant
+  REPLACE  ...sesi başka noktaya ulaştığında
+      metin  : kaynağı
+      duyulan: kaynağa
+  REPLACE  ...olup bittiğini düşünmek ürpertici
+      metin  : ipucu ışık
+      duyulan: i pucu işık
+  DELETE   ...önünde birdenbier beliren parıltı
+      metin  : ve
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olarak tanıyor san pedro
+      metin  : and larda
+      duyulan: antlarda
+  REPLACE  ...oyulmuş tepsiler çıktı bunlar
+      metin  : and larda
+      duyulan: antlarda
+  REPLACE  ...en çok anılan aday
+      metin  : vilka
+      duyulan: wilka
+  REPLACE  ...yaklaşır bu yoruma göer
+      metin  : çavin in
+      duyulan: chavi nin
+  REPLACE  ...kanalların ses üretiminden çok
+      metin  : drenaj
+      duyulan: direnaj
+  REPLACE  ...açık ama şu kesin
+      metin  : çavin i
+      duyulan: chavi ni
+  REPLACE  ...çamurun kalan emeğin hikayesi
+      metin  : çavin in
+      duyulan: chavi nin
+  REPLACE  ...taşları ev yapımında kullanıyor
+      metin  : define
+      duyulan: defini
+  REPLACE  ...peru arkeolojisinin kurucusu sayılan
+      metin  : hulio sesar teyo
+      duyulan: julio cesar tejo
+  REPLACE  ...sesar teyo ile başladı
+      metin  : teyo lima nın
+      duyulan: tejo limanın
+  REPLACE  ...çocuğu olarak doğmuştu çocukluğunda
+      metin  : keçuva
+      duyulan: quechua
+  REPLACE  ...kendi derinliklerinden doğduğuna inanıyordu
+      metin  : çavin e
+      duyulan: da chavi ne
+  REPLACE  ...kültürünün işaretleri gibi göründü
+      metin  : teyo çavin i and uygarlıklarının
+      duyulan: tejo chavi ni ant uygarlıkları nın
+  REPLACE  ...karmaşık tabloya yerini bıraktı
+      metin  : çavin den
+      duyulan: chavi nden
+  REPLACE  ...tapınaklar biliniyor artık ama
+      metin  : çavin i
+      duyulan: chavi ni
+  REPLACE  ...kez yüksek sesle söyleyen
+      metin  : teyo
+      duyulan: tejo
+  REPLACE  ...sesle söyleyen teyo oldu
+      metin  : teyo
+      duyulan: tejo
+  REPLACE  ...oldu teyo yıllar içinde
+      metin  : çavin e
+      duyulan: chavi ne
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 81 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: arkeoloji-2026-11-05.duyulan.txt

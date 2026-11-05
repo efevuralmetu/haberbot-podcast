@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-05.mp3
+
+beklenen 2315 kelime | duyulan 2331 kelime | eşleşme %95.4
+sayı ifadesi: metinde 465, duyulanda 321  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yılının sonbaharında japonya nın
+      metin  : şizuoka
+      duyulan: shizuoka
+  REPLACE  ...burası ordunun istihbarat ve
+      metin  : gerilla
+      duyulan: guerilla
+  REPLACE  ...o öğrencilerden yaşındaki hiroo
+      metin  : ydı
+      duyulan: daydı do
+  INSERT   ...yaşındaki hiroo ydı mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...serbest yaşamaya başlamıştı ama
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşamaya başlamıştı ama askeer
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  REPLACE  ...sonraki yılını belirleyecekti aralık
+      metin  : yı filipinler e
+      duyulan: te dayı filipinleer
+  REPLACE  ...yı filipinler e gönderdiler
+      metin  : teğmen
+      duyulan: teymen
+  INSERT   ...adası na atandı aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çıkmasını zorlaştırmak çıkarsa da
+      metin  : gerilla
+      duyulan: gerillah
+  REPLACE  ...talimattan çok yemin gibiydi
+      metin  : nın
+      duyulan: danın
+  REPLACE  ...anlattığına göer tümen komutanı
+      metin  : korgeneral şizuo
+      duyulan: kor general shizuo
+  REPLACE  ...bile savaşmayı sürdürecek gerekirse
+      metin  : hindistancevizi
+      duyulan: hindistan tvizi
+  REPLACE  ...hindistancevizi yiyerek hayatta kalacaktı
+      metin  : nın
+      duyulan: danın
+  REPLACE  ...bağlı olduğu amir ize
+      metin  : yoşimi taniguçi ydi
+      duyulan: yoshimi taniguchi idi
+  INSERT   ...çözecek lubang a vardığında
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...dağınık ve hazırlıksızdı şubat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ya da esir düştü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yanında kişi vardı er
+      metin  : yuiçi
+      duyulan: yuichi
+  REPLACE  ...vardı er yuiçi akatsu
+      metin  : şoiçi şimada
+      duyulan: shoichi shimada
+  REPLACE  ...şimada ve sınıf er
+      metin  : kinşiçi
+      duyulan: kinshichi
+  REPLACE  ...beklemekti yılının ağustos ayında
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...ağustos ayında hiroşima ve
+      metin  : nagasaki
+      duyulan: nagazaki
+  REPLACE  ...kuvvetlerinin komutanı orgeneral tomoyuki
+      metin  : yamaşita
+      duyulan: yamashita
+  REPLACE  ...mevsimde tepelerde dolaştılar muz
+      metin  : hindistancevizi
+      duyulan: hindistan sivizi
+  REPLACE  ...daha fazlasının yaralandığı aktarılır
+      metin  : lubang
+      duyulan: luban
+  REPLACE  ...yönetimin olduğunu gerçek japon
+      metin  : hükumetinin
+      duyulan: hükümetinin
+  INSERT   ...doğruluyordu grubun ilk çatlağı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tek başına dolaştıktan sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaç kişi olduklarını anlatabilirdi
+      metin  : grup
+      duyulan: grub
+  REPLACE  ...japon askerleri olduğu biliniyordu
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...arama ekibiyle çatışmaya girdiler
+      metin  : şimada
+      duyulan: shimada
+  REPLACE  ...kişi kalmıştı ve kozuka
+      metin  : şimada
+      duyulan: shimada
+  REPLACE  ...da da yankı uyandırdı
+      metin  : ölen
+      duyulan: ölenen
+  REPLACE  ...daha olabileceği düşünüldü japon
+      metin  : hükumeti
+      duyulan: hükümeti
+  INSERT   ...ekipleri gönderdi bu aramalardan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu aramalardan nın ağabeyi
+      metin  : toşio
+      duyulan: toshio
+  REPLACE  ...toşio da adaya geldi
+      metin  : hoparlörle
+      duyulan: poparlörle
+  INSERT   ...ormandan çıkmadı aynı yıl
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...inançtı görev bitmedi yıllar
+      metin  : (yok)
+      duyulan: ları
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-11-05.duyulan.txt
