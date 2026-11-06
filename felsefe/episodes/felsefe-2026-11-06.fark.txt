@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-06.mp3
+
+beklenen 2393 kelime | duyulan 2390 kelime | eşleşme %94.9
+sayı ifadesi: metinde 230, duyulanda 216  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  DELETE   ...kadar az bilge olmadı
+      metin  : i ki buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dervişi aynı şeyi tek
+      metin  : beyitle
+      duyulan: beytle
+  REPLACE  ...adanmış soruları yanıtlayan ize
+      metin  : pitiya
+      duyulan: pitya
+  REPLACE  ...verilen rahibe bu yer
+      metin  : delfi
+      duyulan: delphi
+  REPLACE  ...daha bilge var mı
+      metin  : pitiya
+      duyulan: pitya
+  REPLACE  ...daha sert cümleyle söylemişti
+      metin  : herakleitos
+      duyulan: herakleytos
+  REPLACE  ...hesiodos a pisagor a
+      metin  : ksenofanes
+      duyulan: casenophanes
+  REPLACE  ...a ksenofanes e ve
+      metin  : hekataios
+      duyulan: hecataios
+  REPLACE  ...hekataios a da öğretirdi
+      metin  : herakleitos
+      duyulan: herakleytos
+  REPLACE  ...mistik gezgin düşünür coğrafyacı
+      metin  : herakleitos
+      duyulan: herakleytos
+  REPLACE  ...ayrım burada işimize yarıyor
+      metin  : herakleitos
+      duyulan: herakleytos
+  REPLACE  ...bilmek için kullandığı sözcük
+      metin  : polimatiye
+      duyulan: polimatiğe
+  REPLACE  ...yani kavrayış anlayan akıl
+      metin  : birikimdir
+      duyulan: kimdir
+  REPLACE  ...kütüphane hiçbir şey anlamaz
+      metin  : delfi
+      duyulan: delphi
+  DELETE   ...bilgelik ize bilginin kendisiyle
+      metin  : nasıl
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hiçbir şey yapmadan oturabilir
+      metin  : bilgeliğin
+      duyulan: bilgiliğin
+  INSERT   ...taş arasında fark yok
+      metin  : (yok)
+      duyulan: i kisi
+  REPLACE  ...yerine getirmeyenleri kitap yüklü
+      metin  : eşeğe
+      duyulan: şeye
+  REPLACE  ...nin gülistan ında da
+      metin  : karşımıza
+      duyulan: bilgimiz
+  INSERT   ...insanlardan kitaplarda okuyan alimdi
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...yüzlerce öğrenci geliyor sözü
+      metin  : sultanların
+      duyulan: utanların
+  REPLACE  ...ne olduğunu hangi buharların
+      metin  : beyne
+      duyulan: eline
+  DELETE   ...de sağlıktan yoksundur bilmek
+      metin  : ile olmak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ağır şey yüklemişti bildiğini
+      metin  : yaşamamanın
+      duyulan: anlamamanın
+  REPLACE  ...verip evde bağıran danışmanı
+      metin  : beslenme
+      duyulan: esnenme
+  INSERT   ...gazali den yaklaşık çeyrek
+      metin  : (yok)
+      duyulan: yıl
+  DELETE   ...bu başka şeye ad
+      metin  : vermişti
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...uzun manzum eser fazla
+      metin  : beyitlik
+      duyulan: beytlik
+  REPLACE  ...kitabı karahanlı hükümdarı tabgaç
+      metin  : buğra han
+      duyulan: burahan
+  REPLACE  ...beğeniyor ki yusuf a
+      metin  : saraydaki
+      duyulan: karahanlı hükümdarı tabgada ki
+  REPLACE  ...günden beri yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...diye anıyoruz eserin adı
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...insanı iyiye götüren bilgi
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...kavramı temsil eder hükümdar
+      metin  : küntogdı
+      duyulan: kün toktu
+  REPLACE  ...hükümdar küntogdı adaleti vezir
+      metin  : aytoldı
+      duyulan: aytoldu
+  REPLACE  ...devlet talihini vezirin oğlu
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...vezirin oğlu ögdülmiş aklı
+      metin  : ögdülmiş in
+      duyulan: ögdülmüş ün
+  REPLACE  ...in akrabası olan derviş
+      metin  : odgurmış
+      duyulan: odgurmuş
+  REPLACE  ...açısından en önemli figür
+      metin  : ögdülmiş tir
+      duyulan: ögdülmüş tür
+  REPLACE  ...övülmüş anlamına gelir babası
+      metin  : aytoldı
+      duyulan: aytoldu
+  ... ve 46 fark daha
+
+metinde olup DUYULMAYAN: 102 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: felsefe-2026-11-06.duyulan.txt

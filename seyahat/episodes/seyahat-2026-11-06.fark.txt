@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-06.mp3
+
+beklenen 1604 kelime | duyulan 1601 kelime | eşleşme %97.1
+sayı ifadesi: metinde 175, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...riga yı hatırlatır ama
+      metin  : kar
+      duyulan: kars
+  INSERT   ...mparatorluğu na bırakıldı ve
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ayinlerinin süslerine karşı çıkan
+      metin  : hristiyan
+      duyulan: hıristiyan
+  INSERT   ...değiştikçe bile kalmayı sürdürdüler
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...kısa süer el değiştirdi
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...yıl imzalanan kars antlaşması
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...insanlar olarak anlatır sonra
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...belli aralıklarla delikler açarlar
+      metin  : ağları
+      duyulan: ağaları
+  REPLACE  ...bu deliklerden buzun sürükleyerek
+      metin  : gererler
+      duyulan: yerler
+  REPLACE  ...de buharlar soluyan at
+      metin  : kızağa
+      duyulan: kızığa
+  REPLACE  ...arasında kış ritüeline dönüştü
+      metin  : ekspresle
+      duyulan: ekspres ile
+  INSERT   ...arenanın en ünlü ustası
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...orada atışmaya geldi çobanoğlu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ayak açar yani hangi
+      metin  : kafiyeyle
+      duyulan: kafiye ile
+  DELETE   ...gülerek masaya vurur aşıkların
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...takvimidir kazlar yaz boyunca
+      metin  : serbestçe
+      duyulan: serbestçi
+  REPLACE  ...gitti malakanlar gitti ama
+      metin  : usta ile
+      duyulan: ustayla
+  REPLACE  ...gelen ayazda kurutulan kaz
+      metin  : raflarda
+      duyulan: draflarda
+  REPLACE  ...kendi malı olarak kaldı
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 26
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: seyahat-2026-11-06.duyulan.txt

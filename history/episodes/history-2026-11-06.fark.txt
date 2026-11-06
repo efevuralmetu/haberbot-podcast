@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-06.mp3
+
+beklenen 2163 kelime | duyulan 1920 kelime | eşleşme %11.9
+sayı ifadesi: metinde 170, duyulanda 107  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...of a lance and
+      metin  : he never came back yazının başında edirne sarayında kağıda dökülmeden önce uzun uzun tartılmış barışın hazırlığı vardı önceki kış osmanlı ordusu balkan dağlarının karla kaplı geçitlerinde zor anlar yaşamıştı macar ve polonya kralı vladislav ile erdel voyvodası
+      duyulan: the of november a year old king rode a field wheer the signed treaty was said to be flying from the tip of a lance and the of november a year old king rode a field wheer the signed treaty was said to be flying from the tip of a lance and the of november a year old king rode a field wheer the signed treaty was said to be flying from the tip of a lance and the of november a year old king rode a field wheer the signed treaty was said to be flying from the tip of a lance and the of november a year old king rode a field wheer the signed treaty böyledje ikiraira kutsalkitap ikiraira inanc ai nesözun kefiliyapulmishta
+  REPLACE  ...ile erdel voyvodası hunyadi
+      metin  : yanoş tarihe uzun sefer adıyla geçen kış seferiyle tuna yı geçip sofya ya kadar ilerlemişti aralık te i zladi derbendi nde osmanlı kuvvetleri geçidi tutmayı başarmış ama ertesi ay kunoviça
+      duyulan: debubarishtan karluchikta brankovic destei karshalanda majaristan
+  REPLACE  ...ertesi ay kunoviça daki
+      metin  : çatışmada sultanın eniştesi ve çandarlı halil paşa nın kardeşi mahmud çelebi esir düşmüştü haçlı ordusu soğuk ve erzak sıkıntısı yüzünden geri dönmüştü ama avrupa da bu sefer zafer gibi karşılandı sultan i kinci
+      duyulan: ghenishmukteren borakta dauda vebatdasanerlera salama aldunu dushunan
+  REPLACE  ...sultan i kinci murad
+      metin  : ın omuzlarındaki yük yalnızca bu cephe değildi arnavutluk ta i skender bey isyan etmiş anadolu da karamanoğlu i brahim bey fırsatı kollayarak osmanlı topraklarına saldırmıştı bunların üstüne
+      duyulan: bukez osmannatari hindar pek gurul memishpiradamatta tata onikiyashan daki olu mehmeda borakta vekendisi mani saya chekilde yananda yakanadamlera chevresinde eginin saakin baleravarda edirnei
+  REPLACE  ...saldırmıştı bunların üstüne de
+      metin  : babalık acısı eklenmişti murad ın veliaht olarak yetiştirdiği oğlu alaeddin ali te amasya da genç yaşta ölmüştü kaynaklar sultanın bu ölümden sonra devlet işlerinden belirgin biçimde soğuduğunu anlatır yaşlarının sonundaki hükümdar cephede savaşmak yerine sınırlarını yatıştırmanın yollarını aramaya başlamıştı önce doğuda iş halledildi karamanoğlu ile anlaşma yapıldı ardından batıya dönüldü haziran te edirne ye macar elçileri geldi görüşmelerin arkasında önemli aracı da vardı sırp despotu đurađ branković osmanlılar yıl önce topraklarını almış semendier kalesini ele geçirmiş oğlunu da kör ettirip hapsetmişti branković için barış kaybettiği her şeyi geri almak demekti sonunda varılan anlaşma tam da bunu sağlıyordu sırbistan despota iade edilecek semendier ve güvercinlik gibi kaleler boşaltılacak oğulları serbest bırakılacaktı eflak eskisi gibi osmanlı ya bağlı kalacaktı taraflar yıl boyunca birbirlerine saldırmayacaktı barış aşamada kesinleşti edirne
+      duyulan: isse devletin dumenin
+  REPLACE  ...aşamada kesinleşti edirne de
+      metin  : murad macar elçilerinin önünde kur an üzerine yemin etti sonra osmanlı elçileri kuzeye macaristan ın güneyindeki segedin şehrine gitti ağustosun başında genç kral vladislav da i ncil üzerine yemin ederek anlaşmayı onayladı böylece ayrı kutsal kitap ayrı inanç aynı sözün kefili yapılmıştı hunyadi de bu barıştan karlı çıktı branković desteği karşılığında macaristan daki geniş mülklerini bıraktı doğuda ve batıda sınırları sağlama aldığını düşünen murad bu kez osmanlı tarihinde pek görülmemiş adım attı tahtı yaşındaki oğlu mehmed e bıraktı ve kendisi manisa ya çekildi yanında yakın adamları çevresinde ege nin sakin bağları vardı edirne de ize devletin dümeninde çocuk
+      duyulan: birchojuk
+  REPLACE  ...dümeninde çocuk sultan ve
+      metin  : adına işleri yürüten çandarlı halil paşa kalmıştı
+      duyulan: onunadana ishleri urutan chandar lahalil pashakalmishta
+  REPLACE  ...halil paşa kalmıştı bu
+      metin  : tablo kuzeyden bakanlar için çok farklı anlam taşıyordu barışı imzalayan
+      duyulan: tableau kuzayden bakanlarichin chokfarkli biranlamtash yordu barishi imza alian
+  REPLACE  ...taşıyordu barışı imzalayan sultan
+      metin  : sahneden çekilmiş
+      duyulan: sahnedan chekilmish
+  REPLACE  ...sultan sahneden çekilmiş yerinde
+      metin  : tecrübesiz çocuk oturuyordu mürekkebi henüz kurumamış
+      duyulan: tejribesis birchojuk oturyordu mira kebi henus kurumamishpir
+  REPLACE  ...henüz kurumamış yemin bundan
+      metin  : daha zayıf anda hiç sınanmamıştı segedin de
+      duyulan: dahazayif dahitsanam mamishta sejedinde
+  REPLACE  ...sınanmamıştı segedin de yeminin
+      metin  : edildiği günlerde kralın yanında
+      duyulan: edildigu narda kralun yananda
+  REPLACE  ...günlerde kralın yanında papa
+      metin  : eugenius un elçisi kardinal
+      duyulan: durdun jyugeniusun elchisi cardinal
+  REPLACE  ...un elçisi kardinal giuliano
+      metin  : cesarini de bulunuyordu
+      duyulan: gesarini dabbulu nyordu
+  REPLACE  ...bulunuyordu cesarini avrupa diplomasisinin
+      metin  : en etkili isimlerinden ve yıllardır tek hedef için çalışıyordu osmanlıları balkanlar dan sökecek büyük haçlı seferi
+      duyulan: enetkili isimlerindan veyilardar tekbirhedeficin chalushyordu osmanlilir balkan nardan sekijek buyuk birhachla sefeer
+  REPLACE  ...haçlı seferi bu fikir
+      metin  : boş
+      duyulan: boshbir
+  REPLACE  ...fikir boş hayal de
+      metin  : değildi yıl önce floransa
+      duyulan: dilde birkachilunje florensa
+  REPLACE  ...yıl önce floransa da
+      metin  : katolik ve ortodoks kiliselerinin birleşmesi ilan edilmişti bizans imparatoru i oannis batı dan yardım umuduyla bu razı olmuştu
+      duyulan: katolikwe orthodox kilisey lernin birleshmesi ilane dilmishte bizin s imperator sakizinci yoanis batdan yardomumudu ila bubir leirazol mushtu
+  REPLACE  ...bu razı olmuştu papa
+      metin  : donanma hazırlatıyor
+      duyulan: donan mahazir latyor
+  REPLACE  ...papa donanma hazırlatıyor venedik
+      metin  : gemi veriyor burgonya dükü bile gemi gönderiyordu
+      duyulan: gemivir yor borgonyadukubile birkachkemigyondir yordu
+  REPLACE  ...gemi gönderiyordu bu kadar
+      metin  : emeğin kralın imzasıyla anda boşa gitmesi kardinal için kabul edilemezdi
+      duyulan: emain kralun imzasi ila boshagitmese cardinal ichin kabule dilemazde
+  REPLACE  ...için kabul edilemezdi cesarini
+      metin  : nin kralın karşısına koyduğu görüş şuydu hristiyan hükümdarın
+      duyulan: nen kralun karsasana koidu gyrushrudu hristian hukumda un
+  REPLACE  ...hristiyan hükümdarın kilisenin olmadan
+      metin  : müslüman hükümdara ettiği
+      duyulan: musduman hukumdara eti
+  REPLACE  ...müslüman hükümdara ettiği yemin
+      metin  : bağlayıcı değildir üstelik
+      duyulan: bala yidu dilder ustalik
+  REPLACE  ...bağlayıcı değildir üstelik kral
+      metin  : aylar önce budin deki mecliste
+      duyulan: eylar unge budindik imejliste
+  REPLACE  ...mecliste o yaz sefeer
+      metin  : çıkacağına
+      duyulan: chukajana
+  REPLACE  ...yaz sefeer çıkacağına dair
+      metin  : söz vermişti kardinale göer önceki söz sonrakinden
+      duyulan: seos vermishti cardinal gurey unjiki seos sonra kinden dahage char lide papa adana konushma yetki sinukulanara kralu osmanalara eti yemin danazat eti ola ilaran ke sinceer satarichchilerarasan da halatartushmaludur kralun
+  REPLACE  ...önceki söz sonrakinden daha
+      metin  : geçerliydi papa adına konuşma yetkisini kullanarak kralı osmanlılara ettiği yeminden azat etti olayların kesin sırası tarihçiler arasında hala tartışmalıdır kralın daha anlaşma onaylanmadan
+      duyulan: an nashma onaylan madan
+  REPLACE  ...daha anlaşma onaylanmadan seferi
+      metin  : sürdürme kararını gizlice açıkladığına
+      duyulan: surdur mekhararana gizlija achikladuna
+  REPLACE  ...kararını gizlice açıkladığına dair
+      metin  : belgeler
+      duyulan: bal yalardavardar amavarlan sonuch
+  REPLACE  ...açıkladığına dair belgeler de
+      metin  : vardır
+      duyulan: ishmas barishtaha uyghulamaya gechmed anfir anbozul musduh hunyadinin tutumubuhikayinin en karmashiki anarandam sejedin deki an nashmadan buyuk kazanch salamushta
+  REPLACE  ...belgeler de vardır ama
+      metin  : varılan sonuç değişmez barış daha uygulamaya geçmeden fiilen bozulmuştu hunyadi nin tutumu bu hikayenin en karmaşık yanlarından segedin deki anlaşmadan büyük kazanç sağlamıştı ama sefeer de katıldı kendisine
+      duyulan: seferida katildu kendi sein
+  REPLACE  ...de katıldı kendisine bulgaristan
+      metin  : fethedilirse oranın kralı yapılması vaat edilmişti branković ize
+      duyulan: feta dillars oranan kraliya pulmasavadidil musduh brankovici se
+  REPLACE  ...edilmişti branković ize kendi
+      metin  : hesabını çoktan kapatmıştı kalelerini ve oğullarını geri almıştı
+      duyulan: hisabun chokdang kapat musduh kale lerni neve ollarana gerial musduh
+  REPLACE  ...oğullarını geri almıştı yeni
+      metin  : savaşa girmek için hiçbir nedeni yoktu sırbistan tarafsız kaldı
+      duyulan: sawa shagir mekichin hichbir nede niyoktu serbi stan tarafsus kalde
+  REPLACE  ...sırbistan tarafsız kaldı hatta
+      metin  : haçlıların
+      duyulan: achlaran
+  REPLACE  ...kaldı hatta haçlıların kendi
+      metin  : topraklarından geçmesine
+      duyulan: toprak lern dan gechme sine
+  REPLACE  ...geçmesine de engel oldu
+      metin  : eylülün son haftalarında
+      duyulan: eilulun sonhafta lern da
+  REPLACE  ...eylülün son haftalarında ordu
+      metin  : tuna yı orşova yakınlarında geçti sayısı bugün de tartışılır tarihçilerin çoğu kabaca ile arasında rakam verir macar
+      duyulan: tunayi orshovaya kunneran da gechte seisabugun da tartushillur tarushillirin chou kabaja onaltubin ila otusbinarasan da birakamvirir makarve polonya shavalyelier erdail askarleer chekve alman parala askarler
+  REPLACE  ...rakam verir macar ve
+      metin  : polonya şövalyeleri erdel askerleri çek
+      duyulan: husit sawa shleran dan urin ilmishbiryuan tamle zinjilar le birbirine balanup seyar kalayadun ushtur le bilan yuzlarja arabavardu yolde eflak voivodasa vlad dracul olu mirceyakomutasan da yakhlashik dirt binatlugun daardu kroniklerda annatildinaguer dracul krelan ordu sonugurduinde sultanan avabilebundan kalabaluk birmayet lechik deno soylemish
+  ... ve 100 fark daha
+
+metinde olup DUYULMAYAN: 1919 kelime | duyulup metinde OLMAYAN: 1677
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-11-06.duyulan.txt

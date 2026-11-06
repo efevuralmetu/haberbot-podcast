@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-06.mp3
+
+beklenen 1774 kelime | duyulan 1780 kelime | eşleşme %91.7
+sayı ifadesi: metinde 245, duyulanda 161  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendini hep öyle tanımladı
+      metin  : i vata
+      duyulan: ivatay da
+  REPLACE  ...şaşırdı ki yazışmaya başladı
+      metin  : i vata
+      duyulan: ivatay
+  INSERT   ...meraktaki gençle tanıştı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yarı zamanlı çalışmaya başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gitmek yerine bu küçük
+      metin  : ekipte
+      duyulan: ekip de
+  INSERT   ...oğluyla yaklaşık ay konuşmadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...konsolu famicom piyasaya çıktığında
+      metin  : i vata
+      duyulan: ivatay
+  REPLACE  ...dönem oyunlarında çalışmaya başladı
+      metin  : i vata nın
+      duyulan: ivatay ın
+  REPLACE  ...vata nın adı golf
+      metin  : langırt
+      duyulan: langert
+  REPLACE  ...sıra balloon fight yani
+      metin  : balon
+      duyulan: ballon
+  REPLACE  ...bu her bayt hesaplanıyordu
+      metin  : i vata
+      duyulan: ivatay
+  REPLACE  ...öğrendi ne var ki
+      metin  : iyi kod
+      duyulan: e code
+  INSERT   ...nin rüya ülkesi adıyla
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...borcu kapatmaya yetmezdi hal
+      metin  : ı
+      duyulan: i
+  REPLACE  ...nun sert mizaçlı başkanı
+      metin  : hiroşi yamauçi
+      duyulan: hiroshi yamauchi
+  REPLACE  ...başına i vata geçecekti
+      metin  : i vata
+      duyulan: te ivat a
+  REPLACE  ...geçecekti i vata hal
+      metin  : ın
+      duyulan: anın
+  REPLACE  ...oyunlarındaki düğümleri çözmesinden gelecekti
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...yazar ve metin yazarı
+      metin  : şigesato i toi
+      duyulan: shigesato itoi
+  DELETE   ...yalnızca kodu silmeyi önermiyordu
+      metin  : ekibin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...baştan kurmayı öneriyordu mother
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...düzelten nadir insanlardandı ardından
+      metin  : pokémon
+      duyulan: pokemon
+  INSERT   ...insanlardandı ardından pokémon geldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...game boy da başlayan
+      metin  : pokémon
+      duyulan: pokemon
+  REPLACE  ...yeni ev konsolu nintendo
+      metin  : dörde
+      duyulan: de
+  REPLACE  ...isteniyordu japonya da hazırlanan
+      metin  : pokémon stadyumu
+      duyulan: pokemon stadiumu
+  REPLACE  ...daha da çarpıcı katkısı
+      metin  : pokémon
+      duyulan: pokemon
+  INSERT   ...de dönüp orayı gezebildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olduğunu bilmiyordu aynı yıllarda
+      metin  : hal da
+      duyulan: highlight a
+  REPLACE  ...super smash bros yani
+      metin  : süper
+      duyulan: super
+  REPLACE  ...kyoto da dikkat çekti
+      metin  : i vata
+      duyulan: de ivat a
+  REPLACE  ...ki yıl sonra mayıs
+      metin  : yamauçi
+      duyulan: de yamauchi
+  REPLACE  ...nintendo yu yöneten ve
+      metin  : yamauçi
+      duyulan: yamauchi
+  INSERT   ...oyuncular kapıdan içeri giremiyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kapıdan içeri giremiyordu san
+      metin  : fransisko
+      duyulan: francisco
+  INSERT   ...bu felsefenin ilk ürünü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...asıl büyük hamle ize
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...wii sports yani wii
+      metin  : sporları ile
+      duyulan: sporlarıyla
+  INSERT   ...zamanla akıllı telefonlara kaydı
+      metin  : (yok)
+      duyulan: kiikii de
+  INSERT   ...çıkarmalar hissedarı yatıştıracak tablo
+      metin  : (yok)
+      duyulan: kiikii ün
+  ... ve 13 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 75
+bölme/birleşme farkı (hata değil, elendi): 43
+
+duyulan metin: oyun-2026-11-06.duyulan.txt

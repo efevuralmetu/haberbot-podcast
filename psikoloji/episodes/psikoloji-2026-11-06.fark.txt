@@ -1,0 +1,49 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-06.mp3
+
+beklenen 1452 kelime | duyulan 1453 kelime | eşleşme %98.5
+sayı ifadesi: metinde 146, duyulanda 134  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...alnınızın hemen arkasındaki prefrontal
+      metin  : korteks
+      duyulan: cortex
+  REPLACE  ...amigdala alarm verir prefrontal
+      metin  : korteks
+      duyulan: cortex
+  INSERT   ...uykusuzluk bu konuşmayı bozar
+      metin  : (yok)
+      duyulan: kipi
+  REPLACE  ...değildi araştırmacılar amigdalanın prefrontal
+      metin  : korteksle
+      duyulan: cortexle
+  DELETE   ...ama dayanılmaz olmayan uğultuydu
+      metin  : az
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saniye aynı rahatsızlığı ilk
+      metin  : anki
+      duyulan: hanki
+  REPLACE  ...gece uykusu girdi uyuyan
+      metin  : grupta
+      duyulan: grup da
+  REPLACE  ...gün boyunca yorulmuştur prefrontal
+      metin  : korteksin
+      duyulan: cortex in
+  REPLACE  ...çözdüğü anlamına da gelmiyor
+      metin  : pekin
+      duyulan: dikkin
+  REPLACE  ...var karşı tarafa konunun
+      metin  : önemsendiğinin
+      duyulan: önemlendiğinin
+  REPLACE  ...için doğru zemini hazırlar
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 10 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-11-06.duyulan.txt

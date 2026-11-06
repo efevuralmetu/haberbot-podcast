@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-06.mp3
+
+beklenen 2648 kelime | duyulan 2668 kelime | eşleşme %96.4
+sayı ifadesi: metinde 264, duyulanda 221  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...oldu kazı alanı zamanla
+      metin  : metrekareye
+      duyulan: meter kareye
+  REPLACE  ...olduğunu söylüyordu i ki
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...kendince haklıydı sonunda kazı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...marmaray aynı yıl ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yı aşar ve şeher
+      metin  : varırdı
+      duyulan: vaardı
+  REPLACE  ...açmaktı bunların en büyüğü
+      metin  : imparator teodosius
+      duyulan: i mparator theodosius
+  REPLACE  ...latince kaynaklarda adı portus
+      metin  : teodosiakus
+      duyulan: theodosiacus
+  REPLACE  ...adı portus teodosiakus yani
+      metin  : teodosius
+      duyulan: theodosius
+  REPLACE  ...antik çağ daki adı
+      metin  : likos tu
+      duyulan: lykostu
+  REPLACE  ...korunaklı iç havzaya dönüştürdüler
+      metin  : teodosius
+      duyulan: theodosius
+  REPLACE  ...sesleri tamirdeki gemiden gelen
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...doğru yükselen imparatorluk başkentinin
+      metin  : silueti
+      duyulan: silüeti
+  REPLACE  ...yeri değildi aynı zamanda
+      metin  : tersane
+      duyulan: tershane
+  REPLACE  ...çok büyük anlam taşıyacaktı
+      metin  : teodosius
+      duyulan: theodosius
+  REPLACE  ...of nautical archaeology yani
+      metin  : sualtı arkeolojisi
+      duyulan: sualta archaeology si
+  REPLACE  ...gemi yapımının yaygın yöntemi
+      metin  : bugünkünden
+      duyulan: bugünküünden
+  REPLACE  ...çivilendiği yöntem baskındı anlamda
+      metin  : yenikapı ortaçağ
+      duyulan: yeni kapı ortaçağı
+  REPLACE  ...limanda su yüzünden yalnızca
+      metin  : direk
+      duyulan: direkt
+  REPLACE  ...tarak ayakkabı tabanı ama
+      metin  : teodosius limanı nın
+      duyulan: theodosius limanının
+  REPLACE  ...olan derenin ta kendisiydi
+      metin  : likos
+      duyulan: lycos
+  REPLACE  ...edilmeyecek kadar yavaş ama
+      metin  : yüzyıllar
+      duyulan: yıllar
+  REPLACE  ...gerekli değildi yüzyıldan sonra
+      metin  : teodosius
+      duyulan: theodosius
+  REPLACE  ...olan havzanın son kullanıcılarıydı
+      metin  : körfez
+      duyulan: körfes
+  REPLACE  ...önderleri bizas ın adıyla
+      metin  : bizantion
+      duyulan: bizantyon
+  REPLACE  ...türden toprağa ulaştılar denizin
+      metin  : bugünkünden
+      duyulan: bugünküünden
+  REPLACE  ...istasyonunda trenlerin geldiği peronların
+      metin  : teodosius
+      duyulan: theodosius
+  INSERT   ...gemiyi hangi kurumun incelediği
+      metin  : (yok)
+      duyulan: nonu
+  DELETE   ...bildiğim sayılar batık kadırga
+      metin  : metrekaer
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ve marmaray ın ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...marmaray ın ekim açılışı
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 33 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: arkeoloji-2026-11-06.duyulan.txt

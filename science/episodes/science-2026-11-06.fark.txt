@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-06.mp3
+
+beklenen 1927 kelime | duyulan 1807 kelime | eşleşme %8.4
+sayı ifadesi: metinde 153, duyulanda 88  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : kaseye parmağınızı yavaşça daldırırsanız içi bal gibi akar aynı kaseye yumruk atarsanız beton gibi sert çıkar bu karışımın üstünde koşan batmaz durduğu anda ize içine gömülmeye başlar mutfak kasesine ölçü mısır nişastası koyun üzerine ölçü kadar su ekleyip karıştırın i lk dakikalarda kaşık direnir sonra karışım beyaz ağır ve parlak bulamaca döner kaseyi yavaşça eğerseniz bulamaç bal gibi akar parmağınızı acele etmeden içine sokarsanız sıcak çamura girer gibi kolayca batar şimdi aynı yumruğunuzla sertçe vurun yumruk batmaz sanki ıslak taşa çarpmış gibi geri teper vurduğunuz yerde an mat çatlak iz belirir ardından yeniden parlar ve hiçbir şey olmamış gibi akmaya devam eder bu deneyin büyüğü de yapıldı üniversite gösterilerinde bilim festivallerinde televizyon programlarında ton nişasta ve suyla doldurulmuş havuzlar kuruldu i nsanlar bu havuzların üstünden koşarak geçtiler ayakları her adımda sertçe indiği sürece sıvı taşıdı ortada durup soluklanmak istediğinde ize yavaşça batmaya başladı bileğine sonra dizine kadar gömüldü kurtulmak için bacağını hızla çekmeye çalıştığında bulamaç bu kez bacağı sıkıca kavradı kaçmanın yolu sıvıya bunu fark ettirmeden yavaşça çıkmaktı bu davranışın neden tuhaf olduğunu görmek için önce sıradan sıvıya bakalım fizikçiler sıvının akmaya ne kadar direndiğine viskozite der su düşük viskoziteli bal yüksek viskoziteli sıvıdır ama ikisinin ortak özelliği vardır viskoziteleri ne kadar hızlı karıştırdığınıza bağlı değildir balı yavaş da karıştırsanız hızlı da karıştırsanız aynı bal olarak kalır hızlı karıştırınca daha çok kuvvet harcarsınız ama bu kuvvet hızla aynı oranda artar bu tür sıvılara akışkanların bu davranışını yüzyılda tarif eden isaac newton un adıyla newton tipi sıvılar denir doğadaki ve mutfaktaki pek çok madde bu kurala uymaz ketçap şişede inatla bekler ama sertçe sallarsanız akar duvar boyası fırçanın incelir fırça çekilince duvarda kalır bunlar zorlandıkça incelen yani kayma etkisiyle akıcılaşan sıvılardır ve günlük hayatta oldukça yaygındırlar mısır nişastası bulamacı ize bunun tersini yapar zorladıkça kalınlaşır yavaş
+      duyulan: we have a very important topic today which is the creation of the world of the main topics today is the creation of the world we wil discuss the creation of the world in the next session which wil be the topic we wil discuss the creation of the world in the next session the day of the month the instructional performance which wil be taking place at the end of the month wil be the start of the semester of or program which wil be held in the field the question is what is the most important question in the world of the world of the world of the world of the world of the world of the world it could be a little woman a man woman or a bible of the world of the world of the world if the world of the zor ladukcha kalan lashir yavashbir
+  REPLACE  ...zorladıkça kalınlaşır yavaş harekete
+      metin  : bal
+      duyulan: baal
+  REPLACE  ...harekete bal gibi yol
+      metin  : verir hızlı ve sert
+      duyulan: wirir huzliveh serf
+  REPLACE  ...hızlı ve sert harekete
+      metin  : ize katı gibi karşı koyar fizik
+      duyulan: isse katagibi kar shukoyar physik
+  REPLACE  ...karşı koyar fizik dilinde
+      metin  : buna kaymayla kalınlaşma denir nişasta bulamacı bu davranışın en çarpıcı ve en kolay elde edilen örneğidir
+      duyulan: bunakai maile kalan lashmadinir nishaastabulamajib budavranushan encharpejive enkolai eldeh dilan urnaidir
+  REPLACE  ...elde edilen örneğidir bunun
+      metin  : kimyasal tepki olmadığını baştan söylemek gerekir nişasta soğuk suda çözünmez kasedeki şey çözelti değil süspansiyondur
+      duyulan: kim yasaltep kyol madinu bashtan soileh mek gyarekir nishaastah suk sudachuzun maz kaz dekhi shei chuzalti dil suspansiandir
+  REPLACE  ...çözelti değil süspansiyondur yani
+      metin  : suyun içinde asılı duran sayısız katı
+      duyulan: suyunichinde asiluduransayisis katatane wardar musir nishaastasatane lirichon nuklabesh ilai mikrometer arasandadir yani sachtelinin kalan lunun kachkataltanda tam kyuredeh dilardir kersheli hafiv chokuzlu duzansis parchajek lardar tarefta ki oranda tesaduf dilard kar isimda okadar chok nishaasta wardar ki
+  REPLACE  ...duran sayısız katı tane
+      metin  : vardır mısır nişastası taneleri çoğunlukla ile mikrometer arasındadır yani saç telinin kalınlığının kat tam küer de değillerdir köşeli hafif çokyüzlü düzensiz parçacıklardır tarifteki oran da tesadüf değildir karışımda o kadar çok nişasta vardır ki taneler
+      duyulan: ler
+  REPLACE  ...vardır ki taneler toplam
+      metin  : hacmin neredeyze yarısını kaplar ve birbirlerine çok yakın durur daha
+      duyulan: hajmin nardaisa yerasanaka plarve lerne chok yakandurur azdaha
+  REPLACE  ...durur daha fazla su
+      metin  : eklediğinizde etki zayıflar ve karışım sıradan sulu bulamaca döner daha
+      duyulan: ekledinizde etkiza yiflarve kar isimsa radan sullubir bulamajadunar azdaha
+  REPLACE  ...bulamaca döner daha fazla
+      metin  : nişasta eklediğinizde
+      duyulan: nishaasta ekledinizde
+  REPLACE  ...fazla nişasta eklediğinizde ize
+      metin  : karıştırılamayan
+      duyulan: karishtirillamayan
+  REPLACE  ...ize karıştırılamayan ufalanan hamur
+      metin  : elde edersiniz büyü
+      duyulan: eldeh darsiniz wu
+  REPLACE  ...elde edersiniz büyü bu
+      metin  : ucun arasındaki dar aralıkta ortaya çıkar bulamaç yavaş hareket ettiğinde her tanenin çevresinde ince
+      duyulan: ikki ujunarasandakidar aralikta orteh echikar bulamach yavashareketeteinde hertane ninchevresinde injebir
+  REPLACE  ...tanenin çevresinde ince su
+      metin  : tabakası bulunur taneler
+      duyulan: tabakasibulunur tane ler butabakanunustunde
+  REPLACE  ...tabakası bulunur taneler bu
+      metin  : tabakanın üstünde buz pistindeki patenciler
+      duyulan: spistinde ki patanjilar
+  REPLACE  ...buz pistindeki patenciler gibi
+      metin  : birbirlerinin yanından kayıp geçer
+      duyulan: bilirnin yanandan kayipkachar subora dahem dolgu hemdeya laejigurevigur peki yumrukindi indanedishir aina tane ler aina
+  REPLACE  ...yanından kayıp geçer su
+      metin  : burada hem dolgu hem de yağlayıcı görevi görür peki yumruk indiğinde ne değişir aynı taneler aynı su aynı kase saniyenin küçük
+      duyulan: aina kasa sanienin kuchukbir
+  REPLACE  ...saniyenin küçük kesrinde bu
+      metin  : sıvıyı katıya çeviren nedir
+      duyulan: saviye kathia chevir annedir
+  REPLACE  ...çeviren nedir bu soru
+      metin  : sanıldığından çok daha uzun süer fizikçileri uğraştırdı bugün verilen cevap da
+      duyulan: sanildan chokdaha uzunsur e fiziktilir urashtarda bagan viral anjavapta
+  REPLACE  ...verilen cevap da ilk
+      metin  : akla gelen cevap değil i lk ciddi açıklama hidrodinamikten
+      duyulan: aklagel anjavaptil ilk jid di achiklamahidrodinamiktan
+  REPLACE  ...ciddi açıklama hidrodinamikten yani
+      metin  : akışkanların hareketini inceleyen bilim dalından geldi i ki tanenin birbirine yaklaştığını düşünün aralarındaki su
+      duyulan: akushkanerin haraketinin injelian bilimdalindangalde ikitaninin birbirne yaklashtunadushunun aralarindakisubir
+  REPLACE  ...düşünün aralarındaki su yeer
+      metin  : kaçmak zorundadır
+      duyulan: kachmaksurundadar
+  REPLACE  ...yeer kaçmak zorundadır ama
+      metin  : aralık daraldıkça
+      duyulan: araliktaraldakcha
+  REPLACE  ...ama aralık daraldıkça suyun
+      metin  : kaçacağı yol da daralır i ki ıslak cam levhayı birbirine bastırmaya çalışanlar bunu bilir
+      duyulan: kachijaya yoldadaralar ikilslakjam levhaeyi birbirne bastar mayechalushanar bunubilir
+  REPLACE  ...çalışanlar bunu bilir levhalar
+      metin  : yaklaştıkça
+      duyulan: yaklashtakcha
+  REPLACE  ...bilir levhalar yaklaştıkça aradaki
+      metin  : ince su tabakası giderek daha güçlü direnir fizikçiler
+      duyulan: injesutabakasigidarekta haguchludirenis fiziktilir
+  REPLACE  ...direnir fizikçiler bu etkiye
+      metin  : yağlama kuvveti der aralık yaklaştıkça
+      duyulan: yalama kuvetidaer araluksafaraya klashtakcha
+  REPLACE  ...der aralık yaklaştıkça bu
+      metin  : kuvvet de hızla büyür lerin ortasında
+      duyulan: kuvette huzlabir lirin ortizanda
+  REPLACE  ...ortasında john brady ve
+      metin  : georges bossis süspansiyondaki parçacıkların hareketini bilgisayarda
+      duyulan: george bosis suspansionda ki parchajikleran haraketinibil gisaar da
+  REPLACE  ...parçacıkların hareketini bilgisayarda bu
+      metin  : kuvvetleri
+      duyulan: kuvetleri
+  REPLACE  ...bilgisayarda bu kuvvetleri hesaba
+      metin  : katarak taklit ettiler gördükleri şey şuydu akış hızlandıkça parçacıklar yağlama kuvvetleri yüzünden birbirinden kolayca ayrılamıyor geçici kümeler
+      duyulan: kataraktaklitetilar gurdukleri shei shrudu akushuslanakcha parchajiklar yalama kuvetlir yuzundan birbirindan kolayja airelamyor keciju kumelar
+  REPLACE  ...ayrılamıyor geçici kümeler halinde
+      metin  : birlikte sürükleniyordu
+      duyulan: bilikte surupleniordu
+  REPLACE  ...halinde birlikte sürükleniyordu bu
+      metin  : kümeleer hidrokümeler adı verildi hidroküme aralarındaki ince su tabakalarıyla birbirine yapışmış
+      duyulan: kumelar haidro kumelar adavirilde haidro kumai aralarandaki injesutabakalari la birbirne yapushmuski biduram parchajiktoplulodur bu ilai kumelar akushan unu nechikan engyalar
+  REPLACE  ...tabakalarıyla birbirine yapışmış gibi
+      metin  : duran parçacık topluluğudur böyle kümeler akışın önüne çıkan engeller gibi davranır
+      duyulan: davranir
+  REPLACE  ...engeller gibi davranır ve
+      metin  : viskoziteyi yükseltir sonraki yıllarda
+      duyulan: viskozite yuksaltir sanraki yilarda
+  REPLACE  ...yıllarda norman wagner ve
+      metin  : başka araştırmacılar ışık ve nötron saçılması gibi yöntemlerle
+      duyulan: bashka arashtirmajilar ushikve nutron sachilmasagibiyon tamnar le
+  REPLACE  ...saçılması gibi yöntemlerle bu
+      metin  : kümelerin gerçekten oluştuğunu gösterdiler hidroküme
+      duyulan: kumelar engyarchekten olu shtunu gyostar dilar haidro kumai
+  REPLACE  ...hidroküme fikri zarifti ama
+      metin  : yerde yetersiz kalıyordu yağlama kuvvetleri viskoziteyi ancak ılımlı ve kademeli biçimde artırabiliyordu oysa yoğun nişasta bulamacında
+      duyulan: biriarda yatarsis kaliordu yalama kuvetleri viskozite yanjak ullumluve kademili bichimde artrabiliordu oysayon nishastabulamajundu
+  REPLACE  ...yoğun nişasta bulamacında olan
+      metin  : şey kademeli değildi belli zorlamanın üstünde
+      duyulan: sheikademili dilde beli zorlamanunustun de
+  ... ve 82 fark daha
+
+metinde olup DUYULMAYAN: 1770 kelime | duyulup metinde OLMAYAN: 1650
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-06.duyulan.txt

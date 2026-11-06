@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-06.mp3
+
+beklenen 1918 kelime | duyulan 1906 kelime | eşleşme %96.5
+sayı ifadesi: metinde 170, duyulanda 156  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...havuzu mısır nişastası ile
+      metin  : suyla
+      duyulan: su ile
+  REPLACE  ...beyaz ağır ve parlak
+      metin  : bulamaca
+      duyulan: bulamaça
+  REPLACE  ...bulamaca döner kaseyi yavaşça
+      metin  : eğerseniz
+      duyulan: erseniz
+  REPLACE  ...karıştırdığınıza bağlı değildir balı
+      metin  : yavaş da
+      duyulan: yavaşta
+  REPLACE  ...telinin kalınlığının kat tam
+      metin  : küer de
+      duyulan: kürede
+  REPLACE  ...de değillerdir köşeli hafif
+      metin  : çokyüzlü
+      duyulan: çok
+  DELETE   ...bunu bilir levhalar yaklaştıkça
+      metin  : aradaki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...der aralık yaklaştıkça bu
+      metin  : kuvvet de
+      duyulan: kuvvette
+  REPLACE  ...kuvvet de hızla büyür
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...ortasında john brady ve
+      metin  : jorj bosis süspansiyondaki
+      duyulan: george bosses süspansyondaki
+  DELETE   ...hızlandıkça parçacıklar yağlama kuvvetleri
+      metin  : yüzünden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu ani sıçramaya süreksiz
+      metin  : kaymayla
+      duyulan: kulağıyla
+  REPLACE  ...basit gelen kavramdı sürtünme
+      metin  : ryohei
+      duyulan: ki ki te rio hey
+  REPLACE  ...kavramdı sürtünme ryohei seto
+      metin  : romen
+      duyulan: roman
+  REPLACE  ...jeffrey morris ve morton
+      metin  : denn den
+      duyulan: danden
+  DELETE   ...de temas edebildiği simülasyonlar
+      metin  : yaptı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...simülasyonlar yaptı yıl sonra
+      metin  : matyö
+      duyulan: mattheo
+  REPLACE  ...uygulanan zorlama belli eşiği
+      metin  : aştığında
+      duyulan: açtığında
+  REPLACE  ...çok daha erken daha
+      metin  : seyrek
+      duyulan: kalabalık
+  REPLACE  ...daha seyrek dizilişte kilitlenir
+      metin  : viyar
+      duyulan: vr
+  REPLACE  ...dizilişte kilitlenir viyar ve
+      metin  : cates in
+      duyulan: katesin
+  REPLACE  ...anda kilitlenir bu fikir
+      metin  : itai
+      duyulan: te itay
+  DELETE   ...sıkışmış dizilişe bağlıdır ve
+      metin  : yön
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yani akışkanların akışa direncini
+      metin  : ölçen
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ayağının başka şey olmalıydı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...chicago üniversitesi nden scott
+      metin  : waitukaitis
+      duyulan: y tukaitis
+  REPLACE  ...ve direnç yükseliyordu ekip
+      metin  : bulamacın
+      duyulan: aracın
+  DELETE   ...sürtünmeli temasları tetikliyordu araştırmacılar
+      metin  : buna dinamik kayma
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ötesinde darbeyle doğan geçici
+      metin  : katılaşmaydı
+      duyulan: katılaşma idi
+  DELETE   ...kaybolur temaslar çözülür ve
+      metin  : katı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...çalışır ve bulamaç bacağı
+      metin  : sıkıca
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...laboratuvarda mühendislik fikrine dönüştü
+      metin  : binlerin
+      duyulan: t
+  REPLACE  ...üniversitesi nde norman wagner
+      metin  : in grubu ile
+      duyulan: ın grubuyla
+  REPLACE  ...kullandıkları sıvı nişasta değildi
+      metin  : polietilen
+      duyulan: polyethylene
+  DELETE   ...yayıyordu deneylerde sıvı emdirilmiş
+      metin  : daha
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gibi pratik sorunlar fikri
+      metin  : laboratuvardan
+      duyulan: bu tuvardan
+  DELETE   ...istendiğinde aynı kilitlenme ortaya
+      metin  : çıkabilir
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...artırmak ya da bastırmak
+      metin  : mümkündür
+      duyulan: budur
+  DELETE   ...i ki nişasta tanesinin
+      metin  : temas
+      duyulan: (YOK — atlanmış)
+  INSERT   ...da işin içinde mi
+      metin  : (yok)
+      duyulan: de
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-11-06.duyulan.txt

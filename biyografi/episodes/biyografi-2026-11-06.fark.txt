@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-06.mp3
+
+beklenen 2421 kelime | duyulan 2449 kelime | eşleşme %92.4
+sayı ifadesi: metinde 423, duyulanda 242  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çizdirmeye harcayacaktı konser salonundan
+      metin  : versay daki
+      duyulan: versailles deki
+  REPLACE  ...güneybatı ucundaki podolya da
+      metin  : kurıvufka
+      duyulan: kuruvufka
+  REPLACE  ...yan koydular soyadı paderevski
+      metin  : ydi
+      duyulan: idi
+  INSERT   ...evin huzuru kez dağıldı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yalnızca fikirdi toprakları rusya
+      metin  : prusya
+      duyulan: rusya
+  REPLACE  ...hapisten döndükten sonra aile
+      metin  : sudıvkuf a
+      duyulan: sudufkufa
+  REPLACE  ...fark edilince babası yaşında
+      metin  : varşova
+      duyulan: varshova
+  REPLACE  ...burada büyük hayal kırıklığı
+      metin  : bekliyordu
+      duyulan: gördü
+  REPLACE  ...kendine yetişmiş bu taşralı
+      metin  : çocukta
+      duyulan: çocuk da
+  REPLACE  ...başka çalgıya yönelmesini önerdi
+      metin  : enstitünün
+      duyulan: enstitüsünün
+  DELETE   ...kaldı geri dönmek zorunda
+      metin  : kaldı
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kaldı ama pes etmedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...uzun ve kederli olacaktı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...olacaktı başında henüz yaşındayken
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...sonra antonina hayatını kaybetti
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...da tekerlekli sandalyede geçirecekti
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...bölümünü doktorlara bakıcılara ve
+      metin  : tedavileer
+      duyulan: tedabileer
+  REPLACE  ...dünyanın en kalabalık salonlarında
+      metin  : alkışlanan
+      duyulan: başlanan
+  REPLACE  ...annesinin ailesine emanet eden
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...hayatını değiştiren kişiyle tatra
+      metin  : dağları ndaki
+      duyulan: karakola nın arındaki
+  REPLACE  ...ünlü polonyalı oyuncusu helena
+      metin  : modjeyefska modjeyefska
+      duyulan: moczajewska moczajewska
+  REPLACE  ...amerika sahnelerinde yıldız olmuş
+      metin  : trajedyendi
+      duyulan: trajedi yendi
+  REPLACE  ...söyledi sözle de kalmadı
+      metin  : krakuf da
+      duyulan: krakufta
+  REPLACE  ...çıkıp şiir okudu ve
+      metin  : gelirini paderevski
+      duyulan: paderewski
+  REPLACE  ...iyi hoca viyana daki
+      metin  : teodor leşetitski ydi
+      duyulan: theodor leschetitsky idi
+  REPLACE  ...genç piyanistler stüdyosunda yetişiyordu
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...çaldığında yaşındaydı anlatılana göer
+      metin  : leşetitski
+      duyulan: leschetitsky
+  REPLACE  ...öğrenci olarak kabul etti
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...süer geçimini sağlamak için
+      metin  : strazburg
+      duyulan: strasburg
+  REPLACE  ...ya döndü bu yılların
+      metin  : bedeli
+      duyulan: hali
+  INSERT   ...dönecek yer olmadığını biliyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...salona yayılan sıcak şarkı
+      metin  : söyler
+      duyulan: şeyler
+  REPLACE  ...söyler gibi tona ve
+      metin  : piyanistten
+      duyulan: piyanisten
+  REPLACE  ...tona ve piyanistten çok
+      metin  : şaier
+      duyulan: şayeer
+  INSERT   ...başka şehirde gelecekti mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...paris te piyano yapımcısı
+      metin  : erar
+      duyulan: erard
+  REPLACE  ...yapımcısı erar ın salonunda
+      metin  : paderevski
+      duyulan: paderewski
+  REPLACE  ...paris in yeni gözdesi
+      metin  : olmuştu
+      duyulan: vardı
+  REPLACE  ...olmuştu fransız basını yorumunu
+      metin  : şopen
+      duyulan: chopin
+  INSERT   ...çok romantik kahramana benzetiliyordu
+      metin  : (yok)
+      duyulan: da
+  ... ve 112 fark daha
+
+metinde olup DUYULMAYAN: 145 kelime | duyulup metinde OLMAYAN: 177
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: biyografi-2026-11-06.duyulan.txt

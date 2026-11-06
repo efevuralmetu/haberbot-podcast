@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-06.mp3
+
+beklenen 2129 kelime | duyulan 2134 kelime | eşleşme %95.3
+sayı ifadesi: metinde 216, duyulanda 171  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...edenler o yemini bozdu
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...o yemini bozdu kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kralı vladislav ile erdel
+      metin  : voyvodası
+      duyulan: voivodası
+  REPLACE  ...seferiyle tuna yı geçip
+      metin  : sofya
+      duyulan: sofia
+  INSERT   ...ya kadar ilerlemişti aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...başarmış ama ertesi ay
+      metin  : kunoviça
+      duyulan: kunoviçya
+  REPLACE  ...halil paşa nın kardeşi
+      metin  : mahmud
+      duyulan: mahmut
+  DELETE   ...zafer gibi karşılandı sultan
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yetiştirdiği oğlu alaeddin ali
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...belirgin biçimde soğuduğunu anlatır
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...ardından batıya dönüldü haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da vardı sırp despotu
+      metin  : curac brankoviç
+      duyulan: kurak brankovic
+  REPLACE  ...da kör ettirip hapsetmişti
+      metin  : brankoviç
+      duyulan: brankovic
+  REPLACE  ...bu barıştan karlı çıktı
+      metin  : brankoviç
+      duyulan: brankovic
+  REPLACE  ...hiç sınanmamıştı segedin de
+      metin  : yeminin
+      duyulan: yemin
+  INSERT   ...günlerde kralın yanında papa
+      metin  : (yok)
+      duyulan: iv
+  REPLACE  ...eugenius un elçisi kardinal
+      metin  : culyano çezarini
+      duyulan: giuliano cezarini
+  REPLACE  ...culyano çezarini de bulunuyordu
+      metin  : çezarini
+      duyulan: cezarini
+  DELETE   ...birleşmesi ilan edilmişti bizans
+      metin  : imparatoru
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...edilmişti bizans imparatoru i
+      metin  : oannis batı dan
+      duyulan: mparatoru ioannis batıdan
+  REPLACE  ...kardinal için kabul edilemezdi
+      metin  : çezarini
+      duyulan: cezarini
+  REPLACE  ...barış daha uygulamaya geçmeden
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...kralı yapılması vaat edilmişti
+      metin  : brankoviç
+      duyulan: brankovic
+  REPLACE  ...araba vardı yolda eflak
+      metin  : voyvodası i kinci
+      duyulan: voivodası
+  REPLACE  ...ava bile bundan kalabalık
+      metin  : maiyetle
+      duyulan: mahiyetle
+  REPLACE  ...vidin in çevresi yağmalandı
+      metin  : niğbolu
+      duyulan: nibolu
+  REPLACE  ...yağmalandı niğbolu önünden geçildi
+      metin  : şumnu
+      duyulan: şumlu
+  REPLACE  ...az katı olduğunda birleşir
+      metin  : coğrafya da
+      duyulan: koğrafyada
+  INSERT   ...sabah varna ovasında ödenecekti
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...kazıkların arkasında yeniçeriler duruyordu
+      metin  : murad
+      duyulan: murat
+  REPLACE  ...tekrar manisa ya çekildi
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...çekildi tahtta yine genç
+      metin  : mehmed
+      duyulan: mehmet
+  INSERT   ...düzen fazla uzun sürmedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ölümüne kadar orada kaldı
+      metin  : mehmed
+      duyulan: mehmet
+  INSERT   ...ın naibi oldu ve
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...yeniden güneye yürüdü ama
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gelen sultan varna da
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...ama batı da da
+      metin  : yeminin
+      duyulan: yemin
+  REPLACE  ...hatta portekiz e bağlı
+      metin  : madeyra
+      duyulan: madeira
+  REPLACE  ...bu hikayelerin hiçbiri kanıtlanmadı
+      metin  : krakov
+      duyulan: krakow
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: tarih-2026-11-06.duyulan.txt

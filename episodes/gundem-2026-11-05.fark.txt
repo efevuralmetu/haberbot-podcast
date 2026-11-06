@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-05.mp3
+
+beklenen 1316 kelime | duyulan 1310 kelime | eşleşme %94.1
+sayı ifadesi: metinde 225, duyulanda 123  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...öne çıkan gelişmelerini sizin
+      metin  : için derledim
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sonuçları kabul ettiğini söyledi
+      metin  : kayıpta
+      duyulan: trump ta
+  REPLACE  ...atacağını söyledi başkan yardımcısı
+      metin  : jd vance
+      duyulan: j d wenz
+  REPLACE  ...trump ize önümüzdeki dönemde
+      metin  : konger de
+      duyulan: kongrede
+  REPLACE  ...de söyledi analistler yeni
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...ın dini lideri ali
+      metin  : hamaney
+      duyulan: hamayye
+  REPLACE  ...karşı yanıt olarak nitelendirdi
+      metin  : hamaney
+      duyulan: hamane
+  REPLACE  ...ulusal güvenlik komisyonu yetkilisi
+      metin  : ahmad
+      duyulan: ahmet
+  REPLACE  ...federal yarışların yanında yerel
+      metin  : oylamalar da
+      duyulan: oynamalarda
+  INSERT   ...dikkat çekti abd genelinde
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...anketlerine göer seçmenlerin yaklaşık
+      metin  : (yok)
+      duyulan: sı
+  DELETE   ...modelinin yeni sürümü images
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...hızlı ve maliyeti olan
+      metin  : swe
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ı piyasaya sürdü anthropic
+      metin  : de
+      duyulan: the
+  REPLACE  ...anlaşmayla canlı seçim verileri
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...de sürüyor anthropic in
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...in claude code ekibinden
+      metin  : cat wu
+      duyulan: catwoo
+  REPLACE  ...cat wu nun openai
+      metin  : a
+      duyulan: ya
+  REPLACE  ...güney koer nin kospi
+      metin  : endeksi
+      duyulan: endex i
+  DELETE   ...kospi endeksi bugün açılışta
+      metin  : dördü
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...etti yatırımcılar demokrat çoğunluklu
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...günüdür satış yapıyor ve
+      metin  : endeks
+      duyulan: endex
+  REPLACE  ...yükselişle kapattı dow jones
+      metin  : endeksi
+      duyulan: endex i
+  REPLACE  ...endeksi artışla puana çıktı
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...petrolün varil fiyatı günde
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yıllık tahvil faizi de
+      metin  : (yok)
+      duyulan: den a
+  INSERT   ...tahvil faizi de indi
+      metin  : (yok)
+      duyulan: onsalton
+  INSERT   ...indi ize belirsizlik ortamında
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...faiz politikasına dair yeni
+      metin  : sinyalleer
+      duyulan: dünyalleer
+  REPLACE  ...da bist endeksi dün
+      metin  : dördü
+      duyulan: u
+  REPLACE  ...endeksi dün dördü aşan
+      metin  : yükselişle
+      duyulan: yükselişte
+  INSERT   ...yaklaşık bankacılık hisseleri ize
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...uzmanlar yükselişte tasfiye sürecindeki
+      metin  : yatırım
+      duyulan: karım
+  INSERT   ...fiyatlarındaki küresel yükselişle gram
+      metin  : (yok)
+      duyulan: son
+  REPLACE  ...yürütülüyor soruşturma kapsamında eski
+      metin  : spk
+      duyulan: eseph ı
+  REPLACE  ...spk kurul başkanvekili enver
+      metin  : usca nın
+      duyulan: uskan ın
+  REPLACE  ...verildi tutuklu sayısının ize
+      metin  : aştığı
+      duyulan: açtığı
+  DELETE   ...görüşecek teklif yılı için
+      metin  : trilyon
+      duyulan: (YOK — atlanmış)
+  DELETE   ...trilyon lira gider ve
+      metin  : trilyon
+      duyulan: (YOK — atlanmış)
+  INSERT   ...cumhuriyet halk partisi nin
+      metin  : (yok)
+      duyulan: teki
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: gundem-2026-11-05.duyulan.txt
