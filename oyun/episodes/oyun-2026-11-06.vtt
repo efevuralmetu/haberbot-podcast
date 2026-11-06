@@ -1,0 +1,633 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.210
+Borç içindeki küçük bir stüdyonun genç programcısına bir gün şirketin bütün borcu teslim edildi.
+
+2
+00:00:06.210 --> 00:00:12.740
+Yıllar sonra aynı adam Nintendo'nun başkanı oldu ve bir oyun kolunu büyükannelerin eline verdi.
+
+3
+00:00:12.740 --> 00:00:19.910
+Ama kartvizitinde ne yazarsa yazsın, kendini hep tek bir kelimeyle tanımladı: oyun geliştiricisi.
+
+4
+00:00:28.110 --> 00:00:35.600
+1992 yılında Tokyo'da küçük bir oyun şirketinin muhasebe defterleri kötü bir tablo gösteriyordu.
+
+5
+00:00:35.600 --> 00:00:41.970
+HAL Laboratuvarı adlı bu şirket on yılı aşkın süredir Nintendo makineleri için oyun yapıyordu.
+
+6
+00:00:41.970 --> 00:00:50.260
+Yetenekli programcıları vardı ama yaptığı yatırımlar karşılığını vermemiş, borç büyümüş, şirket iflasın eşiğine gelmişti.
+
+7
+00:00:50.260 --> 00:00:53.430
+O yıl HAL mahkeme korumasına başvurdu.
+
+8
+00:00:53.430 --> 00:00:58.040
+Ofisteki herkes aynı şeyi soruyordu: Bu şirket yaşayacak mı?
+
+9
+00:00:58.040 --> 00:01:05.210
+Bu sorunun cevabı, şirketin en eski çalışanlarından biri olan 32 yaşındaki bir mühendise bağlandı.
+
+10
+00:01:05.210 --> 00:01:07.420
+Adı Satoru Iwata'ydı.
+
+11
+00:01:07.420 --> 00:01:14.430
+Gözlüklü, yumuşak sesli, yüzünden gülümseme eksik olmayan bu adam yöneticilikten önce programcıydı.
+
+12
+00:01:14.430 --> 00:01:17.760
+Kariyeri boyunca kendini hep öyle tanımladı.
+
+13
+00:01:17.760 --> 00:01:22.050
+Iwata 1959'da Sapporo'da doğdu.
+
+14
+00:01:22.050 --> 00:01:26.180
+Babası Hokkaido'daki Muroran kentinin belediye başkanıydı.
+
+15
+00:01:26.180 --> 00:01:33.030
+Ailenin oğlundan beklediği şey belliydi: saygın bir okul, büyük bir şirket, güvenli bir hayat.
+
+16
+00:01:33.030 --> 00:01:37.000
+Ama lise yıllarında oğlanın aklını başka bir şey çeldi.
+
+17
+00:01:37.000 --> 00:01:41.450
+Eline programlanabilir bir Hewlett-Packard hesap makinesi geçti.
+
+18
+00:01:41.450 --> 00:01:46.540
+Ekranı yalnızca rakam gösteren bu küçük cihazda kendi oyunlarını yazdı.
+
+19
+00:01:46.540 --> 00:01:50.990
+Sonra bu oyunları cihazın Japonya'daki dağıtıcısına gönderdi.
+
+20
+00:01:50.990 --> 00:01:58.800
+Şirket, bir lise öğrencisinin hesap makinesinden oyun çıkarmasına öylesine şaşırdı ki onunla yazışmaya başladı.
+
+21
+00:01:58.800 --> 00:02:03.410
+Iwata ilk kez yazdığı kodun bir başkasını etkileyebildiğini görmüştü.
+
+22
+00:02:03.410 --> 00:02:11.380
+Tokyo Teknoloji Enstitüsü'nde bilgisayar bilimi okurken boş zamanını Akihabara'daki bilgisayar dükkânlarında geçirdi.
+
+23
+00:02:11.380 --> 00:02:18.870
+Benzer meraktaki birkaç gençle tanıştı ve 1980'de kurulan HAL'da yarı zamanlı çalışmaya başladı.
+
+24
+00:02:18.870 --> 00:02:26.040
+1982'de mezun olunca büyük bir şirkete gitmek yerine bu küçük ekipte tam zamanlı işe girdi.
+
+25
+00:02:26.040 --> 00:02:33.530
+Yıllar sonra anlattığına göre babası bu karara o kadar kırıldı ki oğluyla yaklaşık altı ay konuşmadı.
+
+26
+00:02:33.530 --> 00:02:41.500
+1983'te Nintendo'nun ev konsolu Famicom piyasaya çıktığında Iwata ve arkadaşları ondan uzak duramadı.
+
+27
+00:02:41.500 --> 00:02:47.070
+Makinenin içini didik didik ettiler, sonra Kyoto'ya gidip Nintendo'ya iş istediler.
+
+28
+00:02:47.070 --> 00:02:52.800
+Böylece HAL'ın programcıları Nintendo'nun ilk dönem oyunlarında çalışmaya başladı.
+
+29
+00:02:52.800 --> 00:03:02.210
+Iwata'nın adı golf, langırt gibi sade ama son derece pürüzsüz oyunların yanı sıra Balloon Fight, yani Balon Savaşı adlı oyunun kodunda da geçiyordu.
+
+30
+00:03:02.210 --> 00:03:07.940
+Famicom'un sınırlı belleğinde fazlası çalışmazdı, bu yüzden her bayt hesaplanıyordu.
+
+31
+00:03:07.940 --> 00:03:15.590
+Iwata o yıllarda kodu sıkıştırmayı, gereksizi atmayı ve bir makineden beklenenden fazlasını çıkarmayı öğrendi.
+
+32
+00:03:15.590 --> 00:03:19.720
+Ne var ki iyi kod tek başına bir şirketi ayakta tutamıyordu.
+
+33
+00:03:19.720 --> 00:03:26.410
+HAL'ı batağa sürükleyen kararları teknik ekip vermemişti ama sonuçlarına herkes katlanacaktı.
+
+34
+00:03:26.410 --> 00:03:29.420
+Kurtarıcı beklenmedik bir yerden çıktı.
+
+35
+00:03:29.420 --> 00:03:38.190
+Şirketin genç tasarımcılarından Masahiro Sakurai, pembe, yuvarlak, düşmanlarını içine çekip yutan küçük bir kahraman tasarlamıştı.
+
+36
+00:03:38.190 --> 00:03:48.240
+Kirby's Dream Land, yani Kirby'nin Rüya Ülkesi adıyla 1992'de Game Boy için çıkan oyun, yeni başlayanların bile bitirebileceği kadar kolaydı.
+
+37
+00:03:48.240 --> 00:03:54.610
+Bu bilinçli bir tercihti: Oyun, ilk kez eline oyun konsolu alan çocuk için yapılmıştı.
+
+38
+00:03:54.610 --> 00:04:01.300
+Kirby'nin Rüya Ülkesi 5 milyonu aşkın sattı ve HAL'ın elinde yeniden gelir getiren bir şey oldu.
+
+39
+00:04:01.300 --> 00:04:05.110
+Ama tek bir başarılı oyun borcu kapatmaya yetmezdi.
+
+40
+00:04:05.110 --> 00:04:09.080
+HAL'ı kurtarmak için Nintendo'nun desteği gerekiyordu.
+
+41
+00:04:09.080 --> 00:04:17.370
+Nintendo'nun sert mizaçlı başkanı Hiroshi Yamauchi bu desteği bir şarta bağladı: Şirketin başına Iwata geçecekti.
+
+42
+00:04:17.370 --> 00:04:21.660
+1993'te Iwata HAL'ın başkanı oldu.
+
+43
+00:04:21.660 --> 00:04:26.430
+Kendi anlatımına göre borcun ödenmesi yaklaşık 6 yıl sürdü.
+
+44
+00:04:26.430 --> 00:04:32.160
+Iwata başkanlığa geçtikten sonra şirketteki herkesle tek tek, yüz yüze görüştü.
+
+45
+00:04:32.160 --> 00:04:34.690
+Bu bir protokol ziyareti değildi.
+
+46
+00:04:34.690 --> 00:04:41.380
+Her çalışana neyden mutlu olduğunu, neden rahatsız olduğunu, şirketten ne beklediğini sordu.
+
+47
+00:04:41.380 --> 00:04:49.830
+Bir programcı hatayı nasıl ararsa o da sorunun kaynağını öyle arıyordu: varsayımlardan değil, verilerden yola çıkarak.
+
+48
+00:04:49.830 --> 00:05:01.000
+Sonradan şunu söyleyecekti: İnsanlar çoğu zaman kendilerini anlayan biriyle konuşma fırsatı bulamıyorlardı, oysa bu görüşmeler ona ekibin gerçek durumunu gösteren tek kaynaktı.
+
+49
+00:05:01.000 --> 00:05:07.530
+Batmak üzere olan şirket iyileşmeye başladığında Iwata'nın ününün bir kısmı da buradan geliyordu.
+
+50
+00:05:07.530 --> 00:05:13.900
+Ama asıl ünü başka bir yerden, başkalarının oyunlarındaki düğümleri çözmesinden gelecekti.
+
+51
+00:05:13.900 --> 00:05:22.350
+1990'ların ortasında Nintendo dünyasında bir söz dolaşmaya başlamıştı: Bir proje çıkmaza girerse Iwata'yı çağırın.
+
+52
+00:05:22.350 --> 00:05:28.720
+Bu ününü kazandığı ilk büyük olay, yazar ve metin yazarı Shigesato Itoi'nin oyunuydu.
+
+53
+00:05:28.720 --> 00:05:34.450
+Itoi, Japonya'da Mother adlı tuhaf ve sıcak bir rol yapma oyunuyla tanınıyordu.
+
+54
+00:05:34.450 --> 00:05:40.340
+Devamı olan Mother 2 ise yıllardır yapım aşamasındaydı ve bir türlü bitmiyordu.
+
+55
+00:05:40.340 --> 00:05:44.630
+Oyun, Batı'da daha sonra EarthBound adıyla çıkacaktı.
+
+56
+00:05:44.630 --> 00:05:50.200
+Kod karmaşıklaşmış, ekip yorulmuş, proje iptal edilmenin eşiğine gelmişti.
+
+57
+00:05:50.200 --> 00:05:57.530
+Iwata devreye girdiğinde mevcut durumu inceledi ve Itoi'nin yıllar sonra da unutmadığı bir değerlendirme yaptı.
+
+58
+00:05:57.530 --> 00:06:07.100
+Eldekiyle devam ederlerse işin aşağı yukarı 2 yıl daha süreceğini, sıfırdan başlarlarsa ise yaklaşık yarım yılda bitirebileceklerini söyledi.
+
+59
+00:06:07.100 --> 00:06:09.950
+Bu ilk bakışta çılgınca geliyordu.
+
+60
+00:06:09.950 --> 00:06:12.640
+Yazılmış onca kodu çöpe atmak mı?
+
+61
+00:06:12.640 --> 00:06:16.290
+Ama Iwata yalnızca kodu silmeyi önermiyordu.
+
+62
+00:06:16.290 --> 00:06:24.900
+Ekibin yıllar içinde biriktirdiği fikirleri, haritaları, karakterleri koruyup bunları taşıyacak iskeleti baştan kurmayı öneriyordu.
+
+63
+00:06:24.900 --> 00:06:29.670
+Mother 2 1994'te Japonya'da raflara çıktı.
+
+64
+00:06:29.670 --> 00:06:34.600
+Bu süreçte Itoi ile Iwata arasında ömür boyu sürecek bir dostluk başladı.
+
+65
+00:06:34.600 --> 00:06:41.130
+Itoi'ye göre Iwata, başkalarının yaptığı işi küçümsemeden düzelten nadir insanlardandı.
+
+66
+00:06:41.130 --> 00:06:43.340
+Ardından Pokémon geldi.
+
+67
+00:06:43.340 --> 00:06:51.630
+1996'da Game Boy'da başlayan Pokémon çılgınlığı, Nintendo'nun yeni ev konsolu Nintendo 64'e de taşınmak isteniyordu.
+
+68
+00:06:51.630 --> 00:06:59.440
+Japonya'da hazırlanan Pokémon Stadyumu adlı oyun, el konsolundaki savaş sistemini büyük ekrana aktarmak zorundaydı.
+
+69
+00:06:59.440 --> 00:07:10.770
+Sorun şuydu: Game Boy oyunlarının dövüş kuralları, saldırıların hasar hesapları ve yüzlerce özel durum ayrıntılı bir belgede değil, doğrudan kodun içinde gömülüydü.
+
+70
+00:07:10.770 --> 00:07:16.820
+Iwata bu kodu satır satır okudu ve savaş sistemini yeni makineye kendisi aktardı.
+
+71
+00:07:16.820 --> 00:07:20.950
+Bu işin yalnızca yaklaşık bir haftada tamamlandığı anlatılır.
+
+72
+00:07:20.950 --> 00:07:28.760
+Bunu yaparken başka birinin yazdığı karmaşık bir programı, yazarına danışmadan çözebilecek kadar iyi anlaması gerekiyordu.
+
+73
+00:07:28.760 --> 00:07:33.050
+Daha da çarpıcı katkısı Pokémon'un ikinci kuşağında oldu.
+
+74
+00:07:33.050 --> 00:07:41.500
+Game Freak'in geliştirdiği Altın ve Gümüş sürümleri yeni bir bölge, yeni yaratıklar ve gece gündüz döngüsü gibi yenilikler getiriyordu.
+
+75
+00:07:41.500 --> 00:07:45.470
+Ama hepsi küçük bir Game Boy kartuşuna sığmak zorundaydı.
+
+76
+00:07:45.470 --> 00:07:49.600
+Iwata grafik verileri sıkıştırmak için araçlar geliştirdi.
+
+77
+00:07:49.600 --> 00:07:58.530
+Sağlanan tasarruf o kadar büyüktü ki oyuncular yeni bölgeyi bitirdikten sonra ilk oyunun geçtiği eski bölgeye de dönüp orayı gezebildi.
+
+78
+00:07:58.530 --> 00:08:04.100
+1999'da çıkan oyunun en çok hatırlanan sürprizlerinden biri buydu.
+
+79
+00:08:04.100 --> 00:08:10.310
+Oyuncuların çoğu bunun bir programcının sıkıştırma tekniği sayesinde mümkün olduğunu bilmiyordu.
+
+80
+00:08:10.310 --> 00:08:17.480
+Aynı yıllarda HAL'da, Kirby'nin yaratıcısı Sakurai yeni bir dövüş oyunu fikri üzerinde çalışıyordu.
+
+81
+00:08:17.480 --> 00:08:22.410
+Iwata hafta sonlarında onunla birlikte ilk prototipin kodunu yazdı.
+
+82
+00:08:22.410 --> 00:08:31.340
+Bu deneme, Nintendo karakterlerini aynı arenada buluşturan Super Smash Bros., yani Süper Dövüş Kardeşler serisine dönüştü.
+
+83
+00:08:31.340 --> 00:08:39.790
+Bir şirketin başkanının hafta sonu oturup bir çalışanının fikrini programlaması, Iwata'nın kendini nasıl gördüğünü gösteriyordu.
+
+84
+00:08:39.790 --> 00:08:43.280
+Bütün bu işler Kyoto'da dikkat çekti.
+
+85
+00:08:43.280 --> 00:08:49.010
+2000'de Iwata Nintendo'ya geçti ve kurumsal planlama biriminin başına getirildi.
+
+86
+00:08:49.010 --> 00:08:58.100
+İki yıl sonra, 31 Mayıs 2002'de, Yamauchi yarım asrı aşan başkanlığını bırakırken koltuğunu 42 yaşındaki bu adama verdi.
+
+87
+00:08:58.100 --> 00:09:03.990
+Iwata, Nintendo'yu yöneten ve Yamauchi ailesinden gelmeyen ilk başkandı.
+
+88
+00:09:03.990 --> 00:09:06.680
+Devraldığı tablo parlak değildi.
+
+89
+00:09:06.680 --> 00:09:11.450
+Nintendo'nun ev konsolu GameCube, rakiplerinin gerisinde kalıyordu.
+
+90
+00:09:11.450 --> 00:09:18.300
+Sektör daha güçlü işlemcilere, daha gerçekçi grafiklere ve daha karmaşık kumandalara doğru ilerliyordu.
+
+91
+00:09:18.300 --> 00:09:22.270
+Iwata ise bu yarışın yanlış yöne gittiğini düşünüyordu.
+
+92
+00:09:22.270 --> 00:09:27.680
+Oyunlar her yıl biraz daha zorlaşıyor, yeni oyuncular kapıdan içeri giremiyordu.
+
+93
+00:09:27.680 --> 00:09:36.770
+2005'te San Francisco'daki Game Developers Conference'ta, yani Oyun Geliştiricileri Konferansı'nda yaptığı konuşmayı bu düşünceyle açtı.
+
+94
+00:09:36.770 --> 00:09:47.940
+Kendini yıllar boyunca tekrarlanacak bir cümleyle tanıttı: Kartvizitinde bir şirket başkanı olduğunu, aklında bir oyun geliştiricisi olduğunu, kalbinde ise bir oyuncu olduğunu söyledi.
+
+95
+00:09:47.940 --> 00:09:55.270
+Bu felsefenin ilk ürünü 2004'te çıkan çift ekranlı ve dokunmatik el konsolu Nintendo DS oldu.
+
+96
+00:09:55.270 --> 00:10:03.560
+Konsolun en büyük başarılarından biri, bir sinirbilimcinin çalışmalarına dayanan Brain Age, yani Beyin Yaşı adlı oyundu.
+
+97
+00:10:03.560 --> 00:10:09.130
+Beyin Yaşı'nı oynayanların önemli bir kısmı daha önce hiç oyun oynamamış yetişkinlerdi.
+
+98
+00:10:09.130 --> 00:10:13.100
+Bunlar emekliler, iş insanları, ev hanımlarıydı.
+
+99
+00:10:13.100 --> 00:10:16.110
+Iwata'nın istediği de tam olarak buydu.
+
+100
+00:10:16.110 --> 00:10:23.600
+Nintendo DS sonunda 154 milyonu aşkın satarak tarihin en çok satan oyun konsollarından biri oldu.
+
+101
+00:10:23.600 --> 00:10:27.570
+Asıl büyük hamle ise 2006'nın sonunda geldi.
+
+102
+00:10:27.570 --> 00:10:31.540
+Wii, rakiplerinin yanında neredeyse mütevazı görünüyordu.
+
+103
+00:10:31.540 --> 00:10:35.670
+Boyutu üst üste konmuş birkaç DVD kutusu kadardı.
+
+104
+00:10:35.670 --> 00:10:37.720
+Grafik gücü sınırlıydı.
+
+105
+00:10:37.720 --> 00:10:47.450
+Iwata konsolun salonda yer kaplamamasını, sessiz çalışmasını ve evdeki annelerin itiraz etmeyeceği bir cihaz olmasını istediğini açıkça söylemişti.
+
+106
+00:10:47.450 --> 00:10:52.860
+Kumandası bir televizyon kumandasına benziyordu ve elde sallanarak kullanılıyordu.
+
+107
+00:10:52.860 --> 00:11:02.910
+Konsolla birlikte gelen Wii Sports, yani Wii Sporları ile büyükanneler torunlarıyla bowling oynamaya, huzurevlerinde turnuvalar düzenlenmeye başladı.
+
+108
+00:11:02.910 --> 00:11:05.600
+Wii 100 milyonu aşkın sattı.
+
+109
+00:11:05.600 --> 00:11:10.690
+Iwata'nın şirketi, birkaç yıl önce geride kaldığı yarışın lideri olmuştu.
+
+110
+00:11:10.690 --> 00:11:13.540
+Ama her yükselişin bir bedeli vardı.
+
+111
+00:11:13.540 --> 00:11:19.590
+Wii'nin başarısı Nintendo'yu kendi kurduğu yeni oyuncu kitlesine bağımlı hale getirdi.
+
+112
+00:11:19.590 --> 00:11:22.760
+O kitle de zamanla akıllı telefonlara kaydı.
+
+113
+00:11:22.760 --> 00:11:29.450
+2011'de çıkan üç boyutlu el konsolu 3DS ilk aylarında beklenen ilgiyi görmedi.
+
+114
+00:11:29.450 --> 00:11:34.060
+Nintendo birkaç ay içinde fiyatı ciddi biçimde düşürmek zorunda kaldı.
+
+115
+00:11:34.060 --> 00:11:38.990
+Bu kararla birlikte Iwata kendi maaşını yarıya indirdiğini açıkladı.
+
+116
+00:11:38.990 --> 00:11:47.600
+Ertesi yıl Wii'nin halefi olarak çıkan Wii U ise ömrü boyunca yalnızca yaklaşık 13,5 milyon adet satabildi.
+
+117
+00:11:47.600 --> 00:11:53.970
+Nintendo video oyunu şirketi olarak ilk kez yıllık zarar açıkladı ve zararlar birkaç yıl sürdü.
+
+118
+00:11:53.970 --> 00:12:03.380
+Böyle dönemlerde şirket yöneticilerinden beklenen hamle bellidir: maliyet kesintisi, işten çıkarmalar, hissedarı yatıştıracak bir tablo.
+
+119
+00:12:03.380 --> 00:12:11.190
+2014'ün başında Iwata yine maaşını yarıya indirdi ve diğer yöneticiler de daha küçük oranlarda kesintiye gitti.
+
+120
+00:12:11.190 --> 00:12:14.200
+Ancak personel çıkarmayı reddetti.
+
+121
+00:12:14.200 --> 00:12:18.170
+Gerekçesi bir mühendis kadar yalın bir hesaba dayanıyordu.
+
+122
+00:12:18.170 --> 00:12:25.660
+Kısa vadeli rakamları düzeltmek için çalışan sayısını azaltırlarsa geride kalanların moralinin bozulacağını söyledi.
+
+123
+00:12:25.660 --> 00:12:32.190
+İşini kaybetmekten korkan insanların dünyayı etkileyecek oyunlar yapabileceğine inanmadığını da ekledi.
+
+124
+00:12:32.190 --> 00:12:39.200
+Iwata'ya göre bir oyun şirketinin asıl sermayesi, yaratıcı insanların içinde bulunduğu güvenli ortamdı.
+
+125
+00:12:39.200 --> 00:12:44.930
+Kaybettiği yıllarda bile Nintendo'yu dışarıya karşı daha açık hale getiren de Iwata oldu.
+
+126
+00:12:44.930 --> 00:12:51.620
+2006'dan itibaren Iwata Asks, yani Iwata Soruyor adlı uzun söyleşiler yayımladı.
+
+127
+00:12:51.620 --> 00:12:59.430
+Bu söyleşilerde kendi şirketinin geliştiricilerine birer meslektaş gibi sorular soruyor, bir oyunun nasıl doğduğunu dinliyordu.
+
+128
+00:12:59.430 --> 00:13:08.520
+2011'de başlattığı Nintendo Direct adlı internet yayınlarıyla da şirket haberlerini aracı olmadan doğrudan oyunculara anlatıyordu.
+
+129
+00:13:08.520 --> 00:13:19.530
+Bu yayınlardan birinde oyuncuların söylediklerini dinlediklerini anlatırken elindeki bir salkım muzu kameraya uzattığı an, internet kültürünün sevilen anlarından biri oldu.
+
+130
+00:13:19.530 --> 00:13:24.140
+Oyuncular onu bir CEO'dan çok yakından tanıdıkları biri gibi görüyordu.
+
+131
+00:13:24.140 --> 00:13:30.030
+2014'ün ortasında Iwata'ya safra yolunda tümör teşhisi kondu.
+
+132
+00:13:30.030 --> 00:13:35.440
+Ameliyat oldu ve o yaz Los Angeles'taki büyük oyun fuarına katılamadı.
+
+133
+00:13:35.440 --> 00:13:40.850
+Bir süre sonra zayıflamış ama gülümseyen yüzüyle yeniden kameraların karşısına çıktı.
+
+134
+00:13:40.850 --> 00:13:44.340
+İzleyenlerin çoğu tehlikenin geçtiğini düşündü.
+
+135
+00:13:44.340 --> 00:13:54.870
+2015'in Haziran ayında, aynı fuar için hazırlanan Nintendo tanıtımında Iwata kendisi gibi değil, kendi suretinde yapılmış bir kukla olarak göründü.
+
+136
+00:13:54.870 --> 00:13:59.160
+Bu esprili tercih o gün yalnızca bir eğlence gibi görünüyordu.
+
+137
+00:13:59.160 --> 00:14:04.570
+Geriye dönüp bakıldığında bu, oyuncuların onu yeni bir tanıtımda son görüşüydü.
+
+138
+00:14:04.570 --> 00:14:10.300
+Satoru Iwata 11 Temmuz 2015'te, 55 yaşında hayatını kaybetti.
+
+139
+00:14:10.300 --> 00:14:21.150
+Ölüm haberi Kyoto'dan duyurulduğunda dünyanın dört bir yanında oyuncular sosyal medyaya sarı-yeşil Wii simgeleri, Kirby çizimleri ve Pokémon görselleri bıraktı.
+
+140
+00:14:21.150 --> 00:14:24.640
+Kyoto'daki merkezde bayraklar yarıya indirildi.
+
+141
+00:14:24.640 --> 00:14:29.250
+Cenaze töreninde yağmur altında binlerce kişi sıraya girdi.
+
+142
+00:14:29.250 --> 00:14:34.500
+Aralarında onu hiç tanımamış ama oyunlarıyla büyümüş insanlar vardı.
+
+143
+00:14:34.500 --> 00:14:38.950
+Ondan geriye kalanlar, yaşarken başlattığı işlerdeydi.
+
+144
+00:14:38.950 --> 00:14:46.440
+Ölümünden birkaç ay önce Nintendo, mobil oyunlar için bir Japon şirketiyle ortaklık kurduğunu açıklamıştı.
+
+145
+00:14:46.440 --> 00:14:51.850
+Aynı toplantıda kod adı NX olan yeni bir konsolun geliştirildiği de duyurulmuştu.
+
+146
+00:14:51.850 --> 00:15:00.940
+Iwata, ev konsolu ile el konsolu arasındaki duvarın kalkması gerektiğini, iki ekibin tek bir aile gibi çalışmasını yıllardır savunuyordu.
+
+147
+00:15:00.940 --> 00:15:07.150
+Bu fikrin ürünü olan Nintendo Switch, 2017'de çıktı ve şirketi yeniden zirveye taşıdı.
+
+148
+00:15:07.150 --> 00:15:12.080
+Iwata o başarıyı göremedi, ama temeli onun döneminde atılmıştı.
+
+149
+00:15:12.080 --> 00:15:17.810
+Ölümünden sonra Itoi, dostunun yıllar boyunca söylediği sözleri bir araya getirdi.
+
+150
+00:15:17.810 --> 00:15:28.500
+Japonya'da yalnızca Iwata-san adıyla yayımlanan kitap, Iwata'nın iş, liderlik ve insanlar hakkındaki düşüncelerini kendi sesine en yakın biçimde aktarıyordu.
+
+151
+00:15:28.500 --> 00:15:37.750
+Kitapta tekrar tekrar karşımıza çıkan düşünce şuydu: Bir insanı mutlu eden şeyi anlarsanız, o insanla birlikte iyi bir iş yapabilirsiniz.
+
+152
+00:15:37.750 --> 00:15:42.840
+Bugün oyun sektörü hâlâ grafik gücü ve bütçe rekorlarıyla ölçülüyor.
+
+153
+00:15:42.840 --> 00:15:54.010
+Ama bir aile oturma odasında birlikte oyun oynadığında, ilk kez oyun oynayan biri bir kumandayı eline aldığında, ya da bir şirket zor bir yılda çalışanlarını korumayı seçtiğinde,
+
+154
+00:15:54.010 --> 00:15:58.140
+bu sahnelerin arkasında Iwata'nın düşünceleri duruyor.
+
+155
+00:15:58.140 --> 00:16:00.830
+Kartvizitinde başkan yazıyordu.
+
+156
+00:16:00.830 --> 00:16:10.880
+Ama o, ömrü boyunca işini bir programcı gibi yaptı: Sorunun kaynağını aradı, gereksizi attı ve sınırlı imkânlarla mümkün olanın fazlasını çıkardı.
+
+157
+00:16:10.880 --> 00:16:14.050
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+158
+00:16:14.050 --> 00:16:17.060
+Yeni bir hikâyede yeniden buluşmak üzere.
