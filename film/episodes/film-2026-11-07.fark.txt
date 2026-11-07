@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-07.mp3
+
+beklenen 1765 kelime | duyulan 1767 kelime | eşleşme %95.0
+sayı ifadesi: metinde 231, duyulanda 193  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ya da felaketi bekler
+      metin  : laslo krasnahorkay nin
+      duyulan: laszlo krasnahorkaj ın
+  INSERT   ...bu bekleyişi anlatır roman
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...okuru nefessiz bırakan cümleler
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...herkesin öldüğünü sandığı i
+      metin  : rimiaş
+      duyulan: rim yaş
+  REPLACE  ...birlikte geri dönmektedir i
+      metin  : rimiaş
+      duyulan: rim yaş
+  REPLACE  ...içilen kadehlerin tavanda ağ
+      metin  : ören
+      duyulan: öğren
+  REPLACE  ...ama her şey çürümektedir
+      metin  : romanı
+      duyulan: romamı
+  REPLACE  ...dı tar o sıralarda
+      metin  : budapeşte
+      duyulan: budapest te
+  REPLACE  ...oyuncularla çektiği sert gerçekçi
+      metin  : filmleriyle
+      duyulan: filmleri ile
+  REPLACE  ...yöne kaymaya başlamıştı krasnahorkay
+      metin  : nin
+      duyulan: ın
+  REPLACE  ...aradığı şeyi buldu zamanın
+      metin  : kendisini
+      duyulan: kendisine
+  INSERT   ...yazdıkları karhozat yani lanet
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sanki hiç dinmeyecekmiş gibi
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...buradadır bu dönemde başka
+      metin  : ortaklık da
+      duyulan: ortaklıkla
+  REPLACE  ...tar ın hayat arkadaşı
+      metin  : agneş hranitski
+      duyulan: agnes heranitsky
+  REPLACE  ...künyesine de yazılacaktı de
+      metin  : mihay vig
+      duyulan: mihai wigg
+  REPLACE  ...yeraltı müzik sahnesinden isim
+      metin  : vig
+      duyulan: wigg
+  REPLACE  ...müziğini yapmakla kalmayacak şeytan
+      metin  : tangosu nda i rimiaş ı da
+      duyulan: tangosunda irim yaşıda
+  INSERT   ...ı da bizzat canlandıracaktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...macaristan da rejim değişti
+      metin  : kolektif
+      duyulan: kollektif
+  REPLACE  ...gerçekten de dağılıyordu artık
+      metin  : romanın
+      duyulan: romamın
+  DELETE   ...dakika sonuçta ortaya yaklaşık
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  DELETE   ...oluşuyordu sıradan sinema filmi
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aşar görüntü yönetmeni gabor
+      metin  : medvic ydi
+      duyulan: medviçiydi
+  REPLACE  ...yorgunluk ve bekleyiş taşıyordu
+      metin  : film
+      duyulan: fil
+  REPLACE  ...akacaktır sabırla bakan görecektir
+      metin  : medvic nin
+      duyulan: medvitchinin
+  REPLACE  ...en unutulmaz sahnelerden i
+      metin  : rimiaş
+      duyulan: rim yaş
+  REPLACE  ...vardır köylüler meyhanede i
+      metin  : rimiaş ı
+      duyulan: rim yaşı
+  REPLACE  ...oldu eştike nin ölümü
+      metin  : i rimiaş ın
+      duyulan: irim yaşın
+  REPLACE  ...köylüler biriktirdikleri parayı verirler
+      metin  : mihay vig
+      duyulan: mihai wigg
+  REPLACE  ...mihay vig in canlandırdığı
+      metin  : i rimiaş
+      duyulan: irim yaş
+  REPLACE  ...şey de gösterir i
+      metin  : rimiaş
+      duyulan: rim yaş
+  REPLACE  ...yola çıkarlar terk edilmiş
+      metin  : malikanede
+      duyulan: malikhanede
+  REPLACE  ...edilmiş malikanede rutubetli odalarda
+      metin  : i rimiaş ın
+      duyulan: irimi yaşın
+  INSERT   ...dans başa dönmüştür şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sembollerinden oldu tar ile
+      metin  : krasnahorkay
+      duyulan: krasnahorkai
+  INSERT   ...birlikte film daha yaptılar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dizisinin merkezinde yer aldı
+      metin  : (yok)
+      duyulan: kiki da
+  REPLACE  ...siyah beyazıyla büyük perdede
+      metin  : akordeonun
+      duyulan: akordiyonun
+  REPLACE  ...romanın kaderi de değişti
+      metin  : krasnahorkay
+      duyulan: krasnahorkai
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 59 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-11-07.duyulan.txt

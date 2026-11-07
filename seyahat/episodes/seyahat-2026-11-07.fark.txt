@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-07.mp3
+
+beklenen 2272 kelime | duyulan 2273 kelime | eşleşme %93.9
+sayı ifadesi: metinde 247, duyulanda 195  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...eklenmiş vietnamlılar bu yapıya
+      metin  : çua kau
+      duyulan: chua cao
+  REPLACE  ...yani japon köprüsü diyor
+      metin  : hoy
+      duyulan: hoi
+  INSERT   ...boşuna konmamış rivayete göer
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...dönemde kanalın yanı japon
+      metin  : mahallesiydi
+      duyulan: mahallesi idi
+  REPLACE  ...renklidir japon halk anlatılarındaki
+      metin  : namazu
+      duyulan: namazı
+  DELETE   ...açtığına inanılan dev yayın
+      metin  : balığı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...başka diyarda olacak biçimde
+      metin  : yeraltında
+      duyulan: yer
+  REPLACE  ...yeraltında uzanır ve kıpırdadıkça
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...yüzyıllar boyunca ne kadar
+      metin  : önemsendiğini
+      duyulan: önemlendiğini
+  INSERT   ...ne kadar önemsendiğini anlatıyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...önemsendiğini anlatıyor bölgeyi yöneten
+      metin  : nguyen
+      duyulan: mu yen
+  REPLACE  ...yöneten nguyen soyundan lord
+      metin  : nguyen fuk çu
+      duyulan: mu yen phuc chu
+  REPLACE  ...köprüye yeni ad verdi
+      metin  : lay viyen kiyeu
+      duyulan: lai vien kieu
+  REPLACE  ...dostların köprüsü bu ad
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...şehir uzaktan gelenlerin şehriydi
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...kıyıları uzun yüzyıllar boyunca
+      metin  : çampa
+      duyulan: champa
+  REPLACE  ...boyunca çampa krallığının topraklarıydı
+      metin  : çamlar
+      duyulan: chamlar
+  REPLACE  ...başlarında geldi güneyi yöneten
+      metin  : nguyen
+      duyulan: mu yen
+  REPLACE  ...ağacı götürüyordu çinli tüccarlar
+      metin  : fuciyen
+      duyulan: fujian
+  REPLACE  ...tarih kez daha kıvrıldı
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...geri dönmesi de yasaklandı
+      metin  : hoy
+      duyulan: hoi
+  INSERT   ...kaldı boşluğu çinliler doldurdu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ming hanedanı yıkılıp yerine
+      metin  : çing
+      duyulan: çin
+  REPLACE  ...güneye kaçtı bunların kısmı
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...süslü toplantı salonları kökeni
+      metin  : fuciyen dan
+      duyulan: fujiyen den
+  REPLACE  ...kanton dan hainan dan
+      metin  : çavcou
+      duyulan: çavçoğ
+  REPLACE  ...kalabildi cevap tuhaf ama
+      metin  : hoy
+      duyulan: hoi
+  INSERT   ...şu unutulduğu için korundu
+      metin  : (yok)
+      duyulan: takat
+  REPLACE  ...için korundu yüzyılın sonlarında
+      metin  : tay sın
+      duyulan: tyson
+  REPLACE  ...kayma kalıcı hale geldi
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...geniş caddeler fabrikalar kazanırken
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...dışarıdan gözle fark edildi
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...edildi seksenlerde polonyalı mimar
+      metin  : kajimyej kfyatkofski
+      duyulan: kaczymiec kwiwiatkowski
+  REPLACE  ...yapıların korunması üzerinde çalışırken
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...etmek için yıllarca uğraştı
+      metin  : hoy
+      duyulan: hoi
+  REPLACE  ...küçük parkta heykeli duruyor
+      metin  : hoy
+      duyulan: da hoi
+  REPLACE  ...asya da çok kültürlü
+      metin  : ticaret limanının
+      duyulan: hicaret limanı nın
+  INSERT   ...ve çöken temeller nedeniyle
+      metin  : (yok)
+      duyulan: nin
+  DELETE   ...fazla yenilenip parlak neredeyze
+      metin  : yapay
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...savundu bu tartışma aslında
+      metin  : hoy
+      duyulan: hoi
+  ... ve 44 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: seyahat-2026-11-07.duyulan.txt

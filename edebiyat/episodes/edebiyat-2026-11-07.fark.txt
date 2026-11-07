@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-07.mp3
+
+beklenen 1711 kelime | duyulan 1688 kelime | eşleşme %91.8
+sayı ifadesi: metinde 195, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şair ize dönüp tek
+      metin  : beyitle
+      duyulan: beytle
+  REPLACE  ...cevap verdi ve o
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...bakü ye şirvan dan
+      metin  : isfahan a
+      duyulan: i zfah ına
+  REPLACE  ...adı hurufilikti kurucusu da
+      metin  : esterabadlı fazlullah
+      duyulan: esterabatlı fazullah
+  REPLACE  ...esterabadlı fazlullah adında mutasavvıftı
+      metin  : fazlullah
+      duyulan: fazullah
+  REPLACE  ...fazlullah hazar ın güneydoğusundaki
+      metin  : esterabad da
+      duyulan: esterabat ta
+  REPLACE  ...diye anılacak bazı şiirlerinde
+      metin  : hüseyni
+      duyulan: hüseyin i
+  INSERT   ...en sık verilen tarih
+      metin  : (yok)
+      duyulan: dur
+  REPLACE  ...dilde de şiir yazdı
+      metin  : fazlullah
+      duyulan: fazullah
+  REPLACE  ...ı şiirlerinde defalarca anar
+      metin  : fazlullah
+      duyulan: fazullah
+  REPLACE  ...dile dökmenin yolunu gösterdi
+      metin  : hallac
+      duyulan: hallaç
+  DELETE   ...emin neredeyze meydan okuyan
+      metin  : sese
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ben bu cihana sığmazam
+      metin  : gevher i lamekan
+      duyulan: zinaj gevheri la mekan
+  REPLACE  ...gevher i lamekan benem
+      metin  : kevn ü
+      duyulan: kevinu
+  REPLACE  ...mekana sığmazam dünya da
+      metin  : ahiret de
+      duyulan: ahirette
+  REPLACE  ...kur an ın yazılı
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...derin metafizik fikirlerini türkçe
+      metin  : söyleyebileceğini
+      duyulan: bileceğini
+  REPLACE  ...türk şiirine özgü dizelik
+      metin  : tuyuğlar
+      duyulan: tuyular
+  REPLACE  ...oğlu miranşah a düşmüştü
+      metin  : fazlullah
+      duyulan: fazullah
+  REPLACE  ...yakınlarındaki alıncak kalesi civarında
+      metin  : fazlullah
+      duyulan: fazullah
+  DELETE   ...miranşah ın adı yıllar
+      metin  : boyunca
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dan anadolu ya oradan
+      metin  : irağa
+      duyulan: ira a
+  REPLACE  ...izlediği düşünülüyor bu yılların
+      metin  : ayrıntıları
+      duyulan: antıları
+  DELETE   ...ene l hak sözünü
+      metin  : daha da
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...açık söylemeye başlar kendini
+      metin  : hallac la
+      duyulan: hallahçıla
+  REPLACE  ...yıllarda büyüdü gazeller elden
+      metin  : ötekine
+      duyulan: ömrüne
+  REPLACE  ...hesapları kitaplarda kalıyordu ama
+      metin  : nesimi nin beyitleri
+      duyulan: nesiminin beytleri
+  REPLACE  ...nin gazelini dinleyip aklında
+      metin  : tutabilecek
+      duyulan: okuyabilecek
+  REPLACE  ...izleri uzun süer kaldı
+      metin  : fazlullah
+      duyulan: fazullah
+  REPLACE  ...diğer önde gelen halifesi
+      metin  : aliyyü l a la
+      duyulan: ali ül ala
+  DELETE   ...bazı tasavvuf çevrelerine özellikle
+      metin  : bektaşi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...memlük sultanlığı nın topraklarına
+      metin  : halebe
+      duyulan: halep e
+  DELETE   ...şiirlerindeki ifadeler özellikle insanı
+      metin  : tanrı nın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...alimleri meclisine taşındı burada
+      metin  : nesimi nin inancı ile
+      duyulan: nesiminin inancıyla
+  REPLACE  ...kendini gösterdiği yerdi fakihler
+      metin  : içinse
+      duyulan: için ize
+  REPLACE  ...i ki taraf aynı
+      metin  : kelimeleri
+      duyulan: şeyleri
+  REPLACE  ...sessizliği kesin hükme çevirdi
+      metin  : memlük
+      duyulan: memluk
+  INSERT   ...memlük tarihçisi i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...te öldürülen adamdan söz
+      metin  : eder
+      duyulan: var
+  INSERT   ...çok kabul gören yıl
+      metin  : (yok)
+      duyulan: dir
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 39
+
+duyulan metin: edebiyat-2026-11-07.duyulan.txt

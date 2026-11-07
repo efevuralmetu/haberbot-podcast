@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-06.mp3
+
+beklenen 1235 kelime | duyulan 1244 kelime | eşleşme %95.8
+sayı ifadesi: metinde 198, duyulanda 108  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...demokratların abd ara seçimlerinde
+      metin  : konger nin
+      duyulan: kongrenin
+  INSERT   ...güney koer borsaları ile
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...demokratlar temsilciler meclisi nde
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...etti yeni konger ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nedenleri analistler demokrat çoğunluklu
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...veri merkezi kapasitesinin yaklaşık
+      metin  : texas
+      duyulan: te i teksas
+  INSERT   ...letken endeksi tek günde
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...şirketler arasındaydı applied digital
+      metin  : cipher
+      duyulan: cypher
+  REPLACE  ...merkezi işletmecilerinin hisseleri ize
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...greg brockman openai ın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...brockman openai ın halka
+      metin  : arza
+      duyulan: arıza
+  REPLACE  ...görevlileriyle gizlilik sözleşmesi imzalamayacağını
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...bildiriliyor anthropic in halka
+      metin  : arz
+      duyulan: ars
+  REPLACE  ...ve hisselerini nasdaq ta
+      metin  : ant
+      duyulan: ent
+  REPLACE  ...görmeye açmayı planlıyor fiyat
+      metin  : aralığı
+      duyulan: aralı
+  REPLACE  ...arada veri merkezi şirketi
+      metin  : terawulf
+      duyulan: terrawolf
+  INSERT   ...nin kospi endeksi açılışta
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...verisi beklentilerin üzerinde geldi
+      metin  : tüi k
+      duyulan: tuik
+  INSERT   ...artışı ve ekonomistlerin ortalama
+      metin  : (yok)
+      duyulan: lik
+  INSERT   ...beklentisinin üzerinde yıllık enflasyon
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: den ya
+  INSERT   ...dün düşüşle puandan kapandı
+      metin  : (yok)
+      duyulan: le
+  REPLACE  ...kapandı önceki gün endeks
+      metin  : dördün
+      duyulan: ün
+  DELETE   ...üzerinde yükselmişti serbest piyasada
+      metin  : dolar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...lira seviyesinde işlem görüyor
+      metin  : gram
+      duyulan: gıcramaltın
+  INSERT   ...lira civarından güne başladı
+      metin  : (yok)
+      duyulan: onsaltın
+  INSERT   ...mayıs ta chp nin
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...göreve getirmişti şu anda
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...ardından temmuzda özgür özel
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...soruşturma için savcı görevlendirildi
+      metin  : rtük de
+      duyulan: ertuğka da
+  REPLACE  ...de olayla ilgili yayın
+      metin  : yasağı
+      duyulan: yasa
+  INSERT   ...da trt world forum
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...yapacak tbmm plan ve
+      metin  : bütçe
+      duyulan: bükçe
+  REPLACE  ...ve turizm bakanlığı nın
+      metin  : bütçesi
+      duyulan: bükçesi
+  DELETE   ...bugün sıcaklıkların mevsim normallerinin
+      metin  : ila
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...akşam saatlerinde gök gürültülü
+      metin  : sağanak
+      duyulan: sağnak
+  REPLACE  ...olacak gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: gundem-2026-11-06.duyulan.txt

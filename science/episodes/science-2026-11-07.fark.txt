@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-07.mp3
+
+beklenen 2123 kelime | duyulan 2086 kelime | eşleşme %11.7
+sayı ifadesi: metinde 194, duyulanda 136  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...a fraction of a
+      metin  : çayırda sabahın serinliğinde çoban düşünün
+      duyulan: a man made object turns into something faster than sound in a fraction of a how does a slow movement of the arm turn into something faster than sound in a fraction of a ghercheki se chok taha shashurthu ji o chobanan
+  REPLACE  ...serinliğinde çoban düşünün elinde
+      metin  : uzun örgülü deriden kırbaç var kolunu geriye atıyor sonra hızla öne savuruyor kırbacın ince ucu havada an kayboluyor ve ardından keskin patlama duyuluyor sürü irkiliyor kuşlar havalanıyor bu sesi insanlık binlerce yıldır biliyor sığır sürüleri at arabaları sirk arenaları hep bu şaklamayla yankılandı ama
+      duyulan: uchan ijadan dan unjede roket lardan chok unjede hizuna ashabiliyan etwarde kurbajan shaklamasu kuchuk birsonic patlamadar bunun nae annamagaldi nae annamakichin unje kendi sine bakalam hava daki basanch dalgalan malarunan biriardan biriretashan masudar
+  REPLACE  ...şaklamayla yankılandı ama o
+      metin  : sesin aslında ne olduğunu çok uzun süer kimse bilmedi sesin kaynağına dair ilk akla gelen açıklama basitti kırbacın parçaları birbirine çarpıyor ya
+      duyulan: dasu jaklian
+  REPLACE  ...birbirine çarpıyor ya da
+      metin  : uç havayı tokat gibi dövüyor kulağa makul geliyor ama sorun var o patlama deri kayışın birbirine sürtünmesinden ya da havaya hafifçe vurmasından bekleyeceğimizden çok daha sert tabanca atışına benziyor gerçek ize çok daha şaşırtıcı o çobanın elinde uçağın icadından önce
+      duyulan: yaklasuk dereje
+  DELETE   ...uçağın icadından önce de
+      metin  : roketlerden çok önce de ses hızını aşabilen alet vardı kırbacın şaklaması küçük sonik patlamadır bunun ne anlama geldiğini anlamak için önce sesin kendisine bakalım ses havadaki basınç dalgalanmalarının yerden yeer taşınmasıdır oda sıcaklığında yaklaşık derecede
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yaklaşık derecede bu dalgalar
+      metin  : saniyede meter yol alır havada hareket eden
+      duyulan: saaniye de uchus kirkuch metrayolalar hava da haraket edan
+  REPLACE  ...havada hareket eden her
+      metin  : cisim önündeki havayı iter
+      duyulan: sisim unun daki hawai itarve chevresi ne bu basanch dalgalar naiyar sisim yavashta dalgalar andan unje kachup hariyonne dalar ama sisim se sine kendi sindan daha huzla haraket edar se ureti dalgalar andan kachamas ustu ste binarlar birikirlar
+  REPLACE  ...önündeki havayı iter ve
+      metin  : çevresine
+      duyulan: jismin arkasan da bichimin desu kishmush keiskin basanch jepe se olu sturular bona shok dalga sudenir ose fe kulanasa ulaishtanda basanch birandas uchrar ve sisbunu birpatlama oleraktuyarsanas huzna ashanu chaklaran yeer buraktuy gurlemede budur kerbat shtaki chaklama aino olayin avuchichine sean yasidur
+  REPLACE  ...iter ve çevresine bu
+      metin  : basınç dalgalarını yayar cisim yavaşsa dalgalar önce kaçıp her yöne dağılır
+      duyulan: fikr dat uzielan baschleran da basa fisiktular tarafandan dilegetirilmishti
+  REPLACE  ...her yöne dağılır ama
+      metin  : cisim sesin kendisinden daha hızlı hareket ederse ürettiği dalgalar kaçamaz üst üste binerler birikirler
+      duyulan: fikr ortaya atmakile onukanatlamak basakasheilarder sorun shudu kerbajan uju ole huzla haraket edyorki gezonu takibe demyor suradan fotourafmakinessi da ohuzudondur mayeyetmes se sine kainan ugurmekicin chok kasasuran
+  REPLACE  ...üste binerler birikirler ve
+      metin  : cismin arkasında koni biçiminde sıkışmış keskin basınç cephesi oluştururlar buna şok dalgası denir o cephe kulağınıza ulaştığında basınç
+      duyulan: tamdauro
+  REPLACE  ...kulağınıza ulaştığında basınç anda
+      metin  : sıçrar ve siz bunu patlama olarak duyarsınız ses hızını aşan uçakların yeer bıraktığı gürleme
+      duyulan: patlian isha ihti achwarde
+  REPLACE  ...yeer bıraktığı gürleme de
+      metin  : budur kırbaçtaki şaklama aynı olayın avuç içine sığan kopyasıdır bu fikir yüzyılın başlarında bazı fizikçiler tarafından dile getirilmişti ama fikri ortaya atmak ile kanıtlamak başka şeylerdir sorun şuydu kırbacın ucu öyle hızlı hareket ediyor ki göz takip edemiyor sıradan fotoğraf makinesi de o hızı dondurmaya yetmez sesin kaynağını görmek için çok kısa süren ve tam doğru anda patlayan ışığa ihtiyaç vardı de fransız fizikçi carrièer tam olarak bunu yaptı kırbacı hep aynı biçimde hep aynı
+      duyulan: frances physiktio karriertam olerak bunyapte kerbaje hepaini bichimde hepaini
+  REPLACE  ...biçimde hep aynı noktada
+      metin  : şaklatan düzenek
+      duyulan: shaklatam birduzene
+  REPLACE  ...noktada şaklatan düzenek kurdu
+      metin  : böylece kamerasını
+      duyulan: boileje kamerasan
+  REPLACE  ...böylece kamerasını o noktaya
+      metin  : sabitleyebiliyordu işık kaynağı olarak
+      duyulan: sabitlye biljordu ay shik kainau olerak
+  REPLACE  ...işık kaynağı olarak elektrik
+      metin  : kıvılcımlarını kullandı kıvılcım saniyenin gibi inanılmaz kısa sürelerde parlayabilir bu da hareketli cismi neredeyze tamamen durmuş gibi yakalamayı sağlar carrièer kıvılcımların zamanlamasını kırbacın
+      duyulan: kavuljumleran kulandu kavuljum sani enen miljondabirigibi inan almas kasasurelardeparlaya bilir buda haraketli jismi narede se tamaman durmushkibiya kalamayisalar karrieer kavuljumleran zaman namasanu kurbajan
+  REPLACE  ...kıvılcımların zamanlamasını kırbacın en
+      metin  : hızlı olduğu ana denk gelecek şekilde ayarlamak için uğraştı ama asıl akıllıca
+      duyulan: hizloldu anadeng kelejek shikilde ayarlamakicin urashte eimaa asul akhilduja
+  REPLACE  ...ama asıl akıllıca olan
+      metin  : neyi fotoğrafladığıydı carrièer yalnızca kırbacın
+      duyulan: nei photo rafla duida karrieer yalnuzja kurbajan
+  REPLACE  ...carrièer yalnızca kırbacın kendisini
+      metin  : değil havanın içindeki görünmez değişimi
+      duyulan: deil havanan ichinde kyurun mazde ishimi
+  REPLACE  ...içindeki görünmez değişimi de
+      metin  : görmek istiyordu bunun için gölge fotoğrafçılığı denen yöntem kullandı işık yoğunluğu farklı havadan geçerken hafifçe kırılır şok dalgasında
+      duyulan: gurmekistiordu bunu nichin gurge photo rafchilu denan biryantam kulandu ay shik yo nu farklu havadangge charkyan hafifche kurulur shokdalga sunda
+  REPLACE  ...şok dalgasında hava ani
+      metin  : biçimde sıkıştığı için yoğunluğu
+      duyulan: bichim desikistu ichin yo nu
+  REPLACE  ...sıkıştığı için yoğunluğu keskin
+      metin  : çizgi boyunca değişir bu çizgiden geçen ışık sapar ve
+      duyulan: birchisge boyunja deishir burchisge dan gechan ushik saparve
+  REPLACE  ...sapar ve arkadaki ekranda
+      metin  : ince
+      duyulan: inje
+  REPLACE  ...arkadaki ekranda ince belirgin
+      metin  : gölge bırakır
+      duyulan: gurge burakur
+  REPLACE  ...belirgin gölge bırakır yani
+      metin  : normalde tamamen şeffaf olan
+      duyulan: normal de tamaman shefafolan
+  REPLACE  ...tamamen şeffaf olan hava
+      metin  : bu yöntemle
+      duyulan: buyantamne
+  REPLACE  ...hava bu yöntemle kendi
+      metin  : iç yapısını ele verir
+      duyulan: ichyapusne eleverit
+  REPLACE  ...yapısını ele verir benzer
+      metin  : yöntemle lerde avusturyalı fizikçi ernst mach uçan mermilerin önündeki şok dalgalarını fotoğraflamıştı carrièer aynı tekniği çoban aletine çevirdi
+      duyulan: yantamne inye tuzuz xylar de avusturial fizikche ernstmak uchan marmilerin unun deki shokdalgalar ne photo rafla mushtu karir eine techni chobana letene che verde
+  REPLACE  ...çoban aletine çevirdi elde
+      metin  : ettiği görüntüler tartışmayı kapattı kırbacın ucundan yayılan tıpkı merminin önündeki gibi
+      duyulan: eti gurun tu lartar tashmayi kapatte kirbajun ujun dan ye ilan tupkabir marminin unun deki gibik
+  REPLACE  ...merminin önündeki gibi kavisli
+      metin  : şok dalgası fotoğraf plakasında açıkça görünüyordu şaklama ucun
+      duyulan: shokdalga su photo rafpilyakasundah achikcha gurun yordu shaklama ujun
+  REPLACE  ...görünüyordu şaklama ucun ses
+      metin  : hızını aştığı
+      duyulan: hizuna ashtu
+  REPLACE  ...ses hızını aştığı anda
+      metin  : doğuyordu i nsanoğlu farkında
+      duyulan: do yordu insan olu farkanda
+  REPLACE  ...i nsanoğlu farkında olmadan
+      metin  : binlerce yıldır
+      duyulan: narja yildar
+  REPLACE  ...binlerce yıldır elinde ses
+      metin  : duvarını
+      duyulan: duvarun
+  REPLACE  ...elinde ses duvarını delip
+      metin  : geçen şey taşımıştı
+      duyulan: gechan bishaytashumishte
+  REPLACE  ...geçen şey taşımıştı fakat
+      metin  : bu keşif
+      duyulan: bukeshif
+  REPLACE  ...fakat bu keşif eski
+      metin  : soruyu çözerken daha derin soru doğurdu insanın
+      duyulan: bishor yuchozair kyan dahadirin bishor udordu insan in
+  REPLACE  ...doğurdu insanın kolu ses
+      metin  : hızına yaklaşmanın yanından bile geçemez elinizi ne
+      duyulan: hizuna yaklashmanan yanandan bilageche mez elinizine
+  REPLACE  ...geçemez elinizi ne kadar
+      metin  : hızlı sallarsanız sallayın saniyede metreye ulaşamazsınız
+      duyulan: hizlu sal larsanis salayin saniye de uchuz kirkuch meter yulashamassanis
+  ... ve 114 fark daha
+
+metinde olup DUYULMAYAN: 1872 kelime | duyulup metinde OLMAYAN: 1836
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: science-2026-11-07.duyulan.txt

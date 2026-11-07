@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-07.mp3
+
+beklenen 1697 kelime | duyulan 1705 kelime | eşleşme %94.2
+sayı ifadesi: metinde 232, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...içinde internet çıldırdı kasım
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...salonuna koşuyor ve babası
+      metin  : i vao
+      duyulan: iwao
+  REPLACE  ...buz gibi adam duruyor
+      metin  : lan di
+      duyulan: landy
+  REPLACE  ...lan di bu adam
+      metin  : i vao
+      duyulan: iwao
+  REPLACE  ...eski nesneyi dakika sonra
+      metin  : i vao
+      duyulan: iwao
+  REPLACE  ...adım adım dolaştığı sokaklardı
+      metin  : şenmu
+      duyulan: shenmue
+  REPLACE  ...arkasındaki isim yu suzuki
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...yu suzuki ydi suzuki
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...çok türde iz bırakmış
+      metin  : tasarımcıydı
+      duyulan: tasarımcı idi sega te
+  REPLACE  ...en prestijli geliştirme ekibi
+      metin  : amikinin
+      duyulan: aami nin
+  REPLACE  ...şirket içinde dokunulmaz sayılırdı
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...serinin yıldızı akira yuki
+      metin  : ydi proje
+      duyulan: idi bu dönemde
+  REPLACE  ...buldu akira nın yerini
+      metin  : ryo
+      duyulan: rio
+  REPLACE  ...proje de oraya taşındı
+      metin  : şenmu
+      duyulan: ama
+  REPLACE  ...verirler akşam eve dönerler
+      metin  : ryo
+      duyulan: rio
+  REPLACE  ...sistemle oluşturmuştu bu dünyada
+      metin  : hikayeyle
+      duyulan: hikaye ile
+  REPLACE  ...olmayan şeyleer saatler harcanabiliyordu
+      metin  : ryo
+      duyulan: rio
+  REPLACE  ...oyunun de takvimi vardı
+      metin  : ryo
+      duyulan: rio
+  REPLACE  ...adını da verdi ful
+      metin  : reactive eyes
+      duyulan: reactivize
+  INSERT   ...eyes entertainment kısaltmasıyla free
+      metin  : (yok)
+      duyulan: entertainment
+  REPLACE  ...gibi dolaşmakta özgür olacaktı
+      metin  : şenmu
+      duyulan: shenmue
+  REPLACE  ...basmak gerekiyordu suzuki bu
+      metin  : mekaniği
+      duyulan: mekaniyi
+  REPLACE  ...giren ve bütün sektörün
+      metin  : qte
+      duyulan: qt
+  INSERT   ...adı buradan doğdu oyun
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...demekti ve bedel büyüktü
+      metin  : şenmu
+      duyulan: shenmue
+  INSERT   ...şenmu japonya da aralık
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve avrupa ya ancak
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...büyüleyici kimine sıkıcı geldi
+      metin  : şenmu
+      duyulan: shenmue
+  REPLACE  ...asıl sorun ize rakamlardaydı
+      metin  : şenmu
+      duyulan: shenmue
+  REPLACE  ...hangi rakamı alırsanız alın
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...yaklaşık kopya satarak dreamcast
+      metin  : in
+      duyulan: ın
+  REPLACE  ...arasına girdi ama dreamcast
+      metin  : in
+      duyulan: ın
+  REPLACE  ...kez satın alması gerekirdi
+      metin  : şenmu
+      duyulan: shenmue
+  INSERT   ...arda zarar ediyordu ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...koparan tarihi dönüm noktasıydı
+      metin  : şenmu
+      duyulan: shenmue
+  REPLACE  ...de hikaye devam etti
+      metin  : şenmu ii
+      duyulan: shenmue
+  INSERT   ...etti şenmu ii eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...için çıktı bu sefer
+      metin  : ryo lan di
+      duyulan: rio lundy
+  REPLACE  ...en akılda kalan bölümü
+      metin  : kaulun un
+      duyulan: kaolu nun
+  REPLACE  ...microsoft un yeni xbox
+      metin  : ıyla
+      duyulan: u ile de
+  ... ve 35 fark daha
+
+metinde olup DUYULMAYAN: 83 kelime | duyulup metinde OLMAYAN: 91
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-11-07.duyulan.txt

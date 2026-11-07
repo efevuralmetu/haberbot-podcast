@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-07.mp3
+
+beklenen 3559 kelime | duyulan 3583 kelime | eşleşme %95.1
+sayı ifadesi: metinde 413, duyulanda 347  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...savaş kazanılmış görünüyordu saat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kelimenin peşinde başlamıştı baharında
+      metin  : havai deki
+      duyulan: havaydaki
+  REPLACE  ...kullanıyordu amerikalılar bu sisteme
+      metin  : jn
+      duyulan: j
+  REPLACE  ...harfli kodlarla gösteriyordu rochefort
+      metin  : af
+      duyulan: efe
+  REPLACE  ...midway olduğundan emindi midway
+      metin  : havai
+      duyulan: hawaii
+  REPLACE  ...yaklaşık kilometer kuzeybatısında toplam
+      metin  : yüzölçümü kilometrekareyi
+      duyulan: ölçümü kilometer kareyi
+  REPLACE  ...oluşan mercan halkasıydı hava
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...donanmanın üst kademesinde japonların
+      metin  : aleut adaları na havai
+      duyulan: aleüt adalarına hawaii
+  REPLACE  ...plan basitti midway e
+      metin  : havai
+      duyulan: hawaii
+  REPLACE  ...başlıyordu midway mesajı gönderdi
+      metin  : havai
+      duyulan: hawaii
+  REPLACE  ...haziran da başlayacağı anlaşıldı
+      metin  : layton
+      duyulan: leighton
+  REPLACE  ...in kuzeybatısında aşağı yukarı
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...güç neredeyze kalmamıştı mayıs
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...du yani türkçe okunuşuyla
+      metin  : yorktaun
+      duyulan: yorktown
+  REPLACE  ...gövdesini zorlamış yakıt sızdırıyordu
+      metin  : yorktaun
+      duyulan: yorktown
+  INSERT   ...mühendisler hasarı incelemeye girmişti
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...gibi bırakıldı mayıs sabahı
+      metin  : yorktaun
+      duyulan: yorktown
+  REPLACE  ...öneride bulundu kruvazörlerin komutanı
+      metin  : tuğamiral
+      duyulan: tuamiral
+  REPLACE  ...komuta etmemişti genel komuta
+      metin  : yorktaun
+      duyulan: yorktown
+  REPLACE  ...genel komuta yorktaun daki
+      metin  : tuğamiral
+      duyulan: tuamiral
+  REPLACE  ...kendisiydi başında koramiral nagumo
+      metin  : çuiçi
+      duyulan: chuichi
+  REPLACE  ...en fazla kalmıştı ve
+      metin  : yorktaun
+      duyulan: yorktown
+  REPLACE  ...için önlemler de vardı
+      metin  : havai
+      duyulan: hava
+  INSERT   ...olduğunu bilmeden yola çıktı
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...gönderilmişti pistlerde ve lagünde
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...gemileri hala ortalıkta yoktu
+      metin  : layton ın
+      duyulan: leighton un
+  INSERT   ...gelecekti haziran günü sabah
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...hava grubu komutanı tomonaga
+      metin  : joiçi
+      duyulan: joichi
+  REPLACE  ...amerikalılar önce davrandı saat
+      metin  : sularında catalina
+      duyulan: larında katalina
+  INSERT   ...boy bombardıman uçağı saldırdı
+      metin  : (yok)
+      duyulan: i kisi
+  INSERT   ...delici bombalarla donatılmıştı saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hiryu daki tümen komutanı
+      metin  : tuğamiral yamaguçi tamon
+      duyulan: tuamiral yamaguchi tomon
+  REPLACE  ...saat sularında atılgan ile
+      metin  : eşekarısı ndan
+      duyulan: eşek ağrısından
+  REPLACE  ...çıktı saat kadar sonra
+      metin  : yorktaun
+      duyulan: yorktown
+  REPLACE  ...kendi hava grubunu gönderdi
+      metin  : eşekarısı nın
+      duyulan: eşek ağrısının
+  REPLACE  ...götürdü bu rota yanlıştı
+      metin  : eşekarısı nın
+      duyulan: eşek ağrısının
+  REPLACE  ...alıp kuzeybatıya döndü waldron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...patlamıyordu saat sularında waldron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...gemilerine doğru ilerlemeye başladı
+      metin  : lar
+      duyulan: zirolar
+  REPLACE  ...topçudan yalnızca hayatta kaldı
+      metin  : asteğmen
+      duyulan: asteymen
+  ... ve 62 fark daha
+
+metinde olup DUYULMAYAN: 103 kelime | duyulup metinde OLMAYAN: 127
+bölme/birleşme farkı (hata değil, elendi): 37
+
+duyulan metin: tarih-2026-11-07.duyulan.txt

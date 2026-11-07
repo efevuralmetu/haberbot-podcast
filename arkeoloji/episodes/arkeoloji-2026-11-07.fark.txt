@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-07.mp3
+
+beklenen 2633 kelime | duyulan 2654 kelime | eşleşme %95.5
+sayı ifadesi: metinde 279, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...satın alan şirket gün
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...önce jeolog gözüyle baktı
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...asıl büyük araştırma ize
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...rahatça çıkarmasına izin vermedi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...iç savaş ve karmaşa
+      metin  : mes aynağı
+      duyulan: mesaynak ı
+  REPLACE  ...tepelerin etrafına mayınlar döşendi
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...kamplarda eğitim aldığı anlatılırken
+      metin  : mes aynağın
+      duyulan: mesaynak ın
+  INSERT   ...aynağın adı da geçer
+      metin  : (yok)
+      duyulan: ki den
+  REPLACE  ...arazi çökmüş ve hala
+      metin  : el değmemiş
+      duyulan: elde etmemiş
+  REPLACE  ...yeşil kayaların ve kara
+      metin  : cürufun
+      duyulan: curufun
+  REPLACE  ...daha fazlasıydı burası keşiş
+      metin  : kentiydi
+      duyulan: kenti idi
+  REPLACE  ...milattan sonraki ilk yüzyıllarda
+      metin  : kuşan
+      duyulan: kuşhan
+  REPLACE  ...en kozmopolit siyasi yapılarından
+      metin  : kuşan
+      duyulan: kuşhan
+  REPLACE  ...dünyanın ortasından büyük ticaret
+      metin  : ağının
+      duyulan: ağanın
+  REPLACE  ...bölgede bugünkü pakistan ın
+      metin  : kuzeyi ile
+      duyulan: kuzeyiyle
+  REPLACE  ...en temel kutsal yapısıdır
+      metin  : kubbe
+      duyulan: kube
+  REPLACE  ...yüzlerle ifade ediliyordu kimi
+      metin  : şistten
+      duyulan: şisten
+  REPLACE  ...şey ize kutsal olanla
+      metin  : endüstriyel
+      duyulan: endüstriel
+  INSERT   ...tam ortasındaydı arkeologlar burada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...arkeologlar burada keşişlerin bakır
+      metin  : üretimiyle
+      duyulan: üretimi ile
+  REPLACE  ...rüzgar yavaş yavaş duvarları
+      metin  : örttü
+      duyulan: örtü
+  INSERT   ...makineleri ve sözleşmeler vardı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...yeni afgan hükümeti için
+      metin  : mes aynak
+      duyulan: mesainak
+  REPLACE  ...madenlerin ilk büyük vitrini
+      metin  : mes aynak
+      duyulan: mesainak
+  INSERT   ...için uluslararası ihale açıldı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...metalurji grubu diğeri ize
+      metin  : ciyangşi
+      duyulan: jiangxi
+  REPLACE  ...ize ciyangşi copper yani
+      metin  : ciyangşi
+      duyulan: jiangxi
+  REPLACE  ...copper yani ciyangşi bakır
+      metin  : şirketi ydi
+      duyulan: şirketiydi kiki
+  REPLACE  ...bakır şirketi ydi imzalanan
+      metin  : sözleşmeyle
+      duyulan: sözleşme ile
+  REPLACE  ...sözleşmeyle bu ortaklık yıllığına
+      metin  : mes aynağın
+      duyulan: mesainağın
+  REPLACE  ...klinikler ve camiler yapmayı
+      metin  : taahhüt
+      duyulan: tahüt
+  INSERT   ...kendisi de tartışmasız geçmedi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...basınında dönemin maden bakanının
+      metin  : ihaleyle
+      duyulan: ihale ile
+  REPLACE  ...ancak bu tartışma mes
+      metin  : aynağın
+      duyulan: aynaın
+  REPLACE  ...daha da ağır görünüyordu
+      metin  : baharında
+      duyulan: kip in birinbaharında
+  REPLACE  ...onlarca yıllık geçmişi olan
+      metin  : delegasyon
+      duyulan: delegation
+  REPLACE  ...geçmişi olan delegasyon arkeolojik
+      metin  : fransez an afganistan
+      duyulan: francez en afghanistan
+  INSERT   ...de destek verecekti kazı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başı da çıkabilirdi paslı
+      metin  : mermi de
+      duyulan: mermiydi
+  REPLACE  ...yaşayan çatışmaydı logar vilayeti
+      metin  : binlerin
+      duyulan: lerin
+  ... ve 26 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-11-07.duyulan.txt

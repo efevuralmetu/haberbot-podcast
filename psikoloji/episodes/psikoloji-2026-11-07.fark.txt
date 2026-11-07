@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-07.mp3
+
+beklenen 1486 kelime | duyulan 1495 kelime | eşleşme %97.6
+sayı ifadesi: metinde 160, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kampüsündeki anaokuluna gitmek gerekiyor
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...gerekiyor altmışların sonunda ve
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...yetmişlerin başında psikolog walter
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...gelen takip çalışmalarından geldi
+      metin  : mişel
+      duyulan: michel
+  INSERT   ...sözü tutulan grupta çocuktan
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...dair çocuğun yaptığı hesaptı
+      metin  : kidd
+      duyulan: kit
+  REPLACE  ...akıllıca karardı güvenilmez ortamda
+      metin  : beklemek
+      duyulan: bekleme
+  REPLACE  ...öğrendiysen bu fikir aslında
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...de ipucu olarak duruyordu
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...stanford deneylerinden yıllar önce
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...yıllar önce ellilerde trinidad
+      metin  : da
+      duyulan: ta
+  INSERT   ...da bu tabloyu tamamladı
+      metin  : (yok)
+      duyulan: çi de
+  REPLACE  ...greg duncan ve haonan
+      metin  : quan
+      duyulan: kwan
+  REPLACE  ...lişki hala vardı ama
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...hayatta kalma stratejisidir bu
+      metin  : mişel
+      duyulan: michel
+  REPLACE  ...durumları yeniden okumamızı sağlıyor
+      metin  : ödevini
+      duyulan: öttödevini
+  REPLACE  ...sağlayan şeydir güven kerelik
+      metin  : jestle
+      duyulan: jeste
+  INSERT   ...yağmur yağıyor yarın saat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...gideceğiz demek ve yarın
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...atıştırmadır karşı taraf uzak
+      metin  : vaade
+      duyulan: vade
+  REPLACE  ...projeden sonra terfi konusunu
+      metin  : konuşacağız
+      duyulan: konuşacağı
+  INSERT   ...yatağa götürmeyeceğim bu sözlerin
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...zihnimizde kidd in deneyindeki
+      metin  : boş
+      duyulan: boşelli
+  REPLACE  ...der ve şekerlemeyi hemen
+      metin  : yemeyi
+      duyulan: yemeği
+  REPLACE  ...belki de daha doğru
+      metin  : ad
+      duyulan: at
+  REPLACE  ...boş mu olacağına bakıyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: psikoloji-2026-11-07.duyulan.txt

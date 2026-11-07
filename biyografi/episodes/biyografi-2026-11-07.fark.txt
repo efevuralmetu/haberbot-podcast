@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-07.mp3
+
+beklenen 2837 kelime | duyulan 2869 kelime | eşleşme %97.1
+sayı ifadesi: metinde 435, duyulanda 284  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...takdir görmedi alan haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...e gitmeyi hayal ediyordu
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...gitmeyi hayal ediyordu şubat
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yıllardır vücudunu sessizce yıpratıyordu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...yıldönümünde yazdı ama bu
+      metin  : yasın
+      duyulan: yazın
+  INSERT   ...bursunu kazanamadı bunun yerine
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çalıştı kral koleji sherborne
+      metin  : un
+      duyulan: ın
+  INSERT   ...ödüllendiriliyordu turing matematiğe gömüldü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...edildi baharında matematikçi max
+      metin  : newman
+      duyulan: nieman
+  REPLACE  ...numbers yani hesaplanabilir sayılar
+      metin  : üzerine idi
+      duyulan: üzerineydi
+  REPLACE  ...idi tam o sırada
+      metin  : atlantiğin
+      duyulan: atlantin
+  REPLACE  ...dergisinde yayımlandı turing church
+      metin  : ün
+      duyulan: un
+  REPLACE  ...yılın eylülünde turing church
+      metin  : ile
+      duyulan: le
+  INSERT   ...princeton a gitti ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...macar asıllı matematikçi con
+      metin  : fon noyman
+      duyulan: von neumann
+  INSERT   ...zamanlı çalışmaya başladı eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...malikanesi nde göreve başladı
+      metin  : viktorya
+      duyulan: victoria
+  REPLACE  ...dönüşecekti düşmanın adı enigma
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...işe başlamıyordu polonyalı matematikçiler
+      metin  : maryan reyevski yeji rujıtski
+      duyulan: marian rejewski yezi ruczytski
+  REPLACE  ...reyevski yeji rujıtski ve
+      metin  : henrik zıgalski
+      duyulan: hendrik zygalski
+  INSERT   ...çözmeyi başarmış ve temmuz
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...deniz şifreleriyle uğraşan kulübe
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...tablolarına da ihtiyaç vardı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çıkan şifer belgeleri kulübe
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...bomba makineleri yetersizdi ekim
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...not gönderdi ama şubat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ulaştı bu karanlık ancak
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...birlikte sulara gömüldü kulübe
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...diyordu ilgili anlatılan hikayeler
+      metin  : malikane de
+      duyulan: malikhanede
+  REPLACE  ...efsaneleşmişti haziran aylarında saman
+      metin  : nezlesinden
+      duyulan: nezdesinden
+  REPLACE  ...vardı bu yıllarda turing
+      metin  : malikane de
+      duyulan: malikhanede
+  REPLACE  ...de çalışan matematikçi joan
+      metin  : clarke
+      duyulan: clark
+  INSERT   ...ömür boyu kaldı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kasım turing amerikan donanmasıyla
+      metin  : işbirliği
+      duyulan: iş
+  REPLACE  ...donanmasıyla işbirliği yapmak üzeer
+      metin  : atlantiği
+      duyulan: atlantı yı
+  INSERT   ...olduğu kimsenin aklına gelmiyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...güvenilir olabileceğini görmüştü bletchley
+      metin  : malikanesi nde
+      duyulan: malik hanesinde
+  REPLACE  ...binlerce vakum tüpüyle çalışan
+      metin  : colossus
+      duyulan: kolostuz
+  INSERT   ...bu bilgiyi kimseyle paylaşamıyordu
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...hayal kırıklığına uğradı ve
+      metin  : (yok)
+      duyulan: de
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 38 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: biyografi-2026-11-07.duyulan.txt

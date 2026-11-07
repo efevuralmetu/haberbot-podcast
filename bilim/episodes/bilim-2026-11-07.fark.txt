@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-07.mp3
+
+beklenen 2094 kelime | duyulan 2110 kelime | eşleşme %97.1
+sayı ifadesi: metinde 240, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aynı olayın avuç içine
+      metin  : sığan
+      duyulan: sığın
+  INSERT   ...patlayan ışığa ihtiyaç vardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ihtiyaç vardı fransız fizikçi
+      metin  : karyer
+      duyulan: carrier
+  REPLACE  ...durmuş gibi yakalamayı sağlar
+      metin  : karyer
+      duyulan: carrier
+  REPLACE  ...asıl akıllıca olan neyi
+      metin  : fotoğrafladığıydı karyer
+      duyulan: fotoğrafladıydı carrier
+  REPLACE  ...ele verir benzer yöntemle
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...seksenlerde avusturyalı fizikçi ernst
+      metin  : mah
+      duyulan: mahr
+  REPLACE  ...önündeki şok dalgalarını fotoğraflamıştı
+      metin  : karyer
+      duyulan: carrier
+  REPLACE  ...eğer enerji büyük ölçüde
+      metin  : korunuyorsa
+      duyulan: korunuyor
+  INSERT   ...iyi matematiksel model gerekiyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ize çok daha sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...geldi alman araştırmacılar peter
+      metin  : krel ştefan engeman
+      duyulan: kral stefan engelmann
+  REPLACE  ...ştefan engeman ve detlef
+      metin  : şvenkel şok
+      duyulan: schwenkel çok
+  INSERT   ...binlerce kat sert sarsıntıyı
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...kadar sürmeyen aralıkta doğuyordu
+      metin  : krel
+      duyulan: kral
+  REPLACE  ...kağıt üzerinde çözmeye çalışıyordu
+      metin  : alen gorieli
+      duyulan: de allen goriely
+  REPLACE  ...alen gorieli ve tyler
+      metin  : mcmillen
+      duyulan: macmillan
+  REPLACE  ...süreçte önemli rol oynuyordu
+      metin  : gorieli
+      duyulan: goriely
+  REPLACE  ...rol oynuyordu gorieli ve
+      metin  : mcmillen
+      duyulan: macmillan
+  REPLACE  ...fizik makinesiydi kırbaç ustaları
+      metin  : gorieli nin
+      duyulan: goriely in
+  INSERT   ...i nsanlık ilk kez
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hem de devasa ölçekte
+      metin  : diplodokus
+      duyulan: diplodocus
+  REPLACE  ...devasa ölçekte diplodokus ve
+      metin  : apatozorus
+      duyulan: apatosaurus
+  REPLACE  ...boyunlu uzun kuyruklu dinozorlar
+      metin  : diplodokidler
+      duyulan: diplodokitler
+  INSERT   ...uç tıpkı kırbaç gibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tıpkı kırbaç gibi nathan
+      metin  : myhrvold
+      duyulan: miftvold
+  REPLACE  ...myhrvold ve paleontolog philip
+      metin  : currie paleobiyoloji
+      duyulan: curie paleobioloji
+  REPLACE  ...ciddi biçimde ele aldılar
+      metin  : apatozorus
+      duyulan: apatosaurus
+  INSERT   ...ucun başına ne gelir
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...araştırmacıları da içeren simone
+      metin  : konti
+      duyulan: conti
+  REPLACE  ...dayanıklılığına da baktılar farklı
+      metin  : diplodokid
+      duyulan: diplodokit
+  INSERT   ...benzeri hareket ürettiler sonuçlar
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...meter çıktı bu saatte
+      metin  : kilometrenin
+      duyulan: km nin
+  REPLACE  ...çalışma tartışmayı bitirmedi nathan
+      metin  : myhrvold
+      duyulan: mütvold
+  REPLACE  ...bugün söylenebilecek olan şu
+      metin  : diplodokidlerin
+      duyulan: diplodokitlerin
+  REPLACE  ...dönelim kolunu savurduğunda elindeki
+      metin  : kırbaç
+      duyulan: kırbac
+  REPLACE  ...kimse fark etmeden işliyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: bilim-2026-11-07.duyulan.txt

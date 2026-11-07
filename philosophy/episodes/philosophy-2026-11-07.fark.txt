@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-07.mp3
+
+beklenen 2173 kelime | duyulan 2161 kelime | eşleşme %16.7
+sayı ifadesi: metinde 211, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...italians have a saying
+      metin  : traduttoer
+      duyulan: traditoer
+  REPLACE  ...it was born in
+      metin  : bağdat yılı halifenin vezirinin
+      duyulan: badad yilla halifinin vazirnin
+  INSERT   ...yılı halifenin vezirinin huzurunda
+      metin  : (yok)
+      duyulan: iqy
+  REPLACE  ...vezirinin huzurunda adam tek
+      metin  : soruyu tartışıyor aristoteles in mantığı bütün insanlığın aklı mı yoksa yunanların dilbilgisi mi
+      duyulan: soru yutartishyur aristotelesin mante butunin solution aklima yoksayunandaran dil bilgisimeh butartishma bugyun halasiryor altiyazu yokudunuzda suzuchevir uygulamasana yazdunuzda yada anenizadeardinizanatamudunuzda ortada ainuzorubaby paralha uchileme an birzengi nikbirik yordu
+  REPLACE  ...yunanların dilbilgisi mi bu
+      metin  : tartışma bugün hala sürüyor altyazıyı okuduğunuzda sözü çeviri uygulamasına yazdığınızda ya
+      duyulan: yer betul hikme yani bilgilik evi den yordu raflar yunanja suri anais farsejve sanskrit se yasmalar la doludu masalaran
+  REPLACE  ...uygulamasına yazdığınızda ya da
+      metin  : annenize derdinizi anlatamadığınızda ortada aynı soru var dilden ötekine gerçekten
+      duyulan: oturanlaran cho musluman dildu nesturi hristianlar sabilur zerdusti kukan
+  REPLACE  ...dilden ötekine gerçekten ne
+      metin  : geçer yolda
+      duyulan: aile larvardu hepsi aini ishiyap yordu bashkabir dildu dusunun musbir seyarap chada yenidan dusunun lebilir haile ibnun
+  REPLACE  ...ne geçer yolda ne
+      metin  : kaybolur i talyanlar bunu kelimeyle söyler traduttoer traditoer yani çevirmen hain kulağa hoş gelen söz çünkü kelime neredeyze aynı sesleri taşır ama bu söz çeviri sorununu
+      duyulan: dimin ju yuzhildar darledi kitaplar katalugundar rivayet anatilur meimun riyasan
+  REPLACE  ...söz çeviri sorununu da
+      metin  : gösterir türkçeye aktardığınız anda o ses oyunu kaybolur anlam kalır cinas gider çevirmenin hain olduğunu anlatan bu söz bile tercüme edilirken kendi küçük ihanetine uğrar peki çevirmen gerçekten hain mi yoksa insanların birbirine ulaşmasını sağlayan köprü mü bu soruyu düşünmek için i talya ya değil dicle kıyısına yüzyılın bağdat ına gidelim abbasi halifesi me mun te tahta çıktığında bağdat dünyanın en kalabalık ve en zengin şehirlerinden ama sarayın köşesinde parayla ölçülemeyen zenginlik birikiyordu bu yeer beytülhikme yani bilgelik evi deniyordu rafları yunanca süryanice farsça ve sanskritçe yazmalarla doluydu masalarında oturanların çoğu müslüman değildi nesturi hristiyanlar sabiiler zerdüşti kökenli aileler vardı hepsi aynı işi yapıyordu başka dilde düşünülmüş şeyi arapçada yeniden düşünülebilir hale getirmek i bnü n nedim in yüzyılda derlediği kitaplar katalogunda rivayet anlatılır me mun gece rüyasında açık alınlı kaşları birbirine bitişik ağırbaşlı
+      duyulan: achikalun li kashler ne bittishik ar bashlir
+  REPLACE  ...birbirine bitişik ağırbaşlı adam
+      metin  : görür kim olduğunu sorar
+      duyulan: gurush kem uldu nusorar
+  REPLACE  ...olduğunu sorar adam ben
+      metin  : aristoteles im der halife iyinin
+      duyulan: aras tatal esem dur halayf in
+  REPLACE  ...der halife iyinin ne
+      metin  : olduğunu sorar aldığı cevap kısadır akla göer iyi
+      duyulan: uldu nusorar aldu jevap kasadur akhla guer i
+  REPLACE  ...göer iyi olan rivayete
+      metin  : göer me mun uyandıktan
+      duyulan: guer meimun uyanduk tan
+  REPLACE  ...me mun uyandıktan sonra
+      metin  : bizans imparatoruna elçiler gönderip
+      duyulan: bisans imperator na ilchilargun derip
+  REPLACE  ...imparatoruna elçiler gönderip yunan
+      metin  : kitapları istemiştir
+      duyulan: kitaplar istemishtir
+  REPLACE  ...yunan kitapları istemiştir bu
+      metin  : hikaye gerçekten yaşandı mı bilmiyoruz muhtemelen yaşanmadı ama medeniyetin kendine anlattığı hikaye
+      duyulan: hikaya garchik tan yashan dem bilmyoruz muhtem elan yashan madi amabir meden yetin kendina annatu hikaya
+  REPLACE  ...kendine anlattığı hikaye olarak
+      metin  : çok şey söylüyor yabancı
+      duyulan: chokshai solyor yabanjibir
+  REPLACE  ...şey söylüyor yabancı bilge
+      metin  : rüyada
+      duyulan: ruyada
+  REPLACE  ...bilge rüyada gelir ve
+      metin  : kapı açılır
+      duyulan: kapu achilur
+  REPLACE  ...ve kapı açılır bu
+      metin  : kapıdan geçen
+      duyulan: kapudanggechan enun emne isim hunain ishaktir hiredan galan nesteri hristian eksajinan oluido arabchayir ve suryanisayi trojukluun dan biliyordu yunankayim yuqyem melur
+  REPLACE  ...bu kapıdan geçen en
+      metin  : önemli isim huneyn i shak tır hier den gelen nesturi hristiyan eczacının oğluydu arapçayı ve süryaniceyi çocukluğundan biliyordu yunancayı mükemmel öğrenmek için yıllarca yollarda dolaştı kaleme aldığı
+      duyulan: mekichin yillarja yolarda dolashte kale me aldu
+  REPLACE  ...kaleme aldığı mektupta hekim
+      metin  : galenos un ispat üzerine yazdığı kitabın yunanca aslını bulmak için mezopotamya yı suriye yi filistin i
+      duyulan: galenosun ispatuzerina yazdu kitabun yunanja astun bulma kichin mezopotam yayi suriyayi filistine
+  REPLACE  ...yi filistin i ve
+      metin  : mısır ı dolaştığını anlatır sonunda şam
+      duyulan: musr dolashte na annatir sonon
+  REPLACE  ...anlatır sonunda şam da
+      metin  : kitabın ancak yarısına yakın
+      duyulan: shamda kitabun anjak yerusan ayakan
+  REPLACE  ...ancak yarısına yakın eksik
+      metin  : parçasını bulabilmiştir bu ayrıntı bağdat taki çeviri hareketinin saray hevesinden ibaret olmadığını gösteriyor
+      duyulan: parchas na bulabil mishtir buayrantu baadat takitchevir harekitinan sarayhe ve sin danibaer tolmadun agostir yor
+  REPLACE  ...ibaret olmadığını gösteriyor ortada
+      metin  : ağır filoloji emeği vardı huneyn
+      duyulan: ar filoloje eme iwarda hunain
+  REPLACE  ...emeği vardı huneyn metni
+      metin  : çevirmeden önce elinden geldiğince çok nüsha
+      duyulan: chevir medan unja ilindang yaldin jechok nusha
+  REPLACE  ...geldiğince çok nüsha toplar
+      metin  : bunları karşılaştırır
+      duyulan: bunar karsalashtrir
+  REPLACE  ...toplar bunları karşılaştırır bozuk
+      metin  : yerleri düzeltir
+      duyulan: yaleru duzaltir
+  REPLACE  ...bozuk yerleri düzeltir sonra
+      metin  : çeviriye başlardı daha
+      duyulan: chevir yabashlarda dahada unemnize hunain nasal chevir lejei konusundabir karar vermishtir an durdun ju yuziel
+  REPLACE  ...çeviriye başlardı daha da
+      metin  : önemlisi huneyn nasıl çevrileceği konusunda karar vermişti yüzyılda yaşamış biyografi yazarı safedi bağdat taki çevirmenlerin yol izlediğini anlatır yuhanna bıtrik
+      duyulan: yashamush biography azar esafedi baadat takitchevir manerin iqiyoliz ledina annatir johanna bitrik
+  REPLACE  ...anlatır yuhanna bıtrik gibi
+      metin  : kuşak çevirmenler
+      duyulan: kushak chevir maner
+  REPLACE  ...kuşak çevirmenler kelime kelime
+      metin  : giderdi yunanca kelimeyi alır arapça karşılığını yazar
+      duyulan: gidarda yunankabir kelimei yalur ar apja karsalu ni azar
+  REPLACE  ...arapça karşılığını yazar sonra
+      metin  : sonrakine geçerlerdi karşılığı
+      duyulan: sonra kina gichar larda karsalu
+  REPLACE  ...sonrakine geçerlerdi karşılığı yoksa
+      metin  : yunanca kelimeyi olduğu
+      duyulan: junanja kelimei yoldu
+  REPLACE  ...yunanca kelimeyi olduğu gibi
+      metin  : bırakırlardı huneyn in yolu farklıydı cümlenin tamamını
+      duyulan: burakar larda hunainin yolufarklida humlinin tamanun
+  REPLACE  ...farklıydı cümlenin tamamını okur
+      metin  : anlamı kavrar
+      duyulan: annamukavrar
+  REPLACE  ...anlamı kavrar sonra o
+      metin  : anlamı arapçanın kendi cümle yapısıyla yeniden kurardı safedi ye göer yol daha iyiydi yolla yapılan çeviriler
+      duyulan: annamu arapchanan kendijumlei apasila yenidankurarda safay diye garei kinji yolda hai yide yola ya palan chevir leur
+  REPLACE  ...yolla yapılan çeviriler sonradan
+      metin  : düzeltilmeye ihtiyaç duyuyordu huneyn inkiler duymuyordu i lk yolun izleri bugün
+      duyulan: duzaltil mei aichdiach du yordu hunainin kelardu yim yordu ilk yolunizli rebugun
+  INSERT   ...izleri bugün bizim dilimizde
+      metin  : (yok)
+      duyulan: duryor felsa fe kelimesinen kendisi chevir diyildir yunanka philosophya kelimesinen arapcha harflar leyazulmushalidir biljeli se mek annamunagelan kelime karsaluk bulunamadui cin oldu gibi aktar almushtir turk chede hergun kulandu muzbu kelimede ke yuzilunje chevir menin bunu chevir em yorum oyla burak yorum dei isi saklı ohal
+  ... ve 184 fark daha
+
+metinde olup DUYULMAYAN: 1811 kelime | duyulup metinde OLMAYAN: 1798
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-11-07.duyulan.txt

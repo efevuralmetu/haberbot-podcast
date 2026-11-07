@@ -1,0 +1,121 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-07.mp3
+
+beklenen 2105 kelime | duyulan 2123 kelime | eşleşme %95.2
+sayı ifadesi: metinde 227, duyulanda 204  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kaybolur i talyanlar bunu
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...bağdadına gidelim abbasi halifesi
+      metin  : me mun
+      duyulan: meymun te
+  REPLACE  ...müslüman değildi nesturi hristiyanlar
+      metin  : sabiiler zerdüşti
+      duyulan: sabiler zer düştü
+  REPLACE  ...düşünülebilir hale getirmek i
+      metin  : bnü n
+      duyulan: bn i
+  REPLACE  ...kitaplar katalogunda rivayet anlatılır
+      metin  : me mun
+      duyulan: meymun
+  REPLACE  ...iyi olan rivayete göer
+      metin  : me mun
+      duyulan: meymun
+  REPLACE  ...önemli isim huneyn i
+      metin  : shak tır
+      duyulan: şaktır
+  REPLACE  ...önce elinden geldiğince çok
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...da önemlisi huneyn nasıl
+      metin  : çevrileceği
+      duyulan: çevriliceği
+  REPLACE  ...kendisi çeviri değildir yunanca
+      metin  : filosofia
+      duyulan: filosofiye
+  REPLACE  ...kendisi değildi ama aristoteles
+      metin  : siz de
+      duyulan: i sizde
+  REPLACE  ...adam var ebu bişr
+      metin  : matta
+      duyulan: i mattab in
+  INSERT   ...i kincisi ebu said
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...tartışmanın ana hatları açıktır
+      metin  : matta
+      duyulan: mattab
+  REPLACE  ...bizim ve diye çevirdiğimiz
+      metin  : bağlacı
+      duyulan: bağlıcı
+  REPLACE  ...şeyin ne olduğunu söylerken
+      metin  : dir
+      duyulan: nişertjir
+  REPLACE  ...zeyd hasta dersiniz araya
+      metin  : dır
+      duyulan: dir
+  INSERT   ...willard van orman quine
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...de hav hav der
+      metin  : ineğe
+      duyulan: ineye
+  REPLACE  ...noktada sirafi nin sorusuyla
+      metin  : quine ın
+      duyulan: kayı nın
+  REPLACE  ...yükten yola çıkarak söylüyordu
+      metin  : quine
+      duyulan: quayne
+  REPLACE  ...söylüyordu ama dikkat edin
+      metin  : quine
+      duyulan: quayne
+  REPLACE  ...seçim seçilmeyen ihtimalleri sessizce
+      metin  : eler
+      duyulan: ele
+  DELETE   ...sadece kötü seçer gavagai
+      metin  : yi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...olan duyguysa orhan pamuk
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...yeterince uzak düşmüş olmanın
+      metin  : o na
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olduğu gibi duruyor çünkü
+      metin  : melancholy
+      duyulan: melankoli
+  REPLACE  ...duyguyu vermiş olacaktı oysa
+      metin  : pamuğun
+      duyulan: pamuk un
+  INSERT   ...duygunun okurun bilmediği türüydü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...konferans veren alman filozof
+      metin  : fridrih şlayırmahır
+      duyulan: friedrich scheirmaher
+  REPLACE  ...kendi dilinin içinde yabancı
+      metin  : kelimeyle
+      duyulan: kelime ile
+  INSERT   ...abroad ya da exile
+      metin  : (yok)
+      duyulan: ile
+  REPLACE  ...kelimeler tam olarak geçmez
+      metin  : cinas
+      duyulan: cinaz
+  REPLACE  ...olarak geçmez cinas kaybolur
+      metin  : bağlacın
+      duyulan: bağlıcın
+  REPLACE  ...olmasaydı aristoteles bağdada bağdat
+      metin  : da
+      duyulan: ta
+  REPLACE  ...hiçbir şeyin geçmemesi demektir
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: felsefe-2026-11-07.duyulan.txt
