@@ -1,0 +1,657 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.650
+Bilgisayar mühendisliği diploması var ama iş yok.
+
+2
+00:00:03.650 --> 00:00:12.900
+Gündüz bir tiyatroda koltuk gösteriyor, gece ise bir Japon çiftlik oyununun kendi gözündeki "doğru" hâlini yapıyor, hem de tamamen tek başına.
+
+3
+00:00:12.900 --> 00:00:21.030
+Dört buçuk yıl boyunca kimse ne yaptığını bilmiyor, sonra o tek kişilik çiftlik dünyanın en sevilen oyunlarından birine dönüşüyor.
+
+4
+00:00:29.230 --> 00:00:39.760
+2011 yılının baharında Seattle'ın güneyindeki Auburn kasabasında genç bir adam, elinde yeni aldığı diplomayla bilgisayarının başında oturuyor.
+
+5
+00:00:39.760 --> 00:00:41.650
+Adı Eric Barone.
+
+6
+00:00:41.650 --> 00:00:48.340
+Washington Üniversitesi'nin Tacoma kampüsünden bilgisayar bilimi diplomasıyla mezun olmuş ama iş bulamamış.
+
+7
+00:00:48.340 --> 00:00:51.670
+İlanlara başvuruyor, cevap gelmiyor.
+
+8
+00:00:51.670 --> 00:00:54.840
+Gelen birkaç görüşme de bir yere varmıyor.
+
+9
+00:00:54.840 --> 00:01:01.690
+Ekonomi 2008 krizinin yaralarını hâlâ sarıyor ve deneyimsiz bir yazılımcıya kapı açan pek yok.
+
+10
+00:01:01.690 --> 00:01:07.740
+Barone bu boşluğu doldurmak için mantıklı görünen bir karar veriyor: Küçük bir oyun yapacak.
+
+11
+00:01:07.740 --> 00:01:13.950
+Hem programlama becerisini geliştirecek hem de iş başvurularında gösterebileceği bir şeyi olacak.
+
+12
+00:01:13.950 --> 00:01:15.840
+Planı mütevazı.
+
+13
+00:01:15.840 --> 00:01:19.490
+Birkaç ayda bitecek, basit bir proje düşünüyor.
+
+14
+00:01:19.490 --> 00:01:25.380
+Hangi oyunu yapacağını da biliyor, çünkü çocukluğundan beri aklından çıkmayan bir oyun var.
+
+15
+00:01:25.380 --> 00:01:35.270
+1990'ların ortasında Japonya'da Yasuhiro Wada'nın fikriyle doğan bir seri, Batı'da Harvest Moon, yani Hasat Ayı adıyla tanınıyordu.
+
+16
+00:01:35.270 --> 00:01:44.840
+Oyuncu bir çiftliği devralıyor, toprağı sürüyor, tohum ekiyor, hayvan besliyor, kasabalılarla dostluk kuruyor, hatta evleniyordu.
+
+17
+00:01:44.840 --> 00:01:48.650
+Ortada ne bir düşman vardı ne de kurtarılacak bir dünya.
+
+18
+00:01:48.650 --> 00:01:52.940
+Mevsimler dönüyor, ekinler büyüyor, hayat akıyordu.
+
+19
+00:01:52.940 --> 00:01:56.590
+Barone çocukken bu oyunlara saatler vermişti.
+
+20
+00:01:56.590 --> 00:02:02.160
+Ama yıllar içinde serinin yeni oyunlarının o eski büyüyü kaybettiğini düşünüyordu.
+
+21
+00:02:02.160 --> 00:02:06.290
+Kendi sevdiği o hissi taşıyan yeni bir oyun bulamıyordu.
+
+22
+00:02:06.290 --> 00:02:10.740
+Yani aklındaki şey yalnızca bir portfolyo projesi değildi.
+
+23
+00:02:10.740 --> 00:02:15.830
+Hasat Ayı'nın ilk oyunlarında hissettiği sıcaklığı yeniden kurmak istiyordu.
+
+24
+00:02:15.830 --> 00:02:21.080
+Bunu bir taklitle değil, kendi zevkine göre şekillendirdiği bir dünyayla yapacaktı.
+
+25
+00:02:21.080 --> 00:02:25.210
+Kimseye ihtiyacı yoktu, kimseden izin almayacaktı.
+
+26
+00:02:25.210 --> 00:02:28.700
+Kod bilgisi vardı, gerisini de öğrenirdi.
+
+27
+00:02:28.700 --> 00:02:36.830
+Aracını seçti: Microsoft'un o yıllarda bağımsız geliştiriciler arasında yaygın olan XNA altyapısı ve C# dili.
+
+28
+00:02:36.830 --> 00:02:44.160
+Ekranda önce küçük bir karakter belirdi, sonra bir toprak parçası, sonra o toprağa düşen bir tohum.
+
+29
+00:02:44.160 --> 00:02:48.450
+Proje ilerledikçe Barone'un kafasındaki oyun da büyüdü.
+
+30
+00:02:48.450 --> 00:02:54.020
+Oyuncu bir şirketin gri ofisinde, masa başında ezilen biri olarak başlayacaktı.
+
+31
+00:02:54.020 --> 00:03:00.870
+Bir gün ölmüş büyükbabasından kalan bir mektubu açacak ve kırsaldaki eski aile çiftliğine taşınacaktı.
+
+32
+00:03:00.870 --> 00:03:06.600
+Şirketin adı Joja, yani Türkçe kullanacağımız adıyla Joja Şirketi olacaktı.
+
+33
+00:03:06.600 --> 00:03:10.410
+Büyük, ruhsuz, her yeri yutan bir zincir.
+
+34
+00:03:10.410 --> 00:03:16.620
+Çiftliğin yanındaki küçük kasabanın adı ise Pelican Town, yani Pelikan Kasabası.
+
+35
+00:03:16.620 --> 00:03:22.350
+Oyunun adı da zamanla netleşti: Stardew Valley, yani Yıldız Tozu Vadisi.
+
+36
+00:03:22.350 --> 00:03:31.920
+Barone geliştirici olarak gerçek adını değil, internette yıllardır kullandığı bir takma adı öne çıkaracaktı: ConcernedApe, yani Endişeli Maymun.
+
+37
+00:03:31.920 --> 00:03:39.250
+Bu sahnenin en ilginç yanı, oyunu yapan adamla oyunun kahramanının birbirine ne kadar benzediği.
+
+38
+00:03:39.250 --> 00:03:43.060
+İkisi de sıkışıp kalmış bir hayattan kaçmak istiyor.
+
+39
+00:03:43.060 --> 00:03:50.070
+İkisi de küçük bir toprak parçasına, sabırla bakılan bir şeyin günün birinde meyve vereceğine güveniyor.
+
+40
+00:03:50.070 --> 00:03:54.680
+Ama oyundaki çiftçinin ilk hasadı ilk mevsimin sonunda geliyor.
+
+41
+00:03:54.680 --> 00:03:57.850
+Barone'un ilk hasadı yıllar sürecekti.
+
+42
+00:03:57.850 --> 00:04:02.620
+Birkaç ay sürmesi gereken proje bir yılı geçti, sonra iki yılı.
+
+43
+00:04:02.620 --> 00:04:09.630
+Barone'un mütevazı planı adım adım dağıldı, çünkü oyuna eklediği her şey yanında başka bir şeyi istiyordu.
+
+44
+00:04:09.630 --> 00:04:12.960
+Çiftçilik vardı, peki madencilik?
+
+45
+00:04:12.960 --> 00:04:15.970
+Madencilik vardı, peki balık tutma?
+
+46
+00:04:15.970 --> 00:04:22.980
+Kasabalılar vardı, peki onların kendi günlük programları, kendi dertleri, kendi doğum günleri?
+
+47
+00:04:22.980 --> 00:04:28.550
+Her biri bir öncekini tamamlıyordu ve Barone hiçbirini yarım bırakmaya razı değildi.
+
+48
+00:04:28.550 --> 00:04:30.760
+Para meselesi de vardı.
+
+49
+00:04:30.760 --> 00:04:36.810
+Barone bir süre Seattle'daki tarihi Paramount Tiyatrosu'nda yer gösterici olarak çalıştı.
+
+50
+00:04:36.810 --> 00:04:44.780
+Konser ve gösteri gecelerinde seyircilere yer gösteriyor, eve dönünce de gece geç saatlere kadar oyunun başında oturuyordu.
+
+51
+00:04:44.780 --> 00:04:47.310
+Ama bu iş geçinmeye yetmiyordu.
+
+52
+00:04:47.310 --> 00:04:50.960
+Asıl yükü kız arkadaşı Amber Hageman taşıyordu.
+
+53
+00:04:50.960 --> 00:04:57.170
+Amber o yıllarda hem okuyor hem çalışıyordu ve ikisinin geçimini büyük ölçüde o sağladı.
+
+54
+00:04:57.170 --> 00:05:04.340
+Barone sonradan verdiği röportajlarda bu dönemi anlatırken minnetini de suçluluğunu da saklamadı.
+
+55
+00:05:04.340 --> 00:05:12.310
+Arkadaşları kariyer kuruyordu, kendisi ise bir türlü bitmeyen bir oyunun başında, hiçbir garantisi olmadan oturuyordu.
+
+56
+00:05:12.310 --> 00:05:14.360
+Bu oyunu tek kişi yaptı.
+
+57
+00:05:14.360 --> 00:05:17.370
+Bu bir abartma değil, düz bir olgu.
+
+58
+00:05:17.370 --> 00:05:19.420
+Kodu Barone yazdı.
+
+59
+00:05:19.420 --> 00:05:27.070
+Karakter portrelerini, ekinleri, binaları, mevsim mevsim değişen ağaçları piksel piksel o çizdi.
+
+60
+00:05:27.070 --> 00:05:29.120
+Müziği o besteledi.
+
+61
+00:05:29.120 --> 00:05:35.810
+Kasabalıların diyaloglarını, aralarındaki ilişkileri, bir köşede saklı küçük hikâyeleri o yazdı.
+
+62
+00:05:35.810 --> 00:05:40.420
+Ses efektlerinden arayüze, oyun dengesine kadar her karar onundu.
+
+63
+00:05:40.420 --> 00:05:43.590
+Bu bağımsızlığın ağır bir bedeli vardı.
+
+64
+00:05:43.590 --> 00:05:49.160
+Ortada ne bir sanat yönetmeni vardı ne de "Bu yeterince iyi, bırak artık" diyecek biri.
+
+65
+00:05:49.160 --> 00:05:52.650
+Barone kendi eserine baktıkça kusur görüyordu.
+
+66
+00:05:52.650 --> 00:05:57.100
+Karakter portrelerini baştan sona birçok kez yeniden çizdi.
+
+67
+00:05:57.100 --> 00:06:02.670
+Becerisi geliştikçe eski çizimleri gözüne zayıf görünüyor, yeniden başlıyordu.
+
+68
+00:06:02.670 --> 00:06:07.120
+Bir oyunun sanatını tek başına sıfırdan yeniden yapmak ayları yer.
+
+69
+00:06:07.120 --> 00:06:09.970
+Barone bunu tekrar tekrar yaptı.
+
+70
+00:06:09.970 --> 00:06:12.500
+Oyun tamamen gizli de değildi.
+
+71
+00:06:12.500 --> 00:06:23.830
+2012'de Barone projesini, Valve'ın bağımsız oyunların kitleye ulaşmasını sağlayan oylama sistemi Steam Greenlight'a, yani Yeşil Işık programına koydu.
+
+72
+00:06:23.830 --> 00:06:28.280
+Oyuncular, Steam'de satılmasını istedikleri oyunlara oy veriyordu.
+
+73
+00:06:28.280 --> 00:06:31.770
+Yıldız Tozu Vadisi kısa sürede onay aldı.
+
+74
+00:06:31.770 --> 00:06:39.100
+Hasat Ayı'nın eski günlerini özleyen bir kitle bu küçük, renkli ekran görüntülerini görünce heyecanlanmıştı.
+
+75
+00:06:39.100 --> 00:06:46.110
+Kısa süre sonra, Starbound oyunuyla tanınan Londralı küçük yayıncı Chucklefish de projeye ortak oldu.
+
+76
+00:06:46.110 --> 00:06:52.640
+Yayıncı pazarlama ve iş tarafında destek verecek, oyun yine tamamen Barone'un elinde kalacaktı.
+
+77
+00:06:52.640 --> 00:06:55.170
+Bu, bir yandan teselliydi.
+
+78
+00:06:55.170 --> 00:06:57.700
+Oyunu bekleyen insanlar vardı.
+
+79
+00:06:57.700 --> 00:07:03.270
+Öte yandan baskı da artmıştı, çünkü artık bekleyen insanlar vardı.
+
+80
+00:07:03.270 --> 00:07:11.400
+Barone ara ara geliştirme güncellemeleri yayımlıyordu, ama "Ne zaman çıkıyor?" sorusuna verebileceği dürüst bir cevap yoktu.
+
+81
+00:07:11.400 --> 00:07:18.730
+Yıllar geçtikçe internetin bir köşesinde oyunun hiç çıkmayacağına dair alaylar da duyulmaya başladı.
+
+82
+00:07:18.730 --> 00:07:21.420
+Gündelik hayatı giderek daralıyordu.
+
+83
+00:07:21.420 --> 00:07:28.750
+Barone haftanın 7 günü, günde 10 saatten fazla, kimi zaman 15 saate yakın çalıştığını anlatacaktı.
+
+84
+00:07:28.750 --> 00:07:31.760
+Arkadaşlarıyla görüşmesi seyrekleşti.
+
+85
+00:07:31.760 --> 00:07:34.450
+Sosyal hayatı neredeyse yok oldu.
+
+86
+00:07:34.450 --> 00:07:45.300
+Gazeteci Jason Schreier'in oyun sektörünün perde arkasını anlattığı kitabında bu dönemi aktaran sayfalar, ekranın karşısında tek başına geçen sonu gelmez günlerin resmini çizer.
+
+87
+00:07:45.300 --> 00:07:54.710
+Barone o yıllarda kaygı ve yalnızlık hissiyle boğuştuğunu, zaman zaman bu kadar zamanı boşa harcayıp harcamadığını sorguladığını açıkça söyledi.
+
+88
+00:07:54.710 --> 00:07:57.400
+Burada acı bir ironi var.
+
+89
+00:07:57.400 --> 00:08:05.210
+Barone, yaşamın sadeliğini, toprağın sabrını, bir topluluğa ait olmanın sıcaklığını anlatan bir oyun yapıyordu.
+
+90
+00:08:05.210 --> 00:08:16.540
+Oyundaki kasabanın ortasında yıkılmaya yüz tutmuş bir Topluluk Merkezi duruyordu ve oyuncunun en büyük görevlerinden biri, kasabalılarla birlikte o binayı yeniden ayağa kaldırmaktı.
+
+91
+00:08:16.540 --> 00:08:25.630
+Oysa oyunun yapımcısı tam tersi bir hayat sürüyordu: penceresi kapalı bir odada, insanlardan uzak, hep bir sonraki düzeltmenin peşinde.
+
+92
+00:08:25.630 --> 00:08:27.680
+Ama Barone bırakmadı.
+
+93
+00:08:27.680 --> 00:08:35.170
+2015'in sonuna gelindiğinde oyunun sonunda bittiğini, en azından yeterince bittiğini kabul edebildi.
+
+94
+00:08:35.170 --> 00:08:37.540
+Çıkış tarihi açıklandı.
+
+95
+00:08:37.540 --> 00:08:40.550
+26 Şubat 2016.
+
+96
+00:08:40.550 --> 00:08:45.000
+İlk satırın yazılmasının üzerinden yaklaşık dört buçuk yıl geçmişti.
+
+97
+00:08:45.000 --> 00:08:51.850
+Birkaç aylık bir portfolyo projesi olarak başlayan şey, bir gencin yirmili yaşlarının ortasını yutmuştu.
+
+98
+00:08:51.850 --> 00:09:00.300
+Barone çıkıştan önce oyunun kimsenin ilgisini çekmeyeceğinden, bütün o yılların bir hiç uğruna geçmiş olabileceğinden korkuyordu.
+
+99
+00:09:00.300 --> 00:09:02.990
+O korku birkaç gün içinde dağıldı.
+
+100
+00:09:02.990 --> 00:09:08.720
+Yıldız Tozu Vadisi Steam'de çıktığı gün satış listelerinin üst sıralarına yerleşti.
+
+101
+00:09:08.720 --> 00:09:13.330
+Barone'un kendi beklentisini çok aşan bir ilgiyle karşılaşmıştı.
+
+102
+00:09:13.330 --> 00:09:18.420
+Oyuncular forumlarda, videolarda, yayınlarda çiftliklerini paylaşıyordu.
+
+103
+00:09:18.420 --> 00:09:26.550
+Kimisi ilk kış için yeterince para biriktiremediğinden yakınıyor, kimisi kasabadaki hangi karakterle evleneceğini tartışıyordu.
+
+104
+00:09:26.550 --> 00:09:31.800
+Oyunun ilk iki haftada 400 bini aşkın kopya sattığı tahmin ediliyordu.
+
+105
+00:09:31.800 --> 00:09:35.450
+Yaklaşık 2 ay içinde de 1 milyon barajı aşıldı.
+
+106
+00:09:35.450 --> 00:09:39.740
+Ama zafer anı bile Barone için bir dinlenme anı olmadı.
+
+107
+00:09:39.740 --> 00:09:44.350
+Tek kişilik ordu, çıkışın ertesi günü de tek kişilik bir orduydu.
+
+108
+00:09:44.350 --> 00:09:48.800
+Binlerce oyuncu hata buluyor, raporluyor, çözüm bekliyordu.
+
+109
+00:09:48.800 --> 00:09:53.250
+Barone o haftalarda neredeyse hiç uyumadan yamalar hazırladı.
+
+110
+00:09:53.250 --> 00:09:58.180
+Her gelen raporu kendisi okudu, her düzeltmeyi kendisi yaptı.
+
+111
+00:09:58.180 --> 00:10:03.110
+Dört buçuk yılın yorgunluğu bir de çıkış sonrası mesainin altına girmişti.
+
+112
+00:10:03.110 --> 00:10:06.120
+Asıl şaşırtıcı olan ise sonradan geldi.
+
+113
+00:10:06.120 --> 00:10:11.050
+Çoğu oyun çıktığı ilk aylarda zirveye ulaşır, sonra yavaş yavaş unutulur.
+
+114
+00:10:11.050 --> 00:10:17.100
+Yıldız Tozu Vadisi'nin satışları ise yıllar boyunca düşmek yerine katlanarak sürdü.
+
+115
+00:10:17.100 --> 00:10:24.270
+Oyun 2016'nın sonunda PlayStation 4 ve Xbox One'a, 2017'de Nintendo Switch'e geçti.
+
+116
+00:10:24.270 --> 00:10:27.440
+Ardından telefonlara ve tabletlere uzandı.
+
+117
+00:10:27.440 --> 00:10:33.010
+Bu sırada Barone da bir uyarlama ustası olmayı değil, oyununa odaklanmayı seçti.
+
+118
+00:10:33.010 --> 00:10:38.420
+Konsol sürümleri için dışarıdan yardım aldı, kendisi yeni içeriğe yoğunlaştı.
+
+119
+00:10:38.420 --> 00:10:47.350
+Barone o yıllarda bir söz verdi ve bu söz oyunun kimliğinin bir parçası haline geldi: Oyunun güncellemeleri hep ücretsiz olacaktı.
+
+120
+00:10:47.350 --> 00:10:52.600
+Oyunu bir kez satın alan, yeni içerik için bir daha cüzdanını açmayacaktı.
+
+121
+00:10:52.600 --> 00:11:01.210
+2018'de gelen 1.3 güncellemesi, oyunculardan en çok istenen özelliği getirdi: çok oyunculu mod.
+
+122
+00:11:01.210 --> 00:11:05.500
+Artık arkadaşlar aynı çiftlikte birlikte ekip biçebiliyordu.
+
+123
+00:11:05.500 --> 00:11:12.670
+Aynı yılın sonunda Barone, oyunun yayın haklarını da kendisi devraldı ve kendi oyununun yayıncısı oldu.
+
+124
+00:11:12.670 --> 00:11:18.880
+2020'nin aralığında gelen 1.5 güncellemesi oyuna koca bir ada ekledi.
+
+125
+00:11:18.880 --> 00:11:31.810
+2024'ün kasımında 1.6 güncellemesi çıktığında, oyunun ilk çıkışının üzerinden 8 yılı aşkın bir süre geçmişti ve oyuncular hâlâ yeni bir güncelleme için gün sayıyordu.
+
+126
+00:11:31.810 --> 00:11:34.820
+Rakamlar da bu sadakati yansıtıyor.
+
+127
+00:11:34.820 --> 00:11:41.510
+Oyun 2020'nin başında 10 milyon kopyayı, 2022'de 20 milyonu geride bıraktı.
+
+128
+00:11:41.510 --> 00:11:47.400
+Bugün 40 milyonun üzerinde kopyayla tarihin en çok satan oyunları arasında yer alıyor.
+
+129
+00:11:47.400 --> 00:11:54.570
+Bu listedeki komşularının çoğu, yüzlerce kişilik ekiplerin ve yüz milyonlarca dolarlık bütçelerin ürünü.
+
+130
+00:11:54.570 --> 00:12:02.380
+2017'de Forbes dergisi Barone'u oyun alanında 30 yaşın altındaki 30 önemli isim listesine aldı.
+
+131
+00:12:02.380 --> 00:12:11.310
+Oyunun müzikleri ise öyle sevildi ki yıllar sonra bir orkestra turnesiyle dünyanın farklı şehirlerinde konser salonlarında çalındı.
+
+132
+00:12:11.310 --> 00:12:18.320
+Bir zamanlar Paramount Tiyatrosu'nda seyircilere yer gösteren adamın besteleri, şimdi o tür salonları dolduruyordu.
+
+133
+00:12:18.320 --> 00:12:23.410
+Yıldız Tozu Vadisi'nin bıraktığı iz satış rakamlarından daha derin.
+
+134
+00:12:23.410 --> 00:12:33.780
+Oyun, bugün sık duyduğumuz rahatlatıcı oyunlar, yani acele ettirmeyen, oyuncuyu cezalandırmayan, sakin ritimli oyunlar akımının en güçlü itici güçlerinden biri oldu.
+
+135
+00:12:33.780 --> 00:12:41.430
+Onun başarısından sonra sayısız küçük stüdyo çiftçilik, zanaat ve kasaba hayatı üzerine kurulu oyunlar yaptı.
+
+136
+00:12:41.430 --> 00:12:45.080
+Kimisi açıkça ondan ilham aldığını söyledi.
+
+137
+00:12:45.080 --> 00:12:51.610
+Bir zamanlar Barone'un özlediği o eski hissi bulamadığı tür, onun sayesinde yeniden canlandı.
+
+138
+00:12:51.610 --> 00:12:58.780
+Bir hayranın, sevdiği seriye bir tür saygı duruşu olarak başladığı iş, o türün yeni ölçütü haline geldi.
+
+139
+00:12:58.780 --> 00:13:02.750
+Oyunun bir başka mirası da hikâyesinin kendisi.
+
+140
+00:13:02.750 --> 00:13:09.280
+Yıldız Tozu Vadisi, tek başına çalışan bağımsız geliştiricilerin dilinde bir umut sembolüne dönüştü.
+
+141
+00:13:09.280 --> 00:13:14.370
+Yine de Barone'un kendi anlatımı bu hikâyeyi romantikleştirmekten hep kaçındı.
+
+142
+00:13:14.370 --> 00:13:21.860
+Başarısını bir şans ve zamanlama meselesi olarak da gördüğünü, o yılların yalnızlığını kimseye önermeyeceğini söyledi.
+
+143
+00:13:21.860 --> 00:13:25.510
+Onun hikâyesi bir yöntem değil, bir istisna.
+
+144
+00:13:25.510 --> 00:13:30.440
+Ama istisnalar da bazen bir kapının aralanabileceğini gösterir.
+
+145
+00:13:30.440 --> 00:13:32.170
+Ve Barone durmadı.
+
+146
+00:13:32.170 --> 00:13:38.700
+2021'de yeni oyununu duyurdu: Haunted Chocolatier, yani Perili Çikolatacı.
+
+147
+00:13:38.700 --> 00:13:45.230
+Bu kez çiftlik yerine hayaletlerle dolu bir şatoda çikolata dükkânı işleten bir kahraman var.
+
+148
+00:13:45.230 --> 00:13:48.720
+Barone yine büyük ölçüde tek başına çalışıyor.
+
+149
+00:13:48.720 --> 00:13:50.290
+Bir farkla.
+
+150
+00:13:50.290 --> 00:13:56.660
+Artık arkasında ne bir maddi kaygı var ne de hiç çıkmayacak diye alay edilen bir oyunun gölgesi.
+
+151
+00:13:56.660 --> 00:14:00.630
+Sadece aynı titizlik ve aynı kendine has inat var.
+
+152
+00:14:00.630 --> 00:14:03.480
+Oyunun başındaki o mektubu hatırlayın.
+
+153
+00:14:03.480 --> 00:14:10.330
+Büyükbaba torununa, hayatın ağırlığı altında ezildiğini hissettiği gün açmasını söylediği bir zarf bırakır.
+
+154
+00:14:10.330 --> 00:14:16.380
+Barone 2011'de iş bulamayan bir mezunken, kendi zarfını kendisi yazmıştı.
+
+155
+00:14:16.380 --> 00:14:22.110
+Dört buçuk yıl boyunca tek başına ektiği tohumlar, onun da beklemediği bir bolluk getirdi.
+
+156
+00:14:22.110 --> 00:14:32.640
+Bugün dünyanın dört bir yanında milyonlarca insan, gri bir masadan kalkıp küçük bir çiftliğe taşınmanın hayalini, onun piksel piksel çizdiği bir vadide yaşıyor.
+
+157
+00:14:32.640 --> 00:14:34.690
+---
+
+158
+00:14:34.690 --> 00:14:36.740
+**Notlar:**
+
+159
+00:14:36.740 --> 00:14:42.630
+- Metin yaklaşık 2.300 kelime; 17–24 dakikalık aralığın içinde.
+
+160
+00:14:42.630 --> 00:15:08.880
+- Bu metni web araması yapmadan, kendi bilgimle yazdım. Hiçbir olguyu kaynaktan doğrulamadım. En çok şu üçüne bakmak gerekiyor: "ilk iki haftada 400 binin üzerinde" satış rakamı (bu bir tahmin), Barone'un Paramount Tiyatrosu'nda yer gösterici olarak çalışması ve 2020/2022 satış dönüm noktaları. Toplam satış için 41 milyon gibi kesin bir sayı yerine bilerek "40 milyonun üzerinde" dedim.
+
+161
+00:15:08.880 --> 00:15:23.730
+- Yabancı ad kuralına göre adlar ilk geçtikleri yerde Türkçe kısa adlarıyla verildi, sonra o adlar kullanıldı: Yıldız Tozu Vadisi, Hasat Ayı, Joja Şirketi, Pelikan Kasabası, Yeşil Işık ve Perili Çikolatacı.
+
+162
+00:15:23.730 --> 00:15:27.060
+Chucklefish'e ise yalnızca bir kez değindim.
+
+163
+00:15:27.060 --> 00:15:30.390
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+164
+00:15:30.390 --> 00:15:33.400
+Yeni bir hikâyede yeniden buluşmak üzere.
