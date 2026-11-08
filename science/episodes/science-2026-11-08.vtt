@@ -1,0 +1,653 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.930
+You are carrying a sofa down a narrow hallway, and at the corner it gets stuck.
+
+2
+00:00:04.930 --> 00:00:08.580
+What is the biggest sofa that could ever make that turn?
+
+3
+00:00:08.580 --> 00:00:17.190
+Mathematicians spent fifty-eight years on this simple question, and the answer turned out to be a strange shape stitched together from eighteen curved pieces.
+
+4
+00:00:25.390 --> 00:00:27.920
+Yeni bir eve taşındığınızı düşünün.
+
+5
+00:00:27.920 --> 00:00:34.610
+Kamyon kapının önünde, merdivenleri çıkmışsınız, elinizde en sevdiğiniz kanepe var.
+
+6
+00:00:34.610 --> 00:00:41.620
+Önünüzde dar bir koridor uzanıyor ve birkaç metre ileride tam 90 derecelik bir dönüş yapıyor.
+
+7
+00:00:41.620 --> 00:00:48.630
+Kanepeyi ileri itiyorsunuz, köşeye geliyorsunuz, eğiyorsunuz, döndürüyorsunuz ve sıkışıyor.
+
+8
+00:00:48.630 --> 00:00:51.160
+Geri çekip bir daha deniyorsunuz.
+
+9
+00:00:51.160 --> 00:00:58.970
+Bu sahneyi yaşamış herkesin aklından aynı soru geçer: Bu köşeyi dönebilecek en büyük kanepe ne kadar büyük olabilir?
+
+10
+00:00:58.970 --> 00:01:06.300
+Kulağa bir ev hâli şakası gibi geliyor ama matematikte bu sorunun resmî bir adı var: hareketli kanepe problemi.
+
+11
+00:01:06.300 --> 00:01:13.310
+Problemi 1966'da Avusturya doğumlu Kanadalı matematikçi Leo Moser ortaya attı.
+
+12
+00:01:13.310 --> 00:01:20.800
+Moser geometri bulmacalarına meraklıydı ve basit sorulmuş ama çözümü zor sorular toplamayı severdi.
+
+13
+00:01:20.800 --> 00:01:27.490
+Bu soru da tam onlardandı: Kanepe katı bir cisimdir, bükülemez, ezilemez, katlanamaz.
+
+14
+00:01:27.490 --> 00:01:35.620
+Bu cismi kayarak ve dönerek hareket ettirebilirsiniz ama kaldıramazsınız, yani her şey düz bir zeminde, iki boyutta olup biter.
+
+15
+00:01:35.620 --> 00:01:39.750
+Koridorun genişliği 1 birimdir, köşe dik açıdır.
+
+16
+00:01:39.750 --> 00:01:46.440
+Bu koridordan geçip köşeyi dönebilen düzlemsel şekillerin içinde alanı en büyük olan hangisidir?
+
+17
+00:01:46.440 --> 00:01:52.330
+Sorunun inceliği, ilk akla gelen cevapların ne kadar kolay geçildiğinde yatıyor.
+
+18
+00:01:52.330 --> 00:01:55.820
+En basit aday kenarı 1 birim olan bir karedir.
+
+19
+00:01:55.820 --> 00:02:02.990
+Kare koridorda kayar, köşeye gelince döner değil, sadece yön değiştirip yan koridora kayar.
+
+20
+00:02:02.990 --> 00:02:05.360
+Alanı 1'dir.
+
+21
+00:02:05.360 --> 00:02:15.570
+Biraz daha iyisi yarım dairedir: yarıçapı 1 olan bir yarım daireyi köşeye kadar itin, köşede merkezinin etrafında çevirin, sonra yan koridora itin.
+
+22
+00:02:15.570 --> 00:02:20.660
+Alanı pi bölü 2, yani yaklaşık 1,57 eder.
+
+23
+00:02:20.660 --> 00:02:24.630
+Kareden daha iyi, ama daha da iyisi var.
+
+24
+00:02:24.630 --> 00:02:31.960
+İşin sırrı şurada: köşeyi dönen bir şekil koridorun iç köşesine çarpmamak için ortasında bir oyuk taşıyabilir.
+
+25
+00:02:31.960 --> 00:02:36.890
+Bu fikri ilk ustaca kullanan İngiliz matematikçi John Hammersley oldu.
+
+26
+00:02:36.890 --> 00:02:43.260
+Hammersley Oxford'da çalışan, olasılık kuramında ve Monte Carlo yöntemlerinde iz bırakmış bir isimdi.
+
+27
+00:02:43.260 --> 00:02:54.110
+1968'de matematik eğitiminin gidişatını eleştirdiği, okullarda öğretilen matematiğin fazla soyut, fazla kuru hâle geldiğini anlattığı bir makale yazdı.
+
+28
+00:02:54.110 --> 00:03:07.200
+Gerçek problemlerle uğraşmanın ne kadar öğretici olabileceğini göstermek için de örnek olarak Moser'in kanepesini seçti ve tam o yazının içinde, neredeyse bir yan not gibi, şaşırtıcı derecede iyi bir çözüm önerdi.
+
+29
+00:03:07.200 --> 00:03:10.370
+Hammersley'in şeklini şöyle kurabilirsiniz.
+
+30
+00:03:10.370 --> 00:03:17.700
+Önce yarım daireyi alın ve onu tam ortasından ikiye kesin, böylece iki çeyrek daire elde edersiniz.
+
+31
+00:03:17.700 --> 00:03:25.350
+Bu iki parçayı birbirinden uzaklaştırın ve arasına eni 1, boyu 4 bölü pi birim olan bir dikdörtgen yerleştirin.
+
+32
+00:03:25.350 --> 00:03:31.880
+Sonra bu dikdörtgenin alt kenarından yarıçapı 2 bölü pi olan yarım daire biçiminde bir parça oyun.
+
+33
+00:03:31.880 --> 00:03:43.210
+Ortaya çıkan şekil eski tip bir telefonun ahizesine çok benzer: iki yanda kulaklık ve mikrofon gibi duran yuvarlak uçlar, ortada kavisli bir sap ve sapın altında bir boşluk.
+
+34
+00:03:43.210 --> 00:03:50.540
+Köşeyi dönerken iç köşe tam bu boşluğun içinde kayar ve şekil hiçbir yere sıkışmadan diğer koridora geçer.
+
+35
+00:03:50.540 --> 00:03:56.430
+Bu ahizenin alanı pi bölü 2 artı 2 bölü pi'dir, yani yaklaşık 2,2074.
+
+36
+00:03:56.430 --> 00:04:00.080
+Yarım daireden yüzde 40'tan fazla büyük.
+
+37
+00:04:00.080 --> 00:04:06.770
+Üstelik Hammersley sadece aşağıdan bir sınır vermekle kalmadı, yukarıdan da bir tavan koydu.
+
+38
+00:04:06.770 --> 00:04:13.940
+Köşeyi dönebilen hiçbir kanepenin alanı 2 kök 2'yi, yani yaklaşık 2,83'ü aşamazdı.
+
+39
+00:04:13.940 --> 00:04:19.830
+Böylece cevabın 2,2074 ile 2,83 arasında bir yerde olduğu biliniyordu.
+
+40
+00:04:19.830 --> 00:04:23.960
+Hammersley kendi ahizesinin en iyi çözüm olabileceğini düşünüyordu.
+
+41
+00:04:23.960 --> 00:04:29.370
+Şekil o kadar zarif, o kadar dengeliydi ki daha iyisini hayal etmek zordu.
+
+42
+00:04:29.370 --> 00:04:34.620
+Ama matematikte zarafet bir kanıt yerine geçmez.
+
+43
+00:04:34.620 --> 00:04:39.710
+Burada sorunun neden bu kadar inatçı olduğunu da anlamak gerekiyor.
+
+44
+00:04:39.710 --> 00:04:44.640
+Bir kanepenin köşeyi dönmesi tek bir an değildir, sürekli bir harekettir.
+
+45
+00:04:44.640 --> 00:04:52.450
+Kanepe bir yandan döner, bir yandan kayar, ve bu hareketin her anında koridorun duvarlarının içinde kalması gerekir.
+
+46
+00:04:52.450 --> 00:05:00.260
+Matematikçiler bu durumu tersinden düşünmeyi sever: kanepeyi sabit tutun ve koridorun onun etrafında hareket ettiğini varsayın.
+
+47
+00:05:00.260 --> 00:05:09.030
+O zaman kanepe, hareketin her anındaki koridor konumlarının hepsinin içinde aynı anda kalan bölgedir, yani hepsinin ortak kesişimidir.
+
+48
+00:05:09.030 --> 00:05:12.840
+Hareket yolunu değiştirdiğinizde kesişim de değişir.
+
+49
+00:05:12.840 --> 00:05:19.530
+Böylece soru, sonsuz sayıda olası hareket arasından ortak bölgesi en büyük olanı bulma sorusuna dönüşür.
+
+50
+00:05:19.530 --> 00:05:24.780
+Bu, sonlu sayıda seçeneği tek tek deneyerek çözülebilecek bir arama değildir.
+
+51
+00:05:24.780 --> 00:05:28.270
+Olasılıklar sonsuz boyutlu bir uzaya yayılır.
+
+52
+00:05:28.270 --> 00:05:32.400
+Ahize bu uzayda parlak bir noktaydı.
+
+53
+00:05:32.400 --> 00:05:35.410
+Peki zirve gerçekten orası mıydı?
+
+54
+00:05:35.410 --> 00:05:42.420
+Cevabın hayır olduğunu gösteren kişi, Amerika'daki Rutgers Üniversitesi'nden matematikçi Joseph Gerver oldu.
+
+55
+00:05:42.420 --> 00:05:51.030
+1992'de yayımladığı çalışmada Gerver, Hammersley'in ahizesinin kenarlarının biraz daha akıllıca kıvrılabileceğini gösterdi.
+
+56
+00:05:51.030 --> 00:05:56.280
+Ahizenin iç oyuğu tam bir yarım daireydi, dış köşeleri de çeyrek dairelerdi.
+
+57
+00:05:56.280 --> 00:06:01.850
+Gerver bu dairesel parçaları gevşetti, yerlerine ince ayarlanmış eğriler koydu.
+
+58
+00:06:01.850 --> 00:06:06.620
+Sonuçta ortaya çıkan şekil ahizeye çok benziyordu.
+
+59
+00:06:06.620 --> 00:06:10.590
+Yan yana koysanız aradaki farkı gözle görmek zordu.
+
+60
+00:06:10.590 --> 00:06:14.880
+Ama sınırı tam 18 ayrı eğri parçasından oluşuyordu.
+
+61
+00:06:14.880 --> 00:06:24.770
+Kimi düz bir çizgi, kimi bir daire yayı, kimi de daha karmaşık denklemlerle tarif edilen kıvrımlardı ve her biri bir öncekine kusursuzca ekleniyordu.
+
+62
+00:06:24.770 --> 00:06:30.500
+Bu 18 parçalı kanepenin alanı yaklaşık 2,2195'tir.
+
+63
+00:06:30.500 --> 00:06:34.310
+Ahizeden farkı binde 5'ten biraz fazla.
+
+64
+00:06:34.310 --> 00:06:38.920
+Bir oturma odasında kimsenin fark etmeyeceği kadar küçük bir fark.
+
+65
+00:06:38.920 --> 00:06:46.250
+Ama matematikte bu fark bir uçurumdur, çünkü Hammersley'in şeklinin en iyi olmadığını kesin olarak gösterir.
+
+66
+00:06:46.250 --> 00:06:49.260
+Demek ki ilk sezgi yanılmıştı.
+
+67
+00:06:49.260 --> 00:06:52.910
+Peki Gerver'in şeklinden daha iyisi de var mıydı?
+
+68
+00:06:52.910 --> 00:06:56.880
+Gerver bu şekle rastgele denemelerle ulaşmamıştı.
+
+69
+00:06:56.880 --> 00:07:00.530
+Şekli belirli bir denge ilkesiyle kurmuştu.
+
+70
+00:07:00.530 --> 00:07:07.700
+Onun bakışında, köşeyi dönen kanepeye koridorun duvarları her temas noktasında bir tür itme kuvveti uygular.
+
+71
+00:07:07.700 --> 00:07:14.390
+Bir şekil en iyi şekilse, bu kuvvetlerin hareketin her anında birbirini dengelemesi gerekir.
+
+72
+00:07:14.390 --> 00:07:21.240
+Çünkü dengelenmiyorsa, kanepeyi bir yöne biraz daha esneterek ondan bir parça daha alan kazanabilirsiniz.
+
+73
+00:07:21.240 --> 00:07:31.290
+Gerver bu denge koşullarını sağlayan şekli buldu ve onun en azından yerel olarak en iyi olduğunu, yani küçük değişikliklerle alanının büyütülemeyeceğini gösterdi.
+
+74
+00:07:31.290 --> 00:07:34.460
+İşte sorunun asıl düğümü burada.
+
+75
+00:07:34.460 --> 00:07:39.870
+Yerel olarak en iyi olmak, mutlak olarak en iyi olmak demek değildir.
+
+76
+00:07:39.870 --> 00:07:44.960
+Bir dağcı etrafındaki her yönde arazinin aşağı indiğini görebilir.
+
+77
+00:07:44.960 --> 00:07:51.650
+Bu, bir tepenin üstünde olduğunu gösterir ama dünyanın en yüksek tepesinde olduğunu göstermez.
+
+78
+00:07:51.650 --> 00:07:59.300
+Belki sisin ardında, tamamen farklı bir hareket biçimiyle ulaşılan, bambaşka görünümlü daha yüksek bir zirve vardır.
+
+79
+00:07:59.300 --> 00:08:04.230
+Gerver kendi şeklinin en iyi olduğunu tahmin etti ama bunu kanıtlayamadı.
+
+80
+00:08:04.230 --> 00:08:13.160
+Kanepe problemi böylece yeni bir aşamaya geçti: artık ortada güçlü bir aday vardı, ama onun tahtta kalacağını garanti eden bir belge yoktu.
+
+81
+00:08:13.160 --> 00:08:18.090
+Sonraki yıllarda problem bir tür iki taraflı kuşatmaya dönüştü.
+
+82
+00:08:18.090 --> 00:08:22.220
+Bir taraf, Gerver'den daha iyi bir kanepe arıyordu.
+
+83
+00:08:22.220 --> 00:08:27.630
+Bilgisayarlarla sayısal denemeler yapıldı, farklı hareket yolları tarandı.
+
+84
+00:08:27.630 --> 00:08:34.160
+Bu aramaların hiçbiri 2,2195'i geçemedi, ama bulamamak yokluğun kanıtı değildir.
+
+85
+00:08:34.160 --> 00:08:38.610
+Diğer taraf ise tavanı aşağı çekmeye çalışıyordu.
+
+86
+00:08:38.610 --> 00:08:44.340
+Hammersley'in 2,83'lük üst sınırı onlarca yıl yerinden kıpırdamadı.
+
+87
+00:08:44.340 --> 00:08:50.550
+2016'dan itibaren Kaliforniya Üniversitesi'nden Dan Romik probleme yeniden ışık tuttu.
+
+88
+00:08:50.550 --> 00:08:58.040
+Romik, Gerver'in denge koşullarını bir diferansiyel denklemler sistemine dönüştürdü ve bu sistemi açıkça çözdü.
+
+89
+00:08:58.040 --> 00:09:06.490
+Böylece Gerver'in 18 parçalı şeklinin her eğrisi, sayısal yaklaşımlarla değil, kapalı formüllerle yazılabilir hâle geldi.
+
+90
+00:09:06.490 --> 00:09:14.460
+Gerver'in sabiti denen o 2,2195'li sayı artık tam bir ifadeyle tarif edilebiliyordu.
+
+91
+00:09:14.460 --> 00:09:19.230
+Bu, adayın kimliğini netleştirdi ama tahtını sağlamlaştırmadı.
+
+92
+00:09:19.230 --> 00:09:24.480
+Ardından Romik, matematikçi Yoav Kallus ile birlikte tavana saldırdı.
+
+93
+00:09:24.480 --> 00:09:30.530
+İkili problemi bilgisayarın denetleyebileceği sonlu bir biçime indiren bir yöntem geliştirdi.
+
+94
+00:09:30.530 --> 00:09:42.980
+Kanepenin hareketi sırasında birkaç belirli açıda koridorun nerede olabileceğini sınırladılar ve bu sınırlı durumlarda ortak bölgenin alanının ne kadar büyük olabileceğini makinenin titizce hesaplamasını sağladılar.
+
+95
+00:09:42.980 --> 00:09:48.710
+2018'de yayımlanan sonuçları, üst sınırı 2,37'ye indirdi.
+
+96
+00:09:48.710 --> 00:09:53.640
+Bu önemli bir ilerlemeydi: Hammersley'den bu yana ilk ciddi düşüştü.
+
+97
+00:09:53.640 --> 00:10:00.970
+Aynı çalışma, en iyi kanepenin köşeyi dönerken neredeyse tam 90 derece dönmesi gerektiğini de gösterdi.
+
+98
+00:10:00.970 --> 00:10:04.460
+Yine de tablo hâlâ huzursuz ediciydi.
+
+99
+00:10:04.460 --> 00:10:09.390
+Bir yanda 2,2195, öbür yanda 2,37.
+
+100
+00:10:09.390 --> 00:10:15.600
+Aradaki aralık küçük görünse de asıl soru açısından sonsuz derecede genişti.
+
+101
+00:10:15.600 --> 00:10:24.050
+Çünkü bilgisayar destekli yöntemler tavanı biraz daha aşağı çekebilirdi, ama tavanı tam olarak Gerver'in sayısına indirmek bambaşka bir şeydi.
+
+102
+00:10:24.050 --> 00:10:30.100
+Bunun için her olası hareketi, her olası şekli aynı anda kapsayan bir akıl yürütme gerekiyordu.
+
+103
+00:10:30.100 --> 00:10:40.630
+Bazı matematikçiler kesin cevabın belki hiç kanıtlanamayacağını, ya da kanıtın insan eliyle denetlenemeyecek kadar devasa bir bilgisayar hesabına dönüşeceğini düşünmeye başlamıştı.
+
+104
+00:10:40.630 --> 00:10:46.680
+Moser'in koridoru, yarım yüzyılı geride bırakmış ve hâlâ kapısı kilitli duruyordu.
+
+105
+00:10:46.680 --> 00:11:00.890
+2024'ün Kasım ayının sonunda, matematikçilerin ön baskılarını hakem sürecinden önce paylaştığı açık arşiv arXiv'e, yani Açık Arşiv'e, Güney Koreli genç bir matematikçinin imzasını taşıyan bir makale yüklendi.
+
+106
+00:11:00.890 --> 00:11:06.460
+Başlığı iddiasını tek cümlede söylüyordu: Gerver'in kanepesi en iyisidir.
+
+107
+00:11:06.460 --> 00:11:14.430
+Makalenin yazarı, o sırada Seul'deki Yonsei Üniversitesi'nde doktora sonrası araştırmacı olarak çalışan Jineon Baek'ti.
+
+108
+00:11:14.430 --> 00:11:18.080
+Makale 119 sayfa uzunluğundaydı.
+
+109
+00:11:18.080 --> 00:11:31.330
+Baek problemin sadece yaklaşık değil, tam çözümünü verdiğini öne sürüyordu: Köşeyi dönebilen en büyük kanepenin alanı 2,2195'tir ve bu alana ulaşan şekil Gerver'in 18 eğrili şeklidir.
+
+110
+00:11:31.330 --> 00:11:35.300
+Moser'in sorusunu sormasından tam 58 yıl sonra.
+
+111
+00:11:35.300 --> 00:11:39.110
+Baek'in bu soruyla ilişkisi uzun yıllara dayanıyordu.
+
+112
+00:11:39.110 --> 00:11:46.920
+Probleme ilk kez lise yıllarında tanıştığını, doktora çalışmaları boyunca da onunla uğraşmayı sürdürdüğünü anlatıyor.
+
+113
+00:11:46.920 --> 00:11:52.970
+Daha önce de problemin parçaları üzerine çalışmalar yapmıştı ama bu kez hedef tam bir kanıttı.
+
+114
+00:11:52.970 --> 00:11:57.900
+Ortaya çıkan kanıtın belki de en dikkat çekici yanı yöntemiydi.
+
+115
+00:11:57.900 --> 00:12:02.830
+Kallus ve Romik'in çalışması bilgisayarın titiz hesaplarına dayanıyordu.
+
+116
+00:12:02.830 --> 00:12:07.920
+Baek'in kanıtı ise tamamen insan eliyle yürütülen analitik bir akıl yürütmeydi.
+
+117
+00:12:07.920 --> 00:12:11.410
+Bilgisayar denetimli hiçbir adım içermiyordu.
+
+118
+00:12:11.410 --> 00:12:16.180
+Peki sonsuz sayıda olası hareketi aynı anda nasıl evcilleştirdi?
+
+119
+00:12:16.180 --> 00:12:19.350
+Fikrin özünü kabaca şöyle anlatabiliriz.
+
+120
+00:12:19.350 --> 00:12:30.040
+Doğrudan alanla uğraşmak zordur, çünkü olası kanepeler uzayında alan çok engebeli bir arazi gibidir: yerel tepeler, gizli vadiler, sisli bölgeler.
+
+121
+00:12:30.040 --> 00:12:35.290
+Baek, alanın yerine onunla yakından ilişkili başka bir büyüklük tanımladı.
+
+122
+00:12:35.290 --> 00:12:43.100
+Bu yeni büyüklük her zaman alanın en az kendisi kadardır, yani gerçek alanı hiçbir zaman olduğundan küçük göstermez.
+
+123
+00:12:43.100 --> 00:12:47.070
+Gerver'in kanepesinde ise alana tam olarak eşittir.
+
+124
+00:12:47.070 --> 00:12:52.960
+Asıl hile şudur: bu yeni büyüklük, alanın aksine, tek tepeli bir arazi gibi davranır.
+
+125
+00:12:52.960 --> 00:12:56.130
+Matematikçilerin dilinde içbükeydir.
+
+126
+00:12:56.130 --> 00:13:04.740
+Tek tepeli bir arazide yerel zirve ile mutlak zirve aynı şeydir; dağcı yukarı çıkmayı bıraktığı yerde, dünyanın en yüksek noktasındadır.
+
+127
+00:13:04.740 --> 00:13:11.910
+Böylece Gerver'in yerel olarak en iyi olduğunu gösteren denge koşulları, birdenbire mutlak en iyiliğin kanıtına dönüşür.
+
+128
+00:13:11.910 --> 00:13:21.320
+Hiçbir kanepe bu yeni büyüklükte Gerver'i geçemiyorsa ve gerçek alan bu büyüklüğü hiç aşamıyorsa, hiçbir kanepenin gerçek alanı da Gerver'inkini geçemez.
+
+129
+00:13:21.320 --> 00:13:27.850
+Bu bir cümleyle anlatılabiliyor, ama 119 sayfanın neden gerektiğini anlamak da zor değil.
+
+130
+00:13:27.850 --> 00:13:34.700
+Böyle bir yardımcı büyüklüğü bulmak, onun her olası kanepe için gerçekten alandan büyük olduğunu göstermek,
+
+131
+00:13:34.700 --> 00:13:42.990
+içbükeyliğini kanıtlamak ve tüm bunları kanepenin hareketinin her türlü garip biçimini kapsayacak şekilde yapmak, uzun ve titiz bir iştir.
+
+132
+00:13:42.990 --> 00:13:55.440
+Kanıt, Gerver'in 1992'de koyduğu denge ilkesini, Romik'in açık formüllerini ve Kallus ile Romik'in hareketin neredeyse tam 90 derece olması gerektiği sonucunu da kendi yapısının içinde kullanır.
+
+133
+00:13:55.440 --> 00:14:05.170
+Bu anlamda Baek'in çalışması tek bir dâhinin aniden açtığı bir kapı değil, onlarca yıl boyunca farklı ellerin yavaş yavaş gevşettiği bir kilidin son çevrilişidir.
+
+134
+00:14:05.170 --> 00:14:10.420
+Matematik topluluğunun tepkisi hem heyecanlı hem temkinli oldu.
+
+135
+00:14:10.420 --> 00:14:15.670
+Heyecanlıydı, çünkü kanıtı inceleyen uzmanlar yaklaşımı ikna edici buldu.
+
+136
+00:14:15.670 --> 00:14:21.560
+Romik başta olmak üzere probleme yıllarını vermiş isimler çalışmayı övgüyle karşıladı.
+
+137
+00:14:21.560 --> 00:14:30.970
+2025 boyunca makale bilim basınında geniş yer buldu ve pek çok değerlendirmede yılın en önemli matematik sonuçlarından biri olarak anıldı.
+
+138
+00:14:30.970 --> 00:14:39.260
+Temkinliydi, çünkü matematikte bir sonuç ancak bağımsız hakemlerin satır satır incelemesinden geçtikten sonra yerleşik kabul edilir.
+
+139
+00:14:39.260 --> 00:14:47.550
+Baek makalesini alanın en seçici yayın organlarından biri olan Annals of Mathematics, yani Matematik Yıllıkları dergisine gönderdi.
+
+140
+00:14:47.550 --> 00:14:52.640
+Bilinen son duruma göre makale hâlâ hakem değerlendirmesinde.
+
+141
+00:14:52.640 --> 00:14:57.410
+Henüz yayımlanmış değil ve ortada bilinen bir hata da yok.
+
+142
+00:14:57.410 --> 00:15:01.060
+Bu bekleyiş olağan dışı bir şey değil.
+
+143
+00:15:01.060 --> 00:15:08.710
+119 sayfalık, yeni bir fikre dayanan bir kanıtın her adımını denetlemek aylar, hatta yıllar sürebilir.
+
+144
+00:15:08.710 --> 00:15:16.520
+Hakemler sadece sonucun doğru olup olmadığına değil, her ara adımın gerçekten bir sonrakini taşıyıp taşımadığına bakar.
+
+145
+00:15:16.520 --> 00:15:24.010
+Matematik tarihinde ilk biçiminde boşluk bulunup sonra onarılan büyük kanıtlar da vardır, olduğu gibi kabul edilenler de.
+
+146
+00:15:24.010 --> 00:15:34.220
+Bu yüzden şu an söylenebilecek en dürüst cümle şudur: Moser'in problemi büyük olasılıkla çözüldü, uzmanlar kanıta güveniyor, ama son mühür henüz basılmadı.
+
+147
+00:15:34.220 --> 00:15:37.550
+Peki bütün bunlar ne işe yarar?
+
+148
+00:15:37.550 --> 00:15:42.800
+Kimse Gerver'in 18 eğrili kanepesini bir mobilya mağazasından almayacak.
+
+149
+00:15:42.800 --> 00:15:52.530
+Gerçek bir taşınmada kanepeyi kaldırabilir, devirebilir, yan yatırabilirsiniz; yani üçüncü boyutu kullanırsınız ve problemin bütün kurgusu ortadan kalkar.
+
+150
+00:15:52.530 --> 00:15:59.860
+Kanepe probleminin değeri, cevabının kendisinden çok cevaba ulaşmak için icat edilen araçlarda yatıyor.
+
+151
+00:15:59.860 --> 00:16:11.830
+Sonsuz sayıda olasılık arasından en iyisini seçmek, yani optimizasyon, mühendislikten ekonomiye, robotik hareket planlamasından malzeme tasarımına kadar her yerde karşımıza çıkar.
+
+152
+00:16:11.830 --> 00:16:22.520
+Dar bir alanda dönen bir robot kolunun, karmaşık bir boru hattından geçen bir parçanın ya da bir hücre zarından süzülen bir molekülün izleyebileceği yollar da benzer sorular doğurur.
+
+153
+00:16:22.520 --> 00:16:29.530
+Bu alanlarda en zor şey hep aynıdır: yerel bir iyiliğin mutlak bir iyilik olduğundan nasıl emin olacağız?
+
+154
+00:16:29.530 --> 00:16:36.220
+Baek'in yaptığı şey, engebeli bir araziyi tek tepeli bir araziyle örterek bu soruyu cevaplamaktı.
+
+155
+00:16:36.220 --> 00:16:43.390
+Böyle bir örtünün nasıl kurulacağını gösteren her yeni örnek, başka problemlerde de denenebilecek bir kalıp bırakır.
+
+156
+00:16:43.390 --> 00:16:51.840
+Bu kalıbın başka problemlerde ne kadar işe yarayacağını şimdiden kestirmek ise mümkün değil; bu, zamanın göstereceği bir şey.
+
+157
+00:16:51.840 --> 00:16:55.490
+Bir de hikâyenin daha sessiz bir mirası var.
+
+158
+00:16:55.490 --> 00:17:03.940
+Moser'in sorusu, bir lise öğrencisinin anlayabileceği kadar basit, ama yarım asırdan uzun süre en iyi zihinlere direnecek kadar derindi.
+
+159
+00:17:03.940 --> 00:17:10.630
+Hammersley bu soruyu, matematiğin kuru formüller değil canlı bulmacalar olduğunu göstermek için seçmişti.
+
+160
+00:17:10.630 --> 00:17:22.280
+Onun ahizesinden Gerver'in 18 eğrisine, Kallus ile Romik'in tavanından Baek'in 119 sayfasına uzanan yol, Hammersley'in o eski iddiasını en güzel biçimde doğruluyor.
+
+161
+00:17:22.280 --> 00:17:30.250
+Bir koridorun köşesinde sıkışan sıradan bir kanepe, insan aklının en inatçı ve en sabırlı yolculuklarından birine dönüştü.
+
+162
+00:17:30.250 --> 00:17:33.740
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+163
+00:17:33.740 --> 00:17:37.230
+Yeni bir hikâyede yeniden buluşmak üzere.

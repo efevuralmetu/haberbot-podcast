@@ -1,0 +1,164 @@
+sira	karakter	saniye	kar_sn	metin
+1	79	4.480	17.63	You are carrying a sofa down a narrow hallway, and at the co
+2	56	3.200	17.50	What is the biggest sofa that could ever make that turn?
+3	158	8.160	19.36	Mathematicians spent fifty-eight years on this simple questi
+4	35	2.080	16.83	Yeni bir eve taşındığınızı düşünün.
+5	83	6.240	13.30	Kamyon kapının önünde, merdivenleri çıkmışsınız, elinizde en
+6	93	6.560	14.18	Önünüzde dar bir koridor uzanıyor ve birkaç metre ileride ta
+7	91	6.560	13.87	Kanepeyi ileri itiyorsunuz, köşeye geliyorsunuz, eğiyorsunuz
+8	33	2.080	15.87	Geri çekip bir daha deniyorsunuz.
+9	116	7.360	15.76	Bu sahneyi yaşamış herkesin aklından aynı soru geçer: Bu köş
+10	111	6.880	16.13	Kulağa bir ev hâli şakası gibi geliyor ama matematikte bu so
+11	78	6.560	11.89	Problemi 1966'da Avusturya doğumlu Kanadalı matematikçi Leo 
+12	99	7.040	14.06	Moser geometri bulmacalarına meraklıydı ve basit sorulmuş am
+13	85	6.240	13.62	Bu soru da tam onlardandı: Kanepe katı bir cisimdir, bükülem
+14	127	7.680	16.54	Bu cismi kayarak ve dönerek hareket ettirebilirsiniz ama kal
+15	48	3.680	13.04	Koridorun genişliği 1 birimdir, köşe dik açıdır.
+16	96	6.240	15.38	Bu koridordan geçip köşeyi dönebilen düzlemsel şekillerin iç
+17	80	5.440	14.71	Sorunun inceliği, ilk akla gelen cevapların ne kadar kolay g
+18	46	3.040	15.13	En basit aday kenarı 1 birim olan bir karedir.
+19	91	6.720	13.54	Kare koridorda kayar, köşeye gelince döner değil, sadece yön
+20	12	1.920	6.25	Alanı 1'dir.
+21	147	9.760	15.06	Biraz daha iyisi yarım dairedir: yarıçapı 1 olan bir yarım d
+22	41	4.640	8.84	Alanı pi bölü 2, yani yaklaşık 1,57 eder.
+23	40	3.520	11.36	Kareden daha iyi, ama daha da iyisi var.
+24	110	6.880	15.99	İşin sırrı şurada: köşeyi dönen bir şekil koridorun iç köşes
+25	70	4.480	15.62	Bu fikri ilk ustaca kullanan İngiliz matematikçi John Hammer
+26	101	5.920	17.06	Hammersley Oxford'da çalışan, olasılık kuramında ve Monte Ca
+27	151	10.400	14.52	1968'de matematik eğitiminin gidişatını eleştirdiği, okullar
+28	213	12.640	16.85	Gerçek problemlerle uğraşmanın ne kadar öğretici olabileceği
+29	43	2.720	15.81	Hammersley'in şeklini şöyle kurabilirsiniz.
+30	99	6.880	14.39	Önce yarım daireyi alın ve onu tam ortasından ikiye kesin, b
+31	111	7.200	15.42	Bu iki parçayı birbirinden uzaklaştırın ve arasına eni 1, bo
+32	98	6.080	16.12	Sonra bu dikdörtgenin alt kenarından yarıçapı 2 bölü pi olan
+33	173	10.880	15.90	Ortaya çıkan şekil eski tip bir telefonun ahizesine çok benz
+34	106	6.880	15.41	Köşeyi dönerken iç köşe tam bu boşluğun içinde kayar ve şeki
+35	69	5.440	12.68	Bu ahizenin alanı pi bölü 2 artı 2 bölü pi'dir, yani yaklaşı
+36	40	3.200	12.50	Yarım daireden yüzde 40'tan fazla büyük.
+37	92	6.240	14.74	Üstelik Hammersley sadece aşağıdan bir sınır vermekle kalmad
+38	82	6.720	12.20	Köşeyi dönebilen hiçbir kanepenin alanı 2 kök 2'yi, yani yak
+39	70	5.440	12.87	Böylece cevabın 2,2074 ile 2,83 arasında bir yerde olduğu bi
+40	67	3.680	18.21	Hammersley kendi ahizesinin en iyi çözüm olabileceğini düşün
+41	74	4.960	14.92	Şekil o kadar zarif, o kadar dengeliydi ki daha iyisini haya
+42	48	4.800	10.00	Ama matematikte zarafet bir kanıt yerine geçmez.
+43	67	4.640	14.44	Burada sorunun neden bu kadar inatçı olduğunu da anlamak ger
+44	73	4.480	16.29	Bir kanepenin köşeyi dönmesi tek bir an değildir, sürekli bi
+45	116	7.360	15.76	Kanepe bir yandan döner, bir yandan kayar, ve bu hareketin h
+46	127	7.360	17.26	Matematikçiler bu durumu tersinden düşünmeyi sever: kanepeyi
+47	134	8.320	16.11	O zaman kanepe, hareketin her anındaki koridor konumlarının 
+48	52	3.360	15.48	Hareket yolunu değiştirdiğinizde kesişim de değişir.
+49	104	6.240	16.67	Böylece soru, sonsuz sayıda olası hareket arasından ortak bö
+50	77	4.800	16.04	Bu, sonlu sayıda seçeneği tek tek deneyerek çözülebilecek bi
+51	45	3.040	14.80	Olasılıklar sonsuz boyutlu bir uzaya yayılır.
+52	36	3.680	9.78	Ahize bu uzayda parlak bir noktaydı.
+53	33	2.560	12.89	Peki zirve gerçekten orası mıydı?
+54	108	6.560	16.46	Cevabın hayır olduğunu gösteren kişi, Amerika'daki Rutgers Ü
+55	123	8.160	15.07	1992'de yayımladığı çalışmada Gerver, Hammersley'in ahizesin
+56	76	4.800	15.83	Ahizenin iç oyuğu tam bir yarım daireydi, dış köşeleri de çe
+57	79	5.120	15.43	Gerver bu dairesel parçaları gevşetti, yerlerine ince ayarla
+58	50	4.320	11.57	Sonuçta ortaya çıkan şekil ahizeye çok benziyordu.
+59	51	3.520	14.49	Yan yana koysanız aradaki farkı gözle görmek zordu.
+60	51	3.840	13.28	Ama sınırı tam 18 ayrı eğri parçasından oluşuyordu.
+61	149	9.440	15.78	Kimi düz bir çizgi, kimi bir daire yayı, kimi de daha karmaş
+62	50	5.280	9.47	Bu 18 parçalı kanepenin alanı yaklaşık 2,2195'tir.
+63	39	3.360	11.61	Ahizeden farkı binde 5'ten biraz fazla.
+64	66	4.160	15.87	Bir oturma odasında kimsenin fark etmeyeceği kadar küçük bir
+65	108	6.880	15.70	Ama matematikte bu fark bir uçurumdur, çünkü Hammersley'in ş
+66	30	2.560	11.72	Demek ki ilk sezgi yanılmıştı.
+67	49	3.200	15.31	Peki Gerver'in şeklinden daha iyisi de var mıydı?
+68	49	3.520	13.92	Gerver bu şekle rastgele denemelerle ulaşmamıştı.
+69	43	3.200	13.44	Şekli belirli bir denge ilkesiyle kurmuştu.
+70	108	6.720	16.07	Onun bakışında, köşeyi dönen kanepeye koridorun duvarları he
+71	92	6.240	14.74	Bir şekil en iyi şekilse, bu kuvvetlerin hareketin her anınd
+72	105	6.400	16.41	Çünkü dengelenmiyorsa, kanepeyi bir yöne biraz daha esnetere
+73	162	9.600	16.88	Gerver bu denge koşullarını sağlayan şekli buldu ve onun en 
+74	32	2.720	11.76	İşte sorunun asıl düğümü burada.
+75	69	4.960	13.91	Yerel olarak en iyi olmak, mutlak olarak en iyi olmak demek 
+76	66	4.640	14.22	Bir dağcı etrafındaki her yönde arazinin aşağı indiğini göre
+77	94	6.240	15.06	Bu, bir tepenin üstünde olduğunu gösterir ama dünyanın en yü
+78	116	7.200	16.11	Belki sisin ardında, tamamen farklı bir hareket biçimiyle ul
+79	73	4.480	16.29	Gerver kendi şeklinin en iyi olduğunu tahmin etti ama bunu k
+80	139	8.480	16.39	Kanepe problemi böylece yeni bir aşamaya geçti: artık ortada
+81	63	4.480	14.06	Sonraki yıllarda problem bir tür iki taraflı kuşatmaya dönüş
+82	51	3.680	13.86	Bir taraf, Gerver'den daha iyi bir kanepe arıyordu.
+83	74	4.960	14.92	Bilgisayarlarla sayısal denemeler yapıldı, farklı hareket yo
+84	80	6.080	13.16	Bu aramaların hiçbiri 2,2195'i geçemedi, ama bulamamak yoklu
+85	49	4.000	12.25	Diğer taraf ise tavanı aşağı çekmeye çalışıyordu.
+86	67	5.280	12.69	Hammersley'in 2,83'lük üst sınırı onlarca yıl yerinden kıpır
+87	86	5.760	14.93	2016'dan itibaren Kaliforniya Üniversitesi'nden Dan Romik pr
+88	111	7.040	15.77	Romik, Gerver'in denge koşullarını bir diferansiyel denkleml
+89	121	8.000	15.12	Böylece Gerver'in 18 parçalı şeklinin her eğrisi, sayısal ya
+90	84	7.520	11.17	Gerver'in sabiti denen o 2,2195'li sayı artık tam bir ifadey
+91	62	4.320	14.35	Bu, adayın kimliğini netleştirdi ama tahtını sağlamlaştırmad
+92	69	4.800	14.38	Ardından Romik, matematikçi Yoav Kallus ile birlikte tavana 
+93	93	5.600	16.61	İkili problemi bilgisayarın denetleyebileceği sonlu bir biçi
+94	215	12.000	17.92	Kanepenin hareketi sırasında birkaç belirli açıda koridorun 
+95	57	5.280	10.80	2018'de yayımlanan sonuçları, üst sınırı 2,37'ye indirdi.
+96	68	4.480	15.18	Bu önemli bir ilerlemeydi: Hammersley'den bu yana ilk ciddi 
+97	103	6.880	14.97	Aynı çalışma, en iyi kanepenin köşeyi dönerken neredeyse tam
+98	37	3.040	12.17	Yine de tablo hâlâ huzursuz ediciydi.
+99	34	4.480	7.59	Bir yanda 2,2195, öbür yanda 2,37.
+100	76	5.760	13.19	Aradaki aralık küçük görünse de asıl soru açısından sonsuz d
+101	142	8.000	17.75	Çünkü bilgisayar destekli yöntemler tavanı biraz daha aşağı 
+102	95	5.600	16.96	Bunun için her olası hareketi, her olası şekli aynı anda kap
+103	180	10.080	17.86	Bazı matematikçiler kesin cevabın belki hiç kanıtlanamayacağ
+104	82	5.600	14.64	Moser'in koridoru, yarım yüzyılı geride bırakmış ve hâlâ kap
+105	208	13.760	15.12	2024'ün Kasım ayının sonunda, matematikçilerin ön baskıların
+106	73	5.120	14.26	Başlığı iddiasını tek cümlede söylüyordu: Gerver'in kanepesi
+107	119	7.520	15.82	Makalenin yazarı, o sırada Seul'deki Yonsei Üniversitesi'nde
+108	32	3.200	10.00	Makale 119 sayfa uzunluğundaydı.
+109	183	12.800	14.30	Baek problemin sadece yaklaşık değil, tam çözümünü verdiğini
+110	47	3.520	13.35	Moser'in sorusunu sormasından tam 58 yıl sonra.
+111	53	3.360	15.77	Baek'in bu soruyla ilişkisi uzun yıllara dayanıyordu.
+112	117	7.360	15.90	Probleme ilk kez lise yıllarında tanıştığını, doktora çalışm
+113	94	5.600	16.79	Daha önce de problemin parçaları üzerine çalışmalar yapmıştı
+114	63	4.480	14.06	Ortaya çıkan kanıtın belki de en dikkat çekici yanı yöntemiy
+115	72	4.480	16.07	Kallus ve Romik'in çalışması bilgisayarın titiz hesaplarına 
+116	79	4.640	17.03	Baek'in kanıtı ise tamamen insan eliyle yürütülen analitik b
+117	45	3.040	14.80	Bilgisayar denetimli hiçbir adım içermiyordu.
+118	64	4.320	14.81	Peki sonsuz sayıda olası hareketi aynı anda nasıl evcilleşti
+119	40	2.720	14.71	Fikrin özünü kabaca şöyle anlatabiliriz.
+120	146	10.240	14.26	Doğrudan alanla uğraşmak zordur, çünkü olası kanepeler uzayı
+121	74	4.800	15.42	Baek, alanın yerine onunla yakından ilişkili başka bir büyük
+122	116	7.360	15.76	Bu yeni büyüklük her zaman alanın en az kendisi kadardır, ya
+123	51	3.520	14.49	Gerver'in kanepesinde ise alana tam olarak eşittir.
+124	85	5.440	15.62	Asıl hile şudur: bu yeni büyüklük, alanın aksine, tek tepeli
+125	36	2.720	13.24	Matematikçilerin dilinde içbükeydir.
+126	136	8.160	16.67	Tek tepeli bir arazide yerel zirve ile mutlak zirve aynı şey
+127	120	6.720	17.86	Böylece Gerver'in yerel olarak en iyi olduğunu gösteren deng
+128	153	8.960	17.08	Hiçbir kanepe bu yeni büyüklükte Gerver'i geçemiyorsa ve ger
+129	89	6.080	14.64	Bu bir cümleyle anlatılabiliyor, ama 119 sayfanın neden gere
+130	107	6.400	16.72	Böyle bir yardımcı büyüklüğü bulmak, onun her olası kanepe i
+131	138	7.840	17.60	içbükeyliğini kanıtlamak ve tüm bunları kanepenin hareketini
+132	194	12.000	16.17	Kanıt, Gerver'in 1992'de koyduğu denge ilkesini, Romik'in aç
+133	162	9.280	17.46	Bu anlamda Baek'in çalışması tek bir dâhinin aniden açtığı b
+134	63	4.800	13.12	Matematik topluluğunun tepkisi hem heyecanlı hem temkinli ol
+135	73	4.800	15.21	Heyecanlıydı, çünkü kanıtı inceleyen uzmanlar yaklaşımı ikna
+136	86	5.440	15.81	Romik başta olmak üzere probleme yıllarını vermiş isimler ça
+137	138	8.960	15.40	2025 boyunca makale bilim basınında geniş yer buldu ve pek ç
+138	132	7.840	16.84	Temkinliydi, çünkü matematikte bir sonuç ancak bağımsız hake
+139	131	7.840	16.71	Baek makalesini alanın en seçici yayın organlarından biri ol
+140	61	4.640	13.15	Bilinen son duruma göre makale hâlâ hakem değerlendirmesinde
+141	58	4.320	13.43	Henüz yayımlanmış değil ve ortada bilinen bir hata da yok.
+142	38	3.200	11.88	Bu bekleyiş olağan dışı bir şey değil.
+143	102	7.200	14.17	119 sayfalık, yeni bir fikre dayanan bir kanıtın her adımını
+144	119	7.360	16.17	Hakemler sadece sonucun doğru olup olmadığına değil, her ara
+145	121	7.040	17.19	Matematik tarihinde ilk biçiminde boşluk bulunup sonra onarı
+146	155	9.760	15.88	Bu yüzden şu an söylenebilecek en dürüst cümle şudur: Moser'
+147	31	2.880	10.76	Peki bütün bunlar ne işe yarar?
+148	72	4.800	15.00	Kimse Gerver'in 18 eğrili kanepesini bir mobilya mağazasında
+149	154	9.280	16.59	Gerçek bir taşınmada kanepeyi kaldırabilir, devirebilir, yan
+150	103	6.880	14.97	Kanepe probleminin değeri, cevabının kendisinden çok cevaba 
+151	179	11.520	15.54	Sonsuz sayıda olasılık arasından en iyisini seçmek, yani opt
+152	182	10.240	17.77	Dar bir alanda dönen bir robot kolunun, karmaşık bir boru ha
+153	105	6.560	16.01	Bu alanlarda en zor şey hep aynıdır: yerel bir iyiliğin mutl
+154	97	6.240	15.54	Baek'in yaptığı şey, engebeli bir araziyi tek tepeli bir ara
+155	116	6.720	17.26	Böyle bir örtünün nasıl kurulacağını gösteren her yeni örnek
+156	125	8.000	15.62	Bu kalıbın başka problemlerde ne kadar işe yarayacağını şimd
+157	44	3.200	13.75	Bir de hikâyenin daha sessiz bir mirası var.
+158	136	8.000	17.00	Moser'in sorusu, bir lise öğrencisinin anlayabileceği kadar 
+159	105	6.240	16.83	Hammersley bu soruyu, matematiğin kuru formüller değil canlı
+160	164	11.200	14.64	Onun ahizesinden Gerver'in 18 eğrisine, Kallus ile Romik'in 
+161	122	7.520	16.22	Bir koridorun köşesinde sıkışan sıradan bir kanepe, insan ak
+162	47	3.040	15.46	Nöron Science'de bugünkü bölümün sonuna geldik.
+163	41	3.040	13.49	Yeni bir hikâyede yeniden buluşmak üzere.
