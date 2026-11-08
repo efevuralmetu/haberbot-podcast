@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-08.mp3
+
+beklenen 2523 kelime | duyulan 2561 kelime | eşleşme %94.1
+sayı ifadesi: metinde 269, duyulanda 203  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...baharında suriye kıyısında bugünkü
+      metin  : lazkiye nin
+      duyulan: laskiyenin
+  REPLACE  ...bakan sakin koydur burası
+      metin  : sabanın
+      duyulan: sabahın
+  REPLACE  ...doğu arkeolojisinin ağır toplarından
+      metin  : röne düso
+      duyulan: rené dussault
+  REPLACE  ...liman kentinin yattığını düşündürüyordu
+      metin  : düso nun
+      duyulan: dussault un
+  REPLACE  ...desteğiyle baharında genç arkeolog
+      metin  : strazburglu klod şefer
+      duyulan: strasburglu claude schaeffer
+  REPLACE  ...küçük ekiple bölgeye geldi
+      metin  : şefer
+      duyulan: schaeffer
+  REPLACE  ...yükselen höyük vardı yerliler
+      metin  : ras şamra
+      duyulan: raschamra
+  REPLACE  ...yamaçları yabani rezeneyle kaplıydı
+      metin  : şefer
+      duyulan: schaeffer
+  REPLACE  ...rezene burnu ndan çıkan
+      metin  : akadça
+      duyulan: akatça
+  REPLACE  ...eski eserler dairesinde çalışan
+      metin  : asurbilimci şarl virolo ydu
+      duyulan: asur bilimci charles viroloydu
+  INSERT   ...alfabe virolo ilk metinleri
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kopyalarını ele aldı bauer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...i ncil okulu ndan
+      metin  : eduar dorm
+      duyulan: edward dorn
+  REPLACE  ...da konuya girdi bauer
+      metin  : in
+      duyulan: ın
+  REPLACE  ...öğrencilerin alfabeyi ezberlerken yazdığı
+      metin  : abeceler
+      duyulan: abc ler
+  REPLACE  ...ölçüde uyuyordu bugün a
+      metin  : be ce
+      duyulan: b c
+  REPLACE  ...sayarken ya da i
+      metin  : branicede
+      duyulan: braniçe de
+  REPLACE  ...belgeleyen en eski tanıklar
+      metin  : ugaridin
+      duyulan: ugarit in
+  REPLACE  ...edebiyat çıktı fırtına tanrısı
+      metin  : baal in
+      duyulan: bahalin
+  REPLACE  ...la ve ölüm tanrısı
+      metin  : mot
+      duyulan: mod
+  REPLACE  ...nın öyküsü vardı genç
+      metin  : akhadın
+      duyulan: akad ın
+  REPLACE  ...çivi yazısıyla yazılıyordu kentte
+      metin  : hurrice
+      duyulan: hüris
+  REPLACE  ...yazılıyordu kentte hurrice hititçe
+      metin  : luvi
+      duyulan: lüvi
+  REPLACE  ...türdendi kayda geçirilmiş melodi
+      metin  : ugaridin
+      duyulan: ugarit in
+  REPLACE  ...melodi ugaridin kraliyet sarayı
+      metin  : höyüğün
+      duyulan: höyük ün
+  REPLACE  ...sarayının bulunduğu bu bölgede
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...bölgede ellilerde kazı ekibi
+      metin  : hurrice
+      duyulan: hurri ize
+  REPLACE  ...neredeyze bütündü bilim dünyasında
+      metin  : haltı
+      duyulan: halkı
+  REPLACE  ...tablet meyve bahçelerinin tanrıçası
+      metin  : nikkal e
+      duyulan: nikkala
+  INSERT   ...yılına yani ugaridin yıkılışından
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...alıyordu çift çizginin ize
+      metin  : akadçadan
+      duyulan: akatça dan
+  REPLACE  ...sonundaki not ilahinin hangi
+      metin  : akort
+      duyulan: akord
+  REPLACE  ...kadar kolay olmadı sözlerin
+      metin  : hurricesi
+      duyulan: hurrisesi
+  REPLACE  ...bile tam anlaşılamıyor çünkü
+      metin  : hurrice
+      duyulan: hurrize
+  REPLACE  ...mı süreyi mi gösteriyor
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...üniversitesi nden asurbilimci anne
+      metin  : draffkorn
+      duyulan: drafkorn
+  REPLACE  ...asurbilimci anne draffkorn kilmer
+      metin  : yetmişlerde
+      duyulan: lerde
+  INSERT   ...yayımladı kilmer in çözümü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kile geçirmişti o ezgiyi
+      metin  : ugaridin avlularında
+      duyulan: ugarid in avlolarında
+  REPLACE  ...dan keten ve geliyordu
+      metin  : ugarit
+      duyulan: ugarid den
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 101
+bölme/birleşme farkı (hata değil, elendi): 38
+
+duyulan metin: arkeoloji-2026-11-08.duyulan.txt

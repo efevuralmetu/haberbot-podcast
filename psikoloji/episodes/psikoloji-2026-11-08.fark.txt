@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-08.mp3
+
+beklenen 1347 kelime | duyulan 1352 kelime | eşleşme %98.9
+sayı ifadesi: metinde 144, duyulanda 121  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...büyük balığı etkisi kavramı
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...kavramı seksenlerde avustralyalı eğitim
+      metin  : psikoloğu
+      duyulan: psikologu
+  INSERT   ...kökü daha eskiye gider
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...istemez yanınızdaki kulvara kayar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...asıl mesele burada başlıyor
+      metin  : marsh
+      duyulan: marş
+  INSERT   ...fikrinden yıl kadar sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kurulması bölümün en iyisi
+      metin  : oldum
+      duyulan: olduğum
+  REPLACE  ...konuşuyor artık rapor taslağını
+      metin  : yardımsız
+      duyulan: yardımcıs
+  REPLACE  ...olmak eski sınıfında en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...kendi yönünü bulmasını sağlıyor
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 7 kelime | duyulup metinde OLMAYAN: 13
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-11-08.duyulan.txt

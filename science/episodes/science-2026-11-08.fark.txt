@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-08.mp3
+
+beklenen 1948 kelime | duyulan 1769 kelime | eşleşme %12.8
+sayı ifadesi: metinde 209, duyulanda 106  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...together from curved pieces
+      metin  : yeni eve taşındığınızı düşünün kamyon kapının önünde merdivenleri çıkmışsınız elinizde en sevdiğiniz kanepe var önünüzde dar koridor uzanıyor ve meter ileride tam derecelik dönüş yapıyor kanepeyi ileri itiyorsunuz köşeye geliyorsunuz eğiyorsunuz döndürüyorsunuz ve sıkışıyor geri çekip daha deniyorsunuz bu sahneyi yaşamış herkesin aklından aynı soru geçer bu köşeyi dönebilecek en büyük kanepe ne kadar büyük olabilir kulağa ev hali şakası gibi geliyor ama matematikte bu sorunun resmi adı var hareketli kanepe problemi problemi da avusturya doğumlu kanadalı matematikçi leo
+      duyulan: in the avasturia dome was built by the canadian mathematician léo
+  REPLACE  ...kanadalı matematikçi leo moser
+      metin  : ortaya attı
+      duyulan: or thayate
+  REPLACE  ...moser ortaya attı moser
+      metin  : geometri bulmacalarına meraklıydı ve basit sorulmuş ama çözümü zor sorular toplamayı severdi bu soru da tam onlardandı kanepe katı cisimdir bükülemez ezilemez katlanamaz bu cismi kayarak ve dönerek hareket ettirebilirsiniz ama kaldıramazsınız
+      duyulan: geometra was built in the city of boulma calerne in the city of meraklede in the city of basitsorulmus in the city of zorzorul artoplama in severde it was built in the city of tham nardand it was built in the city of katlannamaz it was built in the city of kajiraq it was built in the city of dusbirzeminde in the city of olupbitar it was built in the city of bierbirimdir in the city of katlindr it was built in the city of kajiraq it was built in the city of duslam salchikilirni chinde alana enbu kolan hangisidir it was built in the city of zorul uninjeli in the city of ilk aqla gelangewaplar in nekadar kolayge childi indayat yor it was built in the city of nbaset ade kenar birbirim olan dir it was built in the city of zorul uninjeli in the city of duslam salchikilirni childi indayat yor it was built in the city of wunder it was built in the city of dahi isee yerumdairidur it was built in the city of yerumdairi kushey qadar itin it was built in the city of maarkizin in etraafandach ivirin it was built in the city of yankuridor itin it was built in the city of elanah pibolu ikki
+  REPLACE  ...ettirebilirsiniz ama kaldıramazsınız yani
+      metin  : her şey düz zeminde boyutta olup biter koridorun genişliği birimdir köşe dik açıdır bu koridordan geçip köşeyi dönebilen düzlemsel şekillerin içinde alanı en büyük olan hangisidir sorunun inceliği ilk akla gelen cevapların ne kadar kolay geçildiğinde yatıyor en basit aday kenarı olan karedir kaer koridorda kayar köşeye gelince döner değil sadece yön değiştirip yan koridora kayar alanı dir daha iyisi yarım dairedir yarıçapı olan yarım daireyi köşeye kadar itin köşede merkezinin etrafında çevirin sonra yan koridora itin alanı pi bölü yani yaklaşık eder kareden daha iyi ama daha da iyisi var i şin sırrı şurada köşeyi dönen şekil koridorun iç köşesine çarpmamak için ortasında oyuk taşıyabilir bu fikri ilk ustaca kullanan i ngiliz matematikçi john hammersley oldu hammersley oxford da çalışan olasılık kuramında ve monte carlo yöntemlerinde iz bırakmış isimdi de matematik eğitiminin gidişatını eleştirdiği okullarda öğretilen matematiğin fazla soyut fazla kuru hale geldiğini anlattığı makale yazdı gerçek problemlerle uğraşmanın ne kadar öğretici olabileceğini göstermek için de örnek olarak moser in kanepesini seçti ve tam o yazının içinde neredeyze yan not gibi şaşırtıcı derecede iyi çözüm önerdi hammersley in şeklini şöyle kurabilirsiniz önce yarım daireyi alın ve tam ortasından kesin böylece çeyrek daier elde edersiniz bu parçayı birbirinden uzaklaştırın ve arasına eni boyu bölü pi olan dikdörtgen yerleştirin sonra bu dikdörtgenin alt kenarından yarıçapı bölü pi olan yarım daier biçiminde parça oyun ortaya çıkan şekil eski tip telefonun ahizesine çok benzer yanda kulaklık ve mikrofon gibi duran yuvarlak uçlar ortada kavisli sap ve sapın boşluk köşeyi dönerken iç köşe tam bu boşluğun içinde kayar ve şekil hiçbir yeer sıkışmadan diğer koridora geçer bu ahizenin alanı pi bölü artı bölü pi dir yani yaklaşık yarım daireden tan fazla büyük üstelik hammersley sadece aşağıdan sınır vermekle kalmadı yukarıdan da tavan koydu köşeyi dönebilen hiçbir kanepenin alanı kök yi yani yaklaşık ü aşamazdı böylece cevabın ile arasında yerde olduğu biliniyordu
+      duyulan: yakhlishik diol yedadar
+  REPLACE  ...olduğu biliniyordu hammersley kendi
+      metin  : ahizesinin en iyi çözüm olabileceğini düşünüyordu şekil o kadar
+      duyulan: isesinin and echuzumolobidejayinidushuniyordu shekil okadar
+  REPLACE  ...şekil o kadar zarif
+      metin  : o kadar dengeliydi ki daha iyisini hayal etmek zordu ama matematikte
+      duyulan: okadar dengelidiki dahayisinihayaletmexordu emma marama tekte
+  REPLACE  ...zordu ama matematikte zarafet
+      metin  : kanıt yerine geçmez burada
+      duyulan: birkanut yerenegechmaz barada
+  REPLACE  ...yerine geçmez burada sorunun
+      metin  : neden bu kadar inatçı olduğunu
+      duyulan: nedan bukadar inacholdunu
+  REPLACE  ...kadar inatçı olduğunu da
+      metin  : anlamak gerekiyor kanepenin köşeyi dönmesi tek an değildir sürekli harekettir kanepe
+      duyulan: anna makgerekiyor birkanepeninkushayidun mesitek birandildir surekdibirharaketir kanepen
+  REPLACE  ...sürekli harekettir kanepe yandan
+      metin  : döner
+      duyulan: dunar
+  REPLACE  ...kanepe yandan döner yandan
+      metin  : kayar ve bu hareketin her anında
+      duyulan: kayaar vebu haraketin herananda
+  REPLACE  ...hareketin her anında koridorun
+      metin  : duvarlarının içinde kalması gerekir matematikçiler bu durumu tersinden düşünmeyi sever kanepeyi sabit tutun
+      duyulan: duaar lernan ichinde kalmasegerekir matmatikshilar budurumutarsindan dushun mayisavar kanepen isaabittutun
+  REPLACE  ...sabit tutun ve koridorun
+      metin  : etrafında hareket ettiğini varsayın o zaman kanepe hareketin her anındaki koridor konumlarının
+      duyulan: etraafan da haraketet dinivarsayin ozaman kanepen haraketin herananda ki koridorkonun lernan
+  REPLACE  ...anındaki koridor konumlarının hepsinin
+      metin  : içinde aynı anda kalan bölgedir
+      duyulan: ichinde ainaandakalan bulgeidir
+  REPLACE  ...anda kalan bölgedir yani
+      metin  : hepsinin
+      duyulan: hepsininin
+  REPLACE  ...bölgedir yani hepsinin ortak
+      metin  : kesişimidir hareket
+      duyulan: kesisimidir haraket
+  REPLACE  ...ortak kesişimidir hareket yolunu
+      metin  : değiştirdiğinizde kesişim de değişir böylece soru sonsuz sayıda olası hareket arasından
+      duyulan: deishtirdinizde kesisimde deishir bolejesoru sunsus sayida ola seharaketarasindan
+  REPLACE  ...olası hareket arasından ortak
+      metin  : bölgesi en büyük olanı bulma sorusuna dönüşür
+      duyulan: bulgeize enbu kolana bulmasorunadunushir
+  REPLACE  ...bulma sorusuna dönüşür bu
+      metin  : sonlu sayıda seçeneği tek tek deneyerek çözülebilecek arama değildir olasılıklar sonsuz boyutlu uzaya yayılır ahize
+      duyulan: sundu sayida se cheni tektek deni rektuzu le biljek birarama deildir ola seleklar sunsus boitlu usaaya yayilar ahays
+  REPLACE  ...uzaya yayılır ahize bu
+      metin  : uzayda parlak noktaydı peki zirve gerçekten orası mıydı cevabın hayır olduğunu gösteren kişi amerika
+      duyulan: usaida parlek noktayda pekizir ve garchiktan orasumida sevabun hairoldunu goshterenkishi america
+  REPLACE  ...kişi amerika daki rutgers
+      metin  : üniversitesi nden matematikçi
+      duyulan: university sindan matamatikci
+  REPLACE  ...joseph gerver oldu de
+      metin  : yayımladığı çalışmada
+      duyulan: yemladu chalishmada
+  REPLACE  ...yayımladığı çalışmada gerver hammersley
+      metin  : in ahizesinin kenarlarının daha akıllıca kıvrılabileceğini gösterdi ahizenin iç oyuğu tam yarım daireydi dış köşeleri de çeyrek dairelerdi
+      duyulan: and ahaysesinin kenar lernan birazdaha akaluja kuvr labilijeinu goshtarde ahaysininich oyu tambir yarum dairaide dushka selerede cheirek dairelarde
+  REPLACE  ...de çeyrek dairelerdi gerver
+      metin  : bu dairesel parçaları gevşetti yerlerine ince ayarlanmış eğriler koydu sonuçta ortaya çıkan şekil ahizeye çok benziyordu
+      duyulan: buderu sel parkolari gev shette yar lerna inja yaar lanmashayri larkoidu sonuchta orteye chikan shekhil aahiseye chokbenzi ordu
+  REPLACE  ...çok benziyordu yan yana
+      metin  : koysanız aradaki farkı gözle görmek zordu ama sınırı
+      duyulan: koisana zarada ke farka geuzde germeks ordu amaasinir
+  REPLACE  ...zordu ama sınırı tam
+      metin  : ayrı eğri parçasından oluşuyordu
+      duyulan: onsekizayer eiriparchasan danolushi ordu
+  REPLACE  ...eğri parçasından oluşuyordu kimi
+      metin  : düz çizgi
+      duyulan: dusbir chizgi
+  REPLACE  ...kimi düz çizgi kimi
+      metin  : daier yayı
+      duyulan: daira yayiye
+  REPLACE  ...yayı kimi de daha
+      metin  : karmaşık denklemlerle tarif edilen kıvrımlardı
+      duyulan: karmashik denklam narletari fedelankuvrim larda
+  REPLACE  ...tarif edilen kıvrımlardı ve
+      metin  : her öncekine kusursuzca ekleniyordu
+      duyulan: harbir kine kusursuja ekleni ordu
+  REPLACE  ...öncekine kusursuzca ekleniyordu bu
+      metin  : parçalı kanepenin alanı yaklaşık tir ahizeden farkı
+      duyulan: parkalukanepenin alana yaklasik ikibilbu yikibuzdok sambeshtir ahazidan farkabin da beshtan
+  REPLACE  ...tir ahizeden farkı fazla
+      metin  : oturma odasında
+      duyulan: biroturma odasan da
+  REPLACE  ...oturma odasında kimsenin fark
+      metin  : etmeyeceği kadar küçük
+      duyulan: etmije ekadar kuchik
+  REPLACE  ...kadar küçük fark ama
+      metin  : matematikte
+      duyulan: matimatikte
+  REPLACE  ...ama matematikte bu fark
+      metin  : uçurumdur çünkü
+      duyulan: biruchurumdur chinkye
+  REPLACE  ...uçurumdur çünkü hammersley in
+      metin  : şeklinin en iyi olmadığını kesin olarak gösterir
+      duyulan: shekhlinin eni olmadun ekhesin olerak geustirir
+  REPLACE  ...olarak gösterir demek ki
+      metin  : ilk sezgi yanılmıştı peki
+      duyulan: eliksezgi anelmashte pekki
+  REPLACE  ...yanılmıştı peki gerver in
+      metin  : şeklinden
+      duyulan: shekhlin dan
+  REPLACE  ...gerver in şeklinden daha
+      metin  : iyisi de var mıydı
+      duyulan: isidawarmida
+  REPLACE  ...var mıydı gerver bu
+      metin  : şekle
+      duyulan: shekhle
+  ... ve 92 fark daha
+
+metinde olup DUYULMAYAN: 1708 kelime | duyulup metinde OLMAYAN: 1530
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-11-08.duyulan.txt

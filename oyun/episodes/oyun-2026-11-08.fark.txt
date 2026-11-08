@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-08.mp3
+
+beklenen 1622 kelime | duyulan 1639 kelime | eşleşme %96.2
+sayı ifadesi: metinde 246, duyulanda 188  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yaralarını hala sarıyor ve
+      metin  : deneyimsiz
+      duyulan: deneimsiz
+  REPLACE  ...de iş başvurularında gösterebileceği
+      metin  : şeyi
+      duyulan: şey
+  REPLACE  ...aklından çıkmayan oyun var
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ortasında japonya da yasuhiro
+      metin  : wada nın
+      duyulan: vadan ın
+  REPLACE  ...tanınıyordu oyuncu çiftliği devralıyor
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...yeni oyunlarının o eski
+      metin  : büyüyü
+      duyulan: büyüğü
+  REPLACE  ...kendi zevkine göer şekillendirdiği
+      metin  : dünyayla
+      duyulan: dünya ile
+  REPLACE  ...olan xna altyapısı ve
+      metin  : c
+      duyulan: j shark
+  REPLACE  ...tohum proje ilerledikçe barone
+      metin  : un
+      duyulan: nun
+  REPLACE  ...ize pelican town yani
+      metin  : pelikan
+      duyulan: pelican
+  REPLACE  ...takma adı öne çıkaracaktı
+      metin  : concernedape
+      duyulan: concernedep
+  REPLACE  ...mevsimin sonunda geliyor barone
+      metin  : un
+      duyulan: nun
+  REPLACE  ...proje yılı geçti sonra
+      metin  : yılı
+      duyulan: yıl
+  REPLACE  ...geçti sonra yılı barone
+      metin  : un
+      duyulan: nun
+  REPLACE  ...o yazdı ses efektlerinden
+      metin  : arayüze
+      duyulan: ara
+  INSERT   ...tamamen gizli de değildi
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...londralı küçük yayıncı chucklefish
+      metin  : de
+      duyulan: te
+  REPLACE  ...oyun yine tamamen barone
+      metin  : un
+      duyulan: nın
+  REPLACE  ...neredeyze yok oldu gazeteci
+      metin  : ceysın şrayer
+      duyulan: jason schreyer
+  INSERT   ...peşinde ama barone bırakmadı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...buçuk yıl geçmişti aylık
+      metin  : portfolyo
+      duyulan: portfolio
+  REPLACE  ...üst sıralarına yerleşti barone
+      metin  : un
+      duyulan: nun
+  INSERT   ...yerine katlanarak sürdü oyun
+      metin  : (yok)
+      duyulan: nın
+  INSERT   ...playstation ve xbox a
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yardım aldı kendisi yeni
+      metin  : içeriğe
+      duyulan: içeriye
+  INSERT   ...için daha cüzdanını açmayacaktı
+      metin  : (yok)
+      duyulan: ki de
+  INSERT   ...kendi oyununun yayıncısı oldu
+      metin  : (yok)
+      duyulan: ki nin
+  REPLACE  ...oyuna koca ada ekledi
+      metin  : kasımında nokta
+      duyulan: ki ün kasım ında
+  INSERT   ...bu sadakati yansıtıyor oyun
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...yansıtıyor oyun başında kopyayı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...milyonlarca dolarlık bütçelerin ürünü
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...ürünü forbes dergisi barone
+      metin  : u
+      duyulan: nı
+  REPLACE  ...yaşın altındaki önemli isim
+      metin  : listesine
+      duyulan: listesini
+  REPLACE  ...tozu vadisi nin bıraktığı
+      metin  : iz
+      duyulan: iş
+  REPLACE  ...aldığını söyledi zamanlar barone
+      metin  : un
+      duyulan: nın
+  REPLACE  ...dönüştü yine de barone
+      metin  : un
+      duyulan: nun
+  INSERT   ...gösterir ve barone durmadı
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...durmadı yeni oyununu duyurdu
+      metin  : haunted
+      duyulan: hantit
+  INSERT   ...söylediği zarf bırakır barone
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...piksel çizdiği vadide yaşıyor
+      metin  : (yok)
+      duyulan: ne
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: oyun-2026-11-08.duyulan.txt

@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-08.mp3
+
+beklenen 1616 kelime | duyulan 1625 kelime | eşleşme %93.9
+sayı ifadesi: metinde 212, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...elinde diploması sırtında i
+      metin  : vriz köy
+      duyulan: vrisköy
+  INSERT   ...bağlı demirci köyünde başlıyor
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...en iddialı eğitim deneylerinden
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...yakın toros eteklerindeki i
+      metin  : vriz
+      duyulan: vris
+  INSERT   ...de bunlardan makal oraya
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...belki o da etmemişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olmayan nurgöz oldu enstitülerin
+      metin  : vaadi
+      duyulan: vadi
+  REPLACE  ...merak duyan editörlerdendi makal
+      metin  : la
+      duyulan: ile
+  INSERT   ...kitap olarak basılmasını önerdi
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...oluşur okulun hali vardır
+      metin  : ısıtılamayan
+      duyulan: isıtılamayan
+  REPLACE  ...köyde hastalığa karşı ancak
+      metin  : üfürükçünün
+      duyulan: üfürikçünün
+  REPLACE  ...suçlamaz alay da etmez
+      metin  : okurun
+      duyulan: okulun
+  INSERT   ...gerilimi artırıyordu türkiye mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ki gün sonra mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ile yargıcın verdiğini söyledi
+      metin  : niğde
+      duyulan: nide
+  INSERT   ...çok konuşulan kitabını yazdıktan
+      metin  : (yok)
+      duyulan: kaç
+  INSERT   ...sürmedi ay sonra nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bizim köy ün ardından
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ülke sınırlarında da kalmadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...getiren bu baskının adı
+      metin  : a village in
+      duyulan: avilicin
+  REPLACE  ...dü çeviriyi sir wyndham
+      metin  : deedes
+      duyulan: dee dee s
+  REPLACE  ...di stirling in değerlendirmesi
+      metin  : makal
+      duyulan: macal
+  REPLACE  ...olduğunu kısaca özetler göer
+      metin  : makal
+      duyulan: macal
+  REPLACE  ...türk edebiyatının içinde görüldü
+      metin  : makal
+      duyulan: macal
+  REPLACE  ...geldi fakir baykurt talip
+      metin  : apaydın
+      duyulan: apeydın
+  REPLACE  ...diye adlandıracağı akıma dönüştü
+      metin  : ellilerden
+      duyulan: lerden leer
+  REPLACE  ...en verimli damarlarından oldu
+      metin  : makal
+      duyulan: macal
+  INSERT   ...hatırlattı mahmut makal ağustos
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hepsi aynı yeer döndü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...orada gördüklerini defteer yazan
+      metin  : (yok)
+      duyulan: loco
+  REPLACE  ...not taslakta köyün adı
+      metin  : nurgüz
+      duyulan: nur göz
+  REPLACE  ...kaynaklardaki doğru biçim olan
+      metin  : nurgöz ü
+      duyulan: unströgyüzünü
+  REPLACE  ...yan yana verdim seçmedim
+      metin  : çardağa
+      duyulan: çardak a
+  INSERT   ...verdim seçmedim çardağa nakil
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...okuldan mahkemeye mahmut makal
+      metin  : vikipedi
+      duyulan: wikipedia
+  REPLACE  ...i ngilizce mahmut makal
+      metin  : bianet
+      duyulan: biyanet
+  REPLACE  ...mahmut makal bianet sercan
+      metin  : engereğin
+      duyulan: engeer yin
+  REPLACE  ...ayrıca hathitrust kaydına baktım
+      metin  : nöron edebiyat ta
+      duyulan: neuron edebiyatta
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 39
+
+duyulan metin: edebiyat-2026-11-08.duyulan.txt

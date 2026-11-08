@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-08.mp3
+
+beklenen 1757 kelime | duyulan 1745 kelime | eşleşme %95.7
+sayı ifadesi: metinde 180, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...osmanlı döneminde ada geniş
+      metin  : özerklik
+      duyulan: özellik
+  REPLACE  ...kendi ileri gelenleriyle yürüttü
+      metin  : hydralı
+      duyulan: hidralı
+  INSERT   ...yüzyılın son çeyreğinde geldi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...limanlarına akmaya başladı ve
+      metin  : hydralı
+      duyulan: hidralı
+  REPLACE  ...alırken küçük ve atak
+      metin  : i dra
+      duyulan: idrağa
+  REPLACE  ...demekti başarılı sefer aileyi
+      metin  : kuşakta
+      duyulan: kuşak da
+  REPLACE  ...üzerinde duruyor yamaçlara oturtulmuş
+      metin  : o iri
+      duyulan: oyri
+  REPLACE  ...su biriktirebildiğiyle de ölçülürdü
+      metin  : kunduriotis
+      duyulan: kunduryotis
+  REPLACE  ...i dra spetses ve
+      metin  : psara
+      duyulan: pasara
+  REPLACE  ...yola çıkardı ahşap gövdeli
+      metin  : ziftli
+      duyulan: zifli
+  REPLACE  ...yüzlerce denizci canıyla ödedi
+      metin  : hydralı
+      duyulan: hidralı
+  REPLACE  ...komuta eden adam andreas
+      metin  : myaulis
+      duyulan: miollis
+  REPLACE  ...ayaklanmacı donanmanın amirali oldu
+      metin  : myaulis
+      duyulan: miollis
+  REPLACE  ...arada tutmak rüzgarı ve
+      metin  : kıyıyı
+      duyulan: kıyıya
+  REPLACE  ...adaları mora kıyıları ve
+      metin  : girit
+      duyulan: girid
+  INSERT   ...de yakından tehdit edildi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yakından tehdit edildi komşu
+      metin  : psara
+      duyulan: pısara
+  REPLACE  ...kuvvetlerince alındığında sıradaki hedefin
+      metin  : i dra
+      duyulan: idrağı
+  REPLACE  ...adam olarak hatırlanır kardeşi
+      metin  : yeoryios
+      duyulan: yorios
+  REPLACE  ...gemileri yıpranmış sandıkları boşalmıştı
+      metin  : myaulis
+      duyulan: myolis
+  INSERT   ...beklenmedik yerde sona erdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...iktidar çatışması patlak verdiğinde
+      metin  : myaulis
+      duyulan: myolis
+  INSERT   ...kez kendi gemisini yaktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geri getirildi bugün limandaki
+      metin  : i dra
+      duyulan: idrağı
+  REPLACE  ...yıl haziranın son günlerinde
+      metin  : i dra
+      duyulan: idrağı
+  REPLACE  ...limanı bambaşka kılığa girer
+      metin  : myaulia
+      duyulan: miaulia
+  REPLACE  ...kılığa girer myaulia yani
+      metin  : myaulis
+      duyulan: myolis
+  REPLACE  ...yüksek sesle hatırladığıdır çünkü
+      metin  : myaulis
+      duyulan: mayavlis
+  REPLACE  ...bu çevrenin uğrak yeriydi
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...ama canlı topluluk oluştu
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...katıldı adı leonard cohen
+      metin  : di
+      duyulan: dı
+  REPLACE  ...arasında şekillendi adada norveçli
+      metin  : mariane i len
+      duyulan: marianne ile
+  REPLACE  ...len ve küçük oğlu
+      metin  : aksel
+      duyulan: axel
+  REPLACE  ...oğlu aksel ile tanıştı
+      metin  : mariane
+      duyulan: marianne
+  REPLACE  ...bıraktı sonradan dünyaca bilinen
+      metin  : so
+      duyulan: sor
+  REPLACE  ...dünyaca bilinen so long
+      metin  : mariane
+      duyulan: marianne
+  REPLACE  ...mariane yani hoşça kal
+      metin  : mariane
+      duyulan: marianne
+  INSERT   ...yine aynı limana baktı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...aynı limana baktı yazında
+      metin  : mariane i len
+      duyulan: marianne ellen
+  REPLACE  ...kimseye aldırmadan sırtında sandık
+      metin  : meyveyle
+      duyulan: meyve ile
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: seyahat-2026-11-08.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-08.mp3
+
+beklenen 3559 kelime | duyulan 2673 kelime | eşleşme %12.3
+sayı ifadesi: metinde 271, duyulanda 90  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...the morning fog lifted
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...and a half centuries
+      metin  : sabahın sisi dağıldığında vadide samuray birbirine kılıç çekmişti ama savaşın sonucu aşağıda değil matsuo tepesi ndeydi askerin başındaki yaşındaki genç hangi tarafa saldıracağına öğleye kadar karar veremedi verdiği karar japonya yı buçuk boyunca tek ailenin eline bıraktı yılının eylül ayında fuşimi kalesi nin iç odalarından japonya yı yılı aşan iç savaştan çıkarıp tek yönetim birleştiren adam ölmek üzereydi toyotomi hideyoşi alçak köylü ailesinden gelip ülkenin en güçlü hükümdarı olmuştu kendine şogun unvanını alamamıştı çünkü soyu buna izin vermiyordu ama imparatorluk sarayının verdiği en yüksek sivil unvanları toplamış bütün büyük toprak beylerini yani daimyoları önünde eğilmeye mecbur etmişti şimdi bütün bu yapının tek zayıf noktası vardı varisi hideyori henüz yaşındaydı hideyoşi son aylarını bu çocuğun geleceğini güvenceye almaya harcadı ülkenin en güçlü daimyosundan naipler kurulu oluşturdu bunlar tokugava i eyasu maeda toşiie mori terumoto ukita hideie ve uesugi kagekatsu ydu bunların yanına günlük yönetimi yürütecek
+      duyulan: baharan da oda uldu kuzei deki aizu bulgesin
+  REPLACE  ...günlük yönetimi yürütecek de
+      metin  : yönetici atadı bu yöneticilerin en dikkat çekeni hideyoşi nin yıllardır güvendiği hesap kitaba ve idareye son derece yatkın i şida mitsunari ydi hideyoşi ölüm döşeğinde naiplerden yazılı bağlılık yeminleri aldı hepsi hideyori ye sadık kalacaklarına ant içtiler hükümdar eylül de öldü yeminlerin mürekkebi daha kurumadan kurulun içindeki dengeler sarsılmaya başladı naibin en yaşlısı ve en güçlüsü tokugava i eyasu ydu doğu japonya nın kanto ovasında edo denilen küçük kasabayı merkez yapmış ülkedeki en büyük toprak varlığını elinde tutuyordu japonya da toprağın değeri koku ile ölçülürdü koku aşağı yukarı insanın yılda tükettiği pirince denk gelen ölçüydü i eyasu nun toprakları kokuyu aşıyordu bu rakam bağlı onbinlerce asker beslemek demekti üstelik i eyasu sabırlı adamdı gençliğini rehine olarak başka beylerin yanında geçirmiş oda nobunaga nın müttefiki olmuş hideyoşi yle savaşıp sonra boyun eğmişti beklemeyi biliyordu ve artık beklemenin sonuna yaklaştığını seziyordu i eyasu nun karşısında duran isim ize kağıt üzerinde çok daha mütevazı i şida mitsunari naip değildi toprakları da i eyasu nunkinin küçük kesriydi ama toyotomi düzeninin bekçisi olarak görüyordu kendini hideyoşi nin kurduğu sistemin ölen hükümdarın oğluna sağlam teslim edilmesi gerektiğine inanıyordu sorun şuydu ki mitsunari pek sevilen adam değildi hideyoşi nin koer seferleri sırasında cephedeki komutanların davranışlarını rapor eden kişi olarak savaşçı beyin kinini kazanmıştı katı kuralcı ve uzlaşmaz olarak tanınıyordu toyotomi ailesine en yakın komutanların kısmı mesela kato kiyomasa ve fukuşima masanori neredeyze i eyasu
+      duyulan: topraklarna takime
+  DELETE   ...neredeyze i eyasu dan
+      metin  : nefret ettiklerinden daha çok nefret ediyordu i eyasu hideyoşi nin açıkça yasakladığı şeyleri yapmaya başladı kurulun onayını almadan başka daimyo aileleriyle evlilik bağları kurdu hideyoşi bu tür ittifakları tam da böyle güç toplanmasını önlemek için yasaklamıştı mitsunari ve diğer yöneticiler itiraz etti ama i eyasu yu durduracak gücü olan tek kişi maeda toşiie ydi toşiie yaşlıydı saygın savaşçıydı ve hideyoşi nin en eski dostlarındandı baharında o da öldü ertesi gün mitsunari ye kin besleyen komutan öldürmek için harekete geçti mitsunari canını kurtardı ama bedelini ağır ödedi görevinden çekilmek ve kendi kalesi savayama ya çekilmek zorunda kaldı bu arabuluculuğu yapan da i eyasu ydu rakibini hem kurtarmış hem siyaset sahnesinden uzaklaştırmıştı ertesi yıl ün yazında i eyasu hamle yaptı kuzeydeki aizu bölgesinde topraklarını tahkim eden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tahkim eden naip uesugi
+      metin  : kagekatsu yu hideyori ye isyan etmekle suçladı ve büyük orduyla kuzeye yürüdü başkent bölgesi
+      duyulan: kagekatsuyou hideyoriye isianet mekle suchladewe buyukbirordu ila kuzei yurudu bashkant bulgesi
+  INSERT   ...bölgesi yani kyoto osaka
+      metin  : (yok)
+      duyulan: veceveresi nerde isesawun masuskalmushti pek choktari chi egeuer bubilerakbura kalmusbir boshluktu eeyasu mitsunari nen bufursatu kachir mi jana he sapliordu mitsunari kachirmade ba talu daimeolara mektu plarguandardi eeyasu nun hideyoshinin wasietinicine di suchlamalernusrela devibiritifakkurdu naip mori teromoto bubatu itifakanun resmi bashkomutanu oldu vekuchu kideyorinin bulundu osaka kalisine yarlishte mitsunari nen ilkhedefi eeyasu nun bashkant bulgesin deki diana olan fushimi kaliside kalei eeyasu nun yashlu
+  REPLACE  ...yani kyoto osaka ve
+      metin  : çevresi neredeyze savunmasız kalmıştı pek çok tarihçiye göer bu bilerek bırakılmış boşluktu i eyasu
+      duyulan: sadek wasalatori moto tada koriordu irol madanunje yardum gyal mi jene kailinin dushmana zaman kai bettermekicin feda ediljene biljor lardu moto tada kushatmaeya ashkan suredirendi ve sonunda adamlarila bilikte uldu ba tu ordu subusuer buoyunja orada oyala mestu heberkusei ulaishtundu eeyasu oyama denilang yardekomutanr nu topladu bunlarun unemnibirkus mutoyotomi aile sine balabai lardu aile lerei eishleer chojukleer osakada
+  REPLACE  ...i eyasu mitsunari nin
+      metin  : bu fırsatı kaçırmayacağını hesaplıyordu mitsunari kaçırmadı batılı daimyolara mektuplar gönderdi i eyasu nun hideyoşi nin vasiyetini çiğnediği suçlamalarını sıraladı ve ittifak kurdu naip mori terumoto bu batı ittifakının resmi başkomutanı oldu ve küçük hideyori nin bulunduğu osaka kalesi ne yerleşti mitsunari nin ilk hedefi i eyasu nun başkent bölgesindeki dayanağı olan fuşimi kalesi ydi kaleyi i eyasu nun yaşlı ve sadık vasalı torii mototada koruyordu i kisi ayrılmadan önce yardım gelmeyeceğini kalenin düşmana zaman kaybettirmek için feda edileceğini biliyorlardı mototada kuşatmaya günü aşkın süer direndi ve sonunda adamlarıyla birlikte öldü batı ordusu bu süer boyunca orada oyalanmıştı haber kuzeye ulaştığında i eyasu oyama denilen yerde komutanlarını topladı bunların önemli kısmı toyotomi ailesine bağlı beylerdi aileleri eşleri çocukları osaka da mitsunari nin elinde rehine gibi duruyordu i eyasu serbestçe gidebileceklerini söyledi rivayete göer ilk ayağa
+      duyulan: elyndeer hinegibidu ryordu eeyasu sarbeiscegi debilejekdeer ni soylede rivayiteguer ilkaya
+  REPLACE  ...göer ilk ayağa kalkan
+      metin  : fukuşima
+      duyulan: fukushima
+  REPLACE  ...fukuşima masanori oldu ve
+      metin  : i eyasu
+      duyulan: eeyasu
+  REPLACE  ...ve i eyasu nun
+      metin  : yanında savaşacağını ilan etti ardından ötekiler geldi bu sahnenin her ayrıntısı kesin değildir ama sonucu
+      duyulan: yananda savashejani ilanete ardun dan utekilargalde busan nenin herairantu su kesindeildir amasonu ju
+  REPLACE  ...ama sonucu kesindir mitsunari
+      metin  : ye duyulan öfke toyotomi ye duyulan bağlılıktan ağır basmıştı
+      duyulan: e duyulanofke toyo tomi e duyulanbalu luktan arbasmishte eeyasu nun ordusugunei batyadunde japan ei ikki eberunmishte tarhi yazumu bu ikki tarafado ordusu vebatu ordusu diejekte bunoktadanson ras savash yalnazjakalich ladeil katladasurdu eeyasu edu da birkachaftabeklede ve busurei de yuzu ashkan mektupyazde batyit tifaakandakidai meolara toprakvadidyor tehitidyor iknaidyordu bu mektup laren bazulari jewapsis kaldu beisulari isesis jekabul gurdu o kabularin hangisinin savashgunu garchakdantulajana kimse bilmyordu balki eeyasu nun kandisi bile seki gahara bu gunku gifu ilina dushan dalak din ortasundak
+  REPLACE  ...bağlılıktan ağır basmıştı i
+      metin  : eyasu nun ordusu güneybatıya döndü japonya bölünmüştü tarih yazımı bu tarafa doğu ordusu ve batı ordusu diyecekti bu noktadan sonra savaş yalnızca kılıçla değil kağıtla
+      duyulan: kuchukbirovadar adanan annama asan
+  REPLACE  ...kılıçla değil kağıtla da
+      metin  : sürdü i eyasu edo da hafta bekledi ve bu sürede aşkın mektup yazdı batı ittifakındaki daimyolara toprak vaat ediyor tehdit ediyor ikna ediyordu bu mektupların bazıları cevapsız kaldı bazıları ize sessizce kabul gördü o kabullerin hangisinin savaş günü gerçekten tutulacağını kimse bilmiyordu belki i eyasu nun kendisi bile sekigahara bugünkü gifu iline düşen dağlık geçidin ortasındaki küçük ovadır adının anlamı aslında kendi kaderini anlatır
+      duyulan: kendikadir nannatur
+  REPLACE  ...kendi kaderini anlatır seki
+      metin  : sınır kapısı
+      duyulan: sunir kapisa
+  INSERT   ...sınır kapısı gahara ize
+      metin  : (yok)
+      duyulan: ovademektir borada narche ilunje imperatorluk uniti minin doo ila batiya iran gimruk kapularen dan biribulu nyordu
+  REPLACE  ...kapısı gahara ize ova
+      metin  : demektir burada binlerce yıl önce imparatorluk yönetiminin doğu ile batıyı ayıran gümrük kapılarından bulunuyordu ova japonya nın en önemli yollarından birkaçının kesiştiği düğüm noktasıydı doğu ile başkent bölgesi arasında hareket etmek isteyen her ordu
+      duyulan: japonianan enun emni yolaren dan birkachenan kesisti noktasid doo ila baskan tbergisi arasundahareketet mekisti an herordu
+  REPLACE  ...isteyen her ordu ya
+      metin  : buradan geçmek ya da çok uzun dolambaçla dolaşmak zorundaydı
+      duyulan: bordang ech mek yada chokuzun dolam bachda dolashmakzorundaidi
+  REPLACE  ...dolambaçla dolaşmak zorundaydı ekim
+      metin  : ün ortasında batı ordusu nun ana gövdesi sekigahara nın doğusundaki
+      duyulan: in ortasundah batu ordusunun anagovdesi seki gaharanan doo sundaki
+  REPLACE  ...sekigahara nın doğusundaki ogaki
+      metin  : kalesi nde toplanmıştı i eyasu
+      duyulan: kali sindetoplan mushti iye asu
+  REPLACE  ...toplanmıştı i eyasu ize
+      metin  : kalenin kuzeybatısındaki akasaka ya vardı kaleyi kuşatıp vakit kaybetmeyecek doğrudan batıya
+      duyulan: kalinin kusei batusundaki akasakaya warda kalei kushatup vakitkaibet miyejek doorudan batiya
+  REPLACE  ...kalesi savayama ya ve
+      metin  : oradan osaka ya yürüyecekmiş gibi görüntü verdi
+      duyulan: ordan osakaya yuriyejek miski bibigurun tiwerde
+  REPLACE  ...görüntü verdi mitsunari bu
+      metin  : yolu kesmek zorundaydı
+      duyulan: yolo kesmekzorundaidi
+  REPLACE  ...yolu kesmek zorundaydı ekim
+      metin  : gecesi yağmur
+      duyulan: geche si yamur
+  REPLACE  ...ekim gecesi yağmur bardaktan
+      metin  : boşanırcasına yağarken batı ordusu karanlıkta ogaki den çıktı ve çamurlu yollardan sekigahara
+      duyulan: boshanir jasanayaar ken batu ordusukaranakta ogakidan chiktive chamurlu yolardan seki gahara
+  REPLACE  ...çamurlu yollardan sekigahara ya
+      metin  : yürüdü askerler sırılsıklamdı fenerler yağmurda sönüyordu ama gece yarısından
+      duyulan: yurudu asker lerserul seklamde fenar ler yamur dasun yordu amage je yarasundan
+  REPLACE  ...ama gece yarısından sonra
+      metin  : birlikler ovayı çevreleyen
+      duyulan: likler ova ice vrelian
+  REPLACE  ...birlikler ovayı çevreleyen tepeleer
+      metin  : yerleşmeyi başardı doğu
+      duyulan: yar leshme yibashardu do
+  REPLACE  ...başardı doğu ordusu da
+      metin  : onların peşinden
+      duyulan: onnaren peshindan
+  REPLACE  ...da onların peşinden yola
+      metin  : çıktı
+      duyulan: chiktive
+  REPLACE  ...peşinden yola çıktı ve
+      metin  : şafak sökmeden ovanın doğu yarısını
+      duyulan: shafaksuk medan ovanan do yarasunu
+  REPLACE  ...ovanın doğu yarısını doldurdu
+      metin  : i eyasu nun
+      duyulan: iye asunun
+  REPLACE  ...i eyasu nun en
+      metin  : büyük eksiği oğlu tokugava hidetada ydı hidetada tokugava ailesinin asıl kuvvetlerinden yaklaşık askerle başka
+      duyulan: bu yuk ek siye olu tokugawa heedetadaide heedetada tokugawa aylisinin asulku vettlirin dan yaklashik otusekis askear labashkabir
+  REPLACE  ...yaklaşık askerle başka yoldan
+      metin  : dağların arasından gelecekti
+      duyulan: dalaran arasundan gelejekte
+  REPLACE  ...arasından gelecekti ama yolda
+      metin  : ueda kalesi nde küçük garnizonla direnen
+      duyulan: wedakkalesinde kuchuk garnizondadiranen
+  REPLACE  ...küçük garnizonla direnen usta
+      metin  : strateji ustası
+      duyulan: stratege usta se
+  REPLACE  ...strateji ustası sanada masayuki
+      metin  : günlerce oyaladı hidetada savaşa yetişemedi
+      duyulan: gynerja oyalade heedetada savasha yetishemedi oyuzdani yeyasunun seki gahara da savasha jakordu sonun
+  REPLACE  ...hidetada savaşa yetişemedi bu
+      metin  : i eyasu nun sekigahara da savaşacak ordusunun büyük bölümü kendi öz vasalları değil
+      duyulan: yuk belumu kende oswasa lerdeel
+  REPLACE  ...vasalları değil oyama da
+      metin  : yanına geçen toyotomi komutanlarının askerleriydi başka deyişle i eyasu hayatının en önemli savaşına sadakati en çok sınanacak insanlarla girecekti sabah olduğunda ovayı kalın sis kaplamıştı geleneksel hesaplara göer o sisin içinde taraf toplandığında yaklaşık asker bekliyordu
+      duyulan: yananagetchan toyo tomi komutanner naskear leeride bashka da ishle yeyasu hayatanun enunemni savashuna sadakate enchok sunanajak insanar lagirjekte sabo uldun da owayi kalun siskaplamushte jelaneksel hiisa plaraguer osisi nichinde ikitaraftoplandan da yaklashik usatmushbin askear beklu yordu
+  REPLACE  ...asker bekliyordu bu rakamlar
+      metin  : tarihçiler arasında hala tartışmalıdır batı ordusu nun kağıt üzerindeki gücünün doğu dan fazla olduğu kabul edilir
+      duyulan: tari chilarararasundahalatartishmaludur bata urdusunun katuzerindeki gujununun doudan fazda uldu kabuledilir
+  ... ve 207 fark daha
+
+metinde olup DUYULMAYAN: 3175 kelime | duyulup metinde OLMAYAN: 2290
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-11-08.duyulan.txt

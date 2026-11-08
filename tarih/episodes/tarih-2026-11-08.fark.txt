@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-08.mp3
+
+beklenen 3490 kelime | duyulan 3426 kelime | eşleşme %89.9
+sayı ifadesi: metinde 317, duyulanda 259  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...verdiği karar japonya yı
+      metin  : buçuk
+      duyulan: yıl
+  REPLACE  ...bıraktı yılının eylül ayında
+      metin  : fuşimi
+      duyulan: fushimi
+  REPLACE  ...iç odalarından japonya yı
+      metin  : yılı
+      duyulan: yıla
+  REPLACE  ...adam ölmek üzereydi toyotomi
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...güçlü hükümdarı olmuştu kendine
+      metin  : şogun unvanını
+      duyulan: shogun ünvanını
+  REPLACE  ...verdiği en yüksek sivil
+      metin  : unvanları
+      duyulan: ünvanları
+  REPLACE  ...varisi hideyori henüz yaşındaydı
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...ülkenin en güçlü daimyosundan
+      metin  : naipler
+      duyulan: naibler
+  REPLACE  ...naipler kurulu oluşturdu bunlar
+      metin  : tokugava i eyasu
+      duyulan: tokugawa ieyasu
+  REPLACE  ...tokugava i eyasu maeda
+      metin  : toşiie mori terumoto
+      duyulan: toshiye moriterumoto
+  REPLACE  ...toşiie mori terumoto ukita
+      metin  : hideie
+      duyulan: hideye
+  REPLACE  ...yöneticilerin en dikkat çekeni
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...idareye son derece yatkın
+      metin  : i şida mitsunari ydi hideyoşi
+      duyulan: işi daha mitsunariydi hideyoshi
+  REPLACE  ...ydi hideyoşi ölüm döşeğinde
+      metin  : naiplerden
+      duyulan: naiblerden
+  INSERT   ...ant içtiler hükümdar eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaşlısı ve en güçlüsü
+      metin  : tokugava i eyasu
+      duyulan: tokugawa ieyasu
+  REPLACE  ...aşıyordu bu rakam bağlı
+      metin  : onbinlerce
+      duyulan: binlerce
+  REPLACE  ...nobunaga nın müttefiki olmuş
+      metin  : hideyoşi yle
+      duyulan: hideyoshi ile
+  REPLACE  ...üzerinde çok daha mütevazı
+      metin  : i şida
+      duyulan: ishida
+  REPLACE  ...mütevazı i şida mitsunari
+      metin  : naip
+      duyulan: naib
+  REPLACE  ...bekçisi olarak görüyordu kendini
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...pek sevilen adam değildi
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...mesela kato kiyomasa ve
+      metin  : fukuşima
+      duyulan: fukushima
+  REPLACE  ...daha çok nefret ediyordu
+      metin  : i eyasu hideyoşi
+      duyulan: ieyasu hideyoshi
+  REPLACE  ...aileleriyle evlilik bağları kurdu
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...olan tek kişi maeda
+      metin  : toşiie ydi toşiie
+      duyulan: toshie idi toshie
+  REPLACE  ...yaşlıydı saygın savaşçıydı ve
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  INSERT   ...sahnesinden uzaklaştırmıştı ertesi yıl
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...bölgesinde topraklarını tahkim eden
+      metin  : naip
+      duyulan: naib
+  REPLACE  ...hesaplıyordu mitsunari kaçırmadı batılı
+      metin  : daimyolara
+      duyulan: daim yollara
+  REPLACE  ...gönderdi i eyasu nun
+      metin  : hideyoşi
+      duyulan: hideyoshi
+  REPLACE  ...sıraladı ve ittifak kurdu
+      metin  : naip mori terumoto
+      duyulan: naib moriterumoto
+  REPLACE  ...başkent bölgesindeki dayanağı olan
+      metin  : fuşimi kalesi ydi
+      duyulan: fushimi kalesiydi
+  REPLACE  ...göer ilk ayağa kalkan
+      metin  : fukuşima
+      duyulan: fukushima
+  REPLACE  ...mektup yazdı batı ittifakındaki
+      metin  : daimyolara
+      duyulan: daim yollara
+  REPLACE  ...anlatır seki sınır kapısı
+      metin  : gahara
+      duyulan: gihara
+  INSERT   ...dolambaçla dolaşmak zorundaydı ekim
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...sekigahara ya yürüdü askerler
+      metin  : sırılsıklamdı
+      duyulan: sırılsıklandı
+  REPLACE  ...en büyük eksiği oğlu
+      metin  : tokugava
+      duyulan: tokugawa hidetadaydı
+  REPLACE  ...eksiği oğlu tokugava hidetada
+      metin  : ydı hidetada tokugava
+      duyulan: tokugawa
+  ... ve 105 fark daha
+
+metinde olup DUYULMAYAN: 187 kelime | duyulup metinde OLMAYAN: 187
+bölme/birleşme farkı (hata değil, elendi): 106
+
+duyulan metin: tarih-2026-11-08.duyulan.txt

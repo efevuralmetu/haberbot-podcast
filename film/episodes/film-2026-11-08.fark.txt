@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-08.mp3
+
+beklenen 2176 kelime | duyulan 2182 kelime | eşleşme %95.7
+sayı ifadesi: metinde 296, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yazarı ortak roman yayımladı
+      metin  : piyer buvalo
+      duyulan: pierer bouvalo
+  REPLACE  ...yayımladı piyer buvalo ile
+      metin  : toma
+      duyulan: thomas
+  REPLACE  ...gibi tanıyordu kitabın adı
+      metin  : dantr
+      duyulan: danter
+  REPLACE  ...kitabın adı dantr le
+      metin  : mor tu
+      duyulan: morteau
+  REPLACE  ...sinemaya uyarlanmış fransız yönetmen
+      metin  : anri jorj kluzo nun
+      duyulan: henri georges clouzot un
+  REPLACE  ...taylor adlı genç yazar
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  REPLACE  ...insanın sesini eklemek oldu
+      metin  : midge
+      duyulan: mcgee
+  REPLACE  ...aklı başında esprili kadın
+      metin  : midge
+      duyulan: mcgee
+  REPLACE  ...gündelik hayatı temsil edecekti
+      metin  : jenerikte
+      duyulan: generic de
+  REPLACE  ...yer aldı kahramanın adı
+      metin  : scottie
+      duyulan: scotty
+  REPLACE  ...karısını izlemesini ister karısı
+      metin  : madeleine in
+      duyulan: madeley nin
+  REPLACE  ...ve intihar etmiş carlotta
+      metin  : valdes
+      duyulan: valdez
+  REPLACE  ...kadının ruhuna kapıldığına inanmaktadır
+      metin  : scottie
+      duyulan: scotty
+  REPLACE  ...baş döndürücü girdaba çeker
+      metin  : scottie
+      duyulan: scotty
+  REPLACE  ...sonunda takas yapıldı columbia
+      metin  : novağı
+      duyulan: novak a
+  REPLACE  ...james stewart columbia nın
+      metin  : bel
+      duyulan: belle
+  REPLACE  ...book and candle yani
+      metin  : çan
+      duyulan: chan
+  REPLACE  ...ayrı filmde partner oldu
+      metin  : novağın
+      duyulan: novak ın
+  REPLACE  ...karşılaşması gergin geçti yönetmen
+      metin  : madeleine in
+      duyulan: madeleinin
+  REPLACE  ...kostüm tasarımcısı edith head
+      metin  : le
+      duyulan: ile
+  REPLACE  ...gibi hissetmek tam da
+      metin  : madeleine in
+      duyulan: madeleinin
+  REPLACE  ...işarete dönüşecekti çünkü carlotta
+      metin  : valdes
+      duyulan: valdez
+  REPLACE  ...filmin yarısında scottie ölen
+      metin  : madeleine i
+      duyulan: madeleini
+  REPLACE  ...spiraller fışkırmaya başlar bu
+      metin  : dönen
+      duyulan: dönem
+  REPLACE  ...müzik eleştirmenleri bu partisyonda
+      metin  : rihard vagner in
+      duyulan: richard wagner ın
+  DELETE   ...söyler scottie nin madeleine
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  INSERT   ...fikir yıllardır meşgul ediyordu
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...kule merdiveninin tepesine bu
+      metin  : düzeneği
+      duyulan: düzeneyi
+  REPLACE  ...dikey düşüş belirdi hitchcock
+      metin  : trüfo ya
+      duyulan: truffaut a
+  REPLACE  ...anılır vertigo etkisi sonraki
+      metin  : onyıllarda
+      duyulan: yıllarda
+  REPLACE  ...için kullandı scottie nin
+      metin  : madeleine i
+      duyulan: madeleğini
+  REPLACE  ...lokantalarından geçer duvarlar kırmızı
+      metin  : kadifeyle
+      duyulan: kadife ile
+  REPLACE  ...filmin gizli dilidir yeşil
+      metin  : madeleine le
+      duyulan: madeleinle
+  DELETE   ...ve an için madeleine
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...noktası kentin güneyindeki san
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...geri dönüşle gerçeği öğreniriz
+      metin  : madeleine
+      duyulan: madelene
+  REPLACE  ...izlenen kadın hep judy
+      metin  : ydi elster
+      duyulan: idi esther
+  REPLACE  ...kuleden düşen kadın gerçek
+      metin  : madeleine di
+      duyulan: madeleyindi
+  REPLACE  ...tartışma yarattı senaryo yazarı
+      metin  : taylor
+      duyulan: tyler
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: film-2026-11-08.duyulan.txt

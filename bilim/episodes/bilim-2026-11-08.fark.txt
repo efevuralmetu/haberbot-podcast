@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-08.mp3
+
+beklenen 1991 kelime | duyulan 2007 kelime | eşleşme %94.1
+sayı ifadesi: metinde 307, duyulanda 211  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...en iyisi olduğu ancak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hareketli kanepe problemi problemi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hammersley oldu hammersley oxford
+      metin  : da
+      duyulan: ta
+  REPLACE  ...olasılık kuramında ve monte
+      metin  : karlo
+      duyulan: carlo
+  INSERT   ...yöntemlerinde iz bırakmış isimdi
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...kurabilirsiniz önce yarım daireyi
+      metin  : alın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...boyu bölü pi olan
+      metin  : dikdörtgen
+      duyulan: dik
+  INSERT   ...telefonun ahizesine çok benzer
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...benzer yanda kulaklık ve
+      metin  : mikrofon
+      duyulan: telefon
+  REPLACE  ...aşağıdan sınır vermekle kalmadı
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...vermekle kalmadı yukarıdan da
+      metin  : tavan
+      duyulan: kaban
+  INSERT   ...alanı kök yani yaklaşık
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...kadar dengeliydi ki daha
+      metin  : iyisini
+      duyulan: yeni
+  REPLACE  ...bu durumu tersinden düşünmeyi
+      metin  : sever
+      duyulan: yapar
+  DELETE   ...en büyük olanı bulma
+      metin  : sorusuna
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üniversitesi nden matematikçi joseph
+      metin  : gerver
+      duyulan: gerwer
+  INSERT   ...matematikçi joseph gerver oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gerver oldu yayımladığı çalışmada
+      metin  : gerver
+      duyulan: gerwer
+  REPLACE  ...kıvrılabileceğini gösterdi ahizenin iç
+      metin  : oyuğu
+      duyulan: oyu
+  REPLACE  ...köşeleri de çeyrek dairelerdi
+      metin  : gerver
+      duyulan: gerwer
+  DELETE   ...zordu ama sınırı tam
+      metin  : ayrı
+      duyulan: (YOK — atlanmış)
+  INSERT   ...parçalı kanepenin alanı yaklaşık
+      metin  : (yok)
+      duyulan: dir
+  INSERT   ...alanı yaklaşık ahizeden farkı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ama matematikte bu fark
+      metin  : uçurumdur
+      duyulan: durumdur
+  REPLACE  ...bu fark uçurumdur çünkü
+      metin  : hammersley
+      duyulan: hummersley
+  REPLACE  ...ilk sezgi yanılmıştı peki
+      metin  : gerver
+      duyulan: gerwer
+  REPLACE  ...iyisi de var mıydı
+      metin  : gerver
+      duyulan: gerwer
+  DELETE   ...temas noktasında tür itme
+      metin  : kuvveti
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...parça daha alan kazanabilirsiniz
+      metin  : gerver
+      duyulan: gerwer
+  REPLACE  ...küçük değişikliklerle alanının büyütülemeyeceğini
+      metin  : gösterdi
+      duyulan: beklerdi
+  REPLACE  ...bambaşka görünümlü daha yüksek
+      metin  : zirve vardır gerver
+      duyulan: gerwer
+  REPLACE  ...güçlü aday vardı ama
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...taraflı kuşatmaya dönüştü taraf
+      metin  : gerver
+      duyulan: gerwer
+  INSERT   ...tarandı bu aramaların hiçbiri
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...çekmeye çalışıyordu hammersley in
+      metin  : (yok)
+      duyulan: lük
+  INSERT   ...onlarca yıl yerinden kıpırdamadı
+      metin  : (yok)
+      duyulan: piki dan
+  REPLACE  ...yıl yerinden kıpırdamadı itibaren
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kaliforniya üniversitesi nden dan
+      metin  : romik
+      duyulan: romick
+  REPLACE  ...probleme yeniden ışık tuttu
+      metin  : romik gerver
+      duyulan: romick gerwer
+  REPLACE  ...in denge koşullarını diferansiyel
+      metin  : denklemler
+      duyulan: denemler
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 86 kelime | duyulup metinde OLMAYAN: 103
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: bilim-2026-11-08.duyulan.txt

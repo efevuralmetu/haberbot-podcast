@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-08.mp3
+
+beklenen 2362 kelime | duyulan 2350 kelime | eşleşme %95.8
+sayı ifadesi: metinde 336, duyulanda 284  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...veriyor benim elim benim
+      metin  : midem
+      duyulan: medem
+  REPLACE  ...benim bedenim diyoruz sanki
+      metin  : içeride
+      duyulan: içerde
+  DELETE   ...verilmiş en etkili cevaplardan
+      metin  : m ö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geçiriyordu platon bu sahneyi
+      metin  : faydon
+      duyulan: phaidon
+  INSERT   ...bildiğimiz şeyle aynı olamaz
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...şeyle aynı olamaz sonra
+      metin  : röne dekart
+      duyulan: rené descartes de
+  REPLACE  ...ama ibaret olmayan varlık
+      metin  : dekart ın
+      duyulan: descartes in
+  INSERT   ...net biçimde soran kişi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...soran kişi mektup yazan
+      metin  : bohemya
+      duyulan: bohemia
+  REPLACE  ...mektup yazan bohemya prensesi
+      metin  : elizabet
+      duyulan: elizabeth
+  REPLACE  ...olur da kolu kaldırabilir
+      metin  : dekart beynin
+      duyulan: descartes in
+  REPLACE  ...sonra yüzyılda fransız düşünür
+      metin  : moris merlo ponti
+      duyulan: maurice merleau ponty
+  INSERT   ...merlo ponti sahneye çıkar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hiçbir taş böyle değildir
+      metin  : merlo ponti
+      duyulan: merleau ponty
+  REPLACE  ...yerdir bastonuyla yürüyen görme
+      metin  : engelliyi
+      duyulan: engelliği
+  REPLACE  ...düşünmüyorsunuz bedeniniz zaten biliyor
+      metin  : merlo ponti
+      duyulan: merleau ponty
+  REPLACE  ...ben bedenimim platon dan
+      metin  : merlo ponti
+      duyulan: merleau ponty
+  REPLACE  ...yapabilir miyim sefiller romanında
+      metin  : viktor hügo
+      duyulan: victor hugo
+  REPLACE  ...seyyar dişçiye ön dişlerini
+      metin  : hügo
+      duyulan: hugo
+  INSERT   ...ön dişlerini hügo nun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...soruyla baş başa bırakır
+      metin  : fantin
+      duyulan: fantine
+  INSERT   ...filozofu john locke durur
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...durur yayımlanan hükümet üzerine
+      metin  : i kinci i nceleme de
+      duyulan: incelemede
+  INSERT   ...bu cümleden güç aldı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...immanuel kant itiraz eder
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ilginç ayrıntı var locke
+      metin  : un
+      duyulan: ın
+  REPLACE  ...olmadığını söylüyor yani modern
+      metin  : özerkliğin
+      duyulan: özertliğin
+  INSERT   ...satışı yasaktır türkiye de
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hakkını da içerir mi
+      metin  : locke un
+      duyulan: lokkun
+  REPLACE  ...namaz kılıyordu bu durum
+      metin  : hazreti peygamber e
+      duyulan: hz peygambeer
+  REPLACE  ...ama uyu da çünkü
+      metin  : bedeninin
+      duyulan: bedenin
+  REPLACE  ...karşı alacağı vardır uykuya
+      metin  : yemeğe
+      duyulan: yemeye
+  REPLACE  ...i mam gazali el
+      metin  : mustasfa
+      duyulan: mustazfa
+  REPLACE  ...karşı ihanettir gazali kimya
+      metin  : yı saadet te
+      duyulan: i saadette
+  REPLACE  ...ülke benzetmesiyle anlatır beden
+      metin  : memlekettir
+      duyulan: memleketdir
+  REPLACE  ...boyun eğmez bu benzetme
+      metin  : locke
+      duyulan: lok
+  REPLACE  ...un mülkiyet modelinden de
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...ciddi soru doğdu beden
+      metin  : emanetse
+      duyulan: emanet ize
+  INSERT   ...i şleri yüksek kurulu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eder gözler yanar sırt
+      metin  : ağrır
+      duyulan: ağırır
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: felsefe-2026-11-08.duyulan.txt

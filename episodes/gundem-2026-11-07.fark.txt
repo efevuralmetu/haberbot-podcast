@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-07.mp3
+
+beklenen 1302 kelime | duyulan 1298 kelime | eşleşme %95.5
+sayı ifadesi: metinde 244, duyulanda 125  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu saldırı haftanın başında
+      metin  : kişm
+      duyulan: kiş
+  DELETE   ...söylediği saldırıların devamı niteliğinde
+      metin  : beyaz saray daha kapsamlı askeri kampanyayı mevcut yaptırımlar
+      duyulan: (YOK — atlanmış)
+  INSERT   ...anketlerde trump ın oranı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...ve kasım da abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...alınacağını söyledi moskova da
+      metin  : heyete
+      duyulan: hyt
+  REPLACE  ...moskova da heyete vladimir
+      metin  : medinski
+      duyulan: medinsky
+  REPLACE  ...bankası devlet başkanı santiago
+      metin  : penya
+      duyulan: pena
+  REPLACE  ...gözaltına alındı ve muhalefet
+      metin  : penya
+      duyulan: pena
+  REPLACE  ...ve muhalefet penya hakkında
+      metin  : azil
+      duyulan: aziz
+  INSERT   ...düzenlenen trt world forum
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...açılışında yaptığı konuşmada uluslararası
+      metin  : sistemin
+      duyulan: sistemi nin
+  REPLACE  ...openai ın finans direktörü
+      metin  : sarah
+      duyulan: sara
+  REPLACE  ...yük olmaması için dizi
+      metin  : taahhüt
+      duyulan: tahüt
+  INSERT   ...wal street için nisan
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...piyasa değeri haftada trilyon
+      metin  : doları
+      duyulan: dolara
+  REPLACE  ...üretimini hızlandırmaya çalıştığı bildiriliyor
+      metin  : bulut
+      duyulan: blut
+  INSERT   ...arama hizmeti için oracle
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...hizmeti için oracle ile
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cuma günü nasdaq endeksi
+      metin  : yükselişle
+      duyulan: yükselişte
+  REPLACE  ...nasdaq endeksi yükselişle puana
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...puandan kapandı haftalık bazda
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...gelen arzla ilgili endişeleri
+      metin  : artırıyor
+      duyulan: arttırıyor
+  DELETE   ...beklentilerin üzerinde geldi türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ekim toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: den ya
+  REPLACE  ...hafta güçlü yükselişle kapandı
+      metin  : bist
+      duyulan: bis de
+  INSERT   ...bulunuyor gram cuma günü
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...bölge adliye mahkemesi mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kesinleşmedi ve yargıtay hukuk
+      metin  : dairesi nde temyiz
+      duyulan: dairesinde temiz
+  REPLACE  ...özel ize temmuz ayında
+      metin  : chp
+      duyulan: çcp
+  REPLACE  ...katkı vermeye hazır olduğunu
+      metin  : yineledi
+      duyulan: yeniledi
+  REPLACE  ...ve kasım da abu
+      metin  : dabi
+      duyulan: dhabi
+  DELETE   ...genelinde sıcaklıkların mevsim normallerinin
+      metin  : ila
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 34 kelime | duyulup metinde OLMAYAN: 36
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: gundem-2026-11-07.duyulan.txt

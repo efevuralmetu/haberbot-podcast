@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-08.mp3
+
+beklenen 2793 kelime | duyulan 2803 kelime | eşleşme %96.0
+sayı ifadesi: metinde 299, duyulanda 228  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aramadı yılının şubat günü
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...günü barselona da doğan
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...da doğan huan puyol
+      metin  : garsia
+      duyulan: garcía
+  REPLACE  ...hoşgörü aşılamaya çalışan adamdı
+      metin  : huan
+      duyulan: juan
+  REPLACE  ...salonunu işletmeye girişti ara
+      metin  : barselona
+      duyulan: barcelona
+  REPLACE  ...girişti ara barselona yakınlarındaki
+      metin  : arenis
+      duyulan: arenist
+  INSERT   ...dağınık iyi niyetli genç
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ilerideki hayatının pusulası olacaktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...savaşa girdiğinde puyol madrid
+      metin  : de
+      duyulan: te
+  REPLACE  ...takip ediyor ve kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  INSERT   ...ama tuhaf kararlılığı vardı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...vardı ocak ayında madrid
+      metin  : deki
+      duyulan: teki
+  REPLACE  ...almak zorunda kalırdı madrid
+      metin  : deki
+      duyulan: teki
+  REPLACE  ...sahte belgeler ayarladı sonunda
+      metin  : abver
+      duyulan: abwehr
+  REPLACE  ...alman istihbaratı şefi karl
+      metin  : erih külental
+      duyulan: erich külenthal
+  REPLACE  ...ama londra ya gitmedi
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...gitti ve orada yerleşti
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...ortasında tarafsız kalmış liman
+      metin  : kentiydi casuslar
+      duyulan: kenti idi çasuslar
+  REPLACE  ...sokaklarda iç içe yaşıyordu
+      metin  : huan
+      duyulan: huhan
+  REPLACE  ...üzerine başvuru kitabı vardı
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...para sisteminin karmaşık sterlin
+      metin  : şilin
+      duyulan: schil in
+  REPLACE  ...karmaşık sterlin şilin ve
+      metin  : peni
+      duyulan: penny
+  INSERT   ...berlin arasındaki mesajları okuyorlardı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...dan malta ya büyük
+      metin  : konvoy
+      duyulan: konvo
+  REPLACE  ...bile değildi bu sırada
+      metin  : puyol da
+      duyulan: bu yolda
+  REPLACE  ...eşi araseli verdi araseli
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...lizbon daki amerikan deniz
+      metin  : ataşeliğiyle
+      duyulan: ataşeli ile
+  REPLACE  ...hazır ajan vardı baharında
+      metin  : puyol
+      duyulan: huyol
+  REPLACE  ...vardı baharında puyol gizlice
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...londra da bekleyen kurum
+      metin  : mibeş
+      duyulan: i mi
+  REPLACE  ...yanına dava yöneticisi verildi
+      metin  : tomas
+      duyulan: thomas
+  REPLACE  ...vardı aralarında venezuelalı öğrenci
+      metin  : galler de
+      duyulan: galerde
+  REPLACE  ...bu yıllar içinde garbo
+      metin  : ağı
+      duyulan: ağa
+  REPLACE  ...doğrudan madrid e iletiliyordu
+      metin  : ağın
+      duyulan: ağa nın
+  REPLACE  ...ilk gelen yer pa
+      metin  : dö kale
+      duyulan: de cale
+  REPLACE  ...pa dö kale yani
+      metin  : kale
+      duyulan: cale
+  REPLACE  ...yakın fransız kıyısıydı ve
+      metin  : manş
+      duyulan: manç
+  REPLACE  ...amaç almanları asıl saldırının
+      metin  : kale
+      duyulan: cale
+  REPLACE  ...karara vardı garbo almanlara
+      metin  : çıkarmanın
+      duyulan: çıkartmanın
+  REPLACE  ...gönderilmeye çalışıldı ama madrid
+      metin  : deki
+      duyulan: teki
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-11-08.duyulan.txt
