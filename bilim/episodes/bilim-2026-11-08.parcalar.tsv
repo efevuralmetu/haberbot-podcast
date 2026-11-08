@@ -1,0 +1,170 @@
+sira	karakter	saniye	kar_sn	metin
+1	80	4.640	17.24	Taşınan herkes bir kanepeyi dar bir koridorun köşesinden dön
+2	219	13.120	16.69	Matematikçiler bu sorunun cevabını elli yılı aşkın bir süre 
+3	35	2.080	16.83	Yeni bir eve taşındığınızı düşünün.
+4	83	5.280	15.72	Kamyon kapının önünde, merdivenleri çıkmışsınız, elinizde en
+5	97	6.080	15.95	Önünüzde dar bir koridor uzanıyor ve birkaç metre ileride ta
+6	91	5.920	15.37	Kanepeyi ileri itiyorsunuz, köşeye geliyorsunuz, eğiyorsunuz
+7	33	2.080	15.87	Geri çekip bir daha deniyorsunuz.
+8	116	7.520	15.43	Bu sahneyi yaşamış herkesin aklından aynı soru geçer: Bu köş
+9	111	8.000	13.88	Kulağa bir ev hâli şakası gibi geliyor ama matematikte bu so
+10	98	6.400	15.31	Problemi bin dokuz yüz altmış altıda Avusturya doğumlu Kanad
+11	99	6.080	16.28	Moser geometri bulmacalarına meraklıydı ve basit sorulmuş am
+12	85	6.880	12.35	Bu soru da tam onlardandı: Kanepe katı bir cisimdir, bükülem
+13	127	8.320	15.26	Bu cismi kayarak ve dönerek hareket ettirebilirsiniz ama kal
+14	50	3.360	14.88	Koridorun genişliği bir birimdir, köşe dik açıdır.
+15	96	6.080	15.79	Bu koridordan geçip köşeyi dönebilen düzlemsel şekillerin iç
+16	80	5.120	15.62	Sorunun inceliği, ilk akla gelen cevapların ne kadar kolay g
+17	48	3.200	15.00	En basit aday kenarı bir birim olan bir karedir.
+18	91	6.240	14.58	Kare koridorda kayar, köşeye gelince döner değil, sadece yön
+19	13	1.120	11.61	Alanı birdir.
+20	149	10.080	14.78	Biraz daha iyisi yarım dairedir: yarıçapı bir olan bir yarım
+21	59	4.640	12.72	Alanı pi bölü iki, yani yaklaşık bir virgül elli yedi eder.
+22	40	3.040	13.16	Kareden daha iyi, ama daha da iyisi var.
+23	110	6.880	15.99	İşin sırrı şurada: köşeyi dönen bir şekil koridorun iç köşes
+24	70	4.480	15.62	Bu fikri ilk ustaca kullanan İngiliz matematikçi John Hammer
+25	101	6.400	15.78	Hammersley Oxford'da çalışan, olasılık kuramında ve Monte Ka
+26	172	11.040	15.58	bin dokuz yüz altmış sekizde matematik eğitiminin gidişatını
+27	213	13.440	15.85	Gerçek problemlerle uğraşmanın ne kadar öğretici olabileceği
+28	43	3.040	14.14	Hammersley'in şeklini şöyle kurabilirsiniz.
+29	99	6.880	14.39	Önce yarım daireyi alın ve onu tam ortasından ikiye kesin, b
+30	116	7.040	16.48	Bu iki parçayı birbirinden uzaklaştırın ve arasına eni bir, 
+31	100	6.720	14.88	Sonra bu dikdörtgenin alt kenarından yarıçapı iki bölü pi ol
+32	173	10.400	16.63	Ortaya çıkan şekil eski tip bir telefonun ahizesine çok benz
+33	106	7.040	15.06	Köşeyi dönerken iç köşe tam bu boşluğun içinde kayar ve şeki
+34	90	7.040	12.78	Bu ahizenin alanı pi bölü iki artı iki bölü pi'dir, yani yak
+35	41	2.720	15.07	Yarım daireden yüzde kırktan fazla büyük.
+36	92	5.760	15.97	Üstelik Hammersley sadece aşağıdan bir sınır vermekle kalmad
+37	100	6.720	14.88	Köşeyi dönebilen hiçbir kanepenin alanı iki kök ikiyi, yani 
+38	103	7.520	13.70	Böylece cevabın iki,iki bin yetmiş dört ile iki virgül sekse
+39	67	4.480	14.96	Hammersley kendi ahizesinin en iyi çözüm olabileceğini düşün
+40	74	4.480	16.52	Şekil o kadar zarif, o kadar dengeliydi ki daha iyisini haya
+41	48	3.200	15.00	Ama matematikte zarafet bir kanıt yerine geçmez.
+42	67	4.160	16.11	Burada sorunun neden bu kadar inatçı olduğunu da anlamak ger
+43	73	4.800	15.21	Bir kanepenin köşeyi dönmesi tek bir an değildir, sürekli bi
+44	116	7.840	14.80	Kanepe bir yandan döner, bir yandan kayar, ve bu hareketin h
+45	127	7.680	16.54	Matematikçiler bu durumu tersinden düşünmeyi sever: kanepeyi
+46	134	8.800	15.23	O zaman kanepe, hareketin her anındaki koridor konumlarının 
+47	52	3.040	17.11	Hareket yolunu değiştirdiğinizde kesişim de değişir.
+48	104	6.720	15.48	Böylece soru, sonsuz sayıda olası hareket arasından ortak bö
+49	77	4.960	15.52	Bu, sonlu sayıda seçeneği tek tek deneyerek çözülebilecek bi
+50	45	3.040	14.80	Olasılıklar sonsuz boyutlu bir uzaya yayılır.
+51	36	2.720	13.24	Ahize bu uzayda parlak bir noktaydı.
+52	33	2.400	13.75	Peki zirve gerçekten orası mıydı?
+53	108	7.360	14.67	Cevabın hayır olduğunu gösteren kişi, Amerika'daki Rutgers Ü
+54	142	8.800	16.14	bin dokuz yüz doksan ikide yayımladığı çalışmada Gerver, Ham
+55	76	5.920	12.84	Ahizenin iç oyuğu tam bir yarım daireydi, dış köşeleri de çe
+56	79	5.280	14.96	Gerver bu dairesel parçaları gevşetti, yerlerine ince ayarla
+57	50	3.360	14.88	Sonuçta ortaya çıkan şekil ahizeye çok benziyordu.
+58	51	3.200	15.94	Yan yana koysanız aradaki farkı gözle görmek zordu.
+59	57	3.520	16.19	Ama sınırı tam on sekiz ayrı eğri parçasından oluşuyordu.
+60	149	9.760	15.27	Kimi düz bir çizgi, kimi bir daire yayı, kimi de daha karmaş
+61	82	5.440	15.07	Bu on sekiz parçalı kanepenin alanı yaklaşık iki virgül iki 
+62	40	3.200	12.50	Ahizeden farkı binde beşten biraz fazla.
+63	66	4.000	16.50	Bir oturma odasında kimsenin fark etmeyeceği kadar küçük bir
+64	108	6.880	15.70	Ama matematikte bu fark bir uçurumdur, çünkü Hammersley'in ş
+65	30	2.240	13.39	Demek ki ilk sezgi yanılmıştı.
+66	49	3.200	15.31	Peki Gerver'in şeklinden daha iyisi de var mıydı?
+67	49	3.360	14.58	Gerver bu şekle rastgele denemelerle ulaşmamıştı.
+68	43	3.200	13.44	Şekli belirli bir denge ilkesiyle kurmuştu.
+69	108	7.040	15.34	Onun bakışında, köşeyi dönen kanepeye koridorun duvarları he
+70	92	5.920	15.54	Bir şekil en iyi şekilse, bu kuvvetlerin hareketin her anınd
+71	105	6.880	15.26	Çünkü dengelenmiyorsa, kanepeyi bir yöne biraz daha esnetere
+72	162	9.760	16.60	Gerver bu denge koşullarını sağlayan şekli buldu ve onun en 
+73	32	2.400	13.33	İşte sorunun asıl düğümü burada.
+74	69	4.480	15.40	Yerel olarak en iyi olmak, mutlak olarak en iyi olmak demek 
+75	66	4.800	13.75	Bir dağcı etrafındaki her yönde arazinin aşağı indiğini göre
+76	94	5.920	15.88	Bu, bir tepenin üstünde olduğunu gösterir ama dünyanın en yü
+77	116	7.200	16.11	Belki sisin ardında, tamamen farklı bir hareket biçimiyle ul
+78	73	4.480	16.29	Gerver kendi şeklinin en iyi olduğunu tahmin etti ama bunu k
+79	139	8.480	16.39	Kanepe problemi böylece yeni bir aşamaya geçti: artık ortada
+80	63	4.320	14.58	Sonraki yıllarda problem bir tür iki taraflı kuşatmaya dönüş
+81	51	3.680	13.86	Bir taraf, Gerver'den daha iyi bir kanepe arıyordu.
+82	74	4.800	15.42	Bilgisayarlarla sayısal denemeler yapıldı, farklı hareket yo
+83	106	6.880	15.41	Bu aramaların hiçbiri iki virgül iki bin yüz doksan beşi geç
+84	49	3.200	15.31	Diğer taraf ise tavanı aşağı çekmeye çalışıyordu.
+85	82	5.120	16.02	Hammersley'in iki virgül seksen üçlük üst sınırı onlarca yıl
+86	96	6.560	14.63	iki bin on altıdan itibaren Kaliforniya Üniversitesi'nden Da
+87	111	6.720	16.52	Romik, Gerver'in denge koşullarını bir diferansiyel denkleml
+88	127	8.000	15.88	Böylece Gerver'in on sekiz parçalı şeklinin her eğrisi, sayı
+89	110	6.880	15.99	Gerver'in sabiti denen o iki virgül iki bin yüz doksan beşli
+90	62	4.480	13.84	Bu, adayın kimliğini netleştirdi ama tahtını sağlamlaştırmad
+91	69	4.960	13.91	Ardından Romik, matematikçi Yoav Kallus ile birlikte tavana 
+92	93	5.760	16.15	İkili problemi bilgisayarın denetleyebileceği sonlu bir biçi
+93	215	12.960	16.59	Kanepenin hareketi sırasında birkaç belirli açıda koridorun 
+94	83	5.760	14.41	iki bin on sekizde yayımlanan sonuçları, üst sınırı iki virg
+95	68	4.640	14.66	Bu önemli bir ilerlemeydi: Hammersley'den bu yana ilk ciddi 
+96	107	6.560	16.31	Aynı çalışma, en iyi kanepenin köşeyi dönerken neredeyse tam
+97	37	2.720	13.60	Yine de tablo hâlâ huzursuz ediciydi.
+98	77	4.960	15.52	Bir yanda iki virgül iki bin yüz doksan beş, öbür yanda iki 
+99	76	5.280	14.39	Aradaki aralık küçük görünse de asıl soru açısından sonsuz d
+100	142	8.320	17.07	Çünkü bilgisayar destekli yöntemler tavanı biraz daha aşağı 
+101	95	6.080	15.62	Bunun için her olası hareketi, her olası şekli aynı anda kap
+102	180	11.040	16.30	Bazı matematikçiler kesin cevabın belki hiç kanıtlanamayacağ
+103	82	4.960	16.53	Moser'in koridoru, yarım yüzyılı geride bırakmış ve hâlâ kap
+104	146	10.720	13.62	iki bin yirmi dörtün Kasım ayının sonunda, matematikçilerin 
+105	74	4.800	15.42	Güney Koreli genç bir matematikçinin imzasını taşıyan bir ma
+106	73	4.960	14.72	Başlığı iddiasını tek cümlede söylüyordu: Gerver'in kanepesi
+107	117	6.880	17.01	Makalenin yazarı, o sırada Seul'deki Yonsey Üniversitesi'nde
+108	41	2.880	14.24	Makale yüz on dokuz sayfa uzunluğundaydı.
+109	214	13.920	15.37	Bek problemin sadece yaklaşık değil, tam çözümünü verdiğini 
+110	55	3.840	14.32	Moser'in sorusunu sormasından tam elli sekiz yıl sonra.
+111	52	3.360	15.48	Bek'in bu soruyla ilişkisi uzun yıllara dayanıyordu.
+112	117	6.560	17.84	Probleme ilk kez lise yıllarında tanıştığını, doktora çalışm
+113	94	5.760	16.32	Daha önce de problemin parçaları üzerine çalışmalar yapmıştı
+114	63	4.160	15.14	Ortaya çıkan kanıtın belki de en dikkat çekici yanı yöntemiy
+115	71	4.640	15.30	Kallus ve Romiğin çalışması bilgisayarın titiz hesaplarına d
+116	78	4.960	15.73	Bek'in kanıtı ise tamamen insan eliyle yürütülen analitik bi
+117	45	3.040	14.80	Bilgisayar denetimli hiçbir adım içermiyordu.
+118	64	4.160	15.38	Peki sonsuz sayıda olası hareketi aynı anda nasıl evcilleşti
+119	40	2.880	13.89	Fikrin özünü kabaca şöyle anlatabiliriz.
+120	146	9.760	14.96	Doğrudan alanla uğraşmak zordur, çünkü olası kanepeler uzayı
+121	73	4.480	16.29	Bek, alanın yerine onunla yakından ilişkili başka bir büyükl
+122	116	7.040	16.48	Bu yeni büyüklük her zaman alanın en az kendisi kadardır, ya
+123	51	4.000	12.75	Gerver'in kanepesinde ise alana tam olarak eşittir.
+124	85	5.920	14.36	Asıl hile şudur: bu yeni büyüklük, alanın aksine, tek tepeli
+125	36	2.560	14.06	Matematikçilerin dilinde içbükeydir.
+126	136	9.600	14.17	Tek tepeli bir arazide yerel zirve ile mutlak zirve aynı şey
+127	120	7.200	16.67	Böylece Gerver'in yerel olarak en iyi olduğunu gösteren deng
+128	153	9.280	16.49	Hiçbir kanepe bu yeni büyüklükte Gerver'i geçemiyorsa ve ger
+129	98	5.920	16.55	Bu bir cümleyle anlatılabiliyor, ama yüz on dokuz sayfanın n
+130	107	6.880	15.55	Böyle bir yardımcı büyüklüğü bulmak, onun her olası kanepe i
+131	138	8.000	17.25	içbükeyliğini kanıtlamak ve tüm bunları kanepenin hareketini
+132	215	13.600	15.81	Kanıt, Gerver'in bin dokuz yüz doksan ikide koyduğu denge il
+133	161	9.440	17.06	Bu anlamda Bek'in çalışması tek bir dâhinin aniden açtığı bi
+134	63	4.320	14.58	Matematik topluluğunun tepkisi hem heyecanlı hem temkinli ol
+135	73	4.960	14.72	Heyecanlıydı, çünkü kanıtı inceleyen uzmanlar yaklaşımı ikna
+136	86	5.760	14.93	Romik başta olmak üzere probleme yıllarını vermiş isimler ça
+137	151	9.760	15.47	iki bin yirmi beş boyunca makale bilim basınında geniş yer b
+138	132	8.320	15.87	Temkinliydi, çünkü matematikte bir sonuç ancak bağımsız hake
+139	130	8.480	15.33	Bek makalesini alanın en seçici yayın organlarından biri ola
+140	61	4.320	14.12	Bilinen son duruma göre makale hâlâ hakem değerlendirmesinde
+141	58	3.680	15.76	Henüz yayımlanmış değil ve ortada bilinen bir hata da yok.
+142	38	2.400	15.83	Bu bekleyiş olağan dışı bir şey değil.
+143	111	6.880	16.13	yüz on dokuz sayfalık, yeni bir fikre dayanan bir kanıtın he
+144	119	7.360	16.17	Hakemler sadece sonucun doğru olup olmadığına değil, her ara
+145	121	7.200	16.81	Matematik tarihinde ilk biçiminde boşluk bulunup sonra onarı
+146	155	9.760	15.88	Bu yüzden şu an söylenebilecek en dürüst cümle şudur: Moser'
+147	31	1.920	16.15	Peki bütün bunlar ne işe yarar?
+148	78	4.640	16.81	Kimse Gerver'in on sekiz eğrili kanepesini bir mobilya mağaz
+149	154	10.240	15.04	Gerçek bir taşınmada kanepeyi kaldırabilir, devirebilir, yan
+150	103	6.720	15.33	Kanepe probleminin değeri, cevabının kendisinden çok cevaba 
+151	179	11.360	15.76	Sonsuz sayıda olasılık arasından en iyisini seçmek, yani opt
+152	182	11.040	16.49	Dar bir alanda dönen bir robot kolunun, karmaşık bir boru ha
+153	105	7.040	14.91	Bu alanlarda en zor şey hep aynıdır: yerel bir iyiliğin mutl
+154	96	6.720	14.29	Bek'in yaptığı şey, engebeli bir araziyi tek tepeli bir araz
+155	116	6.560	17.68	Böyle bir örtünün nasıl kurulacağını gösteren her yeni örnek
+156	125	7.840	15.94	Bu kalıbın başka problemlerde ne kadar işe yarayacağını şimd
+157	44	3.040	14.47	Bir de hikâyenin daha sessiz bir mirası var.
+158	136	8.480	16.04	Moser'in sorusu, bir lise öğrencisinin anlayabileceği kadar 
+159	105	6.720	15.62	Hammersley bu soruyu, matematiğin kuru formüller değil canlı
+160	177	11.040	16.03	Onun ahizesinden Gerver'in on sekiz eğrisine, Kallus ile Rom
+161	122	7.360	16.58	Bir koridorun köşesinde sıkışan sıradan bir kanepe, insan ak
+162	3	1.600	1.88	---
+163	55	3.520	15.62	Not: Metindeki rakamları ve tarihleri bilgimden yazdım.
+164	79	5.120	15.43	Tek bir web araması yaptım, o da kanıtın şu anki durumunu ko
+165	141	8.480	16.63	Aramaya göre makale Annals of Mathematics'te hâlâ hakem değe
+166	171	9.600	17.81	Bek'in yaşı ve şu anki kurumu kaynaklarda farklı geçtiği içi
+167	137	8.160	16.79	Hammersley'in bin dokuz yüz altmış sekiz tarihli eğitim maka
+168	45	2.720	16.54	Nöron Bilim'de bugünkü bölümün sonuna geldik.
+169	41	2.560	16.02	Yeni bir hikâyede yeniden buluşmak üzere.
