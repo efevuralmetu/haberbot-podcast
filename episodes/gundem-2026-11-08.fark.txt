@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-08.mp3
+
+beklenen 1389 kelime | duyulan 1383 kelime | eşleşme %93.8
+sayı ifadesi: metinde 221, duyulanda 137  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...amerikan seçmenleri
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...bazı tahminler bu sayının
+      metin  : dörde
+      duyulan: e
+  INSERT   ...çıkabileceğini gösteriyor cumhuriyetçiler seçime
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...girmişti demokratlar kansas iowa
+      metin  : teksas
+      duyulan: texas
+  INSERT   ...meclisi nde de demokratların
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...york tan yeniden seçilen
+      metin  : hakeem
+      duyulan: hakem
+  REPLACE  ...tanımladı hafta sonuna doğru
+      metin  : boğazdaki keşm adası na
+      duyulan: boğaz daki keşma adasına
+  REPLACE  ...komutanlığı nın bölgede uçak
+      metin  : gemisiyle
+      duyulan: gemisi ile
+  REPLACE  ...emirlikleri nin başkenti abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...saldırılar sürdü hafta içinde
+      metin  : dnipro
+      duyulan: denipro
+  INSERT   ...nvidia ve qualcomm hisseleri
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...bekleniyor şirketin finans direktörü
+      metin  : sarah
+      duyulan: sara
+  REPLACE  ...güvenlik açıklarını bulmak için
+      metin  : hacktron
+      duyulan: hektron
+  REPLACE  ...kuracağını açıkladı tesisin enerjisi
+      metin  : megavatlık
+      duyulan: mw lık
+  REPLACE  ...tesisin enerjisi megavatlık yakıt
+      metin  : hücresi
+      duyulan: hücesi
+  REPLACE  ...güney koreli internet şirketi
+      metin  : naver e
+      duyulan: neveer
+  REPLACE  ...görev gücü kurdu yeni
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...seyirle kapattı cuma günü
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...bu günlük artışlara rağmen
+      metin  : endeks de
+      duyulan: endekste
+  REPLACE  ...geldi bu güçlü veri
+      metin  : amerikan merkez bankası
+      duyulan: abd
+  INSERT   ...faiz artışı olasılığı yaklaşık
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...teknoloji hisseleri üzerindeki baskıyı
+      metin  : artırıyor
+      duyulan: arttırıyor
+  INSERT   ...doların üzerindeki seviyelerden doların
+      metin  : (yok)
+      duyulan: lı
+  INSERT   ...haftanın son işlem gününde
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...kaybederek lira seviyesine indi
+      metin  : (yok)
+      duyulan: onsaltın
+  DELETE   ...beklentilerin üzerinde geldi türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...deki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...halk partisi nin kasım
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...şu anda yargıtay hukuk
+      metin  : dairesi nde temyiz
+      duyulan: dairesinde temiz
+  REPLACE  ...yıl sonuna kadar tamamlanıp
+      metin  : meclis e
+      duyulan: meclize
+  REPLACE  ...i klim değişikliği konferansı
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...gelişme salı günü abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...yakından izlenecek abd de
+      metin  : konger de
+      duyulan: kongrede
+  REPLACE  ...toplantısına ilişkin beklentiler ve
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...ve anthropic in halka
+      metin  : arz
+      duyulan: ars
+  REPLACE  ...öne çıkacak türkiye de
+      metin  : copotuz
+      duyulan: çio potuz
+  REPLACE  ...olacak gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: gundem-2026-11-08.duyulan.txt

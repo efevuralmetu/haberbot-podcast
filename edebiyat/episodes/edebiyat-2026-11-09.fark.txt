@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-09.mp3
+
+beklenen 1698 kelime | duyulan 1720 kelime | eşleşme %88.6
+sayı ifadesi: metinde 222, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ay boyunca yazdı kitabı
+      metin  : unvan
+      duyulan: ünvan
+  REPLACE  ...fergana da birbirinden habersiz
+      metin  : nüsha
+      duyulan: nüşe
+  REPLACE  ...geçmiş adam yazdığı son
+      metin  : beyitlerin
+      duyulan: beytlerin
+  REPLACE  ...ize sarayın ahlakın ve
+      metin  : mutluluğun
+      duyulan: mutluluğu
+  REPLACE  ...bıraktığını söylüyor yaşlılıktan yakındığı
+      metin  : beyitler
+      duyulan: beytler
+  REPLACE  ...bırakmak istiyor kitabın adı
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...manzume ölçü olarak aruzun
+      metin  : mütekarib
+      duyulan: mütekarip
+  REPLACE  ...rahmeti aradın düzenlediği haliyle
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...bitirince karahanlı hükümdarı tabgaç
+      metin  : buğra kara han
+      duyulan: buğrak karahan
+  REPLACE  ...a ödül olarak has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...huzura çıkacağına karar veren
+      metin  : baş mabeyinci
+      duyulan: başmağbeyinci
+  REPLACE  ...unvanla anar yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...kaşgarlı mahmud da bağdat
+      metin  : ta divanu lügati t türk ü
+      duyulan: da divan ı lügatit türkü
+  REPLACE  ...düşüncesini kayda geçirir ama
+      metin  : kutadgu bilig i
+      duyulan: kutatgubiligi
+  REPLACE  ...sarayda açılır tahtta kün
+      metin  : togdı
+      duyulan: toktu
+  REPLACE  ...huzura yabancı gelir adı
+      metin  : ay toldı ay doldu
+      duyulan: aytoldu aydoldu
+  REPLACE  ...kazanır ve vezir olur
+      metin  : ay toldı kut u
+      duyulan: aytoldu kutu
+  REPLACE  ...konuşmasında çıkar karşımıza kün
+      metin  : togdı
+      duyulan: toktu
+  REPLACE  ...adalet de böyle olmalıdır
+      metin  : ay toldı
+      duyulan: aytoldu
+  REPLACE  ...yarın başkasına geçer yusuf
+      metin  : nesneyle
+      duyulan: nesne ile
+  REPLACE  ...kurmuş olur kalıcı olan
+      metin  : adaletse
+      duyulan: adalet ize
+  REPLACE  ...elde tutmanın yolu yaslanmaktır
+      metin  : ay toldı
+      duyulan: aytoldu
+  REPLACE  ...geride bıraktığı oğlunun adı
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...adı ögdülmiş yani övülmüş
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...akıl babasının yerini alır
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...kahramanı sarayda değil dağdadır
+      metin  : ögdülmiş in
+      duyulan: ögdülmüş ün
+  REPLACE  ...dağdadır ögdülmiş in akrabası
+      metin  : odgurmış
+      duyulan: odgurmuş
+  REPLACE  ...çekmiş dervişin hayatını sürmektedir
+      metin  : odgurmış
+      duyulan: odgurmuş
+  REPLACE  ...sarayına çağırır mektuplar gönderir
+      metin  : odgurmış
+      duyulan: odgurmuş
+  REPLACE  ...gerilimi bu noktada kurulur
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...kadar değerli olduğunu savunur
+      metin  : odgurmış
+      duyulan: odgurmuş
+  REPLACE  ...da hazır cevap vermez
+      metin  : odgurmış
+      duyulan: odgurmuş
+  REPLACE  ...da hayata gözlerini yumar
+      metin  : ögdülmiş
+      duyulan: ögdülmüş
+  REPLACE  ...açıkça gösterir yusuf has
+      metin  : hacib
+      duyulan: hacip
+  REPLACE  ...un kendi eliyle yazdığı
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...ilk kitap da kayıp
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...bildiğimiz tam ya da
+      metin  : tama
+      duyulan: tam
+  REPLACE  ...ya da tama yakın
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...avrupa nın ilk tanıdığı
+      metin  : nüsha
+      duyulan: nüşa
+  REPLACE  ...harfleriyle yazılmış olandı bu
+      metin  : nüsha
+      duyulan: nüşa
+  ... ve 60 fark daha
+
+metinde olup DUYULMAYAN: 140 kelime | duyulup metinde OLMAYAN: 156
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: edebiyat-2026-11-09.duyulan.txt

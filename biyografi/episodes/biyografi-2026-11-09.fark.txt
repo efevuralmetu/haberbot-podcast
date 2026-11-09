@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-09.mp3
+
+beklenen 2661 kelime | duyulan 2680 kelime | eşleşme %94.1
+sayı ifadesi: metinde 390, duyulanda 275  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yelkenli yanaştı geminin adı
+      metin  : phillis ti
+      duyulan: filist i
+  REPLACE  ...fitch ti kaptanı peter
+      metin  : gwinn
+      duyulan: given
+  REPLACE  ...tarihçiler bugünkü senegal ile
+      metin  : gambiya
+      duyulan: gambia
+  REPLACE  ...kaleme alındı her ayrıntısına
+      metin  : mesafeyle
+      duyulan: mesafe ile
+  REPLACE  ...çıkarmak istiyordu satın alan
+      metin  : boston un
+      duyulan: bastonun
+  REPLACE  ...varlıklı tüccarlarından john wheatley
+      metin  : di
+      duyulan: idi
+  REPLACE  ...ve ad verdiler bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...dan getiren geminin adıydı
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...ize sahiplerininkiydi wheatley bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...de vardı ama küçük
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...bunu kendi sözleriyle anlatacaktı
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...kutsal kitabın en zor
+      metin  : bölümlerini
+      duyulan: dilimlerini
+  REPLACE  ...çocuklarını tanrıların gazabıyla kaybeden
+      metin  : niobe nin
+      duyulan: niobes in
+  REPLACE  ...hayal dünyasına girdi john
+      metin  : ı
+      duyulan: u
+  REPLACE  ...kendi şiirlerini okudu pope
+      metin  : un
+      duyulan: ın
+  REPLACE  ...eğitim köleliğin içinde gerçekleşiyordu
+      metin  : phillis
+      duyulan: phyllis
+  DELETE   ...yazısı ya da yaşındayken
+      metin  : mohegan halkından gelen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...mohegan halkından gelen hristiyan
+      metin  : vaiz
+      duyulan: vays
+  INSERT   ...occom a yazdığı mektuptu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fırtınaya yakalanıp ölümden dönen
+      metin  : hussey
+      duyulan: hossey
+  REPLACE  ...coffin adlı adam hakkındaydı
+      metin  : phillis
+      duyulan: phyllis
+  INSERT   ...dökmüştü asıl şöhreti ize
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...son gününde i ngiliz
+      metin  : vaiz
+      duyulan: vayıs
+  REPLACE  ...newburyport kasabasında öldü whitefield
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...hareketinin en ünlü sesiydi
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...i ngilteer de huntingdon
+      metin  : kontesi selina
+      duyulan: contess i selena
+  REPLACE  ...hastings in özel papazıydı
+      metin  : kontes
+      duyulan: contess
+  REPLACE  ...duydu bu bağlantı ileride
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...phillis in kaderini değiştirecekti
+      metin  : phillis
+      duyulan: phyllis
+  INSERT   ...değiştirecekti phillis bu arada
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...phillis bu arada boston
+      metin  : un
+      duyulan: ın
+  REPLACE  ...dizeleer gelince ton değişir
+      metin  : hristiyanlara
+      duyulan: hıristiyanlara
+  INSERT   ...içinde söylemek istediğini söylemek
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...söylemek istediğini söylemek gelindiğinde
+      metin  : phillis
+      duyulan: phyllis
+  INSERT   ...en garip sınavı başladı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...boston gazetelerinde ilan çıktı
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...önceden imza atıp parasını
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...buna olumsuz cevap veriyordu
+      metin  : phillis
+      duyulan: phyllis
+  REPLACE  ...düşmüştü eğer afrikalı kız
+      metin  : pope
+      duyulan: pop
+  ... ve 83 fark daha
+
+metinde olup DUYULMAYAN: 124 kelime | duyulup metinde OLMAYAN: 150
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: biyografi-2026-11-09.duyulan.txt

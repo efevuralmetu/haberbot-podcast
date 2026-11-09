@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-09.mp3
+
+beklenen 2006 kelime | duyulan 2013 kelime | eşleşme %96.3
+sayı ifadesi: metinde 275, duyulanda 198  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...geride bırakmak üzereydi ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bırakmak üzereydi ekim maryland
+      metin  : in
+      duyulan: ın
+  REPLACE  ...leonard ve michael c
+      metin  : williams tı
+      duyulan: william steele
+  REPLACE  ...bakmıştı yönetmenlerin adı daniel
+      metin  : myrick
+      duyulan: mayrick
+  REPLACE  ...daniel myrick ve eduardo
+      metin  : sançez
+      duyulan: sanchez
+  REPLACE  ...sinema bölümünde tanışmıştı fikir
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...efsane gerekiyordu ve yazdılar
+      metin  : maryland deki
+      duyulan: marilandaki
+  REPLACE  ...blair di kurguya göer
+      metin  : elly kedward
+      duyulan: te edward
+  INSERT   ...boyunca dehşet yerinden ayrılmamıştı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...arayan adam ölü bulunmuştu
+      metin  : kırklarda
+      duyulan: larda
+  REPLACE  ...efsanenin içinden yürüyecekti çekimler
+      metin  : maryland deki
+      duyulan: marilandaki
+  REPLACE  ...film haline nasıl getireceklerdi
+      metin  : myrick
+      duyulan: mirik
+  REPLACE  ...nasıl getireceklerdi myrick ve
+      metin  : sançez
+      duyulan: sanchez
+  REPLACE  ...tek açılış yazısıyla başlıyordu
+      metin  : ekim inde
+      duyulan: hekiminde
+  INSERT   ...bu yaklaşım yeni değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...değildi i talyan yönetmen
+      metin  : rucero
+      duyulan: ruggero
+  REPLACE  ...witch project yani blair
+      metin  : cadısı
+      duyulan: kadısı
+  REPLACE  ...anlaşıldıkça suçlamalar başlıyor heather
+      metin  : inatla
+      duyulan: inatt la
+  INSERT   ...bu görüntü filmin bulunmuş
+      metin  : (yok)
+      duyulan: josh
+  REPLACE  ...tartışılan tanıtım kampanyalarından blair
+      metin  : cadısı
+      duyulan: jadısı
+  INSERT   ...projesi ilk kez ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...artisan entertainment yani artisan
+      metin  : stüdyosu
+      duyulan: studiosu
+  DELETE   ...artisan stüdyosu filmin haklarını
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...başlangıçta dev sıçramaydı artisan
+      metin  : stüdyosu
+      duyulan: studiosu
+  REPLACE  ...örülen gerçeklik olduğunu biliyordu
+      metin  : haxan
+      duyulan: haksan
+  INSERT   ...adını verdikleri yapım şirketi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kartları bile gelmişti temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...blair witch yani blair
+      metin  : cadısının
+      duyulan: kadısı nın
+  REPLACE  ...doların üzerinde hasılat yaptı
+      metin  : sundance
+      duyulan: sundansı
+  REPLACE  ...olduğu tek şey blair
+      metin  : cadısı projesi nin
+      duyulan: kadısı projesinin
+  REPLACE  ...filmden fazlası olay haline
+      metin  : geldiğiydi
+      duyulan: geldiydi
+  REPLACE  ...en somut izleri maryland
+      metin  : deki
+      duyulan: eki
+  DELETE   ...yer olarak gösterilen burkittsville
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  INSERT   ...görüntü alt tüer dönüştü
+      metin  : (yok)
+      duyulan: key de
+  REPLACE  ...i spanya dan çıkan
+      metin  : rec
+      duyulan: wretch
+  INSERT   ...televizyon ekibinin kamerasından izletti
+      metin  : (yok)
+      duyulan: key de
+  INSERT   ...seyirci de şüpheci oldu
+      metin  : (yok)
+      duyulan: daki
+  INSERT   ...de yaşamaya devam etti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...book of shadows blair
+      metin  : witch
+      duyulan: rich
+  INSERT   ...ilk filmin büyüsünü yakalayamadı
+      metin  : (yok)
+      duyulan: da
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: film-2026-11-09.duyulan.txt

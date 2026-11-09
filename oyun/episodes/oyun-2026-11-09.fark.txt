@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-09.mp3
+
+beklenen 1597 kelime | duyulan 1603 kelime | eşleşme %95.1
+sayı ifadesi: metinde 193, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...doksanların başında
+      metin  : varşova
+      duyulan: varshova
+  INSERT   ...yapma oyunlarından yapan stüdyo
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oyunlarından yapan stüdyo çıktı
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...stüdyo çıktı seksenlerin sonunda
+      metin  : varşova
+      duyulan: varshova
+  REPLACE  ...da cumartesi sabahı düşünün
+      metin  : gjıbovska caddesi ndeki
+      duyulan: geycibovska caddesindeki
+  REPLACE  ...düzenlemesi yok kalabalığın içinde
+      metin  : marçin i vinski
+      duyulan: marcin iwinski
+  REPLACE  ...bilgisayarı zx spectrum ve
+      metin  : oyunlara
+      duyulan: oyunları
+  REPLACE  ...o zaman başlamış okulda
+      metin  : mihau kiçinski
+      duyulan: mihal kicinski
+  REPLACE  ...gelen oyunları çoğaltıp satıyorlar
+      metin  : i vinski
+      duyulan: iwinski
+  REPLACE  ...yerde olacağına güvenilmesi önemliydi
+      metin  : i vinski
+      duyulan: iwinski
+  REPLACE  ...önemliydi i vinski ile
+      metin  : kiçinski
+      duyulan: kicinski
+  INSERT   ...en çıplak haliyle gördüler
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şirketler ülkeye bakmaya başladı
+      metin  : hukuk da
+      duyulan: hukukta
+  INSERT   ...değişime yetişmek zorundaydı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da açıkça koruma alıyordu
+      metin  : gjıbovska
+      duyulan: gecibovska
+  REPLACE  ...gelişmeyi son olarak gördü
+      metin  : i vinski
+      duyulan: iwinski
+  REPLACE  ...gördü i vinski ile
+      metin  : kiçinski
+      duyulan: kicinski
+  INSERT   ...ize başlangıç gördü mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yoktu batılı yayıncılara mektuplar
+      metin  : fakslar
+      duyulan: faxlar
+  REPLACE  ...oyuncularıyla anlatıcı rolü için
+      metin  : piyotr fronçevski
+      duyulan: piotr fronczewski
+  REPLACE  ...kendisi de silaha dönüştürüldü
+      metin  : i vinski
+      duyulan: iwinski
+  INSERT   ...kağıt harita çıktı dungeons
+      metin  : (yok)
+      duyulan: and
+  INSERT   ...dilde konuşan oyundu oyun
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...projekt bu başarının ardından
+      metin  : yerelleştirmeyi
+      duyulan: yerleştirmeyi
+  INSERT   ...sonraki büyük fırsatı getirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ı yani karanlık i
+      metin  : ttifağı
+      duyulan: ttifakı
+  INSERT   ...ttifağı yayımladı oyun playstation
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cd projekt karanlık i
+      metin  : ttifağı
+      duyulan: ttifakı
+  REPLACE  ...askıya alınıyordu karanlık i
+      metin  : ttifağın
+      duyulan: ttifakı nın
+  REPLACE  ...sürecini tanıyan ekip vardı
+      metin  : i vinski
+      duyulan: iwinski
+  REPLACE  ...vardı i vinski ve
+      metin  : kiçinski
+      duyulan: kicinski
+  INSERT   ...yapmıyoruz bu sorunun cevabı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sevilen fantastik kurgu kahramanıydı
+      metin  : andjey sapkovski
+      duyulan: andrzej sapkowski
+  REPLACE  ...nin yarattığı lehçe adıyla
+      metin  : vyecmin
+      duyulan: vietchmin
+  REPLACE  ...parayla canavar avlayan adam
+      metin  : sapkovski
+      duyulan: sapkowski
+  REPLACE  ...adam sapkovski nin öyküleri
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...çevirme fikri yeni değildi
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...çok konuşulan pazarlıklarından yaşandı
+      metin  : sapkovski
+      duyulan: sapkowski
+  REPLACE  ...tamamını hemen kerede istedi
+      metin  : ödenen
+      duyulan: el ötlenen
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 67
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: oyun-2026-11-09.duyulan.txt

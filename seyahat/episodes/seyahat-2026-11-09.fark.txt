@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-09.mp3
+
+beklenen 1726 kelime | duyulan 1737 kelime | eşleşme %95.3
+sayı ifadesi: metinde 181, duyulanda 151  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...altay dağları nın eteği
+      metin  : bayan ölgiy
+      duyulan: bayanölge
+  REPLACE  ...kalanında konuşulan dil moğolcadır
+      metin  : bayan ölgiy
+      duyulan: bayanölge
+  REPLACE  ...ve göçebe takvimini yaklaşık
+      metin  : yüzyıldır
+      duyulan: yıldır
+  REPLACE  ...aileler sürüleri için yaz
+      metin  : otlağı
+      duyulan: otlığı
+  REPLACE  ...olarak tanımladı ve adını
+      metin  : bayan ölgiy
+      duyulan: bayanölge yi
+  REPLACE  ...adını bayan ölgiy koydu
+      metin  : moğolcada
+      duyulan: moğolka da
+  REPLACE  ...koydu moğolcada bayan zengin
+      metin  : ölgiy
+      duyulan: ölge
+  REPLACE  ...anlar i lin merkezi
+      metin  : ölgiy
+      duyulan: ölgi
+  INSERT   ...ocağın kutsallığı mart ayının
+      metin  : (yok)
+      duyulan: inde
+  REPLACE  ...şehirden çıkınca asıl bayan
+      metin  : ölgiy
+      duyulan: ölgüyü
+  REPLACE  ...başlar kazak çadırı yani
+      metin  : kiyiz üy
+      duyulan: kıyıs ü
+  REPLACE  ...duvarlardır keçe kafesin üzerine
+      metin  : tus kiiz
+      duyulan: tuz kıyıs
+  REPLACE  ...ya da düğün varsa
+      metin  : beşbarmak
+      duyulan: parmak
+  REPLACE  ...bunların en yükseği olan
+      metin  : hüyten
+      duyulan: hüten
+  REPLACE  ...yükseği olan hüyten zirvesi
+      metin  : metreyle
+      duyulan: meter ile
+  REPLACE  ...yerlerine rüzgardan korunan taş
+      metin  : ağıllara
+      duyulan: allara
+  REPLACE  ...bu dönüşle birlikte bayan
+      metin  : ölgiy nin
+      duyulan: ölgeinin
+  REPLACE  ...en tehlikeli zamanıdır kış
+      metin  : altay a
+      duyulan: ayı
+  INSERT   ...aralıkta gece sıcaklığı eksi
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...eksi bazı yıllar eksi
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...başında deri başlık yani
+      metin  : tomağa
+      duyulan: tomağı
+  REPLACE  ...yani tomağa vardır kazakların
+      metin  : berkutçi
+      duyulan: berkutçu
+  INSERT   ...kartal yaralanabilir avcı atını
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...şapkaya palto yakasına dönüşür
+      metin  : bayan ölgiy de
+      duyulan: bayanölgide
+  REPLACE  ...yüzyıllarca süs değil kışı
+      metin  : çıkarmanın
+      duyulan: çıkartmanın
+  REPLACE  ...kartal olgunluğa erdiğinde avcı
+      metin  : dağa
+      duyulan: daha
+  REPLACE  ...kuşaklara şey kalmaz bayan
+      metin  : ölgiy
+      duyulan: ölgi
+  INSERT   ...kartallarla değil insanlarla yaşandı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karşılık verenlerden moğolistan kazaklarıydı
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...yadırgandı kısmı yıl sonra
+      metin  : altay ın
+      duyulan: ayın
+  REPLACE  ...arasında bölünmüş durumdadır kardeş
+      metin  : almatı
+      duyulan: almaty
+  REPLACE  ...almatı da yaşar öteki
+      metin  : ölgiy
+      duyulan: ölgi yi
+  REPLACE  ...gelirler düğünlerde buluşurlar bayan
+      metin  : ölgiy
+      duyulan: ölgi yi
+  REPLACE  ...gidişatı tersine çeviren şeylerden
+      metin  : ölgiy
+      duyulan: da ölgi yi
+  INSERT   ...kendi haklı gerekçeleri var
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...başka hikaye girdi ayşolpan
+      metin  : nurgaiv
+      duyulan: nurgayev
+  REPLACE  ...yaşında kız babası agalay
+      metin  : nin
+      duyulan: ın
+  REPLACE  ...agalay nin yanında yetiştirdiği
+      metin  : kartalla
+      duyulan: kartala
+  INSERT   ...yayıldı yönetmen otto bel
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...büyük ilgi gördü bayan
+      metin  : ölgiy yi
+      duyulan: ölgeyi
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: seyahat-2026-11-09.duyulan.txt

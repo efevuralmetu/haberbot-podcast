@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-09.mp3
+
+beklenen 2614 kelime | duyulan 2656 kelime | eşleşme %94.0
+sayı ifadesi: metinde 634, duyulanda 328  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...da madrid de ve
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...hatayı augustus düzeltti sonra
+      metin  : jülyen
+      duyulan: julian
+  REPLACE  ...kuşakta da hissedilmez fakat
+      metin  : jülyen
+      duyulan: julian
+  REPLACE  ...kullanmadı takvimi miras alan
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...znik te toplanan konsil
+      metin  : hristiyanlığın
+      duyulan: hıristiyanlığın
+  REPLACE  ...ilkbahar ekinoksundan sonraki ilk
+      metin  : dolunayı
+      duyulan: doluğunayı
+  INSERT   ...doğru ilerledi mart tan
+      metin  : (yok)
+      duyulan: sine
+  REPLACE  ...düşünür roger bacon papa
+      metin  : klemens
+      duyulan: clemence
+  REPLACE  ...sonuç vermedi yüzyılda papa
+      metin  : sikstus
+      duyulan: sixtus
+  REPLACE  ...için roma ya çağırdı
+      metin  : regiomontanus
+      duyulan: regio montanus da
+  REPLACE  ...başladı görüş istenenler arasında
+      metin  : kopernik
+      duyulan: copernic
+  REPLACE  ...arasında kopernik de vardı
+      metin  : kopernik
+      duyulan: copernic
+  REPLACE  ...düzeltilmesinin erken olacağını söyledi
+      metin  : yüzlerin
+      duyulan: lerin
+  INSERT   ...trento da toplanan konsil
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu işi üstlenecek kişi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kişi papalık tahtına oturdu
+      metin  : bolonyalı
+      duyulan: bolognalı
+  REPLACE  ...bolonyalı hukukçu olan ugo
+      metin  : bonkompanyi
+      duyulan: boncompany
+  REPLACE  ...güney i talya nın
+      metin  : kalabriya
+      duyulan: calabria
+  REPLACE  ...hekim ve astronom olan
+      metin  : luici lilyo
+      duyulan: luigi lillio
+  REPLACE  ...lilyo latince adıyla aloysius
+      metin  : lilius
+      duyulan: lillius
+  REPLACE  ...önleyecek ince kural koymak
+      metin  : jülyen
+      duyulan: julian
+  REPLACE  ...yılları artık yıl olmayacaktı
+      metin  : meğerki
+      duyulan: meğer ki e
+  REPLACE  ...yıl gerçeğe çok yaklaşacaktı
+      metin  : lilius
+      duyulan: lillius
+  REPLACE  ...artık o tabloyla bulunacaktı
+      metin  : lilius
+      duyulan: lillius
+  INSERT   ...önerisinin kabul edildiğini göremedi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...götürdü komisyon fikri beğendi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alman asıllı cizvit matematikçi
+      metin  : kristofer klavius
+      duyulan: christopher clavius
+  REPLACE  ...matematikçi kristofer klavius tu
+      metin  : klavius
+      duyulan: clavius
+  REPLACE  ...başka üyesi dominikan astronom
+      metin  : i nyatsiyo danti
+      duyulan: iniazio dante
+  INSERT   ...var olan günü silmek
+      metin  : (yok)
+      duyulan: doğum
+  INSERT   ...verecek ay oydu şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şubat gregorius roma yakınlarındaki
+      metin  : fraskati
+      duyulan: frascati
+  INSERT   ...yazılmıştı şimdi uygulanması gerekiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...roma dan madrid e
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...gece i spanya nın
+      metin  : alba de tormes
+      duyulan: albade tormez
+  REPLACE  ...i kaçıran ülkelerdendi kral
+      metin  : henri
+      duyulan: henry
+  INSERT   ...değişikliği aralıkta uyguladı aralık
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...uydu ancak avrupası tek
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...tek hristiyan avrupa değildi
+      metin  : luter
+      duyulan: lüter
+  REPLACE  ...çok güvenle ilgiliydi bazı
+      metin  : luteran
+      duyulan: lüteran
+  ... ve 60 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 119
+bölme/birleşme farkı (hata değil, elendi): 42
+
+duyulan metin: tarih-2026-11-09.duyulan.txt

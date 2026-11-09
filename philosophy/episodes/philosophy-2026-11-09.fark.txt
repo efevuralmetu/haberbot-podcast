@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-09.mp3
+
+beklenen 3211 kelime | duyulan 3200 kelime | eşleşme %98.7
+sayı ifadesi: metinde 122, duyulanda 110  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...you check their last
+      metin  : seen
+      duyulan: scene
+  INSERT   ...they suffer because they
+      metin  : (yok)
+      duyulan: aer jealous they suffer because they
+  REPLACE  ...year befoer his death
+      metin  : rené
+      duyulan: rene
+  REPLACE  ...les passions de l
+      metin  : ame
+      duyulan: homme
+  REPLACE  ...sets out the passions
+      metin  : in
+      duyulan: and
+  REPLACE  ...observer of court life
+      metin  : françois
+      duyulan: francois
+  INSERT   ...his book of maxims
+      metin  : (yok)
+      duyulan: versed
+  DELETE   ...let us recal descartes
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the word for jealousy
+      metin  : kıskançlık
+      duyulan: kaskanshlik
+  REPLACE  ...turkish texts gayret and
+      metin  : kıskançlık
+      duyulan: kaskanshlik
+  REPLACE  ...collections the jealousy of
+      metin  : sa d
+      duyulan: saad
+  REPLACE  ...of sa d ibn
+      metin  : ubadah
+      duyulan: ubada
+  REPLACE  ...has moer gayret than
+      metin  : sa d
+      duyulan: saad
+  REPLACE  ...collections of abu dawud
+      metin  : and
+      duyulan: in
+  REPLACE  ...another old turkish word
+      metin  : vehim vehim
+      duyulan: vehem vehem
+  REPLACE  ...a wel founded concern
+      metin  : vehim
+      duyulan: vehem
+  REPLACE  ...beginning of the the
+      metin  : ihya
+      duyulan: ayyul
+  REPLACE  ...ghazali counts both as
+      metin  : faults
+      duyulan: false
+  REPLACE  ...that runs from ibn
+      metin  : miskawayh
+      duyulan: miskawy
+  REPLACE  ...and from theer to
+      metin  : kınalızade
+      duyulan: kinalizadeh
+  REPLACE  ...theer to kınalızade ali
+      metin  : efendi
+      duyulan: effendi
+  REPLACE  ...efendi who wrote the
+      metin  : akhlaq i alai
+      duyulan: akhlaki ally
+  DELETE   ...interesting similarity between descartes
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...through a different word
+      metin  : amanah
+      duyulan: amana
+  REPLACE  ...verse in surah al
+      metin  : ahzab
+      duyulan: zab
+  DELETE   ...to look into it
+      metin  : nöron philosophy de bugünkü bölümün sonuna geldik yeni hikayede yeniden buluşmak üzeer
+      duyulan: (YOK — atlanmış)
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-11-09.duyulan.txt

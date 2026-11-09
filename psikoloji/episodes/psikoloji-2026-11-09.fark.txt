@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-09.mp3
+
+beklenen 1251 kelime | duyulan 1245 kelime | eşleşme %97.2
+sayı ifadesi: metinde 121, duyulanda 111  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...amit kumar test etti
+      metin  : (yok)
+      duyulan: ki de
+  DELETE   ...sınav kağıdı gibi okuyordu
+      metin  : cümlelerim yeterince güzel mi doğru kelimeyi buldum mu bu abartılı olmadı mı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o gün mutlu olması
+      metin  : mı psikolog
+      duyulan: pesikolog
+  REPLACE  ...şey görüldü boşa gitmedi
+      metin  : algoe
+      duyulan: algoen
+  REPLACE  ...de adam grant ve
+      metin  : françeska cino
+      duyulan: francesca gino
+  INSERT   ...françeska cino dan geliyor
+      metin  : (yok)
+      duyulan: kqg da
+  INSERT   ...martin seligman ve ekibinin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...küçük ateşe benziyor robert
+      metin  : emmons
+      duyulan: ammons
+  REPLACE  ...robert emmons ile michael
+      metin  : mccullough nun
+      duyulan: mccallan ın
+  REPLACE  ...notu tutanlar hayatlarına daha
+      metin  : iyimser
+      duyulan: iyi imser
+  REPLACE  ...şey için teşekkürler yerine
+      metin  : taşındığım
+      duyulan: kaşındığım
+  REPLACE  ...hafta gün boyunca kolilerimi
+      metin  : taşıdın
+      duyulan: taşıdığın
+  REPLACE  ...yardım eden bu parça
+      metin  : kusursuz
+      duyulan: husursuz
+  REPLACE  ...ın ziyaret egzersizinde de
+      metin  : emmons
+      duyulan: emons
+  REPLACE  ...egzersizinde de emmons ile
+      metin  : mccullough nun
+      duyulan: mccallan ın
+  REPLACE  ...hissetmeye zorlaman anlamına gelmiyor
+      metin  : acı
+      duyulan: ağacı
+  REPLACE  ...acı öfke ya da
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...yaşadığın dönemlerde yine de
+      metin  : şükretmeliyim
+      duyulan: şükretmeliğin
+  REPLACE  ...kalmadığını düşün grant ve
+      metin  : cino
+      duyulan: gino
+  REPLACE  ...daha cömert kalple tamamlayacak
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 25
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-11-09.duyulan.txt

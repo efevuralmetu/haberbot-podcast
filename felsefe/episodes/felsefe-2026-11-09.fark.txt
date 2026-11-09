@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-09.mp3
+
+beklenen 2065 kelime | duyulan 2079 kelime | eşleşme %95.7
+sayı ifadesi: metinde 223, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bildirim tanımadığın isim saniyelik
+      metin  : duraksama
+      duyulan: duraksam
+  INSERT   ...kaybetmek mi gece saat
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yalnızca titreşim var de
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...edici görünüyor shakespeaer in
+      metin  : othello
+      duyulan: otello
+  REPLACE  ...bilemeyeceğim korkusu fransız düşünür
+      metin  : rolan bart
+      duyulan: roland barth
+  REPLACE  ...bu incelemenin dışında kalmadı
+      metin  : röne dekart
+      duyulan: rene descartes da
+  REPLACE  ...tek tek tanımladığı le
+      metin  : pasyon dö lam
+      duyulan: passion d orlam
+  REPLACE  ...tutkuları adlı eserini yayımladı
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...karısını kıskanan adam için
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...da sevdiğine güvenmediğinin itirafıdır
+      metin  : dekart ın
+      duyulan: descartes in
+  REPLACE  ...sevgiden çok güvensizlikten doğuyor
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...tan yaklaşık yıl sonra
+      metin  : baruh
+      duyulan: de baruch
+  REPLACE  ...sevdiği şeye karşı nefret
+      metin  : o
+      duyulan: doğ
+  REPLACE  ...düşündüğümüz belirleyicidir i kincisi
+      metin  : sevgi ile
+      duyulan: sevgiyle
+  REPLACE  ...saray gözlemcisi olan fransuva
+      metin  : dö la roşfuko
+      duyulan: d or laroche foucault te
+  REPLACE  ...roşfuko ilk baskısı yapılan
+      metin  : maksim
+      duyulan: maxim
+  REPLACE  ...kendini sevme vardır la
+      metin  : roşfuko
+      duyulan: rochefoucault
+  REPLACE  ...saf ölçüsü olarak görmüyor
+      metin  : dekart
+      duyulan: descartes
+  REPLACE  ...sevgi nefret salınımını la
+      metin  : roşfuko da
+      duyulan: rochefoucaud a
+  REPLACE  ...tablo tek taraflı kalabilir
+      metin  : dekart ın
+      duyulan: descartes in
+  REPLACE  ...alan rivayette sahabeden sa
+      metin  : d ubade nin
+      duyulan: din ubad inin
+  REPLACE  ...d ubade nin kıskançlığı
+      metin  : hz
+      duyulan: hazret i şerif
+  REPLACE  ...hz peygamber e anlatılır
+      metin  : hz
+      duyulan: herz
+  REPLACE  ...peygamber bunu kınamaz sa
+      metin  : d ın
+      duyulan: dın gayretinden daha fazla kınamaz sa dın
+  REPLACE  ...ayrımı türkçede başka eski
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...yüzyılın başında yazdığı i
+      metin  : hyau
+      duyulan: hyav
+  DELETE   ...yazdığı i hyau ulumi
+      metin  : d
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zanda bulunulmamasını öğütler ve
+      metin  : hz
+      duyulan: hazil
+  REPLACE  ...aşırı kıskançlık yalnızca kıskanan
+      metin  : kişiyi
+      duyulan: kişi
+  REPLACE  ...tabloyla uyumludur i bn
+      metin  : miskeveyh
+      duyulan: i miskeveyhten
+  REPLACE  ...i bn miskeveyh nasiruddin
+      metin  : tusi ye
+      duyulan: tuğsiye
+  REPLACE  ...oradan yüzyılda ahlak ı
+      metin  : alai yi
+      duyulan: alay ı
+  REPLACE  ...olmak yokken huzurla güvenebilmektir
+      metin  : dekart ın
+      duyulan: descartes in
+  REPLACE  ...arasında ilginç benzerlik var
+      metin  : dekart da
+      duyulan: descartes de
+  REPLACE  ...dekart da korunan şey
+      metin  : değerliyze
+      duyulan: değerli ize
+  REPLACE  ...de belirliyor olabilir mi
+      metin  : hz aişe
+      duyulan: hett ayşe
+  REPLACE  ...baktığını gösterir rivayette hz
+      metin  : aişe
+      duyulan: ayşe
+  REPLACE  ...değil başka rivayette hz
+      metin  : aişe
+      duyulan: ayşe
+  REPLACE  ...yemek kabını kırdığı anlatılır
+      metin  : hz
+      duyulan: hett
+  REPLACE  ...benzetir alman asıllı düşünür
+      metin  : erih from
+      duyulan: erich fromm da
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: felsefe-2026-11-09.duyulan.txt

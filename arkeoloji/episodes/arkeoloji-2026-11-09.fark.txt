@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-09.mp3
+
+beklenen 2894 kelime | duyulan 2905 kelime | eşleşme %95.7
+sayı ifadesi: metinde 336, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...doğru saatlik yol aldığınızda
+      metin  : mervdeşt
+      duyulan: merdeşt
+  REPLACE  ...doğu ucunda çıplak kayalık
+      metin  : dağ
+      duyulan: dağa
+  REPLACE  ...darius tur darius tahta
+      metin  : mö
+      duyulan: ya de
+  REPLACE  ...sahneydi i nşaat yaklaşık
+      metin  : mö
+      duyulan: milatöge de
+  REPLACE  ...darius tan sonra oğlu
+      metin  : kserkses
+      duyulan: kaserxes
+  REPLACE  ...in ardından da torunu
+      metin  : artakserkses
+      duyulan: artak serxes
+  REPLACE  ...inmeden çıkabilirdi yukarıda sizi
+      metin  : kserkses
+      duyulan: kaserxes
+  REPLACE  ...insan başlı kanatlı dev
+      metin  : boğalar
+      duyulan: voğalar
+  REPLACE  ...eden gecede örtülüp mühürlendi
+      metin  : mö
+      duyulan: miç
+  REPLACE  ...pers ordusu dağıldı son
+      metin  : akhamenid
+      duyulan: akamennit
+  REPLACE  ...dağıldı son akhamenid kralı
+      metin  : darius
+      duyulan: daryus
+  REPLACE  ...denen dar geçitte satrap
+      metin  : ariobarzanes
+      duyulan: aryo barzanes
+  REPLACE  ...geçit sonunda aşıldı ve
+      metin  : mö
+      duyulan: un
+  REPLACE  ...ama yine de yağmalandı
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...geçirdi sonra büyük ihtimalle
+      metin  : mö
+      duyulan: meylotö e
+  REPLACE  ...soruya farklı cevaplar verir
+      metin  : arrianos
+      duyulan: aryanos
+  REPLACE  ...i skender yıl önce
+      metin  : kserkses
+      duyulan: kağserkses
+  REPLACE  ...karşı çıkmıştı diodoros ve
+      metin  : plutarkhos
+      duyulan: plutarcos
+  REPLACE  ...bol şarap ve atinalı
+      metin  : tais
+      duyulan: thais
+  REPLACE  ...atinalı tais adında kadın
+      metin  : tais
+      duyulan: thais
+  REPLACE  ...ateşi de kendisi atar
+      metin  : plutarkhos
+      duyulan: plutarcos
+  INSERT   ...ateş en çok kabul
+      metin  : (yok)
+      duyulan: salonunu sütunlu
+  DELETE   ...en çok kabul salonu
+      metin  : nu sütunlu salon u
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üstünü toz ve moloz
+      metin  : örttü
+      duyulan: örtü
+  REPLACE  ...defteri pişirmedi ama gömdü
+      metin  : defteri
+      duyulan: heri
+  REPLACE  ...işte o mezar oldu
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...te kazı yapma imtiyazı
+      metin  : şikago
+      duyulan: chicago
+  REPLACE  ...önce alman arkeolog ernst
+      metin  : hertsfeld
+      duyulan: herzfeld
+  REPLACE  ...ernst hertsfeld yönetti ardından
+      metin  : erih şmit
+      duyulan: erich schmidt
+  REPLACE  ...ardından erih şmit devraldı
+      metin  : hertsfeld
+      duyulan: herzfeld
+  INSERT   ...devraldı hertsfeld in ekibi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...girişi çok eski zamanda
+      metin  : örülerek
+      duyulan: örüleerek
+  DELETE   ...hükümdarlığının yılından yılına yani
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...belgeler de çıktı babil
+      metin  : akkadcası
+      duyulan: akkacası
+  REPLACE  ...anadolu nun eski dillerinden
+      metin  : frigce
+      duyulan: frikçe
+  INSERT   ...belki de en şaşırtıcısı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kil parçalarının başında oturdu
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...da tabletlerde defalarca geçer
+      metin  : parnakka
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yüksek memurdu emirlerini kendi
+      metin  : mührüyle
+      duyulan: mühürüyle
+  REPLACE  ...rafını okuyoruz o dolabın
+      metin  : şikago
+      duyulan: chicago
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: arkeoloji-2026-11-09.duyulan.txt
