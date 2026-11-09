@@ -1,0 +1,187 @@
+sira	karakter	saniye	kar_sn	metin
+1	90	5.120	17.58	A city opens a brand-new road to ease its traffic, and every
+2	109	5.920	18.41	Nobody made a mistake: each driver picked the fastest route 
+3	111	6.560	16.92	Today: the mathematics of how adding a road can slow everyon
+4	18	2.560	7.03	Bir şehri düşünün.
+5	97	6.080	15.95	Sabahları iki yakası arasında binlerce araç gidip geliyor ve
+6	111	6.720	16.52	Belediye sonunda karar veriyor: iki yolu ortadan birbirine b
+7	64	4.000	16.00	Bağlantı açılıyor ve ertesi sabah herkes işine daha geç varı
+8	54	3.520	15.34	Bir gün sonra da, bir hafta sonra da durum değişmiyor.
+9	49	4.800	10.21	Kimse hata yapmıyor, kaza yok, yol çalışması yok.
+10	36	2.880	12.50	Kaynak eklendi ama sistem kötüleşti.
+11	57	3.520	16.19	İlk duyuşta kötü planlama ya da kötü şans gibi görünüyor.
+12	45	3.520	12.78	Oysa bu matematiksel bir zorunluluk olabilir.
+13	68	4.640	14.66	Bunu ilk kez açıkça gösteren kişi Alman matematikçi Dietrich
+14	82	5.760	14.24	Braess 1968'de yöneylem araştırması üzerine bir dergide kısa
+15	66	4.160	15.87	Makalenin konusu trafik planlamasında karşılaşılan bir parad
+16	54	4.320	12.50	Bugün bu sonuç onun adıyla anılıyor: Braess paradoksu.
+17	46	3.840	11.98	Paradoksu anlamak için toplama bilmek yeterli.
+18	68	4.320	15.74	Ders kitaplarında sık kullanılan basit bir örneği adım adım 
+19	37	3.680	10.05	Başlangıç noktası A, varış noktası B.
+20	68	5.920	11.49	A'dan B'ye iki güzergâh var, biri kuzeyden, biri güneyden do
+21	35	2.880	12.15	Her güzergâh iki parçadan oluşuyor.
+22	78	4.960	15.73	Parçalardan biri dar bir şehir içi yolu: kaç araba girerse o
+23	70	4.640	15.09	Bu yolda geçen süre, yoldaki araç sayısının 100'e bölümü kad
+24	59	6.240	9.46	1000 araba girerse 10 dakika, 4000 araba girerse 40 dakika.
+25	29	2.080	13.94	Öteki parça geniş bir otoyol.
+26	60	4.000	15.00	Ne kadar kalabalık olursa olsun geçiş hep 45 dakika sürüyor.
+27	54	5.440	9.93	Kuzey güzergâhında önce dar yol, sonra otoyol geliyor.
+28	60	5.120	11.72	Güney güzergâhında sıra tersine: önce otoyol, sonra dar yol.
+29	31	3.040	10.20	Sabah 4000 sürücü yola çıkıyor.
+30	45	3.040	14.80	Her biri kendi yolculuğunu kısaltmak istiyor.
+31	87	6.080	14.31	Sürücüler zamanla doğal bir dengeye oturuyor: yarısı kuzeyde
+32	107	6.880	15.55	Yolculardan biri öbür güzergâha geçerse oradaki dar yolu bir
+33	55	3.520	15.62	Bu yüzden kimsenin yer değiştirmek için bir nedeni yok.
+34	29	2.720	10.66	Her güzergâhta 2000 araç var.
+35	58	6.080	9.54	Dar yolda 20 dakika, otoyolda 45 dakika, toplam 65 dakika.
+36	121	7.040	17.19	Şimdi belediye, kuzeydeki dar yolun bittiği noktayı güneydek
+37	51	3.840	13.28	Geçit o kadar kısa ki geçiş süresi neredeyse sıfır.
+38	106	7.200	14.72	Artık üçüncü bir seçenek var: kuzeydeki dar yola gir, geçitt
+39	34	2.560	13.28	Hiç otoyola çıkmadan varabilirsin.
+40	31	2.400	12.92	Bir sürücünün gözünden bakalım.
+41	77	5.760	13.37	Dar yolda en kötü ihtimalle, yani bütün sürücüler oradayken,
+42	31	3.360	9.23	Otoyol ise her zaman 45 dakika.
+43	50	3.360	14.88	Dar yol en kalabalık hâlinde bile otoyoldan hızlı.
+44	48	3.200	15.00	Bu durumda akıllı bir sürücü otoyola hiç girmez.
+45	113	6.880	16.42	Herkes aynı hesabı yapıyor ve 4000 sürücünün tamamı iki dar 
+46	70	5.920	11.82	Sonuçta bir dar yolda 40 dakika, öbüründe 40 dakika, toplam 
+47	69	5.760	11.98	Yolculuk 65 dakikadan 80 dakikaya çıktı ve herkes 15 dakika 
+48	31	2.560	12.11	Kimse bu sonuçtan geri dönemez.
+49	99	7.040	14.06	Tek başına otoyola dönen bir sürücü 45 artı 40, yani 85 daki
+50	99	6.720	14.73	Herkesin birlikte eski düzene dönmesi herkese 15 dakika kaza
+51	22	2.080	10.58	Sorunun düğümü burada.
+52	62	4.160	14.90	Bireyler için doğru olan seçim, toplam için yanlış olabiliyo
+53	49	3.520	13.92	Matematikçiler bu iki durumu ayrı adlarla anıyor.
+54	126	7.520	16.76	Herkesin kendi çıkarına göre davrandığı ve kimsenin tek başı
+55	74	5.440	13.60	Herkesin toplam süresinin en aza indiği duruma ise sosyal op
+56	107	7.520	14.23	Trafikte bu ayrımı Braess'ten önce, 1952'de İngiliz ulaşım a
+57	141	9.120	15.46	Wardrop'un birinci ilkesine göre dengede, kullanılan bütün g
+58	78	4.960	15.73	İkinci ilkesi ise toplam süreyi en aza indiren farklı bir da
+59	146	8.320	17.55	Braess'in katkısı, bu iki durum arasındaki farkın yeni bir y
+60	64	4.000	16.00	Sonraki yıllarda bilgisayar bilimciler bu kaybı ölçmeye çalı
+61	156	9.600	16.25	Herkesin bencilce seçtiği dengenin, merkezi bir planlayıcını
+62	76	5.920	12.84	Bu kavramı 1999'da Elias Koutsoupias ile Christos Papadimitr
+63	170	10.720	15.86	Tim Roughgarden ile Éva Tardos da birkaç yıl sonra önemli bi
+64	60	5.280	11.36	Bizim örneğimizde kayıp 65'ten 80'e, yani yaklaşık yüzde 23.
+65	40	2.720	14.71	Kayıp sınırsız değil ama sıfır da değil.
+66	80	5.120	15.62	Buraya kadar insanlardan, yani kendi çıkarını hesaplayan sür
+67	76	5.120	14.84	Bir sonraki adım, işin içinde hiç insan olmadığında da aynı 
+68	46	3.040	15.13	Paradoksun asıl gücü de burada ortaya çıkıyor.
+69	188	12.000	15.67	1991'de iki Amerikalı bilim insanı, biyolog ve matematikçi J
+70	99	6.400	15.47	Fikir şuydu: Braess paradoksu yalnızca trafikte değil, yayla
+71	54	3.520	15.34	Bunu göstermek için bir masa üstü düzeneği yeterliydi.
+72	28	2.720	10.29	Düzeneği zihninizde kuralım.
+73	21	2.400	8.75	Tavana bir yay asılı.
+74	34	3.200	10.62	Yayın alt ucuna kısa bir ip bağlı.
+75	62	4.000	15.50	İpin altında ikinci bir yay, onun ucunda da bir ağırlık asıl
+76	60	4.640	12.93	Yani tavan, yay, kısa ip, yay ve ağırlık sırasıyla dizilmiş.
+77	53	5.600	9.46	Bir de iki "güvenlik ipi" var, ikisi de biraz gevşek.
+78	89	5.600	15.89	Biri tavandan alttaki yayın üst ucuna, öteki üstteki yayın a
+79	54	4.640	11.64	Başlangıçta bu ipler gevşek sarkıyor ve yük taşımıyor.
+80	49	3.040	16.12	Bütün ağırlığı art arda dizilmiş iki yay taşıyor.
+81	63	4.000	15.75	Her yay ağırlığın tamamını hissediyor ve bu yüzden epey uzuy
+82	65	4.000	16.25	Şimdi makası alıp iki yayı ortada birleştiren kısa ipi kesiy
+83	72	5.120	14.06	Sezgi, ağırlığın düşeceğini söylüyor: bir bağlantı koptu, de
+84	28	2.560	10.94	Oysa ağırlık yukarı çıkıyor.
+85	39	3.360	11.61	İp kesilince sistemin yapısı değişiyor.
+86	36	3.680	9.78	Artık art arda dizilmiş iki yay yok.
+87	103	6.560	15.70	Yan yana çalışan iki ayrı yol var: birinde üst yay ile güven
+88	79	5.280	14.96	Ağırlık bu iki yola paylaştırılıyor ve her yay yükün yalnızc
+89	44	3.520	12.50	Yarı yük altında her yay çok daha az uzuyor.
+90	126	8.000	15.75	Uygun ip uzunluklarıyla bu kısalma, güvenlik iplerinin ekled
+91	38	2.400	15.83	Bunun trafikle bağlantısı kurulabilir.
+92	68	4.640	14.66	Ortadaki kısa ip, trafik örneğindeki sıfır süreli geçidin ka
+93	72	4.320	16.67	Kalabalıkla yavaşlayan dar yolların yerinde yüke göre uzayan
+94	74	4.480	16.52	Hiç değişmeyen 45 dakikalık otoyolun yerinde uzamayan güvenl
+95	125	8.320	15.02	Kısa ip yerindeyken bütün yük iki "kalabalığa duyarlı" parça
+96	34	2.880	11.81	İpi kesmek, geçidi kapatmak demek.
+97	48	3.360	14.29	Burada kimse karar vermiyor, kimse bencil değil.
+98	40	3.040	13.16	Yaylar yalnızca fizik yasalarına uyuyor.
+99	54	3.680	14.67	Yine de sistem, en iyi düzeni kendiliğinden bulamıyor.
+100	63	4.160	15.14	Cohen ile Horowitz aynı mantığı elektrik devrelerine de taşı
+101	174	10.240	16.99	Yayların yerine dirençleri ve uygun elektronik bileşenleri k
+102	173	10.560	16.38	Buradaki ders genel: girdiye göre davranışı değişen parçalar
+103	80	5.120	15.62	Bu fikir son yıllarda çok somut bir alanda ağırlık kazandı: 
+104	90	5.600	16.07	Bir ülkenin şebekesinde güç, iletim hatları boyunca kendi fi
+105	68	4.320	15.74	Hangi hattan ne kadar akacağına bir operatör tek tek karar v
+106	88	5.600	15.71	Sezgi burada da aynı şeyi söylüyor: yeni bir hat eklemek şeb
+107	149	8.960	16.63	2012'de fizikçiler Dirk Witthaut ve Marc Timme, şebekeleri b
+108	74	4.800	15.42	Yanlış yere eklenen bir hat, bazı mevcut hatlara binen yükü 
+109	113	7.040	16.05	Yükü kaldıramayan bir hat devre dışı kalırsa yük öbür hatlar
+110	74	4.800	15.42	Daha fazla bağlantı, belli koşullarda daha az kararlılık anl
+111	61	4.320	14.12	Aynı ekip ve meslektaşları 2022'de bir adım daha ileri gitti
+112	193	10.720	18.00	Benjamin Schäfer'in de aralarında bulunduğu araştırmacılar, 
+113	106	7.040	15.06	Kabaca şöyle özetlenebilir: yeni hattın taşıyacağı güç, ağda
+114	79	4.960	15.93	Akışa ters bir çevrim oluşturuyorsa zaten zorlanan hatlara e
+115	153	8.960	17.08	Bu bilgi pratikte değerli, çünkü yenilenebilir enerjiye geçi
+116	112	7.040	15.91	Hangi hattın gerçekten işe yarayacağını önceden bilmek, hem 
+117	53	4.640	11.42	Paradoks, akla gelmeyecek ölçeklerde de ortaya çıktı.
+118	171	10.080	16.96	2012'de Fransa ve Belçika'dan araştırmacılar, yarı iletken m
+119	80	5.120	15.62	Böyle bir ağa yeni bir kol eklemek, belli koşullarda toplam 
+120	129	9.120	14.14	2019'da ise Adilson Motter'in de aralarında bulunduğu bir ek
+121	112	6.240	17.95	Saç telinden ince kanallara tek bir bağlantı eklendiğinde ağ
+122	47	3.200	14.69	Araştırmacılar bunu bir sorun olarak bırakmadı.
+123	153	8.640	17.71	Bu davranışı ağın programlanabilir bir özelliği olarak kulla
+124	111	6.720	16.52	Bu uygulamaların çoğu henüz laboratuvar aşamasında ve günlük
+125	54	4.000	13.50	Kâğıt üzerinde, laboratuvarda ve şebekelerde durum bu.
+126	51	3.520	14.49	Gerçek şehirlerde ise hikâye bir de tersten okundu.
+127	126	8.480	14.86	Paradoks bir yol eklemenin zarar verebileceğini söylüyorsa, 
+128	85	5.760	14.76	Bu fikir, otomobil çağında büyümüş şehir yöneticilerine nere
+129	66	4.640	14.22	Bir yolu kapatmak, yüz binlerce aracı başka yollara itmek de
+130	29	2.240	12.95	Felaket beklemek mantıklıydı.
+131	43	3.360	12.80	Ama bazı yerlerde beklenen felaket gelmedi.
+132	95	6.720	14.14	Braess'in makalesinden kısa süre sonra, 1969'da Almanya'daki
+133	109	6.240	17.47	Şehir merkezindeki trafiği rahatlatmak için yeni yollara yat
+134	67	3.840	17.45	Belli bir bölüm trafiğe kapatıldığında akışın düzeldiği bild
+135	94	5.760	16.32	Bu anlatım, paradoksun ders kitaplarında tekrarlanan ilk ger
+136	140	8.640	16.20	Yine de dikkatli olmak gerekiyor: o dönemin ölçümleri bugünk
+137	43	3.520	12.22	Daha iyi belgelenmiş an New York'tan geldi.
+138	26	3.840	6.77	22 Nisan 1990, Dünya Günü.
+139	39	3.200	12.19	Manhattan'ın en işlek arterlerinden 42.
+140	36	2.560	14.06	Cadde gün boyunca trafiğe kapatıldı.
+141	56	3.520	15.91	Şehrin ulaşım yetkilileri çevrede kilitlenme bekliyordu.
+142	7	2.080	3.37	Olmadı.
+143	37	3.680	10.05	Akış o gün normalden daha iyi işledi.
+144	176	11.200	15.71	Aynı yılın Aralık ayında şehrin büyük gazetelerinden birinde
+145	54	4.160	12.98	En çarpıcı örnek ise Güney Kore'nin başkenti Seul'den.
+146	123	8.960	13.73	Şehrin ortasından geçen tarihî bir dere 1960'larda betonla ö
+147	48	3.680	13.04	Bu dere Cheonggyecheon, yani Berrak Vadi Deresi.
+148	88	6.720	13.10	Otoyol günde 160 binin üzerinde aracı taşıyordu ve şehrin ca
+149	92	5.440	16.91	Dönemin belediye başkanı Lee Myung-bak otoyolu yıkıp dereyi 
+150	73	5.280	13.83	Eleştiriler sertti: şehir merkezinin tamamen kilitleneceği ö
+151	133	9.440	14.09	Yıkım 2003 yazında başladı ve Berrak Vadi Deresi 2005 sonbah
+152	25	2.240	11.16	Öngörülen kaos yaşanmadı.
+153	92	6.080	15.13	Trafik çevre yollara ve toplu taşımaya dağıldı, merkezdeki o
+154	51	3.360	15.18	Burada bilimsel dürüstlük bir çekince gerektiriyor.
+155	126	8.000	15.75	Seul aynı dönemde otobüs sistemini baştan aşağı yeniden düze
+156	133	7.840	16.96	Bu yüzden rahatlamanın ne kadarının saf Braess etkisinden, n
+157	100	7.040	14.20	Yine de en azından şu kesin: devasa bir yolun ortadan kalkma
+158	92	5.920	15.54	Peki bunlar şans eseri sonuçlar mı, yoksa şehirlerin içinde 
+159	100	6.560	15.24	2008'de fizikçiler Hyejin Youn, Michael Gastner ve Hawoong J
+160	115	7.360	15.62	Boston, New York ve Londra'nın ana yol ağlarını modellediler
+161	24	2.080	11.54	Sonuç rahatsız ediciydi.
+162	93	5.600	16.61	Her üç şehirde de, belirli yollar kapatıldığında modeldeki t
+163	122	7.520	16.22	Ağın içinde, tıpkı Braess'in kısa geçidi gibi, sürücüleri be
+164	52	2.880	18.06	Burada sık karıştırılan iki fikri ayırmak gerekiyor.
+165	66	4.480	14.73	Ulaşım ekonomisinde "teşvik edilmiş talep" diye ayrı bir olg
+166	107	6.240	17.15	Yeni şeritler açıldığında zamanla daha fazla insan araba kul
+167	141	8.160	17.28	Ekonomistler Gilles Duranton ile Matthew Turner, ABD veriler
+168	73	4.800	15.21	Bu da yeni yolların trafiği çözmediğini anlatıyor ama mekani
+169	54	3.680	14.67	Teşvik edilmiş talepte yola çıkan araç sayısı artıyor.
+170	57	3.680	15.49	Braess paradoksunda ise araç sayısı tamamen aynı kalıyor.
+171	60	5.120	11.72	Aynı 4000 sürücü, aynı sabah, aynı yerden aynı yere gidiyor.
+172	86	5.120	16.80	Kötüleşmenin tek nedeni bu sürücülerin yeni seçenek karşısın
+173	91	6.080	14.97	Braess'i bu kadar şaşırtıcı yapan da bu: kimse fazladan gelm
+174	45	3.200	14.06	Bu durum yöneticilere açık bir uyarı veriyor.
+175	138	7.840	17.60	Bir yol ağını parça parça iyileştirmeye çalışırken her yeni 
+176	120	6.880	17.44	Bugün birçok büyük şehirde trafik mühendisleri, yeni bir bağ
+177	83	5.280	15.72	Aynı soruyu tersinden sormak da artık meşru sayılıyor: bu yo
+178	107	7.360	14.54	Braess'in 1968'deki kısa hesabından bugüne bu kadar farklı a
+179	45	3.360	13.39	Ağlar, parçalarının toplamı gibi davranmıyor.
+180	98	6.880	14.24	Bir parçayı iyileştirmek bütünü iyileştirmeyebilir ve bir pa
+181	169	10.720	15.76	Sistemin içindeki her birim, ister sabah işe giden bir sürüc
+182	100	6.080	16.45	Ortaya çıkan denge de bu yerel davranışların toplamı oluyor,
+183	150	8.800	17.05	Bu ders mühendislere yeni bir alışkanlık kazandırdı: bir ağı
+184	153	9.280	16.49	Ağlarda daha fazlası her zaman daha iyi değil ve Braess para
+185	47	3.360	13.99	Nöron Science'de bugünkü bölümün sonuna geldik.
+186	41	3.040	13.49	Yeni bir hikâyede yeniden buluşmak üzere.

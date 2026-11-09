@@ -1,0 +1,745 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.570
+A city opens a brand-new road to ease its traffic, and every driver's commute gets longer.
+
+2
+00:00:05.570 --> 00:00:11.940
+Nobody made a mistake: each driver picked the fastest route available to them, and that is the whole problem.
+
+3
+00:00:11.940 --> 00:00:18.950
+Today: the mathematics of how adding a road can slow everyone down, and how removing one can speed everyone up.
+
+4
+00:00:27.150 --> 00:00:30.160
+Bir şehri düşünün.
+
+5
+00:00:30.160 --> 00:00:36.690
+Sabahları iki yakası arasında binlerce araç gidip geliyor ve trafik her gün aynı yerde tıkanıyor.
+
+6
+00:00:36.690 --> 00:00:43.860
+Belediye sonunda karar veriyor: iki yolu ortadan birbirine bağlayan yeni, kısa ve hızlı bir bağlantı yapılacak.
+
+7
+00:00:43.860 --> 00:00:48.310
+Bağlantı açılıyor ve ertesi sabah herkes işine daha geç varıyor.
+
+8
+00:00:48.310 --> 00:00:52.280
+Bir gün sonra da, bir hafta sonra da durum değişmiyor.
+
+9
+00:00:52.280 --> 00:00:57.530
+Kimse hata yapmıyor, kaza yok, yol çalışması yok.
+
+10
+00:00:57.530 --> 00:01:00.860
+Kaynak eklendi ama sistem kötüleşti.
+
+11
+00:01:00.860 --> 00:01:04.830
+İlk duyuşta kötü planlama ya da kötü şans gibi görünüyor.
+
+12
+00:01:04.830 --> 00:01:08.800
+Oysa bu matematiksel bir zorunluluk olabilir.
+
+13
+00:01:08.800 --> 00:01:13.890
+Bunu ilk kez açıkça gösteren kişi Alman matematikçi Dietrich Braess.
+
+14
+00:01:13.890 --> 00:01:20.100
+Braess 1968'de yöneylem araştırması üzerine bir dergide kısa bir makale yayımladı.
+
+15
+00:01:20.100 --> 00:01:24.710
+Makalenin konusu trafik planlamasında karşılaşılan bir paradokstu.
+
+16
+00:01:24.710 --> 00:01:29.480
+Bugün bu sonuç onun adıyla anılıyor: Braess paradoksu.
+
+17
+00:01:29.480 --> 00:01:33.770
+Paradoksu anlamak için toplama bilmek yeterli.
+
+18
+00:01:33.770 --> 00:01:38.540
+Ders kitaplarında sık kullanılan basit bir örneği adım adım kuralım.
+
+19
+00:01:38.540 --> 00:01:42.670
+Başlangıç noktası A, varış noktası B.
+
+20
+00:01:42.670 --> 00:01:49.040
+A'dan B'ye iki güzergâh var, biri kuzeyden, biri güneyden dolaşıyor.
+
+21
+00:01:49.040 --> 00:01:52.370
+Her güzergâh iki parçadan oluşuyor.
+
+22
+00:01:52.370 --> 00:01:57.780
+Parçalardan biri dar bir şehir içi yolu: kaç araba girerse o kadar yavaşlıyor.
+
+23
+00:01:57.780 --> 00:02:02.870
+Bu yolda geçen süre, yoldaki araç sayısının 100'e bölümü kadar dakika.
+
+24
+00:02:02.870 --> 00:02:09.560
+1000 araba girerse 10 dakika, 4000 araba girerse 40 dakika.
+
+25
+00:02:09.560 --> 00:02:12.090
+Öteki parça geniş bir otoyol.
+
+26
+00:02:12.090 --> 00:02:16.540
+Ne kadar kalabalık olursa olsun geçiş hep 45 dakika sürüyor.
+
+27
+00:02:16.540 --> 00:02:22.430
+Kuzey güzergâhında önce dar yol, sonra otoyol geliyor.
+
+28
+00:02:22.430 --> 00:02:28.000
+Güney güzergâhında sıra tersine: önce otoyol, sonra dar yol.
+
+29
+00:02:28.000 --> 00:02:31.490
+Sabah 4000 sürücü yola çıkıyor.
+
+30
+00:02:31.490 --> 00:02:34.980
+Her biri kendi yolculuğunu kısaltmak istiyor.
+
+31
+00:02:34.980 --> 00:02:41.510
+Sürücüler zamanla doğal bir dengeye oturuyor: yarısı kuzeyden, yarısı güneyden gidiyor.
+
+32
+00:02:41.510 --> 00:02:48.840
+Yolculardan biri öbür güzergâha geçerse oradaki dar yolu biraz daha kalabalıklaştırır ve kendi süresi uzar.
+
+33
+00:02:48.840 --> 00:02:52.810
+Bu yüzden kimsenin yer değiştirmek için bir nedeni yok.
+
+34
+00:02:52.810 --> 00:02:55.980
+Her güzergâhta 2000 araç var.
+
+35
+00:02:55.980 --> 00:03:02.510
+Dar yolda 20 dakika, otoyolda 45 dakika, toplam 65 dakika.
+
+36
+00:03:02.510 --> 00:03:10.000
+Şimdi belediye, kuzeydeki dar yolun bittiği noktayı güneydeki dar yolun başladığı noktaya bağlayan kısa bir geçit açıyor.
+
+37
+00:03:10.000 --> 00:03:14.290
+Geçit o kadar kısa ki geçiş süresi neredeyse sıfır.
+
+38
+00:03:14.290 --> 00:03:21.940
+Artık üçüncü bir seçenek var: kuzeydeki dar yola gir, geçitten karşıya atla, güneydeki dar yolla devam et.
+
+39
+00:03:21.940 --> 00:03:24.950
+Hiç otoyola çıkmadan varabilirsin.
+
+40
+00:03:24.950 --> 00:03:27.800
+Bir sürücünün gözünden bakalım.
+
+41
+00:03:27.800 --> 00:03:34.010
+Dar yolda en kötü ihtimalle, yani bütün sürücüler oradayken, 40 dakika geçer.
+
+42
+00:03:34.010 --> 00:03:37.820
+Otoyol ise her zaman 45 dakika.
+
+43
+00:03:37.820 --> 00:03:41.630
+Dar yol en kalabalık hâlinde bile otoyoldan hızlı.
+
+44
+00:03:41.630 --> 00:03:45.280
+Bu durumda akıllı bir sürücü otoyola hiç girmez.
+
+45
+00:03:45.280 --> 00:03:52.610
+Herkes aynı hesabı yapıyor ve 4000 sürücünün tamamı iki dar yolu geçitle birleştiren bu yeni güzergâha yığılıyor.
+
+46
+00:03:52.610 --> 00:03:58.980
+Sonuçta bir dar yolda 40 dakika, öbüründe 40 dakika, toplam 80 dakika.
+
+47
+00:03:58.980 --> 00:04:05.190
+Yolculuk 65 dakikadan 80 dakikaya çıktı ve herkes 15 dakika kaybetti.
+
+48
+00:04:05.190 --> 00:04:08.200
+Kimse bu sonuçtan geri dönemez.
+
+49
+00:04:08.200 --> 00:04:15.690
+Tek başına otoyola dönen bir sürücü 45 artı 40, yani 85 dakika harcar ve daha da kötü duruma düşer.
+
+50
+00:04:15.690 --> 00:04:22.860
+Herkesin birlikte eski düzene dönmesi herkese 15 dakika kazandırırdı ama tek başına dönen kaybeder.
+
+51
+00:04:22.860 --> 00:04:25.390
+Sorunun düğümü burada.
+
+52
+00:04:25.390 --> 00:04:30.000
+Bireyler için doğru olan seçim, toplam için yanlış olabiliyor.
+
+53
+00:04:30.000 --> 00:04:33.970
+Matematikçiler bu iki durumu ayrı adlarla anıyor.
+
+54
+00:04:33.970 --> 00:04:41.940
+Herkesin kendi çıkarına göre davrandığı ve kimsenin tek başına değişmek istemediği duruma oyun kuramında Nash dengesi deniyor.
+
+55
+00:04:41.940 --> 00:04:47.830
+Herkesin toplam süresinin en aza indiği duruma ise sosyal optimum deniyor.
+
+56
+00:04:47.830 --> 00:04:55.800
+Trafikte bu ayrımı Braess'ten önce, 1952'de İngiliz ulaşım araştırmacısı John Glen Wardrop formüle etmişti.
+
+57
+00:04:55.800 --> 00:05:05.370
+Wardrop'un birinci ilkesine göre dengede, kullanılan bütün güzergâhların süresi eşittir ve kullanılmayan hiçbir güzergâh daha hızlı değildir.
+
+58
+00:05:05.370 --> 00:05:10.780
+İkinci ilkesi ise toplam süreyi en aza indiren farklı bir dağılımı tarif eder.
+
+59
+00:05:10.780 --> 00:05:19.550
+Braess'in katkısı, bu iki durum arasındaki farkın yeni bir yol eklendiğinde büyüyebileceğini, yani yatırımın tersine işleyebileceğini göstermekti.
+
+60
+00:05:19.550 --> 00:05:24.000
+Sonraki yıllarda bilgisayar bilimciler bu kaybı ölçmeye çalıştı.
+
+61
+00:05:24.000 --> 00:05:34.050
+Herkesin bencilce seçtiği dengenin, merkezi bir planlayıcının çizeceği en iyi düzenden ne kadar kötü olduğunu gösteren orana "anarşinin bedeli" adı verildi.
+
+62
+00:05:34.050 --> 00:05:40.420
+Bu kavramı 1999'da Elias Koutsoupias ile Christos Papadimitriou ortaya attı.
+
+63
+00:05:40.420 --> 00:05:51.590
+Tim Roughgarden ile Éva Tardos da birkaç yıl sonra önemli bir sınır kanıtladı: yoldaki gecikme araç sayısıyla doğrusal artıyorsa bu bedel hiçbir zaman yüzde 33'ü geçemez.
+
+64
+00:05:51.590 --> 00:05:57.320
+Bizim örneğimizde kayıp 65'ten 80'e, yani yaklaşık yüzde 23.
+
+65
+00:05:57.320 --> 00:06:00.490
+Kayıp sınırsız değil ama sıfır da değil.
+
+66
+00:06:00.490 --> 00:06:06.060
+Buraya kadar insanlardan, yani kendi çıkarını hesaplayan sürücülerden söz ettik.
+
+67
+00:06:06.060 --> 00:06:11.630
+Bir sonraki adım, işin içinde hiç insan olmadığında da aynı şeyin yaşanması.
+
+68
+00:06:11.630 --> 00:06:15.120
+Paradoksun asıl gücü de burada ortaya çıkıyor.
+
+69
+00:06:15.120 --> 00:06:27.570
+1991'de iki Amerikalı bilim insanı, biyolog ve matematikçi Joel Cohen ile fizikçi Paul Horowitz, dünyanın önde gelen bilim dergilerinden birinde kısa ama akılda kalan bir makale yayımladı.
+
+70
+00:06:27.570 --> 00:06:34.420
+Fikir şuydu: Braess paradoksu yalnızca trafikte değil, yaylarda ve elektrik devrelerinde de vardır.
+
+71
+00:06:34.420 --> 00:06:38.390
+Bunu göstermek için bir masa üstü düzeneği yeterliydi.
+
+72
+00:06:38.390 --> 00:06:41.560
+Düzeneği zihninizde kuralım.
+
+73
+00:06:41.560 --> 00:06:44.410
+Tavana bir yay asılı.
+
+74
+00:06:44.410 --> 00:06:48.060
+Yayın alt ucuna kısa bir ip bağlı.
+
+75
+00:06:48.060 --> 00:06:52.510
+İpin altında ikinci bir yay, onun ucunda da bir ağırlık asılı.
+
+76
+00:06:52.510 --> 00:06:57.600
+Yani tavan, yay, kısa ip, yay ve ağırlık sırasıyla dizilmiş.
+
+77
+00:06:57.600 --> 00:07:03.650
+Bir de iki "güvenlik ipi" var, ikisi de biraz gevşek.
+
+78
+00:07:03.650 --> 00:07:09.700
+Biri tavandan alttaki yayın üst ucuna, öteki üstteki yayın alt ucundan ağırlığa uzanıyor.
+
+79
+00:07:09.700 --> 00:07:14.790
+Başlangıçta bu ipler gevşek sarkıyor ve yük taşımıyor.
+
+80
+00:07:14.790 --> 00:07:18.280
+Bütün ağırlığı art arda dizilmiş iki yay taşıyor.
+
+81
+00:07:18.280 --> 00:07:22.730
+Her yay ağırlığın tamamını hissediyor ve bu yüzden epey uzuyor.
+
+82
+00:07:22.730 --> 00:07:27.180
+Şimdi makası alıp iki yayı ortada birleştiren kısa ipi kesiyoruz.
+
+83
+00:07:27.180 --> 00:07:32.750
+Sezgi, ağırlığın düşeceğini söylüyor: bir bağlantı koptu, destek azaldı.
+
+84
+00:07:32.750 --> 00:07:35.760
+Oysa ağırlık yukarı çıkıyor.
+
+85
+00:07:35.760 --> 00:07:39.570
+İp kesilince sistemin yapısı değişiyor.
+
+86
+00:07:39.570 --> 00:07:43.700
+Artık art arda dizilmiş iki yay yok.
+
+87
+00:07:43.700 --> 00:07:50.710
+Yan yana çalışan iki ayrı yol var: birinde üst yay ile güvenlik ipi, ötekinde güvenlik ipi ile alt yay.
+
+88
+00:07:50.710 --> 00:07:56.440
+Ağırlık bu iki yola paylaştırılıyor ve her yay yükün yalnızca yarısını taşıyor.
+
+89
+00:07:56.440 --> 00:08:00.410
+Yarı yük altında her yay çok daha az uzuyor.
+
+90
+00:08:00.410 --> 00:08:08.860
+Uygun ip uzunluklarıyla bu kısalma, güvenlik iplerinin eklediği boyu aşıyor ve ağırlık başlangıçtakinden daha yükseğe çıkıyor.
+
+91
+00:08:08.860 --> 00:08:11.710
+Bunun trafikle bağlantısı kurulabilir.
+
+92
+00:08:11.710 --> 00:08:16.800
+Ortadaki kısa ip, trafik örneğindeki sıfır süreli geçidin karşılığı.
+
+93
+00:08:16.800 --> 00:08:21.570
+Kalabalıkla yavaşlayan dar yolların yerinde yüke göre uzayan yaylar var.
+
+94
+00:08:21.570 --> 00:08:26.500
+Hiç değişmeyen 45 dakikalık otoyolun yerinde uzamayan güvenlik ipleri var.
+
+95
+00:08:26.500 --> 00:08:35.270
+Kısa ip yerindeyken bütün yük iki "kalabalığa duyarlı" parçaya yığılıyor, tıpkı bütün sürücülerin dar yollara yığılması gibi.
+
+96
+00:08:35.270 --> 00:08:38.600
+İpi kesmek, geçidi kapatmak demek.
+
+97
+00:08:38.600 --> 00:08:42.410
+Burada kimse karar vermiyor, kimse bencil değil.
+
+98
+00:08:42.410 --> 00:08:45.900
+Yaylar yalnızca fizik yasalarına uyuyor.
+
+99
+00:08:45.900 --> 00:08:50.030
+Yine de sistem, en iyi düzeni kendiliğinden bulamıyor.
+
+100
+00:08:50.030 --> 00:08:54.640
+Cohen ile Horowitz aynı mantığı elektrik devrelerine de taşıdı.
+
+101
+00:08:54.640 --> 00:09:05.330
+Yayların yerine dirençleri ve uygun elektronik bileşenleri koyduklarında, devreye bir bağlantı eklemenin akımı ve gerilimi beklenenin tersine değiştirebileceğini gösterdiler.
+
+102
+00:09:05.330 --> 00:09:16.340
+Buradaki ders genel: girdiye göre davranışı değişen parçalardan oluşan her ağda, akış kendiliğinden belli bir dengeye oturur ve bu denge en iyi denge olmak zorunda değildir.
+
+103
+00:09:16.340 --> 00:09:21.910
+Bu fikir son yıllarda çok somut bir alanda ağırlık kazandı: elektrik şebekeleri.
+
+104
+00:09:21.910 --> 00:09:27.960
+Bir ülkenin şebekesinde güç, iletim hatları boyunca kendi fizik yasalarına göre dağılıyor.
+
+105
+00:09:27.960 --> 00:09:32.730
+Hangi hattan ne kadar akacağına bir operatör tek tek karar vermiyor.
+
+106
+00:09:32.730 --> 00:09:38.780
+Sezgi burada da aynı şeyi söylüyor: yeni bir hat eklemek şebekeyi her zaman güçlendirir.
+
+107
+00:09:38.780 --> 00:09:48.190
+2012'de fizikçiler Dirk Witthaut ve Marc Timme, şebekeleri birbirine bağlı salınıcılar olarak modelledi ve bunun her zaman doğru olmadığını gösterdi.
+
+108
+00:09:48.190 --> 00:09:53.440
+Yanlış yere eklenen bir hat, bazı mevcut hatlara binen yükü artırabiliyor.
+
+109
+00:09:53.440 --> 00:10:00.930
+Yükü kaldıramayan bir hat devre dışı kalırsa yük öbür hatlara aktarılıyor ve zincirleme bir arıza başlayabiliyor.
+
+110
+00:10:00.930 --> 00:10:06.180
+Daha fazla bağlantı, belli koşullarda daha az kararlılık anlamına geliyor.
+
+111
+00:10:06.180 --> 00:10:10.950
+Aynı ekip ve meslektaşları 2022'de bir adım daha ileri gitti.
+
+112
+00:10:10.950 --> 00:10:22.120
+Benjamin Schäfer'in de aralarında bulunduğu araştırmacılar, bir hat eklemenin şebekeyi güçlendirip güçlendirmeyeceğini önceden tahmin etmeye yarayan, sezgiyle de anlaşılabilen bir ölçüt önerdi.
+
+113
+00:10:22.120 --> 00:10:29.610
+Kabaca şöyle özetlenebilir: yeni hattın taşıyacağı güç, ağdaki mevcut akış yönüyle uyumluysa yükü dağıtır.
+
+114
+00:10:29.610 --> 00:10:35.020
+Akışa ters bir çevrim oluşturuyorsa zaten zorlanan hatlara ek yük bindirebilir.
+
+115
+00:10:35.020 --> 00:10:44.430
+Bu bilgi pratikte değerli, çünkü yenilenebilir enerjiye geçiş şebekelerin yeniden çizilmesini gerektiriyor ve her yeni hat milyonlarca liraya mal oluyor.
+
+116
+00:10:44.430 --> 00:10:51.920
+Hangi hattın gerçekten işe yarayacağını önceden bilmek, hem paradan hem de karartma riskinden tasarruf sağlıyor.
+
+117
+00:10:51.920 --> 00:10:57.010
+Paradoks, akla gelmeyecek ölçeklerde de ortaya çıktı.
+
+118
+00:10:57.010 --> 00:11:07.540
+2012'de Fransa ve Belçika'dan araştırmacılar, yarı iletken malzemelerde elektronların aktığı nanometre ölçeğinde kanallarda Braess'e benzer bir etki ölçtüklerini bildirdi.
+
+119
+00:11:07.540 --> 00:11:13.110
+Böyle bir ağa yeni bir kol eklemek, belli koşullarda toplam iletimi azaltıyordu.
+
+120
+00:11:13.110 --> 00:11:22.680
+2019'da ise Adilson Motter'in de aralarında bulunduğu bir ekip, mikroakışkan kanallardan oluşan küçük ağlarda paradoksu gösterdi.
+
+121
+00:11:22.680 --> 00:11:29.370
+Saç telinden ince kanallara tek bir bağlantı eklendiğinde ağdaki akış yön değiştirebiliyor ya da azalabiliyordu.
+
+122
+00:11:29.370 --> 00:11:33.020
+Araştırmacılar bunu bir sorun olarak bırakmadı.
+
+123
+00:11:33.020 --> 00:11:42.110
+Bu davranışı ağın programlanabilir bir özelliği olarak kullanmayı, yani tek bir parçayı ekleyip çıkararak akışı bir anahtar gibi yönlendirmeyi önerdiler.
+
+124
+00:11:42.110 --> 00:11:49.280
+Bu uygulamaların çoğu henüz laboratuvar aşamasında ve günlük teknolojiye ne kadar gireceği şimdilik bir tahmin.
+
+125
+00:11:49.280 --> 00:11:53.730
+Kâğıt üzerinde, laboratuvarda ve şebekelerde durum bu.
+
+126
+00:11:53.730 --> 00:11:57.700
+Gerçek şehirlerde ise hikâye bir de tersten okundu.
+
+127
+00:11:57.700 --> 00:12:06.630
+Paradoks bir yol eklemenin zarar verebileceğini söylüyorsa, tersi de doğru olabilir: bir yolu kapatmak trafiği rahatlatabilir.
+
+128
+00:12:06.630 --> 00:12:12.840
+Bu fikir, otomobil çağında büyümüş şehir yöneticilerine neredeyse imkânsız geliyordu.
+
+129
+00:12:12.840 --> 00:12:17.930
+Bir yolu kapatmak, yüz binlerce aracı başka yollara itmek demekti.
+
+130
+00:12:17.930 --> 00:12:20.620
+Felaket beklemek mantıklıydı.
+
+131
+00:12:20.620 --> 00:12:24.430
+Ama bazı yerlerde beklenen felaket gelmedi.
+
+132
+00:12:24.430 --> 00:12:31.600
+Braess'in makalesinden kısa süre sonra, 1969'da Almanya'daki Stuttgart'tan bir örnek aktarıldı.
+
+133
+00:12:31.600 --> 00:12:38.290
+Şehir merkezindeki trafiği rahatlatmak için yeni yollara yatırım yapılmış ama beklenen iyileşme görülmemişti.
+
+134
+00:12:38.290 --> 00:12:42.580
+Belli bir bölüm trafiğe kapatıldığında akışın düzeldiği bildirildi.
+
+135
+00:12:42.580 --> 00:12:48.790
+Bu anlatım, paradoksun ders kitaplarında tekrarlanan ilk gerçek dünya örneklerinden biri oldu.
+
+136
+00:12:48.790 --> 00:12:57.880
+Yine de dikkatli olmak gerekiyor: o dönemin ölçümleri bugünkü standartlarda değildi ve örnek daha çok anlatılagelen bir vaka olarak yaşıyor.
+
+137
+00:12:57.880 --> 00:13:01.850
+Daha iyi belgelenmiş an New York'tan geldi.
+
+138
+00:13:01.850 --> 00:13:06.140
+22 Nisan 1990, Dünya Günü.
+
+139
+00:13:06.140 --> 00:13:09.790
+Manhattan'ın en işlek arterlerinden 42.
+
+140
+00:13:09.790 --> 00:13:12.800
+Cadde gün boyunca trafiğe kapatıldı.
+
+141
+00:13:12.800 --> 00:13:16.770
+Şehrin ulaşım yetkilileri çevrede kilitlenme bekliyordu.
+
+142
+00:13:16.770 --> 00:13:19.300
+Olmadı.
+
+143
+00:13:19.300 --> 00:13:23.430
+Akış o gün normalden daha iyi işledi.
+
+144
+00:13:23.430 --> 00:13:35.080
+Aynı yılın Aralık ayında şehrin büyük gazetelerinden birinde çıkan bir yazı, olayı doğrudan Braess'in 1968 hesabına bağladı ve paradoks ilk kez geniş bir okur kitlesine ulaştı.
+
+145
+00:13:35.080 --> 00:13:39.690
+En çarpıcı örnek ise Güney Kore'nin başkenti Seul'den.
+
+146
+00:13:39.690 --> 00:13:49.100
+Şehrin ortasından geçen tarihî bir dere 1960'larda betonla örtülmüş, üzerine 1970'lerde yükseltilmiş bir otoyol kurulmuştu.
+
+147
+00:13:49.100 --> 00:13:53.230
+Bu dere Cheonggyecheon, yani Berrak Vadi Deresi.
+
+148
+00:13:53.230 --> 00:14:00.400
+Otoyol günde 160 binin üzerinde aracı taşıyordu ve şehrin can damarlarından sayılıyordu.
+
+149
+00:14:00.400 --> 00:14:06.290
+Dönemin belediye başkanı Lee Myung-bak otoyolu yıkıp dereyi gün ışığına çıkarma kararı aldı.
+
+150
+00:14:06.290 --> 00:14:12.020
+Eleştiriler sertti: şehir merkezinin tamamen kilitleneceği öngörülüyordu.
+
+151
+00:14:12.020 --> 00:14:21.910
+Yıkım 2003 yazında başladı ve Berrak Vadi Deresi 2005 sonbaharında yaklaşık 5.8 kilometrelik bir park koridoru olarak yeniden açıldı.
+
+152
+00:14:21.910 --> 00:14:24.600
+Öngörülen kaos yaşanmadı.
+
+153
+00:14:24.600 --> 00:14:31.130
+Trafik çevre yollara ve toplu taşımaya dağıldı, merkezdeki ortalama hızlar çöküş göstermedi.
+
+154
+00:14:31.130 --> 00:14:34.940
+Burada bilimsel dürüstlük bir çekince gerektiriyor.
+
+155
+00:14:34.940 --> 00:14:43.390
+Seul aynı dönemde otobüs sistemini baştan aşağı yeniden düzenledi, ayrılmış otobüs şeritleri açtı, ücretlendirmeyi değiştirdi.
+
+156
+00:14:43.390 --> 00:14:51.680
+Bu yüzden rahatlamanın ne kadarının saf Braess etkisinden, ne kadarının bu yeni ulaşım planından kaynaklandığını ayırmak kolay değil.
+
+157
+00:14:51.680 --> 00:14:59.170
+Yine de en azından şu kesin: devasa bir yolun ortadan kalkması, sezginin öngördüğü sonucu doğurmadı.
+
+158
+00:14:59.170 --> 00:15:05.540
+Peki bunlar şans eseri sonuçlar mı, yoksa şehirlerin içinde gerçekten "fazla" yollar mı var?
+
+159
+00:15:05.540 --> 00:15:12.550
+2008'de fizikçiler Hyejin Youn, Michael Gastner ve Hawoong Jeong bu soruyu sistematik biçimde sordu.
+
+160
+00:15:12.550 --> 00:15:20.360
+Boston, New York ve Londra'nın ana yol ağlarını modellediler ve her yolu tek tek kapatıp yeni dengeyi hesapladılar.
+
+161
+00:15:20.360 --> 00:15:22.890
+Sonuç rahatsız ediciydi.
+
+162
+00:15:22.890 --> 00:15:28.940
+Her üç şehirde de, belirli yollar kapatıldığında modeldeki toplam yolculuk süresi azalıyordu.
+
+163
+00:15:28.940 --> 00:15:36.910
+Ağın içinde, tıpkı Braess'in kısa geçidi gibi, sürücüleri bencil ama toplamda zararlı bir dengeye çeken bağlantılar vardı.
+
+164
+00:15:36.910 --> 00:15:40.240
+Burada sık karıştırılan iki fikri ayırmak gerekiyor.
+
+165
+00:15:40.240 --> 00:15:45.170
+Ulaşım ekonomisinde "teşvik edilmiş talep" diye ayrı bir olgu var.
+
+166
+00:15:45.170 --> 00:15:51.860
+Yeni şeritler açıldığında zamanla daha fazla insan araba kullanmaya başlıyor ve kazanılan kapasite doluyor.
+
+167
+00:15:51.860 --> 00:16:00.470
+Ekonomistler Gilles Duranton ile Matthew Turner, ABD verilerinde araç kilometresinin yol kapasitesiyle neredeyse bire bir arttığını gösterdi.
+
+168
+00:16:00.470 --> 00:16:05.720
+Bu da yeni yolların trafiği çözmediğini anlatıyor ama mekanizması farklı.
+
+169
+00:16:05.720 --> 00:16:09.850
+Teşvik edilmiş talepte yola çıkan araç sayısı artıyor.
+
+170
+00:16:09.850 --> 00:16:13.980
+Braess paradoksunda ise araç sayısı tamamen aynı kalıyor.
+
+171
+00:16:13.980 --> 00:16:19.550
+Aynı 4000 sürücü, aynı sabah, aynı yerden aynı yere gidiyor.
+
+172
+00:16:19.550 --> 00:16:25.120
+Kötüleşmenin tek nedeni bu sürücülerin yeni seçenek karşısında yeniden dağılma biçimi.
+
+173
+00:16:25.120 --> 00:16:31.650
+Braess'i bu kadar şaşırtıcı yapan da bu: kimse fazladan gelmedi, ama herkes daha geç kaldı.
+
+174
+00:16:31.650 --> 00:16:35.300
+Bu durum yöneticilere açık bir uyarı veriyor.
+
+175
+00:16:35.300 --> 00:16:43.590
+Bir yol ağını parça parça iyileştirmeye çalışırken her yeni bağlantının ağın tamamındaki dengeyi nasıl kaydıracağını hesaplamak gerekiyor.
+
+176
+00:16:43.590 --> 00:16:50.920
+Bugün birçok büyük şehirde trafik mühendisleri, yeni bir bağlantı açmadan önce bu tür denge simülasyonları çalıştırıyor.
+
+177
+00:16:50.920 --> 00:16:56.650
+Aynı soruyu tersinden sormak da artık meşru sayılıyor: bu yolu kaldırırsak ne olur?
+
+178
+00:16:56.650 --> 00:17:04.460
+Braess'in 1968'deki kısa hesabından bugüne bu kadar farklı alana taşınan şey, aslında tek bir yapısal ders.
+
+179
+00:17:04.460 --> 00:17:08.270
+Ağlar, parçalarının toplamı gibi davranmıyor.
+
+180
+00:17:08.270 --> 00:17:15.600
+Bir parçayı iyileştirmek bütünü iyileştirmeyebilir ve bir parçayı çıkarmak bütünü güçlendirebilir.
+
+181
+00:17:15.600 --> 00:17:26.770
+Sistemin içindeki her birim, ister sabah işe giden bir sürücü, ister yüke göre uzayan bir yay, ister bir hatta akan elektrik olsun, kendi yerel koşuluna göre davranıyor.
+
+182
+00:17:26.770 --> 00:17:33.300
+Ortaya çıkan denge de bu yerel davranışların toplamı oluyor, kimsenin tasarladığı bir düzen olmuyor.
+
+183
+00:17:33.300 --> 00:17:42.550
+Bu ders mühendislere yeni bir alışkanlık kazandırdı: bir ağı büyütmeden önce yeni dengeyi hesaplamak, her eklemenin bütünü nereye götüreceğini sormak.
+
+184
+00:17:42.550 --> 00:17:52.280
+Ağlarda daha fazlası her zaman daha iyi değil ve Braess paradoksu bunun ölçülebilir, hesaplanabilir, hatta önceden tahmin edilebilir olduğunu gösteriyor.
+
+185
+00:17:52.280 --> 00:17:56.090
+Nöron Science'de bugünkü bölümün sonuna geldik.
+
+186
+00:17:56.090 --> 00:17:59.580
+Yeni bir hikâyede yeniden buluşmak üzere.
