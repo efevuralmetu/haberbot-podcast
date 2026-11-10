@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-10.mp3
+
+beklenen 2811 kelime | duyulan 2832 kelime | eşleşme %94.6
+sayı ifadesi: metinde 367, duyulanda 278  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...mahzen çukurlarını kazarken kalenin
+      metin  : gergedan
+      duyulan: gergeden
+  REPLACE  ...çıkar orada ırmak maşavera
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...önce yüksek bazalt burnunun
+      metin  : yanını
+      duyulan: yanına
+  REPLACE  ...bazalt burnunun yanını oyar
+      metin  : burnun
+      duyulan: buranın
+  REPLACE  ...sallanan otlar vardır burası
+      metin  : dmanisi
+      duyulan: dimanisi
+  DELETE   ...kralları arasında el değiştirdi
+      metin  : zenginleşti
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...sokakları ve evleriydi yani
+      metin  : yıllık
+      duyulan: yüzyıllık
+  REPLACE  ...evleriydi yani yıllık hikaye
+      metin  : ortaçağ dmanisi
+      duyulan: orta çağ dimanisi
+  REPLACE  ...önce soyu tükenmiş türdü
+      metin  : etrüsk
+      duyulan: etrus
+  REPLACE  ...tabakalarından gelmiş olabilirdi bu
+      metin  : dmanisi
+      duyulan: demanisi
+  INSERT   ...anlamına geliyordu ertesi yıl
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sürdü gürcü araştırmacılara alman
+      metin  : meslektaşları
+      duyulan: mestektaşları
+  REPLACE  ...ortaçağ kazısı ile buzul
+      metin  : çağı
+      duyulan: çağ
+  REPLACE  ...eylül ayında alman arkeolog
+      metin  : antye yustus
+      duyulan: antje justus
+  REPLACE  ...aitti çene vekua ve
+      metin  : meslektaşı
+      duyulan: mestektaşı
+  INSERT   ...gabunia tarafından incelendi ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...daha fazlası gerekiyordu ve
+      metin  : dmanisi
+      duyulan: demanisi
+  INSERT   ...daha küçük kafatası ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olan genç paleoantropolog david
+      metin  : lordkipanidze ekibiyle
+      duyulan: lorki panizze dekibiyle
+  REPLACE  ...yayımladı bundan sonra kimse
+      metin  : dmanisi yi
+      duyulan: demanisiyi
+  REPLACE  ...sarsıcı yapan şey yaşlarıydı
+      metin  : dmanisi
+      duyulan: dimanisi
+  REPLACE  ...pusula iğnesi gibi saklar
+      metin  : dmanisi
+      duyulan: dimanisi
+  REPLACE  ...denk geliyordu amerikalı yerbilimci
+      metin  : reid ferring
+      duyulan: ray farrinck
+  REPLACE  ...yıllar süren çalışmaları sonunda
+      metin  : tablo
+      duyulan: adlo
+  REPLACE  ...göç olgunlaşmış insanın işiydi
+      metin  : dmanisi nin
+      duyulan: dimanisinin
+  REPLACE  ...aletler de beklenene benzemiyordu
+      metin  : dmanisi
+      duyulan: dimanisi
+  REPLACE  ...ve yongalardı afrika da
+      metin  : olduvai boğazı ndaki
+      duyulan: olduvay boğazındaki
+  REPLACE  ...eski buluntulara benzeyen bu
+      metin  : olduvai
+      duyulan: olduvay
+  INSERT   ...çıktı lordkipanidze ve ekibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ortaya ilginç karışım çıktı
+      metin  : dmanisi
+      duyulan: dimanisi
+  REPLACE  ...koruyordu boyları yaklaşık ile
+      metin  : santimeter
+      duyulan: cm
+  REPLACE  ...her büyük buluntu gibi
+      metin  : dmanisi
+      duyulan: dimanisi
+  INSERT   ...yavaş sert tartışmaya bıraktı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...kalın ağır iri dişli
+      metin  : dmanisi
+      duyulan: dimanisi
+  REPLACE  ...lordkipanidze ve fransız paleoantropolog
+      metin  : anri dö lümle
+      duyulan: henri de lumle
+  INSERT   ...de içinde bulunduğu ekip
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tür adı önerdi homo
+      metin  : georgikus
+      duyulan: georgicus
+  REPLACE  ...georgikus yani gürcistan insanı
+      metin  : dmanisi
+      duyulan: dimanisi
+  REPLACE  ...erken türlerle sonraki homo
+      metin  : erektus
+      duyulan: erectus
+  REPLACE  ...paleoantropolojide çok bilinen gerilimin
+      metin  : dmanisi
+      duyulan: dimanisi
+  ... ve 60 fark daha
+
+metinde olup DUYULMAYAN: 112 kelime | duyulup metinde OLMAYAN: 125
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: arkeoloji-2026-11-10.duyulan.txt

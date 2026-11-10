@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-10.mp3
+
+beklenen 2790 kelime | duyulan 2787 kelime | eşleşme %98.9
+sayı ifadesi: metinde 128, duyulanda 102  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...in the town of
+      metin  : uralsk
+      duyulan: uralesk
+  REPLACE  ...the solitary form the
+      metin  : solitarious
+      duyulan: solitarius
+  REPLACE  ...genes but conditions when
+      metin  : locusts
+      duyulan: locust
+  REPLACE  ...weer sparse they stayed
+      metin  : solitarious
+      duyulan: solitarius
+  DELETE   ...test in the early
+      metin  : twenties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...early twenties the entomologist
+      metin  : fauer
+      duyulan: fori
+  REPLACE  ...those raized by stayed
+      metin  : solitarious
+      duyulan: solitarius
+  REPLACE  ...steve rogers and malcolm
+      metin  : burrows
+      duyulan: burroughs
+  REPLACE  ...moer quickly put a
+      metin  : solitarious
+      duyulan: solitarius
+  DELETE   ...a study published in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the thigh pushed a
+      metin  : solitarious
+      duyulan: solitarius
+  REPLACE  ...pushed a solitarious locust
+      metin  : toward
+      duyulan: towards
+  REPLACE  ...ott malcolm burrows and
+      metin  : stephen
+      duyulan: steven
+  DELETE   ...the result published in
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...according to measurements by
+      metin  : ott
+      duyulan: auté
+  INSERT   ...than those of solitarious
+      metin  : (yok)
+      duyulan: that
+  REPLACE  ...serve a purpose too
+      metin  : gregarious
+      duyulan: sometimes
+  REPLACE  ...team that included jerome
+      metin  : buhl stephen
+      duyulan: boole steven
+  REPLACE  ...simpson and the physicist
+      metin  : iain couzin
+      duyulan: ian kuzin
+  REPLACE  ...gradually increased their numbers
+      metin  : what
+      duyulan: but
+  REPLACE  ...solidarity a study by
+      metin  : sepideh
+      duyulan: sapited
+  REPLACE  ...cover moer than a
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...cover hundreds of squaer
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...surface with the affected
+      metin  : region
+      duyulan: regions
+  REPLACE  ...astonishing too in desert
+      metin  : locust
+      duyulan: locusts
+  REPLACE  ...a journey of roughly
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...in decades and the
+      metin  : swarms
+      duyulan: swarm
+  REPLACE  ...part of this strategy
+      metin  : when
+      duyulan: in
+  REPLACE  ...today s episode of
+      metin  : nöron bilim
+      duyulan: neuron billim
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-11-10.duyulan.txt

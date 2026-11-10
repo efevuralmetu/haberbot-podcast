@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-10.mp3
+
+beklenen 2207 kelime | duyulan 2199 kelime | eşleşme %96.5
+sayı ifadesi: metinde 247, duyulanda 219  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yaşa dedi öteki tam
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...yüzyılın ortasında fransız düşünür
+      metin  : ogüst kont
+      duyulan: auguste comte
+  REPLACE  ...karşısına yeni ilke koydu
+      metin  : kont
+      duyulan: comte
+  REPLACE  ...topladı başkası için yaşa
+      metin  : kont
+      duyulan: comte
+  REPLACE  ...zorunluluktu i nsanın duygusal
+      metin  : doğası
+      duyulan: duası
+  INSERT   ...i şte bu soruyu
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...öğüt değil tehlikeli zincirdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve aradaki gerilimi hissedelim
+      metin  : kont
+      duyulan: kond
+  REPLACE  ...olduğunu kabul etmek gerekiyor
+      metin  : kont
+      duyulan: kond
+  REPLACE  ...kimse nöbete kalmıyorsa orada
+      metin  : medeniyetten
+      duyulan: niyetten
+  REPLACE  ...şey var gibi görünüyor
+      metin  : kont ta
+      duyulan: kond da
+  DELETE   ...bu soruyu batı düşüncesi
+      metin  : kadar
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...su yaralıya ayyaş ebu
+      metin  : rebia
+      duyulan: rebiya
+  REPLACE  ...su kabı dolu ama
+      metin  : içecek
+      duyulan: pek
+  REPLACE  ...vermek kur an da
+      metin  : haşr suresi nin ayetinde
+      duyulan: haşrır suresinin yılında
+  REPLACE  ...kavramı ayrı yeer koyar
+      metin  : nasirüddin tusi
+      duyulan: nasir ü ddin tuğsi
+  REPLACE  ...ali efendi de aynı
+      metin  : çizgiyi
+      duyulan: geleneği
+  REPLACE  ...dağıtıp ailesini muhtaç bırakmak
+      metin  : isar
+      duyulan: eser
+  REPLACE  ...için suyu geri çevirmedi
+      metin  : hiçbiri
+      duyulan: hiç
+  REPLACE  ...olan şu bu sezgiyi
+      metin  : batı
+      duyulan: batıda
+  REPLACE  ...bu sezgiyi batı da
+      metin  : da kont tan
+      duyulan: konttan
+  REPLACE  ...önce aristoteles dile getirmişti
+      metin  : nikomakhos
+      duyulan: nikomakos
+  REPLACE  ...en büyüğüdür ama kendini
+      metin  : sevmenin
+      duyulan: sevenin
+  REPLACE  ...türü vardır kaba olanı
+      metin  : parada şöhrette
+      duyulan: para da şöhret de
+  REPLACE  ...yüksek ifadesidir yüzyılda psikanalist
+      metin  : erih from
+      duyulan: erich fromm
+  INSERT   ...düğümü başka yerden çözer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kendini aşırı sevdiği yönündeki
+      metin  : yaygın
+      duyulan: çılgın
+  REPLACE  ...şeyin büyüklüğünde değil veren
+      metin  : insanın
+      duyulan: insan
+  REPLACE  ...maskeler üstünüzden inecektir yanınızda
+      metin  : yardıma
+      duyulan: uyuma
+  DELETE   ...önce çocuğa uğraşırken bayılan
+      metin  : ebeveyn
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üzerine yapılan tartışmalarda tür
+      metin  : semboldür doksanların
+      duyulan: semboldur ların
+  REPLACE  ...yorgunluğu diye kavram ortaya
+      metin  : çıktı
+      duyulan: kaldı
+  INSERT   ...daha da ilginç adım
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...mühendis ve yazar barbara
+      metin  : oakley
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...döngünün parçasına dönüşüyor burada
+      metin  : kont
+      duyulan: cont
+  REPLACE  ...açabilir ama aynı zamanda
+      metin  : kont
+      duyulan: cont
+  REPLACE  ...olduğunu da savundu ahlak
+      metin  : metafiziği
+      duyulan: metafiziyi
+  DELETE   ...önünde eğilip bükülen saygıyı
+      metin  : hak
+      duyulan: (YOK — atlanmış)
+  INSERT   ...biçimde yankı buldu gilligan
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...sayarak çalıştığında bunu kimse
+      metin  : övgü olarak
+      duyulan: (YOK — atlanmış)
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: felsefe-2026-11-10.duyulan.txt

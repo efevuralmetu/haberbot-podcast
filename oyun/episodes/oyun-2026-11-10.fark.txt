@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-10.mp3
+
+beklenen 1598 kelime | duyulan 1603 kelime | eşleşme %94.2
+sayı ifadesi: metinde 191, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kimsenin para ödemediği bu
+      metin  : harfli
+      duyulan: harfi
+  REPLACE  ...dünyanın tuğlalarını alıp kendi
+      metin  : binasını
+      duyulan: arasını
+  REPLACE  ...getirdi bunların arasında internette
+      metin  : aeonaltmış
+      duyulan: aeon
+  DELETE   ...ilk bakışta pek şey
+      metin  : vaat
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geldi blizzard ın warcraft
+      metin  : iii reign
+      duyulan: game
+  REPLACE  ...reign of chaos yani
+      metin  : kaos
+      duyulan: chaos
+  REPLACE  ...nın tohumu toprağını bulmuştu
+      metin  : kaos
+      duyulan: chaos
+  REPLACE  ...çıkışından kısa süer sonra
+      metin  : eul
+      duyulan: yul
+  REPLACE  ...adlı haritayı yayımladı kısaltması
+      metin  : dota idi
+      duyulan: dotaydı
+  REPLACE  ...taraf vardı ve her
+      metin  : üssün
+      duyulan: üstün
+  REPLACE  ...yapı duruyordu koridor bu
+      metin  : üssü
+      duyulan: üstü
+  DELETE   ...bağlıyor her koridor boyunca
+      metin  : savunma
+      duyulan: (YOK — atlanmış)
+  INSERT   ...dönüşmüştü sonra kırılma yaşandı
+      metin  : (yok)
+      duyulan: ki ki
+  REPLACE  ...frozen throne yani donmuş
+      metin  : taht
+      duyulan: tah
+  REPLACE  ...yani donmuş taht çıktı
+      metin  : eul
+      duyulan: eül
+  REPLACE  ...kuralları vardı bu karmaşadan
+      metin  : meian
+      duyulan: meyan
+  REPLACE  ...bu karmaşadan meian ve
+      metin  : ragnsıfırr
+      duyulan: ragzin
+  REPLACE  ...haritada topladı haritanın adına
+      metin  : allstars
+      duyulan: al stars
+  REPLACE  ...takma adıyla tanınan steve
+      metin  : feak
+      duyulan: fick
+  REPLACE  ...tanınan steve feak oldu
+      metin  : feak
+      duyulan: fick
+  REPLACE  ...mağaraya tek başına koca
+      metin  : takımı
+      duyulan: karamı
+  REPLACE  ...süpürebilen canavar yerleştirdi adı
+      metin  : roshan dı
+      duyulan: roşandı
+  REPLACE  ...gelen site kurdu hata
+      metin  : raporları
+      duyulan: soruları
+  INSERT   ...feak süer sonra yorulmuştu
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...yukarı bu isim oldu
+      metin  : icefrog
+      duyulan: i yice frog
+  REPLACE  ...isim oldu icefrog ortaya
+      metin  : çıkarmadı
+      duyulan: bulamadı
+  REPLACE  ...satır satır okunuyordu kahramanın
+      metin  : yeteneğinde
+      duyulan: ayında
+  REPLACE  ...kısalma eşyanın fiyatında küçük
+      metin  : oynama
+      duyulan: oynamak
+  REPLACE  ...türkiye de akşam saatlerinde
+      metin  : kafeler
+      duyulan: oyuncular
+  INSERT   ...için anlaşılmaz şifreye dönüştü
+      metin  : (yok)
+      duyulan: ki ki da
+  REPLACE  ...dönüştü i sveçli müzisyen
+      metin  : basshunter vi sitter
+      duyulan: bas hunter vsitter
+  REPLACE  ...dota yani ventrilo da
+      metin  : oturup
+      duyulan: avrupa
+  DELETE   ...almak gerekiyordu ama haritayı
+      metin  : blizzard
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...haritayı blizzard yapmamıştı temeli
+      metin  : eul
+      duyulan: üyül
+  REPLACE  ...temeli eul atmıştı ama
+      metin  : eul
+      duyulan: eylül
+  REPLACE  ...çekilmişti bugün bilinen biçimini
+      metin  : feak
+      duyulan: fake
+  REPLACE  ...ama rüzgar dönüyordu steve
+      metin  : feak
+      duyulan: feek
+  INSERT   ...feak ile steve mescon
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...riot games e katıldı
+      metin  : feak
+      duyulan: feek
+  REPLACE  ...öğrendikleri stüdyonun ilk oyununun
+      metin  : tasarımına
+      duyulan: tasarımını
+  ... ve 43 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 86
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: oyun-2026-11-10.duyulan.txt

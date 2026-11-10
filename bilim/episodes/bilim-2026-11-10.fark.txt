@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-10.mp3
+
+beklenen 1830 kelime | duyulan 1857 kelime | eşleşme %97.0
+sayı ifadesi: metinde 189, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...koyulur ve milyarlarca bireylik
+      metin  : sürünün
+      duyulan: sürü
+  REPLACE  ...milyonlarcası araya gelip gökyüzünü
+      metin  : karartan
+      duyulan: kara atan
+  INSERT   ...rus böcek bilimciydi uvarov
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...uvarov bugünkü kazakistan topraklarındaki
+      metin  : uralsk
+      duyulan: uraz
+  INSERT   ...ve iç savaşın ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...göçmen çekirge diye bilinen
+      metin  : locusta
+      duyulan: lokusta
+  REPLACE  ...locusta migratoria ile aynı
+      metin  : cinsten
+      duyulan: cinsden
+  REPLACE  ...sakin ve dağınık yaşayan
+      metin  : locusta
+      duyulan: lokusta
+  INSERT   ...kalıyordu sanki öbürüne dönüşüyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çalışan böcek bilimci fauer
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...da kurulmasına öncülük ettiği
+      metin  : çekirgeyle
+      duyulan: çekirge ile
+  REPLACE  ...oldu bu keşif bugün
+      metin  : fenotipik
+      duyulan: fenotypik
+  REPLACE  ...var bilim insanlarının sonraki
+      metin  : onyıllarda
+      duyulan: yıllarda
+  REPLACE  ...adım ortaya çıktı oxford
+      metin  : da stephen
+      duyulan: la steven
+  REPLACE  ...steve rogers ve malcolm
+      metin  : burrows
+      duyulan: burroughs
+  INSERT   ...dokunma simpson ve ekibi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bölgesinde yer alır michael
+      metin  : anstey
+      duyulan: unstey
+  REPLACE  ...michael anstey steve rogers
+      metin  : svidbert ot
+      duyulan: swidbert ott
+  REPLACE  ...rogers svidbert ot malcolm
+      metin  : burrows
+      duyulan: burroughs
+  INSERT   ...göğüs düğümlerindeki kimyasalları ölçtü
+      metin  : (yok)
+      duyulan: keyki da
+  REPLACE  ...gibi davranmaya başladılar yani
+      metin  : serotonin
+      duyulan: serotoninin
+  INSERT   ...ott ve rogers ın
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...gibi çalışıyor olabilir kısacası
+      metin  : bacağa
+      duyulan: bacağı
+  INSERT   ...aynı yöne dönüp ilerliyordu
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...dönüp ilerliyordu jerome buhl
+      metin  : stephen
+      duyulan: steven
+  REPLACE  ...stephen simpson ve fizikçi
+      metin  : iain couzin
+      duyulan: ian cousin
+  INSERT   ...sepideh bazazi ve meslektaşlarının
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...eğilimi azalıyordu bant deyim
+      metin  : yerindeyze
+      duyulan: yerinde ize
+  REPLACE  ...örgütü nün verilerine göer
+      metin  : kilometrekarelik sürüde
+      duyulan: kilometer karelik sürü de
+  REPLACE  ...sık kullandığı karşılaştırmaya göer
+      metin  : kilometrekarelik
+      duyulan: kilometer karelik
+  REPLACE  ...ize çoğu zaman yüzlerce
+      metin  : kilometrekareyi
+      duyulan: kilometer kareyi
+  INSERT   ...dünya kara yüzeyinin yaklaşık
+      metin  : (yok)
+      duyulan: sini
+  INSERT   ...yaklaşık etkileyebilir etkilenen bölge
+      metin  : (yok)
+      duyulan: tan
+  INSERT   ...sürülerin dayanıklılığı da şaşırtıcıdır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nu aşarak yaklaşık günde
+      metin  : karayipler e
+      duyulan: kara ipleer
+  REPLACE  ...noktaları erken yakalamaya çalışıyor
+      metin  : amaç
+      duyulan: maç
+  INSERT   ...i şe yaramadığında ize
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...uyandırmak için dokunuş yetiyordu
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: yeni hikayede yeniden buluşmak üzeer
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-11-10.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-10.mp3
+
+beklenen 3477 kelime | duyulan 3487 kelime | eşleşme %95.2
+sayı ifadesi: metinde 359, duyulanda 307  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...haftasında londra nın batısında
+      metin  : thames
+      duyulan: tamiz
+  INSERT   ...manastırı diyecekti kilize aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...edgar adında delikanlıydı eski
+      metin  : wessex
+      duyulan: west ex
+  REPLACE  ...oturtmak kapıyı açık bırakmak
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...ileri gelenlerinden oluşan meclis
+      metin  : witan
+      duyulan: witton
+  REPLACE  ...witan başka adama döndü
+      metin  : wessex
+      duyulan: west ex
+  INSERT   ...ölen kralın eşiydi harold
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...eşiydi harold yaşlarının ortasındaydı
+      metin  : galler de
+      duyulan: galerde
+  REPLACE  ...bu acelenin nedeni vardı
+      metin  : manş
+      duyulan: manch
+  REPLACE  ...karşı kıyısında normandiya da
+      metin  : dük
+      duyulan: duke
+  INSERT   ...ihanet olarak karşıladı william
+      metin  : (yok)
+      duyulan: lu
+  INSERT   ...yılda döndüğünü biliyoruz ama
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sayılırdı manastırlarda tutulan anglo
+      metin  : sakson vakayinamesi
+      duyulan: saxon vakay namesi
+  INSERT   ...uzun saçlı yıldızı kaydetti
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...saçlı yıldızı kaydetti sonra
+      metin  : malmesbury li
+      duyulan: mal mezburili
+  REPLACE  ...aynı manastırın yaşlı keşişlerinden
+      metin  : eilmer
+      duyulan: eylmer
+  REPLACE  ...kendi kanından geldi kardeşi
+      metin  : tostig
+      duyulan: tostich
+  REPLACE  ...tostig yıl önce northumbria
+      metin  : kontuyken
+      duyulan: kontu iken
+  REPLACE  ...sürgüne gitmesine göz yummuştu
+      metin  : tostig
+      duyulan: tostich
+  REPLACE  ...hiç affetmedi mayısta küçük
+      metin  : filoyla
+      duyulan: filo ile
+  REPLACE  ...ngiliz ordusunun büyük bölümü
+      metin  : fyrd
+      duyulan: furt
+  REPLACE  ...humber halicinden içeri girip
+      metin  : ouse
+      duyulan: uuse
+  REPLACE  ...ve york un güneyindeki
+      metin  : riccal
+      duyulan: rickol
+  REPLACE  ...bu mesafeyi kabaca günde
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...de york un güneyindeki
+      metin  : tadcaster
+      duyulan: tatkester
+  REPLACE  ...nın adamlarının kısmı zırhlarını
+      metin  : riccal
+      duyulan: rickal
+  INSERT   ...bu sahne olaydan yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...ilk hamlede ezdi anglo
+      metin  : sakson vakayinamesi nin
+      duyulan: saxon vakainamesinin
+  REPLACE  ...sancağı ortadaydı norveçliler bu
+      metin  : sancağa
+      duyulan: sancağı
+  REPLACE  ...o ayaklık yerde öldü
+      metin  : tostig
+      duyulan: tostik
+  REPLACE  ...öldürüldü tam bu sırada
+      metin  : riccal
+      duyulan: rickol
+  REPLACE  ...birlikler hardrada nın akrabası
+      metin  : eystayn orer nin
+      duyulan: einstein oren in
+  REPLACE  ...onların saldırısına ad verir
+      metin  : orer nin
+      duyulan: oren in
+  REPLACE  ...ama sonunda da düştü
+      metin  : eystayn orer
+      duyulan: einstein oren e
+  REPLACE  ...yurtlarına gitmelerine izin verdi
+      metin  : vakayiname ye
+      duyulan: vakaynameye
+  REPLACE  ...anar i ngilteer yi
+      metin  : yüzyıldan
+      duyulan: yıldan
+  REPLACE  ...korkutan büyük i skandinav
+      metin  : istilaları stamford
+      duyulan: i stilaları stanford
+  DELETE   ...büyük filo inşa ettirmiş
+      metin  : ya
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...hatırlamak gerekir bretanya dan
+      metin  : flandr
+      duyulan: flandır
+  REPLACE  ...dan fransa nın çeşitli
+      metin  : bölgelerinden
+      duyulan: evlerinden
+  ... ve 64 fark daha
+
+metinde olup DUYULMAYAN: 123 kelime | duyulup metinde OLMAYAN: 133
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: tarih-2026-11-10.duyulan.txt

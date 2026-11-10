@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-10.mp3
+
+beklenen 1887 kelime | duyulan 1890 kelime | eşleşme %91.3
+sayı ifadesi: metinde 233, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...parçası bulana kadar şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kadar şubat paris güneye
+      metin  : luar nehri nin
+      duyulan: loier nehrinin
+  REPLACE  ...en saygın adı olan
+      metin  : jan rönuar
+      duyulan: jean renoir
+  REPLACE  ...film özgün adıyla la
+      metin  : regl dü jö
+      duyulan: regle du jeu
+  REPLACE  ...türkçesiyle oyunun kuralı olacaktır
+      metin  : rönuar
+      duyulan: renoir
+  INSERT   ...parlak dönemin ardından gelmişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...büyük başarı kazanmıştı ressam
+      metin  : piyer ogüst rönuar
+      duyulan: pierer auguste renoir
+  INSERT   ...hesap vermek istemiyordu bu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...vermek istemiyordu bu kardeşi
+      metin  : klod rönuar
+      duyulan: claude renoir
+  REPLACE  ...birlikte kendi şirketini kurdu
+      metin  : nuvel edisyon fransez
+      duyulan: nouvelle édition françaize
+  REPLACE  ...filmin tohumu klasikten atılmıştı
+      metin  : rönuar
+      duyulan: renoir
+  REPLACE  ...atılmıştı rönuar önce alfred
+      metin  : dö müse
+      duyulan: de muce
+  REPLACE  ...alfred dö müse nin
+      metin  : maryan ın
+      duyulan: maria nın
+  REPLACE  ...tiyatrosunun havası filmde kaldı
+      metin  : rönuar
+      duyulan: renoir
+  REPLACE  ...filmde kaldı rönuar filmi
+      metin  : bomarşe
+      duyulan: bomarche
+  REPLACE  ...çağrılıyordu bu saray komedisinin
+      metin  : hafifliğiydi
+      duyulan: hafifliydi
+  REPLACE  ...şöyle kurulur havacı ander
+      metin  : jüriyö
+      duyulan: jurio
+  REPLACE  ...geçer ve paris yakınlarındaki
+      metin  : lö burje
+      duyulan: le bourget
+  REPLACE  ...radyo muhabirleri karşılar ama
+      metin  : jüriyö
+      duyulan: jurio
+  REPLACE  ...getirir o kadın avusturyalı
+      metin  : kristin
+      duyulan: christine
+  REPLACE  ...kristin dir ve zengin
+      metin  : marki rober dö
+      duyulan: marquis robert de
+  REPLACE  ...marki rober dö la
+      metin  : şesne
+      duyulan: chesna
+  REPLACE  ...la şesne ile evlidir
+      metin  : rober
+      duyulan: robert
+  REPLACE  ...evlidir rober ın da
+      metin  : metresi
+      duyulan: metesi
+  REPLACE  ...ın da metresi vardır
+      metin  : jüriyö nün
+      duyulan: jurio nun
+  REPLACE  ...sırdaşı hem soytarısı olan
+      metin  : oktav
+      duyulan: octave
+  REPLACE  ...soytarısı olan oktav havacının
+      metin  : şatoya
+      duyulan: chateau ya
+  REPLACE  ...herkes filmdeki adıyla la
+      metin  : kolinyer türkçesiyle
+      duyulan: collineer türkçesi ile
+  REPLACE  ...da benzer oyun döner
+      metin  : kristin
+      duyulan: christine
+  REPLACE  ...kristin in oda hizmetçisi
+      metin  : lizet
+      duyulan: lisette
+  REPLACE  ...sert ve kıskanç bekçi
+      metin  : şumaher
+      duyulan: schumacher
+  REPLACE  ...uşak yapılan kaçak avcı
+      metin  : marso
+      duyulan: marceau
+  REPLACE  ...kadrosunun kendi hikayeleri vardı
+      metin  : marki yi marsel dalyo
+      duyulan: marquis marcel dalio
+  REPLACE  ...yi marsel dalyo oynuyordu
+      metin  : kristin
+      duyulan: christine
+  REPLACE  ...oynuyordu kristin rolü için
+      metin  : rönuar
+      duyulan: renuart
+  REPLACE  ...gregor a verildi gregor
+      metin  : anşlus
+      duyulan: anschluss
+  REPLACE  ...kalan prens ernst rüdiger
+      metin  : ştarhemberg
+      duyulan: starrhemberg
+  REPLACE  ...kadının yalnızlığını hayatından tanıyordu
+      metin  : oktav
+      duyulan: octave
+  REPLACE  ...tanıyordu oktav ı ize
+      metin  : rönuar
+      duyulan: renuart
+  REPLACE  ...fotoğraf tarihinin efsanelerinden olacak
+      metin  : anri kartiye breson
+      duyulan: henri cartier bresson
+  ... ve 61 fark daha
+
+metinde olup DUYULMAYAN: 126 kelime | duyulup metinde OLMAYAN: 138
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: film-2026-11-10.duyulan.txt

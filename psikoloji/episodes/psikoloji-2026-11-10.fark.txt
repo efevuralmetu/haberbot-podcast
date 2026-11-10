@@ -1,0 +1,55 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-10.mp3
+
+beklenen 1515 kelime | duyulan 1514 kelime | eşleşme %98.7
+sayı ifadesi: metinde 106, duyulanda 103  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...ki alman psikolog gabriele
+      metin  : öttingen
+      duyulan: oettingen
+  REPLACE  ...seferber etme ihtiyacı azalır
+      metin  : öttingen
+      duyulan: öptingen
+  REPLACE  ...öttingen ve öğrencisi heather
+      metin  : kappes
+      duyulan: capes
+  REPLACE  ...diğer gruplara ize daha
+      metin  : nötr
+      duyulan: nötür
+  REPLACE  ...bırakmak mı gerekiyor hayır
+      metin  : öttingen in
+      duyulan: ötingenin
+  REPLACE  ...bu küçük ek soru
+      metin  : öttingen in
+      duyulan: ötingenin
+  REPLACE  ...sade önce arzu ettiğin
+      metin  : geleceği
+      duyulan: geleceyi
+  REPLACE  ...eşi ve meslektaşı peter
+      metin  : golvitser
+      duyulan: goldwitzer
+  REPLACE  ...in geliştirdiği tekniği ekledi
+      metin  : golvitser
+      duyulan: goldwitzer
+  REPLACE  ...baş harflerden oluşan adı
+      metin  : woop türkçesiyle
+      duyulan: vuk türkçesi ile
+  REPLACE  ...mı araştırmalar evet diyor
+      metin  : golvitser
+      duyulan: golwitzer
+  REPLACE  ...evet diyor golvitser ve
+      metin  : öttingen
+      duyulan: oettingen
+  REPLACE  ...içinde olduğu angela duckworth
+      metin  : ün
+      duyulan: ın
+  REPLACE  ...bu sefer yalnız olmayacak
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 16
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-11-10.duyulan.txt

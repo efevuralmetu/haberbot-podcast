@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-09.mp3
+
+beklenen 1352 kelime | duyulan 1352 kelime | eşleşme %94.0
+sayı ifadesi: metinde 175, duyulanda 104  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...abd de ara seçimlerde
+      metin  : konger nin
+      duyulan: kongrenin
+  REPLACE  ...boyunca antalya da açılan
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...açılan copotuz zirvesinde şekillenecek
+      metin  : abd
+      duyulan: ebd
+  INSERT   ...demokratlar temsilciler meclisi nde
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...da da en az
+      metin  : sandalyeyle
+      duyulan: sandalye ile
+  REPLACE  ...ele geçirdi kansas iowa
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...ile kuzey ve güney
+      metin  : carolina
+      duyulan: karolayna
+  REPLACE  ...hafta savunma bakanı pete
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...görev süresinin geri kalanında
+      metin  : konger ile
+      duyulan: kongreyle
+  REPLACE  ...mücadelesi yaşanacağına işaret ediyor
+      metin  : abd
+      duyulan: yabd
+  REPLACE  ...güçleri hürmüz boğazı ndaki
+      metin  : keşm
+      duyulan: keşme
+  REPLACE  ...enerji projelerinin izin süreçlerini
+      metin  : hızlandırmayı
+      duyulan: hızlandırmaya
+  REPLACE  ...partinin desteğini alan tasarı
+      metin  : oylanacak
+      duyulan: oynanacak
+  REPLACE  ...partisi devlet başkanı li
+      metin  : ce myung
+      duyulan: ç m yung
+  REPLACE  ...li ce myung için
+      metin  : azil
+      duyulan: aziz
+  REPLACE  ...en çok konuşulan konusu
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...yatırımlarına etkisini fiyatlıyor yerel
+      metin  : oylamada
+      duyulan: oynamada
+  REPLACE  ...services in yani amazon
+      metin  : bulut
+      duyulan: blut
+  REPLACE  ...hisselerindeki satış dalgasında abd
+      metin  : de esenpi
+      duyulan: dsmp
+  REPLACE  ...esenpi endeksi tek günde
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...bunun arkasında washington ile
+      metin  : tahran
+      duyulan: tehran
+  INSERT   ...canlı tutuyor yükselişini sürdürüyor
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...gündeminin merkezinde enflasyon var
+      metin  : tüi k
+      duyulan: tüyik
+  REPLACE  ...ekim toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...mayıs ayında chp nin
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...temmuz ayında özel in
+      metin  : chp den
+      duyulan: ççp diyen
+  REPLACE  ...meclis teki sandalye sayısı
+      metin  : dörde
+      duyulan: e
+  REPLACE  ...gideceğini belirtti chp sözcüsü
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...açıkladı kararın kesinleşmesi açısından
+      metin  : yargıtay daki temyiz
+      duyulan: yargıtaydaki temiz
+  REPLACE  ...sermaye piyasası kurulu farklı
+      metin  : portföy
+      duyulan: portreoy
+  REPLACE  ...fonun tasfiyesine karar verdi
+      metin  : bulls
+      duyulan: buls
+  REPLACE  ...sosyal güvenlik bakanı vedat
+      metin  : işıkhan
+      duyulan: i şikan
+  REPLACE  ...i klim değişikliği konferansı
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...klim değişikliği bakanı ve
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...konuların başında antalya daki
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...beyaz saray arasındaki gerilim
+      metin  : hegseth
+      duyulan: hexed
+  REPLACE  ...takip edilmeli teknoloji tarafında
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...süreci yargıtay daki mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...bulunuyor gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-11-09.duyulan.txt

@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-10.mp3
+
+beklenen 1942 kelime | duyulan 1937 kelime | eşleşme %96.8
+sayı ifadesi: metinde 180, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...basılmaz ancak üzerinden atlanır
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...verdi musul dan kuzeye
+      metin  : duhoğa
+      duyulan: duho a
+  REPLACE  ...yükselen üstten aşağıya derin
+      metin  : yivlerle
+      duyulan: yıvlarla
+  REPLACE  ...doğru götürür şeyh adi
+      metin  : müsafir
+      duyulan: misafir
+  REPLACE  ...yüzyılda bugünkü lübnan daki
+      metin  : baalbek
+      duyulan: bağalbek
+  REPLACE  ...simsiyah boyanmış büyük yılan
+      metin  : dikey
+      duyulan: dike
+  REPLACE  ...yüzlerce küçük kandil yakılır
+      metin  : fitiller
+      duyulan: fittiller
+  REPLACE  ...yaftası yapıştırıldı ezidiler bu
+      metin  : nitelemeyi
+      duyulan: nitelmeyi
+  REPLACE  ...ölçüde yazılı değil sözlüdür
+      metin  : kavvallar
+      duyulan: kavallar
+  REPLACE  ...okuyucuları kuşaktan kuşağa ezberlenen
+      metin  : kurmanci
+      duyulan: kurmancı
+  REPLACE  ...kendi içinde sürer laliş
+      metin  : de
+      duyulan: te
+  REPLACE  ...şengal laliş in yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...şte bu belirsizliğe cevap
+      metin  : laliş
+      duyulan: lalişten
+  REPLACE  ...yıllardaki ruhani lideri baba
+      metin  : şeyh hurto
+      duyulan: şeyhurto
+  INSERT   ...hacı i smail di
+      metin  : (yok)
+      duyulan: ki ki
+  REPLACE  ...ezidilikten koparamayacağını söyledi bu
+      metin  : yüzyıllık
+      duyulan: yıllık
+  DELETE   ...tam olarak dinmiş değil
+      metin  : ama
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yarısında gün boyunca laliş
+      metin  : cemaiye
+      duyulan: cemaye
+  REPLACE  ...laliş cemaiye yani toplanma
+      metin  : bayramı ile
+      duyulan: bayramıyla
+  REPLACE  ...günlerinde vadinin sesi değişir
+      metin  : kavvallar
+      duyulan: kahvallar
+  REPLACE  ...vurur kandillerin yağ kokusu
+      metin  : tütsüyle
+      duyulan: tütsüğüyle
+  REPLACE  ...karışır bayramın doruk anlarından
+      metin  : boğa
+      duyulan: boa
+  REPLACE  ...edilir hayvan ritüel alayla
+      metin  : şeyh
+      duyulan: şeyhe
+  INSERT   ...sütunlara yeni düğümler bağlar
+      metin  : (yok)
+      duyulan: kiki den
+  INSERT   ...topluluk merkezi olarak önemi
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...liderlik de kuşak değiştirdi
+      metin  : ezidilerin
+      duyulan: ezyidilerin
+  INSERT   ...lideri mir tahsin bey
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...düğüm başka elini bekliyor
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...de sönmediğine tanıklık ediyor
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: seyahat-2026-11-10.duyulan.txt

@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-10.mp3
+
+beklenen 1631 kelime | duyulan 1633 kelime | eşleşme %96.7
+sayı ifadesi: metinde 243, duyulanda 165  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sembolistlerini aslından okumaya başlar
+      metin  : şiier
+      duyulan: şiiri
+  INSERT   ...ziya osman saba ziya
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olmaz ama onlarla aynı
+      metin  : havayı solur
+      duyulan: havayis olur
+  INSERT   ...zaman şiir kadar bağlamamıştır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...buluşturmaya çalışan gencin denemeleri
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...avrupa savaşa sürüklenir ve
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...o eski sükutu derinleştirir
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...açılışlarından göz kırpar dante
+      metin  : i lahi komedya ya
+      duyulan: ilahi komediaya
+  REPLACE  ...inancına göer insan ömrü
+      metin  : yıldı
+      duyulan: yılda
+  INSERT   ...hizmet eder hece ölçüsüyle
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...veren şeyler artık eski
+      metin  : hazzı
+      duyulan: hazı
+  INSERT   ...pek çok şairden ayırır
+      metin  : (yok)
+      duyulan: lar
+  REPLACE  ...doğum gününde hissettiği huzursuzluktur
+      metin  : biçimde
+      duyulan: bişimde
+  REPLACE  ...şiirdir ve sonra son
+      metin  : bent
+      duyulan: vent
+  REPLACE  ...kapanışa yönelir şair gün
+      metin  : uyuyup
+      duyulan: uyup
+  INSERT   ...kitlesine tanıttı aynı yıl
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şiir yazmaya devam eder
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...devam eder ellilerin başında
+      metin  : cahide hanım la
+      duyulan: cahit i hanımla
+  INSERT   ...evlilik geç gelmiş sığınaktır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...temalar da eklenir ama
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kıymetli bağlardan olarak kalır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...tedavi de sonuç vermez
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...de sonuç vermez ekim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...mektupları araya getirdi ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve her yeni okur
+      metin  : (yok)
+      duyulan: ine
+  REPLACE  ...yalnızca değil hepimizin oldu
+      metin  : nöron edebiyat ta
+      duyulan: neuron edebiyatta
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 31
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: edebiyat-2026-11-10.duyulan.txt

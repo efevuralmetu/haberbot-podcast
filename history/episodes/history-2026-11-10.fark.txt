@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-10.mp3
+
+beklenen 3502 kelime | duyulan 3216 kelime | eşleşme %6.7
+sayı ifadesi: metinde 317, duyulanda 101  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...battles fought weeks apart
+      metin  : yılının ilk haftasında londra nın batısında thames kıyısında yeni taşlarından hala toz kalkan kilize yükseliyordu kral
+      duyulan: in the spring of a comet appeared in the skies over england and the priests read it as the end of a king that year men wanted the same crown and battles fought weeks apart the winner was decided less by the sword than by a shift in the wind and battles fought weeks apart the winner was decided less by the sword than by a shift in the wind and battles fought weeks apart and battles fought weeks apart
+  REPLACE  ...kilize yükseliyordu kral edward
+      metin  : bu kiliseyi yıllarca yaptırmıştı sonraki kuşaklar westminster manastırı diyecekti kilize aralık te kutsandı ama kral törene katılamadı yatağından kalkamayacak kadar hastaydı gün sonra ocak gecesi öldü ertesi sabah kendi yaptırdığı kiliseye gömüldü halk dindarlığı yüzünden günah çıkaran lakabını takmıştı yaklaşık yaşındaydı ve ardında tek çocuk bırakmamıştı i ngilteer o kış yalnızca kralını kaybetmedi soruyla baş başa kaldı taç şimdi kimin olacaktı kanı en temiz aday edgar adında delikanlıydı eski wessex hanedanının son erkek filizlerinden ama henüz yaşlarındaydı ülkenin kenarında ize güçlü komşu bekliyordu böyle dönemde tahta çocuğu oturtmak kapıyı açık bırakmak demekti bu ülkenin ileri gelenlerinden oluşan meclis witan başka adama döndü wessex kontu harold godwinson a harold krallığın en zengin en tecrübeli ve en güçlü adamıydı babası godwin
+      duyulan: eiliker beyda
+  REPLACE  ...adamıydı babası godwin edward
+      metin  : ın saltanatı boyunca tahtın yanında duran zaman zaman da tahtı gölgede bırakan konttu kız kardeşi edith ölen kralın eşiydi harold yaşlarının ortasındaydı galler de başarılı seferler yönetmişti anlatılana göer
+      duyulan: genslienen uzunjelerne surgunde norman diasarindagichir mishte william agurer
+  REPLACE  ...yönetmişti anlatılana göer edward
+      metin  : da son nefesinde krallığı emanet etmişti harold edward ın gömüldüğü gün ocak ta aynı kilisede taç giydi cenaze ile taç giyme töreninin aynı güne sığması işlerin ne kadar acele yürüdüğünü gösteriyordu bu acelenin nedeni vardı manş denizi nin karşı kıyısında normandiya da dük
+      duyulan: onetahte dienstalt lazier birgevarne davadet mishte dahada onemnissi heraldine kendissi yemenet mishte norman kainaclernaguer alitush dortdolai lerin dah heraldine gemissi franzakiusandakareo otermus
+  REPLACE  ...normandiya da dük william
+      metin  : bu haberi ihanet olarak karşıladı william yaşlarının sonundaydı babası ölünce henüz çocukken dükalığın başına geçmiş suikastlar ve isyanlar arasında büyümüş ayakta kalmayı savaşarak öğrenmişti edward ile akrabaydı edward gençliğinin uzun yıllarını sürgünde normandiya sarayında geçirmişti william a göer edward tahtı civarında vaat etmişti daha da önemlisi harold ın kendisi yemin etmişti norman kaynaklarına göer dolaylarında harold ın gemisi fransa kıyısında karaya oturmuş william da konuk etmişti
+      duyulan: daonukonuket mishte
+  REPLACE  ...konuk etmişti harold william
+      metin  : ın yanında sefeer bile katılmıştı sonunda
+      duyulan: and jananda birseferi bilekatil mishte sunanda
+  REPLACE  ...bile katılmıştı sonunda kutsal
+      metin  : emanetlerin üzerinde
+      duyulan: emanet lerin uzerinde
+  REPLACE  ...kutsal emanetlerin üzerinde william
+      metin  : ın i ngilteer tahtına geçişini destekleyeceğine yemin etmişti
+      duyulan: ningil teer tahtana gichishinide stek lijene yemenet mishte
+  REPLACE  ...destekleyeceğine yemin etmişti bu
+      metin  : yeminin gerçekte ne kadar bağlayıcı olduğu
+      duyulan: yemenen garchikte nekadar balai joldu
+  REPLACE  ...kadar bağlayıcı olduğu zorla
+      metin  : mı alındığı
+      duyulan: malandu
+  REPLACE  ...zorla mı alındığı hatta
+      metin  : bu biçimde edilip edilmediği bugün hala tartışılıyor hikayeyi
+      duyulan: bubichemde edilipe dilmedi bugun halyatartush lursh hikaiye
+  REPLACE  ...hala tartışılıyor hikayeyi bize
+      metin  : aktaranların neredeyze hepsi
+      duyulan: aktaraner nerde sehipse
+  REPLACE  ...aktaranların neredeyze hepsi norman
+      metin  : tarafındandır
+      duyulan: terafundandar
+  REPLACE  ...hepsi norman tarafındandır william
+      metin  : için ize
+      duyulan: ichinize
+  REPLACE  ...william için ize mesele
+      metin  : açıktı
+      duyulan: achikte
+  REPLACE  ...ize mesele açıktı harold
+      metin  : yeminini bozmuş hırsızdı kuzeyde adam vardı ve belki hepsinin en korkutucusu oydu norveç kralı
+      duyulan: yemenin bose mushbir hersizde kzade uchunjubi radam varda webelke hipsonen nkorkutu jusso oidu norvech kreli
+  REPLACE  ...norveç kralı harald hardrada
+      metin  : lakabı
+      duyulan: lakhabu
+  REPLACE  ...harald hardrada lakabı sert
+      metin  : hükümdar demekti gençliğinde ülkesinden kaçmış rus prenslerinin hizmetinde savaşmış ardından konstantinopolis e gidip
+      duyulan: yukumdar demekte janecly inde ulkhesindankach mush rusprans lerinin hizmetin desavash mush ardandan constantinopoli segidip
+  REPLACE  ...konstantinopolis e gidip bizans
+      metin  : imparatorlarının ünlü varang muhafızları arasında yükselmişti sicilya dan
+      duyulan: imparator lerinin unevarang muhafuzlerarasandayuksel mishte sisily adan
+  DELETE   ...yükselmişti sicilya dan bulgaristan
+      metin  : a
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dan bulgaristan a kadar
+      metin  : çarpışmış büyük servetle kuzeye dönüp norveç tahtına oturmuştu i ngilteer üzerindeki iddiası
+      duyulan: char push mish byuk servet le kuzayedunup norvech tahtana otur mushte ingil teer yuzurinde ki idas
+  REPLACE  ...ngilteer üzerindeki iddiası eski
+      metin  : antlaşmaya dayanıyordu kuşak önce norveç kralı
+      duyulan: plash maya dayan yordu kushak unge norvech kreli
+  REPLACE  ...norveç kralı magnus ile
+      metin  : danimarka ve i ngilteer kralı harthacnut içlerinden çocuksuz ölürse topraklarının ötekine geçeceği konusunda anlaşmışlardı
+      duyulan: dani marka we ingil teer kreli hartek nut ichlerindan ojuk suz oyurse toprak lerinin otekine gechi jekonus undan nash mush larde
+  REPLACE  ...konusunda anlaşmışlardı hardrada kendini
+      metin  : magnus un mirasçısı sayıyordu yaşını geçmişti ve hayatı boyunca çoğu savaşı kazanmıştı böylece taç tek başa oturmuştu ama gözünü dikmiş adam vardı tacı takıyordu almak istiyordu nisanın son haftasında nisan civarında i ngilteer nin gece göğünde parlak kuyruklu yıldız belirdi ve günlerce kaybolmadı bugün halley kuyruklu yıldızı olduğunu ve yaklaşık her yılda döndüğünü biliyoruz ama da gökte beliren her ışık haber çoğu zaman da uyarı sayılırdı manastırlarda tutulan anglo sakson vakayinamesi gökyüzündeki bu uzun saçlı yıldızı kaydetti sonra malmesbury li
+      duyulan: magnusson miras chesayi yordu yudziel sora mel mesbaryle
+  REPLACE  ...sonra malmesbury li william
+      metin  : ın aktardığına göer aynı manastırın yaşlı keşişlerinden eilmer yıldıza bakıp ağıt yakmıştı annenin gözyaşına sebep olacağını ülkenin yıkımını getirdiğini söylemişti bu sözlerin gerçekten o gece söylenip söylenmediğini bilemeyiz
+      duyulan: and aqtar dinah guer ein manasteren yashlikeshishlerindan eilmar yildzaba kup aat yakh mushte abhiyusuzlerin garchaktan ogege soylenip soylan medini bile mays
+  REPLACE  ...bilemeyiz ama o bahar
+      metin  : şeyin geldiğini hissetmek için yıldızlara bakmaya
+      duyulan: shein galdini hisset mekicin yilduzlarabak maya
+  REPLACE  ...yoktu i lk darbe
+      metin  : beklenmedik yerden harold ın kendi kanından geldi kardeşi
+      duyulan: beklan medik yardan heraldin kendikan undan galde kardeshi
+  REPLACE  ...kanından geldi kardeşi tostig
+      metin  : yıl önce
+      duyulan: yilunja
+  REPLACE  ...tostig yıl önce northumbria
+      metin  : kontuyken
+      duyulan: kon tukan
+  REPLACE  ...önce northumbria kontuyken sert
+      metin  : yönetimi yüzünden çıkan isyanla devrilmişti
+      duyulan: yunetim yuzundan chikan birishianna devril mishte
+  REPLACE  ...isyanla devrilmişti harold o
+      metin  : gün isyancılarla uzlaşmış ve kardeşinin sürgüne gitmesine göz yummuştu
+      duyulan: gyun izyan jelar la uzlash mushpe kardeshinin sur gunagit mesin nagoz yum mushte
+  REPLACE  ...gitmesine göz yummuştu tostig
+      metin  : bunu hiç affetmedi mayısta küçük filoyla güney ve doğu kıyılarına baskınlar yaptı
+      duyulan: bunuhic afet medi maista kuchuk filoy la gunei vedok iler nabaskan laryapte
+  REPLACE  ...kıyılarına baskınlar yaptı sonra
+      metin  : kuzeye
+      duyulan: kuzae iskocye yeche kilde oredan kendisan tat kavgasan da orta kolodjak aradov eboldo harold yezo beckley erek gichard e asil tahili kenin guneidan william dangheli jeyni bili orta oreda sonu vedonan masonu gunei kuyesana yar leshtirde
+  REPLACE  ...yaptı sonra kuzeye i
+      metin  : skoçya ya çekildi oradan kendisine taht kavgasında ortak olacak aradı ve buldu harold yazı bekleyerek geçirdi asıl tehlikenin güneyden william dan geleceğini biliyordu ordusunu ve donanmasını güney kıyısına yerleştirdi aylarca orada tuttu ama i ngiliz ordusunun büyük bölümü fyrd denen belli süer hizmet etmekle yükümlü köylü askerlerden oluşuyordu
+      duyulan: larja orta tut tuh eima ingles orta sonun buyuk bolumu fyr denan belibir sura yizmetet mekle yukumlu kolu askear lar denolushu orta
+  REPLACE  ...köylü askerlerden oluşuyordu hasat
+      metin  : zamanı geliyordu erzak tükeniyordu hiç kimse orduyu sonsuza dek kıyıda bekletemezdi eylül
+      duyulan: zamani geli orta erzakh tukeni orta hichkim sebi ordu yuson suzadek ku yedah becklet mazde eit elul
+  REPLACE  ...kıyıda bekletemezdi eylül de
+      metin  : harold birlikleri dağıttı
+      duyulan: herald liridat
+  REPLACE  ...birlikleri dağıttı kendisi de
+      metin  : londra ya döndü kıyılar artık boştu neredeyze aynı günlerde kuzey denizinden yaklaşık
+      duyulan: londer yedon duh kuyelar artek boshtuh nerdi ize eine gun nerde kuzay denizin dan yakhlishuk uchuz
+  REPLACE  ...kuzey denizinden yaklaşık gemi
+      metin  : yola çıkmıştı hardrada nın filosu eylülün ortasında
+      duyulan: olechuk mishte hardradanan philosu eilu dun orta son da ingil terenin kuzay doh kuyesana olashte tostig vey adam larida onakatilde norvech lir humber hali chindeni cherigirip u se nehriboyunja yukaru chiktilar ve yorkun guneinde kirikol kunun yakananda kara yektilar kuzay iniki genshkontu edwin we morkar kardeshler elirindene varsa topla yip nerkarsh lama yektih twandy eilu de yorka beerkach kilometer uzakluktaki fulfurt da ordu charpushtuh gunsonanda kontler nordu sudal mushte bataklika razi de venehir kuyesan da chokkandu kuldu york sawashmadan testimoldu sheher rahine ler verma iwe erzak salama
+  REPLACE  ...filosu eylülün ortasında i
+      metin  : ngilteer nin kuzeydoğu kıyısına ulaştı tostig ve adamları da katıldı norveçliler humber halicinden içeri girip ouse nehri boyunca yukarı çıktılar ve york un güneyindeki riccal köyünün yakınında karaya çıktılar kuzeyin genç kontu edwin ve morcar kardeşler ellerinde ne varsa toplayıp karşılamaya çıktı eylül
+      duyulan: kabu lette reheinalar beerkach gune sonra sheherindo uzanda dervint neru zerinde kibir gechitti stamford kuprisunde testimedilejektih hardradanan bilmedi beershavard herald kuzay egiliordu hemda aqal al masbir hizla kuzaydin gelan haber londer ullashurul ashmas heralt yanandakimohafizlerne yani hauskardan an profesional sabashtilar nutopla
+  INSERT   ...karşılamaya çıktı eylül de
+      metin  : (yok)
+      duyulan: vayola chiktuh yolda karshal ashtuh herbir lea ordu sonakat londradan
+  ... ve 89 fark daha
+
+metinde olup DUYULMAYAN: 3272 kelime | duyulup metinde OLMAYAN: 2987
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: history-2026-11-10.duyulan.txt

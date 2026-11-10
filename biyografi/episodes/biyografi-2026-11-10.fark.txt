@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-10.mp3
+
+beklenen 2769 kelime | duyulan 2792 kelime | eşleşme %96.3
+sayı ifadesi: metinde 416, duyulanda 307  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...her mutfakta insanlar hastalandı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...polisler kapıya dayandığında mary
+      metin  : mallon
+      duyulan: malone
+  REPLACE  ...yaşında i rlandalı kız
+      metin  : atlantiği
+      duyulan: atlantı yı
+  REPLACE  ...ayak bastı adı mary
+      metin  : mallon
+      duyulan: malone
+  INSERT   ...mary mallon dı eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...toplayan hizmetçiler dururdu en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...durumundaki göçmen kadın için
+      metin  : küçümsenecek
+      duyulan: küçümselecek
+  REPLACE  ...hayatı böyle geçti mevsim
+      metin  : malikanede
+      duyulan: malikhanede
+  REPLACE  ...new york un kuzeyindeki
+      metin  : mamaroneck
+      duyulan: mamaronek
+  INSERT   ...genç misafirler tifoya yakalandı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...evin çamaşırcısı tifodan öldü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...neden şüphelensinler ki aşçı
+      metin  : sapasağlamdı
+      duyulan: sapasağlandı
+  REPLACE  ...henüz çok yeniydi alman
+      metin  : bakteriyolog
+      duyulan: bakteriolog
+  REPLACE  ...yeniydi alman bakteriyolog robert
+      metin  : koh yüzlerin
+      duyulan: coe lerin
+  REPLACE  ...sahiplerininkine ize hiç mary
+      metin  : mallon
+      duyulan: mayon
+  REPLACE  ...yeni aşçı katıldı mary
+      metin  : mallon
+      duyulan: malone
+  REPLACE  ...ve bahçıvan evdeki kişiden
+      metin  : tifoya
+      duyulan: su tifoy a
+  REPLACE  ...salgın araştırmalarında deneyim kazanmış
+      metin  : sıhhiye
+      duyulan: sıhiyye
+  REPLACE  ...didik didik etti soper
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ayrıntıya özellikle dikkat etti
+      metin  : mary nin
+      duyulan: marin in
+  REPLACE  ...tam anlamıyla takipti soper
+      metin  : mary nin
+      duyulan: marin in
+  REPLACE  ...ortaya çıkan tablo ürkütücüydü
+      metin  : mary
+      duyulan: marin
+  INSERT   ...iz bırakmadan kaybolmuştu mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mutfağa girdi ve mary
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...tanımadığı adam gelip ölüm
+      metin  : saçtığını
+      duyulan: saçlığını
+  REPLACE  ...sağlık dairesi ne götürdü
+      metin  : dairenin
+      duyulan: dayarenin
+  REPLACE  ...etkili halk sağlığı yöneticilerinden
+      metin  : hermann
+      duyulan: herman
+  REPLACE  ...için genç hekim görevlendirildi
+      metin  : sara
+      duyulan: sarah
+  INSERT   ...kapandı ertesi gün mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dairesi karar verdi mary
+      metin  : mallon
+      duyulan: marlon
+  REPLACE  ...kentten uzak tutulurdu mary
+      metin  : ye
+      duyulan: e
+  INSERT   ...dönemde alınan örneğin yaklaşık
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...imkanlarıyla arkadaşı aracılığıyla özel
+      metin  : laboratuvara
+      duyulan: laboratuara
+  INSERT   ...bu haksızlığa uğradığının kanıtıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...haziran ayında william randolph
+      metin  : hearst ün
+      duyulan: hurston
+  REPLACE  ...birlikte geniş halka yayıldı
+      metin  : tifo
+      duyulan: ifo
+  REPLACE  ...yayıldı tifo mary bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...bu mektup bugün mary
+      metin  : mallon ın
+      duyulan: mallow nun
+  INSERT   ...tutulduğuna karar verdi şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk ayları zordu mary
+      metin  : ye
+      duyulan: e
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-11-10.duyulan.txt
