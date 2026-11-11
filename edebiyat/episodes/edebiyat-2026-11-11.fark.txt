@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-11.mp3
+
+beklenen 1695 kelime | duyulan 1694 kelime | eşleşme %97.0
+sayı ifadesi: metinde 176, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...romanının en karanlık hastane
+      metin  : koğuşunu
+      duyulan: kovuşunu
+  REPLACE  ...hikayesi i stanbul baharı
+      metin  : gedikpaşa
+      duyulan: gedikbaşı
+  REPLACE  ...dile dolaşan servet i
+      metin  : fünun
+      duyulan: fü nün
+  REPLACE  ...tanınan şairdir ama şiir
+      metin  : abdülhamit
+      duyulan: abdülhamid
+  INSERT   ...edilir daha da dönemez
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve oğul kalır anne
+      metin  : server bedia
+      duyulan: sörver bedya
+  REPLACE  ...uzun süer kalamaz vefa
+      metin  : i dadisi ne
+      duyulan: idadesine
+  REPLACE  ...de bellidir fransız yazar
+      metin  : moris löblan
+      duyulan: maurice leblanc
+  REPLACE  ...ın yarattığı centilmen hırsız
+      metin  : arsen lüpen
+      duyulan: arsène lupin
+  REPLACE  ...arsen lüpen yani türk
+      metin  : okurunun arsen lüpen
+      duyulan: okuru nun arsène lupin
+  REPLACE  ...nun boğaz kıyısındaki yalıların
+      metin  : babıali
+      duyulan: babali
+  INSERT   ...kalıbın yerli kahramanıdır seri
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...birbirini izler seri aralıklarla
+      metin  : (yok)
+      duyulan: a
+  DELETE   ...da anlaşılacağı gibi recai
+      metin  : yi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...server bedi annesi server
+      metin  : bedia
+      duyulan: bedya
+  REPLACE  ...vardır psikolojik derinliği önemseyen
+      metin  : batı ile
+      duyulan: batıyla
+  INSERT   ...bu kadar kolay olmayacaktır
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adıyla roman yayımlar hariciye
+      metin  : koğuşu
+      duyulan: kovuşu
+  REPLACE  ...içinde neler olduğu anlatılır
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...akrabalarının köşküne gönderilir orada
+      metin  : nüzhet
+      duyulan: nüshet
+  REPLACE  ...için şaşırtıcı ölçüde gerçekçidir
+      metin  : koğuştaki
+      duyulan: kovuştaki
+  REPLACE  ...görünür hale gelir hariciye
+      metin  : koğuşu
+      duyulan: kovuşu
+  REPLACE  ...belki de bu hariciye
+      metin  : koğuşu
+      duyulan: kovuşu
+  REPLACE  ...çok okunan romanlarından olabilmiştir
+      metin  : romanın
+      duyulan: romamın
+  INSERT   ...burada atılır ertesi yıl
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ince kitapta deneyimler hariciye
+      metin  : koğuşu
+      duyulan: kovuşu
+  REPLACE  ...edebiyat meselesi olarak tanımıştır
+      metin  : romanın
+      duyulan: romamın
+  INSERT   ...buluşur peyami safa haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaçmayıp yüzleşmenin hikayesi hariciye
+      metin  : koğuşu nun adsız
+      duyulan: koğuşunun atsız
+  REPLACE  ...anlatıcısı belki de bu
+      metin  : adsızdır
+      duyulan: atsızdır
+  REPLACE  ...yeniden okunmaya devam etmektedir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 35 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: edebiyat-2026-11-11.duyulan.txt

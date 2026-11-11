@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-11.mp3
+
+beklenen 2626 kelime | duyulan 2637 kelime | eşleşme %93.7
+sayı ifadesi: metinde 280, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...esir düşmüştü komutanı da
+      metin  : masurya
+      duyulan: masuria
+  REPLACE  ...askerle almanya ya saldırmayı
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...başkanı olan komutan yakov
+      metin  : jilinski ydi
+      duyulan: cilinski idi
+  REPLACE  ...veren adamın ta kendisi
+      metin  : jilinski
+      duyulan: cilinski
+  REPLACE  ...kinci ordu ize komutan
+      metin  : aleksandr
+      duyulan: alexander
+  REPLACE  ...saldırdı özellikle komutan august
+      metin  : fon makenzen in kolordusu
+      duyulan: von mackenzie nin kol ordusu
+  REPLACE  ...ın ordusu yorgundu ikmali
+      metin  : aksıyordu
+      duyulan: aksiyordu
+  REPLACE  ...haberler ordu komutanı komutan
+      metin  : maksimilyan fon pritviç
+      duyulan: maximilian von pritvice
+  REPLACE  ...fon pritviç i sarstı
+      metin  : pritviç
+      duyulan: pritvice
+  REPLACE  ...değildi aynı günlerde güneyden
+      metin  : samsonov
+      duyulan: samsunov
+  REPLACE  ...kalmak demekti o akşam
+      metin  : pritviç
+      duyulan: pritvice
+  REPLACE  ...arayıp genelkurmay başkanı helmut
+      metin  : fon
+      duyulan: von
+  REPLACE  ...başkanı helmut fon moltke
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...pek çok kez aktarıldı
+      metin  : pritviç
+      duyulan: pritvice
+  REPLACE  ...kabul edilemezdi aslında karargahta
+      metin  : pritviç
+      duyulan: pritvice
+  REPLACE  ...için seçilen isim belliydi
+      metin  : erih ludendorf
+      duyulan: erich ludendorff
+  REPLACE  ...ilk günlerinde belçika daki
+      metin  : liyej
+      duyulan: liege
+  REPLACE  ...tanınan yaşında subaydı ancak
+      metin  : ludendorf
+      duyulan: ludendorff
+  REPLACE  ...isim de bulundu paul
+      metin  : fon
+      duyulan: von
+  INSERT   ...hindenburg hindenburg yaşındaydı ve
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...göz kamaştırıcı değildi gençliğinde
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...değildi gençliğinde avusturya ya
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gerisi tren yolculuğunda şekillendi
+      metin  : ludendorf
+      duyulan: ludendorff
+  REPLACE  ...hazırlanmamıştı eski mavi prusya
+      metin  : üniformasıyla
+      duyulan: üniforması ile
+  REPLACE  ...mavi prusya üniformasıyla gelmişti
+      metin  : peronda
+      duyulan: perron da
+  REPLACE  ...üniformasıyla gelmişti peronda tanıştılar
+      metin  : ludendorf
+      duyulan: ludendorff
+  REPLACE  ...operasyon şubesinde yarbay max
+      metin  : hoffmann
+      duyulan: hoffman
+  REPLACE  ...adında kurmay subay vardı
+      metin  : hoffmann
+      duyulan: hoffman
+  REPLACE  ...rus ordusunu yakından izlemişti
+      metin  : hoffmann
+      duyulan: hoffman
+  REPLACE  ...yakından izlemişti hoffmann ve
+      metin  : karargahtaki
+      duyulan: karargahdaki
+  REPLACE  ...ve karargahtaki bazı subaylar
+      metin  : pritviç
+      duyulan: pritvich
+  REPLACE  ...samsonov a karşı kaydırılabilirdi
+      metin  : pritviç
+      duyulan: pritvich
+  REPLACE  ...çoktan sarsılmıştı hindenburg ile
+      metin  : ludendorf
+      duyulan: ludendorff
+  REPLACE  ...ta karargaha ulaştığında karşılarında
+      metin  : ludendorf
+      duyulan: ludendorff
+  REPLACE  ...samsonov un emriydi ve
+      metin  : i kinci ordu nun
+      duyulan: ordunun
+  REPLACE  ...alman karargahının masasına konmuştu
+      metin  : ludendorf
+      duyulan: ludendorff
+  REPLACE  ...rus japon savaşı sırasında
+      metin  : mukden
+      duyulan: mukten
+  REPLACE  ...ikmal sorunlarıyla boğuşuyordu üstü
+      metin  : jilinski
+      duyulan: cilinski
+  REPLACE  ...parçalarıyla uygulamaya konuldu komutan
+      metin  : herman fon fransua
+      duyulan: hermann von françois
+  ... ve 58 fark daha
+
+metinde olup DUYULMAYAN: 123 kelime | duyulup metinde OLMAYAN: 135
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: tarih-2026-11-11.duyulan.txt

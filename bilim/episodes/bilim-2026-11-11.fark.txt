@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-11.mp3
+
+beklenen 1677 kelime | duyulan 1714 kelime | eşleşme %93.0
+sayı ifadesi: metinde 145, duyulanda 121  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuzeybatı kıyısındaki rapallo kasabası
+      metin  : ligurya
+      duyulan: liguria
+  REPLACE  ...deniz biyolojisi öğrencisi olan
+      metin  : kristiyan
+      duyulan: christian
+  REPLACE  ...sulardan topladığı minik canlıları
+      metin  : laboratuvara
+      duyulan: laboratuara
+  REPLACE  ...dallanan yapılar beliriyordu bunlar
+      metin  : polipti
+      duyulan: polypti
+  REPLACE  ...da kabuğa tutunur ve
+      metin  : polipe
+      duyulan: polype
+  REPLACE  ...tutunur ve polipe dönüşür
+      metin  : polip
+      duyulan: polyp
+  REPLACE  ...evredir döngü tek yönlüdür
+      metin  : polipten
+      duyulan: polypten
+  REPLACE  ...beklemezsek denizanasının da yeniden
+      metin  : polipe
+      duyulan: polype
+  REPLACE  ...kimse beklemiyordu zomer in
+      metin  : gözlemi
+      duyulan: gözdemi
+  INSERT   ...bu canlıyı inceledi ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...canlıyı inceledi ve piraino
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...de zamanla netleşti başlangıçta
+      metin  : turritopsis
+      duyulan: turitopsis
+  REPLACE  ...ayrı tür olarak tanımlandı
+      metin  : turritopsis dorniyi
+      duyulan: turitopsis dornii
+  REPLACE  ...çok daha akılda kalıcı
+      metin  : ad
+      duyulan: at
+  REPLACE  ...buldu ölümsüz denizanası bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kaçınılmaz son olmaktan çıkmasıdır
+      metin  : turritopsis dorniyi
+      duyulan: turitopsis dornii
+  REPLACE  ...en yoğun çalıştığı dönemdir
+      metin  : kistten
+      duyulan: kisten
+  REPLACE  ...farklılaşma hücrenin özelleşmesi demektir
+      metin  : embriyonun
+      duyulan: embryonun
+  REPLACE  ...başka tüer doğrudan geçmesi
+      metin  : turritopsis dorniyi de
+      duyulan: turitopsis dornida
+  REPLACE  ...da dış yüzeydeki hücreler
+      metin  : kist evresinde
+      duyulan: kis devresinde
+  REPLACE  ...basel de çalışan biyolog
+      metin  : folker şmit
+      duyulan: volker schmidt
+  REPLACE  ...dönüşebildiğini daha önce göstermişti
+      metin  : turritopsis i
+      duyulan: turitopsisi
+  REPLACE  ...oldu kubota japonya sularındaki
+      metin  : turritopsis
+      duyulan: turitopsis
+  INSERT   ...nın kendisine bakmayı gerektiriyordu
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...daki oviedo üniversitesi nden
+      metin  : marya paskual
+      duyulan: maria pascual
+  REPLACE  ...nden marya paskual torner
+      metin  : viktor kesada
+      duyulan: victor quesada
+  REPLACE  ...yaşlanma biyolojisi alanında tanınan
+      metin  : karlos
+      duyulan: carlos
+  REPLACE  ...yaptıkları şey zekice karşılaştırmaydı
+      metin  : turritopsis dorniyi
+      duyulan: turitopsis dorni
+  REPLACE  ...ve çok yakın akrabasıyla
+      metin  : turritopsis
+      duyulan: turitopsis
+  REPLACE  ...yakın akrabasıyla turritopsis rubra
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...bulgularındaki dikkat çekici nokta
+      metin  : turritopsis dorniyi deki
+      duyulan: turitopsis dorneyideki
+  REPLACE  ...yutulabilir doğada çoğu muhtemelen
+      metin  : bebekliğe
+      duyulan: bebekleye
+  REPLACE  ...olabilir amerikalı deniz biyoloğu
+      metin  : marya
+      duyulan: maria
+  REPLACE  ...deniz biyoloğu marya pia
+      metin  : milyetta
+      duyulan: milletta
+  REPLACE  ...milyetta ve meslektaşı harilaos
+      metin  : lessios
+      duyulan: lesios
+  INSERT   ...meslektaşı harilaos lessios un
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...un yayımladığı genetik çalışma
+      metin  : turritopsis dorniyi
+      duyulan: turitopsis dornii
+  INSERT   ...geri sarılabildiği artık biliniyor
+      metin  : (yok)
+      duyulan: kiki da
+  REPLACE  ...yetişkin faer hücrelerine yalnızca
+      metin  : genin
+      duyulan: nin
+  REPLACE  ...daki salk enstitüsü nde
+      metin  : huan karlos i zpisua
+      duyulan: juan carlos espisua
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 38
+
+duyulan metin: bilim-2026-11-11.duyulan.txt

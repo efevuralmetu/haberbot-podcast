@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-11.mp3
+
+beklenen 1466 kelime | duyulan 1478 kelime | eşleşme %97.1
+sayı ifadesi: metinde 187, duyulanda 146  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu durumu psikologlar amos
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...psikologlar amos tverski ve
+      metin  : daniyel kaneman
+      duyulan: daniel kahneman de
+  INSERT   ...kaybettiğini hayal eden katılımcıların
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...edenlerde ize bu oran
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...şey tam olarak aynı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düşünen kişi iktisatçı richard
+      metin  : thaler
+      duyulan: taylor
+  REPLACE  ...iktisatçı richard thaler oldu
+      metin  : thaler
+      duyulan: taler te
+  REPLACE  ...bakınca tablo netleşiyor bilet
+      metin  : kaybolduğunda
+      duyulan: kaybı olduğunda
+  REPLACE  ...katlanmış gibi görünüyor para
+      metin  : kaybolduğunda
+      duyulan: kaybı olduğunda
+  REPLACE  ...lira liradır maaştan gelen
+      metin  : lira ile
+      duyulan: lirayla
+  REPLACE  ...bakımından hiçbir fark yoktur
+      metin  : thaler in
+      duyulan: talerin
+  REPLACE  ...getirdiğiniz paradan farklı hissettirir
+      metin  : thaler
+      duyulan: taler
+  INSERT   ...ve meslektaşı eric johnson
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ağır etiket hazırlamak i
+      metin  : kramiyeyle
+      duyulan: kramiye ile
+  REPLACE  ...in sonraki yıllarda meslektaşı
+      metin  : şlomo benartsi
+      duyulan: schlomo benardzi
+  INSERT   ...in bu alandaki çalışmaları
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nobel i ktisat ödülü
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...cebinden çıkan o unutulmuş
+      metin  : banknot da
+      duyulan: banknotta
+  INSERT   ...yarın için şeye dönüşebilir
+      metin  : (yok)
+      duyulan: naşkun en kusı vıçkun
+  INSERT   ...da yaklaşık kelime toplamda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...değer olgu tiyatro deneyi
+      metin  : tverski
+      duyulan: tversky
+  REPLACE  ...tiyatro deneyi tverski ve
+      metin  : kaneman
+      duyulan: kahneman
+  INSERT   ...bilet dolar parayı kaybedenlerin
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...parayı kaybedenlerin bileti kaybedenlerin
+      metin  : (yok)
+      duyulan: sı
+  DELETE   ...de bilet alacağını söylüyor
+      metin  : diğer olgular
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...söylüyor diğer olgular thaler
+      metin  : in
+      duyulan: ın
+  REPLACE  ...deneyi soman ve çima
+      metin  : bu
+      duyulan: mo
+  REPLACE  ...devreye gireceği yer kalmadı
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: psikoloji-2026-11-11.duyulan.txt

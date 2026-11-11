@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-11.mp3
+
+beklenen 2840 kelime | duyulan 2809 kelime | eşleşme %94.4
+sayı ifadesi: metinde 290, duyulanda 248  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...un gibi akıyor burası
+      metin  : lös
+      duyulan: löz
+  REPLACE  ...sırtları dalga dalga uzanıyor
+      metin  : şanşi eyaletinin
+      duyulan: şanşı eyaleti nin
+  REPLACE  ...aynı şeyi düşündü eski
+      metin  : sed
+      duyulan: set
+  REPLACE  ...yıkılmış taşları alıp kendi
+      metin  : ağıllarını
+      duyulan: ağırlarını
+  REPLACE  ...bıçaklar ortası delik yassı
+      metin  : diskler
+      duyulan: diskiler
+  REPLACE  ...arasındaki bağla özdeşleştirilmiş taş
+      metin  : sed
+      duyulan: set
+  REPLACE  ...uzun süer yanıtsız kaldı
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...gerçek anlamda dikkat çekmesi
+      metin  : (yok)
+      duyulan: yı
+  REPLACE  ...çekmesi buldu o yıl
+      metin  : şanşi
+      duyulan: şanşı
+  REPLACE  ...eyalet müzesi nden arkeolog
+      metin  : day yingşin
+      duyulan: d yingxin
+  REPLACE  ...şey söylüyordu bu nesneler
+      metin  : sed
+      duyulan: set
+  REPLACE  ...ın sonlarının izlerini taşıyordu
+      metin  : day yingşin
+      duyulan: d yingxin
+  INSERT   ...iddialı görünüyordu gerçek ancak
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...görünüyordu gerçek ancak sonra
+      metin  : şanşi
+      duyulan: şanşı
+  REPLACE  ...arkeoloji enstitüsü nden sun
+      metin  : covyong
+      duyulan: kovyong
+  REPLACE  ...ortaya çıkan herkesin beklentisini
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...beklentisini aştı taş tepe
+      metin  : sed
+      duyulan: set
+  REPLACE  ...radyokarbon tarihleri şehrin kabaca
+      metin  : mö
+      duyulan: meylüt
+  REPLACE  ...kurulduğunu ve aşağı yukarı
+      metin  : mö
+      duyulan: meçlö leer
+  REPLACE  ...ın yükselip çöktüğü çağda
+      metin  : lös platosu
+      duyulan: löz pilatosu
+  REPLACE  ...surların toplam uzunluğu yaklaşık
+      metin  : kilometreyi
+      duyulan: km yi
+  REPLACE  ...yaklaşık kilometreyi buluyordu köylülerin
+      metin  : sed
+      duyulan: set
+  REPLACE  ...taşın arasındaki boşluğa sıkıştırılmış
+      metin  : yeşim
+      duyulan: yeşil
+  REPLACE  ...levhalardı çin arkeolojisinde bunlara
+      metin  : yacang
+      duyulan: yacan
+  REPLACE  ...yeşimlerin taşı nereden geliyordu
+      metin  : lös platosu nda
+      duyulan: löz platosunda
+  INSERT   ...var day yingşin in
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...bu dağılmış parçaların izini
+      metin  : sürüp
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aynı anlamı taşımaz bağlamından
+      metin  : koparılan
+      duyulan: yapılan
+  REPLACE  ...değer taşıyor ilk kez
+      metin  : nesneyle
+      duyulan: nesne ile
+  REPLACE  ...geçit değil karmaşık savunma
+      metin  : düzeneğiydi
+      duyulan: düzeniydi
+  REPLACE  ...önüne kıvrımlı ön avlu
+      metin  : yerleştirilmiş
+      duyulan: araştırılmış
+  REPLACE  ...tepe nin yöneticileri yalnızca
+      metin  : savunmak
+      duyulan: bulmak
+  REPLACE  ...hakim sırtın üzerinde yerlilerin
+      metin  : huangçengtay
+      duyulan: huang chengtai
+  REPLACE  ...uzaktan bakıldığında tepe gibi
+      metin  : görünüyor
+      duyulan: görülüyor
+  REPLACE  ...biçimlendirildiğini fark ediyorsunuz sırtın
+      metin  : yamaçları
+      duyulan: yuvarları
+  DELETE   ...yer burada piramit kelimesini
+      metin  : dikkatle
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saray tepesi nin üstünde
+      metin  : kazıcıların
+      duyulan: yazıcıların
+  INSERT   ...gerçekte var olmayan yaratıklar
+      metin  : (yok)
+      duyulan: i
+  DELETE   ...çekici taşlardan ortada cepheden
+      metin  : bakan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...dinleyeni bakanı geleni izleyen
+      metin  : koruyucular mı
+      duyulan: taş tepeciler mi
+  ... ve 37 fark daha
+
+metinde olup DUYULMAYAN: 87 kelime | duyulup metinde OLMAYAN: 84
+bölme/birleşme farkı (hata değil, elendi): 48
+
+duyulan metin: arkeoloji-2026-11-11.duyulan.txt

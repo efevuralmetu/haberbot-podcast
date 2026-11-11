@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-11.mp3
+
+beklenen 1680 kelime | duyulan 1664 kelime | eşleşme %12.8
+sayı ifadesi: metinde 123, duyulanda 69  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : akdeniz de yaşayan tırnak büyüklüğünde denizanası yaşlandığında ölmüyor bedenini eritip yeniden bebekliğine dönüyor ve hayata baştan başlıyor peki doğa bize yasak olan bu geri vitesi bu canlıya neden vermiş ve bunun bedeli ne yazında i talya nın kuzeybatı kıyısındaki rapallo kasabası ligurya denizi ne
+      duyulan: theer aer many people who live in a single country people who live in the same country if they live in the same country the most important thing is to live in the same country the italian and kuzei bata kuyisinde kirapalo kasabasi liguria denizine
+  REPLACE  ...ligurya denizi ne bakan
+      metin  : küçük limanlarıyla her zamanki sakin günlerini yaşıyordu o sıralar almanya dan gelmiş genç deniz biyolojisi öğrencisi
+      duyulan: kuchukliman nari la herza man kisaakingu nerni a shjord osralaar almani adan gal misgencbir denizbiologisi orangisi
+  REPLACE  ...öğrencisi olan christian sommer
+      metin  : kıyıdaki sulardan topladığı minik canlıları laboratuvara taşıyordu
+      duyulan: kuyida kisulardan topla dominic ciandleri laboratoara tashiord ilge lendi
+  REPLACE  ...canlıları laboratuvara taşıyordu i
+      metin  : lgilendiği grup hidrozoalardı bunlar denizanalarının ve mercanların uzak akrabası olan çoğu insan gözüne neredeyze görünmeyen canlılardır
+      duyulan: guropiedrozo alarda banlar denizana lernan vemer jan lern usa kakrabi solan cioi in sangyuzune naredai segurun meyan jan lardar
+  REPLACE  ...neredeyze görünmeyen canlılardır sommer
+      metin  : küçük petri kaplarında deniz suyu dolu kavanozlarda tutuyor nasıl büyüdüklerini nasıl çoğaldıklarını not ediyordu kapların çapı yarım santimetreyi
+      duyulan: kuchukpetri kaplerinda denis suyudolukavan oslarda tutuor nasil bhiudu klerine nasil cioal duklerine notei duorda kaplerin kapuyerim santi metrei
+  REPLACE  ...yarım santimetreyi bile bulmayan
+      metin  : şeffaf çanının ortasında kırmızımsı
+      duyulan: shefaf chanunu nordasan da kurmazum sebir
+  REPLACE  ...çanının ortasında kırmızımsı mide
+      metin  : taşıyan denizanası türü vardı
+      duyulan: tashiyan denizanasi turewarda
+  REPLACE  ...denizanası türü vardı sommer
+      metin  : in günlerce izlediği
+      duyulan: en gunarja izledi
+  REPLACE  ...günlerce izlediği bu minik
+      metin  : canlılar beklenen
+      duyulan: janu lar beklenan
+  REPLACE  ...minik canlılar beklenen sonu
+      metin  : yaşamadı normalde denizanası olgunlaşır ürer
+      duyulan: yashamada normal de denizanasi olgun nashir urar
+  REPLACE  ...denizanası olgunlaşır ürer sonra
+      metin  : yaşlanıp ölür
+      duyulan: yashlanup ullur
+  REPLACE  ...sonra yaşlanıp ölür geriye
+      metin  : çözülen jöle kalır oysa bu kapta ölü beden birikmiyordu onların yerine kabın dibine tutunmuş küçük dallanan yapılar beliriyordu bunlar polipti
+      duyulan: chozulan birjolek alur oisa bukapta ullu vedan miordu onlarun yerne kabundibine tutun muskuchuk dal lana nyapalar biliruordu polypti
+  REPLACE  ...beliriyordu bunlar polipti yani
+      metin  : denizanasının hayatına başladığı bitki görünümlü dibe yapışık bebeklik evresi
+      duyulan: denizanasonan hayatana baslade bitkigurunumlu dibeyapushuk bebekli kevresi
+  REPLACE  ...yapışık bebeklik evresi sanki
+      metin  : saati
+      duyulan: birisaati
+  REPLACE  ...evresi sanki saati geri
+      metin  : çevirmiş yetişkin canlılar ölmek yerine çocukluklarına dönmüştü bu gözlemin ne anlama geldiğini kavramak için önce denizanasının olağan yaşam döngüsünü
+      duyulan: chevirmish ye tishkin janu lar oel mekyerin echrojuplu klerina durnmushtu bugozle min nyan namagal dine kavramakichin unje denizanasonan olan yasham dungusunu
+  REPLACE  ...olağan yaşam döngüsünü bilmek
+      metin  : gerekir bu türlerin çoğunda hikaye
+      duyulan: gerikir butur leren chon da hikaya
+  REPLACE  ...çoğunda hikaye denizin dibinde
+      metin  : başlar döllenmiş yumurtadan çıkan
+      duyulan: baslar dolanmish yumurtadaan chikan
+  REPLACE  ...döllenmiş yumurtadan çıkan larva
+      metin  : kayaya ya da kabuğa tutunur ve polipe dönüşür polip kökleri
+      duyulan: birkayaya yadakabua tutunurve polype durnusur polype kokler
+  REPLACE  ...dönüşür polip kökleri olan
+      metin  : küçük bitkiye benzer zamanla dallanıp koloni oluşturur bu koloniden tomurcuklanma yoluyla
+      duyulan: kuchuk birbitke yabenzar zaman la dallanup kolonyolushturur bukolony den tomurjuklan mayolu ila
+  REPLACE  ...koloniden tomurcuklanma yoluyla minik
+      metin  : denizanaları
+      duyulan: denizanalar
+  REPLACE  ...denizanaları kopar ve suya
+      metin  : karışır denizanası serbestçe cinsel
+      duyulan: karushur denizanasa sarbeşce yuzan jinsel
+  REPLACE  ...denizanası serbestçe cinsel olarak
+      metin  : üreyen yetişkin evredir döngü tek yönlüdür polipten medüzaya medüzadan üremeye üremeden ölüme kelebeğin yeniden tırtıla dönmesini nasıl beklemezsek denizanasının
+      duyulan: urayan yatishkin evredur dungutek yunnudur polyptan medusaya medusadan uremeye uremedan uleme birkelebein yenidan turtuladunmesinin nusselbek lemassek denizanasonan
+  REPLACE  ...nasıl beklemezsek denizanasının da
+      metin  : yeniden polipe dönmesini kimse beklemiyordu sommer in gözlemi i talyan
+      duyulan: yenidan polype turtuladunmesinin kimsebek lemyordu samaran gizlemi italian
+  INSERT   ...ferdinando boero ve stefano
+      metin  : (yok)
+      duyulan: pirainonun di katini cecti ekip yullar buyun jabujan liye injelete ve bindokuzu zdoksanaltada
+  REPLACE  ...boero ve stefano piraino
+      metin  : nun dikkatini çekti ekip yıllar boyunca bu canlıyı inceledi ve da piraino ile
+      duyulan: ila
+  REPLACE  ...piraino ile boero nun
+      metin  : i sviçreli meslektaşlarla birlikte imzaladığı makalede döngünün tersine çevrilebildiğini ayrıntılı biçimde belgeledi deneylerde denizanalarını açlık sıcaklık değişimi
+      duyulan: isfiçrele mezlektashlar lebilikte imzaladu makalete dungunun tarsin ecevri lebildine ayran talibichim debelgeleti denaylar de denizanalar na açluk sujakluk te ishime
+  REPLACE  ...açlık sıcaklık değişimi suyun
+      metin  : tuzluluğundaki oynamalar ya da doğrudan fiziksel hasar gibi zorluklarla karşı karşıya bıraktılar sonuç şaşırtıcı biçimde tutarlıydı
+      duyulan: tuzdulundak yoynamalar yadadoru dan physiksel hasargi bizorluklar la karsi karsi aburaktalar sonu cesertu jibicim de tutar leite
+  REPLACE  ...biçimde tutarlıydı strese giren
+      metin  : denizanası ölmek
+      duyulan: denizanasa ilmek
+  REPLACE  ...denizanası ölmek yerine geri
+      metin  : dönüyordu üstelik
+      duyulan: duniyordu ustilik buyanasja yashle biraylera usgudilte yeni kopmusgenc denizanalaran dan jinsel olgunna aulashmusolan nara kadarfarkli yashlar da kibiraylar aynu dunusumiyapabiliyordu kanunan kimneide zamananet leste baislan gishta turitopsis nutricula adela bilinan
+  REPLACE  ...geri dönüyordu üstelik bu
+      metin  : yalnızca yaşlı bireyleer özgü değildi yeni kopmuş genç denizanalarından cinsel olgunluğa ulaşmış olanlara kadar farklı yaşlardaki bireyler aynı dönüşümü yapabiliyordu canlının kimliği de zamanla netleşti başlangıçta turritopsis nutricula adıyla bilinen bu denizanasının akdeniz deki formu sonraki çalışmalarda ayrı tür olarak tanımlandı turritopsis dohrnii adın kısmı yüzyılda
+      duyulan: denizanasonan ak denizde kiformu sonreki chalishmalar da arabir turalaraktanum lande turitopsis dohnii adani kinji kisme ondokuzunju yuzildan
+  REPLACE  ...adın kısmı yüzyılda napoli
+      metin  : deki ünlü deniz araştırma istasyonunu kuran alman zoolog
+      duyulan: dekiunu denizarashtirma istasiyanu nukuran almanzolok
+  REPLACE  ...kuran alman zoolog anton
+      metin  : dohrn u onurlandırıyor popüler basın ize çok daha akılda kalıcı ad buldu ölümsüz denizanası bu ad ilk bakışta abartılı görünür ama biyologların biyolojik ölümsüzlük dediği şeyle doğrudan ilgilidir burada kastedilen hiçbir şekilde ölmemek değildir kastedilen yaşlanmanın kaçınılmaz son olmaktan çıkmasıdır turritopsis dohrnii en azından laboratuvar koşullarında yaşlanma ve ölüm yoluna girdiği noktada geri dönüp hayatına yeniden başlayabiliyor
+      duyulan: dornu onorlandryosh popularbasanize chokdaha akildakaljibir atbuldu ulymsus denizanasa boadir bakishta abartal gurenirz amabiolo pleren biologik ulymsusluktedi shayle dorudanilgildir borada kastadilan hichbir shaykilde olme mekdiildir kastadilan yashlan manan kachanul mazbir sonol makdancik masadir turitopsis dohnii ina zandan labarutu ar koshularan da yashlan mave ulumyoluna girdi inoktada girdunu payatana yenidan bashliya bilir
+  REPLACE  ...hayatına yeniden başlayabiliyor peki
+      metin  : canlı zaten yetişkin olmuş bedenini nasıl yeniden
+      duyulan: birjanlu zatan yetishkinol mushpedenin inasal yenidan
+  REPLACE  ...nasıl yeniden bebeklik formuna
+      metin  : dönüştürür cevap hücrelerin
+      duyulan: donushturu sevap hudrelarin
+  REPLACE  ...dönüştürür cevap hücrelerin kaderinin
+      metin  : sanıldığı
+      duyulan: sanal du
+  REPLACE  ...hücrelerin kaderinin sanıldığı kadar
+      metin  : kesin olmamasında yatıyor dönüşümü adım adım izlemek neredeyze filmi geri sarmaya benzer strese giren denizanası önce bırakır ve yavaşça dibe çöker çanının kenarındaki dokunaçlar kısalır
+      duyulan: kisin olmamasandaya tuur donushumu adam adam islemek naradei se birfilmi gerisar maya benzaar streiz geren denazana seunja yuzmeyiburakar veyavashtia dibeturkar chenanun kenarun daki dokunachlar kasalir
+  REPLACE  ...kenarındaki dokunaçlar kısalır bedenin
+      metin  : içine çekilir şemsiyeyi andıran çan
+      duyulan: ichine cekilir shem siye andaran chan
+  REPLACE  ...şemsiyeyi andıran çan adeta
+      metin  : ters olarak büzülür gün içinde geriye ne denizanasına ne polipe benzeyen kabın dibine yapışmış küçük ve biçimsiz
+      duyulan: tarsu zolarak bizuluur guni cindagiri an nedenizana sanan nepoli pe benzaan kabun dibineya pushmush kuchukwe bichimsez
+  REPLACE  ...küçük ve biçimsiz doku
+      metin  : yığını kalır araştırmacılar
+      duyulan: yunakalir arashtir majular
+  REPLACE  ...yığını kalır araştırmacılar bu
+      metin  : evreye kist evresi diyor dışarıdan bakıldığında hareketsiz hatta ölü gibi görünen
+      duyulan: evreya kistever sidur de shardan bakildun dahareketsis hata olugibigurunan
+  ... ve 127 fark daha
+
+metinde olup DUYULMAYAN: 1464 kelime | duyulup metinde OLMAYAN: 1448
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-11-11.duyulan.txt

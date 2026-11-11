@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-11.mp3
+
+beklenen 2141 kelime | duyulan 2156 kelime | eşleşme %96.3
+sayı ifadesi: metinde 258, duyulanda 220  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...hekim yüzyıllar sonra da
+      metin  : hannover
+      duyulan: hanover
+  REPLACE  ...keskin biçimde soran kişi
+      metin  : gotfrid vilhelm laybniç
+      duyulan: gottfried wilhelm leibniz
+  INSERT   ...diferansiyel hesabı geliştiren adam
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...adam ölümünden yıl önce
+      metin  : hannover
+      duyulan: hanover
+  REPLACE  ...anda ize soru başlar
+      metin  : laybniç in
+      duyulan: leibniz için
+  REPLACE  ...boş olduğunu öğrenmeden gitmez
+      metin  : laybniç
+      duyulan: leibniz
+  INSERT   ...gerekir bunu anlatmak için
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düşünün bu kitap önceki
+      metin  : nüshadan
+      duyulan: nüşadan
+  REPLACE  ...kadar geriye gitsin her
+      metin  : nüshayı
+      duyulan: nüşayı
+  REPLACE  ...gitsin her nüshayı önceki
+      metin  : nüsha ile
+      duyulan: nüşayla
+  REPLACE  ...açıklayabilirsiniz ama bütün bu
+      metin  : nüshaların
+      duyulan: nüşaların
+  REPLACE  ...eden lokomotife ihtiyaç vardır
+      metin  : laybniç
+      duyulan: leibnitz
+  REPLACE  ...zorunlu varlıkta olması gerekir
+      metin  : laybniç
+      duyulan: leibnitz
+  REPLACE  ...tam olarak kapanmaz üstelik
+      metin  : laybniç
+      duyulan: leibnitz
+  INSERT   ...hekime uzanıyordu i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...derecede sakin ve düzenlidir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...düşünürlerden olmuştu i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...şeydir buradan i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...içtiğiniz çay i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ödünç alınmamış varlık buna
+      metin  : vacibü l vücud
+      duyulan: vacibül vücut
+  INSERT   ...nerede biter i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...varlıktır yani i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...hiç dayanmamasıdır i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...de borçludur i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...şey miydi i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...koyacaktı ebu hamid el
+      metin  : gazzali
+      duyulan: ghazali de
+  REPLACE  ...gazzali i ran ın
+      metin  : tus
+      duyulan: tuz
+  INSERT   ...ın tus şehrinde doğdu
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...felasife yani filozofların tutarsızlığı
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...alemin ezeli olduğu iddiası
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...varlıkta açıklanamaz değişim demektir
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...boş zamanın aktığını varsayar
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...yakın cevaptır bu ardından
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...sayı ikisinden sonsuz geçmiş
+      metin  : gazzali
+      duyulan: ghazali
+  INSERT   ...biçimini değiştirir i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...sorusuydu şeyler neye dayanıyor
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...basit görünen akıl yürütme
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...modern kozmoloji kimilerine göer
+      metin  : gazzali
+      duyulan: ghazali
+  REPLACE  ...yi haklı çıkarmış kimilerine
+      metin  : göreyze
+      duyulan: göer ize
+  REPLACE  ...çıkarmış kimilerine göreyze fizik
+      metin  : başlangıcın
+      duyulan: başlangıçın
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 78
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: felsefe-2026-11-11.duyulan.txt

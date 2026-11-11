@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-11.mp3
+
+beklenen 2140 kelime | duyulan 2008 kelime | eşleşme %14.4
+sayı ifadesi: metinde 221, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...it can never answer
+      metin  : sabah gözünüzü açtığınızı düşünün perdenin kenarından ince ışık sızıyor mutfakta bardak bırakıyor sokakta
+      duyulan: sohkhaktabir
+  REPLACE  ...bardak bırakıyor sokakta motor
+      metin  : çalışıyor bunların hiçbiri
+      duyulan: chalushyor bun liran hichpiri
+  REPLACE  ...çalışıyor bunların hiçbiri sizi
+      metin  : şaşırtmaz işık sabah olduğu için vardır bardak koyduğu için
+      duyulan: shashir tmaz ishik sabaholdu ichin vardar bardakpiri koydu ichin
+  INSERT   ...bardak koyduğu için motor
+      metin  : (yok)
+      duyulan: dabiri ishegitti ichin chalushyodur her shein birachiklamasu vardar ve bizbo achiklamalirin ichinde rahat che yasiris amabazen belki uykuila uyaniklika resandaki okasa anda tohafpir soraklanazadushar bhuushik nedanvar diyadeel her hengi nedanvar nedan ortada dunya oda bedan bilinchvar
+  REPLACE  ...koyduğu için motor da
+      metin  : işe gittiği için çalışıyordur
+      duyulan: hichbirshey okdil kuchik chujuklar busuria chokyaklashir
+  REPLACE  ...gittiği için çalışıyordur her
+      metin  : şeyin açıklaması vardır
+      duyulan: savabayeni nedaniklip zinjiri sono nakadargu turmekistarler yamar nedan yayir bulutlar urlashtu ichin bulutlar nedanvar subu harlashtu ichin subu harlashtu ichin bhuushik nedanvar naktada bhiuklerom silker chunku zinjir sonon da tek sori avarar
+  REPLACE  ...şeyin açıklaması vardır ve
+      metin  : biz bu açıklamaların içinde rahatça yaşarız ama bazen belki uykuyla uyanıklık arasındaki o kısa anda tuhaf soru aklınıza düşer bu ışık neden var diye değil herhangi şey neden var neden ortada dünya oda beden bilinç var da hiçbir şey yok değil küçük çocuklar bu soruya çok yaklaşır her cevaba yeni neden ekleyip zinciri sonuna kadar götürmek isterler yağmur neden yağıyor bulutlar ağırlaştığı için bulutlar neden var su buharlaştığı için su neden var noktada büyükler omuz silker çünkü zincir sonunda tek soruya varır ve o soru cevap veren kişiyi
+      duyulan: osoru jebap verangkishi i
+  REPLACE  ...cevap veren kişiyi de
+      metin  : içine alır bu soruyu felsefe tarihinde
+      duyulan: ichin aalur bhuusoru ufelsa faitar hinde
+  REPLACE  ...felsefe tarihinde en keskin
+      metin  : biçimde soran kişi gottfried
+      duyulan: bichim da sorangkishi godfried
+  REPLACE  ...soran kişi gottfried wilhelm
+      metin  : leibniz dir matematikçi
+      duyulan: leibnister mathematic ji
+  REPLACE  ...leibniz dir matematikçi diplomat
+      metin  : kütüphaneci mucit
+      duyulan: kutupane ji mujit
+  INSERT   ...diplomat kütüphaneci mucit newton
+      metin  : (yok)
+      duyulan: dun bombsu zolarak differential hesabu gilishtrenadam urmundan ikilunje hanovar de kalemal du kasabirmitin de soru achikcha koyar nedan hich shei yok dil de sheivar hemenardan
+  DELETE   ...kütüphaneci mucit newton dan
+      metin  : bağımsız olarak diferansiyel hesabı geliştiren adam te ölümünden yıl önce hannover de kaleme aldığı kısa metinde soruyu açıkça koyar neden hiçbir şey yok değil de şey var hemen ardından
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...var hemen ardından da
+      metin  : soruyu ağırlaştıran
+      duyulan: soru ar lashtran
+  REPLACE  ...da soruyu ağırlaştıran not
+      metin  : düşer göer hiçlik şeyden
+      duyulan: du shar giri hichlik shei dan
+  REPLACE  ...daha basit ve daha
+      metin  : kolaydır
+      duyulan: kolaidar
+  REPLACE  ...ve daha kolaydır yani
+      metin  : asıl açıklanması gereken şey yokluk değil varlıktır boş sayfa kendini açıklamaz
+      duyulan: asula chiklan masugeer kan shei yok luk dil varlaktir bhuushbir saifa kendin achiklamaz
+  REPLACE  ...sayfa kendini açıklamaz ama
+      metin  : en azından açıklama da gerektirmez sayfaya kelime düştüğü
+      duyulan: inazandan achiklamadagir iktirmaz saifa ya kelima du shtuyu
+  REPLACE  ...sayfaya kelime düştüğü anda
+      metin  : ize
+      duyulan: isa
+  REPLACE  ...düştüğü anda ize soru
+      metin  : başlar leibniz in
+      duyulan: baslar leibnitzen
+  REPLACE  ...başlar leibniz in bu
+      metin  : soruyu sormasını sağlayan
+      duyulan: soru yusorma sanasa layan
+  REPLACE  ...soruyu sormasını sağlayan ilke
+      metin  : vardır
+      duyulan: vardar
+  REPLACE  ...sağlayan ilke vardır ve
+      metin  : bütün düşüncesinin temeline
+      duyulan: bhutundu shunje sinin temelina
+  REPLACE  ...bütün düşüncesinin temeline koyar
+      metin  : yeter
+      duyulan: yetar
+  REPLACE  ...temeline koyar yeter sebep
+      metin  : ilkesi hiçbir şey neden başka türlü değil
+      duyulan: ilkisi hich shei nedan baska turludil
+  REPLACE  ...başka türlü değil de
+      metin  : böyle olduğunu açıklayan
+      duyulan: bolya uldu na achiklan
+  REPLACE  ...böyle olduğunu açıklayan sebep
+      metin  : olmadan olmaz bu ilkeyi her gün kullanırız ama adını koymayız arabanız çalışmıyorsa öyle işte demezsiniz
+      duyulan: olamadan olamaz bhuil kei hirgun kullan razama adan koy maiz arabanas chalishmi orsa ola ishtedemas siniz
+  REPLACE  ...öyle işte demezsiniz sebep
+      metin  : ararsınız doktor ağrının nereden geldiğini
+      duyulan: arar siniz dr arunan nerdan galdina
+  REPLACE  ...ağrının nereden geldiğini sorar
+      metin  : dedektif boş kasanın önünde durur
+      duyulan: dedektiv bosh kasanan duroor
+  REPLACE  ...kasanın önünde durur ve
+      metin  : kasanın neden boş olduğunu öğrenmeden gitmez leibniz bu gündelik alışkanlığı alıp en uç
+      duyulan: kasanan nedan bosh oldu na oran medangit mas leibnitz bugun dilik alishkan lu alab enuch
+  REPLACE  ...alıp en uç noktaya
+      metin  : taşır
+      duyulan: tashir
+  REPLACE  ...noktaya taşır tek tek
+      metin  : şeyler için
+      duyulan: seiler ichin
+  REPLACE  ...tek şeyler için sebep
+      metin  : istiyorsak şeylerin toplamı için
+      duyulan: istuyor sak seiler in toplama ichin
+  REPLACE  ...toplamı için de sebep
+      metin  : istememiz gerekir bunu anlatmak için de yazdığı metinde güzel örnek verir
+      duyulan: istemem isgerekir bhuunu anlat makichin altyuz nok san sevindeyazdi metin deguzal arnek virir
+  REPLACE  ...güzel örnek verir geometrinin
+      metin  : temellerini
+      duyulan: temelarini
+  REPLACE  ...geometrinin temellerini anlatan kitap
+      metin  : düşünün
+      duyulan: dushunun bhuun kitap biranjekin nushadan kopjalan musolson oda biranjekindan oda biranjekindan ve buboy le sansu zakadar geri egitsin hernushaya biranjekin nushayla achiklaya bilir siniz ayama bhutun
+  REPLACE  ...anlatan kitap düşünün bu
+      metin  : kitap önceki nüshadan kopyalanmış olsun o da öncekinden o da öncekinden ve
+      duyulan: nushalaran nedan var oldunu nedan hichkitap olamasanun yerne bukitabun oldunu nedan ichin debashka bishay diyilde geometriyazdunahala achikla musolmasunuz zen serenu zunluu sorunu chosmez saada jayar talair tren dushunelam hervagun unundeki wagun tarafun dan cekilyor wegan saisana ikki katanachikaran katanachikaran hat das suzyapun hichbir wagun kendikendin icha kemedi suraje tren yerin dan kumildamas yerde wagun olamayan shaye kendiguju leharakete dan lokomotife ichti ach vardar leibnitsin vardu sonuch budar junyada keher shaye olamsaldar yane olamye bilirde olamsal shaylerin olushturdu disinin sebebi disinin ichinde bulunamas sebebin disinin dushunda war olamasunun sebebinikendin detashyan zorunu warlakta olamasugerekir leibnits
+  REPLACE  ...da öncekinden ve bu
+      metin  : böyle sonsuza kadar geriye gitsin her nüshayı önceki nüsha ile açıklayabilirsiniz ama bütün
+      duyulan: varla atan radair
+  REPLACE  ...açıklayabilirsiniz ama bütün bu
+      metin  : nüshaların neden var olduğunu neden hiç kitap olmamasının yerine
+      duyulan: jewa
+  REPLACE  ...kitap olmamasının yerine bu
+      metin  : kitabın olduğunu neden içinde başka şey değil de geometri yazdığını hala açıklamış olmazsınız zincirin uzunluğu sorunu çözmez sadece erteler tren düşünelim her vagon önündeki vagon tarafından çekiliyor vagon sayısını katına çıkarın katına çıkarın hatta sonsuz yapın hiçbir vagon kendi kendini çekemediği sürece tren yerinden kımıldamaz yerde vagon olmayan şeye kendi gücüyle hareket eden lokomotife ihtiyaç vardır leibniz in vardığı sonuç budur dünyadaki her şey olumsaldır yani olmayabilirdi olumsal şeylerin oluşturduğu dizinin sebebi dizinin içinde bulunamaz sebebin dizinin dışında var olmasının sebebini kendinde taşıyan zorunlu varlıkta olması gerekir leibniz bu varlığa tanrı der bu cevabı kabul edebilir ya da etmeyebilirsiniz ama
+      duyulan: kabule debileriada etmiye bilirsiniz eimah
+  ... ve 156 fark daha
+
+metinde olup DUYULMAYAN: 1839 kelime | duyulup metinde OLMAYAN: 1707
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-11-11.duyulan.txt

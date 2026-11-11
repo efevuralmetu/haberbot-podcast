@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-11.mp3
+
+beklenen 3215 kelime | duyulan 3230 kelime | eşleşme %90.9
+sayı ifadesi: metinde 439, duyulanda 282  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çocuğu dünyaya geliyor adını
+      metin  : simón
+      duyulan: simon
+  REPLACE  ...geliyor adını simón koyuyorlar
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...simón koyuyorlar bolívar ailesi
+      metin  : yüzyıldır
+      duyulan: yıldır
+  REPLACE  ...dersini çok erken veriyor
+      metin  : simón
+      duyulan: simon
+  REPLACE  ...henüz buçuk yaşındayken babası
+      metin  : huan visente
+      duyulan: juan vicente
+  REPLACE  ...huan visente ölüyor annesi
+      metin  : marya
+      duyulan: maria
+  REPLACE  ...annesi marya de la
+      metin  : konsepsyon palasyos
+      duyulan: concepción palacios
+  REPLACE  ...o da veremden ölecek
+      metin  : simón
+      duyulan: simon
+  REPLACE  ...büyüten ize ailenin kölelerinden
+      metin  : i polita
+      duyulan: hippolyta
+  REPLACE  ...kaldıran gecelerini bekleyen o
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...o bolívar ömrü boyunca
+      metin  : i polita
+      duyulan: hippolyta
+  REPLACE  ...giriyor genç öğretmen simon
+      metin  : rodriges
+      duyulan: rodríguez
+  REPLACE  ...sormayı öğreten tuhaf adam
+      metin  : bolívar
+      duyulan: bolivar
+  INSERT   ...sen hazırladın diye yazacak
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...diye yazacak yaşında genç
+      metin  : simón
+      duyulan: simon
+  REPLACE  ...spanya ya gönderiliyor madrid
+      metin  : de
+      duyulan: te
+  REPLACE  ...i spanyol soylusunun kızına
+      metin  : marya
+      duyulan: maria
+  REPLACE  ...soylusunun kızına marya teresa
+      metin  : rodriges
+      duyulan: rodríguez
+  REPLACE  ...aşık oluyor baharında evleniyorlar
+      metin  : bolívar maría
+      duyulan: bolivar maria
+  REPLACE  ...mateo daki çiftliğine dönüyor
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...tropik ateşin büyük olasılıkla
+      metin  : sarıhummanın
+      duyulan: sarı hunmanın
+  REPLACE  ...olasılıkla sarıhummanın pençesine düşen
+      metin  : maría
+      duyulan: maria
+  INSERT   ...düşen maría teresa ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...evliliklerinin daha ayında ölüyor
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...döndüğünü de görüyor aralık
+      metin  : napolyon
+      duyulan: te napoleon
+  REPLACE  ...kendini imparator ilan ediyor
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...cumhuriyetin taçla gömülmesi o
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...hocasıyla yeniden buluşuyor simon
+      metin  : rodriges
+      duyulan: rodriguez
+  REPLACE  ...çekilmişti güneş batarken yaşındaki
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...kalan ömrünün tamamını harcayacaktı
+      metin  : bolívar
+      duyulan: bolivar de
+  REPLACE  ...işlediğini kendi gözüyle görmüş
+      metin  : karakas
+      duyulan: caracas
+  REPLACE  ...ize hava değişmek üzeer
+      metin  : napolyon
+      duyulan: napoleon de
+  REPLACE  ...adına yönetiliyorlar artık nisan
+      metin  : karakas
+      duyulan: da caracas
+  REPLACE  ...kendi yönetim kurullarını kuruyorlar
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...açık destek alamıyorlar ama
+      metin  : bolívar
+      duyulan: bolivar
+  REPLACE  ...daha önemli şey buluyor
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...komutan olarak savaşmış rus
+      metin  : çariçesinin
+      duyulan: çağ ricesinin
+  REPLACE  ...bağımsızlığını hayal eden yaşlı
+      metin  : maceraperest bolívar
+      duyulan: macera perest bolivar
+  INSERT   ...dönmeye ikna ediyor temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...isyancılara gazabıdır rivayete göer
+      metin  : bolívar
+      duyulan: bolivar
+  ... ve 166 fark daha
+
+metinde olup DUYULMAYAN: 226 kelime | duyulup metinde OLMAYAN: 256
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: biyografi-2026-11-11.duyulan.txt

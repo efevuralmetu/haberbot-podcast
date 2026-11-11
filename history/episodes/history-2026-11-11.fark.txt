@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-11.mp3
+
+beklenen 2668 kelime | duyulan 2133 kelime | eşleşme %13.3
+sayı ifadesi: metinde 203, duyulanda 104  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...enemy s own voice
+      metin  : yılının ağustos ayında avrupa nın bütün demiryolları aynı yöne akıyordu cepheye
+      duyulan: in the year of the german army of men weer killed japan
+  REPLACE  ...yöne akıyordu cepheye paris
+      metin  : te ize aynı soruyu herkes soruyordu ruslar ne zaman gelecek fransa almanya nın bütün gücüyle önce batıya yükleneceğini biliyordu alman planı da tam olarak buydu fransa yı haftada dize getirmek sonra orduları doğuya çevirip yavaş hareket eden rusya yla hesaplaşmak bu hesabın bozulmasının tek yolu rusya nın beklenenden çok daha erken saldırmasıydı fransızlar bu sözü savaştan önce almıştı
+      duyulan: is of the largest cities in the world russia is the largest city in the world france the armenian army of men weer killed the almond plant was destroyed france is of the largest cities in the world the and now
+  REPLACE  ...savaştan önce almıştı i
+      metin  : ki ülkenin genelkurmayları arasındaki görüşmelerde rus tarafı seferberliğin yaklaşık gününde askerle almanya ya saldırmayı taahhüt etmişti bu sözü veren isim o sırada rus genelkurmay başkanı olan komutan yakov jilinski ydi kağıt üzerinde etkileyici rakamdı
+      duyulan: would like to introduce to you jylinski varda
+  REPLACE  ...üzerinde etkileyici rakamdı i
+      metin  : ngiliz basını uçsuz bucaksız insan gücüyle her şeyi ezip geçecek rus ordusuna lakap bile takmıştı buharlı silindir ama silindirin de ısınması gerekir rusya nın demiryolu ağı seyrekti mesafeler devasaydı seferberlik doğal olarak fransa dan da almanya dan da yavaş işliyordu buna rağmen paris gelen her telgraf aynı şeyi istiyordu hemen saldırın rusya sözünü tuttu ordular tam anlamıyla hazır olmadan ikmal kolları geride kalmışken ağustos un ortasında doğu prusya ya girdi hedef almanya nın en doğudaki eyaletiydi burası prusya aristokrasisinin büyük çiftliklerin
+      duyulan: am rinde eki ordu bulanirdu i am rinde eki ordu bulanirdu and i am the director of this project i am the director of this project i am alexander samson the director of this project plan plan plan plan plan plan plan kallan chari telcesdei telcessei sei havaia konusmakdemekti
+  REPLACE  ...aristokrasisinin büyük çiftliklerin ve
+      metin  : eski şatoların yurduydu kaybedilmesi alman kamuoyunda büyük psikolojik darbe olurdu operasyonu yönetecek kuzeybatı cephesi nin başında o sözü veren adamın ta kendisi jilinski vardı emrinde ordu bulunuyordu ordu komutan pavel rennenkampf komutasında doğudan neman nehri yönünden ilerleyecekti i kinci ordu ize komutan aleksandr samsonov komutasında güneyden rus polonyası ndan kuzeye çıkacaktı plan haritada bakınca zarifti i ki kol doğu prusya daki alman ordusunu yandan sıkıştıracak kıskacın çeneleri gibi kapanacaktı ama haritada görünmeyen şey vardı i ki rus ordusunun arasında mazurya gölleri uzanıyordu ormanlarla bataklıklarla ve dar geçitlerle bölünmüş onlarca kilometer genişliğinde doğal engeldi bu rennenkampf ile samsonov birbirini göremeyecek kolayca destekleyemeyecekti kıskacın çenesi ayrı ayrı hareket ediyordu ve aralarındaki boşluk savunan taraf için tam fırsattı almanların elinde bu cephe için tek ordu vardı ordu sayıca rus ordusunun toplamından açıkça azdı ancak avantajı vardı kendi topraklarında iyi kurulmuş demiryolu ağının içinde savaşacaktı rus raylarının açıklığı avrupa standardından farklı olduğu için rus trenleri sınırı geçtikten sonra işe yaramıyordu rus askeri sınırın öbür yanında yürümek zorundaydı alman askeri ize trenle cepheden ötekine günde taşınabilirdi i lk temas doğuda oldu ağustos ta gumbinnen yakınlarında alman birlikleri rennenkampf ın ordusuna saldırdı özellikle komutan august von mackensen in kolordusu ağır kayıp verdi ve geri çekildi ruslar bu ilk büyük çatışmayı kazanmıştı ama zaferi kovalamadılar rennenkampf ın ordusu yorgundu ikmali aksıyordu ve komutan çekilen düşmanın peşine düşmek yerine birliklerini toparlamayı seçti rus ordusunun zaafı daha vardı ve bu zaaf gün içinde bütün savaşın kaderini belirleyecekti haberleşme kolordular arasında telefon ve telgraf hattı çekmek için yeterli kablo yoktu elde kalan çaer telsizdi telsiz ize havaya konuşmak demekti ve havayı herkes dinleyebilirdi gumbinnen
+      duyulan: havaia herkesdiniye bilardi gambinan
+  REPLACE  ...herkes dinleyebilirdi gumbinnen den
+      metin  : gelen
+      duyulan: gelan
+  REPLACE  ...den gelen haberler ordu
+      metin  : komutanı
+      duyulan: komutanu
+  REPLACE  ...ordu komutanı komutan maximilian
+      metin  : von
+      duyulan: van
+  REPLACE  ...komutan maximilian von prittwitz
+      metin  : i sarstı
+      duyulan: isarste prittwitzen en dichesi jalnaz jadodaki en ilgideildi einigun nardegunaydan samsanovun ordusunun sunirigeti haberleridegiliordu bo ikki atesarasundakal makdemekti boak sham
+  REPLACE  ...prittwitz i sarstı prittwitz
+      metin  : in endişesi yalnızca doğudaki yenilgi değildi aynı günlerde güneyden samsonov un ordusunun sınırı geçtiği haberleri de geliyordu bu ateş arasında kalmak demekti o akşam prittwitz koblenz deki alman başkomutanlığı nı arayıp genelkurmay başkanı helmuth von moltke yle konuştu
+      duyulan: koblenzdiki almanbashkomutanluna araip denel kurmaibashkane helmut fonmaltgeile konushtuh
+  REPLACE  ...moltke yle konuştu telefon
+      metin  : görüşmesinin içeriği
+      duyulan: gurushmesinin ichirii
+  REPLACE  ...telefon görüşmesinin içeriği sonradan
+      metin  : pek çok kez aktarıldı
+      duyulan: pekchokke zaktarilde
+  REPLACE  ...kez aktarıldı prittwitz ordusunu
+      metin  : vistül nehri nin gerisine çekmeyi düşündüğünü söylüyordu hatta yazın sığlaşan
+      duyulan: vistul neyrin en gerisinecek medusundunusu iliordu hata yazun su lashan
+  REPLACE  ...yazın sığlaşan nehrin o
+      metin  : hattı bile tutmaya yetmeyebileceğini ekliyordu
+      duyulan: hatte bilatutmaeyetmeey bilajeine ikliordu
+  REPLACE  ...tutmaya yetmeyebileceğini ekliyordu bu
+      metin  : doğu prusya nın tamamen terk edilmesi anlamına geliyordu moltke için kabul edilemezdi aslında karargahta prittwitz in kurmayları
+      duyulan: do prusyanan tamama en tarkidilme se anlamunagiliordu moltkeitchen kabal edul mazdi aslinda karargata prittwitzen kurmaile rebupanikavasana tamamankapalmushti ilde
+  REPLACE  ...prittwitz in kurmayları bu
+      metin  : panik havasına tamamen kapılmış değildi bunu birazdan göreceğiz ama koblenz de karar verilmişti
+      duyulan: nubirazdan gurujes emma koblenzde kararverilmushti
+  REPLACE  ...de karar verilmişti komutan
+      metin  : değişecekti
+      duyulan: deshejekte
+  REPLACE  ...verilmişti komutan değişecekti yeni
+      metin  : kurmay başkanı için seçilen isim belliydi
+      duyulan: kurmaibashkane cin sichilani sembelide
+  REPLACE  ...seçilen isim belliydi erich
+      metin  : ludendorff savaşın ilk günlerinde belçika daki liège kalelerinin düşürülmesinde oynadığı
+      duyulan: ludendorf tabashan ikgunirinde balchika dakilieje kalelirnin dushirulmesinda oinadu
+  REPLACE  ...kalelerinin düşürülmesinde oynadığı rolle
+      metin  : anda ünlenmiş enerjisi
+      duyulan: unnanmish enarjisi
+  REPLACE  ...anda ünlenmiş enerjisi ve
+      metin  : sert disipliniyle tanınan yaşında subaydı ancak ludendorff
+      duyulan: sakdisiplini latananan kurkdokuzi asiandabir subaidi ankak ludendorf
+  REPLACE  ...subaydı ancak ludendorff soylu
+      metin  : değildi
+      duyulan: deilde
+  REPLACE  ...soylu değildi ve ordunun
+      metin  : hiyerarşi kültüründe tek başına orduya
+      duyulan: hirarsi kulturunde tekbashanabirordu ya
+  REPLACE  ...tek başına orduya komuta
+      metin  : etmesi düşünülemezdi itibarlı
+      duyulan: itmesidushunu lemazdi itibarle
+  REPLACE  ...etmesi düşünülemezdi itibarlı sakin
+      metin  : kıdemli
+      duyulan: kadamlibir
+  REPLACE  ...itibarlı sakin kıdemli komutan
+      metin  : gerekiyordu
+      duyulan: geri kyordu
+  REPLACE  ...paul von hindenburg hindenburg
+      metin  : yaşındaydı
+      duyulan: yashindaide
+  REPLACE  ...hindenburg hindenburg yaşındaydı ve
+      metin  : den beri emekliydi hannover deki
+      duyulan: bindokuzuzom danbir emeklide hanauverdeki
+  REPLACE  ...emekliydi hannover deki evinde
+      metin  : sessiz hayat sürüyordu askerlik geçmişi saygın
+      duyulan: sesbirhayatsuriordu askerlek gechmishisaygan
+  REPLACE  ...askerlik geçmişi saygın ama
+      metin  : göz kamaştırıcı değildi gençliğinde da avusturya ya te fransa ya karşı savaşmıştı ağustos ta telgraf geldi hemen göreve hazır olup olmadığı soruluyordu hindenburg un cevabı tek kelimeydi hazırım
+      duyulan: guskamashtir jideilde jainchliinde binsekuzuzaltishaltida avusturyaya binsekuzuzietmishte fransaya karshesavashmishte awustosta teografgalde hemangureve hazerolup olmadu soruljordu hindenburgan jewaba tekbir kelimede hazerum
+  REPLACE  ...kelimeydi hazırım gerisi tren
+      metin  : yolculuğunda şekillendi
+      duyulan: yoeljalu undashekillande
+  REPLACE  ...tren yolculuğunda şekillendi ludendorff
+      metin  : koblenz den doğuya giden özel trenle yola çıktı
+      duyulan: koblen stendoye gedan uzal
+  REPLACE  ...trenle yola çıktı tren
+      metin  : ağustos un şafağa yakın saatlerinde hannover istasyonunda
+      duyulan: nayola cikte tren awustusan shafaya kansatlerin dahenoveristationan da
+  REPLACE  ...istasyonunda durdu ve hindenburg
+      metin  : trene savaşa çıkacak yeni sahra üniforması bile hazırlanmamıştı
+      duyulan: tren e savasya cikajak yinisahra uniformasibile hazerlanmamishte
+  REPLACE  ...üniforması bile hazırlanmamıştı eski
+      metin  : mavi
+      duyulan: mawi
+  REPLACE  ...hazırlanmamıştı eski mavi prusya
+      metin  : üniformasıyla gelmişti peronda tanıştılar
+      duyulan: uniformasila galmishte paranda tene shtilar
+  REPLACE  ...peronda tanıştılar ludendorff yolda
+      metin  : durumu anlattı
+      duyulan: duru muwanlatte
+  REPLACE  ...yolda durumu anlattı hindenburg
+      metin  : dinledi
+      duyulan: dinnede
+  REPLACE  ...anlattı hindenburg dinledi bu
+      metin  : dünya savaşı boyunca almanya nın kaderinde belirleyici olacak ortaklığın ilk adımını o sabah atıyordu ağırbaşlı soğukkanlılığı ötekinin yorulmak bilmeyen hırsıyla birleşecekti
+      duyulan: dunyasawa shiboyunja almayanan kadirinde bilir leijolu jakbir ortaklun ilkadunu osabaha tuordu birininaar bashleso kannalu utekinin yorul makbil meyan hursila bileshejekti
+  REPLACE  ...bilmeyen hırsıyla birleşecekti ama
+      metin  : bu hikayenin en ilginç yanı
+      duyulan: buhikainen enil ginchiyanu
+  ... ve 148 fark daha
+
+metinde olup DUYULMAYAN: 2345 kelime | duyulup metinde OLMAYAN: 1810
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-11-11.duyulan.txt

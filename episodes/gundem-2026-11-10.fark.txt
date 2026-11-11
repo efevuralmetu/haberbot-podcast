@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-10.mp3
+
+beklenen 1377 kelime | duyulan 1381 kelime | eşleşme %93.9
+sayı ifadesi: metinde 265, duyulanda 151  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : aliağa
+      duyulan: aliha
+  INSERT   ...hayatını kaybeden işçi sayısı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...temsilciliklerde düzenlenen törenlerle anılıyor
+      metin  : abd
+      duyulan: ebede
+  REPLACE  ...ediyor associated press yani
+      metin  : ap
+      duyulan: e p
+  REPLACE  ...ajansının verilerine göer demokratlar
+      metin  : senato da
+      duyulan: senatodaki
+  REPLACE  ...meclisi nde de demokratlar
+      metin  : sandalyeyle
+      duyulan: sandalye ile
+  REPLACE  ...yazıyor seçim sonrası tartışmalar
+      metin  : konger ye
+      duyulan: kongreye
+  REPLACE  ...thomas massie savunma bakanı
+      metin  : pete hegseth
+      duyulan: pitt hexett
+  REPLACE  ...pek muhtemel olmadığını söyledi
+      metin  : öte yandan
+      duyulan: el eteyan dan
+  REPLACE  ...emirlikleri nin başkenti abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...danışman gönderiyor devlet başkanı
+      metin  : volodimir
+      duyulan: volodymyr
+  INSERT   ...atılan insansız hava aracından
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...saray normal çalışmasına döndü
+      metin  : polonya
+      duyulan: bologna
+  REPLACE  ...çalışmasına döndü polonya nın
+      metin  : krakov
+      duyulan: krakow
+  REPLACE  ...i klim değişikliği konferansı
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...getiriliyor yapay zeka alanında
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...anthropic kasım da claude
+      metin  : fable nokta
+      duyulan: fabel
+  REPLACE  ...claude fable nokta ve
+      metin  : mythos nokta
+      duyulan: mitos
+  REPLACE  ...zamanları gazetesinin haberine göer
+      metin  : anthropic
+      duyulan: antropik
+  INSERT   ...rekabet sertleşiyor google tpu
+      metin  : (yok)
+      duyulan: tix
+  INSERT   ...sertleşiyor google tpu ve
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...kiralamalarında hizmetlerinin en az
+      metin  : (yok)
+      duyulan: ini
+  DELETE   ...şirket ayrıca robotik alanında
+      metin  : grsıfırt
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...başladı new york borsalarında
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...endeksi ndeki artış yaklaşık
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...işlem görüyor piyasaların bugünkü
+      metin  : odağı
+      duyulan: oda
+  INSERT   ...odağı abd de saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...borsa i stanbul küresel
+      metin  : iyimserliğe
+      duyulan: imserliğe
+  REPLACE  ...olarak güçlü gün geçirdi
+      metin  : bist
+      duyulan: bct
+  INSERT   ...aylık arttı yıllık enflasyon
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...ekim de politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...sonu enflasyonunu olarak bekliyor
+      metin  : tüi k
+      duyulan: türkiye
+  REPLACE  ...nin en acı gündemi
+      metin  : aliağa
+      duyulan: aliya
+  REPLACE  ...sırasında tavan vincinin kopup
+      metin  : ark
+      duyulan: arka
+  REPLACE  ...vermiş kemal kılıçdaroğlu ve
+      metin  : kurultay
+      duyulan: kurulta
+  INSERT   ...ayında yaklaşık milletvekiliyle birlikte
+      metin  : (yok)
+      duyulan: şeyh
+  REPLACE  ...yer aldı okullarda saat
+      metin  : geçe
+      duyulan: u gece
+  INSERT   ...geçe saygı duruşunda bulunulacak
+      metin  : (yok)
+      duyulan: anon
+  REPLACE  ...enflasyon verisi ve abu
+      metin  : dabi
+      duyulan: dhabi
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: gundem-2026-11-10.duyulan.txt

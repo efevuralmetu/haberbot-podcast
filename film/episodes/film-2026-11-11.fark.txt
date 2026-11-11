@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-11.mp3
+
+beklenen 1897 kelime | duyulan 1899 kelime | eşleşme %95.3
+sayı ifadesi: metinde 244, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...oyuncu vasili livanov yönetmen
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...getirdi rus ikona ressamı
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...i van ın çocukluğu
+      metin  : venedik
+      duyulan: de benedik
+  REPLACE  ...senaryosunda da birlikte çalıştığı
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...birlikte çalıştığı andrey konçalovski
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...yle oturdu i ki
+      metin  : andrey andrey i
+      duyulan: andrei andrei yi
+  REPLACE  ...olup olmadığı sorusu senaryo
+      metin  : sovyetler in
+      duyulan: te sovyetlerin
+  REPLACE  ...önemli sinema yayını i
+      metin  : skusstvo kino
+      duyulan: skustvokino
+  REPLACE  ...ilk ad strasti po
+      metin  : andreyu
+      duyulan: andreju
+  REPLACE  ...po andreyu ydu yani
+      metin  : andrey e
+      duyulan: ander ye
+  REPLACE  ...dışında duruyordu ve bu
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...bu kararlar kadar beklenmedikti
+      metin  : anatoli solonitsin
+      duyulan: anatoly solonitsyn
+  REPLACE  ...ikilinin ilk ortak çalışmasıydı
+      metin  : solonitsin
+      duyulan: solonitsyn
+  REPLACE  ...manastır duvarları ve çevrelerindeki
+      metin  : düzlükleriyle rublev in
+      duyulan: düzlükleri ile rublevin
+  REPLACE  ...yakın mekanlardı bunların yanında
+      metin  : pskov
+      duyulan: piskov
+  REPLACE  ...görüntü yönetmeni vadim yusov
+      metin  : la
+      duyulan: ile
+  REPLACE  ...gösterir sonra adam düşer
+      metin  : rublev le
+      duyulan: ruplev ile
+  REPLACE  ...kaçınılmazlığı ardından gelen bölümler
+      metin  : rublev
+      duyulan: ruplev
+  REPLACE  ...düşürür yağmurdan kaçtıkları ahırda
+      metin  : rolan bıkov
+      duyulan: roland bacov
+  REPLACE  ...döverek götürür ihbar eden
+      metin  : rublev
+      duyulan: ruplev
+  REPLACE  ...olarak kiril i değil
+      metin  : rublev
+      duyulan: ruplev
+  REPLACE  ...sahnelerden yaz gecesinde geçer
+      metin  : rublev
+      duyulan: ruplev
+  REPLACE  ...geçmeye çalışır tarkovski burada
+      metin  : hristiyan
+      duyulan: hıristiyan
+  INSERT   ...yanıp tutuşan kardeşi tatarlarla
+      metin  : (yok)
+      duyulan: birlikte
+  REPLACE  ...genç kadını yani filmin
+      metin  : duroçka
+      duyulan: durochka
+  REPLACE  ...konuşmayacak daha resim yapmayacaktır
+      metin  : film
+      duyulan: fil
+  DELETE   ...perde aniden renge bürünür
+      metin  : kamera
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tam hali yaklaşık dakikalık
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...yaklaşık dakikalık andrey e
+      metin  : göer çile
+      duyulan: göreç ile
+  INSERT   ...e göer çile aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...karanlık fazla şiddetli fazla
+      metin  : natüralist
+      duyulan: naturalist
+  REPLACE  ...ve adı da değişti
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...da değişti andrey e
+      metin  : göer çile
+      duyulan: göreç ile
+  REPLACE  ...çile gitti yerine sadece
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...aracılığıyla fransız dağıtımcıya satılmıştı
+      metin  : kan
+      duyulan: da cannes
+  INSERT   ...bazı anlatımlara göer saat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...filmi izleyen eleştirmenler büyülendi
+      metin  : andrey
+      duyulan: andrej
+  INSERT   ...davranılabilir miydi sonunda aralık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da başka makaslar bekliyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...projesi aynı sorunlarla karşılaştı
+      metin  : seksenlerin
+      duyulan: lerin
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: film-2026-11-11.duyulan.txt

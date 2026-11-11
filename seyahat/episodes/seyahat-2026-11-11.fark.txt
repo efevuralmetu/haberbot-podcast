@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-11.mp3
+
+beklenen 1600 kelime | duyulan 1610 kelime | eşleşme %95.5
+sayı ifadesi: metinde 145, duyulanda 131  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sesleri belki uzaktan davul
+      metin  : önlerinde
+      duyulan: yönlerinde
+  REPLACE  ...ağaç gövdesinden oyulmuş dar
+      metin  : pirog
+      duyulan: pirok
+  REPLACE  ...bugün benin in güneyinde
+      metin  : nokue
+      duyulan: nokoya
+  REPLACE  ...insanın atalarının hikayesi kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...atlantik kıyısına doğru genişliyordu
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...ardından kıyıdaki ticaret limanı
+      metin  : uida
+      duyulan: uyida
+  DELETE   ...ki bambaşka kurallarla işliyordu
+      metin  : nokue nin suları
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nokue nin suları göl
+      metin  : atlantiğe
+      duyulan: atlantiye
+  REPLACE  ...ancak suyu bilen gezebilirdi
+      metin  : tofinu
+      duyulan: tofino
+  REPLACE  ...de doğru olmaz ama
+      metin  : tofinu
+      duyulan: tofino
+  REPLACE  ...platformlar platformların üzerine de
+      metin  : saz
+      duyulan: sas
+  REPLACE  ...bu kaçışın hatırasını taşır
+      metin  : ganvie
+      duyulan: ganwey
+  REPLACE  ...yavaş yavaş vatana dönüşür
+      metin  : ganvie
+      duyulan: ganwey de olan da buydu kara insanları kuşaklar boyunca suyun insanlarına dönüşür sığınak yavaş yavaş vatana dönüşür ganwey
+  REPLACE  ...suyun insanlarına dönüştüler bugün
+      metin  : ganvie ye
+      duyulan: ganwey e
+  INSERT   ...ilk kazıklar görünür ardından
+      metin  : (yok)
+      duyulan: eski kıyaslar sonra
+  REPLACE  ...ortasında yayılmış bütün kasaba
+      metin  : ganvie
+      duyulan: ganwey
+  REPLACE  ...gezginlerin taktığı afrika nın
+      metin  : venediği lakabı
+      duyulan: venedi ilakabı
+  REPLACE  ...çoğu yerde güneşte parlayan
+      metin  : oluklu sactır
+      duyulan: oluklusaktır
+  REPLACE  ...her evin önünde bağlı
+      metin  : pirog
+      duyulan: pirok
+  REPLACE  ...kürek tutmayı da öğrenir
+      metin  : gölde kendi boylarından büyük küreklerle tek
+      duyulan: bu
+  REPLACE  ...saygı gösterilmesi gerektiğine inanılır
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...ağ atmaktan ibaret değildir
+      metin  : tofinu
+      duyulan: tofino
+  REPLACE  ...ibaret değildir tofinu gölün
+      metin  : sığlığını
+      duyulan: sığılığını
+  REPLACE  ...bunlar zamanla dalların üzerinde
+      metin  : yosun
+      duyulan: sosun
+  REPLACE  ...dalların üzerinde yosun ve
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  REPLACE  ...kasabanın kendi pazarından geçer
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...kalabalığa dönüşür bu ticaret
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...son yıllarda da güneş
+      metin  : panelleriyle
+      duyulan: panelleri ile
+  REPLACE  ...tütsü dumanı asılı kalır
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...göl sınırsız görünüyordu avuç
+      metin  : aile
+      duyulan: ağ ile
+  REPLACE  ...vardı bugün aynı göl
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...kotonu nun durmadan genişleyen
+      metin  : banliyölerini
+      duyulan: banyolarını
+  REPLACE  ...durmadan genişleyen banliyölerini besliyor
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...daralmanın de insan var
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...kayık akını başladı turistler
+      metin  : ganvie
+      duyulan: ganvi
+  INSERT   ...çok ziyaret edilen yerlerinden
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ulaştığı sıkça dile getiriliyor
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...son çelişki belki de
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...yer oldu yine de
+      metin  : ganvie
+      duyulan: ganvi
+  REPLACE  ...suyun üstünde yaşamayı sürdürüyor
+      metin  : ganvie
+      duyulan: ganvi
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: seyahat-2026-11-11.duyulan.txt
