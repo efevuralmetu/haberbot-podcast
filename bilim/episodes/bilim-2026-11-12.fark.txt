@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-12.mp3
+
+beklenen 2225 kelime | duyulan 2232 kelime | eşleşme %94.6
+sayı ifadesi: metinde 215, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : havay
+      duyulan: havai
+  REPLACE  ...hep birlikte şimdi diyorlar
+      metin  : havay
+      duyulan: havai
+  REPLACE  ...sayıyor bu sorunun cevabı
+      metin  : mikrobiyolojinin
+      duyulan: mikrobiolojinin
+  REPLACE  ...bakteriler birbirleriyle konuşuyor hikaye
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...sonunda harvard üniversitesi nde
+      metin  : biyolüminesans
+      duyulan: biolüminesans
+  REPLACE  ...ve genç meslektaşı kenneth
+      metin  : nealson
+      duyulan: nielsen
+  REPLACE  ...asıl ilgilendikleri bilim insanlarının
+      metin  : vibriyo
+      duyulan: vibrio
+  REPLACE  ...bu maddeyi zamanla tüketiyordu
+      metin  : nealson
+      duyulan: nielsen
+  INSERT   ...ışık genleri açılıyordu ekip
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...o yıllarda pek çok
+      metin  : mikrobiyoloğa
+      duyulan: mikrobioloğa
+  INSERT   ...parlayan kültür vardı belirsizlik
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...saflaştırıp yapısını belirlediler molekül
+      metin  : açil
+      duyulan: acil
+  REPLACE  ...i ki yıl sonra
+      metin  : joanne engebrecht
+      duyulan: te johanne engelbrecht
+  REPLACE  ...ışık vermeyen bağırsak bakterisi
+      metin  : eşerihya koli
+      duyulan: echeria coli
+  REPLACE  ...eşerihya koli ye kısaca
+      metin  : koli
+      duyulan: coli
+  REPLACE  ...kısaca koli bakterisine aktardılar
+      metin  : koli
+      duyulan: coli
+  REPLACE  ...parçası var luxi adlı
+      metin  : enzim
+      duyulan: renzim
+  REPLACE  ...otoindükleyici diyor i kincisi
+      metin  : luxr
+      duyulan: luxar
+  REPLACE  ...alıcı bu sinyal molekülü
+      metin  : luxr ye
+      duyulan: luxar ya
+  REPLACE  ...molekülü luxr ye bağlanınca
+      metin  : luxr
+      duyulan: luxar
+  REPLACE  ...derişim hep düşük kalıyor
+      metin  : luxr
+      duyulan: luxar
+  REPLACE  ...ve belli eşiği geçince
+      metin  : luxr ler
+      duyulan: luxar lar
+  REPLACE  ...küçük oy pusulası atıyor
+      metin  : pusulaların
+      duyulan: pusuların
+  INSERT   ...anda aynı şeyi yapıyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aynı şeyi yapıyor clay
+      metin  : fuqua
+      duyulan: fouca
+  REPLACE  ...için hazır bulunması gereken
+      metin  : asgari
+      duyulan: askari
+  REPLACE  ...akıllıca inceliği daha var
+      metin  : luxr nin
+      duyulan: luxar ın
+  REPLACE  ...açtığı genlerden sinyali üreten
+      metin  : luxi nin
+      duyulan: luxar ın
+  REPLACE  ...çünkü ışık pahalı işığı
+      metin  : lusiferaz
+      duyulan: luciferaz
+  REPLACE  ...ayrıntılarının büyük kısmını margaret
+      metin  : mcfal ngai
+      duyulan: macfaul engie
+  REPLACE  ...onlarca yıl boyunca çözdüler
+      metin  : havay
+      duyulan: havai
+  REPLACE  ...bu ortaklığı denetliyor karen
+      metin  : visick
+      duyulan: vizik
+  DELETE   ...boşaltmanın işlevi olduğu düşünülüyor
+      metin  : popülasyonu taze ve kontrol tutmak ve çevredeki suyu sonraki kuşak yavruları ortak bulabilsin diye ışık bakterisiyle zenginleştirmek
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...meğer neredeyze herkes konuşuyormuş
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...üniversitesi ne geçen bonnie
+      metin  : bassler
+      duyulan: basler
+  REPLACE  ...çoğunluk algılayarak parlıyordu ama
+      metin  : bassler
+      duyulan: basler
+  REPLACE  ...bakterisi fazla sinyali aynı
+      metin  : anda dinliyordu
+      duyulan: bakteriyle aynı bakteriydi
+  INSERT   ...yapanlarda ve zararsız olanlarda
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...son derece alışılmadık şeydi
+      metin  : bassler
+      duyulan: basler
+  REPLACE  ...ortak sinyalle de çevremde
+      metin  : toplam ne kadar bakteri
+      duyulan: tanesi
+  ... ve 35 fark daha
+
+metinde olup DUYULMAYAN: 98 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: bilim-2026-11-12.duyulan.txt

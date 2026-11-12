@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-12.mp3
+
+beklenen 2282 kelime | duyulan 2294 kelime | eşleşme %96.2
+sayı ifadesi: metinde 259, duyulanda 230  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sadece keman ya da
+      metin  : piyano notası
+      duyulan: piyanon oluyor
+  REPLACE  ...kuzey afrika da yaşayan
+      metin  : augustinus tu
+      duyulan: agustin ustu
+  REPLACE  ...sözlerin kendisinden çok taşıyan
+      metin  : nağmenin
+      duyulan: namenin
+  REPLACE  ...gerçekten benim mi yüzyılda
+      metin  : artur şopenhauer
+      duyulan: arthur schopenhauer
+  REPLACE  ...değildir doğrudan varlığın özünü
+      metin  : deyişiyle isteme nin
+      duyulan: değişiyle istemenin
+  REPLACE  ...verir sözsüz melodide ağlıyorsak
+      metin  : şopenhauer
+      duyulan: schopenhauer
+  INSERT   ...sorunun başka ölçmeye başladı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...belirli yapıya müzik kuramında
+      metin  : apojiyatür
+      duyulan: apojiatür
+  REPLACE  ...daha çok ani armoni
+      metin  : değişikliğiyle
+      duyulan: değişikliği ile
+  REPLACE  ...mcgil üniversitesi nde robert
+      metin  : zatorer
+      duyulan: zatoer
+  INSERT   ...nasıl karşılık bulduğunu araştırdı
+      metin  : (yok)
+      duyulan: ki deki
+  REPLACE  ...bölgelerinin devreye girdiği görüldü
+      metin  : valorie salimpoor
+      duyulan: ki de valori salimpor
+  INSERT   ...girebilir mi augustinus tan
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...gevşek şölen havası taşıyan
+      metin  : i yon
+      duyulan: ion
+  REPLACE  ...taşıyan i yon ve
+      metin  : lidya
+      duyulan: lydia
+  REPLACE  ...eder eğitim dinlenme ve
+      metin  : katharsis
+      duyulan: katarsis
+  REPLACE  ...vermiş oluruz kabul etmezsek
+      metin  : augustinus
+      duyulan: agustinus
+  REPLACE  ...müziği göer kulağımıza gelen
+      metin  : nağme
+      duyulan: name
+  REPLACE  ...bozup bozmayacağı değil iyileştirip
+      metin  : iyileştiremeyeceğiydi
+      duyulan: iyileştiremeyecekti
+  REPLACE  ...gösterir sonra yanındaki kesesinden
+      metin  : ud
+      duyulan: ut
+  REPLACE  ...sonra aynı tellerden başka
+      metin  : nağme
+      duyulan: name
+  REPLACE  ...ağlamaya başlar en sonunda
+      metin  : nağme
+      duyulan: name
+  REPLACE  ...çok daha kalıcıdır büyük
+      metin  : musiki
+      duyulan: müsiki
+  REPLACE  ...nehri nin kıyısında sultan
+      metin  : i kinci
+      duyulan: ii
+  INSERT   ...hayreddin e yaptırdığı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tedavi ediyordu yapının kalbinde
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...için çaldığını yazar rast
+      metin  : dügah segah çargah
+      duyulan: düga sega çarga
+  REPLACE  ...olmadığını gösterir edirne deki
+      metin  : darüşşifayı
+      duyulan: darüş şifahi
+  REPLACE  ...ve yasaklarla sınırlandırır bu
+      metin  : darüşşifada
+      duyulan: darüş şifah da
+  INSERT   ...olarak ziyaretçileer açık ve
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...büyük müzik akış platformlarından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yüzyılın sonunda gazali i
+      metin  : hyau
+      duyulan: hya
+  REPLACE  ...gazali i hyau ulumi
+      metin  : d din
+      duyulan: dediğin
+  REPLACE  ...semaya yani müzik ve
+      metin  : nağme
+      duyulan: name
+  REPLACE  ...da hayırla girmedi göer
+      metin  : nağme
+      duyulan: name
+  REPLACE  ...kalbinde tanrı sevgisi olan
+      metin  : nağmeyle
+      duyulan: nameyle
+  REPLACE  ...taşıyan kişide ize aynı
+      metin  : nağme
+      duyulan: name
+  REPLACE  ...korkusu ile edirne deki
+      metin  : darüşşifanın
+      duyulan: darius şifa nın
+  REPLACE  ...şeyi söylüyor gibi müzik
+      metin  : beklentiyle
+      duyulan: beklenti ile
+  REPLACE  ...şey gerçekten benim mi
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+  ... ve 1 fark daha
+
+metinde olup DUYULMAYAN: 46 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: felsefe-2026-11-12.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-12.mp3
+
+beklenen 2966 kelime | duyulan 2956 kelime | eşleşme %95.0
+sayı ifadesi: metinde 362, duyulanda 301  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...toprak taş gibi donmuştu
+      metin  : viks
+      duyulan: vix
+  REPLACE  ...bunun anlamı olabileceğini düşünmüyordu
+      metin  : moris muason
+      duyulan: maurice moisson
+  REPLACE  ...hiç benzemeyen taşlardı bunlar
+      metin  : muason
+      duyulan: moisson
+  REPLACE  ...bunlar muason durumu yakındaki
+      metin  : şatiyon sür sen
+      duyulan: chathion sur saint
+  REPLACE  ...şatiyon sür sen yani
+      metin  : şatiyon
+      duyulan: chathion
+  REPLACE  ...tepesi nde kazı yürüten
+      metin  : röne jofrua a
+      duyulan: rene jofroua
+  REPLACE  ...röne jofrua a bildirdi
+      metin  : jofrua
+      duyulan: jofroua
+  REPLACE  ...kaplı kıvrımlı iri bronz
+      metin  : kulptu
+      duyulan: kulüptü
+  REPLACE  ...taşa çeviren canavar bu
+      metin  : burgonya
+      duyulan: gurgonya
+  REPLACE  ...ekibinin aklındaki bütün ölçüleri
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...krater mezarın yalnızca köşesindeydi
+      metin  : jofrua
+      duyulan: geoffroy
+  REPLACE  ...boynunun yakınında bulunan torktu
+      metin  : tork
+      duyulan: torc
+  REPLACE  ...torktu tork kelt dünyasında
+      metin  : boyna
+      duyulan: boyuna
+  REPLACE  ...ve sert halkaya verilen
+      metin  : addır
+      duyulan: attır
+  REPLACE  ...olduğunu uzaktan ilan ederdi
+      metin  : viks
+      duyulan: wicks
+  REPLACE  ...ilan ederdi viks teki
+      metin  : tork
+      duyulan: torc
+  REPLACE  ...u akla getiriyordu uzmanlar
+      metin  : torkun
+      duyulan: torc un
+  REPLACE  ...göer yunan ya da
+      metin  : etrüsk
+      duyulan: etrusk
+  REPLACE  ...boynunda böylece hem kuzeyin
+      metin  : reçinesi
+      duyulan: recinesi
+  REPLACE  ...figürlü savaş sahnesiyle süslüydü
+      metin  : etrüsklerin
+      duyulan: etrusklerin
+  REPLACE  ...bronz sürahi ve bronz
+      metin  : leğenler
+      duyulan: leyenler
+  REPLACE  ...sofra adabının tam takımıydı
+      metin  : şarap
+      duyulan: çarap
+  REPLACE  ...kalmıştı arkeologlar bu cenazeyi
+      metin  : mö
+      duyulan: milatöde
+  REPLACE  ...bu arkeologlar bu dünyayı
+      metin  : halştat
+      duyulan: harshtadt
+  REPLACE  ...gelen kadehler ya da
+      metin  : etrüsk
+      duyulan: etrusk
+  INSERT   ...pazarda el değiştirebilecek boyutlardaydı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...daki tarlaya nasıl ulaştığı
+      metin  : viks
+      duyulan: vicks
+  REPLACE  ...ve onların arkasında yürüyen
+      metin  : miğferli
+      duyulan: miyferli
+  REPLACE  ...kadın figürü uzmanlar kraterin
+      metin  : mö
+      duyulan: mitvetmeş
+  REPLACE  ...civarında yapıldığını düşünüyor yani
+      metin  : viks
+      duyulan: vicks
+  REPLACE  ...yani viks teki kadın
+      metin  : toprağa
+      duyulan: toprağı
+  REPLACE  ...frizin üzerinde gizliydi restoratörler
+      metin  : friz
+      duyulan: fris
+  REPLACE  ...halinde yola çıkmamıştı gövde
+      metin  : kulplar
+      duyulan: kultlar
+  REPLACE  ...kulplar kapak heykelcik ve
+      metin  : friz
+      duyulan: fris
+  DELETE   ...kuzey kıyısına bakmak gerekiyor
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...koloni kurdular adı massalia
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...de öbür yönü vardı
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...şimdi bu yolu kilogramlık
+      metin  : bronz
+      duyulan: bronze
+  REPLACE  ...sunulurdu yunan tarihçi herodot
+      metin  : da
+      duyulan: ta
+  REPLACE  ...yolda el değiştirdiğini anlatır
+      metin  : viks
+      duyulan: wix
+  ... ve 56 fark daha
+
+metinde olup DUYULMAYAN: 108 kelime | duyulup metinde OLMAYAN: 107
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-11-12.duyulan.txt

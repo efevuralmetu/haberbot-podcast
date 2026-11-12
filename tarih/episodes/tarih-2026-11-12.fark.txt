@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-12.mp3
+
+beklenen 3061 kelime | duyulan 3094 kelime | eşleşme %91.8
+sayı ifadesi: metinde 522, duyulanda 324  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aldı paris yılının sonbaharı
+      metin  : lil sokağı ndaki
+      duyulan: lille sokağındaki
+  REPLACE  ...kadın odaları dolaşıyor adı
+      metin  : mari bastiyan
+      duyulan: marie bastian
+  REPLACE  ...yaşlı kadın büyükelçiliğin askeri
+      metin  : ataşesi maks fon şvartskopen
+      duyulan: ateşesi max von schwarzkopen
+  REPLACE  ...koyup dışarı çıkarıyor çünkü
+      metin  : mari bastiyan
+      duyulan: marie bastian
+  REPLACE  ...casusluğa karşı çalışan küçük
+      metin  : seksiyon dö
+      duyulan: section de
+  REPLACE  ...fransız tarafındaki gözü ve
+      metin  : kulağıydı
+      duyulan: kulağı idi
+  REPLACE  ...bu i nce neredeyze
+      metin  : saydam
+      duyulan: saydan
+  REPLACE  ...saydam kağıda yazılmış fransızların
+      metin  : bordro
+      duyulan: bordreau
+  REPLACE  ...listesi yazan kişi alman
+      metin  : ataşesine
+      duyulan: ateşesine
+  REPLACE  ...bilgiler yolladığını bildiriyor listede
+      metin  : milimetrelik
+      duyulan: mm lik
+  REPLACE  ...düzeninde yapılan değişiklik madagaskar
+      metin  : seferiyle
+      duyulan: seferi ile
+  INSERT   ...yalnızca casusluk vakası değildi
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...söylüyordu bölümün başında albay
+      metin  : jan
+      duyulan: john
+  REPLACE  ...birleştirip yorumlayanlardan de übert
+      metin  : jozef anri ydi
+      duyulan: joseph henry idi
+  INSERT   ...battı alfred dreyfus dreyfus
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dreyfus dreyfus alsas ın
+      metin  : müluz
+      duyulan: mülus
+  REPLACE  ...sınıfında yahudi subay yadırganan
+      metin  : azınlıktı
+      duyulan: azımlıktı
+  REPLACE  ...ölçüm sistemiyle ün yapmış
+      metin  : alfons bertiyon
+      duyulan: alphonse berthion
+  REPLACE  ...yapmış alfons bertiyon du
+      metin  : bertiyon
+      duyulan: berthion
+  INSERT   ...da aynı sonuca götürüyordu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...sivil kıyafetle bakanlığa çağrıldı
+      metin  : arman dü pati dö
+      duyulan: armandü patide
+  REPLACE  ...tutuldu ama hafta sonra
+      metin  : eduar drümon
+      duyulan: eduard drummond
+  REPLACE  ...yahudi karşıtı gazete la
+      metin  : libr
+      duyulan: lieb
+  REPLACE  ...ortadayken savaş bakanı general
+      metin  : ogüst mersiye
+      duyulan: auguste mersi ye
+  INSERT   ...itibarını kaybetmek demekti aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...savunma bu boşluğu zorluyordu
+      metin  : anri kürsüye
+      duyulan: henri cursu ya
+  REPLACE  ...ne de avukatı edgar
+      metin  : dömanj
+      duyulan: domanche
+  REPLACE  ...en ünlü belge yabancı
+      metin  : ataşenin
+      duyulan: ateşenin
+  INSERT   ...adların sonu yoktu aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sonu yoktu aralık hakim
+      metin  : oybirliğiyle
+      duyulan: oy ile
+  REPLACE  ...soğuk gri kış sabahı
+      metin  : ekol
+      duyulan: ecole militaier
+  REPLACE  ...genç gazeteci de var
+      metin  : teodor hertsl
+      duyulan: theodor herzl
+  REPLACE  ...adaları nın en küçüğü
+      metin  : i l dü diyabl
+      duyulan: ile du diab
+  REPLACE  ...şeytan adası daha önce
+      metin  : cüzzamlıların
+      duyulan: cüzdanlıların
+  INSERT   ...için hazırlanmıştı dreyfus nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ağırı haber alamamaktı karısı
+      metin  : lüsi
+      duyulan: lucy
+  REPLACE  ...gerçek gün ortaya çıkacaktı
+      metin  : lüsi
+      duyulan: lucy
+  REPLACE  ...ize aile vazgeçmemişti ağabeyi
+      metin  : matyö
+      duyulan: mattheo
+  REPLACE  ...bile başvurdu genç yazar
+      metin  : bernar lazar
+      duyulan: bernard lazard
+  INSERT   ...yazar bernar lazar kasım
+      metin  : (yok)
+      duyulan: da
+  ... ve 106 fark daha
+
+metinde olup DUYULMAYAN: 168 kelime | duyulup metinde OLMAYAN: 212
+bölme/birleşme farkı (hata değil, elendi): 37
+
+duyulan metin: tarih-2026-11-12.duyulan.txt

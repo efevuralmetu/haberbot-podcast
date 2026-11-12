@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-12.mp3
+
+beklenen 2296 kelime | duyulan 1989 kelime | eşleşme %15.1
+sayı ifadesi: metinde 238, duyulanda 117  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...prescribed music as medicine
+      metin  : akşam radyoda adını bile bilmediğiniz parça çalıyor söz yok sadece keman ya
+      duyulan: bein gelece kolana sez di an
+  REPLACE  ...sadece keman ya da
+      metin  : piyano notası hiçbir şey anlatmıyor ortada
+      duyulan: daha ogal med an odu landryor du kendine babolgular sorry you chose meor ama bicimini de istryor musik shei item si lehtme se bille zamanan i cinde jaluk kuryor ummut erteleme kavushma belki deses melodi de alla mamazan nedene hayatan kendi sinnin debuyapada olmasse beckley oras ertaleni oras bazen kavushy oras beli bezebo hi kyanen nekahramanen neme kyanen veryor saadeje iskeletene veryor ama er musikin sananichi
+  REPLACE  ...şey anlatmıyor ortada ne
+      metin  : ölen kahraman var ne kavuşamayan aşıklar yine de boğazınızda düğüm oluşuyor gözleriniz doluyor sonra kendinize kızıyorsunuz çünkü ağlamak için ortada neden yok ya da var da siz adlandıramıyorsunuz felsefenin en eski ve en inatçı sorularından bu basit sahnenin içinde saklı sözcükler olmadan kavram olmadan hatta anlam olmadan dizi titreşim nasıl oluyor da insanın içine dokunuyor resim size şeyi gösterir roman şeyi anlatır ama melodi neyi temsil eder do notası neyin resmidir bu soruyu en çok dert edinenlerden yüzyılın sonlarında kuzey afrika da yaşayan augustinus tu i tiraflar adlı eserinde da kilisede duyduğu ilahileri anlatır o seslerin kulağına aktığını hakikatin de onlarla birlikte yüreğine damladığını gözyaşlarının durmadan aktığını yazar ama hemen ardından huzursuzlanır kimi zaman sözlerin kendisinden çok taşıyan nağmenin kendisini sürüklediğini fark eder ve bunu kusur sayar anlamın değil sesin ağlatması göer ruhun yanlış şeye teslim olması demektir yıl önce yazılmış bu satırlar bugün sözsüz parçada gözleri dolan herkesin içindeki o tuhaf utancı anlatıyor gibi neden ağladığımı bilmiyorsam bu duygu gerçekten benim mi yüzyılda arthur schopenhauer bu soruya cüretkar cevap verdi göer öteki sanatlar dünyadaki şeylerin kopyalarını sunar müzik ize hiçbir şeyin kopyası değildir doğrudan varlığın özünü deyişiyle isteme nin kendisini dile getirir bu müzik bize belirli kişinin hüznünü değil hüznün kendisini belirli sevinci değil sevincin özünü verir sözsüz melodide ağlıyorsak schopenhauer a bakılırsa hikayeye ağlamıyoruz hikayelerin altındaki daha derin şeye ağlıyoruz bu metafizik iddia ve laboratuvarda sınanamaz ama yüzyılın sonunda bilim insanları sorunun başka ölçmeye başladı de i ngiliz müzik psikoloğu john sloboda dinleyicilerden kendilerini ağlatan ya da tüylerini diken diken eden pasajları işaretlemelerini istedi ortaya çıkan tablo şaşırtıcı ölçüde düzenliydi gözyaşı çoğunlukla belirli yapıya müzik kuramında apojiyatür denen geciktirilmiş nota çözülmesine denk geliyordu melodi an beklenen yerin hemen yanına basıyor kısa gerginlik yaratıyor sonra asıl yerine çözülüyordu tüylerin diken diken olması ize daha çok ani armoni değişikliğiyle ilişkiliydi yani o açıklanamaz duygunun içinde zanaat vardı beklenti kurmak an askıda bırakmak ve sonra karşılamak kanada daki mcgil üniversitesi nde robert zatorer ve ekibi bu beklenti oyununun beyinde nasıl karşılık bulduğunu araştırdı deki çalışmada dinleyicilerin tüylerini ürperten müzik anlarında beynin yemek ve başka temel hazlarla ilişkili ödül bölgelerinin devreye girdiği görüldü de valorie salimpoor un önderliğindeki çalışma adım daha ileri gitti dinleyicilerin en sevdikleri parçaların doruk anlarında beyinde dopamin salındığı gösterildi daha da ilginci dopaminin ayrı anda yükselmesiydi doruk anının kendisinde öteki hemen önce beklentinin büyüdüğü saniyelerde beyin gelecek olanı sezdiği anda daha o gelmeden ödüllendiriyordu kendini bu bulgular soruyu çözmüyor ama biçimini değiştiriyor müzik şeyi temsil etmese bile zamanın içinde yolculuk kuruyor umut erteleme kavuşma belki de sözsüz melodide ağlamamızın nedeni hayatın kendisinin de bu yapıda olması bekliyoruz erteleniyoruz bazen kavuşuyoruz melodi bize bu hikayenin ne kahramanını ne mekanını veriyor sadece iskeletini veriyor ama eğer müzik insanın içine bu kadar doğrudan akıldan izin
+      duyulan: bukadar dorudan akildan isin
+  REPLACE  ...doğrudan akıldan izin almadan
+      metin  : girebiliyorsa çok daha rahatsız edici soru ortaya çıkıyor bu kapıdan yalnızca gözyaşı mı
+      duyulan: girebil yorsa chokdaha rahatsuz edi jibisoro orteye chikuyor buka pudan yalnuz jagoz yasimu
+  REPLACE  ...girer yoksa karakter ahlak
+      metin  : hatta siyasi düzen
+      duyulan: hata siase duzan
+  REPLACE  ...hatta siyasi düzen de
+      metin  : girebilir mi augustinus tan önce atina da bu soru çok daha
+      duyulan: girebilirme agustinus dansekis yuzielunje atinada busoro chokdaha
+  REPLACE  ...soru çok daha keskin
+      metin  : biçimde sorulmuştu
+      duyulan: bichim de sorul mushtu
+  REPLACE  ...keskin biçimde sorulmuştu ve
+      metin  : verilen cevap bugün kulağa ürkütücü geliyor platon un politeia
+      duyulan: rilanjewa bugyun kula urkutu jugelyor pletonun politea
+  REPLACE  ...platon un politeia yani
+      metin  : devlet adlı diyaloğunda sokrates ideal şehrin nasıl kurulacağını tartışırken
+      duyulan: deblet adl dia londa socrates i diail shehrin nasil kurulu jaana tartu shirkyan
+  REPLACE  ...nasıl kurulacağını tartışırken noktada
+      metin  : müziğe gelir
+      duyulan: muzieyegelir
+  REPLACE  ...noktada müziğe gelir ve
+      metin  : neredeyze sansür
+      duyulan: narede se san sur
+  REPLACE  ...ve neredeyze sansür kurulu
+      metin  : gibi konuşmaya başlar
+      duyulan: gibikonu shmayabashlar
+  REPLACE  ...konuşmaya başlar antik yunan
+      metin  : müziğinde
+      duyulan: musiinde
+  REPLACE  ...antik yunan müziğinde harmonia
+      metin  : denen bugün kabaca
+      duyulan: denan bugyun kabaja
+  INSERT   ...denen bugün kabaca makam
+      metin  : (yok)
+      duyulan: yada dizidiye dushunne bilijemis faktleses duzan nerewarde ve har ruhta faktle isbraktuna inanul yordu devletin uchunju kita banda socrates ad hawasatashyan mik so lidiye duzeni gibi diziliyeren shehir dan chikaril masagerekti ini soilar chunku bunar kadan na rabbila
+  REPLACE  ...bugün kabaca makam ya
+      metin  : da dizi diye düşünebileceğimiz farklı ses düzenleri vardı
+      duyulan: kushmi jakbir sizlan maya ashilar jev shek sholain hawasatashyan eon
+  REPLACE  ...ses düzenleri vardı ve
+      metin  : her ruhta farklı iz bıraktığına inanılıyordu devlet
+      duyulan: lidiye duzeniye nerde shehrin kuru yujulari ichin uygun de yildir chunku yumu shaklik ve sar hoshluk getirir gerea ikki duzeniyan kalar duzeni sabashta ve tehli ke ananda yit chedirenan
+  REPLACE  ...bıraktığına inanılıyordu devlet in
+      metin  : kitabında sokrates ağıt havası taşıyan miksolidya düzeni gibi dizilerin şehirden çıkarılması gerektiğini söyler çünkü bunlar kadınlara bile yakışmayacak sızlanmayı aşılar gevşek şölen havası taşıyan i yon
+      duyulan: sanan seseni taaktli te dar etekki frigya duzeni barashi cinde ulchulu
+  REPLACE  ...taşıyan i yon ve
+      metin  : lidya düzenleri
+      duyulan: karali yashayan in sanan seseni socrates chalgalar bilayiklar chok telli karmashik chalgalar ve uzaalikle aulostenan nefesli chalgu shehir
+  REPLACE  ...ve lidya düzenleri de
+      metin  : şehrin koruyucuları için uygun değildir çünkü yumuşaklık ve sarhoşluk getirir geriye düzen kalır dor düzeni savaşta ve tehlike anında yiğitçe direnen insanın sesini taklit eder öteki frigya düzeni barış içinde ölçülü ve kararlı yaşayan insanın sesini sokrates çalgıları bile ayıklar çok telli karmaşık çalgılar ve özellikle aulos denen nefesli çalgı şehirde istenmez
+      duyulan: istan mas
+  REPLACE  ...şehirde istenmez lir ve
+      metin  : kithara yeter bugün bu satırları
+      duyulan: kitara yatar bugun busatr lero
+  REPLACE  ...bu satırları okuyan ilk
+      metin  : anda gülümseyebilir
+      duyulan: andagulum seya bilir
+  REPLACE  ...ilk anda gülümseyebilir hangi
+      metin  : makamın çalınacağına
+      duyulan: makamun chalan jana
+  REPLACE  ...makamın çalınacağına devlet mi
+      metin  : karar verecek
+      duyulan: karavir jek
+  REPLACE  ...mi karar verecek ama
+      metin  : platon un bu konuda ne kadar ciddi olduğunu anlamak için kitaptaki cümleye
+      duyulan: plaitenan bukonu da nekadar jid di uldu no annamakit cindurdun jikitaptaki jumleya
+  REPLACE  ...kitaptaki cümleye bakmak gerekir
+      metin  : orada sokrates kendisinden önceki müzik kuramcısı damon a
+      duyulan: ora da socrates kendisindan unjiki musik kuramjisa dei mona
+  REPLACE  ...kuramcısı damon a dayanarak
+      metin  : müziğin biçimleri değiştiğinde şehrin
+      duyulan: muzin bichimneri deishtinde shehirin entem al yasalirananda labir likte sar selejana seulat ekanun suzlukunje sharkilaran ichinesasar masum elanjegi bi gurunur sonra yavash yavash alishkan liklara ora danan nashmalara
+  REPLACE  ...biçimleri değiştiğinde şehrin en
+      metin  : temel yasalarının
+      duyulan: sonan
+  REPLACE  ...en temel yasalarının da
+      metin  : onlarla birlikte sarsılacağını söyler göer kanunsuzluk önce şarkıların içine sızar masum eğlence gibi görünür sonra yavaş yavaş alışkanlıklara oradan anlaşmalara en sonunda da yasalara ve anayasaya ulaşır
+      duyulan: yasalirave anaya seyulashir
+  REPLACE  ...ve anayasaya ulaşır bu
+      metin  : müziğin ruhu değiştirebileceğine
+      duyulan: muzin ruhudayishtir bilejena
+  REPLACE  ...müziğin ruhu değiştirebileceğine dair
+      metin  : yazılmış belki
+      duyulan: yazil musbalke
+  REPLACE  ...dair yazılmış belki de
+      metin  : en güçlü iddiadır platon için melodi süs değil eğitim aracıdır çocuk henüz akıl yürütemeden önce ritim
+      duyulan: enguchri idadar plaitan echin melodee suhsteil eytim arajidar chojuk henu zakal yurutem adanun jeritim
+  REPLACE  ...önce ritim ve ahenk
+      metin  : aracılığıyla güzele ve düzene alıştırılır böylece büyüdüğünde akıl iyinin ne olduğunu anlattığında
+      duyulan: arajiluilaguzele veduzan alishtirulur boileje buyudun de akalona inan neolun anatun da
+  REPLACE  ...ne olduğunu anlattığında eski
+      metin  : gibi tanır eğer
+      duyulan: bitanur er
+  REPLACE  ...gibi tanır eğer bu
+      metin  : doğruysa yanlış müzik yanlış
+      duyulan: dorusa yannush musik yannush
+  REPLACE  ...yanlış müzik yanlış insan
+      metin  : yetiştirir platon
+      duyulan: yetishtirur plaitan
+  REPLACE  ...insan yetiştirir platon un
+      metin  : öğrencisi aristoteles müziğin karakter üzerindeki etkisini hocası kadar ciddiye aldı ama bazı yerlerde karşı çıktı
+      duyulan: ur anjize aristotel es muzin karakteru zerinde ki etki sinu hoja sukadar jid dia alde amabazi arlar da suchikta
+  REPLACE  ...yerlerde karşı çıktı politika
+      metin  : adlı
+      duyulan: adla
+  REPLACE  ...çıktı politika adlı eserinin
+      metin  : kitabında müziğin işlevinden söz eder eğitim dinlenme ve katharsis
+      duyulan: sekizinjikitabanda muzin uchishlevin dan suzedar eytim din nanmewe katar sis
+  REPLACE  ...dinlenme ve katharsis yani
+      metin  : arınma aristoteles e göer coşkulu hatta taşkın melodiler bile değersiz değildir duyguları birikmiş insanlar böyle müziklerle tür boşalma yaşar ve rahatlar ayrıca hocasının frigya düzenini şehirde tutup
+      duyulan: arunma aristotel zaguer koshkulu hat da tashkan melodilar biladear sis deildar doigulur birikmish insan nar boile musiklar le turbo shalma yashar vera hatlar ayruja hoja sanan frigyaduzenin sehir de tup
+  ... ve 165 fark daha
+
+metinde olup DUYULMAYAN: 1967 kelime | duyulup metinde OLMAYAN: 1661
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-11-12.duyulan.txt

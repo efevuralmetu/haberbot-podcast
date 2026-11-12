@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-11.mp3
+
+beklenen 1290 kelime | duyulan 1318 kelime | eşleşme %92.8
+sayı ifadesi: metinde 267, duyulanda 146  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : copotuz
+      duyulan: çoğu potuz
+  REPLACE  ...lider iklim krizine karşı
+      metin  : ortak adımları
+      duyulan: orta kadınları
+  REPLACE  ...açılışta bm genel sekreteri
+      metin  : antonyu guteriş
+      duyulan: antonio guteres
+  REPLACE  ...ile brezilya devlet başkanı
+      metin  : luiz i nasyu
+      duyulan: luis inácio
+  INSERT   ...günün teması atık saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...atık saat türkiye nin
+      metin  : copotuz
+      duyulan: çeop
+  REPLACE  ...güzergahlarda trafik tedbirleri uygulanıyor
+      metin  : abd
+      duyulan: ebide
+  REPLACE  ...süren savaşın askeri açıdan
+      metin  : fiilen
+      duyulan: filen
+  REPLACE  ...hazır olduğunu da vurguladı
+      metin  : katar
+      duyulan: qatar
+  REPLACE  ...trump sosyal medya platformu
+      metin  : truth
+      duyulan: true
+  REPLACE  ...pentagon un başındaki pete
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...pete hegseth için başlatılan
+      metin  : azil
+      duyulan: aziz
+  REPLACE  ...başlatılan azil girişimine karşı
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...in yanında duracağını söyledi
+      metin  : hegseth
+      duyulan: hexett
+  REPLACE  ...yüksek mahkemesi yönetimin big
+      metin  : bend
+      duyulan: band
+  REPLACE  ...emirlikleri nin başkenti abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...hava aracı ve balistik
+      metin  : füzeyle
+      duyulan: füze ile
+  REPLACE  ...ize güney koer nin
+      metin  : gyonggi
+      duyulan: gyeonggi
+  REPLACE  ...gyonggi eyaletine bağlı bundang
+      metin  : da
+      duyulan: ta
+  INSERT   ...yaklaşık araca çarptı kazada
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...fazla kişi yaralandı yaralılardan
+      metin  : (yok)
+      duyulan: unun
+  REPLACE  ...gözler yapay zeka şirketi
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...zeka şirketi anthropic in
+      metin  : halka
+      duyulan: halkı
+  REPLACE  ...ın eylül ile biten
+      metin  : çeyrekte
+      duyulan: çeyrek de
+  REPLACE  ...gün işletmeleer yönelik yeni
+      metin  : chatgpt
+      duyulan: çat gpt
+  REPLACE  ...chatgpt özelliğini de tanıttı
+      metin  : çip
+      duyulan: chip
+  REPLACE  ...onayladığı aktarıldı bu adım
+      metin  : çip tedarikçileriyle
+      duyulan: chip tedarikçileri ile
+  REPLACE  ...yeni sistem ekledi tpu
+      metin  : şifreli
+      duyulan: stick cifreli
+  INSERT   ...çıkarım yapmak için tpu
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...google ın ekimde genel
+      metin  : kullanıma
+      duyulan: kullanımı
+  REPLACE  ...ekimde genel kullanıma açtığı
+      metin  : ceminay
+      duyulan: gemini
+  REPLACE  ...başında sona ermesi ve
+      metin  : api
+      duyulan: apa
+  REPLACE  ...bu veri federal reserve
+      metin  : ün
+      duyulan: ın
+  INSERT   ...puanlık artış yapma olasılığı
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...yıllık tahvil faizi yeniden
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...yükseldi wal street te
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...esenpi endeksi pazartesi günkü
+      metin  : (yok)
+      duyulan: lik
+  INSERT   ...puandan tamamladı endeksteki hisselerin
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...tamamladı endeksteki hisselerin geriledi
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...raporu nu yarın saat
+      metin  : (yok)
+      duyulan: da
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: gundem-2026-11-11.duyulan.txt

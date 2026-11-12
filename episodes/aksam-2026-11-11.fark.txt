@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: aksam-2026-11-11.mp3
+
+beklenen 1003 kelime | duyulan 3449 kelime | eşleşme %42.8
+sayı ifadesi: metinde 566, duyulanda 328  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : önce
+      duyulan: i yi akşamlar neuron haber akşam bülten in de bugünün öne çıkan gelişmelerini sizin için değerledik ve değerlendirdik bugün kasım çarşamba ben pınar ben barış bu akşam dünyadan ekonomiye teknolojiden türkiye gündemine günün öne çıkan başlıklarını birlikte ele alıp değerlendireceğiz pınar söz sende şimdi gözümüzü sınırların ötesine çeviriyoruz dünyada ve amerika birleşik devletleri nde gün oldukça yoğun geçti başlıklara birlikte bakalım detturca
+  REPLACE  ...emirlikleri nin başkenti abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...rus heyetinin başındaki vladimir
+      metin  : medinski
+      duyulan: medinsky
+  REPLACE  ...meselesinde ilerleme kaydedilmedi moskova
+      metin  : donbas
+      duyulan: dombass
+  REPLACE  ...moskova da vladimir putin
+      metin  : le
+      duyulan: ile
+  REPLACE  ...i rlanda ya geçip
+      metin  : volodimir zelenskiy
+      duyulan: vladimir zelensky
+  REPLACE  ...nato temsilcileri de abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...adım tahran ile buenos
+      metin  : ayres
+      duyulan: aires
+  INSERT   ...ebola salgınında vaka sayısının
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...verilerine göer ölü sayısı
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...büyük sendikası ugt ve
+      metin  : ccoo
+      duyulan: cso
+  INSERT   ...verdiği ilk genel grev
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...dönüş olarak yorumlanıyor ve
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...hukuki gelişme aktaralım federal
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...günü nasıl okuyorsun barış
+      metin  : (yok)
+      duyulan: bence bugünün ortak paydası masada kalıp sonuca varamayan diplomasi abu dhabi den çıkan esir takası insani açıdan çok değerli ama toprak meselesinde kimse geri adım atmadığı sürece bu tür anlaşmalar barış ın kendisi değil ancak güven inşa etmeye yönelik küçük tuğlalar olarak kalacak o yarın ki moskova görüşmesi asıl turnusol kağıdı olacak i ran ın zenginleştirilmiş malzeme konusundaki katı çizgisi de aynı resmin parçası washington ın daha geniş bölgesel denklem kurmaya çalıştığı dönemde tahran pazarlık gücünü elinden bırakmak istemiyor exxonmobil in venezuela ya dönüş sinyali ize enerji güvenliği hesaplarının siyasi mesafeleri nasıl yumuşatabildiğini gösteriyor amerika nın iç siyasetine baktığımızda senato nun el değiştirecek olması önümüzdeki yıl boyunca beyaz saray ın atama ve yasama gündemini doğrudan etkileyecek adaylık bu acele tam da o i spanya daki grev ve kongo daki salgın da bize şunu hatırlatıyor konut ücret ve halk sağlığı gibi gündelik meseleler büyük jeopolitik başlıklar kadar seçimleri ve hükümetlerin kaderini belirleyebiliyor akşamın teknoloji ve yapay zeka gündemine geçiyoruz bugün yine borsadan hükümetleer pek çok cephede hareket var
+  REPLACE  ...haberimiz yapay zeka şirketi
+      metin  : anthropic claude
+      duyulan: antropik cloud
+  REPLACE  ...claude modellerinin geliştiricisi şirket
+      metin  : halka
+      duyulan: halkı
+  REPLACE  ...piyasa değeri anlamına geliyor
+      metin  : cnbc
+      duyulan: jnbc
+  REPLACE  ...var new york valisi
+      metin  : kathy hochul
+      duyulan: cathy hockle
+  INSERT   ...binghamton üniversitesi bünyesindeki merkezde
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...new york un ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...un ocak yürürlüğe girecek
+      metin  : raize
+      duyulan: rice
+  REPLACE  ...girecek raize act yani
+      metin  : raize
+      duyulan: rice
+  REPLACE  ...abd hazine bakanı scott
+      metin  : bessent
+      duyulan: besant
+  REPLACE  ...in taraftan yapay zeka
+      metin  : modelleriyle
+      duyulan: modelleri ile
+  REPLACE  ...iletişim kanalı kurduğunu söyledi
+      metin  : bessent
+      duyulan: besant
+  REPLACE  ...eşya takip cihazı pixel
+      metin  : tag
+      duyulan: tech
+  REPLACE  ...cihazı pixel tag bugün
+      metin  : itibarıyla
+      duyulan: itibariyle
+  REPLACE  ...itibarıyla satışa çıktı cihazın
+      metin  : tekli
+      duyulan: teklif
+  REPLACE  ...ize dolar takip cihazı
+      metin  : kişiyle
+      duyulan: kişi ile
+  REPLACE  ...bağlama uygun bilgi sunan
+      metin  : ceminay
+      duyulan: gemini
+  INSERT   ...bu resim nasıl görünüyor
+      metin  : (yok)
+      duyulan: bence bugünün haberlerini aynı hikayenin olarak okumak lazım pınar yanda antropik in trilyon dolarlık halka arzı yapay zekanın artık laboratuvar meselesi olmaktan çıkıp küresel finansın merkezine yerleştiğini gösteriyor öbür yanda new york un test merkezi avustralya nın düzenleyicisi ve washington ile pekin arasındaki uyarı kanalı devletlerin bu hıza ayak uydurmak için kurumsal altyapı kurmaya başladığını ortaya koyuyor rekabet halindeki büyük gücün bile ortak kriz hattı üzerinde uzlaşması riskin artık ulusal sınırları aşan konu olarak görüldüğünün işareti önümüzdeki dönemde asıl belirleyici olan da sanırım şu olacak yatırım iştahı ile denetim kapasitesi arasındaki mesafe ne kadar hızlı kapanacak gelelim ekonomiye ve piyasalara çarşamba gününün gündemini abd den gelen enflasyon verisi belirledi ama borsa i stanbul da hava daha olumluydu verle önce borsayla başlayalım bistey endeksi dün günü düşüşle puandan kapatmıştı bugün ize yükselişle puandan açıldı öğle saatlerinde kazancı e çıktı ve endeks puana yükseldi gün içinde ile puan arasında hareket etti analistler ve puanı direnç ve puanı destek olarak izliyor hatırlatalım endeks pazartesi günün son haftanın en yüksek kapanışını yapmıştı döviz tarafında dolar bugün liradan güne başladı ve gün boyunca ile lira arasında dar bantta kaldı geçen cuma lira civarında kapanan kur yatay seyrini koruyor avro ize lira dolayında gram lira civarında işlem görüyor dün sabah liranın üzerindeydi yani son saatte miktar geriledi da dolar sınırında dalgalanıyor günün en çok konuşulan haberi abd den geldi ekim ayında abd de tüketici fiyatları aylık arttı piyasa bekliyordu gıda ve enerji hariç çekirdek enflasyon da ile beklentiyi aştı ve üst üste aydır aynı hızda artıyor verinin ardından abd merkez bankası yani fed in yöneticilerinden sert mesajlar geldi fed yöneticisi christopher waller enflasyon güçlü kalırsa aralık toplantısında bas puanlık artırımın konuşulması gerektiğini söyledi dallas fed başkanı laurie logan da en az kez daha bas puanlık artış gerekebileceğini belirtti piyasalar artık fed in aralık toplantısında faiz artırımını neredeyze kesin olarak görüyor fed in kararı aralık ta açıklanacak bu beklenti ile dolar endeksi seviyesine yani haftanın zirvesine çıktı emtia tarafında brent petrol ün varili bugün artışla dolara yükseldi petroldeki her artış enerjiyi büyük ölçüde ithal eden türkiye için hem enflasyon hem de dış ticaret açısından yakından takip ediliyor i çeride de umut veren veri var tüik dün eylül ayı sanayi üretimi rakamlarını açıkladı ağustos ta aylık ve yıllık gerileyen sanayi üretimi eylül de aylık ve yıllık arttı i malat sanayide yıllık büyüdü bu artışla sanayi üretimi son ayın en güçlü görüntüsünü verdi haftanın kalan kısmında gözler cuma gününde olacak türkiye cumhuriyet merkez bankası eylül ayı ödemeler dengesini kasım saat da açıklayacak cari işlemler ağustos ta dolar fazla vermişti barış yanda amerika da faiz artırımı konuşuluyor yanda bizim borsa yükseliyor bu tabloyu sen nasıl okuyorsun pınar bugün resmin yarısı farklı şeyler söylüyor amerika da beklentiyi aşan enflasyon ve sertleşen fed söylemi küresel fonların yüksek getirili ve riskli piyasalara bakışını genelde zorlaştırır normalde bu durum hem hem gelişmekte olan ülke borsalarını baskılar altındaki geri çekilmede zaten bunun yansıması buna rağmen borsa i stanbul un yükselmesi yatırımcıların şimdilik içerideki toparlanma işaretlerine odaklandığını gösteriyor eylül de sanayi üretiminin yeniden artışa geçmesi bunun en somut örneği kurda yaşanan sakin ve kontrollü seyir de hem ihracatçı hem yatırımcı için öngörülebilirlik sağlıyor yine de doları aşan petrol ve aralık taki fed kararı önümüzdeki haftaların ana risk başlıkları olacak bu cuma günü açıklanacak cari işlemler verisi bu iyimserliğin ne kadar sağlam zemine dayandığını görmek açısından kritik test akşam bültenimizde şimdi türkiye gündemine geçiyoruz bugün ekonomi yönetimi meclis ve muhalefet cephesinde aynı anda hareketli saatler yaşandı günün en çok konuşulan gelişmesiyle başlayalım bankacılık düzenleme ve denetleme kurumu başkanı şahap kavcıoğlu bugün sosyal medyadan yaptığı açıklamayla cumhurbaşkanı recep tayyip erdoğan dan görevden affını istediğini duyurdu kavcıoğlu bu kararı kurumun daha fazla yıpranmaması için aldığını söyledi karar i stanbul cumhuriyet başsavcılığının yürüttüğü fon soruşturması kapsamında kurumun başkan yardımcısı muhammed erişen ile daier başkanı bilal soysal ve mustafa alpertaş ın tutuklanmasının ardından geldi kavcıoğlu hakkındaki iddiaları kesin dille reddetti kendisinin ve ailesinin fonda ya da borsada parası olmadığını kurumun soruşturmadaki fonla bağı bulunmadığını belirtti kurum da iddiaları yalanlayarak hukuki süreç başlatacağını açıkladı kavcıoğlu ayrıca iddiaları dile getiren savcı sayan hakkında suç duyurusunda bulunduğunu söyledi cumhurbaşkanlığından talebin kabul edildiğine dair resmi duyuru ize şu ana kadar yapılmadı hatırlatalım kavcıoğlu ile arasında merkez bankası başkanlığı yapmış haziran de bu kurumun başına getirilmişti antalya da ize cheop yani birleşmiş milletler i klim değişikliği taraflar konferansı kapsamında liderler zirvesi bugün başladı açılışta konuşan cumhurbaşkanı erdoğan türkiye nin dönem başkanlığını pratik ve sonuç odaklı anlayışla üstlendiğini anlattı erdoğan iklim krizi karşısında yalnızca şikayet etmek ile harekete geçmek arasında tercih yapılması gerektiğini vurguladı gelişmiş ülkeleer de emisyon azaltımı ve iklim finansmanında daha fazla sorumluluk alma çağrısı yaptı konuşmasının son bölümünü gazze ye ayıran erdoğan bölgedeki tablonun aynı zamanda büyük çever yıkımı olduğunu söyledi ve insani yardımların önünün açılmasını istedi zirveye ülkeden liderin katıldığı bildiriliyor birleşmiş milletler genel sekreteri antonio guteres de zirvede konuştu mecliste ize barış ve demokratik toplum süreci kapsamında kurulması planlanan i zleme komisyonu için temaslar hız kazandı tbmm başkanı numan kurtulmuş bugün önce dm parti grubunu ziyaret etti eş genel başkanlar tülay hatimoğulları ve tuncer bakırhan ile basına kapalı yapılan görüşme yaklaşık dakika sürdü sonrasında açıklama yapılmadı kurtulmuş ardından ak parti grubuna geçti ak parti grup başkanı abdullah güler komisyonun üye sayısı ve çalışma esaslarına dair görüşlerini paylaştıklarını söyledi kurtulmuş yarın saat de mhp grubuyla görüşecek yeni parti ve iyi parti ile görüşmeler ize gelecek haftaya bırakıldı muhalefette gözler hafta sonuna çevrildi özgür özel in temmuz ayında chpdn ayrılarak kurduğu yeni parti ilk kuruluş kurultayını ve kasım da ankara da yapacak parti kasım da üyelerin katıldığı ön seçimde sandıkta üyenin oy kullandığını ve katılımın olduğunu açıkladı kurultayda özel in genel başkanlığa seçilmesi parti meclisi ile yüksek disiplin kurulunun da belirlenmesi bekleniyor nerstel in kasım da il başkanıyla araya geleceği bildiriliyor chkp cephesinde ize genel başkan kemal kılıçdaroğlu bugün merkez yönetim kurulu toplantısına başkanlık etti partinin olağan kurultayına ilişkin hukuki süreç de devam ediyor hatırlatalım ankara bölge adliye mahkemesi mayıs da kurultay için mutlak butlan kararı vermiş yargıtaya taşınmıştı kurultay daki usulsüzlük iddialarına dair ayrı yürüyen ceza davasında ize bugünkü duruşmada savcı daha önce açıkladığı mütalasını tekrarladı mahkeme sonraki duruşmayı kasım a erteledi meclisteki bütçe mesaisi de sürüyor plan ve bütçe komisyonu bugün aile ve sosyal hizmetler bakanlığı nın bütçesini görüştü yarın eğitim bakanlığı nın bütçesi ele alınacak liralık açık öngören bütçe teklifinin komisyondaki görüşmeleri kasım da tamamlanacak ekonomide yarın kritik gün var merkez bankası yılın son enflasyon raporunu yarın i stanbul da açıklayacak bu ayın başında açıklanan verileer göer yıllık enflasyon ekimde olmuş aylık artış de kalmıştı piyasalar bankanın olan yıl sonu tahminini değiştirip değiştirmeyeceğine odaklanmış durumda günden bugün hem ankara da hem antalya da epey yoğundu bu kadar başlığı birlikte düşününce senin aklına ilk ne geliyor bence günün asıl başlığı kavcıoğlu nun ayrılığı çünkü bankacılığı denetleyen kurumda güven piyasanın en hassas olduğu konulardan süreç yargıda sürdüğü için iddialar hakkında hüküm vermek doğru olmaz ama kurumun bu kadar hızlı değişime gitmesi ekonomi yönetiminin bu güveni korumayı öncelikli gördüğünü düşündürüyor aynı gün antalya da liderin ağırlanması ve mecliste i zleme komisyonu için tüm partilerle görüşülmesi devletin dışarıda ve içeride istikrar mesajı vermek istediğini gösteriyor muhalefette ize hafta sonundaki yeni parti kurultayı ile kasım daki duruşma önümüzdeki haftalarda siyasetin dengelerini belirleyecek önemli eşik olacak gibi görünüyor akşam bültenimizde şimdi spor gündemine geçiyoruz bugün sahada da sahne arkasında da yoğun gün yaşanıyor nörce futbol ağa futbol takımı belçika maçının hazırlıklarını bu sabah i stanbul riva daki hasan doğan takımlar kamp ve eğitim tesislerinde yaptığı son antrenmanla tamamladı ay yıldızlılar ardından özel uçakla i zmir e geçti uefa nations league yani uefa uluslar ligi kapsamındaki karşılaşma yarın saat de i zmir gürsel aksel stadyumunda başlayacak bu maç geçenlerde vincenzo montella nın yerine göreve getirilen sergen yalçın ın takım ın başındaki ilk resmi sınavı olacak yalçın son dönemdeki olumsuz gidişe galibiyetle son vermek istediğini söyledi hazırlıklarda sahaya kurulan led ekranla duran top organizasyonlarına kadar taktik talimatların oyunculara anlık aktarıldığı belirtildi takım uluslar ligi ndeki sonraki maçında kasım pazar günü bordo da fransa ya konuk olacak basketbol da gözler bu akşam fransa nın başkentinde fenerbahçe beko euro league yani avrupa ligi nin haftasında paris basketbol yani paris basketbol ile deplasmanda karşılaşıyor accor arena da oynanacak mücadele türkiye saatiyle de başlayacak sarı lacibertliler avrupa ligi nde bu sezonda üst sıralardaki yerini korumayı hedefliyor kadın basketbolu nda da önemli akşam var amilli kadın basketbol takımı avrupa şampiyonası elemelerinin turunda e grubundaki ilk maçına çıkıyor pota nın perileri saat da ankara daki basketbol gelişim merkezinde karadağ a konuk ediyor grupta polonya ve i srail de yer alıyor takım kasım da latonya nın başkenti riga da i srail e kasım da ize deplasmanda polonya ile oynayacak gruplarını ilk sırada bitiren takımlar yazında belçika finlandiya i sveç ve litvanya nın ortaklaşa düzenleyeceği finalleer katılma hakkı kazanacak takımın yeni başan trenörü frederic duzard yönetiminde hedef finalleer doğrudan katılmak kulüpler cephesinde ize ara nedeniyle süperlige verilen molada takımlar kendi programlarını sürdürüyor galatasaray da bugün kasım ayı olağan divan kurulu toplantısı yapılıyor beşiktaş ta ize geçen hafta sonu gençler karşısında atılan golün de asisti bulunan leandro trosser performansıyla gündemdeki yerini koruyor akşam bültenimizde şimdi kültür ve sanat dünyasına geçiyoruz sinemadan edebiyata günün öne çıkan gelişmelerini derledik başkent sinema severleri için geri sayım bitiyor ankara film festivali yarın başlıyor ve kasım a kadar kızılay daki büyülü fener sinemasında sürecek festivalin açılış gününde düzenlenecek tören de demet akba bülent ortaçgil atilla dorsay biga önal ve boran kuzum ödüllerini alacak ulusal uzun film yarışmasında başvuru arasından seçilen film yarışıyor kazananlar kasım daki kapanış töreninde açıklanacak söyleşi ve atölyelerin ücretsiz olduğu programda yapay zekanın sinemaya etkisiyle setlerdeki çalışma koşulları da konuşulacak i stanbul da ize boğaziçi film festivali sürüyor kasım da atlas sineması nda yapılan açılış töreniyle başlayan festival ulusal ve uluslararası yarışma bölümleri ile kasım a kadar izleyicilerle buluşacak yunus ödülleri için yarışan yapımların yanı sıra özel gösterimler ve paneller de programda yer alıyor dün büyük önder mustafa kemal atatürk ün vefatının yıl dönümünde sanat kurumları da çeşitli anma programları düzenledi i stanbul devlet operası ve balesi atatürk ün sanata verdiği önemi anlatan atatürk ve sanat adlı gösterisini süreyya operası nda yeniden sahneledi edebiyat dünyasından da tarihi haber geldi i ngiliz yazar m john harrison gün önce londra daki törenle the booker prize yani booker ödülünün sahibi oldu harrison the end of everything yani her şeyin sonu adlı romanıyla sterlinlik ödülü kazandı yaşındaki yazar booker ödülünün tarihindeki en yaşlı kazanan oldu eladudu bilim kurgu türünden gelen yazara verilmesi de ilk olarak kayda geçti harrison eser arasından seçildi sanat piyasasında ize gözler new york a çevrildi christie s müzayede evi vasily kandinsky nin betonte ekken yani vurgulu köşeler adlı tablosunu kasım da satışa çıkaracak eser için ile dolar arasında değer ön görülüyor ressamın şimdiki müzayede rekoru dolar olduğu için bu satışın yeni kandinsky rekoru getirmesi bekleniyor bültenin son bölümünde akşamın ve önümüzdeki haftanın öne çıkan başlıklarına geçiyoruz ülkenin gözü bugün antalya da birleşmiş milletler i klim değişikliği konferansı ceo potuz de liderler zirvesinin açılışı bugün yapıldı cumhurbaşkanı recep tayyip erdoğan açılış programına katıldı heyoko potuz başkanlığını yürüten çever şehircilik ve i klim değişikliği bakanı murat kurum da öğleden sonra konuşma yaptı kasım da başlayan konferans kasım a kadar sürecek en önümüzdeki günlerde masada ülkelerin ulusal katkı beyanları iklime uyum hedefleri ve fosil yakıtlardan çıkış yol haritası olacak müzakerelerin sonunda hangi ortak metnin çıkacağı önümüzdeki haftanın en önemli dış günden başlıklarından ekonomide yarın kritik gün türkiye cumhuriyet merkez bankası başkanı fatih karahan yılın enflasyon raporunu saat da kamuoyuyla paylaşacak merkez bankası ağustos taki raporunda yıl sonu enflasyon tahminini tahminini ize olarak açıklamıştı piyasalar bu tahminlerin güncellenip güncellenmeyeceğini yakından izleyecek aynı gün öğleden sonra haftalık rezerv verileri de açıklanacak cuma günü ize eylül ayı cari işlemler dengesiyle piyasa katılımcıları anketi yayımlanacak ekim ayındaki ankette yıl sonu enflasyon beklentisi çıkmıştı türkiye i statistik kurumu da bugün eylül ayına ait ticaret satış hacmi ve ciro endekslerini açıkladı vatandaşı doğrudan ilgilendiren hatırlatma da yapalım ticari araçlar için kış lastiği zorunluluğu kasım pazar günü başlıyor sürücülerin son günleer kalmadan hazırlıklarını tamamlaması öneriliyor sporda ize heyecan yarın akşam i zmir de amilli futbol takımımız uefa uluslar ligi a ligi gruptaki maçında belçika yı gürsel aksel stadyumunda konuk edecek karşılaşma saat de başlayacak ve şifresiz yayınlanacak ah yılları ardından kasım pazar günü fransa nın bordeaux kentine gidecek ve fransa yla saat de karşılaşacak bu maç grubun son sıralamasını büyük ölçüde belirleyecek dış gündemde abd ile i ran arasındaki gerilim gaziye deki ateşkes süreci ve yemen deki çatışmalar önümüzdeki günlerde de yakından takip edilecek gelelim hava durumuna meteorolojinin son tahminlerine göer hafta ortasında batıda bulutlar iç kesimlerde ize sabaha yazı öne çıkıyor i stanbul da bugün hava parçalı ve çok bulutlu geçiyor sıcaklık ile derece arasında yarın da gökyüzü çok bulutlu kalacak termometreler ile derece arasında olacak ancak yağış beklenmiyor ankara da bugün sabah sıcaklık eksi dereceye kadar düştü ve yer yer pus ile sis görüldü gündüz en yüksek sıcaklık derece yarın ize güneyden esen rüzgar ile birlikte hava parçalı bulutlu olacak ve sıcaklık dereceye kadar çıkacak i zmir de bugün sıcaklık ile derece arasında seyrediyor ve öğleden sonra yer yer hafif sağanak geçişleri görülebilir yarın kıyı egegenelinde yağmur ve sağanak bekleniyor bu nedenle şemsiye yanınızı almanızda fayda var meteoroloji ege kıyılarında yağışların cuma günü de sürebileceğini özellikle sabah saatlerinde iç kesimlerde sis ve pus a karşı dikkatli olunması gerektiğini hatırlatıyor akşam bültenimizin sonuna geldik gündemi sizin için nöron değerlendirdi bilgi ile kalın hoşça kalın altyazı m k
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 2472
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: aksam-2026-11-11.duyulan.txt

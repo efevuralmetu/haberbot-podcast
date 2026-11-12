@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-12.mp3
+
+beklenen 2232 kelime | duyulan 2223 kelime | eşleşme %96.7
+sayı ifadesi: metinde 196, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : manhattan
+      duyulan: manattan
+  REPLACE  ...a çoğu zaman çölün
+      metin  : manhattan ı
+      duyulan: menetanı
+  REPLACE  ...çölün manhattan ı denir
+      metin  : otuzlarda vadiyi
+      duyulan: larda vadi
+  REPLACE  ...üste koyup kat yükseliyordu
+      metin  : dikey
+      duyulan: dike
+  REPLACE  ...evlerle kaplamak ekmeğin yetiştiği
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...ekmeğin yetiştiği toprağı yemek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...sokağa inmeden komşuya geçmeyi
+      metin  : sağlıyordu
+      duyulan: sağlıyor
+  REPLACE  ...şehir bölgenin eski başkenti
+      metin  : şebve nin ms
+      duyulan: şevvenin emes
+  REPLACE  ...ardından öne çıktı ve
+      metin  : hadramudun
+      duyulan: hadramut un
+  REPLACE  ...büyük ölçüde yeniden kuruldu
+      metin  : unesco
+      duyulan: munesko
+  INSERT   ...yeniden kuruldu unesco nun
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sırrı malzemededir kerpiç vadinin
+      metin  : alüvyonlu
+      duyulan: alüviyonlu
+  REPLACE  ...vadide yetişen ağaçlardan özellikle
+      metin  : sidr
+      duyulan: sidra
+  REPLACE  ...gibi korur ama bu
+      metin  : zırh da
+      duyulan: zırhta
+  REPLACE  ...bilen denizciler mükella ve
+      metin  : şihr
+      duyulan: şih
+  REPLACE  ...güneydoğu asya da kuruldu
+      metin  : cava da
+      duyulan: cevada
+  REPLACE  ...şehrin büyümesindeki rolünü hatırlatır
+      metin  : cava
+      duyulan: ceva
+  REPLACE  ...bağlardan geliyordu vadinin kerpiçten
+      metin  : kuleleri ile
+      duyulan: kuleleriyle
+  REPLACE  ...pirincin üstüne asılır eriyen
+      metin  : yağı
+      duyulan: yağ
+  REPLACE  ...başka hazinesi baldır özellikle
+      metin  : duan
+      duyulan: doğan
+  REPLACE  ...duan vadisi nden gelen
+      metin  : sidr
+      duyulan: sidri
+  REPLACE  ...arılar kurak vadilerde yetişen
+      metin  : sidr
+      duyulan: sidri
+  REPLACE  ...zaman zencefil ya da
+      metin  : kakuleyle
+      duyulan: kakule ile
+  REPLACE  ...değildi endonezya da özellikle
+      metin  : cakarta
+      duyulan: jakarta
+  REPLACE  ...asya dan gelmiş kumaşlar
+      metin  : porselenler
+      duyulan: horselenler
+  REPLACE  ...günün ritmini düşünün sabah
+      metin  : ezanıyla
+      duyulan: ezanı ile
+  REPLACE  ...singapur daki amcadan belki
+      metin  : cava
+      duyulan: java
+  REPLACE  ...sarsıldığında vadi de sarsılacaktı
+      metin  : kırkların
+      duyulan: ların
+  DELETE   ...de sarsılacaktı kırkların başında
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...endonezya yı işgal etti
+      metin  : cava
+      duyulan: java
+  REPLACE  ...yıllarda kuraklık da bastırdı
+      metin  : kırkların
+      duyulan: ların
+  INSERT   ...himayesindeki sultanlıklar döneminden çıkıp
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ciddi çabalar da gösterildi
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...şibam ın yeniden canlandırılması
+      metin  : ağa
+      duyulan: de ağ
+  INSERT   ...a kuruluş hikayesini hatırlattı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...hadramut vadisi nde büyük
+      metin  : selleer
+      duyulan: celleer
+  REPLACE  ...yıkıldı şibam ı yükseltilmiş
+      metin  : tepeciği
+      duyulan: tepeciyi
+  INSERT   ...sarsıntı ize insan eliyleydi
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...en önemli kapılarından kapandı
+      metin  : (yok)
+      duyulan: ki
+  INSERT   ...ödeyecek para kalmadı unesco
+      metin  : (yok)
+      duyulan: te
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: seyahat-2026-11-12.duyulan.txt

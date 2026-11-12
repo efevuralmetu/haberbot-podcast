@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-12.mp3
+
+beklenen 2001 kelime | duyulan 2011 kelime | eşleşme %91.4
+sayı ifadesi: metinde 252, duyulanda 197  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : kan
+      duyulan: de cannes
+  REPLACE  ...fransa nın güney kıyısında
+      metin  : kan da
+      duyulan: cannes
+  REPLACE  ...film festivali yine açılıyordu
+      metin  : basın
+      duyulan: bağsın
+  REPLACE  ...çok kızılan genç eleştirmeni
+      metin  : fransuva trüfo
+      duyulan: françois truffaut
+  REPLACE  ...kalemi yeterince zarar vermişti
+      metin  : trüfo
+      duyulan: truffaut
+  REPLACE  ...alan genç kuşağın toplandığı
+      metin  : kayye dü sinema
+      duyulan: cayet du cinema
+  REPLACE  ...ar yani sanat gazetesiydi
+      metin  : trüfo nun
+      duyulan: truffaut un
+  REPLACE  ...edebiyat uyarlamalarını hedef alıyordu
+      metin  : trüfo ya
+      duyulan: truffaut a
+  REPLACE  ...kullanan yönetmenlerin elinden çıkıyordu
+      metin  : jan rönuar
+      duyulan: john renoir
+  REPLACE  ...olacaktı ama o yıllarda
+      metin  : trüfo yu
+      duyulan: truffaut u
+  REPLACE  ...hiç çekinmeden topa tutuyordu
+      metin  : kan ı
+      duyulan: kani
+  INSERT   ...vitrinine hizmet ettiğini söylüyordu
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...kağıttan çok daha derinlerdeydi
+      metin  : trüfo
+      duyulan: truffaut de
+  REPLACE  ...sonra büyükannesine bırakmışlar annesi
+      metin  : rolan trüfo
+      duyulan: roland truffaut
+  REPLACE  ...evde bulduğu belgeden öğrenecekti
+      metin  : monmartr
+      duyulan: montmarter
+  REPLACE  ...belgeden öğrenecekti monmartr ile
+      metin  : pigal
+      duyulan: pigalle
+  REPLACE  ...kaçmalar birbirini izledi noktada
+      metin  : üvey
+      duyulan: hüvey
+  REPLACE  ...kendini paris in güneyindeki
+      metin  : viljüif
+      duyulan: villejuif
+  REPLACE  ...iş bulmuş yazmaya yönlendirmişti
+      metin  : trüfo
+      duyulan: truffaut
+  REPLACE  ...nin kurucularından olan bazen
+      metin  : trüfo nun
+      duyulan: truffaut un
+  REPLACE  ...bazen trüfo nun hayatında
+      metin  : üvey
+      duyulan: hüvey
+  REPLACE  ...aynıydı kolaysa sen yap
+      metin  : trüfo
+      duyulan: truffaut
+  INSERT   ...trüfo da yapmak istiyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...para beklenmedik yerden geldi
+      metin  : trüfo
+      duyulan: truffaut
+  REPLACE  ...geldi trüfo aynı yıl
+      metin  : madlen
+      duyulan: madeleine
+  REPLACE  ...madlen morgenstern ile evlenmişti
+      metin  : madlen
+      duyulan: madeleine
+  REPLACE  ...evlenmişti madlen in babası
+      metin  : i nyas
+      duyulan: ines
+  REPLACE  ...önemli film dağıtım şirketlerinden
+      metin  : kosinor un
+      duyulan: cosinorun
+  REPLACE  ...yine de damadına güvendi
+      metin  : trüfo jan rönuar
+      duyulan: truffaut john renoir
+  REPLACE  ...şirketini kurmuştu le film
+      metin  : dü karos
+      duyulan: du carros
+  REPLACE  ...film dü karos yani
+      metin  : fayton
+      duyulan: phyton
+  REPLACE  ...fayton filmleri kayınpederin desteğiyle
+      metin  : fayton
+      duyulan: phyton
+  REPLACE  ...girişebilecekti peki ne anlatacaktı
+      metin  : trüfo
+      duyulan: truffaut
+  REPLACE  ...sonra fikir büyüdü senarist
+      metin  : marsel
+      duyulan: marcel
+  REPLACE  ...ile birlikte çalışırken hikaye
+      metin  : trüfo nun
+      duyulan: truffaut un
+  REPLACE  ...darbe olarak geçen bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...taşıyacak çocuk bulmak gerekiyordu
+      metin  : trüfo
+      duyulan: truffaut
+  REPLACE  ...in yaygın akşam gazetesi
+      metin  : frans suar
+      duyulan: françois
+  REPLACE  ...pek çok çocuk geldi
+      metin  : trüfo
+      duyulan: truffaut
+  REPLACE  ...belirgin biçimde ayrılıyordu adı
+      metin  : jan pier leo
+      duyulan: jean pierer léo
+  ... ve 55 fark daha
+
+metinde olup DUYULMAYAN: 136 kelime | duyulup metinde OLMAYAN: 144
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: film-2026-11-12.duyulan.txt

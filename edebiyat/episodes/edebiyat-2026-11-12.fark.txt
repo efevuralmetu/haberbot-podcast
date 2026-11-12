@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-12.mp3
+
+beklenen 1838 kelime | duyulan 1846 kelime | eşleşme %89.4
+sayı ifadesi: metinde 275, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...nın gençleri aynı mavi
+      metin  : frakı
+      duyulan: fırakı
+  REPLACE  ...hessen in küçük kasabası
+      metin  : vetslar
+      duyulan: wetzler
+  REPLACE  ...vetslar a geldi adı
+      metin  : yohan volfgang göte ydi
+      duyulan: johann wolfgang goethe idi
+  REPLACE  ...en yüksek yargı organlarından
+      metin  : rayhskamergeriht e
+      duyulan: reisskammergerichte
+  REPLACE  ...dosyalar onlarca yıldır bekliyordu
+      metin  : göte
+      duyulan: goethe
+  REPLACE  ...genç hukukçular yaşıyordu bunlardan
+      metin  : hannover
+      duyulan: hanover
+  REPLACE  ...bunlardan hannover elçiliğinin katibi
+      metin  : yohan kristiyan kestner
+      duyulan: johann christian kessner
+  REPLACE  ...yohan kristiyan kestner di
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...güvenilir adamdı nişanlısının adı
+      metin  : şarlote buf tı
+      duyulan: charlotte buftü
+  REPLACE  ...annelik eden oydu babası
+      metin  : töton
+      duyulan: toton
+  REPLACE  ...babası töton şövalyeleri tarikatının
+      metin  : vetslar daki
+      duyulan: wetzlardaki
+  REPLACE  ...daki mülklerini yöneten memurdu
+      metin  : göte
+      duyulan: goethe
+  INSERT   ...göte ile lotte haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...verilen balo gecesi tanıştı
+      metin  : göte
+      duyulan: goethe
+  REPLACE  ...ve o geceden sonra
+      metin  : buf ların
+      duyulan: buftların
+  REPLACE  ...topluyor uzun sohbetler ediyordu
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...durumu açıkça ortaya koymuştu
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...koymuştu kestner e bağlıydı
+      metin  : göte
+      duyulan: goethe
+  REPLACE  ...bu bütün yaz sürdü
+      metin  : göte
+      duyulan: goethe
+  INSERT   ...uzaklaşamıyordu da sonunda eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eylül kimseye veda etmeden
+      metin  : vetslar dan
+      duyulan: wetzler den
+  REPLACE  ...ye daha görüşmeyeceklerini yazıyordu
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...yazıyordu kestner ile lotte
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...dönüştürecek olay hafta sonra
+      metin  : vetslar
+      duyulan: wetzler
+  REPLACE  ...adamın başına geldi karl
+      metin  : vilhelm yeruzalem braunşvayg
+      duyulan: wilhelm jeruzalem braunschweig
+  REPLACE  ...dönemin tanınmış lutherci ilahiyatçılarındandı
+      metin  : göte laypsig
+      duyulan: goethe leipzig
+  REPLACE  ...tanıyordu ama yakın değillerdi
+      metin  : yeruzalem
+      duyulan: jeruzalem
+  REPLACE  ...kapanık felsefeye düşkün gençti
+      metin  : vetslar daki
+      duyulan: wetzler deki
+  REPLACE  ...çevrede burjuva kökeni yüzünden
+      metin  : aşağılandığını
+      duyulan: aşağalandığını
+  REPLACE  ...kadına elçilik sekreterinin eşi
+      metin  : elizabet herd e
+      duyulan: elizabeth herde
+  REPLACE  ...aşıktı ekim ayının sonlarında
+      metin  : yeruzalem kestner
+      duyulan: jeruzalem kessner
+  REPLACE  ...söylüyor tabancalarını ödünç istiyordu
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...ekim e bağlayan gece
+      metin  : yeruzalem
+      duyulan: jeruzalem
+  REPLACE  ...yelek vardı haberi alan
+      metin  : göte kestner
+      duyulan: goethe kessner
+  REPLACE  ...kestner den ayrıntıları istedi
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...saatleri gece yapılan cenazeyi
+      metin  : göte
+      duyulan: goethe
+  REPLACE  ...gerekecekti baharında lotte ile
+      metin  : kestner
+      duyulan: kessner
+  REPLACE  ...lotte ile kestner evlenip
+      metin  : hannover
+      duyulan: hanover
+  REPLACE  ...evlenip hannover e yerleşti
+      metin  : göte
+      duyulan: goethe
+  REPLACE  ...e yerleşti göte ize
+      metin  : frankfurt taydı
+      duyulan: frankfurtaydı
+  ... ve 99 fark daha
+
+metinde olup DUYULMAYAN: 172 kelime | duyulup metinde OLMAYAN: 183
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: edebiyat-2026-11-12.duyulan.txt

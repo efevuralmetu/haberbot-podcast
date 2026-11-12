@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-12.mp3
+
+beklenen 3059 kelime | duyulan 3129 kelime | eşleşme %93.7
+sayı ifadesi: metinde 422, duyulanda 300  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...var abdurrahman i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...kimseyi bırakmayacak i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...i bn haldun mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yerleşmişti yani i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...ama asıl dönüm noktası
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fas taki merini hükümdarı
+      metin  : ebü
+      duyulan: ebu
+  REPLACE  ...ele geçirdi ve beraberinde
+      metin  : mağrib in
+      duyulan: maribin
+  INSERT   ...heyetin içinde i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...alanında dönemin sayılı uzmanlarından
+      metin  : el abili
+      duyulan: elabiliği
+  INSERT   ...abili genç i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...veba geldi i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...kaybetti ders aldığı hocaların
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...terk etti merini sultanı
+      metin  : ebü l
+      duyulan: ebul
+  REPLACE  ...değişmişti bu diyordu yeni
+      metin  : çağ
+      duyulan: çağa
+  INSERT   ...hizmetine girmek i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...fas çağırıyordu i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...çağırıyordu i bn haldun
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...meclisine aldı i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...olarak yaşıyordu i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...anlaşma vardı i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...nan bunu öğrendi ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...öğrendi ve i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...çıkmadan ebu i nan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...gibi okunabilir i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yer aldı ebu salim
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...sarayında entrikalar hiç dinmiyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...arası açılan i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kalesi gırnata ya gitti
+      metin  : gırnata
+      duyulan: gırnatay
+  REPLACE  ...veziri şair ve tarihçi
+      metin  : lisanüddin
+      duyulan: lisan ı ddin
+  REPLACE  ...ve tarihçi lisanüddin i
+      metin  : bnü l hatib i bnü l
+      duyulan: bn ül
+  INSERT   ...l hatib i bn
+      metin  : (yok)
+      duyulan: ül hatib i bn i
+  INSERT   ...bu dönem i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...hayatının en parlak sayfalarından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gönderdi varış noktası sevilla
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...kaldığı kent i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...teklif etti i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...davrandığı anlatılır i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...tam bu sırada eski
+      metin  : vaadin
+      duyulan: vadin
+  INSERT   ...sözünü tutarak i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...bn haldun u çağırıyordu
+      metin  : (yok)
+      duyulan: te
+  ... ve 97 fark daha
+
+metinde olup DUYULMAYAN: 89 kelime | duyulup metinde OLMAYAN: 168
+bölme/birleşme farkı (hata değil, elendi): 40
+
+duyulan metin: biyografi-2026-11-12.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-12.mp3
+
+beklenen 1709 kelime | duyulan 1721 kelime | eşleşme %95.9
+sayı ifadesi: metinde 244, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oregon eyaletinde portland ın
+      metin  : banliyöleri
+      duyulan: banliyeleri
+  REPLACE  ...üzerinde tek kelime yazıyor
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...açıklama yapmıyor hafta sonra
+      metin  : polibiyus da
+      duyulan: polybius ta
+  REPLACE  ...açısından tam oturmayan bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kısmı aynı sonuca varıyor
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...hiç de uzak gelmiyordu
+      metin  : polibiyus
+      duyulan: polybius
+  INSERT   ...nerede ortaya çıktı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ilk şaşırtıcı şeyle karşılaşıyoruz
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...şaşırtıcı şeyle karşılaşıyoruz hatta
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...karşılaşıyoruz hatta seksenlerin tamamından
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...bu adı hiç anmıyor
+      metin  : jetonlu
+      duyulan: cetonlu
+  REPLACE  ...yayınlarında yeni modeller duyurulurdu
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...internetin ilk yıllarıdır eski
+      metin  : jetonlu
+      duyulan: cetonlu
+  REPLACE  ...kataloglayan coinop org yani
+      metin  : jetonlu
+      duyulan: cetonlu
+  REPLACE  ...adlı site yılı civarında
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...polibiyus için kayıt yayımladı
+      metin  : kayıtta
+      duyulan: kayıta
+  REPLACE  ...şüphe kaydıyla birlikte geliyordu
+      metin  : jetonlu
+      duyulan: cetonlu
+  REPLACE  ...kendisine ulaşan pek çok
+      metin  : kişiyle
+      duyulan: kişi ile
+  INSERT   ...çoğaldı peki hikaye neden
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...kırmaya çalışırken yaklaşık saat
+      metin  : asteroids
+      duyulan: asteroid
+  REPLACE  ...yaklaşık saat asteroids yani
+      metin  : asteroitler
+      duyulan: asteroidler
+  REPLACE  ...olaylar saatlerce ekrana kilitlenmiş
+      metin  : yemeyi
+      duyulan: yemeği
+  REPLACE  ...bunları birbirine bağlayan makineydi
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...da hesaba katmak gerekiyor
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...de ismin kendisi var
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...yüzyılda yaşamış yunan tarihçisi
+      metin  : polibios
+      duyulan: polybius
+  REPLACE  ...sonuç da bu yöndeydi
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...yöndeydi polibiyus büyük olasılıkla
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...ne olmadığı oldukça net
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kaldırmaya yetmedi tam tersine
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...sönüp gitmeli gibi görünür
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...ta tam tersi oldu
+      metin  : jetonlu
+      duyulan: cetonlu
+  REPLACE  ...en görünür köşelerine taşındı
+      metin  : binlerin
+      duyulan: klibinlerin
+  REPLACE  ...oyunu şehir efsanelerini derlerken
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...göndermelerden the simpsons yani
+      metin  : simpsonlar
+      duyulan: simsonlar
+  INSERT   ...yani simpsonlar dizisinden geldi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...salonunda arka planda duran
+      metin  : polibiyus
+      duyulan: polybius
+  REPLACE  ...içinse merak uyandıran ipucu
+      metin  : simpsonlar ın
+      duyulan: simsonların
+  REPLACE  ...ın milyonlarca izleyicisi sayesinde
+      metin  : polibiyus
+      duyulan: polybius
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 71
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: oyun-2026-11-12.duyulan.txt

@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-12.mp3
+
+beklenen 1437 kelime | duyulan 1450 kelime | eşleşme %97.6
+sayı ifadesi: metinde 165, duyulanda 144  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...önce karşılaşmış olmaktan gelir
+      metin  : philadelphia
+      duyulan: de filadelfya
+  REPLACE  ...gelir philadelphia da psikolog
+      metin  : lynn hasher
+      duyulan: lin haşer
+  REPLACE  ...yalnızca bunu daha önce
+      metin  : duydun
+      duyulan: duydum
+  INSERT   ...gösteren güzel örnek var
+      metin  : (yok)
+      duyulan: tiki
+  REPLACE  ...örnek var yılında matthew
+      metin  : mcglone
+      duyulan: maclean
+  REPLACE  ...matthew mcglone ve jessica
+      metin  : tofigbahş
+      duyulan: tofigbaş
+  REPLACE  ...kulağa ne kadar kolay
+      metin  : geldiğiydi
+      duyulan: geldiydi
+  INSERT   ...bilgim beni korumaz mı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...peki kaç tekrar yeter
+      metin  : (yok)
+      duyulan: kiggy de
+  REPLACE  ...yeter emma hassan ve
+      metin  : sarah
+      duyulan: sara
+  INSERT   ...haber başlıklarında da görüldü
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...başlıklarında da görüldü gordon
+      metin  : pennycook
+      duyulan: penacook
+  REPLACE  ...var nazi propaganda bakanı
+      metin  : yozef göbels
+      duyulan: joseph goebbels
+  REPLACE  ...ki araştırmacılar bu cümleyi
+      metin  : göbels
+      duyulan: goebbels
+  REPLACE  ...doğru sanılan alıntıdır bunlar
+      metin  : laboratuvarlarda
+      duyulan: laboratuarlarda
+  REPLACE  ...aklınıza bile gelmez burada
+      metin  : hasher
+      duyulan: haşer
+  REPLACE  ...saçma cümleyi tekrarlamak inandırıcı
+      metin  : yapmakta
+      duyulan: yapmak da
+  INSERT   ...zahmetli yolu bilerek seçmek
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...yolu bilerek seçmek nadia
+      metin  : brashier emmaline eliseev
+      duyulan: brashear emmeline elisev
+  REPLACE  ...güvenen zihnin doğal özelliği
+      metin  : hasher
+      duyulan: haşer
+  INSERT   ...konuyu ilk denemede anlamadım
+      metin  : (yok)
+      duyulan: i kinci de
+  INSERT   ...yanlış cümle hatırlattım kafanızın
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...çok güzel oturmuş cümledir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 34
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: psikoloji-2026-11-12.duyulan.txt
