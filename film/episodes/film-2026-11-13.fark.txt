@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-13.mp3
+
+beklenen 1741 kelime | duyulan 1744 kelime | eşleşme %93.5
+sayı ifadesi: metinde 209, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...denizlerinin kar fırtınalarının köpek
+      metin  : kızaklarının
+      duyulan: rızaklarının
+  REPLACE  ...tutuşur kez alev aldığında
+      metin  : söndürmek de
+      duyulan: söndürmekte
+  INSERT   ...adamın adı robert flaherty
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kaşif ve maden arayıcısıydı
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...aradı bu işin içinde
+      metin  : baffin
+      duyulan: bafin
+  REPLACE  ...görünen buzlu kıyıları ve
+      metin  : belcher
+      duyulan: belçer
+  REPLACE  ...belcher adaları nı dolaştı
+      metin  : belcher
+      duyulan: belçer
+  INSERT   ...adını taşıyor flaherty adası
+      metin  : (yok)
+      duyulan: teki
+  DELETE   ...gördüklerini kaydetsin flaherty bel
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bundan ibaretti sonraki yıllarda
+      metin  : baffin
+      duyulan: bafin
+  REPLACE  ...baffin adası nda ve
+      metin  : belcher
+      duyulan: belçer
+  REPLACE  ...kapı dolaştı sonunda destek
+      metin  : kuzeyin kürk
+      duyulan: kuzey in kürt
+  REPLACE  ...yle rekabet eden fransız
+      metin  : kürk
+      duyulan: kürt
+  REPLACE  ...eden fransız kürk şirketi
+      metin  : révillon
+      duyulan: revillon
+  REPLACE  ...şirketi révillon frères yani
+      metin  : révillon
+      duyulan: revillon
+  REPLACE  ...yani révillon kardeşler projeyi
+      metin  : finanse
+      duyulan: finance
+  REPLACE  ...kutup dünyasını anlatan film
+      metin  : kürk
+      duyulan: kürt
+  REPLACE  ...körfezi nin doğu kıyısında
+      metin  : kebek
+      duyulan: quebec
+  REPLACE  ...dediği bu yer bugün
+      metin  : i nukyuak
+      duyulan: inukyak
+  REPLACE  ...i nukyuak adıyla biliniyor
+      metin  : révillon kardeşler in
+      duyulan: revillon kardeşlerin
+  REPLACE  ...benziyordu i ki tane
+      metin  : akeley
+      duyulan: akeli
+  REPLACE  ...doğa bilimci olan carl
+      metin  : akeley
+      duyulan: akeli
+  REPLACE  ...merkezde ize adam vardı
+      metin  : allakariallak
+      duyulan: allakaryallak
+  REPLACE  ...çıkarken yeni ad veriyordu
+      metin  : nanuk
+      duyulan: nanook
+  REPLACE  ...bu yeni kimlikten geldi
+      metin  : nanuk
+      duyulan: nanook
+  REPLACE  ...the north yani kuzeyin
+      metin  : nanuk u allakariallak
+      duyulan: nanuku allakaryallak
+  REPLACE  ...ünlü örnek iglo filmde
+      metin  : nanuk karlı
+      duyulan: nanook yarlı
+  REPLACE  ...tür dekora dönüştü tek
+      metin  : yanı
+      duyulan: yana
+  REPLACE  ...aile gerçek aile değildi
+      metin  : nanuk
+      duyulan: nanook
+  REPLACE  ...eşleri olarak gösterilen kadınlar
+      metin  : allakariallak
+      duyulan: allah karyallak
+  REPLACE  ...de benzer şekilde kurgulanmıştı
+      metin  : yirmilerde i nukyuak taki
+      duyulan: lerde inuk yuaktaki
+  REPLACE  ...istedi kendi anlatımına göer
+      metin  : mors
+      duyulan: morse
+  REPLACE  ...yaparak kameraya devam etmişti
+      metin  : fok
+      duyulan: folk
+  REPLACE  ...devam etmişti fok avında
+      metin  : nanuk
+      duyulan: nanook
+  REPLACE  ...ticaret karakolundaki gramofon sahnesinde
+      metin  : nanuk
+      duyulan: nanook
+  REPLACE  ...tarafından anlatıldığıydı yazında flaherty
+      metin  : i nukyuak tan
+      duyulan: inukyaktan
+  INSERT   ...etrafında dönen açlıkla bolluk
+      metin  : (yok)
+      duyulan: mıt
+  REPLACE  ...başarısız olacaktı sonunda fransız
+      metin  : pathé
+      duyulan: pate
+  INSERT   ...kuzeyin nanuk u haziran
+      metin  : (yok)
+      duyulan: de
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 77 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: film-2026-11-13.duyulan.txt

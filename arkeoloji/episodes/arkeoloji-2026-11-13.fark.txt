@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-13.mp3
+
+beklenen 2510 kelime | duyulan 2506 kelime | eşleşme %95.8
+sayı ifadesi: metinde 261, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu her ev kışın
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...sarnıç kazdırırdı i şçiler
+      metin  : kireçtaşına
+      duyulan: kireştaşına
+  REPLACE  ...bugün bu yer hal
+      metin  : safliyeni
+      duyulan: saflieni
+  REPLACE  ...sığınak da değildi bütünüyle
+      metin  : kayaya
+      duyulan: kaya
+  REPLACE  ...tarihlendirmeleer göer yapının kullanımı
+      metin  : mö
+      duyulan: melö tög
+  REPLACE  ...yapının kullanımı mö dolaylarından
+      metin  : mö
+      duyulan: melö tög
+  DELETE   ...önce açılmaya başlamıştı ve
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...de açıklıyor kazı işi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...cizvit rahibine verildi peder
+      metin  : emmanuel
+      duyulan: emanuel
+  REPLACE  ...her buluntunun yerini ölçer
+      metin  : toprağı
+      duyulan: toprağa
+  INSERT   ...kuzey afrika ya gönderildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ya gönderildi tunus un
+      metin  : sfaks
+      duyulan: sfax
+  INSERT   ...önemli araştırmacısı yapacaktı zammit
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...kazı üzerine raporlar yayımladı
+      metin  : zammidin
+      duyulan: zammit in
+  REPLACE  ...yöntemlerle dna ile izotop
+      metin  : analiziyle radyokarbonla
+      duyulan: analizi ile radiyokarbon ile
+  INSERT   ...tozunda dağılıp gitti yine
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...oyulmuştur odalar sanki kayaya
+      metin  : kazılmamış da
+      duyulan: kazılmamışta
+  REPLACE  ...tapınakların çatıları günümüze ulaşmamıştır
+      metin  : hipoje nin
+      duyulan: hipogenin
+  INSERT   ...odada bal peteğini andıran
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...halinde karşımıza çıkar ama
+      metin  : hipoje de
+      duyulan: hipocede
+  REPLACE  ...kırmızı yalnızca duvarlarda değildi
+      metin  : zammidin
+      duyulan: zamydin
+  REPLACE  ...ölü gömme törenlerinde kullanılır
+      metin  : hipoje deki
+      duyulan: hipocedeki
+  REPLACE  ...kadını kilden yoğurup buraya
+      metin  : bıraktığı hipoje de
+      duyulan: bıraktı hipojede
+  REPLACE  ...ağzı yetişkinin başını içine
+      metin  : eğebileceği
+      duyulan: eyebileceği
+  REPLACE  ...yapının belirli frekanslarda özellikle
+      metin  : hertz
+      duyulan: hz
+  INSERT   ...güçlü yankılar üretebilir öte
+      metin  : (yok)
+      duyulan: öte
+  REPLACE  ...adlandırılan oyuk var bu
+      metin  : ad da
+      duyulan: atta
+  REPLACE  ...nin yalnızca meter ötesinde
+      metin  : zammidin
+      duyulan: zamid in te
+  REPLACE  ...ötesinde zammidin bulup kazacağı
+      metin  : tarşin
+      duyulan: tarşın
+  DELETE   ...bu dünya birlikte sustu
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  DELETE   ...daha insanlara sığınak oldu
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nefes aldı her nefes
+      metin  : yeraltına
+      duyulan: yer
+  INSERT   ...süzülerek taşıdığı kirlilik hipoje
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...girmek yapıyı kendiliğinden korumuyordu
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...delip geçtiği o tavanın
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...sessizce korunmaya devam ediyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 43
+
+duyulan metin: arkeoloji-2026-11-13.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-13.mp3
+
+beklenen 2254 kelime | duyulan 2266 kelime | eşleşme %94.9
+sayı ifadesi: metinde 342, duyulanda 233  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gösteriyordu vaftiz adı antuan
+      metin  : jozef
+      duyulan: joseph
+  INSERT   ...sürede adolf demeye başladı
+      metin  : (yok)
+      duyulan: adolf ın
+  REPLACE  ...adolf demeye başladı babası
+      metin  : şarl jozef saks
+      duyulan: charles joseph sax
+  REPLACE  ...çocuk henüz yaşındayken aile
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...hollanda krallığı na bağlanmıştı
+      metin  : şarl jozef
+      duyulan: charles joseph
+  REPLACE  ...henüz ergenlik çağındayken yaşında
+      metin  : brüksel
+      duyulan: bülüksel
+  REPLACE  ...artık çalgı yapıyordu adolf
+      metin  : brüksel
+      duyulan: bülüksel
+  REPLACE  ...un ilk büyük işi
+      metin  : bas
+      duyulan: baz
+  REPLACE  ...hesapladı ve yılında geliştirdiği
+      metin  : bas
+      duyulan: baz
+  REPLACE  ...bas klarnetin patentini aldı
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...dolgunluğa şaşırdı henüz yaşındaydı
+      metin  : brüksel
+      duyulan: de bruxelles
+  REPLACE  ...boşluk görüyordu yanda keman
+      metin  : viyola
+      duyulan: viola
+  REPLACE  ...yanda keman viyola ve
+      metin  : çello
+      duyulan: cello
+  INSERT   ...soyadını verdi saksafon saks
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çok önemli edindi besteci
+      metin  : ektor
+      duyulan: hector
+  REPLACE  ...saksafondu aynı yıl besteci
+      metin  : jorj
+      duyulan: george
+  REPLACE  ...yıl besteci jorj kastner
+      metin  : lö dernye rua dö jüda
+      duyulan: le dernier roi de juda
+  REPLACE  ...uyumlu sesler çıkaran borulardı
+      metin  : saksorn
+      duyulan: saks horn
+  REPLACE  ...müzik düzenini kökten değiştirecekti
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...uymuyordu bandolar dağınık ve
+      metin  : akortsuz
+      duyulan: akordsuz
+  INSERT   ...karar verildi yarışma nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...büyük askeri tören alanı
+      metin  : şan dö
+      duyulan: chandeux
+  REPLACE  ...eğitiminin önemli isimlerinden besteci
+      metin  : mikele
+      duyulan: mekle
+  REPLACE  ...kişilik bando yer alıyordu
+      metin  : saksornlar
+      duyulan: saksorlar
+  REPLACE  ...birbirine kaynaşmış ses yükseldi
+      metin  : saksornların
+      duyulan: saksorların
+  REPLACE  ...sayısı arttı saks rossini
+      metin  : mayerbeer
+      duyulan: mayer
+  INSERT   ...dönemin ünlü bestecileriyle kurdu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...en yüksek nişanı olan
+      metin  : lejyon donör
+      duyulan: legion d honneur
+  REPLACE  ...olan lejyon donör yani
+      metin  : lejyonu na
+      duyulan: honor legionuna
+  REPLACE  ...da napolyon un askeri
+      metin  : maiyetinin
+      duyulan: mayetinin
+  INSERT   ...resmi çalgı yapımcısı oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve eski tanıklıklar getirildi
+      metin  : saksornların
+      duyulan: saksorların
+  REPLACE  ...da kalmadı saks ın
+      metin  : biyografilerinde
+      duyulan: biografilerinde
+  INSERT   ...en ağır cephesiydi saks
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...vücudu da ihanet etti
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...içinde çeşitli tedaviler denedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...parlak anlar da vardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rüzgar kez daha döndü
+      metin  : altmışlarda
+      duyulan: larda
+  INSERT   ...çalıştığı tekel sona ermişti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tekel sona ermişti fransa
+      metin  : ile
+      duyulan: yla
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 70 kelime | duyulup metinde OLMAYAN: 94
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: biyografi-2026-11-13.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-12.mp3
+
+beklenen 1325 kelime | duyulan 1322 kelime | eşleşme %92.9
+sayı ifadesi: metinde 238, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...antalya da
+      metin  : copotuz
+      duyulan: çeo potuz
+  DELETE   ...hep birlikte göz atalım
+      metin  : hürmüz boğazı nda tankerleer yönelik saldırı haberlerinin ardından
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saldırı haberlerinin ardından brent
+      metin  : petrolün
+      duyulan: petrolü nün
+  INSERT   ...brent petrolün varili dün
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...düzey i ranlı güvenlik
+      metin  : yetkilisiyle
+      duyulan: yetkilisi ile
+  REPLACE  ...de yeni dönem başbakan
+      metin  : benyamin
+      duyulan: benjamin
+  INSERT   ...belirleyen düzenleme komisyonunun başkanlığı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...başkanlığı karşı oyla gadi
+      metin  : ayzenkot
+      duyulan: aysenkot
+  REPLACE  ...muhalefet cephesine geçti netanyahu
+      metin  : bloğu
+      duyulan: bloğ
+  INSERT   ...ve arap partiler toplamda
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...kurulacağı hala belli değil
+      metin  : ayzenkot
+      duyulan: aysenkot
+  INSERT   ...temsilciler meclisi nde ize
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...nde ize aşkın sandalyeyle
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...meclisi nde demokratların lideri
+      metin  : hakeem
+      duyulan: h k m
+  REPLACE  ...nato nun baltık hava
+      metin  : polisliği
+      duyulan: polisi yi
+  INSERT   ...polisliği görevinde türk f
+      metin  : (yok)
+      duyulan: ları
+  REPLACE  ...alanında yılın en büyük
+      metin  : halka arzı da
+      duyulan: halkı arzıda
+  REPLACE  ...halka arzı da yaklaşıyor
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...yaklaşıyor claude modellerinin geliştiricisi
+      metin  : anthropic
+      duyulan: entropic
+  REPLACE  ...ayrıca bu hafta yeni
+      metin  : claude
+      duyulan: cloud
+  REPLACE  ...çeken adımlar geldi google
+      metin  : ceminay carbon
+      duyulan: gemini karbon
+  REPLACE  ...üretim aracının yeni sürümü
+      metin  : images nokta yı
+      duyulan: imegis
+  REPLACE  ...coreweave in beklentileri aşan
+      metin  : bilançosu
+      duyulan: blanchos u
+  REPLACE  ...da hazine bakanı scott
+      metin  : bessent
+      duyulan: besant
+  REPLACE  ...etti ara seçimlerden sonra
+      metin  : konger ye
+      duyulan: kongreye
+  REPLACE  ...dün güçlü toparlanma yaşadı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...ize artışla puana ulaştı
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...ay gördüğü rekor seviyenin
+      metin  : (yok)
+      duyulan: na
+  INSERT   ...artırabileceğine dair beklentiler güçlendi
+      metin  : (yok)
+      duyulan: o
+  INSERT   ...bist endeksi dün günü
+      metin  : (yok)
+      duyulan: lük
+  REPLACE  ...geçen hafta tek günde
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...yana fiyatlardaki toplam artış
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...ayındaki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...zorunluluğu getiren düzenleme gündemde
+      metin  : chp
+      duyulan: dhp
+  INSERT   ...özgür özel temmuz ayında
+      metin  : (yok)
+      duyulan: ı
+  REPLACE  ...ayında aşkın milletvekiliyle birlikte
+      metin  : chp den
+      duyulan: şeyhçi pdn
+  REPLACE  ...ana muhalefet konumuna geldi
+      metin  : chp
+      duyulan: şhp
+  REPLACE  ...yönetimi ize yargıtay daki
+      metin  : temyiz
+      duyulan: temiz
+  INSERT   ...sanık yargılanıyor ve bunların
+      metin  : (yok)
+      duyulan: sı
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: gundem-2026-11-12.duyulan.txt

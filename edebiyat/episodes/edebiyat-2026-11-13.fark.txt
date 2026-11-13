@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-13.mp3
+
+beklenen 1639 kelime | duyulan 1663 kelime | eşleşme %95.3
+sayı ifadesi: metinde 214, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...imamı bu kavgaya cevabını
+      metin  : fetvayla
+      duyulan: fetva ile
+  REPLACE  ...çıkarak kendi anlayışına göer
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...göer hazreti muhammed i
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...aynı caminin mihrabındadır ulu
+      metin  : cami
+      duyulan: camii
+  REPLACE  ...tamamlandıktan sonra da ulu
+      metin  : cami
+      duyulan: camii
+  REPLACE  ...duymuş ve cevabını kılıçla
+      metin  : fetvayla reddiyeyle
+      duyulan: fetva ile reddiye ile
+  REPLACE  ...şiirle vermeye karar vermiştir
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...ve vefatını anlatan uzun
+      metin  : manzume
+      duyulan: manzüme
+  INSERT   ...eser hicri yılında yani
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yani tamamlanır süleyman çelebi
+      metin  : vesiletü n
+      duyulan: vesile tun
+  INSERT   ...olduğu daha iyi anlaşılıyor
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...yıkımın içindedir yıl önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...allah adın zikredelim evvela
+      metin  : vacib oldur
+      duyulan: vacip olur
+  REPLACE  ...anlatılara elverişli nazım şekli
+      metin  : aruzun failatün failatün failün
+      duyulan: ağruzun fa ilatün fa ilatün fa ilün
+  REPLACE  ...ayrılır önce tevhid ardından
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...peygamberlik miraç ve vefat
+      metin  : nüshadan nüshaya
+      duyulan: nüşadan nüşaya
+  REPLACE  ...vefat nüshadan nüshaya değişen
+      metin  : beyitlik
+      duyulan: beytlik
+  REPLACE  ...araya eklemeler girmiş bazı
+      metin  : beyitler
+      duyulan: beytler
+  INSERT   ...girmiş bazı beyitler düşmüştür
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...amine hatun muhammed anesi
+      metin  : (yok)
+      duyulan: asadef den doğduğu
+  REPLACE  ...hatun muhammed anesi ol
+      metin  : sadefden doğdu ol dürr danesi
+      duyulan: dürdanesi
+  REPLACE  ...un karısı asiye de
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...vermez mevlid in bütününde
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...kendi tecrübesinden şey bulur
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...katar kitabı doğuran kavga
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...hazreti i sa ile
+      metin  : hazreti
+      duyulan: hz
+  INSERT   ...ey ali sultan merhaba
+      metin  : (yok)
+      duyulan: sınıvaşa
+  REPLACE  ...ı irfan merhaba her
+      metin  : dize
+      duyulan: dizi
+  REPLACE  ...merhaba her dize aynı
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...kelimeyle açılır ve aynı
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...getirir mevlid meclisinde bu
+      metin  : beyitleer
+      duyulan: beytleer
+  REPLACE  ...olarak değil samimiyeti ve
+      metin  : sadeliğiyle
+      duyulan: sadeliyle
+  INSERT   ...yaklaşık yıl sonra hicri
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yıl sonra hicri yani
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hayatın yeniden başlayabileceğini hatırlatır
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...adlarını bugün kimse bilmiyor
+      metin  : vaizin
+      duyulan: baizin
+  INSERT   ...odadakilerin çoğu o metnin
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...araya getirir sevinçte de
+      metin  : yasta
+      duyulan: yazda
+  INSERT   ...da aynı selamı tekrarlatır
+      metin  : (yok)
+      duyulan: çeksi ç
+  REPLACE  ...bilmeniz gereken nokta var
+      metin  : web
+      duyulan: vet
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: edebiyat-2026-11-13.duyulan.txt

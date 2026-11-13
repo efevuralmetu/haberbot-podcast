@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-13.mp3
+
+beklenen 2623 kelime | duyulan 2640 kelime | eşleşme %94.7
+sayı ifadesi: metinde 328, duyulanda 220  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mezarından çıkarıp sokaklarda sürükledi
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...pastacı dükkan işletiyordu kaynaklar
+      metin  : mösyö römontel
+      duyulan: monsieur romontel
+  REPLACE  ...kırması da şaşırtıcı değildi
+      metin  : römontel
+      duyulan: romontel
+  INSERT   ...römontel in anlattığına göer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...asıl dikkat çekici olan
+      metin  : römontel
+      duyulan: romontel
+  REPLACE  ...yağmanın sorumluluğunu üstlenmek istemiyordu
+      metin  : römontel
+      duyulan: romontel
+  REPLACE  ...ülkesine döndü yani fransız
+      metin  : devletine talep
+      duyulan: devleti ne taleb
+  REPLACE  ...değil pazarlık payının ölçüsüdür
+      metin  : römontel
+      duyulan: romontel
+  INSERT   ...mahkemelerde haksızlığa uğradığını söylüyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...söylüyordu başkentin büyük çarşısı
+      metin  : parián
+      duyulan: parian
+  REPLACE  ...da ödemiyordu paris te
+      metin  : tahtta
+      duyulan: tahta
+  REPLACE  ...paris te tahtta kral
+      metin  : lui filip
+      duyulan: louis philippe
+  REPLACE  ...iş başına gelen bu
+      metin  : burjuva
+      duyulan: bourgeois
+  INSERT   ...boyunca masadan masaya dolaştı
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...ilişkileri de çoktan gerilmişti
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ültimatom gönderdi tarih mart
+      metin  : (yok)
+      duyulan: di
+  REPLACE  ...vardı peso bu para
+      metin  : römontel
+      duyulan: romontel
+  INSERT   ...kanıyordu yalnızca yıl önce
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yarı öfkeli dilinden doğdu
+      metin  : ad
+      duyulan: adı
+  INSERT   ...süer doldu ve nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...açıklarında demirli kaldı burası
+      metin  : sarıhumma
+      duyulan: saruhumma
+  REPLACE  ...sonbaharında körfeze ulaştı kral
+      metin  : lui filip tuğamiral şarl bodan i
+      duyulan: louis philippe tuamiral charles bodani
+  REPLACE  ...müzakeer denedi kasım ayında
+      metin  : verakruz
+      duyulan: veracruz
+  REPLACE  ...dışişleri bakanı luis gonzaga
+      metin  : kuevas
+      duyulan: cuevas
+  REPLACE  ...zorunlu borçlar konusunda uzlaşamadılar
+      metin  : kuevas
+      duyulan: cuevas
+  REPLACE  ...ve ilk hedefini belirledi
+      metin  : verakruz limanının
+      duyulan: veracruz limanı nın
+  REPLACE  ...verakruz limanının ağzındaki kale
+      metin  : verakruz
+      duyulan: veracruz
+  REPLACE  ...resifleri üzerinde yükselen san
+      metin  : huan
+      duyulan: juan
+  INSERT   ...bile i spanyol askerleri
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...meksikalılar için ada kalesi
+      metin  : verakruz
+      duyulan: veracruz
+  REPLACE  ...inşa edilmişti duvarları masif
+      metin  : gülleleri
+      duyulan: gülleri
+  REPLACE  ...karşılamak için tasarlanmıştı ama
+      metin  : bodan in
+      duyulan: boda nın
+  REPLACE  ...fransız donanması topçu subayı
+      metin  : anri jozef peksan ın
+      duyulan: henri joseph peksa nın
+  REPLACE  ...nemliydi nişancıları yetersiz eğitimliydi
+      metin  : gülleleri
+      duyulan: gülleri
+  REPLACE  ...gece içinde düşmüştü haber
+      metin  : verakruz
+      duyulan: veracruz
+  REPLACE  ...meksika kuvvetlerinin komutanı manuel
+      metin  : rinkon
+      duyulan: rincon
+  REPLACE  ...savunmanın imkansız olduğunu düşündü
+      metin  : bodan le
+      duyulan: bodanne
+  REPLACE  ...bodan le anlaşma imzaladı
+      metin  : verakruz
+      duyulan: veracruz
+  REPLACE  ...karşı düşmanca hareket yapılmayacaktı
+      metin  : rinkon
+      duyulan: rincon
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 108
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: tarih-2026-11-13.duyulan.txt

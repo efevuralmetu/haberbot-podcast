@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-13.mp3
+
+beklenen 2019 kelime | duyulan 2032 kelime | eşleşme %94.3
+sayı ifadesi: metinde 274, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...varamadan ölmesi gereken parçacıklar
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...yavaşlatması sayesinde aramıza ulaşıyorlar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...görmediği dev boşluk buldu
+      metin  : (yok)
+      duyulan: i ntro
+  REPLACE  ...hiçbir iz bırakmıyor ama
+      metin  : oradalar
+      duyulan: ordalar
+  REPLACE  ...yollarına devam ediyorlar bunlara
+      metin  : müon
+      duyulan: möon
+  REPLACE  ...şiddetli ki ortaya parçacık
+      metin  : sağanağı
+      duyulan: sanağa
+  REPLACE  ...parçacık sağanağı çıkıyor bu
+      metin  : sağanağın
+      duyulan: sanağın
+  REPLACE  ...saniyenin kadar sürede bozunup
+      metin  : müonlara
+      duyulan: möonlara
+  REPLACE  ...sürede bozunup müonlara dönüşüyor
+      metin  : müon
+      duyulan: möon
+  INSERT   ...fazla i lk kez
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...zaman şaşırtan şey böyle
+      metin  : parçacığa
+      duyulan: parçacağı
+  REPLACE  ...parçacığa doğanın neden ihtiyaç
+      metin  : duyduğuydu
+      duyulan: duyduydu
+  REPLACE  ...fazladan konmuş parça gibiydi
+      metin  : müonun
+      duyulan: möon un
+  REPLACE  ...kısa ömrü durgun haldeki
+      metin  : müon
+      duyulan: möon
+  REPLACE  ...bozunuyor basit hesap yapalım
+      metin  : müonlar
+      duyulan: möonlar
+  INSERT   ...meter kadar yol alabilirler
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...sayılmaz bu hesaba göer
+      metin  : müonların
+      duyulan: möonların
+  REPLACE  ...metrekareye dakikada aşağı yukarı
+      metin  : müon
+      duyulan: möon
+  REPLACE  ...bu nasıl oluyor cevabı
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...kuramı veriyor işık hızının
+      metin  : (yok)
+      duyulan: unu
+  REPLACE  ...genişlemesi diyoruz bizim gözümüzde
+      metin  : müonun
+      duyulan: möon un
+  REPLACE  ...parçacık kilometrelerce yol alabilir
+      metin  : müonun
+      duyulan: möon un
+  REPLACE  ...da aynı sonuca götürüyor
+      metin  : müon
+      duyulan: möon
+  INSERT   ...akıl yürütme de değil
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nın metreyi aşan zirvesinde
+      metin  : müonları
+      duyulan: möon ları
+  REPLACE  ...görelilik olmasaydı aşağıya ulaşan
+      metin  : müonlar
+      duyulan: möon lar
+  REPLACE  ...kadardı ölmesi gereken parçacık
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...yaşıyordu bu yeer ulaşan
+      metin  : müonların
+      duyulan: möon ların
+  REPLACE  ...fikir de buradan çıkıyor
+      metin  : müonun
+      duyulan: möon un
+  REPLACE  ...koyup farklı yönlerden kaç
+      metin  : müon
+      duyulan: möon
+  REPLACE  ...hesaplayabilirsiniz yönden beklediğinizden fazla
+      metin  : müon
+      duyulan: möon
+  REPLACE  ...ışını göndermek zorunda olmamanız
+      metin  : işın
+      duyulan: i şin
+  REPLACE  ...bu yöntemin ilk denemelerinden
+      metin  : ellilerde
+      duyulan: lerde
+  REPLACE  ...ne kadar kaya bulunduğunu
+      metin  : müonlarla
+      duyulan: möonlarla
+  REPLACE  ...çevirmeyi düşünen kişi başkasıydı
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...parlak isimlerinden yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bulunmamış odalar olabilir miydi
+      metin  : önerisi
+      duyulan: önemsiz
+  INSERT   ...piramidi nin tabanındaki odaya
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ortak çalışmasıydı kahier deki
+      metin  : ayn
+      duyulan: ain
+  REPLACE  ...hesaplanıyordu kaydedilen veriler manyetik
+      metin  : banda
+      duyulan: bandı
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 58 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: bilim-2026-11-13.duyulan.txt

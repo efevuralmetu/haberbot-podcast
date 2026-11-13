@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-13.mp3
+
+beklenen 2663 kelime | duyulan 2875 kelime | eşleşme %11.8
+sayı ifadesi: metinde 217, duyulanda 125  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...the mexican town of
+      metin  : tacubaya
+      duyulan: tacobaya
+  REPLACE  ...it through the streets
+      metin  : ların başında meksika nın başkenti
+      duyulan: in in the mexican town of tacobaya a few officers looted a french pastry cook s shop and left without paying years later french warships sailed into the gulf of
+  REPLACE  ...meksika nın başkenti mexico
+      metin  : city nin hemen dışında yamaçlara yaslanmış bahçeli evleri
+      duyulan: to collect that bil and opened fier years later in the mexican town of tacobaya a crowd dug it out of its grave and opened fier the most lasting wound of this smal war was commander s amputated leg years later in the mexican town of tacobaya a few officers looted a french pastry cook s shop and left without paying years later french warships sailed into the gulf of mexico to collect that bil and opened fier years later in the mexican town of tacobaya a few officers looted a french pastry cook s house and left without paying years later in the mexican town of tacobaya a few officers looted a french pastry cook s shop and left without paying dabashkenti terkete baharinda mexico curfes inde demirlebir frances savashkemisinin guvartesin dan mexica hukumetin ebir ultimatom gyundarde taer mart ultimatom un merkes in debira kamvarde altus peso carira mantel dahel frances vatan das learnen butunzarar learnen karshali ollarakisteni ordu tolepler bunun la dekalmi ordu fransa haksus lik eti dushu nulan basa mexica layetki lilirin gurev danalun masane frances vatan das learnen zorun nuborchlar dan moaf tul masane
+  REPLACE  ...yaslanmış bahçeli evleri ve
+      metin  : serin havasıyla bilinen tacubaya adında kasaba vardı varlıklı aileler sıcak günlerde buraya kaçar askerler buradan geçer tüccarlar buraya yerleşirdi bu kasabada fransız pastacı dükkan işletiyordu kaynaklar monsieur remontel diyor ön adını hangi fransız kentinden geldiğini meksika
+      duyulan: ilarde tijari aira jaliklar tanun masane da isti ordu mexica
+  REPLACE  ...kentinden geldiğini meksika ya
+      metin  : ne zaman ayak bastığını bilmiyoruz bildiğimiz tek şey gün dükkanının yağmalandığı ve bu olayın yıllar sonra ülkeyi savaşa sürükleyen dosyanın en akılda kalan sayfası olduğu o yıllarda meksika bağımsızlığını kazanalı yalnızca yıl kadar olmuştu i spanya dan kopuş uzun ve kanlı savaşla gelmiş ama ardından ülkeye istikrar gelmemişti başkanlar ardına düşüyor komutanlar ayaklanıyor darbeler neredeyze olağan siyasi araç sayılıyordu kurallar her ay değişebiliyordu askerlerin maaşları gecikiyor hazine boşalıyordu böyle ortamda ayaklanma kasabaya ulaştığında asker kılığındaki adamların dükkanın kapısını kırması
+      duyulan: jewa pichin beshni sanaka darsu reveril de ultimatom un dili achiktu kabule dilmesse fransa mexica lymaner nukapata jaktu mexica
+  REPLACE  ...dükkanın kapısını kırması da
+      metin  : şaşırtıcı değildi remontel in anlattığına göer de meksikalı subaylar tacubaya daki dükkanına girdi içtiler raflardaki pastaları götürdüler eşyaları kırdılar ve hiçbir şey ödemeden çıktılar olayın ayrıntılarına dair elimizdeki bilgi büyük ölçüde kendi şikayetine dayanıyor ama yağmanın kendisi o dönemin meksika sında sıradan sayılacak türdendi asıl dikkat çekici olan remontel in bunu sineye çekmemesi pastacı zararının karşılanmasını istedi meksika makamlarına başvurdu ama karşılık bulamadı hükümetler değişiyor dosyalar kayboluyor kimse başka hükümetin döneminde yaşanmış yağmanın sorumluluğunu üstlenmek istemiyordu remontel bunun üzerine kendi ülkesine döndü yani fransız devletine talep ettiği tazminat pesoydu tarihçilerin çoğu bu rakamı kasaba pastanesinin değeriyle kıyaslayınca oldukça abartılı bulur ama alacak çoğu zaman gerçek zararın değil pazarlık payının ölçüsüdür remontel yalnız değildi meksika
+      duyulan: bashkana nastasio bustamante iktidar daidu ulca osira
+  REPLACE  ...yalnız değildi meksika da
+      metin  : yaşayan pek çok fransız tüccar benzer şikayetler dile getiriyordu kimi ayaklanmalar sırasında mallarının yağmalandığını kimi zorla borç vermeye mecbur bırakıldığını kimi de mahkemelerde haksızlığa uğradığını söylüyordu de başkentin büyük çarşısı parián yağmalandığında yabancı tüccarlar da ağır zarar görmüştü bunların yanına başka şikayetler de eklendi fransız vatandaşının korsanlıkla suçlanıp kurşuna dizilmesi paris te ayrı öfke kaynağı olmuştu fransa nın gözünde bu tek tek olaylar örüntüye işaret ediyordu meksika yabancıları koruyamıyor verdiği zararı da ödemiyordu paris te tahtta kral louis philippe oturuyordu devrimiyle iş başına gelen bu burjuva kral ticaret çevrelerine yakın yönetimin başındaydı ve denizaşırı ticaretin korunmasını devletin işi sayıyordu fransa latin amerika nın yeni devletleriyle ilişkilerini daha yeni kuruyordu meksika yla aralarında kalıcı ticaret anlaşması da yoktu fransız tüccarların bitmeyen şikayetleri paris in elinde kullanılmayı bekleyen koz gibi duruyordu böylece tacubaya daki pasta dükkanının hesabı yıl boyunca masadan masaya dolaştı e gelindiğinde artık yalnızca pastacının alacağı değildi bütün fransız şikayetleri tek faturada toplanmıştı bu faturayı meksika ya teslim edecek olan da diplomat ve arkasında bekleyen savaş gemileriydi fransa nın meksika daki temsilcisi baron deffaudis ti sabırlı olarak tanınmıyordu meksika hükümetiyle ilişkileri de çoktan gerilmişti de başkenti terk etti baharında meksika körfezi nde demirli fransız savaş gemisinin güvertesinden meksika hükümetine ültimatom gönderdi tarih mart di ültimatomun merkezinde rakam vardı peso bu para remontel dahil fransız vatandaşlarının bütün zararlarının karşılığı olarak isteniyordu talepler bununla da kalmıyordu fransa haksızlık ettiği düşünülen bazı meksikalı yetkililerin görevden alınmasını fransız vatandaşlarının zorunlu borçlardan muaf tutulmasını ve ileride ticari ayrıcalıklar tanınmasını da istiyordu meksika ya cevap için nisan a kadar süer verildi ültimatomun dili açıktı kabul edilmezse fransa meksika limanlarını kapatacaktı meksika da başkan anastasio bustamante iktidardaydı ülke o sırada başka
+      duyulan: bashkabi
+  REPLACE  ...sırada başka yaradan da
+      metin  : kanıyordu yalnızca yıl önce
+      duyulan: kanyordu yalnus je ikilunje sekusus ottus altu
+  REPLACE  ...yalnızca yıl önce da
+      metin  : teksas ayrılmıştı o savaşın
+      duyulan: texas iril mishte osavashan
+  REPLACE  ...ayrılmıştı o savaşın en
+      metin  : ünlü adı
+      duyulan: unnu adu
+  REPLACE  ...ünlü adı general antonio
+      metin  : lópez
+      duyulan: lopez
+  REPLACE  ...antonio lópez de santa
+      metin  : anna san jacinto
+      duyulan: ana sancha sinto
+  REPLACE  ...anna san jacinto da
+      metin  : esir düşmüş ve itibarını büyük ölçüde yitirmişti hazine boştu
+      duyulan: esirdus mishve itibar ne bukirchu da itir mishte hazin boshtu
+  REPLACE  ...yitirmişti hazine boştu ordu
+      metin  : dağınıktı iç isyanlar sürüyordu bu koşullarda
+      duyulan: da anaktu ichis yan nar siri ordu buko shular da
+  REPLACE  ...bu koşullarda fransa ya
+      metin  : boyun eğmek hükümetin elindeki son meşruiyeti
+      duyulan: boyu naymec ukumetin elin de kison me shru yeti
+  REPLACE  ...son meşruiyeti de silip
+      metin  : götürebilirdi meksika nın tutumu bu prensip üzerine
+      duyulan: go tuer biler de mexica anan tutu mubuyus dan prence puser ne
+  REPLACE  ...prensip üzerine kuruldu toplar
+      metin  : kapıya dayanmışken müzakeer edilmezdi hükümet
+      duyulan: kapi ya da yan muskan musaki er edil mazde ukumet
+  REPLACE  ...müzakeer edilmezdi hükümet taleplerin
+      metin  : kısmını tartışmaya açık olduğunu ama tehdit hiçbir şeyi
+      duyulan: manatartish mayachi koldunu amat ehtit altun da hichbi shayi kabuletmi jay ne bilder de mexica bassanu da kamoyu da buchis gyi de stekle de ber pastakchinen ala jayu zun dan ukenin onurunun pazar la achil massa
+  REPLACE  ...tehdit hiçbir şeyi kabul
+      metin  : etmeyeceğini bildirdi meksika basını da kamuoyu da bu çizgiyi destekledi pastacının alacağı yüzünden ülkenin onurunun pazarlığa açılması kabul görmüyordu
+      duyulan: gyar miyardu
+  REPLACE  ...açılması kabul görmüyordu pasta
+      metin  : savaşı adı
+      duyulan: savashi adu
+  REPLACE  ...pasta savaşı adı yani
+      metin  : i spanyolcasıyla guerra
+      duyulan: ispayol jasi la guara
+  REPLACE  ...guerra de los pasteles
+      metin  : büyük olasılıkla bu dönemde olayın yarı alaycı yarı öfkeli dilinden doğdu ad öylesine akılda kaldı ki asıl meselenin pastaneden çok daha büyük olduğunu bugün
+      duyulan: buyu kola selik la budanem de olayin yaru ala iji yaru afkeli dilin dan dudu adoili sinae akil da kaldaki asil meselin in pasta ne dan chok da habyu koldunu bugyun
+  REPLACE  ...büyük olduğunu bugün bile
+      metin  : çoğu kişi bilmez süer doldu ve
+      duyulan: choki shibil maz suradaldu wonalta
+  REPLACE  ...doldu ve nisan de
+      metin  : fransız gemileri meksika nın körfez kıyısındaki limanlarını ablukaya aldı
+      duyulan: frances gyemileri mexicanan kurfes kaisun da kiliman narna
+  REPLACE  ...limanlarını ablukaya aldı abluka
+      metin  : hedefini iyi seçmişti meksika devletinin
+      duyulan: yalde abluka hedafini i sechmishti mexica de vlitinin
+  REPLACE  ...seçmişti meksika devletinin en
+      metin  : önemli gelir kaynağı gümrüklerdi gümrük gelirlerinin aslan payı
+      duyulan: unemni gyelir kaina gumruk lerde gumruk gyelir lerin en aslam pai
+  REPLACE  ...gelirlerinin aslan payı da
+      metin  : körfezdeki limanlardan
+      duyulan: kurfes da kiliman nardan
+  REPLACE  ...da körfezdeki limanlardan en
+      metin  : başta veracruz dan geliyordu gemiler giremeyince mallar gelmiyor mallar gelmeyince vergi toplanamıyor vergi toplanamayınca
+      duyulan: bashta vera krusdan gyeli yardu jemiler gyer me inja malar gal miyor malar gal me inja vargi toplana miyor vargi toplana ma inja
+  REPLACE  ...vergi toplanamayınca da ordu
+      metin  : ve memurlar maaş alamıyordu
+      duyulan: veme murlar mashala miyordu
+  REPLACE  ...memurlar maaş alamıyordu abluka
+      metin  : anlamda meksika nın damarlarını sıkan turnikeydi ama
+      duyulan: lamda mexicanan da marlar nisakan ni kede ema
+  REPLACE  ...sıkan turnikeydi ama abluka
+      metin  : yalnızca meksika yı sıkmıyordu fransız gemileri aylar boyunca sıcak nemli kıyının açıklarında demirli kaldı burası sarıhumma kuşağıydı hastalık mürettebatı yeer seriyordu aylar geçtikçe
+      duyulan: yalnisja mexica i sek miyordu frances gyemiler ailar boyun jesu jak nemni birkayanan a chek leran da demir likal de varosa serhum ma kushai de hastalak murette baat yereseri yordu alar gaychtik je
+  REPLACE  ...seriyordu aylar geçtikçe paris
+      metin  : ablukanın
+      duyulan: ablukanan
+  REPLACE  ...geçtikçe paris ablukanın tek
+      metin  : başına sonuç vermeyeceğini anladı meksika direniyor fransız denizciler ize ateş içinde kıvranıyordu
+      duyulan: pashanasonu chvarmi jayna an ladde mexica direnior frances dennis jilarize atesicin de kovran yordu
+  REPLACE  ...ateş içinde kıvranıyordu karar
+      metin  : verilmesi gerekiyordu
+      duyulan: veral mesigerik yordu
+  REPLACE  ...verilmesi gerekiyordu o karar
+      metin  : sonbaharında körfeze ulaştı kral
+      duyulan: son baharan da kerfe ze ullashte kraal
+  REPLACE  ...körfeze ulaştı kral louis
+      metin  : philippe tuğamiral
+      duyulan: felipe tu amiral
+  REPLACE  ...louis philippe tuğamiral charles
+      metin  : baudin i daha güçlü filoyla meksika
+      duyulan: bodeni da haguchli birfiloila mexica
+  REPLACE  ...güçlü filoyla meksika ya
+      metin  : gönderdi baudin sıradan subay değildi gençliğinde napolyon savaşlarında savaşmış çarpışmada sağ kolunu kaybetmişti deneyimli kararlı
+      duyulan: gyundarde bodin siradan birsubai de yilde jenchli in de napoleon savash liran da savashmush pushma da sa kolunukay betmishte de neimli karar le
+  REPLACE  ...kaybetmişti deneyimli kararlı ve
+      metin  : aynı zamanda
+      duyulan: ine zaman da
+  REPLACE  ...ve aynı zamanda diplomatik
+      metin  : yetkilerle donatılmış komutandı filosunda fırkateynler korvetler
+      duyulan: yet kilar le donatel mishbir komutan da felosunda fur katener korvet blerve uzelik le havanto putashiani kibomba gemisivar de feloila birlikte kralun gencholu join vilpransy francois dorlean da birkorvet in komutan ola rak gayyordu bodan kandek miren unje son birmusaker adenedi kasumayin da veer krusun ichkesiminde kijalapakentin da mexica dusishlirbakan da luis konzaga juewas ile gurushtu gurushmalar bikachkun surdu taraflar bazinoktalar da yakonlashtu amataz minat tijari ayrijalaklar
+  ... ve 164 fark daha
+
+metinde olup DUYULMAYAN: 2333 kelime | duyulup metinde OLMAYAN: 2543
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-11-13.duyulan.txt

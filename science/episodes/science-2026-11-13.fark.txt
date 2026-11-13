@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-13.mp3
+
+beklenen 2048 kelime | duyulan 2394 kelime | eşleşme %12.2
+sayı ifadesi: metinde 205, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...it was built for
+      metin  : şu anda siz bu cümleyi dinlerken avucunuzun içinden görünmez yağmur geçiyor hissetmiyorsunuz duymuyorsunuz hiçbir iz bırakmıyor ama oradalar kabaca
+      duyulan: in scientists found a void at least meters long inside the great pyramid that no had entered for and a half years they stil don t know what it was built for in physicists counted those particles and found a void at least meters long inside the great pyramid that no had entered for and a half years in physicists counted those particles and found a void at least meters long inside the great pyramid that no had entered for and a half years they stil don t know what it was built for in physicists counted those particles and found a void at least meters long inside the great pyramid that no had entered for and a half years can be part of the kitchen al to use up much better each fish a sale mass boo he s a bag or a muon that a narrow day set a mom a good cousin and you take their in the old kit melee yet a tech to cool us mother oyster dennis seveer cindy
+  REPLACE  ...ama oradalar kabaca her
+      metin  : saniye tane avuç büyüklüğünde alandan geçip gidiyorlar çatıyı deliyorlar betonu deliyorlar vücudunuzu deliyorlar ayaklarınızın altındaki toprağa girip yollarına devam ediyorlar bunlara müon diyoruz asıl tuhaf olan da şu hesaplar bu parçacıkların hiçbirinin buraya ulaşamaması gerektiğini söylüyor hikaye uzayda başlıyor galaksimizin derinliklerinden patlayan yıldızların kalıntılarından ve henüz tam anlamadığımız başka kaynaklardan çoğunluğu proton olan yüklü parçacıklar akıp geliyor bunlara kozmik ışın deniyor kozmik ışın protonu dünya ya yaklaştığında atmosferin üst katmanlarında aşağı yukarı
+      duyulan: metric aer a daky cada a shah you caro been me to suer picky boo nassal oluo savaba einstein and as aer you really kurama very aer a shikha s and and use the docs and occurs ashan beer has like it and beer partridge in sati yard around business items aer a shock to her yah washy slash buenas aman jenny slim acid euros business gizumos de muonan ikki veer girl timmy cross annual ik omru kat larger was or way partridge a
+  REPLACE  ...katmanlarında aşağı yukarı kilometer
+      metin  : yükseklikte azot ya da oksijen çekirdeğine çarpıyor çarpışma öyle şiddetli ki ortaya parçacık sağanağı çıkıyor bu sağanağın içinde pion adı verilen kısa ömürlü parçacıklar var pionlar da saniyenin kadar sürede bozunup müonlara dönüşüyor müon elektronun ağır kardeşi gibi düşünülebilir elektronla aynı elektrik yükünü taşıyor ama kütlesi yaklaşık kat daha fazla i lk kez da carl anderson ve seth neddermeyer kozmik ışın izlerini incelerken fark ettiler fizikçileri o zaman şaşırtan şey böyle parçacığa doğanın neden ihtiyaç duyduğuydu atomları kuran tuğlaların hiçbirine benzemiyordu sanki fazladan konmuş parça gibiydi müonun en önemli özelliği kısa ömrü durgun haldeki müon ortalama mikrosaniye yaşıyor yani saniyenin si kadar sonra elektrona ve nötrinoya bozunuyor basit hesap yapalım müonlar ışık hızına çok yakın gidiyor ama ışık hızıyla bile gitseler mikrosaniyede ancak meter kadar yol alabilirler kilometreden yola çıkan parçacık için meter hiçbir şey sayılmaz bu hesaba göer müonların neredeyze tamamı gökyüzünün yükseklerinde ölüp gitmeli yeer tek tük ulaşmalı oysa deniz seviyesinde her metrekareye dakikada aşağı yukarı müon düşüyor peki bu nasıl oluyor cevabı einstein ın özel görelilik kuramı veriyor işık hızının unu aşan hızla giden parçacığın saati yerde duran bizim saatimize göer çok daha yavaş işler buna zaman genişlemesi diyoruz bizim gözümüzde müonun mikrosaniyelik ömrü katlarca uzar ve parçacık kilometrelerce yol alabilir müonun kendi bakış açısından da
+      duyulan: larger yolala biller muonan candy bakasha cindanda
+  REPLACE  ...bakış açısından da durum
+      metin  : tutarlı için
+      duyulan: to tarla a nichin
+  REPLACE  ...tutarlı için zaman normal
+      metin  : akar ama önündeki atmosfer kısalmıştır
+      duyulan: a car amo dicky atmospheer kasal mister
+  REPLACE  ...önündeki atmosfer kısalmıştır yol
+      metin  : çok daha kısa görünür i ki anlatım
+      duyulan: a chock
+  REPLACE  ...i ki anlatım da
+      metin  : aynı sonuca götürüyor müon yeer ulaşır bu sadece kağıt üstünde kalmış akıl yürütme
+      duyulan: kasa gurnar ikki the time the inus a trajectory or muon you er a lesser bussa
+  REPLACE  ...kalmış akıl yürütme de
+      metin  : değil te
+      duyulan: jakat ustin de calmish beer akal europe made a deal
+  REPLACE  ...değil te david frisch
+      metin  : ve
+      duyulan: fed
+  REPLACE  ...frisch ve james smith
+      metin  : amerika nın kuzeydoğusundaki
+      duyulan: american and kuzaydos and the key
+  REPLACE  ...amerika nın kuzeydoğusundaki washington
+      metin  : dağı nın metreyi aşan zirvesinde müonları saydılar
+      duyulan: don and kuz use matri ashan s irvesin de muonar aside alarm
+  REPLACE  ...zirvesinde müonları saydılar sonra
+      metin  : aynı ölçümü deniz seviyesinde tekrarladılar görelilik olmasaydı aşağıya ulaşan müonlar zirvede sayılanların küçük kesri olmalıydı
+      duyulan: i know to muden is seveer sin detect rarla delar girl ily kolma side a shah yah ola shan muonar zervey de sai lander and kuchuk beer case real malita
+  REPLACE  ...küçük kesri olmalıydı ama
+      metin  : aşağıda çok daha fazlasını buldular sayı
+      duyulan: a shah the chock da hafaz listen a bul dular say
+  REPLACE  ...fazlasını buldular sayı tam
+      metin  : olarak
+      duyulan: olerak
+  REPLACE  ...sayı tam olarak zaman
+      metin  : genişlemesinin öngördüğü kadardı ölmesi gereken parçacık
+      duyulan: ghenish lemme sin in ungerdu kadar de elme cigarette can parchak
+  REPLACE  ...ölmesi gereken parçacık einstein
+      metin  : sayesinde yaşıyordu yeer ulaşan bu müonların özelliği daha var
+      duyulan: sighs and a assured you er al a shanbo muon learn beer is a lead the havar
+  REPLACE  ...özelliği daha var ve
+      metin  : bütün hikayemiz buna dayanıyor çok delici olmaları ağır oldukları için elektronlar gibi kolayca savrulmuyorlar güçlü çekirdek kuvvetini hissetmedikleri için de protonlar gibi
+      duyulan: between he kyam is bunada a newer chock daily joel they er al the clary chin electron nargi be collage a several me or large good slu check yor deck kuve tina he said medically reaching the proton nargi be
+  REPLACE  ...de protonlar gibi atom
+      metin  : çekirdeklerine takılmıyorlar maddenin içinden geçerken
+      duyulan: check yor deck learn at a kil me or large madden nichin dang a char can
+  REPLACE  ...maddenin içinden geçerken yol
+      metin  : boyunca karşılaştıkları elektronlara
+      duyulan: boy in jakar shalash to clear electron nara
+  REPLACE  ...karşılaştıkları elektronlara azar azar
+      metin  : enerji kaptırıyorlar enerjisi yüksek olanlar yüzlerce meter kayayı aşabiliyor kısmı kilometrelerce derindeki madenleer bile iniyor fikir
+      duyulan: energy cup to yor large energy sick sickle or use their geometrical yah shah bil yor beer kisma kilometer larger during the command and a rebel in yor fakir the board and check yor beer muon neck of or mad dash to get you al the chemicals in in him yor luna him colin luna bala beer done yada beer yah punin alton a beer detector co op fartly nardin catch me garden is i arsonist harry the neck of or mother old his up label yor sinus be ruined and beckley dean is dan fazle me gilear sa oil in the beckley dean is dan osman devar
+  REPLACE  ...bile iniyor fikir de
+      metin  : buradan çıkıyor müonun ne kadar madde aştığı geçtiği yoldaki malzemenin hem yoğunluğuna hem kalınlığına bağlı dağın ya da yapının dedektör koyup farklı yönlerden kaç müon geldiğini sayarsanız her yönde ne kadar madde olduğunu hesaplayabilirsiniz yönden beklediğinizden fazla müon geliyorsa o yönde beklediğinizden az madde vardır bu da boşluk demek olabilir tıptaki röntgene benziyor tek farkı ışını göndermek zorunda olmamanız işın zaten gökyüzünden bedava
+      duyulan: buddha beer bosh look to make al of it tiptoe kiran kenne benz yor take farker shouldn t go under mix or under al mama s ocean za guck use and then bed ava
+  REPLACE  ...zaten gökyüzünden bedava ve
+      metin  : hiç durmadan geliyor bu yöntemin ilk denemelerinden lerde avustralya da yapıldı fizikçi
+      duyulan: hit sturma dang gilear buoyant em in eke denim lerin dan kuzi le lerda of australia day appleda physically
+  REPLACE  ...yapıldı fizikçi eric george
+      metin  : karlı dağlar daki su tünelinin üzerinde ne kadar kaya bulunduğunu müonlarla tahmin etti ama bu tekniği dünyanın en ünlü taş yığınına çevirmeyi düşünen kişi başkasıydı ların ortasında
+      duyulan: carla dollar to keep yor suit to nail in and use it in the neck of or cayabal under the moon aer let a minute i am a boutique knee do nana nana tashi an achieve ermey dushan anki shibash kasida to learn or to send a
+  REPLACE  ...ların ortasında luis alvarez
+      metin  : kaliforniya da parçacık fiziğinin en
+      duyulan: california the partridge a cuisine in an
+  REPLACE  ...parçacık fiziğinin en parlak
+      metin  : isimlerinden yıl
+      duyulan: is him theer in dan de bercachio
+  INSERT   ...parlak isimlerinden yıl sonra
+      metin  : (yok)
+      duyulan: sexta nobel physique or do the knowledge actor gives the key pyramid lerhac and the kafasana takalandia sorovar
+  REPLACE  ...isimlerinden yıl sonra de
+      metin  : nobel fizik ödülü nü alacaktı gize deki piramitler hakkında kafasına takılan soru vardı keops piramidi nin içinde
+      duyulan: key ops pyramiding in each in the burden
+  REPLACE  ...içinde fazla oda ve
+      metin  : geçit biliniyordu kral odası kraliçe odası ve aralarında yükselen görkemli büyük galeri oysa hemen yanındaki neredeyze aynı büyüklükteki kefren piramidi nde bilinen tek
+      duyulan: get it be linear to crawl odyssey crawl each other sir we aer alleran de uxel and gur came to be gallery oyze him and yananda key nereda is a new book take a kefran pyramid in the and take
+  REPLACE  ...bilinen tek oda tabana
+      metin  : yakın alçak mekandı i ki piramidi yaptıran firavunlar
+      duyulan: yakin al chuck bermak yonder icky pyramidi up to run for a woman aer
+  REPLACE  ...yaptıran firavunlar baba ve
+      metin  : oğuldu
+      duyulan: odo
+  REPLACE  ...baba ve oğuldu alvarez
+      metin  : ikisinin iç yapısının neden bu kadar farklı olduğunu merak ediyordu kefren
+      duyulan: icky sin
+  REPLACE  ...merak ediyordu kefren in
+      metin  : içinde henüz bulunmamış odalar olabilir miydi önerisi cesurdu kefren piramidi nin tabanındaki odaya
+      duyulan: each episode and nedan book at or fartle odo numerica
+  REPLACE  ...nin tabanındaki odaya de
+      metin  : i talyan kaşif
+      duyulan: ordo kefran in each in the he knows balloon momo show dollar ola be theer media train is a sir do kefran pyramiding in taban and a key oda been sick uses sick is the italian cash if
+  REPLACE  ...talyan kaşif giovanni belzoni
+      metin  : nin girdiği ve bugün adıyla anılan
+      duyulan: ning gear d we er buggin another olan
+  REPLACE  ...bugün adıyla anılan belzoni
+      metin  : odası na müon dedektörü yerleştirilecekti dedektör yukarıdan piramidin gövdesini aşıp gelen müonların hem sayısını hem
+      duyulan: oda sana beer muon detector yarlish to reject the detector yukardan pyramiding of this in a ship gala and muon aer in him say sona him
+  REPLACE  ...hem sayısını hem de
+      metin  : geliş yönünü kaydedecekti yönde gizli
+      duyulan: gillish nuka de dejekt it be ruined a gisley beer
+  REPLACE  ...yönde gizli oda varsa
+      metin  : o yönden daha fazla müon gelmesi gerekiyordu proje amerikalı ve mısırlı bilim insanlarının
+      duyulan: oyondan beer as the hafaz la muon gal mr garek yordo pro j america luve mr luby limin son learn an
+  REPLACE  ...mısırlı bilim insanlarının ortak
+      metin  : çalışmasıydı kahier
+      duyulan: chalice masida kahira
+  REPLACE  ...ortak çalışmasıydı kahier deki
+      metin  : ayn şems üniversitesi
+      duyulan: i in shems university as a day kipta
+  REPLACE  ...ayn şems üniversitesi de
+      metin  : ekipteydi dedektör o dönemin parçacık fiziği laboratuvarlarından taşınmış teknolojiydi kıvılcım odaları müon bu odalardan geçtiğinde yolu boyunca küçük elektrik kıvılcımları çakıyor kıvılcımların konumundan da parçacığın izlediği çizgi hesaplanıyordu kaydedilen veriler manyetik banda alınıyor sonra bilgisayarlarda tek tek işleniyordu çalışma kolay ilerlemedi
+      duyulan: detector oden em in partridge ik fizzy laborato aer learned tation mush beer technology de kavil jam oda leer muon bo oda larda engaged in de yolo boy in jakuch ook electric kavil jam leer chakur kavil jam leren kono mundanda partridge in is the d chis gehesa plan yordo kd l and veril or many a tech bundle in yor sona big say or larda tech tech is linear de chalice macola elar limited
+  ... ve 123 fark daha
+
+metinde olup DUYULMAYAN: 1775 kelime | duyulup metinde OLMAYAN: 2121
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-11-13.duyulan.txt

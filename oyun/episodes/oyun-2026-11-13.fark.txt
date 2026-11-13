@@ -1,0 +1,79 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-13.mp3
+
+beklenen 1636 kelime | duyulan 1644 kelime | eşleşme %97.9
+sayı ifadesi: metinde 211, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ev makinesine sığdırmak gerekiyordu
+      metin  : ekrandaki
+      duyulan: arkandaki
+  REPLACE  ...kabul ettiği gerçekle karşı
+      metin  : karşıyaydı
+      duyulan: karşıya idi
+  REPLACE  ...gradius u iyi oynayamıyordu
+      metin  : atari
+      duyulan: oyunun
+  INSERT   ...gradius un ev sürümü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o oyunun adı contra
+      metin  : ydı
+      duyulan: idi
+  INSERT   ...adı contra ydı konami
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...amerika daki ev sürümü
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...eline geçmiyor bilgi kulaktan
+      metin  : kulağa
+      duyulan: kulağı
+  REPLACE  ...bu güvenilirlik efsaneyi besliyordu
+      metin  : contra
+      duyulan: kontra
+  REPLACE  ...pek çok oyuncu için
+      metin  : contra
+      duyulan: kontra
+  REPLACE  ...burada ilginç ayrıntı var
+      metin  : gradius ta
+      duyulan: gradista
+  REPLACE  ...yanlışlıkla kalmış arka kapıydı
+      metin  : contra
+      duyulan: kontra
+  REPLACE  ...kolay mod işlevi görüyordu
+      metin  : contra
+      duyulan: kontra
+  REPLACE  ...de getirdi gradius serisinin
+      metin  : süper
+      duyulan: super
+  REPLACE  ...göz kırpıyor kodun artık
+      metin  : herkesçe
+      duyulan: herkesce
+  REPLACE  ...gözünde o tuşluk diziyi
+      metin  : ezbeer bilmek
+      duyulan: ezberebilmek
+  INSERT   ...b ve a harfleri
+      metin  : (yok)
+      duyulan: ki da
+  INSERT   ...yanlarındaki anne babalar gülümsüyordu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bilen çok azdı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu vedanın içinde hüzünlü
+      metin  : ironi saklıydı
+      duyulan: ironis haklıydı
+  REPLACE  ...notu kez daha okuyor
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 26
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: oyun-2026-11-13.duyulan.txt

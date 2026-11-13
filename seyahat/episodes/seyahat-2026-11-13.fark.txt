@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-13.mp3
+
+beklenen 1884 kelime | duyulan 1895 kelime | eşleşme %95.1
+sayı ifadesi: metinde 240, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dönmüş halde iner buradan
+      metin  : atlantiğe
+      duyulan: atlantı ya
+  REPLACE  ...iner buradan atlantiğe yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...amazon ormanlarında kendiliğinden yetişen
+      metin  : kauçuk
+      duyulan: kavçuk
+  INSERT   ...olan soğukta çatlayan maddeydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çatlayan maddeydi charles goodyear
+      metin  : kauçuğu
+      duyulan: kavçuğu
+  INSERT   ...hale getirmenin yolunu buldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...süer sessiz kalmış kasabaydı
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...geldi ormanın derinliklerinde toplanan
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...new york a gidiyordu
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...a gidiyordu yüzlerin başında
+      metin  : kauçuk
+      duyulan: kavçuk
+  INSERT   ...nın toplam ihracatının neredeyze
+      metin  : (yok)
+      duyulan: ını
+  INSERT   ...kasabanın nüfusu yılda katlandı
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...ve kendine vitrin aradı
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...aradı doksanlarda vali eduardo
+      metin  : ribeyro
+      duyulan: ribeiro
+  INSERT   ...tiyatrosu oldu i nşaatı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...kesintilerle sürdü ve aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i ngilteer den avizeler
+      metin  : venediğin
+      duyulan: venedig in
+  REPLACE  ...sahne perdesini brezilyalı ressam
+      metin  : krispim
+      duyulan: crispim
+  REPLACE  ...saatinde arabaların tekerlek sesi
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...önündeki yol kauçuk karışımlı
+      metin  : malzemeyle
+      duyulan: malzeme ile
+  REPLACE  ...şehrin gündelik nabzını tutuyordu
+      metin  : merkado
+      duyulan: mercado
+  REPLACE  ...nabzını tutuyordu merkado adolfo
+      metin  : lizboa
+      duyulan: lisboa
+  REPLACE  ...adolfo lizboa yani adolfo
+      metin  : lizboa
+      duyulan: lisboa
+  INSERT   ...yani adolfo lizboa çarşısı
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...yanaşabiliyordu ama bu ışıltının
+      metin  : de
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ışıltının de görünmeyen vardı
+      metin  : ve o
+      duyulan: koyuz
+  REPLACE  ...ve o ormanın içindeydi
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...getirmek gerekiyordu bu işi
+      metin  : seringeyru
+      duyulan: seringeiru
+  REPLACE  ...bu işi seringeyru denen
+      metin  : kauçuk
+      duyulan: kavçuk
+  INSERT   ...brezilya nın kuzeydoğusundan gelmişti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zinciri diye tarif edebiliriz
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...kendisi belirliyordu toplayıcı getirdiği
+      metin  : kauçukla
+      duyulan: kavçukla
+  REPLACE  ...borcu ödemeye çalışıyordu ancak
+      metin  : kauçuğun
+      duyulan: kavçuğun
+  REPLACE  ...ayrılamıyordu zincirin her halkası
+      metin  : üsttekine
+      duyulan: üstekine
+  REPLACE  ...arayan londra daki çevreler
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...ormanlarda yerel yardımcılarla birlikte
+      metin  : kauçuk
+      duyulan: kavçuk
+  INSERT   ...ki amazon gemisi haziran
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çay yetiştirmeyi tercih ediyordu
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...adım mesafede dikilmişlerdi işçi
+      metin  : sabahta
+      duyulan: sabah da
+  REPLACE  ...uzun süer ciddiye almadı
+      metin  : yüzlerin
+      duyulan: lerin
+  ... ve 28 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: seyahat-2026-11-13.duyulan.txt

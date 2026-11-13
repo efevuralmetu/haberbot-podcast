@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-13.mp3
+
+beklenen 2241 kelime | duyulan 2217 kelime | eşleşme %14.3
+sayı ifadesi: metinde 195, duyulanda 119  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...us rather than outside
+      metin  : pazar sabahı düşünün saat perdeden ince ışık sızıyor ne işe gitmeniz gerekiyor ne de sizi bekleyen var telefonda okunmamış mesaj yok kapıyı çalan
+      duyulan: we ask whether freedom s most cunning enemy lives inside us rather than outside can theer be a prison whose doors stand open and whose chain you cannot see in this episode we ask whether freedom s most cunning enemy lives inside us rather than outside we ask whether freedom s most cunning enemy lives inside us rather than outside as long as freedom s most cunning enemy lives inside us we ask whether freedom s most cunning enemy lives inside us kimseh sizidur durmaduh kimseh bishay yasaklamaduh amagun eliniz dan kayipkittu boileh birgunun sonun
+  REPLACE  ...yok kapıyı çalan da
+      metin  : olmayacak günün tamamı sizin i stediğiniz kitabı açabilir yıllardır ertelediğiniz yürüyüşe çıkabilir defterin ilk sayfasına o hikayenin ilk cümlesini yazabilirsiniz önünüzde tek engel bile yok saat öğleni gösterdiğinde hala yataktasınız elinizdeki ekranda birbirine benzeyen videolar akıp geçiyor hiçbirini izlemeye karar vermediniz ama hepsini izlediniz akşam olduğunda içinizde tuhaf ağırlık var kimse sizi durdurmadı kimse şey yasaklamadı ama gün elinizden kayıp gitti böyle günün sonunda kendinize özgür olduğunuzu söyleyebilir
+      duyulan: kandinizyeh usgiroldunu soyleh bilir
+  REPLACE  ...özgür olduğunuzu söyleyebilir misiniz
+      metin  : soru ilk duyuşta yapay gelebilir özgürlük denince aklımıza zincirler parmaklıklar sansür sokağa çıkma yasakları gelir
+      duyulan: soroyok du yushta paygeh le bilir usgir lukteninja aklamazazinjir lar par makliklar san sir sokachik mayyasaklir gehler
+  REPLACE  ...çıkma yasakları gelir tutsak
+      metin  : önünde kilitli kapı
+      duyulan: unu ndeh kilitnibir kapo
+  REPLACE  ...önünde kilitli kapı olan
+      metin  : kişidir kapı açıldığında özgürleşir
+      duyulan: kishidir kapo achildun da usgir leshir
+  REPLACE  ...açıldığında özgürleşir bu sezginin
+      metin  : felsefede çok sağlam karşılığı var thomas hobbes de yazdığı
+      duyulan: felsa fedeh chok salam birkarshu levar tamas habs da yazdul
+  REPLACE  ...de yazdığı leviathan da
+      metin  : özgürlüğü neredeyze fizik diliyle tanımlar özgürlük dışsal engellerin yokluğudur kabın içindeki su özgür değildir çünkü kabın duvarları
+      duyulan: usgirlu naredei se fiziktili letanumlar usgir luktish salangalirin yokludur kabun ichinde kisu usgir diyildir chinku kabun duwarleronu
+  REPLACE  ...çünkü kabın duvarları tutar
+      metin  : duvarları kaldırdığınızda su
+      duyulan: duwarler kaldur dunizdasu
+  REPLACE  ...duvarları kaldırdığınızda su akar
+      metin  : i nsan için de durum aynıdır yapmak istediği şeyi yapmaktan alıkonmayan kişi özgürdür hobbes un tanımı açık ve dürüsttür kolayca ölçülebilir kişinin özgür olup olmadığını anlamak için etrafına bakarsınız kapısı kilitli mi ağzı bağlı mı eli kolu tutulmuş mu hiçbiri
+      duyulan: insan ichinde durumaynidur yap makistedi shei yap maktan alukon mayankishu usgirdur habs azuntanum achik vedur ustur kolaija ulchu lebilir kishinin usgirulupol madunna annama kichin etraafanaba karsanas kapusikilit lime aazibalimu ilikolu tutulmushmu hichbir
+  REPLACE  ...tutulmuş mu hiçbiri yoksa
+      metin  : özgürdür o pazar sabahının insanı da
+      duyulan: usgirdur opazar sabahanan insanada
+  REPLACE  ...sabahının insanı da bu
+      metin  : ölçüye göer
+      duyulan: ulchiyegeer
+  REPLACE  ...bu ölçüye göer tamamen
+      metin  : özgürdür
+      duyulan: usgirdur
+  REPLACE  ...göer tamamen özgürdür hatta
+      metin  : özgürlüğün
+      duyulan: usgirluin
+  REPLACE  ...özgürdür hatta özgürlüğün en
+      metin  : saf halini yaşamaktadır ama bu cevap içimizde yeer oturmuyor çünkü o gün yaşanan şeyin tür esaret olduğunu hissediyoruz
+      duyulan: safaliniye shamaktadir amabu jewa pichimizde oturmiyar chinku ogun yashanan shayin saer toldu nu hisedurus
+  REPLACE  ...esaret olduğunu hissediyoruz ortada
+      metin  : zincir
+      duyulan: zinjir
+  REPLACE  ...hissediyoruz ortada zincir varsa
+      metin  : bile dışarıda değil
+      duyulan: biledu sharda deil
+  REPLACE  ...dışarıda değil kimse bizi
+      metin  : tutmuyorsa
+      duyulan: tutmu yursa
+  REPLACE  ...bizi tutmuyorsa bizi tutan
+      metin  : şey ne alışkanlık mı korku mu yorgunluk mu
+      duyulan: shayne alushkanlukmu korkumu yorgunlukmu
+  REPLACE  ...mu yorgunluk mu yoksa
+      metin  : dikkatimizi bizden çok daha iyi tanıyan makine mi günlük hayat
+      duyulan: dikatimizi bizdantroktaha itanian makinemi gun nukayat
+  REPLACE  ...mi günlük hayat bu
+      metin  : soruyla dolu hiçbir yasanın engellemediği
+      duyulan: soru iladolu hichbir yasanan engailemedi
+  REPLACE  ...hiçbir yasanın engellemediği halde
+      metin  : türlü ayrılamadığı işinde çalışan insan var
+      duyulan: ayrlamada ishinde chalushanin sanwar
+  REPLACE  ...çalışan insan var kimse
+      metin  : zorlamadığı
+      duyulan: zorlamada
+  REPLACE  ...var kimse zorlamadığı halde
+      metin  : her gece aynı saatte buzdolabını açan
+      duyulan: hergeja aynasaat de buzdolabuna achan sora kendine kazanin sanwar diladee bilimu okumakta sarbestol du halde ayle sinin hayalini sechan genshwar bu in sanlardan hichbirunin unun de polisyok mahkimeyok duvaryok yanide usgirksi sechdim demek dilirindan cikmiyor dimek ki elemizde ikeyairaseis givar guer usgirluk bashkalaranan bize karishma du alanan ghenishliidur ikinjisine gureisei hayatimazan garchiktan bizimelimizde olmasidur yani kendikendimizin fandiso olmaktar bu ikey sezgi chos aman yanyana yurur amabazan birbirindan ayrilur eirildeklar yarda da yalnazja salbir huzursuzluktil kojabir siyasi tartishma bashlar chunku seni sandankur tarajam dian birichika bilir in ekiminda oxforda birsalan dolmushtu kursu deki aramizaya berlinde rigada dolmush choduk kyan ayle sile petrogradatashan mush bindokuzu zonye di devriminin sokaklaranabir chodun gazuile islemish
+  REPLACE  ...saatte buzdolabını açan sonra
+      metin  : kendine kızan insan var dilediği bölümü okumakta serbest olduğu halde ailesinin hayalini seçen genç var bu insanlardan hiçbirinin önünde polis yok mahkeme yok duvar yok yine de özgürce seçtim demek dillerinden çıkmıyor demek ki elimizde ayrı sezgi var göer özgürlük başkalarının bize karışmadığı alanın genişliğidir i kincisine göer ize hayatımızın gerçekten bizim elimizde olmasıdır yani kendi kendimizin efendisi olmaktır bu sezgi çoğu zaman yan yana yürür ama bazen birbirinden ayrılır ayrıldıkları yerde de yalnızca bireysel huzursuzluk değil koca siyasi tartışma başlar çünkü seni senden kurtaracağım diyen çıkabilir in ekim inde oxford da salon dolmuştu kürsüdeki adam isaiah berlin di riga da doğmuş çocukken ailesiyle petrograd a taşınmış devriminin sokaklarını çocuğun gözüyle izlemiş sonra i ngilteer ye yerleşmişti o gün verdiği açılış dersinin adı
+      duyulan: ingilteer yarlesh mishte ogun werdi achilishtarsinin ata
+  REPLACE  ...concepts of liberty yani
+      metin  : i ki özgürlük kavramı ydı bu ders
+      duyulan: ikeyosgirluk kavramida burars yerminji yuziel
+  REPLACE  ...ydı bu ders siyaset
+      metin  : felsefesinde en çok tartışılan metinlerden olacaktı
+      duyulan: fazefesin de enchoktartishlan metin nardan birolojakte
+  REPLACE  ...tartışılan metinlerden olacaktı berlin
+      metin  : az önce söz ettiğimiz sezgiye ad koydu
+      duyulan: aze sozet di miziki sesgeh adkoidu berenchesi
+  REPLACE  ...sezgiye ad koydu negatif
+      metin  : özgürlük dedi burada
+      duyulan: uzgirlukdede borada
+  INSERT   ...özgürlük dedi burada sorulan
+      metin  : (yok)
+      duyulan: sorushudur sanan bashkalernan karishmasan amarus kalmadan istedi shayya pabilije alan nekadar genishtir eikinjisine positif uzgirlukdede boukhes
+  REPLACE  ...dedi burada sorulan soru
+      metin  : şudur insanın başkalarının karışmasına maruz kalmadan istediği şeyi yapabileceği alan ne kadar geniştir i kincisine pozitif özgürlük dedi bu kez soru başka ne yapacağıma
+      duyulan: bashkah neyapajama
+  REPLACE  ...başka ne yapacağıma kim
+      metin  : ya da ne karar veriyor
+      duyulan: yada nekadar veryor
+  REPLACE  ...karar veriyor ben mi
+      metin  : yoksa başka şey mi
+      duyulan: yokso bashkah bi shaymi
+  REPLACE  ...başka şey mi negatif
+      metin  : özgürlük kimse bana karışmasın der pozitif özgürlük kendi hayatımın yazarı
+      duyulan: uzgirluk kim sebana karishmasan dat positif uzgirluk ken di hayataman yazar
+  REPLACE  ...kendi hayatımın yazarı ben
+      metin  : olayım der
+      duyulan: oliim dat
+  REPLACE  ...ben olayım der negatif
+      metin  : özgürlüğün en güçlü savunucularından
+      duyulan: uzgirluun enguch lusavunu jularan dan
+  REPLACE  ...en güçlü savunucularından berlin
+      metin  : den asır önce yaşamış olan
+      duyulan: dan unjayeshamusholan
+  REPLACE  ...yaşamış olan john stuart
+      metin  : di in da yayımlanan
+      duyulan: dayeyim lanan
+  REPLACE  ...da yayımlanan liberty yani
+      metin  : özgürlük üzerine adlı kitabı
+      duyulan: uzgirluk uzerne adlikitabu
+  REPLACE  ...üzerine adlı kitabı tek
+      metin  : ilke etrafında
+      duyulan: etraafan da
+  INSERT   ...tek ilke etrafında kurulur
+      metin  : (yok)
+      duyulan: bouyaleker e toplumun yada devletin birbireye irade sine karsi guchu igulamasanan tek meshru gerek chesi bashkalernan virilejek zararo nemektir kishinen kendi i li
+  ... ve 162 fark daha
+
+metinde olup DUYULMAYAN: 1920 kelime | duyulup metinde OLMAYAN: 1897
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-11-13.duyulan.txt

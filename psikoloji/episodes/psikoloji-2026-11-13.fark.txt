@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-13.mp3
+
+beklenen 1499 kelime | duyulan 1505 kelime | eşleşme %99.1
+sayı ifadesi: metinde 184, duyulanda 171  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...arkasında sosyal psikolog robert
+      metin  : çaldini
+      duyulan: cialdini
+  INSERT   ...olmadan bu öğrencilerin yaklaşık
+      metin  : (yok)
+      duyulan: si
+  REPLACE  ...mesele pazarlık değil basit
+      metin  : karşılaştırmaydı
+      duyulan: karşılaştırma idi
+  INSERT   ...atan yoktu kabul oranı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...peki neden işe yarıyor
+      metin  : çaldini nin
+      duyulan: çaldinin
+  DELETE   ...en yaygın kurallarından dayanıyordu
+      metin  : karşılıklılık
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...olur evet demek ilk
+      metin  : hayırın
+      duyulan: hayrın
+  REPLACE  ...şte bu son nokta
+      metin  : tekniğin
+      duyulan: tekneğin
+  REPLACE  ...bahçesi gezisini elinde çikolatayla
+      metin  : kalakalan psikoloğu
+      duyulan: kala kalan psikologu
+  REPLACE  ...kararı yeniden size bırakır
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 10 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: psikoloji-2026-11-13.duyulan.txt

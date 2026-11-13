@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-13.mp3
+
+beklenen 2210 kelime | duyulan 2201 kelime | eşleşme %97.1
+sayı ifadesi: metinde 229, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...karşılığı var thomas hobbes
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eli kolu tutulmuş mu
+      metin  : hiçbiri
+      duyulan: hiç
+  INSERT   ...senden kurtaracağım diyen çıkabilir
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...salon dolmuştu kürsüdeki adam
+      metin  : isaiah berlin di
+      duyulan: izaya berlindi
+  DELETE   ...concepts of liberty yani
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...az önce söz ettiğimiz
+      metin  : sezgiye ad
+      duyulan: sezgiyi at
+  INSERT   ...john stuart di in
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...kimse seni durdurmuyor cümlesi
+      metin  : e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu cümle abartı değil
+      metin  : jan jak ruso
+      duyulan: jean jacques rousseau
+  REPLACE  ...jan jak ruso yayımladığı
+      metin  : dü kontra sosyal
+      duyulan: du contra social
+  REPLACE  ...olmaya zorlanması olduğunu ekler
+      metin  : ruso
+      duyulan: rousseau
+  INSERT   ...kanadalı filozof charles taylor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yaşayacağını dikte etmemelidir taylor
+      metin  : un
+      duyulan: ın
+  REPLACE  ...nefistir yüzyılda yaşamış olan
+      metin  : kuşeyri nin
+      duyulan: kuşehirinin
+  REPLACE  ...toplayan tek merkeze mi
+      metin  : bağlanacağıdır
+      duyulan: bağlanacaktır
+  REPLACE  ...sayfalarında bu daveti tek
+      metin  : beyitte
+      duyulan: beytte
+  REPLACE  ...kopar hür ol ey
+      metin  : oğul
+      duyulan: ol
+  REPLACE  ...kalesine çekilmesi olarak görüyordu
+      metin  : stoacılarda çilecilerde
+      duyulan: stoğacılar da çileciler de
+  REPLACE  ...duyuyordu ama tam özgürlük
+      metin  : demekte
+      duyulan: demekle
+  REPLACE  ...içeride aramadı yüzyılda farabi
+      metin  : siyasetü l medeniyye
+      duyulan: siyasetül medeniye
+  DELETE   ...iyi hayatı garanti etmez
+      metin  : ondokuzuncu
+      duyulan: (YOK — atlanmış)
+  INSERT   ...keyfi yönetime karşı talepti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...karşı talepti ziya paşa
+      metin  : ile
+      duyulan: yla
+  DELETE   ...gerektiğini savundu bu kulağa
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...aşkının esiri olduk bu
+      metin  : beyit
+      duyulan: beyt
+  REPLACE  ...isteyeceğine kim karar veriyor
+      metin  : artur şopenhauer
+      duyulan: arthur schopenhauer da
+  INSERT   ...amerikalı filozof harry frankfurt
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...istediği hayatın sürekli sonraki
+      metin  : aya
+      duyulan: ayağa
+  DELETE   ...sufilerin nefis dediği şeye
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ipucu verir homeros un
+      metin  : odisseya sında odisseus
+      duyulan: odysseyasında odysseus
+  REPLACE  ...dinlememeleri gerektiğini önceden söyler
+      metin  : odisseus
+      duyulan: odysseus
+  REPLACE  ...sizin yerinize mi yürüyecek
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-11-13.duyulan.txt
