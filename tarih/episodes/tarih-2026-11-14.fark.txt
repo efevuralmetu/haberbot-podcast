@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-14.mp3
+
+beklenen 2735 kelime | duyulan 2742 kelime | eşleşme %94.0
+sayı ifadesi: metinde 370, duyulanda 271  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...mayıs
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...adı henrikus antonius van
+      metin  : mehıren
+      duyulan: meeren
+  REPLACE  ...hayatının yönünü belirledi bartus
+      metin  : korteling
+      duyulan: kortelling
+  REPLACE  ...eski usulle pigmentleri elde
+      metin  : öğütüp
+      duyulan: ötüp
+  REPLACE  ...tesadüf olarak yıl önce
+      metin  : yohannes vermer
+      duyulan: johannes wermer
+  INSERT   ...han mimar olmadı ama
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...akademisinden diplomasını aldı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...parlak yol uzanıyor gibiydi
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...ülkede tanınır kıldı prenses
+      metin  : yuliana
+      duyulan: juliana
+  REPLACE  ...prenses yuliana nın evcil
+      metin  : yavru geyiğinin
+      duyulan: yavrugeyi nin
+  REPLACE  ...baskıları hollanda evlerinin duvarlarını
+      metin  : süsledi
+      duyulan: süstedi
+  REPLACE  ...evlerinin duvarlarını süsledi van
+      metin  : mehıren
+      duyulan: meeren
+  REPLACE  ...arayışlar eleştirmenlerin gözdesiydi van
+      metin  : mehıren
+      duyulan: meeren
+  REPLACE  ...o tabloya hayranlıkla bakıp
+      metin  : başyapıt
+      duyulan: baş yapıp
+  REPLACE  ...olurdu en azından van
+      metin  : mehıren
+      duyulan: meuren
+  INSERT   ...parçası olduğu açıkça görülecekti
+      metin  : (yok)
+      duyulan: de lı
+  REPLACE  ...ve fransa nın güneyine
+      metin  : monako
+      duyulan: monaco
+  REPLACE  ...güneyine monako ya yakın
+      metin  : rokbrün
+      duyulan: rockburn
+  REPLACE  ...laboratuvar kurmaya başlayacaktı van
+      metin  : mehıren
+      duyulan: meuren
+  REPLACE  ...seçtiği usta tesadüf değildi
+      metin  : yohannes vermer delft
+      duyulan: johannes wermer delf de yaşamış
+  DELETE   ...yohannes vermer delft te
+      metin  : yaşamış
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...arasında heyecanlı tartışma vardı
+      metin  : vermer
+      duyulan: wermer
+  REPLACE  ...yıllarca lahey deki ünlü
+      metin  : mauritshöys
+      duyulan: mauritius
+  REPLACE  ...müzesini yönetmiş rembrandt ve
+      metin  : vermer
+      duyulan: wermer
+  REPLACE  ...kesin bilgi sayardı van
+      metin  : mehıren
+      duyulan: mehren
+  REPLACE  ...eski boya çözülmezdi van
+      metin  : mehıren
+      duyulan: mehren
+  REPLACE  ...yağlı boyayı saat içinde
+      metin  : yüzyıllık
+      duyulan: yıllık
+  REPLACE  ...sentetik reçine pigmentlerini bu
+      metin  : reçineyle
+      duyulan: reçine ile
+  REPLACE  ...çatlak ağı bulunur van
+      metin  : mehıren
+      duyulan: mehren
+  REPLACE  ...mürekkep sürüp çatlakların içine
+      metin  : yüzyılların
+      duyulan: yılların
+  REPLACE  ...de büyük titizlikle seçti
+      metin  : vermer in
+      duyulan: vermehrin
+  REPLACE  ...elde edilen ultramarindi van
+      metin  : mehıren
+      duyulan: mehren
+  REPLACE  ...tanınması tablo hollanda dilinde
+      metin  : dö emmaüshangırs
+      duyulan: de emmaüs hungers
+  REPLACE  ...ve kadeh işık soldan
+      metin  : vermer
+      duyulan: wermer
+  REPLACE  ...bakan göz figürlerin yüzlerinde
+      metin  : vermer
+      duyulan: wermer
+  REPLACE  ...uzun ve hüzünlü van
+      metin  : mehıren
+      duyulan: meeren
+  INSERT   ...tarzına çok yakındır ama
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...istedikleri şeyi gördüler van
+      metin  : mehıren
+      duyulan: meeren
+  REPLACE  ...satışa çıkarmadı bunun yerine
+      metin  : herard
+      duyulan: herar
+  REPLACE  ...kendisi de kandırılmıştı tabloyu
+      metin  : monako
+      duyulan: monaco
+  ... ve 62 fark daha
+
+metinde olup DUYULMAYAN: 110 kelime | duyulup metinde OLMAYAN: 131
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: tarih-2026-11-14.duyulan.txt

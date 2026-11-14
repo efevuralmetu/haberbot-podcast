@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-14.mp3
+
+beklenen 1839 kelime | duyulan 1851 kelime | eşleşme %93.3
+sayı ifadesi: metinde 249, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: doğan
+  REPLACE  ...kamera dönerken filmin kadın
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...kadını öne itip tanış
+      metin  : scarlett
+      duyulan: scarlet
+  INSERT   ...scarlett in bu dedi
+      metin  : (yok)
+      duyulan: doğan
+  REPLACE  ...bu dedi aralık gecesi
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...dönecekti ama filmin henüz
+      metin  : scarlett o hara sı
+      duyulan: scarlet oharası
+  REPLACE  ...o hara sı yoktu
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...rolü boştu ve yapımcı
+      metin  : deyvid o selznik
+      duyulan: davido selznick
+  REPLACE  ...önce başlamıştı margaret mitchel
+      metin  : in
+      duyulan: ın
+  REPLACE  ...mitchel in romanı haziran
+      metin  : yayımlandı
+      duyulan: da yayınlandı
+  REPLACE  ...çok okunan kitabı oldu
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...de gelmişti milyonlarca okur
+      metin  : scarlett
+      duyulan: scarlet
+  REPLACE  ...kimsenin kafasındaki başkasınınkine benzemiyordu
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...bu baskıyı fırsata çevirdi
+      metin  : scarlett
+      duyulan: scarlet
+  REPLACE  ...için istenen clark gable
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...in kayınpederi louis b
+      metin  : mayer
+      duyulan: meyer
+  REPLACE  ...b mayer in stüdyosu
+      metin  : mgm
+      duyulan: mcm
+  REPLACE  ...stüdyosu mgm e bağlıydı
+      metin  : mayer
+      duyulan: meyer
+  REPLACE  ...ı anlaşmayla ödünç verecekti
+      metin  : mgm
+      duyulan: mcm
+  REPLACE  ...yarısını alacaktı anlaşmanın zamanlaması
+      metin  : selznik
+      duyulan: selznick
+  INSERT   ...ve bu da çekimlerin
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...başlaması gerektiği anlamına geliyordu
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...özel efekt sorumlusu lee
+      metin  : zavitz
+      duyulan: zawitz
+  REPLACE  ...yoktu yerlerine dublörler oturdu
+      metin  : rhett
+      duyulan: red
+  REPLACE  ...tanınan usta dublör yakima
+      metin  : canutt
+      duyulan: canut
+  REPLACE  ...ve tam o sırada
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...birlikte izleme platformuna çıktı
+      metin  : lorens olivie ydi
+      duyulan: laurence olivier idi
+  REPLACE  ...lorens olivie ydi diğeri
+      metin  : olivie
+      duyulan: olivier
+  REPLACE  ...duran alevlerin aydınlattığı yaşındaki
+      metin  : vivien leigh
+      duyulan: vivienne ley
+  REPLACE  ...o hara nla tanış
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...anladığı an olarak anlatacaktı
+      metin  : leigh
+      duyulan: ley
+  INSERT   ...seçmeleer alındı ve ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...son bulmuştu scarlett bulunmuştu
+      metin  : rhett
+      duyulan: red
+  INSERT   ...de hazırdı çekimler ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...başlayacaktı filmin ilk yönetmeni
+      metin  : corc kukor
+      duyulan: kort cukor
+  REPLACE  ...yönetmeni corc kukor du
+      metin  : kukor selznik
+      duyulan: cukor selznick
+  REPLACE  ...yazılan sayfalar sete geliyordu
+      metin  : selznik
+      duyulan: selznick
+  REPLACE  ...her sahneye müdahale ediyordu
+      metin  : kukor
+      duyulan: cukor
+  INSERT   ...yaklaşık hafta sonra şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...üzerine çok şey söylendi
+      metin  : selznik
+      duyulan: selznick
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 99 kelime | duyulup metinde OLMAYAN: 116
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: film-2026-11-14.duyulan.txt

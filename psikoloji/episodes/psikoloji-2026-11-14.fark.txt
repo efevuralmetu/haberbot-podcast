@@ -1,0 +1,40 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-14.mp3
+
+beklenen 1316 kelime | duyulan 1320 kelime | eşleşme %98.5
+sayı ifadesi: metinde 132, duyulanda 125  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...işletme okulundan araştırmacı karen
+      metin  : huang
+      duyulan: hwang
+  REPLACE  ...araştırmacı karen huang ile
+      metin  : alison
+      duyulan: allison
+  REPLACE  ...etmeye karşı duyduğu tuhaf
+      metin  : iştahta
+      duyulan: iştahda
+  INSERT   ...tamir ile jason mitchel
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...için kazanabilecekleri paranın ortalama
+      metin  : yedisinden
+      duyulan: sinden
+  REPLACE  ...etmez bütün akşam boyunca
+      metin  : sürdüğündeyze
+      duyulan: sürdüğünde ize
+  REPLACE  ...soru hafta sonu ne
+      metin  : yaptın
+      duyulan: yaptım
+  REPLACE  ...soru ize taklididir diğer
+      metin  : uç da
+      duyulan: uçta
+  REPLACE  ...zamandır beklediği şey olabilir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 9 kelime | duyulup metinde OLMAYAN: 10
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-11-14.duyulan.txt

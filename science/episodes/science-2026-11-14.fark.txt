@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-14.mp3
+
+beklenen 1980 kelime | duyulan 2019 kelime | eşleşme %14.0
+sayı ifadesi: metinde 188, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : laboratuvarda
+      duyulan: beer laborer to varda
+  REPLACE  ...laboratuvarda dev
+      metin  : mıknatısın içinde canlı kurbağa havada süzülüyor
+      duyulan: beer mcnatusen ich in de jan le beer kurba hava da susulur altan da
+  REPLACE  ...havada süzülüyor ip yok
+      metin  : içinde
+      duyulan: ich in de
+  REPLACE  ...yok içinde metal yok
+      metin  : kaldıran şey vücudundaki
+      duyulan: kal duran shey vy judunde ki
+  REPLACE  ...kaldıran şey vücudundaki suyun
+      metin  : mıknatısa karşı gösterdiği normalde hiç fark etmediğimiz zayıf direnç kurbağa hiçbir ip ya
+      duyulan: muknota sakar shigeo stardi normal de hich farkeet medim izayif diranch beer kurba hava
+  REPLACE  ...hiçbir ip ya da
+      metin  : tutamak olmadan tüpün içinde havada süzülüyor
+      duyulan: susulur
+  REPLACE  ...içinde havada süzülüyor ve
+      metin  : sakince ayaklarını oynatıyor
+      duyulan: sakin je ayakler noinat yok
+  REPLACE  ...sakince ayaklarını oynatıyor ne
+      metin  : hile var ne
+      duyulan: beer hi le varne
+  REPLACE  ...var ne de demir
+      metin  : içeren vücut kurbağayı havada
+      duyulan: ich heran vy jud kurba hai hava da
+  REPLACE  ...vücut kurbağayı havada tutan
+      metin  : şey bedenindeki
+      duyulan: shey bedininde ki
+  REPLACE  ...tutan şey bedenindeki suyun
+      metin  : mıknatısa karşı gösterdiği gözle görülemeyecek
+      duyulan: muknota sakar shigeo stardi gözde gerülemi izayk
+  REPLACE  ...gösterdiği gözle görülemeyecek kadar
+      metin  : zayıf inat yılının cuma akşamı hollanda nın nijmegen kentinde laboratuvar düşünün
+      duyulan: zayif yilunun juma akshamu ho landanun nishme ganken tinde labora tuardushunun bananun
+  REPLACE  ...laboratuvar düşünün bodrumunda dev
+      metin  : elektromıknatıs duruyor
+      duyulan: beer electro muknotas tureor
+  REPLACE  ...dev elektromıknatıs duruyor bu
+      metin  : nijmegen üniversitesi nin high field
+      duyulan: naid megan universeisen in highfield
+  REPLACE  ...field magnet laboratory yani
+      metin  : yüksek alan mıknatıs laboratuvarı mıknatıs çalıştığında megavat elektrik çekiyor
+      duyulan: yuksak alun muknotas labora tuaer muknotas chelishtun da kach megawatt electric chek yor
+  REPLACE  ...megavat elektrik çekiyor ve
+      metin  : sargıları
+      duyulan: sargalaer
+  REPLACE  ...çekiyor ve sargıları erimesin
+      metin  : diye içinden sürekli soğutma suyu geçiyor ortasında dikey delik var çapı yaklaşık milimeter
+      duyulan: die ichindan surek di so utmasuyu gech yor ortasan da dike delikvar cheppu yaklasik meter
+  REPLACE  ...milimeter yani bozuk paradan
+      metin  : büyük
+      duyulan: asbük
+  REPLACE  ...bozuk paradan büyük bu
+      metin  : deliğin içinde yaklaşık
+      duyulan: delini cinde yaklasik
+  REPLACE  ...deliğin içinde yaklaşık tesla
+      metin  : gücünde manyetik alan oluşabiliyor karşılaştırmak için söyleyelim dünya nın manyetik alanı mikrotesla düzeyinde buzdolabı mıknatısınınki ize teslanın bile değil mıknatısın başında rusya doğumlu fizikçi var
+      duyulan: gejunde magnetikalan oluşa bilir karsulashtir makichin soylelim dunjanun magnetikalan kach micro tesla düzeinde buzdolabu muknotasunun keize teslanun yuzde biledil muknotasun bashen da rusia domlu fiziktivar
+  REPLACE  ...doğumlu fizikçi var ander
+      metin  : geim geim in ileride efsaneye dönüşecek alışkanlığı var cuma akşamları asıl araştırma konusunun dışına çıkıyor
+      duyulan: gehm geemen ilerde ehsan eyedun uşijek alishkan lüvar chumma akshamlera asil arashtir ma konun sunun dushina cukyor
+  REPLACE  ...konusunun dışına çıkıyor ve
+      metin  : bakalım ne olacak diye sorduğu çoğu zaman sonuçsuz kalacak tuhaf denemeler yapıyor bunlara cuma akşamı deneyleri
+      duyulan: bakalim neolujak dsor du chouzaman sonu tsuzkalujak tuafte nemelariyapyor bonnera chumma akshamideneilir
+  REPLACE  ...akşamı deneyleri diyor o
+      metin  : akşamki soru şu kadar
+      duyulan: akshamkisoru shukadar
+  REPLACE  ...basit bu kadar güçlü
+      metin  : mıknatısın içine
+      duyulan: magnetasun ichine sudakirsek neolur suradan fizikpir gisile jevap peiligurunur hichpirsei
+  REPLACE  ...güçlü mıknatısın içine su
+      metin  : dökersek ne olur sıradan fizik bilgisiyle cevap belli görünür hiçbir şey su mıknatısa yapışmaz
+      duyulan: muknotisa yapushmas
+  REPLACE  ...mıknatısa yapışmaz bardak suya
+      metin  : mıknatıs yaklaştırdığınızda ne çekim ne itme görürsünüz
+      duyulan: magnetas yaklashtir denizda necek im neyit megerusunuz
+  REPLACE  ...ne itme görürsünüz su
+      metin  : manyetik değildir en azından gündelik deneyimimiz bize öyle söyler anlatılanlara göer geim
+      duyulan: mein yerik diyilder enazandan gundelikteneim imizbeze ole soler anlatlan nareguer game
+  REPLACE  ...göer geim suyu alan
+      metin  : en yüksek değerine çıkmışken mıknatısın deliğine döktü su dibe akmadı deliğin içinde
+      duyulan: enyuxek der necek mushkan magnetasun deli ne doktu sudibeyak madu delini cinde
+  REPLACE  ...akmadı deliğin içinde havada
+      metin  : küçük titreşen kürecikler halinde asılı kaldı hiçbir şey tutmuyordu kap yoktu ip yoktu hava akımı yoktu su damlaları yerçekimine meydan okuyor gibi duruyordu fizikçi böyle şey görünce önce kendinden şüphe eder ama deney tekrarlandığında sonuç değişmedi geim ile
+      duyulan: kuchuktitreşan kurejiklerhalinde asilekalde hichpeşeitutmeordu kapioktu aipyoktu havaakumuyoktu sudamnalir yarchikimine meydanokuyorgibiduryordu fizikci boilebişei gurunje unje kendin dan shupedar amadenei tekraarlanden da sonucde ismede gaimile
+  REPLACE  ...değişmedi geim ile çalışma
+      metin  : arkadaşları
+      duyulan: arkadaşleri
+  REPLACE  ...çalışma arkadaşları bundan sonra
+      metin  : herkesin aklına
+      duyulan: harkizin aklana
+  REPLACE  ...sonra herkesin aklına gelecek
+      metin  : soruyu
+      duyulan: soryu
+  REPLACE  ...sordu su havada durabiliyorsa
+      metin  : büyük kısmı sudan oluşan başka şeyler
+      duyulan: buyuk kasme sudanoluşan bashka sheylar
+  REPLACE  ...oluşan başka şeyler de
+      metin  : durabilir mi önce küçük nesneler denendi parça peynir fındık çilek
+      duyulan: durabiliyurme lelats kuchuk nesnelar denandı parcha penir funduk cilek
+  REPLACE  ...peynir fındık çilek bitki
+      metin  : parçaları küçük böcekler
+      duyulan: parchaları kuchuk bajekdar
+  REPLACE  ...parçaları küçük böcekler sonra
+      metin  : deneyin sembolü olacak canlı geldi küçük kurbağa kurbağa mıknatısın deliğine yerleştirildiğinde havaya yükseldi
+      duyulan: deni insembolio olejak jannagalde kuchuk kurbaa kurbaa magnetasun deli ne yarleştirildin de havaia yuksalde
+  REPLACE  ...havaya yükseldi ve orada
+      metin  : süzülmeye başladı bacaklarını hafifçe oynatıyor kendi ekseni etrafında yavaşça dönüyordu ama düşmüyordu
+      duyulan: suzil meyabashlade bajaklerin hafifcha oinat yor ken di eksiniye trafan da yavashtadun yordo amadushme yordo
+  REPLACE  ...dönüyordu ama düşmüyordu sanki
+      metin  : görünmez el avucunda tutuyordu deneyden
+      duyulan: gurun mezbirel avujundatu yordo denaydin
+  REPLACE  ...avucunda tutuyordu deneyden sonra
+      metin  : kurbağanın sağlığında
+      duyulan: kurbaanen saalın da
+  REPLACE  ...kurbağanın sağlığında herhangi bozulma
+      metin  : görülmedi
+      duyulan: gurulmede buayrantu anemli cinke teslalik alanin janu doku yaneyapuja ogunekadar pekazin sanin meraketi bissorudu kurbaanin havada suzildu gurun tulaar kasasurede bilimdun yasenin sanir lernaşte kezeteler televizionlar bilimdargileer bugyurun tuleer yayimlade ilk bakushta seher baznumarase birfimhile segibe duryordo oisa ortada hilayoktu kurbaada suda kendichlerin de tashidakler normal dehichfarket medimiz biruzalik saesin de havada duryordo barada asil gizam kurbaanen kendisinde dil olushturan madde sugerchekten mein itik diyum diyize kurbahi nekal duryor vene dan seradan mikneteslar la benzer bishayyap meyacal usinja nesnelaria yapushyor yadushyorda aslar beyelesakin bi denge kurulam yor
+  ... ve 171 fark daha
+
+metinde olup DUYULMAYAN: 1699 kelime | duyulup metinde OLMAYAN: 1739
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: science-2026-11-14.duyulan.txt

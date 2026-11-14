@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-14.mp3
+
+beklenen 2032 kelime | duyulan 2037 kelime | eşleşme %95.5
+sayı ifadesi: metinde 278, duyulanda 206  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...temmuz üniversiteli
+      metin  : columbia
+      duyulan: kolombiya
+  REPLACE  ...doğusunda kavurucu yaz günü
+      metin  : kennewick
+      duyulan: kennevik
+  REPLACE  ...kennewick kasabasının kıyısından geçen
+      metin  : columbia
+      duyulan: kolombiya
+  REPLACE  ...tekneler için binlerce kişi
+      metin  : columbia
+      duyulan: kolombiya
+  REPLACE  ...wil thomas ile dave
+      metin  : deacy
+      duyulan: deese
+  REPLACE  ...elindeki şey insan kafatası
+      metin  : önce
+      duyulan: önceke
+  INSERT   ...kafatası önce şaka sanıyorlar
+      metin  : (yok)
+      duyulan: sonra kafatasının içine girebilmektedir
+  REPLACE  ...felakete benziyor nehir yıllardır
+      metin  : kıyıyı oyuyor kıyı da
+      duyulan: kıyıya uyuyor kıyıda
+  INSERT   ...ayak parçaları sonunda elinde
+      metin  : (yok)
+      duyulan: ye
+  INSERT   ...bildiği tipe pek benzemiyor
+      metin  : (yok)
+      duyulan: don ix
+  DELETE   ...chatters kemikleri temizlerken sağ
+      metin  : kalça
+      duyulan: (YOK — atlanmış)
+  DELETE   ...yaprak biçimli ucu sivri
+      metin  : taştan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...arkeologlar bu tür uçlara
+      metin  : cascade
+      duyulan: kaskade
+  INSERT   ...artık çoktan kullanılmayan silah
+      metin  : (yok)
+      duyulan: doğum
+  DELETE   ...ın izniyle küçük el
+      metin  : kemiği
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...parçası radyokarbon tarihlemesi için
+      metin  : kaliforniya
+      duyulan: california
+  DELETE   ...kıtasının en eski sakinlerinden
+      metin  : iskeleti
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nasıl geldiği sorusuna doğrudan
+      metin  : bakabilecekleri
+      duyulan: bilecekleri
+  DELETE   ...adam güçlü kaslı boyu
+      metin  : meter
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ile birlikte kafatası üzerinde
+      metin  : rekonstrüksiyonu
+      duyulan: rekonstruksiyonu
+  REPLACE  ...a benziyor chatters bu
+      metin  : benzerliği
+      duyulan: değerliği
+  INSERT   ...mühendisler ve amerika da
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...alınacağını belirleyen yasa var
+      metin  : nagpra
+      duyulan: nacpra
+  INSERT   ...arkasında acı geçmiş yatıyor
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...binlerce yerli amerikalının mezarı
+      metin  : açılmış
+      duyulan: geçmiş
+  REPLACE  ...toplulukları vakit kaybetmiyor umatilla
+      metin  : yakama
+      duyulan: ankama
+  REPLACE  ...kaybetmiyor umatilla yakama nez
+      metin  : pörs
+      duyulan: perce
+  REPLACE  ...federal olarak tanınmayan küçük
+      metin  : wanapum
+      duyulan: vanapum
+  REPLACE  ...burada ölmüş de onlardan
+      metin  : ölüyü
+      duyulan: ülüyü
+  INSERT   ...dünyasında alarm zillerini çaldırıyor
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...nden fiziksel antropolog douglas
+      metin  : owsley
+      duyulan: osley
+  REPLACE  ...tennessee üniversitesi nden richard
+      metin  : jantz
+      duyulan: juntz
+  DELETE   ...kabilenin değil bütün insanlığın
+      metin  : geçmişi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...halklarının bu topraklardaki önceliğini
+      metin  : sorgulamak
+      duyulan: yollamak
+  REPLACE  ...bulunmuyordu ellerindeki yöntemle kafatasının
+      metin  : biçimini
+      duyulan: ölçümü
+  REPLACE  ...yıl sonra cevaplanacak ama
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...cevaplanacak ama doksanların sonunda
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...için paha biçilmez nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...nisan ordu mühendisler nehrin
+      metin  : kıyıyı
+      duyulan: kıyı
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 72 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: arkeoloji-2026-11-14.duyulan.txt

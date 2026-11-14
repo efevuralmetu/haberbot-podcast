@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-14.mp3
+
+beklenen 2729 kelime | duyulan 2731 kelime | eşleşme %96.5
+sayı ifadesi: metinde 283, duyulanda 228  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...keith chesterton a ait
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...beri düşünce dünyasında chesterton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...işin ancak bulduktan sonra
+      metin  : çitin
+      duyulan: çetin
+  INSERT   ...şaşırtıcı derecede yatkın canlı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...canlı i skoçya daki
+      metin  : st
+      duyulan: seed
+  REPLACE  ...kaybettirir bazen ize toplumu
+      metin  : yüzyıllarca
+      duyulan: yıllarca
+  REPLACE  ...doğru yolu bulamayan kimseler
+      metin  : idiyze
+      duyulan: idi ize
+  REPLACE  ...fıkıhta kendisi uzman olmayan
+      metin  : müçtehidin
+      duyulan: müctehidin
+  REPLACE  ...biçimde yaşayanlardan gazali dir
+      metin  : tus ta
+      duyulan: de tusta
+  INSERT   ...şüpheye sonra krize götürür
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sema başlar ve meclis
+      metin  : coştukça
+      duyulan: coşlukça
+  INSERT   ...başka de i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...i bn haldun görmüştü
+      metin  : (yok)
+      duyulan: dom iv
+  REPLACE  ...reddedip yeni otoriteye boyun
+      metin  : eğen
+      duyulan: eyen
+  REPLACE  ...otoriteye boyun eğen kişi
+      metin  : çitten
+      duyulan: çit
+  INSERT   ...cümlesini immanuel kant kurdu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tan buçuk asır önce
+      metin  : rene dekart da
+      duyulan: de rené descartes de
+  REPLACE  ...yasalarına ve geleneklerine uymak
+      metin  : dekart
+      duyulan: descartes
+  INSERT   ...düşünürü edmund burke oldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hevesine karşı çıktı burke
+      metin  : e
+      duyulan: ye
+  REPLACE  ...ortak bankasından yararlanmak daha
+      metin  : akıllıcaydı
+      duyulan: akıllıca idi
+  REPLACE  ...kolombiya amazonu nda yaşayan
+      metin  : tukano
+      duyulan: tucano
+  REPLACE  ...kısmı atlansa bile yenebilir
+      metin  : acısı
+      duyulan: ağcısı
+  REPLACE  ...öğrenmesi ize ömür alabilir
+      metin  : henrich
+      duyulan: henrych
+  REPLACE  ...kuşaktan kuşağa taşıyordu chesterton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...osmanlı nın ile arasında
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...nasıl yaşadığını görmezden gelerek
+      metin  : yukarıdan
+      duyulan: yukardan
+  REPLACE  ...kuralla mahkeme salonuna taşımıştı
+      metin  : geleneğin
+      duyulan: geleneyin
+  REPLACE  ...şu cümle durur ezmanın
+      metin  : tağayyürü
+      duyulan: tayyürü
+  REPLACE  ...ezmanın tağayyürü ile ahkamın
+      metin  : tağayyürü
+      duyulan: tayyürü
+  REPLACE  ...gökalp milletin hars dediği
+      metin  : kültürüyle milletlerarası
+      duyulan: kültürü ile milletler arası
+  INSERT   ...ofiste her pazartesi saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olarak koyduğunu öğren sonra
+      metin  : konfüçyüs ün
+      duyulan: confucius un
+  REPLACE  ...bu sorulardan sonra çiti
+      metin  : kaldırmak da onarmak da
+      duyulan: kaldırmakta onarmakta
+  REPLACE  ...da yerine başka şey
+      metin  : koymak da
+      duyulan: koymakta
+  INSERT   ...bilerek bırakılan emanete dönüşüyor
+      metin  : (yok)
+      duyulan: ne
+  REPLACE  ...ın tarihli aşırı taklit
+      metin  : deneyi
+      duyulan: denil
+  INSERT   ...eşek hikayesi i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...i bn haldun kant
+      metin  : dekart
+      duyulan: descartes descartes
+  INSERT   ...haldun kant dekart sakin
+      metin  : (yok)
+      duyulan: burke
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 61
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: felsefe-2026-11-14.duyulan.txt

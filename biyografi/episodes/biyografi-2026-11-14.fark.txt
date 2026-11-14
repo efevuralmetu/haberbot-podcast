@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-14.mp3
+
+beklenen 2614 kelime | duyulan 2628 kelime | eşleşme %95.5
+sayı ifadesi: metinde 344, duyulanda 222  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...adını rosalind koydular babası
+      metin  : (yok)
+      duyulan: alice
+  REPLACE  ...ve göçmenleer yardıma dönerdi
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...daki küçük okullarda ardından
+      metin  : st
+      duyulan: seed
+  REPLACE  ...ardından st paul s
+      metin  : girls
+      duyulan: girl
+  REPLACE  ...her ailede kolay karşılanmazdı
+      metin  : otuzların
+      duyulan: ların
+  INSERT   ...uyandırdı rosalind ize kararlıydı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...üniversitesi nin kadın kolejlerinden
+      metin  : newnham
+      duyulan: newham
+  REPLACE  ...kolejlerinden newnham college yani
+      metin  : newnham koleji ne
+      duyulan: newham kolejine
+  INSERT   ...tam üyesi sayılmıyordu rosalind
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...pek parlak görünmüyordu kömür
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ize laboratuvarda kömür örneklerinden
+      metin  : helyum
+      duyulan: helium
+  REPLACE  ...gibi gazlar geçirerek bu
+      metin  : mikroskobik
+      duyulan: mikroskopik
+  INSERT   ...bilimsel makale çıkardı ve
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıllarında londra da evi
+      metin  : adriyen vey
+      duyulan: adrienne wey
+  REPLACE  ...adriyen vey adında fransız
+      metin  : kimyacıyla
+      duyulan: kimyacı ile
+  REPLACE  ...ngilteer ye sığınmış olan
+      metin  : vey
+      duyulan: wey
+  INSERT   ...tanışıklıklar meyvesini verdi rosalind
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...paris e taşındı ve
+      metin  : laboratuar santral
+      duyulan: laboratuvar santralde servic chimique
+  REPLACE  ...ve laboratuar santral de
+      metin  : servis şimik dö leta
+      duyulan: l état
+  REPLACE  ...en mutlu dönemiydi laboratuvarda
+      metin  : jak
+      duyulan: jacques
+  REPLACE  ...laboratuvarda jak mering adında
+      metin  : kristalografçının
+      duyulan: kristallografçının
+  REPLACE  ...yani bu yöntemle hiçbir
+      metin  : mikroskobun
+      duyulan: mikroskopun
+  REPLACE  ...ilerletmek istiyordu yandan da
+      metin  : kristalografinin
+      duyulan: kristallografinin
+  INSERT   ...nükleik asitler hayatın kimyası
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...araştırma bursu saygın üniversitenin
+      metin  : biyofizik
+      duyulan: biofizik
+  INSERT   ...ama kabul etti ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yani kral koleji nin
+      metin  : biyofizik
+      duyulan: biofizik
+  REPLACE  ...ngilteer nin en iddialı
+      metin  : biyofizik
+      duyulan: biofizik
+  REPLACE  ...merkezlerinden olmak istiyordu rosalind
+      metin  : e
+      duyulan: de
+  REPLACE  ...aktarılanlara göer yeni gelen
+      metin  : kristalografçının
+      duyulan: kristallografçının
+  REPLACE  ...yılı zehirleyecekti i ki
+      metin  : kişilik de
+      duyulan: kişilikte
+  REPLACE  ...alanları hala erkekleer aitti
+      metin  : örneğin kolejin
+      duyulan: lorraine kolej in
+  INSERT   ...bu karışıklığı ayıkladı kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rosalind wilkins ve gosling
+      metin  : le
+      duyulan: ile
+  REPLACE  ...çöktü laboratuvarın başı lawrence
+      metin  : bragg
+      duyulan: brack
+  REPLACE  ...bırakıp bu alanı kral
+      metin  : koleji ne
+      duyulan: kolejinde
+  REPLACE  ...tuttular banyodan çıkan film
+      metin  : kristalografinin
+      duyulan: kristallografinin
+  REPLACE  ...ortada çapraz x deseni
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...duyuru kartı göndererek sarmalın
+      metin  : ölümünü
+      duyulan: ölümü
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: biyografi-2026-11-14.duyulan.txt

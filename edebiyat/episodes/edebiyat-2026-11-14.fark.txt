@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-14.mp3
+
+beklenen 1612 kelime | duyulan 1652 kelime | eşleşme %90.6
+sayı ifadesi: metinde 243, duyulanda 148  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adında fabrika kasabası var
+      metin  : merrimack nehri nin
+      duyulan: mary mac nehrinin
+  REPLACE  ...önemli kısmı kanada nın
+      metin  : kebek
+      duyulan: quebec
+  REPLACE  ...bölgesinden gelen fransızca konuşan
+      metin  : ailelerden jan lui löbri dö keruak
+      duyulan: john louis lebrideu kerouac
+  INSERT   ...löbri dö keruak mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...böyle evde doğdu evde
+      metin  : ti jan
+      duyulan: tican
+  REPLACE  ...o güne kadar annesi
+      metin  : gabriyel
+      duyulan: gabriel
+  REPLACE  ...gabriyel ve babası leo
+      metin  : ile kebek
+      duyulan: yla quebec
+  REPLACE  ...bu hikayenin ilk ironisi
+      metin  : keruak
+      duyulan: kerouac
+  REPLACE  ...keruak ın çocukluğunun üstünde
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...başka dil arayan gençlerdi
+      metin  : keruak
+      duyulan: kerouac
+  REPLACE  ...üzerinde çalışıyordu thomas wolfe
+      metin  : un
+      duyulan: ın
+  INSERT   ...tarzda yazıyordu sonra aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aralık new york a
+      metin  : neal
+      duyulan: neil
+  REPLACE  ...a neal cassady geldi
+      metin  : cassady
+      duyulan: chassadi
+  REPLACE  ...gençliğinde araba çaldığı için
+      metin  : ıslahevine
+      duyulan: ıslahı evine
+  REPLACE  ...konuşan enerjisi tükenmeyen delikanlıydı
+      metin  : keruak
+      duyulan: kerouac
+  REPLACE  ...olan hal chase tanıştırdı
+      metin  : keruak
+      duyulan: kerouac
+  REPLACE  ...hiçbirine uymayan hayat gördü
+      metin  : cassady
+      duyulan: chassadi
+  REPLACE  ...noktayı hiç koymuyordu temmuz
+      metin  : keruak
+      duyulan: de kerouac
+  REPLACE  ...numaralı otoyol fikri vardı
+      metin  : bear
+      duyulan: bayer
+  REPLACE  ...dönüp chicago ya otobüse
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...ve sonunda denver orada
+      metin  : cassady
+      duyulan: chassadi
+  REPLACE  ...denver orada cassady yi
+      metin  : ginsberg
+      duyulan: ginzberg
+  REPLACE  ...boyunca yollar çoğaldı ocak
+      metin  : cassady
+      duyulan: da chassadi
+  INSERT   ...uçtan ötekine kat ettiler
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ettiler meksika ya indiler
+      metin  : keruak
+      duyulan: kerouac
+  INSERT   ...yani kasaba ve şehir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kasaba ve şehir john
+      metin  : keruak
+      duyulan: kerouac
+  REPLACE  ...ama kitap pek satmadı
+      metin  : keruak
+      duyulan: kerouac
+  INSERT   ...kitabı yazmayı defalarca denedi
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...cümle o ses aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ses aralık mektupla geldi
+      metin  : cassady
+      duyulan: jassadi
+  REPLACE  ...daki gençlik yıllarında tanıdığı
+      metin  : joan
+      duyulan: joanne
+  REPLACE  ...mektup gönderdi edebiyat tarihine
+      metin  : joan
+      duyulan: joanne
+  REPLACE  ...arkadaşına anlattığı gibi akıyordu
+      metin  : keruak
+      duyulan: kerouac
+  REPLACE  ...dönüp düzeltmeden o sıralar
+      metin  : keruak
+      duyulan: kerouac
+  INSERT   ...o sıralar keruak kasım
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...keruak kasım evlendiği joan
+      metin  : haverty
+      duyulan: haverti
+  INSERT   ...sokak ta dairede yaşıyordu
+      metin  : (yok)
+      duyulan: ki
+  ... ve 61 fark daha
+
+metinde olup DUYULMAYAN: 101 kelime | duyulup metinde OLMAYAN: 126
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: edebiyat-2026-11-14.duyulan.txt

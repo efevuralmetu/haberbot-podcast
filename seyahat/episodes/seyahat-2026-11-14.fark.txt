@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-14.mp3
+
+beklenen 1745 kelime | duyulan 1747 kelime | eşleşme %96.1
+sayı ifadesi: metinde 224, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kuzeyindeki bu köyde ölüm
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...oyulmuş boyanmış dizeler var
+      metin  : romenler
+      duyulan: romanlar
+  REPLACE  ...için alaycı yakınma bırakmıştır
+      metin  : haçın
+      duyulan: hacın
+  REPLACE  ...adam başlattı adı stan
+      metin  : yoan
+      duyulan: johan
+  INSERT   ...stan yoan pıtraş tı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...oymacılığı ağaç işçiliğini öğrendi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...boyalarla renklendirirdi köyde artık
+      metin  : sapınça
+      duyulan: sapınca
+  INSERT   ...anlamak zor değil pıtraş
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve en önemlisi kiliselerini
+      metin  : meşeden
+      duyulan: meşheden
+  INSERT   ...ahşap kilize var bunların
+      metin  : (yok)
+      duyulan: i da
+  REPLACE  ...alındı bırsana budeşti deseşti
+      metin  : yeud
+      duyulan: yod
+  REPLACE  ...üstünden uzaktan seçilir i
+      metin  : çeride
+      duyulan: çerde
+  REPLACE  ...peri manastırı nın anısına
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...de aynı sofra kurulur
+      metin  : ölen
+      duyulan: ölülen
+  REPLACE  ...kasabanın resmi adı sigetu
+      metin  : marmatsiyey
+      duyulan: marmatsiye
+  REPLACE  ...herkes kısaca siget der
+      metin  : sigedin
+      duyulan: siget in
+  INSERT   ...direniş anıtı yer alır
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıllar adi suçluları barındırdı
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...parti liderleri akademisyenler tarihçiler
+      metin  : piskoposlar
+      duyulan: psikoposlar
+  REPLACE  ...buraya getirilen yaklaşık tutsaktan
+      metin  : dördünün
+      duyulan: ünün
+  REPLACE  ...tutsaktan dördünün öldüğü kaydedilir
+      metin  : ölenler
+      duyulan: ölülenler
+  REPLACE  ...nın en önemli siyasetçilerinden
+      metin  : yuliu maniu
+      duyulan: julio maniú
+  REPLACE  ...yuliu maniu da vardı
+      metin  : maniu
+      duyulan: maniú te
+  REPLACE  ...aynı yıl tarihçi george
+      metin  : brıtiyanu
+      duyulan: pritianu
+  REPLACE  ...ağzından konuşan sesi var
+      metin  : sigedin
+      duyulan: siget in
+  REPLACE  ...yoksullar mezarlığında ize ölüler
+      metin  : adsız
+      duyulan: atsız
+  INSERT   ...karanlık çukurda kayboldu rejim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çöktükten sonra şair ana
+      metin  : blandiana
+      duyulan: bilandiana
+  REPLACE  ...ve müzeye dönüştürmek için
+      metin  : doksanların
+      duyulan: ların
+  INSERT   ...soğukluğundan hissedersiniz avrupa konseyi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tanıdı avlunun köşesinde rejimin
+      metin  : yüzbinlerce
+      duyulan: binlerce
+  INSERT   ...in de doğduğu kasabadır
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sınırlı değildir bu acılar
+      metin  : sapınça yı
+      duyulan: sapıncayı
+  REPLACE  ...acılar sapınça yı da
+      metin  : teğet
+      duyulan: teyit
+  REPLACE  ...yanında çıraklık yapmış dumitru
+      metin  : pop
+      duyulan: popp
+  REPLACE  ...doğal şey olduğunu biliyor
+      metin  : sigedin
+      duyulan: siget in
+  REPLACE  ...tek resme sığdırılmak üzeredir
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: seyahat-2026-11-14.duyulan.txt

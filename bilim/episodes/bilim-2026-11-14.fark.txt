@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-14.mp3
+
+beklenen 1944 kelime | duyulan 1948 kelime | eşleşme %96.4
+sayı ifadesi: metinde 215, duyulanda 180  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dünya nın manyetik alanı
+      metin  : mikrotesla
+      duyulan: mikrotesna
+  REPLACE  ...rusya doğumlu fizikçi var
+      metin  : ander geym geym
+      duyulan: andrei geim geim
+  INSERT   ...belli görünür hiçbir şey
+      metin  : (yok)
+      duyulan: yok
+  REPLACE  ...öyle söyler anlatılanlara göer
+      metin  : geym
+      duyulan: geim
+  REPLACE  ...deney tekrarlandığında sonuç değişmedi
+      metin  : geym
+      duyulan: geim
+  REPLACE  ...sürede bilim dünyasının sınırlarını
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...doğanın koyduğu kural var
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çukurların bulunmadığıdır olsa olsa
+      metin  : eyer
+      duyulan: eğer
+  REPLACE  ...takılır sabit manyetik alanda
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...boşluğu var bu boşluk
+      metin  : kurbağanın
+      duyulan: kurbanın
+  INSERT   ...durmasının sırrını da içeriyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hafifçe itildiğini fark etti
+      metin  : bizmut
+      duyulan: bismuth
+  REPLACE  ...manyetik alan doğurur fizikte
+      metin  : lenz
+      duyulan: lens
+  REPLACE  ...şunu gösteriyor bu çarpım
+      metin  : meter başına
+      duyulan: metrebaşına
+  REPLACE  ...yerçekimi de hesaba katıldığında
+      metin  : kurbağanın
+      duyulan: kurbanın
+  REPLACE  ...çukurudur bu boşluk aslında
+      metin  : geym
+      duyulan: game
+  INSERT   ...den önce de biliniyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...de biliniyordu alman fizikçi
+      metin  : verner braunbek
+      duyulan: werner braunbeck
+  REPLACE  ...olarak gösterdi ve küçük
+      metin  : bizmut
+      duyulan: bismut
+  REPLACE  ...ile grafit parçalarını güçlü
+      metin  : elektromıknatısta
+      duyulan: elektromiknatısta
+  REPLACE  ...havada tutmayı başardı ama
+      metin  : bizmut
+      duyulan: bismut
+  REPLACE  ...yoksa şanslı an mıydı
+      metin  : geym
+      duyulan: game
+  INSERT   ...ele aldı i kili
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...daha önce incelemişti topaç
+      metin  : earnshaw
+      duyulan: ön şov
+  REPLACE  ...teoremini dönüşünün sağladığı dinamik
+      metin  : dengeyle
+      duyulan: denge ile
+  REPLACE  ...verdiği dar geçitti uçan
+      metin  : kurbağa
+      duyulan: kurbağı
+  INSERT   ...ünün de kapısını açtı
+      metin  : (yok)
+      duyulan: t
+  REPLACE  ...kapısını açtı yılında ander
+      metin  : geym
+      duyulan: geim
+  REPLACE  ...olduğunu düşünerek uzak durur
+      metin  : geym
+      duyulan: geim
+  REPLACE  ...kabul etti ve yıllarca
+      metin  : gururla
+      duyulan: gururlu
+  REPLACE  ...yıl sonra ortaya çıktı
+      metin  : geym
+      duyulan: geim
+  INSERT   ...deneylerini orada da sürdürüyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...grafen adını aldı ve
+      metin  : geym
+      duyulan: da geim
+  REPLACE  ...nü getirdi böylece ander
+      metin  : geym
+      duyulan: geim
+  INSERT   ...büyütme deneylerinde de araştırılıyordu
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...değil ve bunu bilmek
+      metin  : kurbağanın
+      duyulan: kurbanın
+  REPLACE  ...kadar büyüyor faraday ın
+      metin  : bizmutta
+      duyulan: bismutta
+  REPLACE  ...matematiğindeki dar geçit ve
+      metin  : geym in
+      duyulan: gaming
+  REPLACE  ...ve küçük kurbağa gerekiyordu
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 46
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: bilim-2026-11-14.duyulan.txt

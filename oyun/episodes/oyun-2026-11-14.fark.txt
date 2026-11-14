@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-14.mp3
+
+beklenen 1709 kelime | duyulan 1709 kelime | eşleşme %97.2
+sayı ifadesi: metinde 224, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...kişi bilgisayarın başında programcı
+      metin  : forest
+      duyulan: forrest
+  REPLACE  ...ekibin ayağı stüdyonun adı
+      metin  : innersloth
+      duyulan: innerslot
+  REPLACE  ...kişiyi seçtilerse katiller adım
+      metin  : daha yaklaşır
+      duyulan: değişir
+  INSERT   ...çok sessizleşti aramızda haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...içi oyunu ekledi kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...oyunu oynamak istemesi gerekiyordu
+      metin  : (yok)
+      duyulan: ki in
+  REPLACE  ...ve yeni şüphe anları
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...yine de sayılar değişmedi
+      metin  : (yok)
+      duyulan: tiki
+  REPLACE  ...aramızda yı keşfetmiş ve
+      metin  : izleyicileriyle
+      duyulan: izleyicileri ile
+  INSERT   ...oynamaya başlamıştı sonra temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...amerika nın tanınmış yayıncılarından
+      metin  : sodapoppin
+      duyulan: sodapopin
+  INSERT   ...döndürücü hızla büyüdü eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...daha sağlam temel atmak
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...bölmek anlamına gelebilirdi eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...burada ize başarı devam
+      metin  : oyununu
+      duyulan: oyunu
+  INSERT   ...da dışına taştı ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ekim amerikalı konger üyesi
+      metin  : aleksandriya okasyo kortez
+      duyulan: alexandria ocasio cortez
+  INSERT   ...da aracı olmuştu aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...herkes içeri girmek istedi
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: oyun-2026-11-14.duyulan.txt
