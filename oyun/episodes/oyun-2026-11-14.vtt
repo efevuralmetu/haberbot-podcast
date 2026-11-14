@@ -1,0 +1,685 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.890
+2018'de çıktığında aynı anda oynayan kişi sayısı çoğu gün bir sınıfı bile doldurmuyordu ve yapımcıları onu çoktan geride bırakmıştı.
+
+2
+00:00:09.890 --> 00:00:23.460
+İki yıl sonra dünya evlerine kapandı ve herkes aynı soruyu sormaya başladı: "Hain kim?" Bu bölüm, ölü sanılan bir oyunun, yaratıcılarının bile hazır olmadığı bir anda nasıl dirildiğini anlatıyor.
+
+3
+00:00:31.660 --> 00:00:36.270
+Washington eyaletinin Redmond kasabasında küçük bir stüdyo düşünün.
+
+4
+00:00:36.270 --> 00:00:40.560
+Ofisi yok denecek kadar mütevazı, kadrosu üç kişi.
+
+5
+00:00:40.560 --> 00:00:52.050
+Bilgisayarın başında programcı Forest Willard oturuyor, çizimlerde ve oyun tasarımında Marcus Bromander var, onlara katılan sanatçı Amy Liu da ekibin üçüncü ayağı.
+
+6
+00:00:52.050 --> 00:00:54.420
+Stüdyonun adı Innersloth.
+
+7
+00:00:54.420 --> 00:01:01.590
+Kısaca Tembel Hayvan Stüdyosu diyelim, çünkü ad tam olarak içimizdeki o tembel hayvana gönderme yapıyor.
+
+8
+00:01:01.590 --> 00:01:04.920
+O yıllarda bu stüdyo pek tanınmıyordu.
+
+9
+00:01:04.920 --> 00:01:11.930
+Bilenler onu en çok, çöp adam Henry Stickmin'in maceralarını anlatan tarayıcı oyunlarıyla hatırlıyordu.
+
+10
+00:01:11.930 --> 00:01:17.820
+Tuhaf, esprili, oyuncuyu sürekli yanlış seçimlere iten küçük oyunlardı bunlar.
+
+11
+00:01:17.820 --> 00:01:21.470
+Marcus Bromander'ın aklında ise başka bir şey vardı.
+
+12
+00:01:21.470 --> 00:01:25.600
+Çocukluğundan beri bir masa oyununu seviyordu: Mafya.
+
+13
+00:01:25.600 --> 00:01:27.650
+Kuralları çok basittir.
+
+14
+00:01:27.650 --> 00:01:32.900
+Bir grup insan bir araya gelir, aralarından birkaçı gizlice katil seçilir.
+
+15
+00:01:32.900 --> 00:01:37.830
+Gece olur, herkes gözünü kapatır, katiller bir kurban seçer.
+
+16
+00:01:37.830 --> 00:01:45.000
+Sabah olunca masadakiler tartışır, suçlar, savunur ve sonunda birini oylayarak oyundan atarlar.
+
+17
+00:01:45.000 --> 00:01:51.850
+Doğru kişiyi seçtilerse kasaba kazanır, yanlış kişiyi seçtilerse katiller bir adım daha yaklaşır.
+
+18
+00:01:51.850 --> 00:02:00.300
+Oyunun asıl malzemesi kart ya da zar değildir, insanların yüzleri, ses tonları ve birbirine duyduğu güvendir.
+
+19
+00:02:00.300 --> 00:02:04.910
+Bromander'ın sorusu şuydu: Bu masayı bir ekrana taşıyabilir miyiz?
+
+20
+00:02:04.910 --> 00:02:10.800
+Ama sadece kuralları kopyalayarak değil, oyuna bir mekân ve bir iş yükü ekleyerek.
+
+21
+00:02:10.800 --> 00:02:13.970
+Mafya'da gece herkes gözünü kapatıp bekler.
+
+22
+00:02:13.970 --> 00:02:16.340
+Peki ya kimse beklemeseydi?
+
+23
+00:02:16.340 --> 00:02:25.270
+Ya herkes aynı anda bir yerlerde dolaşıyor, işini yapıyor olsaydı ve katil de tam bu kalabalığın içinde, sessizce hareket etseydi?
+
+24
+00:02:25.270 --> 00:02:28.280
+Mekân olarak bir uzay gemisi seçildi.
+
+25
+00:02:28.280 --> 00:02:33.210
+Kapalı, koridorları birbirine bağlı, kaçacak yeri olmayan bir yer.
+
+26
+00:02:33.210 --> 00:02:42.620
+Bilim kurgunun eski bir kaygısını da beraberinde getiriyordu bu seçim: yanındaki mürettebat arkadaşının gerçekten o kişi olup olmadığını bilememek.
+
+27
+00:02:42.620 --> 00:02:47.870
+Oyunun adı da bu kaygıdan geliyordu: Among Us, yani Aramızda.
+
+28
+00:02:47.870 --> 00:02:50.720
+Aramızdan biri, ama kim?
+
+29
+00:02:50.720 --> 00:02:55.970
+Tasarım ilk bakışta çocuksu görünüyordu ve bu bilinçli bir tercihti.
+
+30
+00:02:55.970 --> 00:03:00.420
+Karakterler kolsuz, yuvarlak, renkli astronotlardı.
+
+31
+00:03:00.420 --> 00:03:03.750
+Yüzleri yoktu, yalnızca bir kask camı vardı.
+
+32
+00:03:03.750 --> 00:03:06.760
+Bu sadelik iki iş görüyordu.
+
+33
+00:03:06.760 --> 00:03:12.330
+Birincisi, küçük bir ekibin çizebileceği ve hareket ettirebileceği bir şeydi.
+
+34
+00:03:12.330 --> 00:03:19.340
+İkincisi, yüzü olmayan bir karakter oyuncunun kendi duygularını yansıtabileceği boş bir yüzeydi.
+
+35
+00:03:19.340 --> 00:03:24.590
+Kırmızı astronotun masum mu suçlu mu olduğunu yüzüne bakarak anlayamazdınız.
+
+36
+00:03:24.590 --> 00:03:31.760
+Bunu ancak onun davranışından, nerede durduğundan, ne zaman ortadan kaybolduğundan çıkarabilirdiniz.
+
+37
+00:03:31.760 --> 00:03:36.050
+Kurallar Mafya'nın ruhunu korudu ama ona bir ritim kattı.
+
+38
+00:03:36.050 --> 00:03:44.340
+Mürettebat gemide dolaşıp küçük görevler yapıyordu: kablo birleştirmek, yakıt doldurmak, bir kartı okuyucudan geçirmek.
+
+39
+00:03:44.340 --> 00:03:50.390
+Bu görevler hem oyunu kazanmanın bir yoluydu hem de herkesi gemiye dağıtan bir bahaneydi.
+
+40
+00:03:50.390 --> 00:04:00.600
+Hain ise görev yapıyormuş gibi davranıyor, havalandırma kanallarına girip çıkabiliyor, gemiyi sabote edebiliyor ve fırsat bulduğunda birini öldürebiliyordu.
+
+41
+00:04:00.600 --> 00:04:07.450
+Bir ceset bulunduğunda ya da biri acil toplantı düğmesine bastığında herkes masa başına çağrılıyordu.
+
+42
+00:04:07.450 --> 00:04:10.940
+İşte o an, Mafya'nın sabah tartışmasıydı.
+
+43
+00:04:10.940 --> 00:04:15.550
+Kim neredeydi, kim kimi gördü, kim bir anda çok sessizleşti?
+
+44
+00:04:15.550 --> 00:04:20.320
+Aramızda, Haziran 2018'de telefonlar için çıktı.
+
+45
+00:04:20.320 --> 00:04:28.290
+İlk sürüm yalnızca yerel çok oyunculuyu destekliyordu, yani aynı odada, aynı ağa bağlı arkadaşlarla oynanabiliyordu.
+
+46
+00:04:28.290 --> 00:04:35.300
+Bu, Mafya'nın masa başı doğasına sadıktı ama oyunun ulaşabileceği kitleyi de baştan sınırlıyordu.
+
+47
+00:04:35.300 --> 00:04:38.950
+Ekip kısa süre içinde çevrim içi oyunu ekledi.
+
+48
+00:04:38.950 --> 00:04:47.080
+Kasım 2018'de ise oyun, bilgisayar oyunlarının büyük dijital mağazası Steam'e, yani Dijital Mağaza'ya geldi.
+
+49
+00:04:47.080 --> 00:04:49.770
+Fiyatı 5 dolar civarındaydı.
+
+50
+00:04:49.770 --> 00:04:53.740
+Telefonda ücretsizdi, reklamlarla destekleniyordu.
+
+51
+00:04:53.740 --> 00:04:55.950
+Her şey yerli yerindeydi.
+
+52
+00:04:55.950 --> 00:05:00.240
+Fikir sağlamdı, kurallar anlaşılırdı, oyun bitmişti.
+
+53
+00:05:00.240 --> 00:05:03.570
+Geriye tek bir şey kalıyordu: oyuncular.
+
+54
+00:05:03.570 --> 00:05:08.820
+Bir sosyal çıkarım oyununun en büyük sorunu, tek başına oynanamamasıdır.
+
+55
+00:05:08.820 --> 00:05:15.030
+Bir platform oyununu, bir bulmacayı ya da bir hikâye oyununu tek başınıza bitirebilirsiniz.
+
+56
+00:05:15.030 --> 00:05:22.840
+Ama Aramızda için bir odaya, o odaya da en az dört, ideal olarak 8 ya da 10 kişiye ihtiyacınız vardı.
+
+57
+00:05:22.840 --> 00:05:27.450
+Ve o kişilerin aynı anda, aynı oyunu oynamak istemesi gerekiyordu.
+
+58
+00:05:27.450 --> 00:05:33.340
+2018'in ikinci yarısında oyunu açanlar çoğu zaman aynı manzarayla karşılaştı.
+
+59
+00:05:33.340 --> 00:05:36.350
+Sunucu listesi boşa yakındı.
+
+60
+00:05:36.350 --> 00:05:42.560
+Bir odaya girip bekliyordunuz, belki birkaç kişi geliyor, belki sabırsızlanıp çıkıyordu.
+
+61
+00:05:42.560 --> 00:05:52.610
+Oyun hakkında yazılanlara göre, çıkışından sonraki dönemde aynı anda oyunda bulunan oyuncu sayısı ortalama 30 ile 50 kişi arasında gidip geliyordu.
+
+62
+00:05:52.610 --> 00:05:57.700
+Bütün dünyada, bütün platformlarda, aynı anda birkaç düzine insan.
+
+63
+00:05:57.700 --> 00:06:01.510
+Bir oyunun kaderini çoğu zaman bu sayılar belirler.
+
+64
+00:06:01.510 --> 00:06:06.440
+Dijital Mağaza'daki bir oyun, oynanmadığı sürece görünmez hâle gelir.
+
+65
+00:06:06.440 --> 00:06:11.370
+Görünmeyen oyun oynanmaz, oynanmayan oyun daha da görünmez olur.
+
+66
+00:06:11.370 --> 00:06:15.660
+Bu durumun ironisi oyunun kendi kurgusunda gizliydi.
+
+67
+00:06:15.660 --> 00:06:20.270
+Aramızda, saklanan bir haini bulmak üzerine kurulmuş bir oyundu.
+
+68
+00:06:20.270 --> 00:06:24.240
+Ama o dönem gerçekten saklanan, oyunun kendisiydi.
+
+69
+00:06:24.240 --> 00:06:33.170
+Gemide hainler vardı, görevler hazırdı, acil toplantı düğmesi basılmayı bekliyordu, ama ortada onları bulacak mürettebat yoktu.
+
+70
+00:06:33.170 --> 00:06:38.900
+Küçük bir stüdyo için bu, yalnızca hayal kırıklığı değil, ekonomik bir soruydu.
+
+71
+00:06:38.900 --> 00:06:43.670
+Üç kişilik bir ekip, gelir getirmeyen bir oyuna ne kadar zaman ayırabilirdi?
+
+72
+00:06:43.670 --> 00:06:54.040
+Sektörü izleyen yayınlara göre oyun, bu dönemde neredeyse hiç para kazandırmıyordu ve ekip bir noktada onu bırakıp yeni bir projeye geçmeyi ciddi biçimde düşündü.
+
+73
+00:06:54.040 --> 00:06:58.010
+Bağımsız oyun dünyasında bu çok sıradan bir hikâyedir.
+
+74
+00:06:58.010 --> 00:07:03.740
+Bir oyun çıkar, beklenen ilgiyi görmez, geliştiricileri bir sonraki fikre geçer.
+
+75
+00:07:03.740 --> 00:07:08.830
+Oyun mağazada asılı kalır, arada bir indirime girer ve yavaşça unutulur.
+
+76
+00:07:08.830 --> 00:07:13.280
+Aramızda'nın da bu yolu izlemesi için her neden mevcuttu.
+
+77
+00:07:13.280 --> 00:07:15.650
+Ama bir şey ekibi durdurdu.
+
+78
+00:07:15.650 --> 00:07:19.460
+Oyunun çok küçük ama çok bağlı bir topluluğu vardı.
+
+79
+00:07:19.460 --> 00:07:23.910
+Az sayıdaki oyuncu, oyunu gerçekten seviyordu.
+
+80
+00:07:23.910 --> 00:07:29.160
+Geri bildirim yazıyor, hata bildiriyor, yeni fikirler öneriyordu.
+
+81
+00:07:29.160 --> 00:07:35.370
+Tembel Hayvan Stüdyosu bu sesleri duydu ve oyunu bırakmak yerine onu geliştirmeye devam etti.
+
+82
+00:07:35.370 --> 00:07:44.940
+Sonraki aylarda oyuna yeni haritalar eklendi: gemiden sonra bir merkez binası, ardından buzlu bir gezegendeki bir araştırma üssü.
+
+83
+00:07:44.940 --> 00:07:51.470
+Her yeni harita, yeni görevler, yeni saklanma yerleri ve yeni şüphe anları demekti.
+
+84
+00:07:51.470 --> 00:07:56.720
+Oyun dışarıdan bakıldığında sessizdi, ama içeride yavaş yavaş olgunlaşıyordu.
+
+85
+00:07:56.720 --> 00:08:02.290
+Bu dönemin değerini anlamak için o sessiz yılları bir laboratuvar gibi düşünmek gerekir.
+
+86
+00:08:02.290 --> 00:08:08.500
+Kalabalık bir oyunda her karar binlerce kişiyi etkiler, her değişiklik büyük bir risk taşır.
+
+87
+00:08:08.500 --> 00:08:13.430
+Küçük bir toplulukta ise denemek, yanılmak ve düzeltmek mümkündür.
+
+88
+00:08:13.430 --> 00:08:21.880
+Ekip, hainin öldürme süresini, toplantı zamanlarını, görevlerin yerleşimini bu küçük topluluğun tepkileriyle ayarladı.
+
+89
+00:08:21.880 --> 00:08:27.290
+Oyunun en çok övülecek yanı olan dengesi, büyük ölçüde bu yıllarda oturdu.
+
+90
+00:08:27.290 --> 00:08:29.500
+Yine de sayılar değişmedi.
+
+91
+00:08:29.500 --> 00:08:37.790
+2019 boyunca Aramızda, küçük bir azınlığın sevdiği, geri kalan herkesin adını bile duymadığı bir oyun olarak kaldı.
+
+92
+00:08:37.790 --> 00:08:41.920
+Telefonlardaki milyonlarca oyunun arasında bir tane daha.
+
+93
+00:08:41.920 --> 00:08:46.530
+Dijital Mağaza'daki binlerce bağımsız oyunun arasında bir tane daha.
+
+94
+00:08:46.530 --> 00:08:51.940
+Gemideki ışıklar yanıyordu, ama koridorlarda yankılanan ayak sesleri çok azdı.
+
+95
+00:08:51.940 --> 00:08:56.710
+Geriye dönüp bakınca bu iki yılı bir uyku olarak adlandırmak kolay.
+
+96
+00:08:56.710 --> 00:09:00.520
+Ama o uyku boyunca gemi hiçbir zaman kapanmadı.
+
+97
+00:09:00.520 --> 00:09:06.890
+Birileri her gece içinde dolaşmaya, kablolarını birleştirmeye, birbirini suçlamaya devam etti.
+
+98
+00:09:06.890 --> 00:09:12.460
+Ve tam da bu yüzden, gemiyi uyandıracak dalga geldiğinde içi boş değildi.
+
+99
+00:09:12.460 --> 00:09:15.470
+O dalga, 2020 yazında geldi.
+
+100
+00:09:15.470 --> 00:09:19.440
+Ve ilginç biçimde, beklenmedik bir yerden başladı.
+
+101
+00:09:19.440 --> 00:09:26.290
+Oyunun ilk kıvılcımları Güney Kore'de ve Latin Amerika'da, özellikle Brezilya ile Meksika'da görüldü.
+
+102
+00:09:26.290 --> 00:09:33.140
+Bu ülkelerdeki canlı yayıncılar Aramızda'yı keşfetmiş ve izleyicileriyle birlikte oynamaya başlamıştı.
+
+103
+00:09:33.140 --> 00:09:40.630
+Sonra, Temmuz 2020'de, Kuzey Amerika'nın tanınmış yayıncılarından Sodapoppin oyunu canlı yayında oynadı.
+
+104
+00:09:40.630 --> 00:09:43.480
+Bu bir zincirin ilk halkası oldu.
+
+105
+00:09:43.480 --> 00:09:47.130
+Onu başka yayıncılar izledi, onları da başkaları.
+
+106
+00:09:47.130 --> 00:09:53.180
+Birkaç hafta içinde oyun, canlı yayın platformlarında en çok izlenen yapımlar arasına girdi.
+
+107
+00:09:53.180 --> 00:09:54.910
+Neden 2020?
+
+108
+00:09:54.910 --> 00:10:01.600
+Bu sorunun cevabının bir kısmı oyunun kendisinde, bir kısmı da dünyanın o yılki hâlindeydi.
+
+109
+00:10:01.600 --> 00:10:05.890
+Salgın yüzünden milyonlarca insan evlerine kapanmıştı.
+
+110
+00:10:05.890 --> 00:10:13.860
+Arkadaşlarla bir masa etrafında toplanmak, kahkaha atmak, birini suçlayıp sonra özür dilemek artık mümkün değildi.
+
+111
+00:10:13.860 --> 00:10:19.910
+Aramızda tam olarak bunu sunuyordu: uzaktaki insanlarla bir masa etrafında oturma hissi.
+
+112
+00:10:19.910 --> 00:10:26.280
+Oyunun mekaniği hafifti, telefonda bile oynanabiliyordu ve telefonda ücretsizdi.
+
+113
+00:10:26.280 --> 00:10:34.410
+Asıl oyun ekranda değil, sesli sohbette, insanların birbirine attığı yalanlarda ve verdiği savunmalarda oynanıyordu.
+
+114
+00:10:34.410 --> 00:10:36.620
+Bir de izlenebilirlik vardı.
+
+115
+00:10:36.620 --> 00:10:40.750
+Pek çok oyun oynaması eğlenceli ama izlemesi sıkıcıdır.
+
+116
+00:10:40.750 --> 00:10:44.080
+Aramızda ise izlemek için biçilmiş kaftandı.
+
+117
+00:10:44.080 --> 00:10:51.410
+İzleyici, yayıncının hain olduğunu biliyor ve onun masa başında nasıl yalan söyleyeceğini merakla bekliyordu.
+
+118
+00:10:51.410 --> 00:10:58.100
+Ya da yayıncı masumdu ve izleyici, onun bir türlü inanılmadığı o çaresiz anları seyrediyordu.
+
+119
+00:10:58.100 --> 00:11:03.190
+Her oyun on dakikalık küçük bir dram, küçük bir polisiye dizi gibiydi.
+
+120
+00:11:03.190 --> 00:11:12.440
+Önceki iki yılda olgunlaşmış o denge burada karşılığını verdi: oyun, birdenbire milyonlarca kişinin önüne çıktığında hazırdı.
+
+121
+00:11:12.440 --> 00:11:15.450
+Sayılar baş döndürücü bir hızla büyüdü.
+
+122
+00:11:15.450 --> 00:11:23.100
+Eylül 2020'de Tembel Hayvan Stüdyosu, oyunun aynı anda 1,5 milyon oyuncuya ulaştığını duyurdu.
+
+123
+00:11:23.100 --> 00:11:29.950
+Birkaç düzine kişinin sunucu beklediği günlerden bu noktaya gelmek iki yıldan biraz fazla sürmüştü.
+
+124
+00:11:29.950 --> 00:11:33.440
+Telefonda indirme sayıları yüz milyonları buldu.
+
+125
+00:11:33.440 --> 00:11:40.930
+Oyunun kırmızı astronotu, kask camı ve kolsuz gövdesiyle internetin her köşesinde kendine yer edindi.
+
+126
+00:11:40.930 --> 00:11:46.660
+Karakterin silüeti, oyunu hiç oynamamış insanların bile tanıdığı bir simgeye dönüştü.
+
+127
+00:11:46.660 --> 00:11:50.790
+Bu başarı, küçük ekip için kendi zorluklarını da getirdi.
+
+128
+00:11:50.790 --> 00:11:56.520
+Sunucular, bu kalabalık için tasarlanmamıştı ve zaman zaman çöküyordu.
+
+129
+00:11:56.520 --> 00:12:00.650
+Hile yapanlar ve oyunları bozmaya çalışanlar ortaya çıktı.
+
+130
+00:12:00.650 --> 00:12:08.460
+Üç kişilik bir stüdyo, bir anda dünyanın en çok konuşulan oyunlarından birini ayakta tutmak zorunda kalmıştı.
+
+131
+00:12:08.460 --> 00:12:13.390
+Ve tam bu sırada ekip, yıllar önce verilmiş bir kararla yüzleşti.
+
+132
+00:12:13.390 --> 00:12:23.600
+2020 yazının başında, oyunun ani yükselişinden önce, Tembel Hayvan Stüdyosu bir devam oyunu üzerinde çalıştığını açıklamıştı: Aramızda 2.
+
+133
+00:12:23.600 --> 00:12:25.490
+Mantık anlaşılırdı.
+
+134
+00:12:25.490 --> 00:12:32.020
+İlk oyun eski bir kod tabanı üzerine kurulmuştu ve yeni özellikler eklemek giderek zorlaşıyordu.
+
+135
+00:12:32.020 --> 00:12:35.990
+Sıfırdan başlamak, daha sağlam bir temel atmak demekti.
+
+136
+00:12:35.990 --> 00:12:38.840
+Ama şimdi tablo tamamen değişmişti.
+
+137
+00:12:38.840 --> 00:12:44.730
+Milyonlarca insan ilk oyunu oynuyordu, arkadaş grupları onun etrafında toplanıyordu.
+
+138
+00:12:44.730 --> 00:12:49.820
+Yeni bir oyun çıkarmak, bu topluluğu ikiye bölmek anlamına gelebilirdi.
+
+139
+00:12:49.820 --> 00:12:56.030
+23 Eylül 2020'de ekip kararını açıkladı: Aramızda 2 iptal edildi.
+
+140
+00:12:56.030 --> 00:12:59.840
+Bunun yerine bütün emek ilk oyuna aktarılacaktı.
+
+141
+00:12:59.840 --> 00:13:09.410
+Ekip, oyunun altyapısını yeniden kurmaya, sunucuları güçlendirmeye, bir arkadaş sistemi ve renk körlüğü desteği gibi özellikler eklemeye karar verdi.
+
+142
+00:13:09.410 --> 00:13:14.500
+Bu, bir oyun stüdyosunun verebileceği en sıra dışı kararlardan biriydi.
+
+143
+00:13:14.500 --> 00:13:17.990
+Genelde başarı, devam oyununun kapısını açar.
+
+144
+00:13:17.990 --> 00:13:22.280
+Burada ise başarı, devam oyununu gereksiz kıldı.
+
+145
+00:13:22.280 --> 00:13:33.450
+Oyunun iki yıl boyunca sadık topluluğunu dinleyerek hayatta kalması, şimdi aynı ilkenin çok daha büyük bir ölçekte tekrarlanmasıydı: oyuncular neredeyse, oyun da oradaydı.
+
+146
+00:13:33.450 --> 00:13:37.900
+Oyunun etkisi kısa sürede oyun dünyasının da dışına taştı.
+
+147
+00:13:37.900 --> 00:13:49.070
+Ekim 2020'de Amerikalı kongre üyesi Alexandria Ocasio-Cortez, seçimlerden önce gençleri oy kullanmaya teşvik etmek için Aramızda'yı canlı yayında oynadı.
+
+148
+00:13:49.070 --> 00:13:55.760
+Yayına katılanlar arasında tanınmış yayıncılar ve başka bir kongre üyesi, Ilhan Omar da vardı.
+
+149
+00:13:55.760 --> 00:13:59.570
+Yayını aynı anda 400 binin üzerinde kişi izledi.
+
+150
+00:13:59.570 --> 00:14:07.220
+Bir uzay gemisinde kimin hain olduğunu bulmaya çalışan küçük astronotlar, bir anda siyasi katılımın da aracı olmuştu.
+
+151
+00:14:07.220 --> 00:14:20.950
+Aralık 2020'de oyun, sektörün en tanınmış ödül törenlerinden biri olan The Game Awards'ta, yani Oyun Ödülleri'nde, iki ödül kazandı: Yılın En İyi Çok Oyunculu Oyunu ve Yılın En İyi Mobil Oyunu.
+
+152
+00:14:20.950 --> 00:14:30.840
+İki yıl önce çıkmış, uzun süre neredeyse kimsenin oynamadığı bir oyunun bu ödülleri alması, Oyun Ödülleri tarihinin de alışılmadık anlarından biriydi.
+
+153
+00:14:30.840 --> 00:14:34.490
+Aynı ay oyun Nintendo Switch'e ve Xbox'a geldi.
+
+154
+00:14:34.490 --> 00:14:41.500
+Yerel çok oyunculu bir telefon oyunu olarak doğan Aramızda, artık neredeyse her ekranda oynanabiliyordu.
+
+155
+00:14:41.500 --> 00:14:46.430
+Bu hikâyenin bıraktığı miras, rakamlardan daha uzun ömürlü oldu.
+
+156
+00:14:46.430 --> 00:14:52.960
+Aramızda, oyun dünyasında bir başarının nasıl doğabileceğine dair kalıplaşmış düşünceleri sarstı.
+
+157
+00:14:52.960 --> 00:14:59.650
+Büyük bir pazarlama bütçesi yoktu, çıkış günü patlaması yoktu, arkasında dev bir yayıncı yoktu.
+
+158
+00:14:59.650 --> 00:15:08.900
+Onun yerine sabır vardı, küçük bir topluluğa duyulan sadakat vardı ve doğru anda doğru insanların eline geçen olgun bir tasarım vardı.
+
+159
+00:15:08.900 --> 00:15:17.830
+Bağımsız geliştiriciler için bu, umut verici bir dersti: bir oyunun ilk iki yılı, onun kaderinin son sözü olmak zorunda değildi.
+
+160
+00:15:17.830 --> 00:15:21.800
+Oyun aynı zamanda sosyal çıkarım türünü ana akıma taşıdı.
+
+161
+00:15:21.800 --> 00:15:28.810
+Mafya masasının, uzaktaki insanları bir araya getiren dijital bir ortama dönüşebileceğini gösterdi.
+
+162
+00:15:28.810 --> 00:15:35.340
+Ardından gelen pek çok oyun, aynı kalıbı farklı mekânlarda ve farklı tonlarda yeniden denedi.
+
+163
+00:15:35.340 --> 00:15:43.470
+Ama hiçbiri, o kırmızı astronotun kask camının ardındaki belirsizlik kadar sade ve akılda kalıcı bir simge bulamadı.
+
+164
+00:15:43.470 --> 00:15:49.680
+Ve belki de en çarpıcı olanı, oyunun kendi doğasına sadık kalan bir hikâye anlatmasıydı.
+
+165
+00:15:49.680 --> 00:15:54.450
+Aramızda, gizlenen bir şeyi ortaya çıkarmak üzerine kurulu bir oyundu.
+
+166
+00:15:54.450 --> 00:15:58.740
+İki yıl boyunca gerçekten gizlenen şey oyunun kendisiydi.
+
+167
+00:15:58.740 --> 00:16:04.950
+Ve sonunda, tıpkı oyundaki hain gibi, milyonlarca insanın gözü önünde ortaya çıktı.
+
+168
+00:16:04.950 --> 00:16:07.960
+Ama bu sefer onu kimse gemiden atmadı.
+
+169
+00:16:07.960 --> 00:16:11.290
+Tam tersine, herkes içeri girmek istedi.
+
+170
+00:16:11.290 --> 00:16:14.940
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+171
+00:16:14.940 --> 00:16:17.950
+Yeni bir hikâyede yeniden buluşmak üzere.
