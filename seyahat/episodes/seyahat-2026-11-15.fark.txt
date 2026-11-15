@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-15.mp3
+
+beklenen 2138 kelime | duyulan 2158 kelime | eşleşme %95.3
+sayı ifadesi: metinde 271, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kavrulan adaya yerleşmişti başlarında
+      metin  : (yok)
+      duyulan: ini
+  REPLACE  ...aşmış adam var büyük
+      metin  : üstat jan pariso dö la
+      duyulan: üstad canpariso dola
+  REPLACE  ...uzanan dil üzerindeki ve
+      metin  : senglea
+      duyulan: sengleya
+  REPLACE  ...anlatılır ardından kuşatma ile
+      metin  : senglea
+      duyulan: sengleya
+  REPLACE  ...su azaldı hastalık arttı
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...iyi askeri mühendislerinden olan
+      metin  : françesko laparelli
+      duyulan: francesco la parelli
+  DELETE   ...gönderdi i spanya kralı
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...da para yolladı malta
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...zırha ihtiyacı vardı mart
+      metin  : la valet
+      duyulan: da lavalet
+  REPLACE  ...kesilen taş da hemen
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...yanındaki maltalı yardımcısı cirolamo
+      metin  : kassar
+      duyulan: kasar
+  REPLACE  ...yardımcısı cirolamo kassar devraldı
+      metin  : kassar
+      duyulan: kasar
+  REPLACE  ...oluşturan binaları tasarladı büyük
+      metin  : üstat
+      duyulan: üstad
+  REPLACE  ...şövalyelerin adada misafir ettiği
+      metin  : karavacyo nun
+      duyulan: karavatsyon un
+  INSERT   ...ize eserinin bittiğini göremedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...göremedi öldü tarikat merkezini
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...kalkandı asıl sınavını ize
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  INSERT   ...aradan zaman geçti şövalyeler
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...girdikten gün sonra haziran
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...kuvvetleri de saldırılara katıldı
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...eski kasabaları harabeye çevirdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çevirdi kahramanca savunulan ile
+      metin  : senglea
+      duyulan: sengle ye
+  INSERT   ...nın yaraları derindi nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...de tamamen unutabildi ancak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu karanlık günlerde nisan
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...madalya karın doyurmuyordu ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...malta da adı santa
+      metin  : mariya
+      duyulan: maria
+  REPLACE  ...konvoyu bugün hala santa
+      metin  : mariya
+      duyulan: maria
+  INSERT   ...aldırdı kuşatma ancak eylül
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...de ilan edildi bu
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...kuşatma aradan geçen neredeyze
+      metin  : (yok)
+      duyulan: yıla
+  INSERT   ...kutlanan eylül anar malta
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sol üst köşesine george
+      metin  : haçı nı
+      duyulan: hatch ını
+  INSERT   ...gün gösterdiği kumaşa işledi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve tutkulu rekabet doğurur
+      metin  : valletta
+      duyulan: valetta
+  REPLACE  ...ın bandosu ile la
+      metin  : valet
+      duyulan: valette
+  INSERT   ...valet bando kulübü de
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...barutu gelir malta da
+      metin  : havai
+      duyulan: havay
+  REPLACE  ...çiçeklerini görürsünüz patlamaların yankısı
+      metin  : nun
+      duyulan: un
+  REPLACE  ...patlamaların yankısı nun ve
+      metin  : senglea
+      duyulan: sengliya
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 55
+bölme/birleşme farkı (hata değil, elendi): 35
+
+duyulan metin: seyahat-2026-11-15.duyulan.txt

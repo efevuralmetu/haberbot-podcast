@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-15.mp3
+
+beklenen 2048 kelime | duyulan 2027 kelime | eşleşme %94.0
+sayı ifadesi: metinde 211, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yönetmenini de silip süpürdü
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...friedkin o sırada henüz
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...en i yi yönetmen
+      metin  : oscar larını
+      duyulan: oskarlarını
+  REPLACE  ...büyüdüğü fransız filmine döndü
+      metin  : jorj arno
+      duyulan: george arnault de
+  REPLACE  ...öteye götürmeyi kabul ediyordu
+      metin  : anri jorj kluzo
+      duyulan: andré george clouzot
+  REPLACE  ...jorj kluzo bu romanı
+      metin  : lö saler dö
+      duyulan: te le salaier de
+  REPLACE  ...lö saler dö la
+      metin  : pör
+      duyulan: peur
+  REPLACE  ...en büyük ödülü kazandı
+      metin  : i v
+      duyulan: yves
+  REPLACE  ...kazandı i v monton
+      metin  : ın
+      duyulan: un
+  REPLACE  ...romanın başka yorumu vardı
+      metin  : kluzo nun
+      duyulan: clouzot un
+  REPLACE  ...adamı izleriz meksika nın
+      metin  : verakruz
+      duyulan: veracruz
+  REPLACE  ...kaçmayı başarır paris te
+      metin  : viktor
+      duyulan: victor
+  REPLACE  ...de ize kaçış şoförü
+      metin  : jackie
+      duyulan: jacky
+  REPLACE  ...ve dokunulmamış görünmesini istiyordu
+      metin  : kanunun kuvveti nde
+      duyulan: canu nun kuvvetinde
+  REPLACE  ...yeni evlendiği eşi ali
+      metin  : macgraw
+      duyulan: mcroe
+  REPLACE  ...yakın yerde yapılmasını olmuyorsa
+      metin  : macgraw
+      duyulan: mcroe
+  DELETE   ...olmuyorsa macgraw a filmde
+      metin  : görev
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...da uzaklaştı sonunda başrol
+      metin  : kanunun kuvveti nde
+      duyulan: canu nun kuvvetinde
+  DELETE   ...denizkızı yla yükselişe geçmiş
+      metin  : olan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yükselişe geçmiş olan roy
+      metin  : şayder
+      duyulan: scheider
+  REPLACE  ...manzon u fransız oyuncu
+      metin  : brüno kremer kassem i
+      duyulan: bruno kramer kassemi
+  REPLACE  ...de i spanyol usta
+      metin  : fransisko
+      duyulan: francisco
+  REPLACE  ...arno nun romanından da
+      metin  : kluzo
+      duyulan: cluzzo
+  REPLACE  ...başka ad aradı ve
+      metin  : sorcerer
+      duyulan: sorterer
+  DELETE   ...hem kamyonlardan üzerinde yazan
+      metin  : addı
+      duyulan: (YOK — atlanmış)
+  DELETE   ...eser yoktur çamurlu sokaklar
+      metin  : sinekler
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şirketin uzaktaki petrol kuyusu
+      metin  : sabotaja
+      duyulan: sabotaca
+  REPLACE  ...orman sahneleri için dominik
+      metin  : cumhuriyeti ni seçti
+      duyulan: cumhuriyetini yaptı
+  INSERT   ...cumhuriyeti ni seçti çekimler
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...iyice gerdi fazla yapım
+      metin  : sorumlusunu
+      duyulan: yolusunu
+  REPLACE  ...köprüye gelir başka yol
+      metin  : yoktur
+      duyulan: otur
+  DELETE   ...üzerinde tutuluyordu ama düzenek
+      metin  : defalarca
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...en az görüntüler kadar
+      metin  : önemliydi
+      duyulan: iyiydi
+  REPLACE  ...elektronik grubu tangerine dream
+      metin  : le
+      duyulan: ile
+  REPLACE  ...tangerine dream le anlaşmıştı
+      metin  : grup
+      duyulan: grub
+  REPLACE  ...ve bunaltıcı ormanla tuhaf
+      metin  : çelişki
+      duyulan: ilişki
+  REPLACE  ...ölür pusuda vurulur sonunda
+      metin  : scanlon
+      duyulan: skandon
+  REPLACE  ...yer artık orman değil
+      metin  : ay
+      duyulan: kay
+  REPLACE  ...bisti çorak arazisinde çekildi
+      metin  : scanlon ın
+      duyulan: skandon un
+  REPLACE  ...neyin sanrı olduğunu bilemez
+      metin  : scanlon
+      duyulan: skandon
+  ... ve 29 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 83
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: film-2026-11-15.duyulan.txt

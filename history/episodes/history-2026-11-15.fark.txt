@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-15.mp3
+
+beklenen 2959 kelime | duyulan 2779 kelime | eşleşme %9.5
+sayı ifadesi: metinde 234, duyulanda 108  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...through a secret passage
+      metin  : yılının şubatı nda kuzey
+      duyulan: a foggy morning their commander was shot at the top of the ladder he had set against the walls of rome and theer was no left who could stop them the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage a foggy morning their commander was shot at the top of the ladder he had set against the walls of rome and theer was no left who could stop them the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage a foggy morning their commander was shot at the top of the ladder he had set against the walls of rome and theer was no left who could stop them the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage a foggy morning their commander was shot at the walls of rome and theer was no left who could stop them the pope had to gather up his robes and flee through a secret passage the pope had to gather up his robes and flee through a secret passage c s
+  REPLACE  ...şubatı nda kuzey i
+      metin  : talya daki pavia kentinin surları önünde avrupa nın dengesi sabah içinde değişti kutsal roma
+      duyulan: b e r d u s h m a n d e l d u s a l t
+  REPLACE  ...değişti kutsal roma i
+      metin  : mparatoru
+      duyulan: l t i l m e c e g a m b e r c a l a r s a o n o a s m a k i c h i n d u s a l t i l t i l b e r c a l a b e r c a l a d u s b e r c a l a c i c h i b o i n j a b o o r d c i c h i b o i n j a b o i n k i i r s o i d a m a y a m a b i l a m a s h i n y e r i n t u t m i o r d m a r t i i n d a b o l o n y a k i n l a r a c a l a r i c h i a t u s b u r g o n l a r i s a k i n n e s t r m e k i n n e r n e c i c t u m r b o i n j a b o i n l i c t s o w a s t a d a m l a r s e a m a s c a r l e r m i s r a c a r l e r o n a d o r l t s a w i n a ir i a i m i n n e s i a p a i n l i c t o i a m i n p i a i a t a i c i i i a i i i i p i a i i s a w i i i i i i p i a i i i s a w i i i i i p i a i i i i a i i i i a i i i i bussi siki tarafunda kadirni de ishturde melek kalessin
+  REPLACE  ...roma i mparatoru ve
+      metin  : i spanya kralı charles ın ordusu fransız ordusunu ezdi fransa kralı françois savaş alanında atından düşürüldü
+      duyulan: surlaren ustunde ki toplar birkacadomu te sini göremiordu toptular hede fedir boshla ateshediordu saldarganlarize si sinn urtusunu kullanarak merdvenir surlaradaiyadlar saldara borgonun santo spirito hastaane sinai yakan kesimin devai janikulum te pesinin eteklirinde yo onnashte ilk dalgalar geripuskurtuldu surlaren ustundan muzrak tashve kurshunja yordu merdvenlar devarlyar adamlar hendekleradushyordu dukku adamlar nanduraksa dinugurunja kandisiye onechikte rivayete göer si sini cindefarkedil sindiye beyaz peleren giimishte merdven turman meyabashladu yadat turmanan adamlar nyunandryordu osirada surlardan atalan arkebuskurshunu vurdu yerdushte vechok gechmedan uldu yeshindayde bu ulamun kimine lindan uldu bugun bilekisinde ildish floran selu kuyumju
+  REPLACE  ...alanında atından düşürüldü ve
+      metin  : esir alındı kral rakibinin askerlerinin arasında madrid
+      duyulan: hei kaltarash benvenuto chelini yalar sonra yazde anularen da osabah surlarda uldunu ve borbanu vuran kurshunun kenditufeindanchiktena itdayadash selini kendini onichikar maisevan abartiya yatkan anatajita tarichileren choubu id diya kushku yayaklashir kesinolan osabah surlarda yuzlarje tufein attachete ve borbanun bunardan nehede foldudur komutanun ullumu ordu yudata bilirde amabu ordu ichin durum tersine ishlede borbanun ullumu askar liri yildurmadde ufkelandirde artek anar dizginnei bilajek enazun danan nashmayapabilajek tekadamdagitmishte komuta
+  REPLACE  ...askerlerinin arasında madrid e
+      metin  : götürülmek üzeer yola çıkarıldı
+      duyulan: orange prince iphilibert de chalondevralde ama gercek komuta artek hichbir subayandil ufkinin ve achlun elindeide askar lir sisini cinde yeni dan surlara uklande noktada surlaren evin duvari le leishti zaif erde gedik bulundu aspen jol pia deler ordani cherisizde ardan dan alman pia deler bashkabir kesim dan surlerashte sevun ma birandachektu kentliler den olushanbir likler suruna shildenu duyun jadalde baisuler gericek yilipe yeni dan toplan maya chalistu chowize evlerne aile lerni nyanana koshtu saldurginlar borgonun dar sokaklar na doldu rynlerinde vati khan aziz petrus baazilika seve kachmaya chalushanbir kalabalikvarde santo spirito hastaane sin dekhi hasta lern veyetim hane dekhi chojuk lern bilakkalichtangye cherildiye oguna anna tanka itlern enkarannik satar leraar asindar
+  REPLACE  ...üzeer yola çıkarıldı o
+      metin  : gün charles ın komutanları için büyük zaferdi ama bu zaferin içinde yıl sonra roma yı yerle edecek sorun da büyümeye başlamıştı bu orduya kimse düzenli maaş ödemiyordu charles kağıt üzerinde dünyanın
+      duyulan: sabahkicha tishma artak sabashti yilde liamadonush mekuzerei de vebu kat liamunun de saija sondereja azama gericekil mei rededan birliktur yordu papanam moafizlaer isfi chreli askar larde vebu de papa ekinji julius terafandan kurul mushtu isfi chreli parala askar ler ocha ada avrupanan
+  REPLACE  ...kağıt üzerinde dünyanın en
+      metin  : geniş topraklarına hükmediyordu i spanya napoli habsburg toprakları felemenk ve atlantik in ötesinde yeni yeni tanınan kıta adına yönetiliyordu ne var ki geniş topraklar dolu hazine anlamına gelmiyordu amerika dan gelen gümüş henüz sonraki yılların bolluğuna ulaşmamıştı bankacılar borç veriyor ama karşılığında güvence istiyorlardı i talya daki ordu ize i spanyol piyadeleri i talyan birlikleri ve alman paralı piyadelerinden oluşan karma kalabalıktı bu adamların çoğu hükümdara bağlılıkla değil sözleşmeyle savaşıyordu sözleşmenin karşılığı ödenmeyince sadakat de buharlaşıyordu esir kral françois nın başında madrid antlaşması nı imzalayarak özgürlüğüne kavuştu i talya üzerindeki iddialarından vazgeçti burgonya yı bırakacağına söz verdi hatta oğlunu rehine olarak i spanya ya teslim etti fakat sınırı geçip fransa ya döner dönmez antlaşmanın zorla imzalatıldığını ilan etti charles ın gücünden korkan başka hükümdarlar da tam bu fırsatı bekliyordu mayıs da fransa venedik floransa ve papa clemens araya gelip cognac yani kutsal denen ittifakı kurdular papa clemens in asıl adı giulio de medici ydi floransa nın ünlü bankacı ve hükümdar ailesinden geliyordu zeki kültürlü sanatçıları koruyan ama karar vermekte zorlanan adam olarak tanınırdı çağdaşları tarafa yaslanıp sonra öbür tarafa döndüğünü her kampı da kızdırdığını yazar kutsal katılması da böyle hesabın sonucuydu clemens i talya nın kuzeyinde de güneyinde de imparatorun egemenliği girmesinden çekiniyordu napoli zaten charles ındı da charles ın eline geçerse papalık devleti kıskacın arasında kalacaktı tehlikenin ilk işareti eylül da roma nın içinden geldi papa nın eski düşmanı güçlü colonna ailesinin adamları imparator yanlısı baskınla kente girdi ve vatikan ın kısmını yağmaladı clemens o gün tiber kıyısındaki büyük yuvarlak kaleye castel sant angelo ya yani melek kalesi ne sığındı baskın günde bitti ama şeyi açıkça gösterdi roma nın savunması zayıftı ve papa nın kendi kentinde bile güvencesi yoktu bu arada kuzeyde yeni güç toplanıyordu georg von frundsberg adında yaşlı alman komutan alman paralı piyadelerinden yaklaşık kişilik kuvvet kurmuştu frundsberg bu adamları toplamak için kendi mülklerini rehine koymuş karısının mücevherlerine kadar her şeyi ortaya sürmüştü askerlerinin büyük bölümü yeni yayılan luther öğretilerine sempati duyuyordu papa onların gözünde yalnızca siyasi düşman değil düzeltilmesi gereken kurumun başıydı frundsberg in papa yı yakalarsa asmak için yanında ip taşıdığı rivayeti dolaşırdı bu hikayenin gerçek olup olmadığı tartışmalıdır ama askerlerin ruh halini çok iyi anlatır frundsberg in kuvveti kuzey i talya daki imparatorluk ordusuyla birleşti bu ordunun başında tuhaf figür vardı bourbon dükü charles fransa nın
+      duyulan: discipline nive
+  REPLACE  ...charles fransa nın en
+      metin  : yüksek askeri rütbesi olan başkomutanlığı yani konnetablliği taşımış sonra kral françois yla ciddi miras ve kavgasına girmiş sonunda imparatorun safına geçmişti kendi ülkesinin gözünde haindi imparatorun sarayında ize tam güvenilmeyen yabancı elinde ize maaşı aylardır ödenmemiş aç yorgun ve öfkeli aşkın ordu vardı kışı boyunca bu ordu po ovasında ilerledi kentleri haraca bağladı köyleri soydu ama yağma bile maaşın yerini tutmuyordu mart ayında bologna yakınlarında askerler açıkça isyan etti alman piyadeleri komutanlarının çadırlarını kuşattı ve borcunun ödenmesini istedi frundsberg sakinleştirmek için önlerine çıktı ömrü boyunca birlikte savaştığı adamlara seslendi ama askerler mızraklarını doğrulttu yaşlı komutan o an felç geçirdi ve yeer yığıldı daha sahaya dönemedi ordu artık arada tutan son otoriteyi de kaybetmişti tam bu sırada papa çıkış yolu bulduğunu düşündü napoli valisi charles de lannoy aracılığıyla imparatorla ateşkes imzaladı ve orduya ödenmek üzeer duka verdi ancak bu para aylardır alacağını bekleyen binlerce askerin borcunun yanında küçük kalıyordu askerler ateşkesi tanımadı bourbon un elinde seçenek kalmıştı ya ordusu da frundsberg gibi devirecek ya da yağmalanacak hedefe götürecekti floransa sağlam surlarla ve birlikleriyle korunuyordu roma ize zengin savunmasız ve uzaktı nisan ayında ordu güneye döndü ve apenin dağlarını geçerek hızla
+      duyulan: kurkulan pia deler arasandasayil yordu papanam kuryujulaer daak yoylerindangelan seuzdheshmei le
+  REPLACE  ...geçerek hızla roma ya
+      metin  : yürüdü yanlarında ağır top yoktu arkalarında ikmal hattı yoktu bu dönüşü olmayan yürüyüştü ordu mayıs akşamı roma surlarının önüne vardı askerler kentin batısındaki tepelerden
+      duyulan: balan musamazaman labugyarebhi sele sine donushtur mushadam larde sixt mal ispefti sevin diast sabahu moafiz inde yunsek sandokuz askar varde komutan laer kaspar roisti zuri leidi
+  REPLACE  ...kentin batısındaki tepelerden ve
+      metin  : bağlardan aşağı süzülerek surların karşısında mevzilendi kuşatma yapacak zamanları da araçları da yoktu topları geride kalmıştı yiyecekleri günlüktü arkalarından kutsal birliğin ordusunun yetişme ihtimali vardı tek şansları hemen saldırmaktı kentin içinde savunmayı renzo da ceri adında deneyimli paralı asker komutanı örgütlemeye çalışıyordu elinde asker aceleyle silahlandırılmış kentliler ve papa nın muhafız birlikleri vardı roma nın surları uzun ve eskiydi kısmı antik çağdan kalmaydı bazı kesimleri bakımsızdı savunmacılar en çok tiber in batı yakasındaki borgo semtini yani
+      duyulan: baba sadabu lien komutan nun yap mushtu sur laer na shildu haber galdin de isfi chreli larvatikanan unun de
+  REPLACE  ...semtini yani aziz petrus
+      metin  : bazilikası ile vatikan ın bulunduğu mahalleyi kollamak zorundaydı saldırganların ilk darbeyi oraya vuracağı açıktı mayıs sabahı gün ağarırken tiber vadisinden yoğun sis yükseldi
+      duyulan: basilika sanan chevresinde meivzi aldu basilika osarada insha atalindedi eski binyiluk kilisekas man yikil mus yirne yuksilejek yeni apunan devasa ayaklar di kilmeyabashlan mushtu meydan da iske le lar tashpulok laer ve yarum kalmus tuvar lar varde isfi chreli lar
+  REPLACE  ...yoğun sis yükseldi bu
+      metin  : sis tarafın
+      duyulan: yarum kalmus basilikanan basamak larenda ve chevresinde ke daralanda savashtu karshela randa binyirja askar varde lien saad laer jedayan mus hata abir suer bile dirain mesa aklayat kundeilte ema isfi chreli lar geri chekil medi adam adam basamak basamak savashtular her geri adam
+  REPLACE  ...bu sis tarafın da
+      metin  : kaderini değiştirdi melek kalesi nin
+      duyulan: kachki shida hadushtu komutan kaspar roistar yaralanda aktarlan anna tiyagura yaralahal de mohafus kushlasandaki evine tashunde ama saldar ganar orayadagirde
+  REPLACE  ...melek kalesi nin ve
+      metin  : surların üstündeki toplar adım ötesini göremiyordu topçular hedefe değil boşluğa ateş ediyordu saldırganlar
+      duyulan: karisanan geuzderonan da uldurdu karsu elisabet klingliran kojasanan jese dinikorumeya chalushurkan elindan yaralanda da bu annatanan parchasidur gunun sonunda yunuz ektrandokus isfi chreli mohafus dan yuzkur kediso urmushtu baseler aziz petrusan basamak laranda baseler vatikanan avlu laranda baseler da basilikanan ichinde yuzksek mihraban yakananda son nefesini werde hayata kalan kishi
+  REPLACE  ...ateş ediyordu saldırganlar ize
+      metin  : sisin örtüsünü kullanarak merdivenleri surlara dayadılar saldırı borgo nun santo spirito hastanesine yakın kesiminde
+      duyulan: bambashka bigurevustan mishte savashan ortasan da papanan yanana koshmush
+  REPLACE  ...hastanesine yakın kesiminde ve
+      metin  : janiculum tepesinin eteklerinde yoğunlaştı i lk dalgalar geri püskürtüldü surların üstünden mızrak taş ve kurşun yağıyordu merdivenler devriliyor adamlar hendekleer düşüyordu bourbon dükü adamlarının duraksadığını görünce kendisi öne çıktı rivayete göer sisin içinde fark edilsin diye beyaz pelerin giymişti merdivene tırmanmaya başladı ya
+      duyulan: guvanni biyeer ullashtirma kichin yolachik mishte basamak klar
+  REPLACE  ...tırmanmaya başladı ya da
+      metin  : tırmanan adamlarını yönlendiriyordu o sırada surlardan atılan arkebüz kurşunu vurdu bourbon yeer düştü ve çok geçmeden öldü yaşındaydı
+      duyulan: olanerin direnishi ishta
+  REPLACE  ...geçmeden öldü yaşındaydı bu
+      metin  : ölümün kimin elinden olduğu bugün bile kesin değildir floransalı kuyumcu ve heykeltıraş benvenuto cellini yıllar sonra yazdığı anılarında
+      duyulan: kachishin zamanan satanalda duzine adaman sabahichinde kazandu balki atlixuer papalaktari hinin seirinide ishtirde buftad karulak hich zaman unu tulmadu bugun vatikandaki isfi chreli mohafuslar har yal ultima ista yemi nadar yeni asgirler papayigeer kirsejanlar pahasana koriya jaklarna dairanda tamogunun yildunumunde icharler sabaha kimlinan merkizinayar leshmishtir onlaren gizun de ogun biryenil gideel gurevin nyan namagadeen in tanamudir eima
+  REPLACE  ...yazdığı anılarında o sabah
+      metin  : surlarda olduğunu
+      duyulan: yanas jaskarler ullmede saldar ganlar borgoyadolarkan sokaklar da siradan insan nar varde zanat karlar rahiplar hajalar kachmaya chalushanka den narve chojuklar kili seleray sunanar kili selerde evler nekapananar evlerindeyakalanda khayitlar santo spiritoda kehastalaran
+  REPLACE  ...sabah surlarda olduğunu ve
+      metin  : bourbon u vuran kurşunun kendi tüfeğinden çıktığını iddia eder cellini kendini öne çıkarmayı abartıya yatkın anlatıcıydı tarihçilerin çoğu bu iddiaya kuşkuyla yaklaşır kesin olan o sabah surlarda yüzlerce tüfeğin ateş ettiği ve bourbon un bunlardan hedef olduğudur komutanın ölümü orduyu dağıtabilirdi ama bu ordu için durum tersine işledi bourbon un ölümü askerleri yıldırmadı öfkelendirdi artık dizginleyebilecek en azından anlaşma yapabilecek tek adam
+      duyulan: kimseh sis chojuklaran uldur ulldunanatir ardun den neolajana kimseh henus bilmyarda aksham uldun
+  REPLACE  ...yapabilecek tek adam da
+      metin  : gitmişti komutayı orange prensi philibert de chalon devraldı ama gerçek komuta artık hiçbir subayın değil öfkenin ve açlığın elindeydi askerler sisin içinde yeniden surlara yüklendi noktada surların evin duvarıyla birleştiği zayıf yerde gedik bulundu i spanyol piyadeleri oradan içeri sızdı ardından alman piyadeleri başka kesimden surları aştı savunma anda çöktü kentlilerden oluşan birlikler surun aşıldığını duyunca dağıldı bazıları geri çekilip yeniden toplanmaya çalıştı çoğu ize evlerine ailelerinin yanına koştu saldırganlar borgo nun dar sokaklarına doldu önlerinde vatikan aziz petrus bazilikası ve kaçmaya çalışan kalabalık vardı santo spirito hastanesindeki hastaların ve yetimhanedeki çocukların bile kılıçtan geçirildiği o günü anlatan kayıtların en karanlık satırları arasındadır o sabahki çatışma artık savaş değildi katliama dönüşmek üzereydi ve bu katliamın önünde sayıca son derece az ama geri çekilmeyi reddeden duruyordu papa nın muhafızları i sviçreli askerlerdi bu da papa i kinci julius tarafından kurulmuştu i sviçreli paralı askerler o çağda avrupa nın en disiplinli ve en korkulan piyadeleri arasında sayılıyordu papa nın koruyucuları dağ köylerinden gelen sözleşmeyle roma ya bağlanmış ama zamanla bu görevi meselesine dönüştürmüş adamlardı mayıs sabahı muhafız birliğinde asker vardı komutanları kaspar röist ti zürihliydi ve babası da bu birliğin komutanlığını yapmıştı surların aşıldığı haber geldiğinde i sviçreliler vatikan ın önünde aziz petrus bazilikası nın çevresinde mevzi aldı bazilika o sırada inşaat halindeydi eski yıllık kilize kısmen yıkılmış yerine yükselecek yeni yapının devasa ayakları dikilmeye başlanmıştı meydanda iskeleler taş blokları ve yarım kalmış duvarlar vardı i sviçreliler bu yarım kalmış bazilikanın basamaklarında ve çevresindeki dar alanda savaştı karşılarında binlerce asker vardı birliğin saatlerce dayanması hatta süer bile direnmesi akla yatkın değildi ama i sviçreliler geri çekilmedi adım adım basamak basamak savaştılar her geri adımda kişi daha düştü komutan kaspar röist ağır yaralandı aktarılan anlatıya göer yaralı halde muhafız kışlasındaki evine taşındı ama saldırganlar oraya da girdi ve karısının gözleri önünde öldürdü karısı elisabeth klingler in kocasının cesedini korumaya çalışırken elinden yaralandığı da bu anlatının parçasıdır günün sonunda i sviçreli muhafızdan si ölmüştü bazıları aziz petrus un basamaklarında bazıları vatikan ın avlularında bazıları da bazilikanın içinde yüksek mihrabın yakınında son nefesini verdi hayatta kalan kişi ize bambaşka görev üstlenmişti savaşın ortasında papa nın yanına koşmuş ve güvenli yeer ulaştırmak için yola çıkmıştı basamaklarda ölenlerin direnişi işte bu kaçışın zamanını satın aldı düzine adamın sabah içinde kazandığı belki saatlik süer papalık tarihinin seyrini değiştirdi bu fedakarlık hiçbir zaman unutulmadı bugün vatikan daki i sviçreli muhafızlar her yıl mayıs ta yemin eder yeni askerler papa yı gerekirse canları pahasına koruyacaklarına dair andı tam o günün yıl dönümünde içerler sabahı birliğin kimliğinin merkezine yerleşmiştir onların gözünde o gün yenilgi değil görevin ne anlama geldiğinin tanımıdır ama o sabah yalnızca askerler ölmedi saldırganlar borgo ya dolarken sokaklarda sıradan insanlar vardı zanaatkarlar rahipler hacılar kaçmaya çalışan kadınlar ve çocuklar kiliseleer sığınanlar kiliselerde evlerine kapananlar evlerinde yakalandı kayıtlar santo spirito daki hastaların ve kimsesiz çocukların öldürüldüğünü anlatır ardından ne olacağını kimse henüz bilmiyordu akşam olduğunda tiber in batı yakası düşmüştü
+      duyulan: tiberin bata yakasadushmishtir
+  REPLACE  ...düşmüştü ve kentin geri
+      metin  : kalanı
+      duyulan: kalana
+  REPLACE  ...geri kalanı da nehrin
+      metin  : karşı kıyısından
+      duyulan: karsakku yisundan
+  REPLACE  ...nehrin karşı kıyısından bu
+      metin  : yangını izliyordu saldırı başladığında papa
+      duyulan: yangana isliardu saldar rabashladun da papayidinji
+  REPLACE  ...başladığında papa clemens vatikan
+      metin  : sarayındaki küçük kilisesinde dua ediyordu surların aşıldığı
+      duyulan: sarayinda ki kuchukkili seh sinde duayadiyardu surlar na shildu
+  REPLACE  ...ediyordu surların aşıldığı ve
+      metin  : düşmanın sarayın kapılarına dayandığı
+      duyulan: dushmanan sarayin kapalarna da yandu
+  REPLACE  ...sarayın kapılarına dayandığı haberi
+      metin  : geldiğinde kaçmak için yalnızca dakikası vardı vatikan ı
+      duyulan: galdin de kachma ki chen yalnuz jabir kachta ki kasivardu vatikanan
+  REPLACE  ...vardı vatikan ı melek
+      metin  : kalesi ne bağlayan
+      duyulan: kalesine baalayan
+  REPLACE  ...kalesi ne bağlayan yol
+      metin  : vardı passetto
+      duyulan: vardu paseto
+  REPLACE  ...yol vardı passetto di
+      metin  : borgo
+      duyulan: borgu
+  REPLACE  ...passetto di borgo yani
+      metin  : küçük geçit küçük geçit borgo
+      duyulan: kuchuk gichit kuchuk gichit borgu
+  REPLACE  ...küçük geçit borgo semtinin
+      metin  : içinden geçen yaklaşık meter uzunluğunda yükseltilmiş
+      duyulan: ichin dan gichan yaklashek sekis usmeter uzundun da yuksaltilmishpir
+  REPLACE  ...meter uzunluğunda yükseltilmiş surdu
+      metin  : üstünde açık yürüyüş yolu içinde ize kapalı
+      duyulan: ustunde achik yuru yushuolu ichin de isse kapalibir
+  REPLACE  ...içinde ize kapalı koridor
+      metin  : bulunuyordu yüzyılda yapılmış sonraki
+      duyulan: bulunyardu an uchunju yuzyildayapelmish sonra ki
+  REPLACE  ...yüzyılda yapılmış sonraki papalar
+      metin  : tarafından güçlendirilmişti
+      duyulan: tarafandang uchlandir ilmishte
+  REPLACE  ...güçlendirilmişti tam da böyle
+      metin  : gün için kuşatma altındaki papanın sarayından kaleye ulaşabilmesi için düşünülmüştü sabahı bu öngörü işe yaradı
+      duyulan: günichin kuchatmaltun da kibir papanan sarayin dan kalayulashabilmesi chen dushunulmishte flevteen sabahubu ungeru ishayarudu
+  REPLACE  ...öngörü işe yaradı clemens
+      metin  : yanında kardinal
+      duyulan: yananda kachkardinal
+  REPLACE  ...clemens yanında kardinal ve
+      metin  : hayatta kalan i sviçreli muhafızlarla küçük geçide koştu papa nın beyaz cübbesi
+      duyulan: hayatda kalani svetreli moafazdar lakuchuk gichit de koshtu papanan beyazjub besu
+  REPLACE  ...nın beyaz cübbesi uzaktan
+      metin  : seçilebilirdi geçidin üst kısmında yürürken aşağıdaki
+      duyulan: seci lebilirde gichit din ustkismun da yururkan ashada ki
+  ... ve 126 fark daha
+
+metinde olup DUYULMAYAN: 2686 kelime | duyulup metinde OLMAYAN: 2506
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: history-2026-11-15.duyulan.txt

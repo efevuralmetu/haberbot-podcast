@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-15.mp3
+
+beklenen 1872 kelime | duyulan 1878 kelime | eşleşme %97.4
+sayı ifadesi: metinde 176, duyulanda 152  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ev
+      metin  : kedin
+      duyulan: kedinin
+  REPLACE  ...alçak kesintisiz neredeyze motorun
+      metin  : rölantisi
+      duyulan: rölentisi
+  REPLACE  ...titreşim arasında yani ile
+      metin  : hertz
+      duyulan: hz
+  REPLACE  ...konuşma sesi kabaca ile
+      metin  : hertz
+      duyulan: hz
+  REPLACE  ...duyabildiği en pes seslerin
+      metin  : hertz
+      duyulan: hz
+  REPLACE  ...o kadar pes olur
+      metin  : kontrbasın
+      duyulan: kontrabas ın
+  REPLACE  ...garip özellikleri de var
+      metin  : kedi miyavlarken
+      duyulan: kedim yavlarken
+  INSERT   ...çok özel mekanizmaya dayanıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dayanıyordu amerikalı fizyologlar john
+      metin  : remmers
+      duyulan: remers
+  REPLACE  ...fizyologlar john remmers ve
+      metin  : anri gotiye
+      duyulan: henri gauthier
+  REPLACE  ...kısmı yanlıştı bu deneyi
+      metin  : viyana üniversitesi nden
+      duyulan: vienna üniversitesinden
+  REPLACE  ...üniversitesi nden ses bilimci
+      metin  : kristiyan
+      duyulan: christian
+  REPLACE  ...nefes borusunun yerini tutan
+      metin  : düzeneğe
+      duyulan: düzeneye
+  INSERT   ...vardı ve gırtlaklar titredi
+      metin  : (yok)
+      duyulan: inin i
+  REPLACE  ...rastgele frekansta değil ile
+      metin  : hertz
+      duyulan: hz
+  REPLACE  ...bayrak ya da dudaklarınızı
+      metin  : büzüp
+      duyulan: düzüp
+  REPLACE  ...buldular bunlar yer yer
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...kedinin gırtlak ölçeğinde düşünüldüğünde
+      metin  : milimeter
+      duyulan: mm
+  REPLACE  ...da i ngilizce adıyla
+      metin  : vocal
+      duyulan: vogel
+  REPLACE  ...kısa anlar için açılır
+      metin  : herbst
+      duyulan: herbist
+  INSERT   ...taşıdığı düşünülüyor bu sonuç
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...çöpe atmıyor remmers ve
+      metin  : gotiye in
+      duyulan: gotthein
+  REPLACE  ...gerçeğin yalnızca yarısını anlatıyor
+      metin  : herbst ün
+      duyulan: her bistün
+  INSERT   ...çekici olduğunu da açıklıyor
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...olduğunu da açıklıyor yılında
+      metin  : biyoakustik
+      duyulan: bioakustik
+  REPLACE  ...açıklıyor yılında biyoakustik araştırmacısı
+      metin  : elizabet fon mugentaler
+      duyulan: elizabeth von mugenthaler
+  REPLACE  ...bulduğu değerler kabaca ile
+      metin  : hertz
+      duyulan: hz
+  REPLACE  ...ile hertz arasında yoğunlaşıyordu
+      metin  : fon mugentaler
+      duyulan: von mugenthaler
+  INSERT   ...biz insanlar üzerindeki etkisinden
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...sussex üniversitesi nden karen
+      metin  : mccomb
+      duyulan: mccombs
+  REPLACE  ...ne olduğunu artık biliyorsunuz
+      metin  : beynin
+      duyulan: beyinin
+  REPLACE  ...küçük yastıklı müzik aleti
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 7
+
+duyulan metin: bilim-2026-11-15.duyulan.txt

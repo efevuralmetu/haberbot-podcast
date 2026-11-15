@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-15.mp3
+
+beklenen 1895 kelime | duyulan 1848 kelime | eşleşme %9.8
+sayı ifadesi: metinde 150, duyulanda 102  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...larynx began to purr
+      metin  : kucağınızda kedi olduğunu düşünün gözleri yarı kapalı patileri göğsünüzde ritmik biçimde açılıp kapanıyor sonra o ses başlıyor alçak kesintisiz neredeyze motorun rölantisi gibi sesi kulağınızdan önce elinizle duyarsınız kedinin göğsüne dokunan avucunuz titreşir kaburgaların arasında küçük makine çalışıyor gibidir bu tanıdık sahnenin içinde biyologları yarım yüzyıldan uzun süer uğraştırmış bilmece var mırlama şaşırtıcı ölçüde pes sestir ev kedisinin mırlamasının temel frekansı genellikle saniyede ile titreşim arasında yani ile hertz civarındadır bunu şeyle kıyaslayalım yetişkin erkeğin konuşma sesi kabaca ile hertz arasında gezinir i nsan kulağının duyabildiği en pes seslerin hertz dolayında olduğunu da hesaba katarsak kedinin mırlaması duyma eşiğimizin hemen üstünde sesle titreşimin sınırında yerde durur asıl tuhaflık bu sesin hangi gövdeden çıktığı ses fiziğinin genel kuralı basittir titreşen yapı ne kadar büyük ve uzunsa ürettiği ses o kadar pes olur kontrbasın telleri kemanınkilerden uzundur filin sesi farenin sesinden kalındır kedinin gırtlağı ize santimetrelik küçük yapıdır ses telleri ya da bilim insanlarının tercih ettiği adıyla ses kıvrımları insanınkinin yanında minicik kalır böyle küçük yapı nasıl oluyor da erkek insan sesinden kat daha pes titreşim üretebiliyor üstelik mırlamanın başka garip özellikleri
+      duyulan: how does a cat make a sound a cat can make a sound as low as an elephant s with its vocal cords for hours without tiring a cat can make a sound as low as an elephant s with its vocal cords and no longer connected to any brain and no longer connected to any brain how does a cat make a sound a cat can make a sound as low as an elephant s with its vocal cords for hours without tiring a cat can make a sound as low as an elephant s with its vocal cords for hours without tiring a cat can make a sound as low as an elephant s with its vocal cords for hours without tiring kedim yavlarken yadataslarken nefesinidusharveru tupkabizim konushurkan yaktamuzgibi merlama isse hem nefesverurkan hem denefesalurkan surar solu namun
+  REPLACE  ...başka garip özellikleri de
+      metin  : var kedi miyavlarken ya da tıslarken nefesini dışarı verir tıpkı bizim konuşurken yaptığımız gibi mırlama ize hem nefes verirken hem
+      duyulan: denar dese areluksus devamadar kulaktik katledin narse nefesun deishtirurkan tanadahafifberdeishiklikfarke debiler amamotor durmaz dyanakliluk mesele sevar kedibutti trishimidaki kalarja baazan yerumsat boyunja beylirgin birchabaharja madan surdurebilir buaz aliklerin hepsi murlamanan suradan stanfartlir mechanismaile uretildinidushun durdu veusin yalar boyunja bilimdunyasundahakim olanachiklama garchik tan detrok azal mechanismaia dayan yordu
+  REPLACE  ...nefes verirken hem de
+      metin  : nefes alırken sürer ses solunumun yönünde de neredeyze aralıksız devam eder kulak dikkatle dinlerse nefes yön değiştirirken tınıda hafif değişiklik fark edebilir ama motor durmaz de dayanıklılık meselesi var kedi bu titreşimi dakikalarca bazen yarım saat boyunca belirgin çaba harcamadan sürdürebilir bu özelliklerin hepsi mırlamanın sıradan sesten farklı mekanizmayla üretildiğini düşündürdü ve uzun yıllar boyunca bilim dünyasında hakim olan açıklama gerçekten de çok özel mekanizmaya dayanıyordu de amerikalı fizyologlar
+      duyulan: amerikalophysiologlar
+  REPLACE  ...fizyologlar john remmers ve
+      metin  : henri
+      duyulan: henry
+  REPLACE  ...remmers ve henri gautier
+      metin  : mırlayan kedilerde gırtlak kaslarının ve diyaframın elektriksel etkinliğini kaydettiler gördükleri şey çarpıcıydı gırtlaktaki
+      duyulan: murljan kedilar de gertlak
+  REPLACE  ...şey çarpıcıydı gırtlaktaki kaslar
+      metin  : mırlamanın ritmiyle eş zamanlı olarak saniyede yaklaşık kez kasılıp gevşiyordu her kasılmada ses yarığı
+      duyulan: nan vediyaframan elektrik seletkininikaidetilar gurduk lirishei char pajida gertlaktikki kaslar murlamanan ritmila ehsamanu oleraksaniye da yaklashik yirmibeshkeis kasalup gevshyordu herkasul madases yeru
+  REPLACE  ...kasılmada ses yarığı yani
+      metin  : ses kıvrımının arasındaki boşluk kısa an kapanıyor
+      duyulan: ikiseskavramanan arasundaki boshluk kasabiran kapanur
+  REPLACE  ...kısa an kapanıyor sonra
+      metin  : yeniden açılıyordu
+      duyulan: yeni dena chilyordu
+  REPLACE  ...yeniden açılıyordu hava bu
+      metin  : kapanıp açılmalar sırasında kesilip salınıyor ve o tanıdık titreşim ortaya çıkıyordu buradan doğal görünen sonuç çıkarıldı saniyede kez
+      duyulan: kapanup achil malarsar asandak yisilip salun yorve otanadik titresim ortayechi kyordu berdun dawal gurunan sonruchikarildu saniye detwadeshpe kes
+  REPLACE  ...kez tekrarlanan bu kas
+      metin  : hareketini şeyin yönetmesi gerekiyordu kasları
+      duyulan: hariketinibir shein yonet mesi geri kyordu kaslar herdungu da ateshlian sinir sinjali beinin derin nirinde metronom gibitukur dayan sinir saal salunum urete jo almalidu bugurushe aktiv kas kasalmasumodelidandu vedarskitaplar na girdu merlama bumodelaguer beinin dorudan ve sureklionet dibidavranishte herbertitresim beindangelen airibir komutun urunudu kulaman tekligeliyordu ama sorunwarde bufikirhicbir zaman dorudan sonanmamishte kasetkin nii kaididilmishte evet amo kasetkin ninin titresimin sebebime yok sa yalnazja islikchisi me oldu bilin myordu kaslerun ritmikchalushmasun titresimin nedeni sai mak aklayatkan amakanutlan mamushpiradumde bukanutlan mamushadumusan amakichin aklagele bilijek endorudan denai girtla beindan tamamena yirmak ve neolajanabakmakte ayr merlama garchik tan beinin herdungu degun derdi komutlaramuktatsa sinir balan te saal meyan girtlak merlamafrekansundatitreya mazde ayr titreebiliursa darskitaplaran daki achiklamanan enazundan kasmeyanushte bu denai yvianna universeiten dan pilimji kristian herbstve ekibi garchik leishtirde sonuchlar yolanda yayimlande herbstbuter ishlerin yabanja sudilde yullar unje unmushbirfildan alanang girtlakla benzar denai yapmush ve filin insan kulanan duyami jakadar pess infrasonik sesteer nedesaradan physik saalmekanizmaile uretabildinigosdarmishte shimdi ai nasoruyu choktaha kuchuk bihaivana soriyordu denai de kulanulan girtlaklar aar hastalaklar ne deniile ve terinar hikimnar tarafandan utanazu ygulanan disindan sahiplerinin onayila alanmushte bu nubelurkme kyunemle chunku denai hichbir saalaklahaivana zarar vermedan yapilde labaratu varda
+  REPLACE  ...yönetmesi gerekiyordu kasları her
+      metin  : döngüde ateşleyen
+      duyulan: girtlak nefes borusunun yerinitutan duzeneya balanda altan aksir lardangelan nefesitaklitan ulukve nemlandir ilmishhava uflande girtlai yunetan bein yoktu kasleragidan
+  REPLACE  ...her döngüde ateşleyen sinir
+      metin  : sinyali beynin derinlerinde metronom gibi tıkırdayan sinirsel salınım üreteci olmalıydı
+      duyulan: sinjali yoktu kaslar zatan artak kaslamyordu ortada yalnaz jadoku ve ichindangye chenhava varda ve girtlaklar ti trede ustilik raskele frekanstadeel yirmibeshle otus hertsarasanda yani janlibir kidinin murlamasila ainaalakta arashtir majelar seskiv rimlarinan hareketin yuksekhuzlika merailekaidet tilar ve sesi microfon nauj tilar titraishim kendikendin surduranturdende havaaktu surajye dokku kandili indana chalup kapan maya deva medyordu kimseh herdungu de shimde kapan dememishte bunun nedan bukadaran emnya oldu na annamakichin bisim nasal konushtu muzabakmakge rekyor sez shuan jumle soyle dinizde bein inis ses kuvrumlarin nazasaaniye de yuzia de yukskeis airayir komut geondar mes bein yalnuzja aaya riya par kuvrumlarir naya klashtirir gyargin niklir nibelir lair akh jeyar lardan hawa geondirir geraseni fizik haladir altan gelan hawa basan jakapala kuvrumlar i tarve aralar hava huzla dushera karkyan kuvrumlararasandaki basan shtushar dokunun esnek liye webu basan shtusho yeni dan nechakar kapanan ja basan shyeni dan kuvrumlar yeni dan achilir dungu kandi kandini beslair ruzgar da chirpanan bairak yadadudaklir nazabuzup uflediinizde cakanti trishimgebi biliim insan larbuna kasesnek liye lehava akishanan likte chalishtana wurgulayan uzunja adla mioelastic aerodynamic mechanisma darlash insan konushmasanan kopek hawlamasanan kidinin kandimi hawlamasanan ve memelilerin cakar dusestirin buyuk chonunun temelinde buvardar herbstun deneyi murlamanan da enazan dan prensipte eine mechanismaile uretile bilijeinigos teriorda sez teleri beyansiz bichimde yalnazja hawaila chalishabiliorda eymabu ilk bilmejei dahada keskinneisht riorda main mechanisma suradan kuchuk sez kuvramler bukadar pesbir sezi nasal uretiorda sevap kuvramleran ichinde sakhlide arashtir magelar gertlakleri mi kroskopaltan da injeledi klerinde sez kuvramleran an ichine gumulu alishilmadik baadokusu kutleleer buldulash banlar yar yar kullan lauulashan yastik benzeriya pelarda kedining gertlakaucheinde dushunul dünde dirt millimeter kuchuk birayran tadeildir
+  REPLACE  ...salınım üreteci olmalıydı bu
+      metin  : görüşe aktif kas kasılması modeli dendi
+      duyulan: yastik lar seskuvramlerana ikbir kutlekazandu riorda burabir gitar teleni dushunmekisha yarar eina uzunlukta
+  REPLACE  ...kasılması modeli dendi ve
+      metin  : ders kitaplarına girdi mırlama
+      duyulan: eine gerginikta dan kullan ve ar olanada ha pesse sverir gitar an en pes telli ar luna ar turma kichin metal sar gila kapplan mushtir kedining sez kuvramleran da keyastik lar da benzer ishkur yar gibigurun yar kuvramlera ar lashtir yar ve busa yade kuchuk yapunan bilay chok yawash yani chok pesti sinim kun kul yar yuzunluun yet medi yar de kutle dever yagir yar deneiden puchu da hachekta girtlak laren ureti teshim in san naarda girtlak chiturtasu yada ingiliz jade ila vocal fry deni lancestur ne benzer yorda bubir jumnenin sonun da se sinizi ija alchal tenezda ortaya chikan jizur teli te kurtelu pestunadir kuvramlar
+  REPLACE  ...kitaplarına girdi mırlama bu
+      metin  : modele göer beynin doğrudan ve sürekli yönettiği davranıştı her titreşim beyinden gelen ayrı komutun ürünüydü kulağa mantıklı geliyordu ama sorun vardı bu fikir hiçbir zaman doğrudan sınanmamıştı kas etkinliği kaydedilmişti evet ama o kas etkinliğinin titreşimin sebebi mi yoksa yalnızca eşlikçisi mi olduğu bilinmiyordu kasların ritmik çalışmasını titreşimin nedeni saymak akla yatkın ama kanıtlanmamış adımdı bu kanıtlanmamış adımı sınamak için akla gelebilecek en doğrudan deney gırtlağı beyinden tamamen ayırmak ve ne olacağına bakmaktı eğer mırlama gerçekten beynin her döngüde gönderdiği komutlara muhtaçsa sinir bağlantısı olmayan gırtlak mırlama frekansında titreyemezdi eğer titreyebiliyorsa ders kitaplarındaki açıklamanın en azından kısmı yanlıştı bu deneyi viyana üniversitesi nden ses bilimci christian
+      duyulan: kipte duzansi zama uzun sur ekapalu kalar ka sa anarichina chalar
+  REPLACE  ...christian herbst ve ekibi
+      metin  : gerçekleştirdi sonuçlar yılında yayımlandı herbst bu tür işlerin yabancısı değildi yıllar önce ölmüş filden alınan gırtlakla benzer deney yapmış
+      duyulan: kedining merlamasanan butur teshim kepili akraba ola bilay jayni surdular yani kedining ozal muzikayleti ija teet medi hepimizin sahipoldu bi seskipini kende anatomisi le uchnoktaya tashida dusunulur bousonuch de kikayitler chapeat mir remers
+  REPLACE  ...benzer deney yapmış ve
+      metin  : filin insan kulağının duyamayacağı kadar pes infrasonik seslerini de sıradan fiziksel mekanizmayla üretebildiğini göstermişti şimdi aynı soruyu çok daha küçük hayvana soruyordu deneyde kullanılan gırtlaklar ağır hastalıklar nedeniyle veteriner hekimler tarafından ötanazi uygulanan ev kedisinden sahiplerinin onayıyla alınmıştı bunu belirtmek önemli çünkü deney hiçbir sağlıklı hayvana zarar vermeden yapıldı laboratuvarda her gırtlak nefes borusunun yerini tutan düzeneğe bağlandı alttan akciğerlerden gelen nefesi taklit eden ılık
+      duyulan: go ta en girdu ka seitkin ni garchekte soran oeitkin ni inan namida shim di soroshunadun ushmushtu rytmi kaskasil malar te yaratan motormu yoksa zat an kendili indan olu shabilan te ishtike dan duzane an yardam jumma bousorunun jewabu hinuz kesin olerak viril mishtiil
+  REPLACE  ...taklit eden ılık ve
+      metin  : nemlendirilmiş hava üflendi gırtlağı yöneten
+      duyulan: durushche soilemek gerekirse
+  REPLACE  ...üflendi gırtlağı yöneten beyin
+      metin  : yoktu kaslara giden sinir sinyali yoktu kaslar zaten artık kasılamıyordu ortada yalnızca doku
+      duyulan: siz chalushan ses teler efade si garche in yalnuz jabir yarasana anna tuyor herbstun denaei ses kuvrumlerunan murlama frikansan dati treshmekichen beinin dongu dongu komutuna ihti achtu imadunu gostarde ama kanli kedida murlama yibashlatan dur duran nesaman
+  REPLACE  ...ortada yalnızca doku ve
+      metin  : içinden geçen hava vardı ve gırtlaklar titredi de üstelik rastgele frekansta değil ile hertz arasında yani canlı kedinin mırlamasıyla aynı aralıkta araştırmacılar ses kıvrımlarının hareketini yüksek hızlı kamerayla kaydettiler ve sesi mikrofonla ölçtüler titreşim kendi kendini sürdüren türdendi hava aktığı sürece doku kendiliğinden açılıp kapanmaya devam ediyordu kimse her döngüde şimdi kapan dememişti bunun neden bu kadar önemli olduğunu anlamak için bizim nasıl konuştuğumuza bakmak gerekiyor siz şu an cümle söylediğinizde beyniniz ses kıvrımlarınıza saniyede ya da kez ayrı ayrı komut göndermez beyin yalnızca ayarı yapar kıvrımları birbirine yaklaştırır gerginliklerini belirler akciğerlerden hava gönderir gerisini fizik halleder alttan gelen hava basıncı kapalı kıvrımları iter ve aralar hava hızla dışarı akarken kıvrımlar arasındaki basınç düşer dokunun esnekliği ve bu basınç düşüşü yeniden birbirine çeker kapanınca basınç yeniden kıvrımlar yeniden açılır döngü kendi kendini besler rüzgarda çırpınan bayrak ya da dudaklarınızı büzüp üflediğinizde çıkan titreşim gibi bilim insanları buna kas esnekliği ile hava akışının birlikte çalıştığını vurgulayan uzunca adla miyoelastik aerodinamik mekanizma derler i nsan konuşmasının köpek havlamasının kedinin kendi miyavlamasının ve memelilerin çıkardığı seslerin büyük çoğunluğunun temelinde bu vardır herbst ün deneyi mırlamanın da en azından prensipte aynı mekanizmayla üretilebileceğini gösteriyordu ses telleri beyinsiz biçimde yalnızca havayla çalışabiliyordu ama bu ilk bilmeceyi daha da keskinleştiriyordu madem mekanizma sıradan küçük ses kıvrımları bu kadar pes sesi nasıl üretiyordu cevap kıvrımların içinde saklıydı araştırmacılar gırtlakları mikroskop incelediklerinde ses kıvrımlarının içine gömülü alışılmadık bağ dokusu kütleleri buldular bunlar yer yer milimeter kalınlığa ulaşan yastık benzeri yapılardı kedinin gırtlak ölçeğinde düşünüldüğünde milimeter küçük ayrıntı değildir bu yastıklar ses kıvrımlarına ek kütle kazandırıyordu burada gitar telini düşünmek işe yarar aynı uzunlukta ve aynı gerginlikte telden kalın ve ağır olanı daha pes ses verir gitarın en pes teli ağırlığını artırmak için metal sargıyla kaplanmıştır kedinin ses kıvrımlarındaki yastıklar da benzer iş görüyor gibi görünüyor kıvrımları ağırlaştırıyor ve bu sayede küçük yapının bile çok yavaş yani çok pes titreşmesini mümkün kılıyor uzunluğun yetmediği yerde kütle devreye giriyor deneyden ipucu daha çıktı gırtlakların ürettiği titreşim insanlarda gırtlak çıtırtısı ya da i ngilizce adıyla vocal fry denilen ses türüne benziyordu bu cümlenin sonunda sesinizi iyice alçalttığınızda ortaya çıkan cızırtılı tıkırtılı pes tınıdır kıvrımlar bu kipte düzensiz ama uzun süer kapalı kalır kısa anlar için açılır herbst ve ekibi kedinin mırlamasının bu tür titreşim kipiyle akraba olabileceğini öne sürdüler yani kedinin özel müzik aleti icat etmediği hepimizin sahip olduğu ses kipini kendi anatomisiyle uç noktaya taşıdığı düşünülüyor bu sonuç deki kayıtları çöpe atmıyor remmers ve gautier in gördüğü kas etkinliği gerçekti sorun o etkinliğin anlamıydı şimdi soru şuna dönüşmüştü ritmik kas kasılmaları titreşimi yaratan motor mu yoksa zaten kendiliğinden oluşabilen titreşime eşlik eden düzenleyen yardımcı mı bu sorunun cevabı henüz kesin olarak verilmiş değil ve dürüstçe söylemek gerekirse beyinsiz çalışan ses telleri ifadesi gerçeğin yalnızca yarısını anlatıyor herbst ün deneyi ses kıvrımlarının mırlama frekansında titreşmek için beynin döngü döngü komutuna ihtiyaç duymadığını gösterdi ama canlı kedide mırlamayı başlatan durduran ne zaman ve ne kadar süreceğine
+      duyulan: nekadar surajeina
+  REPLACE  ...ne kadar süreceğine karar
+      metin  : veren
+      duyulan: veran
+  REPLACE  ...karar veren yine beyindir
+      metin  : kedi mırlamayı istediği
+      duyulan: kedai malamae istedi
+  REPLACE  ...mırlamayı istediği an keser
+      metin  : kıvrımları birbirine yaklaştırmak doğru gerginliği ayarlamak
+      duyulan: kuvrumleru nayak lashtermak doru gargin ni arlamak
+  REPLACE  ...doğru gerginliği ayarlamak solunumu
+      metin  : buna göer yönetmek kaslarla
+      duyulan: bunagurayunet me kaslar la vesinir larlayapulur arashtur majularan kendisi debunaktada temki nidir labaratu vardaki girtlak kanli haivanan girtla ila aine diyildir kanli kedida kaslaran ritmi kasalmasi kendili indan olu shanti guchlan dur yor duzene sok yor yada nefes almasir asanda surme sinai yarda med yor ola bilish nefes verikin
+  REPLACE  ...göer yönetmek kaslarla ve
+      metin  : sinirlerle yapılır araştırmacıların kendisi de bu noktada temkinlidir laboratuvardaki gırtlak canlı hayvanın gırtlağıyla aynı değildir canlı kedide kasların ritmik kasılması kendiliğinden oluşan titreşimi güçlendiriyor düzene sokuyor ya
+      duyulan: alurken ke sinti siz deva medano uzas ses beyikitam
+  REPLACE  ...düzene sokuyor ya da
+      metin  : nefes alma sırasında sürmesine yardım ediyor olabilir nefes verirken ve alırken kesintisiz devam eden o özel ses belki tam da kasların
+      duyulan: kaslaran
+  REPLACE  ...da kasların ve dokunun
+      metin  : birlikte çalışmasından doğuyordur i ki
+      duyulan: likte chalushmasan dandou yor dush ikki
+  REPLACE  ...doğuyordur i ki modelin
+      metin  : birbirini dışlaması gerekmiyor bugünkü en dengeli
+      duyulan: nidushlamasu gerek mior bugun kyu endengili
+  REPLACE  ...bugünkü en dengeli tablo
+      metin  : şöyle özetlenebilir yastıklı ses kıvrımları mırlama frekansında titreşmeye anatomik olarak hazırdır
+      duyulan: shoile uzetlene bilir yastuk liseskuvrumlaru murlama frekansan da titreshme anatomi kolarakazur dar
+  REPLACE  ...hazırdır kaslar ve beyin
+      metin  : bu hazır yeteneği açar kapatır
+      duyulan: buhazur ye teneyachar kapatur
+  REPLACE  ...yeteneği açar kapatır ve
+      metin  : büyük olasılıkla inceltir hangisinin ne kadar pay sahibi olduğunu anlamak için canlı kedilerde hayvana zarar vermeyen görüntüleme
+      duyulan: bukola silaklaiin jaitur hengisinin nekadar paisahe bi oldun annamakichin janli ke dilarde haivanazarar var meangurun tuleme
+  REPLACE  ...zarar vermeyen görüntüleme ve
+      metin  : kayıt yöntemleriyle yapılacak ölçümleer ihtiyaç var mırlamanın üretimi böylece
+      duyulan: kayityun tamle rilayapulajak uchumleer ichti achwar murlamanun uretimi boile jebirazdaha annashilir haalageilir ken etraafundaki enpopular efsanehala ortalikta dolashur kedinin murlamasanun ileshtir di idasu internet te sikcha karsalashlan versioonu shoile dar kedilar murlayarak kendi kemiktirno kuriklerne
+  REPLACE  ...mırlamanın üretimi böylece daha
+      metin  : anlaşılır hale gelirken etrafındaki en popüler efsane hala ortalıkta dolaşıyor kedinin mırlamasının iyileştirdiği iddiası i nternette sıkça karşılaşılan versiyonu şöyledir kediler mırlayarak kendi kemiklerini kırıklarını daha çabuk iyileştirir hatta kucağınızda mırlayan kedi sizin kemiklerinizi de güçlendirir bu iddianın nereden geldiğini görmek neden bu kadar çekici olduğunu da açıklıyor yılında biyoakustik araştırmacısı
+      duyulan: chabuk ileshtirir hatda kujanizdam murlayan kedisizin kemiktirni zideguchlan dirir vidyanun nardangal di nagurmek nedam bukadar cikijo oldunu daichiklir yilanda bhi acustika rashtir majesu
+  REPLACE  ...biyoakustik araştırmacısı elizabeth von
+      metin  : muggenthaler ev kedilerinin yanı sıra çita serval
+      duyulan: mugantaler ef kedilirnin yanusarachitta sarwal
+  REPLACE  ...oselo ve puma gibi
+      metin  : kedigillerin mırlamalarını kaydetti
+      duyulan: kedigilirin murlamalirne kaidit di
+  REPLACE  ...kedigillerin mırlamalarını kaydetti ve
+      metin  : frekanslarını ölçtü bulduğu değerler kabaca ile hertz arasında yoğunlaşıyordu von muggenthaler bu aralığın tıpta
+      duyulan: frekanslerne urcht buldu de arlerkabaja yirmibeshle yuzaili hertsarasundayon nashyordu van magenthaler buaralun tipta
+  INSERT   ...bu aralığın tıpta kemik
+      metin  : (yok)
+      duyulan: vedoko ileshme sini destek leme kichin arashtirlan ti trishim te daavilirin de kullanalan frekanslerlair tushtunadikka cakte
+  REPLACE  ...aralığın tıpta kemik ve
+      metin  : doku iyileşmesini desteklemek için araştırılan titreşim tedavilerinde kullanılan frekanslarla örtüştüğüne dikkat çekti ve mırlamanın kedileer tür kendi kendini işlevi sağlıyor olabileceğini öne sürdü burada ayrı şeyi birbirinden ayırmak gerekiyor düşük şiddetli
+      duyulan: murlamanun ke dileer turkendikandinu ishle visal yorola bilijeinu inesurdu borada irishayi birendana yirmakge reqyor cisi dusuk shidetli
+  REPLACE  ...gerekiyor düşük şiddetli mekanik
+      metin  : titreşimin
+      duyulan: ti trishimin
+  REPLACE  ...mekanik titreşimin kemik dokusunu
+      metin  : uyarabileceği fikri
+      duyulan: uyarabili jeyi fiker
+  ... ve 57 fark daha
+
+metinde olup DUYULMAYAN: 1712 kelime | duyulup metinde OLMAYAN: 1665
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-15.duyulan.txt

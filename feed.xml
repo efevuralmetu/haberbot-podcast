@@ -15,7 +15,17 @@
 <itunes:category text="News"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sat, 14 Nov 2026 15:37:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:27:21 +0000</lastBuildDate>
+<item>
+<title>Sabah Haberleri — 15 Kasım 2026</title>
+<description>Donald Trump, Şi Cinping ve Vladimir Putin önümüzdeki hafta Çin'de ilk kez aynı masada buluşacak.</description>
+<itunes:subtitle>Donald Trump, Şi Cinping ve Vladimir Putin önümüzdeki hafta Çin'de ilk kez aynı masada buluşacak.</itunes:subtitle>
+<pubDate>Sun, 15 Nov 2026 08:27:04 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/haber/gundem-2026-11-15.mp3" length="7982252" type="audio/mpeg"/>
+<guid isPermaLink="false">gundem-2026-11-15</guid>
+<itunes:duration>11:09</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Akşam Haberleri — 14 Kasım 2026</title>
 <description>Trump, Xi ve Putin'in Shenzhen'de ilk kez üçlü buluşacağı doğrulandı. Zelensky, ABD'nin Donbas'tan çekilme karşılığında NATO üyeliği formülünü gündeme getirdiğini açıkladı. Hürmüz'deki tanker iddialarıyla Körfez'de gerilim sürerken ABD'de iletişim arızası tüm uçuşları saatlerce durdurdu ve Jensen Huang'ın istifası Nvidia hisselerini sarstı. Yurt içinde Merkez Bankası enflasyon tahminlerini yükseltti, YENİ Parti ilk kurultayında Özgür Özel'i yeniden seçti ve yedi tutuklu belediye başkanının partiye katıldığını açıkladı; A Milli Takım ise Belçika yenilgisinin ardından Fransa deplasmanına hazırlanıyor.</description>
@@ -1804,16 +1814,6 @@
 <enclosure url="https://cdn.noronmedia.com/haber/aksam-2026-08-17.mp3" length="28129580" type="audio/mpeg"/>
 <guid isPermaLink="false">aksam-2026-08-17</guid>
 <itunes:duration>39:08</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Sabah Haberleri — 17 Ağustos 2026</title>
-<description>Türkiye, Suudi Arabistan ve Pakistan'ın Mekke'de imzaladığı Ortak Savunma Anlaşması'na ABD Başkanı Donald Trump'tan açık destek geldi; Trump, üç ülkenin bölgesel savunma kapasitesini güçlendiren bu adımdan memnuniyet duyduğunu belirtti.</description>
-<itunes:subtitle>Türkiye, Suudi Arabistan ve Pakistan'ın Mekke'de imzaladığı Ortak Savunma Anlaşması'na ABD Başkanı Donald Trump'tan açık destek geldi; Trump, üç ülkenin bölgesel savunma kapasitesini güçlendiren bu adımdan memnuniyet duyduğunu belirtti.</itunes:subtitle>
-<pubDate>Mon, 17 Aug 2026 08:27:17 +0300</pubDate>
-<enclosure url="https://cdn.noronmedia.com/haber/gundem-2026-08-17.mp3" length="8464364" type="audio/mpeg"/>
-<guid isPermaLink="false">gundem-2026-08-17</guid>
-<itunes:duration>11:49</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>

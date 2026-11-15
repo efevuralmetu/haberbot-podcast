@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-15.mp3
+
+beklenen 1860 kelime | duyulan 1855 kelime | eşleşme %95.3
+sayı ifadesi: metinde 263, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...di oyunun adı da
+      metin  : wasteland
+      duyulan: vastaland
+  INSERT   ...kavruk topraklarda geçiyordu takvim
+      metin  : (yok)
+      duyulan: yi
+  INSERT   ...kendi yolunu seçti ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...kum tanesini sen yerleştirmiştin
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sessizliği bozan kişi tim
+      metin  : cain
+      duyulan: chaine
+  REPLACE  ...evrensel rol yapma sistemi
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...sanat yönetmeni leonard boyarsky
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...oyunun hikayesine göer insanlık
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...savaştan neredeyze asır sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...daha değiştirdi oyunun adını
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...kimliğe ihtiyacı vardı seçilen
+      metin  : ad
+      duyulan: at
+  REPLACE  ...nükleer patlamanın ardından gökten
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...tozu anlatan kelimeydi fallout
+      metin  : türkçesiyle
+      duyulan: türkçesi ile
+  REPLACE  ...olduğunu ilan ediyordu ekranda
+      metin  : ellilerden
+      duyulan: lerden
+  REPLACE  ...olduğu görülüyordu oyuncu ron
+      metin  : perlman
+      duyulan: perman
+  REPLACE  ...film karakteri boy gösteriyordu
+      metin  : vault
+      duyulan: walt
+  REPLACE  ...çelişki oyunun bütün mizahının
+      metin  : özetiydi
+      duyulan: özeti idi
+  REPLACE  ...oyunlarına adanmış yeni bölümüydü
+      metin  : feargus
+      duyulan: firgus
+  INSERT   ...oyundan yalnızca yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...isimler stüdyodan ayrıldı tim
+      metin  : cain
+      duyulan: jain
+  INSERT   ...ve tasarımcı jason anderson
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ayakları üzerinde zor duruyordu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...fazla ortak oldu ve
+      metin  : binlerin
+      duyulan: lerin
+  INSERT   ...belli olgunluğa ulaşmıştı ama
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ekip dağılmıştı çalışanların kısmı
+      metin  : feargus
+      duyulan: firgus
+  INSERT   ...şirket nakde ihtiyaç duyuyordu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hakkını lisansladı yıl sonra
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...yıl sonra markanın tamamını
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...anlaşmazlık da yaşandı taraflar
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yi bambaşka kalıba döktü
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...kalıba döktü çıkan serpinti
+      metin  : yukarıdan
+      duyulan: yukardan
+  INSERT   ...kapanış duygusu kattı bethesda
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yeni vegas ın geliştirilmesini
+      metin  : obsidian a
+      duyulan: obsidyana
+  REPLACE  ...nun dağılmasından doğan ekibe
+      metin  : mohavi çölü nde
+      duyulan: mojave çölünde
+  REPLACE  ...den ayrılan brian fargo
+      metin  : inxile
+      duyulan: de enixile
+  INSERT   ...arts tan almayı başardı
+      metin  : (yok)
+      duyulan: kiki de
+  INSERT   ...oyundan tam yıl sonra
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tam yıl sonra çıktı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...katmanı ize bugüne uzanıyor
+      metin  : (yok)
+      duyulan: de
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 30
+
+duyulan metin: oyun-2026-11-15.duyulan.txt

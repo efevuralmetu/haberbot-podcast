@@ -1,0 +1,64 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-15.mp3
+
+beklenen 1452 kelime | duyulan 1452 kelime | eşleşme %98.1
+sayı ifadesi: metinde 150, duyulanda 140  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  INSERT   ...tercihini değiştirdi saat gece
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...kendine söz verdiğin halde
+      metin  : dilim
+      duyulan: dilin
+  REPLACE  ...yola getirir diye düşünürüz
+      metin  : psikoloji
+      duyulan: pesikoloji
+  REPLACE  ...kimin ne kadar şeker
+      metin  : yediğiydi
+      duyulan: idi
+  REPLACE  ...yıllar çalışan kanadalı araştırmacılar
+      metin  : janet polivy
+      duyulan: canet polivi
+  REPLACE  ...peter herman bunun için
+      metin  : argo ad
+      duyulan: argobirat
+  INSERT   ...gerçek işlevi ortaya çıkıyor
+      metin  : (yok)
+      duyulan: öt
+  REPLACE  ...gece aynı mutfak aynı
+      metin  : dilim
+      duyulan: dilin
+  REPLACE  ...ayakta bırakılıyor amerikalı psikolog
+      metin  : kristin
+      duyulan: christine
+  REPLACE  ...gelmeden olduğu gibi görebilmek
+      metin  : duke taki
+      duyulan: duquettaki
+  REPLACE  ...sınayan dizi çalışma yılında
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kaliforniya üniversitesi nden juliana
+      metin  : breines
+      duyulan: brynes
+  REPLACE  ...kendine sor bunu çok
+      metin  : sevdiğim
+      duyulan: sevdiğin
+  REPLACE  ...de yıkmadan i kincisi
+      metin  : neff in
+      duyulan: nefin
+  INSERT   ...yorgunluğa karşı önlem alınabilir
+      metin  : (yok)
+      duyulan: i ki
+  INSERT   ...daha doyurucu olması gece
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düzeltmek için serbest kalır
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 19
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-11-15.duyulan.txt

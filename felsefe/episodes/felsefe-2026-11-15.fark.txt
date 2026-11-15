@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-15.mp3
+
+beklenen 1933 kelime | duyulan 1937 kelime | eşleşme %96.1
+sayı ifadesi: metinde 247, duyulanda 232  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sen olmadan önce birileri
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...konuşmanın merkezindedir platon un
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...muhatabın tartışmasına çağrılır yanda
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...yabancılar için de aynıdır
+      metin  : öbür
+      duyulan: göffür
+  REPLACE  ...ayrıntısı da burada saklıdır
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...gülümsemeyle açar belki de
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...döner sokrates bu kez
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...kopyası olsaydı ne olurdu
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...rengiyle sesiyle düşüncesiyle ortada
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...düşüncesiyle ortada kratylos olurdu
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...adını duyarız ve o
+      metin  : ad
+      duyulan: at
+  REPLACE  ...olarak görüyordu çin in
+      metin  : vey devleti nde taht
+      duyulan: veidevletinde tah
+  REPLACE  ...iddiasında kim hükümdar kim
+      metin  : tebaa
+      duyulan: teba
+  REPLACE  ...sözlerini öğrencilerinin derlediği kitap
+      metin  : lunyu
+      duyulan: lünyü
+  REPLACE  ...boşaltılmasıyla başlar başka sahnede
+      metin  : qi
+      duyulan: çiğ
+  REPLACE  ...kuşaklarda keskinleşir konfüçyüsçü gelenekte
+      metin  : mensiyus
+      duyulan: mensius
+  REPLACE  ...katli olup olmadığı tartışılır
+      metin  : mensiyus
+      duyulan: mensius
+  REPLACE  ...konfüçyüs bunu duysaydı muhtemelen
+      metin  : zilu ya
+      duyulan: zilü ye
+  REPLACE  ...ilişkisi daha en başta
+      metin  : sahneyle
+      duyulan: sahne ile
+  REPLACE  ...dayanaklarından yüce rabbinin ismini
+      metin  : tesbih
+      duyulan: tespih
+  REPLACE  ...yalnızca ses olsaydı sesi
+      metin  : tesbih
+      duyulan: tespih
+  REPLACE  ...vardı i sim müsemmanın
+      metin  : kendisiyze
+      duyulan: kendisi ize
+  REPLACE  ...basit ama keskin cümle
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...düğümü sükunetle çözmeye çalışanlardan
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...geldiğini baştan netleştirmemekten doğar
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...bağlıdır ama aynı değildir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...anılır bu ayrımın içinde
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...yazı insanların anlaşmasıyla şekillenir
+      metin  : kratylos
+      duyulan: kratilos
+  REPLACE  ...gerçek şeye uzanan köprüdür
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...te bu görev yüküydü
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...seçmediği anda henüz konuşamazken
+      metin  : sırtına
+      duyulan: sırtını
+  REPLACE  ...doğduğunda ilk verilen şeylerden
+      metin  : addır
+      duyulan: attır
+  REPLACE  ...adları ve babalarının adlarıyla
+      metin  : çağrılacağı
+      duyulan: çağırılacağı
+  REPLACE  ...adlarını güzel koymaları söylenir
+      metin  : müslim in
+      duyulan: müslümin
+  REPLACE  ...kaydettiği başka rivayette de
+      metin  : hz
+      duyulan: hazretleri
+  REPLACE  ...rivayette de hz peygamber
+      metin  : hz
+      duyulan: hazretleri
+  REPLACE  ...in kızının adını değiştirir
+      metin  : isyankar
+      duyulan: i şyankar
+  REPLACE  ...da taşıyan asiye adını
+      metin  : cemile
+      duyulan: cemiyle
+  INSERT   ...türkiye de soyadı haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlarda çocuklarımızın bugün taşıdığı
+      metin  : soyadlarının
+      duyulan: soyatlarının
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 50 kelime | duyulup metinde OLMAYAN: 58
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: felsefe-2026-11-15.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-15.mp3
+
+beklenen 3295 kelime | duyulan 3317 kelime | eşleşme %91.3
+sayı ifadesi: metinde 433, duyulanda 331  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...adamın adı fermo merizi
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...karavaco kasabasının efendisi olan
+      metin  : marki
+      duyulan: marchi
+  REPLACE  ...henüz yaşında oğlan vardı
+      metin  : mikelancelo
+      duyulan: mikelanselo
+  INSERT   ...merizi bu çocuk eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aile kasabaya çekildi anne
+      metin  : luçia
+      duyulan: lucia
+  REPLACE  ...sahibi akrabaların yardımıyla büyüttü
+      metin  : mikelancelo
+      duyulan: mikelanselo
+  REPLACE  ...değildi kendini büyük venedikli
+      metin  : titsiano
+      duyulan: tiziano
+  REPLACE  ...bakışın kökü bu kuzey
+      metin  : ovalarındaydı
+      duyulan: ovaları ndaydı da
+  REPLACE  ...ovalarındaydı annesi de öldü
+      metin  : mikelancelo
+      duyulan: michelangelo
+  REPLACE  ...kayıt bulunamamıştır kesin olan
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...kapıları açacak bulmak gerekiyordu
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...hekimi ve sanat meraklısı
+      metin  : culyo mançini
+      duyulan: giulio mancini
+  REPLACE  ...genç ressamın süer pandolfo
+      metin  : puççi
+      duyulan: pucci
+  REPLACE  ...adamının evinde kaldığını yazar
+      metin  : puççi
+      duyulan: pucci
+  REPLACE  ...neredeyze yalnızca yeşillik vardı
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...karavaco bu alayla salata
+      metin  : monsenyörü
+      duyulan: monsenyoru
+  REPLACE  ...monsenyörü adını takmıştı sonra
+      metin  : cuzeppe çezari
+      duyulan: giuseppe cezari
+  REPLACE  ...çezari nin atölyesine girdi
+      metin  : çezari papanın
+      duyulan: cezari papa nın
+  REPLACE  ...ve yeni gelen bu
+      metin  : kuzeyliye
+      duyulan: kuzeyliğe
+  REPLACE  ...ve meyve resimleri yaptırdı
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...gösterir bugün roma daki
+      metin  : borgeze galerisi nde
+      duyulan: borgese galerisinde
+  REPLACE  ...galerisi nde duran hasta
+      metin  : bakkus
+      duyulan: bacchus
+  REPLACE  ...tanrı kılığına sokmuş ressam
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...tek tablo ile geldi
+      metin  : karavaco çezari
+      duyulan: caravaggio cezari
+  REPLACE  ...tabloyu satın alan kişi
+      metin  : kardinal françesko marya
+      duyulan: cardinal francesco maria
+  REPLACE  ...monte oldu del monte
+      metin  : floransa
+      duyulan: florence
+  REPLACE  ...monte floransa nın güçlü
+      metin  : mediçi
+      duyulan: medici
+  REPLACE  ...meraklı kültürlü ve hoşgörülü
+      metin  : prensti hilebazlar ı
+      duyulan: prens idi hilebazları
+  REPLACE  ...da yanına aldı civarında
+      metin  : karavaco kardinalin
+      duyulan: caravaggio cardinal in
+  REPLACE  ...karavaco kardinalin oturduğu saraya
+      metin  : palatso
+      duyulan: palazzo
+  REPLACE  ...madama sarayı ndaki yıllar
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...karavaco nun en sakin
+      metin  : yıllarıydı kardinalin
+      duyulan: yılları idi cardinal in
+  REPLACE  ...şarkıcılar ve şairler toplanırdı
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...birbirine sokulmuş genç çalgıcılar
+      metin  : lavtalarını
+      duyulan: laftalarını
+  REPLACE  ...eder nota sayfalarına eğilirler
+      metin  : lavta
+      duyulan: lafta
+  REPLACE  ...ressamını tanıtmayı da biliyordu
+      metin  : mediçi
+      duyulan: medici
+  REPLACE  ...da biliyordu mediçi ailesinin
+      metin  : toskana büyük dükü ne
+      duyulan: toscan a büyüklüküne
+  REPLACE  ...gönderilecek tören kalkanı için
+      metin  : karavaco
+      duyulan: caravaggio
+  REPLACE  ...kalkan bugün floransa daki
+      metin  : uffitsi galerisi ndedir
+      duyulan: uffizi galerisindedir
+  REPLACE  ...uffitsi galerisi ndedir ama
+      metin  : karavaco
+      duyulan: caravaggio
+  ... ve 137 fark daha
+
+metinde olup DUYULMAYAN: 206 kelime | duyulup metinde OLMAYAN: 228
+bölme/birleşme farkı (hata değil, elendi): 43
+
+duyulan metin: biyografi-2026-11-15.duyulan.txt

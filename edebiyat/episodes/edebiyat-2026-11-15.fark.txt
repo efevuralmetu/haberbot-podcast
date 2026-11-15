@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-15.mp3
+
+beklenen 1790 kelime | duyulan 1793 kelime | eşleşme %91.5
+sayı ifadesi: metinde 283, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : brüksel
+      duyulan: te bruxelles
+  REPLACE  ...basar şair parayı ödeyemez
+      metin  : nüshalar
+      duyulan: nüşalar
+  REPLACE  ...küçük taşra kasabası var
+      metin  : şarlvil
+      duyulan: charville
+  INSERT   ...kasabası var şarlvil ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ekim bu kasabada doğan
+      metin  : artür
+      duyulan: arthur
+  INSERT   ...kadar dar gelir ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yönelten genç retorik öğretmeni
+      metin  : jorj i
+      duyulan: george
+  INSERT   ...çocuğun mutluluğunu anlatır mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...zambar a öteki şair
+      metin  : pol dömöni
+      duyulan: paul domoniye dir
+  REPLACE  ...ününü sağlayacak şiiri yazar
+      metin  : lö
+      duyulan: le
+  REPLACE  ...lö bato ivr yani
+      metin  : sarhoş
+      duyulan: sarhoç
+  REPLACE  ...dörtlükten dizeden oluşur anlatıcı
+      metin  : mürettebatını
+      duyulan: mürettabatını
+  REPLACE  ...gücünden kurmuştur aynı yıl
+      metin  : şarlvil
+      duyulan: charville
+  REPLACE  ...adı duyulmaya başlamış şaier
+      metin  : pol verlen
+      duyulan: paul verlin
+  REPLACE  ...pol verlen e gönderir
+      metin  : verlen
+      duyulan: verlin
+  INSERT   ...parasını da yollar eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yle paris e gelir
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...o sırada evlidir eşi
+      metin  : matild
+      duyulan: mathilde
+  REPLACE  ...mote hamiledir ve aile
+      metin  : matild nin
+      duyulan: mathilde in
+  REPLACE  ...kendi eliyle kapatır ressam
+      metin  : anri fanten latur
+      duyulan: henri fontaine lator
+  INSERT   ...anri fanten latur un
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rembo nun meleğinki kadar
+      metin  : duru
+      duyulan: durup
+  REPLACE  ...ize uzaklara kaçmış gibidir
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...savuran ilişkiye dönüşür temmuz
+      metin  : verlen
+      duyulan: de verlin
+  REPLACE  ...yolculuğun sonu yaz günü
+      metin  : brüksel
+      duyulan: bruxelles
+  INSERT   ...brüksel de gelir temmuz
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da sıradan görünen tartışma
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...gemiye binmesine yol açar
+      metin  : brüksel e
+      duyulan: bruxelles
+  REPLACE  ...gönderir rembo da peşinden
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...peşinden brüksel e gelir
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...paris e dönmeye kararlıdır
+      metin  : verlen
+      duyulan: verlin
+  INSERT   ...verlen ize bırakmak istemez
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...bırakmak istemez temmuz sabahı
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...eder öteki boşa gider
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...rembo yu istasyona götürürlerken
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...ve sokaktaki polize koşar
+      metin  : verlen
+      duyulan: verlin
+  REPLACE  ...de cezayı verir ağustos
+      metin  : verlen
+      duyulan: te verlin
+  REPLACE  ...annesinin ailesine ait çiftliğe
+      metin  : şarlvil
+      duyulan: charville
+  REPLACE  ...ait çiftliğe şarlvil yakınlarındaki
+      metin  : roş
+      duyulan: roch
+  REPLACE  ...yakınlarındaki roş köyüne döner
+      metin  : roş
+      duyulan: roch
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 33
+
+duyulan metin: edebiyat-2026-11-15.duyulan.txt

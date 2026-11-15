@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-15.mp3
+
+beklenen 2911 kelime | duyulan 2927 kelime | eşleşme %93.8
+sayı ifadesi: metinde 332, duyulanda 232  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kimse düzenli maaş ödemiyordu
+      metin  : şarl kağıt
+      duyulan: şarkaat
+  REPLACE  ...habsburg toprakları felemenk ve
+      metin  : atlantiğin
+      duyulan: atlantin in
+  INSERT   ...buharlaşıyordu esir kral fransuva
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...zorla imzalatıldığını ilan etti
+      metin  : şarl
+      duyulan: charles
+  INSERT   ...bu fırsatı bekliyordu mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...venedik floransa ve papa
+      metin  : klemens
+      duyulan: clemens
+  REPLACE  ...denen ittifakı kurdular papa
+      metin  : klemens
+      duyulan: clemens
+  REPLACE  ...klemens in asıl adı
+      metin  : culyo
+      duyulan: guglio
+  REPLACE  ...asıl adı culyo de
+      metin  : mediçi ydi
+      duyulan: medici idi
+  REPLACE  ...da böyle hesabın sonucuydu
+      metin  : klemens
+      duyulan: clemens
+  REPLACE  ...girmesinden çekiniyordu napoli zaten
+      metin  : şarl
+      duyulan: charles
+  REPLACE  ...zaten şarl ındı da
+      metin  : şarl
+      duyulan: charles
+  INSERT   ...tehlikenin ilk işareti eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nın eski düşmanı güçlü
+      metin  : kolonna
+      duyulan: colonna
+  REPLACE  ...vatikan ın kısmını yağmaladı
+      metin  : klemens
+      duyulan: clemens
+  REPLACE  ...kıyısındaki büyük yuvarlak kaleye
+      metin  : kastel santancelo
+      duyulan: castel sant anselo
+  REPLACE  ...yeni güç toplanıyordu georg
+      metin  : fon frundsberg
+      duyulan: von frunzberg
+  REPLACE  ...yaklaşık kişilik kuvvet kurmuştu
+      metin  : frundsberg
+      duyulan: frunzberg
+  REPLACE  ...büyük bölümü yeni yayılan
+      metin  : luter
+      duyulan: lüter
+  REPLACE  ...düzeltilmesi gereken kurumun başıydı
+      metin  : frundsberg
+      duyulan: frunzberg
+  REPLACE  ...halini çok iyi anlatır
+      metin  : frundsberg
+      duyulan: frunzberg
+  REPLACE  ...başında tuhaf figür vardı
+      metin  : burbon dükü şarl
+      duyulan: bourbon büküşar
+  REPLACE  ...rütbesi olan başkomutanlığı yani
+      metin  : konnetablliği
+      duyulan: connetablilliği
+  INSERT   ...aç yorgun ve öfkeli
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ve borcunun ödenmesini istedi
+      metin  : frundsberg
+      duyulan: frunzberg
+  REPLACE  ...bulduğunu düşündü napoli valisi
+      metin  : şarl dö lanua
+      duyulan: charles de lanoua
+  REPLACE  ...kalıyordu askerler ateşkesi tanımadı
+      metin  : burbon
+      duyulan: bourbon
+  REPLACE  ...kalmıştı ya ordusu da
+      metin  : frundsberg
+      duyulan: frunzberg
+  REPLACE  ...da yağmalanacak hedefe götürecekti
+      metin  : floransa
+      duyulan: florence a
+  REPLACE  ...içinde savunmayı renzo da
+      metin  : çeri
+      duyulan: cherry
+  REPLACE  ...açıktı mayıs sabahı gün
+      metin  : ağarırken
+      duyulan: ağırırken
+  REPLACE  ...saldırı borgo nun santo
+      metin  : spirito hastanesine
+      duyulan: spiritu hastanesi ne
+  REPLACE  ...o sırada surlardan atılan
+      metin  : arkebüz
+      duyulan: arkebüs
+  REPLACE  ...kuyumcu ve heykeltıraş benvenuto
+      metin  : çellini
+      duyulan: cellini
+  REPLACE  ...tüfeğinden çıktığını iddia eder
+      metin  : çellini
+      duyulan: cellini
+  REPLACE  ...gitmişti komutayı oranj prensi
+      metin  : filiber dö şalon
+      duyulan: filiberto chalon
+  REPLACE  ...çalışan kalabalık vardı santo
+      metin  : spirito hastanesindeki
+      duyulan: spiritu hastanesi ndeki
+  INSERT   ...i sviçreli askerlerdi bu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sviçreli askerlerdi bu papa
+      metin  : i kinci
+      duyulan: ii
+  REPLACE  ...koruyucuları dağ köylerinden gelen
+      metin  : sözleşmeyle
+      duyulan: sözleşme ile
+  ... ve 64 fark daha
+
+metinde olup DUYULMAYAN: 127 kelime | duyulup metinde OLMAYAN: 151
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: tarih-2026-11-15.duyulan.txt
