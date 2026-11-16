@@ -1,0 +1,94 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-16.mp3
+
+beklenen 2124 kelime | duyulan 2125 kelime | eşleşme %97.9
+sayı ifadesi: metinde 245, duyulanda 204  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...koruyacak sığınak arıyor gazeteci
+      metin  : kathryn schulz
+      duyulan: catherine schultz
+  REPLACE  ...kadar kendimizi haklı sanırız
+      metin  : acı
+      duyulan: ağacı
+  INSERT   ...bu mesajlara göer aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sokrates in gençlik arkadaşı
+      metin  : hairefon
+      duyulan: hayrefon
+  REPLACE  ...için yola çıkar önce
+      metin  : bilgeliğiyle
+      duyulan: bilgeliyle
+  REPLACE  ...zanaatkarlar kendi işlerinde gerçekten
+      metin  : ustadır
+      duyulan: üstadır
+  REPLACE  ...da çok düşman kazandırdı
+      metin  : mö
+      duyulan: da
+  INSERT   ...şimdi viyana ya gelelim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...şeyi açıklıyor gibidir popper
+      metin  : ı
+      duyulan: i
+  REPLACE  ...söylemiyor olabilir aynı yıl
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...etkileyen sonucun kendisi değildir
+      metin  : aynştayn
+      duyulan: einstein
+  INSERT   ...kuğu yıkmaya yeter nitekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yeter nitekim hollandalı denizci
+      metin  : vilem dö flaming
+      duyulan: wilhelm de flamink
+  REPLACE  ...cevap da buhari ve
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...aktardığı hadiste yer alır
+      metin  : hz peygamber in
+      duyulan: het peygamberin
+  INSERT   ...i mam şafii dir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ve bu itibarını sarsmamış
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ye dönelim rivayete göer
+      metin  : hz
+      duyulan: hazreti
+  DELETE   ...der olanları izleyen karısı
+      metin  : i kisi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...değiştirme bunun tam tersidir
+      metin  : önce
+      duyulan: önlem grijine
+  REPLACE  ...çok çarpıcı örneği var
+      metin  : ludvig vitgenştayn
+      duyulan: ludwig wittgenstein
+  INSERT   ...ilkokul öğretmenliği yaptı ama
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...en sert eleştirenlerden oldu
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...kadar iyi gitmiyor fizikçi
+      metin  : maks plank
+      duyulan: max planck
+  INSERT   ...çok daha büyük sanıyoruz
+      metin  : (yok)
+      duyulan: kiki te
+  REPLACE  ...oluyor fikir değiştirmek tutarsızlıkla
+      metin  : kararlılık da
+      duyulan: kararlılıkta
+  REPLACE  ...peşinden gitmeye başladığı andır
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: felsefe-2026-11-16.duyulan.txt

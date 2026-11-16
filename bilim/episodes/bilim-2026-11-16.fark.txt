@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-16.mp3
+
+beklenen 2036 kelime | duyulan 2040 kelime | eşleşme %96.5
+sayı ifadesi: metinde 267, duyulanda 216  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...son günleri prag da
+      metin  : vltava
+      duyulan: viltava
+  REPLACE  ...yohannes kepler kutsal roma
+      metin  : i mparatoru i kinci
+      duyulan: imparatoru
+  REPLACE  ...imparatorluk danışmanı yohannes mateus
+      metin  : vakher fon vakenfels
+      duyulan: waker von wakenfels
+  INSERT   ...kış yazdığı küçük risale
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...basıldı adı latince strena
+      metin  : seu de nive
+      duyulan: seude niwe
+  INSERT   ...de nive seksangula yani
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...kar anlamına gelen latince
+      metin  : niks
+      duyulan: nix
+  REPLACE  ...hiçbir şey anlamına gelen
+      metin  : nihts
+      duyulan: niht
+  REPLACE  ...çağrıştırıyor yani kepler koruyucusuna
+      metin  : şakayla
+      duyulan: şaka ile
+  INSERT   ...koyuldu arıların peteğine baktı
+      metin  : (yok)
+      duyulan: altigen
+  INSERT   ...en sıkı biçimde dizildiğinde
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...fikir o kadar ileri
+      metin  : görüşlüydü
+      duyulan: görüştüydü
+  REPLACE  ...kadar ileri görüşlüydü ki
+      metin  : risalede
+      duyulan: risalete
+  INSERT   ...yıl uğraştırdı ve ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önce dikkatle bakmayı öğrendi
+      metin  : röne dekart otuzlarda
+      duyulan: rené descartes larda
+  REPLACE  ...dekart otuzlarda hollanda da
+      metin  : yağan
+      duyulan: yağın
+  INSERT   ...ince dallanmaları kağıda geçirdi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...peteğine benzeyen örgü kurar
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...prizma ile o bildiğimiz
+      metin  : eğrelti
+      duyulan: eyrelti
+  REPLACE  ...soruların peşine düşen kişi
+      metin  : kepler den yüzyıldan
+      duyulan: keplerden yıldan
+  REPLACE  ...uzun ve kar bol
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...nakaya önce dışarı çıktı
+      metin  : tokachi dağı nın
+      duyulan: tokaçı dağının
+  REPLACE  ...denedi ipek denedi kristaller
+      metin  : ya
+      duyulan: yağ
+  REPLACE  ...bundan sonrası sabırlı haritalama
+      metin  : işiydi
+      duyulan: işi idi
+  REPLACE  ...ister ortaya çıkan tablo
+      metin  : şaşırtıcıydı
+      duyulan: şaşırtıcı idi
+  REPLACE  ...karmaşık yapılar bugün nakaya
+      metin  : diyagramı
+      duyulan: diagramı
+  INSERT   ...iskeleti hala ayakta nakaya
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...küçük parçacığın üzerinde minicik
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...ve buza dönüşür ama
+      metin  : altıgenin
+      duyulan: altigenin
+  INSERT   ...prizmalar için durum farklı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kar örnekleri arasında mikroskop
+      metin  : birbirinin
+      duyulan: birbirini
+  REPLACE  ...dolduramadığı boşluk vardı nakaya
+      metin  : diyagramına
+      duyulan: diagramına
+  INSERT   ...rahatsız edici yanı şu
+      metin  : (yok)
+      duyulan: altigen
+  REPLACE  ...en güçlü ipucu buzun
+      metin  : yüzeyiyle
+      duyulan: ile
+  DELETE   ...birlikte değişebilir ve kristal
+      metin  : an
+      duyulan: (YOK — atlanmış)
+  DELETE   ...ve kristal an yanlara
+      metin  : an
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...teknoloji enstitüsü nden fizikçi
+      metin  : kenet librekt
+      duyulan: kenneth liebrecht
+  REPLACE  ...büyütmeye ve ölçmeye adadı
+      metin  : librekt
+      duyulan: liebrecht
+  REPLACE  ...model geliştirdi model nakaya
+      metin  : diyagramındaki
+      duyulan: diagramı ndaki
+  REPLACE  ...açıklayabiliyor gibi görünüyor ama
+      metin  : librekt
+      duyulan: liebrecht
+  ... ve 8 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: bilim-2026-11-16.duyulan.txt

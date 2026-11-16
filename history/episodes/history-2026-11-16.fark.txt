@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-16.mp3
+
+beklenen 3138 kelime | duyulan 3014 kelime | eşleşme %11.2
+sayı ifadesi: metinde 242, duyulanda 146  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...wiped off the map
+      metin  : (yok)
+      duyulan: the the city of
+  REPLACE  ...off the map tungabhadra
+      metin  : nehri nin güney kıyısında devasa granit kayaların gelişigüzel atılmış zarlar gibi tepeleer dağıldığı arazi düşünün kayalar o kadar iri ve tuhaf biçimlidir ki ilk bakışta devin oyuncaklarını unutup gittiği sanılır yüzyılın başlarında bu kayaların arasında dünyanın en kalabalık şehirlerinden yükseliyordu adı vijayanagara ydı yani zafer şehri bugün çoğumuz bu adı belki hiç duymadık oysa o yıllarda lizbon dan hürmüz e kahier den malakka ya kadar tüccarlar bu şehrin pazarlarını konuşuyordu zafer şehri nin hikayesi da başlar harihara ve bukka adlı kardeş güney hindistan da delhi sultanlığı nın gücünün çözüldüğü kargaşalı dönemde tungabhadra kıyısında krallık kurdular sonraki yıl içinde bu krallık hindistan yarımadasının güneyinin neredeyze tamamına yayılan imparatorluğa dönüştü hanedanlar değişti sınırlar daraldı genişledi ama şehir hep merkez olarak kaldı ve her kuşakta daha büyüdü zirveye krişnadevaraya döneminde ile yılları arasında ulaşıldı krişnadevaraya
+      duyulan: nerehrin in gunayka is wheer the land of the people was built the same land as the land of the people the land of the people has a very large landscape so it is very hard to see the land as a whole krishna devaraya
+  REPLACE  ...arasında ulaşıldı krişnadevaraya hem
+      metin  : savaş meydanında başarılı
+      duyulan: savashmeydanandabasharlibir
+  REPLACE  ...meydanında başarılı komutan hem
+      metin  : de şairleri koruyan kendisi de telugu dilinde şiir yazan hükümdardı de kuzeydeki rakiplerinin elinden
+      duyulan: deshayirleri koryan kendisiddet telugudilindashir yazanbir hukumdard day kuzaydekirakiplir nen elindan
+  REPLACE  ...kuzeydeki rakiplerinin elinden raichur
+      metin  : kalesini aldı
+      duyulan: kalesina alda
+  REPLACE  ...raichur kalesini aldı raichur
+      metin  : büyük
+      duyulan: ikibuyuk
+  REPLACE  ...aldı raichur büyük nehir
+      metin  : krişna ile tungabhadra arasında uzanan bereketli ovanın kilidiydi bu ovaya i ki nehir arası diyelim çünkü bu hikayede adı sık sık geçecek i ki nehir arası kuşaklar boyunca zafer şehri ile kuzeydeki sultanlıklar arasında el değiştiren kanla sulanmış topraktı şehrin nasıl göründüğünü
+      duyulan: krishnayilatungabhadraarasandauzananbereketlibirovanankilidid bhuvaya ikinehirarasudielim trinkubuhikayaada adusuksukkgechajek ikinehiraras kushaklarboyunja zafar shehriyla kuzaydekisultanaklararasandauldayishtiran kannasulanmushbirto praktu shehrin nasal gurundunu
+  REPLACE  ...şehrin nasıl göründüğünü bize
+      metin  : en canlı biçimde yabancı ziyaretçiler anlatır te gelen i ranlı elçi abdürrezzak semerkandi şehrin iç içe geçmiş sur halkasıyla çevrili olduğunu yazmıştı göer kuyumcular çarşısında yakut inci zümrüt
+      duyulan: enjannu bichimdaya banjaziarechilaranatur iranne elche abdur rezaksemerkandi shehrin ichichegechmish yedusurhalkasilachevrili oldunu yazmishte guer kuyum jullar charshasandaya kut inge zumrutve elmasa chikcha tezgahlaruzirindesatul yordu yaklashek bien besh snide shehregelan portekisletujar domingopaisi se dahada ilarigidar pais shehrin buukluqbakamundan roma ila kuyaslanabilejaini soylar vebura yedunyada gurdu eni arzakhsalanan shehirolaraktarifedar paisarlar da pirench budai baklagilar sayisas meyve sebzeve yilin yilin chicheksatul yordu paisin anlata sunda elmaslar ya kutlar
+  REPLACE  ...yakut inci zümrüt ve
+      metin  : elmas açıkça tezgahlar üzerinde satılıyordu yaklaşık de şeher gelen portekizli tüccar domingo paes ize daha da ileri gider paes şehrin büyüklük bakımından roma yla kıyaslanabileceğini söyler ve burayı dünyada gördüğü en iyi erzak sağlanan şehir olarak tarif eder pazarlarda pirinç buğday baklagiller sayısız meyve sebze ve yığın yığın çiçek satılıyordu paes in anlatısında elmaslar yakutlar ve incilerle
+      duyulan: ingelar le
+  INSERT   ...ve incilerle dolu tezgahlar
+      metin  : (yok)
+      duyulan: dawardar elmaslar en buuq kasme imperatorluun kusaidosundake krishnahavzasundachikar lyordu deodunem de dunyada ke elmaslar en nareday setamamu hindistan dangi lyordu vebutijaritin unemnibir kasme zafair shehrin en charshalaran dangi chuyordu shehrin nifusu haqan
+  REPLACE  ...incilerle dolu tezgahlar da
+      metin  : vardır elmasların büyük kısmı imparatorluğun kuzeydoğusundaki krişna havzasında çıkarılıyordu o dönemde dünyadaki elmasların neredeyze tamamı hindistan
+      duyulan: ke sin yok baazu tariq chilaar beshyuz biyuk sek tahmin naer yurutur daha temkine olan nar dahadushuk rakam larveiris amahangisine alersanaz alun seuskonus olan dunemin en buuq kantlerin
+  REPLACE  ...neredeyze tamamı hindistan dan
+      metin  : geliyordu ve bu ticaretin önemli kısmı zafer şehri nin çarşılarından geçiyordu şehrin nüfusu hakkında kesin rakam yok bazı tarihçiler gibi yüksek tahminler yürütür daha temkinli olanlar daha düşük rakamlar verir ama hangisini alırsanız alın söz konusu olan dönemin en büyük kentlerinden bu kalabalığı
+      duyulan: buu qalabalu
+  REPLACE  ...bu kalabalığı ayakta tutan
+      metin  : şey suydu mühendisler tungabhadra
+      duyulan: yudu muhundisler tungabadradan kana alarachmush tashsu kemarleri insha etmush shehrin ichine basamakhl hawuzlar yaarleishtirmishte buu hawuzlar
+  REPLACE  ...suydu mühendisler tungabhadra dan
+      metin  : kanallar açmış taş su kemerleri inşa etmiş şehrin içine basamaklı havuzlar yerleştirmişti bu havuzlardan bazıları bugün
+      duyulan: baazu lar bugun
+  REPLACE  ...bazıları bugün hala geometrik
+      metin  : zarafetle iç içe geçen siyah taş basamaklarıyla yerinde duruyor kraliyet merkezinde her yıl gece süren büyük bayramın kutlandığı devasa taş
+      duyulan: birzaraafit le ichicegechan seahtash basamakhl aririnde duriyor hraliyet merkizinde hir yildokuzgejesur en buuq baiyuk biyurman kutlandu de wasaabirtash
+  REPLACE  ...kutlandığı devasa taş platform
+      metin  : vardı paes
+      duyulan: varde paiz
+  REPLACE  ...platform vardı paes bu
+      metin  : bayramda kralın tahtına oturup yüzlerce dansçıyı filleri atları
+      duyulan: baiyuramda karlan takhtena oturupe yuzlarje dan shiya fileri atleri
+  REPLACE  ...dansçıyı filleri atları ve
+      metin  : silahlı birlikleri seyrettiğini anlatır şehrin dini merkezinde ize tapınaklar yükseliyordu krişnadevaraya nın genişlettiği vitthala tapınağı nın avlusunda tek kayadan oyulmuş gibi görünen
+      duyulan: silahibir likleri seiretin annetish shehrin dinimerkizinde isit apnaqlar yuksiliordu krishnade varenan genishleti vithala tapunan en avelu sunda tekpir kaya dan oyulmushki bi gurunan
+  REPLACE  ...oyulmuş gibi görünen ama
+      metin  : aslında taş bloklardan yapılmış savaş arabası duruyordu tapınağın sütunlarına hafifçe vurulduğunda müzik notalarına benzeyen sesler çıktığı anlatılır bu zenginliğin
+      duyulan: asunda tashbu yuklar dan yapulmushpir sawasharabasudu riyordu tapunan su tunar na hafiftye vuruldu unda musiknotalar na benze anseislerchikte annatilir buu zengin lien
+  REPLACE  ...anlatılır bu zenginliğin de
+      metin  : görünmeyen damarı vardı atlar güney hindistan ın
+      duyulan: gurun meandamar varde atler guni hindestanin
+  REPLACE  ...güney hindistan ın iklimi
+      metin  : iyi cins savaş atı yetiştirmeye elverişli değildi zafer şehri nin süvarileri için
+      duyulan: eijin sawashati etishtirmaya elverishtidilde zeifar shehrinin suvarilir ichin
+  REPLACE  ...ve i ran dan
+      metin  : deniz yoluyla getiriliyordu portekizliler
+      duyulan: deniziolu yulagetir liyordu portek izalar
+  REPLACE  ...getiriliyordu portekizliler da goa
+      metin  : yı ele geçirdikten
+      duyulan: yelagetir dictan
+  INSERT   ...yı ele geçirdikten sonra
+      metin  : (yok)
+      duyulan: but tijaretin unem libir kasmo onnaren ilindanget shmeyabashtade zeifar shehrinin hukumdar lir har yul narje atsatan al yor karshalin da altan ud yordu jani shehrin refah yalnaz jakendit opraklar na dil hin tokyanusunun butun tijaret aana balidu enkak buu ichti shaman krilganne varda boile imperatorluk birarada tutujak guchlir merkeze mukhtachte krishna devaraya ben despizi yanidoguzun da ulduunde girde buraktu boshlukhe man doldur lamadu ve buu boshlua hikayemizin asil kahramana da dibile jemiz tartushmalabir adamadamatte o adamun adu ramarayayda hakarasan da alia ramaraya dianalarda kannada dilin da alia damaat demektir gerchekte nde krishna devarayanan kazila evlanmish imperatorluun damaadu olmushto a m r ramarayanan hayatu duzbir saraykariyir diyilde jenshli indebir surekuzaydeki sultannak lardan golkondanun hukumdar kulikutubshahan hizmetin devulunmushto jani dekinnin mushtuman saraylaranan diline adetlerine entrikalarane icharidanta nyordu butekru bae ilerde enbyuk kozola jakte krishna devarayanan olumundan sonra tahtunje kardeshi achutadeva raya yagechte deki olumunu kasave kannabir taht kaugasizlede sananda ramaraya genchbir pransolan sadashiva yitahtoturtu sadashiva kat uzerinde imperatordu ama gerchek iktidar nayip ramarayanan ve ikikardeshi tirumalayle venkatadrinin elinde zamanlar ramaraya sadashiva yihalkan unu nayildayannus jabir kezchikan sarayda adetag yuzhapsinde tutulan birsembole dunishturdu shimdi kuzayebakalam zafer shehrinin kuzayinde zamanlar tek devletolan behmeni sultan linen parchalan masandandomush besh sultan nakvarda bijapurda adil shahlar ahmed nagarda nizam shahlar golconda da kutub shahlar bidar da berit shahlar ve berarda imad shahlar hukum suryordu
+  REPLACE  ...ele geçirdikten sonra bu
+      metin  : ticaretin önemli kısmı onların elinden geçmeye başladı zafer şehri nin hükümdarları her yıl binlerce at satın alıyor karşılığında ödüyordu yani şehrin refahı yalnızca kendi topraklarına değil hint okyanusu nun bütün ticaret ağına bağlıydı ancak bu ihtişamın kırılganlığı vardı böyle imparatorluk arada tutacak güçlü merkeze muhtaçtı krişnadevaraya da öldüğünde geride bıraktığı boşluk hemen doldurulamadı
+      duyulan: beish sultan lik aine mirastandomushtu aine dini pailashyordu ama lirile naer dey sehichdur madan sava shyordu sanur kaleleer virimni ovalar tijaret yolaer
+  REPLACE  ...boşluk hemen doldurulamadı ve
+      metin  : bu boşluğa hikayemizin asıl kahramanı da diyebileceğimiz tartışmalı adam adım attı o adamın adı
+      duyulan: hanedan surek diye nichatush malar dau ryordu
+  REPLACE  ...adamın adı rama raya
+      metin  : ydı halk arasında aliya rama raya diye anılırdı kannada dilinde aliya damat demektir gerçekten de krişnadevaraya nın kızıyla evlenmiş imparatorluğun damadı olmuştu ama rama raya nın hayatı düz saray kariyeri değildi gençliğinde süer kuzeydeki sultanlıklardan golkonda nın hükümdarı kuli kutub şah ın hizmetinde bulunmuştu yani dekken in müslüman saraylarının dilini adetlerini entrikalarını içeriden tanıyordu bu tecrübe ileride en büyük kozu olacaktı krişnadevaraya nın ölümünden sonra taht önce kardeşi açyuta deva raya ya geçti deki ölümünü kısa ve kanlı taht kavgası izledi sonunda rama raya genç prens olan sadaşiva yı tahta oturttu sadaşiva kağıt üzerinde imparatordu ama gerçek iktidar naip rama raya nın ve kardeşi tirumala ile venkatadri nin elindeydi zamanla rama raya sadaşiva yı halkın önüne yılda yalnızca kez çıkan sarayda adeta göz hapsinde tutulan sembole dönüştürdü şimdi kuzeye bakalım zafer şehri nin kuzeyinde zamanlar tek devlet olan behmeni sultanlığı nın parçalanmasından doğmuş sultanlık vardı bijapur da adil şahlar ahmednagar da nizam şahlar golkonda da kutub şahlar bidar da berid şahlar ve berar da i mad şahlar hüküm sürüyordu bu sultanlık aynı mirastan doğmuştu aynı dini paylaşıyordu ama birbirleriyle neredeyze hiç durmadan savaşıyordu sınır kaleleri verimli ovalar ticaret yolları ve hanedan sürekli yeni çatışmalar doğuruyordu rama raya bu bölünmüşlüğü satranç tahtası
+      duyulan: bubulun mushlu satran shtahtus
+  REPLACE  ...satranç tahtası gibi okudu
+      metin  : stratejisi basitti
+      duyulan: anon strategy si basiti
+  REPLACE  ...okudu stratejisi basitti ama
+      metin  : tehlikeliydi sultanlardan diğerine karşı desteklemek kazananın yanında
+      duyulan: tehli ke lide sultan nardan nidirine karsi des tek lemek kazananan yananda
+  REPLACE  ...desteklemek kazananın yanında durmak
+      metin  : kaybedenden
+      duyulan: kaibedan dan
+  REPLACE  ...kaybedenden toprak koparmak ve
+      metin  : hiçbirinin
+      duyulan: hich
+  REPLACE  ...koparmak ve hiçbirinin fazla
+      metin  : güçlenmesine izin
+      duyulan: guchlan mesine isin
+  REPLACE  ...fazla güçlenmesine izin vermemek
+      metin  : yıl
+      duyulan: yol
+  REPLACE  ...izin vermemek yıl adil
+      metin  : şahlarla birlikte nizam şahlara saldırıyor ertesi yıl
+      duyulan: shahlar labir lik tenizam shahlar a saldryor erte siil
+  REPLACE  ...saldırıyor ertesi yıl taraf
+      metin  : değiştiriyordu ordusu kiralık
+      duyulan: de ishtryordu ordu sukira alak
+  REPLACE  ...değiştiriyordu ordusu kiralık terazi
+      metin  : ağırlığı gibiydi
+      duyulan: arlu gibiide
+  REPLACE  ...terazi ağırlığı gibiydi hangi
+      metin  : kefeye konsa
+      duyulan: kefe ekonsa
+  REPLACE  ...kefeye konsa o kefe
+      metin  : ağır basıyordu
+      duyulan: ar basuyordu
+  REPLACE  ...kefe ağır basıyordu bu
+      metin  : oyunun en çarpıcı perdelerinden
+      duyulan: o yunu nen charpu ji perdile rindam e
+  REPLACE  ...en çarpıcı perdelerinden adil
+      metin  : şahların sultanı ali
+      duyulan: shahlar an sultana alia
+  ... ve 168 fark daha
+
+metinde olup DUYULMAYAN: 2790 kelime | duyulup metinde OLMAYAN: 2667
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: history-2026-11-16.duyulan.txt

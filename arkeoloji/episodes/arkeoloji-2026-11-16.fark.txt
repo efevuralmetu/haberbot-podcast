@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-16.mp3
+
+beklenen 2543 kelime | duyulan 2569 kelime | eşleşme %95.9
+sayı ifadesi: metinde 267, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bulutların arasındaki şeher tırmanıyor
+      metin  : maçu pikçu
+      duyulan: machu picchu
+  INSERT   ...önce kurulan bu şeher
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuzeyinde karayip kıyısından yükselen
+      metin  : siyerra
+      duyulan: sierra
+  REPLACE  ...kıyısından yükselen siyerra nevada
+      metin  : de
+      duyulan: da
+  REPLACE  ...de bilim insanı bölgede
+      metin  : guakero
+      duyulan: guacero
+  REPLACE  ...eski mezarları açıp çıkardıkları
+      metin  : seramiği
+      duyulan: seramiyi
+  REPLACE  ...var yanında da oğulları
+      metin  : hulyo sesar
+      duyulan: julio cesar
+  REPLACE  ...kaybedersin susarsan zengin olabilirsin
+      metin  : sepúlvedalar
+      duyulan: mete pulvedalar
+  REPLACE  ...sessizlik yıl sürüyor ancak
+      metin  : dağ
+      duyulan: daha
+  REPLACE  ...bırakıyor kısa süer içinde
+      metin  : siyerra
+      duyulan: sierra
+  REPLACE  ...yani yeşil cehennem bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...ilk bulan ailenin oğullarından
+      metin  : hulyo sesar
+      duyulan: julio cesar
+  REPLACE  ...ustalığında yatıyor i spanyolların
+      metin  : tairona
+      duyulan: tayrona
+  REPLACE  ...bugün de hayranlıkla izleniyor
+      metin  : taironalar
+      duyulan: tayronalar
+  REPLACE  ...levhalarla örtülü mezarlara gömüyordu
+      metin  : teyuna
+      duyulan: tayyuna
+  INSERT   ...anlamına geliyordu bu hazine
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve başkent bogota nın
+      metin  : karaborsasında birdenbier
+      duyulan: kara borsasında
+  REPLACE  ...karaborsasında birdenbier büyük miktarda
+      metin  : tairona
+      duyulan: tayrona
+  REPLACE  ...kez şey yapması gerekiyordu
+      metin  : i nstituto kolombiyano
+      duyulan: instituto colombiano
+  REPLACE  ...i nstituto kolombiyano de
+      metin  : antropolohiya
+      duyulan: antropología
+  REPLACE  ...kolombiyano de antropolohiya yani
+      metin  : kolombiya
+      duyulan: colombia
+  INSERT   ...enstitüsü şehrin peşine düşüyor
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kadavid ve luisa fernanda
+      metin  : errera
+      duyulan: herrera
+  REPLACE  ...oraya ulaşmak isteyen yaklaşık
+      metin  : kilometreden
+      duyulan: km den
+  REPLACE  ...civarında kuruldu bu da
+      metin  : and dağlarındaki maçu pikçu
+      duyulan: ant dağları ndaki machu picchu
+  REPLACE  ...yaşlı ağaçların arasında yamaçtan
+      metin  : yamaca
+      duyulan: yamaça
+  REPLACE  ...etmeden geçtiği taşlarda gizli
+      metin  : siyerra
+      duyulan: sierra
+  REPLACE  ...sularıyla birlikte vadiye akar
+      metin  : taironalar
+      duyulan: tayronalar
+  REPLACE  ...kenarına ve basamakların arasına
+      metin  : drenaj
+      duyulan: direnaj
+  REPLACE  ...yalnızca şehrin içinde kalmıyordu
+      metin  : teyuna siyerra
+      duyulan: heyuna sierra
+  REPLACE  ...parçasıydı arkeologlar dağlarda yüzlerce
+      metin  : tairona
+      duyulan: tayrona
+  REPLACE  ...iklimleri ve ürünleri vardı
+      metin  : taironalar
+      duyulan: tayronalar
+  REPLACE  ...biliyordu bu ağın içinde
+      metin  : teyuna
+      duyulan: heyuna
+  REPLACE  ...yağmalanmış yazılı kayıt bırakılmamış
+      metin  : taironaların
+      duyulan: tayronaların
+  REPLACE  ...notlardan ibaret bu da
+      metin  : teyuna
+      duyulan: heyuna
+  REPLACE  ...emek ve otorite gerektiriyordu
+      metin  : taironalar
+      duyulan: tayronalar
+  REPLACE  ...terasların arasında yükselen dumanlarla
+      metin  : teyuna
+      duyulan: heyuna
+  REPLACE  ...dumanlarla teyuna gerçekten de
+      metin  : gökle yer
+      duyulan: gökleyar
+  INSERT   ...gemilerle birlikte sarsılmaya başladı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...spanyol rodrigo de bastidas
+      metin  : siyerra
+      duyulan: sierra
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 81 kelime | duyulup metinde OLMAYAN: 101
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: arkeoloji-2026-11-16.duyulan.txt

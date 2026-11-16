@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-16.mp3
+
+beklenen 2415 kelime | duyulan 2418 kelime | eşleşme %94.2
+sayı ifadesi: metinde 311, duyulanda 207  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...iyi geceler diledi ve
+      metin  : kamarasına
+      duyulan: kamerasına
+  REPLACE  ...de babası theodor de
+      metin  : bavyeralıydı
+      duyulan: bavyaralıydı i kisi
+  REPLACE  ...theodor de bavyeralıydı de
+      metin  : augsburg
+      duyulan: oxford
+  REPLACE  ...zar zor geçiniyordu oğullarına
+      metin  : rudolf
+      duyulan: rudolph
+  REPLACE  ...sık sık taşınıyordu küçük
+      metin  : rudolf
+      duyulan: rudolph
+  REPLACE  ...insanlar bugün düşman sayılıyordu
+      metin  : dizel
+      duyulan: diesel
+  REPLACE  ...ellerinde ne varsa toplayıp
+      metin  : manş
+      duyulan: manch
+  REPLACE  ...imkan yoktu theodor ile
+      metin  : elize
+      duyulan: alice
+  REPLACE  ...halası barbara ile eniştesi
+      metin  : kristof barnikel
+      duyulan: christoph barnichel
+  REPLACE  ...eniştesi kristof barnikel karşıladı
+      metin  : barnikel
+      duyulan: barnichel
+  INSERT   ...sınıfın en iyisi oldu
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...hayatını değiştirecek kişi profesördü
+      metin  : karl fon
+      duyulan: carl von
+  INSERT   ...büyük dikkatle dinledi ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...küçük kısmını işe dönüştürebiliyordu
+      metin  : kabaca
+      duyulan: baca dan
+  REPLACE  ...gidiyordu fransız fizikçi sadi
+      metin  : karno
+      duyulan: carnot
+  DELETE   ...hayatının geri kalanının pusulası
+      metin  : oldu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bitirmek bile kolay olmadı
+      metin  : tifoya
+      duyulan: da tifo ya
+  REPLACE  ...durmadı i sviçer nin
+      metin  : vintertur
+      duyulan: winterthur
+  REPLACE  ...sviçer nin vintertur kentindeki
+      metin  : zultser
+      duyulan: zultzer
+  INSERT   ...davrandığını öğrendi ertesi yıl
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en yüksek notlarından aldı
+      metin  : linde
+      duyulan: linda
+  INSERT   ...sürede şubenin yöneticisi oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yöneticisi oldu marta flaşe
+      metin  : ile
+      duyulan: yle
+  REPLACE  ...adında oğulları oldu gündüzleri
+      metin  : linde nin
+      duyulan: linda nın
+  REPLACE  ...denemeleri amonyakla çalışan motor
+      metin  : üzerineydi
+      duyulan: üzerindeydi
+  INSERT   ...zehirli ve inatçı maddeydi
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...ve inatçı maddeydi ailesiyle
+      metin  : birlikte
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ki sıcaklığı yakıtın tutuşma
+      metin  : derecesini
+      duyulan: neresini
+  DELETE   ...havayı sıkıştır sonra yakıtı
+      metin  : ver
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ve her yerdeydi şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bilinen bütün motorların yerini
+      metin  : alacak
+      duyulan: olarak
+  REPLACE  ...yapımından söz ediyordu i
+      metin  : ddiası
+      duyulan: ddası
+  INSERT   ...ediyordu i ddiası büyüktü
+      metin  : (yok)
+      duyulan: leer
+  REPLACE  ...geçtiği şehirde augsburg daki
+      metin  : maşinenfabrik
+      duyulan: maçinenfabrik
+  REPLACE  ...makine fabrikası fabrikanın başındaki
+      metin  : haynrih fon buts
+      duyulan: heinrich von butz
+  INSERT   ...ama sonunda ikna oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...imzalandı kısa süer sonra
+      metin  : essen
+      duyulan: dizeln
+  REPLACE  ...sonra essen deki dev
+      metin  : krupp
+      duyulan: group
+  REPLACE  ...motor kendi başına çalışacak
+      metin  : durumda
+      duyulan: oda
+  INSERT   ...döndürülüyor silindirdeki basınç ölçülüyordu
+      metin  : (yok)
+      duyulan: dok
+  ... ve 65 fark daha
+
+metinde olup DUYULMAYAN: 98 kelime | duyulup metinde OLMAYAN: 116
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: biyografi-2026-11-16.duyulan.txt

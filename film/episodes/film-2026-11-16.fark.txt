@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-16.mp3
+
+beklenen 1900 kelime | duyulan 1891 kelime | eşleşme %93.9
+sayı ifadesi: metinde 276, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yalnızca fotoğraflar ses ve
+      metin  : orli
+      duyulan: orly
+  REPLACE  ...en sessiz mucizelerinden yaşanıyor
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...başında paris in güneyindeki
+      metin  : orli havalimanı nın
+      duyulan: orly havalimanının
+  REPLACE  ...de bu terastır la
+      metin  : jöte
+      duyulan: jotte
+  INSERT   ...i skele i skele
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...film neredeyze baştan sona
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...fotoğrafları çeken adamın adı
+      metin  : kris
+      duyulan: chris
+  REPLACE  ...marker dı asıl adı
+      metin  : kristiyan fransuva buş vilnöv
+      duyulan: christian suva bush villeneuve
+  INSERT   ...buş vilnöv olan marker
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dünyayı dolaşıp gördüklerini düşünceli
+      metin  : ironik
+      duyulan: konik
+  REPLACE  ...nin doğuşu da marker
+      metin  : ın
+      duyulan: in
+  REPLACE  ...tutan uzun belgesel çekiyordu
+      metin  : lö joli me
+      duyulan: le jolime
+  REPLACE  ...bize bunun çocukluğundan kalma
+      metin  : görüntünün
+      duyulan: kutunun
+  REPLACE  ...galerilerde esir kampı kurmuştur
+      metin  : marker ın
+      duyulan: mcgarren
+  DELETE   ...eyfel kulesi nin karşısındaki
+      metin  : bu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...belki geçmişten yiyecek gelecekten
+      metin  : ilaç
+      duyulan: geç
+  REPLACE  ...gibi bağlı seçtikleri kişi
+      metin  : orli
+      duyulan: orly
+  REPLACE  ...kişi orli deki kadının
+      metin  : hala
+      duyulan: yada
+  REPLACE  ...fotoğrafların ne sıklıkla değiştiğiyle
+      metin  : belirlenir
+      duyulan: başlanır
+  REPLACE  ...bakışlı figürdür canlandıran kişi
+      metin  : aslında
+      duyulan: belçika
+  REPLACE  ...değil sinema insanıdır belçika
+      metin  : sinemateğinin
+      duyulan: sinemateyi nin
+  REPLACE  ...uzun yıllar yöneticiliğini yapan
+      metin  : jak lödu
+      duyulan: jack lodow
+  DELETE   ...ögesinden çok yakın hatıra
+      metin  : gibi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yakın hatıra gibi gelir
+      metin  : marker
+      duyulan: maker
+  REPLACE  ...tok ve ölçülü olan
+      metin  : jan
+      duyulan: john
+  REPLACE  ...yanda i ngiliz besteci
+      metin  : trevor duncan ın
+      duyulan: burdanka nın
+  REPLACE  ...sabah oda gerçek yatak
+      metin  : odası
+      duyulan: parçası
+  REPLACE  ...hikayesidir adam geçmişe defalarca
+      metin  : gönderilir
+      duyulan: gelir
+  REPLACE  ...canlandırır adamı ize davos
+      metin  : hanich hanich
+      duyulan: haniç haniç
+  REPLACE  ...hamakta yatan esirle bahçede
+      metin  : yürüyen
+      duyulan: yaşayan
+  REPLACE  ...önceki halkalara parmağıyla dokunur
+      metin  : marker
+      duyulan: may cher
+  REPLACE  ...sergilendiği salonda kendisi de
+      metin  : durağan
+      duyulan: durağın
+  REPLACE  ...filmin içinde yürüyen aşık
+      metin  : marker
+      duyulan: may cher
+  REPLACE  ...birbirinin ardından gelir her
+      metin  : yastığın
+      duyulan: yazdığın
+  REPLACE  ...üzerinde farklı açıdan gösterir
+      metin  : ardışık
+      duyulan: ardışı
+  REPLACE  ...gösterir ardışık kareler giderek
+      metin  : hızlanır
+      duyulan: çıkar
+  REPLACE  ...hareket filmin bütün o
+      metin  : durağanlığının
+      duyulan: durağınlığının
+  DELETE   ...görev tamamlanmıştır görev tamamlandığında
+      metin  : adamın
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...vardır çocukluğundaki o pazar
+      metin  : gününe
+      duyulan: ve
+  REPLACE  ...verir geçmiş değiştirilebilir mi
+      metin  : marker
+      duyulan: maker
+  ... ve 33 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 87
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: film-2026-11-16.duyulan.txt

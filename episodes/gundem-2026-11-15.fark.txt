@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-15.mp3
+
+beklenen 1197 kelime | duyulan 1198 kelime | eşleşme %94.3
+sayı ifadesi: metinde 258, duyulanda 129  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...donald trump
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...olacak görüşme çin in
+      metin  : şenzen
+      duyulan: shenzhen
+  REPLACE  ...ve perşembe günleri düzenlenecek
+      metin  : asia pacific economic cooperation
+      duyulan: asya pasifik ekonomik kooperation
+  REPLACE  ...şbirliği zirvesinin marjında yapılacak
+      metin  : abd
+      duyulan: ibd
+  REPLACE  ...karşılık perşembe öğleden sonra
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...yemeği yapılacak kremlin sözcüsü
+      metin  : dmitriy
+      duyulan: dimitri
+  REPLACE  ...saldırıyı erteleyebileceğini danışmanlarına iletti
+      metin  : öte yandan
+      duyulan: el öteyan dan
+  REPLACE  ...dile getirdi i ran
+      metin  : devrim
+      duyulan: devri
+  REPLACE  ...i srail de cumhurbaşkanı
+      metin  : isaac herzog
+      duyulan: i za karzok
+  REPLACE  ...başkanlık ve yönetim kurulu
+      metin  : üyeliği
+      duyulan: üyeli
+  REPLACE  ...bildirime göer finans direktörü
+      metin  : kolet kres
+      duyulan: colette kress
+  REPLACE  ...abd li yargıç william
+      metin  : alsup
+      duyulan: alsoop
+  REPLACE  ...uzlaşmasından yazarları vazgeçirmeye çalışan
+      metin  : claimshero
+      duyulan: claimzero
+  REPLACE  ...riskler arasında saydı çinli
+      metin  : deepseek de
+      duyulan: deepsight e
+  REPLACE  ...geliştirme araç setini programlama
+      metin  : arayüzü
+      duyulan: arayuzu
+  REPLACE  ...setini programlama arayüzü üzerinden
+      metin  : erişime
+      duyulan: erişimi
+  REPLACE  ...gününü karışık görünümle kapattı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...nasdaq kayıpla puana geriledi
+      metin  : dow jones
+      duyulan: dojons
+  REPLACE  ...endeksleri aşağı çekse de
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...artıracağı yönündeki beklentisini güçlendirdi
+      metin  : (yok)
+      duyulan: ay
+  REPLACE  ...bazda değer kazandı ve
+      metin  : ekim den
+      duyulan: hekimden
+  INSERT   ...kaybettiren yatırım aracı oldu
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...ayındaki toplantısında politika faizini
+      metin  : baz
+      duyulan: bas
+  INSERT   ...faizini baz puan indirerek
+      metin  : (yok)
+      duyulan: den ya
+  DELETE   ...puan indirerek düşürmüştü türkiye
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  INSERT   ...yıl sonu enflasyon tahminini
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...da açıklandı kişilik parti
+      metin  : meclisi ile
+      duyulan: meclisiyle
+  REPLACE  ...yargıtay hukuk dairesi nde
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...başkanı rodrigo paz pereira
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...arasındaki ticari ve ekonomik
+      metin  : iş
+      duyulan: işbirliği
+  REPLACE  ...son maçında deplasmanda fransa
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...pasifik zirvesi ve trump
+      metin  : şi
+      duyulan: şii
+  REPLACE  ...ta işleme açılması planlanan
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...arasında olacak ve aralıklı
+      metin  : sağanak
+      duyulan: sağnak
+  REPLACE  ...bulutlu ve zaman zaman
+      metin  : sağanak
+      duyulan: sağnak
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: gundem-2026-11-15.duyulan.txt

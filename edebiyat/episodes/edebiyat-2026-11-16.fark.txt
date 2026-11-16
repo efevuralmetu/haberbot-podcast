@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-16.mp3
+
+beklenen 2505 kelime | duyulan 2524 kelime | eşleşme %92.5
+sayı ifadesi: metinde 362, duyulanda 241  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...romanını adını kimsenin bilmediği
+      metin  : bay
+      duyulan: by
+  REPLACE  ...yazmıştı yıl sonra yorkshier
+      metin  : bozkırından
+      duyulan: bosker ından
+  REPLACE  ...ödedi yorkshier ın kuzeyinde
+      metin  : bozkırın
+      duyulan: bosker ın
+  REPLACE  ...dinmediği tepe köyü var
+      metin  : haworth
+      duyulan: howard
+  REPLACE  ...din adamı olan patrick
+      metin  : brontë
+      duyulan: bronte
+  REPLACE  ...eve taşındı çocuklardan yaşındaki
+      metin  : charlotte tu
+      duyulan: charlottu
+  REPLACE  ...yasla tanıştı anne maria
+      metin  : brontë
+      duyulan: bronte de
+  INSERT   ...rutubetliydi disiplin de sertti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...papaz evinin dış dünyayla
+      metin  : bağı
+      duyulan: bağ
+  INSERT   ...siyaset konuşmaktan da çekinmiyordu
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...paylaştı her kendi askerine
+      metin  : ad
+      duyulan: at
+  REPLACE  ...hayali başkent kurdular adına
+      metin  : cam şehir
+      duyulan: kamşehir
+  REPLACE  ...ve branwel bu dünyayı
+      metin  : angria
+      duyulan: angri ye
+  REPLACE  ...ize daha az romantikti
+      metin  : brontë
+      duyulan: bronte
+  INSERT   ...bu işten nefret etti
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...dönemin saray şairi robert
+      metin  : southey ye
+      duyulan: sautey e
+  REPLACE  ...cevap kibar ama netti
+      metin  : southey
+      duyulan: sautey
+  INSERT   ...olacağını o gün anlamıştı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...o gün anlamıştı emily
+      metin  : yle
+      duyulan: ile
+  REPLACE  ...anlamıştı emily yle birlikte
+      metin  : brüksel
+      duyulan: bruxelles
+  REPLACE  ...amaçları fransızcalarını geliştirip ileride
+      metin  : haworth te
+      duyulan: howard de
+  REPLACE  ...te kendi okullarını açabilmekti
+      metin  : eje
+      duyulan: ege
+  REPLACE  ...yatılı okulunda okudular charlotte
+      metin  : okulun
+      duyulan: okulu nun
+  REPLACE  ...sahibinin kocası olan öğretmen
+      metin  : konstanten eje e
+      duyulan: constantin ege ye
+  INSERT   ...tek öğrenci bile başvurmadı
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...gelindiğinde kız kardeş yine
+      metin  : haworth teydi
+      duyulan: howard deydi
+  INSERT   ...küçük londra yayınevine bastırdılar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve üzerinde ad yazıyordu
+      metin  : currer
+      duyulan: heuer
+  REPLACE  ...yardımcı papazı arthur bel
+      metin  : nicholls
+      duyulan: nichols
+  REPLACE  ...roman üzerinde çalışıyordu ve
+      metin  : currer
+      duyulan: curer
+  REPLACE  ...uğultulu tepeler i ve
+      metin  : anne in
+      duyulan: annenin
+  REPLACE  ...ve anne in agnes
+      metin  : grey
+      duyulan: gray
+  REPLACE  ...reddetti ama bu sefer
+      metin  : ret
+      duyulan: redd
+  REPLACE  ...uzun saygıyla açıklıyor ve
+      metin  : currer
+      duyulan: curer
+  REPLACE  ...vardı babası manchester da
+      metin  : katarakt
+      duyulan: katarak
+  INSERT   ...basmaya karar verdi ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yalnızca kitabı yayına hazırlayanın
+      metin  : currer
+      duyulan: curer
+  REPLACE  ...kendisinin kuş olmadığını hiçbir
+      metin  : ağın
+      duyulan: an
+  REPLACE  ...dar görüşlülük olduğunu düşünüyordu
+      metin  : romanın
+      duyulan: romamın
+  ... ve 92 fark daha
+
+metinde olup DUYULMAYAN: 142 kelime | duyulup metinde OLMAYAN: 154
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: edebiyat-2026-11-16.duyulan.txt
