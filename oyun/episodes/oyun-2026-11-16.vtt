@@ -1,0 +1,601 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.690
+1990'da bir fuarda genç bir programcı, yukarı aşağı bakılabilen, dokularla kaplı bir zindan demosunu izledi ve "Ben bunu daha hızlı yaparım" dedi.
+
+2
+00:00:10.690 --> 00:00:15.940
+Adı John Carmack'ti, ama o zindanı yapanları bugün neredeyse kimse hatırlamıyor.
+
+3
+00:00:15.940 --> 00:00:24.230
+Oysa oyuncunun kendi çözümünü bulduğu, kimsenin ona nasıl oynayacağını söylemediği oyunların hepsi o küçük stüdyodan çıktı.
+
+4
+00:00:32.430 --> 00:00:36.080
+Yıl 1990, Chicago.
+
+5
+00:00:36.080 --> 00:00:43.570
+Yaz Tüketici Elektroniği Fuarı'nın kalabalık salonlarında, küçük bir standın önünde birkaç kişi ekrana eğilmiş.
+
+6
+00:00:43.570 --> 00:00:45.780
+Ekranda bir koridor var.
+
+7
+00:00:45.780 --> 00:00:53.110
+Bu koridor o yılların bilgisayar oyunlarındaki gibi kareden kareye atlamıyor, sanki bir kamera ilerliyormuş gibi akıyor.
+
+8
+00:00:53.110 --> 00:00:56.760
+Taş duvarların üzerinde gerçek bir doku görünüyor.
+
+9
+00:00:56.760 --> 00:01:01.690
+Oyuncu başını yukarı kaldırıp tavana, aşağı eğip zemine bakabiliyor.
+
+10
+00:01:01.690 --> 00:01:08.540
+O gün standın önünden geçenlerden biri, henüz adı pek duyulmamış genç bir programcı, John Carmack.
+
+11
+00:01:08.540 --> 00:01:17.310
+Paul Neurath'ın yıllar sonra anlattığına göre Carmack demoyu izlemiş ve bundan daha hızlı bir doku kaplama yöntemi yazabileceğini söylemiş.
+
+12
+00:01:17.310 --> 00:01:23.520
+Bu sahne, video oyunu tarihinin en çok tartışılan kronolojilerinden birinin başlangıcı.
+
+13
+00:01:23.520 --> 00:01:35.810
+Çoğumuzun aklında üç boyutlu ilk kişi bakış açısı, Carmack ile arkadaşlarının kurduğu küçük şirket id Software'in 1993 Aralığında çıkardığı Doom, yani Kıyamet ile başlar.
+
+14
+00:01:35.810 --> 00:01:43.940
+Oysa Kıyamet'ten 1,5 yıl önce, 1992 Mart'ında, raflarda bambaşka bir oyun vardı.
+
+15
+00:01:43.940 --> 00:01:47.750
+Adı Ultima Underworld: The Stygian Abyss'ti.
+
+16
+00:01:47.750 --> 00:01:50.920
+Biz kısaca Yeraltı Dünyası diyeceğiz.
+
+17
+00:01:50.920 --> 00:01:56.330
+Yeraltı Dünyası'nın arkasında Paul Neurath'ın kurduğu Blue Sky Productions vardı.
+
+18
+00:01:56.330 --> 00:02:02.060
+Neurath daha önce uzay temalı bir oyun yapmıştı ve kafasında belirli bir fikir vardı.
+
+19
+00:02:02.060 --> 00:02:11.150
+O dönemin zindan oyunları oyuncuyu ızgara şeklinde bir haritada adım adım ilerletiyor, her adımda dönüp sabit bir resim gösteriyordu.
+
+20
+00:02:11.150 --> 00:02:16.720
+Neurath ise oyuncunun gerçekten bir mağaranın içinde dolaştığını hissetmesini istiyordu.
+
+21
+00:02:16.720 --> 00:02:22.610
+Ekip, Ultima serisini yayımlayan Origin Systems'le, kısaca Origin'le anlaştı.
+
+22
+00:02:22.610 --> 00:02:28.340
+Yapımcılığı, ileride bu hikâyede tekrar karşımıza çıkacak olan Warren Spector üstlendi.
+
+23
+00:02:28.340 --> 00:02:35.030
+Kodun önemli bir kısmını yazanlar arasında, o sırada yirmili yaşlarının başındaki Doug Church de vardı.
+
+24
+00:02:35.030 --> 00:02:38.360
+Ortaya çıkan şey çağına göre şaşırtıcıydı.
+
+25
+00:02:38.360 --> 00:02:45.850
+Yeraltı Dünyası'nda zemin düz değildi; rampalar, eğimli yüzeyler, farklı yükseklikte platformlar vardı.
+
+26
+00:02:45.850 --> 00:02:50.620
+Oyuncu zıplayabiliyor, yüzebiliyor, yukarı ve aşağı bakabiliyordu.
+
+27
+00:02:50.620 --> 00:02:56.190
+Bir nesneyi fırlattığınızda yer çekimine göre yere düşüyor, duvardan sekiyordu.
+
+28
+00:02:56.190 --> 00:03:01.440
+Kıyamet'te bile yukarı aşağı bakmak, zıplamak ya da eğimli zemin yoktu.
+
+29
+00:03:01.440 --> 00:03:06.530
+O oyun hızı seçmişti, Yeraltı Dünyası ise bir dünyayı simüle etmeyi.
+
+30
+00:03:06.530 --> 00:03:09.060
+Oyunun hikâyesi basitti.
+
+31
+00:03:09.060 --> 00:03:15.750
+Kahraman, bir baronun kaçırılan kızını kurtarmak için bir adanın altındaki Styx Uçurumu'na atılır.
+
+32
+00:03:15.750 --> 00:03:18.920
+Aşağıda inen sekiz kat bulunur.
+
+33
+00:03:18.920 --> 00:03:23.690
+Ama bu katlar sadece canavar kesilen koridorlardan ibaret değildi.
+
+34
+00:03:23.690 --> 00:03:30.540
+Uçurumda goblin kabileleri, kertenkele adamlar, kendi aralarında çekişen topluluklar yaşıyordu.
+
+35
+00:03:30.540 --> 00:03:38.030
+Onlarla konuşabiliyor, takas yapabiliyor, kimi zaman bir tarafa yardım edip öbürünü karşınıza alabiliyordunuz.
+
+36
+00:03:38.030 --> 00:03:48.080
+Büyü sistemi rün taşlarına dayanıyordu; doğru rünleri doğru sırayla dizdiğinizde büyü çalışıyordu ve bu dizileri oyuncunun kendisinin keşfetmesi gerekiyordu.
+
+37
+00:03:48.080 --> 00:03:54.610
+Bir de harita vardı: kendiliğinden çiziliyordu ama üstüne kendi notlarınızı da yazabiliyordunuz.
+
+38
+00:03:54.610 --> 00:03:58.420
+Zindanın içinde bir kâşif gibi defter tutuyordunuz.
+
+39
+00:03:58.420 --> 00:04:04.310
+Yeraltı Dünyası'nın sonraki yıllarda bu kadar önemli sayılmasının asıl nedeni de bu.
+
+40
+00:04:04.310 --> 00:04:07.320
+Teknik buluşlar zamanla eskir.
+
+41
+00:04:07.320 --> 00:04:18.650
+Kalıcı olan, ekibin bir soruya verdiği cevaptı: oyunu oyuncunun yerine çözmek yerine, oyuncuya kurallarıyla tutarlı bir dünya verip onu orada serbest bırakmak.
+
+42
+00:04:18.650 --> 00:04:27.900
+Blue Sky aynı yıl uçuş simülatörü uzmanı Ned Lerner'ın şirketiyle birleşti ve yeni şirketin adı Looking Glass Technologies oldu.
+
+43
+00:04:27.900 --> 00:04:31.070
+Biz kısaca Ayna Stüdyosu diyeceğiz.
+
+44
+00:04:31.070 --> 00:04:34.880
+1993'te devam oyunu da çıktı.
+
+45
+00:04:34.880 --> 00:04:41.730
+Ama Ayna Stüdyosu'nun aklı başka bir yere, bir uzay istasyonunun karanlık koridorlarına kaymıştı bile.
+
+46
+00:04:41.730 --> 00:04:43.940
+2072 yılı.
+
+47
+00:04:43.940 --> 00:04:49.510
+Satürn'ün yörüngesinde Citadel Station, yani Kale İstasyonu.
+
+48
+00:04:49.510 --> 00:04:55.080
+Adı bile bilinmeyen bir bilgisayar korsanı, ameliyat sonrası uykusundan uyanıyor.
+
+49
+00:04:55.080 --> 00:04:56.810
+Altı ay geçmiş.
+
+50
+00:04:56.810 --> 00:04:59.980
+İstasyonda tek bir insan sesi yok.
+
+51
+00:04:59.980 --> 00:05:06.030
+Koridorlarda kan izleri, parçalanmış robotlar, mutasyona uğramış yaratıklar var.
+
+52
+00:05:06.030 --> 00:05:12.240
+Hoparlörlerden ise metalik, kesik kesik, kendini tanrı ilan eden bir ses geliyor.
+
+53
+00:05:12.240 --> 00:05:20.690
+Bu ses SHODAN'a ait: istasyonu yöneten ve etik kısıtları kaldırılınca kendi yaratıcılarına düşman olan yapay zekâ.
+
+54
+00:05:20.690 --> 00:05:31.220
+Ayna Stüdyosu'nun 1994 Eylül'ünde çıkardığı System Shock, yani Sistem Şoku, Doug Church'ün yönetiminde ve yine Warren Spector'ın yapımcılığında yapıldı.
+
+55
+00:05:31.220 --> 00:05:36.790
+Yeraltı Dünyası'nın motorunu bilimkurguya taşıyordu ama asıl yenilik anlatımdaydı.
+
+56
+00:05:36.790 --> 00:05:44.440
+Ekip, hikâyeyi uzun ara sahnelerle ya da yazı kutularıyla anlatmak yerine istasyonun her köşesine dağıttı.
+
+57
+00:05:44.440 --> 00:05:48.250
+Oyuncu yerde ses kayıtları ve e-postalar buluyordu.
+
+58
+00:05:48.250 --> 00:05:54.940
+Ölmüş mürettebatın son mesajlarını dinliyor, ne olduğunu parça parça kendi başına birleştiriyordu.
+
+59
+00:05:54.940 --> 00:06:00.830
+Bugün sayısız oyunda gördüğümüz ses kaydı geleneğinin en önemli kaynaklarından biri burasıdır.
+
+60
+00:06:00.830 --> 00:06:04.160
+SHODAN'ı seslendiren Terri Brosius'tu.
+
+61
+00:06:04.160 --> 00:06:10.850
+Kaydedilen ses kekeleyen, perdesi kayan, elektronik bir uğultuya karışan bir sese dönüştürüldü.
+
+62
+00:06:10.850 --> 00:06:18.820
+SHODAN çoğu zaman görünmüyordu ama her yerdeydi: kameralardan izliyor, kapıları kilitliyor, oyuncuyla alay ediyordu.
+
+63
+00:06:18.820 --> 00:06:23.430
+Kötü karakter bir boss odasında beklemiyordu; istasyonun kendisiydi.
+
+64
+00:06:23.430 --> 00:06:31.560
+Sistem Şoku, Kıyamet'in dünyayı kasıp kavurmasından birkaç ay sonra piyasaya çıktı ve doğal olarak onunla kıyaslandı.
+
+65
+00:06:31.560 --> 00:06:35.210
+Ama iki oyun aslında farklı yönlere bakıyordu.
+
+66
+00:06:35.210 --> 00:06:39.980
+Sistem Şoku'nda kaynaklar kıttı, mermiler hesaplı kullanılmalıydı.
+
+67
+00:06:39.980 --> 00:06:44.750
+Envanter yönetimi, bulmacalar ve sanal ağ bölümleri vardı.
+
+68
+00:06:44.750 --> 00:06:50.640
+Oyuncu siber uzaya bağlanıp tamamen farklı kurallarla işleyen bir alanda dolaşıyordu.
+
+69
+00:06:50.640 --> 00:06:59.890
+Bir de zorluk ayarları vardı ve bunlar tek bir düğme değildi: savaş, görev, bulmaca ve siber uzay için ayrı ayrı belirleniyordu.
+
+70
+00:06:59.890 --> 00:07:06.740
+Hikâyeye dalmak isteyip çatışmayı kolaylaştırabiliyor ya da bulmacaları tamamen kapatabiliyordunuz.
+
+71
+00:07:06.740 --> 00:07:11.990
+Oyun, nasıl oynayacağınıza dair seçimi daha ana menüde size bırakıyordu.
+
+72
+00:07:11.990 --> 00:07:16.280
+Bu seçim fikri Ayna Stüdyosu'nun imzası hâline geldi.
+
+73
+00:07:16.280 --> 00:07:20.090
+Ekip bir sorunun tek bir çözümü olmasın istiyordu.
+
+74
+00:07:20.090 --> 00:07:27.420
+Kilitli bir kapıyı açmak, etrafından dolaşmak ya da arkasındakini başka bir yolla halletmek mümkün olmalıydı.
+
+75
+00:07:27.420 --> 00:07:31.070
+Bu yaklaşıma sonradan sürükleyici simülasyon denecekti.
+
+76
+00:07:31.070 --> 00:07:33.920
+O yıllarda böyle bir adı yoktu.
+
+77
+00:07:33.920 --> 00:07:40.770
+Bu, Cambridge, Massachusetts'teki bir ofiste çalışan bir avuç tasarımcının oyun yapma biçimiydi.
+
+78
+00:07:40.770 --> 00:07:45.540
+Bu biçimin en saf hâli dört yıl sonra, gölgelerin içinden geldi.
+
+79
+00:07:45.540 --> 00:07:57.190
+1998 Kasım'ında yayıncı Eidos Interactive, yani Tomb Raider'ın İngiliz yayıncısı, Ayna Stüdyosu'nun yeni oyununu çıkardı: Thief: The Dark Project.
+
+80
+00:07:57.190 --> 00:07:59.880
+Biz kısaca Hırsız diyeceğiz.
+
+81
+00:07:59.880 --> 00:08:04.970
+Proje bir dönem kılıç dövüşüne dayalı bir şövalye oyunu olarak düşünülmüştü.
+
+82
+00:08:04.970 --> 00:08:11.020
+Ekip zamanla bambaşka bir yöne döndü ve sonunda kahramanı dövüşmekten kaçınan biri oldu.
+
+83
+00:08:11.020 --> 00:08:18.990
+Garrett, ortaçağ ile buhar çağı arasında bir yerde duran, sisli ve kasvetli bir şehirde yaşayan profesyonel bir hırsızdı.
+
+84
+00:08:18.990 --> 00:08:25.200
+Sesini veren Stephen Russell, onu kuru, alaycı ve yorgun bir adam olarak canlandırdı.
+
+85
+00:08:25.200 --> 00:08:28.530
+Ama Hırsız'ın gerçek kahramanı ışık ile sesti.
+
+86
+00:08:28.530 --> 00:08:36.020
+Ekranın altında küçük bir mücevher vardı; Garrett gölgeye girdikçe kararıyor, ışığa çıktıkça parlıyordu.
+
+87
+00:08:36.020 --> 00:08:39.830
+Bu mücevher oyuncuya ne kadar görünür olduğunu söylüyordu.
+
+88
+00:08:39.830 --> 00:08:44.120
+Mermer zeminde ayak sesleri yankılanıyor, halıda sönüyordu.
+
+89
+00:08:44.120 --> 00:08:49.850
+Su oklarıyla meşaleler söndürülüyor, yosun oklarıyla zemin sessizleştiriliyordu.
+
+90
+00:08:49.850 --> 00:08:55.900
+Muhafızlar bir ses duyduklarında huzursuzlanıyor, mırıldanıyor, aramaya başlıyordu.
+
+91
+00:08:55.900 --> 00:09:01.950
+Bu sistem, adını Karanlık Motor'dan alan yeni bir oyun motorunun üzerinde çalışıyordu.
+
+92
+00:09:01.950 --> 00:09:09.440
+Ses tasarımcısı Eric Brosius'un ekibi, sesin odalar arasında nasıl yayıldığını hesaba katan bir yapı kurmuştu.
+
+93
+00:09:09.440 --> 00:09:14.210
+Bir kapının ardından gelen konuşma, kapı açılınca netleşiyordu.
+
+94
+00:09:14.210 --> 00:09:17.700
+Oyuncu kulağını ekrana dayamış gibi oynuyordu.
+
+95
+00:09:17.700 --> 00:09:22.790
+O yıllarda ilk kişi bakış açılı oyunlar refleks ve ateş gücü demekti.
+
+96
+00:09:22.790 --> 00:09:27.880
+Hırsız ise beklemeyi, gözlemlemeyi, sabretmeyi ödüllendiriyordu.
+
+97
+00:09:27.880 --> 00:09:32.810
+Yüksek zorlukta oyun, kimseyi öldürmeden görevi bitirmenizi istiyordu.
+
+98
+00:09:32.810 --> 00:09:40.620
+Sistem Şoku'nun ruhu 1999'da System Shock 2 ile, yani Sistem Şoku 2 ile devam etti.
+
+99
+00:09:40.620 --> 00:09:46.990
+Oyunu Ayna Stüdyosu, Ken Levine ve arkadaşlarının kurduğu genç bir stüdyoyla birlikte geliştirdi.
+
+100
+00:09:46.990 --> 00:09:50.640
+2000 Mart'ında ise Hırsız'ın devamı çıktı.
+
+101
+00:09:50.640 --> 00:09:55.730
+Dışarıdan bakan biri için Ayna Stüdyosu yaratıcılığının zirvesindeydi.
+
+102
+00:09:55.730 --> 00:10:01.300
+Ama içeride, defterlerin tutulduğu odalarda bambaşka bir hikâye yazılıyordu.
+
+103
+00:10:01.300 --> 00:10:05.910
+Ayna Stüdyosu'nun kuruluşunda uçuş simülasyonu tutkusu da vardı.
+
+104
+00:10:05.910 --> 00:10:11.000
+Ned Lerner'ın ekibi uçuşun fiziğini gerçekçi biçimde modellemekte ustaydı.
+
+105
+00:10:11.000 --> 00:10:18.010
+1995'te stüdyo Flight Unlimited'ı, yani Sınırsız Uçuş'u kendisi yayımladı.
+
+106
+00:10:18.010 --> 00:10:26.460
+Oyun, akrobasi uçaklarının havadaki davranışını o güne kadar görülmemiş bir incelikle modelliyordu ve ticari olarak başarılı oldu.
+
+107
+00:10:26.460 --> 00:10:29.470
+Bu başarı stüdyoya büyük bir özgüven verdi.
+
+108
+00:10:29.470 --> 00:10:36.160
+Neden başkalarının yayıncılığına bağımlı kalalım, kendi oyunlarımızı kendimiz satalım, diye düşündüler.
+
+109
+00:10:36.160 --> 00:10:39.010
+Ne var ki yayıncılık başka bir meslekti.
+
+110
+00:10:39.010 --> 00:10:44.580
+Dağıtım, pazarlama, stok ve nakit akışı ayrı bir uzmanlık istiyordu.
+
+111
+00:10:44.580 --> 00:10:53.510
+1996'da çıkan Terra Nova, yani Yeni Dünya, eleştirmenlerden iyi notlar aldı ama beklenen satışlara ulaşamadı.
+
+112
+00:10:53.510 --> 00:10:57.000
+Ertesi yıl çıkan bir golf oyunu da tutmadı.
+
+113
+00:10:57.000 --> 00:11:06.410
+Kendi yayıncılık denemesi stüdyonun kasasını hızla eritti ve Ayna Stüdyosu sonunda yayıncılıktan çekilip yeniden ortaklara yaslanmak zorunda kaldı.
+
+114
+00:11:06.410 --> 00:11:10.540
+Uçuş simülatörleri ise ilk aşk olmaya devam etti.
+
+115
+00:11:10.540 --> 00:11:14.670
+Sınırsız Uçuş'un ikinci ve üçüncü oyunları geldi.
+
+116
+00:11:14.670 --> 00:11:17.520
+Ama bu alanda rekabet çok sertti.
+
+117
+00:11:17.520 --> 00:11:25.490
+Microsoft'un kendi uçuş simülatörü serisi giderek güçleniyordu ve bu, devasa bir şirketin arkasında durduğu bir üründü.
+
+118
+00:11:25.490 --> 00:11:32.980
+Bu tür oyunlar uzun ve pahalı bir geliştirme süreci, ince ayar ve sürekli güncellenen teknoloji gerektiriyordu.
+
+119
+00:11:32.980 --> 00:11:40.790
+Aynı dönemde bir de hava savaşı simülasyonu üzerinde çalışılıyordu ve bu proje de kaynak tüketmeye devam ediyordu.
+
+120
+00:11:40.790 --> 00:11:49.080
+Stüdyonun en çok sevilen oyunları gölgede saklanan bir hırsız ile bir istasyonu ele geçirmiş bir yapay zekâyı anlatıyordu.
+
+121
+00:11:49.080 --> 00:11:53.850
+Faturaların büyük kısmını ise gökyüzünde uçan uçaklar biriktiriyordu.
+
+122
+00:11:53.850 --> 00:11:57.980
+Hırsız'ın devam oyunu iyi satmıştı ve övgü almıştı.
+
+123
+00:11:57.980 --> 00:12:04.190
+Stüdyonun geleceği için bir satın alma ya da yeni bir finansman anlaşması üzerinde konuşuluyordu.
+
+124
+00:12:04.190 --> 00:12:12.000
+Ama bu süreç, Ayna Stüdyosu'nun kaderinde belirleyici olan İngiliz yayıncının kendi mali sıkıntılarıyla da iç içeydi.
+
+125
+00:12:12.000 --> 00:12:14.210
+Görüşmeler sonuç vermedi.
+
+126
+00:12:14.210 --> 00:12:18.820
+24 Mayıs 2000'de Ayna Stüdyosu kapılarını kapattı.
+
+127
+00:12:18.820 --> 00:12:25.990
+Çalışanlar, birkaç ay önce hayranların sevinçle karşıladığı bir oyunun ardından işsiz kaldıklarını öğrendi.
+
+128
+00:12:25.990 --> 00:12:31.880
+Dışarıdan bakanlar için en acı tarafı buydu: stüdyo kötü oyunlar yaptığı için batmamıştı.
+
+129
+00:12:31.880 --> 00:12:37.130
+Yaptığı oyunlar zamanının ötesindeydi ama şirketin hesapları buna yetişemedi.
+
+130
+00:12:37.130 --> 00:12:39.500
+Peki geriye ne kaldı?
+
+131
+00:12:39.500 --> 00:12:47.950
+Bir stüdyo kapanabilir ama tasarım fikirleri kapanmaz; onları taşıyan insanlarla birlikte yolculuğa devam ederler.
+
+132
+00:12:47.950 --> 00:12:56.080
+Warren Spector, Ayna Stüdyosu kapanmadan hemen önce, 2000 yılının yazında Deus Ex'i, yani Tanrı Makinesi'ni çıkardı.
+
+133
+00:12:56.080 --> 00:13:05.810
+Bir sorunu silahla, gizlilikle, konuşarak ya da bilgisayar korsanlığıyla çözebildiğiniz bu oyun, Sistem Şoku'nda ekilen tohumun büyümüş hâliydi.
+
+134
+00:13:05.810 --> 00:13:11.060
+Ken Levine'in stüdyosu 2007'de BioShock'u, yani Biyoşok'u yayımladı.
+
+135
+00:13:11.060 --> 00:13:21.750
+Su altındaki bir şehirde ses kayıtlarıyla parça parça anlatılan hikâyesi ve oyuncuyla oynayan sesiyle Sistem Şoku'nun ruhani mirasçısı olduğunu hiç saklamadı.
+
+136
+00:13:21.750 --> 00:13:29.560
+Hırsız serisi, Ayna Stüdyosu'nun eski çalışanlarının da yer aldığı bir ekiple 2004'te üçüncü oyununa kavuştu.
+
+137
+00:13:29.560 --> 00:13:41.850
+Bugün gizlilik oyunlarındaki görünürlük göstergeleri, düşmanların duyduğu sese tepki vermesi, bir haritada birden fazla çözüm yolu bırakılması, hep o Cambridge ofisinden dünyaya yayılmış fikirler.
+
+138
+00:13:41.850 --> 00:13:45.020
+Paul Neurath de yeraltını hiç unutmadı.
+
+139
+00:13:45.020 --> 00:13:49.950
+Yıllar sonra yeni bir stüdyo kurdu ve Styx Uçurumu'na geri dönmeyi denedi.
+
+140
+00:13:49.950 --> 00:13:53.760
+Eski ekip arkadaşlarının bir kısmı bu çabaya katıldı.
+
+141
+00:13:53.760 --> 00:13:58.850
+Bu, bir kuşağın kendi başlangıç noktasına duyduğu bağlılığın göstergesiydi.
+
+142
+00:13:58.850 --> 00:14:02.980
+Tarih çoğu zaman en yüksek sesle konuşanı hatırlar.
+
+143
+00:14:02.980 --> 00:14:11.270
+Kıyamet'in hızı, şiddeti ve modlanabilirliği oyun kültürünü kökten değiştirdi ve bu değişim hak edilmiş bir şöhretti.
+
+144
+00:14:11.270 --> 00:14:16.360
+Ama aynı yıllarda, daha sessiz bir köşede başka bir devrim yaşanıyordu.
+
+145
+00:14:16.360 --> 00:14:21.130
+Bu devrim oyuncuya neyi vuracağını değil, ne yapmak istediğini soruyordu.
+
+146
+00:14:21.130 --> 00:14:31.180
+Bir zindanın haritasına not düşmeyi, bir yapay zekânın sesinden ürpermeyi, bir muhafızın ayak seslerini dinleyerek gölgede nefesini tutmayı öğretiyordu.
+
+147
+00:14:31.180 --> 00:14:34.190
+Ayna Stüdyosu yalnızca on yıl yaşadı.
+
+148
+00:14:34.190 --> 00:14:44.080
+Fakat bugün açık uçlu bir oyunda bir kapının önünde durup "acaba başka bir yolu var mı" diye düşündüğümüz her an, o on yılın ürettiği fikirler hâlâ iş başında.
+
+149
+00:14:44.080 --> 00:14:47.250
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+150
+00:14:47.250 --> 00:14:50.420
+Yeni bir hikâyede yeniden buluşmak üzere.
