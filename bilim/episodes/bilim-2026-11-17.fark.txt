@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-17.mp3
+
+beklenen 2127 kelime | duyulan 2127 kelime | eşleşme %97.5
+sayı ifadesi: metinde 280, duyulanda 226  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şey olduğu ortaya çıktı
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...göl yatağı vardır adı
+      metin  : racetrack
+      duyulan: rage track
+  REPLACE  ...çatlamış birbirine kenetlenmiş binlerce
+      metin  : çokgen
+      duyulan: çokken
+  REPLACE  ...kopup düşmüş yani zamanlar
+      metin  : yamacın
+      duyulan: yamaçın
+  REPLACE  ...bu izleri ciddi biçimde
+      metin  : kırkların
+      duyulan: ların
+  INSERT   ...kırkların sonunda fark etti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...jeologlar jim mcallister ve
+      metin  : allen
+      duyulan: alan
+  REPLACE  ...akla ilk gelen açıklama
+      metin  : rüzgardı
+      duyulan: rüzgerdi
+  REPLACE  ...zeminde yağmurdan sonra çoğalan
+      metin  : mikroskobik alglerin
+      duyulan: mikroskopik algı yerin
+  INSERT   ...altındaki titreşimlerden söz etti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aylarında düzlükte su birikiyor
+      metin  : bu
+      duyulan: buz
+  DELETE   ...hareket ettiği bölgede olağanüstü
+      metin  : enerjiler bulunduğu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...araç izinin bulunmaması bu
+      metin  : ihtimali
+      duyulan: ihtimalide zayıflatıyordu
+  DELETE   ...bulunmaması bu ihtimali de
+      metin  : zayıflatıyordu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...de zayıflatıyordu jeolog robert
+      metin  : sharp
+      duyulan: sharpe
+  REPLACE  ...çalışma boyunca yerinden kıpırdamadı
+      metin  : sharp
+      duyulan: sharpe
+  REPLACE  ...araştırmacılar da düzlüğe geldi
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...okyanus bilimleri enstitüsünde çalışan
+      metin  : paleobiyolog
+      duyulan: paleobiolog
+  INSERT   ...bırakıldı park yönetiminin izniyle
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...neredeyze hiçbir şey olmadı
+      metin  : norris lerin
+      duyulan: norislerin
+  INSERT   ...her kış oluşmuyordu aralık
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...üzerinde yüzüyordu ve aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gelen verilerle bu hareketleri
+      metin  : ayrıntılı
+      duyulan: arıntılı
+  INSERT   ...hareket olayı kaydedildi tanesinde
+      metin  : (yok)
+      duyulan: tan
+  REPLACE  ...taş kış boyunca ayrı
+      metin  : hamleyle
+      duyulan: hamle ile
+  REPLACE  ...sığ suyun gölün buzla
+      metin  : kaplıyken
+      duyulan: kaplayıken
+  REPLACE  ...zamanlarda geliyordu düzlük suyla
+      metin  : kaplıyken
+      duyulan: kaplayıken
+  INSERT   ...olmasıydı ekip bulgularını ağustos
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dönemde gezegen bilimci ralph
+      metin  : lorenz
+      duyulan: lawrence
+  INSERT   ...izleme çalışması da ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...benzer hareketi kameraya almıştı
+      metin  : lorenz
+      duyulan: lawrence
+  REPLACE  ...önce buzun kendisine bakalım
+      metin  : norris lerin
+      duyulan: norislerin
+  REPLACE  ...kuvvet küçük temas noktasında
+      metin  : taşa
+      duyulan: taşı
+  REPLACE  ...buz dansının fosili gibi
+      metin  : peki sharp
+      duyulan: şart
+  REPLACE  ...gibi peki sharp ve
+      metin  : carey nin
+      duyulan: kerenin
+  REPLACE  ...çalışmasında yerinden hiç kıpırdamayan
+      metin  : karen
+      duyulan: keren
+  REPLACE  ...daha derin su gerekiyor
+      metin  : yani
+      duyulan: aynı
+  REPLACE  ...kendisi aslında yeni değildi
+      metin  : ellilerden
+      duyulan: lerden
+  INSERT   ...değildi ellilerden beri masadaydı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...oluşur bu çalışmalar başka
+      metin  : gökcisimlerine
+      duyulan: gökçüsümlerine
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 45
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-11-17.duyulan.txt

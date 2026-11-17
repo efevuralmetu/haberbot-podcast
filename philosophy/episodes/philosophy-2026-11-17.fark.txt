@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-17.mp3
+
+beklenen 2682 kelime | duyulan 2521 kelime | eşleşme %13.3
+sayı ifadesi: metinde 237, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...catch from another person
+      metin  : atina mö civarı yaz sıcağında gezinti yolu teselya
+      duyulan: attina mavrota ii and ronin ii sivaer yas sujan da in tiolu tes yajdang yalmish zengin yakushiklu kendin
+  DELETE   ...gezinti yolu teselya dan
+      metin  : gelmiş zengin yakışıklı kendinden
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zengin yakışıklı kendinden emin
+      metin  : genç sokrates
+      duyulan: birgench socrates
+  REPLACE  ...emin genç sokrates in
+      metin  : karşısına dikiliyor ve lafı hiç dolandırmadan soruyor söyle bana sokrates
+      duyulan: karsi sana dikilyor vela fuhich dolandur madan soryor soy lebana socrates erdam uretile bilirme yoksa chalisharak alishtir mailemukazanulur yada de deyilde insana doustan magelir jenson ad menen plaitan dabu konushmaya onanadun werijek sorumasum gibidurior ama ichinde birtuzak saklu
+  REPLACE  ...söyle bana sokrates erdem
+      metin  : öğretilebilir
+      duyulan: uretile bilirsa kutu insanar asdan da iksek eite malmush insanar derve ibi okulagun dermekyetar oretile
+  REPLACE  ...sokrates erdem öğretilebilir mi
+      metin  : yoksa çalışarak alıştırmayla mı kazanılır ya da de değil de insana doğuştan mı gelir gencin adı menon platon da bu konuşmaya adını verecek soru masum gibi duruyor ama içinde tuzak saklı erdem öğretilebiliyorsa kötü insanlar aslında eksik eğitim almış insanlardır ve iyi okula göndermek yeter öğretilemiyorsa bütün o nasihatler
+      duyulan: orsa butun onasihatlar
+  REPLACE  ...o nasihatler okullar ahlak
+      metin  : dersleri babaların oğullarına yaptığı uzun konuşmalar boşa harcanmış nefestir doğuştan geliyorsa
+      duyulan: dersteer babalaran ollar na yaptu usun konushmalar boshaharjan mishne festir doishtan gili orsa
+  REPLACE  ...nefestir doğuştan geliyorsa durum
+      metin  : daha da karanlık
+      duyulan: dahadakaranak
+  REPLACE  ...daha da karanlık kimi
+      metin  : iyi doğar
+      duyulan: iiduar
+  REPLACE  ...kimi iyi doğar kimi
+      metin  : kötü
+      duyulan: kyutu
+  REPLACE  ...doğar kimi kötü kimse
+      metin  : de şey yapamaz sokrates
+      duyulan: debisei yapamas socrates
+  REPLACE  ...sokrates her zamanki gibi
+      metin  : cevabı tersinden veriyor erdemin öğretilip öğretilemeyeceğini bilmediğini
+      duyulan: jewabu tersindan viryor erdem uretile bilirme ejene bilmedine
+  REPLACE  ...öğretilip öğretilemeyeceğini bilmediğini hatta
+      metin  : erdemin ne olduğunu bile bilmediğini söylüyor menon şaşırıyor
+      duyulan: uretile neoldun bilir bilmedine soryor maonan shishirir
+  REPLACE  ...söylüyor menon şaşırıyor bu
+      metin  : konuda
+      duyulan: konoda
+  REPLACE  ...şaşırıyor bu konuda pek
+      metin  : çok
+      duyulan: chok
+  REPLACE  ...pek çok kez pek
+      metin  : çok kalabalığın önünde uzun uzun konuşmuş hep
+      duyulan: chok kalabalun unun
+  REPLACE  ...uzun konuşmuş hep de
+      metin  : iyi konuştuğunu düşünmüş o şimdi
+      duyulan: usun usun konushmush heptaei konushdun dushun mushpirau shim di
+  REPLACE  ...düşünmüş o şimdi tek
+      metin  : tanım bile tutturamıyor erkeğin erdemi kadının erdemi çocuğun erdemi
+      duyulan: birtanum bilaytut durum yor arkayin aardeme kadunun aardeme chojun aardeme
+  REPLACE  ...erdemi çocuğun erdemi diye
+      metin  : sayıp
+      duyulan: sayyip
+  REPLACE  ...erdemi diye sayıp duruyor
+      metin  : sokrates ize arı sürüsü değil arıyı arı yapan şeyi istiyor sonunda menon sokrates i insanı uyuşturan
+      duyulan: socrates isse arasuri sudeil arya arya pan shei ist yor sonan da menan socrates insan uyushturan
+  REPLACE  ...i insanı uyuşturan torpil
+      metin  : balığına benzetiyor dokunduğu herkesin
+      duyulan: baluna benze tuyor dokundu harkizin
+  REPLACE  ...benzetiyor dokunduğu herkesin dilini
+      metin  : tutuyor aklını donduruyor ama asıl gerilim tartışmanın ortasına adam girince başlıyor anytos babası tabaklıkla zengin olmuş
+      duyulan: tuyor akhlinu don duruyor emma asil girilim tartishmanan ortasana uchunju girin jabashtuyor anytose babasu tawaklik la zenge nolmus
+  REPLACE  ...zengin olmuş kendisi de
+      metin  : saygın atinalı demokrasinin sadık savunucusu sokrates dönüp
+      duyulan: saigan biratinale demokresinin saadik sabunu jusu socrates donup
+  REPLACE  ...savunucusu sokrates dönüp gayet
+      metin  : sakin şey soruyor atina nın büyük adamları iyi ve erdemli insanlar değil miydi anytos elbette öyleydiler
+      duyulan: saakin soryor attinanun buyukadam naer iwe aardem nee insan nardir mede anytose elbeer uldidil ar
+  REPLACE  ...anytos elbette öyleydiler diyor
+      metin  : sokrates
+      duyulan: socrates
+  REPLACE  ...öyleydiler diyor sokrates de
+      metin  : o zaman şunu soruyor peki bu adamlar
+      duyulan: ozaman shunu soryor pekibu adam naer
+  REPLACE  ...peki bu adamlar kendi
+      metin  : erdemlerini en çok sevdikleri insanlara yani oğullarına neden öğretemediler
+      duyulan: aardem neeer ne enchok sevdik deri insan nara yane uldir na nedan uretem edil ar
+  REPLACE  ...oğullarına neden öğretemediler sonra
+      metin  : isimleri tek tek sayıyor themistokles in oğlu kleophantos u ata
+      duyulan: isim neer tekteksayor temes tokulze nolu kleofentosu atabin mede
+  REPLACE  ...kleophantos u ata usta
+      metin  : yaptırmış çocuk at sırtında
+      duyulan: iapturmus chojukat sirtan da
+  REPLACE  ...çocuk at sırtında dimdik
+      metin  : durabiliyor at koşarken mızrak atabiliyormuş babası öğretilebilen her şeyi öğretmiş
+      duyulan: turabiliyor atko sharkan muzrakatabiliyormus babasu uretile bilan hershey uretmus
+  REPLACE  ...her şeyi öğretmiş ama
+      metin  : kleophantos un babası
+      duyulan: kleofentosan babasu
+  REPLACE  ...kleophantos un babası gibi
+      metin  : bilge ve iyi
+      duyulan: bilgeve iwe abir
+  REPLACE  ...bilge ve iyi adam
+      metin  : olduğunu
+      duyulan: uldunu
+  REPLACE  ...iyi adam olduğunu kimse
+      metin  : söylememiş aristeides atinalıların adil diye andığı adamdı oğlu lysimakhos a en iyi eğitimi aldırdı
+      duyulan: soylememish aristeires atinalularen adildiandu adamde olu lisimakos ne eitima aldardu
+  REPLACE  ...iyi eğitimi aldırdı ama
+      metin  : oğlu sıradan
+      duyulan: olus radan
+  REPLACE  ...ama oğlu sıradan olarak
+      metin  : kaldı thukydides adlı başka
+      duyulan: kaldu thukidaids adlibir bashka
+  REPLACE  ...thukydides adlı başka devlet
+      metin  : adamının oğlu atina nın en iyi güreşçileri arasındaydı ve perikles atina yı çağına taşıyan parthenon un yapılmasına ön ayak olan sözüyle meclisi yöneten adam i ki oğlu vardı paralos ve ksanthippos perikles binicilik müzik
+      duyulan: adamunun ikkyo olu atinanun eni igereshtiliyar asindaidu viparikliz atinaya altan chana tashian partenonun yapilmasana kolan suzule mejlisiyonit enadam ikkyo olu vardu paralosve kasan tipoz periklazon larabini chilek muzik
+  REPLACE  ...perikles binicilik müzik beden
+      metin  : eğitimi kısacası parayla öğretilebilecek her şeyi öğretti sokrates in sorusu basit
+      duyulan: eiteme kusajasupareilu uretile bilgegek hershey urette sokretesen soru subasit
+  REPLACE  ...sorusu basit bu adam
+      metin  : oğullarını iyi insan yapabilseydi yapmaz mıydı bunun için parası mı yoktu zamanı mı isteği mi hiçbiri eksik değildi demek ki eksik olan başka şeydi anytos
+      duyulan: oler na iin sanyapabiseide yapmasmede bununichin parasumuyoktu zamanumu isteime kichperi exikteilde dmeikki exikolan bashka bishade anitosiz yuzi dey shiyor sokretese ufkeile uyarada bulunyor in sanlar hakanda kyutukonu schmak chok kolai sennin yeren deol samdikat leolardum bashka shehir larda dola bilir amabu shehir debirne zarar varmek iiliket mektan chokdaha kolaidar bunu suole ipsu suyor tleitenun bu sahne iin eden yazden oku yuzi chok yibiliyordu kach yil sonra duyo uchizdok san sokretese genchleri bashtan chikar maklasu chleip makhyeme chikaran nardan bu anitosolajakte yani diyalok ken diyolum fermanan
+  REPLACE  ...başka şeydi anytos un
+      metin  : değişiyor sokrates e öfkeyle uyarıda bulunuyor i nsanlar hakkında kötü konuşmak çok kolay senin yerinde olsam dikkatli olurdum başka şehirlerde de olabilir ama bu şehirde zarar vermek iyilik etmekten çok daha kolaydır bunu söyleyip susuyor platon un bu sahneyi neden yazdığını okuyucu çok iyi biliyordu yıl sonra mö da sokrates i gençleri baştan çıkarmakla suçlayıp mahkemeye çıkaranlardan bu anytos olacaktı yani diyalog kendi ölüm fermanının provası
+      duyulan: purovasi
+  ... ve 192 fark daha
+
+metinde olup DUYULMAYAN: 2333 kelime | duyulup metinde OLMAYAN: 2174
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-11-17.duyulan.txt

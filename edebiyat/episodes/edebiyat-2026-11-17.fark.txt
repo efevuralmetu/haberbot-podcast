@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-17.mp3
+
+beklenen 1775 kelime | duyulan 1773 kelime | eşleşme %94.9
+sayı ifadesi: metinde 261, duyulanda 184  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bindirilip memleketinden sürülen çocuk
+      metin  : küsur
+      duyulan: küsür
+  REPLACE  ...sonra devletin parasını basan
+      metin  : darphane nin
+      duyulan: darfayn ın
+  REPLACE  ...sesleri dize sesleri değildi
+      metin  : kağnı
+      duyulan: kaan ı
+  INSERT   ...yola çıkan ailenin sessizliğiydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bursa da öldü cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...genç şairlerin ilk dizelerinin
+      metin  : yayımlandığı
+      duyulan: arayımlandığı
+  INSERT   ...hem de şair oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...özetler önce süreyya diye
+      metin  : y
+      duyulan: ye
+  REPLACE  ...harfiyle yazmayı düşünmüştü sonra
+      metin  : y lerden
+      duyulan: yalerden
+  REPLACE  ...türk şiirinin kapısını çaldı
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...yoktu aynı kahvede toplanan
+      metin  : ekip de
+      duyulan: ekipte
+  INSERT   ...muzaffer i lhan erdost
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kuramcılarından o yıllarda yazdığı
+      metin  : folklor
+      duyulan: folkloer
+  INSERT   ...gereken şey olduğunu söylüyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kavuşulamayan yarı da cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...suçluluk duygusundan uzak yazmak
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...toplumsal sınırı zorlamaktı cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...haklı görülebilirdi ama cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...anladığı şeye dönüştü cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...şairler arasında hissedildi kitap
+      metin  : i kinci yeni nin
+      duyulan: yeninin
+  REPLACE  ...mezun olduktan sonra cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...gibi duruyordu ama cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...hayatının en ironik durağı
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...yetmişlerin ortasında geldi cemal
+      metin  : süreya darphane
+      duyulan: süreyya darfan
+  REPLACE  ...kazanamıyordu gerçekten de cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...bunun en açık örneği
+      metin  : papirüs
+      duyulan: papyrus
+  INSERT   ...açık örneği papirüs dergisiydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ölçüde kendi imkanlarıyla çıkardı
+      metin  : papirüs
+      duyulan: papyrus
+  REPLACE  ...kapanıp yeniden açıldı cemal
+      metin  : süreya
+      duyulan: süreyya
+  REPLACE  ...bölümünü bu dergiye harcadı
+      metin  : darphanenin
+      duyulan: darpanenin
+  REPLACE  ...olarak da okunabilir cemal
+      metin  : süreya
+      duyulan: süreyya
+  INSERT   ...şiir yazmayı hiç bırakmadı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...hiç bırakmadı göçebe çıktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...giderek derinleşen hüzün eklendi
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...adıyla şiirleri araya getirildi
+      metin  : güz bitiği
+      duyulan: de güzbiti
+  REPLACE  ...ağırdır şiirin dışında cemal
+      metin  : süreya düzyazı
+      duyulan: süreyya düz yazı
+  REPLACE  ...hep kendini gösterdi cemal
+      metin  : süreya
+      duyulan: süreyya
+  INSERT   ...gösterdi cemal süreya ocak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kadar dayanıklı olduğunu gösterdi
+      metin  : i kinci yeni nin
+      duyulan: yeninin
+  REPLACE  ...genç okur tek dizesini
+      metin  : i kinci yeni nin
+      duyulan: yeninin
+  ... ve 10 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: edebiyat-2026-11-17.duyulan.txt

@@ -1,0 +1,67 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-17.mp3
+
+beklenen 1405 kelime | duyulan 1404 kelime | eşleşme %98.2
+sayı ifadesi: metinde 167, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendinizi üniversite sınıfında düşünün
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...ayrı fiyat yazmanız isteniyor
+      metin  : ekonomi
+      duyulan: ekonomik
+  REPLACE  ...bu deneyi tasarlayan ekonomist
+      metin  : corc lovenstayn
+      duyulan: kurt lovenstein
+  REPLACE  ...o günün tamamını tatlandırır
+      metin  : lovenstayn
+      duyulan: lovenstein
+  REPLACE  ...taşıyalım yılında hollandalı araştırmacı
+      metin  : yerun naveyn
+      duyulan: jerun navein
+  REPLACE  ...takip etti bu kişilerin
+      metin  : dördü
+      duyulan: ü
+  REPLACE  ...kimse hastalanmaz kimse tartışmaz
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...de kısaca değinmek gerek
+      metin  : sinirbilimci volfram şults
+      duyulan: sinir bilimci wolfram schulz
+  INSERT   ...killingsworth ve thomas gilovich
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...beklemek ize daha çok
+      metin  : heyecanla
+      duyulan: heyecanlı
+  REPLACE  ...ve en basit öneri
+      metin  : naveyn in
+      duyulan: navway nin
+  REPLACE  ...içinde yayılmasına imkan verir
+      metin  : lovenstayn
+      duyulan: lovenstein
+  DELETE   ...bilinçli olarak tatma becerisine
+      metin  : savoring
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o gün açık değilse
+      metin  : lovenstayn
+      duyulan: lovenstein
+  REPLACE  ...için küçük hafta sonu
+      metin  : kaçamağı
+      duyulan: kaçamığa
+  REPLACE  ...yumuşatır böylece hayat tek
+      metin  : tük
+      duyulan: türk
+  REPLACE  ...yeteneğini bilinçli olarak kullanmak
+      metin  : lovenstayn
+      duyulan: lovenstein
+  REPLACE  ...ama tadı şimdiden başlayabilir
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 23
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-11-17.duyulan.txt

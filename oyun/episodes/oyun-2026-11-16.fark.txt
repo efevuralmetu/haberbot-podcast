@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-16.mp3
+
+beklenen 1577 kelime | duyulan 1576 kelime | eşleşme %95.1
+sayı ifadesi: metinde 190, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dedi adı john carmack
+      metin  : ti
+      duyulan: tı
+  REPLACE  ...üzerinde gerçek doku görünüyor
+      metin  : oyuncu
+      duyulan: şu
+  REPLACE  ...aralığında çıkardığı doom yani
+      metin  : kıyamet ile
+      duyulan: kıyametle
+  REPLACE  ...kıyamet ile başlar oysa
+      metin  : kıyamet
+      duyulan: kıyametten
+  INSERT   ...yazanlar arasında o sırada
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...o sırada yaşlarının başındaki
+      metin  : doug
+      duyulan: dark
+  REPLACE  ...kurtarmak için adanın altındaki
+      metin  : stiks uçurumu na
+      duyulan: stix uçurumuna
+  INSERT   ...kısaca ayna stüdyosu diyeceğiz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...karanlık koridorlarına kaymıştı bile
+      metin  : (yok)
+      duyulan: kip in
+  REPLACE  ...mutasyona uğramış yaratıklar var
+      metin  : hoparlörlerden
+      duyulan: poparlörlerden
+  REPLACE  ...shock yani sistem şoku
+      metin  : doug
+      duyulan: duck
+  REPLACE  ...sistem şoku doug church
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ve yine warren spector
+      metin  : ın
+      duyulan: un
+  REPLACE  ...burasıdır shodan ı seslendiren
+      metin  : terri
+      duyulan: terry
+  REPLACE  ...uğultuya karışan sese dönüştürüldü
+      metin  : shodan
+      duyulan: e show dan
+  REPLACE  ...için ayrı ayrı belirleniyordu
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...çatışmayı kolaylaştırabiliyor ya da
+      metin  : bulmacaları
+      duyulan: bulmaçaları
+  REPLACE  ...ekip sorunun tek çözümü
+      metin  : olmasın
+      duyulan: olmasını
+  REPLACE  ...yayıncı eidos interactive yani
+      metin  : tomb raider
+      duyulan: tom prader
+  REPLACE  ...nun yeni oyununu çıkardı
+      metin  : thief
+      duyulan: tief
+  REPLACE  ...kahramanı dövüşmekten kaçınan oldu
+      metin  : garrett
+      duyulan: gareth
+  REPLACE  ...ekranın küçük mücevher vardı
+      metin  : garrett
+      duyulan: gareth
+  REPLACE  ...sistem şoku nun ruhu
+      metin  : system shock
+      duyulan: da sistem şok
+  REPLACE  ...gerçekçi biçimde modellemekte ustaydı
+      metin  : stüdyo
+      duyulan: te studio
+  REPLACE  ...ustaydı stüdyo flight unlimited
+      metin  : ı
+      duyulan: i
+  INSERT   ...akışı ayrı uzmanlık istiyordu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...görüşmeler sonuç vermedi mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önce yılının yazında deus
+      metin  : ex i
+      duyulan: exe
+  REPLACE  ...büyümüş haliydi ken levine
+      metin  : in
+      duyulan: nin
+  REPLACE  ...ken levine in stüdyosu
+      metin  : bioshock
+      duyulan: de bio shoku yani bio show
+  DELETE   ...in stüdyosu bioshock u
+      metin  : yani biyoşoğu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oyuncuyla oynayan sesiyle sistem
+      metin  : şoku
+      duyulan: shoku
+  INSERT   ...da yer aldığı ekiple
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fikirler paul neurath de
+      metin  : yeraltını
+      duyulan: yer
+  REPLACE  ...yeni stüdyo kurdu ve
+      metin  : stiks uçurumu na
+      duyulan: styx uçurumuna
+  REPLACE  ...yüksek sesle konuşanı hatırlar
+      metin  : kıyamedin
+      duyulan: kıyametin
+  REPLACE  ...gölgede nefesini tutmayı öğretiyordu
+      metin  : ayna
+      duyulan: aynı
+  REPLACE  ...fikirler hala iş başında
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 53
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: oyun-2026-11-16.duyulan.txt

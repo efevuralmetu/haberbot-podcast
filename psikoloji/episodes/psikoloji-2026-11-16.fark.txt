@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-16.mp3
+
+beklenen 1424 kelime | duyulan 1427 kelime | eşleşme %98.4
+sayı ifadesi: metinde 183, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yapıldı bunlardan adı westgate
+      metin  : ti
+      duyulan: di
+  REPLACE  ...mesafeydi leon festinger stanley
+      metin  : şakter
+      duyulan: schachter
+  REPLACE  ...stanley şakter ve kurt
+      metin  : back
+      duyulan: beck
+  INSERT   ...arasında kapı kapıya yaşayanların
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...kapı ötedekilerde bu oran
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...ortamlarda da görmek mümkün
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...görmek mümkün yetmişlerde sosyolog
+      metin  : mady
+      duyulan: madi
+  REPLACE  ...alfabeye bakarak arkadaş seçmemişti
+      metin  : alfabe
+      duyulan: alfey bey
+  REPLACE  ...tek yönlü iyilik değil
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...varsa da besliyor westgate
+      metin  : teki
+      duyulan: deki
+  REPLACE  ...zemine dayanması romantik değil
+      metin  : öte
+      duyulan: edoite
+  INSERT   ...bilimci jeffrey hal hal
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ölçek fikri çok öğretici
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...bende sorun mu var
+      metin  : hal un
+      duyulan: hallun
+  REPLACE  ...saatleri bilerek biriktirmek gerekiyor
+      metin  : hal un
+      duyulan: hallun
+  REPLACE  ...kinci adım işlevsel mesafenizi
+      metin  : küçültmek
+      duyulan: küçürtmek
+  REPLACE  ...da gün kahve içelim
+      metin  : mi
+      duyulan: mü
+  REPLACE  ...olan dostluklar için geçerli
+      metin  : hal un
+      duyulan: hallun
+  INSERT   ...önce destek almak gerekir
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...saatlerin birikmesine fırsat tanımak
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 22
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-11-16.duyulan.txt

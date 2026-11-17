@@ -1,0 +1,115 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-16.mp3
+
+beklenen 1430 kelime | duyulan 1426 kelime | eşleşme %95.2
+sayı ifadesi: metinde 246, duyulanda 142  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...ayından bu yana bölgede
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...geliyor yemen de hükümet
+      metin  : güçleri ile
+      duyulan: güçleriyle
+  REPLACE  ...perşembe günü çin in
+      metin  : şenzen
+      duyulan: shenzhen
+  REPLACE  ...trump vladimir putin ve
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...ın aynı gün şi
+      metin  : ile
+      duyulan: yle
+  REPLACE  ...roket amazon un leo
+      metin  : genişbant ağı
+      duyulan: genişband a yı
+  REPLACE  ...genişbant ağı için taşıdığı
+      metin  : uyduyu
+      duyulan: uyduğu
+  REPLACE  ...i ziyaret ediyor ziyaret
+      metin  : yeni delhi
+      duyulan: yenideli
+  REPLACE  ...delhi nin güneydoğu asya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...sporda i ngilteer madrid
+      metin  : de
+      duyulan: te
+  INSERT   ...dolar gelir ve karda
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...istifa etmesinden sonraki ilk
+      metin  : bilanço
+      duyulan: planço
+  REPLACE  ...şirketin finans direktörü colette
+      metin  : kress
+      duyulan: cress
+  REPLACE  ...haftanın büyük teknoloji olayı
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...haberleer göer halka arz
+      metin  : şirkete
+      duyulan: şirketi
+  REPLACE  ...ürünlerine yapay zeka ajanları
+      metin  : enteger etti
+      duyulan: entegretti
+  REPLACE  ...etti new york eyaleti
+      metin  : binghamton
+      duyulan: binghampton
+  INSERT   ...akademisi kurulacak üretim akademisinin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...endeksi geriledi abd de
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...ize düşüşte avrupa vadelileri
+      metin  : yatay
+      duyulan: yatağ
+  REPLACE  ...yatırımcılar nvidia bilançosu ve
+      metin  : anthropic
+      duyulan: antropik
+  INSERT   ...öncesi seviyeleer yaklaştığı bildiriliyor
+      metin  : (yok)
+      duyulan: saltın
+  REPLACE  ...bankası fed in yetkililerinden
+      metin  : susan
+      duyulan: suzan
+  REPLACE  ...yıl sonu enflasyon beklentisi
+      metin  : dörde
+      duyulan: e
+  INSERT   ...enflasyon raporu nda tahminini
+      metin  : (yok)
+      duyulan: den e
+  INSERT   ...nda tahminini tahminini ize
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...piyasa aralık taki toplantıda
+      metin  : baz
+      duyulan: bas
+  INSERT   ...mayıs ta partinin kasım
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...karar henüz kesinleşmedi ve
+      metin  : temyiz
+      duyulan: temiz
+  DELETE   ...başkanı numan kurtulmuş ize
+      metin  : copotuz
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işlem görmeye başlaması beklenen
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...arzı geliyor aynı gün
+      metin  : şenzen
+      duyulan: shenzhen
+  REPLACE  ...yapılacak trump putin ve
+      metin  : şi
+      duyulan: xi
+  REPLACE  ...olacak gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: gundem-2026-11-16.duyulan.txt

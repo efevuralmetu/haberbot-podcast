@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-17.mp3
+
+beklenen 2468 kelime | duyulan 2468 kelime | eşleşme %95.1
+sayı ifadesi: metinde 308, duyulanda 234  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...geceleri arabasında uyuyordu adı
+      metin  : pol şreydır
+      duyulan: paul schrader
+  REPLACE  ...hiçbirine dokunamayan adamın tabutu
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...kısa sürede bitirdi kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...çekirdeği böyle ortaya çıktı
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...bu yalnızlığa ayrı renk
+      metin  : katıyordu
+      duyulan: atıyordu
+  REPLACE  ...grand rapids kentinde katı
+      metin  : kalvinist
+      duyulan: kalbinist
+  REPLACE  ...ile fransız yönetmen robert
+      metin  : breson
+      duyulan: bresson
+  REPLACE  ...robert breson üzerine kitap
+      metin  : kaleme
+      duyulan: kalemi
+  REPLACE  ...üzerine kitap kaleme aldı
+      metin  : breson
+      duyulan: bresson
+  REPLACE  ...ulaşan yalnızın hikayesiydi bu
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...yeraltından notlar ı ve
+      metin  : sartr
+      duyulan: sarter
+  REPLACE  ...bu kitaplardaki kahramanlar da
+      metin  : dünyayla
+      duyulan: dünya ile
+  INSERT   ...yıl gazete manşetlerinden çıktı
+      metin  : (yok)
+      duyulan: dotson
+  INSERT   ...gazete manşetlerinden çıktı mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...etmeyen adamın zihni vardı
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...adamın imlasıyla günlüğüne geçiriyor
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...bremer den hem de
+      metin  : breson
+      duyulan: bresson
+  REPLACE  ...john ford un yapımı
+      metin  : westerni
+      duyulan: westerny
+  REPLACE  ...şiddet dolu yolculuğa dönüşür
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...dönüşür şreydır bu iskeleti
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...taksi şoförüydü senaryo önce
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...projeyi satın aldılar martin
+      metin  : skorsezi şreydır
+      duyulan: scorsese schrader
+  REPLACE  ...yapımcılar başta tereddüt ediyordu
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...risk gibi görünüyordu dengeyi
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...sonraki filmi değiştirdi ellen
+      metin  : burstyn
+      duyulan: burstein
+  REPLACE  ...ını kazandıran o yapım
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...nın filmindeki genç vito
+      metin  : korleone
+      duyulan: corleone
+  REPLACE  ...columbia pictures yani columbia
+      metin  : stüdyosu
+      duyulan: studios u
+  REPLACE  ...derdi zaten gösteriş değildi
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...ize gerçek hikayeden geliyordu
+      metin  : skorsezi
+      duyulan: scorsese
+  REPLACE  ...aslında kel başlık ve
+      metin  : protez
+      duyulan: protest
+  REPLACE  ...anı yazılmış sahne değildi
+      metin  : şreydır
+      duyulan: schrader
+  REPLACE  ...gerilimini taşıyacak biçimde seçildi
+      metin  : cybil shepherd
+      duyulan: jibil shepard
+  REPLACE  ...adayının kampanyasında çalışan betsy
+      metin  : yi
+      duyulan: i
+  REPLACE  ...oynadı travis in betsy
+      metin  : yi
+      duyulan: i
+  REPLACE  ...keitel iris i çalıştıran
+      metin  : pezevenk sport u
+      duyulan: pezavenk sportu
+  REPLACE  ...karakterini anlamak için gerçek
+      metin  : pezevenkle
+      duyulan: pezavenk ile
+  REPLACE  ...tür bağlılık yanılsaması olduğunu
+      metin  : skorsezi
+      duyulan: scoer sezi
+  REPLACE  ...verilmişti o oyuncu sakatlanınca
+      metin  : skorsezi
+      duyulan: scoer sezi
+  REPLACE  ...değil şoför koltuğundan görür
+      metin  : skorsezi nin
+      duyulan: scoer sezinin
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: film-2026-11-17.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-16.mp3
+
+beklenen 1811 kelime | duyulan 1826 kelime | eşleşme %95.3
+sayı ifadesi: metinde 249, duyulanda 177  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...
+      metin  : yılı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yolcu gemileri sabahı karartıyor
+      metin  : kotor körfezi ne adriyatik
+      duyulan: kotorkörfezine adriatik
+  REPLACE  ...kendi eseridir yerliler sveti
+      metin  : corce
+      duyulan: korçe
+  REPLACE  ...aziz yorgi adası der
+      metin  : öteki
+      duyulan: ötteki
+  REPLACE  ...yapmadı karşı kıyıdaki küçük
+      metin  : perast
+      duyulan: peras
+  REPLACE  ...kendi elleriyle büyüttü hikaye
+      metin  : perastlıların
+      duyulan: peraslıların
+  INSERT   ...perastlıların anlattığına göer temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...resif üstüne kilize kurulmaz
+      metin  : önce
+      duyulan: i gönce
+  REPLACE  ...kurulmaz önce zemin lazımdı
+      metin  : perast
+      duyulan: peras
+  REPLACE  ...kendi adını aldı gospa
+      metin  : od şkırpyela
+      duyulan: ot şkırpela
+  INSERT   ...şapelin yerine bugünkü kilize
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bugünkü kilize yapıldı kilize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şaşırırsınız duvarlar ve tavan
+      metin  : perastlı
+      duyulan: peraslı
+  REPLACE  ...ve tavan perastlı ressam
+      metin  : tripo kokolya
+      duyulan: tripokokolia
+  REPLACE  ...yüzyılda kotorlu ressam lovro
+      metin  : dobriçeviç
+      duyulan: dobričević
+  REPLACE  ...köşede ayrı hikaye bekler
+      metin  : perastlı
+      duyulan: peraslı
+  REPLACE  ...hikaye bekler perastlı yatsinta
+      metin  : kuniç miyoviç
+      duyulan: kunić miović
+  REPLACE  ...iğnenin saçla işlendiği yerlerde
+      metin  : gümüşi
+      duyulan: gümüşü
+  REPLACE  ...kendi anlattığına göer çağında
+      metin  : perast ta
+      duyulan: perasta
+  INSERT   ...kotor körfezi yüzyılın başından
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...nin elindeydi hemen yakındaki
+      metin  : hertseg
+      duyulan: herzeg
+  REPLACE  ...karşı karşıya geldiği sınır
+      metin  : suyuydu
+      duyulan: suyudu
+  INSERT   ...ve adam sağlamalarını bekledi
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...adam sağlamalarını bekledi mayıs
+      metin  : hertseg
+      duyulan: te herzeg
+  REPLACE  ...yüzyılın sonlarında perast ta
+      metin  : marko martinoviç
+      duyulan: marco martinovic
+  INSERT   ...denizci ve bilgin yaşıyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...denizcilik okulu açtı orada
+      metin  : gökcisimlerinin
+      duyulan: gökçüsimlerinin
+  REPLACE  ...ve gemi idaresini öğretiyordu
+      metin  : martinoviç
+      duyulan: martinovic
+  REPLACE  ...in okulu kısa sürede
+      metin  : adriyatiğin
+      duyulan: adriati in
+  INSERT   ...şehirlerine gönderiyordu bunlardan grup
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...perast a ulaştı ve
+      metin  : martinoviç
+      duyulan: martinovic
+  REPLACE  ...saraylarında büyümüş rus soyluları
+      metin  : adriyatiğin
+      duyulan: adriati in
+  REPLACE  ...harita başında ders gördü
+      metin  : martinoviç
+      duyulan: martinovic
+  REPLACE  ...sahneyi gösteren tablo asılıdır
+      metin  : martinoviç
+      duyulan: martinovic
+  REPLACE  ...perast ın tanınmış ailelerinden
+      metin  : zmajevićlerin
+      duyulan: zimajeviçlerin
+  REPLACE  ...tanınmış ailelerinden zmajevićlerin oğlu
+      metin  : matiya zmayeviç
+      duyulan: matija zemayevic de
+  INSERT   ...kurduğu donanmada görev aldı
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...sonunda amiral rütbesine yükseldi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da öldü kardeşi vitsko
+      metin  : zmayeviç
+      duyulan: zemayevic
+  REPLACE  ...adamı oldu ve zadar
+      metin  : başpiskoposluğuna
+      duyulan: başbiskoposluğuna
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: seyahat-2026-11-16.duyulan.txt

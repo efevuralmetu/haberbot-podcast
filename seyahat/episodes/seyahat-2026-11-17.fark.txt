@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-17.mp3
+
+beklenen 1645 kelime | duyulan 1647 kelime | eşleşme %96.8
+sayı ifadesi: metinde 149, duyulanda 128  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...belindeki kuşağı ize karısı
+      metin  : dokumuştur
+      duyulan: dokunmuştur
+  REPLACE  ...yol alır puno dan
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...parçası belirir takile ada
+      metin  : buçuk kilometer
+      duyulan: km
+  REPLACE  ...uzunluğunda en geniş yerinde
+      metin  : buçuk kilometer
+      duyulan: km
+  REPLACE  ...taştan yapılmıştır birçoğunun damı
+      metin  : sacla
+      duyulan: sakla
+  REPLACE  ...adadır adalılar arasında eski
+      metin  : and
+      duyulan: ant
+  REPLACE  ...evlendikleri adam için dokudukları
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...evin giysileri elin ayrı
+      metin  : tekniğin
+      duyulan: tekneğin
+  REPLACE  ...yakın örtülerin kenarlarında yün
+      metin  : ponponlar
+      duyulan: pomponlar
+  REPLACE  ...kenarlarında yün ponponlar sallanır
+      metin  : ponponların
+      duyulan: pomponların
+  REPLACE  ...olduğunu gösterir bekar kızların
+      metin  : ponponları
+      duyulan: pomponları
+  REPLACE  ...adını taşıyan bu bayramda
+      metin  : and dağlarının
+      duyulan: ant dağları nın
+  REPLACE  ...yaşar i ki inanç
+      metin  : takile
+      duyulan: takiyle
+  INSERT   ...başyapıtlarından olarak ilan etti
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...i spanyol sömürge yönetimi
+      metin  : and
+      duyulan: ant
+  REPLACE  ...topraklarını paylaştırırken ada pedro
+      metin  : gonsales
+      duyulan: gonzales
+  REPLACE  ...adı oldu yüzyıllar boyunca
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...zor hapishaneydi dönüm noktası
+      metin  : yüzyılın
+      duyulan: yılın
+  REPLACE  ...yüzyılın ortasında geldi adalılar
+      metin  : ellilerden
+      duyulan: lerden
+  INSERT   ...el değiştirdi peru da
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bu sürecin tamamlanmasını kolaylaştırdı
+      metin  : (yok)
+      duyulan: leer
+  REPLACE  ...yeni kapı açıldı turizm
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...öğle yemeğini yiyip dönüyor
+      metin  : gelirin
+      duyulan: gelerin
+  REPLACE  ...gidince meydan sessizleşir güneş
+      metin  : titicaca nın
+      duyulan: titici acanın
+  REPLACE  ...da yeniden kazanılmış ada
+      metin  : nöron seyahat te
+      duyulan: neuron seyahatte
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 33
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: seyahat-2026-11-17.duyulan.txt

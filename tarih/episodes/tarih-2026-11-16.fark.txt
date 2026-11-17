@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-16.mp3
+
+beklenen 3089 kelime | duyulan 3082 kelime | eşleşme %93.2
+sayı ifadesi: metinde 350, duyulanda 243  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...elmaslar avuç avuç satılıyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...kış öğleden sonrasında yaşındaki
+      metin  : naip tahtırevanından
+      duyulan: naib tahterevanından
+  REPLACE  ...haritadan nasıl silindiğinin hikayesiydi
+      metin  : tungabhadra
+      duyulan: tunga padra
+  REPLACE  ...kalabalık şehirlerinden yükseliyordu adı
+      metin  : vicayanagara ydı
+      duyulan: vicayada garaydı
+  REPLACE  ...duymadık oysa o yıllarda
+      metin  : lizbon
+      duyulan: lisbon
+  INSERT   ...zafer şehri nin hikayesi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kardeş güney hindistan da
+      metin  : delhi sultanlığı nın
+      duyulan: deli sultanlığının
+  REPLACE  ...gücünün çözüldüğü kargaşalı dönemde
+      metin  : tungabhadra
+      duyulan: tunga padra
+  REPLACE  ...kuşakta daha büyüdü zirveye
+      metin  : krişnadevaraya
+      duyulan: krishnadevaraya
+  REPLACE  ...ile yılları arasında ulaşıldı
+      metin  : krişnadevaraya
+      duyulan: krishnadevaraya
+  REPLACE  ...dilinde şiir yazan hükümdardı
+      metin  : kuzeydeki
+      duyulan: de kuzey deki
+  REPLACE  ...hükümdardı kuzeydeki rakiplerinin elinden
+      metin  : rayçur
+      duyulan: raychur
+  REPLACE  ...elinden rayçur kalesini aldı
+      metin  : rayçur
+      duyulan: raychur
+  REPLACE  ...aldı rayçur büyük nehir
+      metin  : krişna ile tungabhadra
+      duyulan: krishnayla tunga padra
+  DELETE   ...ovanın kilidiydi bu ovaya
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  INSERT   ...biçimde yabancı ziyaretçiler anlatır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tezgahlar üzerinde satılıyordu yaklaşık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gelen portekizli tüccar domingo
+      metin  : payş
+      duyulan: paix
+  REPLACE  ...daha da ileri gider
+      metin  : payş
+      duyulan: paix
+  REPLACE  ...şehrin büyüklük bakımından roma
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...yığın yığın çiçek satılıyordu
+      metin  : payş
+      duyulan: paix
+  REPLACE  ...kuzeydoğusundaki krişna havzasında çıkarılıyordu
+      metin  : o
+      duyulan: moto
+  REPLACE  ...devasa taş platform vardı
+      metin  : payş
+      duyulan: paiş
+  REPLACE  ...merkezinde ize tapınaklar yükseliyordu
+      metin  : krişnadevaraya
+      duyulan: krishnadevaraya
+  INSERT   ...deniz yoluyla getiriliyordu portekizliler
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yalnızca kendi topraklarına değil
+      metin  : hint okyanusu nun
+      duyulan: hind okyanusunun
+  REPLACE  ...tutacak güçlü merkeze muhtaçtı
+      metin  : krişnadevaraya
+      duyulan: krishnadevaraya da
+  REPLACE  ...adamın adı rama raya
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...raya ydı halk arasında
+      metin  : aliya
+      duyulan: aliyya
+  REPLACE  ...diye anılırdı kannada dilinde
+      metin  : aliya
+      duyulan: aliyya
+  REPLACE  ...damat demektir gerçekten de
+      metin  : krişnadevaraya
+      duyulan: krishnadevaraya
+  REPLACE  ...golkonda nın hükümdarı kuli
+      metin  : kutub
+      duyulan: kutup
+  REPLACE  ...en büyük kozu olacaktı
+      metin  : krişnadevaraya
+      duyulan: krishnadevaraya
+  REPLACE  ...sonra taht önce kardeşi
+      metin  : açyuta deva raya
+      duyulan: açutadevaraya
+  INSERT   ...deva raya ya geçti
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...raya genç prens olan
+      metin  : sadaşiva
+      duyulan: sadashiva
+  REPLACE  ...sadaşiva yı tahta oturttu
+      metin  : sadaşiva
+      duyulan: sadashiva
+  REPLACE  ...imparatordu ama gerçek iktidar
+      metin  : naip
+      duyulan: naib
+  REPLACE  ...elindeydi zamanla rama raya
+      metin  : sadaşiva
+      duyulan: sadashiva
+  REPLACE  ...ahmednagar da nizam şahlar
+      metin  : golkonda
+      duyulan: golkon
+  ... ve 67 fark daha
+
+metinde olup DUYULMAYAN: 124 kelime | duyulup metinde OLMAYAN: 140
+bölme/birleşme farkı (hata değil, elendi): 50
+
+duyulan metin: tarih-2026-11-16.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-17.mp3
+
+beklenen 2867 kelime | duyulan 2886 kelime | eşleşme %94.9
+sayı ifadesi: metinde 404, duyulanda 255  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bekliyordu adı ida bel
+      metin  : wells ti
+      duyulan: welstie
+  REPLACE  ...gitmek gerekiyor ida temmuz
+      metin  : i ç
+      duyulan: de iç
+  REPLACE  ...ç savaş devam ederken
+      metin  : holly
+      duyulan: holy
+  REPLACE  ...insanların çocukları için kurulan
+      metin  : shaw
+      duyulan: show
+  REPLACE  ...babasının bağlı olduğu mason
+      metin  : locasının
+      duyulan: lokası nın
+  INSERT   ...gerekirse kendisinin bakacağını söyledi
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...bunun bedelini de ödemişti
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...başında kardeşlerden bazılarıyla birlikte
+      metin  : memphis
+      duyulan: menfis
+  REPLACE  ...başka teyzenin yanına yerleşti
+      metin  : memphis
+      duyulan: menfis
+  REPLACE  ...edebiyat toplulukları vardı ama
+      metin  : memphis
+      duyulan: menfis
+  REPLACE  ...ama kurallar henüz oturmamıştı
+      metin  : ön
+      duyulan: önü
+  REPLACE  ...oturmaya hakkı olduğuna inanıyordu
+      metin  : memphis
+      duyulan: te menfis
+  INSERT   ...sonra yaptığı şeydi henüz
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...beyaz avukatla çalışmayı sürdürdü
+      metin  : dördün
+      duyulan: ün
+  REPLACE  ...haberi alaycı başlıkla verdi
+      metin  : zenci
+      duyulan: zence
+  REPLACE  ...sürmedi demiryolu şirketi kararı
+      metin  : tennessee
+      duyulan: tenesi
+  INSERT   ...yüksek mahkemesi ne taşıdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da ulaşacak açık ve
+      metin  : dolaysız
+      duyulan: dolayısız
+  INSERT   ...prensesi diye anılmaya başladı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...baptist papaz ve gazeteci
+      metin  : j l
+      duyulan: jay lele
+  INSERT   ...bile sınıfın dışına taşıyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ulaştığı anlatılır ida wells
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...alışverişlerini zorunlu olarak yapıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...taşıyor akşamları dükkanda çalışıyordu
+      metin  : calvin mcdowel
+      duyulan: jalvin macdowel
+  REPLACE  ...ida onların küçük kızı
+      metin  : maurine in vaftiz annesiydi moss u
+      duyulan: maury nin vafti zannesiydi mossu
+  REPLACE  ...mcdowel ve wil stewart
+      metin  : da
+      duyulan: de
+  REPLACE  ...eski rakibi william barrett
+      metin  : tı
+      duyulan: i
+  REPLACE  ...tı ida o sırada
+      metin  : natchez
+      duyulan: nachez
+  REPLACE  ...güne kadar insan gibi
+      metin  : linçin
+      duyulan: lynch in
+  REPLACE  ...öfke patlaması olduğuna inanmıştı
+      metin  : linç
+      duyulan: lynch
+  REPLACE  ...suçu başarılı olmaktı gözünde
+      metin  : linç
+      duyulan: lynch
+  REPLACE  ...kenti sarsmıştı ama ida
+      metin  : wells in
+      duyulan: ve asin
+  REPLACE  ...un ölümünden sonra ida
+      metin  : wells in
+      duyulan: wilson
+  INSERT   ...şiddetle örtbas ediliyordu mayıs
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...tarafından yazıldığını sanıyorlardı mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...söz ün bürosuna daldı
+      metin  : matbaa
+      duyulan: matbağa
+  DELETE   ...büroyu kullanılamaz hale getirdiler
+      metin  : ortağı j l
+      duyulan: (YOK — atlanmış)
+  INSERT   ...de kürsü verdi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ida wells kendi adıyla
+      metin  : linçin
+      duyulan: lynch in
+  REPLACE  ...vaka anlattı gazetenin binlerce
+      metin  : nüshası
+      duyulan: nüşası
+  ... ve 42 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 105
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: biyografi-2026-11-17.duyulan.txt

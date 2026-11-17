@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-17.mp3
+
+beklenen 1594 kelime | duyulan 1602 kelime | eşleşme %96.7
+sayı ifadesi: metinde 188, duyulanda 135  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...olduğu birleşmeden geri döndü
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...elinde küçük yuvarlak plastik
+      metin  : parçasıyla
+      duyulan: parçası ile
+  REPLACE  ...parçasıyla dolaşıyordu avuç içine
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...kadının adı aki maita
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...hayata geçirmek için bandai
+      metin  : wiz
+      duyulan: biz
+  REPLACE  ...japonca söylenişi birleşti ve
+      metin  : tamagotchi
+      duyulan: tamagochi
+  REPLACE  ...robotlar kahramanlar oyuncak figürleri
+      metin  : tamagotchi
+      duyulan: tamagochi
+  REPLACE  ...yani harçlıkla alınabilecek rakam
+      metin  : tamagotchi
+      duyulan: tamagochi
+  INSERT   ...alınabilecek rakam tamagotchi kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ilk haftalarında mağaza raflarında
+      metin  : tamagotchi
+      duyulan: tamagochi
+  REPLACE  ...fiyatının katına el değiştiren
+      metin  : tamagotchi ler
+      duyulan: tamagoççiler
+  INSERT   ...çalışanların cebinde görülmeye başladı
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...cebinde görülmeye başladı baharında
+      metin  : tamagotchi
+      duyulan: tamagoççı
+  REPLACE  ...fark edenler öğretmenler oldu
+      metin  : tamagotchi nin
+      duyulan: tamagoççinin
+  REPLACE  ...ülkelerde pek çok okul
+      metin  : tamagotchi yi
+      duyulan: tamagoççıyı
+  REPLACE  ...kaybetmek yeniden başlamak demekti
+      metin  : tamagotchi de
+      duyulan: tamagoççı da
+  REPLACE  ...olduğu o yıllarda ölen
+      metin  : tamagotchi ler
+      duyulan: tamagoççılar
+  REPLACE  ...durumu tartışmaya başladı kısmı
+      metin  : tamagotchi nin
+      duyulan: tamagoççı nın
+  REPLACE  ...sordu tartışma belki de
+      metin  : tamagotchi nin
+      duyulan: tamagoççı nın
+  INSERT   ...kardeşi olarak bilinen ödül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...maita ve akihiro yokoi
+      metin  : ye
+      duyulan: e
+  INSERT   ...yalnızca ay sonra ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...atari salonlarının şirketi sega
+      metin  : öbür
+      duyulan: ve
+  REPLACE  ...yürüme cesareti verdiğini söyledi
+      metin  : bazıları
+      duyulan: birleşmenin başkanları
+  REPLACE  ...çekileceğini açıkladı ve yerini
+      metin  : takaşi mogi
+      duyulan: takashi mogui
+  INSERT   ...tamagotchi çılgınlığı da söndü
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...satılıyordu satılmayan stokların tokyo
+      metin  : körfezi ndeki odaiba ya
+      duyulan: körfezindeki odayı baya
+  INSERT   ...da birbirine benziyor sega
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sega oyun makineleri şirketi
+      metin  : sammy
+      duyulan: semi
+  REPLACE  ...sammy ile birleşerek sega
+      metin  : sammy
+      duyulan: semi
+  INSERT   ...çatısı girdi bandai ize
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yani sega ile bandai
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yeni yumurtadan yeniden doğdu
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...savaşçı sanal yaratıkların yetiştirildiği
+      metin  : digimon u
+      duyulan: dijimonu
+  REPLACE  ...gün içinde bildirimle geri
+      metin  : çağrılmak
+      duyulan: çağırılmak
+  REPLACE  ...yanı sıra avuç içine
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...ilgilenilmezse ölen küçük yumurtaydı
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 50
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: oyun-2026-11-17.duyulan.txt

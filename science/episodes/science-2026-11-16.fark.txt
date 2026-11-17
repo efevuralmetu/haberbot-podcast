@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-16.mp3
+
+beklenen 2081 kelime | duyulan 1925 kelime | eşleşme %14.3
+sayı ifadesi: metinde 227, duyulanda 113  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...in the crystal itself
+      metin  : gökten düşen her kar tanesinin kolu hiçbir şablon ve hiçbir merkezi plan olmadan birbirinin neredeyze aynısı olarak büyüyor daha da tuhafı şu havanın sıcaklığı yalnızca derece değişince buz düz yıldızlar örmeyi bırakıp iğneler dikmeye başlıyor bunun nedenini yıldır soruyoruz ve cevabın kısmı hala eksik yılının son günleri prag da vltava nehri nin üzerindeki taş köprüden adam geçiyor adı johannes
+      duyulan: the snowflake has no brain not in the crystal itself the crystal fel through not in the crystal itself the crystal fel through not in the crystal itself the snowflake has no brain not in the crystal itself the crystal fel through not in the crystal itself the crystal fel through not in the crystal itself
+  REPLACE  ...geçiyor adı johannes kepler
+      metin  : kutsal roma i mparatoru i kinci rudolf un sarayında imparatorluk matematikçisi gezegenlerin elips biçimli yörüngelerde döndüğünü göstermiş gökyüzünün düzenini yeniden yazmış ama o kış cebi neredeyze boş koruyucusu imparatorluk danışmanı johannes matthäus wackher von wackenfels e yeni yılda hediye vermesi gerekiyor ve verecek şeyi yok tam o sırada paltosunun yakasına kar tanesi konuyor
+      duyulan: and his brothers weer in the same room at frankfurt in the last years of the new sex angle the snowflake has no idea how to behave the snowflake has no mind the snowflake has no mind and the snowflake has no mind the snowflake has no mind yanni
+  REPLACE  ...kar tanesi konuyor kepler
+      metin  : eğilip bakıyor her küçücük çabucak eriyip gidiyor ama hepsinin kolu var değil değil değil her seferinde
+      duyulan: kuruyukusuna shakyla karushakbir hicha armani diordu amamabu hich bilem tarihinen envirim nisorularan dambir nithashiordu
+  REPLACE  ...değil her seferinde kepler
+      metin  : in o kış yazdığı küçük risale de frankfurt ta basıldı adı latince strena seu de nive sexangula yani kar üzerine yeni yıl hediyesi başlığın içinde şaka da saklı latincede kar anlamına gelen nix kelimesi almancada hiçbir şey anlamına gelen nichts kelimesini çağrıştırıyor yani kepler koruyucusuna şakayla karışık hiç armağan ediyordu ama bu hiç bilim tarihinin en verimli sorularından taşıyordu kepler in
+      duyulan: and
+  REPLACE  ...taşıyordu kepler in sorusu
+      metin  : basitti kar tanesi neden hep köşeli
+      duyulan: basiti kartanessi nedanhep alte kucheli
+  REPLACE  ...neden hep köşeli sonra
+      metin  : cevabı
+      duyulan: jevaba
+  REPLACE  ...sonra cevabı aramaya koyuldu
+      metin  : arıların peteğine baktı hücreler nar tanelerine baktı birbirine bastırılmış köşeli
+      duyulan: aralaran petene bakhta altighen hujrelar nartin nularine bakhta birberine bastrelmush kucheli
+  REPLACE  ...birbirine bastırılmış köşeli tohumlar
+      metin  : şunu düşündü
+      duyulan: shunu dushundu
+  REPLACE  ...tohumlar şunu düşündü belki
+      metin  : küçük eşit küreler araya gelip mümkün olan en sıkı biçimde dizildiğinde düzen kendiliğinden ortaya çıkıyordur bu fikir o kadar
+      duyulan: kuchuk eshit kureler birarayegelip munkunolan ensukabichimde dizildiinde altighen birduzangkendilindan ortayechi kuyordush bufikir okadar
+  REPLACE  ...fikir o kadar ileri
+      metin  : görüşlüydü ki risalede geçen yan iddia küreleri en sıkı nasıl istifleyebileceğimiz
+      duyulan: gurushluduki risaleide gechen biryanidda kureler ensuk nusul istifleh bilejemis
+  REPLACE  ...sıkı nasıl istifleyebileceğimiz sorusu
+      metin  : matematikçileri yaklaşık yıl uğraştırdı
+      duyulan: matamatik chileri aklasik dert yuzielu rashtardu
+  REPLACE  ...yaklaşık yıl uğraştırdı ve
+      metin  : ancak de bilgisayar yardımıyla
+      duyulan: anjak bindokuzus doksansekizde batbilgisai aryardamila
+  REPLACE  ...de bilgisayar yardımıyla kesin
+      metin  : olarak kanıtlanabildi
+      duyulan: olerakkanutlanabilde emma kepler kirconasunde yerevaramada sonu kaulashmadan madeninichinde shekilveran turya pujukuvit dansuzederek ve mesilininkandisindan sonregelan nerekaldan kabulederek risalei kapatte ellen danae microscope vardaneda molekul kavramu bakkamadoru kapiye galmish
+  REPLACE  ...kesin olarak kanıtlanabildi ama
+      metin  : kepler kar konusunda yeer varamadı sonuca ulaşmadan maddenin içinde şekil veren tür yapıcı kuvvetten söz ederek ve meselenin kendisinden sonra gelenleer kaldığını kabul ederek risaleyi kapattı elinde ne mikroskop vardı ne de molekül kavramı bakıma doğru kapıya gelmiş ama anahtarı bulamamıştı sonra gelenler önce dikkatle bakmayı öğrendi rené
+      duyulan: anachtarul bulamamishta sonregelan narunje dikat lebakmayo arande rene
+  REPLACE  ...rené descartes larda hollanda
+      metin  : da yağan karı inceledi ve gördüğü şekilleri titizlikle çizdi aralarında kollu
+      duyulan: dajan karinejile deve gyrdushe kylerititizdiklechizde aralaranda kaulu
+  REPLACE  ...aralarında kollu nadir taneleer
+      metin  : bile yer verdi yüzyılın yarısında
+      duyulan: bilayar varde yuzielun arisanda
+  REPLACE  ...yüzyılın yarısında robert hooke
+      metin  : ilk mikroskoplardan
+      duyulan: ik microscope vardan altanda
+  REPLACE  ...ilk mikroskoplardan kar kristallerinin
+      metin  : kollarındaki ince dallanmaları kağıda geçirdi
+      duyulan: kaularanda ki injedallan malarikya adagicharde
+  REPLACE  ...dallanmaları kağıda geçirdi in
+      metin  : ocak ayında ize amerika nın vermont eyaletinde
+      duyulan: ojak ayan daize americanan vermonte ayletinde
+  REPLACE  ...nın vermont eyaletinde jericho
+      metin  : kasabasında yaşayan çiftçi
+      duyulan: kasabasanda yashian chifchi
+  REPLACE  ...çiftçi wilson bentley mikroskoba
+      metin  : bağladığı fotoğraf makinesiyle
+      duyulan: balade fotourafma kinesile
+  INSERT   ...bağladığı fotoğraf makinesiyle tek
+      metin  : (yok)
+      duyulan: kartanese ny fotouraflamayi ik kez basharde bentley hayateboyunja beshbinjiwaran da
+  REPLACE  ...fotoğraf makinesiyle tek kar
+      metin  : tanesini fotoğraflamayı ilk kez başardı bentley hayatı boyunca civarında kar kristali fotoğrafladı ve neredeyze her farklı göründüğünü dünyaya gösterdi
+      duyulan: kristaller fotourafladu venaride seherbirinin fartlegurunu duniaia gostarde
+  REPLACE  ...dünyaya gösterdi ama bakmak
+      metin  : açıklamak demek değildi
+      duyulan: achaklamak demekteilde
+  REPLACE  ...açıklamak demek değildi kepler
+      metin  : in sorusunun cevabı göze görünen dünyada değil çok daha
+      duyulan: and sorousunun jevabaguzae gurunan duniada deil choktaha
+  REPLACE  ...değil çok daha derinde
+      metin  : su molekülünün içindeydi su molekülü oksijen atomu ile bağlı hidrojen atomundan oluşur
+      duyulan: sumolekulunu nichindeide sumola kelo oxygena tomoele onabale hydrogena tomun da nolusur
+  REPLACE  ...atomundan oluşur ama bu
+      metin  : atom düz çizgi üzerinde
+      duyulan: ucha tomdeus chizge userinde
+  REPLACE  ...düz çizgi üzerinde durmaz
+      metin  : aralarında yaklaşık derecelik açı vardır oksijen elektronları kendine daha fazla çeker
+      duyulan: aralanday akleshek userdert wir gulderejelik achivarder oxygen electronarikendine birazdaha fazdachekar
+  REPLACE  ...daha fazla çeker bu
+      metin  : molekülün oksijen tarafı hafifçe eksi hidrojen tarafları hafifçe artı yüklüdür
+      duyulan: yuzdan moleculeun oxygen tarafahafifche xe hydrogen taraflarafifche rt euclidur
+  REPLACE  ...hafifçe artı yüklüdür bu
+      metin  : dengesizlik molekülün hidrojeninin komşu molekülün oksijenine tutunmasına yol açar kimyacılar buna hidrojen bağı der su donduğunda her molekül tam komşusuyla hidrojen bağı kurar
+      duyulan: dengisizlik moleculeun hydrogeninin komshu moleculeun oxygeninetutun masunayolachar kimyajelar bunahydrogen baadar sudondun de hermolekultam fortkomshusuilahydrogen baakurar
+  REPLACE  ...hidrojen bağı kurar ve
+      metin  : bu bağlar uzayda belirli açılarla dizilir sonuçta
+      duyulan: bubalar uzaida belarlyachalar la disilir sonuchta
+  REPLACE  ...açılarla dizilir sonuçta ortaya
+      metin  : çıkan yapıda moleküller
+      duyulan: chakanyapada molecularaltala halkalarolustur
+  REPLACE  ...çıkan yapıda moleküller halkalar
+      metin  : oluşturur halkalar yan yana
+      duyulan: yanyana
+  REPLACE  ...halkalar yan yana ve
+      metin  : üst üste dizilerek bal peteğine benzeyen örgü kurar lerin başında
+      duyulan: ustusta disilir ek balpateinne benzean urgu kurash zarozaren bashenda
+  REPLACE  ...kurar lerin başında x
+      metin  : ışını kırınımı denen yöntemle
+      duyulan: ishinukranumu denanyun temle buzunichine bakan physikchilar bo altigandu zenidorudangurdu gundelikayatta karshalashtumuz
+  REPLACE  ...kırınımı denen yöntemle buzun
+      metin  : içine bakan fizikçiler bu düzeni doğrudan gördü gündelik hayatta karşılaştığımız buzun neredeyze tamamı bu yapıdadır i şte kepler in aradığı anahtar bu kar tanesindeki aslında görünmeyecek
+      duyulan: neredeize tamaamabuyapudadar ishta keplirinarudu anahtarbo cartanaseindeke altiluk astlandagurun miijek
+  REPLACE  ...tanesindeki aslında görünmeyecek kadar
+      metin  : küçük moleküler halkaların büyütülmüş yansıması ortalama
+      duyulan: kuchuk moleculear halkalaran buyutulmushbiryansumase ortalamabir
+  REPLACE  ...yansıması ortalama kar kristalinde
+      metin  : yaklaşık
+      duyulan: yaklashik
+  REPLACE  ...kar kristalinde yaklaşık keer
+      metin  : su molekülü vardır
+      duyulan: moleculeuardar
+  REPLACE  ...su molekülü vardır ve
+      metin  : hepsi aynı düzene
+      duyulan: hepsy aina altigandu zena
+  ... ve 147 fark daha
+
+metinde olup DUYULMAYAN: 1794 kelime | duyulup metinde OLMAYAN: 1638
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-16.duyulan.txt

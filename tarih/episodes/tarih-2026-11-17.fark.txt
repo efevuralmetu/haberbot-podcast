@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-17.mp3
+
+beklenen 2772 kelime | duyulan 2753 kelime | eşleşme %93.6
+sayı ifadesi: metinde 378, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kontluğunda redhil kasabasında hava
+      metin  : açıktı
+      duyulan: çıktı
+  REPLACE  ...eczacı ve amatör gökbilimci
+      metin  : haynrih şvabe
+      duyulan: heinrich schwabe
+  REPLACE  ...e asla doğrudan bakmazdı
+      metin  : teleskobun
+      duyulan: teleskopun
+  INSERT   ...konumlarını not ediyordu saat
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...leke grubunun tam ortasında
+      metin  : nokta
+      duyulan: den
+  INSERT   ...kayarak küçüldü ve saat
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...olay yaklaşık dakika sürmüştü
+      metin  : carrington ın
+      duyulan: garrington un
+  REPLACE  ...londra nın kuzeyinde highgate
+      metin  : te
+      duyulan: de
+  REPLACE  ...amatör gökbilimci olan richard
+      metin  : hodgson
+      duyulan: hoxson
+  REPLACE  ...asıl hikaye o dakikada
+      metin  : güneş
+      duyulan: güneşten
+  REPLACE  ...uzaya fırlamıştı bugün bunlara
+      metin  : koronal
+      duyulan: koronel
+  DELETE   ...ize bu mesafeyi yaklaşık
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gün önce ağustos civarında
+      metin  : güneş
+      duyulan: güneşten
+  REPLACE  ...kutuplara yakın bölgelerin manzarasıdır
+      metin  : norvecin
+      duyulan: norveç in
+  REPLACE  ...günün doğduğunu söylüyordu güney
+      metin  : yarımkürede
+      duyulan: yarımküer de
+  REPLACE  ...yanıyordu bu tablonun ardındaki
+      metin  : ölçeği
+      duyulan: ölçeyi
+  INSERT   ...iletişim ağının başındaki telgrafçılardı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ve bu sürede avrupa
+      metin  : ile
+      duyulan: yla
+  INSERT   ...olarak indüklenen akımlar diyoruz
+      metin  : (yok)
+      duyulan: un
+  INSERT   ...ilk dalgada aksaklıklar başlamıştı
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...üniversitesi nden fizikçi elias
+      metin  : loomis
+      duyulan: lumis
+  REPLACE  ...journal of science yani
+      metin  : amerikan
+      duyulan: american
+  REPLACE  ...elektrik çarpmasına maruz kaldı
+      metin  : loomis
+      duyulan: lumis
+  REPLACE  ...hayretle ilgiliydi boston ile
+      metin  : maine
+      duyulan: mayna
+  REPLACE  ...ve tam o sırada
+      metin  : güneş
+      duyulan: güneşten
+  REPLACE  ...nın batısında thames kıyısındaki
+      metin  : kew de gözlemevi
+      duyulan: q d gözlem evi
+  REPLACE  ...fizikçi balfor stewart bulunuyordu
+      metin  : kew
+      duyulan: q d
+  REPLACE  ...o kadar fırtına günlerinde
+      metin  : kew deki
+      duyulan: q d ki
+  INSERT   ...kayıtlar bambaşka görüntü verdi
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...güçlü değişimle karşılaşmıştı ama
+      metin  : kew deki
+      duyulan: q d ki
+  REPLACE  ...asıl önemi başka yerdeydi
+      metin  : stewart
+      duyulan: stuart
+  INSERT   ...incelediğinde eylül sabahı saat
+      metin  : (yok)
+      duyulan: i
+  DELETE   ...olduğunu fark etti fırtınadan
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tam da carrington ile
+      metin  : hodgson
+      duyulan: hodson
+  REPLACE  ...güçlü x ışını ve
+      metin  : morötesi
+      duyulan: morotesi
+  REPLACE  ...anlatırken bu çakışmadan haberdardı
+      metin  : kew
+      duyulan: q
+  INSERT   ...ortasına düşüyordu yıl önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sabine ilginç bağlantı kurmuştu
+      metin  : şvabe
+      duyulan: schwabe
+  REPLACE  ...ortaya koyduğu güneş lekesi
+      metin  : döngüsü ile dünya daki
+      duyulan: döngüsüyle dünyadaki
+  REPLACE  ...bunlardan bombay daki kolaba
+      metin  : gözlemevi ydi
+      duyulan: gözleme beydi
+  ... ve 36 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 88
+bölme/birleşme farkı (hata değil, elendi): 62
+
+duyulan metin: tarih-2026-11-17.duyulan.txt

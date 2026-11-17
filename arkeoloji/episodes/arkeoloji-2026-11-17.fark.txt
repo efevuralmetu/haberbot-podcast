@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-17.mp3
+
+beklenen 2699 kelime | duyulan 2697 kelime | eşleşme %96.1
+sayı ifadesi: metinde 339, duyulanda 258  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...vardı aslında bu sehpa
+      metin  : kaligula
+      duyulan: caligula
+  REPLACE  ...dev gemidir roma nın
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...antik romalılar bu göle
+      metin  : spekulum dianay
+      duyulan: speculum dianai
+  REPLACE  ...yöredeki toprakların sahibi olan
+      metin  : kardinal
+      duyulan: cardinal
+  REPLACE  ...sahibi olan kardinal prospero
+      metin  : kolonna
+      duyulan: colonna
+  REPLACE  ...kardinal prospero kolonna oldu
+      metin  : kolonna
+      duyulan: colonna
+  REPLACE  ...gibi yüzdükleri söylenen dalgıçlar
+      metin  : getirtti
+      duyulan: getirdi
+  REPLACE  ...ve sonunda gölden geminin
+      metin  : pruvasına
+      duyulan: provasına
+  INSERT   ...sayılır neredeyze asır sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bu kez insan indi
+      metin  : bolonyalı
+      duyulan: bolognalı
+  REPLACE  ...indi bolonyalı askeri mühendis
+      metin  : françesko
+      duyulan: francesco
+  REPLACE  ...askeri mühendis françesko de
+      metin  : marki gulyelmo
+      duyulan: marchi guglielmo
+  REPLACE  ...mucidin yaptığı ahşap dalış
+      metin  : çanının
+      duyulan: canının
+  DELETE   ...hava hapsediyor ve dalgıcın
+      metin  : süer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...öylesine kıskanıyordu ki de
+      metin  : marki
+      duyulan: marchi
+  REPLACE  ...dair yemin ettirmişti de
+      metin  : marki
+      duyulan: marchi
+  REPLACE  ...çıkaramadı yalnızca parça kopardı
+      metin  : annezyo fuskoni
+      duyulan: de annezio fusconi
+  REPLACE  ...kişinin girebildiği büyük dalış
+      metin  : çanı
+      duyulan: canı
+  INSERT   ...ortada kaldı asıl kırılma
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...asıl kırılma geldi antikacı
+      metin  : elizeo borgi
+      duyulan: eliseo borghi
+  REPLACE  ...halatların bağlandığı süslemelerdi ama
+      metin  : borgi
+      duyulan: borghi
+  REPLACE  ...talyan donanması nın mühendisi
+      metin  : vittoryo
+      duyulan: vittorio
+  REPLACE  ...üzerinde isim kazılıydı gayus
+      metin  : sezar augustus germanikus
+      duyulan: cesar agustus germanicus
+  REPLACE  ...augustus germanikus bu tarihin
+      metin  : kaligula
+      duyulan: caligula
+  REPLACE  ...tanıdığı imparatorun resmi adıydı
+      metin  : ms
+      duyulan: mehmet
+  REPLACE  ...da önce büyük olasılıkla
+      metin  : mö ya da
+      duyulan: milauten de yada
+  REPLACE  ...suyu dağın öbür yanındaki
+      metin  : ariçça vadisine
+      duyulan: aritce vadisi ne
+  INSERT   ...proje yıllarca dosyalarda bekledi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mühendis ve sanayici guido
+      metin  : uçelli
+      duyulan: ucelli
+  REPLACE  ...işin teknik yönetimini üstlendi
+      metin  : uçelli
+      duyulan: ucelli
+  INSERT   ...hattını sağladı pompalar ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tünelin içinden akıp vadiye
+      metin  : boşalıyordu
+      duyulan: baş alıyordu
+  REPLACE  ...gemiler arasındaydı kıyaslamak gerekirse
+      metin  : kristof kolomb
+      duyulan: christophe colomb
+  REPLACE  ...metreden fazla alçaltıldı ve
+      metin  : gemi
+      duyulan: gemide
+  INSERT   ...çoğunluğu gemilerin imparatorun ms
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...mozaiklerden yapılmış porfir ve
+      metin  : serpantin
+      duyulan: serpentin
+  REPLACE  ...atılmıyor içeri de taşınıyordu
+      metin  : kaligula
+      duyulan: caligula
+  DELETE   ...düzeneği hala çalışır durumdaydı
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gösteriş nesnesiydi belki tanrıça
+      metin  : diana
+      duyulan: diyana
+  REPLACE  ...görür mısır tanrıçası i
+      metin  : sis
+      duyulan: stis
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 64 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: arkeoloji-2026-11-17.duyulan.txt

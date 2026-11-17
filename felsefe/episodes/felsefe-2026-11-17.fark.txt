@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-17.mp3
+
+beklenen 2654 kelime | duyulan 2661 kelime | eşleşme %96.1
+sayı ifadesi: metinde 257, duyulanda 234  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  DELETE   ...boyunca taşınan yük atina
+      metin  : mö
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ortasına adam girince başlıyor
+      metin  : anytos
+      duyulan: anitos
+  REPLACE  ...erdemli insanlar değil miydi
+      metin  : anytos
+      duyulan: anitos
+  REPLACE  ...isimleri tek tek sayıyor
+      metin  : themistokles
+      duyulan: temistocles
+  REPLACE  ...sayıyor themistokles in oğlu
+      metin  : kleofantos
+      duyulan: cleopantos
+  INSERT   ...oğlu kleofantos u ata
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...her şeyi öğretmiş ama
+      metin  : kleofantos
+      duyulan: cleopantos
+  REPLACE  ...diye andığı adamdı oğlu
+      metin  : lisimahos
+      duyulan: lysimahos
+  REPLACE  ...iyi güreşçileri arasındaydı ve
+      metin  : perikles
+      duyulan: pericles
+  REPLACE  ...oğlu vardı paralos ve
+      metin  : ksantippos perikles
+      duyulan: kasantippos pericles
+  REPLACE  ...eksik olan başka şeydi
+      metin  : anytos
+      duyulan: anitos
+  REPLACE  ...iyi biliyordu yıl sonra
+      metin  : mö
+      duyulan: milotmege da
+  REPLACE  ...suçlayıp mahkemeye çıkaranlardan bu
+      metin  : anytos
+      duyulan: anitos
+  REPLACE  ...ama ortada öğretmen yok
+      metin  : sofistler
+      duyulan: sophistler
+  INSERT   ...kaybedebiliyor hiç okula gitmemiş
+      metin  : (yok)
+      duyulan: ninin
+  REPLACE  ...kelimeye dikkat çeker yunanca
+      metin  : ethos
+      duyulan: etos
+  REPLACE  ...fark odur bu bakışla
+      metin  : perikles
+      duyulan: pericles
+  REPLACE  ...yeter ama çoğunluğu iyiliğe
+      metin  : yöneltmeye
+      duyulan: yönetmeye
+  INSERT   ...doğaları bakımından birbirine yakındır
+      metin  : (yok)
+      duyulan: dononları
+  REPLACE  ...asıllı kimyager ve düşünür
+      metin  : maykıl
+      duyulan: michael
+  INSERT   ...ve düşünür maykıl polanyi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da düşündürücü kanıt var
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kaliforniya üniversitesi nden felsefeci
+      metin  : erik şvitsgebel
+      duyulan: eric schwitzgebel
+  INSERT   ...olup olmadığını ölçmeye çalıştı
+      metin  : (yok)
+      duyulan: ki da
+  REPLACE  ...daha sık kayıp çıkıyordu
+      metin  : şvitsgebel
+      duyulan: schwitzgebel
+  REPLACE  ...gülümserdi erdem gerçekten bilgi
+      metin  : türüyze
+      duyulan: türü ize
+  REPLACE  ...geç senin kilidinin anahtarını
+      metin  : taptuk
+      duyulan: tapduk
+  REPLACE  ...git payını al yunus
+      metin  : taptuk
+      duyulan: tapduk
+  REPLACE  ...pratikte hiçbir gerek yoktur
+      metin  : ayırır
+      duyulan: ayrır
+  REPLACE  ...da sırt yükü olmuştur
+      metin  : taptuk
+      duyulan: tapduk
+  REPLACE  ...bize doğrudan anlatır şiirinde
+      metin  : taptuğun
+      duyulan: tapduğ un
+  REPLACE  ...aynı meseleyi kağıda dökmüştü
+      metin  : gazzali
+      duyulan: gazali de
+  REPLACE  ...gitmiş olacak bilmek ister
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...gazzali nin cevabı arapça
+      metin  : eyyühe l
+      duyulan: eyyuhel
+  REPLACE  ...davranışa dönüşmedikçe şey değildir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...değildir gazzali bunu unutulmaz
+      metin  : benzetmeyle
+      duyulan: benzetme ile
+  REPLACE  ...böyledir kullanılmadıkça taşınan yüktür
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...boşluk olduğunu söyler ama
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...ne yapacağını göstererek yapar
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...nutuk çekmez sabırla tekrarlar
+      metin  : taptuğun
+      duyulan: tapduğ un
+  ... ve 12 fark daha
+
+metinde olup DUYULMAYAN: 53 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: felsefe-2026-11-17.duyulan.txt
