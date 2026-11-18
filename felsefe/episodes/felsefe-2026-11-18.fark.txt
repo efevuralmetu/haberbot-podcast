@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-18.mp3
+
+beklenen 2115 kelime | duyulan 2116 kelime | eşleşme %96.4
+sayı ifadesi: metinde 253, duyulanda 222  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...didion kocası john gregory
+      metin  : dunne
+      duyulan: dunn
+  REPLACE  ...da zaten bundan gelir
+      metin  : büyülü
+      duyulan: büğülü
+  REPLACE  ...çocukların battaniyeye ya da
+      metin  : pelüş
+      duyulan: peluş
+  REPLACE  ...ayıran şey nedir babanızın
+      metin  : saati ile
+      duyulan: saatiyle
+  DELETE   ...aynı yıl çıkmış başka
+      metin  : saat
+      duyulan: (YOK — atlanmış)
+  INSERT   ...hood ile paul bloom
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ünlü adı alman düşünür
+      metin  : valter benyamin
+      duyulan: walter benjamin
+  REPLACE  ...düşünür valter benyamin in
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...adlı denemesinde geçer aura
+      metin  : benyamin
+      duyulan: benjamin
+  REPLACE  ...işlenmiştir ve fotoğrafla çoğaltılamaz
+      metin  : benyamin aurayı
+      duyulan: benjamin aura yı
+  REPLACE  ...sizin görmediğiniz günlerin mesafesini
+      metin  : benyamin
+      duyulan: benjamin
+  REPLACE  ...benyamin in denemesi aslında
+      metin  : yas metni
+      duyulan: yasmetli
+  REPLACE  ...vardı bunun ama aynı
+      metin  : benyamin
+      duyulan: benjamin
+  REPLACE  ...adlı kısa metinde koleksiyoncunun
+      metin  : eşyasıyla
+      duyulan: eşyası ile
+  REPLACE  ...yaşadığı yer vardır martin
+      metin  : haydeger
+      duyulan: heidegger
+  INSERT   ...soruya bambaşka kapıdan girer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hacim ağırlık görür ama
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...dökülür kutsal törende sunulur
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...öptüğünüzde yüzünüze değdi saat
+      metin  : haydeger
+      duyulan: heidegger
+  REPLACE  ...belki de ahmet hamdi
+      metin  : tanpınar dır
+      duyulan: tampınardır
+  REPLACE  ...dönüşmüştür saygı gösterilir çekinilir
+      metin  : tanpınar
+      duyulan: tampınar
+  INSERT   ...sokaklarında sultan abdülmecid in
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sultan abdülmecid in yaptırdığı
+      metin  : hırka i
+      duyulan: hırkayı
+  REPLACE  ...sırası gelen rivayete göer
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...bu peygamber in şair
+      metin  : kab züheyr e
+      duyulan: kap züheyer
+  INSERT   ...halifeden halifeye geçmiş ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olduğunu sorsanız büyük ihtimalle
+      metin  : benyamin
+      duyulan: benjamin
+  REPLACE  ...ihtimalle benyamin den de
+      metin  : haydeger
+      duyulan: heideger
+  REPLACE  ...tartışmanın en çarpıcı cümlesi
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...de rivayet edilir hatıra
+      metin  : sevgisi ile
+      duyulan: sevgisiyle
+  REPLACE  ...üzerine titrediği çizgidir i
+      metin  : bn teymiyye
+      duyulan: bni teymiye
+  REPLACE  ...ve emanetleer gösterilen aşırı
+      metin  : rağbetin
+      duyulan: rabetin
+  REPLACE  ...ize sahabenin uygulamalarına dayanarak
+      metin  : teberrüğü
+      duyulan: teberrü
+  REPLACE  ...mevlana mesnevi nin ilk
+      metin  : beyitlerinde
+      duyulan: beytlerinde
+  REPLACE  ...çöz azat ol ey
+      metin  : oğul
+      duyulan: ol
+  REPLACE  ...zaten eşyanın kamışlıktan koparılıp
+      metin  : ney
+      duyulan: ne
+  REPLACE  ...kişiye doğru saat takmış
+      metin  : bileğe
+      duyulan: bileye
+  REPLACE  ...yaparız yüzyılda japonya da
+      metin  : şogun aşikaga yoşimasa
+      duyulan: shogun aashi kaga yoshimasa
+  REPLACE  ...bu teknikte kırık parçalar
+      metin  : toz
+      duyulan: metoz
+  REPLACE  ...yakalar ve sonsuzlaştırır kırılma
+      metin  : eşyayla
+      duyulan: eşya ile
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 55 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: felsefe-2026-11-18.duyulan.txt

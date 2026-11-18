@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-18.mp3
+
+beklenen 2017 kelime | duyulan 2017 kelime | eşleşme %95.4
+sayı ifadesi: metinde 208, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i ki katlı uzun
+      metin  : cepheli
+      duyulan: cepeli
+  REPLACE  ...kılığında küçük heykeller var
+      metin  : cepheler
+      duyulan: cepeler
+  REPLACE  ...olarak bulamazsınız sivaganga ve
+      metin  : pudukkottay
+      duyulan: pudukottay
+  REPLACE  ...ortak sahibi de var
+      metin  : nattukottai chettiarları
+      duyulan: nattukottay çettiyarları
+  REPLACE  ...ama yüzyılın ortalarından itibaren
+      metin  : chettiarlar
+      duyulan: çettiyarlar
+  REPLACE  ...da imparatorluğun gölgesinde denizi
+      metin  : aştılar
+      duyulan: açtılar
+  REPLACE  ...malaya ya singapur a
+      metin  : saygon
+      duyulan: saigon
+  REPLACE  ...kredi vermiyordu bu boşluğu
+      metin  : chettiarlar
+      duyulan: çettiyarlar
+  INSERT   ...sarayları yaptı yüzyılın sonlarından
+      metin  : (yok)
+      duyulan: lara
+  REPLACE  ...oyma yapılmıştır kapının üst
+      metin  : kirişinde
+      duyulan: girişinde
+  REPLACE  ...sütunlarla çevrili revak sarar
+      metin  : revağın
+      duyulan: revan
+  REPLACE  ...hafifçe serin hissedersiniz bu
+      metin  : çettinad ın
+      duyulan: çetin adın
+  REPLACE  ...bölgedeki en tanınmış örneklerden
+      metin  : çettinad sarayı nı
+      duyulan: çetin ad sarayını
+  REPLACE  ...önde gelen isimlerinden annamalay
+      metin  : çettiyar
+      duyulan: çetiyar
+  INSERT   ...çettiyar yaptırdı ve saray
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve saray tamamlandı annamalay
+      metin  : çettiyar
+      duyulan: çetiyar
+  REPLACE  ...i ngiliz yönetiminden raca
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...unvanı alacaktı ama sarayı
+      metin  : çettinad daki
+      duyulan: çetin addaki
+  REPLACE  ...örgütlendi bu tapınaklar her
+      metin  : çettiyar
+      duyulan: çetiyar
+  REPLACE  ...bu ağ zirvesine ulaşmıştı
+      metin  : çettiyar
+      duyulan: çetiyar
+  INSERT   ...yavaş yavaş geldi önce
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tarlalar alacaklıların eline geçti
+      metin  : chettiarlar
+      duyulan: çetiyarlar
+  REPLACE  ...şeyin sahibi oldular toprak
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...ekili pirinç tarlalarının yaklaşık
+      metin  : çettiyar
+      duyulan: çetiyar
+  INSERT   ...getirebildi sonra savaş geldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...pek çok insan öldü
+      metin  : chettiarlar
+      duyulan: çetiyarlar
+  INSERT   ...eskisi gibi değildi burma
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yabancı elindeki tarlaları kamulaştırdı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ticari varlıklar da devletleştirildi
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...dan ayrılmak zorunda kaldı
+      metin  : chettiarların
+      duyulan: çetiyarların
+  REPLACE  ...son vermek anlamına geliyordu
+      metin  : çettinad
+      duyulan: çetinat
+  REPLACE  ...sonu demekti i ki
+      metin  : taraf da
+      duyulan: tarafta
+  REPLACE  ...hiçbiri diğerini geçersiz kılmaz
+      metin  : çettinad
+      duyulan: çetinat
+  REPLACE  ...açtı başka sorun da
+      metin  : mülkiyetti
+      duyulan: mülki etti
+  REPLACE  ...açılması da buradan gelir
+      metin  : chettiarlar
+      duyulan: çetiyarlar
+  REPLACE  ...bunların kısmı gelinin çeyiziydi
+      metin  : çettiyar
+      duyulan: çetiyar
+  REPLACE  ...evler bakımsız kaldıkça bu
+      metin  : de
+      duyulan: birikimde
+  REPLACE  ...bu de dağılmaya başladı
+      metin  : seksenlerden
+      duyulan: lerden
+  REPLACE  ...dağılmaya başladı seksenlerden ve
+      metin  : doksanlardan
+      duyulan: lardan
+  REPLACE  ...girişini süslüyor olabilir bugün
+      metin  : çettinad da
+      duyulan: çetinat ta
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: seyahat-2026-11-18.duyulan.txt

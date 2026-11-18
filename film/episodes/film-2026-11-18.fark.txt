@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-18.mp3
+
+beklenen 1947 kelime | duyulan 1949 kelime | eşleşme %94.7
+sayı ifadesi: metinde 239, duyulanda 160  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...toprağı kaybetti londra da
+      metin  : size
+      duyulan: sis e
+  REPLACE  ...ngilteer londra nın batısındaki
+      metin  : pinewood
+      duyulan: pinwood
+  REPLACE  ...olacak akdeniz güneşi yanan
+      metin  : ptolemaioslar hanedanının
+      duyulan: pitolemaioslar hanedanı nın
+  REPLACE  ...century fox yani fox
+      metin  : stüdyosu
+      duyulan: studiosu
+  INSERT   ...formatın arkasında taylor ın
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rakamıydı yönetmen koltuğunda ruben
+      metin  : mamulyan
+      duyulan: mamullian
+  REPLACE  ...koltuğunda ruben mamulyan oturuyordu
+      metin  : sezar
+      duyulan: cezar
+  REPLACE  ...sezar rolüne peter finch
+      metin  : markus
+      duyulan: marcus
+  REPLACE  ...finch markus antonius rolüne
+      metin  : stephen
+      duyulan: steven
+  REPLACE  ...çekim yapmaya çalışıyordu ama
+      metin  : kleopatra sız kleopatra
+      duyulan: cleopatrasız cleopatra
+  REPLACE  ...yalnızca dakika kadardı ocak
+      metin  : mamulyan
+      duyulan: de mamullian
+  REPLACE  ...fox yerine joseph l
+      metin  : menkıviç
+      duyulan: mankiewicz
+  REPLACE  ...l menkıviç i getirdi
+      metin  : menkıviç
+      duyulan: mankiewicz
+  INSERT   ...hayatta kalması gerekiyordu mart
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...görebilir hafta sonra nisan
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...i yi kadın oyuncu
+      metin  : oscar ını
+      duyulan: oskarını
+  REPLACE  ...neredeyze iz bırakmadan buharlaştı
+      metin  : kleopatra
+      duyulan: cleopatra
+  INSERT   ...roma ya taşınacaktı eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...artık rex harrison vardı
+      metin  : markus
+      duyulan: marcus
+  REPLACE  ...skenderiye limanı roma kıyısındaki
+      metin  : antsiyo
+      duyulan: ansiyo
+  REPLACE  ...senaryoyla çekime girilmiş olmasıydı
+      metin  : menkıviç
+      duyulan: menkiewicz
+  REPLACE  ...yapım sürecinin ateşiyle yazılıyordu
+      metin  : menkıviç
+      duyulan: menkiewicz
+  REPLACE  ...menkıviç in kafasındaki kleopatra
+      metin  : peplum
+      duyulan: peprum
+  REPLACE  ...i yi erkek oyuncu
+      metin  : oscar ına
+      duyulan: oskarına
+  REPLACE  ...ve hepsinin ortasında devasa
+      metin  : sfenks kraliçe ile
+      duyulan: sifenks kraliçeyle
+  REPLACE  ...ile oğlu sezaryon bu
+      metin  : sfenksin
+      duyulan: sifenksin
+  REPLACE  ...gibi kurdu kostümlerde irene
+      metin  : sharaff vittoryo
+      duyulan: şaraff vittorio
+  REPLACE  ...irene sharaff vittoryo nino
+      metin  : novareze
+      duyulan: novarese
+  REPLACE  ...vittoryo nino novareze ve
+      metin  : rönye
+      duyulan: ronje
+  REPLACE  ...makyajı ve geometrik peruğu
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...oynayan oyuncu kamera arkasında
+      metin  : da birbirine
+      duyulan: yine
+  REPLACE  ...ilişkiye kendi alaycı diliyle
+      metin  : lö skandal
+      duyulan: le scandal
+  REPLACE  ...diliyle lö skandal yani
+      metin  : skandal
+      duyulan: scandal
+  INSERT   ...filme yönden etki etti
+      metin  : (yok)
+      duyulan: öte
+  REPLACE  ...çıkmıştı her gecikme günü
+      metin  : onbinlerce
+      duyulan: binlerce
+  INSERT   ...kurulunda sabır tükeniyordu haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fox un kurucu kuşağından
+      metin  : darryl f zanuck
+      duyulan: daryl feff zanuk
+  REPLACE  ...darryl f zanuck döndü
+      metin  : zanuck
+      duyulan: zanuk
+  REPLACE  ...durdurmaktı çekimler yazında tamamlandı
+      metin  : zanuck
+      duyulan: zanuk
+  REPLACE  ...tamamlandı zanuck süer sonra
+      metin  : menkıviç
+      duyulan: mankiewicz
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: film-2026-11-18.duyulan.txt

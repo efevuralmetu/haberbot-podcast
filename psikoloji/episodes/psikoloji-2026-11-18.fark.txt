@@ -1,0 +1,100 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-18.mp3
+
+beklenen 1520 kelime | duyulan 1542 kelime | eşleşme %96.8
+sayı ifadesi: metinde 197, duyulanda 145  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...elinde ne varsa büyütüyor
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...amerika da bisiklet çılgınlığı
+      metin  : doruğunda
+      duyulan: durumunda
+  REPLACE  ...çıkarıyor bunu sınamak için
+      metin  : laboratuvara
+      duyulan: laboratuara
+  INSERT   ...yan yana kişi çalışıyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...beri hikayenin vardı sonraki
+      metin  : onyıllarda
+      duyulan: yıllarda
+  INSERT   ...kimse tek çerçevede toplayamadı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tek çerçevede toplayamadı robert
+      metin  : zayons
+      duyulan: zions
+  REPLACE  ...büyütür seyirci ustayı parlatır
+      metin  : acemiyi
+      duyulan: acemiği
+  REPLACE  ...aynı mekanizmanın farklı sonucuydu
+      metin  : zayons
+      duyulan: zions
+  INSERT   ...düşünüyordu bunu göstermek için
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kalabalığın önünde yarışıyordu sonuç
+      metin  : zayons
+      duyulan: zion s
+  INSERT   ...insanlara ne kadar taşınabilir
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yi oyuncular vuruşlarının yaklaşık
+      metin  : (yok)
+      duyulan: ini
+  INSERT   ...zayıf oyuncular ize yaklaşık
+      metin  : (yok)
+      duyulan: sını
+  INSERT   ...i yi oyuncuların isabeti
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...isabeti çıktı zayıf oyuncularınki
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...şey yanda bekleyen meraklı
+      metin  : gözdü
+      duyulan: gözlü
+  REPLACE  ...tarafından yargılanma ihtimali mi
+      metin  : nickolas
+      duyulan: de nicolas
+  REPLACE  ...denen şeyden kaynaklandığını düşündürdü
+      metin  : hamamböceği
+      duyulan: haman böceği
+  INSERT   ...önüne ne koyarsan büyütür
+      metin  : (yok)
+      duyulan: öt
+  REPLACE  ...değil belirli noktalarda yapın
+      metin  : cottrel
+      duyulan: kotrel
+  REPLACE  ...kalıcı hüküm gibi okumaya
+      metin  : meyilliyizdir
+      duyulan: meyilleyizdir
+  REPLACE  ...sahnede o büyütecin parlayabilir
+      metin  : triplett in
+      duyulan: tripletin
+  INSERT   ...yollarda pedal çevirerek başlamıştı
+      metin  : (yok)
+      duyulan: alok yisa
+  REPLACE  ...bilardo rakamları kişilik izleyici
+      metin  : michaels
+      duyulan: mikals
+  REPLACE  ...kontrol gerektiren yer burası
+      metin  : cottrel
+      duyulan: kotrel
+  REPLACE  ...doğru olduğundan eminim ama
+      metin  : metinde nickolas
+      duyulan: metin de nikolas
+  REPLACE  ...ışıktan kaçan böceklerle kuruldu
+      metin  : triplett in
+      duyulan: tripletin
+  REPLACE  ...gerektiğini ize cümleyle belirttim
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 35
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: psikoloji-2026-11-18.duyulan.txt

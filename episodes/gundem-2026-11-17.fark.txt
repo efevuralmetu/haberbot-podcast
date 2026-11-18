@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-17.mp3
+
+beklenen 1519 kelime | duyulan 1533 kelime | eşleşme %94.6
+sayı ifadesi: metinde 245, duyulanda 131  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bu akşam açıklanacak nvidia
+      metin  : bilançosuna
+      duyulan: blanchos
+  REPLACE  ...hafta içinde gerçekleşmesi beklenen
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...halka arzına kilitlenmiş durumda
+      metin  : uss theodoer
+      duyulan: ufessez theodora
+  REPLACE  ...katıldı bugün kasım salı
+      metin  : ben
+      duyulan: min
+  REPLACE  ...başkenti manila ya giderek
+      metin  : asean
+      duyulan: asya nın
+  REPLACE  ...trump çin devlet başkanı
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...kuzey koer lideri kim
+      metin  : cong un
+      duyulan: konkun
+  REPLACE  ...söz etti ve bunun
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...güney koer devlet başkanı
+      metin  : li ce myong
+      duyulan: lice miong
+  REPLACE  ...ce myong filipinler deki
+      metin  : asean
+      duyulan: asya nın
+  REPLACE  ...toplantıları sırasında japonya başbakanı
+      metin  : takaiçi yle
+      duyulan: takaide ile
+  REPLACE  ...ve emniyet müdürü jessica
+      metin  : tisch
+      duyulan: tish
+  REPLACE  ...haftaki en önemli olayı
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...hisselerin kasım da ant
+      metin  : koduyla
+      duyulan: kodu ile
+  INSERT   ...katına ulaştı ve hisselerin
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...hakkı olmayan hisse almayı
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...olacak şirketin finans direktörü
+      metin  : kolet kres
+      duyulan: colette kress
+  REPLACE  ...olarak görev yapıyor ve
+      metin  : analist
+      duyulan: analiz
+  REPLACE  ...ve analist toplantısında yönetim
+      metin  : değişikliğiyle
+      duyulan: değişikliği ile
+  INSERT   ...arda haftadır düşüyor bu
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...en uzun kayıp serisi
+      metin  : huang
+      duyulan: howard lutnick
+  INSERT   ...katılımcılarıyla yaptığı ankette katılımcıların
+      metin  : (yok)
+      duyulan: si
+  INSERT   ...bu oran bahar aylarında
+      metin  : (yok)
+      duyulan: ydi
+  REPLACE  ...adına alışveriş yapmasını sağlayan
+      metin  : chatgpt
+      duyulan: chet gpt
+  REPLACE  ...başlattı amazon a ait
+      metin  : zoox
+      duyulan: zox
+  INSERT   ...baz puanlık artışın olasılığı
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...ardı etmiyor geçen hafta
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...hafta nvidia bilançosu ve
+      metin  : anthropic halka
+      duyulan: antropik halkı
+  REPLACE  ...toplantı tutanaklarını da izleyecek
+      metin  : emtia
+      duyulan: emtiye
+  REPLACE  ...çeyrek yaklaşık lira seviyesinde
+      metin  : bist
+      duyulan: beiste
+  REPLACE  ...genel başkanı müsavat dervişoğlu
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...nın bütçesi görüşülecek genel
+      metin  : kurul
+      duyulan: kurulu
+  INSERT   ...mahkemesi hukuk dairesi mayıs
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...bist endeksi gün içinde
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...e yakın kadrolar temmuz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...politikada suriye dışişleri bakanı
+      metin  : esad
+      duyulan: esat
+  INSERT   ...yıl sonu enflasyon tahminini
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...nvidia bilançosu perşembe günü
+      metin  : anthropic
+      duyulan: anthropik
+  REPLACE  ...apec zirvesinde yapılacak trump
+      metin  : xi
+      duyulan: şi
+  REPLACE  ...stanbul da gök gürültülü
+      metin  : sağanak
+      duyulan: sanak
+  ... ve 3 fark daha
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: gundem-2026-11-17.duyulan.txt

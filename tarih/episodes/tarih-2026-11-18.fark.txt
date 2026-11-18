@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-18.mp3
+
+beklenen 2632 kelime | duyulan 2644 kelime | eşleşme %93.7
+sayı ifadesi: metinde 266, duyulanda 194  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...biliyordu prusya nın başbakanı
+      metin  : bismark
+      duyulan: bismarck
+  INSERT   ...açacak ülke hazırdı birliğini
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kalmış cümle gibiydi nisan
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...cümle gibiydi nisan prusya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...gizli ittifak imzaladı anlaşma
+      metin  : açıktı
+      duyulan: çıktı
+  REPLACE  ...yakınlarındaki kustoza da arşidük
+      metin  : albreht
+      duyulan: albrecht
+  REPLACE  ...kendisi gibi parçalardan birleştirilmişti
+      metin  : sardinya piyemonte
+      duyulan: sardinia piemonte
+  REPLACE  ...arasındaki eski rekabetler sürüyordu
+      metin  : piyemonteliler
+      duyulan: piemonteliler
+  REPLACE  ...sürüyordu piyemonteliler napolileer napoliler
+      metin  : piyemontelileer
+      duyulan: piemontelileer
+  REPLACE  ...gemisi olacak büyük zırhlı
+      metin  : er ditalya
+      duyulan: red italia
+  REPLACE  ...kralı new york taki
+      metin  : tersanede
+      duyulan: tershanede
+  REPLACE  ...bazı gemilerin teçhizatı eksikti
+      metin  : adriyatiğin
+      duyulan: adriati nin
+  REPLACE  ...koymak için prusya daki
+      metin  : krupp
+      duyulan: kurup
+  REPLACE  ...çekip sürükleyebilen komutan vardı
+      metin  : vilhelm fon
+      duyulan: wilhelm von
+  REPLACE  ...vilhelm fon tegethof yaşında
+      metin  : tuğamiraldi
+      duyulan: tuamir aldı
+  INSERT   ...i ki yıl önce
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...belliydi filonun komutanı amiral
+      metin  : karlo pelyon
+      duyulan: carlo pellon
+  INSERT   ...parlak anını geride bırakmıştı
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...nin sicilya seferi sırasında
+      metin  : piyemonte
+      duyulan: piemonte
+  REPLACE  ...da prusya bohemya daki
+      metin  : könikgrets
+      duyulan: königretz
+  REPLACE  ...hem için hem de
+      metin  : adriyatiğin
+      duyulan: adriati nin
+  REPLACE  ...parçası dalmaçya kıyısının açığında
+      metin  : adriyatiğin
+      duyulan: adriati nin
+  REPLACE  ...burayı tahkim etmiş adını
+      metin  : adriyatiğin cebelitarığı
+      duyulan: adriati nin cebeli tarığı
+  REPLACE  ...persano filosuyla temmuz da
+      metin  : ankona
+      duyulan: ancona
+  REPLACE  ...zırhlıları gün boyunca kıyıdaki
+      metin  : tabyaları
+      duyulan: tabiaları
+  REPLACE  ...ya haber göndermeyi başarmıştı
+      metin  : tegethof lissa
+      duyulan: tegetov lysa
+  INSERT   ...nın saldırı olduğunu biliyordu
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...gemisinden çekilen işaretler ize
+      metin  : karmaşanın
+      duyulan: karmışanın
+  REPLACE  ...ve gerçekte hiçbiri işlemiyordu
+      metin  : tegethof
+      duyulan: tegetov
+  INSERT   ...gemiler geliyordu bunların başında
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...olan ahşap hat gemisi
+      metin  : kayzer
+      duyulan: kaiser
+  REPLACE  ...geleneğinde yaşayan rivayete göer
+      metin  : tegethof
+      duyulan: tegetov
+  REPLACE  ...gemisinden çekilen işaretlerle örtüşüyordu
+      metin  : tegethof
+      duyulan: tegetov
+  REPLACE  ...süer sonra da direğe
+      metin  : lissa
+      duyulan: lisa
+  REPLACE  ...arkasında soğuk hesap vardı
+      metin  : tegethof
+      duyulan: tegetov
+  INSERT   ...şekilde ortaya çıkardı saat
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...gemisi adını i mparator
+      metin  : frants yozef
+      duyulan: franz josef
+  REPLACE  ...in kardeşi arşidük ferdinand
+      metin  : maksimilyan
+      duyulan: maximillian
+  REPLACE  ...maksimilyan dan alan ferdinand
+      metin  : maks
+      duyulan: max
+  REPLACE  ...ferdinand maks ti kaptanı
+      metin  : maksimilyan daublebski fon şternek köprüüstünden
+      duyulan: maximillian doblebski von sternek köprü üstünden
+  ... ve 49 fark daha
+
+metinde olup DUYULMAYAN: 98 kelime | duyulup metinde OLMAYAN: 123
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: tarih-2026-11-18.duyulan.txt

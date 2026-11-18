@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-18.mp3
+
+beklenen 1744 kelime | duyulan 1776 kelime | eşleşme %93.9
+sayı ifadesi: metinde 260, duyulanda 170  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...ranch yani skywalker çiftliği
+      metin  : seksenlerin
+      duyulan: lerin
+  INSERT   ...destana dokunmaları yasaktı hikaye
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kaldı i lk oyunlar
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bambaşka türde ortaya çıkacaktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...işi başka oyunları commodoer
+      metin  : dörde
+      duyulan: ya e
+  REPLACE  ...oyununa çalışıyordu sanatçı gary
+      metin  : winnick
+      duyulan: winick
+  REPLACE  ...konağa girecekti konağın sahibi
+      metin  : dr
+      duyulan: doktor
+  REPLACE  ...göer konağın havası skywalker
+      metin  : çiftliği nin viktorya
+      duyulan: çiftliğinin victoria
+  REPLACE  ...gerekiyordu gilbert ekip arkadaşı
+      metin  : aric
+      duyulan: arich
+  REPLACE  ...kurabildiği araç geliştirdi adı
+      metin  : scumm dı
+      duyulan: seche yumdi
+  INSERT   ...aktarmak yetiyordu çılgın konak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...göer bu sahneler için
+      metin  : cutscene
+      duyulan: cad sine
+  REPLACE  ...terimini ilk kullananlardan gilbert
+      metin  : tır
+      duyulan: dir
+  INSERT   ...yıl içinde manifestoya dönüşecekti
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...hedefler de görünür olmalıydı
+      metin  : bulmacalar
+      duyulan: bulmaçalar
+  DELETE   ...o yıllardaki öncüsü sierra
+      metin  : line
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...line yani kısaca sierra
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...tadı olarak görüyordu gilbert
+      metin  : ın
+      duyulan: in
+  REPLACE  ...oyun üzerinde çalışıyordu gilbert
+      metin  : ın
+      duyulan: in
+  REPLACE  ...ve programcı katıldı tim
+      metin  : schafer
+      duyulan: schaeffer
+  REPLACE  ...the secret of monkey
+      metin  : ayland
+      duyulan: island
+  INSERT   ...adası nın sırrı ekim
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kahramanı korsan olmak isteyen
+      metin  : sıska
+      duyulan: sızka
+  REPLACE  ...fazla iyimser delikanlıydı guybrush
+      metin  : threepwood
+      duyulan: tripwood
+  REPLACE  ...oyun guybrush ı meley
+      metin  : ayland
+      duyulan: island
+  REPLACE  ...ı meley ayland yani
+      metin  : arbede
+      duyulan: arbeda
+  REPLACE  ...akılda kalan buluşu oldu
+      metin  : arbede
+      duyulan: arbeda
+  REPLACE  ...e takıntılı hayalet korsan
+      metin  : lechuck tı
+      duyulan: lechok tu
+  REPLACE  ...oyunu çaresizliğiydi ve gilbert
+      metin  : ın
+      duyulan: in
+  REPLACE  ...açıkça dalga geçiyordu guybrush
+      metin  : aşağı
+      duyulan: aşağıya
+  REPLACE  ...sınandığı espriydi michael land
+      metin  : in
+      duyulan: ın
+  REPLACE  ...oyunu çok gecikmedi monkey
+      metin  : ayland lechuck
+      duyulan: island le choc
+  REPLACE  ...revenge yani maymun adası
+      metin  : lechuck ın i ntikamı
+      duyulan: le choc un intikamı
+  INSERT   ...ın i ntikamı aralık
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sonu ize hala tartışılan
+      metin  : muammaydı
+      duyulan: muamma idi
+  INSERT   ...oyunu yıl boyunca yapamayacaktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...lucasarts adını taşıyordu gilbert
+      metin  : shelley
+      duyulan: shelly
+  REPLACE  ...adlı şirketi kurdu ve
+      metin  : scumm
+      duyulan: satium
+  REPLACE  ...fikirleri yeni kuşağa ulaştırdı
+      metin  : guybrush
+      duyulan: guy braş
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 67 kelime | duyulup metinde OLMAYAN: 97
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: oyun-2026-11-18.duyulan.txt

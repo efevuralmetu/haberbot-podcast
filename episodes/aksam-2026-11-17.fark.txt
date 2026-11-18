@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: aksam-2026-11-17.mp3
+
+beklenen 1123 kelime | duyulan 3371 kelime | eşleşme %47.2
+sayı ifadesi: metinde 454, duyulanda 278  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : önce
+      duyulan: i yi akşamlar neuron haber akşam bülten in de bugünün öne çıkan gelişmelerini sizin için derledik ve değerlendirdik bugün kasım salı ben pınar ben barış bu akşam dünyadan ekonomiye teknolojiden türkiye gündemine günün öne çıkan başlıklarını birlikte ele alıp değerlendireceğiz pınar söz sende dünyada bu akşamın gündemi yoğun asya daki zirve trafiğinden körfezdeki gerilime kadar öne çıkan başlıklara birlikte bakalım bence
+  REPLACE  ...geldi trump japonya başbakanı
+      metin  : sanae
+      duyulan: sanayi
+  REPLACE  ...tayland ile ticaret anlaşması
+      metin  : imzalamak da
+      duyulan: imzalamakta
+  REPLACE  ...burada çin devlet başkanı
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...da üst düzey yönetim
+      metin  : yetkililerini
+      duyulan: yetkililerine
+  REPLACE  ...bildirildi i ran ın
+      metin  : keşm adası nda
+      duyulan: keşme adasında
+  REPLACE  ...kalıcı olarak sona ermeden
+      metin  : bm
+      duyulan: bmn
+  REPLACE  ...tesisleer dönmesine izin vermeyeceğini
+      metin  : yineledi
+      duyulan: ineledi
+  REPLACE  ...merkezi aden e yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...şirketteki bu belirsizlik washington
+      metin  : un
+      duyulan: ın
+  REPLACE  ...planında yer alıyor evet
+      metin  : tablo
+      duyulan: tavla
+  INSERT   ...buradan nasıl resim çıkarıyorsun
+      metin  : (yok)
+      duyulan: bence bugünün özeti şu pınar washington aynı anda hem diplomasi masasında hem de cephede güç göstermeye çalışıyor ve alan birbirini doğrudan etkiliyor manila daki quad toplantısı shenzhen deki buluşma öncesinde müttefikleer güvence mesajı trump xi ve putin ile masaya oturmadan önce asya pasifik teki ortaklarının arkasında durduğunu göstermek istiyor ancak hürmüz de gemilerin vurulması ve babülmendebin husilerin etki alanına girmesi enerji ve ticaret yollarını doğrudan tehdit eden kıskaç oluşturuyor bu da shenzhen deki görüşmeyi nükleer silahsızlanmanın ötesine taşıyabilir çünkü hem pekin in hem moskova nın tahran üzerinde belli ölçüde etkisi var beklentiler düşük tutulsa da bu fotoğrafın kendisi bile küresel güç dengeleri açısından önümüzdeki dönemin en çok konuşulacak sahnelerinden olacak gibi görünüyor teknoloji ve yapay zeka dünyasına geçiyoruz bugün bu alanda da gündem oldukça yoğun i lk haberimiz çipdevi nvidia dan şirketin kurucusu ve uzun süredir ceo su olan shenzhen huang kişisel davranışlarıyla ilgili iddiaların ardından geçen hafta görevinden ve yönetim kurulundan ayrılmıştı şirketi şu anda geçici olarak finans yöneticisi colette cress yönetiyor financial times yani finans gazetesi yönetim kurulunun arm ın ceo su rene hass ile görüştüğünü yazdı nvidia ize henüz yönetici arama firması seçmekte olduğunu ve hiçbir adayla resmi görüşmeye başlamadığını açıkladı bu belirsizliğin ortasında nvidia bugün çeyrek bilançosunu açıklıyor ayrıca yönetim kurulu bünyesinde ulusal güvenlik ve ihracat denetimini izleyecek kalıcı komite kuruldu komite en az ayda toplanacak konunun de washington ayağı var abd ticaret bakanlığı dün geçici kural yayımladı bu kurala göer brezilya endonezya malezya singapur ve taylanda gelişmiş yapay zekaçıpı göndermek artık lisansa bağlı amaç çinli şirketlerin bu ülkelerdeki veri merkezleri üzerinden çip kapasitesi kiralamasının önünü kesmek nvidia nın müşterilerini uyardığı bildirildi uyarı remote access security act yani uzaktan erişim güvenliği yasası tasarısıyla ilgili şirkete göer tasarı yasalaşırsa hem nvidia hem de müşterileri abd de hukuki yaptırımla karşılaşabilir uzaktan erişim güvenliği yasası ocak ayında temsilciler meclisinden geçmişti ve şu anda senatoda bekliyor nvidia işlemci kapasitesinin sinden fazlasını çinli şirketleer kiralayan müşterileer satış yapmayacağını da duyurdu yapay zeka şirketi anthropic halka arz a hazırlanıyor cnbc nin haberine göer brad gerstner ın yönettiği altimeter adlı yatırım şirketi halka arz a dolar yatıracak halka arz öncesinde amd broadcom google microsoft nvidia ve tsmc gibi şirketlerin tahütleri toplamda dolara ulaştı payların bu perşembe nasdaq borsasında hisse başına ile dolar arasında fiyatlanması bekleniyor bu fiyat aralığı şirketin değerini yaklaşık trilyon dolara taşıyor hukuk tarafında da önemli gelişme var california başsavcısı rob bonta san francisco daki eyalet mahkemesinde openai aleyhine dava açtı davada şirketin modellerini yeterli güvenlik önlemi almadan test ettiği ileri sürülüyor başsavcılık test ortamlarında kontrolün kaybedildiği onlarca olayı örnek gösteriyor mahkemeden şirketin uygulamalarını değiştirmesini ve para cezası verilmesini istiyor i ddialar henüz mahkemede karara bağlanmadı son olarak yatırım haberleri google ın çatı şirketine bağlı ilaç keşfi girişimi isomorphic labs dolarlık yeni yatırım turunu tamamladı bu tutar şirketin mayıs taki turunun yaklaşık katı şirket ilk klinik deneme başvurularını de yapmayı hedefliyor amd feifeili nin kurucuları arasında olduğu wordlabs i yaklaşık dolara satın alma işlemini tamamladı satın alma bedeli tamamen hisseyle ödendi feifeili amd de başbilim insanı olarak göreve başlıyor haber çok ama tablo aslında tek yeer çıkıyor gibi sen ne dersin bu hafta sektörde neler oluyor bence bu haftanın ortak noktası yapay zekanın artık teknoloji hikayesinden devlet meselesine dönüşmesi nvidia daki liderlik boşluğunun hemen ardından ulusal güvenlik komitesi kuruldu washington da da chip erişimini sınırlayan düzenlemeler art arda geliyor bu chip in artık stratejik varlık olarak görüldüğünü gösteriyor öte yandan antropik halka arzı ve milyarlarca dolarlık yatırım turları sermayenin bu alana akmaya devam ettiğini kanıtlıyor ama kaliforniya nın açtığı dava hız ile güvenlik arasındaki dengenin bundan sonra mahkemelerde de tartışılacağını gösteriyor kısacası önümüzdeki dönemde yalnızca en güçlü modeli kimin yaptığına değil bu gücü kimin hangi kurallarla denetleyeceğine de bakacağız şimdi ekonomi ve piyasalara geçiyoruz borsa i stanbul da gün satıcılı geçti önceki günü puandan bitiren bist endeksi güne düşüşle puandan başladı öğleden sonra saatlerinde kayıp a yaklaştı ve endeks puan civarına geriledi döviz tarafında dolar lira seviyesinde yatay seyir izliyor gram ize kaynağa ve saate göer değişmekle birlikte lira dolaylarında işlem görüyor borsadaki düşüşün başlıca nedeni küresel piyasalardan gelen satış baskısı abd de teknoloji hisselerinde ve özellikle yapay zeka şirketlerinde görülen satışlar gelişmekte olan ülkelerde risk iştahını zayıflattı yatırımcılar çip üreticisi nvidia nın bu hafta açıklayacağı finansal sonuçları bekliyor bunun yanında federal reserve yani abd merkez bankası nın toplantı tutanakları da yakından izleniyor piyasa fed in faiz konusundaki tutumuna dair yeni ipuçları arıyor değerli metallerde ize ilginç tablo var abd tahvil faizlerinin yükselmesi ve doların değer kazanması baskılıyor bu da fiyatları son yılın en düşük seviyelerine indirdi salt ın bugün sınırlı tepkiyle dolar civarına çıktı ancak uzmanlar genel eğilimin hala abd den gelecek faiz sinyallerine bağlı olduğunu belirtiyor yurt içi verilerde bugünün öne çıkan başlığı konut fiyatlarıydı merkez bankası nın açıkladığı ekim ayı konut fiyat endeksi önceki aya göer arttı yıllık bazda nominal artış oldu ancak enflasyondan arındırıldığında fiyatlar geriledi büyük şehirler arasında aylık bazda ankara da i stanbul da artış görülürken i zmir de lık düşüş kaydedildi yeni kiracı kira endeksine göer kiralar yıllık arttı ancak bu artış reel olarak lik gerilemeye karşılık geliyor hazine ve maliye bakanı mehmet şimşek de dün önemli açıklamalarda bulundu şimşek in verdiği bilgiye göer tasfiye sürecindeki fonun unda kişiye toplam lira ödendi ve olağan tasfiye büyük ölçüde tamamlandı bakan bu ödemelerde bütçeden kaynak kullanılmadığının çizdi şimşek eylül ile kasım arasında borsanın gerilediğini aynı dönemde gelişmekte olan ülke borsalarındaki ortalama düşüşün ize olduğunu hatırlattı piyasanın tübitak ile geliştirilecek algoritmalarla anlık olarak izleneceğini kalıcı reformun da aralık ortasında şekilleneceğini söyledi bakan ayrıca aralık ta new york ta küresel endek şirketi morgan stanley capital international kısaca msci ın üst yönetimi ile ve uluslararası yatırımcılarla görüşeceğini açıkladı evet bugün de gündem epey yoğundu barış bu tabloya bakınca senin aklına ilk ne geliyor bence bugünün ana fikri şu pınar borsa i stanbul daki düşüşün büyük kısmı dışarıdan geliyor çünkü abd deki teknoloji satışları ve fed belirsizliği tüm gelişmekte olan piyasaları aynı anda etkiliyor bakan şimşek in türkiye borsasındaki kaybı gelişmekte olan ülke ortalamasıyla karşılaştırması da bu algıyı yönetmeye dönük mesaj algoritmayla gözetim ve msci temasları ize yabancı yatırımcıya güven vermeyi amaçlıyor konut verisinde ize nominal artış sürse de real kayıp devam ediyor bu da sıkı para politikasının gayrimenkulde fiyatları soğuttuğunu gösteriyor endonez deki günlerde nvidia bilançosu ve fed tutanakları hem hem de borsanın yönünü belirleyecek yani yatırımcı için bu hafta gözlerin süer daha atlantin öbür yakasında olacağı hafta ana haber başlıklarında şimdi türkiye ye dönüyoruz yoğun günden var hemen başlayalım
+  REPLACE  ...kapsamında bu sabah sözcü
+      metin  : tv ye
+      duyulan: televizyonu ya
+  REPLACE  ...tv ye ve sözcü
+      metin  : medya grubu na
+      duyulan: media grubuna
+  REPLACE  ...yi atadı kararın televizyon
+      metin  : kanalı ile
+      duyulan: kanalıyla
+  INSERT   ...yayın akışından çıkarıldı gece
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...türkiye sürecine ayırdı ve
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...gereği olduğunu söyledi sözcü
+      metin  : tv ye
+      duyulan: television e
+  DELETE   ...toplam ödenek teklifinin yaklaşık
+      metin  : trilyon
+      duyulan: (YOK — atlanmış)
+  INSERT   ...bu rakam genel bütçenin
+      metin  : (yok)
+      duyulan: sine
+  REPLACE  ...geliyor çiftçi yatırım ödeneklerinin
+      metin  : altısının
+      duyulan: sının
+  INSERT   ...ayrıldığını vurguladı bakan ayrıca
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...ayrıca ilk ayında fetö
+      metin  : ye
+      duyulan: neye
+  REPLACE  ...bütçesini ele alacak genel
+      metin  : kurul
+      duyulan: kurulu
+  REPLACE  ...de yabancı dijital konaklama
+      metin  : platformlarıyla
+      duyulan: platformları ile
+  REPLACE  ...dijital konaklama platformlarıyla ilgili
+      metin  : teklife
+      duyulan: teklifi
+  REPLACE  ...ize yarın kritik gün
+      metin  : chp nin
+      duyulan: sehra pen in te
+  REPLACE  ...olağan kurultayı ndaki usulsüzlük
+      metin  : iddialarıyla
+      duyulan: iddiaları ile
+  INSERT   ...mahkemesi nin yarın saat
+      metin  : (yok)
+      duyulan: daki
+  REPLACE  ...kararını açıklaması bekleniyor savcılık
+      metin  : mütalaasında
+      duyulan: mütalasında
+  REPLACE  ...nın bugün açıkladığı gösterge
+      metin  : kurlara
+      duyulan: kurulara
+  REPLACE  ...seyirle puandan kapattı evet
+      metin  : gündem
+      duyulan: günden
+  INSERT   ...ne gibi tablo oluşuyor
+      metin  : (yok)
+      duyulan: bence bugünün ortak noktası siyasetin ağırlık merkezinin hem mecliste hem de adliye koridorlarında yoğunlaşması sözcü televizyon bundan sonra ayrı düzlemde konuşulacak tarafta savcılığın ortaya koyduğu finansman iddialarının yargılamada nasıl somutlaşacağı diğer tarafta ize basın özgürlüğü ve yayıncılığın devamlılığına ilişkin kaygılar bu tmsf nin kanalı nasıl yöneteceği önümüzdeki günlerde yakından izlenecek yarın açıklanması beklenen kurultay ceza davası kararı ize muhalefetteki yapılanmayı doğrudan etkileyebilir ama bu davayla yargıtay daki mutlak mutlan dosyasının ayrı süreçler olduğunu akılda tutmak gerekiyor bütçe görüşmeleri ve fon soruşturmasındaki hesap verme vurgusu ize hükümetin önümüzdeki dönemde güvenlik deprem bölgesi ve vatandaş mağduriyeti başlıklarını öne çıkaracağını gösteriyor spor gündemine geçiyoruz takımda uluslar ligi defteri kapandı gençlerimiz ize bu akşam büyük eşik için sahada a futbol takımı uluslar ligi a ligindeki son grup maçında pazar akşamı bordeaux da fransa ya yenildi fransa ilk golü dakikada emirhan topçu nun talihsiz şekilde kendi kalesine attığı golle buldu dakikada eli junior grupi farkı ye çıkardı bizim tek golümüzü dakikada abdülkerim bardakçı kafayla attı bu sonuçla ay yıldızlılar a ligindeki ilk sezonunu maçta puan alamadan tamamlamış oldu teknik direktör vincenzo montella ve ekibi için şimdi önemli değerlendirme dönemi başlıyor ümit futbol takımı ize bu akşam avrupa yaş şampiyonası play off turunun rövanşına çıkıyor ay yıldızlı gençler geçen cuma rize de oynanan ilk maçta çekya ya pavel kaçor un yarının başında attığı golle yenilmişti rövanşın saat da çekya nın haradet kralo ve kentindeki fi nep arenada başlaması planlanıyor teknik direktör egemen korkmaz ın öğrencileri arnavutluk ve sırbistan ın ortaklaşa düzenleyeceği finalleer gidebilmek için toplam skorda üstünlüğü ele geçirmek zorunda deplasman golü kuralı artık uygulanmadığı için maçın toplam skoru belirleyici olacak tenize geçelim sezonun son büyük turnuvası olan nitto atp finals yani atp finalleri i talya nın torino kentinde devam ediyor bu yıl ki turnuvanın en çok konuşulan konusu son yılın şampiyonu yanik sinar ın dizindeki sakatlık nedeniyle sezonu kapatmış olması böylece atp finalleri bu yana ilk kez sinar dışında şampiyon görecek turnuvanın favorilerinden carlos alcaraz dün oynadığı ilk maçta francis tiafoyu ve lik setlerle rahat geçti grubuna galibiyetle başladı alcaraz ın grubunda daniil medvedev ve flavio cobolli de yer alıyor pazar günkü açılış maçlarında da alexander zverev ile ben schalten turnuvaya galibiyetle başlamıştı atp finallerinde grup maçları hafta boyunca sürecek final ize kasım pazar günü oynanacak kültür ve sanat dünyasına geçiyoruz akşamın en çok konuşulan haberi new york tan geliyor vincent van gogh un chatagnan fleur yani çiçek açan kestaneler adlı tablosu yarın akşam sotheby s müzayede evinde açık artırmaya çıkacak eserin tahmini değeri dolar bu fiyata ulaşırsa sanatçının yaklaşık dolarlık açık artırma rekoru kırılacak satışın hemen öncesinde ize itiraz geldi alman yayıncı samuel fischer in mirasçıları tablonun da nazi döneminin baskısı elden çıkarıldığını öne sürüyor müzayede evi bu iddiayı kabul etmiyor arşiv kayıtlarına göer tablonun o yılın haziran ayında i sviçer fragına satıldığını belirtiyor ve satışın planlandığı gibi yapılacağını açıkladı tabloyu satışa çıkaran blackie ailesi de mirasçılarla görüşmeye açık olduğunu söyledi körfez de de önemli sanat buluşması başlamak üzeer frize abu dhabi yani abu dhabi frize fuarı kasım tarihlerinde ilk kez kapılarını açacak fuar yıldır düzenlenen abu dhabi artın yerini alıyor ve orta doğu da frize adıyla yapılan ilk etkinlik olma özelliğini taşıyor programda genç galerileer ayrılan bölüm nadir kitap ve antika eserlerin yer aldığı seçki ve yeni sanatçı ödülü de bulunuyor fuarın açık hava heykel sergisi ize dün başladı ve aralığa kadar sahil boyunca gezilebilecek başkentte sinema şöleni sürüyor kasım da başlayan ankara film festivalinde gösterimler bu hafta boyunca devam ediyor ulusal uzun film yarışmasına başvuran film arasından yapım finale kaldı yarışmanın jüri başkanı yönetmen semih kaplanoğlu en iyi film ödülü lira olarak belirlendi kısa film yarışmasında ize başvurudan seçilen film yarışıyor kazananlar kasım daki ödül töreninde açıklanacak son olarak anma haberi türk tiyatrosu nun en önemli isimlerinden yıldız kenter yıl önce bugün kasım da yaşında hayatını kaybetmişti kenter kardeşi müşfik kenter ile birlikte kurduğu kent oyuncuları ve yetiştirdiği oyuncu kuşaklarıyla sahne sanatlarına büyük katkı sağladı usta sanatçı bugün de tiyatro severler ve meslektaşları tarafından saygıyla anılıyor şimdi bu akşamdan itibaren ve önümüzdeki günlerde takip edeceğimiz başlıklara geçiyoruz antoynca bu akşam sözcü television ve sözcü com tir hakkındaki soruşturmada tmsf bugün kayyum olarak atandı savcılık kişi hakkında gözaltı kararı verdi akşam saatlerinde gözaltı süreci ve yargıdan gelecek yeni açıklamalar takip edilecek fond soruşturmasında da bugün yeni tutuklamalar oldu dosyadaki gelişmeler izlenecek ankara da ize plan ve bütçe komisyonunda i çişleri bakanlığı nın bütçesi görüşülüyor suriye dışişleri bakanı esat hasan şeybani nin başkanlığındaki heyetin türkiye deki çalışma ziyareti de gündemde gece saatlerinde gözler küresel piyasalarda olacak yapay zeka çiplerinin üreticisi nvidia çeyrek bilançosunu türkiye saatiyle gece yarısından sonra yaklaşık de açıklayacak piyasada dolarlık gelir bekleniyor nvidia hisseleri haftanın ilk işlem gününde yaklaşık değer kaybetmişti yarın yani kasım çarşamba sabahı tüi k çeyrek iş gücü istatistiklerini saat da açıklayacak akşam saat de ize federal reserve yani abd merkez bankası ekim toplantısının tutanaklarını yayımlayacak piyasalar bu tutanaklarda aralık kararına dair ipucu arayacak dış politikada haftanın en önemli takvimi çin in shenzhen kentinde apec yani asya pasifik ekonomik i şbirliği zirvesi ve kasım da yapılacak abd başkanı donald trump perşembe günü önce çin devlet başkanı xi jinping ile görüşecek aynı gün trump xi ve rusya devlet başkanı vladimir putin ilk kez zirvede araya gelecek abd li yetkililer bu görüşmeden anlaşma çıkmasını beklemediklerini söylüyor ukrayna nın masaya gelip gelmeyeceği ize netlik kazanmadı kasım da yapay zeka şirketi antropik in hisselerinin nasdaq borsasında işlem görmeye başlaması bekleniyor aynı gün merkez bankası kısa vadeli dış borç istatistiklerini yayımlayacak haftanın kapanışında kasım cuma günü saat da tüi k kasım ayı tüketici güven endeksini açıklayacak endeks ekimde e gerilemişti aynı saatte merkez bankası da real kesim güven endeksini ve kapasite kullanım oranını duyuracak antalya da kasım da başlayan çiyop iklim zirvesi de aynı gün sona eriyor zirve başkanı bakan murat kurum antalya dan somut kararlar çıkmasını hedeflediklerini söylüyor son günlerde bakanlar düzeyindeki müzakerelerin yoğunlaşması bekleniyor merkez bankası nın yılın son faiz kararı ize aralık ta açıklanacak gün demin yoğun başlıklarından sonra şimdi de havanın nasıl olacağına bakalım meteoroloji bugün için marmara nın kuzey ve batısında ve kuzey ege de kuvvetli yağış uyarısı yaptı uyarı i stanbul kocaeli yalova tekirdağ ve kırklareli yi de kapsıyor yetkililer bu bölgelerde ani su baskınlarına karşı dikkatli olunması gerektiğini hatırlatıyor i stanbul da bugün gök gürültülü sağanak etkili oldu ve sıcaklık ile derece arasında seyretti yarın yağış yerini parçalı bulutlara bırakacak ancak güneyli rüzgarın zaman zaman fırtınaya dönüşebileceği bildiriliyor ankara da bugün öğleden sonra aralıklı sağanak görüldü ve sıcaklık ile derece arasında kaldı başkentte yarın da sağanak bekleniyor sıcaklıkta ize kayda değer değişiklik öngörülmüyor i zmir bugün çok bulutlu ve sağanaklıydı termometreler ile derece arasındaydı kentte yarın ile derece arasında sıcaklık ve yer yer sağanak bekleniyor özellikle bergama ve dikilinin bulunduğu kuzey kıyılarda yağışın kuvvetlenebileceği belirtiliyor yolculuğa çıkacakların ve sürücülerin meteorolojinin güncel uyarılarını takip etmeleri öneriliyor akşam bültenimizin sonuna geldik gündemi sizin için neuron değerlendirdi bilgi ile kalın hoşça kalın
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 2294
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: aksam-2026-11-17.duyulan.txt

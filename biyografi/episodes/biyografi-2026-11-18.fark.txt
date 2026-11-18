@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-18.mp3
+
+beklenen 3160 kelime | duyulan 3230 kelime | eşleşme %94.6
+sayı ifadesi: metinde 484, duyulanda 295  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...doğdu adını gertrude margaret
+      metin  : lowthian
+      duyulan: lothian
+  REPLACE  ...bel koydular dedesi isaac
+      metin  : lowthian
+      duyulan: lothian
+  REPLACE  ...annesi mary erkek kardeşi
+      metin  : maurice i
+      duyulan: morrissey
+  INSERT   ...mektuplar sayesindedir hugh bel
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sayesindedir hugh bel florence
+      metin  : olliffe
+      duyulan: olive
+  REPLACE  ...değildi ama iyi yetiştirilmiş
+      metin  : viktorya
+      duyulan: victoria
+  INSERT   ...sığmadığını çabucak fark etti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...açılmış kolejlerden lady margaret
+      metin  : hal a
+      duyulan: hola
+  REPLACE  ...margaret hal a yani
+      metin  : leydi
+      duyulan: lady
+  REPLACE  ...leydi margaret koleji ne
+      metin  : kaydoldu
+      duyulan: kayboldu
+  REPLACE  ...gibi muamele görüyordu dersleer
+      metin  : refakatçiyle
+      duyulan: refakatçı ile
+  INSERT   ...süren programı yılda bitirdi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kadınlara diploma vermeye ancak
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ama sıkıldığını gizlemedi kurtuluşu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...okuyan insanlar gökyüzünün renkleri
+      metin  : farsça
+      duyulan: farzça
+  INSERT   ...ye döndü ay sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...için kullanmaya karar vermişti
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...genellikle rehber kardeş bulunurdu
+      metin  : ulrih
+      duyulan: ulrich
+  REPLACE  ...kardeş bulunurdu ulrih ve
+      metin  : haynrih
+      duyulan: heinrich
+  INSERT   ...ulrih ve haynrih fuhrer
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...fuhrer i sviçer nin
+      metin  : engelhörner sıradağlarında
+      duyulan: engel hörnär sıra dağlarında
+  REPLACE  ...karardı ve kar fırtınası
+      metin  : dağı
+      duyulan: dağa
+  REPLACE  ...bitkin halde köye ulaştılar
+      metin  : gertrude
+      duyulan: gertrud
+  REPLACE  ...yaralanmıştı ama ölmemişlerdi rehberlerden
+      metin  : ulrih
+      duyulan: ulrich
+  REPLACE  ...edeceğini düşünüyordu bu saat
+      metin  : gertrude
+      duyulan: gertrud
+  REPLACE  ...cesaret biçimi olduğunu bilme
+      metin  : sağduyusu
+      duyulan: saadüysü
+  INSERT   ...ciddi orta doğu yolculuğunu
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...dairelerine de konuk olabiliyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...değildi gertrude karşılaştığı her
+      metin  : şeyhin
+      duyulan: şeyin
+  REPLACE  ...paha biçilmez olacaktı ama
+      metin  : gertrude un
+      duyulan: gertrud ün
+  INSERT   ...un asıl tutkusu arkeolojiydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...arkeolojiydi ünlü arkeolog william
+      metin  : ramsay
+      duyulan: ramsa
+  INSERT   ...üzerine hala başvurulan kaynaktır
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ilk güçlü halka oldu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sırada yalnızca yaşındaydı ve
+      metin  : gertrude
+      duyulan: gertrud
+  REPLACE  ...deve kervanıyla haftalarca çölü
+      metin  : aştı şubadında
+      duyulan: açtı şubat ında
+  INSERT   ...sağladı kraliyet coğrafya derneği
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...madalyası nı verecekti ama
+      metin  : gertrude un
+      duyulan: gertrud ün
+  REPLACE  ...yüreği de başka yerdeydi
+      metin  : gertrude un
+      duyulan: gertrud ün
+  REPLACE  ...aşkın adı charles doughty
+      metin  : wylie ydi
+      duyulan: wiley idi
+  ... ve 77 fark daha
+
+metinde olup DUYULMAYAN: 92 kelime | duyulup metinde OLMAYAN: 153
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: biyografi-2026-11-18.duyulan.txt

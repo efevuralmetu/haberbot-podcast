@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-18.mp3
+
+beklenen 2625 kelime | duyulan 2642 kelime | eşleşme %93.0
+sayı ifadesi: metinde 318, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...oturan kendi heykelini dikti
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yılında anadolu nun güneydoğusunda
+      metin  : fıradın
+      duyulan: fırat ın
+  REPLACE  ...yığılmış koni biçiminde yapay
+      metin  : dağ
+      duyulan: dağa
+  INSERT   ...akademi mektubu ciddiye alıyor
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...alıyor genç arkeolog otto
+      metin  : puhştayn sester le
+      duyulan: puchtein sesterle
+  REPLACE  ...le birlikte dağa gönderiliyor
+      metin  : puhştayn
+      duyulan: puchtein
+  REPLACE  ...da asur kralı değil
+      metin  : kommagene
+      duyulan: komacene
+  INSERT   ...adlı küçük krallığın hükümdarı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...büyük ekip geliyor bergama
+      metin  : sunağı nı
+      duyulan: sunanı
+  REPLACE  ...ya tanıtmış olan karl
+      metin  : human puhştayn
+      duyulan: hümann puchtein
+  REPLACE  ...dağa çıkıyor ekipte antropolog
+      metin  : feliks fon luşan
+      duyulan: felix von lüschan
+  INSERT   ...alıyorlar bu çalışmanın sonuçları
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ekip daha tırmanıyor osmanlı
+      metin  : müze i hümayunu nun
+      duyulan: müzeyi humayun unun
+  REPLACE  ...osman hamdi bey heykeltıraş
+      metin  : osgan
+      duyulan: osman
+  REPLACE  ...fransızca kitapta yayımlıyor böylece
+      metin  : dağ
+      duyulan: dağa
+  REPLACE  ...kim olduğunu anlamak için
+      metin  : kommagene
+      duyulan: komajene
+  REPLACE  ...bakmak gerekiyor krallık toros
+      metin  : dağları ile
+      duyulan: dağlarıyla
+  REPLACE  ...atatürk barajı nın suları
+      metin  : kommagene
+      duyulan: koma gene
+  REPLACE  ...yerdeydi batıda yükselen roma
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...dikkatli denge politikası gerektiriyordu
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...antiokhos tarihçilerin verdiği adla
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...verdiği adla antiokhos yaklaşık
+      metin  : m ö
+      duyulan: meylat tören
+  REPLACE  ...yaklaşık m ö ile
+      metin  : m ö
+      duyulan: meylat tören
+  REPLACE  ...arasında hüküm sürdü babası
+      metin  : mithridates kallinikos tu
+      duyulan: mitridates kalinikostu
+  REPLACE  ...yöneten seleukos hanedanından prensesti
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...mirasçısı olduğunu söylüyordu roma
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...bu kimliği tanımlayan iddiaydı
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...çalkantılıydı romalı komutan pompeius
+      metin  : m ö
+      duyulan: meylatörk lı
+  REPLACE  ...doğu yu yeniden düzenlerken
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...dinsel iddia ile tamamladı
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...meter bu tanrıların adları
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...adıyla zeus persçe adıyla
+      metin  : oromasdes
+      duyulan: oromazdes
+  REPLACE  ...olarak anılıyor yanında apollon
+      metin  : mithras
+      duyulan: mitras
+  REPLACE  ...de bereketin simgesi olan
+      metin  : kommagene var
+      duyulan: komma cenevar
+  REPLACE  ...aynı boyutta figür oturuyor
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...da var ve bunlarda
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...makedon ataları yer alıyor
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...kaymalar ve aşınma alçalttı
+      metin  : antiokhos
+      duyulan: antiochos
+  REPLACE  ...tahtların arkasına kazınmış uzun
+      metin  : yazıtta
+      duyulan: yazıttaki
+  REPLACE  ...bundan fazlası kült yasası
+      metin  : antiokhos
+      duyulan: antiochos
+  ... ve 73 fark daha
+
+metinde olup DUYULMAYAN: 133 kelime | duyulup metinde OLMAYAN: 141
+bölme/birleşme farkı (hata değil, elendi): 32
+
+duyulan metin: arkeoloji-2026-11-18.duyulan.txt

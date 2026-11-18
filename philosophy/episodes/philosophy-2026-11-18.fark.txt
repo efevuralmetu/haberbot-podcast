@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-18.mp3
+
+beklenen 2136 kelime | duyulan 2229 kelime | eşleşme %12.4
+sayı ifadesi: metinde 225, duyulanda 162  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...was it you lost
+      metin  : çekmecenin en dibinde katlanmış mendillerin ve eski faturaların arasında duruyor kayışı yıllar içinde bileğin biçimini almış deri tokanın yanında hep aynı delikten eskimiş kadranın camında ince çizik var nereden geldiğini kimse bilmiyor akrep ile yelkovan yerde durmuş babanızın öldüğü saat değil bu saatin kendi kendine durduğu saat çünkü bu otomatik saat kurmak için anahtara ya
+      duyulan: you lost the watch and someone brought you the same model the same model even a newer why weren t you comforted at al if what you hold is metal and glass what was it you lost what was it you lost what was it you lost if what you hold is metal and glass what was it you lost stil you lost the watch and the same type of watch was lost that was what was yor fault when i had the watch things started to change and everything went back to normal after al even after you lost you lost these models the that weer yor fault if you put them in the same place and you got the same moment with them the watch could change the way you watch who would want to be the same scale for example in the player you actually have to be in the team to play but if you want to win the final round of the game you have to take advantage of the opportunity and so for example the very player you have to play has to move and operations make suer you aer in the team and you aer out of control and don t hold the key for a while if you don t move and operations in the same direction as in the player yor opponent wil be up their lead yaneh de elgum lei usandun
+  REPLACE  ...için anahtara ya da
+      metin  : pile ihtiyaç duymaz takan kişinin bileğinin hareketiyle kurulur yürüyen el sallayan çay bardağını kaldıran kol olmadıkça içindeki yay gevşer ve gün içinde saat susar yani bu saat taşıyan canlı bilek olmadan yaşayamayacak biçimde tasarlanmış çekmeceyi her açtığınızda gördüğünüz şey makine değil yokluğun tam ölçüsü ölümden sonraki haftalarda insanın en çok zorlandığı işlerden dışarıdan bakınca en basiti gibi görünür dolabı boşaltmak gömlekler ceketin cebinde unutulmuş otobüs bileti terliklerin ayak parmaklarının bastığı yerde hafifçe çökmüş tabanları aklımız bize bunların sadece kumaş deri ve metal olduğunu söyler sahibi artık kullanmayacaktır ihtiyacı olan verilmeleri mantıklıdır anadolu nun pek çok yerinde ölenin giysilerini yoksullara dağıtmak hayır sayılır böylece eşya sahibinin ardından iyilik olarak dolaşmaya devam eder yine de el gömleğe uzandığında şey takılır gömleği poşete
+      duyulan: birsheyta kalir gem lei poshete
+  REPLACE  ...takılır gömleği poşete koymak
+      metin  : şeyi kesinleştirmek gibi gelir amerikalı
+      duyulan: kisin nishtir mekki bi gedir emerical
+  REPLACE  ...gibi gelir amerikalı yazar
+      metin  : joan
+      duyulan: johan
+  REPLACE  ...amerikalı yazar joan didion
+      metin  : kocası
+      duyulan: kojesu
+  REPLACE  ...didion kocası john gregory
+      metin  : dunne ın
+      duyulan: dunan
+  REPLACE  ...gregory dunne ın ani
+      metin  : ölümünün ardından yazdığı büyülü düşünce yılı nda
+      duyulan: ullunun ardun danyazde buul dushunje yilun dat
+  REPLACE  ...düşünce yılı nda tam
+      metin  : olarak bu takılmayı anlatır kocasının giysilerini vermeye
+      duyulan: olerak butakil mayalnatir koka sanangi silir nivar mea
+  REPLACE  ...kocasının giysilerini vermeye karar
+      metin  : verir birçoğunu verir de
+      duyulan: virir chonu virirde
+  REPLACE  ...birçoğunu verir de ama
+      metin  : ayakkabılarda durur çünkü zihninin köşesinde kocası
+      duyulan: ayak kabalarda durush shunku zikhninin shisinde kojesu
+  REPLACE  ...zihninin köşesinde kocası geri
+      metin  : dönerse ayakkabılarına ihtiyaç duyacağı düşüncesi vardır
+      duyulan: donar se ayak kabalar na ihti achduyuja dushunje sivardar
+  REPLACE  ...düşüncesi vardır didion bunun
+      metin  : mantıksız olduğunu çok iyi
+      duyulan: mantakse zoldunu chok i
+  REPLACE  ...olduğunu çok iyi bilir
+      metin  : kitabın adı
+      duyulan: kita bunadu
+  REPLACE  ...bilir kitabın adı da
+      metin  : zaten bundan gelir büyülü düşünce bilerek inanmamak
+      duyulan: zatan bun dangilir buul dushunje bilarek inan mamak
+  REPLACE  ...düşünce bilerek inanmamak ama
+      metin  : yine de öyleymiş gibi davranmaktır ve belki ölenin eşyası tam
+      duyulan: yinne
+  REPLACE  ...ölenin eşyası tam da
+      metin  : bu ağırdır elden çıkarmak büyünün bozulduğunu kabul etmek
+      duyulan: uleimishki bidawram maktir vebel ki olenin esha asitam da buyuzden ardur el dan shikar mak buunun bosuldunu kabalet mek
+  REPLACE  ...bozulduğunu kabul etmek demektir
+      metin  : psikanalist
+      duyulan: piscinalist
+  REPLACE  ...demektir psikanalist donald winnicott
+      metin  : küçük çocukların battaniyeye ya
+      duyulan: kuchuk chojuk laren taniye yadar pelushpir oyunja nasal sarildunu injelairkan bunar gechishnesne se adunu vermishte chojuk anisinden ayrikal mayur enirken bunesne ikidunjanan arasundar duroor ne tamaman chojunichindedir ne
+  REPLACE  ...çocukların battaniyeye ya da
+      metin  : pelüş oyuncağa nasıl sarıldığını incelerken bunlara geçiş nesnesi adını vermişti çocuk annesinden ayrı kalmayı öğrenirken bu nesne dünyanın arasında durur ne tamamen çocuğun içindedir ne de tamamen dışarıdaki sıradan eşyadır yetişkinler de bu kapasiteyi kaybetmez
+      duyulan: tamaman dushardakisradan bireshyadar yetishki nerde bukapasitai ikaybet mez
+  REPLACE  ...kaybetmez babadan kalan saat
+      metin  : yasın tam ortasında böyle geçiş nesnesine dönüşür artık
+      duyulan: yasun tamortasundar buylibergechishnesne se nedunushur artak
+  REPLACE  ...nesnesine dönüşür artık kimsenin
+      metin  : takmadığı
+      duyulan: takmadu
+  REPLACE  ...artık kimsenin takmadığı ama
+      metin  : atılamayan
+      duyulan: atillamayan
+  REPLACE  ...takmadığı ama atılamayan ne
+      metin  : tam olarak geçmişte
+      duyulan: tamolarak gechmishte
+  REPLACE  ...tam olarak geçmişte ne
+      metin  : de tam olarak bugünde
+      duyulan: da tamolarak bugyunde
+  REPLACE  ...tam olarak bugünde duran
+      metin  : şey i şte burada felsefenin
+      duyulan: bishay yishte bura da felsifenin
+  REPLACE  ...burada felsefenin eski sorusu
+      metin  : beklenmedik yerden çekmecenin dibinden karşımıza çıkar eşyanın ruhu var mıdır
+      duyulan: beklan medic biriardan mejenin di karshimazachkar eshanan huwar mudar
+  REPLACE  ...ruhu var mıdır bu
+      metin  : soruyu ciddiye almak için ruhlara ya
+      duyulan: soru yujid dia al makichin roohlaraya
+  REPLACE  ...için ruhlara ya da
+      metin  : hayaletleer inanmak gerekmez
+      duyulan: hayalet lareinan makgerek mez
+  REPLACE  ...inanmak gerekmez soru daha
+      metin  : sade biçimde de sorulabilir nesneyi diğer bütün benzerlerinden ayıran şey
+      duyulan: saade birbichim dete soru labilir nesne i diarbutun benzerlerindana iran shei
+  REPLACE  ...benzerlerinden ayıran şey nedir
+      metin  : babanızın saati ile aynı modelden aynı
+      duyulan: babana zun saat i le aina modaldan aina
+  REPLACE  ...aynı modelden aynı fabrikadan
+      metin  : aynı yıl çıkmış başka
+      duyulan: aina ilchik mushbirbashka saatarasandakifark neredidir mettal demi kamdamu yoksa sizdemi dushunje denae ila bashlialam saiz kusursus kopjelama makinesi verildi nidushunun babana zun
+  REPLACE  ...yıl çıkmış başka saat
+      metin  : arasındaki fark nerededir metalde mi camda mı yoksa sizde mi düşünce deneyiyle başlayalım size kusursuz kopyalama makinesi verildiğini düşünün babanızın saatini içine koyuyorsunuz öbür
+      duyulan: i ne ichine koyur sunuz e
+  REPLACE  ...içine koyuyorsunuz öbür taraftan
+      metin  : atomu
+      duyulan: atomo
+  REPLACE  ...öbür taraftan atomu atomuna
+      metin  : aynı
+      duyulan: aina
+  REPLACE  ...atomu atomuna aynı saat
+      metin  : çıkıyor aynı çizik camda aynı aşınma kayışta hiçbir uzman birbirinden ayıramaz şimdi size sorulsa hangisini saklamak istersiniz çoğumuz hiç düşünmeden aslını isteriz peki neden
+      duyulan: chikuyor aina chizik jamda aina ashen makayishta hechbir usmaniki sine birindana iramaz shimde sizae sorul sa hangisin isaklamak istarsaniz chawmuz hich dushun medan aslina istiris pikin edan
+  REPLACE  ...isteriz peki neden ortada
+      metin  : ölçülebilir hiçbir fark yokken bizi bu tercihe iten nedir
+      duyulan: ochu labilir hichbirfark yokkan bizibutarje hai itan nidir
+  REPLACE  ...iten nedir bu soru
+      metin  : yalnızca felsefe oyunu olarak kalmadı psikolog
+      duyulan: yalnaz jabeer falsefa oyuno olerak kalmade pisikolag
+  REPLACE  ...olarak kalmadı psikolog bruce
+      metin  : hood ile
+      duyulan: hoodal
+  REPLACE  ...hood ile paul bloom
+      metin  : de yayımladıkları çalışmada ile yaş arasındaki çocuklara tam olarak böyle
+      duyulan: da yayim ladikleribir chalishmada uchi le altiyasarasandakichoju kleratam olerak boile
+  REPLACE  ...tam olarak böyle makine
+      metin  : gösterdiler aslında
+      duyulan: go stardilat aslinda iqikutu ve duzenektani barete ama chojuklar
+  ... ve 137 fark daha
+
+metinde olup DUYULMAYAN: 1865 kelime | duyulup metinde OLMAYAN: 1957
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-11-18.duyulan.txt

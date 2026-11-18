@@ -1,0 +1,112 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-18.mp3
+
+beklenen 1855 kelime | duyulan 1851 kelime | eşleşme %96.7
+sayı ifadesi: metinde 188, duyulanda 168  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çöl kilometrelerce öteden duyulan
+      metin  : org
+      duyulan: ork
+  REPLACE  ...uğuldamaya başlıyor yıl önce
+      metin  : marko
+      duyulan: marco
+  REPLACE  ...nin kuzeyinde kaliforniya nın
+      metin  : mohavi çölü nde
+      duyulan: mojave çölünde
+  REPLACE  ...vahalarda bulunuyor çıkan ses
+      metin  : desibeli
+      duyulan: decibeli
+  REPLACE  ...ve elbette açıklamaya çalıştı
+      metin  : marko
+      duyulan: marco
+  REPLACE  ...zaten bu sesten gelir
+      metin  : mingşa şan
+      duyulan: mingxia shan
+  REPLACE  ...yolculuk sırasında şili nin
+      metin  : kopiyapo
+      duyulan: kopiapo
+  REPLACE  ...kopiyapo bölgesinde yerlilerin el
+      metin  : bramador
+      duyulan: brahmador
+  REPLACE  ...i ngiliz subaydı ralph
+      metin  : bagnold
+      duyulan: bagnolt li
+  INSERT   ...subaydı ralph bagnold ve
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...sesini yükseltmek zorunda kaldı
+      metin  : bagnold
+      duyulan: bagnolt de
+  REPLACE  ...yayımladığı the physics of
+      metin  : blown
+      duyulan: blonde
+  REPLACE  ...pürüzsüzdü uğultu da tepenin
+      metin  : rüzgar
+      duyulan: rüzgarı
+  REPLACE  ...kum aşağı aktığında başlıyordu
+      metin  : bagnold
+      duyulan: bagnolt
+  REPLACE  ...yalnızca hışırtı duyulur sonra
+      metin  : çığ
+      duyulan: çığı
+  REPLACE  ...gibi aynı anda vuruyor
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...çukura düşer sonra sonraki
+      metin  : tümseğe
+      duyulan: tümseye
+  REPLACE  ...ivmesinin tane çapına oranının
+      metin  : kareköküyle
+      duyulan: kaer köküyle
+  INSERT   ...civarında yani milimetrenin yaklaşık
+      metin  : (yok)
+      duyulan: de i
+  REPLACE  ...olan tanelerle hesap yapıldığında
+      metin  : sonuç
+      duyulan: son
+  REPLACE  ...bazı araştırmacılar tanelerin üzerindeki
+      metin  : silisyum
+      duyulan: silisiyum
+  REPLACE  ...tanecikli maddeler üzerine çalışan
+      metin  : melany
+      duyulan: melanie
+  REPLACE  ...sırada doktora öğrencisi olan
+      metin  : natali
+      duyulan: natalie
+  REPLACE  ...natali vrind aynı yıllarda
+      metin  : mohavi çölü ndeki
+      duyulan: mojave çölündeki
+  REPLACE  ...yapıya sahip olduğunu gördüler
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...katman arasında hapsolan titreşim
+      metin  : org
+      duyulan: ork
+  REPLACE  ...ileri geri yansıyarak belirli
+      metin  : frekansta
+      duyulan: frekansda
+  REPLACE  ...kozu laboratuvardı duadi ve
+      metin  : andreotti
+      duyulan: andriotti
+  REPLACE  ...notası pek değişmiyordu hunt
+      metin  : ın
+      duyulan: un
+  REPLACE  ...ama uzun gür ve
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yasalarına aykırı hayal değil
+      metin  : marko
+      duyulan: marco
+  REPLACE  ...uçak sesi paris teki
+      metin  : laboratuvarlarda
+      duyulan: laboratuarlarda
+  REPLACE  ...kumulun derinliklerinde saklı duruyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 36 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: bilim-2026-11-18.duyulan.txt

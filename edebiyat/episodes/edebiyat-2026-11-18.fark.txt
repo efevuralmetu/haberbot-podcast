@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-18.mp3
+
+beklenen 1720 kelime | duyulan 1750 kelime | eşleşme %90.7
+sayı ifadesi: metinde 220, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yayınevi geri çevirdi sonra
+      metin  : ret
+      duyulan: red
+  REPLACE  ...döner ailenin son prensi
+      metin  : cuzeppe
+      duyulan: giuseppe
+  REPLACE  ...anlatır değil dünyayı kaybetmiştir
+      metin  : cuzeppe
+      duyulan: giuseppe
+  INSERT   ...kaybetmiştir cuzeppe tomazi aralık
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o sarayda doğmuştu annesi
+      metin  : beatriçe
+      duyulan: beatrice
+  REPLACE  ...güneybatısındaki santa margerita di
+      metin  : beliçe
+      duyulan: belice
+  REPLACE  ...yavaş servetini topraklarını ve
+      metin  : nüfuzunu
+      duyulan: nüfusunu
+  REPLACE  ...sicilya aristokrasisinin tipik örneğiydi
+      metin  : unvanlar
+      duyulan: ünvanlar
+  REPLACE  ...prensi palma dükü ama
+      metin  : unvanların
+      duyulan: ünvanların
+  REPLACE  ...arkasındaki dünya erimekteydi genç
+      metin  : cuzeppe
+      duyulan: giuseppe
+  REPLACE  ...almanca biliyordu shakespeaer i
+      metin  : standal i prust u
+      duyulan: standali prostu
+  REPLACE  ...hayatının kadınıyla tanıştı alessandra
+      metin  : volf fon ştomerze
+      duyulan: wolf von stomerze
+  INSERT   ...aristokrattı ve psikanalizle uğraşıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...süer letonya daki şatosunda
+      metin  : cuzeppe
+      duyulan: giuseppe
+  INSERT   ...saray da bombalarla yıkıldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...annesi öldü savaşın bitiminde
+      metin  : cuzeppe
+      duyulan: giuseppe
+  REPLACE  ...iri yapılı ağır adımlı
+      metin  : kolunun
+      duyulan: yolunun
+  REPLACE  ...önemli edebiyat eleştirmeni olacak
+      metin  : françesko
+      duyulan: francesco
+  REPLACE  ...diğeri uzak akrabası olan
+      metin  : coakkino lanza ydı prens
+      duyulan: coacchino lanzaydı prince
+  REPLACE  ...şey olana kadar yazında
+      metin  : cuzeppe tomazi
+      duyulan: giuseppe tomazzi
+  REPLACE  ...yazında cuzeppe tomazi kuzeni
+      metin  : luçyo pikkolo
+      duyulan: lucio piccolo
+  REPLACE  ...orada edebiyat buluşması düzenlenmektedir
+      metin  : pikkolo
+      duyulan: piccolo
+  REPLACE  ...saygın i talyan şairlerinden
+      metin  : eucenyo
+      duyulan: eugenio
+  REPLACE  ...buluşmada edebiyat dünyasına tanıtmaktadır
+      metin  : prens
+      duyulan: prince
+  REPLACE  ...hikayesini anlatacaktır büyük dedesi
+      metin  : culyo fabritsyo tomazi
+      duyulan: guglio fabrizio tomasi
+  REPLACE  ...yaşamış gökbilimle uğraşan kendi
+      metin  : gözlemevi
+      duyulan: gözlememi
+  REPLACE  ...uğraşan kendi gözlemevi olan
+      metin  : prensti
+      duyulan: prens idi
+  REPLACE  ...nın batı kıyısına çıkmış
+      metin  : burbon
+      duyulan: bourbon
+  REPLACE  ...kafelerde yazdı her sabah
+      metin  : kaffe
+      duyulan: caffè
+  REPLACE  ...i l gattopardo yani
+      metin  : leopar dı
+      duyulan: leopardi
+  REPLACE  ...benekli yaban kedisinden geliyordu
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...kurgusal yansıması olan prens
+      metin  : fabritsyo
+      duyulan: fabrizio
+  REPLACE  ...sınıfının sonunun geldiğini bilir
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...kalbinde salina nın yeğeni
+      metin  : tankredi
+      duyulan: tancredi
+  REPLACE  ...nin söylediği cümle durur
+      metin  : tankredi
+      duyulan: tancredi
+  INSERT   ...bilmiyordu roman hızla ilerledi
+      metin  : (yok)
+      duyulan: nın
+  REPLACE  ...bunu ülkenin en büyük
+      metin  : yayınevlerinden mondadori ye
+      duyulan: yayın evlerinden mondadoria ya
+  REPLACE  ...savaş sonrası i talya
+      metin  : sının
+      duyulan: nın
+  REPLACE  ...kopyası torino nun ünlü
+      metin  : yayınevi eynaudi
+      duyulan: yayın evi einaudi
+  REPLACE  ...ya da hiç basılmayacaktı
+      metin  : cuzeppe
+      duyulan: giuseppe
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 93 kelime | duyulup metinde OLMAYAN: 106
+bölme/birleşme farkı (hata değil, elendi): 39
+
+duyulan metin: edebiyat-2026-11-18.duyulan.txt
