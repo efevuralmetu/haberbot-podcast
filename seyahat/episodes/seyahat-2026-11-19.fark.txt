@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-19.mp3
+
+beklenen 2091 kelime | duyulan 2090 kelime | eşleşme %95.0
+sayı ifadesi: metinde 307, duyulanda 223  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...taksiye bindiğinizde motor model
+      metin  : chevrolet nin
+      duyulan: şevrolenin
+  INSERT   ...kromu yer yer donuklaşmış
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...donuklaşmış amerikan otomobilidir bu
+      metin  : rengi
+      duyulan: renki
+  REPLACE  ...gelebilir çünkü bu kaputun
+      metin  : ellilerden
+      duyulan: lerden
+  INSERT   ...yolda olduğunu anlamak için
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...lar parlıyordu ama fidel
+      metin  : kastro
+      duyulan: castro
+  INSERT   ...millileştirince washington karşılık verdi
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...büyük kısmına kısıtlama getirildi
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...ticareti kapsayacak biçimde genişletti
+      metin  : ada ile
+      duyulan: adayla
+  REPLACE  ...araçlar yani sovyet ladaları
+      metin  : moskviçler
+      duyulan: moskvich ler
+  INSERT   ...asır kadar sürdü ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kadar sürdü ancak raul
+      metin  : kastro
+      duyulan: castro
+  REPLACE  ...boyunca ailenin elindeki eski
+      metin  : chevrolet
+      duyulan: şevrole
+  REPLACE  ...dişli kesildi eski lastiklerden
+      metin  : conta
+      duyulan: konta
+  REPLACE  ...belgesi daha vardır kübalıların
+      metin  : libreta
+      duyulan: libretta
+  INSERT   ...diyebileceğimiz küçük kitapçık hükümet
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...üstü açık modeller konger
+      metin  : nın
+      duyulan: binasının
+  REPLACE  ...ayakta durmaya çalışan abana
+      metin  : vyeha
+      duyulan: vieja
+  INSERT   ...spanyollar şehri bugünkü yerine
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...o zenginlik çağından kalmadır
+      metin  : unesco
+      duyulan: nunesco de
+  INSERT   ...ve şehri derinden yaralar
+      metin  : (yok)
+      duyulan: ki nin
+  REPLACE  ...ayında eski havana nın
+      metin  : hesus marya mahallesinde
+      duyulan: hesüs maria mahallesi nde
+  REPLACE  ...hesus marya mahallesinde balkon
+      metin  : sokağa
+      duyulan: sokağı
+  REPLACE  ...katlar inşa etti bunlara
+      metin  : barbakoa
+      duyulan: barbakoğa
+  REPLACE  ...duvarlara daha yük bindirir
+      metin  : çimento
+      duyulan: cimento
+  INSERT   ...geldi eusebio leal leal
+      metin  : (yok)
+      duyulan: den deki
+  INSERT   ...ardından küba ekonomisi çökerken
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...eski meydan yani plaza
+      metin  : vyeha
+      duyulan: vieja
+  REPLACE  ...harap halde kaldıktan sonra
+      metin  : cepheleri
+      duyulan: cepeleri
+  REPLACE  ...geri getirilmiş kafeleri ve
+      metin  : galerileriyle şehrin en güzel köşelerinden dönüştü
+      duyulan: galerileri ile
+  INSERT   ...balkonlar da eusebio leal
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...yeniden birleştiren usta görmek
+      metin  : hala
+      duyulan: hali
+  REPLACE  ...girişinden batıya doğru yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...uzanan taş set vardır
+      metin  : malekon
+      duyulan: malecon
+  INSERT   ...sahil yolu i nşaatına
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıkan gençler ellerinde olta
+      metin  : ipiyle
+      duyulan: ipi ile
+  REPLACE  ...el ele oturan sevgililer
+      metin  : küçük hoparlörden
+      duyulan: ocağızlardan
+  REPLACE  ...kenarı tahta sopa ve
+      metin  : el
+      duyulan: ev
+  REPLACE  ...dildir en bilinen biçimi
+      metin  : guaguanko
+      duyulan: guaguanco
+  INSERT   ...oyunbaz kovalamaca gibidir unesco
+      metin  : (yok)
+      duyulan: da
+  ... ve 12 fark daha
+
+metinde olup DUYULMAYAN: 51 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 31
+
+duyulan metin: seyahat-2026-11-19.duyulan.txt

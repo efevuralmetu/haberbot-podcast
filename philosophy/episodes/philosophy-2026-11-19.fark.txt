@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-19.mp3
+
+beklenen 2032 kelime | duyulan 1770 kelime | eşleşme %14.8
+sayı ifadesi: metinde 162, duyulanda 100  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...never been about food
+      metin  : elinizdeki ekmeği düşünün o lokmayı siz yediğiniz anda dünyada başka hiç kimse aynı lokmayı yiyemez düşünceyi binlerce kişiyle paylaşabilirsiniz şarkıyı stadyum dolusu insanla aynı anda dinleyebilirsiniz manzarayı kişi birlikte seyredebilir ama midenize giren her parça yalnızca sizindir bu açıdan yemek yemek insanın yapabileceği en bencil işlerden bu gözlem alman sosyolog ve filozof georg simmel e ait simmel da kısa ama çok etkili deneme yazdı soziologie der mahlzeit
+      duyulan: now we ask what that missing thing is and why sitting down at a table has never been about food kishi sel tabaki sel similegura inje dengeinin urunudur herkiz ken de pa inovirir
+  REPLACE  ...soziologie der mahlzeit yani
+      metin  : yemeğin sosyolojisi denemenin başında tam olarak bu tuhaflığa dikkat çekiyor bütün insanların ortak noktası hepsinin yemek zorunda olmasıdır ama tam da bu ortak ihtiyaç insanları birbirinden ayırır çünkü herkes kendi payını yer ve o pay başkasına kalmaz simmel e göer paradoks şurada başlıyor bu en bencil en kişisel eylem insanlık tarihi boyunca en güçlü araya gelme biçimlerinden dönüşmüştür lokma paylaşılmaz ama sofra paylaşılır simmel bu dönüşümün nasıl gerçekleştiğine bakar i nsanlar birlikte yemeye başladıklarında yemek artık yalnızca karın doyurmak olmaktan çıkar kurallara bağlanır herkesin aynı saatte masaya oturması gerekir simmel e göer öğün saatlerinin düzene girmesi bile ortak sofranın sonucudur kimin nereye oturacağı kimin önce başlayacağı çatalın nasıl tutulacağı ağzı kapalı çiğnemek gibi kurallar ortaya çıkar bunların hepsi aslında hayvani ihtiyacı başkalarının önünde yapılabilir hale getirmenin yollarıdır sofra adabı dediğimiz şey anlamda bencilliğimizi uygarca örtme biçimidir simmel in çok sevdiğim ayrıntısı var tabak eski toplumlarda yemek genellikle ortadaki tek kaptan yenirdi herkes elini ya da kaşığını aynı kaba uzatırdı kişisel tabak ize simmel e göer ince dengenin ürünüdür herkese kendi payını verir yani ortaya çıkarır öte yandan sofradaki bütün
+      duyulan: orte echikarir vite yan dan sofrada ki butun
+  REPLACE  ...yandan sofradaki bütün tabaklar
+      metin  : birbirinin aynısıdır aynı biçimde dizilir ve sofranın bütünlüğünü bozmaz
+      duyulan: aynesidir aynibicim de diziliirve sofranan butununu nubozmas
+  REPLACE  ...senin der hem de
+      metin  : ama hepimiz aynı masadayız sofra topluluğun aynı anda var olabildiği küçük sahnedir bu fikri dilde de görebiliriz i ngilizcedeki
+      duyulan: amahepimaz aynemasadaiz sofrab arel toplulun aynandavarul abildi kuchuk sahneidir bufikri dildir degar biliriz ingiliz deke
+  REPLACE  ...i ngilizcedeki companion yani
+      metin  : arkadaş yoldaş kelimesi latince birlikte ve ekmek sözcüklerinden gelir
+      duyulan: arkadash yoldash kelimesilatinje likteve ek mek sozduklerin dan giliir
+  REPLACE  ...ekmek sözcüklerinden gelir kelimenin
+      metin  : anlamı ekmeğini paylaştığın kişidir türkçedeki ekmek tuz hakkı sözü
+      duyulan: annamu ek meinu pa ilashtun kishidir turk cedeki ek mek tuzhak kusuzu
+  REPLACE  ...tuz hakkı sözü de
+      metin  : aynı sezgiyi taşır birlikte
+      duyulan: aynesiz giitashir berlekte
+  REPLACE  ...sezgiyi taşır birlikte yemek
+      metin  : insana karşı başka hiçbir ilişkide
+      duyulan: sanakarsi bashka hichpirilishki de
+  REPLACE  ...başka hiçbir ilişkide olmayan
+      metin  : yükümlülüğün doğar lokmanın kendisi paylaşılamadığına göer paylaşılan şey
+      duyulan: yukumnulun dorar lokmanan kandisi pa ilashilamadunaguer pa ilashlan shei
+  REPLACE  ...göer paylaşılan şey lokmadan
+      metin  : büyük şey olmalı aynı anda aynı yerde aynı ihtiyaca boyun eğmek ve bunu birbirimizin önünde yapmayı kabul etmek o zaman sorumuz değişiyor tek başına yenen yemek neden eksik kalır diye soruyorsak önce
+      duyulan: buyuk bishay olmade aynanda ayni erde ayni ichtyaja boyunay mek vebunubir mizinunun deyapmei kabulet mek ozaman soru musbiraz de ishir tekbashna yenanyemek nedanyxik kalardiya soru orsak eunje
+  REPLACE  ...soruyorsak önce sofrada lokmadan
+      metin  : başka neyin paylaşıldığını anlamamız gerekiyor bu soru simmel den çok önce sorulmuştu
+      duyulan: bashka nain pa ilashildunanna musgeer kyor busaru simuldan chok eunje sorul mushtuve ennet jewa plardan yaklashik uchuzilunje atinanan kenarundaki bahche dangalde epi kurozade bugyun chou musa luks sharap vezef dushkun nyunu charishtryor oisa epi kurozun kendisi chok saada yasharde arpa ek mei ve suila yetindine ozal gunichin kap peinir istidine amnatan mektubu bisekadar ullashmishtir atinada kurdu ve sonradan bahche adila analan topluluk ziya fetsalonan dan chok revine bein zyordu epi kurozun dushun jesinde mutlubir hayatun enun emniparchesu dostluktu
+  REPLACE  ...önce sorulmuştu ve en
+      metin  : net cevaplardan yaklaşık yıl önce atina nın kenarındaki bahçeden geldi epikuros adı bugün çoğumuza lüks şarap ve zevk düşkünlüğünü çağrıştırıyor oysa epikuros un kendisi çok sade yaşardı arpa ekmeği ve suyla yetindiğini özel gün için kap peynir istediğini anlatan mektubu
+      duyulan: somutkurun du yarde sofraide bu konoda kisuzunu
+  REPLACE  ...istediğini anlatan mektubu bize
+      metin  : kadar ulaşmıştır atina da kurduğu ve sonradan bahçe adıyla anılan topluluk ziyafet salonundan çok evine benziyordu epikuros un düşüncesinde mutlu hayatın en önemli parçası dostluktu ve dostluğun en somut göründüğü yer de sofraydı
+      duyulan: romalu philozov seneka aktariz seneka lu siliya sa yazdu mektu plardan epi kuroztan shoile yutalan talash nei ipe nei icheje indanunje kimin nei ipe icheje ine bakmalisun tsunku dostsuzdoyun mak aslan yada kurtayatidir
+  REPLACE  ...yer de sofraydı bu
+      metin  : konudaki sözünü bize romalı filozof seneca aktarır seneca lucilius a yazdığı mektuplardan epikuros tan şöyle öğüt alıntılar ne yiyip ne içeceğinden önce kiminle yiyip içeceğine bakmalısın çünkü doyunmak aslan ya da kurt hayatıdır bu benzetme sert
+      duyulan: benzet mei sirt
+  REPLACE  ...sert ama yerinde aslan
+      metin  : avını yer ve yanına
+      duyulan: avun yerve yanana
+  REPLACE  ...yer ve yanına kimse
+      metin  : yaklaşamaz
+      duyulan: yaklashamaz
+  REPLACE  ...yanına kimse yaklaşamaz yemek
+      metin  : için yalnızca hayatta
+      duyulan: nichin yalnuz jahayat ta
+  REPLACE  ...için yalnızca hayatta kalma
+      metin  : meselesidir epikuros insanın yemekten aldığı
+      duyulan: meselisidir epi kuroz insanun yemek tenaldu
+  REPLACE  ...insanın yemekten aldığı zevkin
+      metin  : büyük kısmının tabaktan değil yanındaki insandan geldiğini söylüyor aynı sade
+      duyulan: buk kisunun tabaktandil yanandaki insan dan galdinu solyor einisade
+  REPLACE  ...söylüyor aynı sade ekmek
+      metin  : bölündüğünde başka şeye dönüşür epikuros tan kuşak önce
+      duyulan: bulundu undebashka bishaydunu shush epi kuroztan kachkushak unje
+  REPLACE  ...kuşak önce platon sofra
+      metin  : sahnesini felsefe tarihinin en ünlü metinlerinden çevirmişti symposion
+      duyulan: sahne sini faiseh fettarihinen enun numeitin neirun dan che vermishte simposion
+  REPLACE  ...metinlerinden çevirmişti symposion yani
+      metin  : şölen
+      duyulan: shoelen
+  REPLACE  ...symposion yani şölen atina
+      metin  : da milattan önce yılında şair agathon un ilk tragedya ödülünü kazanmasının ertesi günü geçer davetliler önceki gecenin kutlamasından
+      duyulan: dameel atanun jedurtu zunalti yalunda shair agatonun ek trajediyodunu kazanmasanun artesugunu gecher davlir biranjiki gejinen kutlamasan dan
+  REPLACE  ...yorgun ve mahmurdur bu
+      metin  : ilginç karar verirler
+      duyulan: yuzden ilginch kararvir alar
+  REPLACE  ...ilginç karar verirler bu
+      metin  : akşam
+      duyulan: aksham
+  REPLACE  ...verirler bu akşam fazla
+      metin  : içilmeyecek flüt çalan kız gönderilecek
+      duyulan: icilmiyejek flut chalan kasgyunderelejek veher ke israila ashktanrse erosuzir neberkonu shmayapajek sonra faidros aristophanes agaton
+  REPLACE  ...çalan kız gönderilecek ve
+      metin  : herkes sırayla aşk tanrısı eros üzerine konuşma yapacak sonra phaidros aristophanes agathon ve sokrates sedirleer uzanmış halde aşkın ne olduğu üzerine birbirinden farklı görüşler ortaya koyarlar şölen in bizim konumuz açısından önemi şu kelimenin
+      duyulan: socretes sedir leer usanmushal de ashken neol du yuzer neber dan farkligurushler orteyakoyarlar sholenin bismkonunu muzachisun danun emi shu kelemenin
+  REPLACE  ...önemi şu kelimenin kendisi
+      metin  : yunancada birlikte içmek
+      duyulan: unanjada likteichmek
+  REPLACE  ...yunancada birlikte içmek demektir
+      metin  : ama platon un anlattığı gecede asıl paylaşılan şey ne şaraptır ne yemek paylaşılan şey sözdür
+      duyulan: eimaiya platonun anlatu gegejde asil palashlan shei nesharaptar neemek palashlan shei seuzder
+  REPLACE  ...şey sözdür yemek ve
+      metin  : içki sadece insanları aynı
+      duyulan: ichki saadeje insanner aino
+  REPLACE  ...sadece insanları aynı odada
+      metin  : aynı rahatlıkta
+      duyulan: aino rahatlakta
+  REPLACE  ...odada aynı rahatlıkta tutan
+      metin  : çerçevedir davetliler içkiyi bilerek azaltır çünkü sohbetin bulanmasını istemezler sofranın ölçüsü konuşmanın ölçüsüne göer ayarlanır
+      duyulan: bicharchye vedur davet leelar ichki bilarek azaltar chunki sohpetin bulan masane istemazdar sofranan ulchusu konushmanan ulchusu negeuer ayerlanur
+  REPLACE  ...ölçüsüne göer ayarlanır tek
+      metin  : başına yenen yemekte eksik
+      duyulan: bashana yenan yemek te xik
+  REPLACE  ...yenen yemekte eksik kalan
+      metin  : ilk şey de belki
+      duyulan: ik shayde balki
+  REPLACE  ...şey de belki budur
+      metin  : söyleyecek şeyin olsa bile
+      duyulan: soylijek bishin ulsabile
+  REPLACE  ...şeyin olsa bile sofrada
+      metin  : söyleyebileceğin kimse
+      duyulan: soylije bilijeinkimse
+  REPLACE  ...sofrada söyleyebileceğin kimse yoktur
+      metin  : bu fikri
+      duyulan: bufikriand sistem lehala gehteren dushinurse hich bekle mi jemisbier eimaniyal kant dodu königsberg shehren dan hayat buoyunja naredei sehichayil mayan aksham yuru yushunu okadar duzan niyapanki kom shularenan saatteerne onaguer ayerladu annatlan kant boile insanun yamnuz yemeyi sevejene dushinur sunuz oisaduram tam tercedi kant
+  REPLACE  ...yoktur bu fikri en
+      metin  : sistemli hale getiren düşünür ize hiç beklemeyeceğimiz immanuel kant doğduğu königsberg şehrinden hayatı boyunca neredeyze hiç ayrılmayan akşam yürüyüşünü o kadar düzenli yapan ki komşularının saatlerini göer ayarladığı anlatılan kant böyle insanın yalnız
+      duyulan: evinde ole
+  REPLACE  ...böyle insanın yalnız yemeyi
+      metin  : seveceğini düşünürsünüz oysa durum tam tersiydi kant ın evinde öğle yemeği öğleden
+      duyulan: oledan
+  REPLACE  ...öğle yemeği öğleden sonra
+      metin  : sularında başlar sohbet çoğu zaman saatlerce sürerdi davetlileri arasında yalnızca profesörler değil tüccarlar bankacılar memurlar da vardı
+      duyulan: sulerenda bashlar sohpet chos aman saat lardu suraardu deveit lileer arasandha yalnuzja profesor lardil tujarlar bankajlar meimur lardavardu
+  ... ve 134 fark daha
+
+metinde olup DUYULMAYAN: 1744 kelime | duyulup metinde OLMAYAN: 1484
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-11-19.duyulan.txt

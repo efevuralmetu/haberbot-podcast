@@ -15,7 +15,17 @@
 <itunes:category text="News"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Wed, 18 Nov 2026 15:38:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 05:29:17 +0000</lastBuildDate>
+<item>
+<title>Sabah Haberleri — 19 Kasım 2026</title>
+<description>Bugün Çin'in Shenzhen kentinde Donald Trump, Xi Jinping ve Vladimir Putin ilk kez üçlü bir zirvede bir araya geliyor.</description>
+<itunes:subtitle>Bugün Çin'in Shenzhen kentinde Donald Trump, Xi Jinping ve Vladimir Putin ilk kez üçlü bir zirvede bir araya geliyor.</itunes:subtitle>
+<pubDate>Thu, 19 Nov 2026 08:28:57 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/haber/gundem-2026-11-19.mp3" length="9173708" type="audio/mpeg"/>
+<guid isPermaLink="false">gundem-2026-11-19</guid>
+<itunes:duration>12:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Akşam Haberleri — 18 Kasım 2026</title>
 <description>Körfez'de ABD ile İran arasındaki karşılıklı saldırılar yeniden tırmanırken, Trump'ın Asya turu Shenzhen'deki APEC zirvesinde Xi ve Putin'le yapılacak ilk üçlü görüşmeye uzanıyor; Kerç Köprüsü'ne yeni bir saldırı düzenlendi, ABD'de ise ülke çapındaki hava trafiği arızasının etkileri sürüyor. Teknolojide Nvidia'nın rekor gelirleri ve yönetim krizi, OpenAI ile Microsoft'un yeni yapay zekâ modelleri, Kaliforniya'nın OpenAI'a açtığı dava ve Anthropic'in halka arzı öne çıkıyor. Türkiye'de CHP kurultay davasında aralarında Ekrem İmamoğlu'nun da bulunduğu 9 kişiye hapis cezası ve siyasi yasak verildi; gündemin diğer başlıkları 2027 bütçe görüşmeleri, faiz giderleriyle büyüyen bütçe açığı, Sözcü bağlantılı şirkete atanan kayyım ve Ümit Milli Takım'ın Avrupa Şampiyonası elemelerinde elenmesi oldu.</description>
@@ -1814,16 +1824,6 @@
 <enclosure url="https://cdn.noronmedia.com/haber/gundem-2026-08-21.mp3" length="9458252" type="audio/mpeg"/>
 <guid isPermaLink="false">gundem-2026-08-21</guid>
 <itunes:duration>13:12</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Akşam Haberleri — 20 Ağustos 2026</title>
-<description>Trump'ın Kanada'ya yönelik %50'lik tarifeleri askıya alması ve İran'la ticaret yapan ülkelere yaptırım uyarısı gündemin başında yer alırken, Gazze ve Kiev'deki saldırılar sürüyor. Stripe'ın OpenRouter'ı 7,5 milyar dolara satın alması ve Türkiye'nin 2026-2030 Ulusal Yapay Zekâ Eylem Planı teknoloji tarafını belirledi. Yurt içinde ise Marmara'daki 100'ü aşkın sarsıntı, TCMB rezervlerinin 183,5 milyar dolara çıkması ve Fenerbahçe'nin Lyon ile 1-1 berabere kalması öne çıktı.</description>
-<itunes:subtitle>Trump'ın Kanada'ya yönelik %50'lik tarifeleri askıya alması ve İran'la ticaret yapan ülkelere yaptırım uyarısı gündemin başında yer alırken, Gazze ve Kiev'deki saldırılar sürüyor. Stripe'ın OpenRouter'ı 7,5 milyar dolara satın alması ve Türkiye'nin 2026-2030 Ulusal Yapay Zekâ Eylem Planı teknoloji tarafını belirledi. Yurt içinde ise Marmara'daki 100'ü aşkın sarsıntı, TCMB rezervlerinin 183,5 milyar dolara çıkması ve Fenerbahçe'nin Lyon ile 1-1 berabere kalması öne çıktı.</itunes:subtitle>
-<pubDate>Thu, 20 Aug 2026 18:44:43 +0300</pubDate>
-<enclosure url="https://cdn.noronmedia.com/haber/aksam-2026-08-20.mp3" length="26193356" type="audio/mpeg"/>
-<guid isPermaLink="false">aksam-2026-08-20</guid>
-<itunes:duration>36:26</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>

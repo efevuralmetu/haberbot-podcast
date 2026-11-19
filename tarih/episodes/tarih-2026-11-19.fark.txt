@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-19.mp3
+
+beklenen 2714 kelime | duyulan 2725 kelime | eşleşme %95.8
+sayı ifadesi: metinde 260, duyulanda 217  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...roma nın doğu ordusu
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...romanya ovalarında yaşamışlar roma
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...önce karadeniz in kuzeyindeki
+      metin  : bozkırlardan
+      duyulan: boskırlardan
+  REPLACE  ...öbür büyük kolu olan
+      metin  : greuthungileri
+      duyulan: gro tungileri
+  REPLACE  ...kolu olan greuthungileri çökertmişti
+      metin  : greuthungilerin
+      duyulan: gro tungilerin
+  REPLACE  ...ermanarik dönemin romalı tarihçisi
+      metin  : ammiyanus marsellinus
+      duyulan: ammianus marcellinus
+  REPLACE  ...kurtuluşu başka yerde aradılar
+      metin  : fritigern
+      duyulan: fretigen
+  REPLACE  ...daki roma askeri komutanı
+      metin  : lupisinus du
+      duyulan: lupusinus tu
+  REPLACE  ...lupisinus du yanında da
+      metin  : maksimus
+      duyulan: maximus
+  REPLACE  ...önce geçiş izni reddedilen
+      metin  : greuthungiler
+      duyulan: grotungiler
+  REPLACE  ...izni reddedilen greuthungiler kolladı
+      metin  : alateus
+      duyulan: alatheus
+  REPLACE  ...greuthungiler kolladı alateus ve
+      metin  : safraks
+      duyulan: saffrax
+  REPLACE  ...da izinsiz biçimde nehri
+      metin  : aştı
+      duyulan: açtı
+  REPLACE  ...resmen sığınmacı bile sayılmıyordu
+      metin  : lupisinus
+      duyulan: lupicinus
+  REPLACE  ...da devnya yakınlarında kalan
+      metin  : marsiyanopolis
+      duyulan: marcianopolis
+  REPLACE  ...içindeki pazara girmesi engellendi
+      metin  : lupisinus
+      duyulan: lupicinus
+  REPLACE  ...alavivus u ziyafete çağırdı
+      metin  : önderler içerideyken
+      duyulan: öntörler içerdeyken
+  REPLACE  ...haber ziyafet salonuna ulaştığında
+      metin  : lupisinus
+      duyulan: lupicinus
+  REPLACE  ...önderiydi kısa süer sonra
+      metin  : lupisinus aceleyle
+      duyulan: lupicinus acele ile
+  REPLACE  ...olan got konaklıyordu komutanları
+      metin  : sueridus
+      duyulan: suheridus
+  REPLACE  ...konaklıyordu komutanları sueridus ve
+      metin  : kolias
+      duyulan: kolyas
+  REPLACE  ...ama kuşatma sanatını bilmiyorlardı
+      metin  : fritigern
+      duyulan: fritiger
+  REPLACE  ...sanatını bilmiyorlardı fritigern kendi
+      metin  : deyişiyle
+      duyulan: değişiyle
+  REPLACE  ...karşı hamle yaptı komutanlar
+      metin  : trayanus
+      duyulan: traianus
+  REPLACE  ...profuturus batı dan gelen
+      metin  : rikomeres
+      duyulan: ricomeres
+  REPLACE  ...birleşip gotları dobruca da
+      metin  : ad
+      duyulan: at
+  REPLACE  ...süren çarpışma sonuç vermedi
+      metin  : taraf da
+      duyulan: i ki tarafta
+  REPLACE  ...gotları aç bırakmayı denedi
+      metin  : fritigern
+      duyulan: fritiger
+  REPLACE  ...hunlardan ve alanlardan kısmını
+      metin  : yağma
+      duyulan: yama
+  REPLACE  ...alanlardan kısmını yağma payı
+      metin  : vaadiyle
+      duyulan: vadiyle
+  REPLACE  ...yaparken imparatorun neden hala
+      metin  : beklediğini
+      duyulan: yüklediğini
+  REPLACE  ...geldi i talya dan
+      metin  : çağrılan
+      duyulan: çağırılan
+  REPLACE  ...ordu konstantinopolis in batısındaki
+      metin  : melantias
+      duyulan: melantiyas
+  REPLACE  ...gördüğü yalnızca tervingilerin kısmıydı
+      metin  : alateus
+      duyulan: alatheus
+  REPLACE  ...tervingilerin kısmıydı alateus ile
+      metin  : safraks
+      duyulan: saffrax
+  REPLACE  ...alateus ile safraks ın
+      metin  : greutungi
+      duyulan: grotungi
+  REPLACE  ...gratianus un elçisi olarak
+      metin  : rikomeres
+      duyulan: ricomeres
+  REPLACE  ...son girişim daha oldu
+      metin  : fritigern
+      duyulan: fritigen
+  REPLACE  ...daha oldu fritigern ordugaha
+      metin  : hristiyan
+      duyulan: hıristiyan
+  REPLACE  ...da yazar bu mektupta
+      metin  : fritigern
+      duyulan: fritigen
+  ... ve 32 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: tarih-2026-11-19.duyulan.txt

@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-19.mp3
+
+beklenen 1745 kelime | duyulan 1757 kelime | eşleşme %97.1
+sayı ifadesi: metinde 151, duyulanda 128  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ilk kez gerçeğe dönmüştü
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...ömür boyu sürecek rahatlık
+      metin  : demekti
+      duyulan: demektir
+  INSERT   ...o rahatlığı kenara bıraktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sıkışmış gecekonduları yakından tanıyordu
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...karısı fatma rolünde gülsen
+      metin  : alnıaçık
+      duyulan: alnıacık
+  REPLACE  ...kazmaya başlarlar kazı sahneleri
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...etrafında dönüp duran küçük
+      metin  : siluete
+      duyulan: silüete
+  REPLACE  ...kaçış yoktu eleştirmenler bu
+      metin  : umudu
+      duyulan: umut u
+  REPLACE  ...adamın hikayesini anlatan bisiklet
+      metin  : hırsızları ile
+      duyulan: hırsızlarıyla
+  REPLACE  ...mekanlar süssüz anlatım ama
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...kaçış yolu yani hurafeye
+      metin  : sarılmak da
+      duyulan: sarılmakta
+  INSERT   ...büyük soruna yol açacaktı
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...in kendi şehrinde yapılan
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yurt dışına çıkarılan kopya
+      metin  : kan
+      duyulan: te cannes
+  REPLACE  ...ve danıştay a gitti
+      metin  : danıştay ın
+      duyulan: de danıştayın
+  REPLACE  ...değildi ama unutulmadı da
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...görüldü film türkiye de
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...ya da bu şekilde
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...sineması tarihini yazanlar bugün
+      metin  : umudu
+      duyulan: umut u
+  INSERT   ...anlar ama hayatı kolaylaşmadı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...arka planı oldu bugün
+      metin  : umuda
+      duyulan: umut a
+  REPLACE  ...de oydu güney seyirciye
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...elinden her şeyi aldığında
+      metin  : umudun
+      duyulan: umut un
+  REPLACE  ...gerçeğini görebilme imkanını kazandırdı
+      metin  : nöron film de
+      duyulan: neuron filmde
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: www feyyaz tv
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 40
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: film-2026-11-19.duyulan.txt

@@ -1,0 +1,58 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-19.mp3
+
+beklenen 1513 kelime | duyulan 1514 kelime | eşleşme %97.7
+sayı ifadesi: metinde 157, duyulanda 140  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...paralı askerlik yapan i
+      metin  : sviçreli
+      duyulan: sviçer li
+  REPLACE  ...askerler durgunlaşıyor iştahları kesiliyor
+      metin  : uyuyamıyorlar
+      duyulan: uyuyanmıyorlar
+  REPLACE  ...kısmı da müzikle ilgili
+      metin  : alp
+      duyulan: alt
+  REPLACE  ...için söylediği ezgiler vardı
+      metin  : ran de vaş
+      duyulan: randevash
+  REPLACE  ...göer bu ezgiler i
+      metin  : sviçreli
+      duyulan: sviçer li
+  REPLACE  ...ki içinde çalınması yasaklanmıştı
+      metin  : jan jak
+      duyulan: john jack
+  REPLACE  ...sayıldı bu tablo ancak
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...ancak doksanların sonu ve
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...constantine sedikides ve tim
+      metin  : vildshüt
+      duyulan: wilchit
+  REPLACE  ...o sıcak odaya dönelim
+      metin  : şinyüe cou vildshüt
+      duyulan: de xinyue kou wilchut
+  REPLACE  ...su devreye girdi psikolojide
+      metin  : ağrı
+      duyulan: ağır
+  REPLACE  ...hatırlarız psikologlar buna anımsama
+      metin  : tümseği
+      duyulan: tümseyi
+  INSERT   ...günlük hayatta nasıl kullanabiliriz
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...yerden önünüzdeki güne dönüyorsunuz
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 21
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: psikoloji-2026-11-19.duyulan.txt

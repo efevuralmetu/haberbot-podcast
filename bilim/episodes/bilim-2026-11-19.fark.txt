@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-19.mp3
+
+beklenen 1690 kelime | duyulan 1700 kelime | eşleşme %97.2
+sayı ifadesi: metinde 215, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...oku düşünün herhangi anda
+      metin  : ok
+      duyulan: okey
+  INSERT   ...yukarıda ya aşağıda değildir
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...ya da radyoaktif çekirdeğin
+      metin  : bozunmasını
+      duyulan: bozulmasını
+  REPLACE  ...saniyede kalan parçacıkların sabit
+      metin  : bozunur
+      duyulan: bozulur
+  REPLACE  ...fizikçi leonid halfin de
+      metin  : ellilerin
+      duyulan: lerin
+  REPLACE  ...ama olguya adını veren
+      metin  : teksas
+      duyulan: texas
+  REPLACE  ...ta çalışan kuramcı oldu
+      metin  : baydyanat
+      duyulan: baydianat
+  REPLACE  ...baydyanat misra ve george
+      metin  : sudarşan
+      duyulan: sudarshan de
+  REPLACE  ...altındaki kararsız parçacığın hiç
+      metin  : bozunmayacağını
+      duyulan: bozulmayacağını
+  REPLACE  ...zenon un okuna benzettiler
+      metin  : kuantum
+      duyulan: quantum
+  REPLACE  ...her seferinde bozmadan ölçmek
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...yıldan fazla beklemek gerekecekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...roger cook adlı fizikçi
+      metin  : kuantum
+      duyulan: quantum
+  REPLACE  ...itano vardı yanında d
+      metin  : j
+      duyulan: joda
+  REPLACE  ...nü alacak olan david
+      metin  : wineland
+      duyulan: vineland
+  REPLACE  ...bulunuyordu deneyin kahramanları yaklaşık
+      metin  : berilyum
+      duyulan: beryllium
+  INSERT   ...şu soruyu soruyordu düzey
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tarafa geçiyordu ölçüm sayısı
+      metin  : artırıldıkça
+      duyulan: arttırıldıkça
+  INSERT   ...hassas biçimde örtüşüyordu sonuçlar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dokunuyor bazı fizikçiler leslie
+      metin  : ballentine
+      duyulan: valentin e
+  INSERT   ...iyonlarla fiziksel olarak etkileşiyor
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...zaman frene mi basar
+      metin  : berilyum
+      duyulan: beryllium
+  REPLACE  ...yılında i srail deki
+      metin  : vaytsman
+      duyulan: whiteman
+  REPLACE  ...vaytsman enstitüsü nden abraham
+      metin  : kofman
+      duyulan: kaufman
+  REPLACE  ...abraham kofman ve gershon
+      metin  : kurizki
+      duyulan: kuriski
+  REPLACE  ...etkisi denir nedeni atomun
+      metin  : bozunurken
+      duyulan: bozulurken
+  REPLACE  ...penceresine sıkıştırmanız gerekir kendiliğinden
+      metin  : bozunan
+      duyulan: bozulan
+  REPLACE  ...kısadır ki pratikte ulaşılamaz
+      metin  : kurizki
+      duyulan: kuriski
+  REPLACE  ...pratikte ulaşılamaz kurizki ve
+      metin  : kofman
+      duyulan: kaufman
+  REPLACE  ...aynı deneyde görüldü austin
+      metin  : deki teksas
+      duyulan: daki texas
+  REPLACE  ...teksas üniversitesi nde mark
+      metin  : raizen
+      duyulan: ryzen
+  REPLACE  ...raizen in grubu soğutulmuş
+      metin  : sodyum
+      duyulan: sodium
+  INSERT   ...fikri gerçek deneylerde gösterildi
+      metin  : (yok)
+      duyulan: ki te
+  REPLACE  ...deneylerde gösterildi paris te
+      metin  : serj
+      duyulan: sergi
+  REPLACE  ...grup dev boyutlara şişirilmiş
+      metin  : ridberg
+      duyulan: rydberg
+  REPLACE  ...şu kuantum dünyasında gözlem
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...dağılmaktan korumak için kullanılıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 32 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: bilim-2026-11-19.duyulan.txt

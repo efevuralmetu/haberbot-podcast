@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-18.mp3
+
+beklenen 1482 kelime | duyulan 1476 kelime | eşleşme %94.6
+sayı ifadesi: metinde 251, duyulanda 130  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aracı saldırısına abd nin
+      metin  : keşm
+      duyulan: keşme
+  REPLACE  ...şeyh i sa hava
+      metin  : üssü ndeki
+      duyulan: üstündeki
+  REPLACE  ...uçakları hürmüz boğazı yakınlarındaki
+      metin  : keşm
+      duyulan: keşma
+  REPLACE  ...soruya trump i ran
+      metin  : böyle
+      duyulan: öyle
+  REPLACE  ...de yapılacak görüşme trump
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...endişeyle karşılanıyor ukrayna cephesinde
+      metin  : diplomasi ile
+      duyulan: diplomasiyle
+  REPLACE  ...abd nin özel temsilcileri
+      metin  : jared kushner
+      duyulan: cered kuşner
+  REPLACE  ...da putin ile görüştü
+      metin  : kushner
+      duyulan: kuşner
+  REPLACE  ...deki enerji tesislerini ve
+      metin  : dinyeper
+      duyulan: dniper
+  REPLACE  ...ile çin devlet başkanı
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...ve yönetim kurulunun yürüttüğü
+      metin  : incelemeyle
+      duyulan: inceleme ile
+  REPLACE  ...cephesinde abd nin yeni
+      metin  : düzenlemeyle
+      duyulan: düzenleme ile
+  REPLACE  ...hopper ailesi ürünlerinin yani
+      metin  : hiki
+      duyulan: hickey
+  INSERT   ...izleyen yatırım fonu kasım
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...adlı yeni ajanını tanıttı
+      metin  : genpact
+      duyulan: genpak
+  REPLACE  ...sahip robotlar geliştiren genesis
+      metin  : ai
+      duyulan: i
+  REPLACE  ...bildirildi yapay zekanın finansal
+      metin  : sisteme
+      duyulan: sistemi
+  INSERT   ...zekayı gösterenlerin oranı ilkbahardaki
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...artırdı new york borsasında
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...nasdaq düştü nvidia hisseleri
+      metin  : bilanço
+      duyulan: blancho
+  REPLACE  ...doların üzerinde abd ham
+      metin  : petrolü
+      duyulan: petroli
+  REPLACE  ...işlem görüyor haftanın başında
+      metin  : bahreyn e
+      duyulan: bahrena
+  INSERT   ...değerli metallerde düşüş derinleşiyor
+      metin  : (yok)
+      duyulan: onsaltın
+  REPLACE  ...yıl sonu enflasyon beklentisi
+      metin  : dörde
+      duyulan: e
+  INSERT   ...nda yıl sonu tahminini
+      metin  : (yok)
+      duyulan: den e
+  REPLACE  ...başında chp deki mutlak
+      metin  : butlan
+      duyulan: mutlan
+  INSERT   ...bölge adliye mahkemesi mayıs
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...adliye mahkemesi mayıs partinin
+      metin  : olağan kurultayı nı
+      duyulan: olan kurultayını
+  REPLACE  ...olağan kurultayı nı mutlak
+      metin  : butlan
+      duyulan: mutlan
+  REPLACE  ...yargıtay hukuk dairesi nde
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...bugün görülecek savcılık önceki
+      metin  : mütalaasında
+      duyulan: mütalasında
+  INSERT   ...böylece soruşturmada tutuklu sayısı
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...eski başkan vekili enver
+      metin  : usca
+      duyulan: uska
+  REPLACE  ...dünyası buluşması na katılacak
+      metin  : copotuz
+      duyulan: gopotuz
+  REPLACE  ...daki yönetim değişikliği ile
+      metin  : huang
+      duyulan: hwang
+  REPLACE  ...değişikliği ile huang ın
+      metin  : konger deki
+      duyulan: kongredeki
+  REPLACE  ...siyasetin ana başlıkları olacak
+      metin  : fon
+      duyulan: fond
+  REPLACE  ...yer fırtına şiddetine ulaşan
+      metin  : lodos
+      duyulan: dodos
+  REPLACE  ...olunmalı gündemi sizin için
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 48
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: gundem-2026-11-18.duyulan.txt

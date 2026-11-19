@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-19.mp3
+
+beklenen 2167 kelime | duyulan 2162 kelime | eşleşme %94.8
+sayı ifadesi: metinde 196, duyulanda 163  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yoksa gözün ekranda mıydı
+      metin  : zimmel e
+      duyulan: zimmela
+  REPLACE  ...giren her parça yalnızca
+      metin  : sizindir
+      duyulan: şey değildir
+  INSERT   ...zimmel e ait zimmel
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...deneme yazdı zotsiyologi der
+      metin  : maltsayt
+      duyulan: maltzite
+  REPLACE  ...bakar i nsanlar birlikte
+      metin  : yemeye
+      duyulan: yemeğe
+  DELETE   ...tabak ize zimmel e
+      metin  : göer
+      duyulan: (YOK — atlanmış)
+  INSERT   ...verir yani ortaya çıkarır
+      metin  : (yok)
+      duyulan: ötte
+  DELETE   ...paylaşılamadığına göer paylaşılan şey
+      metin  : lokmadan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nın kenarındaki bahçeden geldi
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...zevk düşkünlüğünü çağrıştırıyor oysa
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...salonundan çok evine benziyordu
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...bize roma lı filozof
+      metin  : seneka
+      duyulan: seneca
+  REPLACE  ...lı filozof seneka aktarır
+      metin  : seneka lukilyus
+      duyulan: seneca lucilius
+  REPLACE  ...lukilyus a yazdığı mektuplardan
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...yalnızca hayatta kalma meselesidir
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...bölündüğünde başka şeye dönüşür
+      metin  : epikuros
+      duyulan: epicurus
+  REPLACE  ...en ünlü metinlerinden çevirmişti
+      metin  : symposion
+      duyulan: sympozjon
+  REPLACE  ...atina da yılında şair
+      metin  : agathon
+      duyulan: agaton
+  REPLACE  ...şair agathon un ilk
+      metin  : tragedya
+      duyulan: trajedi
+  REPLACE  ...üzerine konuşma yapacak sonra
+      metin  : faydros aristofanes agathon
+      duyulan: pydros aristophanes agaton
+  REPLACE  ...kant böyle insanın yalnız
+      metin  : yemeyi
+      duyulan: yemeği
+  INSERT   ...kant bunun kuramını da
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bunun kuramını da yayımlanan
+      metin  : antropologi
+      duyulan: anthropology
+  REPLACE  ...da yayımlanan antropologi in
+      metin  : pragmatişer hinziht
+      duyulan: pragmatischer hinzicht
+  REPLACE  ...içinden çıkarıp başka insanların
+      metin  : düşüncelerine
+      duyulan: düşüncelerini
+  REPLACE  ...iyi sofra sohbetinin genellikle
+      metin  : aşamadan
+      duyulan: yıldan
+  DELETE   ...az esin perisinin sayısından
+      metin  : fazla
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu düşünürlerin hepsi sofraya
+      metin  : seçkinler
+      duyulan: yakınlar
+  REPLACE  ...yüzyılın sonunda i mam
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...nizamiye medresesi nde kazandığı
+      metin  : büyük ünü
+      duyulan: günü
+  REPLACE  ...dönemin ürünü olan i
+      metin  : hyau ulumi d
+      duyulan: hya u ulu mi
+  REPLACE  ...yemek yeme adabını anlatır
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...adabını anlatır gazzali yemeği
+      metin  : küçümsenecek
+      duyulan: küçümsemeyecek
+  REPLACE  ...ilgimizi çeken nokta şu
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...zaman kalabalık sofradır birlikte
+      metin  : yemeyi
+      duyulan: yemeği
+  INSERT   ...sık başvurur i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...mace nin aktardığı hadiste
+      metin  : hazreti
+      duyulan: hz
+  REPLACE  ...ayrılmayın çünkü bereket topluluktadır
+      metin  : müslim in
+      duyulan: müslümin
+  REPLACE  ...burada başka biçimde karşımıza
+      metin  : çıkıyor
+      duyulan: geliyor
+  REPLACE  ...ama doyma duygusu büyür
+      metin  : gazzali nin
+      duyulan: gazalinin
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 86 kelime | duyulup metinde OLMAYAN: 90
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: felsefe-2026-11-19.duyulan.txt

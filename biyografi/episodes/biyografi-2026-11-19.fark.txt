@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-19.mp3
+
+beklenen 2846 kelime | duyulan 2879 kelime | eşleşme %95.2
+sayı ifadesi: metinde 395, duyulanda 252  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...değiştirdi yılının sonbaharında stockholm
+      metin  : de
+      duyulan: da
+  INSERT   ...i sveç te tutunamayınca
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...şansını doğuda aradı önce
+      metin  : finlandiya
+      duyulan: kinyandiya
+  REPLACE  ...i mparatorluğu nun başkenti
+      metin  : st
+      duyulan: santor
+  REPLACE  ...gitti andriette çocuklarla stockholm
+      metin  : de
+      duyulan: da
+  DELETE   ...bu yıllarda kök saldı
+      metin  : st
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kök saldı st petersburg
+      metin  : da i mmanuel
+      duyulan: ta immanuel
+  INSERT   ...ailesini yanına çağırdı ve
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...hayatının sonuna kadar sürecekti
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...te ünlü kimyacı teofil
+      metin  : jül pöluz
+      duyulan: jules polluz
+  REPLACE  ...ve orada kaderini belirleyecek
+      metin  : maddeyle
+      duyulan: madde ile
+  INSERT   ...maddeyle tanıştı yıl önce
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...önce i talyan kimyacı
+      metin  : askanyo
+      duyulan: ascanio
+  INSERT   ...en parlak günlerini yaşıyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nda rus ordusu i
+      metin  : mmanuel
+      duyulan: manuel
+  INSERT   ...ihtiyaç duydu ama savaş
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sırt çevirdi ve i
+      metin  : mmanuel
+      duyulan: manuel
+  INSERT   ...mmanuel kez iflas etti
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kez iflas etti i
+      metin  : mmanuel andriette
+      duyulan: manuel andriyet te
+  REPLACE  ...küçük oğulları emil i
+      metin  : svece
+      duyulan: sveç e
+  REPLACE  ...i svece döndü ağabeyler
+      metin  : ludvig
+      duyulan: ludwig
+  REPLACE  ...kaldı çok sonra bakü
+      metin  : petrolüyle
+      duyulan: petrolü ile
+  REPLACE  ...e babasının yanına döndü
+      metin  : baba ile
+      duyulan: babayla
+  REPLACE  ...çoğu zaman sadece yanıyordu
+      metin  : darbeyle
+      duyulan: darbe ile
+  INSERT   ...için tasarladığı ilk ateşleyiciyi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...önemli adımdı aile stockholm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ün heleneborg semtinde kiraladığı
+      metin  : malikanenin
+      duyulan: malikhanenin
+  REPLACE  ...arıyordu eylül sabahı stockholm
+      metin  : ün
+      duyulan: un
+  REPLACE  ...ün sakin havası korkunç
+      metin  : gürlemeyle
+      duyulan: gürleme ile
+  INSERT   ...yıllarını yatağa bağlı geçirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bazı biyografi yazarlarına göer
+      metin  : laboratuvarı
+      duyulan: laboratuarı
+  REPLACE  ...çekti mavnanın üzerindeki bu
+      metin  : laboratuvar
+      duyulan: laboratuar
+  INSERT   ...yalnızca ay sonra ekim
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ay sonra ekim alfred
+      metin  : stockholmlü
+      duyulan: stockholmlu
+  REPLACE  ...kurdu ve stockholm dışında
+      metin  : vinterviken
+      duyulan: winterwiken
+  REPLACE  ...yakınlarında elbe nehri kıyısındaki
+      metin  : krümmel
+      duyulan: krummel
+  REPLACE  ...sonra hamburg fabrikası diyeceğimiz
+      metin  : tesiste
+      duyulan: tesisle
+  INSERT   ...ardında ölüm de bıraktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...elindeki buluş hem servet
+      metin  : vaadiydi
+      duyulan: vadiydi
+  REPLACE  ...almanya da bol bulunan
+      metin  : kizelgur
+      duyulan: kiselgur
+  ... ve 68 fark daha
+
+metinde olup DUYULMAYAN: 100 kelime | duyulup metinde OLMAYAN: 139
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: biyografi-2026-11-19.duyulan.txt

@@ -1,0 +1,106 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-19.mp3
+
+beklenen 1680 kelime | duyulan 1697 kelime | eşleşme %95.6
+sayı ifadesi: metinde 194, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...şehirde dünyaya gelmesi babası
+      metin  : alusizade
+      duyulan: alüsizade
+  REPLACE  ...vardı annesi sara hanım
+      metin  : bağdadın
+      duyulan: bağdat ın
+  REPLACE  ...konuşulan dil arapçaydı küçük
+      metin  : ahmedin
+      duyulan: ahmet in
+  REPLACE  ...arapçanın ağır gırtlaktan gelen
+      metin  : ezgisiyle
+      duyulan: ezgisi ile
+  INSERT   ...ayrı düşünmek de zor
+      metin  : (yok)
+      duyulan: nok
+  INSERT   ...ne devam etti ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ölçüde fransızca okutuluyor öğrenciler
+      metin  : rasin i lamartin i ügo
+      duyulan: rasini lamartini ugo
+  REPLACE  ...ve ahmet hikmet müftüoğlu
+      metin  : fikredin
+      duyulan: fikret in
+  INSERT   ...belirleyecekti i lk şiiri
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hakim zevkinin servet i
+      metin  : fünun
+      duyulan: fü nün
+  REPLACE  ...bile ileride olgunlaşacak şeyin
+      metin  : renge
+      duyulan: rengi
+  REPLACE  ...olmaya hazırlanıyordu ama içinde
+      metin  : dicle nin
+      duyulan: diçlenin
+  INSERT   ...i stanbul a döndü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ömürlü ama önemli topluluklarından
+      metin  : fecr i ati yle
+      duyulan: fecriatı ile
+  INSERT   ...ileride pahalıya mal olacaktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gece yarısı ya da
+      metin  : öğle
+      duyulan: öyle
+  INSERT   ...saatleri nden yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hayatı boyunca yazdıkları ince
+      metin  : cilde sığar
+      duyulan: cildesi var
+  REPLACE  ...de bu dikkatin ürünüydü
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...düzyazısıyla geçimini sağlıyordu i
+      metin  : kdam
+      duyulan: ktam
+  INSERT   ...gözlemciydi bu yazılardan kısmını
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çıkan bize göer ve
+      metin  : gurebahane
+      duyulan: guer bahane
+  DELETE   ...bırakmıyordu bu arada sanayi
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ve estetik dersleri verdi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ve hastalık giderek ağırlaşıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...a gitti ve orada
+      metin  : sanatoryuma
+      duyulan: sanatoriuma
+  INSERT   ...kağıda döktü bu notlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...düzenini temizliğini insanların disiplinini
+      metin  : sanatoryumun
+      duyulan: sanatoriumun
+  INSERT   ...tan iyileşmeden döndü haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yazılar ve frankfurt taki
+      metin  : sanatoryumun
+      duyulan: sanatoriumun
+  REPLACE  ...o akşama yeniden bakıyor
+      metin  : nöron edebiyat ta
+      duyulan: neuron edebiyatta
+
+metinde olup DUYULMAYAN: 31 kelime | duyulup metinde OLMAYAN: 41
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: edebiyat-2026-11-19.duyulan.txt

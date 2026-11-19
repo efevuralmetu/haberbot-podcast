@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-19.mp3
+
+beklenen 1771 kelime | duyulan 1794 kelime | eşleşme %93.2
+sayı ifadesi: metinde 202, duyulanda 155  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sanabilirsiniz oysa önünüzdeki şey
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...var chad ve jared
+      metin  : moldenhaver saskaçevan
+      duyulan: moldenhayver saskatchewan
+  REPLACE  ...jared moldenhaver saskaçevan eyaletinin
+      metin  : rıcayna
+      duyulan: regina
+  REPLACE  ...ailenin elindeki video kasetlerde
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...video kasetlerde yirmilerin ve
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...en büyük isim de
+      metin  : maks flayşır
+      duyulan: max fleischer
+  REPLACE  ...dave ile birlikte kurduğu
+      metin  : flayşır stüdyoz
+      duyulan: fleischer studios
+  REPLACE  ...kurduğu flayşır stüdyoz yani
+      metin  : flayşır stüdyosu
+      duyulan: fleischer studiosu
+  REPLACE  ...rakibiydi betty boop u
+      metin  : palyaço koko
+      duyulan: palya chococo
+  REPLACE  ...bu stüdyo hayata geçirdi
+      metin  : maks flayşır
+      duyulan: max fleischer
+  REPLACE  ...sağlayan rotoskop tekniğinin de
+      metin  : mucidiydi
+      duyulan: mucizeydi
+  REPLACE  ...tekniğinin de mucidiydi ama
+      metin  : flayşır stüdyosu nu
+      duyulan: fleischer studiosunu
+  REPLACE  ...dünyasına hiç benzemeyen tavrıydı
+      metin  : flayşır
+      duyulan: fleischer
+  REPLACE  ...eder ağaçlar buruşturur hayaletler
+      metin  : caz
+      duyulan: jazz
+  INSERT   ...rafa kalktı yıl sonra
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...eskitme efektleriyle yakalamaya çalışır
+      metin  : cuphead
+      duyulan: cupid
+  REPLACE  ...cuphead in yaratıcıları ize
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...animasyonlar o dönemin film
+      metin  : standardı
+      duyulan: standarda
+  REPLACE  ...bilgisayarın hesapladığı geçişlerle çözülür
+      metin  : cuphead
+      duyulan: jophead
+  REPLACE  ...yüzlerce çizim istiyordu chad
+      metin  : moldenhaver
+      duyulan: moldenhauer
+  REPLACE  ...toronto lu perküsyoncu olan
+      metin  : kristofer maddigan
+      duyulan: christopher madigan
+  REPLACE  ...yol seçti big band
+      metin  : caz ragtime
+      duyulan: jazz rock time
+  REPLACE  ...kardeşi mugman yaşlı bilge
+      metin  : kettle amca nın
+      duyulan: cattle amcanın
+  REPLACE  ...kumarhanesi ne girer şansları
+      metin  : yaver
+      duyulan: yağver
+  REPLACE  ...üzerindeki her plan gibi
+      metin  : dünyayla
+      duyulan: dünya ile
+  INSERT   ...ilk anda değişecekti haziran
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...haziran los angeles taki
+      metin  : eüç
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...o küçük fincanı konuşuyordu
+      metin  : moldenhaver
+      duyulan: moldenhauer
+  REPLACE  ...büyüteceklerdi büyütmek daha fazla
+      metin  : çizim daha fazla çizer daha fazla zaman ve en önemlisi daha fazla para demekti
+      duyulan: çizgi filmin içinden fırlamasıydı
+  REPLACE  ...dükkan karakteri değiştiren yetenekler
+      metin  : gizli
+      duyulan: gizliliğe baktılar her aşamalı şekil değiştiren giderek çılgınlaşan dövüşleer dönüştü dünya haritası dükkan karakteri değiştiren yetenekler gizliliğe baktılar yaptık costumos a başladığımız şarj alın anchor bu yolda bu hotel ve dizi
+  REPLACE  ...hiç esnemedi ekip bu
+      metin  : ölçeği
+      duyulan: ölçeyi
+  REPLACE  ...yeni çizerler boyacılar alındı
+      metin  : chad in
+      duyulan: çağdın
+  REPLACE  ...alındı chad in eşi
+      metin  : maya moldenhaver
+      duyulan: maia moldenhauer
+  REPLACE  ...stüdyosunun sorumluluklarını taşımaya başlamıştı
+      metin  : bu büyümenin bedelini kardeşler kendi ceplerinden ödedi dışarıdan büyük yatırımcının
+      duyulan: yarımcının
+  REPLACE  ...her şeyi ortaya koydular
+      metin  : chad
+      duyulan: chait
+  INSERT   ...takvim kaymaya başladı oyunun
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...oyunun çıkması bekleniyordu olmadı
+      metin  : (yok)
+      duyulan: ki ki
+  INSERT   ...çıkıştan hafta önce ağustos
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olduğunu kabul eden yazı
+      metin  : kaleme
+      duyulan: kalemi
+  REPLACE  ...defalarca yenerek öğreten oyunlardı
+      metin  : cuphead
+      duyulan: cupid
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 80 kelime | duyulup metinde OLMAYAN: 102
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: oyun-2026-11-19.duyulan.txt
