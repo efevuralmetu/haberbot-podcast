@@ -1,0 +1,613 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.450
+On beş yaşında bir çocuk, milyonlarca oyuncunun bilgisayarında dünyanın en iyi forvetiydi ama gerçek sahada adını kimse duymadı.
+
+2
+00:00:08.450 --> 00:00:15.940
+İki kardeşin yatak odasında yazdığı bir oyun, zamanla kulüplerin transfer yaparken açıp baktığı bir veritabanına dönüştü.
+
+3
+00:00:15.940 --> 00:00:21.510
+Sonra bir gün o oyunun yapımcıları, kendi oyunlarının adını kaybettiler.
+
+4
+00:00:29.710 --> 00:00:38.160
+Doksanlı yılların başında, İngiltere'nin batısındaki Shropshire kırsalında iki kardeş saatlerce aynı ekrana bakıyordu.
+
+5
+00:00:38.160 --> 00:00:42.130
+Ekranda ne koşan futbolcular vardı ne de yeşil bir saha.
+
+6
+00:00:42.130 --> 00:00:50.100
+Satır satır isimler, sütun sütun rakamlar, oyuncuların pas, şut, kararlılık ve çalışkanlık puanları vardı.
+
+7
+00:00:50.100 --> 00:00:56.310
+Paul ve Oliver Collyer'ın kafasındaki oyun gerçekten de bir elektronik tablo gibi görünüyordu.
+
+8
+00:00:56.310 --> 00:01:00.280
+Ama o tablonun içinde koca bir futbol dünyası yaşıyordu.
+
+9
+00:01:00.280 --> 00:01:03.130
+İki kardeş bu türe yabancı değildi.
+
+10
+00:01:03.130 --> 00:01:12.860
+1982'de Kevin Toms adlı bir İngiliz programcı, ev bilgisayarları için basit ama bağımlılık yapan bir teknik direktörlük oyunu çıkarmıştı.
+
+11
+00:01:12.860 --> 00:01:18.750
+Oyuncu bir takımı devralıyor, transfer yapıyor, kadro kuruyor ve sonuçları bekliyordu.
+
+12
+00:01:18.750 --> 00:01:22.880
+Collyer kardeşler büyürken bu tür oyunlarla vakit geçirmişti.
+
+13
+00:01:22.880 --> 00:01:25.570
+Ama onları rahatsız eden bir şey vardı.
+
+14
+00:01:25.570 --> 00:01:28.900
+O oyunlar futbolu fazla basitleştiriyordu.
+
+15
+00:01:28.900 --> 00:01:38.150
+Kardeşler, bir menajerin gerçekte verdiği kararların ağırlığını hissettirecek, rakamların arkasında gerçek bir mantık işleyen bir şey istiyorlardı.
+
+16
+00:01:38.150 --> 00:01:41.960
+İlk denemelerine Avrupa Şampiyonası adını verdiler.
+
+17
+00:01:41.960 --> 00:01:47.370
+Bitmiş oyunu yayıncı Domark'a götürdüklerinde şirket fikri beğendi ama adını değiştirdi.
+
+18
+00:01:47.370 --> 00:01:57.420
+Oyun Eylül 1992'de Atari ST ve Amiga bilgisayarları için Championship Manager, yani Şampiyonluk Menajeri adıyla raflara çıktı.
+
+19
+00:01:57.420 --> 00:02:00.910
+Kısa süre sonra da MS-DOS sürümü geldi.
+
+20
+00:02:00.910 --> 00:02:08.400
+Önemli bir ayrıntı daha vardı: Oyunun adı yayıncıya geçse de yazılımın kodları kardeşlerde kalmıştı.
+
+21
+00:02:08.400 --> 00:02:12.370
+O zaman kimse bunun ne kadar önemli olacağını bilmiyordu.
+
+22
+00:02:12.370 --> 00:02:16.820
+Şampiyonluk Menajeri'nin ilk sürümünde gösterişli hiçbir şey yoktu.
+
+23
+00:02:16.820 --> 00:02:19.350
+Maçlar metin olarak akıyordu.
+
+24
+00:02:19.350 --> 00:02:25.880
+Pozisyonlar tek satırlık cümlelerle anlatılıyor, gol olunca ekrana büyük harflerle yazı düşüyordu.
+
+25
+00:02:25.880 --> 00:02:30.010
+Yine de oyuncular bu yazıların başında nefeslerini tutuyordu.
+
+26
+00:02:30.010 --> 00:02:41.020
+Çünkü o satırların arkasında kendi verdikleri kararlar vardı: hangi forveti ilk on bire aldıkları, hangi stoperi yedeğe çektikleri, hangi genç oyuncuya güvendikleri.
+
+27
+00:02:41.020 --> 00:02:44.190
+Kardeşlerin ilk büyük sorunu bilgiydi.
+
+28
+00:02:44.190 --> 00:02:49.760
+Bir futbol simülasyonu, ancak içindeki oyuncular kadar inandırıcı olabilirdi.
+
+29
+00:02:49.760 --> 00:02:59.010
+İlk sürümlerde başvurdukları ana kaynak, İngiliz futbolunun yıllık istatistik kitabı Rothmans Football Yearbook, yani Rothmans Futbol Yıllığıydı.
+
+30
+00:02:59.010 --> 00:03:04.420
+Maç sayıları, goller, kulüp geçmişleri bu kalın ciltten sayfa sayfa aktarıldı.
+
+31
+00:03:04.420 --> 00:03:10.950
+Ama Rothmans Futbol Yıllığı bir oyuncunun kaç maça çıktığını söylüyordu, nasıl oynadığını söylemiyordu.
+
+32
+00:03:10.950 --> 00:03:19.080
+Bir kanat oyuncusunun ne kadar hızlı olduğu, bir orta saha oyuncusunun baskı altında dağılıp dağılmadığı kitapta yazmıyordu.
+
+33
+00:03:19.080 --> 00:03:22.090
+O sayıları birinin vermesi gerekiyordu.
+
+34
+00:03:22.090 --> 00:03:23.980
+Seri hızla büyüdü.
+
+35
+00:03:23.980 --> 00:03:32.270
+Ardından gelen sürümlerle oyunculara gerçek isimler ve daha ayrıntılı nitelikler geldi, oyunun hayran kitlesi de genişledi.
+
+36
+00:03:32.270 --> 00:03:40.880
+Temmuz 1994'te kardeşler Londra'da kendi stüdyolarını kurdular: Sports Interactive, yani Etkileşimli Spor.
+
+37
+00:03:40.880 --> 00:03:46.770
+Etkileşimli Spor'un ilk yıllarında ekibe genç bir isim katıldı: Miles Jacobson.
+
+38
+00:03:46.770 --> 00:03:53.140
+Jacobson ilerleyen yıllarda stüdyonun yöneticisi ve serinin halka dönük yüzü olacaktı.
+
+39
+00:03:53.140 --> 00:04:00.630
+Eylül 1995'te Şampiyonluk Menajeri'nin ikinci oyunu çıktığında Etkileşimli Spor artık ciddi bir şirketti.
+
+40
+00:04:00.630 --> 00:04:07.800
+Ama o elektronik tablonun hücrelerini doldurmak, küçük bir Londra ofisinin tek başına kaldırabileceği bir yük değildi.
+
+41
+00:04:07.800 --> 00:04:11.610
+Çözüm, oyunu oynayan insanların kendisinden geldi.
+
+42
+00:04:11.610 --> 00:04:18.460
+Etkileşimli Spor, bir kulübü herkesten iyi tanıyanların o kulübün taraftarları olduğunu fark etti.
+
+43
+00:04:18.460 --> 00:04:27.550
+Her hafta tribünde oturan, yedek takımın maçlarına bile giden, altyapıdaki on altı yaşındaki çocuğun adını herkesten önce bilen insanlar.
+
+44
+00:04:27.550 --> 00:04:34.240
+Stüdyo bu insanlara bir görev verdi: Kulübünüzü izleyin, oyuncularını puanlayın, bize raporlayın.
+
+45
+00:04:34.240 --> 00:04:38.530
+Böylece futbol tarihinin en tuhaf gözcü ağlarından biri doğdu.
+
+46
+00:04:38.530 --> 00:04:49.380
+Maaş almayan, çoğu zaman yalnızca oyunun bir kopyası ve jeneriğe yazılan isimleri karşılığında çalışan gönüllüler, yüzlerce kulübün kadrosunu tek tek işlemeye başladı.
+
+47
+00:04:49.380 --> 00:04:51.910
+Zamanla bir hiyerarşi oluştu.
+
+48
+00:04:51.910 --> 00:04:57.640
+Her ülkenin bir baş araştırmacısı vardı, onun altında kulüp kulüp çalışan gözcüler.
+
+49
+00:04:57.640 --> 00:05:04.330
+Bir gönüllünün bir oyuncuya verdiği puan, başka bir gözcünün ve ülke sorumlusunun süzgecinden geçiyordu.
+
+50
+00:05:04.330 --> 00:05:11.980
+Bu ağ sonraki yıllarda 1.300 kişi civarına ulaşacak ve dünyanın neredeyse her köşesine yayılacaktı.
+
+51
+00:05:11.980 --> 00:05:17.870
+Ağın gücü en çok 2001'de çıkan sürümde, Championship Manager: Season 01/02'de görüldü.
+
+52
+00:05:17.870 --> 00:05:29.520
+Türkçe adıyla Şampiyonluk Menajeri 01/02'nin veritabanında, 26 ülkeden yaklaşık 100 oynanabilir ligde 100 binden fazla futbolcu, teknik direktör ve antrenörün profili vardı.
+
+53
+00:05:29.520 --> 00:05:34.610
+Bu, döneminin pek çok profesyonel kulübünün gözcü arşivinden daha genişti.
+
+54
+00:05:34.610 --> 00:05:39.700
+Ve bu genişlik, oyuna beklenmedik bir kahraman tipi getirdi: harika çocuk.
+
+55
+00:05:39.700 --> 00:05:48.790
+Harika çocuk, gerçek dünyada adını neredeyse kimsenin bilmediği ama oyunun içinde birkaç sezonda dünya yıldızına dönüşen gençti.
+
+56
+00:05:48.790 --> 00:05:55.000
+Bir gönüllü gözcü, altyapı maçlarında gördüğü bir yeteneğe cömert bir potansiyel puanı veriyordu.
+
+57
+00:05:55.000 --> 00:05:57.850
+Oyun da bu puanı ciddiye alıyordu.
+
+58
+00:05:57.850 --> 00:06:04.540
+Milyonlarca bilgisayarda aynı genç oyuncu aynı hızla gelişiyor, aynı gol yağmurunu başlatıyordu.
+
+59
+00:06:04.540 --> 00:06:08.190
+Bu harika çocukların en ünlüsü Cherno Samba'ydı.
+
+60
+00:06:08.190 --> 00:06:16.160
+Şampiyonluk Menajeri 01/02 çıktığında Samba 16 yaşındaydı ve Londra kulübü Millwall'un altyapısındaydı.
+
+61
+00:06:16.160 --> 00:06:19.490
+Gerçek hayatta da sıradan bir genç değildi.
+
+62
+00:06:19.490 --> 00:06:24.900
+Gençlik maçlarında attığı gollerle dikkat çekmiş, Liverpool'un ilgisini çekmişti.
+
+63
+00:06:24.900 --> 00:06:28.390
+Ama oyunun içinde bambaşka bir şeye dönüştü.
+
+64
+00:06:28.390 --> 00:06:36.520
+Onu transfer eden oyuncular, birkaç sezon içinde İngiltere milli takımının en golcü forvetini yetiştirdiklerini görüyordu.
+
+65
+00:06:36.520 --> 00:06:40.170
+Samba'nın gerçek kariyeri ise başka bir yol izledi.
+
+66
+00:06:40.170 --> 00:06:42.860
+Liverpool transferi gerçekleşmedi.
+
+67
+00:06:42.860 --> 00:06:49.710
+İspanya'da Cádiz'de, İngiltere'de Plymouth Argyle'da forma giydi, sonra İskandinav liglerinde oynadı.
+
+68
+00:06:49.710 --> 00:06:58.320
+2014'te İsveç ikinci liginde 28 maçta 17 golle gol kralı oldu, 2015'te de futbolu bıraktı.
+
+69
+00:06:58.320 --> 00:07:06.930
+Yıllar sonra verdiği röportajlarda, oyundaki efsanesiyle gerçek hayatı arasındaki uçurumun kendisini nasıl ezdiğini açıkça anlattı.
+
+70
+00:07:06.930 --> 00:07:09.460
+Listede başka isimler de vardı.
+
+71
+00:07:09.460 --> 00:07:20.150
+Kongo doğumlu İsveçli forvet Tonton Zola Moukoko, oyunda Derby County'nin genç oyuncusu olarak gelir ve yaklaşık 500 bin sterlin gibi gülünç bir bedelle alınabilirdi.
+
+72
+00:07:20.150 --> 00:07:24.120
+Alanlar da her sezon onun 30 golü aşmasına alışırdı.
+
+73
+00:07:24.120 --> 00:07:30.490
+Gerçek hayatta ise İngiltere'de çıkış yakalayamadı ve İskandinavya'nın alt liglerinde oynadı.
+
+74
+00:07:30.490 --> 00:07:36.540
+İsveç'in Hammarby kulübünden Kennedy Bakircioglu da o yılların kült isimlerindendi.
+
+75
+00:07:36.540 --> 00:07:42.750
+Daha sonraki sürümlerde Beyaz Rusyalı forvet Maxim Tsigalko aynı efsaneyi devraldı.
+
+76
+00:07:42.750 --> 00:07:47.840
+Oyunda Avrupa'yı kasıp kavuruyor, gerçekte ise sakatlıklarla boğuşuyordu.
+
+77
+00:07:47.840 --> 00:07:51.810
+Bir isim ise bu tablonun en garip köşesinde duruyordu.
+
+78
+00:07:51.810 --> 00:07:57.540
+Şampiyonluk Menajeri 01/02'nin ilk sürümünde Tó Madeira adlı bir forvet vardı.
+
+79
+00:07:57.540 --> 00:08:00.550
+Hangi takıma giderse gitsin gol atıyordu.
+
+80
+00:08:00.550 --> 00:08:05.640
+Sonradan ortaya çıktığına göre Tó Madeira diye bir futbolcu hiç yoktu.
+
+81
+00:08:05.640 --> 00:08:10.890
+Oyunun yapımcıları için çalışan bir gözcü onu tamamen kendisi uydurmuştu.
+
+82
+00:08:10.890 --> 00:08:16.140
+Gönüllü ağın en büyük gücü olan güven, aynı zamanda en zayıf noktasıydı.
+
+83
+00:08:16.140 --> 00:08:22.190
+Bir araştırmacı isterse oyunun milyonlarca kopyasına kendi hayalini yerleştirebiliyordu.
+
+84
+00:08:22.190 --> 00:08:28.240
+Ama hayal kırıklığı veren harika çocuklar ve sahte forvetler hikâyenin yalnızca bir yüzüydü.
+
+85
+00:08:28.240 --> 00:08:32.210
+Gönüllü ağ çoğu zaman şaşırtıcı derecede isabetliydi.
+
+86
+00:08:32.210 --> 00:08:39.220
+Oyunda erken yaşta yüksek potansiyelle görünen pek çok genç, gerçek hayatta da büyük kariyerler yaptı.
+
+87
+00:08:39.220 --> 00:08:46.870
+Hayranlar bir oyuncunun adını Şampiyonluk Menajeri'nde öğrenip birkaç yıl sonra Şampiyonlar Ligi'nde görmenin keyfini yaşadı.
+
+88
+00:08:46.870 --> 00:08:49.560
+Gerçek kulüpler de bunu fark etti.
+
+89
+00:08:49.560 --> 00:08:57.530
+2008'de Everton, Etkileşimli Spor'un veritabanını gözcülük çalışmalarında kullanmak üzere bir anlaşma yaptı.
+
+90
+00:08:57.530 --> 00:09:03.900
+Yatak odasında başlayan elektronik tablo artık profesyonel futbolun soyunma odasına giriyordu.
+
+91
+00:09:03.900 --> 00:09:10.430
+Ne var ki o tabloyu kimin sahiplendiği sorusu, tam da bu başarının ortasında patlamak üzereydi.
+
+92
+00:09:10.430 --> 00:09:16.480
+Doksanların ortasında Domark, büyüyen İngiliz yayıncı Eidos tarafından satın alındı.
+
+93
+00:09:16.480 --> 00:09:19.810
+Şampiyonluk Menajeri markası da Eidos'a geçti.
+
+94
+00:09:19.810 --> 00:09:23.620
+Yıllar boyunca bu ortaklık iki taraf için de kârlıydı.
+
+95
+00:09:23.620 --> 00:09:31.910
+Etkileşimli Spor oyunu yapıyor, Eidos yayınlıyor, seri İngiltere'nin en çok satan bilgisayar oyunları arasına giriyordu.
+
+96
+00:09:31.910 --> 00:09:35.880
+Ama ilişkinin temelinde baştan beri bir çatlak vardı.
+
+97
+00:09:35.880 --> 00:09:40.010
+İsim yayıncınındı, kod ve veritabanı ise geliştiricinin.
+
+98
+00:09:40.010 --> 00:09:43.980
+2003 boyunca iki şirket arasındaki güven aşındı.
+
+99
+00:09:43.980 --> 00:09:50.990
+Sonradan verilen demeçlerde iki taraf da birbirine karşı güvensizliği ayrılığın asıl nedeni olarak gösterdi.
+
+100
+00:09:50.990 --> 00:09:54.960
+Şubat 2004'te ayrılık resmen açıklandı.
+
+101
+00:09:54.960 --> 00:09:58.290
+Ortada son derece sıra dışı bir boşanma vardı.
+
+102
+00:09:58.290 --> 00:10:02.420
+Eidos, Şampiyonluk Menajeri adını elinde tutuyordu.
+
+103
+00:10:02.420 --> 00:10:12.310
+Etkileşimli Spor ise oyunun kalbini, yani o güne kadar yazılmış kodu ve gönüllü gözcülerin on yıldır biriktirdiği devasa veritabanını götürüyordu.
+
+104
+00:10:12.310 --> 00:10:16.600
+Bir tarafta herkesin tanıdığı bir isim vardı ama içi boştu.
+
+105
+00:10:16.600 --> 00:10:20.570
+Öbür tarafta bütün içerik vardı ama adı yoktu.
+
+106
+00:10:20.570 --> 00:10:28.060
+Etkileşimli Spor'un yeni bir isme ihtiyacı vardı ve bulduğu isim tarihin küçük bir şakası gibiydi.
+
+107
+00:10:28.060 --> 00:10:35.230
+12 Şubat 2004'te stüdyonun Football Manager, yani Futbol Menajeri markasını satın aldığı açıklandı.
+
+108
+00:10:35.230 --> 00:10:42.720
+Bu, Collyer kardeşlerin çocukken oynadığı Kevin Toms imzalı 1982 tarihli oyunun adıydı.
+
+109
+00:10:42.720 --> 00:10:48.290
+Kardeşler, kendilerini bu türe sokan oyunun adını sırtlanarak yola devam edecekti.
+
+110
+00:10:48.290 --> 00:10:51.780
+Yeni yayıncı ortakları Japon şirketi Sega oldu.
+
+111
+00:10:51.780 --> 00:10:57.830
+Şimdi iki şirket aynı pazarda, aynı oyuncu kitlesi için kafa kafaya yarışacaktı.
+
+112
+00:10:57.830 --> 00:11:01.000
+Eidos ilk başta avantajlı görünüyordu.
+
+113
+00:11:01.000 --> 00:11:05.770
+Elinde on yılı aşkın süredir dükkân raflarında tanınan bir isim vardı.
+
+114
+00:11:05.770 --> 00:11:10.860
+Ama yeni bir Şampiyonluk Menajeri yapmak için önce bir ekip kurması gerekiyordu.
+
+115
+00:11:10.860 --> 00:11:19.310
+Şirket bu iş için kendi bünyesinde yeni bir stüdyo kurdu: Beautiful Game Studios, yani Güzel Oyun Stüdyosu.
+
+116
+00:11:19.310 --> 00:11:23.280
+Güzel Oyun Stüdyosu'nun önünde korkutucu bir görev vardı.
+
+117
+00:11:23.280 --> 00:11:29.650
+Etkileşimli Spor'un kodu artık ellerinde olmadığından oyunu sıfırdan yazmak zorundaydılar.
+
+118
+00:11:29.650 --> 00:11:33.940
+Arkalarında yıllardır işleyen bir gönüllü gözcü ağı da yoktu.
+
+119
+00:11:33.940 --> 00:11:39.670
+Futbol Menajeri'nin ilk oyunu Football Manager 2005, Kasım 2004'te çıktı.
+
+120
+00:11:39.670 --> 00:11:45.400
+Etkileşimli Spor'un elindeki son Şampiyonluk Menajeri sürümünün temeli üzerine kurulmuştu.
+
+121
+00:11:45.400 --> 00:11:50.650
+Yani oyuncular için tanıdık bir oyundu, yalnızca kutusundaki isim değişmişti.
+
+122
+00:11:50.650 --> 00:11:56.220
+Sadık hayranlar bunu çabucak anladı ve ismin değil, ekibin peşinden gitti.
+
+123
+00:11:56.220 --> 00:12:02.110
+Oyun piyasaya çıktığı dönemde İngiltere'nin en hızlı satan bilgisayar oyunları arasına girdi.
+
+124
+00:12:02.110 --> 00:12:07.840
+Eidos'un Şampiyonluk Menajeri 5'i ise Ekim 2004'te çıkacaktı.
+
+125
+00:12:07.840 --> 00:12:12.930
+Sıfırdan yazmanın zorlukları yüzünden tarih Mart 2005'e kaydı.
+
+126
+00:12:12.930 --> 00:12:17.060
+Bu gecikme Futbol Menajeri'ne rakipsiz bir sezon kazandırdı.
+
+127
+00:12:17.060 --> 00:12:24.710
+Şampiyonluk Menajeri 5 nihayet raflara geldiğinde hatalarla doluydu ve eleştirmenlerden sert tepkiler aldı.
+
+128
+00:12:24.710 --> 00:12:32.840
+Güzel Oyun Stüdyosu sonraki yıllarda seriyi toparlamak için çok uğraştı, bazı sürümler dikkate değer fikirler de getirdi.
+
+129
+00:12:32.840 --> 00:12:37.450
+Ama hayranların gözünde eski taç artık başka bir başa geçmişti.
+
+130
+00:12:37.450 --> 00:12:44.140
+Etkileşimli Spor'un elindeki asıl değerin kod kadar o gönüllü gözcü ağı olduğu ortaya çıkmıştı.
+
+131
+00:12:44.140 --> 00:12:48.430
+Bir futbol simülasyonunda motoru yeniden yazabilirdiniz.
+
+132
+00:12:48.430 --> 00:12:55.600
+Ama dünyanın dört bir yanındaki binlerce taraftarın yıllar içinde biriktirdiği bilgiyi bir gecede yeniden kuramazdınız.
+
+133
+00:12:55.600 --> 00:13:01.330
+Sega bu dersi iyi okudu ve 2006'da Etkileşimli Spor'u tamamen satın aldı.
+
+134
+00:13:01.330 --> 00:13:08.980
+Collyer kardeşlerin yatak odasında başlayan proje artık dünyanın en büyük oyun şirketlerinden birinin çatısı altındaydı.
+
+135
+00:13:08.980 --> 00:13:15.510
+Miles Jacobson da stüdyonun başında, serinin her yeni sürümünün tanıtım yüzü olmayı sürdürdü.
+
+136
+00:13:15.510 --> 00:13:21.560
+Şampiyonluk Menajeri adının hikâyesi ise beklenmedik bir yerde, hayranların elinde devam etti.
+
+137
+00:13:21.560 --> 00:13:28.250
+2008'in sonunda Eidos, Şampiyonluk Menajeri 01/02'yi ücretsiz indirilebilir hale getirdi.
+
+138
+00:13:28.250 --> 00:13:33.980
+Etkileşimli Spor'un o adla yaptığı en sevilen oyun böylece herkese açılmış oldu.
+
+139
+00:13:33.980 --> 00:13:39.550
+Hayran toplulukları eski oyunun veritabanını yıllarca kendi elleriyle güncelledi.
+
+140
+00:13:39.550 --> 00:13:44.000
+Bugünün oyuncularını yirmi yıllık bir motorun içine yerleştirdiler.
+
+141
+00:13:44.000 --> 00:13:49.890
+Gönüllü emeği bu sefer kimse istemeden, sırf sevgiden kendiliğinden geri dönmüştü.
+
+142
+00:13:49.890 --> 00:14:02.980
+Bugün Futbol Menajeri'nin gözcü ağı hâlâ yaklaşık 1.300 araştırmacıdan oluşuyor ve oyunun veritabanı, gerçek kulüplerin, menajerlerin ve futbol analistlerinin baktığı bir kaynak sayılıyor.
+
+143
+00:14:02.980 --> 00:14:07.750
+Uzun yıllar boyunca futbolda bir oyuncuyu ölçmek bir sezgi meselesiydi.
+
+144
+00:14:07.750 --> 00:14:19.560
+Collyer kardeşlerin tablosu ise yetenek, kararlılık ya da baskı altındaki soğukkanlılık gibi soyut şeylerin bile bir sayıya dökülebileceği fikrini milyonlarca insanın zihnine yerleştirdi.
+
+145
+00:14:19.560 --> 00:14:25.290
+Bugün kulüplerin veri analistleri oyuncuları çok daha karmaşık istatistiklerle inceliyor.
+
+146
+00:14:25.290 --> 00:14:34.700
+O analistlerin önemli bir kısmı futbolu sayılarla düşünmeyi ilk kez bir ekranın başında, maçı metin satırlarından takip ederken öğrendi.
+
+147
+00:14:34.700 --> 00:14:41.550
+Cherno Samba ve Tonton Zola Moukoko'nun hikâyeleri de bu mirasın gölgede kalan yüzünü hatırlatıyor.
+
+148
+00:14:41.550 --> 00:14:52.560
+Bir genç oyuncuya verilen puan, milyonlarca evde onun hakkında bir beklenti doğurabiliyor ve bu beklenti bazen o gencin gerçek hayatından daha büyük olabiliyordu.
+
+149
+00:14:52.560 --> 00:14:59.410
+Ekrandaki harika çocuk sonsuza kadar on altı yaşında, sonsuza kadar umut vaat eden biri olarak kaldı.
+
+150
+00:14:59.410 --> 00:15:05.620
+Gerçek çocuklar ise büyüdü, sakatlandı, kulüp değiştirdi ve kendi yollarını çizdi.
+
+151
+00:15:05.620 --> 00:15:15.830
+Gönüllü gözcülerin kurduğu o dev tablo, futbol hakkında söylediği her şeye rağmen bir şeyi hiçbir zaman öngöremedi: bir yeteneğin sahada nereye varacağını.
+
+152
+00:15:15.830 --> 00:15:19.320
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+153
+00:15:19.320 --> 00:15:22.650
+Yeni bir hikâyede yeniden buluşmak üzere.
