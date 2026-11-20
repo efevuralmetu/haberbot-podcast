@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-20.mp3
+
+beklenen 2151 kelime | duyulan 2164 kelime | eşleşme %95.3
+sayı ifadesi: metinde 237, duyulanda 202  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bakteri ve yosun kırıntılarını
+      metin  : ağza
+      duyulan: ağıza
+  REPLACE  ...konumuz olan grup ize
+      metin  : bdelloid
+      duyulan: bedelloit
+  INSERT   ...gibi yürüyüş bugüne kadar
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...yürüyüş bugüne kadar fazla
+      metin  : bdelloid
+      duyulan: bedelloit
+  REPLACE  ...erkekler nadir anlamında söylemiyoruz
+      metin  : biyologlar yüzyıldır
+      duyulan: biologlar yıldır
+  REPLACE  ...belki binlerce mikroskop geçti
+      metin  : laboratuvarlarda
+      duyulan: laboratuarlarda
+  REPLACE  ...yetiştirildi bugüne kadar tek
+      metin  : bdelloid
+      duyulan: bedelloit
+  DELETE   ...nüfus belli yoğunluğa ulaştığında
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...genler karışır yani akrabalarda
+      metin  : eşeyli
+      duyulan: eşeği
+  REPLACE  ...kullanılan seçenek olarak duruyor
+      metin  : bdelloidlerde
+      duyulan: bedelloitlerde
+  REPLACE  ...biyolojisinin en sağlam kabullerinden
+      metin  : eşeyli
+      duyulan: eşeğili
+  REPLACE  ...tuhaf çünkü kısa vadede
+      metin  : eşeyli
+      duyulan: eşeğili
+  REPLACE  ...üreme karlı iş değil
+      metin  : eşeysiz
+      duyulan: eşeğisiz
+  REPLACE  ...kendisi gibi yavru doğurabilir
+      metin  : eşeyli
+      duyulan: eşeğili
+  REPLACE  ...bırakmaz bu aynı koşullarda
+      metin  : eşeysiz
+      duyulan: eşeğisiz
+  REPLACE  ...aynı koşullarda eşeysiz soy
+      metin  : eşeyli
+      duyulan: eşeğili
+  REPLACE  ...hızlı büyür biyologlar buna
+      metin  : eşeyli
+      duyulan: eşeğili
+  REPLACE  ...ödüyor bunun bilinen sebebi
+      metin  : eşeyli
+      duyulan: eşeğili
+  REPLACE  ...kincisi zararlı mutasyonlar ayıklanabilir
+      metin  : eşeysiz
+      duyulan: eşeğisiz
+  REPLACE  ...doğru tıkırdayarak ilerliyor üstelik
+      metin  : eşeysiz
+      duyulan: eşeğisiz
+  REPLACE  ...doğa büyük ölçüde doğrular
+      metin  : eşeysiz
+      duyulan: eşeğisiz
+  REPLACE  ...bu çok kısa süredir
+      metin  : bdelloidler
+      duyulan: beydelloitler
+  REPLACE  ...olduğu düşünülen kehribarlar içinde
+      metin  : bdelloid
+      duyulan: bedelloit
+  REPLACE  ...üzerinde tartışma sürüyor ama
+      metin  : bdelloidlerin eşeysiz
+      duyulan: bedelloitlerin eşeğisiz
+  REPLACE  ...ve bütün kıtalara yayılmışlar
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...tek kelimeyle özetledi ve
+      metin  : bdelloid
+      duyulan: bedelloit
+  REPLACE  ...zor olduğuna bakmak gerekiyor
+      metin  : bdelloidlerin
+      duyulan: bedelloitlerin
+  REPLACE  ...için bu ölüm demektir
+      metin  : bdelloid
+      duyulan: bedelloit
+  REPLACE  ...kadar yavaşlar bu duruma
+      metin  : anhidrobiyoz
+      duyulan: anhidrobios
+  REPLACE  ...yaşam deniyor bu haldeki
+      metin  : bdelloid
+      duyulan: bedelloit
+  REPLACE  ...biliniyor yüzyılın hemen başında
+      metin  : mikroskobun
+      duyulan: mikroskopun
+  REPLACE  ...başında mikroskobun öncülerinden hollandalı
+      metin  : antoni fan leyvenhuk
+      duyulan: antony van leeuwenhoek
+  REPLACE  ...antoni fan leyvenhuk çatı
+      metin  : oluğundan
+      duyulan: oğluğundan
+  REPLACE  ...o hayvanların büyük olasılıkla
+      metin  : bdelloidler
+      duyulan: bedelloitler
+  REPLACE  ...bdelloidler olduğunu biliyoruz kurumuş
+      metin  : bdelloid
+      duyulan: bedelloit
+  INSERT   ...sınırı şaşırtıcı biçimde uzak
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...rus araştırmacılar sibirya da
+      metin  : alazeya
+      duyulan: alazya
+  REPLACE  ...toprak katmanlarından aldıkları örneklerde
+      metin  : bdelloid
+      duyulan: bedelloit
+  REPLACE  ...hasarlar arasında sayılıyor kurumuş
+      metin  : bdelloidin
+      duyulan: bedelloidin
+  REPLACE  ...matthew meselson ve eugene
+      metin  : gladişev
+      duyulan: gladyshev
+  ... ve 46 fark daha
+
+metinde olup DUYULMAYAN: 78 kelime | duyulup metinde OLMAYAN: 96
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-11-20.duyulan.txt

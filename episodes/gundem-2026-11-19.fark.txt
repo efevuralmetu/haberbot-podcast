@@ -1,0 +1,127 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-19.mp3
+
+beklenen 1412 kelime | duyulan 1417 kelime | eşleşme %95.4
+sayı ifadesi: metinde 278, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bugün çin in
+      metin  : şenzen
+      duyulan: shenzhen
+  REPLACE  ...şenzen kentinde donald trump
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...ize yapay zeka şirketi
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...davasında açıklanan karar var
+      metin  : şenzen
+      duyulan: shenzhen
+  DELETE   ...aralık ayında miami deki
+      metin  : gyirmi
+      duyulan: (YOK — atlanmış)
+  INSERT   ...devlet başkanı na yönelik
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...desteklemek için politika faizini
+      metin  : baz
+      duyulan: pas
+  INSERT   ...faizini baz puan artırarak
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...doğu nusa tenggara bölgesinde
+      metin  : ruteng
+      duyulan: rutenk
+  REPLACE  ...bugünkü en büyük olayı
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...trilyon dolarlık değer biçiyor
+      metin  : hisseyle
+      duyulan: hisse ile
+  REPLACE  ...toplam dolarlık hisse almayı
+      metin  : taahhüt
+      duyulan: tahüt
+  REPLACE  ...görev yapan finans direktörü
+      metin  : kolet kres
+      duyulan: colette kress
+  INSERT   ...geliştiren şirketlerden gelen talebin
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...yaptığı ve borsaya girişin
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yapımı grand theft auto
+      metin  : vi
+      duyulan: i
+  REPLACE  ...series konsollarında satışa çıkıyor
+      metin  : ön
+      duyulan: elön
+  REPLACE  ...endeksi gerileyerek puana indi
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...hafta önceki rekor seviyesinin
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...ocak sonuna kadar toplam
+      metin  : baz
+      duyulan: bas
+  INSERT   ...puan artırım yapma ihtimalini
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...hafta önce bu oran
+      metin  : (yok)
+      duyulan: di
+  INSERT   ...nin yıllık tahvil faizi
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...türü ham petrolün varili
+      metin  : dördün
+      duyulan: ün
+  INSERT   ...geriledi brent petrol de
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...yıl sonu enflasyon beklentisi
+      metin  : dörde
+      duyulan: den de
+  INSERT   ...nda yıl sonu tahminini
+      metin  : (yok)
+      duyulan: den e
+  INSERT   ...gündemin başında chp nin
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...da bulunduğu sanığa yıl
+      metin  : (yok)
+      duyulan: er
+  INSERT   ...tayyip erdoğan bugün saat
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...başkanları toplantısı na katılacak
+      metin  : basına yansıyan bilgileer göer toplantıda bazı belediye başkanlarına parti rozeti takılması bekleniyor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bu hafta bakanlık bütçelerini
+      metin  : görüşüyor
+      duyulan: görebilmek için
+  REPLACE  ...berlin de toplanması planlanıyor
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...toplanması planlanıyor anthropic hisselerinin
+      metin  : nasdaq
+      duyulan: nastak
+  REPLACE  ...petrol fiyatları yakından izlenecek
+      metin  : abd
+      duyulan: abt
+  REPLACE  ...erdoğan ın bugünkü konuşması
+      metin  : meclis teki bütçe
+      duyulan: meclisteki bükçe
+  REPLACE  ...marmara da rüzgarın saatte
+      metin  : kilometreyi
+      duyulan: km yi
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: gundem-2026-11-19.duyulan.txt

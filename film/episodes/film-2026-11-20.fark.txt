@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-20.mp3
+
+beklenen 2039 kelime | duyulan 2051 kelime | eşleşme %94.5
+sayı ifadesi: metinde 231, duyulanda 183  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kendisi değildi çünkü peter
+      metin  : lorer
+      duyulan: loren
+  REPLACE  ...o ezgiyi kayda yönetmen
+      metin  : frits
+      duyulan: fritz
+  REPLACE  ...de ülkeden kaçmış olacaktı
+      metin  : lorer nin
+      duyulan: loren in
+  REPLACE  ...mayısında yakalanmıştı yıl önce
+      metin  : hannover
+      duyulan: hanover
+  REPLACE  ...yıl önce hannover de
+      metin  : frits
+      duyulan: fritz
+  REPLACE  ...karar verdi o yönetmen
+      metin  : frits
+      duyulan: fritz
+  REPLACE  ...dı metropolis in doktor
+      metin  : mabuze
+      duyulan: mabuse
+  REPLACE  ...yıllardır yazı ortağı olan
+      metin  : tea fon
+      duyulan: t von
+  REPLACE  ...olan tea fon harbu
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...nero film şirketinin sahibi
+      metin  : seymur nebentsal
+      duyulan: seymor nebensal
+  REPLACE  ...tek başına tehdit gibiydi
+      metin  : mördır
+      duyulan: mördür
+  REPLACE  ...için berlin in batısındaki
+      metin  : ştaken
+      duyulan: staken
+  REPLACE  ...gösterir film sonunda yine
+      metin  : ştaken
+      duyulan: staken
+  REPLACE  ...alt başlık eklendi m
+      metin  : ayne ştat
+      duyulan: eine stadt
+  REPLACE  ...m ayne ştat zuht
+      metin  : aynın mördır
+      duyulan: einen mördür
+  REPLACE  ...gerçekten de katil hans
+      metin  : bekert
+      duyulan: becquart
+  REPLACE  ...o sırada berlin sahnelerinde
+      metin  : bertolt
+      duyulan: berthold
+  INSERT   ...şehirde gerçekten katil vardır
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gürültüyle doldurmanın yolunu arıyordu
+      metin  : lang
+      duyulan: lank
+  REPLACE  ...ize tam tersini yaptı
+      metin  : m
+      duyulan: mm
+  REPLACE  ...da hiçbir şey duyulur
+      metin  : lang
+      duyulan: lank
+  REPLACE  ...güçlü örneği küçük elzi
+      metin  : bekman
+      duyulan: beckman
+  REPLACE  ...adam ıslık çalmaktadır ardından
+      metin  : lang
+      duyulan: lank
+  REPLACE  ...ama seyirci olanı anlamıştır
+      metin  : lang
+      duyulan: lank
+  REPLACE  ...dalgın dalgın çaldığı ezgi
+      metin  : edvard grig
+      duyulan: edward grieg
+  REPLACE  ...edvard grig in per
+      metin  : günt
+      duyulan: günd
+  REPLACE  ...olarak anlatılan ayrıntıya göer
+      metin  : lorer
+      duyulan: loret
+  REPLACE  ...ve filmde duyulan ıslığı
+      metin  : lang
+      duyulan: lange
+  REPLACE  ...başlar ve gittikçe hızlanıp
+      metin  : yükselir
+      duyulan: seslenir
+  REPLACE  ...duyduğumuzda katili görmemiz gerekmez
+      metin  : lang
+      duyulan: lange
+  REPLACE  ...bütün örgüt vardır çünkü
+      metin  : m
+      duyulan: mem
+  REPLACE  ...kovalamasıdır tarafta komiser karl
+      metin  : loman
+      duyulan: lomann
+  REPLACE  ...yönettiği polis bulunur otto
+      metin  : vernike
+      duyulan: wernicke
+  REPLACE  ...otto vernike nin canlandırdığı
+      metin  : loman iri yarı puro
+      duyulan: lomann iriyarı pro
+  REPLACE  ...tepelerine binmesinden bıkmıştır liderleri
+      metin  : gustaf
+      duyulan: gustav
+  REPLACE  ...kendileri yakalamaya karar verir
+      metin  : lang
+      duyulan: lank
+  REPLACE  ...yerde de neredeyze aynıdır
+      metin  : lang
+      duyulan: lank
+  REPLACE  ...olmamız gerektiğini söyler ekran
+      metin  : kararır
+      duyulan: kara ağırır
+  INSERT   ...sorumlulukla biter m mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mayıs berlin deki ufa
+      metin  : palast
+      duyulan: palaz
+  ... ve 34 fark daha
+
+metinde olup DUYULMAYAN: 86 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: film-2026-11-20.duyulan.txt

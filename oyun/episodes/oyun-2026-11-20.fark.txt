@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-20.mp3
+
+beklenen 1640 kelime | duyulan 1655 kelime | eşleşme %94.4
+sayı ifadesi: metinde 226, duyulanda 163  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kendi oyunlarının adını kaybettiler
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...vardı paul ve oliver
+      metin  : collyer
+      duyulan: collier
+  INSERT   ...bu tüer yabancı değildi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tüer yabancı değildi kevin
+      metin  : toms
+      duyulan: thomas
+  REPLACE  ...kuruyor ve sonuçları bekliyordu
+      metin  : collyer
+      duyulan: collier
+  INSERT   ...adını değiştirdi oyun eylül
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...vardı hangi forveti ilk
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...ilk aldıkları hangi stoperi
+      metin  : yedeğe
+      duyulan: yedeye
+  REPLACE  ...futbolunun yıllık istatistik kitabı
+      metin  : rothmans footbal
+      duyulan: rotmans futbol
+  REPLACE  ...rothmans footbal yearbook yani
+      metin  : rothmans
+      duyulan: rotmans
+  REPLACE  ...yearbook yani rothmans futbol
+      metin  : yıllığıydı
+      duyulan: yıllığı idi
+  REPLACE  ...sayfa sayfa aktarıldı ama
+      metin  : rothmans
+      duyulan: rotmans
+  INSERT   ...kitlesi de genişledi temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...halka dönük olacaktı eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yalnızca oyunun kopyası ve
+      metin  : jeneriğe
+      duyulan: jeneriye
+  INSERT   ...ağın gücü en çok
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sürümde championship manager season
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...türkçe adıyla şampiyonluk menajeri
+      metin  : veritabanında
+      duyulan: nin veri tabanında
+  REPLACE  ...harika çocukların en ünlüsü
+      metin  : çerno
+      duyulan: cerno
+  REPLACE  ...en ünlüsü çerno samba
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...ve londra kulübü millwal
+      metin  : un
+      duyulan: ın
+  REPLACE  ...ngilteer de plymouth argyle
+      metin  : da
+      duyulan: de
+  INSERT   ...i skandinav liglerinde oynadı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...golle gol kralı oldu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olarak gelir ve yaklaşık
+      metin  : sterlin
+      duyulan: sterling
+  REPLACE  ...liglerinde oynadı i svecin
+      metin  : hammarbü
+      duyulan: hammarby
+  REPLACE  ...i svecin hammarbü kulübünden
+      metin  : kennedi bakırcıoğlu
+      duyulan: kennedy bakırcı oğlu
+  REPLACE  ...beyaz rusyalı forvet maksim
+      metin  : tsigalko
+      duyulan: tizigalko
+  INSERT   ...köşesinde duruyordu şampiyonluk menajeri
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...şampiyonluk menajeri ilk sürümünde
+      metin  : to madeyra
+      duyulan: tom madeira
+  REPLACE  ...sonradan ortaya çıktığına göer
+      metin  : to madeyra
+      duyulan: tom madeira
+  REPLACE  ...forvetler hikayenin yalnızca gönüllü
+      metin  : ağ
+      duyulan: ağa
+  INSERT   ...de bunu fark etti
+      metin  : (yok)
+      duyulan: tiki de
+  REPLACE  ...başarının ortasında patlamak üzereydi
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...patlamak üzereydi doksanların ortasında
+      metin  : domark
+      duyulan: domak
+  REPLACE  ...çatlak vardı i sim
+      metin  : yayıncınındı
+      duyulan: yayıncının da
+  INSERT   ...ve veritabanı ize geliştiricinin
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...aşındı sonradan verilen demeçlerde
+      metin  : taraf da
+      duyulan: tarafta
+  INSERT   ...nedeni olarak gösterdi şubat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tarihin küçük şakası gibiydi
+      metin  : (yok)
+      duyulan: d
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 25
+
+duyulan metin: oyun-2026-11-20.duyulan.txt

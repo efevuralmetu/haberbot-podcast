@@ -1,0 +1,49 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-20.mp3
+
+beklenen 1418 kelime | duyulan 1411 kelime | eşleşme %98.3
+sayı ifadesi: metinde 110, duyulanda 107  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...sizi soğukkanlı bulur peki
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...çalışan psikolog james gross
+      metin  : tur
+      duyulan: dur
+  REPLACE  ...gross ve meslektaşı robert
+      metin  : levenson doksanlarda
+      duyulan: levinson larda
+  REPLACE  ...birbirini tanımayan kadınları ikişerli
+      metin  : eşleştirdi
+      duyulan: eşleştirir
+  DELETE   ...kadınları ikişerli eşleştirdi önce
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yükseleceğini büyük ölçüde belirler
+      metin  : psikologlar
+      duyulan: pesikologlar
+  REPLACE  ...sakin ol deriz harvard
+      metin  : da
+      duyulan: ta
+  REPLACE  ...da işletme alanında çalışan
+      metin  : alison wood brooks
+      duyulan: allison woodbrooks
+  REPLACE  ...brooks bu öğüdü sorguladı
+      metin  : kaygı ile
+      duyulan: kaygıyla
+  REPLACE  ...bilmek doğru kullanmanın anahtarı
+      metin  : allison
+      duyulan: alison
+  REPLACE  ...öğreniriz ağlama belli etme
+      metin  : güçlü dur
+      duyulan: güçlüdür
+  REPLACE  ...yüzümüzün arkasına gömmek yerine
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 18 kelime | duyulup metinde OLMAYAN: 13
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-11-20.duyulan.txt

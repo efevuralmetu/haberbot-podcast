@@ -1,0 +1,97 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-20.mp3
+
+beklenen 1679 kelime | duyulan 1676 kelime | eşleşme %96.8
+sayı ifadesi: metinde 186, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ömrünün son yılını neden
+      metin  : heybeliada da
+      duyulan: heybel adada
+  INSERT   ...bu çocuk hüseyin rahmi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...stanbul da doğdu babası
+      metin  : mehmed
+      duyulan: mehmet
+  REPLACE  ...romancılarını okuyordu gerçekçilerin ve
+      metin  : natüralistlerin
+      duyulan: naturalistlerin
+  REPLACE  ...nin ilk romanı şık
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...bu anlayışın ilk meyvesiydi
+      metin  : romanın
+      duyulan: romamın
+  DELETE   ...ortaya çıkmamıştı bu engel
+      metin  : i kinci
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tek inceleyen sansür memurlarıydı
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...eser mürebbiye oldu roman
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...öğretmendir romandaki mürebbiyenin adı
+      metin  : anjelik
+      duyulan: angelic
+  REPLACE  ...alır konaktaki saygın düzen
+      metin  : anjelik
+      duyulan: angelic
+  REPLACE  ...osmanlı seçkinlerinin konak hayatına
+      metin  : yönelttiği
+      duyulan: yönettiği
+  REPLACE  ...yapmaz ezen düzeni sergiler
+      metin  : i kinci
+      duyulan: de
+  INSERT   ...çarpması bu yıllarda çıktı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...hazırlanıyordu civarında hüseyin rahmi
+      metin  : heybeliada
+      duyulan: heybeliyada
+  REPLACE  ...evlenmedi kendi ailesini kurmadı
+      metin  : basın
+      duyulan: bağsın
+  REPLACE  ...kısa sürede lakap taktı
+      metin  : heybeliada
+      duyulan: heybeliyada
+  REPLACE  ...olarak gördüler edebiyat dilinin
+      metin  : ağdalı
+      duyulan: ağıdalı
+  REPLACE  ...aldı ben deli miyim
+      metin  : adlı
+      duyulan: atlı
+  REPLACE  ...cehalet ve kurnazlık sayfalarında
+      metin  : canlanır
+      duyulan: camlanır
+  INSERT   ...yazara beklenmedik görev geldi
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...soyadını alan hüseyin rahmi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...rahmi kütahya milletvekili oldu
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yakışacak ironiydi bu görevi
+      metin  : (yok)
+      duyulan: e
+  INSERT   ...hüseyin rahmi gürpınar mart
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...uzun süren yazarlık hayatında
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...çevresine rağmen bunu yaptı
+      metin  : heybeliada nın
+      duyulan: heybeliyadanın
+  REPLACE  ...hep acı tat kalıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 24 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: edebiyat-2026-11-20.duyulan.txt

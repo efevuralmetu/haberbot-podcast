@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-20.mp3
+
+beklenen 2482 kelime | duyulan 2479 kelime | eşleşme %95.1
+sayı ifadesi: metinde 255, duyulanda 199  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ile yılları arasında burada
+      metin  : and
+      duyulan: ant
+  REPLACE  ...ortadaki taş anlamına gelen
+      metin  : taypikala
+      duyulan: taipikala
+  REPLACE  ...taypikala denmişti ama bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...törensel merkezin güneybatısında yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...yapı yükseliyordu puma punku
+      metin  : ad
+      duyulan: at
+  REPLACE  ...burada önce alçak geniş
+      metin  : höyük
+      duyulan: hıyük
+  REPLACE  ...atıldığını gösteriyor puma punku
+      metin  : tivanaku
+      duyulan: tivanako
+  REPLACE  ...kadar kusursuz yapmış puma
+      metin  : punku
+      duyulan: panku
+  REPLACE  ...bu kumtaşının alanın yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...taşlar gölün karşı kıyısındaki
+      metin  : kopakabana
+      duyulan: copacabana
+  REPLACE  ...çevresinden getirilmişti yani yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...meraklıları kışkırttı yüzyılın sonlarında
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...kaliforniya üniversitesi nden mimar
+      metin  : jan piyer protsen
+      duyulan: john pierer prodsen
+  REPLACE  ...yıllarca ölçtüler çizdiler karşılaştırdılar
+      metin  : protsen
+      duyulan: prodsen
+  REPLACE  ...yontma deneyleri yapmıştı elindeki
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...son derece dünyeviydi tivanaku
+      metin  : ustaları
+      duyulan: üstaları
+  REPLACE  ...ve kesin şablonlarla çalışıyordu
+      metin  : h
+      duyulan: hay
+  REPLACE  ...için muhtemelen sert taştan
+      metin  : çekiçler
+      duyulan: çekişler
+  REPLACE  ...taşı yerinde tutuyordu massachusetts
+      metin  : teknoloji
+      duyulan: technology
+  REPLACE  ...metal uzmanı heather lechtman
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...halde doğrudan taşın içindeki
+      metin  : oyuğa
+      duyulan: oyua
+  REPLACE  ...ve nikel içeriyordu ve
+      metin  : and dağları nda
+      duyulan: an dağlarında
+  REPLACE  ...yavaş sökülüşüne bakmak gerekir
+      metin  : kırklarda
+      duyulan: larda
+  REPLACE  ...kırklarda i spanyol fatihler
+      metin  : and yaylalarına
+      duyulan: andia ilalarına
+  REPLACE  ...bölgeden geçen tarihçi pedro
+      metin  : siyesa de leon
+      duyulan: c león
+  REPLACE  ...halk tarafından yapıldığı yönündeydi
+      metin  : siyesa de leon
+      duyulan: c león
+  REPLACE  ...kilisenin duvarlarına bakan tivanaku
+      metin  : ustalarının
+      duyulan: üstalarının
+  REPLACE  ...başka köylerde de evler
+      metin  : ağıllar
+      duyulan: ağırlar
+  REPLACE  ...a bağlayan demiryolu döşenirken
+      metin  : hat
+      duyulan: had
+  INSERT   ...fotoğraflar bugün eşsiz değerdedir
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...eşsiz değerdedir alman araştırmacılar
+      metin  : alfons ştübel
+      duyulan: alphonse chubel
+  REPLACE  ...araştırmacılar alfons ştübel ve
+      metin  : maks ule
+      duyulan: max hule
+  REPLACE  ...ya yerleşmiş avusturyalı mühendis
+      metin  : artur
+      duyulan: arthur
+  REPLACE  ...asıl popüler efsane ize
+      metin  : altmışlarda
+      duyulan: larda
+  REPLACE  ...doğdu i sviçreli yazar
+      metin  : erih fon deniken
+      duyulan: erich von däniken de
+  REPLACE  ...üniversitesi nden arkeolog aleksey
+      metin  : vraniç
+      duyulan: vranić
+  REPLACE  ...istediğin gibi taş taşıyamazsın
+      metin  : vraniç protsen
+      duyulan: vranić protzen
+  INSERT   ...çevirip birbirine uydurmaya çalıştı
+      metin  : (yok)
+      duyulan: kiki de
+  REPLACE  ...cephe sistemi olduğunu gösteriyordu
+      metin  : vraniç
+      duyulan: vranić
+  REPLACE  ...ama oraya ait olmayabilir
+      metin  : protsen
+      duyulan: protzen
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 83 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 24
+
+duyulan metin: arkeoloji-2026-11-20.duyulan.txt

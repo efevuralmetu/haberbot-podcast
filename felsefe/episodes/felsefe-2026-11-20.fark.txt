@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-20.mp3
+
+beklenen 2480 kelime | duyulan 2477 kelime | eşleşme %95.3
+sayı ifadesi: metinde 306, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yaşadı ve bekar öldü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bekar öldü yayımlanan ahlak
+      metin  : metafiziği nin
+      duyulan: metafizinin
+  REPLACE  ...kişiyi süreliğine nesneye çevirir
+      metin  : hazzın
+      duyulan: hazdın
+  REPLACE  ...kant ın gözünde nikah
+      metin  : nesneleşmenin
+      duyulan: nesnelesmenin
+  REPLACE  ...alman filozofu oldu georg
+      metin  : vilhelm fridrih
+      duyulan: wilhelm friedrich
+  INSERT   ...georg vilhelm fridrih hegel
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başlar ama sözleşmenin bakış
+      metin  : açısını
+      duyulan: açısına
+  REPLACE  ...bu kitabında çok bilinen
+      metin  : ifadeyle
+      duyulan: ifade ile
+  REPLACE  ...döneminde bazı romantikler özellikle
+      metin  : fridrih şlegel
+      duyulan: friedrich legel
+  REPLACE  ...özellikle fridrih şlegel in
+      metin  : lutsinde
+      duyulan: lützinde
+  INSERT   ...hiç evlenmedi hegel ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...evlenmedi hegel ize yaşındayken
+      metin  : mari fon tuher
+      duyulan: marie fontuer
+  REPLACE  ...daha karışık şey anlatabilir
+      metin  : mişel dö monten
+      duyulan: michel de montaigne te
+  REPLACE  ...mişel dö monten yaşındayken
+      metin  : fransuaz dö
+      duyulan: françoize de
+  REPLACE  ...yaşındayken fransuaz dö la
+      metin  : şasen
+      duyulan: chassane
+  REPLACE  ...gibi ailenin anlaşmasıyla kurulmuştu
+      metin  : monten
+      duyulan: montaigne
+  REPLACE  ...çıkan uzun denemesinde geçer
+      metin  : monten
+      duyulan: montaigne
+  REPLACE  ...içeri girmek için çırpınır
+      metin  : içerdekiler
+      duyulan: içeridekiler
+  REPLACE  ...yarı şaka söyleniyor ama
+      metin  : monten
+      duyulan: montaigne
+  REPLACE  ...artık senin elinde değildir
+      metin  : monten
+      duyulan: montaigne
+  REPLACE  ...soluklu sakin yoldaşlıktır burada
+      metin  : monten
+      duyulan: montaigne
+  REPLACE  ...ama bu dostluğu kafes
+      metin  : benzetmesiyle
+      duyulan: benzetmesi ile
+  REPLACE  ...sayfaya koyması şeyi gösteriyor
+      metin  : monten
+      duyulan: montaigne
+  INSERT   ...kafes imgesi bizi yaklaşık
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...imgesi bizi yaklaşık sonra
+      metin  : kopenhag
+      duyulan: copenhague
+  REPLACE  ...kopenhag a götürüyor sören
+      metin  : kirkegor
+      duyulan: kierkegaard ta
+  INSERT   ...nişanlandı ve yıl sonra
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bıraktı bu yaranın ardından
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ilk karşılaşmanın heyecanı baştan
+      metin  : çıkarmanın
+      duyulan: çıkartmanın
+  REPLACE  ...başka ses konuşuyor kirkegor
+      metin  : ın
+      duyulan: un
+  REPLACE  ...ın yarattığı yargıç yargıç
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...adama uzun mektuplar yazıyor
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...düşünce zinciri şöyle ilerliyor
+      metin  : estetik
+      duyulan: destetik
+  REPLACE  ...kavuşmadan önceki çabaya engelleer
+      metin  : fethin
+      duyulan: fetin
+  REPLACE  ...genellikle düğünde biter oysa
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...aşkı zamanın içine taşımaktır
+      metin  : fetheden
+      duyulan: feteden
+  REPLACE  ...geçmişe ve geleceğe dönüşür
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...öbür gün de der
+      metin  : vilhelm
+      duyulan: wilhelm
+  REPLACE  ...kendini kendi seçimleriyle kurması
+      metin  : kirkegor ın
+      duyulan: kierkegor un
+  REPLACE  ...evliliği hukuk sorununa çevirmişti
+      metin  : kirkegor ın
+      duyulan: kierkegor un
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 73 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 26
+
+duyulan metin: felsefe-2026-11-20.duyulan.txt

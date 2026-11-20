@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-20.mp3
+
+beklenen 2361 kelime | duyulan 2376 kelime | eşleşme %95.3
+sayı ifadesi: metinde 217, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...çünkü romanos u yıkan
+      metin  : alparslan
+      duyulan: alparz tan
+  REPLACE  ...yıktı baharında selçuklu sultanı
+      metin  : alparslan ın
+      duyulan: alparz tanın
+  REPLACE  ...eğdi ve hutbeyi abbasi
+      metin  : halifesi ile
+      duyulan: halifesiyle
+  INSERT   ...hesap yapılıyordu bizans tahtında
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...bizans tahtında beri romanos
+      metin  : diyojen
+      duyulan: diogen
+  REPLACE  ...ın dul eşi evdokya
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...dukas ailesinin sevgisini vermemişti
+      metin  : ölen
+      duyulan: ölelen
+  INSERT   ...yağmalanıyor sınır savunması çözülüyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kısmı ize komutan yosef
+      metin  : tarkaniyotis
+      duyulan: tarkanyotis
+  REPLACE  ...norman paralı askerlerinin başı
+      metin  : rusel dö bayöl
+      duyulan: russel de bayol
+  INSERT   ...katıldı plan mantıklı görünüyordu
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...başladı haber hiç gelmedi
+      metin  : tarkaniyotis
+      duyulan: tarkanyotis
+  REPLACE  ...yaşamış bizans tarihçisi mihail
+      metin  : attaleiates
+      duyulan: ataliyates
+  REPLACE  ...mihail attaleiates e göer
+      metin  : tarkaniyotis sultanın
+      duyulan: tarkanyotis sultan ın
+  REPLACE  ...çatışıp geri püskürtüldüğünü anlatır
+      metin  : tarkaniyotis
+      duyulan: tarkanyotis
+  REPLACE  ...ilk sürtüşmeler başladı komutan
+      metin  : nikeforos briyenios
+      duyulan: naikforos briennios
+  REPLACE  ...çıkan ermeni asıllı komutan
+      metin  : nikeforos
+      duyulan: naikforos
+  REPLACE  ...yağdırıyor nöbetçileri tedirgin ediyordu
+      metin  : attaleiates
+      duyulan: attalya tess
+  REPLACE  ...yanındaki din alimi ebu
+      metin  : nasr
+      duyulan: nasser
+  INSERT   ...namazı vaktine bırakmasını önerdi
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...giysiler giydiğini bunun kefen
+      metin  : anlamına
+      duyulan: namına
+  REPLACE  ...merkezde kendisi vardı kanatlarda
+      metin  : briyenios
+      duyulan: briennios
+  REPLACE  ...briyenios ve kapadokyalı komutan
+      metin  : aliattes
+      duyulan: aliadtes
+  DELETE   ...arkada ize yedek kuvvet
+      metin  : yer
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ilerledikçe kampından uzaklaşıyor yorgunluk
+      metin  : artıyor
+      duyulan: alıyor
+  REPLACE  ...dönüşünü yenilgi işareti sandı
+      metin  : hat
+      duyulan: hatt
+  REPLACE  ...yerine kampa doğru çekildi
+      metin  : attaleiates
+      duyulan: attalietes
+  REPLACE  ...yedek bizans ordusunun omurgasını
+      metin  : kırdı
+      duyulan: gönderdi
+  REPLACE  ...bizans hatlarının üzerine yürüdü
+      metin  : sağ
+      duyulan: sağa
+  REPLACE  ...yürüdü sağ kanat çözüldü
+      metin  : kaçanlar
+      duyulan: i mparatorlar
+  DELETE   ...i bnü l esir
+      metin  : bu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...düşmüştü ertesi sabah yıpranmış
+      metin  : giysili
+      duyulan: gisili
+  DELETE   ...sahnenin geri kalanı sonraki
+      metin  : yüzyıllarda
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...koydu ardından sultan imparatoru
+      metin  : ayağa
+      duyulan: ayağı
+  DELETE   ...serbest bırakacaktı bu konuşmanın
+      metin  : kelimesi
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...romanos a barış teklifini
+      metin  : reddederek
+      duyulan: ödederek
+  DELETE   ...serbest bırakacak ve gerektiğinde
+      metin  : sultana
+      duyulan: (YOK — atlanmış)
+  DELETE   ...güvenliği miktar ve kendisine
+      metin  : karşı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...zayıflamış ama hala tahtında
+      metin  : oturan
+      duyulan: alınan
+  DELETE   ...anlatılır alparslan ın hesabında
+      metin  : yalnızca
+      duyulan: (YOK — atlanmış)
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 66 kelime | duyulup metinde OLMAYAN: 69
+bölme/birleşme farkı (hata değil, elendi): 28
+
+duyulan metin: tarih-2026-11-20.duyulan.txt

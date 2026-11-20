@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-20.mp3
+
+beklenen 1705 kelime | duyulan 1717 kelime | eşleşme %95.6
+sayı ifadesi: metinde 160, duyulanda 130  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...öğlen sıcağında lif kuruyup
+      metin  : kırılıyor
+      duyulan: kırılır
+  REPLACE  ...kıyısında gün henüz ağarmamışken
+      metin  : montekristi
+      duyulan: monte cristi
+  REPLACE  ...ve itaatkar tutar bu
+      metin  : montekristi
+      duyulan: monte cristo
+  REPLACE  ...inmesini bekler her şey
+      metin  : bitkiyle
+      duyulan: bitki ile
+  REPLACE  ...her şey bitkiyle başlar
+      metin  : bilim
+      duyulan: hem
+  REPLACE  ...bitkiyle başlar bilim insanlarının
+      metin  : karludovika
+      duyulan: carludovica
+  REPLACE  ...palmata dediği ekvadorluların ize
+      metin  : tokiya
+      duyulan: tokia
+  REPLACE  ...yılların bu eğilişi okunur
+      metin  : montekristi
+      duyulan: monte cristo
+  REPLACE  ...en çok bilinen örgü
+      metin  : eşkenar
+      duyulan: eşkener
+  REPLACE  ...bazen yarım yılı geçer
+      metin  : dokuma
+      duyulan: ama
+  REPLACE  ...esnekliğidir i yi dokunmuş
+      metin  : tokiya
+      duyulan: tokia
+  REPLACE  ...kıldı fakat bu yolculuklar
+      metin  : montekristi ye
+      duyulan: monte cristo ya
+  INSERT   ...yanılgıyı büyüten ilk dalga
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...şapkaları tam aradıkları şeydi
+      metin  : (yok)
+      duyulan: i nsan
+  INSERT   ...asıl darbe ize yarım
+      metin  : (yok)
+      duyulan: yıl
+  INSERT   ...aynı şapkalara sarıldı kasım
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...için panama ya gitti
+      metin  : görevdeyken yurt dışına
+      duyulan: roosevelt evdeyken yurtdışına
+  REPLACE  ...panama nın simgesine dönüştü
+      metin  : montekristi nin
+      duyulan: monte cristo nun
+  REPLACE  ...merkezi haline gelmişti ve
+      metin  : montekristi
+      duyulan: monte cristo
+  REPLACE  ...çıkar eloy alfaro alfaro
+      metin  : montekristi
+      duyulan: de monte cristo
+  INSERT   ...yapacak olan liberal devrimiyle
+      metin  : (yok)
+      duyulan: ve
+  REPLACE  ...ekvador da şapkaya ısrarla
+      metin  : tokiya
+      duyulan: tokia
+  REPLACE  ...yapımı yazmaya özen gösterir
+      metin  : montekristi
+      duyulan: monte cristo
+  REPLACE  ...mücadelesinin sadece yanı panama
+      metin  : yla
+      duyulan: ile
+  REPLACE  ...sonra kıyıdan çok uzakta
+      metin  : and
+      duyulan: ant
+  REPLACE  ...kubbeli kiliseler belirir burası
+      metin  : kuenka
+      duyulan: cuenca
+  REPLACE  ...dır ekvador un güneyindeki
+      metin  : and
+      duyulan: ant
+  REPLACE  ...yükseklikte kurulmuş sömürge şehri
+      metin  : tokiya
+      duyulan: tokia
+  REPLACE  ...büyük bölümünün son durağı
+      metin  : kuenka
+      duyulan: cuenca
+  REPLACE  ...daha hızlı ilerleyen örgü
+      metin  : ileride
+      duyulan: ilerde
+  REPLACE  ...bütün ülkenin ekonomisini sırtladı
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...süer ülkenin en önemli
+      metin  : ihraç
+      duyulan: ihrac
+  REPLACE  ...önemli ihraç ürünü oldu
+      metin  : kuenka
+      duyulan: cuenca
+  REPLACE  ...halkalarıydı sonra moda değişti
+      metin  : ellilerden
+      duyulan: lerden
+  REPLACE  ...şapka tüccarlarının bildiği güzergahlar
+      metin  : öncü
+      duyulan: önce
+  REPLACE  ...öncü göçmenin attığı adımlar
+      metin  : altmışlardan
+      duyulan: lardan
+  REPLACE  ...altmışlardan itibaren asuay ve
+      metin  : kanyar
+      duyulan: konya
+  REPLACE  ...ve atölyelerinde çalışıyordu bugün
+      metin  : kuenka
+      duyulan: cuenca
+  REPLACE  ...da tam burada başlar
+      metin  : montekristi
+      duyulan: monte cristo
+  INSERT   ...da kayda geçti aralık
+      metin  : (yok)
+      duyulan: de
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 63
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: seyahat-2026-11-20.duyulan.txt

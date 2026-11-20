@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-20.mp3
+
+beklenen 2489 kelime | duyulan 2985 kelime | eşleşme %10.3
+sayı ifadesi: metinde 267, duyulanda 137  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yor way out of
+      metin  : belediye salonu düşünün duvarda tablo asılı masada beyaz örtü var örtünün üstünde
+      duyulan: what does marriage mean to you if you have a family you can cancel yor way out of but what does marriage mean to you is marriage a contract you can cancel or a bond you cannot sign yor way out of but what does marriage mean to you is marriage a contract you can cancel or a bond you cannot sign yor way out of what does marriage mean to you is marriage a contract you can cancel or a bond you cannot sign yor way out of if you have a family you can cancel yor way out of if you have a family you can cancel yor way out of but what does marriage mean to you is marriage a contract you can cancel or a bond you cannot sign yor way out of would a man be free to go into marriage bhutanam kanta neveliye kishye ilishkin sheylar hukukku gibituaaf birbashtakaltanda sozleishmelera rasinda ele aldo birbulum degichyur bihor chumleiye okuyup yuzunu burushtermak kolai ama kanta nele urashtunu gurmek girikyur ahalak felsifesinin merkizindetek biryasakvar birinsana asla ayanus jabir aracholarak kullamamak kanta girajinsel arzutamda buniyapar arzulanan kishiyi surelinan esne eche viririr birhazun arajahalina getirir pekki ozamaniki insan biraraya gillip yina
+  REPLACE  ...var örtünün üstünde de
+      metin  : defter duruyor nikah memuru soru soruyor kez evet deniyor imza atılıyor sonra alkış kopuyor hepsi dakika sürüyor önceki gün aynı salonda başka çift vardı ertesi gün başkası olacak hukukun gözünde bu dakikada insanın birbirine karşı hakları ve yükümlülükleri doğmuş oluyor miras nafaka soyadı velayet asıl soru da burada çıkıyor o defterde olan nedir sözleşme mi kuruluyor yoksa sözleşmenin asla karşılayamayacağı şey mi ilan ediliyor felsefe tarihinde bu soruya verilmiş en soğuk cevap belki de hiç evlenmemiş adamdan geliyor immanuel kant bütün ömrünü königsberg de geçirdi bekar yaşadı ve bekar öldü de yayımlanan ahlak metafiziği nin hukuk kısmında evliliği şaşırtıcı çıplaklıkla tanımladı farklı cinsiyetten kişinin birbirlerinin cinsel özelliklerine ömür boyu karşılıklı sahip olmak üzeer kurduğu ne sevgiden söz ediyor ne yuvadan ne de mutluluktan bu tanım kant ın evliliği kişiye ilişkin şeyler hukuku gibi tuhaf başlık sözleşmeler arasında ele aldığı bölümde geçiyor bu cümleyi okuyup buruşturmak kolay ama kant ın neyle uğraştığını görmek gerekiyor ahlak felsefesinin merkezinde tek yasak var insanı asla yalnızca araç
+      duyulan: kishu
+  REPLACE  ...asla yalnızca araç olarak
+      metin  : kullanmamak kant a göer cinsel arzu tam da bunu yapar arzulanan kişiyi süreliğine nesneye çevirir hazzın aracı haline getirir peki o zaman insan araya gelip yine de kişi olarak kalabilir mi kant ın cevabı şu ancak karşılıklılık mutlak olursa
+      duyulan: kullabilermi kanta jewabushu anja karshalik liluk mutla kolursa
+  REPLACE  ...mutlak olursa ben seni
+      metin  : edindiğimde
+      duyulan: edindim de
+  REPLACE  ...seni edindiğimde sen de
+      metin  : beni aynı ölçüde ediniyorsan
+      duyulan: bene aynu urchud edinyur san
+  REPLACE  ...ediniyorsan ben de sana
+      metin  : aynı biçimde aitsem
+      duyulan: aynibichim de ait sem
+  REPLACE  ...biçimde aitsem kendimi sana
+      metin  : verirken
+      duyulan: virir kan
+  REPLACE  ...kendimi sana verirken kendimi
+      metin  : geri almış olurum kant ın gözünde nikah nesneleşmenin tehlikesini eşitlikle dengeleyen
+      duyulan: girar al misholurum kanta ngozunden ikhyaa nesne leshmenin tehli kesine eshitlik le dengelian
+  REPLACE  ...tehlikesini eşitlikle dengeleyen hukuk
+      metin  : düzeneği
+      duyulan: duzenei
+  REPLACE  ...hukuk düzeneği yani imza
+      metin  : burada romantik süs değil
+      duyulan: bura da romantic sue steel
+  REPLACE  ...romantik süs değil insan
+      metin  : onurunu korumak için konmuş kilit mantıklı tutarlı ve buz gibi bu soğukluğu ilk ve
+      duyulan: nukuruma kichin kon mushpir kiliit manta klu tutar le weh buzgibi usau klu ikh weh
+  REPLACE  ...ilk ve en sert
+      metin  : biçimde
+      duyulan: bichim de yuzune
+  REPLACE  ...en sert biçimde vuran
+      metin  : kuşak sonraki büyük
+      duyulan: kushak sonra kibuk
+  REPLACE  ...kuşak sonraki büyük alman
+      metin  : filozofu oldu georg
+      duyulan: philosofoldu george
+  REPLACE  ...georg wilhelm friedrich hegel
+      metin  : de yayımlanan hukuk felsefesinin
+      duyulan: day yim lanan kukfelsefe sinnin ikhya le rinde kanta nevili sos lishme kavramanin altena sokmasina adun koyarak
+  REPLACE  ...yayımlanan hukuk felsefesinin i
+      metin  : lkeleri nde kant ın evliliği sözleşme kavramının sokmasına adını koyarak itiraz etti kullandığı sözcük felsefe kitaplarında
+      duyulan: tirazette kulandu sos djukfelsefe kitaplarinda
+  REPLACE  ...sözcük felsefe kitaplarında pek
+      metin  : rastlanmayacak kadar ağırdı
+      duyulan: raslan mijak kadarard
+  REPLACE  ...rastlanmayacak kadar ağırdı bu
+      metin  : göer utanç verici yaklaşımdı
+      duyulan: onagura utanch viri jibiriak lashimde
+  REPLACE  ...utanç verici yaklaşımdı hegel
+      metin  : aslında kant ın düşüncesine çok şey borçluydu
+      duyulan: aslinda kanta ndusunjesine chok shei borch ludu
+  REPLACE  ...çok şey borçluydu bu
+      metin  : öfke
+      duyulan: ofke
+  REPLACE  ...borçluydu bu öfke ikisinin
+      metin  : arasındaki
+      duyulan: arasundaki
+  REPLACE  ...öfke ikisinin arasındaki ufak
+      metin  : kişisel çekişme değildi evliliğin ne olduğuna dair temelden ayrılığı gösteriyordu
+      duyulan: kisisel chek ishme dildu
+  REPLACE  ...temelden ayrılığı gösteriyordu hegel
+      metin  : e göer sözleşme birbirinden ayrı ve bağımsız kişinin kendi dışlarında
+      duyulan: eguer sos lishme birindan aier we baamsus ikikishinin kendidushlerinda
+  REPLACE  ...kişinin kendi dışlarında duran
+      metin  : şey üzerinde anlaşmasıdır ev satarsınız iş yaparsınız anlaşma bitince yine ayrı ayrı insanlarsınızdır evlilikte
+      duyulan: shei uzerinda an nashmasudur f sate arseniz ishya parseniz an nashma bitinja yina aier aier insan narsenizdur evli likte
+  REPLACE  ...ayrı insanlarsınızdır evlilikte ize
+      metin  : taraflar tam da bu ayrılığı aşmak için araya
+      duyulan: tara flar tamdabu airelu ashmakichin biraraya
+  INSERT   ...aşmak için araya gelir
+      metin  : (yok)
+      duyulan: hegelin day ishile evli lik sos lishme dham bashlar amah sos lishminin bakusha chesna ashmakichin bashlar ikikishin kendid baamsus kishilik duran dangunul lohlerak wazgechip tek kishigibi biz lohlerak yashamaya kara virir
+  REPLACE  ...için araya gelir hegel
+      metin  : in deyişiyle evlilik sözleşmeden başlar ama sözleşmenin bakış açısını aşmak için başlar i ki kişi kendi bağımsız kişiliklerinden gönüllü olarak vazgeçip tek kişi gibi biz olarak yaşamaya karar verir hegel bu kitabında çok bilinen ifadeyle hukuken
+      duyulan: bubir lee kita bunda chok bili nan fah dale hukukan
+  REPLACE  ...ifadeyle hukuken ahlaki sevgi
+      metin  : diye adlandırır yalnızca
+      duyulan: diyad lander yalnazja
+  REPLACE  ...diye adlandırır yalnızca duygu
+      metin  : değil çünkü
+      duyulan: deil twinku
+  REPLACE  ...değil çünkü duygu gelip
+      metin  : geçicidir yalnızca
+      duyulan: kechijidir yalnazja
+  REPLACE  ...gelip geçicidir yalnızca hukuk
+      metin  : da değil çünkü
+      duyulan: tah deil twinku hukukichir i bosh brakar borada konu muzun ken alujanoktas nagel yorus hegad naguer oresme evet ikhin sanan olam balilun aileve toplumakarshe achikcha ilanet mesidir baan jakbu ilan ahlaki garchiklik kazaner teren karsi chikan onaguer eveline jid deit nidil kendik kefi duygu sunusavun maktadir bawla jemmasada airi imza ana ishid duryor kanta imza kishin in hakkler nagu van jaya alan suzdesh menin alten atil yor haig el dei ses suzdesh mei ashan leen kamusal mihro leor iran tida boikis in in arasandak imza fe in sani dang yor kanta ich ilan medi haig aize bonsik izuz ombir dei kirp yashan dai can mari von tuker ile eveline dei in in eveline kakkanda yazdek liribir
+  REPLACE  ...da değil çünkü hukuk
+      metin  : içeriği boş bırakır burada konumuzun can alıcı noktasına geliyoruz hegel aynı kitapta nikah törenini küçümseyenleer de cevap verir döneminde bazı romantikler özellikle friedrich schlegel
+      duyulan: masasundan deir
+  REPLACE  ...özellikle friedrich schlegel in
+      metin  : lucinde adlı romanının etrafında toplananlar sevgi varsa resmi merasime gerek olmadığını törenin sevginin içtenliğine yabancı dışsal formalite olduğunu savunuyordu hegel bunu kesin dille reddetti göer o resmi evet insanın birbirine olan bağlılığını aileye ve topluma karşı açıkça ilan etmesidir bağ ancak bu ilanla ahlaki gerçeklik kazanır törene karşı çıkan göer evliliğin ciddiyetini değil kendi keyfi duygusunu savunmaktadır böylece masada ayrı imza anlayışı duruyor kant ta imza kişinin haklarını güvenceye alan sözleşmenin atılıyor hegel de ize sözleşmeyi aşan birliğin kamusal mührü oluyor ayrıntı da bu ikisinin arasındaki mesafeyi insani yerden gösteriyor kant hiç evlenmedi hegel ize de yaşındayken marie von tucher ile evlendi evlilik hakkında yazdıkları hukuk masasından diğerininki ev masasından çıkmış gibi duruyor ancak ev masası
+      duyulan: in kibir eve masasundan chik mushkibid duryor an kakbir eve masase
+  DELETE   ...masası her zaman huzur
+      metin  : demek değil evliliğin içinden konuşan
+      duyulan: (YOK — atlanmış)
+  INSERT   ...evliliğin içinden konuşan de
+      metin  : (yok)
+      duyulan: mek deel eveline in ichindan konushan dei
+  REPLACE  ...içinden konuşan de bize
+      metin  : çok daha karışık şey anlatabilir
+      duyulan: chokdaha karishik bishay an nata bileer
+  REPLACE  ...şey anlatabilir michel de
+      metin  : montaigne te yaşındayken françoize
+      duyulan: montagne t yeshinday can francoize
+  REPLACE  ...yaşındayken françoize de la
+      metin  : chassaigne ile evlendi evlilik o dönemin soylu ailelerinde olağan olduğu gibi ailenin anlaşmasıyla kurulmuştu montaigne yıllar
+      duyulan: shassan yele eveline dei eveline ich odun emin soylo eile lirinde olan oldu igibi eile nin an nashmasila kurul mushtuh montagne yil lar
+  REPLACE  ...kurulmuştu montaigne yıllar sonra
+      metin  : kulesindeki kitaplığına çekilip denemeler i yazarken evlilik hakkında
+      duyulan: kulisinde ki kitap luna chikilip denem eleri yazar can eveline kakkanda
+  REPLACE  ...yazarken evlilik hakkında hem
+      metin  : çok dürüst
+      duyulan: chokdurust
+  ... ve 152 fark daha
+
+metinde olup DUYULMAYAN: 2205 kelime | duyulup metinde OLMAYAN: 2699
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: philosophy-2026-11-20.duyulan.txt

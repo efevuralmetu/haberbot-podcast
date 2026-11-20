@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-20.mp3
+
+beklenen 2610 kelime | duyulan 2569 kelime | eşleşme %91.0
+sayı ifadesi: metinde 340, duyulanda 270  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...i mparatorluğu nun başkenti
+      metin  : çang
+      duyulan: chang
+  REPLACE  ...hiç kimse sarsamamıştı adı
+      metin  : şüen zang
+      duyulan: xuanzang
+  INSERT   ...adı şüen zang dı
+      metin  : (yok)
+      duyulan: li
+  REPLACE  ...kapatmıştı kimse izinsiz geçemezdi
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...yetiştiren dünyaya bakmak gerekir
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...olarak doğdu asıl adı
+      metin  : çın
+      duyulan: chen
+  REPLACE  ...asıl adı çın yi
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...içinde dağılırken kardeş önce
+      metin  : çang
+      duyulan: chang
+  REPLACE  ...çang an a oradan
+      metin  : siçuan
+      duyulan: sichuan
+  REPLACE  ...a oradan siçuan daki
+      metin  : çıngdu
+      duyulan: chengdu
+  REPLACE  ...daki çıngdu ya kaçtılar
+      metin  : şüen zang çıngdu
+      duyulan: xuanzang de chengdu
+  REPLACE  ...şastra yani yoga basamakları
+      metin  : elinde
+      duyulan: dilinde
+  REPLACE  ...metnin doğduğu yeer gitmek
+      metin  : çang
+      duyulan: chang
+  REPLACE  ...an dan batıya ilerleyip
+      metin  : hı şi
+      duyulan: hshi
+  REPLACE  ...ilerleyip hı şi koridorundaki
+      metin  : lyang cou
+      duyulan: liangku
+  REPLACE  ...gündüzleri saklanıp geceleri yürüdüler
+      metin  : gua cou
+      duyulan: liangku
+  REPLACE  ...gua cou ya ulaştıklarında
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...emri getiren memur li
+      metin  : çang
+      duyulan: chang
+  REPLACE  ...o olup olmadığını sordu
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...zang yalan söylemedi li
+      metin  : çang
+      duyulan: chang
+  REPLACE  ...dönmüştü atı da ölmüştü
+      metin  : şüen zang şı
+      duyulan: xuanzang hshi
+  REPLACE  ...sonra vazgeçip geri çekildi
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...devam etti ertesi sabah
+      metin  : şı
+      duyulan: hshi
+  REPLACE  ...ikisinin de öleceğini söyledi
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...zang serbest bıraktı önünde
+      metin  : yü mın guan
+      duyulan: yumunguan
+  REPLACE  ...ardından ok daha geldi
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...olduğunu bağırdı kulenin komutanı
+      metin  : vang şiang
+      duyulan: wang xiang
+  REPLACE  ...komutanı vang şiang dindar
+      metin  : budistti
+      duyulan: budist i
+  DELETE   ...vardı çin kayıtlarına göer
+      metin  : li
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...su anda kuma gömüldü
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...göer yöne çekmeye başladı
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...turfan yakınlarında kurulu gao
+      metin  : çang
+      duyulan: chang
+  REPLACE  ...adıyla koço krallığının hükümdarı
+      metin  : çü vın tay
+      duyulan: chuwen tai
+  REPLACE  ...bütün halk öğrenci olacaktı
+      metin  : kral ricadan
+      duyulan: krallı rica dan
+  REPLACE  ...e geri gönderebileceğini söyledi
+      metin  : şüen zang
+      duyulan: xuanzang
+  REPLACE  ...zang şöyle cevap verdi
+      metin  : kral
+      duyulan: krallı
+  REPLACE  ...ama iradesini tutamazdı sonra
+      metin  : yemeyi
+      duyulan: yemeği
+  REPLACE  ...gün nefesinin zayıfladığını gören
+      metin  : çü vın tay
+      duyulan: chuwen tai
+  REPLACE  ...önünde kardeşlik yemini ettiler
+      metin  : kral
+      duyulan: krallı
+  REPLACE  ...ettiler kral şart koştu
+      metin  : şüen zang
+      duyulan: xuanzang
+  ... ve 82 fark daha
+
+metinde olup DUYULMAYAN: 193 kelime | duyulup metinde OLMAYAN: 151
+bölme/birleşme farkı (hata değil, elendi): 40
+
+duyulan metin: biyografi-2026-11-20.duyulan.txt

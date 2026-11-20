@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-20.mp3
+
+beklenen 2412 kelime | duyulan 1913 kelime | eşleşme %12.9
+sayı ifadesi: metinde 196, duyulanda 91  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...not from the enemy
+      metin  : imparator zincirler içinde galip sultanın önüne getirildi ve soruldu sen beni yenseydin ne yapardın verdiği dürüst cevap ve aldığı beklenmedik karşılık bizans ı sahadaki yenilgiden daha ağır yaralayacaktı çünkü romanos u yıkan alparslan olmadı evine döndükten sonra kendi sarayı yıktı baharında selçuklu sultanı alparslan ın aklı anadolu da değil güneyde mısır daydı kahier de hüküm süren fatımi halifeliği bağdat taki abbasi halifesinin koruyucusu olarak yola çıkan sünni selçuklular için asıl rakipti sultanın planı büyüktü önce suriye nin kuzey kapısını tutmak sonra fatımilerin elindeki toprakları adım adım geri almak bu ordusunu urfa üzerinden halep e doğru sürdü urfa nın surları önünde süer oyalandı şehri alamadı ve yürüyüşüne devam etti halep teki mirdasoğulları beyi mahmud kısa direnişten sonra boyun eğdi ve hutbeyi abbasi halifesi ile sultan adına okutmayı kabul etti her şey yolunda gibiydi aynı aylarda binlerce kilometer uzakta konstantinopolis te başka hesap yapılıyordu bizans tahtında den beri romanos diyojen oturuyordu kapadokyalı sert cephe görmüş askerdi tahta eski imparator konstantin dukas ın dul eşi eudokia ile evlenerek çıkmıştı bu evlilik tacı vermişti ama sarayın güçlü dukas ailesinin sevgisini vermemişti ölen imparatorun kardeşi sezar yuhanna dukas ve oğlu mihail romanos u hep geçici vasi tahtı ısıtan yabancı olarak gördüler romanos ize kendini kanıtlamanın tek yolunu doğu sınırında görüyordu yıllardır türkmen akıncıları ermeni ve kapadokya topraklarına giriyor şehirler yağmalanıyor sınır savunması çözülüyordu te ani nin alparslan tarafından alınması bizans için ağır uyarı olmuştu romanos daha önceki seferlerinde başarılar kazanmış taraf arasında ateşkes de yapılmıştı ama mart ında imparator büyük orduyla başkentten çıktı hedefi sınır boyundaki kaleleri geri almak ve türkmen akınlarının önünü kesin olarak kapatmaktı ordunun büyüklüğü hakkında kaynaklar birbirini tutmaz bazı müslüman kronikleri hatta daha fazla askerden söz eder bugünkü tarihçilerin çoğu ize sayıyı ile arasında yeer koyar hangisi doğru olursa olsun bu ordu renkli karışımdı bizans ın kendi alayları ermeni birlikleri frank ve norman paralı askerleri peçenek ve uz atlıları gürcüler ve bulgarlar kağıt üzerinde güçlüydü ama içinde birbirine güvenmeyen pek çok parça vardı romanos un elçileri
+      duyulan: years later years earlier
+  REPLACE  ...un elçileri sultana urfa
+      metin  : civarında ulaştı i mparatorun teklifine göer barışın
+      duyulan: sivaranda ullashta imperatoran teclifineguer barishan
+  REPLACE  ...teklifine göer barışın bedeli
+      metin  : selçukluların sınır bölgesindeki malazgirt gibi kaleleri bırakmasıydı sultanın kulağına bunun barış teklifinden çok
+      duyulan: salchuklularan senerbergesinde ki malasgirtke bekaleler burakhmasidha sultanan kulana bununbir barishteclifindan chokbir
+  REPLACE  ...barış teklifinden çok meydan
+      metin  : okuma gibi geldiği açıktır kısa süer
+      duyulan: okumagibigal diyachiktar kasasuer
+  REPLACE  ...kısa süer sonra halep
+      metin  : civarındayken kesin haberi aldı bizans ordusu
+      duyulan: jivarandai kanchesin haberalda bizan sorduso
+  REPLACE  ...aldı bizans ordusu anadolu
+      metin  : yu geçiyor ve doğuya ilerliyordu alparslan o an zor seçimle karşılaştı mısır seferini sürdürürse arkasında azerbaycan a
+      duyulan: gechuya vedaoye ilarlyorda alp arslan owen zorbir sechimne karshalashta musar seferni surdurur se arkasinda azar bayjana
+  REPLACE  ...arkasında azerbaycan a hatta
+      metin  : i ran ın içlerine
+      duyulan: iranan ichlerne
+  REPLACE  ...ran ın içlerine kadar
+      metin  : açık kapı bırakacaktı
+      duyulan: achak birkapur burakhajakta
+  REPLACE  ...açık kapı bırakacaktı geri
+      metin  : dönerse yılların hazırlığını bırakacaktı döndü ama dönüşü düzenli
+      duyulan: donar seyil larun hazar lune burakhajakta dondu amadunushu duzainni chekhil medeil ajelayleya pulmashpir yuru yusholdu kronik lareguer furat gechilurkan pekchok atvadevesuya kapoldu ordunun medaldu mckendi yurtlerana dondu sultanan vezirin nizamul mulku arluklar labir likta
+  REPLACE  ...ama dönüşü düzenli geri
+      metin  : çekilme değil aceleyle yapılmış yürüyüş oldu kronikleer göer fırat geçilirken pek çok at ve deve suya kapıldı ordunun kısmı dağıldı kısmı kendi yurtlarına döndü sultanın veziri nizamülmülk ü ağırlıklarla birlikte geri gönderdiği kendisinin ize seçme atlı kuvvetle kuzeye azerbaycan a doğru yöneldiği anlatılır i bnü l
+      duyulan: goandar dei kendisin ini se sechme atlu kuvetle kuzeyye azar bayjana doru yoneldi anadolur ibnul
+  REPLACE  ...bnü l esir gibi
+      metin  : müslüman tarihçiler bu sırada sultanın yanında yalnızca kadar atlı bulunduğunu
+      duyulan: muslu mantar ichilar busurada sultanan yananda yanasja ombesh binkadar atlu bulundunu
+  REPLACE  ...kadar atlı bulunduğunu yazar
+      metin  : bu rakam da muhtemelen hikayenin
+      duyulan: burakhamda muftemelen hikayinen
+  REPLACE  ...da muhtemelen hikayenin dramatik
+      metin  : yanını güçlendirmek için küçültülmüştür ama gerçeği yansıtır alparslan
+      duyulan: yanun guchlan dirmekichin kuchultun mushtur amabir garchai yansatur alp arslan
+  REPLACE  ...gerçeği yansıtır alparslan imparatorun
+      metin  : karşısına
+      duyulan: karshasana
+  REPLACE  ...alparslan imparatorun karşısına ordusunun
+      metin  : tamamıyla değil
+      duyulan: tamami iladeel
+  REPLACE  ...ordusunun tamamıyla değil yolda
+      metin  : toplayabildiği kuvvetlerle çıkacaktı kuzeye çıkarken
+      duyulan: topley abildi kuvetle arlechikajakte kuzeyye chikarkan
+  REPLACE  ...çıkacaktı kuzeye çıkarken sultan
+      metin  : kürt beylerinden türkmen obalarından
+      duyulan: kurt beylerindan turkmenobal arindan
+  REPLACE  ...beylerinden türkmen obalarından ve
+      metin  : bölgedeki emirlerden destek topladı yandan da casuslarını
+      duyulan: bulge dekhi emir lairdan deis tek toplade yandanda kasuslerina
+  REPLACE  ...yandan da casuslarını ve
+      metin  : öncülerini
+      duyulan: unjularine
+  REPLACE  ...ve öncülerini bizans ordusunun
+      metin  : yoluna saldı artık
+      duyulan: yolunasalde artek
+  REPLACE  ...yoluna saldı artık ordu
+      metin  : birbirini görmeden
+      duyulan: nighyar medan
+  REPLACE  ...ordu birbirini görmeden van
+      metin  : gölü nün kuzeyindeki yaylalara doğru yaklaşıyordu
+      duyulan: guylunun kuzeyinde ki ayla laradori akplashi ordu
+  REPLACE  ...yaylalara doğru yaklaşıyordu romanos
+      metin  : ordusunu önce sivas üzerinden erzurum a getirdi erzurum da önemli
+      duyulan: ordusunun unja sivasuzerindan erzurumagetirde erzurumda unimlibir
+  REPLACE  ...erzurum da önemli karar
+      metin  : verdi
+      duyulan: verde
+  REPLACE  ...önemli karar verdi ve
+      metin  : bu karar savaşın kaderini belki de meydandan önce belirledi ordusunu ayırdı kendisi kısmıyla malazgirt e yürüyecekti
+      duyulan: bukharar sava sinca deirni belkide medan danunja belirlide ordusunun ayrde kendi sibir kasmeela malasgirte uriajekte
+  REPLACE  ...malazgirt e yürüyecekti ordunun
+      metin  : belki de en iyi birliklerinden oluşan diğer büyük kısmı ize
+      duyulan: belkide eni iberliklerindan olushan diarbyuk kasmeisei
+  REPLACE  ...kısmı ize komutan yosef
+      metin  : tarkaniyotis komutasında
+      duyulan: tarkani otis komuta sunda
+  REPLACE  ...yosef tarkaniyotis komutasında van
+      metin  : gölü nün kuzeybatı kıyısındaki ahlat a gönderildi
+      duyulan: guylunun kuzei batakaei sunda ki ahlata gunderilde
+  REPLACE  ...ahlat a gönderildi norman
+      metin  : paralı askerlerinin başı roussel
+      duyulan: parali escarlerinin bashe russel
+  REPLACE  ...askerlerinin başı roussel de
+      metin  : bailleul
+      duyulan: boyle
+  REPLACE  ...roussel de bailleul de
+      metin  : bu kola katıldı
+      duyulan: bukola katilde
+  REPLACE  ...bu kola katıldı plan
+      metin  : mantıklı görünüyordu
+      duyulan: manta klugur njordu
+  REPLACE  ...plan mantıklı görünüyordu kale
+      metin  : aynı anda alınacak bölge selçuklu garnizonlarından temizlenecek
+      duyulan: aina andalunajak bulge selchuklugarnizonarindan temizlenijek
+  REPLACE  ...selçuklu garnizonlarından temizlenecek sultan
+      metin  : geldiğinde
+      duyulan: galdin de
+  REPLACE  ...temizlenecek sultan geldiğinde ize
+      metin  : karşısında sağlam savunma hattı bulacaktı
+      duyulan: karshesundas alambyasa unmahattabulajakte
+  REPLACE  ...hattı bulacaktı ama romanos
+      metin  : un bilmediği ya da yeterince ciddiye almadığı şey vardı
+      duyulan: unbilmedi yada yeterinjeti almadu bishewarte
+  REPLACE  ...almadığı şey vardı alparslan
+      metin  : sandığından çok daha yakındı i mparator sultanın hala güneyde
+      duyulan: sandindan chokdahaya kendi imperator sultan inhala gunayde
+  REPLACE  ...sultanın hala güneyde belki
+      metin  : mezopotamya da olduğunu düşünüyordu bu yanılgı
+      duyulan: mezopotami ado uldunu dushuni ordu bui anilgu ordusunudat majesaritin onavaran sheyte malusgert kolaydushte kaleideki selchuklugarnizonu imperatorun
+  REPLACE  ...düşünüyordu bu yanılgı ordusunu
+      metin  : dağıtma cesaretini veren şeydi malazgirt kolay düştü kaledeki selçuklu garnizonu imparatorun ordusunu görünce teslim oldu
+      duyulan: guurunje teslimoldu
+  REPLACE  ...görünce teslim oldu romanos
+      metin  : kalenin önünde kamp kurdu
+      duyulan: kalenun de kampkurdu
+  ... ve 144 fark daha
+
+metinde olup DUYULMAYAN: 2132 kelime | duyulup metinde OLMAYAN: 1632
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: history-2026-11-20.duyulan.txt
