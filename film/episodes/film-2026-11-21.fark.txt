@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-21.mp3
+
+beklenen 1965 kelime | duyulan 1967 kelime | eşleşme %95.6
+sayı ifadesi: metinde 230, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...basamaklarında binlerce figüran duruyordu
+      metin  : film
+      duyulan: filmi
+  INSERT   ...kuşattığı adam olarak görüyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yaklaşık saat sürecek ayrı
+      metin  : çağı
+      duyulan: çağ
+  REPLACE  ...and the law yani
+      metin  : anne
+      duyulan: an
+  REPLACE  ...yaşanmıştı delil yetersizliğine rağmen
+      metin  : darağacına
+      duyulan: daracına
+  REPLACE  ...büyük yapının ayağına dönüştü
+      metin  : öteki
+      duyulan: ötte ki
+  INSERT   ...akıyordu hikaye milattan önce
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...isteyen bel marduk rahiplerinin
+      metin  : ihanetiydi
+      duyulan: ihaneti idi
+  REPLACE  ...nın son günlerinde geçiyordu
+      metin  : kana
+      duyulan: kanada
+  REPLACE  ...gidiyordu kraliçe ana katrin
+      metin  : dö medisis in
+      duyulan: dövmedisisin
+  REPLACE  ...büyük kıyım yani sen
+      metin  : bartelemi
+      duyulan: barthelemi
+  REPLACE  ...bağlayan tek görüntü vardı
+      metin  : lillian
+      duyulan: lilian
+  REPLACE  ...fransa bölümü süslü saray
+      metin  : zarifliğiyle
+      duyulan: zarifliyle
+  REPLACE  ...kızı adıyla geçen karakterdi
+      metin  : constance talmadge ın
+      duyulan: konstans talmacic in
+  REPLACE  ...kahkahası bol köylü kızı
+      metin  : belşazar a sırılsıklam
+      duyulan: belşazara sırılsıklama
+  REPLACE  ...götürmek için yola çıkar
+      metin  : talmadge ın
+      duyulan: talmacic in
+  REPLACE  ...anıyordu modern hikayede ize
+      metin  : mae
+      duyulan: my
+  REPLACE  ...genç kadını ve robert
+      metin  : harron ın
+      duyulan: heron un
+  REPLACE  ...gibi göstermek istiyordu oğlan
+      metin  : grevden
+      duyulan: greve den
+  REPLACE  ...de ahlak düzeltmeyi kendine
+      metin  : görev edinmiş
+      duyulan: göer vedinmiş
+  REPLACE  ...olasılıkla i talyan yapımı
+      metin  : kabirya
+      duyulan: cabiria
+  REPLACE  ...pusula noktası haline gelmişti
+      metin  : belşazar
+      duyulan: belshazzar
+  REPLACE  ...ve görüntü yönetmeni billy
+      metin  : bitzer
+      duyulan: beatser
+  REPLACE  ...gibi duygu yaşıyordu bugün
+      metin  : vinç
+      duyulan: win
+  REPLACE  ...adlarını yapacak gençler dolaşıyordu
+      metin  : erih fon ştrohaym
+      duyulan: erich von stroheim
+  REPLACE  ...ve filmde de görünüyordu
+      metin  : tod
+      duyulan: todd
+  REPLACE  ...tod browning ile w
+      metin  : s
+      duyulan: c
+  REPLACE  ...kapılarına dayanan pers orduları
+      metin  : golgota
+      duyulan: golgotha
+  REPLACE  ...in düşüşünü izlerken yandan
+      metin  : oğlan ın darağacına
+      duyulan: oğlanın daracına
+  REPLACE  ...tüm bu karmaşanın sonunda
+      metin  : vaadi
+      duyulan: vadi
+  INSERT   ...için deneme daha yapıldı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...deneme daha yapıldı griffith
+      metin  : babil
+      duyulan: babel
+  REPLACE  ...yasa olarak gösterime girdi
+      metin  : babil
+      duyulan: babel
+  REPLACE  ...fal of babylon yani
+      metin  : babil
+      duyulan: babel
+  REPLACE  ...sahneler yeniden düzenlendi hatta
+      metin  : babil
+      duyulan: babel
+  REPLACE  ...başlarına seyircinin gözünde sıradan
+      metin  : dönem
+      duyulan: dönen
+  REPLACE  ...sırada hollywood un ortasındaki
+      metin  : babil
+      duyulan: babel
+  REPLACE  ...girdi ve yıkıntı söküldü
+      metin  : babil
+      duyulan: babel
+  REPLACE  ...yıkıntı söküldü babil filmdeki
+      metin  : babil
+      duyulan: babel
+  ... ve 11 fark daha
+
+metinde olup DUYULMAYAN: 60 kelime | duyulup metinde OLMAYAN: 68
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: film-2026-11-21.duyulan.txt

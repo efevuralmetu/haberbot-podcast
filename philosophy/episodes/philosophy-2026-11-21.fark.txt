@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-21.mp3
+
+beklenen 2315 kelime | duyulan 2355 kelime | eşleşme %13.4
+sayı ifadesi: metinde 237, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...price of being free
+      metin  : saat gece gösteriyor ev sessiz sokak lambası perdenin kenarından ince çizgi gibi sızıyor hiçbir şey olmadı kimse aramadı kapı çalınmadı kötü haber gelmedi ama göğsünüzün ortasında tanıdık ağırlık var kalbiniz hızlı atıyor zihniniz şeyi arıyor
+      duyulan: it is the most difficult time after time how did you feel when you weer a kid sxious like yor father yor mother never left her in school when you weer young when she was a child when she was a child when it was difficult for her to understand had she been paid so much kalbini zbiraz hizla tuyaar zihni ni zbir shaiya ariyar vebul amiyar yaren ki toplanta mu gechen hafta soile di ni zojumle mi sali ni nisme chojunu zungele jeime dusunjeden utekine atlu yursunuz
+  REPLACE  ...zihniniz şeyi arıyor ve
+      metin  : bulamıyor yarınki toplantı mı geçen hafta söylediğiniz o cümle mi sağlığınız mı çocuğunuzun geleceği mi düşünceden ötekine atlıyorsunuz ve hiçbiri tam olarak sebep değil
+      duyulan: hichbir itam olerak se beptil
+  REPLACE  ...olarak sebep değil bu
+      metin  : misafiri tanıyorsunuz adı
+      duyulan: misafir itan yursunuz ade
+  REPLACE  ...misafiri tanıyorsunuz adı korku
+      metin  : değil adı kaygı i kisini ayırmak ilk bakışta kelime
+      duyulan: dil adi kaiga ayirmak ik bakushta kelima
+  REPLACE  ...bakışta kelime oyunu gibi
+      metin  : görünebilir
+      duyulan: gurne bilir
+  REPLACE  ...oyunu gibi görünebilir ama
+      metin  : aslında her şey
+      duyulan: astun da haar shai
+  REPLACE  ...aslında her şey bu
+      metin  : ayrımla başlar karanlık
+      duyulan: ayrim labashlar karan lik
+  REPLACE  ...ayrımla başlar karanlık sokakta
+      metin  : arkanızdan hızla yaklaşan ayak sesleri duyduğunuzda hissettiğiniz şey
+      duyulan: arkan nizdan hizlayak lashan ayakses liridu yudunuz da hisetiniz shai
+  REPLACE  ...duyduğunuzda hissettiğiniz şey korkudur
+      metin  : korkunun nesnesi vardır ne olduğunu bilirsiniz nerede olduğunu bilirsiniz göer kaçarsınız
+      duyulan: korkunan nesnessa vardar ni oldu nubilir siniz narda oldu nubilir siniz onaguer kachar siniz yadadier nersiniz tehlik gechtin de korkuda gecher kaiga esse boile davran maz nesnessi bulanuktir baazen hichyoktir gelechekte yardeh hennuz olmamushfe belkihi cholmiyejakdi sheyadoruzanir korku shuvarder kaiga yaolursa der ishintu haftarafudashu insandishindakijanalar korku yubizimkadar eebilir belkidahadai seylan eslanagurun gekachar amazaylanan gege uchte gelechek mevsim
+  REPLACE  ...bilirsiniz göer kaçarsınız ya
+      metin  : da direnirsiniz tehlike geçtiğinde korku da geçer kaygı ize böyle davranmaz nesnesi bulanıktır bazen hiç yoktur gelecekte yerde henüz olmamış ve belki hiç olmayacak şeye doğru uzanır korku şu var der kaygı ya olursa der i şin tuhaf tarafı da şu insan dışındaki canlılar korkuyu bizim kadar iyi bilir belki daha da iyi ceylan aslanı görünce kaçar ama ceylanın gece gelecek mevsim yağmur yağmazsa ne olacağını düşünerek uyanık yattığını sanmıyoruz kaygı geleceği hayal edebilen olasılıkları zihninde
+      duyulan: amur yamasan neolajana dushunarek uyanik yatdunasan miuras keaage ghelejei haiale de bilan olasilekhlera zihnin de
+  REPLACE  ...edebilen olasılıkları zihninde evirip
+      metin  : çevirebilen varlığın duygusudur belki
+      duyulan: cevir ebilan warlan duygu sudur belkih
+  REPLACE  ...duygusudur belki de bu
+      metin  : kaygı hakkında konuşmak aslında
+      duyulan: yuzden kaiga hakkanda konushmak aslanda
+  REPLACE  ...hakkında konuşmak aslında insan
+      metin  : hakkında konuşmaktır bugün
+      duyulan: hakkanda konushmaktir bugun
+  REPLACE  ...konuşmaktır bugün bu duygu
+      metin  : her zamankinden daha görünür dünya sağlık örgütü nün tahminlerine göer yılında dünyada
+      duyulan: herzaman kinden dahagurunur dunya salakhurgunun tahminlernegeer ikibinondo kuzilanda dunyada uchuz birmilioni
+  REPLACE  ...göer yılında dünyada insan
+      metin  : kaygı bozukluğuyla yaşıyordu ve
+      duyulan: kaiga bozukluila yashyordu vebu roosali surunarara sanda enyaga nolanid burakam bizebirshey solyur ama asil suru jevaplamyur kei ge neder arisama duzeltil mesigeer kanbir hatama yoksa bizebirshey anatmayeh chalushan dinan mesigeer kanbir sesme
+  REPLACE  ...bozukluğuyla yaşıyordu ve bu
+      metin  : ruh sağlığı sorunları arasında en yaygın olanıydı bu rakam bize şey söylüyor ama asıl soruyu cevaplamıyor kaygı nedir arıza mı düzeltilmesi gereken hata mı yoksa bize şey anlatmaya çalışan dinlenmesi gereken ses mi bu sorunun büyük cevabı var ve bu bölümün başlığı
+      duyulan: surununikib uyuk jevabuvar vebu bulimun bashlu
+  REPLACE  ...bu bölümün başlığı da
+      metin  : onların arasındaki gerilimden doğuyor cevaba göer kaygı
+      duyulan: narasandakigirilim dando uyor jevaba guer kaiga
+  REPLACE  ...cevaba göer kaygı zihnin
+      metin  : bekçisidir
+      duyulan: bekchisidur
+  REPLACE  ...zihnin bekçisidir evrimin bize
+      metin  : armağan ettiği
+      duyulan: arman et dibir
+  REPLACE  ...armağan ettiği alarm sistemi
+      metin  : psikiyatrist
+      duyulan: psychiatrist
+  REPLACE  ...randolph nesse buna duman
+      metin  : dedektörü ilkesi adını verir
+      duyulan: dedektur ilkese adunovirur
+  REPLACE  ...adını verir mutfakta ekmek
+      metin  : yandığında öten dedektör can sıkıcıdır
+      duyulan: yandun da utan dedektur jansukadur
+  REPLACE  ...dedektör can sıkıcıdır ama
+      metin  : gerçek yangında hiç ötmeyen dedektörden
+      duyulan: garchik yangan da hich utman dedektur dan
+  REPLACE  ...ötmeyen dedektörden kat kat
+      metin  : iyidir atalarımız için çalılıktaki her hışırtıyı yırtıcı sanmak
+      duyulan: idur atalaramuzichin chalulukta ki har hushurti ye yurtu jusan mak kachkez boshunat elashlan mak demekte hushurti ye hichunam sememekiseh
+  REPLACE  ...hışırtıyı yırtıcı sanmak kez
+      metin  : boşuna telaşlanmak demekti hışırtıyı hiç önemsememek ize kez yanılmak
+      duyulan: yanal mak
+  REPLACE  ...kez yanılmak ve daha
+      metin  : hiç yanılamamak demekti bu bakışa göer kaygı fazla hassas ayarlanmış ama
+      duyulan: hich yanalama mak demekte puba kezha guer kaiga fazlaha sasa yaarlam mushama
+  REPLACE  ...ayarlanmış ama hayat kurtaran
+      metin  : bekçidir i kinci cevap çok daha derinden gelir
+      duyulan: bekchidur jijevab chokdaha derindangilur
+  REPLACE  ...daha derinden gelir ve
+      metin  : çok daha rahatsız edicidir bu cevaba göer kaygı tehlikenin değil özgürlüğün habercisidir gece
+      duyulan: chokdaha rahat sazedi jidur buchavaba guer kaiga tehli kenin dil ozgirlun haberjisidur geyje uchte
+  REPLACE  ...özgürlüğün habercisidir gece bizi
+      metin  : uyandıran şey dışarıdaki tehdit değil içimizdeki uçsuz bucaksız ihtimaller alanıdır bu cevabı ilk
+      duyulan: uyandran sheydusharda ki tehthit dil ichimizdekye uchtsuz bujaksas ihtimai lera lanadur buchavaba ik
+  REPLACE  ...bu cevabı ilk kez
+      metin  : bütün keskinliğiyle dile getiren kişi yüzyılın ortasında kopenhag sokaklarında yürüyen
+      duyulan: butun kezkin neele dilage terenkishi kuzunju yuzulan ortasinda koppenhak sokakleranda yurian
+  REPLACE  ...kopenhag sokaklarında yürüyen tuhaf
+      metin  : yalnız ve son derece dikkatli adamdı søren kierkegaard yılında
+      duyulan: yalnizwe sonderejedi katlibiradamde seren kirkegaard yulanda
+  REPLACE  ...yılında vigilius haufniensis takma
+      metin  : adıyla ince ama yoğun kitap yayımladı begrebet
+      duyulan: adila inje amayon kitapya yumladu begrabet
+  REPLACE  ...yayımladı begrebet angest yani
+      metin  : kaygı kavramı
+      duyulan: kaiga kavrama
+  REPLACE  ...yani kaygı kavramı takma
+      metin  : ad bile ipucu taşır kabaca kopenhaglı gözcü anlamına gelir kierkegaard sanki kendini bekçi gibi konumlandırıyor
+      duyulan: adbileirir puchutashir kabaja koppenhaglegosja annamuna gilir kirkegaard sankhi kandini bekchigibikonum landryar
+  REPLACE  ...gibi konumlandırıyor insan ruhunun
+      metin  : gece nöbetini tutuyordu kaygı kavramı nın en çok bilinen cümlesi de aynı imgeye yaslanır kierkegaard kaygıyı özgürlüğün baş dönmesi olarak tarif eder ve bunu örnekle açar
+      duyulan: gejenu bitinu tuthiordu kaiga kavramanan enchok bili nandjumne side aini yingei aslanut kirkegaard kaiga yuzgirlun bashdun mesi olaraktari fedat vibunu aneklachar
+  REPLACE  ...bunu örnekle açar derin
+      metin  : uçurumun kenarında
+      duyulan: uchurumun kenaranda
+  REPLACE  ...derin uçurumun kenarında durup
+      metin  : aşağı bakan
+      duyulan: ashabakan
+  REPLACE  ...durup aşağı bakan insan
+      metin  : düşünün başı döner peki bu baş dönmesinin sebebi nedir uçurum mu yoksa insanın gözü mü kierkegaard a göer de eğer aşağı bakmasaydı başı dönmeyecekti uçurum orada ama baş dönmesi bakışın kendisinden doğuyor bu imgeyi daha açalım çünkü günlük hayatta çoğumuzun yaşadığı şeyi tarif ediyor yüksek balkonda ya da köprünün korkuluğunda dururken bazen garip düşünce geçer akıldan ya atlarsam atlamak istemezsiniz tam tersine bu düşünce sizi ürkütür hemen geri çekilirsiniz ama
+      duyulan: dushunun beshidunur peikibu bashdun mesinun sebebineder uchurumu yoxa insanun guzumu kirkegaard agura eir ashabak masaide beshidun mijekti uchurum orda amabashdun mesibakishan kandisindan doyor buimgei birazdaha achalam chunku guhnukhayata chomuzun yashade seyitaer fedyor yuksek birbalkonda yadabir kuperunun korkulu ndadururkan bazan garit dushunja gechara kildan yatlar sam atlamakistemas sines temptur sien boodushunja seziurkutur hemangirichekilir sines amau
+  INSERT   ...geri çekilirsiniz ama o
+      metin  : (yok)
+      duyulan: anhisetiniz sei dushmektankork maktam farkludur sezi sarsan sei atlaya biljek olmanizdur hichbir sein sezi durdur madunne sechimin tamamen seze aitoldunu anlunna farkit menizdur kirkegaard
+  REPLACE  ...çekilirsiniz ama o an
+      metin  : hissettiğiniz şey düşmekten korkmaktan farklıdır sizi sarsan şey atlayabilecek olmanızdır hiçbir şeyin sizi durdurmadığını seçimin tamamen size ait olduğunu anlığına fark etmenizdir kierkegaard ın baş dönmesi tam olarak
+      duyulan: beshdun mesitamolarak
+  ... ve 169 fark daha
+
+metinde olup DUYULMAYAN: 1991 kelime | duyulup metinde OLMAYAN: 2033
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: philosophy-2026-11-21.duyulan.txt

@@ -1,0 +1,79 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-21.mp3
+
+beklenen 1435 kelime | duyulan 1440 kelime | eşleşme %98.2
+sayı ifadesi: metinde 141, duyulanda 126  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...eminiz sabahın erken saati
+      metin  : şikago
+      duyulan: chicago
+  REPLACE  ...erken saati şikago nun
+      metin  : banliyölerinden
+      duyulan: banyolarından
+  REPLACE  ...banliyölerinden şehir merkezine giden
+      metin  : banliyö
+      duyulan: banyo
+  REPLACE  ...de şeyler anlat bu
+      metin  : şikago
+      duyulan: chicago
+  REPLACE  ...nden davranış bilimci nicholas
+      metin  : epley
+      duyulan: eple
+  REPLACE  ...sırada öğrencisi olan juliana
+      metin  : şroder
+      duyulan: schröder
+  INSERT   ...olan juliana şroder in
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yolcuları gruba ayırdı gruptakilerden
+      metin  : yanlarındakiyle
+      duyulan: yanlarındaki ile
+  REPLACE  ...senaryoyu yalnızca hayal ettirdi
+      metin  : yanınızdakiyle
+      duyulan: yanınızdaki ile
+  REPLACE  ...nereden geliyordu epley ve
+      metin  : şroder
+      duyulan: schröder
+  REPLACE  ...farklı düşündüğünü sandığı durum
+      metin  : vagondaki
+      duyulan: wagondaki
+  REPLACE  ...tuğla koydu epley ve
+      metin  : şroder
+      duyulan: schröder
+  REPLACE  ...tabloya katman daha ekledi
+      metin  : erica boothby
+      duyulan: erika butby
+  INSERT   ...sandstrom ve margaret clark
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...zayıf bağlar diyor kavramı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dünyalara bağlayan köprüler granovetter
+      metin  : ın
+      duyulan: in
+  INSERT   ...elizabeth dunn ile birlikte
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hikayeyi birleştirelim epley ve
+      metin  : şroder
+      duyulan: schröder
+  REPLACE  ...yarattığını buradan çıkan tek
+      metin  : içgörü şu
+      duyulan: iç görüşü
+  REPLACE  ...alışkanlık ve yanlış hesap
+      metin  : şikago
+      duyulan: chicago
+  REPLACE  ...belki de yıkmak tek
+      metin  : cümleyle
+      duyulan: cümle ile
+  REPLACE  ...yıkmak tek cümleyle başlıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 20 kelime | duyulup metinde OLMAYAN: 27
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: psikoloji-2026-11-21.duyulan.txt

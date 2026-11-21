@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-21.mp3
+
+beklenen 2677 kelime | duyulan 2703 kelime | eşleşme %96.6
+sayı ifadesi: metinde 367, duyulanda 265  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...gülsüm bu köyde doğdu
+      metin  : doğum
+      duyulan: oğun
+  REPLACE  ...babası şeyh i brahim
+      metin  : es
+      duyulan: s
+  REPLACE  ...beltacı köy camisinin imamıydı
+      metin  : geçimini
+      duyulan: seçimini
+  REPLACE  ...başına yapmıyordu yanında oğlu
+      metin  : halid
+      duyulan: halit
+  REPLACE  ...diğeri genç besteci zekeriya
+      metin  : ahmed di
+      duyulan: ahmet ti
+  REPLACE  ...ama sonunda karar verildi
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...başkent kollarını açarak karşılamayacaktı
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...de belliydi münier el
+      metin  : mehdiyye
+      duyulan: mehdiye
+  REPLACE  ...duruşuna güldüler yanındaki sarıklı
+      metin  : şeyhler
+      duyulan: şehler
+  INSERT   ...şehri dinliyor ve ezberliyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ezberliyordu hayatına şair girdi
+      metin  : ahmed
+      duyulan: ahmet
+  REPLACE  ...yazacaktı aralarındaki bağın sadece
+      metin  : mesleki
+      duyulan: mesteki
+  REPLACE  ...topluluk arap müziğinin geleneksel
+      metin  : takht
+      duyulan: tak
+  REPLACE  ...duyulmamış şeydi münier el
+      metin  : mehdiyye
+      duyulan: mehdiye
+  REPLACE  ...yazılara dönüştüğü olurdu ama
+      metin  : yirmilerin
+      duyulan: lerin
+  INSERT   ...kahier nin dışına taşıyordu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...taşıyordu şam bağdat ve
+      metin  : beyrudu
+      duyulan: beyrut u
+  INSERT   ...olan yeni icattı radyo
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anda aynı sesi dinleyebiliyordu
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...cevabın kısmı arap müziğindeki
+      metin  : tarab
+      duyulan: tarap
+  REPLACE  ...müziğindeki tarab kavramında yatar
+      metin  : tarab
+      duyulan: tarap
+  REPLACE  ...ayrıntının arkasında hastalık vardı
+      metin  : tiroit
+      duyulan: tiroid
+  REPLACE  ...hale getirdi tedavi için
+      metin  : kırkların
+      duyulan: ların
+  REPLACE  ...için kırkların sonunda ve
+      metin  : ellilerin
+      duyulan: lerin
+  INSERT   ...ölümsüzleştirirken sinema de tanıttı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...de tanıttı başrolünü oynadığı
+      metin  : vidad
+      duyulan: vidat
+  INSERT   ...olarak tarihe geçti ardından
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...tarihe geçti ardından kadar
+      metin  : toplam
+      duyulan: toplamaltı
+  REPLACE  ...yanına genç besteci riyad
+      metin  : es sunbati
+      duyulan: s sumbati
+  REPLACE  ...riyad es sunbati katıldı
+      metin  : sunbati
+      duyulan: sumbati
+  INSERT   ...halka yakın ve sıcak
+      metin  : (yok)
+      duyulan: lara
+  REPLACE  ...ize çoğu zaman sadece
+      metin  : sitt
+      duyulan: sit
+  REPLACE  ...köy kızı arap dünyasının
+      metin  : tartışmasız
+      duyulan: tartışması
+  INSERT   ...rüzgarlarına en açık yerdi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...pahalıya mal olacaktı temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...hür subaylar hareketi kral
+      metin  : faruğu
+      duyulan: faru
+  REPLACE  ...önde gelen ismi cemal
+      metin  : abdünnasır
+      duyulan: abdü nasser
+  REPLACE  ...ve ümmü gülsüm le
+      metin  : nasır
+      duyulan: nasser
+  REPLACE  ...yıllarca sürecek yakınlık başladı
+      metin  : nasır
+      duyulan: nasser
+  INSERT   ...sesi olmayı kabul etti
+      metin  : (yok)
+      duyulan: daki
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 73
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: biyografi-2026-11-21.duyulan.txt

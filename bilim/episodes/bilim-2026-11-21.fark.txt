@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-21.mp3
+
+beklenen 1734 kelime | duyulan 1742 kelime | eşleşme %94.4
+sayı ifadesi: metinde 202, duyulanda 138  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tabloyla karşılaştı bölgede yaşayan
+      metin  : hipolimnas
+      duyulan: hippolymnas
+  REPLACE  ...hepsi dişiydi upolu ve
+      metin  : savayi
+      duyulan: savaii
+  REPLACE  ...küçük bakteriydi bakterinin adı
+      metin  : volbakia
+      duyulan: wolbachia
+  INSERT   ...bakterinin adı volbakia hikayesi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...amerika da başlar harvard
+      metin  : da
+      duyulan: ta
+  REPLACE  ...wolbach ile entomolog marshal
+      metin  : hertig
+      duyulan: hurtick
+  REPLACE  ...marshal hertig sıradan ev
+      metin  : sivrisineklerinin
+      duyulan: risineklerinin
+  REPLACE  ...biçimli hücreler fark ettiler
+      metin  : hertig
+      duyulan: hurtick da
+  REPLACE  ...verdi sonraki yarım boyunca
+      metin  : volbakia
+      duyulan: wolbachia
+  REPLACE  ...da listede bu hesapla
+      metin  : volbakia dünya daki
+      duyulan: wolbachia dünyadaki
+  REPLACE  ...sırrı bakterinin yolculuk biçiminde
+      metin  : volbakia
+      duyulan: wolbachia
+  REPLACE  ...asimetriden şaşırtıcı stratejiler çıkarmış
+      metin  : volbakia
+      duyulan: wolbachia
+  REPLACE  ...çıkarmış volbakia nın farklı
+      metin  : suşları
+      duyulan: suçları
+  REPLACE  ...dokunulunca top gibi kıvrılan
+      metin  : tespihböceklerinde volbakia
+      duyulan: tesbih böceklerinde wolbachia
+  INSERT   ...çökmüş durumdadır fransız araştırmacılar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...karşı kullanılan minik trikogramma
+      metin  : eşekarılarının
+      duyulan: eşekarlarının
+  INSERT   ...kızlar doğurur hollandalı araştırmacılar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ama bakteri silaha çevirir
+      metin  : volbakia
+      duyulan: bolbakya
+  REPLACE  ...yeryüzünün yanına yayan asıl
+      metin  : güç de
+      duyulan: güçte
+  REPLACE  ...güç de bu stratejidir
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...sitoplazmasında olduğunu öne sürdü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...denir ve kuralı basittir
+      metin  : volbakia
+      duyulan: volbakya
+  REPLACE  ...nesilde daha kaybeder bakteri
+      metin  : popülasyonda
+      duyulan: popülasyonunda
+  REPLACE  ...neredeyze bütün bireyleer ulaşabilir
+      metin  : mikroskobun
+      duyulan: mikroskopun
+  REPLACE  ...ilk adımda çöker sanki
+      metin  : spermin
+      duyulan: sipermin
+  DELETE   ...bilim insanları onlarca yıl
+      metin  : yanıtı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yanıtı arayıp durdu çünkü
+      metin  : volbakia
+      duyulan: wolbachia
+  INSERT   ...derece zorlaştırıyor kırılma noktası
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yale üniversitesi nden mark
+      metin  : hochstrasser
+      duyulan: hoogstrasser
+  REPLACE  ...bugün genellikle cifa ve
+      metin  : cifb
+      duyulan: cifbe
+  REPLACE  ...ayrıntı bu genlerin adresiydi
+      metin  : cifa
+      duyulan: daccafa
+  REPLACE  ...genlerin adresiydi cifa ve
+      metin  : cifb
+      duyulan: cf
+  REPLACE  ...cifb doğrudan bakterinin kendi
+      metin  : genetik
+      duyulan: cifbek
+  REPLACE  ...virüsün bakterileri enfekte eden
+      metin  : wo
+      duyulan: vvo
+  DELETE   ...hala tartışılıyor görüşe göer
+      metin  : bu zehir ve panzehir sistemi cifb spermde zarar veren protein
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...açık araştırma sorusu benzer
+      metin  : bulmaca
+      duyulan: günce
+  INSERT   ...için de çözülmeye başladı
+      metin  : (yok)
+      duyulan: kiki de
+  REPLACE  ...güvesinde erkek embriyoları öldüren
+      metin  : volbakia
+      duyulan: volbakya
+  REPLACE  ...ölüyor samoa daki kelebeklerin
+      metin  : dramı
+      duyulan: hikayesi
+  INSERT   ...sahiplerinin çaresiz olmadığını gösteriyor
+      metin  : (yok)
+      duyulan: kiki de
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 80 kelime | duyulup metinde OLMAYAN: 89
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: bilim-2026-11-21.duyulan.txt

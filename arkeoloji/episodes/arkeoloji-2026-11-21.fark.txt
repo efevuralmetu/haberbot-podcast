@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-21.mp3
+
+beklenen 3046 kelime | duyulan 3075 kelime | eşleşme %97.0
+sayı ifadesi: metinde 379, duyulanda 288  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...konusunda farklı anlatılar var
+      metin  : gurneli abdurrasul
+      duyulan: gourneli abdurrasoul
+  REPLACE  ...sezon olacağı konuşulmuştu carter
+      metin  : tutankamon
+      duyulan: tutankhamon
+  REPLACE  ...ile birlikte kasım da
+      metin  : luksor
+      duyulan: luxor
+  REPLACE  ...üstünde aranan isim okunuyordu
+      metin  : tutankamon
+      duyulan: tutan camon
+  INSERT   ...beter karmaşa içindeydi ön
+      metin  : (yok)
+      duyulan: ön
+  INSERT   ...koruduğu mühürlü kapıya geldi
+      metin  : (yok)
+      duyulan: donaltı
+  INSERT   ...mühürlü kapıya geldi şubat
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...zatürer eklendi ve nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve nisan yaşında öldü
+      metin  : basın
+      duyulan: bağsın
+  REPLACE  ...özel anlaşmanın dışında bırakıldığı
+      metin  : hikayeye
+      duyulan: hikayeyi
+  INSERT   ...gösterdi carter ın kendisi
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...altüst etti kazı izni
+      metin  : adınaydı
+      duyulan: adına idi
+  REPLACE  ...karşıyaydı servisin başındaki fransız
+      metin  : piyer lako
+      duyulan: pierer lacot
+  REPLACE  ...görüyordu gerilim kışında patladı
+      metin  : lahdin
+      duyulan: lahtin
+  INSERT   ...işine dönmesine izin verildi
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...carter mezara geri döndü
+      metin  : (yok)
+      duyulan: halatlar dayanmıştı
+  REPLACE  ...aceleyle tahsis edildiğini düşünür
+      metin  : tutankamon
+      duyulan: tutankamo nun
+  REPLACE  ...düşünür tutankamon yaklaşık yaşında
+      metin  : mö
+      duyulan: milatöcü
+  REPLACE  ...baktığını kaydetti ahşap yüzeylerde
+      metin  : çekiç
+      duyulan: çekiş
+  REPLACE  ...tabuttaydı tabutun ayak ucu
+      metin  : lahde
+      duyulan: lahte
+  REPLACE  ...talaşlar carter bulduğunda hala
+      metin  : lahdin
+      duyulan: lahtin
+  REPLACE  ...sır eşyaların kime ait
+      metin  : olduğuydu
+      duyulan: olduydu
+  REPLACE  ...un adının kazındığı görülüyordu
+      metin  : altta
+      duyulan: alta
+  INSERT   ...ve kartuşların altındaki izler
+      metin  : (yok)
+      duyulan: donun
+  REPLACE  ...ama mezarın ödünç eşyalarla
+      metin  : devşirmeyle
+      duyulan: devşirme ile
+  REPLACE  ...duvarında bunun cevabı resmedilmişti
+      metin  : ölen
+      duyulan: i lalen
+  REPLACE  ...tahta çıkacak olan kişi
+      metin  : ölen
+      duyulan: ölülen
+  REPLACE  ...inceledi sonuç şaşırtıcıydı lekeler
+      metin  : mikrobiyal
+      duyulan: mikrobial
+  REPLACE  ...sureti babası olduğu düşünülen
+      metin  : akhenaton
+      duyulan: akenaton
+  INSERT   ...yaklaşık yıl sürdü kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dibine yapıştırmıştı anatomist douglas
+      metin  : derry
+      duyulan: darry
+  REPLACE  ...ilk incelemeden kalmadır sonraki
+      metin  : onyıllarda
+      duyulan: yıllarda
+  REPLACE  ...onyıllarda mumya gelişen her
+      metin  : teknolojiyle
+      duyulan: teknoloji ile
+  INSERT   ...her teknolojiyle yeniden incelendi
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...teorisinin doğmasına yol açtı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...etti asıl kırılma noktası
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kırılma noktası geldi zahi
+      metin  : havas
+      duyulan: hawass
+  REPLACE  ...dergisinde tutankamon ve amarna
+      metin  : dönemiyle
+      duyulan: dönemi ile
+  REPLACE  ...bulunan ve büyük ihtimalle
+      metin  : akhenaton
+      duyulan: akenaton
+  INSERT   ...kız bebeğin mumyası vardı
+      metin  : (yok)
+      duyulan: kiki daki
+  ... ve 16 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: arkeoloji-2026-11-21.duyulan.txt

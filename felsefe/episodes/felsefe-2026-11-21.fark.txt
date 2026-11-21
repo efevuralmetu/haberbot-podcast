@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-21.mp3
+
+beklenen 2314 kelime | duyulan 2315 kelime | eşleşme %96.9
+sayı ifadesi: metinde 272, duyulanda 243  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...gece
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...olmanın faturası yıl önce
+      metin  : belh te
+      duyulan: belhete
+  INSERT   ...terbiye edilebilir saat gece
+      metin  : (yok)
+      duyulan: ü
+  INSERT   ...kaçar ama ceylanın gece
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...armağan ettiği alarm sistemi
+      metin  : psikiyatrist
+      duyulan: pesikiyatrist
+  INSERT   ...değil özgürlüğün habercisidir gece
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...getiren kişi yüzyılın ortasında
+      metin  : kopenhag
+      duyulan: copenhak
+  REPLACE  ...derece dikkatli adamdı sören
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...sören kirkegor yılında vigilius
+      metin  : haufniensis
+      duyulan: havfniensis
+  REPLACE  ...bile ipucu taşır kabaca
+      metin  : kopenhaglı
+      duyulan: copenhaklı
+  REPLACE  ...kopenhaglı gözcü anlamına gelir
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...de aynı imgeye yaslanır
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...yoksa insanın gözü mü
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...olduğunu anlığına fark etmenizdir
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...yapabilir olmanın verdiği sarsıntı
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...masumiyet halindeki insan henüz
+      metin  : iyiyi
+      duyulan: iyi
+  REPLACE  ...buradan çıkan sonuç çarpıcıdır
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...yaşanmamış hayatları geride bırakır
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...değil özgürlüğün kendi bedelidir
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...okuyanlardan almanya da martin
+      metin  : haydegır
+      duyulan: heidegger
+  REPLACE  ...da martin haydegır di
+      metin  : haydegır
+      duyulan: heidegger de
+  REPLACE  ...haydegır di haydegır yayımladığı
+      metin  : zayn unt tsayt
+      duyulan: sein und zeit
+  REPLACE  ...meselesini ele aldığında dipnotta
+      metin  : kirkegor
+      duyulan: kierkegaard
+  REPLACE  ...düşünür olduğunu kabul eder
+      metin  : haydegır
+      duyulan: heidegger
+  REPLACE  ...ve hiçbir şeyden gelir
+      metin  : haydegır in
+      duyulan: heidegger ın
+  REPLACE  ...sanki zemin ayağınızın kayar
+      metin  : haydegır
+      duyulan: heidegger
+  REPLACE  ...bu neden önemli çünkü
+      metin  : haydegır
+      duyulan: heidegger
+  REPLACE  ...kaygı hastalık değil uyanıştır
+      metin  : kirkegor
+      duyulan: kierkegår
+  REPLACE  ...da özgürlüğün kapısını aralar
+      metin  : haydegır
+      duyulan: heidegger
+  REPLACE  ...ister ve bu ihtiyaca
+      metin  : kirkegor
+      duyulan: kierkegår
+  REPLACE  ...ile yılları arasında yaşadı
+      metin  : coğrafyacıydı
+      duyulan: goğrafyacıydı
+  REPLACE  ...yazmasıydı bu eserin adı
+      metin  : mesalihu
+      duyulan: mesalihü
+  REPLACE  ...ruhun sağlığı kitabın bilinen
+      metin  : nüshası
+      duyulan: nüşası
+  REPLACE  ...kadar ciddiye almaktı kitabını
+      metin  : kısma
+      duyulan: kısmı
+  REPLACE  ...belhi nin başka önemli
+      metin  : gözlemi
+      duyulan: gözleme
+  REPLACE  ...ağırlık şimdi belhi yi
+      metin  : kirkegor
+      duyulan: kierkegor
+  REPLACE  ...belhi yi kirkegor ve
+      metin  : haydegır in
+      duyulan: heidegger ın
+  REPLACE  ...bize nefes almayı öğretiyor
+      metin  : kirkegor
+      duyulan: kierkegor
+  REPLACE  ...almayı öğretiyor kirkegor ve
+      metin  : haydegır
+      duyulan: heidegger
+  INSERT   ...soru rus yazar dostoyevski
+      metin  : (yok)
+      duyulan: te
+  ... ve 7 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 54
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: felsefe-2026-11-21.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-21.mp3
+
+beklenen 1910 kelime | duyulan 1925 kelime | eşleşme %91.7
+sayı ifadesi: metinde 259, duyulanda 156  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : lizbon
+      duyulan: te lisbon
+  REPLACE  ...sahnesinde yaşayan dil bu
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...doğru tırmanır ve en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...bulutlar ve güvercin görünür
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...olarak budur portekizcede ruinas
+      metin  : di sau paulu
+      duyulan: de são paulo
+  REPLACE  ...sau paulu yani aziz
+      metin  : pavlus
+      duyulan: paulus
+  REPLACE  ...batı tarzı üniversitelerinden sayılan
+      metin  : kolej
+      duyulan: koleş
+  INSERT   ...kolej kurdular i nşaat
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...nşaat başladı taş cephe
+      metin  : (yok)
+      duyulan: lara
+  REPLACE  ...genellikle i talyan cizvit
+      metin  : karlo spinola
+      duyulan: carlos spinoza
+  REPLACE  ...barok dili asya nın
+      metin  : harfleriyle
+      duyulan: harfleri ile
+  REPLACE  ...asya nın harfleriyle konuşur
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...tapınağın önündeki koya yerliler
+      metin  : a ma gau
+      duyulan: amagao
+  REPLACE  ...portekiz kulağında bu ses
+      metin  : makau
+      duyulan: macao
+  REPLACE  ...taşıyan büyük gemiye japonlar
+      metin  : kurofune
+      duyulan: kurofüne
+  REPLACE  ...her yıl goa dan
+      metin  : malakka
+      duyulan: malacca
+  REPLACE  ...dan malakka ya oradan
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...zincirin en kıymetli halkasıydı
+      metin  : makao
+      duyulan: macao
+  INSERT   ...başkalarının da gözünü çekti
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yaptı savunmayı kilisenin hemen
+      metin  : bitişiğindeki
+      duyulan: bitişindeki
+  REPLACE  ...üstlendi ve saldırı püskürtüldü
+      metin  : makao
+      duyulan: macao
+  INSERT   ...sonra rüzgar döndü japonya
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nagasaki ye demir atmadı
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...yükseldi ve derin limanıyla
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...sürede geride bıraktı portekiz
+      metin  : kırklarda
+      duyulan: larda
+  INSERT   ...e kira ödemeyi bıraktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ülke arasında imzalanan antlaşmayla
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...kazancı ekonomik dirilişe dönüşmedi
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...unutulmuş liman kentine dönüştü
+      metin  : cephenin
+      duyulan: cefenin
+  REPLACE  ...cephenin kaderi de bu
+      metin  : sessizleşmeyle
+      duyulan: sessizleşme ile
+  REPLACE  ...merdivenler kaldı garip olan
+      metin  : şu ki makao
+      duyulan: shuki macao
+  REPLACE  ...dalgalı siyah beyaz taş
+      metin  : döşemeleriyle
+      duyulan: döşemeleri ile
+  INSERT   ...tapınaklarından tütsü dumanı yükselir
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...tütsü dumanı yükselir unesco
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...insanlara işlendi portekiz gemileri
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...gemileri makao ya yalnızca
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...dan gelmiyordu goa dan
+      metin  : malakka
+      duyulan: malakya
+  REPLACE  ...olan topluluk doğdu kendilerine
+      metin  : makaenze
+      duyulan: macaense
+  REPLACE  ...doğdu kendilerine makaenze yani
+      metin  : makaolu
+      duyulan: macaulu
+  REPLACE  ...kendi dillerine bazen sadece
+      metin  : papiyasaun
+      duyulan: papia saun
+  ... ve 72 fark daha
+
+metinde olup DUYULMAYAN: 117 kelime | duyulup metinde OLMAYAN: 146
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: seyahat-2026-11-21.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-21.mp3
+
+beklenen 1684 kelime | duyulan 1720 kelime | eşleşme %94.4
+sayı ifadesi: metinde 304, duyulanda 187  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : romanı
+      duyulan: romamı
+  REPLACE  ...yargılandı kendisi askeri cezaevinin
+      metin  : koğuşuna
+      duyulan: kovuşuna
+  INSERT   ...hiçbir aşamada bırakmadı ankara
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...bırakmadı ankara kızılay dan
+      metin  : yenişehir e
+      duyulan: yeni şehier
+  INSERT   ...adı sevgi yenen eylül
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...babası mithat yenen kökleri
+      metin  : selaniğe
+      duyulan: selaniye
+  REPLACE  ...işlerinde çalışan bürokrat annesi
+      metin  : anelize rup
+      duyulan: annelis rupp
+  REPLACE  ...karşımıza çıkacak türkiye ye
+      metin  : dışarıdan
+      duyulan: dışardan
+  DELETE   ...türkiye ye dışarıdan bakan
+      metin  : ile
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...üniversitesi dil ve tarih
+      metin  : coğrafya
+      duyulan: koğrafya
+  INSERT   ...kadar düzenli ilerlemiyor henüz
+      metin  : (yok)
+      duyulan: li
+  INSERT   ...türkiye ye dönüyor ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...üniversite diplomasını ize ancak
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...da önemlisi ses arıyor
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...yazmak i lk kitabı
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...özdemir nutku ile evliliği
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ülke ize hızla değişiyor
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...kimliğini asıl kuran kitap
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuran kitap geliyor tante
+      metin  : roza
+      duyulan: rosa
+  REPLACE  ...kitap olmuş kitabın merkezinde
+      metin  : roza
+      duyulan: rosa
+  REPLACE  ...çocukluğundan yaşlılığına kadar izliyoruz
+      metin  : roza
+      duyulan: rosa
+  REPLACE  ...açık biçimde edebiyata dönüşüyor
+      metin  : roza
+      duyulan: rosa
+  REPLACE  ...nin kendi inadı ama
+      metin  : roza
+      duyulan: rosa
+  INSERT   ...müstehcenlik gerekçesiyle toplatılıyor haziran
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...yıl sürecek roman ancak
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yasağın tarihi tesadüf değil
+      metin  : (yok)
+      duyulan: net yok ya ki
+  INSERT   ...tarihi tesadüf değil mart
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bölge komutanlığı nın kadınlar
+      metin  : koğuşunda
+      duyulan: kovuşunda
+  REPLACE  ...kadınlar koğuşunda ay geçirecek
+      metin  : koğuşun
+      duyulan: kovuşun
+  REPLACE  ...küçük aynası gibi aynı
+      metin  : koğuşta
+      duyulan: kovuşta
+  INSERT   ...gözlüyor sonradan bu gözlemler
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yayımlanacak yıldırım bölge kadınlar
+      metin  : koğuşu
+      duyulan: kovuşu
+  DELETE   ...soysal ın ironisi orada
+      metin  : da
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ironisi orada da kaybolmuyor
+      metin  : koğuştaki
+      duyulan: kovuştaki
+  INSERT   ...tanışıyor i ki tutuklu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...burada buluyor sevgi soysal
+      metin  : koğuşun
+      duyulan: kovuş un
+  REPLACE  ...ankara nın orta sınıfını
+      metin  : yenişehir in
+      duyulan: yeni şehrin
+  INSERT   ...kuruyor bu çalışmanın ürünü
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...panorama çiziyor bu roman
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çevriliyor sevgi soysal sürgün
+      metin  : cezasıyla
+      duyulan: cezası ile
+  ... ve 25 fark daha
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 77
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: edebiyat-2026-11-21.duyulan.txt

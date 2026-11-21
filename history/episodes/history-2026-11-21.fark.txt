@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-21.mp3
+
+beklenen 2503 kelime | duyulan 2624 kelime | eşleşme %12.7
+sayı ifadesi: metinde 255, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...theer along hundreds of
+      metin  : kilometres
+      duyulan: kilometers
+  REPLACE  ...of kilometres of front
+      metin  : yılının ilk aylarında tennessee deki forrest kampı nda kurulan yeni birliğin kışlalarında tuhaf manzara vardı ranzaların başında tüfeklerin yanında eskiz defterleri suluboya kutuları ve kalem ucu kutuları duruyordu akşam talimden dönen askerlerin kısmı kartlarını değil fırçalarını eline alıyordu birbirlerine taktik değil ışık ve gölge anlatıyorlardı bu birliğin resmi adı karargah özel birlikleri ydi tarihe ize başka adla geçecekti hayalet ordu ocak te resmen kuruldu ve başına albay harry reeder getirildi hepsi birlikte yaklaşık kişiydiler kağıt üzerinde küçük karargah birliğiydiler ama görevleri sayılarının katı büyüklükteki orduları taklit etmekti fikrin arkasında avrupa daki amerikan kara kuvvetlerinin planlama kadrosu vardı bu kadronun içinde savaştan önce gazete yayıncılığı yapmış ralph ingersol gibi adlar bulunuyordu mantık basitti ama cüretkardı düşmanı tek büyük yalanla değil cephe boyunca tekrar tekrar kurulan küçük inandırıcı ve geçici yalanlarla kandıracak gezici aldatmaca birliğin omurgası i stihkam kamuflaj taburu ydu bu tabur savaşın başından beri kamuflaj işi için özellikle sanat dünyasından adam topluyordu
+      duyulan: after the war the soldiers of that battalion would show their paintings in
+  REPLACE  ...adam topluyordu new york
+      metin  : un ve philadelphia nın sanat okullarından ressamlar heykeltıraşlar grafikerler mimarlık öğrencileri reklam ajanslarında çalışan çizerler buraya geldi ordunun mantığı açıktı tankı uzaktan göründüğü gibi
+      duyulan: galleries and find fashion houses their mission was to play an army that wasn t theer along hundreds of kilometers of front their mission was to play an army that wasn t theer along hundreds of kilometers of front after the war the soldiers of that battalion would show their paintings in new york galleries and find fashion houses their mission was to play an army that wasn t theer along hundreds of kilometers of front their mission was to play an army that wasn t theer along hundreds of kilometers of front i would like to remind you that thanks to the support of
+  REPLACE  ...uzaktan göründüğü gibi kim
+      metin  : kurabilir gölgenin havadan nasıl okunacağını kim bilir elbette resim okulunda yıllarını perspektif ve renk çalışarak geçirmiş bu taburdan çıkacak isimlerin bazıları sonra sanat tarihinin kitaplarına girecekti ama te hepsi rütbesiz ya da düşük rütbeli çoğu yaşlarının başında gençlerdi tabur yalnız değildi ayrıca ses aldatmacası için
+      duyulan: kurabil we wil be able to support the city of havergan to this day in this year s meeting the city of hapsee has developed a very important relationship with the city of khmer tabar yal nuz diyildeh liye iruja seh saldat majaseh ichin
+  REPLACE  ...ses aldatmacası için kurulan
+      metin  : i kinci muhabeer hizmet bölüğü telsiz aldatmacası için özel muhabeer bölüğü ve güvenliği sağlamak üzeer i stihkam muharebe bölüğü bağlandı
+      duyulan: uch yuz ji moha beer hismet belu teh seh saldat majaseh ichin uzal moha beer belu vegu ani salama kuzeer dirt yuz altun ji istikh yam moha rebe belu balan deh
+  REPLACE  ...ordu tek numaradan ibaret
+      metin  : değildi göze kulağa
+      duyulan: diyildeh geze kula ave dushmanan dinne mejihazlerana ainaan da seslanan katman labir sahneh dozenidhe sanat chilaran yananda muhandisler teh sizjilar vegirchek moha rebeh askar liruarde
+  REPLACE  ...değildi göze kulağa ve
+      metin  : düşmanın dinleme cihazlarına aynı anda seslenen katmanlı sahne düzeniydi sanatçıların yanında mühendisler telsizciler ve gerçek muharebe askerleri vardı ve hepsine aynı
+      duyulan: hepcinaan
+  REPLACE  ...ve hepsine aynı kural
+      metin  : öğretildi hakkında hiçbir şey anlatılmayacak aileye yazılan mektuplarda bile kurulduktan kısa süer sonra
+      duyulan: oier tilde likhak kanda hich seh anatil mijak ay lae yazulan mek tuplardabile kurul duktan kasabir suresonra likh
+  REPLACE  ...süer sonra new york
+      metin  : eyaletinin kuzeyindeki kampta eğitime alındı ardından baharında i ngilteer ye geçtiler shakespeaer
+      duyulan: ayaletinin kuze inde kirbir kamta ayitme alan deh ardenden dirt baharanda ingil teriye gechtilar shakespearean dodu kasabanan yakan naran dakir malikan enin chevresin ei arlishtiridilar normandia cakarmasan en yaklashtugun nardeh ingil terinin heryana askar arachve jefan e doludu bukalabalun ichinde yirmu chunju kararga uzal liklirin
+  REPLACE  ...ye geçtiler shakespeaer in
+      metin  : doğduğu kasabanın yakınlarındaki malikanenin çevresine yerleştirildiler normandiya çıkarmasının yaklaştığı günlerdi i ngilteer nin her yanı asker araç
+      duyulan: varlun dan habir olan chokaski shivardeh onlarin jepan e sebashkaideh
+  REPLACE  ...yanı asker araç ve
+      metin  : cephane doluydu bu kalabalığın içinde karargah özel birlikleri nin varlığından haberi olan çok az kişi vardı onların cephanesi başkaydı ve o cephaneyi tanımak
+      duyulan: osefanei itan amak
+  REPLACE  ...tanımak hayalet ordu nun
+      metin  : nasıl savaştığını anlamanın ilk adımıydı
+      duyulan: nasil savashtuna annamanan ilkadumidhe
+  REPLACE  ...anlamanın ilk adımıydı sherman
+      metin  : tankı yaklaşık ton ağırlığındaydı
+      duyulan: tanke yaklashik otustana arlun daide
+  REPLACE  ...hayalet ordu nun sherman
+      metin  : ı ize katlandığında askerin sırtında taşınabilecek çantaya sığıyordu kauçuk kaplı kumaştan yapılmış içi hava ile şişirilen bu taklit
+      duyulan: aize katlandun deh biraskirin surtanda tashina bilejek birchanta yasu yordu kauchuk kaplu kumashtanya palmush icha havaile shishirilan butaklit
+  REPLACE  ...şişirilen bu taklit tanklar
+      metin  : yaklaşık kilo geliyordu kompresörle ya da gerekirse
+      duyulan: yaklashik kirkilogel yordu kompresurli adageer kirse
+  REPLACE  ...ya da gerekirse elle
+      metin  : pompalanarak dakikalar içinde ayağa kalkıyorlardı amerikan
+      duyulan: pom palanarakta ki kalarichinda ayah kalkuyor lardeh emur kyan
+  REPLACE  ...ayağa kalkıyorlardı amerikan lastik
+      metin  : şirketleri savaş boyunca bunlardan
+      duyulan: shirkitleer savashpoyun jabun nardan
+  REPLACE  ...boyunca bunlardan tanklar kamyonlar
+      metin  : cipler
+      duyulan: jiplar
+  REPLACE  ...tanklar kamyonlar cipler toplar
+      metin  : ve hatta uçaklar üretti gece içinde boş
+      duyulan: vehatta uchaklar urette gejei cinde bosh
+  REPLACE  ...gece içinde boş tarlaya
+      metin  : bütün zırhlı tabur yerleştirilebiliyordu ama işin sırrı yalnızca şişirmekte değildi sanatçı gözü burada devreye giriyordu gerçek tank hiçbir
+      duyulan: butun litabur yalishtirile bilejordu eima ishinsur yalnazjashishir mekte dehilde sanat chugozuburada devreyegi ryordu gerchek tanke bilei hich
+  REPLACE  ...gerçek tank hiçbir zaman
+      metin  : tanklarını açıkta düzgün sıralar
+      duyulan: tanke lerena achukta dusgun suralar
+  REPLACE  ...açıkta düzgün sıralar halinde
+      metin  : bırakmazdı ağaçların çeker üstlerini
+      duyulan: burakmazde achleran altana chekar yuslerine
+  REPLACE  ...ağaçların çeker üstlerini kamuflaj
+      metin  : ağlarıyla örterdi i şte
+      duyulan: alar ila urtarde ishte
+  REPLACE  ...hayalet ordu da sahte
+      metin  : tanklarını
+      duyulan: tanke lerna tamboy le sakhlyordu kusurlu bishikilde an kashesi achik kalmalu namnunu nujugurun melide dushman ke shifu chanda ke gozlemje egizlemi shama
+  REPLACE  ...da sahte tanklarını tam
+      metin  : böyle saklıyordu kusurlu şekilde ağın köşesi açık kalmalı namlunun ucu görünmeliydi düşman keşif uçağındaki gözlemci iyi gizlenmiş ama tam gizlenememiş gördüğüne inanmalıydı gizlenme ne
+      duyulan: gizdenememishbir bili gurdun enan melide gizlainna
+  REPLACE  ...inanmalıydı gizlenme ne kadar
+      metin  : mükemmel olursa o kadar az şey görülürdü
+      duyulan: mu ke melulursa okadar azshey gurdu
+  REPLACE  ...görülürdü sahnenin kendisi kadar
+      metin  : sahnedeki küçük hata
+      duyulan: sahnede ke kuchukata ada he saplanmishte erentalar bunun ladabitmi urdu tankler yerizburakurde gerchek bulldozer yada kacz gerchek arach gejeboyun jatar ladaturtulizder olu sturmakichingi dipgelyurdu sate topchubatari alernan yananda havadambakildun
+  REPLACE  ...sahnedeki küçük hata da
+      metin  : hesaplanmıştı ayrıntılar bununla da bitmiyordu tanklar yeer iz bırakırdı gerçek buldozer ya da gerçek araç gece boyunca tarlada tırtıl izleri oluşturmak için gidip geliyordu sahte topçu bataryalarının yanında havadan bakıldığında gerçek mevzi gibi görünecek şekilde toprak yığınları patikalar ve çöp alanları düzenleniyordu birliğin yerde günlerdir konakladığını gösteren her işaret
+      duyulan: gerchek meivzi gibigurun ijeksekilde toprakiyunar patikalarve chöpalanar dusannenu urdu de gunar der konakladun geusteren herisharet
+  REPLACE  ...gösteren her işaret yani
+      metin  : mutfak ateşi çamaşır ipi yolların kenarındaki trafik levhaları
+      duyulan: mutfakatishi chamashiripi yolaren kenaranda kitrafik levhaleru
+  REPLACE  ...trafik levhaları tek tek
+      metin  : yeniden yaratılıyordu göz bu
+      duyulan: yeni dan yaratul yordu gezbu
+  REPLACE  ...yaratılıyordu göz bu oyunun
+      metin  : yalnızca parçasıydı asıl şaşırtıcı silah
+      duyulan: yalnuz jebi parchasida asil shashirte jesilah
+  REPLACE  ...asıl şaşırtıcı silah sesti
+      metin  : i kinci
+      duyulan: uch yuzo tuzi kinji
+  REPLACE  ...i kinci muhabeer hizmet
+      metin  : bölüğü savaştan önce bel laboratuvarları
+      duyulan: bilu savashtanun jebel laboratuarlar
+  REPLACE  ...önce bel laboratuvarları gibi
+      metin  : kurumlarla iş içinde geliştirilmiş sistem kullanıyordu kentucky deki
+      duyulan: kurumlar la ishbir lii cindegelishtir almishbir sistamkulan yordu kintakideki
+  REPLACE  ...kullanıyordu kentucky deki fort
+      metin  : knox ta gerçek zırhlı birliklerin sesleri kaydedilmişti tankların motorları tırtılların gıcırtısı köprü kuran istihkamcıların çekiç sesleri bağrışan askerler geri geri park eden kamyonlar
+      duyulan: naksta gerchek zirhlibir likderin sestiri kaidedil mishte tanklaren motorlaer tirtullaren gujartusse köprükuran istikh kyamjalaren cekic sestier barishanaskarlar giri giri parkedankam yonlar
+  REPLACE  ...park eden kamyonlar bu
+      metin  : kayıtlar dönemin teknolojisi
+      duyulan: kayit lardun emin technologiso
+  REPLACE  ...dönemin teknolojisi olan tel
+      metin  : kayıt cihazlarına aktarılıyordu
+      duyulan: kayit jihazlar naakter liordu ucihazlar ses kaidanin jebir celik tel uzerne maayetik olarak ishliordu kayitlar rastgelechalun miordu es esekibi tupkibir radiotiatro sugibi hergege i cinbir senario hazer liordu wens uzaktan komvoyun yaklashmasu sona yavashleyan motorlaer ardun dan parkedan arachlar gegeyar sonadoru tamir sestier sabahakarsu yenidan chellishtir lan motorlaer
+  REPLACE  ...kayıt cihazlarına aktarılıyordu bu
+      metin  : cihazlar ses kaydını ince çelik tel üzerine manyetik olarak işliyordu kayıtlar rastgele çalınmıyordu ses ekibi tıpkı radyo tiyatrosu gibi her gece için senaryo hazırlıyordu önce uzaktan konvoyun yaklaşması sonra yavaşlayan motorlar ardından park eden araçlar gece yarısına doğru tamir sesleri sabaha karşı yeniden çalıştırılan motorlar bu sesler yarım tonluk dev hoparlörlerle yarı paletli araçların üzerinden yayılıyordu
+      duyulan: seslar yerum ton nukdev hoparlar lerle yerupalet le arachlarun uzerin dan yei liordu
+  REPLACE  ...üzerinden yayılıyordu uygun hava
+      metin  : koşullarında
+      duyulan: koshullaren da yermidor
+  REPLACE  ...hava koşullarında kilometer uzaktan
+      metin  : duyulabiliyorlardı karanlıkta düşman siperlerindeki nöbetçi ufkun ötesinde bütün tümenin yer değiştirdiğini kulaklarıyla duyuyordu gerçekte orada sadece kamyon
+      duyulan: du yulabilior lardu karan lukta dushman sipar lerinde kibir nobechi ufkunote sin debutun tu menin yerde istirdi nukulaklari lardu yordu gerchekte yorda saade je kachkamyon
+  ... ve 145 fark daha
+
+metinde olup DUYULMAYAN: 2174 kelime | duyulup metinde OLMAYAN: 2295
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-11-21.duyulan.txt
