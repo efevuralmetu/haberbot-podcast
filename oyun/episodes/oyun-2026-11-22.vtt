@@ -1,0 +1,749 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.370
+Düşünün, aynı karakteri aynı anda yüz bin kişi yönetiyor ve her biri farklı bir tuşa basıyor.
+
+2
+00:00:06.370 --> 00:00:16.260
+Karakter bir çıkıntıdan saatlerce atlayıp duruyor, en sevilen Pokémon'lar bir dakika içinde yanlışlıkla salıveriliyor, bir fosil de tanrı ilan ediliyor.
+
+3
+00:00:16.260 --> 00:00:19.270
+Yine de bu kaos bir gün oyunu bitiriyor.
+
+4
+00:00:27.470 --> 00:00:32.240
+Şubat 2014'ün ortasında, sıradan bir çarşamba gecesi.
+
+5
+00:00:32.240 --> 00:00:35.890
+Oyun yayın platformu Twitch'te yeni bir kanal açılıyor.
+
+6
+00:00:35.890 --> 00:00:44.180
+Ekranda tanıdık bir görüntü var: küçük bir kasaba, ortasında yeşil çatılı bir ev, kapının önünde kasketli bir çocuk.
+
+7
+00:00:44.180 --> 00:00:51.030
+Bu, 1996'da Japonya'da çıkan, iki yıl sonra da Batı'ya ulaşan bir oyunun İngilizce sürümü.
+
+8
+00:00:51.030 --> 00:00:54.360
+Adı Pokémon Red, yani Pokémon Kırmızı.
+
+9
+00:00:54.360 --> 00:01:03.610
+Milyonlarca çocuğun ilk Game Boy anısı olan, cep canavarlarını yakalayıp eğittiğiniz, rozet toplayıp ligin şampiyonu olmaya çalıştığınız o klasik.
+
+10
+00:01:03.610 --> 00:01:07.100
+Ekranın sağında bir sohbet penceresi akıyor.
+
+11
+00:01:07.100 --> 00:01:11.710
+İlk bakışta olağan bir yayın gibi duruyor ama oyunu oynayan biri yok.
+
+12
+00:01:11.710 --> 00:01:14.720
+Ne bir oyuncu ne bir kumandayı tutan el.
+
+13
+00:01:14.720 --> 00:01:18.530
+Karakteri sohbet penceresine yazılan kelimeler yönetiyor.
+
+14
+00:01:18.530 --> 00:01:22.500
+Biri "up" yazıyor, karakter bir adım yukarı gidiyor.
+
+15
+00:01:22.500 --> 00:01:26.470
+Biri "a" yazıyor, karakter önündekiyle konuşuyor.
+
+16
+00:01:26.470 --> 00:01:30.920
+"Left", "right", "down", "b", "start", "select".
+
+17
+00:01:30.920 --> 00:01:38.730
+Game Boy'un sekiz tuşunun her biri bir kelimeye karşılık geliyor ve sohbete kim ne yazarsa oyuna o tuş basılıyor.
+
+18
+00:01:38.730 --> 00:01:42.700
+Kanalı açan kişi kim olduğunu hiçbir zaman açıklamadı.
+
+19
+00:01:42.700 --> 00:01:48.910
+Basına verdiği birkaç röportajda yalnızca Avustralyalı bir programcı olduğu biliniyordu.
+
+20
+00:01:48.910 --> 00:02:01.520
+Yaptığı şey teknik olarak çok karmaşık değildi: bir bilgisayarda oyunu bir emülatörle çalıştırmış, sohbet mesajlarını okuyan küçük bir program yazmış ve bu programı tuş basışlarına bağlamıştı.
+
+21
+00:02:01.520 --> 00:02:05.650
+Kendi anlatımına göre bunu bir sosyal deney olarak düşünmüştü.
+
+22
+00:02:05.650 --> 00:02:11.060
+Kaç kişinin katılacağını, bir sonuca varılıp varılamayacağını o da bilmiyordu.
+
+23
+00:02:11.060 --> 00:02:16.790
+İlk saatlerde izleyici sayısı küçüktü ve karakter kasabada amaçsızca dolanıyordu.
+
+24
+00:02:16.790 --> 00:02:21.560
+Ama birkaç gün içinde kanal Twitch'in en çok izlenenleri arasına girdi.
+
+25
+00:02:21.560 --> 00:02:26.170
+Haber sitelerinden sosyal medyaya, oradan da forumlara yayıldı.
+
+26
+00:02:26.170 --> 00:02:31.260
+Bir noktada aynı anda izleyen kişi sayısı 121 bini buldu.
+
+27
+00:02:31.260 --> 00:02:36.670
+Bunların önemli bir kısmı yalnızca izlemiyor, aynı anda tuşlara da basıyordu.
+
+28
+00:02:36.670 --> 00:02:43.040
+Sorun şuydu: binlerce kişi aynı anda tek bir karakteri yönetmeye çalışırken karakter ne yapar?
+
+29
+00:02:43.040 --> 00:02:46.050
+Cevap ekranda kendini hemen gösterdi.
+
+30
+00:02:46.050 --> 00:02:52.740
+Karakter titriyor, ileri geri sekiyor, bir köşede dönüp duruyor, menüyü açıp kapatıyordu.
+
+31
+00:02:52.740 --> 00:02:59.110
+Bir kişi "yukarı" derken öteki "aşağı", bir başkası da şaka olsun diye "start" yazıyordu.
+
+32
+00:02:59.110 --> 00:03:01.640
+Bunun üstüne bir de gecikme vardı.
+
+33
+00:03:01.640 --> 00:03:06.090
+Yayın izleyiciye 20 ila 30 saniye geriden ulaşıyordu.
+
+34
+00:03:06.090 --> 00:03:13.100
+Yani ekranda gördüğünüz şeye tepki verdiğinizde komutunuz yarım dakika önceki bir anı düzeltmeye çalışıyordu.
+
+35
+00:03:13.100 --> 00:03:20.270
+Biri kapıya doğru giden karakteri durdurmak için "sol" yazdığında karakter çoktan kapıdan girmiş oluyordu.
+
+36
+00:03:20.270 --> 00:03:28.560
+Ortaya çıkan şey, tek kişilik bir oyunun oynanabileceği en yavaş, en verimsiz ve tuhaf bir biçimde en büyüleyici hâliydi.
+
+37
+00:03:28.560 --> 00:03:34.770
+Normal bir oyuncunun birkaç dakikada geçeceği yerler saatler, bazen günler sürüyordu.
+
+38
+00:03:34.770 --> 00:03:39.060
+Ama izleyenler sabırsızlanacaklarına giderek daha çok bağlandılar.
+
+39
+00:03:39.060 --> 00:03:43.670
+Çünkü ekrandaki her küçük ilerlemeyi kalabalık kendi kazanmıştı.
+
+40
+00:03:43.670 --> 00:03:49.240
+Karakter bir kapıdan başarıyla geçtiğinde sohbet kutlama mesajlarıyla doluyordu.
+
+41
+00:03:49.240 --> 00:03:52.730
+Tökezlediğinde de herkes birlikte inliyordu.
+
+42
+00:03:52.730 --> 00:03:59.260
+Topluluk kısa sürede kendi dilini, kendi takma adlarını ve kendi efsanelerini üretmeye başladı.
+
+43
+00:03:59.260 --> 00:04:04.350
+Kalabalık, oyunun içine kendi rastlantısallığından doğan bir hikâye yazıyordu.
+
+44
+00:04:04.350 --> 00:04:08.000
+Pokémon'lara verilen isimler buna iyi bir örnek.
+
+45
+00:04:08.000 --> 00:04:16.130
+Oyunda yakaladığınız canavara isim koyabiliyorsunuz ama isim ekranında harfleri yön tuşlarıyla tek tek seçmeniz gerekiyor.
+
+46
+00:04:16.130 --> 00:04:20.580
+Binlerce kişinin elinde bu ekran bir harf piyangosuna dönüşüyordu.
+
+47
+00:04:20.580 --> 00:04:28.070
+Kalabalığın yakaladığı bir Pidgey, sonradan Pidgeot'a evrilecek o kuş, "aaabaaajss" gibi okunması bile zor bir isim aldı.
+
+48
+00:04:28.070 --> 00:04:34.440
+Topluluk bu ismin içindeki harflerden bir anlam çıkardı ve kuşu Kuş İsa diye anmaya başladı.
+
+49
+00:04:34.440 --> 00:04:39.850
+Bu kuş, takımın en güvenilir savaşçısı olarak yolculuğun sonuna kadar kalacaktı.
+
+50
+00:04:39.850 --> 00:04:43.180
+Ama deneyin gerçek sınavı daha sonra geldi.
+
+51
+00:04:43.180 --> 00:04:48.590
+Kalabalık ilerledikçe, kaosun oyunu bitirmeye yetip yetmeyeceği sorusu da büyüdü.
+
+52
+00:04:48.590 --> 00:04:57.040
+Pokémon Kırmızı'nın bazı bölümleri, rastgele tuş basışlarına karşı neredeyse kasıtlı olarak düşmanca tasarlanmış gibiydi.
+
+53
+00:04:57.040 --> 00:05:03.730
+Bir yolun kenarındaki tek yönlü çıkıntılar, yanlış bir adımda karakteri geriye, aşağıya düşürüyordu.
+
+54
+00:05:03.730 --> 00:05:08.020
+Kalabalık bu çıkıntılardan birinin önünde saatlerce çabaladı.
+
+55
+00:05:08.020 --> 00:05:14.230
+Karakter hedefe birkaç kare kala bir kez daha aşağı atlıyor, her şey baştan başlıyordu.
+
+56
+00:05:14.230 --> 00:05:17.720
+O çıkıntı kısa sürede topluluğun baş düşmanı oldu.
+
+57
+00:05:17.720 --> 00:05:23.290
+Ardından Celadon şehrindeki suç örgütü Team Rocket'in gizli üssü geldi.
+
+58
+00:05:23.290 --> 00:05:29.660
+Bu üssün zemini, üzerine bastığınızda sizi bir yöne doğru kaydıran dönen oklarla doluydu.
+
+59
+00:05:29.660 --> 00:05:35.230
+Doğru yere ulaşmak için hangi oka hangi sırayla basılacağını hesaplamak gerekiyordu.
+
+60
+00:05:35.230 --> 00:05:44.320
+Tek bir oyuncu için bile sinir bozucu olan bu labirent, binlerce kişinin aynı anda verdiği çelişkili komutlarla aşılamaz bir duvara dönüştü.
+
+61
+00:05:44.320 --> 00:05:48.930
+İşte bu noktada yayının yaratıcısı oyunun kurallarını değiştirdi.
+
+62
+00:05:48.930 --> 00:05:53.860
+Ekrana iki seçenekli yeni bir sistem ekledi: Anarşi ve Demokrasi.
+
+63
+00:05:53.860 --> 00:05:59.750
+Anarşi kipinde her şey eskisi gibiydi: yazılan her komut sırayla oyuna aktarılıyordu.
+
+64
+00:05:59.750 --> 00:06:07.560
+Demokrasi kipinde ise sistem birkaç saniyelik aralıklarla komutları topluyor ve yalnızca en çok oyu alanı uyguluyordu.
+
+65
+00:06:07.560 --> 00:06:13.290
+Hatta bir tuşu birden çok kez basmak için komutun yanına sayı eklenebiliyordu.
+
+66
+00:06:13.290 --> 00:06:17.580
+Hangi kipte oynanacağına da yine kalabalık karar veriyordu.
+
+67
+00:06:17.580 --> 00:06:25.550
+Ekranda bir gösterge vardı ve izleyiciler "anarchy" ya da "democracy" yazarak ibreyi kendi taraflarına çekiyordu.
+
+68
+00:06:25.550 --> 00:06:30.320
+Demokrasiye geçmek için ibrenin yüksek bir eşiği aşması gerekiyordu.
+
+69
+00:06:30.320 --> 00:06:33.010
+Bu karar topluluğu ikiye böldü.
+
+70
+00:06:33.010 --> 00:06:37.620
+Bir kesim için Demokrasi, oyunu bitirmenin tek akılcı yoluydu.
+
+71
+00:06:37.620 --> 00:06:41.590
+Öbür kesim için ise deneyin ruhuna ihanetti.
+
+72
+00:06:41.590 --> 00:06:44.920
+Onlara göre bu yayını özel kılan şey kaostu.
+
+73
+00:06:44.920 --> 00:06:50.170
+Oylamayla işleyen düzenli bir sistemde, sıradan bir yayından ne farkı kalırdı?
+
+74
+00:06:50.170 --> 00:06:53.820
+Anarşi yanlıları bir direniş yöntemi de buldular.
+
+75
+00:06:53.820 --> 00:06:57.790
+Sohbete "start" yazıp yanına 9 rakamını ekliyorlardı.
+
+76
+00:06:57.790 --> 00:07:05.440
+Demokrasi kipinde bu komut menüyü üst üste dokuz kez açıp kapatmak demekti ve karakteri neredeyse tamamen kilitliyordu.
+
+77
+00:07:05.440 --> 00:07:10.370
+Bu, Demokrasi'yi işlemez kılmak için kullanılan bir tür oturma eylemiydi.
+
+78
+00:07:10.370 --> 00:07:15.940
+İki taraf arasındaki çekişme kısa sürede oyunun kendisi kadar izlenir oldu.
+
+79
+00:07:15.940 --> 00:07:23.910
+İnsanlar sohbette siyasi manifestolar yazıyor, hızla değişen ibrenin hareketini bir seçim gecesi gibi takip ediyordu.
+
+80
+00:07:23.910 --> 00:07:33.640
+Sonunda iki sistem bir tür ateşkese vardı: zor bulmacalarda Demokrasi'ye geçiliyor, bulmaca çözülünce kalabalık yeniden Anarşi'ye dönüyordu.
+
+81
+00:07:33.640 --> 00:07:36.650
+Dönen oklu labirent de böyle aşıldı.
+
+82
+00:07:36.650 --> 00:07:43.020
+Bu siyasi çekişmenin yanında, ondan çok daha tuhaf bir şey de büyüyordu: bir din.
+
+83
+00:07:43.020 --> 00:07:46.030
+Hikâye oyunun başlarında, Mt.
+
+84
+00:07:46.030 --> 00:07:49.040
+Moon adlı mağarada başlamıştı.
+
+85
+00:07:49.040 --> 00:07:53.010
+Burada oyuncuya iki fosilden birini seçme hakkı veriliyor.
+
+86
+00:07:53.010 --> 00:07:58.740
+Kalabalık, rastlantıların yönlendirmesiyle Helix Fossil'i, yani Sarmal Fosil'i aldı.
+
+87
+00:07:58.740 --> 00:08:10.230
+Oyun ilerledikçe bir şey dikkat çekmeye başladı: karakter, menülerde dolanan tuş basışları yüzünden çanta ekranını sürekli açıyor ve tekrar tekrar Sarmal Fosil'i seçiyordu.
+
+88
+00:08:10.230 --> 00:08:14.680
+Oyun da her seferinde bunun kullanma zamanı olmadığını söylüyordu.
+
+89
+00:08:14.680 --> 00:08:17.850
+Topluluk bu sahneden bir mitoloji çıkardı.
+
+90
+00:08:17.850 --> 00:08:22.460
+Karakter fosile danışıyordu, fosil de ona bilgece cevap veriyordu.
+
+91
+00:08:22.460 --> 00:08:27.550
+Kısa sürede Sarmal Fosil bir kahine, oradan da bir tanrıya dönüştü.
+
+92
+00:08:27.550 --> 00:08:33.120
+Sohbet "Praise Helix", yani "Helix'e şükür" mesajlarıyla doldu.
+
+93
+00:08:33.120 --> 00:08:39.170
+Hayran çizimlerinde fosil hâleli, ışık saçan bir kutsal emanet olarak resmedildi.
+
+94
+00:08:39.170 --> 00:08:45.220
+Mağarada geride bırakılan öbür fosil, Kubbe Fosil, bu inanç sisteminin şeytanı oldu.
+
+95
+00:08:45.220 --> 00:08:48.070
+Mitoloji kendini beslemeye devam etti.
+
+96
+00:08:48.070 --> 00:08:56.040
+Kalabalık bir ara takımdaki Eevee'yi kendi istediği yönde evrimleştirmeye çalışırken yanlışlıkla ona ateş taşını kullandırdı.
+
+97
+00:08:56.040 --> 00:08:58.890
+Eevee, Flareon'a dönüştü.
+
+98
+00:08:58.890 --> 00:09:06.380
+Bu ateş canavarı topluluğun anlatısında Sahte Peygamber oldu; insanları yanlış yola saptıran bir figür.
+
+99
+00:09:06.380 --> 00:09:09.710
+Kuş İsa ise kurtarıcı rolünü üstlendi.
+
+100
+00:09:09.710 --> 00:09:17.840
+Basit bir tuş karmaşası, birkaç gün içinde iyiyle kötünün, sadakatle ihanetin anlatıldığı bütün bir destana dönüşmüştü.
+
+101
+00:09:17.840 --> 00:09:24.210
+Bu destanın en karanlık sayfası, topluluğun hafızasına Kara Pazar olarak geçen gündü.
+
+102
+00:09:24.210 --> 00:09:29.460
+Oyunda takımda taşıyamadığınız Pokémon'ları bir bilgisayar sisteminde saklıyorsunuz.
+
+103
+00:09:29.460 --> 00:09:38.710
+Kalabalık bu bilgisayarda bir Pokémon'u almaya çalışırken menülerde kayboldu ve tuş tuş, istemeden takımdaki Pokémon'ları doğaya salmaya başladı.
+
+104
+00:09:38.710 --> 00:09:40.920
+Bu işlem geri alınamıyordu.
+
+105
+00:09:40.920 --> 00:09:44.730
+Gecikme yüzünden de kimse onu zamanında durduramadı.
+
+106
+00:09:44.730 --> 00:09:50.940
+Çaresiz izleyicilerin gözü önünde, günlerdir birlikte büyütülen canavarlar birer birer kayboldu.
+
+107
+00:09:50.940 --> 00:09:57.630
+Bunların arasında yolculuğun başında seçilen ve Charmeleon'a evrilmiş olan başlangıç Pokémon'u da vardı.
+
+108
+00:09:57.630 --> 00:09:59.680
+Sohbet yasa boğuldu.
+
+109
+00:09:59.680 --> 00:10:05.250
+İnsanlar yitirilen canavarlar için anma yazıları yazdı, çizimler yaptı.
+
+110
+00:10:05.250 --> 00:10:17.380
+Kulağa abartılı gelebilir ama bu tepki, deneyin en derin sonucunu ortaya koyuyordu: insanlar bu dijital yaratıklara, ortak çabayla kazandıkları her şeye gerçekten bağlanmıştı.
+
+111
+00:10:17.380 --> 00:10:20.710
+Kayıp ortaktı, çünkü kazanım da ortaktı.
+
+112
+00:10:20.710 --> 00:10:25.800
+Ve hiç kimse suçlanamazdı, çünkü o tuşlara herkes birlikte basmıştı.
+
+113
+00:10:25.800 --> 00:10:30.250
+Kara Pazar'dan sonra pek çok kişi oyunun bitmeyeceğine inandı.
+
+114
+00:10:30.250 --> 00:10:34.700
+Takım zayıflamıştı, önde ise oyunun en zor kısımları duruyordu.
+
+115
+00:10:34.700 --> 00:10:36.590
+Ama kalabalık dağılmadı.
+
+116
+00:10:36.590 --> 00:10:42.640
+Tam tersine, yayına ilk günlerdeki merakla değil, bir şeyi bitirme inadıyla geri döndü.
+
+117
+00:10:42.640 --> 00:10:48.210
+Kuş İsa takımın sırtını yaslayabileceği sarsılmaz bir savaşçı olarak kaldı.
+
+118
+00:10:48.210 --> 00:10:53.780
+Yolda yakalanan efsanevi elektrik kuşu Zapdos da yeni bir kahramana dönüştü.
+
+119
+00:10:53.780 --> 00:11:01.590
+Kalabalık sonunda ligin önündeki son büyük engel olan Zafer Yolu'nu, kayaları itip merdivenleri bularak aşmayı başardı.
+
+120
+00:11:01.590 --> 00:11:08.760
+Ardından oyunun finali geldi: dört güçlü antrenörden oluşan Elit Dörtlü ve onlardan sonra şampiyon.
+
+121
+00:11:08.760 --> 00:11:16.250
+Bu karşılaşmalar arka arkaya kazanılmak zorunda ve her yenilgi oyuncuyu en son uğradığı Pokémon merkezine geri gönderiyor.
+
+122
+00:11:16.250 --> 00:11:22.780
+Kalabalık burada defalarca yenildi, defalarca geri gönderildi, her seferinde yeniden yürüdü.
+
+123
+00:11:22.780 --> 00:11:26.590
+Savaşta yanlış saldırıyı seçmenin bedeli ağırdı.
+
+124
+00:11:26.590 --> 00:11:33.280
+Gecikmeyle, çelişkili komutlarla oynanan bir savaşta her doğru hamle küçük bir mucize gibiydi.
+
+125
+00:11:33.280 --> 00:11:37.570
+1 Mart 2014'te mucize gerçekleşti.
+
+126
+00:11:37.570 --> 00:11:39.300
+Şampiyon yenildi.
+
+127
+00:11:39.300 --> 00:11:45.510
+Ekranda, kazananları anan ve şampiyonların listesine kaydeden o bilindik sahne belirdi.
+
+128
+00:11:45.510 --> 00:11:51.560
+Yayının başlamasından bu yana tam 16 gün, 7 saat ve 45 dakika geçmişti.
+
+129
+00:11:51.560 --> 00:11:59.210
+Normal bir oyuncunun birkaç günde bitirebileceği bir oyunu, bir kalabalık iki haftayı aşan aralıksız bir maratonla bitirmişti.
+
+130
+00:11:59.210 --> 00:12:07.500
+O an sohbet, topluluğun sayısız iç şakasının, Helix'e şükürlerin ve kutlama mesajlarının birbirine karıştığı bir sele dönüştü.
+
+131
+00:12:07.500 --> 00:12:12.590
+Sayılar sonradan ortaya çıktığında olayın büyüklüğü daha da netleşti.
+
+132
+00:12:12.590 --> 00:12:19.280
+Yayın boyunca 1 milyon 165 bin 140 farklı kullanıcı en az bir komut girmişti.
+
+133
+00:12:19.280 --> 00:12:27.730
+Guinness Dünya Rekorları bunu, tek kişilik bir çevrim içi oyunu oynamak için komut giren en fazla kullanıcı sayısı olarak kaydetti.
+
+134
+00:12:27.730 --> 00:12:31.380
+Yayın toplamda 36 milyonu aşkın kez izlenmişti.
+
+135
+00:12:31.380 --> 00:12:40.790
+Bölümün adındaki o bir milyon kişi işte buradan geliyor: tarihin belki de en kalabalık oyun ekibi, tek bir sanal oyun koluna sırayla dokunmuştu.
+
+136
+00:12:40.790 --> 00:12:43.960
+Peki bu kadar insanı bu yayına çeken neydi?
+
+137
+00:12:43.960 --> 00:12:48.090
+Oyunun kendisi on yıllık, herkesin bildiği bir yapımdı.
+
+138
+00:12:48.090 --> 00:12:53.500
+Ortada şaşırtıcı bir grafik, yeni bir hikâye ya da yetenekli bir oyuncu yoktu.
+
+139
+00:12:53.500 --> 00:12:56.350
+Çekici olan, katılımın kendisiydi.
+
+140
+00:12:56.350 --> 00:13:02.880
+O güne kadar oyun yayınları temelde televizyon gibi işliyordu: biri oynar, öteki izlerdi.
+
+141
+00:13:02.880 --> 00:13:07.490
+İzleyicinin elinde en fazla sohbette yorum yapma imkânı vardı.
+
+142
+00:13:07.490 --> 00:13:09.860
+Bu deney o duvarı yıktı.
+
+143
+00:13:09.860 --> 00:13:12.550
+İzleyici aynı zamanda oyuncuydu.
+
+144
+00:13:12.550 --> 00:13:20.680
+Hem de tek başına bir şey değiştiremeyeceğini bildiği, ama binlerce başkasıyla birlikte her şeyi değiştirebileceği bir oyuncu.
+
+145
+00:13:20.680 --> 00:13:26.890
+Bu deneyim, sosyal bilimcilerin uzun süredir tartıştığı soruları da oyun ekranına taşıdı.
+
+146
+00:13:26.890 --> 00:13:31.180
+Merkezi bir lider olmadan bir kalabalık nasıl koordine olur?
+
+147
+00:13:31.180 --> 00:13:36.750
+Kural koymak özgürlüğü öldürür mü, yoksa ancak kurallar sayesinde mi bir yere varılır?
+
+148
+00:13:36.750 --> 00:13:44.240
+Anarşi ile Demokrasi arasındaki çekişme, yorumcuların gözünde bu soruların küçük ama canlı bir laboratuvarı oldu.
+
+149
+00:13:44.240 --> 00:13:52.530
+Üstelik sonuç beklenmedikti: oyun büyük ölçüde kaos içinde, ancak gerektiği anlarda düzene geçilerek bitirilmişti.
+
+150
+00:13:52.530 --> 00:13:59.380
+Ne saf anarşi ne katı bir düzen; ikisinin arasında, kalabalığın kendi kendine bulduğu bir denge.
+
+151
+00:13:59.380 --> 00:14:03.350
+Deneyin bir başka mirası, topluluğun ürettiği kültürdü.
+
+152
+00:14:03.350 --> 00:14:09.240
+Sarmal Fosil kültü, Kuş İsa ve Kara Pazar gibi hikâyeleri kimse planlamamıştı.
+
+153
+00:14:09.240 --> 00:14:16.730
+Bunlar tamamen rastlantıdan doğmuş, ama insanların rastlantıya anlam yükleme ihtiyacıyla bir destana dönüşmüştü.
+
+154
+00:14:16.730 --> 00:14:23.900
+Hayranlar bu süreçte sayısız çizim, şarkı ve oyunun gün gün kaydını tutan ayrıntılı tarih sayfaları hazırladı.
+
+155
+00:14:23.900 --> 00:14:32.510
+İnternet kültürünün belki de ilk kez gerçek zamanlı ve bu ölçekte, kolektif olarak kendi mitolojisini yazdığı anlardan biriydi bu.
+
+156
+00:14:32.510 --> 00:14:35.360
+Yayın Pokémon Kırmızı'yla da bitmedi.
+
+157
+00:14:35.360 --> 00:14:42.690
+Final bitişinin hemen ardından kanal serinin ikinci kuşağından Pokémon Crystal'e, yani Pokémon Kristal'e geçti.
+
+158
+00:14:42.690 --> 00:14:50.020
+Ardından serinin başka oyunları geldi ve kanal yıllarca yeni oyunlarla, yeni kalabalıklarla devam etti.
+
+159
+00:14:50.020 --> 00:14:53.510
+Ama ilk deneyin yarattığı etki tekrarlanamazdı.
+
+160
+00:14:53.510 --> 00:14:56.840
+Çünkü artık herkes ne olacağını biliyordu.
+
+161
+00:14:56.840 --> 00:15:05.450
+Şubat 2014'teki o sürpriz duygusu, ne olacağını bilmeden bir şeye katılmanın heyecanı, yalnızca bir kez yaşanabilirdi.
+
+162
+00:15:05.450 --> 00:15:09.740
+Asıl kalıcı etki ise fikrin kendisinin yayılmasıydı.
+
+163
+00:15:09.740 --> 00:15:14.350
+Kısa süre içinde başka oyunlar da aynı yöntemle oynanmaya başladı.
+
+164
+00:15:14.350 --> 00:15:22.160
+Zorluğuyla bilinen aksiyon oyunlarından strateji oyunlarına kadar pek çok yapım sohbet penceresine teslim edildi.
+
+165
+00:15:22.160 --> 00:15:34.610
+Bazı bağımsız geliştiriciler daha da ileri gidip izleyicilerin yayıncının oyununa doğrudan müdahale edebileceği, örneğin karşısına çıkan düşmanları ya da engelleri oylayabileceği oyunlar tasarladılar.
+
+166
+00:15:34.610 --> 00:15:44.980
+Yayın platformları da zamanla izleyicinin yalnızca seyretmediği, oylamalarla, tahminlerle, etkileşimli araçlarla yayına katıldığı özellikler geliştirdi.
+
+167
+00:15:44.980 --> 00:15:52.950
+Bugün bir yayıncının izleyicilerine bir sonraki hamleyi sorması, sohbetin oyunun gidişatını belirlemesi sıradan bir şey.
+
+168
+00:15:52.950 --> 00:16:00.760
+Bunun sıradanlaşmasında, 2014 Şubat'ında isimsiz bir programcının basit bir fikirle yaptığı deneyin payı büyük.
+
+169
+00:16:00.760 --> 00:16:07.930
+Belki de bu hikâyenin en ilginç yanı, başarısızlığa bu kadar yatkın görünen bir şeyin başarıya ulaşmasıydı.
+
+170
+00:16:07.930 --> 00:16:15.420
+Gecikmeli komutlar, kasıtlı sabotajlar, şakacılar, kayıplar ve yüz binlerce birbirinden habersiz insan.
+
+171
+00:16:15.420 --> 00:16:18.910
+Teoride bu karışımdan hiçbir sonuç çıkmamalıydı.
+
+172
+00:16:18.910 --> 00:16:20.320
+Ama çıktı.
+
+173
+00:16:20.320 --> 00:16:27.010
+Kalabalığın çoğu yalnızca birkaç komut girip ayrıldı, bir kısmı günlerce başından kalkmadı.
+
+174
+00:16:27.010 --> 00:16:32.580
+Hepsi bir araya geldiğinde, hiçbirinin tek başına yapamayacağı bir şey yapmışlardı.
+
+175
+00:16:32.580 --> 00:16:37.190
+Şampiyonlar listesine kaydedilen o isim, tek bir kişiye ait değildi.
+
+176
+00:16:37.190 --> 00:16:43.080
+Bir milyonu aşkın insanın, aynı oyun koluna dokunarak yazdığı ortak bir imzaydı.
+
+177
+00:16:43.080 --> 00:16:44.650
+---
+
+178
+00:16:44.650 --> 00:16:48.620
+**Operatör notu (anlatı metninin parçası değil):**
+
+179
+00:16:48.620 --> 00:16:54.670
+- Metin aşağı yukarı 2300 kelime, yani 17-24 dakikalık aralığın içinde.
+
+180
+00:16:54.670 --> 00:17:22.070
+- Web araması yapmadım. Rakamlar ve olaylar bildiklerime dayanıyor: 16 gün 7 saat 45 dakika, 1.165.140 katılımcı, 121 bin anlık izleyici, 36 milyonu aşkın izlenme, 1 Mart 2014 bitişi ve 20-30 saniyelik gecikme. Bitiş süresinin saniyesini ve Kara Pazar'da salınan Pokémon sayısını kesin hatırlamadığım için yazmadım.
+
+181
+00:17:22.070 --> 00:17:27.960
+- Taslaktaki "Kara Pazar"ı topluluğun İngilizce "Bloody Sunday" dediği gün olarak anladım.
+
+182
+00:17:27.960 --> 00:17:34.650
+- Yabancı ad kuralını Helix Fossil (Sarmal Fosil) ve Pokémon Crystal (Pokémon Kristal) için uyguladım.
+
+183
+00:17:34.650 --> 00:17:39.580
+Kubbe Fosil oyundaki Dome Fossil'in Türkçesi ama özgün adını yazmadım.
+
+184
+00:17:39.580 --> 00:17:44.510
+- Kural uyarınca Pokémon Red de ilk geçişten sonra "Pokémon Kırmızı" oldu.
+
+185
+00:17:44.510 --> 00:17:52.000
+Yayının kendi adı Twitch Plays Pokémon ise metinde hiç geçmiyor; ondan "kanal", "yayın" ve "deney" diye söz ettim.
+
+186
+00:17:52.000 --> 00:17:55.330
+Nöron Oyun'da bugünkü bölümün sonuna geldik.
+
+187
+00:17:55.330 --> 00:17:58.340
+Yeni bir hikâyede yeniden buluşmak üzere.
