@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-22.mp3
+
+beklenen 2305 kelime | duyulan 2303 kelime | eşleşme %97.3
+sayı ifadesi: metinde 221, duyulanda 193  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...skoç filozof david hume
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ile biten cümleleer dönüşüyordu
+      metin  : hume a
+      duyulan: huma
+  REPLACE  ...soruyu sonraki kuşaklar hume
+      metin  : un giyotini
+      duyulan: ın giotini
+  INSERT   ...yaklaşık yıl geçtikten sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...filozof george edward mooer
+      metin  : prinsipia etika
+      duyulan: principia ethica
+  REPLACE  ...adlı kitabında benzer hataya
+      metin  : ad verdi natüralist
+      duyulan: adverdi naturalist
+  REPLACE  ...başlarında kıbrıslı tüccar olan
+      metin  : kitionlu
+      duyulan: kithyonlu
+  REPLACE  ...bugünkü anlamıyla okursak yanılırız
+      metin  : stoacılar
+      duyulan: stoğacılar
+  REPLACE  ...en üretken düşünürü sayılan
+      metin  : khrysippos
+      duyulan: chrissippos
+  REPLACE  ...karşılık vereceğimiz ize elimizdedir
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...anlatır doğaya uygun yaşayan
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...dille benzer arayış sürüyordu
+      metin  : laodzı
+      duyulan: laozi
+  REPLACE  ...ye atfedilen tao te
+      metin  : çing
+      duyulan: ching
+  REPLACE  ...zorlamadan eyleyen kişidir buna
+      metin  : vu vey
+      duyulan: wu wei
+  REPLACE  ...en canlı örneklerle anlatan
+      metin  : cuangdzı
+      duyulan: zhuangci
+  REPLACE  ...bu terbiyeye dayanamayıp ölür
+      metin  : cuangdzı
+      duyulan: zhuangci
+  INSERT   ...turnanınkilerin uzun olduğunu hatırlatır
+      metin  : (yok)
+      duyulan: öl
+  REPLACE  ...edin bu gelenek yani
+      metin  : stoa
+      duyulan: su toa
+  REPLACE  ...iyi değilse john stuart
+      metin  : ellilerde
+      duyulan: lerde
+  INSERT   ...sağlığında yayımlamadı deneme in
+      metin  : (yok)
+      duyulan: teki
+  INSERT   ...in ölümünden yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...din üzerine yazdığı başka
+      metin  : denemeyle
+      duyulan: deneme ile
+  DELETE   ...en sarsıcı kısmında anlatır
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  INSERT   ...aynı yıllarda charles darwin
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...cesaret korkuya karşı verilen
+      metin  : mücadeleyle
+      duyulan: mücadele ile
+  REPLACE  ...düzeltmektir burada an durup
+      metin  : stoacılara
+      duyulan: stoğacılara
+  REPLACE  ...daha önce gördüğümüz gibi
+      metin  : khrysippos
+      duyulan: krisi pos
+  REPLACE  ...in düzelt dediği şeyi
+      metin  : stoacı
+      duyulan: stoğacı
+  REPLACE  ...doğalsa yapacak şey yok
+      metin  : hume
+      duyulan: hum
+  DELETE   ...mahkum etmek anlamına geliyor
+      metin  : in
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kelime hangi yöne çevrilirse
+      metin  : çevrilsin
+      duyulan: çevirsin
+  DELETE   ...belki en dengeli cevabı
+      metin  : den
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...önce yine aristoteles vermiştir
+      metin  : nikomakhos a
+      duyulan: nikomakkosa
+  REPLACE  ...bize bırakmıştır romalı hatip
+      metin  : çiçero
+      duyulan: çiçekero
+  REPLACE  ...taklit katmanlarını kazımaya çalışması
+      metin  : stoacının
+      duyulan: stoğacının
+  REPLACE  ...aklın süzgecinden geçirmesi hatta
+      metin  : cuangdzı
+      duyulan: guangzi
+  REPLACE  ...yapacağımıza kendimiz karar veriyoruz
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 40 kelime | duyulup metinde OLMAYAN: 43
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: felsefe-2026-11-22.duyulan.txt

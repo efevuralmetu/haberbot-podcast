@@ -1,0 +1,88 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-22.mp3
+
+beklenen 3452 kelime | duyulan 3451 kelime | eşleşme %99.1
+sayı ifadesi: metinde 110, duyulanda 95  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...largely made in laboratories
+      metin  : eyeglasses
+      duyulan: a glasses
+  REPLACE  ...who has learned to
+      metin  : rein
+      duyulan: reign
+  REPLACE  ...person who tries to
+      metin  : rein
+      duyulan: reign
+  REPLACE  ...he clips their manes
+      metin  : pares
+      duyulan: parades
+  REPLACE  ...is the concept of
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...verse of the surah
+      metin  : ar rum
+      duyulan: aram
+  REPLACE  ...rum speaks of the
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...is born upon the
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...christian or a zoroastrian
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...of intellectual autobiography al
+      metin  : munqidh min
+      duyulan: munkid me un
+  REPLACE  ...a person s true
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...fitra for al ghazali
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...traditions the stoa the
+      metin  : tao
+      duyulan: taw
+  REPLACE  ...and the idea of
+      metin  : fitra
+      duyulan: fitrah
+  REPLACE  ...is reason for the
+      metin  : taoist
+      duyulan: tawest
+  DELETE   ...we believe in the
+      metin  : fifties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...indictment aimed at the
+      metin  : counsel
+      duyulan: council
+  REPLACE  ...in this sense the
+      metin  : counsel
+      duyulan: council
+  REPLACE  ...this sense says the
+      metin  : counsel
+      duyulan: council
+  DELETE   ...gap hume pointed out
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the species even a
+      metin  : past
+      duyulan: path
+  REPLACE  ...a flip side too
+      metin  : unnatural
+      duyulan: dutch rule
+  REPLACE  ...same aristotle grounded slavery
+      metin  : in
+      duyulan: and
+  INSERT   ...spel of the word
+      metin  : (yok)
+      duyulan: natural
+  REPLACE  ...today s episode of
+      metin  : nöron felsefe
+      duyulan: neuron felsophae
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 28
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: philosophy-2026-11-22.duyulan.txt

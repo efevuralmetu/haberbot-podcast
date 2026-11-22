@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-22.mp3
+
+beklenen 1870 kelime | duyulan 1870 kelime | eşleşme %95.4
+sayı ifadesi: metinde 211, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ve fizikçi james thomson
+      metin  : viski ve şarap gibi alkollü içkilerin yüzeyinde görülen tuhaf hareketler üzerine kısa makale yayımladı thomson
+      duyulan: tomson
+  REPLACE  ...thomson sonradan lord kelvin
+      metin  : unvanıyla
+      duyulan: invanıyla
+  REPLACE  ...pratik düşünen mühendisti thomson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...bu farkta saklı thomson
+      metin  : ın
+      duyulan: un
+  REPLACE  ...sıcaklığında meter başına yaklaşık
+      metin  : milinewton
+      duyulan: milineyton
+  REPLACE  ...azdır meter başına yaklaşık
+      metin  : milinewton
+      duyulan: milineyton
+  INSERT   ...marangoni den alır marangoni
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geçirdiğini sistematik biçimde araştırdı
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...kimi kaynaklar bu olayı
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...burada kapanmış gibi göründü
+      metin  : thomson
+      duyulan: thompson
+  INSERT   ...oldukça egzotik köşesinden geldi
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...egzotik köşesinden geldi massachusetts
+      metin  : teknoloji
+      duyulan: technoloji
+  REPLACE  ...teknoloji enstitüsü nden anette
+      metin  : hosoi
+      duyulan: hossoy
+  REPLACE  ...sonra los angeles taki
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...nde uygulamalı matematikçi andrea
+      metin  : bertotsi
+      duyulan: bertossoy
+  REPLACE  ...bertotsi ve ekibinden geldi
+      metin  : bertotsi yonatan
+      duyulan: bertossoy jonathan
+  REPLACE  ...geldi bertotsi yonatan dukler
+      metin  : hangcie ci
+      duyulan: hangeci
+  REPLACE  ...dukler hangcie ci ve
+      metin  : klaudia falkon
+      duyulan: claudia falcon
+  INSERT   ...dinamiği toplantısında sundular ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...cepheye çarpar ve sıkıştırır
+      metin  : bertotsi nin
+      duyulan: bertossoy un
+  REPLACE  ...açıdan özellikle ilginç yapılardır
+      metin  : bertotsi nin
+      duyulan: bertossoy un
+  REPLACE  ...bunları daha önce marangoni
+      metin  : gerilimiyle
+      duyulan: gerilimi ile
+  REPLACE  ...gösterdiler ekibin modeline göer
+      metin  : şarabın
+      duyulan: şarapın
+  REPLACE  ...iç yüzeyini ince şarap
+      metin  : filmiyle
+      duyulan: filmi ile
+  REPLACE  ...şarap filmiyle önceden ıslatır
+      metin  : bertotsi nin
+      duyulan: bertossoy un
+  REPLACE  ...izlediler ve gözlemlerinin modelin
+      metin  : öngörüleriyle
+      duyulan: öngörüleri ile
+  REPLACE  ...en ince sonuçlarından canlı
+      metin  : gösterimiydi
+      duyulan: gösterimi idi
+  REPLACE  ...açıklama da gözyaşlarının şaraptaki
+      metin  : gliserol
+      duyulan: glicerol
+  REPLACE  ...ya da şekerden kaynaklandığıdır
+      metin  : gliserol fermantasyonun
+      duyulan: glicerol fermentasyonun
+  REPLACE  ...desteklemiyor gözyaşlarını yaratan motor
+      metin  : alkolle
+      duyulan: alkol ve
+  REPLACE  ...taşımadığı da sonucu değiştirir
+      metin  : gliserol
+      duyulan: glicerol
+  REPLACE  ...ağdalılığını değiştirip damlaların akışını
+      metin  : yavaşlatabilir
+      duyulan: alabilir
+  REPLACE  ...ama gözyaşlarının kaynağı değildir
+      metin  : gliserolden
+      duyulan: glicerol den
+  REPLACE  ...da kusursuz gözyaşları oluşturur
+      metin  : bertotsi
+      duyulan: bertozsi
+  REPLACE  ...alkol derecesidir ucuz ama
+      metin  : alkolü
+      duyulan: alkolu
+  INSERT   ...konusu değil mühendislerin bilinçli
+      metin  : (yok)
+      duyulan: olan bilinçli
+  REPLACE  ...iz ve kirlilik bırakabilir
+      metin  : doksanlarda
+      duyulan: larda
+  REPLACE  ...plaka sudan çekilirken yüzeyine
+      metin  : izopropil
+      duyulan: izopropyl
+  REPLACE  ...mühendisliğin aktif araştırma alanı
+      metin  : isı
+      duyulan: i si
+  REPLACE  ...neredeyze hissedilmediği uzay istasyonlarındaki
+      metin  : sıvıların
+      duyulan: damlaların
+  ... ve 5 fark daha
+
+metinde olup DUYULMAYAN: 61 kelime | duyulup metinde OLMAYAN: 60
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: bilim-2026-11-22.duyulan.txt

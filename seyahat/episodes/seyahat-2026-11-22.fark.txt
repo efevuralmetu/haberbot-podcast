@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-22.mp3
+
+beklenen 2185 kelime | duyulan 2237 kelime | eşleşme %92.2
+sayı ifadesi: metinde 243, duyulanda 181  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...ermeni kasabasını bugün i
+      metin  : sfahan
+      duyulan: spahan
+  INSERT   ...çizdirmiştir safevi hükümdarı abbas
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...başkenti kazvin den i
+      metin  : sfahan
+      duyulan: spahan
+  REPLACE  ...yıkmadı yerine güneyde zayende
+      metin  : rud
+      duyulan: rut
+  REPLACE  ...terastan maçları geçit törenlerini
+      metin  : havai
+      duyulan: havay
+  REPLACE  ...en şaşırtıcı oda en
+      metin  : üstte
+      duyulan: üste
+  REPLACE  ...sürahi kadeh ya da
+      metin  : ud silueti
+      duyulan: ut silüeti
+  INSERT   ...onuruna yaptırmıştı ve yapımı
+      metin  : (yok)
+      duyulan: a
+  INSERT   ...mavi ve kalabalıktır yapımına
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...olur o yıllarda i
+      metin  : sfahan
+      duyulan: ssfahan
+  REPLACE  ...bugün hala söyleniyor i
+      metin  : sfahan nısf ı
+      duyulan: ssfahan nısı
+  REPLACE  ...ı cihan yani i
+      metin  : sfahan
+      duyulan: ssfahan
+  REPLACE  ...geliyordu fransız mücevher tüccarı
+      metin  : jan şardan
+      duyulan: can chardin
+  REPLACE  ...kalabalığın her parçası i
+      metin  : sfahan
+      duyulan: ssfahan
+  REPLACE  ...ve şahın hazinesine akan
+      metin  : gümüşün
+      duyulan: aras ın
+  REPLACE  ...yaşıyordu bu hikaye i
+      metin  : sfahan
+      duyulan: ssfahan
+  REPLACE  ...nahçıvan sınırları içinde kalan
+      metin  : culfa
+      duyulan: kulfa
+  REPLACE  ...yollarına açılan konumu vardı
+      metin  : culfalı
+      duyulan: kulfalı
+  REPLACE  ...i zmir e ve
+      metin  : venediğe
+      duyulan: venedi ye
+  INSERT   ...defalarca el değiştirdiği topraklardaydı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...bırakmamak için yakıp yıkma
+      metin  : taktiğine
+      duyulan: deneyine
+  REPLACE  ...karşıya ulaşmaya çalıştı ermeni
+      metin  : vakayinamecisi
+      duyulan: vakainamecisi
+  REPLACE  ...kısmı farklı bölgeleer dağıtıldı
+      metin  : culfalı
+      duyulan: kulfalı
+  REPLACE  ...kasabanın adı verildi yeni
+      metin  : culfa
+      duyulan: kulfa
+  REPLACE  ...çelişki vardı ve yeni
+      metin  : culfa nın
+      duyulan: kulfanın
+  REPLACE  ...kendi kiliselerini kurabiliyor kendi
+      metin  : kethüdalarını
+      duyulan: ketüdağlarını
+  REPLACE  ...şah sarayına yakın tuttuğu
+      metin  : culfalı
+      duyulan: kulfalı
+  REPLACE  ...tüccar ağına ihtiyacı vardı
+      metin  : culfalı
+      duyulan: kulfalı
+  INSERT   ...ermeniler tam olarak buydu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oldu sonraki yıllarda yeni
+      metin  : culfa
+      duyulan: kulfa
+  REPLACE  ...dünyanın yanında olan ticaret
+      metin  : ağının
+      duyulan: ağanın
+  REPLACE  ...ticaret ağının kalbine dönüştü
+      metin  : culfalı
+      duyulan: kulfalı
+  REPLACE  ...aileler oğullarını ve yeğenlerini
+      metin  : venediğe
+      duyulan: venedi ye
+  REPLACE  ...madras a tibet teki
+      metin  : lasa
+      duyulan: lhasa
+  REPLACE  ...yıllarca uzakta kalır i
+      metin  : sfahan
+      duyulan: zfahan
+  REPLACE  ...i sfahan daki ortaklarına
+      metin  : culfa
+      duyulan: kulfa
+  REPLACE  ...taşına da yansıdı yeni
+      metin  : culfa
+      duyulan: kulfa
+  REPLACE  ...kurtarıcı katedrali dir vank
+      metin  : ermenicede
+      duyulan: ermeniçe de
+  REPLACE  ...duvarları ve kubbesi i
+      metin  : sfahan
+      duyulan: zfahan
+  REPLACE  ...art arda dizilir yaldızlı
+      metin  : kubbenin
+      duyulan: kübbenin
+  ... ve 37 fark daha
+
+metinde olup DUYULMAYAN: 99 kelime | duyulup metinde OLMAYAN: 156
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: seyahat-2026-11-22.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-22.mp3
+
+beklenen 2825 kelime | duyulan 2844 kelime | eşleşme %93.3
+sayı ifadesi: metinde 492, duyulanda 311  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ayağa kalkmasını yasaklamıştı frida
+      metin  : kalo
+      duyulan: kahlo
+  REPLACE  ...kalo da kendi sergisine
+      metin  : sedyeyle
+      duyulan: sedye ile
+  REPLACE  ...ömrü boyunca resmettiği o
+      metin  : yatağa
+      duyulan: yatağı
+  REPLACE  ...mexico city nin güneyindeki
+      metin  : koyoakan
+      duyulan: coyocan
+  REPLACE  ...nin güneyindeki koyoakan da
+      metin  : kobalt
+      duyulan: cobalt
+  INSERT   ...mavi ev diyor evi
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yaptırdı yıl sonra temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çocuğu doğdu adı magdalena
+      metin  : karmen
+      duyulan: carmen
+  REPLACE  ...adı magdalena karmen frida
+      metin  : kalo i kalderon
+      duyulan: kahlo y calderon
+  REPLACE  ...da aynı evdeydi babası
+      metin  : giyermo kalo
+      duyulan: guillermo kahlo
+  REPLACE  ...giyermo kalo almanya nın
+      metin  : pfortshaym
+      duyulan: piforçayim
+  REPLACE  ...almanya nın pfortshaym kentinde
+      metin  : karl vilhelm
+      duyulan: carl wilhelm
+  INSERT   ...karl vilhelm adıyla doğmuştu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...tek kaydediyordu annesi matilde
+      metin  : kalderon
+      duyulan: calderon
+  REPLACE  ...dindar kararlı ve evin
+      metin  : düzenini
+      duyulan: elini
+  REPLACE  ...üvey ablası da vardı
+      metin  : giyermo kalo
+      duyulan: guillermo kahlo
+  REPLACE  ...pek açmadığı yükü vardı
+      metin  : sara
+      duyulan: sarı
+  DELETE   ...makinesini korumak düşmesine engel
+      metin  : olmak
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bazı araştırmacılar bugün bu
+      metin  : sakatlığın
+      duyulan: yılların
+  DELETE   ...denedi i nce bacağını
+      metin  : uzun etekler
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...nasıl kurduğunu pozun nasıl
+      metin  : sabitlendiğini
+      duyulan: hizmetlendiğini
+  INSERT   ...stüdyosundaki bu sessiz saatlerdeydi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en saygın lisesi olan
+      metin  : eskuela nasyonal preparatorya
+      duyulan: escuela nacional preparatoria
+  REPLACE  ...okumak doktor olmaktı okulda
+      metin  : cachuchalar
+      duyulan: caçu çalar
+  REPLACE  ...grubuna katıldı grubun liderlerinden
+      metin  : alehandro gomes
+      duyulan: alejandro gómez
+  REPLACE  ...ulusal hazırlık okulu nun
+      metin  : amfisinde
+      duyulan: anfisinde
+  REPLACE  ...kalın kaşlı iskeleye tünemiş
+      metin  : adamdı diyego
+      duyulan: adı diego
+  INSERT   ...bölecek öğleden sonra gelecekti
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...bulutlu akşamüstü frida yaşında
+      metin  : alehandro gomes
+      duyulan: alejandro gómez
+  REPLACE  ...la birlikte şehir merkezinden
+      metin  : koyoakan
+      duyulan: coyoacan
+  REPLACE  ...şehrin gözdesiydi hızlıydılar ama
+      metin  : dayanıksızdılar
+      duyulan: hızlıydılar
+  REPLACE  ...doğru sıkıştırdı ahşap gövde
+      metin  : gomes
+      duyulan: gómez
+  REPLACE  ...ayrıldı çarpışmanın gürültüsü dinince
+      metin  : gomes
+      duyulan: gómez
+  REPLACE  ...ve frida yı aradı
+      metin  : enkazın içinde
+      duyulan: enkağzın keer
+  DELETE   ...yağmıştı etraftaki insanlar yerde
+      metin  : yatan
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...frida nın bedenine dayayıp
+      metin  : çeliği
+      duyulan: çeliyi
+  REPLACE  ...bedenine dayayıp çeliği çekti
+      metin  : gomes
+      duyulan: gómez
+  DELETE   ...hastanede aylarca kaldığı sanılır
+      metin  : ama
+      duyulan: (YOK — atlanmış)
+  INSERT   ...boyunca bırakmadı hayatı boyunca
+      metin  : (yok)
+      duyulan: dan
+  ... ve 115 fark daha
+
+metinde olup DUYULMAYAN: 142 kelime | duyulup metinde OLMAYAN: 174
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: biyografi-2026-11-22.duyulan.txt

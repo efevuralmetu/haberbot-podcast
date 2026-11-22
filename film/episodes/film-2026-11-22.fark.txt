@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-22.mp3
+
+beklenen 2004 kelime | duyulan 2014 kelime | eşleşme %96.6
+sayı ifadesi: metinde 197, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...odadan makaranın dönmesiyle dağılır
+      metin  : cuzeppe
+      duyulan: giuseppe
+  INSERT   ...tornatoer böyle dünyada büyüdü
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...dünyada büyüdü palermo yakınlarındaki
+      metin  : bagerya
+      duyulan: bagheria
+  INSERT   ...yarattığı uğultuyu bizzat tanıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ortaya çıkan film nuovo
+      metin  : çinema paradizo
+      duyulan: cinema paradiso
+  REPLACE  ...tornatoer senaryoyu yazdığında henüz
+      metin  : otuzlarının
+      duyulan: larının
+  REPLACE  ...otuzlarının başındaydı projeye kanat
+      metin  : geren
+      duyulan: gelen
+  REPLACE  ...talyan sinemasının köklü yapımcılarından
+      metin  : franko kristaldi ydi kristaldi
+      duyulan: franco cristaldi idi cristaldi
+  REPLACE  ...ödüllü filmleer imza atmış
+      metin  : yapımcıydı
+      duyulan: yapımcı idi
+  REPLACE  ...yaşlı projeksiyoncusu alfredo yu
+      metin  : filip nuaer
+      duyulan: philippe noier
+  REPLACE  ...dönen yetişkin yönetmeni ize
+      metin  : jak peren
+      duyulan: jacques perrin
+  REPLACE  ...rolü için seçilen salvatoer
+      metin  : kaşo
+      duyulan: cascio
+  REPLACE  ...aşkı elena yı ize
+      metin  : anyeze
+      duyulan: agnese
+  REPLACE  ...yer aradı ve aradığını
+      metin  : palatso
+      duyulan: palazzo
+  REPLACE  ...söze dökülmeyen bağ kurulur
+      metin  : filip
+      duyulan: philip
+  REPLACE  ...ve en sevgi dolu
+      metin  : öğüdünü
+      duyulan: öğüdüğünü
+  REPLACE  ...da aşk kesilip çıkarılır
+      metin  : enyo morrikone
+      duyulan: ennio morricone
+  REPLACE  ...morrikone nin oğlu andrea
+      metin  : morrikone
+      duyulan: morricone
+  REPLACE  ...güzel hikaye ilk kez
+      metin  : seyirciyle
+      duyulan: seyirci ile
+  INSERT   ...yarıda kalacaktı cennet sineması
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...bu son olabilirdi ama
+      metin  : franko kristaldi
+      duyulan: franco cristaldi
+  REPLACE  ...simgesiyken filmin dışında hayat
+      metin  : simidine
+      duyulan: simidide
+  REPLACE  ...simidine dönüşüyor kısaltılmış versiyon
+      metin  : mayısında kan
+      duyulan: mayıs ında cannes
+  REPLACE  ...verdi ödülü fransız yönetmen
+      metin  : bertran bliye nin filmiyle
+      duyulan: bertrand blien in filmi ile
+  REPLACE  ...iyi müzik alfredo rolüyle
+      metin  : filip
+      duyulan: philip
+  REPLACE  ...küçük toto rolüyle salvatoer
+      metin  : kaşo
+      duyulan: casho
+  REPLACE  ...henüz çocuk yaşta olan
+      metin  : kaşo
+      duyulan: casho
+  INSERT   ...göstergelerinden zirve ize mart
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...iyi yabancı dilde film
+      metin  : oscar ını
+      duyulan: oskarını
+  REPLACE  ...kesintisiz aşk montajına dönüşmüştür
+      metin  : morrikone
+      duyulan: morricone
+  INSERT   ...şey en büyük hediyeye
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...en büyük hediyeye dönüşmüştür
+      metin  : sansürün
+      duyulan: sansur un
+  INSERT   ...son perdesi daha vardı
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...elena yı fransız oyuncu
+      metin  : brijit fose
+      duyulan: brigitte fosse
+  REPLACE  ...hikayesi sinemaseverlerin önemli kısmı
+      metin  : kan
+      duyulan: kaan
+  REPLACE  ...filmlerden bugün filmin çekildiği
+      metin  : palatso
+      duyulan: palazzo
+  REPLACE  ...uzun yıllar devam etti
+      metin  : morrikone
+      duyulan: morricone
+  REPLACE  ...kabininden sızan o ışık
+      metin  : huzmesiyle
+      duyulan: huzmesi ile
+  REPLACE  ...açıldığında asıl yuvasını bulmuştu
+      metin  : nöron film de
+      duyulan: neuron filmde
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: film-2026-11-22.duyulan.txt

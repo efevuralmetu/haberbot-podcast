@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-22.mp3
+
+beklenen 2607 kelime | duyulan 2623 kelime | eşleşme %94.2
+sayı ifadesi: metinde 341, duyulanda 276  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kalmasını beklemek zor olurdu
+      metin  : yöer
+      duyulan: göer
+  REPLACE  ...bu kayaya eskiden beri
+      metin  : ayu taş
+      duyulan: ayıtaş
+  REPLACE  ...münzeviden gelir rivayete göer
+      metin  : dionisiy
+      duyulan: dionisi
+  REPLACE  ...ibadet ederek yaşamıştır halk
+      metin  : denis
+      duyulan: deniz
+  REPLACE  ...bilim insanlarının mağaraya ilgisi
+      metin  : yetmişlerin
+      duyulan: lerin
+  DELETE   ...bilimler akademisi nin novosibirsk
+      metin  : teki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...projesine dönüştü ekibin başında
+      metin  : anatoli derevyanko
+      duyulan: anatoly derevyanco
+  REPLACE  ...toprak katmanları en az
+      metin  : yıla
+      duyulan: yılda
+  INSERT   ...oldu ne de iğneler
+      metin  : (yok)
+      duyulan: ki
+  REPLACE  ...o sırada almanya nın
+      metin  : laypzig
+      duyulan: leipzig
+  REPLACE  ...almanya nın laypzig kentinde
+      metin  : maks plank enstitüsü nde
+      duyulan: max planck enstitüsünde
+  REPLACE  ...i sveçli genetikçi svante
+      metin  : pebo nun
+      duyulan: pébon un
+  REPLACE  ...elleyen insanlar örnekleri kirletir
+      metin  : pebo nun
+      duyulan: pébon un
+  REPLACE  ...bulunan kemiklerin kısmını bu
+      metin  : laypzig
+      duyulan: leipzig
+  REPLACE  ...neandertal çocuğunundu kemiğin parçası
+      metin  : laypzig
+      duyulan: leipzig
+  REPLACE  ...laypzig e yola çıktı
+      metin  : laboratuvarda yohannes krauze
+      duyulan: laboratuvar da johannes krause
+  REPLACE  ...seçenek akla gelmiyordu bile
+      metin  : krauze
+      duyulan: krause
+  REPLACE  ...bile krauze ilk olarak
+      metin  : mitokondriyal
+      duyulan: mitokondrial
+  REPLACE  ...kalma ihtimali daha yüksektir
+      metin  : krauze
+      duyulan: krause
+  REPLACE  ...pebo sonradan anılarında anlatır
+      metin  : krauze
+      duyulan: krause
+  REPLACE  ...de oturarak dinlenecek haberdi
+      metin  : mitokondriyal
+      duyulan: mitokondrial
+  INSERT   ...tekrar etti sonuç değişmedi
+      metin  : (yok)
+      duyulan: kibin
+  REPLACE  ...yılın sonunda geldi ekip
+      metin  : mitokondriyle
+      duyulan: mitokondri ile
+  REPLACE  ...topluluğa bulunduğu mağaradan ötürü
+      metin  : denisovalılar
+      duyulan: deniz hovalılar
+  REPLACE  ...vadide bulunan kemiklerle homo
+      metin  : erektus
+      duyulan: erectus
+  REPLACE  ...daki kafatası kapağıyla tanınmıştı
+      metin  : denisovalılar
+      duyulan: deniz hovalılar
+  REPLACE  ...dişlerden okunan dna da
+      metin  : denisovalılar
+      duyulan: deniz hovalılar
+  REPLACE  ...ama elde hala parmak
+      metin  : ucu ile
+      duyulan: ucuyla
+  REPLACE  ...dişten başka şey yoktu
+      metin  : laypzig
+      duyulan: kiki de leipzig
+  REPLACE  ...daha ayrıntılı genom çıkardı
+      metin  : öyle
+      duyulan: örtle
+  REPLACE  ...gözlü olduğu anlaşıldı böylece
+      metin  : denisova
+      duyulan: deniz hova
+  INSERT   ...dna laboratuvarında yıllarca beklemişti
+      metin  : (yok)
+      duyulan: kiki da
+  REPLACE  ...dikkatini çekmeyen yığında bekliyordu
+      metin  : denisova mağarası ndan
+      duyulan: deniz hova mağarasından
+  REPLACE  ...izi taşıyordu bu kırıntı
+      metin  : laypzig
+      duyulan: leipzig
+  REPLACE  ...ve pebo nun ekibinden
+      metin  : viviyan slon un
+      duyulan: vivian sloan ın
+  REPLACE  ...un önüne geldi önce
+      metin  : mitokondriyal
+      duyulan: mitokondrial
+  REPLACE  ...olabilirdi bu kişi neandertal
+      metin  : anneyle
+      duyulan: anne ile
+  REPLACE  ...kısa sürede lakap taktı
+      metin  : denny
+      duyulan: deni
+  REPLACE  ...olmadığını defalarca kontrol etti
+      metin  : denny
+      duyulan: deni
+  REPLACE  ...yakındı bu neandertallerin avrupa
+      metin  : ile
+      duyulan: yla
+  ... ve 39 fark daha
+
+metinde olup DUYULMAYAN: 93 kelime | duyulup metinde OLMAYAN: 119
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: arkeoloji-2026-11-22.duyulan.txt

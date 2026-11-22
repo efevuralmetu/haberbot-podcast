@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-22.mp3
+
+beklenen 2839 kelime | duyulan 2835 kelime | eşleşme %99.0
+sayı ifadesi: metinde 84, duyulanda 69  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...the glass a few
+      metin  : centimetres
+      duyulan: centimeters
+  REPLACE  ...alcoholic drinks such as
+      metin  : whisky
+      duyulan: whiskey
+  REPLACE  ...zone just a few
+      metin  : millimetres
+      duyulan: millimeters
+  REPLACE  ...al directions by its
+      metin  : neighbours
+      duyulan: neighbors
+  REPLACE  ...surface though have no
+      metin  : neighbours
+      duyulan: neighbors
+  DELETE   ...same everywheer a liquid
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...be tauter and a
+      metin  : neighbouring
+      duyulan: neighboring
+  DELETE   ...the thomson marangoni effect
+      metin  : but
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...century the idea of
+      metin  : thomson
+      duyulan: thompson
+  REPLACE  ...of fluid mathematics in
+      metin  : anette
+      duyulan: annette
+  REPLACE  ...the applied mathematician andrea
+      metin  : bertozzi
+      duyulan: bertosi
+  REPLACE  ...together with yonatan dukler
+      metin  : hangjie
+      duyulan: hang ji
+  REPLACE  ...ji and claudia falcon
+      metin  : bertozzi
+      duyulan: bertosi
+  REPLACE  ...it the shock that
+      metin  : bertozzi
+      duyulan: bertosi
+  REPLACE  ...mathematical point of view
+      metin  : bertozzi
+      duyulan: bertosi
+  REPLACE  ...thin film of wine
+      metin  : bertozzi
+      duyulan: bertosi
+  REPLACE  ...also produces flawless tears
+      metin  : bertozzi
+      duyulan: bertazzi
+  REPLACE  ...aroma and structuer the
+      metin  : palate
+      duyulan: palette
+  DELETE   ...became widespread in the
+      metin  : nineties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...droplets aer born and
+      metin  : bertozzi
+      duyulan: bertosi
+  REPLACE  ...today s episode of
+      metin  : nöron bilim
+      duyulan: neuron bilym
+
+metinde olup DUYULMAYAN: 22 kelime | duyulup metinde OLMAYAN: 20
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: science-2026-11-22.duyulan.txt

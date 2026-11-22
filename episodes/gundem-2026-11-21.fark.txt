@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-21.mp3
+
+beklenen 1370 kelime | duyulan 1387 kelime | eşleşme %94.0
+sayı ifadesi: metinde 246, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...muhasebe soruşturmasıyla derinleşti ve
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...birlikte göz atalım varşova
+      metin  : (yok)
+      duyulan: yöneti mi ni n açiklamasina göer varşova
+  REPLACE  ...varşova yönetiminin açıklamasına göer
+      metin  : kh
+      duyulan: k
+  REPLACE  ...füzesi ukrayna sınırına yaklaşık
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...hava aracı ize sınıra
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...nato genel sekreteri mark
+      metin  : rutte
+      duyulan: rute
+  REPLACE  ...etti saldırılar çin in
+      metin  : şenzen
+      duyulan: shenzhen
+  REPLACE  ...ilk kez donald trump
+      metin  : şi cinping
+      duyulan: xi jinping
+  REPLACE  ...sonuç üretmediği yorumunu yaptı
+      metin  : xi
+      duyulan: i kisi
+  REPLACE  ...dünya vurgusunu öne çıkardı
+      metin  : abd
+      duyulan: el bid i
+  INSERT   ...öngören savaş yetkileri tasarısını
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...tasarıyı eylülde kabul etmişti
+      metin  : reuters
+      duyulan: rutheis
+  INSERT   ...anketine göer amerikalıların yalnızca
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...bm i klim zirvesi
+      metin  : copotuz
+      duyulan: ceop
+  INSERT   ...bakanların öncülük ettiği ve
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ülkeden oluşan grup bu
+      metin  : taahhüdün
+      duyulan: tahüdün
+  REPLACE  ...geri konulmasını talep ediyor
+      metin  : copotuz
+      duyulan: ceop
+  REPLACE  ...da çalkantılı günler sürüyor
+      metin  : reuters
+      duyulan: gritties
+  REPLACE  ...wal street journal yani
+      metin  : vol strit jurnal
+      duyulan: wal street journal
+  REPLACE  ...düşük seviyesine indi bu
+      metin  : düşüşle
+      duyulan: düşüşte
+  REPLACE  ...yaşıyor mali işler direktörü
+      metin  : kolet kres geçici
+      duyulan: colette kresgeçici
+  REPLACE  ...üstlendi huang ın ize
+      metin  : konger de
+      duyulan: kongrede
+  REPLACE  ...kasım da nasdaq borsasında
+      metin  : ant koduyla
+      duyulan: ante kodu yla
+  REPLACE  ...hacmi hisseyi aştı cuma
+      metin  : günkü
+      duyulan: günü
+  DELETE   ...openai kasım da gpt
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...işler için konumlandırıldı ve
+      metin  : api
+      duyulan: apf
+  REPLACE  ...ilk tepkiler ize karışık
+      metin  : kaliforniya başsavcısı
+      duyulan: california baş savcısı
+  REPLACE  ...günü sert kayıplar yaşandı
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...teknoloji ağırlıklı nasdaq ize
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ize üzerinde değer kaybetti
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...ve dow jones zirvelerinden
+      metin  : (yok)
+      duyulan: dan
+  INSERT   ...oynaklığı ölçen vix endeksi
+      metin  : (yok)
+      duyulan: in
+  INSERT   ...fed den gelen mesajlar
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...da haftayı kayıpla kapattı
+      metin  : bist
+      duyulan: beiste
+  REPLACE  ...yıl sonu enflasyon beklentisi
+      metin  : dörde
+      duyulan: e
+  INSERT   ...yıl sonu enflasyon tahminini
+      metin  : (yok)
+      duyulan: den e
+  INSERT   ...kararının açıklanacağı aralık ta
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...mamoğlu nun avukatları müvekkillerinin
+      metin  : mütalaaya
+      duyulan: mütalaya
+  REPLACE  ...son savunmasını yapabilmesi için
+      metin  : segbi
+      duyulan: sgbi
+  REPLACE  ...yargıtay hukuk dairesi nde
+      metin  : temyiz
+      duyulan: temiz
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 15
+
+duyulan metin: gundem-2026-11-21.duyulan.txt

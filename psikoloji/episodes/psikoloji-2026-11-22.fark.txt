@@ -1,0 +1,79 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-22.mp3
+
+beklenen 1275 kelime | duyulan 1282 kelime | eşleşme %97.8
+sayı ifadesi: metinde 146, duyulanda 122  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...tahta konuyor ve her
+      metin  : çiviyi
+      duyulan: çiviği
+  REPLACE  ...yarım saat karşısında elinde
+      metin  : kronometreyle
+      duyulan: kronometer ile
+  INSERT   ...teklif ediliyor bazılarına dolar
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...festinger ve öğrencisi james
+      metin  : carlsmith
+      duyulan: carl smit
+  INSERT   ...james carlsmith ti sonuçlar
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...çok anılan bulgularından oldu
+      metin  : sağduyu
+      duyulan: sadu yu
+  REPLACE  ...rahatsız olur bu görev
+      metin  : berbattı
+      duyulan: berbattığı
+  REPLACE  ...uyduramadığında inancı davranışa uydurur
+      metin  : psikologlar
+      duyulan: pesikologlar
+  REPLACE  ...araştırmacılar başka açıklamalar önerdi
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...açıklamalar önerdi psikolog daryl
+      metin  : bem
+      duyulan: bam
+  INSERT   ...etki laboratuvarda da gösterildi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...da gösterildi psikolog jack
+      metin  : brehm
+      duyulan: bram
+  REPLACE  ...yüksek bedeller ödediğimiz yerlerde
+      metin  : de işler
+      duyulan: değişler
+  INSERT   ...alışılmadık saha çalışmasında görmüştü
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...festinger ve meslektaşı henry
+      metin  : riken
+      duyulan: rican
+  REPLACE  ...henry riken ve stanley
+      metin  : şekter
+      duyulan: schecter
+  REPLACE  ...daha önce basından kaçan
+      metin  : grup
+      duyulan: grub
+  REPLACE  ...karşılık veriyorsanız bu genellikle
+      metin  : içeride
+      duyulan: içerde
+  DELETE   ...hissetmesidir yanlış karar verdim
+      metin  : demek ile
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...önemli şeyi açığa çıkardılar
+      metin  : kendimize
+      duyulan: kendimizi
+  REPLACE  ...elinde olduğunu görmemizi sağlar
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 19 kelime | duyulup metinde OLMAYAN: 26
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-11-22.duyulan.txt

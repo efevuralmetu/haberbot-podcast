@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-22.mp3
+
+beklenen 2803 kelime | duyulan 2828 kelime | eşleşme %94.0
+sayı ifadesi: metinde 386, duyulanda 266  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...haziran
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...büyük zaferi topraklarını kaybettiren
+      metin  : savaş oldu
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kalesi nde abd hükümetinin
+      metin  : temsilcileriyle
+      duyulan: temsilcileri ile
+  REPLACE  ...lakota lideri red cloud
+      metin  : bozeman
+      duyulan: bozaman
+  REPLACE  ...bugünkü güney dakota nın
+      metin  : missouri
+      duyulan: mizuri
+  DELETE   ...bu toprakların ortasında ovadan
+      metin  : birdenbier
+      duyulan: (YOK — atlanmış)
+  INSERT   ...söz tam yıl dayandı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bedel isteyenler de kasım
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...isteyenler de kasım beyaz
+      metin  : saray
+      duyulan: sarayı
+  REPLACE  ...beyaz saray da başkan
+      metin  : ulysses
+      duyulan: ulises
+  REPLACE  ...yaşayan bütün lakota ve
+      metin  : şayen
+      duyulan: şayan
+  INSERT   ...ve şayen grupları ocak
+      metin  : (yok)
+      duyulan: ya
+  REPLACE  ...da savaş bakanı william
+      metin  : belknabı
+      duyulan: belknap ı
+  REPLACE  ...etmiş ve başkan grant
+      metin  : in
+      duyulan: ın
+  REPLACE  ...ajans merkezlerinden kopan aileler
+      metin  : hunkpapa
+      duyulan: hung papa
+  REPLACE  ...hunkpapa lakota nın kutsal
+      metin  : adamı
+      duyulan: aramı
+  INSERT   ...sitting bul o sırada
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...ordunun powder irmağı kıyısındaki
+      metin  : şayen
+      duyulan: şayan
+  REPLACE  ...kampını basıp yakması kuzey
+      metin  : şayenleri de
+      duyulan: şayanları da
+  INSERT   ...sınavı beklenenden erken geldi
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...erken geldi haziran da
+      metin  : crook
+      duyulan: kruk
+  REPLACE  ...müttefiki karga ve şoşoni
+      metin  : savaşçılarıyla
+      duyulan: savaşçıları ile
+  REPLACE  ...mola verdiğinde lakota ve
+      metin  : şayen
+      duyulan: şayan
+  REPLACE  ...sürdü akşam savaşçılar çekildiğinde
+      metin  : crook
+      duyulan: kruk
+  REPLACE  ...de ne olduğunu terry
+      metin  : ye
+      duyulan: e
+  REPLACE  ...ırmağın yani küçük boynuz
+      metin  : irmağı nın
+      duyulan: ırmağının
+  REPLACE  ...katıldıkça kamp kilometrelerce uzandı
+      metin  : hunkpapa
+      duyulan: hung papa
+  REPLACE  ...uzandı hunkpapa oglala minikonju
+      metin  : san
+      duyulan: sun
+  REPLACE  ...blackfoot lakota ve kuzey
+      metin  : şayen
+      duyulan: şayan
+  REPLACE  ...da terry custer ı
+      metin  : alayıyla
+      duyulan: alayı ile
+  REPLACE  ...da kampın taşınırken bıraktığı
+      metin  : toprağı
+      duyulan: toprağa
+  REPLACE  ...verecekti i zciler oradan
+      metin  : kilometreyi
+      duyulan: km yi
+  REPLACE  ...aramaya geri dönen askerlerin
+      metin  : kızılderiliyle
+      duyulan: kızılderili ile
+  REPLACE  ...doğru alayı böldü frederick
+      metin  : benteen
+      duyulan: benten
+  REPLACE  ...adamla reno yu destekleyecekti
+      metin  : bölük de
+      duyulan: bölükte
+  REPLACE  ...kaldı yani alay aslında
+      metin  : dörde
+      duyulan: e
+  INSERT   ...olarak bilmiyordu reno saat
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...vadide köyün güney ucuna
+      metin  : hunkpapa
+      duyulan: hankpapa
+  INSERT   ...ucuna hunkpapa çadırlarına doğru
+      metin  : (yok)
+      duyulan: nala
+  REPLACE  ...önde gelen isimlerinden olacak
+      metin  : hunkpapa
+      duyulan: hankpapa
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 84 kelime | duyulup metinde OLMAYAN: 116
+bölme/birleşme farkı (hata değil, elendi): 42
+
+duyulan metin: tarih-2026-11-22.duyulan.txt

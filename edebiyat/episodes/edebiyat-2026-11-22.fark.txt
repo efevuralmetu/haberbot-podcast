@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-22.mp3
+
+beklenen 1624 kelime | duyulan 1624 kelime | eşleşme %95.9
+sayı ifadesi: metinde 208, duyulanda 149  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...görmediği istemediği kadın buluyor
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...genç katip düşünün yıl
+      metin  : kırkların
+      duyulan: ların
+  INSERT   ...içine kapanık memur şinasi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tophane de müslümanlığı seçip
+      metin  : reşad
+      duyulan: reşat
+  REPLACE  ...rasin in tiyatrosu la
+      metin  : fonten
+      duyulan: fontaine
+  REPLACE  ...tiyatrosu la fonten in
+      metin  : fablları lamartin
+      duyulan: fabları la martin
+  REPLACE  ...başka gezegenden gelmiş gibiydi
+      metin  : tanzimadın
+      duyulan: tanzimat ın
+  REPLACE  ...yöneticilerinin gözünden kaçmadı mustafa
+      metin  : reşid
+      duyulan: reşit
+  INSERT   ...paşa çevresinin de desteğiyle
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...doğu bilimcilerin kurduğu sosyete
+      metin  : azyatik
+      duyulan: asyatik
+  REPLACE  ...azyatik yani asya derneği
+      metin  : üyeliğe
+      duyulan: üyeliye
+  INSERT   ...türk dostluğundan etkilendiği anlatılır
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...etkilendiği anlatılır ya da
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...görev aldı meclis i
+      metin  : maarif
+      duyulan: marif
+  REPLACE  ...ama yeni fikirleri ve
+      metin  : avrupai
+      duyulan: avrupay
+  REPLACE  ...görevinden uzaklaştırıldı sonra koruyucusu
+      metin  : reşid
+      duyulan: reşit
+  INSERT   ...yolculuk da burada başladı
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ortaya çıktı ertesi yıl
+      metin  : (yok)
+      duyulan: ın
+  REPLACE  ...ertesi yıl ekim ayında
+      metin  : agah
+      duyulan: aga
+  REPLACE  ...zarif ürkek kuşun adı
+      metin  : müştağın
+      duyulan: müştahın
+  REPLACE  ...dehşet içinde kalır zavallı
+      metin  : müştağın
+      duyulan: müştah ın
+  REPLACE  ...kim hangi hakla birleştiriyor
+      metin  : müştağın
+      duyulan: müştah ın
+  REPLACE  ...işin yönünü değiştirir sonunda
+      metin  : müştak
+      duyulan: müştah
+  REPLACE  ...daha büyük işe girişti
+      metin  : tasvir i
+      duyulan: de tasviri
+  REPLACE  ...herkesin okuyabileceği şeye dönüştürmek
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...kuşak toplandı bunların en
+      metin  : parlağı
+      duyulan: parlığı
+  REPLACE  ...ateşli sesle sürdürüyordu ama
+      metin  : altmışların
+      duyulan: ların
+  INSERT   ...yazarlar sıkı gözetim alınıyordu
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...paris arasında gidip geldi
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...fransa ya gitti sonunda
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...ülkesine kesin olarak döndü
+      metin  : (yok)
+      duyulan: don
+  INSERT   ...kesin olarak döndü eylül
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kısa süer sonra ahmet
+      metin  : vefik paşa molyer
+      duyulan: vefikpaşa molieer
+  REPLACE  ...silister yi sahneye taşıdı
+      metin  : yetmişlerde
+      duyulan: lerde
+  REPLACE  ...yetmeden sessizce sahneden çekildi
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: edebiyat-2026-11-22.duyulan.txt

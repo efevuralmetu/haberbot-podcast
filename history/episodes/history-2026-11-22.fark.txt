@@ -1,0 +1,67 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-22.mp3
+
+beklenen 4251 kelime | duyulan 4239 kelime | eşleşme %99.4
+sayı ifadesi: metinde 265, duyulanda 191  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...the black hills for
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...for kilometers hunkpapa oglala
+      metin  : miniconjou sans arc
+      duyulan: miniconju sands ark
+  DELETE   ...to take companies about
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...with companies of about
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  DELETE   ...with companies of about
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...open ground because soldier
+      metin  : in
+      duyulan: and
+  REPLACE  ...custer s adjutant william
+      metin  : cooke
+      duyulan: cook
+  REPLACE  ...be called medicine tail
+      metin  : coulee
+      duyulan: cooley
+  REPLACE  ...the company of captain
+      metin  : myles keogh
+      duyulan: keough
+  REPLACE  ...his year old nephew
+      metin  : autie
+      duyulan: audie
+  REPLACE  ...off that field was
+      metin  : keogh
+      duyulan: keough
+  REPLACE  ...clash with the lakota
+      metin  : policemen
+      duyulan: policeman
+  REPLACE  ...in mountains the lakota
+      metin  : hold
+      duyulan: holds
+  DELETE   ...in had been worth
+      metin  : point dollars
+      duyulan: (YOK — atlanmış)
+  DELETE   ...came to moer than
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  DELETE   ...has long since passed
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...century and a half
+      metin  : stand
+      duyulan: stands
+  REPLACE  ...today s episode of
+      metin  : nöron tarih
+      duyulan: neurontary
+
+metinde olup DUYULMAYAN: 25 kelime | duyulup metinde OLMAYAN: 13
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: history-2026-11-22.duyulan.txt

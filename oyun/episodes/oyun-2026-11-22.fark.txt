@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-22.mp3
+
+beklenen 1930 kelime | duyulan 1910 kelime | eşleşme %95.3
+sayı ifadesi: metinde 241, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...atlayıp duruyor en sevilen
+      metin  : pokémon lar
+      duyulan: pokemonlar
+  INSERT   ...gün oyunu bitiriyor şubat
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...önünde kasketli çocuk bu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...i ngilizce sürümü adı
+      metin  : pokémon
+      duyulan: pokemon
+  REPLACE  ...adı pokémon red yani
+      metin  : pokémon
+      duyulan: pokemon
+  REPLACE  ...yazıyor karakter önündekiyle konuşuyor
+      metin  : left right down b start select game boy
+      duyulan: gameboy
+  REPLACE  ...karmaşık değildi bilgisayarda oyunu
+      metin  : emülatörle
+      duyulan: emületörle
+  REPLACE  ...rastlantısallığından doğan hikaye yazıyordu
+      metin  : pokémon lara
+      duyulan: pokemonlara
+  REPLACE  ...piyangosuna dönüşüyordu kalabalığın yakaladığı
+      metin  : pidgey
+      duyulan: pijri
+  REPLACE  ...a evrilecek o kuş
+      metin  : aaabaaajss
+      duyulan: abajis
+  REPLACE  ...yetmeyeceği sorusu da büyüdü
+      metin  : pokémon
+      duyulan: pokemon
+  REPLACE  ...saatlerce çabaladı karakter hedefe
+      metin  : kaer kala
+      duyulan: karekala
+  REPLACE  ...baş düşmanı oldu ardından
+      metin  : celadon
+      duyulan: geladon
+  REPLACE  ...team rocket in gizli
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...gizli üssü geldi bu
+      metin  : üssün
+      duyulan: üstün
+  REPLACE  ...gösterge vardı ve izleyiciler
+      metin  : anarchy
+      duyulan: anarşi
+  REPLACE  ...izleyiciler anarchy ya da
+      metin  : democracy
+      duyulan: demokrasi
+  REPLACE  ...din hikaye oyunun başlarında
+      metin  : mt moon
+      duyulan: m t mo n
+  REPLACE  ...kalabalık rastlantıların yönlendirmesiyle helix
+      metin  : fossil i
+      duyulan: fosili
+  REPLACE  ...da tanrıya dönüştü sohbet
+      metin  : praize
+      duyulan: praze
+  REPLACE  ...sohbet praize helix yani
+      metin  : helix e
+      duyulan: helikse
+  REPLACE  ...etti kalabalık ara takımdaki
+      metin  : eevee yi
+      duyulan: eyveyi
+  REPLACE  ...ateş taşını kullandırdı eevee
+      metin  : flareon
+      duyulan: flerion
+  REPLACE  ...yolculuğun başında seçilen ve
+      metin  : charmeleon a
+      duyulan: charmelona
+  REPLACE  ...yakalanan efsanevi elektrik kuşu
+      metin  : zapdos da
+      duyulan: zaptos ta
+  REPLACE  ...oyuncuyu en son uğradığı
+      metin  : pokémon
+      duyulan: pokemon
+  INSERT   ...küçük mucize gibiydi mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...topluluğun sayısız iç şakasının
+      metin  : helix e
+      duyulan: helikse
+  REPLACE  ...insanların rastlantıya anlam yükleme
+      metin  : ihtiyacıyla
+      duyulan: ihtiyacı ile
+  REPLACE  ...yazdığı anlardan bu yayın
+      metin  : pokémon kırmızı yla
+      duyulan: pokemon kırmızıyla
+  REPLACE  ...ardından kanal serinin kuşağından
+      metin  : pokémon
+      duyulan: pokemon
+  REPLACE  ...pokémon crystal e yani
+      metin  : pokémon kristal
+      duyulan: pokemon crystal
+  INSERT   ...ne olacağını biliyordu şubat
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...sıradan şey bunun sıradanlaşmasında
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...sabotajlar şakacılar kayıplar ve
+      metin  : binlerce
+      duyulan: yüzbinlerce
+  INSERT   ...dokunarak yazdığı ortak imzaydı
+      metin  : (yok)
+      duyulan: zeynçiy in notu
+  REPLACE  ...kara pazar da salınan
+      metin  : pokémon
+      duyulan: pokemon
+  DELETE   ...ad kuralını helix fossil
+      metin  : sarmal fosil
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...fossil sarmal fosil ve
+      metin  : pokémon crystal pokémon
+      duyulan: pokemon kristal pokemon
+  REPLACE  ...pokémon kristal için uyguladım
+      metin  : kubbe fosil
+      duyulan: kube fossil
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 65 kelime | duyulup metinde OLMAYAN: 57
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: oyun-2026-11-22.duyulan.txt
