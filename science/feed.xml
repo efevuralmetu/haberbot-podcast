@@ -15,7 +15,20 @@
 <itunes:category text="Science"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Sun, 22 Nov 2026 14:33:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:33:04 +0000</lastBuildDate>
+<item>
+<title>Why Is the Sky Blue and Not Purple?</title>
+<description>Explains why the sky is blue: when sunlight strikes the molecules in the air, shorter wavelengths scatter more strongly (Rayleigh scattering). The episode traces the story from Tyndall's experiments to Rayleigh's eighteen seventy-one law of the inverse fourth power of wavelength, and on to Smoluchowski and Einstein showing that the scattering actually comes from tiny fluctuations in the density of the air. It also explains why the sky does not look purple even though violet light scatters even more: sunlight contains little violet, the atmosphere absorbs some of it, and our eyes are not very sensitive to violet. Finally, it looks at how ozone adds to the blue of twilight and why sunsets on Mars are blue.
+
+Konular: rayleigh scattering, sky, light, atmosphere, color.</description>
+<itunes:subtitle>Explains why the sky is blue: when sunlight strikes the molecules in the air, shorter wavelengths scatter more strongly (Rayleigh scattering). The episode traces the story from Tyndall's experiments to Rayleigh's eighteen seventy-one law of the inverse fourth power of wavelength, and on to Smoluchowski and Einstein showing that the scattering actually comes from tiny fluctuations in the density of the air. It also explains why the sky does not look purple even though violet light scatters even more: sunlight contains little violet, the atmosphere absorbs some of it, and our eyes are not very sensitive to violet. Finally, it looks at how ozone adds to the blue of twilight and why sunsets on Mars are blue.</itunes:subtitle>
+<podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-11-23.vtt" type="text/vtt" language="en" rel="captions"/>
+<pubDate>Mon, 23 Nov 2026 04:47:43 +0300</pubDate>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-11-23.mp3" length="12685580" type="audio/mpeg"/>
+<guid isPermaLink="false">science-2026-11-23</guid>
+<itunes:duration>17:41</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>The Wine That Climbs the Glass: The Physics of Wine Tears</title>
 <description>This episode explains how wine swirled in a glass climbs up the glass wall as a thin film, against gravity, and then slides back down in droplets, known as the tears of wine. It explains the mechanism: alcohol evaporates faster at the edge, which creates a difference in surface tension, and that difference pulls the liquid upward. The episode runs from James Thomson's first explanation in eighteen fifty-five to Carlo Marangoni's eighteen sixty-five thesis, and on to twenty twenty, when Bertozzi and his team modeled the climbing film as a shock
@@ -570,9 +583,9 @@ Konular: mathematics, fluids, turbulence, artificial intelligence, millennium pr
 <itunes:subtitle>Explains the Millennium Problem asking whether the Navier-Stokes equations, which describe the motion of water, have smooth solutions that exist forever; the claim made in September twenty twenty-six that a solution blowing up in finite time (a singularity) had been found, the fact that this has still not been independently verified, and why the real puzzle of turbulence in physics nevertheless remains open.</itunes:subtitle>
 <podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-09-20.vtt" type="text/vtt" language="en" rel="captions"/>
 <pubDate>Sun, 20 Sep 2026 04:58:36 +0300</pubDate>
-<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-20.mp3" length="13700780" type="audio/mpeg"/>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-20.mp3?v=2" length="13396940" type="audio/mpeg"/>
 <guid isPermaLink="false">science-2026-09-20</guid>
-<itunes:duration>19:05</itunes:duration>
+<itunes:duration>18:36</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 <item>
@@ -739,9 +752,9 @@ Konular: mpemba etkisi, termodinamik, donma, fizik deneyi.</description>
 <itunes:subtitle>Explains how the Mpemba effect — made famous in nineteen sixty-three when a Tanzanian secondary school student claimed his hot ice cream mix froze before the cooled one — fails to replicate in careful controlled experiments with water, while the phenomenon of a</itunes:subtitle>
 <podcast:transcript url="https://podcast.noronmedia.com/science/episodes/science-2026-09-04.vtt" type="text/vtt" language="en" rel="captions"/>
 <pubDate>Fri, 04 Sep 2026 05:23:34 +0300</pubDate>
-<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-04.mp3" length="10187180" type="audio/mpeg"/>
+<enclosure url="https://cdn.noronmedia.com/science/science-2026-09-04.mp3?v=2" length="9922508" type="audio/mpeg"/>
 <guid isPermaLink="false">science-2026-09-04</guid>
-<itunes:duration>14:12</itunes:duration>
+<itunes:duration>13:47</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 <item>
