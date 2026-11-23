@@ -1,0 +1,176 @@
+sira	karakter	saniye	kar_sn	metin
+1	99	5.440	18.20	Violet light scatters in the air even more than blue does, s
+2	83	4.480	18.53	The colour we see when we look up is a compromise between ph
+3	77	4.960	15.52	On Mars, that compromise is turned on its head, and there th
+4	104	5.280	19.70	When you look up at a clear midday sky, the colour you see i
+5	58	3.840	15.10	For centuries, people simply accepted this blue as it was.
+6	133	6.880	19.33	Some thought it was the colour of the air itself; others bel
+7	112	6.560	17.07	In his notebooks, Leonardo da Vinci wrote that blue arises f
+8	74	4.160	17.79	His intuition was remarkably good, but he had no experiment 
+9	94	5.920	15.88	To truly understand why the sky is blue, someone first had t
+10	63	3.360	18.75	That someone turned out to be the Irish physicist John Tynda
+11	82	5.120	16.02	In the eighteen sixties, the Royal Institution in London was
+12	60	3.680	16.30	There he studied how light passes through gases and vapours.
+13	105	6.880	15.26	An experiment he carried out in eighteen sixty-nine produced
+14	145	8.480	17.10	He filled a long, horizontal glass tube with a very dilute o
+15	39	3.360	11.61	At first the tube was empty, invisible.
+16	133	7.200	18.47	But as the light interacted with the vapour, a chemical reac
+17	119	7.040	16.90	And at that moment, inside the tube, right where the beam pa
+18	51	3.200	15.94	What truly excited Tyndall was not just the colour.
+19	134	7.200	18.61	When he looked at this blue cloud from the side, at a right 
+20	110	6.560	16.77	In other words, the light waves were not vibrating randomly 
+21	82	5.120	16.02	This detail mattered, because the real sky was known to do e
+22	170	9.280	18.32	The French physicist François Arago had shown in eighteen oh
+23	75	4.160	18.03	Tyndall's tube mimicked the sky both in its colour and in it
+24	150	8.640	17.36	The conclusion he drew was this: the sky is blue because the
+25	91	4.800	18.96	Tyndall thought these particles might be fine dust and water
+26	105	5.760	18.23	Tyndall was an experimenter; he had made the observation, bu
+27	119	6.720	17.71	That gap was filled by a young English aristocrat: John Will
+28	195	10.240	19.04	In papers published in eighteen seventy-one, Rayleigh asked 
+29	99	4.960	19.96	To understand the answer, it is enough to think of light as 
+30	108	6.080	17.76	As this wave passes over a tiny particle, it shakes the elec
+31	85	5.120	16.60	And those shaking charges, like tiny antennas, send out new 
+32	101	5.440	18.57	That is what scattering is: part of the incoming light is kn
+33	107	6.080	17.60	Through an elegant line of reasoning known as dimensional an
+34	122	6.080	20.07	Rayleigh showed that the intensity of the scattered light is
+35	118	6.720	17.56	Halve the wavelength, and the scattering does not double; it
+36	69	3.520	19.60	This fourth power is the hidden rule that sets the colour of
+37	114	6.400	17.81	In visible light, red has a wavelength of around seven hundr
+38	127	7.040	18.04	Plug those numbers into Rayleigh's formula, and you find tha
+39	156	7.840	19.90	When white light from the sun enters the air, its short-wave
+40	76	4.640	16.38	The long wavelengths, meanwhile, largely carry straight on a
+41	123	6.720	18.30	When you look not at the sun itself but at a point far from 
+42	40	2.880	13.89	The formula also explained polarisation.
+43	124	6.720	18.45	A shaking charge cannot emit light along the direction of it
+44	96	5.280	18.18	That is why light coming from the band of sky at a right ang
+45	88	4.800	18.33	Today we know that honeybees and some migratory animals use 
+46	112	5.760	19.44	A single physical principle of Rayleigh's explained both the
+47	32	2.720	11.76	But the story did not end there.
+48	55	3.360	16.37	Because two troubling questions still stood in the way.
+49	72	4.960	14.52	The first: was the thing scattering this light really dust a
+50	146	8.160	17.89	The second, and even more vexing: if the formula was so clea
+51	87	4.800	18.12	The answer to the first question came from a place that seem
+52	105	5.440	19.30	When Rayleigh returned to the subject in eighteen ninety-nin
+53	171	9.280	18.43	The molecules of the air itself, nitrogen and oxygen, were t
+54	132	7.520	17.55	Rayleigh pointed out that on mountain summits, in air almost
+55	54	3.200	16.88	The source of the scattering had to be the air itself.
+56	91	5.440	16.73	But there was a trap hidden inside this idea, and it took ph
+57	59	3.840	15.36	Imagine a perfectly uniform, completely homogeneous medium.
+58	39	3.040	12.83	A flawless block of glass, for example.
+59	96	4.960	19.35	Inside the glass there are countless atoms too, and each one
+60	46	3.040	15.13	Yet glass does not scatter light to the sides.
+61	18	2.560	7.03	It is transparent.
+62	4	1.600	2.50	Why?
+63	142	8.160	17.40	Because when atoms are evenly arranged, the wave each tiny a
+64	32	1.920	16.67	The waves cancel each other out.
+65	43	2.880	14.93	Only the light travelling forward survives.
+66	31	2.560	12.11	Perfect order kills scattering.
+67	67	4.160	16.11	So why does air glow blue instead of being as transparent as
+68	103	6.080	16.94	This is where the Polish physicist Marian Smoluchowski, and 
+69	174	9.600	18.12	Smoluchowski in nineteen oh-eight, and Einstein in a famous 
+70	52	3.360	15.48	Gas molecules move about randomly and without pause.
+71	109	6.240	17.47	So when you divide the air into small volumes, the number of
+72	90	5.120	17.58	At any moment one corner holds a few molecules more than ave
+73	38	3.040	12.50	The density is constantly fluctuating.
+74	115	5.760	19.97	And it is these small, random fluctuations that keep the sca
+75	46	3.200	14.38	Einstein's real goal was not actually the sky.
+76	66	4.000	16.50	He was trying to explain a phenomenon called critical opales
+77	172	9.920	17.34	When a liquid approaches the special critical point between 
+78	68	3.680	18.48	Einstein calculated how much light these fluctuations would 
+79	83	5.280	15.72	Then, when he applied his formula to an ordinary gas, someth
+80	53	3.520	15.06	Rayleigh's fourth-power law reappeared all by itself.
+81	198	10.400	19.04	Because the positions of molecules in an ideal gas are indep
+82	32	2.080	15.38	But now we knew why it was true.
+83	97	6.080	15.95	What makes the sky blue is the grainy, discrete nature of ai
+84	63	3.840	16.41	If air were a continuous, smooth fluid, the sky would be bla
+85	39	3.520	11.08	This result had a dramatic side effect.
+86	77	4.320	17.82	The amount of scattering depended on the number of molecules
+87	143	7.840	18.24	That meant if you measured the brightness of the sky careful
+88	100	5.280	18.94	Rayleigh had tried this roughly, and with Einstein's calcula
+89	144	7.680	18.75	At a time when people were still arguing over whether atoms 
+90	76	4.640	16.38	Now let us return to the second, more stubborn question: the
+91	28	2.080	13.46	Rayleigh's law is merciless.
+92	164	8.960	18.30	Violet light has a wavelength of around four hundred nanomet
+93	43	2.880	14.93	On paper, the sky should be painted violet.
+94	16	1.600	10.00	So why isn't it?
+95	68	3.680	18.48	The answer lies not in a single cause but in a chain of thre
+96	33	1.920	17.19	The first link is the Sun itself.
+97	54	3.680	14.67	Sunlight does not contain all colors in equal amounts.
+98	141	7.840	17.98	The solar spectrum measured outside the atmosphere reaches i
+99	175	9.120	19.19	Elements such as calcium and iron in the Sun's outer layers 
+100	51	3.520	14.49	So there is less violet light to scatter than blue.
+101	69	3.840	17.97	The second link is that what scattering produces is not a pu
+102	82	4.320	18.98	Rayleigh scattering does not pick out a single wavelength an
+103	73	4.480	16.29	It scatters the whole spectrum, just the short wavelengths m
+104	159	7.840	20.28	The light that reaches your eye from the sky is a broad mixt
+105	64	4.480	14.29	Within this mixture there is violet, but also green, and yel
+106	55	3.840	14.32	The third, and perhaps most decisive, link is your eye.
+107	127	6.720	18.90	In our retina there are three kinds of cone cells that let u
+108	94	5.280	17.80	That broad mixture coming from the sky stimulates these thre
+109	177	9.120	19.41	The short-wavelength cones are strongly stimulated, but the 
+110	122	6.720	18.15	The brain reads the ratio of these three signals, and the re
+111	164	8.960	18.30	What's more, our eyes respond only weakly to violet light to
+112	20	1.920	10.42	The violet is there.
+113	66	3.680	17.93	We simply lack the equipment to pick it out as a color of it
+114	128	7.520	17.02	In short, it would be wrong to say that "the sky is really v
+115	91	4.640	19.61	There is a spectrum of light, and there is a living creature
+116	102	6.080	16.78	A bee or a bird, with different cones in its eyes, may well 
+117	57	3.840	14.84	This is the border where physics ends and biology begins.
+118	86	5.280	16.29	The blueness of the sky is made half in the atmosphere and h
+119	76	4.160	18.27	At the end of the day, the same physics paints a completely 
+120	88	4.960	17.74	When the sun is high overhead, its light takes the shortest 
+121	53	4.320	12.27	As the sun nears the horizon, that path grows longer.
+122	127	6.400	19.84	When the sun sits right on the horizon line, its light passe
+123	107	5.440	19.67	On a journey that long, the blue light is scattered off in e
+124	90	5.280	17.05	What reaches you are the longer wavelengths that survive the
+125	96	5.280	18.18	The crimson of a sunset is really the other side of the same
+126	68	3.840	17.71	The blue has been taken from your sun to become somebody els
+127	162	8.320	19.47	While you watch a red sun go down in the west, people thousa
+128	52	3.360	15.48	Larger particles in the air make the picture richer.
+129	87	4.640	18.75	Rayleigh's formula only holds for scatterers much smaller th
+130	201	11.200	17.95	For bigger particles, such as cloud droplets, a more general
+131	76	5.760	13.19	That is why clouds look white, and why a hazy city sky looks
+132	161	8.960	17.97	The same principle explains why, after major volcanic erupti
+133	58	4.000	14.50	But after sunset, the stage opens on a far quieter secret.
+134	118	6.720	17.56	Once the sun has slipped below the horizon, the sky overhead
+135	77	4.480	17.19	For a long time, this twilight blue was also put down to Ray
+136	36	3.200	11.25	Yet the calculations did not add up.
+137	183	8.640	21.18	With the sun below the horizon, the light reaching the air o
+138	132	7.040	18.75	By a simple Rayleigh calculation, the twilight sky overhead 
+139	81	4.480	18.08	The American physicist Edward Hulburt solved this puzzle in 
+140	105	5.920	17.74	The key lay in the ozone layer, concentrated between fifteen
+141	104	5.920	17.57	Ozone is known for absorbing ultraviolet light, but it also 
+142	119	6.880	17.30	This band, discovered by the French chemist James Chappuis i
+143	106	6.240	16.99	During the day the effect is barely noticeable, because sunl
+144	98	5.600	17.50	At twilight, though, sunlight passes through the ozone layer
+145	107	5.440	19.67	Along that long path the orange and yellow are filtered out,
+146	136	7.520	18.09	Hulburt's calculations showed that the deep blue of twilight
+147	130	7.200	18.06	So the color you see above you as night falls is a signature
+148	75	4.160	18.03	Perhaps the most beautiful test of this story took place on 
+149	36	2.880	12.50	The atmosphere of Mars is very thin.
+150	113	6.240	18.11	The pressure at the surface is less than one percent of Eart
+151	55	3.520	15.62	In air this sparse, scattering by molecules stays weak.
+152	106	6.560	16.16	What gives the Martian sky its color is a fine, iron-oxide-r
+153	124	6.400	19.38	These dust grains are about one point five micrometers acros
+154	93	5.600	16.61	The dust partly absorbs blue light, while scattering red and
+155	95	5.600	16.96	As a result, the daytime sky on Mars has a color somewhere b
+156	39	3.360	11.61	And at sunset, the colors trade places.
+157	151	7.680	19.66	Dust particles of this size are better at scattering blue li
+158	144	8.160	17.65	When the sun sinks toward the horizon and its light travels 
+159	192	10.560	18.18	This sight had been known since the Viking missions, and on 
+160	54	3.840	14.06	On Earth, the noon sky is blue and the evening is red.
+161	53	4.320	12.27	On Mars, the noon sky is red and the evening is blue.
+162	96	5.600	17.14	This reversal is the most elegant confirmation of an idea th
+163	178	8.800	20.23	The colour of the sky is not some magical property of the ai
+164	48	3.520	13.64	along with whatever absorbs light along the way.
+165	73	4.320	16.90	An astronomer who understands this calculation can now run i
+166	104	5.440	19.12	By studying the light that filters through the atmospheres o
+167	123	6.880	17.88	astronomers are trying to tell whether those atmospheres are
+168	194	9.600	20.21	Rayleigh's fourth-power curve shows up as a distinct slope i
+169	105	5.600	18.75	These estimates are not yet certain; they often rest on indi
+170	66	4.160	15.87	But the principle is the same one at work in Tyndall's glass
+171	140	6.720	20.83	The next time you look up at a clear midday sky, you might r
+172	201	10.400	19.33	There is light filtered by the atoms on the surface of the S
+173	106	6.720	15.77	Violet is there too, but the sky has kept it hidden, not for
+174	58	3.360	17.26	We have reached the end of today's episode of Nöron Bilim.
+175	35	2.400	14.58	Until we meet again in a new story.
