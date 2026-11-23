@@ -1,7 +1,5 @@
 When a secondary school student said his hot ice cream mix froze before the cold one, the class laughed and his teacher called it "your physics, Mpemba physics". Sixty years later the most careful measurements made on water did not vindicate the student — but laser-trapped glass beads and a single ion did. The answer to the question is neither yes nor no; the question itself was asked wrong.
 
-The science channel's own config (`podcast-science.json`: `"language": "en"`, `kaynak_kanal: bilim`) and its hard constraint make this an English translation of today's `bilim.txt`, not a new Turkish text — so I'm delivering it in English, with numbers spelled out (the `en` path skips the Turkish number normalization in `kanal-render.ps1:56`).
-
 In nineteen sixty-three, in the Tanga region of northern Tanzania, a group of students between thirteen and fourteen years old were making ice cream in the cookery room of Magamba Secondary School. The recipe was simple: boil the milk, stir in sugar, wait until it cools to room temperature, then put it in the freezing compartment of the refrigerator. There was only room for a few containers in that compartment, and every week the students went through the same race for space. That day a student named Erasto Mpemba decided not to wait his turn. He mixed the boiling milk with sugar and put the container straight into the freezer while it was still steaming.
 
 An hour and a half later, when the freezer was opened, Mpemba's mixture had frozen. The containers that had been cooled first were still liquid.

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-23.mp3
+
+beklenen 2419 kelime | duyulan 2421 kelime | eşleşme %94.6
+sayı ifadesi: metinde 223, duyulanda 196  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dağın tepesinde buçuk
+      metin  : kilometrekarelik
+      duyulan: kilometer karelik
+  REPLACE  ...adını yıl önce söylemişti
+      metin  : yozgadın
+      duyulan: yozgat ın
+  INSERT   ...kesintisiz taş yığını vardır
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...boyunca dolanır ve içinde
+      metin  : nokta kilometrekarelik
+      duyulan: kilometer karelik
+  REPLACE  ...de dikkat çekicidir kerkenes
+      metin  : kızılırmağın
+      duyulan: kızılırmağan
+  REPLACE  ...neye ait olduğunu bilemediler
+      metin  : yirmilerin
+      duyulan: lerin
+  REPLACE  ...yu tarayan hans henning
+      metin  : fon
+      duyulan: von
+  REPLACE  ...fon der osten ve
+      metin  : erih şmit
+      duyulan: erich schmidt
+  REPLACE  ...surun planını çıkardılar ve
+      metin  : şmit
+      duyulan: schmidt
+  INSERT   ...kaldı bu sessizliği bozan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...üniversitesi nde çalışan arkeolog
+      metin  : geoffrey
+      duyulan: joffrey
+  REPLACE  ...geoffrey summers ve mimar
+      metin  : fransuaz
+      duyulan: françois
+  REPLACE  ...yükselen balondu kerkenes ekibi
+      metin  : helyumla
+      duyulan: heliumla
+  REPLACE  ...yöntem alçak açıyla gelen
+      metin  : ışıkta
+      duyulan: ışık da
+  REPLACE  ...desteğini örgütleyebilen güçlü otorite
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...kapısı adını verdi bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...baş seziliyordu araştırmacılar bunu
+      metin  : frigyalıların
+      duyulan: fırigyalıların
+  REPLACE  ...matar ile yani ana
+      metin  : tanrıça ile
+      duyulan: tanrıçayla
+  REPLACE  ...ana tanrıça ile ilişkilendirdiler
+      metin  : frigya
+      duyulan: fırigya
+  REPLACE  ...nın kaya anıtlarında ve
+      metin  : kapı nişlerinde
+      duyulan: kapın içlerinde
+  REPLACE  ...ama yunanca değildi eski
+      metin  : frig
+      duyulan: fırig
+  REPLACE  ...değildi eski frig alfabesiydi
+      metin  : frigce
+      duyulan: fırigse
+  REPLACE  ...batı ve orta kesiminde
+      metin  : gordion
+      duyulan: gordiyol
+  REPLACE  ...orta kesiminde gordion merkezli
+      metin  : frig
+      duyulan: fırig
+  REPLACE  ...kerkenes yazıtlarını inceleyen dilbilimci
+      metin  : klod briks
+      duyulan: claude briggs
+  REPLACE  ...dilbilimci klod briks bunların
+      metin  : frigce
+      duyulan: fırigca
+  REPLACE  ...şehrin seçkinleri kendi anıtlarına
+      metin  : frig
+      duyulan: fırig
+  REPLACE  ...anıtlarına frig dilinde ve
+      metin  : frig
+      duyulan: fırig
+  REPLACE  ...büyük yapı topluluğundan geldi
+      metin  : araştırmacıların
+      duyulan: sırmacıların
+  REPLACE  ...heykel parçaları ve yine
+      metin  : frigce
+      duyulan: fırigca
+  REPLACE  ...i kuranların kültürel dünyası
+      metin  : frig
+      duyulan: fırig
+  REPLACE  ...ve anıtsal mimarileri batıya
+      metin  : frig
+      duyulan: fırig
+  REPLACE  ...yaşam süresini daralttı kerkenes
+      metin  : mö
+      duyulan: milodiyedye
+  REPLACE  ...soru o günün hangi
+      metin  : gün olduğuydu
+      duyulan: günü olduydu
+  REPLACE  ...adlı eserinde lidya kralı
+      metin  : kroisos
+      duyulan: croesus
+  REPLACE  ...kroisos un hikayesini anlatır
+      metin  : kroisos
+      duyulan: croesus
+  REPLACE  ...lidya nın doğu sınırı
+      metin  : halys nehriydi
+      duyulan: halis nehri ydi
+  REPLACE  ...vardı herodotos a göer
+      metin  : kroisos
+      duyulan: croesus
+  REPLACE  ...göer kroisos un babası
+      metin  : alyattes
+      duyulan: alyaddes
+  REPLACE  ...kralı kyaksares arasındaki savaş
+      metin  : mö
+      duyulan: te
+  ... ve 44 fark daha
+
+metinde olup DUYULMAYAN: 98 kelime | duyulup metinde OLMAYAN: 101
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: arkeoloji-2026-11-23.duyulan.txt

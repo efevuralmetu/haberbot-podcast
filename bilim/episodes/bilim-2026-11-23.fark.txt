@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-23.mp3
+
+beklenen 1956 kelime | duyulan 1948 kelime | eşleşme %95.6
+sayı ifadesi: metinde 210, duyulanda 158  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...uzayın karanlığıyla güneş ışığının
+      metin  : karışımı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karışımı olduğunu leonardo da
+      metin  : vinçi
+      duyulan: vinci
+  REPLACE  ...i rlandalı fizikçi john
+      metin  : tyndal
+      duyulan: tyndale
+  REPLACE  ...institution yani kraliyet enstitüsü
+      metin  : altmışlarda tyndal
+      duyulan: larda tyndale
+  REPLACE  ...ve güçlü lambanın ışığını
+      metin  : mercekle
+      duyulan: çecekle
+  REPLACE  ...mavi buluta yandan hüzmeye
+      metin  : dik açıyla
+      duyulan: açığıyla
+  REPLACE  ...biliniyordu fransız fizikçi fransuva
+      metin  : arago
+      duyulan: aragobin da
+  REPLACE  ...göstermişti ve güneşe derece
+      metin  : açıyla
+      duyulan: açığıyla
+  REPLACE  ...soylusu doldurdu john william
+      metin  : strutt
+      duyulan: stratt
+  INSERT   ...adıyla lord rayleigh rayleigh
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...düşünmek yeter bu dalga
+      metin  : küçük
+      duyulan: büyük
+  REPLACE  ...indirirseniz saçılma kat değil
+      metin  : üssü
+      duyulan: üstü
+  REPLACE  ...formülüne koyduğunuzda mavi ışığın
+      metin  : kırmızıya
+      duyulan: hızıya
+  REPLACE  ...girdiğinde kısa dalga boylu
+      metin  : bileşenler
+      duyulan: birleşenler
+  DELETE   ...bu saçılmış ve maviye
+      metin  : kaymış
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...da açıklıyordu sallanan yük
+      metin  : salınım
+      duyulan: salının
+  DELETE   ...cevabı ilk bakışta tuhaf
+      metin  : görünen
+      duyulan: (YOK — atlanmış)
+  INSERT   ...görünen yerden geldi rayleigh
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...neden çünkü atomlar düzenli
+      metin  : dağıldığında
+      duyulan: kaldığında
+  REPLACE  ...şte burada polonyalı fizikçi
+      metin  : maryan smoluhovski
+      duyulan: marian smoluchowski
+  REPLACE  ...smoluhovski ve ardından albert
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...albert aynştayn devreye giriyor
+      metin  : smoluhovski aynştayn
+      duyulan: smoluchowski de einstein
+  INSERT   ...giriyor smoluhovski aynştayn ize
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...bu küçük rastgele dalgalanmalardır
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...olguyu açıklamaya çalışıyordu sıvı
+      metin  : kaynama ile
+      duyulan: kaynamayla
+  REPLACE  ...dalgalanmaları devasa boyutlara ulaşır
+      metin  : aynştayn
+      duyulan: einstein
+  REPLACE  ...bağlıydı demek ki gökyüzünün
+      metin  : parlaklığını
+      duyulan: yasaklığını
+  REPLACE  ...rayleigh bunu kabaca denemişti
+      metin  : aynştayn
+      duyulan: einstein
+  DELETE   ...şimdi daha inatçı soruya
+      metin  : dönelim
+      duyulan: (YOK — atlanmış)
+  DELETE   ...baştan yutar yani saçılacak
+      metin  : mor
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geniş karışımdır bu karışımın
+      metin  : içinde
+      duyulan: rengi de
+  REPLACE  ...belirleyici halka ize gözünüzdür
+      metin  : retinamızda
+      duyulan: retinağımızda
+  REPLACE  ...de boş kalmaz çünkü
+      metin  : karışımda
+      duyulan: içinde
+  REPLACE  ...donanımımız yoktur kısacası gökyüzü
+      metin  : aslında
+      duyulan: yanında
+  REPLACE  ...yarı yarıya da kafatasımızın
+      metin  : içinde
+      duyulan: yolunda
+  DELETE   ...size ulaşan yolculuğu atlatabilen
+      metin  : uzun
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...büyük parçacıklar bu tabloyu
+      metin  : zenginleştirir
+      duyulan: güneştirir
+  REPLACE  ...parçacıklarda alman fizikçi gustav
+      metin  : mi nin
+      duyulan: mien in de
+  REPLACE  ...görünmesinin nedeni budur büyük
+      metin  : yanardağ
+      duyulan: parçacıklarda
+  REPLACE  ...parlar uzun süer bu
+      metin  : alacakaranlık mavisi
+      duyulan: alaca karanlık
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 65
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: bilim-2026-11-23.duyulan.txt

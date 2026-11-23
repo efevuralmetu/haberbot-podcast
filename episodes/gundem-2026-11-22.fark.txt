@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-22.mp3
+
+beklenen 1344 kelime | duyulan 1346 kelime | eşleşme %93.4
+sayı ifadesi: metinde 256, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...antalya da süren
+      metin  : copotuz iklim zirvesinde
+      duyulan: cheop i klim zirvesi nde
+  INSERT   ...wal street in mart
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...söyledi kurum bu ifadelerle
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ifadelerle dubai de verilen
+      metin  : taahhütlerden
+      duyulan: tahütlerden
+  REPLACE  ...belirtti associated press yani
+      metin  : ap
+      duyulan: am
+  INSERT   ...itirazlarını türkiye saatiyle sabah
+      metin  : (yok)
+      duyulan: ya
+  INSERT   ...iletebilecek oturumu da saat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oturumu da saat başlayacak
+      metin  : metnin
+      duyulan: metnim
+  REPLACE  ...cumartesi gecesi bahreyn deki
+      metin  : al rafa
+      duyulan: arrafa
+  REPLACE  ...rafa ve avali hava
+      metin  : üslerinde
+      duyulan: üstlerinde
+  REPLACE  ...abd hürmüz boğazı ndaki
+      metin  : keşm
+      duyulan: keşme
+  REPLACE  ...vurmuş i ran da
+      metin  : kuveyt teki
+      duyulan: kuwait deki
+  REPLACE  ...kuveyt teki abd hava
+      metin  : üssünü
+      duyulan: üstsünü
+  REPLACE  ...anlaşmaya varılmasını istiyor abu
+      metin  : dabi
+      duyulan: dhabi
+  REPLACE  ...üzerinde uzlaştı ancak ukrayna
+      metin  : donbas ın
+      duyulan: dombasın
+  REPLACE  ...almayacağı tartışmanın merkezinde duruyor
+      metin  : öte
+      duyulan: etoete
+  REPLACE  ...nato yönetimi rus füzesinin
+      metin  : polonya
+      duyulan: kolonya
+  REPLACE  ...ardından müttefikini savunacağı güvencesini
+      metin  : yineledi
+      duyulan: yeneledi
+  REPLACE  ...haberler geliyor peru nun
+      metin  : and
+      duyulan: ant
+  INSERT   ...salgınında hayatını kaybedenlerin sayısı
+      metin  : (yok)
+      duyulan: ü
+  REPLACE  ...kıymetler ve borsa komisyonu
+      metin  : sec
+      duyulan: se çiğ
+  REPLACE  ...soruşturma başlattığını yazmıştı ne
+      metin  : sec
+      duyulan: seç
+  REPLACE  ...ayrılmış yerine geçici olarak
+      metin  : kolet kres
+      duyulan: colette crest
+  REPLACE  ...dolarlık gelir beklentisi açıkladı
+      metin  : kres
+      duyulan: crest
+  REPLACE  ...ayrıca şirketin çin de
+      metin  : hiki
+      duyulan: hickey
+  REPLACE  ...çiplerinin satışını durduracağını duyurdu
+      metin  : abd
+      duyulan: ebede
+  DELETE   ...modellerini tanıttı openai gpt
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...daha ekonomik sol modellerini
+      metin  : chatgpt
+      duyulan: chet gpt
+  REPLACE  ...chatgpt codex ve geliştirici
+      metin  : arayüzü
+      duyulan: ara
+  REPLACE  ...kullanıma sundu google ize
+      metin  : ceminay
+      duyulan: gemini
+  REPLACE  ...neon modelini yayımladı ve
+      metin  : genie
+      duyulan: geni
+  REPLACE  ...hukuki denetim de sıkılaşıyor
+      metin  : kaliforniya
+      duyulan: california
+  REPLACE  ...in hisseleri de cuma
+      metin  : günkü
+      duyulan: günü nkü
+  REPLACE  ...haftayı ağır kayıplarla kapattı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...puan düşerek puandan kapandı
+      metin  : esenpi
+      duyulan: s p
+  REPLACE  ...indi avrupa da ize
+      metin  : kristin lagard
+      duyulan: christine lagarde
+  REPLACE  ...ayrılacak olması nedeniyle avrupa
+      metin  : halef
+      duyulan: halep
+  REPLACE  ...liraya yükseldi gram cuma
+      metin  : günkü
+      duyulan: günü
+  INSERT   ...gram cuma günkü yaklaşık
+      metin  : (yok)
+      duyulan: lik
+  REPLACE  ...politika faizi ekim ayında
+      metin  : baz
+      duyulan: bas
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 56 kelime | duyulup metinde OLMAYAN: 66
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: gundem-2026-11-22.duyulan.txt

@@ -1,0 +1,91 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-23.mp3
+
+beklenen 1483 kelime | duyulan 1481 kelime | eşleşme %97.2
+sayı ifadesi: metinde 170, duyulanda 150  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yakışmaz görünmeye başlamasındaydı paris
+      metin  : altmışların
+      duyulan: ların
+  REPLACE  ...aşınmış gravür odanın sahibi
+      metin  : döni didro
+      duyulan: donny diderot
+  REPLACE  ...ansiklopedi değil sırtındaki giysi
+      metin  : didro ya
+      duyulan: diderot a
+  REPLACE  ...sabahlığı giyip odasında dolaşırken
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...vardır ve bu uyumsuzluk
+      metin  : didro yu
+      duyulan: diderot u
+  REPLACE  ...oda olmuştur ama artık
+      metin  : didro nun
+      duyulan: diderot un
+  REPLACE  ...didro nun odası değildir
+      metin  : didro
+      duyulan: diderot
+  INSERT   ...değildir didro bu deneyimi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kısa denemeye döktü adı
+      metin  : röger sür ma viyey rob dö şambr
+      duyulan: regressur mavier robe de chamber
+  REPLACE  ...fikri de buradan çıkar
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...bağlamı da eklemek gerek
+      metin  : didro
+      duyulan: diderot
+  INSERT   ...günlerini yaşıyordu yıl önce
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yıl önce rus çariçesi
+      metin  : i kinci katerina
+      duyulan: katharina
+  REPLACE  ...kütüphanesini satın almış kitapları
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...uyumsuzluk alışveriş listesine dönüşebilir
+      metin  : didro nun
+      duyulan: diderot un
+  INSERT   ...merakı olarak kaldı sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu hikayeye ad verdi
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...verdi didro etkisi mccracken
+      metin  : ın
+      duyulan: in
+  REPLACE  ...oluşturur mccracken bu takımlara
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...i skemle değişmedi değişen
+      metin  : yanındakiyle
+      duyulan: yanındaki ile
+  REPLACE  ...az konuşulan yanına gelelim
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...uyan parçaları toplar bu
+      metin  : didro
+      duyulan: diderot
+  REPLACE  ...tek kırmızı sabahlık seçebilirsiniz
+      metin  : didro nun
+      duyulan: diderot un
+  REPLACE  ...da hafife almamak gerek
+      metin  : didro nun
+      duyulan: diderot un
+  REPLACE  ...yoksa hayatımı mı uyduracağım
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: psikoloji-2026-11-23.duyulan.txt

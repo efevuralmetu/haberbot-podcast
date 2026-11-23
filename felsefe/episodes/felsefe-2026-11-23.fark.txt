@@ -1,0 +1,109 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-23.mp3
+
+beklenen 2235 kelime | duyulan 2229 kelime | eşleşme %96.8
+sayı ifadesi: metinde 258, duyulanda 220  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...dünyanın öbür ucuna kadar
+      metin  : ab ı
+      duyulan: ağbı
+  REPLACE  ...güneşin hiç doğmadığı ülke
+      metin  : vardır
+      duyulan: var
+  REPLACE  ...çeni ölümsüz kılan su
+      metin  : ab ı
+      duyulan: ağbı
+  REPLACE  ...komutandan çok daha fazlasıdır
+      metin  : firdevsi nin şehname
+      duyulan: firdevsinin şeyhname
+  REPLACE  ...kimseye görünmeden kaybolan yolcudur
+      metin  : hıdrellez
+      duyulan: hıdrelles
+  REPLACE  ...karel çapek oyun yazdı
+      metin  : vyets
+      duyulan: vietz
+  REPLACE  ...prag da i mparator
+      metin  : i kinci
+      duyulan: ii
+  REPLACE  ...opera şarkıcısıdır adı artık
+      metin  : emilya
+      duyulan: emilia
+  REPLACE  ...o da kağıdı yakar
+      metin  : elina makropulos
+      duyulan: elena makropoulos
+  REPLACE  ...elina makropulos ölür oyunu
+      metin  : leoş
+      duyulan: da leos
+  INSERT   ...bernard williams oldu williams
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ölümsüzlüğün can sıkıntısı hesabıyla
+      metin  : elina
+      duyulan: elena
+  DELETE   ...yaşayan hala biz olmalıyız
+      metin  : yani
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...bugünkü karakterimiz ilgilerimiz değerlerimizle
+      metin  : bağı
+      duyulan: bağ
+  REPLACE  ...kurmuş yitirmiş yeniden kurmuşsunuzdur
+      metin  : elina makropulos
+      duyulan: elena makropoulos
+  REPLACE  ...amerikalı filozof john martin
+      metin  : fischer
+      duyulan: fisher
+  REPLACE  ...daha önce hikayeyle görmüştü
+      metin  : horhe
+      duyulan: jorge
+  REPLACE  ...hikayeyle görmüştü horhe luis
+      metin  : borhes
+      duyulan: borges de
+  INSERT   ...yani ölümsüz öykü antikacının
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...tribün olarak tanıtır adı
+      metin  : markus
+      duyulan: marcus
+  REPLACE  ...tur ve i mparator
+      metin  : diokletiyanus
+      duyulan: diokletianus
+  REPLACE  ...yüzyıllar içinde neredeyze unutmuştur
+      metin  : borhes
+      duyulan: borges
+  REPLACE  ...in burada yaptığı şey
+      metin  : williams ın
+      duyulan: williamson
+  REPLACE  ...şey söylenmiştir neden yardımlaşmazlar
+      metin  : borhes
+      duyulan: borges
+  REPLACE  ...etmenin ne anlamı olabilir
+      metin  : öykünün
+      duyulan: ölkünün
+  INSERT   ...edilmez yalnızca yeri değiştirilir
+      metin  : (yok)
+      duyulan: öt
+  REPLACE  ...şey başka düzlemde yaşar
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...kitaplarından ölümü hatırlamaya ayırır
+      metin  : öğüdü
+      duyulan: öğüdüğü
+  REPLACE  ...aynı yerde bulmasıdır romalı
+      metin  : stoacı
+      duyulan: stoaci
+  REPLACE  ...bittiğine şaşırırlar yüzyılda martin
+      metin  : haydeger
+      duyulan: heidegger de
+  REPLACE  ...adamın sonsuz hayatı elina
+      metin  : makropulos
+      duyulan: makropoulos
+  REPLACE  ...damlayı her gün taşıyoruz
+      metin  : nöron felsefe de
+      duyulan: neuron felsefede
+
+metinde olup DUYULMAYAN: 39 kelime | duyulup metinde OLMAYAN: 38
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: felsefe-2026-11-23.duyulan.txt

@@ -13,717 +13,705 @@ But mathematicians did not know whether these equations would one day blow up to
 Earlier this month someone said they had found the answer; and the answer was "no, it does not stay smooth."
 
 4
-00:00:28.750 --> 00:00:36.880
-`podcast-science.json` şunu diyor: `"language": "en"` — Nöron Science, Nöron Bilim'in İngilizce çeviri kanalı.
-
-5
-00:00:36.880 --> 00:00:46.130
-Prompt'ta "Türkçe" yazıyor ama sert kısıt "çeviri kaynağa sadık kalır" ve kaynak (`bilim.txt`) zaten Türkçe; Türkçe yazmak kaynağın kopyası olurdu.
-
-6
-00:00:46.130 --> 00:00:54.420
-Bu yüzden `bilim.txt`'nin sadık İngilizce çevirisini veriyorum (giriş/kapanış ve jingle satırları hariç, senin eklediklerin).
-
-7
-00:00:54.420 --> 00:00:59.350
+00:00:29.110 --> 00:00:34.040
 Look at the little whirlpool that forms behind your spoon when you stir your morning coffee.
 
-8
-00:00:59.350 --> 00:01:05.720
+5
+00:00:34.040 --> 00:00:40.410
 It turns for a few seconds, splits into smaller eddies peeling off its edges, and then they all fade away.
 
-9
-00:01:05.720 --> 00:01:09.530
+6
+00:00:40.410 --> 00:00:44.220
 This is one of the most ordinary events in the universe.
 
-10
-00:01:09.530 --> 00:01:17.820
+7
+00:00:44.220 --> 00:00:52.510
 The same thing happens in water running from a tap, in air slipping off a wingtip, in the blood in your arteries, in Jupiter's atmosphere.
 
-11
-00:01:17.820 --> 00:01:24.190
+8
+00:00:52.510 --> 00:00:58.880
 And behind something this ordinary stands one of the seven most famous unsolved problems in mathematics.
 
-12
-00:01:24.190 --> 00:01:27.520
+9
+00:00:58.880 --> 00:01:02.210
 Whoever solves it gets 1 million dollars.
 
-13
-00:01:27.520 --> 00:01:31.650
+10
+00:01:02.210 --> 00:01:06.340
 For 26 years, nobody has collected.
 
-14
-00:01:31.650 --> 00:01:38.340
+11
+00:01:06.340 --> 00:01:13.030
 The story begins in 1822, with a paper the French engineer Claude-Louis Navier presented to the academy.
 
-15
-00:01:38.340 --> 00:01:45.510
+12
+00:01:13.030 --> 00:01:20.200
 Navier was trying to write an equation of motion that accounted for the friction inside a flowing liquid — its viscosity.
 
-16
-00:01:45.510 --> 00:01:54.120
+13
+00:01:20.200 --> 00:01:28.810
 His assumptions about the forces between molecules were, by today's understanding, wrong, but the form of the equation turned out to be surprisingly right.
 
-17
-00:01:54.120 --> 00:02:03.850
+14
+00:01:28.810 --> 00:01:38.540
 Twenty-three years later the Irish physicist George Gabriel Stokes derived the same equation again from a far firmer foundation, from the assumptions of continuum mechanics.
 
-18
-00:02:03.850 --> 00:02:07.180
+15
+00:01:38.540 --> 00:01:41.870
 The two names have stayed side by side ever since.
 
-19
-00:02:07.180 --> 00:02:14.990
+16
+00:01:41.870 --> 00:01:49.680
 What the equation does is really one very simple idea applied to fluids: force equals mass times acceleration.
 
-20
-00:02:14.990 --> 00:02:18.640
+17
+00:01:49.680 --> 00:01:53.330
 Picture a tiny parcel inside a liquid.
 
-21
-00:02:18.640 --> 00:02:27.410
+18
+00:01:53.330 --> 00:02:02.100
 The things pushing it are clear: the pressure difference coming from its neighbours, the friction created by viscosity, and outside forces such as gravity.
 
-22
-00:02:27.410 --> 00:02:30.100
+19
+00:02:02.100 --> 00:02:04.790
 Their sum accelerates the parcel.
 
-23
-00:02:30.100 --> 00:02:37.430
+20
+00:02:04.790 --> 00:02:12.120
 To that you add the condition that mass cannot come from nothing — in an incompressible liquid, what goes in must equal what comes out.
 
-24
-00:02:37.430 --> 00:02:39.000
+21
+00:02:12.120 --> 00:02:13.690
 That is all.
 
-25
-00:02:39.000 --> 00:02:43.290
+22
+00:02:13.690 --> 00:02:17.980
 An idea you could explain to a high-school student in half an hour.
 
-26
-00:02:43.290 --> 00:02:48.700
+23
+00:02:17.980 --> 00:02:23.390
 The trouble hides in a single term that this simple idea leaves behind in the equation.
 
-27
-00:02:48.700 --> 00:02:51.710
+24
+00:02:23.390 --> 00:02:26.400
 The fluid carries itself.
 
-28
-00:02:51.710 --> 00:02:54.880
+25
+00:02:26.400 --> 00:02:29.570
 The velocity field drags itself along.
 
-29
-00:02:54.880 --> 00:03:06.210
+26
+00:02:29.570 --> 00:02:40.900
 In mathematics this is called nonlinearity, and because of this term the solutions of the equation cannot be added, cannot be rescaled, cannot be broken into pieces and handled separately.
 
-30
-00:03:06.210 --> 00:03:10.180
+27
+00:02:40.900 --> 00:02:44.870
 Add two solutions and you do not get a third.
 
-31
-00:03:10.180 --> 00:03:13.670
+28
+00:02:44.870 --> 00:02:48.360
 A small change does not stay small.
 
-32
-00:03:13.670 --> 00:03:19.240
+29
+00:02:48.360 --> 00:02:53.930
 This single term is the wall mathematicians have been walking into for 200 years.
 
-33
-00:03:19.240 --> 00:03:22.090
+30
+00:02:53.930 --> 00:02:56.780
 Today these equations are everywhere.
 
-34
-00:03:22.090 --> 00:03:24.940
+31
+00:02:56.780 --> 00:02:59.630
 Weather forecasting models solve them.
 
-35
-00:03:24.940 --> 00:03:38.030
+32
+00:02:59.630 --> 00:03:12.720
 Engineers designing aircraft wings, biomedical teams developing heart valves, firms siting wind turbines, climate scientists modelling ocean currents — all of them have the same set of equations computed numerically.
 
-36
-00:03:38.030 --> 00:03:39.760
+33
+00:03:12.720 --> 00:03:14.450
 The results work.
 
-37
-00:03:39.760 --> 00:03:41.970
+34
+00:03:14.450 --> 00:03:16.660
 Planes fly.
 
-38
-00:03:41.970 --> 00:03:45.780
+35
+00:03:16.660 --> 00:03:20.470
 In practice, the equation does its job.
 
-39
-00:03:45.780 --> 00:03:49.910
+36
+00:03:20.470 --> 00:03:24.600
 The question mathematicians ask is something else entirely.
 
-40
-00:03:49.910 --> 00:03:55.800
+37
+00:03:24.600 --> 00:03:30.490
 They are not asking whether the equation is useful; they are asking whether it is consistent with itself.
 
-41
-00:03:55.800 --> 00:04:07.130
+38
+00:03:30.490 --> 00:03:41.820
 The question is this: in 3-dimensional space, give it a smooth and reasonable initial state; the fluid is nowhere infinitely fast, nowhere does it jump abruptly, everything is perfectly soft.
 
-42
-00:04:07.130 --> 00:04:12.220
+39
+00:03:41.820 --> 00:03:46.910
 Does this equation have a single solution that stays smooth until the end of time?
 
-43
-00:04:12.220 --> 00:04:16.510
+40
+00:03:46.910 --> 00:03:51.200
 Or does the solution tear itself apart in a finite time?
 
-44
-00:04:16.510 --> 00:04:25.600
+41
+00:03:51.200 --> 00:04:00.290
 This is called the global regularity problem, and in May of the year 2000, at a ceremony held in Paris, it officially came with a prize.
 
-45
-00:04:25.600 --> 00:04:37.250
+42
+00:04:00.290 --> 00:04:11.940
 The Clay Mathematics Institute, founded by the American businessman Landon Clay, announced seven problems on the threshold of the new century and set aside 1 million dollars for the solution of each.
 
-46
-00:04:37.250 --> 00:04:41.060
+43
+00:04:11.940 --> 00:04:15.750
 The Navier-Stokes equations were on that list.
 
-47
-00:04:41.060 --> 00:04:49.670
+44
+00:04:15.750 --> 00:04:24.360
 The person who wrote the official statement of the problem was Charles Fefferman, one of the most respected names in the field, and the text was deliberately kept narrow.
 
-48
-00:04:49.670 --> 00:04:57.640
+45
+00:04:24.360 --> 00:04:32.330
 What Fefferman asked for was not an explanation of turbulence or anything so grand; only whether the solution exists and whether it stays smooth.
 
-49
-00:04:57.640 --> 00:05:04.970
+46
+00:04:32.330 --> 00:04:39.660
 Even so, only one of those seven problems has been solved to this day: the Poincaré conjecture.
 
-50
-00:05:04.970 --> 00:05:09.420
+47
+00:04:39.660 --> 00:04:44.110
 And Grigori Perelman, who solved it, refused to take the prize.
 
-51
-00:05:09.420 --> 00:05:12.910
+48
+00:04:44.110 --> 00:04:47.600
 So how exactly does an equation break down?
 
-52
-00:05:12.910 --> 00:05:18.480
+49
+00:04:47.600 --> 00:04:53.170
 The event is called a singularity, and it means something more concrete than you might think.
 
-53
-00:05:18.480 --> 00:05:20.690
+50
+00:04:53.170 --> 00:04:55.380
 Think of it this way.
 
-54
-00:05:20.690 --> 00:05:24.180
+51
+00:04:55.380 --> 00:04:58.870
 An ice skater spins with their arms spread wide.
 
-55
-00:05:24.180 --> 00:05:34.390
+52
+00:04:58.870 --> 00:05:09.080
 The moment they pull their arms in against their body, the spin rate shoots up; because angular momentum is conserved, as mass moves closer to the axis the rotation has to speed up.
 
-56
-00:05:34.390 --> 00:05:38.520
+53
+00:05:09.080 --> 00:05:13.210
 Now do the same thing to a vortex tube inside a fluid.
 
-57
-00:05:38.520 --> 00:05:45.210
+54
+00:05:13.210 --> 00:05:19.900
 When the flow stretches that tube lengthwise, the tube gets thinner; and because it is thinner, it spins faster.
 
-58
-00:05:45.210 --> 00:05:48.060
+55
+00:05:19.900 --> 00:05:22.750
 We call this vortex stretching.
 
-59
-00:05:48.060 --> 00:05:54.910
+56
+00:05:22.750 --> 00:05:29.600
 The faster-spinning vortex pulls the surrounding flow more violently, and that in turn stretches the tube still further.
 
-60
-00:05:54.910 --> 00:05:57.600
+57
+00:05:29.600 --> 00:05:32.290
 A loop that feeds itself.
 
-61
-00:05:57.600 --> 00:06:00.610
+58
+00:05:32.290 --> 00:05:35.300
 The whole heart of the problem is right here.
 
-62
-00:06:00.610 --> 00:06:03.780
+59
+00:05:35.300 --> 00:05:38.470
 Can this loop keep accelerating itself forever?
 
-63
-00:06:03.780 --> 00:06:09.670
+60
+00:05:38.470 --> 00:05:44.360
 That is, can the vorticity climb to infinity in a finite time, at a single point in space?
 
-64
-00:06:09.670 --> 00:06:13.640
+61
+00:05:44.360 --> 00:05:48.330
 If it can, the equation loses its meaning at that instant.
 
-65
-00:06:13.640 --> 00:06:18.890
+62
+00:05:48.330 --> 00:05:53.580
 Derivatives become undefined, and there is no such thing as a solution any more.
 
-66
-00:06:18.890 --> 00:06:29.900
+63
+00:05:53.580 --> 00:06:04.590
 In physical terms this would mean the liquid producing an infinite energy density at one point out of its own internal dynamics, with no outside influence at all — and we see nothing like that in real water.
 
-67
-00:06:29.900 --> 00:06:34.190
+64
+00:06:04.590 --> 00:06:08.880
 But here we are judging the equation, not the water.
 
-68
-00:06:34.190 --> 00:06:39.920
+65
+00:06:08.880 --> 00:06:14.610
 The most irritating part of this picture is that in 2 dimensions no such danger exists at all.
 
-69
-00:06:39.920 --> 00:06:48.850
+66
+00:06:14.610 --> 00:06:23.540
 In the plane there is no third direction along which you can stretch a vortex tube; vorticity is simply carried along with the flow and cannot grow.
 
-70
-00:06:48.850 --> 00:06:52.340
+67
+00:06:23.540 --> 00:06:27.030
 That is why the 2-dimensional problem is closed.
 
-71
-00:06:52.340 --> 00:07:04.630
+68
+00:06:27.030 --> 00:06:39.320
 Jean Leray's work in the 1930s, and then the work the Russian mathematician Olga Ladyzhenskaya did in the decades that followed, showed that in the plane solutions exist, are unique, and stay smooth forever.
 
-72
-00:07:04.630 --> 00:07:08.920
+69
+00:06:39.320 --> 00:06:43.610
 Add one dimension and everything slips out of your hands.
 
-73
-00:07:08.920 --> 00:07:14.810
+70
+00:06:43.610 --> 00:06:49.500
 There is a more technical but very illuminating way of seeing why it slips: scale criticality.
 
-74
-00:07:14.810 --> 00:07:24.540
+71
+00:06:49.500 --> 00:06:59.230
 The Navier-Stokes equations have a symmetry; take a solution, shrink it in space, adjust it by the right proportions in time and in velocity, and you have a solution again.
 
-75
-00:07:24.540 --> 00:07:29.790
+72
+00:06:59.230 --> 00:07:04.480
 Now think of the one reliable conservation law you hold: energy.
 
-76
-00:07:29.790 --> 00:07:34.400
+73
+00:07:04.480 --> 00:07:09.090
 Viscosity constantly eats energy, so the total can never increase.
 
-77
-00:07:34.400 --> 00:07:37.250
+74
+00:07:09.090 --> 00:07:11.940
 This is the strongest card in your hand.
 
-78
-00:07:37.250 --> 00:07:49.860
+75
+00:07:11.940 --> 00:07:24.550
 But when you apply that scaling transformation, in 3 dimensions the energy becomes steadily more meaningless: as you descend to smaller scales, the energy bound can exert no control whatsoever over what is going on.
 
-79
-00:07:49.860 --> 00:07:52.550
+76
+00:07:24.550 --> 00:07:27.240
 This is called supercriticality.
 
-80
-00:07:52.550 --> 00:07:58.280
+77
+00:07:27.240 --> 00:07:32.970
 In 2 dimensions the energy is exactly critical, meaning it just barely suffices.
 
-81
-00:07:58.280 --> 00:08:01.450
+78
+00:07:32.970 --> 00:07:36.140
 In 3 dimensions it does not suffice.
 
-82
-00:08:01.450 --> 00:08:06.860
+79
+00:07:36.140 --> 00:07:41.550
 The one solid card we hold becomes useless precisely where the catastrophe could happen.
 
-83
-00:08:06.860 --> 00:08:12.590
+80
+00:07:41.550 --> 00:07:47.280
 Even so, a good deal of ground has been covered in this darkness over the last century.
 
-84
-00:08:12.590 --> 00:08:24.720
+81
+00:07:47.280 --> 00:07:59.410
 In 1934 Leray invented what we now call weak solutions: solutions that do not satisfy the equation exactly at every point, but satisfy it in an averaged sense, and whose existence can always be proved.
 
-85
-00:08:24.720 --> 00:08:28.370
+82
+00:07:59.410 --> 00:08:03.060
 Leray showed that these solutions always exist.
 
-86
-00:08:28.370 --> 00:08:32.020
+83
+00:08:03.060 --> 00:08:06.710
 What he could not show was that they are smooth and unique.
 
-87
-00:08:32.020 --> 00:08:38.390
+84
+00:08:06.710 --> 00:08:13.080
 Ever since, the problem has been defined by that gap: between solutions that always exist but may behave badly,
 
-88
-00:08:38.390 --> 00:08:44.920
+85
+00:08:13.080 --> 00:08:19.610
 and solutions that certainly behave well for a short time but whose existence is not guaranteed in the long run.
 
-89
-00:08:44.920 --> 00:08:56.890
+86
+00:08:19.610 --> 00:08:31.580
 Leray had also made a guess about what the catastrophe would look like: the solution would collapse in a self-similar way, always taking the same shape as it approached the singularity, only getting smaller and faster.
 
-90
-00:08:56.890 --> 00:09:02.780
+87
+00:08:31.580 --> 00:08:37.470
 In 1996 a team of Czech and American mathematicians — Jindřich Nečas,
 
-91
-00:09:02.780 --> 00:09:11.390
+88
+00:08:37.470 --> 00:08:46.080
 Michael Růžička and Vladimír Šverák — proved that exactly the kind of self-similar collapse Leray had imagined is impossible in the finite-energy setting.
 
-92
-00:09:11.390 --> 00:09:17.760
+89
+00:08:46.080 --> 00:08:52.450
 So the most obvious catastrophe scenario came off the table; the catastrophe itself did not.
 
-93
-00:09:17.760 --> 00:09:28.130
+90
+00:08:52.450 --> 00:09:02.820
 In 1984 James Beale, Tosio Kato and Andrew Majda found a very sharp criterion for the Euler equations, which describe fluids without viscosity.
 
-94
-00:09:28.130 --> 00:09:37.700
+91
+00:09:02.820 --> 00:09:12.390
 What they said, in summary, was this: the solution can break down if and only if the sum over time of the largest value of the vorticity goes to infinity.
 
-95
-00:09:37.700 --> 00:09:41.510
+92
+00:09:12.390 --> 00:09:16.200
 A similar criterion exists for the viscous case as well.
 
-96
-00:09:41.510 --> 00:09:48.360
+93
+00:09:16.200 --> 00:09:23.050
 This was a very valuable narrowing, tying the catastrophe to the behaviour of a single quantity, the vorticity.
 
-97
-00:09:48.360 --> 00:09:51.850
+94
+00:09:23.050 --> 00:09:26.540
 Nobody could show whether that sum goes to infinity.
 
-98
-00:09:51.850 --> 00:09:54.060
+95
+00:09:26.540 --> 00:09:28.750
 And there is this.
 
-99
-00:09:54.060 --> 00:10:06.030
+96
+00:09:28.750 --> 00:09:40.720
 In 1982 Luis Caffarelli, Robert Kohn and Louis Nirenberg, following the path Vladimir Scheffer had opened before them, measured how small the set of points where the catastrophe could occur must be,
 
-100
-00:10:06.030 --> 00:10:09.200
+97
+00:09:40.720 --> 00:09:43.890
 in suitably chosen weak solutions.
 
-101
-00:10:09.200 --> 00:10:15.570
+98
+00:09:43.890 --> 00:09:50.260
 The result was striking: that set is too thin to form even a single piece of a curve in space and time.
 
-102
-00:10:15.570 --> 00:10:26.580
+99
+00:09:50.260 --> 00:10:01.270
 So if the equation is going to break down, it cannot break down along a surface, cannot break down along a line; at most it breaks down at a few isolated points scattered like dust.
 
-103
-00:10:26.580 --> 00:10:29.110
+100
+00:10:01.270 --> 00:10:03.800
 This does not solve the problem.
 
-104
-00:10:29.110 --> 00:10:33.080
+101
+00:10:03.800 --> 00:10:07.770
 But it shows how small a hole the enemy would have to come through.
 
-105
-00:10:33.080 --> 00:10:36.570
+102
+00:10:07.770 --> 00:10:11.260
 For 44 years nobody has closed that hole.
 
-106
-00:10:36.570 --> 00:10:39.900
+103
+00:10:11.260 --> 00:10:14.590
 A hole that narrow is encouraging.
 
-107
-00:10:39.900 --> 00:10:46.270
+104
+00:10:14.590 --> 00:10:20.960
 And indeed, over the last 20 years, word that the problem had been solved has gone around several times.
 
-108
-00:10:46.270 --> 00:10:56.320
+105
+00:10:20.960 --> 00:10:31.010
 In 2006 the American mathematician Penny Smith circulated a piece of work announcing the construction of solutions to the 3-dimensional problem that stay smooth forever.
 
-109
-00:10:56.320 --> 00:11:00.130
+106
+00:10:31.010 --> 00:10:34.820
 The news spread quickly through the mathematical community.
 
-110
-00:11:00.130 --> 00:11:05.860
+107
+00:10:34.820 --> 00:10:40.550
 A few days later Smith withdrew the work, stating that a serious error had been found in the proof.
 
-111
-00:11:05.860 --> 00:11:10.470
+108
+00:10:40.550 --> 00:10:45.160
 Something far noisier happened in January 2014.
 
-112
-00:11:10.470 --> 00:11:20.200
+109
+00:10:45.160 --> 00:10:54.890
 The Kazakh mathematician Mukhtarbay Otelbayev published a work of nearly 100 pages in a mathematics journal published in Kazakhstan, claiming that the problem had been solved.
 
-113
-00:11:20.200 --> 00:11:26.090
+110
+00:10:54.890 --> 00:11:00.780
 Otelbayev was not an unknown; there was a serious career and a serious school behind the name.
 
-114
-00:11:26.090 --> 00:11:32.780
+111
+00:11:00.780 --> 00:11:07.470
 But the text was written in Russian and was technically extremely heavy, so it took the rest of the world weeks to read.
 
-115
-00:11:32.780 --> 00:11:41.070
+112
+00:11:07.470 --> 00:11:15.760
 Most of the checking was taken on by Stephen Montgomery-Smith of the University of Missouri, who had been wrestling with these equations since 1995.
 
-116
-00:11:41.070 --> 00:11:48.080
+113
+00:11:15.760 --> 00:11:22.770
 Volunteers translated the text into English section by section, and a joint review was carried out over the internet.
 
-117
-00:11:48.080 --> 00:11:51.570
+114
+00:11:22.770 --> 00:11:26.260
 The outcome became clear within a few months.
 
-118
-00:11:51.570 --> 00:12:02.260
+115
+00:11:26.260 --> 00:11:36.950
 In a message sent to Montgomery-Smith, Otelbayev accepted that an inequality on page 56 of the work was faulty, and that the proposition resting on it therefore had to be counted as unproven.
 
-119
-00:12:02.260 --> 00:12:08.950
+116
+00:11:36.950 --> 00:11:43.640
 The wrong formula had been used at one point, and the entire calculation that followed was built on top of it.
 
-120
-00:12:08.950 --> 00:12:12.440
+117
+00:11:43.640 --> 00:11:47.130
 What is really striking here is how the fight ended.
 
-121
-00:12:12.440 --> 00:12:20.890
+118
+00:11:47.130 --> 00:11:55.580
 Nobody smeared anybody; the person who found the error and the person who accepted it both behaved openly, within the same process.
 
-122
-00:12:20.890 --> 00:12:28.860
+119
+00:11:55.580 --> 00:12:03.550
 This is both the harshest and the most beautiful side of mathematics: whoever the claim belongs to, a wrong inequality is wrong.
 
-123
-00:12:28.860 --> 00:12:36.990
+120
+00:12:03.550 --> 00:12:11.680
 In February of the same year, another of the field's great names, Terence Tao, landed a blow from a completely different direction.
 
-124
-00:12:36.990 --> 00:12:40.960
+121
+00:12:11.680 --> 00:12:15.650
 Tao did not try to solve the real equation.
 
-125
-00:12:40.960 --> 00:12:52.610
+122
+00:12:15.650 --> 00:12:27.300
 Instead he built a cousin equation that carries all the important structural features of the real one — obeying the energy equality to the letter, in particular — but with the nonlinear term slightly scrambled.
 
-126
-00:12:52.610 --> 00:12:57.380
+123
+00:12:27.300 --> 00:12:32.070
 Then he proved that this cousin equation definitely breaks down in finite time.
 
-127
-00:12:57.380 --> 00:13:07.910
+124
+00:12:32.070 --> 00:12:42.600
 Tao's idea here was almost philosophical: if a fluid can build small-scale structures within itself, then in principle one can construct a kind of liquid machine that copies itself,
 
-128
-00:13:07.910 --> 00:13:17.000
+125
+00:12:42.600 --> 00:12:51.690
 handing its energy each time to a smaller copy; and because every copying step is faster than the one before, infinitely many steps fit into a finite time.
 
-129
-00:13:17.000 --> 00:13:20.010
+126
+00:12:51.690 --> 00:12:54.700
 The meaning of this result was devastating.
 
-130
-00:13:20.010 --> 00:13:26.220
+127
+00:12:54.700 --> 00:13:00.910
 Because most of the general methods we have today use only the energy and the crude shape of the equation.
 
-131
-00:13:26.220 --> 00:13:35.470
+128
+00:13:00.910 --> 00:13:10.160
 Tao showed that no proof working with those tools can succeed: the very same tools would also certify an equation that definitely breaks down as one that does not.
 
-132
-00:13:35.470 --> 00:13:41.680
+129
+00:13:10.160 --> 00:13:16.370
 Whoever is going to solve this problem will have to go down into the finest detail of the fluid's nonlinear term.
 
-133
-00:13:41.680 --> 00:13:44.370
+130
+00:13:16.370 --> 00:13:19.060
 The bad news does not end there.
 
-134
-00:13:44.370 --> 00:13:52.980
+131
+00:13:19.060 --> 00:13:27.670
 In 2019 Tristan Buckmaster and Vlad Vicol, using a very inventive technique called convex integration that actually comes from geometry,
 
-135
-00:13:52.980 --> 00:13:58.870
+132
+00:13:27.670 --> 00:13:33.560
 proved that in the loosest version of Leray's weak-solution concept there is no such thing as uniqueness.
 
-136
-00:13:58.870 --> 00:14:06.680
+133
+00:13:33.560 --> 00:13:41.370
 They constructed infinitely many different solutions starting from the same initial state, all of them satisfying the equation in the weak sense.
 
-137
-00:14:06.680 --> 00:14:12.410
+134
+00:13:41.370 --> 00:13:47.100
 These solutions are not physically reasonable; they do not satisfy the energy conditions.
 
-138
-00:14:12.410 --> 00:14:19.580
+135
+00:13:47.100 --> 00:13:54.270
 But what they show is plain: stretch the notion of a weak solution too far, and the equation stops determining the future.
 
-139
-00:14:19.580 --> 00:14:22.270
+136
+00:13:54.270 --> 00:13:56.960
 Then the other pan of the scales.
 
-140
-00:14:22.270 --> 00:14:29.600
+137
+00:13:56.960 --> 00:14:04.290
 In recent years the first solid evidence that the catastrophe really can happen has arrived; but all of it a little off to the side.
 
-141
-00:14:29.600 --> 00:14:39.810
+138
+00:14:04.290 --> 00:14:14.500
 In 2021 Tarek Elgindi proved that he had produced a collapse for the viscosity-free Euler equations, from an initial state that is not perfectly smooth but is nonetheless respectable.
 
-142
-00:14:39.810 --> 00:14:48.900
+139
+00:14:14.500 --> 00:14:23.590
 Then in 2025, Thomas Hou and Jiajie Chen of the California Institute of Technology showed, with a computer-assisted proof,
 
-143
-00:14:48.900 --> 00:14:57.830
+140
+00:14:23.590 --> 00:14:32.520
 that within a bounded region — in a container with a wall — the Euler equations produce a singularity in finite time from completely smooth initial data,
 
-144
-00:14:57.830 --> 00:15:01.960
+141
+00:14:32.520 --> 00:14:36.650
 and the work was published in the journal of the National Academy of Sciences.
 
-145
-00:15:01.960 --> 00:15:11.850
+142
+00:14:36.650 --> 00:14:46.540
 A computer-assisted proof does not mean the machine guessed the answer; it is a method in which the error margin of every numerical step is bounded by exact intervals,
 
-146
-00:15:11.850 --> 00:15:15.820
+143
+00:14:46.540 --> 00:14:50.510
 and the sum of all of them constitutes the proof itself.
 
-147
-00:15:15.820 --> 00:15:20.590
+144
+00:14:50.510 --> 00:14:55.280
 But take note: there is no viscosity in these results.
 
-148
-00:15:20.590 --> 00:15:25.360
+145
+00:14:55.280 --> 00:15:00.050
 Viscosity is the only force with a chance of stopping the catastrophe.
 
-149
-00:15:25.360 --> 00:15:29.970
+146
+00:15:00.050 --> 00:15:04.660
 We cannot say that because Euler breaks down, Navier-Stokes breaks down.
 
-150
-00:15:29.970 --> 00:15:34.420
+147
+00:15:04.660 --> 00:15:09.110
 The freshest front is artificial intelligence.
 
-151
-00:15:34.420 --> 00:15:37.910
+148
+00:15:09.110 --> 00:15:12.600
 In the autumn of 2025,
 
-152
-00:15:37.910 --> 00:15:52.120
+149
+00:15:12.600 --> 00:15:26.810
 a team made up of Google's artificial intelligence laboratory DeepMind and mathematicians from several universities — among them Tristan Buckmaster and Javier Gómez-Serrano — found a new family of singularities in simplified relatives of the fluid equations.
 
-153
-00:15:52.120 --> 00:16:00.250
+150
+00:15:26.810 --> 00:15:34.940
 The method they used was neural networks that make the laws of physics themselves the learning objective; they learn not from data, but from the equation.
 
-154
-00:16:00.250 --> 00:16:08.860
+151
+00:15:34.940 --> 00:15:43.550
 What they found is called an unstable singularity: knife-edge solutions, collapses that do not form at all if you miss the initial condition by a hair,
 
-155
-00:16:08.860 --> 00:16:14.110
+152
+00:15:43.550 --> 00:15:48.800
 and which are therefore almost impossible to hunt with classical numerical methods.
 
-156
-00:16:14.110 --> 00:16:22.880
+153
+00:15:48.800 --> 00:15:57.570
 The team improved the precision of the known solutions by several orders of magnitude and produced families of high-order unstable solutions never seen before.
 
-157
-00:16:22.880 --> 00:16:29.570
+154
+00:15:57.570 --> 00:16:04.260
 The aim is clear: to sharpen these profiles enough that they can be fed into rigorous computer-assisted proofs.
 
-158
-00:16:29.570 --> 00:16:36.900
+155
+00:16:04.260 --> 00:16:11.590
 Still, let us be honest; these too are not the full 3-dimensional viscous equation, but its more docile relatives.
 
-159
-00:16:36.900 --> 00:16:40.070
+156
+00:16:11.590 --> 00:16:14.760
 The prize is still waiting for its owner.
 
-160
-00:16:40.070 --> 00:16:43.400
+157
+00:16:14.760 --> 00:16:18.090
 So where do we stand at the end of all this?
 
-161
-00:16:43.400 --> 00:16:46.250
+158
+00:16:18.090 --> 00:16:20.940
 The equation has not broken down.
 
-162
-00:16:46.250 --> 00:16:51.180
+159
+00:16:20.940 --> 00:16:25.870
 There is nobody who has shown that it does, and nobody who has shown that it does not.
 
-163
-00:16:51.180 --> 00:17:01.390
+160
+00:16:25.870 --> 00:16:36.080
 What we have is a measurement two centuries long: we know that mathematics' present toolbox is not enough to solve this problem, because we have mapped the limits of that box one by one.
 
-164
-00:17:01.390 --> 00:17:07.600
+161
+00:16:36.080 --> 00:16:42.290
 To know this precisely why a problem is hard is in fact one of the most mature states science can reach.
 
-165
-00:17:07.600 --> 00:17:12.210
+162
+00:16:42.290 --> 00:16:46.900
 And this touches something far larger than the curiosity of mathematicians.
 
-166
-00:17:12.210 --> 00:17:21.140
+163
+00:16:46.900 --> 00:16:55.830
 Turbulence — the passage of a flow from orderly lines into chaotic eddies — is called the last great unsolved problem of classical physics.
 
-167
-00:17:21.140 --> 00:17:31.030
+164
+00:16:55.830 --> 00:17:05.720
 According to accounts, the English physicist Horace Lamb said towards the end of a long life that, upon arriving in heaven, enlightenment was to be hoped for on two matters:
 
-168
-00:17:31.030 --> 00:17:35.160
+165
+00:17:05.720 --> 00:17:09.850
 quantum electrodynamics and the turbulent motion of fluids.
 
-169
-00:17:35.160 --> 00:17:39.290
+166
+00:17:09.850 --> 00:17:13.980
 The first, Lamb added, looked the more promising of the two.
 
-170
-00:17:39.290 --> 00:17:46.300
+167
+00:17:13.980 --> 00:17:20.990
 In the 90-odd years since, quantum electrodynamics has become the most precisely verified theory in physics.
 
-171
-00:17:46.300 --> 00:17:50.110
+168
+00:17:20.990 --> 00:17:24.800
 Turbulence is still standing exactly where it was.
 
-172
-00:17:50.110 --> 00:17:52.640
+169
+00:17:24.800 --> 00:17:27.330
 We pay the price for this every day.
 
-173
-00:17:52.640 --> 00:18:03.010
+170
+00:17:27.330 --> 00:17:37.700
 Because we cannot solve turbulence from the real equation in aircraft and turbine design, we lean on statistical approximations and on models calibrated from experiment; these models work,
 
-174
-00:18:03.010 --> 00:18:06.340
+171
+00:17:37.700 --> 00:17:41.030
 but they cannot tell you in advance when they will be wrong.
 
-175
-00:18:06.340 --> 00:18:13.990
+172
+00:17:41.030 --> 00:17:48.680
 Weather forecasts falling apart after a certain number of days, clouds remaining the largest source of uncertainty in climate models,
 
-176
-00:18:13.990 --> 00:18:25.000
+173
+00:17:48.680 --> 00:17:59.690
 plasma leaking heat unexpectedly in fusion reactors — the same root lies under all of them: we cannot write down in closed form how the small scales and the large scales feed one another.
 
-177
-00:18:25.000 --> 00:18:27.850
+174
+00:17:59.690 --> 00:18:02.540
 Perhaps the real lesson is this.
 
-178
-00:18:27.850 --> 00:18:38.700
+175
+00:18:02.540 --> 00:18:13.390
 That whirlpool behind the spoon is turning inside a 200-year-old equation, a 1 million dollar prize, and a question the world's finest mathematicians still cannot get to the bottom of.
 
-179
-00:18:38.700 --> 00:18:43.950
+176
+00:18:13.390 --> 00:18:18.640
 Nature does this calculation every second, everywhere, without a single error.
 
-180
-00:18:43.950 --> 00:18:46.160
+177
+00:18:18.640 --> 00:18:20.850
 We are the ones who cannot.
 
-181
-00:18:46.160 --> 00:18:50.130
+178
+00:18:20.850 --> 00:18:24.820
 Nöron Science'de bugünkü bölümün sonuna geldik.
 
-182
-00:18:50.130 --> 00:18:53.460
+179
+00:18:24.820 --> 00:18:28.150
 Yeni bir hikâyede yeniden buluşmak üzere.

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-23.mp3
+
+beklenen 2179 kelime | duyulan 2161 kelime | eşleşme %93.0
+sayı ifadesi: metinde 221, duyulanda 174  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yıldır o iskelede yalnızca
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...çince tek karakter okunuyor
+      metin  : çu
+      duyulan: chu
+  REPLACE  ...sokak değil soyadı buraya
+      metin  : çu i skelesi
+      duyulan: chu iskelesi
+  REPLACE  ...skelesi diyorlar meter ötede
+      metin  : lim lerin tan ların lee lerin yo ların
+      duyulan: limlerin tanların liylerin yolların
+  REPLACE  ...i ngiliz desteği umduğu
+      metin  : anlaşmayla
+      duyulan: anlaşma ile
+  INSERT   ...desteği umduğu anlaşmayla almıştı
+      metin  : (yok)
+      duyulan: do
+  INSERT   ...umduğu anlaşmayla almıştı ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...inşa edilmiş haliyle cornwallis
+      metin  : kalesi
+      duyulan: kailesi
+  REPLACE  ...giren mallardan vergi alınmayacaktı
+      metin  : malakka
+      duyulan: malacca
+  REPLACE  ...gelen tamil müslüman tüccarlara
+      metin  : malaycada çulia
+      duyulan: malayça da çulya
+  REPLACE  ...yerleştiği cadde bugün de
+      metin  : çulia
+      duyulan: çulya
+  REPLACE  ...çin in güneyinden özellikle
+      metin  : fuciyen
+      duyulan: fujyen
+  REPLACE  ...göründüğü yer yerlilerin bugün
+      metin  : ahenk
+      duyulan: aheng
+  INSERT   ...andığı caddedir metrelik hatta
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...asya nın en eski
+      metin  : anglikan
+      duyulan: anglican
+  REPLACE  ...hindu tapınağı olan sri
+      metin  : mahamariamman
+      duyulan: maha maryamman
+  REPLACE  ...ku ailesinin klan salonudur
+      metin  : fuciyen daki
+      duyulan: fujiyen deki
+  REPLACE  ...daki tek köyden gelen
+      metin  : ku ların
+      duyulan: kuğuların
+  REPLACE  ...oymalı ejderhalarla duvarları varaklı
+      metin  : ahşap
+      duyulan: ahşa
+  INSERT   ...kadar zengin değildi ama
+      metin  : (yok)
+      duyulan: doğum
+  REPLACE  ...yüzyılın sonlarına doğru kıyıda
+      metin  : weld quay
+      duyulan: velt kuai
+  REPLACE  ...kıyıda weld quay yani
+      metin  : weld
+      duyulan: velt
+  REPLACE  ...ve kömür satanlar çoğunlukla
+      metin  : fuciyen dan
+      duyulan: fujiyen den
+  REPLACE  ...köyden gelenler yerleşti böylece
+      metin  : weld
+      duyulan: velt
+  REPLACE  ...soyadlı iskele bile vardı
+      metin  : çu i skelesi
+      duyulan: chu iskelesi
+  REPLACE  ...ve siz karıştırana dek
+      metin  : kahveyle
+      duyulan: kahve ile
+  REPLACE  ...çekilmiş çay derler malayca
+      metin  : ad
+      duyulan: at
+  REPLACE  ...açılır havada döndürülür katlanıp
+      metin  : sacda
+      duyulan: sakta
+  REPLACE  ...kızartılır ve yanına kase
+      metin  : köri
+      duyulan: körü
+  REPLACE  ...ünlü tabağı ize muhtemelen
+      metin  : çar kuey tiyo dur
+      duyulan: char kuay tiyodur
+  REPLACE  ...tiyo dur adı hokkiencedir
+      metin  : çar
+      duyulan: char
+  REPLACE  ...adı hokkiencedir çar kızartmak
+      metin  : kuey
+      duyulan: kuay
+  REPLACE  ...kızdırır ki erişteye hafif
+      metin  : is
+      duyulan: iz
+  REPLACE  ...tadı siner kantonca konuşanların
+      metin  : vok
+      duyulan: wok
+  REPLACE  ...ın asam laksasıdır asam
+      metin  : malaycada
+      duyulan: malaykada
+  REPLACE  ...salatalık soğan nane ve
+      metin  : torch ginger
+      duyulan: tort cincir
+  REPLACE  ...kadınlarına nyonya denir evde
+      metin  : malayca ile
+      duyulan: malay çayla
+  REPLACE  ...konuştular kadınlar malay usulü
+      metin  : sarong giydi
+      duyulan: sarongiydi
+  REPLACE  ...malay kadınların evliliklerinden doğan
+      metin  : cavi
+      duyulan: çavi
+  REPLACE  ...nasi kandar gelir nasi
+      metin  : malaycada
+      duyulan: malay ya da
+  ... ve 30 fark daha
+
+metinde olup DUYULMAYAN: 91 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 38
+
+duyulan metin: seyahat-2026-11-23.duyulan.txt

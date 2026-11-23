@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-23.mp3
+
+beklenen 1780 kelime | duyulan 1785 kelime | eşleşme %98.1
+sayı ifadesi: metinde 199, duyulanda 167  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kuralları doğuran oyun çıktı
+      metin  : (yok)
+      duyulan: müzi k
+  REPLACE  ...binasında küçük ekip ekrandaki
+      metin  : kareye
+      duyulan: karaya
+  REPLACE  ...kayıyor zıplıyordu ekibin başındaki
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...disket sürücüsü famicom disk
+      metin  : system
+      duyulan: sistem
+  REPLACE  ...nun eski başkanı satoru
+      metin  : i vata
+      duyulan: iwata
+  INSERT   ...kartuşa veda armağanı bırakmak
+      metin  : (yok)
+      duyulan: do
+  REPLACE  ...omuzlayan genç tasarımcı vardı
+      metin  : takaşi
+      duyulan: takashi
+  REPLACE  ...dış ortaklarından srd şirketinden
+      metin  : toşihiko
+      duyulan: toshihiko
+  REPLACE  ...koji kondo nundu bu
+      metin  : çekirdek
+      duyulan: çekirde
+  REPLACE  ...kong da maymunun peşindeki
+      metin  : marangoz
+      duyulan: marangos
+  REPLACE  ...bros ta da kardeşi
+      metin  : luici
+      duyulan: luigi
+  REPLACE  ...tanıdık motifiydi oyunun adındaki
+      metin  : super
+      duyulan: süper
+  REPLACE  ...ya yolculuk tan esinlenerek
+      metin  : boğa
+      duyulan: boa
+  INSERT   ...zemin şurada boru şurada
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...paytak yürüyormuş gibi görünüyordu
+      metin  : müzik de
+      duyulan: müzikte
+  REPLACE  ...da ize kalenin üstünde
+      metin  : havai
+      duyulan: havay
+  INSERT   ...bros japonya da eylül
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...değildi amerikan oyun piyasası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...okunacak talimat yanıp sönen
+      metin  : ok
+      duyulan: okey
+  INSERT   ...ilk bölümün yani dünya
+      metin  : (yok)
+      duyulan: birbirin
+  REPLACE  ...eksi yoktu mario kendini
+      metin  : su
+      duyulan: sualtı
+  REPLACE  ...kombinasyonu hepsi aynı ağızdan
+      metin  : ağıza
+      duyulan: ağza
+  REPLACE  ...veren avuç insanla başladı
+      metin  : nöron oyun da
+      duyulan: neuron oyunda
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 25
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: oyun-2026-11-23.duyulan.txt

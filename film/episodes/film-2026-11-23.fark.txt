@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-23.mp3
+
+beklenen 2072 kelime | duyulan 2087 kelime | eşleşme %95.0
+sayı ifadesi: metinde 222, duyulanda 186  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...pop grubu the
+      metin  : monkees
+      duyulan: monkeys
+  REPLACE  ...stüdyosu stüdyonun patronu samuel
+      metin  : arkoff
+      duyulan: arkov
+  REPLACE  ...başarı hikayelerinden parası duruyor
+      metin  : bört şnayder
+      duyulan: bert schneider
+  REPLACE  ...bört şnayder ve bob
+      metin  : rafelson
+      duyulan: ruffles ın
+  REPLACE  ...müzik grubu uydurmuşlardı the
+      metin  : monkees
+      duyulan: monkeys
+  REPLACE  ...kolu için üretilmişti ve
+      metin  : şnayder
+      duyulan: schneider
+  REPLACE  ...üretilmişti ve şnayder ile
+      metin  : rafelson
+      duyulan: ruffles
+  REPLACE  ...hikayesi tam aradıkları şeydi
+      metin  : şnayder
+      duyulan: schneider
+  REPLACE  ...aldılar stanley kubrick in
+      metin  : dr strangelove
+      duyulan: doctor strange love
+  REPLACE  ...keskin mizahıyla tanınan terry
+      metin  : southern metnin
+      duyulan: southerne metn in
+  REPLACE  ...şu ki film adını
+      metin  : southern dan
+      duyulan: southernden
+  REPLACE  ...new orleans taki mardi
+      metin  : gra
+      duyulan: gras
+  REPLACE  ...dönüşecekti sorun takvimdi mardi
+      metin  : gra
+      duyulan: gras
+  INSERT   ...tam bitmemişken ekip şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sahnelerini gerçek kalabalığın içinde
+      metin  : milimetrelik
+      duyulan: mm lik
+  REPLACE  ...en cesur sahnelerinden çıktı
+      metin  : wyatt
+      duyulan: w yat
+  REPLACE  ...oyuncular karen black ve
+      metin  : toni
+      duyulan: tony
+  INSERT   ...e girer ve lsd
+      metin  : (yok)
+      duyulan: yi
+  REPLACE  ...yönetmeni bulundu macar asıllı
+      metin  : laslo kovaç kovaç budapeşte deki
+      duyulan: laszlo kovac kovac da budapest de ki
+  REPLACE  ...budapeşte deki ayaklanmayı arkadaşı
+      metin  : vilmoş jigmond
+      duyulan: wilmoch gigmont
+  REPLACE  ...hopper ikna etti ve
+      metin  : kovaç
+      duyulan: kovac
+  REPLACE  ...arasında güneşe karşı çekilmiş
+      metin  : merceğe
+      duyulan: merceye
+  REPLACE  ...veren uzun yol görüntüleri
+      metin  : o
+      duyulan: doğuğu
+  REPLACE  ...töreni yapmak gibi saçma
+      metin  : suçlamayla
+      duyulan: suçlama ile
+  REPLACE  ...rolü başta oyuncu rip
+      metin  : torn
+      duyulan: thorne
+  REPLACE  ...torn a düşünülmüştü ancak
+      metin  : torn
+      duyulan: thorne
+  REPLACE  ...olayı anlatış biçimi yüzünden
+      metin  : torn
+      duyulan: thorne
+  REPLACE  ...dava açtı ve mahkeme
+      metin  : torn
+      duyulan: thorne
+  REPLACE  ...rol boşta kalınca terry
+      metin  : southern
+      duyulan: sadler
+  REPLACE  ...terry southern ın da
+      metin  : desteğiyle
+      duyulan: desteği ile
+  INSERT   ...nicholson nicholson o sırada
+      metin  : (yok)
+      duyulan: lu
+  REPLACE  ...yazıyor ama türlü sıçrayamıyordu
+      metin  : şnayder
+      duyulan: schneider
+  REPLACE  ...türlü sıçrayamıyordu şnayder ve
+      metin  : rafelson ın
+      duyulan: raffelson un
+  REPLACE  ...rafelson ın çevresinden onların
+      metin  : monkees
+      duyulan: monkeys
+  REPLACE  ...fazlası olduğunu gösterdi george
+      metin  : hanson
+      duyulan: hansen
+  REPLACE  ...uyuyan adama saldırılır george
+      metin  : hanson
+      duyulan: hansen
+  REPLACE  ...saldırılır george hanson ölür
+      metin  : wyatt
+      duyulan: w i at
+  REPLACE  ...yollarına devam eder mardi
+      metin  : gra
+      duyulan: gras
+  REPLACE  ...yolculuk artık kutlama değil
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...film hiçbir salonda gösterilemezdi
+      metin  : şnayder
+      duyulan: schneider
+  ... ve 24 fark daha
+
+metinde olup DUYULMAYAN: 76 kelime | duyulup metinde OLMAYAN: 92
+bölme/birleşme farkı (hata değil, elendi): 12
+
+duyulan metin: film-2026-11-23.duyulan.txt

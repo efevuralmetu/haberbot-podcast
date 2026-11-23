@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-23.mp3
+
+beklenen 1916 kelime | duyulan 1922 kelime | eşleşme %95.0
+sayı ifadesi: metinde 268, duyulanda 193  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...küçük esnaf dükkanlarıyla dolu
+      metin  : semtti
+      duyulan: semti
+  INSERT   ...ailesindendi annesinin ailesi ize
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...boylarına vidin e götürmüştü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...stanbul da doğduğu semtte
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yenilikçi idarecilerinden olarak tanınıyordu
+      metin  : ahmedin
+      duyulan: ahmet in
+  INSERT   ...orada tamamladı midhat paşa
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sonra genç adam ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...gibi görünebilir ama ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...taşıdı ve sonunda bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...oldu rusçuk ta ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...yayımlanan ilk gazetelerdendi ahmet
+      metin  : mithat
+      duyulan: midhat de
+  REPLACE  ...öğrendi haber nasıl derlenir
+      metin  : mürettiphanede
+      duyulan: mürettifhanede
+  INSERT   ...bu tuna kıyısındaki gazeteydi
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...giderken ağabeyiyle birlikte ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...götürdü bağdat ta ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...bağdat ta oldu ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...ilk kitaplarını burada yazdı
+      metin  : kıssadan
+      duyulan: kısadan
+  REPLACE  ...kısa öğretici hikayelerden oluşuyordu
+      metin  : öbürü
+      duyulan: ödürü
+  REPLACE  ...öbürü daha da ilginçti
+      metin  : hace i evvel
+      duyulan: h c e evel
+  REPLACE  ...niyetini açıkça söylüyordu ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...bağdat ta ölünce ahmet
+      metin  : mithat
+      duyulan: midhat
+  INSERT   ...mithat memuriyetten ayrıldı ve
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ve kalemi vardı ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...dergiler çıkardı bunlar kapatılınca
+      metin  : dağarcığı
+      duyulan: dağırcığı
+  REPLACE  ...bunlar kapatılınca dağarcığı yayımladı
+      metin  : dağarcık
+      duyulan: dağırcık
+  REPLACE  ...sert biçimde suçlandı ahmet
+      metin  : mithat
+      duyulan: midhat
+  INSERT   ...magosa ya gönderildi nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ya gönderildi nisan ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...ile matbaacı ve yazar
+      metin  : ebüzziya
+      duyulan: ebüzya
+  REPLACE  ...de gemiye bindirildi ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...sonradan sürgününü namık kemal
+      metin  : le
+      duyulan: ile
+  REPLACE  ...bağlayacaktı bazı araştırmacılar ize
+      metin  : dağarcık taki
+      duyulan: daha azıcıktaki
+  REPLACE  ...ve gelmeyen haberler ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...bunun tersi oldu ahmet
+      metin  : mithat
+      duyulan: midhat
+  REPLACE  ...başına geçiyor bağdat ta
+      metin  : hace i
+      duyulan: h c yi
+  REPLACE  ...kadarla da kalmadı ahmet
+      metin  : mithat
+      duyulan: midhat
+  INSERT   ...bu yıllarda okuyucuya ulaştı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...ve eğlencesinden taklit eden
+      metin  : savruk
+      duyulan: savrup
+  REPLACE  ...dönemin i stanbul undaki
+      metin  : batılılaşma
+      duyulan: batıllaşma
+  INSERT   ...ettiği yer rodos tu
+      metin  : (yok)
+      duyulan: nın
+  ... ve 18 fark daha
+
+metinde olup DUYULMAYAN: 63 kelime | duyulup metinde OLMAYAN: 72
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: edebiyat-2026-11-23.duyulan.txt

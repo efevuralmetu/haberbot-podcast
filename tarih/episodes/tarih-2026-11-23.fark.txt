@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-23.mp3
+
+beklenen 2662 kelime | duyulan 2661 kelime | eşleşme %95.6
+sayı ifadesi: metinde 250, duyulanda 206  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kasım nehrin kıyısında
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...çoğu daha ısınamayacaktı eylül
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...sonra ilk dumanlar yükselmiş
+      metin  : (yok)
+      duyulan: kaç
+  REPLACE  ...yazın başında haziran da
+      metin  : neman irmağı nı
+      duyulan: ne manırmanı
+  REPLACE  ...her kilometresine bedel yazmıştı
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...bedel yazmıştı napolyon çar
+      metin  : aleksandr
+      duyulan: alexander
+  REPLACE  ...kenarına karın içine bırakılacaktı
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...çevresindeki köyleri yakılmış eski
+      metin  : smolensk
+      duyulan: smolens
+  REPLACE  ...gece donarak ölmüş adamlar
+      metin  : bulunuyordu
+      duyulan: bulunuyorlardı
+  REPLACE  ...yakasını kaplayan bataklıklardır neher
+      metin  : ulaşmak da
+      duyulan: ulaşmakta
+  REPLACE  ...ulaşmak da karşı kıyıdan
+      metin  : uzaklaşmak da
+      duyulan: uzaklaşmakta
+  REPLACE  ...takip ediyordu kuzeyden komutan
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...beklenmedik yerden amiral pavel
+      metin  : çiçagov
+      duyulan: çiçekov
+  REPLACE  ...baharına kadar osmanlı devleti
+      metin  : yle
+      duyulan: ile
+  INSERT   ...yle savaş halindeydi mayıs
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kuzeye yönlendirilmişti denizci olan
+      metin  : çiçagov
+      duyulan: çiçekov
+  REPLACE  ...ama yöneten plan açıktı
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...plan açıktı vitgenştayn la
+      metin  : berezina
+      duyulan: brezina
+  REPLACE  ...nehirle kutuzov arasında sıkıştırmak
+      metin  : çiçagov
+      duyulan: çiçekov
+  INSERT   ...ağır darbeydi çünkü minsk
+      metin  : (yok)
+      duyulan: ik
+  REPLACE  ...gönderdi udino kasım da
+      metin  : çiçagov
+      duyulan: çiçekov
+  REPLACE  ...anlamı yoktu karşı kıyıda
+      metin  : çiçagov
+      duyulan: çiçekov
+  REPLACE  ...kutuzov günlük mesafede kuzeyde
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...sağ kanadına çökebilecek konumda
+      metin  : önünde
+      duyulan: ülünde
+  REPLACE  ...elleriyle yakmışlardı gün geriye
+      metin  : orşa
+      duyulan: orşak
+  REPLACE  ...geriye orşa kasabasına dönelim
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...köprü takımının başında komutan
+      metin  : jan batist eble
+      duyulan: can batisteble
+  REPLACE  ...bölüklerinden başında kaptan georg
+      metin  : diderih
+      duyulan: diderich
+  REPLACE  ...köylü borisov un kuzeyinde
+      metin  : studyanka
+      duyulan: stadyanka
+  REPLACE  ...udino ya haber verdi
+      metin  : studyanka
+      duyulan: stadyanka
+  REPLACE  ...vardı ama sorun vardı
+      metin  : çiçagov
+      duyulan: çiçekov
+  REPLACE  ...noktalarını gözlüyordu eğer fransızların
+      metin  : studyanka
+      duyulan: stadyanka
+  REPLACE  ...beklendi aldatmaca işe yaradı
+      metin  : çiçagov
+      duyulan: çiçekov
+  REPLACE  ...ana kuvvetini güneye kaydırdı
+      metin  : studyanka
+      duyulan: stadianka
+  REPLACE  ...köyü çevresinde yalnızca komutan
+      metin  : çaplits
+      duyulan: chaplitz
+  REPLACE  ...büyük bölümü sonradan geri
+      metin  : çağrıldı
+      duyulan: çağırıldı
+  REPLACE  ...kıyı kaldı kasım akşamı
+      metin  : eble
+      duyulan: evle
+  REPLACE  ...akşamı eble ve adamları
+      metin  : studyanka
+      duyulan: stadianka
+  REPLACE  ...şey yoktu ertesi sabah
+      metin  : napolyon
+      duyulan: napoleon
+  ... ve 40 fark daha
+
+metinde olup DUYULMAYAN: 89 kelime | duyulup metinde OLMAYAN: 85
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: tarih-2026-11-23.duyulan.txt

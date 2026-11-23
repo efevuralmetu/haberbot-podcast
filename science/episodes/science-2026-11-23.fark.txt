@@ -1,0 +1,76 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-23.mp3
+
+beklenen 2862 kelime | duyulan 2856 kelime | eşleşme %99.3
+sayı ifadesi: metinde 114, duyulanda 85  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...john tyndal in the
+      metin  : sixties
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...passes through gases and
+      metin  : vapours
+      duyulan: vapors
+  REPLACE  ...thing the french physicist
+      metin  : françois
+      duyulan: francois
+  REPLACE  ...power of the wavelength
+      metin  : halve
+      duyulan: have
+  REPLACE  ...a wavelength of around
+      metin  : nanometres
+      duyulan: nanometers
+  DELETE   ...nanometres and blue around
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...blue the formula also
+      metin  : explained
+      duyulan: explain
+  REPLACE  ...other out the light
+      metin  : travelling
+      duyulan: traveling
+  REPLACE  ...the scattered waves from
+      metin  : cancelling
+      duyulan: canceling
+  REPLACE  ...s law is merciless
+      metin  : violet
+      duyulan: that
+  DELETE   ...and it scatters about
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...the german physicist gustav
+      metin  : mie
+      duyulan: mee
+  REPLACE  ...air overhead must have
+      metin  : travelled
+      duyulan: traveled
+  REPLACE  ...overhead should have looked
+      metin  : greyish
+      duyulan: grayish
+  REPLACE  ...the american physicist edward
+      metin  : hulburt
+      duyulan: holbert
+  REPLACE  ...the french chemist james
+      metin  : chappuis
+      duyulan: chapuys
+  REPLACE  ...remains shifts toward blue
+      metin  : hulburt
+      duyulan: holbert
+  DELETE   ...dust grains aer about
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...around the sun this
+      metin  : sight
+      duyulan: site
+  DELETE   ...an idea that is
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...today s episode of
+      metin  : nöron bilim
+      duyulan: neuron bulim
+
+metinde olup DUYULMAYAN: 23 kelime | duyulup metinde OLMAYAN: 17
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-23.duyulan.txt

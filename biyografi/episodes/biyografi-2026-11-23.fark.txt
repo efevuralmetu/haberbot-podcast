@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-23.mp3
+
+beklenen 2947 kelime | duyulan 2970 kelime | eşleşme %94.7
+sayı ifadesi: metinde 426, duyulanda 293  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : delft
+      duyulan: da delt
+  REPLACE  ...en büyük kalabalığını keşfetmişti
+      metin  : delft
+      duyulan: delt te
+  INSERT   ...ticaretidir bu kentte ekim
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...edilir ileride ressam olacak
+      metin  : yohannes vermer
+      duyulan: johannes wermer
+  REPLACE  ...yolları ancak çok sonra
+      metin  : vermer
+      duyulan: wermer
+  REPLACE  ...erken kayıpla gölgelenir babası
+      metin  : filips
+      duyulan: philips
+  REPLACE  ...yeniden evlenir çocuk önce
+      metin  : leyden
+      duyulan: leiden
+  REPLACE  ...çocuk önce leyden yakınlarındaki
+      metin  : varmond da
+      duyulan: warmont ta
+  INSERT   ...bilginler dünyasının dışında sayılır
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...için kumaşa dikkatle bakmasıdır
+      metin  : delft e
+      duyulan: te delf te
+  REPLACE  ...kumaş tüccarının kızı barbara
+      metin  : dı mey
+      duyulan: de may
+  INSERT   ...çocuk doğar ama yalnızca
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...maria hayatta kalır barbara
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ölür levenhuk yıl sonra
+      metin  : kornelia
+      duyulan: de cornelia
+  INSERT   ...işlerinde de görev alır
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...sorumlu memur olur isıtmadan
+      metin  : temizliğe
+      duyulan: temizleye
+  REPLACE  ...kandırılmasına izin vermeyen adam
+      metin  : mercek
+      duyulan: merçek
+  INSERT   ...bilgini robert hooke un
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...mantar dokusu çizimleriyle dolu
+      metin  : mikrografiya
+      duyulan: mikrografya
+  REPLACE  ...gerekmez kesin olan şu
+      metin  : yetmişlerin
+      duyulan: lerin
+  INSERT   ...olan şu yetmişlerin başında
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...aletler değildir avuç içine
+      metin  : sığan
+      duyulan: sığın
+  REPLACE  ...iğnenin ucuna tutturulur küçük
+      metin  : vidayla
+      duyulan: vida ile
+  INSERT   ...tahmin edilir ömrü boyunca
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...keşiflerinden çevirir yazıdır delft
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...belirir yöer halkı bunun
+      metin  : çiyden
+      duyulan: çiğden
+  REPLACE  ...tek hücreli canlıların yani
+      metin  : protistlerin
+      duyulan: protislerin
+  INSERT   ...kanal suyuna bakar ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...suyuna bakar ve bugün
+      metin  : mikrobiyoloji
+      duyulan: mikrobioloji
+  REPLACE  ...dev gibi kalır levenhuk
+      metin  : in
+      duyulan: un
+  REPLACE  ...haklıdır çünkü bu gözlemler
+      metin  : delft
+      duyulan: delf
+  REPLACE  ...inanmaya hazır değildir levenhuk
+      metin  : in
+      duyulan: un
+  INSERT   ...gölü keşfetmesinden yıl önce
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...keşfetmesinden yıl önce kurulmuştur
+      metin  : delft li
+      duyulan: delf ti
+  REPLACE  ...delft li genç hekim
+      metin  : reynir dı graf
+      duyulan: reynier de graff
+  REPLACE  ...oldenburg a mektup yazar
+      metin  : delft
+      duyulan: delf
+  REPLACE  ...diye bildirir mektubuna levenhuk
+      metin  : in
+      duyulan: un
+  REPLACE  ...gelen buluşları duyurur levenhuk
+      metin  : in
+      duyulan: un
+  INSERT   ...levenhuk in ilk gözlemleri
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...düzenlemek zorunda kalır levenhuk
+      metin  : in
+      duyulan: un
+  ... ve 69 fark daha
+
+metinde olup DUYULMAYAN: 108 kelime | duyulup metinde OLMAYAN: 136
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: biyografi-2026-11-23.duyulan.txt
