@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-24.mp3
+
+beklenen 1956 kelime | duyulan 1953 kelime | eşleşme %97.6
+sayı ifadesi: metinde 197, duyulanda 163  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...sızdırmaz olduğu için içeriye
+      metin  : dışarıdan
+      duyulan: dışardan
+  REPLACE  ...içeriye dışarıdan sıvı akamaz
+      metin  : hacim
+      duyulan: hacım
+  DELETE   ...manchester da çalışan araştırmacıydı
+      metin  : j b roston ve r wheeler haines
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...leke bırakır roston ile
+      metin  : haines
+      duyulan: hines
+  REPLACE  ...zamanlı izlemeyi mümkün kılan
+      metin  : teknolojiyle
+      duyulan: teknoloji ile
+  REPLACE  ...aldı anthony unsworth duncan
+      metin  : dowson
+      duyulan: dawson
+  REPLACE  ...unsworth duncan dowson ve
+      metin  : verna
+      duyulan: werner
+  REPLACE  ...leeds ekibi manchester daki
+      metin  : öncüllerinden
+      duyulan: öncülerinden
+  REPLACE  ...edici bulundu ki sonraki
+      metin  : onyıllarda
+      duyulan: yıllarda
+  REPLACE  ...boyunca gazın yeniden sıvıya
+      metin  : çözünmesi
+      duyulan: çözülmesi
+  REPLACE  ...vardı eğer ses kabarcığın
+      metin  : çöküşüyze
+      duyulan: çöküşü ize
+  REPLACE  ...çöküp kaybolduysa roston ile
+      metin  : haines
+      duyulan: haynes
+  REPLACE  ...fotoğraflar verir sesin tam
+      metin  : o salisesinde
+      duyulan: os hali sesinde
+  REPLACE  ...fizyoterapist ve araştırmacı greg
+      metin  : kavçuk
+      duyulan: kavcuk
+  REPLACE  ...gözü önünde gerildi görüntüler
+      metin  : onyıllardır
+      duyulan: yıllardır
+  REPLACE  ...aynı ana denk geliyordu
+      metin  : kavçuk
+      duyulan: kavcuk
+  REPLACE  ...anda boşalıyor boşluk doğuyor
+      metin  : ses de
+      duyulan: sesle
+  INSERT   ...manchester daki ilk ekibin
+      metin  : (yok)
+      duyulan: deki
+  INSERT   ...hikaye burada da bitmedi
+      metin  : (yok)
+      duyulan: çakı
+  REPLACE  ...stanford üniversitesi nden vinit
+      metin  : çandran
+      duyulan: chandran
+  REPLACE  ...nden vinit çandran suca
+      metin  : ile
+      duyulan: yla
+  REPLACE  ...daki politeknik okulu ndan
+      metin  : abdul barakat
+      duyulan: abdülbarakat
+  REPLACE  ...modellerine göer ses kabarcığın
+      metin  : kısmi
+      duyulan: kısmı
+  REPLACE  ...olursun bu uyarı kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...en sıra dışı yanıtlardan
+      metin  : kaliforniyalı
+      duyulan: kalifornyalı
+  REPLACE  ...kontrol grubu oldu unger
+      metin  : ın
+      duyulan: in
+  INSERT   ...büyüklerinin uyarısını desteklemediğini belirtti
+      metin  : (yok)
+      duyulan: kiki
+  REPLACE  ...sonra düşündüren yanlarını ödüllendiren
+      metin  : ig
+      duyulan: ilk
+  REPLACE  ...tıp dalında aldı unger
+      metin  : ın
+      duyulan: in
+  REPLACE  ...çalışmalarda yılında yayımlanan araştırmada
+      metin  : horhe kastelanos
+      duyulan: jorge castelanos
+  REPLACE  ...parmak çıtlatanlarla çıtlatmayanlar arasında
+      metin  : artrit
+      duyulan: artrite
+  REPLACE  ...açıklığının süer hafifçe artması
+      metin  : leeds
+      duyulan: led
+  REPLACE  ...de hemen ardından gelen
+      metin  : kısmi
+      duyulan: kısmı
+  REPLACE  ...çöküşün yankısı kulağınıza ulaşıyor
+      metin  : milisaniyeler
+      duyulan: saniyeler
+  REPLACE  ...gün milyonlarca elde tekrarlanıyor
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 42 kelime | duyulup metinde OLMAYAN: 39
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: bilim-2026-11-24.duyulan.txt

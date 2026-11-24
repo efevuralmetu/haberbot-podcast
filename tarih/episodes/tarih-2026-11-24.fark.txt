@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-24.mp3
+
+beklenen 2681 kelime | duyulan 2713 kelime | eşleşme %95.3
+sayı ifadesi: metinde 320, duyulanda 240  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kahverengi yapışkan dalga saatte
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...sokağa indi o gün
+      metin  : boston
+      duyulan: baston
+  REPLACE  ...üstünde demir ayaklar üzerinde
+      metin  : havai
+      duyulan: hawaii
+  REPLACE  ...damıtım şirketi ydi bu
+      metin  : şirket de
+      duyulan: şirkette
+  REPLACE  ...united states industrial alcohol
+      metin  : ün
+      duyulan: ın
+  REPLACE  ...basitti karayipler den özellikle
+      metin  : küba
+      duyulan: cuba
+  REPLACE  ...özellikle küba ve porto
+      metin  : riko
+      duyulan: rico
+  REPLACE  ...dan gemilerle gelen melas
+      metin  : boston
+      duyulan: baston
+  REPLACE  ...bu tanka boşaltılacak sonra
+      metin  : demiryoluyla boston ın
+      duyulan: demir yoluyla bastonun
+  INSERT   ...payı olduğunu düşünür böylece
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...yapımından sorumlu kişi arthur
+      metin  : jel
+      duyulan: gel
+  REPLACE  ...arthur jel adında adamdı
+      metin  : jel
+      duyulan: gel
+  REPLACE  ...çelik yapının işini vermişti
+      metin  : jel tankı
+      duyulan: gel tank ı
+  REPLACE  ...yükü hesaplayan kimse olmadı
+      metin  : jel
+      duyulan: gel
+  REPLACE  ...ağır zaman baskısı vardı
+      metin  : karayipler den
+      duyulan: kara iplerden
+  REPLACE  ...görüldü tank daha ilk
+      metin  : dolumdan
+      duyulan: doluğumdan
+  REPLACE  ...tatlı yapmak ya da
+      metin  : yemeğe
+      duyulan: yemeye
+  REPLACE  ...tankın yalnızca sızdırmakla kalmadığı
+      metin  : ses de
+      duyulan: sesle
+  REPLACE  ...söyledi gonzales gördüklerini arthur
+      metin  : jel e
+      duyulan: jelle
+  REPLACE  ...arthur jel e iletti
+      metin  : jel
+      duyulan: jelle
+  REPLACE  ...sonraki ifadelerde aktarıldığına göer
+      metin  : jel
+      duyulan: jelle
+  REPLACE  ...sonra yılında mühendis ronald
+      metin  : mayville
+      duyulan: maywel
+  REPLACE  ...yerine cam gibi çatlayabilir
+      metin  : mayville
+      duyulan: maywel
+  INSERT   ...daha da arttı kasım
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...dikkat çekici zamanlamadır ocak
+      metin  : (yok)
+      duyulan: un
+  REPLACE  ...zamanlamadır ocak ilk günlerinde
+      metin  : karayipler den
+      duyulan: karayıplerden
+  INSERT   ...hava ize çok soğuktu
+      metin  : (yok)
+      duyulan: dot
+  INSERT   ...eksi dereceye kadar düşmüştü
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...buluyordu ve saatte yaklaşık
+      metin  : kilometer
+      duyulan: km
+  INSERT   ...çocuklar da dalganın yolundaydı
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...da dalganın yolundaydı yaşındaki
+      metin  : paskuale
+      duyulan: pascuale
+  REPLACE  ...kapılıp öldü yine yaşındaki
+      metin  : marya di stazyo
+      duyulan: maria distazio
+  INSERT   ...dakika içinde oldu saat
+      metin  : (yok)
+      duyulan: ta
+  INSERT   ...ve melasa saplanmış atların
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...sonra sudan çıkarılabildi sonunda
+      metin  : bilanço kesinleşti
+      duyulan: bilen çok esinleşti
+  INSERT   ...rıhtımları kahverengi tabakayla kaplıydı
+      metin  : (yok)
+      duyulan: el
+  REPLACE  ...devrim sanayi işçileri arasında
+      metin  : grevler
+      duyulan: görevler
+  REPLACE  ...özellikle i talyan anarşist
+      metin  : luici galleani
+      duyulan: luigi galliani
+  REPLACE  ...hikayesi gün çıktı arthur
+      metin  : jel in
+      duyulan: gelin
+  INSERT   ...zamanlamasında ironi de vardı
+      metin  : (yok)
+      duyulan: dot
+  ... ve 6 fark daha
+
+metinde olup DUYULMAYAN: 48 kelime | duyulup metinde OLMAYAN: 59
+bölme/birleşme farkı (hata değil, elendi): 49
+
+duyulan metin: tarih-2026-11-24.duyulan.txt

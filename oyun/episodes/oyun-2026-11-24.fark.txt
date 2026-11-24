@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-24.mp3
+
+beklenen 1848 kelime | duyulan 1865 kelime | eşleşme %95.7
+sayı ifadesi: metinde 221, duyulanda 164  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...da kış uzun sürer
+      metin  : (yok)
+      duyulan: lı
+  REPLACE  ...oturuyorlardı bu gençlerden ray
+      metin  : muzyka ile
+      duyulan: musica yla
+  REPLACE  ...ray muzyka ile greg
+      metin  : zeşuk
+      duyulan: zechuk
+  REPLACE  ...kisi de gerçekten hekimdi
+      metin  : muzyka
+      duyulan: musica
+  REPLACE  ...gerçekten hekimdi muzyka ve
+      metin  : zeşuk
+      duyulan: zechuk de
+  REPLACE  ...mezun oldu sınıf arkadaşları
+      metin  : augustine
+      duyulan: agustin
+  REPLACE  ...çıkarmayı öğrendiler sonraki yıllarda
+      metin  : muzyka
+      duyulan: muziaka
+  INSERT   ...çağırıyordu sonunda kararı verdiler
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...oyun stüdyosu kuruldu kurucular
+      metin  : muzyka
+      duyulan: muziaka
+  REPLACE  ...seçti ve stüdyodan ayrıldı
+      metin  : muzyka
+      duyulan: muziaka
+  INSERT   ...hiç ilgisi olmayan yapımdı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yandan da tamamen farklı
+      metin  : projeyle
+      duyulan: proje ile
+  REPLACE  ...doğru kişilerin önüne kondu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...oyunları için karanlık dönemdi
+      metin  : seksenlerde
+      duyulan: lerde
+  REPLACE  ...karanlık dönemdi seksenlerde ve
+      metin  : doksanların
+      duyulan: ların
+  DELETE   ...oyunu olan advanced dungeons
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...yapmamıştı baş tasarımcı james
+      metin  : ohlen
+      duyulan: olin
+  INSERT   ...ilk tohumdu baldur kapısı
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...gereken rol yapma oyunu
+      metin  : pekala
+      duyulan: pekalağa
+  REPLACE  ...black isle studios yani
+      metin  : kara ada stüdyosu
+      duyulan: karaada studios u
+  INSERT   ...kazandırdı biowaer arkasına yaslanmadı
+      metin  : (yok)
+      duyulan: de
+  DELETE   ...yaslanmadı baldur s gate
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...gate ii shadows of
+      metin  : amn
+      duyulan: m
+  REPLACE  ...amn yani baldur kapısı
+      metin  : i ki amn in
+      duyulan: amnin
+  INSERT   ...iyi örneklerinden sayılır ardından
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...galaksiye açılma zamanı geldi
+      metin  : lucasarts
+      duyulan: lujas art
+  INSERT   ...kalmadan özgür hikaye anlatabileceklerdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlatabileceklerdi çıkan star wars
+      metin  : knights
+      duyulan: nights
+  REPLACE  ...bilgisayarlarda hem de microsoft
+      metin  : un
+      duyulan: ın
+  INSERT   ...sahibi her zaman başkasıydı
+      metin  : (yok)
+      duyulan: hiki te
+  INSERT   ...i ki yıl sonra
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...dolara satın aldığını duyurdu
+      metin  : muzyka
+      duyulan: müzika
+  REPLACE  ...aldığını duyurdu muzyka ile
+      metin  : zeşuk
+      duyulan: zeychuk
+  REPLACE  ...oluş döngüsüne karşı savaşıyordu
+      metin  : diyaloglar
+      duyulan: dialoglar
+  REPLACE  ...ötekine taşınıyordu bu biowaer
+      metin  : in
+      duyulan: ın
+  INSERT   ...hudson ın yönetiminde ilerledi
+      metin  : (yok)
+      duyulan: key daki
+  INSERT   ...serinin zirvesi kabul edildi
+      metin  : (yok)
+      duyulan: keyki da
+  INSERT   ...başarının ağırlığı da büyüyordu
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...ücretsiz oynanabilir modele geçti
+      metin  : (yok)
+      duyulan: keyki nin
+  INSERT   ...içerik yayımladı ay sonra
+      metin  : (yok)
+      duyulan: nin
+  ... ve 22 fark daha
+
+metinde olup DUYULMAYAN: 52 kelime | duyulup metinde OLMAYAN: 74
+bölme/birleşme farkı (hata değil, elendi): 11
+
+duyulan metin: oyun-2026-11-24.duyulan.txt

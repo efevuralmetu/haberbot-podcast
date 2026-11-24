@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-24.mp3
+
+beklenen 2059 kelime | duyulan 2048 kelime | eşleşme %94.6
+sayı ifadesi: metinde 205, duyulanda 159  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...en batısında pakistan sınırına
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...kalenin hikayesi yılında başlar
+      metin  : bati racput
+      duyulan: batı raçbut
+  REPLACE  ...hanedanından raval caysal yani
+      metin  : racput
+      duyulan: raçput
+  REPLACE  ...racput beyliklerinde hükümdara verilen
+      metin  : unvanla
+      duyulan: ünvanla
+  REPLACE  ...şehir adını alır caysal
+      metin  : in
+      duyulan: ın
+  REPLACE  ...caysalmer hindistan ın iç
+      metin  : kesimlerini sind e
+      duyulan: kesimlerinizin de
+  REPLACE  ...ve tuz taşırdı bati
+      metin  : hükümdarları
+      duyulan: hükümdaları
+  REPLACE  ...refah kolay kazanılmadı caysalmer
+      metin  : delhi
+      duyulan: deli
+  REPLACE  ...oldu yüzyılın sonunda alaeddin
+      metin  : halaci nin
+      duyulan: halacı nın
+  REPLACE  ...kaleyi uzun süer kuşattı
+      metin  : racput
+      duyulan: raçput
+  REPLACE  ...ile yüzyıllar arasında yapılmış
+      metin  : cayn
+      duyulan: çayın
+  REPLACE  ...tavanlardan taş çiçekler sarkar
+      metin  : jainler
+      duyulan: cayinler
+  REPLACE  ...kanıtlar bunların en ünlüsü
+      metin  : patvon ki
+      duyulan: patwonki
+  REPLACE  ...ve gümüş işlemeli kumaş
+      metin  : ticaretiyle
+      duyulan: ticareti ile
+  REPLACE  ...ticaretiyle servet yapan guman
+      metin  : çand
+      duyulan: çant
+  REPLACE  ...konağı nın cephesinde sayısız
+      metin  : carokha
+      duyulan: caroka
+  REPLACE  ...cephesinde sayısız carokha vardır
+      metin  : carokha
+      duyulan: caroka
+  REPLACE  ...da çöl rüzgarını süzerek
+      metin  : içeriyi
+      duyulan: içeriği
+  REPLACE  ...içeriyi serinletir ötede salim
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...ki haveli yani salim
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...devletin başveziri olan salim
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...gadisar gölü ydü raval
+      metin  : caysal in
+      duyulan: jaisal ın
+  REPLACE  ...açtırdığı yüzyılda maharaval garsi
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...yağmur alan tepeye gün
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...aynı kıtlığa göer şekillenmişti
+      metin  : caysalmer
+      duyulan: jaisalmer
+  INSERT   ...ıssızlaştı asıl darbe ize
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ize geldi hindistan bölündü
+      metin  : caysalmer
+      duyulan: jaisalmer
+  REPLACE  ...in yüzyıllardır ticaret yaptığı
+      metin  : sind
+      duyulan: sint
+  REPLACE  ...cepheler tozla kaplanmaya başladı
+      metin  : caysalmer
+      duyulan: jaisalmer
+  REPLACE  ...yı palival brahmanları kurmuştu
+      metin  : paliwallar
+      duyulan: palivallar
+  REPLACE  ...önce geçen başvezir salim
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...uzanır rivayete göer salim
+      metin  : sing
+      duyulan: singh
+  REPLACE  ...vergilerle köylüleri baskı alır
+      metin  : paliwallar
+      duyulan: palivallar
+  REPLACE  ...evler bile kabuğa dönüşür
+      metin  : paliwalların
+      duyulan: palivalların
+  REPLACE  ...gittiği de tam bilinmez
+      metin  : racastan
+      duyulan: rajasthan
+  REPLACE  ...tuhaflıkları en çok hindu
+      metin  : racput
+      duyulan: rakput
+  REPLACE  ...çocuk doğduğunda düğün kurulduğunda
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...eden en önemli çalgı
+      metin  : kamaiça dır
+      duyulan: kamayçadır
+  REPLACE  ...caysalmer yakınlarındaki hamira köyünden
+      metin  : kamaiça
+      duyulan: kamayça
+  REPLACE  ...en saygın sivil nişanlarından
+      metin  : padma şri
+      duyulan: padmaşiri
+  ... ve 21 fark daha
+
+metinde olup DUYULMAYAN: 75 kelime | duyulup metinde OLMAYAN: 71
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: seyahat-2026-11-24.duyulan.txt

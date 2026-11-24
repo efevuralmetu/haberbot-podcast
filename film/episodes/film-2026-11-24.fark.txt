@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-24.mp3
+
+beklenen 1985 kelime | duyulan 1989 kelime | eşleşme %94.3
+sayı ifadesi: metinde 280, duyulanda 200  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...mart
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...suya bırakıyordu teknenin adı
+      metin  : daygo
+      duyulan: daigo
+  REPLACE  ...olduklarını bilmiyorlardı denemenin adı
+      metin  : castle
+      duyulan: castel
+  REPLACE  ...şanslı ejder mart ta
+      metin  : yaizu limanına
+      duyulan: yaizü limanı na
+  REPLACE  ...balığı paniği başladı balıkhanelerde
+      metin  : gayger
+      duyulan: geiger
+  REPLACE  ...radyasyonlu bulunan tonlarca balık
+      metin  : toprağa
+      duyulan: toprağı
+  REPLACE  ...tonlarca balık toprağa gömüldü
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...toprağa gömüldü hiroşima ve
+      metin  : nagazaki
+      duyulan: nagasaki
+  REPLACE  ...hayatına girmişti teknenin telsizcisi
+      metin  : aykiçi
+      duyulan: aikichi
+  INSERT   ...hastanede yattıktan sonra eylül
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlatılan ve da efsaneleşmiş
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...efsaneleşmiş hikayeye göer tanaka
+      metin  : cakarta
+      duyulan: jakarta
+  REPLACE  ...da the beast from
+      metin  : fathoms
+      duyulan: fadams
+  DELETE   ...yani kulaç derinlikten gelen
+      metin  : canavar adlı
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...tutuldu ve önce yalnızca
+      metin  : g
+      duyulan: gi
+  REPLACE  ...polisiye ve macera yazarı
+      metin  : şigeru
+      duyulan: shigeru
+  REPLACE  ...başvuruldu yönetmen koltuğuna ize
+      metin  : i şiro
+      duyulan: ishiro
+  INSERT   ...uzun süer esir kalmış
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kalmış memleketine dönerken yolu
+      metin  : hiroşima
+      duyulan: hiroshima
+  REPLACE  ...da bu sırada doğdu
+      metin  : gocira japoncada
+      duyulan: gojira japonya da
+  REPLACE  ...gorira ile balina anlamındaki
+      metin  : kucira
+      duyulan: kujira
+  REPLACE  ...gorilin gücüne denizde balinanın
+      metin  : cüssesine
+      duyulan: cüstesine
+  REPLACE  ...cevabı toho nun özel
+      metin  : efekt dehası eyci tsuburaya
+      duyulan: efektehası egid suburaya
+  REPLACE  ...eyci tsuburaya nın elindeydi
+      metin  : tsuburaya
+      duyulan: titsuburaya
+  REPLACE  ...kaer kaer canlandırma denir
+      metin  : tsuburaya
+      duyulan: titsuburaya
+  REPLACE  ...iskeletin üzerine kat kat
+      metin  : kauçuk
+      duyulan: kavçuk
+  REPLACE  ...kat kat kauçuk ve
+      metin  : lateks
+      duyulan: latek
+  REPLACE  ...o da kiloya yakındı
+      metin  : giysinin
+      duyulan: giyisinin
+  REPLACE  ...girecek kişi seçildi haruo
+      metin  : nakacima
+      duyulan: nakajima
+  REPLACE  ...katsumi tezuka asıl yükü
+      metin  : nakacima
+      duyulan: nakajima
+  REPLACE  ...ışıklarının havasız ve kalın
+      metin  : kauçuğun
+      duyulan: kavçuğun
+  REPLACE  ...içinde çalışmak tam işkenceydi
+      metin  : nakacima
+      duyulan: nakajima
+  REPLACE  ...çekimler arasında bayıldıkları oluyordu
+      metin  : giysiden
+      duyulan: giyisiden
+  REPLACE  ...içinden ter boşaltıldığı anlatılır
+      metin  : nakacima
+      duyulan: nakajima
+  REPLACE  ...bu rolü sürdürecek ve
+      metin  : yetmişlerin
+      duyulan: lerin
+  REPLACE  ...etmezdi yıkacak şehir gerekiyordu
+      metin  : tsuburaya
+      duyulan: tutsuburaya
+  REPLACE  ...ölçekte yeniden inşa etti
+      metin  : şinagava
+      duyulan: shinagawa
+  REPLACE  ...kalan sahnelerden ginza daki
+      metin  : wako mağazasının
+      duyulan: vakom ağazasının
+  REPLACE  ...nın diğer hilesi de
+      metin  : kamerayla
+      duyulan: kamera ile
+  REPLACE  ...normal hızda oynatıyordu böylece
+      metin  : kauçuk
+      duyulan: kavçuk
+  ... ve 38 fark daha
+
+metinde olup DUYULMAYAN: 82 kelime | duyulup metinde OLMAYAN: 93
+bölme/birleşme farkı (hata değil, elendi): 17
+
+duyulan metin: film-2026-11-24.duyulan.txt

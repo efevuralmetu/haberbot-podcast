@@ -1,0 +1,55 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-24.mp3
+
+beklenen 2915 kelime | duyulan 2914 kelime | eşleşme %99.5
+sayı ifadesi: metinde 106, duyulanda 86  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...england in j b
+      metin  : roston
+      duyulan: rosten
+  REPLACE  ...roston and r wheeler
+      metin  : haines
+      duyulan: haynes
+  REPLACE  ...ends suddenly sprang apart
+      metin  : in
+      duyulan: when
+  REPLACE  ...dark patch the patch
+      metin  : roston
+      duyulan: rosten
+  REPLACE  ...the patch roston and
+      metin  : haines
+      duyulan: haynes
+  REPLACE  ...unsworth duncan dowson and
+      metin  : verna
+      duyulan: werner
+  REPLACE  ...gas filled space that
+      metin  : roston
+      duyulan: rosten
+  REPLACE  ...space that roston and
+      metin  : haines
+      duyulan: haynes
+  REPLACE  ...team led by greg
+      metin  : kawchuk
+      duyulan: kouchuk
+  REPLACE  ...but with its appearance
+      metin  : kawchuk
+      duyulan: kachuk
+  REPLACE  ...cause of the pain
+      metin  : painless
+      duyulan: paints
+  REPLACE  ...minutes measured by the
+      metin  : leeds
+      duyulan: leads
+  REPLACE  ...the sound recordings in
+      metin  : leeds
+      duyulan: leads
+  REPLACE  ...today s episode of
+      metin  : nöron bilim
+      duyulan: neuronballom
+
+metinde olup DUYULMAYAN: 15 kelime | duyulup metinde OLMAYAN: 14
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: science-2026-11-24.duyulan.txt

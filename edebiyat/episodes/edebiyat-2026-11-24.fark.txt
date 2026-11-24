@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-24.mp3
+
+beklenen 2131 kelime | duyulan 2159 kelime | eşleşme %93.0
+sayı ifadesi: metinde 307, duyulanda 201  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : romanının
+      duyulan: romamının
+  REPLACE  ...araştırmacılar orta afrika ya
+      metin  : çad gölü
+      duyulan: çatgölü
+  REPLACE  ...komutanın adını taşıyacaktı abram
+      metin  : petroviç gannibal
+      duyulan: petrovic ganibal
+  REPLACE  ...da rus ordusunda general
+      metin  : anşef
+      duyulan: anchev
+  INSERT   ...yükseldi torununun oğlu mayıs
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...de bu çözmek olacaktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...açılan okula alındı okul
+      metin  : tsarskoye
+      duyulan: tarskoye
+  INSERT   ...sonra yine yanında olacaktı
+      metin  : (yok)
+      duyulan: teki
+  REPLACE  ...yaşlı büyük şairi gavrila
+      metin  : derjavin
+      duyulan: dercavin
+  REPLACE  ...derjavin vardı anlatılana göer
+      metin  : derjavin
+      duyulan: dercavin
+  REPLACE  ...kaçmıştı liseden sonra petersburg
+      metin  : da dışişleri nde
+      duyulan: ta dış işlerinde
+  REPLACE  ...ele dolaşan özgürlük şiirleriydi
+      metin  : özgürlük
+      duyulan: nastürlü
+  INSERT   ...yoktu ezberden ezbeer yayılıyorlardı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ezbeer yayılıyorlardı ilk uzun
+      metin  : manzumesi
+      duyulan: manzümesi
+  REPLACE  ...yine sürgündü odessa da
+      metin  : valiyle
+      duyulan: vali ile
+  INSERT   ...mektubu polisin eline geçti
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...hizmetinden atıldı ve annesinin
+      metin  : pskov
+      duyulan: piskov
+  REPLACE  ...annesinin pskov dolaylarındaki malikanesi
+      metin  : mihaylovskoye ye
+      duyulan: mihailovskaya ya
+  INSERT   ...eserin ilk satırlarını mayıs
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...yazacaktı eserin adı yevgeni
+      metin  : (yok)
+      duyulan: vanegin
+  INSERT   ...izliyordu bugün bu kalıba
+      metin  : (yok)
+      duyulan: vanegin
+  INSERT   ...döner hikayenin kendisi sade
+      metin  : (yok)
+      duyulan: vanegin
+  REPLACE  ...romantik genç şairle lenski
+      metin  : yle
+      duyulan: ile
+  INSERT   ...duygularını mektupla açıkça yazar
+      metin  : (yok)
+      duyulan: vanegin
+  REPLACE  ...meselesi yüzünden lenski ile
+      metin  : düelloya
+      duyulan: duelloya
+  INSERT   ...vurup öldürür yıllar geçer
+      metin  : (yok)
+      duyulan: vanegin
+  REPLACE  ...parlak hanımefendi olan tatyana
+      metin  : yla
+      duyulan: ile
+  INSERT   ...sadık kalacağını söyler roman
+      metin  : (yok)
+      duyulan: vanegin
+  INSERT   ...yayımlandı i lk bölüm
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...beklemeye başladı bu arada
+      metin  : puşkin
+      duyulan: pushkin
+  INSERT   ...kez altüst oldu aralık
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...petersburg da genç subaylar
+      metin  : yeni çar nikolay a
+      duyulan: yenichar i nikola ya
+  REPLACE  ...a karşı ayaklandı tarihe
+      metin  : dekabristler
+      duyulan: dekabrisler
+  REPLACE  ...diye geçen bu insanların
+      metin  : puşkin
+      duyulan: çoğu pushkin
+  REPLACE  ...bazılarının cebinden şiirleri çıktı
+      metin  : puşkin mihaylovskoye deki
+      duyulan: pushkin mihailovskaya daki
+  REPLACE  ...deki sürgünü yüzünden petersburg
+      metin  : da
+      duyulan: ta
+  REPLACE  ...sibirya ya gönderildi sonbaharında
+      metin  : puşkin
+      duyulan: pushkin
+  REPLACE  ...apar topar moskova ya
+      metin  : yeni çarın
+      duyulan: yenichar ın
+  REPLACE  ...konuşulduğu tam olarak bilinmiyor
+      metin  : puşkin
+      duyulan: pushkin
+  REPLACE  ...olsaydı ne yapacağını sordu
+      metin  : puşkin
+      duyulan: pushkin
+  ... ve 66 fark daha
+
+metinde olup DUYULMAYAN: 97 kelime | duyulup metinde OLMAYAN: 130
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: edebiyat-2026-11-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-24.mp3
+
+beklenen 3454 kelime | duyulan 3448 kelime | eşleşme %95.2
+sayı ifadesi: metinde 388, duyulanda 284  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...asker kumsalda yürüyordu adı
+      metin  : maurie isenberg di
+      duyulan: maury eisenberg idi
+  REPLACE  ...küçük radar istasyonları kurulmuştu
+      metin  : isenberg
+      duyulan: eisenberg
+  REPLACE  ...o balık tutma gezintilerinden
+      metin  : isenberg
+      duyulan: eisenberg
+  REPLACE  ...işareti çizdi savaş bitti
+      metin  : isenberg
+      duyulan: eisenberg
+  INSERT   ...yıllarca köşede unutuldu ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...sonra sikkeleri incelenmeleri için
+      metin  : sidney
+      duyulan: sydney
+  REPLACE  ...bastığı bakır paralardı bunlar
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...bunlar yüzlerin sonu ile
+      metin  : yüzlerden
+      duyulan: lerden
+  REPLACE  ...hint okyanusu nun öbür
+      metin  : kıyısında
+      duyulan: yıllarında
+  REPLACE  ...kilva doğu afrika nın
+      metin  : svahili
+      duyulan: sivahili
+  REPLACE  ...zaman ve kimin eliyle
+      metin  : geldiğiydi
+      duyulan: geldiydi
+  REPLACE  ...ize aynı adlar kuşaktan
+      metin  : kuşağa
+      duyulan: kuşağı
+  REPLACE  ...geldiği buranın yerli halkı
+      metin  : yolngu yla
+      duyulan: yol onguyla
+  REPLACE  ...mcintosh vardı ekipte arkeologlar
+      metin  : jeomorfolog
+      duyulan: geomorfolog
+  REPLACE  ...ve üzerindeki çarpı işaretiydi
+      metin  : yolngu
+      duyulan: yolongu
+  INSERT   ...eski kıyı çizgilerini incelediler
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...kaya resimlerini belgelediler ve
+      metin  : yolngu
+      duyulan: yolongu
+  INSERT   ...ziyaretçileer dair izleri dinlediler
+      metin  : (yok)
+      duyulan: ki de
+  REPLACE  ...bunun da kilva sikkesi
+      metin  : olduğuydu
+      duyulan: oldu
+  REPLACE  ...bekleniyordu ama şey açıktı
+      metin  : isenberg
+      duyulan: eisenberg
+  REPLACE  ...çökmüş duvarlar görür ama
+      metin  : yüzlerde
+      duyulan: lerde
+  REPLACE  ...en güçlü şehir devletinin
+      metin  : başkentiydi
+      duyulan: başkenti idi
+  REPLACE  ...de özetini aktardığı kilva
+      metin  : vakayinamesi nde
+      duyulan: vakah inamesinde
+  REPLACE  ...köken hikayesi olarak görülüyor
+      metin  : vakayiname
+      duyulan: vakainame
+  DELETE   ...görülüyor vakayiname bu kuruluşu
+      metin  : yüzlerin
+      duyulan: (YOK — atlanmış)
+  INSERT   ...kapısını o denetliyordu kilva
+      metin  : (yok)
+      duyulan: ler
+  REPLACE  ...alınanı geri istemeye başlayacak
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...elinde yaşandı şehrin ulu
+      metin  : camii
+      duyulan: cami
+  REPLACE  ...hasan süleyman dı ve
+      metin  : onlardan
+      duyulan: lardan lara
+  REPLACE  ...faslı i bn battuta
+      metin  : ydı
+      duyulan: idi
+  REPLACE  ...sultanıydı bu sultan ulu
+      metin  : camii yi
+      duyulan: camiyi
+  REPLACE  ...yükseliyordu svahilice adı husuni
+      metin  : kubva
+      duyulan: kuvva
+  REPLACE  ...anlamına gelen kelimeden türer
+      metin  : kubva
+      duyulan: kuvva
+  REPLACE  ...çünkü işlevi kaleden çok
+      metin  : sarayınkine
+      duyulan: sarayinkine
+  REPLACE  ...kesilmiş yumuşak mercana oyulmuş
+      metin  : süslerle bezenmişti
+      duyulan: süsleer bezelmişti
+  REPLACE  ...duvarlarından sultanın adını ve
+      metin  : unvanlarını
+      duyulan: ünvanlarını
+  INSERT   ...istediğini gösteriyor i bn
+      metin  : (yok)
+      duyulan: i
+  REPLACE  ...sürdürecek gücü bulamadı belki
+      metin  : yüzlerin
+      duyulan: lerin
+  INSERT   ...bu durumda i bn
+      metin  : (yok)
+      duyulan: i
+  ... ve 46 fark daha
+
+metinde olup DUYULMAYAN: 69 kelime | duyulup metinde OLMAYAN: 98
+bölme/birleşme farkı (hata değil, elendi): 55
+
+duyulan metin: arkeoloji-2026-11-24.duyulan.txt

@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-24.mp3
+
+beklenen 4171 kelime | duyulan 4164 kelime | eşleşme %99.4
+sayı ifadesi: metinde 183, duyulanda 147  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  DELETE   ...added to the neighborhood
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  DELETE   ...across it could hold
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...lawyers journalists and city
+      metin  : councilors
+      duyulan: counselors
+  DELETE   ...emboldened by the neighborhood
+      metin  : s
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...also made noises isaac
+      metin  : gonzales
+      duyulan: gonzalez
+  REPLACE  ...went to check it
+      metin  : gonzales
+      duyulan: gonzalez
+  REPLACE  ...had seen to arthur
+      metin  : jel jel
+      duyulan: gel gel
+  REPLACE  ...according to later testimony
+      metin  : jel
+      duyulan: gel
+  REPLACE  ...the matter by telling
+      metin  : gonzales
+      duyulan: gonzalez
+  REPLACE  ...standing some time later
+      metin  : gonzales
+      duyulan: gonzalez
+  DELETE   ...ful it held roughly
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  DELETE   ...wave of molasses reached
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...path year old pasquale
+      metin  : iantosca
+      duyulan: iantoska
+  REPLACE  ...wave and killed maria
+      metin  : di stasio
+      duyulan: distassio
+  REPLACE  ...rescued but firefighter george
+      metin  : layhe
+      duyulan: lay
+  REPLACE  ...hot summer days a
+      metin  : sweetish
+      duyulan: swedish
+  REPLACE  ...the italian anarchist luigi
+      metin  : galleani
+      duyulan: galliani
+  REPLACE  ...to light when arthur
+      metin  : jel
+      duyulan: jelle
+  REPLACE  ...molasses in buckets isaac
+      metin  : gonzales
+      duyulan: gonzalez
+  REPLACE  ...al entered the record
+      metin  : gonzales
+      duyulan: gonzalez
+  DELETE   ...a total of roughly
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  DELETE   ...died came to about
+      metin  : dollars
+      duyulan: (YOK — atlanmış)
+  DELETE   ...to put up an
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...today s episode of
+      metin  : nöron tarih
+      duyulan: norontaer
+
+metinde olup DUYULMAYAN: 27 kelime | duyulup metinde OLMAYAN: 17
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: history-2026-11-24.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-24.mp3
+
+beklenen 2497 kelime | duyulan 2516 kelime | eşleşme %91.0
+sayı ifadesi: metinde 370, duyulanda 234  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kimsenin bakmadığının hikayesi maryland
+      metin  : in
+      duyulan: ın
+  INSERT   ...çevrili düz arazide ağustos
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...doğdu adını matthew alexander
+      metin  : henson
+      duyulan: hansen
+  INSERT   ...çocuğun kafasında kapı araladı
+      metin  : (yok)
+      duyulan: doğun
+  REPLACE  ...gemisine katie hines adlı
+      metin  : yelkenliye miço
+      duyulan: yelkenliğe micho
+  DELETE   ...başka şey gördü matthew
+      metin  : a
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...okuma yazma öğretti akşamları
+      metin  : kamarasındaki
+      duyulan: kamerasındaki
+  REPLACE  ...neredeyze imkansızdı childs ın
+      metin  : kamarası
+      duyulan: kamerası
+  REPLACE  ...çin e japonya ya
+      metin  : filipinler e
+      duyulan: filipin leer
+  REPLACE  ...gemide kalmanın anlamı kalmamıştı
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...şehrin merkezindeki şapka ve
+      metin  : kürk
+      duyulan: kürt
+  REPLACE  ...ve kürk dükkanında tezgahtarlıktı
+      metin  : henson kürkleri
+      duyulan: hanson kürtleri
+  INSERT   ...şapka deniyor rafları düzenliyordu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...girdi adı robert peary
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...ve orta amerika ya
+      metin  : nikaragua
+      duyulan: nicaragua
+  REPLACE  ...tezgahtaki genç adamı önerdi
+      metin  : henson ın
+      duyulan: hanson un
+  REPLACE  ...geçmişini anlattı peary ile
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...ve anlaştılar teklif açıktı
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...yemeğini pişirecekti ne kaşif
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...ne de ortaklık ama
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...dünyanın kapısı yeniden açılıyordu
+      metin  : nikaragua
+      duyulan: nicaragua
+  REPLACE  ...nın sıcak nemli ormanlarında
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...bambaşka hedef vardı kuzey
+      metin  : grönland
+      duyulan: greenland
+  REPLACE  ...peary sonraki adımı attığında
+      metin  : henson ı
+      duyulan: hanson u
+  REPLACE  ...ı da yanına istedi
+      metin  : henson ın kuzey e
+      duyulan: hanson un kuzeye
+  REPLACE  ...büyüktü üstelik o yıl
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...adlı küçük balina gemisiyle
+      metin  : grönland
+      duyulan: greenland
+  REPLACE  ...o haftalarda işin yükü
+      metin  : henson ın
+      duyulan: hanson un
+  REPLACE  ...yükü henson ın omuzlarına
+      metin  : mccormick körfezi
+      duyulan: machcormic curfew i
+  REPLACE  ...ekibin çatısı vardı ama
+      metin  : henson ın
+      duyulan: hanson un
+  REPLACE  ...adla inuitler diye anılıyorlar
+      metin  : fok mors
+      duyulan: fog morse
+  REPLACE  ...yük taşıyıcı olarak görüyordu
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...ize dinledi yıllar içinde
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...öğrendi düzine köpeği tek
+      metin  : kamçıyla
+      duyulan: kamçı ile
+  REPLACE  ...içinde dikebilir hale geldi
+      metin  : fok
+      duyulan: fog
+  REPLACE  ...farklı biçimlerde aktarılan bu
+      metin  : ad
+      duyulan: at
+  REPLACE  ...sevgili matthew anlamına geliyordu
+      metin  : henson ın
+      duyulan: hanson un
+  REPLACE  ...asıl bağ saygıdan doğdu
+      metin  : henson
+      duyulan: hanson
+  REPLACE  ...sevinçle karşılıyorlardı bu bağ
+      metin  : peary
+      duyulan: peyri
+  REPLACE  ...bütün seferlerinin görünmez temeliydi
+      metin  : peary
+      duyulan: piperi
+  ... ve 126 fark daha
+
+metinde olup DUYULMAYAN: 180 kelime | duyulup metinde OLMAYAN: 211
+bölme/birleşme farkı (hata değil, elendi): 19
+
+duyulan metin: biyografi-2026-11-24.duyulan.txt

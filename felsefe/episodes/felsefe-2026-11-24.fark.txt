@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-24.mp3
+
+beklenen 2580 kelime | duyulan 2576 kelime | eşleşme %96.5
+sayı ifadesi: metinde 282, duyulanda 236  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yayımladı adı torunlarımızın ekonomik
+      metin  : olanakları idi
+      duyulan: olanaklarıydı
+  REPLACE  ...doğru ama eskiden günde
+      metin  : mektup
+      duyulan: mektubu
+  REPLACE  ...paradoksun kökleri yeni değil
+      metin  : benyamin
+      duyulan: de benjamin
+  REPLACE  ...ngilteer de demiryolu şirketleri
+      metin  : kırklardan
+      duyulan: lardan
+  INSERT   ...başladı amerika da da
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...fayda var romalı filozof
+      metin  : seneka
+      duyulan: seneca
+  INSERT   ...meselenin ömrün kısalığı değil
+      metin  : (yok)
+      duyulan: dodon u
+  REPLACE  ...kalan az şeye şaşırıyorduk
+      metin  : seneka
+      duyulan: seneca
+  DELETE   ...öğrenmeyen muhasebeci sektördeki yenilikleri
+      metin  : takip etmeyen
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...kalmanın kaygısı fransız düşünür
+      metin  : pol virilyo
+      duyulan: paul virilio
+  INSERT   ...olarak gören ilk isimlerden
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dromoloji kavramını ortaya attı
+      metin  : virilyo
+      duyulan: virilio
+  REPLACE  ...kontrol eden kazanırdı ama
+      metin  : virilyo
+      duyulan: virilio
+  REPLACE  ...amerikalı sosyal psikolog robert
+      metin  : levine doksanlarda
+      duyulan: levin larda
+  REPLACE  ...daha dakik işliyordu ama
+      metin  : levine in
+      duyulan: levin inin
+  REPLACE  ...neredeyze hiçbir şey yok
+      metin  : roza nın deyişiyle
+      duyulan: rozanın değişiğiyle
+  REPLACE  ...gibi da tembelliği haklı
+      metin  : çıkarmanın
+      duyulan: çıkartmanın
+  REPLACE  ...tirmizi nin derlediği hadiste
+      metin  : teenninin
+      duyulan: teyenninin
+  REPLACE  ...ölçüde bu anlayışın yankısıdır
+      metin  : teenni
+      duyulan: teyenni
+  REPLACE  ...ama anlamı çok değerli
+      metin  : teenni
+      duyulan: teyenni
+  REPLACE  ...ve temkinli davranmak demektir
+      metin  : teenni
+      duyulan: teyenni
+  REPLACE  ...attığını bilerek atar bu
+      metin  : teenninin
+      duyulan: teyenninin
+  REPLACE  ...hareket etmektir aynı şekilde
+      metin  : teenni
+      duyulan: teyenni
+  REPLACE  ...düşüncelerinden örtüşür i bn
+      metin  : miskeveyh
+      duyulan: i miskevey
+  REPLACE  ...uçta gevşeklik ve erteleme
+      metin  : teenni
+      duyulan: teyenni
+  REPLACE  ...yazarı şüphesiz ahmet hamdi
+      metin  : tanpınar dır
+      duyulan: tampınardır
+  REPLACE  ...ayarlama enstitüsü adlı romanında
+      metin  : tanpınar
+      duyulan: tampınardır
+  REPLACE  ...dikkati kendini dinlemeyi öğrenmektir
+      metin  : romanın
+      duyulan: romamın
+  REPLACE  ...vatandaşlara ceza bile kesilir
+      metin  : tanpınar
+      duyulan: tampınar
+  REPLACE  ...kimin için olduğu kaybolmuştur
+      metin  : tanpınar
+      duyulan: tampınar
+  REPLACE  ...benzer sezgi bulmak mümkün
+      metin  : taoculuğun
+      duyulan: tavuculuğun
+  REPLACE  ...laozi ye atfedilen öğretilerde
+      metin  : vu vey
+      duyulan: wu wei
+  REPLACE  ...de her şeyin zamanında
+      metin  : tamamlandığını
+      duyulan: anlandığını
+  REPLACE  ...ağaç gecede büyümez nehir
+      metin  : dağı
+      duyulan: daha
+  REPLACE  ...derdine kulak vermekte karar
+      metin  : vermekte
+      duyulan: etmekte
+  INSERT   ...başlıyor kim yavaşlayabiliyor gerçekten
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...duyulduğunda i talyan gazeteci
+      metin  : karlo
+      duyulan: carlo
+  DELETE   ...adıyla dünyaya yayıldı yemeği
+      metin  : yerel
+      duyulan: (YOK — atlanmış)
+  INSERT   ...ağa katılan ilk yer
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yavaş seyahat yavaş ebeveynlik
+      metin  : akımları
+      duyulan: yabancıları
+  ... ve 27 fark daha
+
+metinde olup DUYULMAYAN: 79 kelime | duyulup metinde OLMAYAN: 76
+bölme/birleşme farkı (hata değil, elendi): 9
+
+duyulan metin: felsefe-2026-11-24.duyulan.txt

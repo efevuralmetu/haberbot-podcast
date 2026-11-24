@@ -1,0 +1,46 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-24.mp3
+
+beklenen 1375 kelime | duyulan 1366 kelime | eşleşme %98.5
+sayı ifadesi: metinde 120, duyulanda 109  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...aklın nerede çıkan cevap
+      metin  : mutluluğun
+      duyulan: mutluluğu
+  REPLACE  ...gün yine bu sahne
+      metin  : binlerin
+      duyulan: lerin
+  REPLACE  ...yor happiness yani mutluluğunu
+      metin  : i zle idi
+      duyulan: izleydi
+  REPLACE  ...kadar sık başka yerde
+      metin  : olduğuydu
+      duyulan: olduğu
+  DELETE   ...yerde olduğuydu katılımcılar anların
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...zihnin dolaşma oranının hiçbirinde
+      metin  : (yok)
+      duyulan: un
+  DELETE   ...anki mutluluğundaki farklılıkların yalnızca
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  DELETE   ...zihnin dolaşıp dolaşmaması ize
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...geldiği anda uyanış yaşanıyordu
+      metin  : aa
+      duyulan: aaa
+  REPLACE  ...kaçtığında nereye gittiğini tek
+      metin  : kelimeyle
+      duyulan: kelime ile
+  REPLACE  ...cümleyi dinlerken olduğu gibi
+      metin  : nöron
+      duyulan: sularon
+
+metinde olup DUYULMAYAN: 12 kelime | duyulup metinde OLMAYAN: 9
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: psikoloji-2026-11-24.duyulan.txt
