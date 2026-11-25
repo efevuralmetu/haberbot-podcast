@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-25.mp3
+
+beklenen 4269 kelime | duyulan 4270 kelime | eşleşme %97.3
+sayı ifadesi: metinde 212, duyulanda 157  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...to be called fort
+      metin  : zeelandia
+      duyulan: zealandia
+  REPLACE  ...sounded something like kok
+      metin  : seng ia
+      duyulan: sengie
+  REPLACE  ...wrote it down as
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...his father zheng zhilong
+      metin  : read
+      duyulan: rid
+  REPLACE  ...family stronghold at anping
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...own life soon afterward
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...over the next years
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...coast the islands of
+      metin  : xiamen
+      duyulan: siamen
+  REPLACE  ...scattered his army and
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...cutting off his supplies
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...corruption he fled to
+      metin  : xiamen
+      duyulan: siamen
+  REPLACE  ...beyond the range of
+      metin  : zeelandia
+      duyulan: zealandia
+  REPLACE  ...so shallow he told
+      metin  : koxinga
+      duyulan: kok sengie
+  REPLACE  ...governor of taiwan frederick
+      metin  : coyett
+      duyulan: coyet
+  REPLACE  ...under the command of
+      metin  : jan
+      duyulan: jean
+  REPLACE  ...he quarreled bitterly with
+      metin  : coyett
+      duyulan: coyet
+  REPLACE  ...sentries the ramparts of
+      metin  : zeelandia
+      duyulan: zealandia
+  REPLACE  ...was crowded with masts
+      metin  : koxinga
+      duyulan: coxinga
+  REPLACE  ...of the dutch cannons
+      metin  : koxinga
+      duyulan: coxinga
+  REPLACE  ...the north known as
+      metin  : lu erhmen
+      duyulan: looermen
+  REPLACE  ...this to a prayer
+      metin  : koxinga
+      duyulan: coxinga
+  REPLACE  ...in side stood fort
+      metin  : zeelandia
+      duyulan: zealandia
+  REPLACE  ...at a place called
+      metin  : saccam
+      duyulan: sechem
+  REPLACE  ...them now belonged to
+      metin  : koxinga
+      duyulan: coxinga
+  REPLACE  ...of soldiers weer ashoer
+      metin  : coyett
+      duyulan: coyet
+  REPLACE  ...them and sent in
+      metin  : fier ships
+      duyulan: fireships
+  REPLACE  ...sandy island was called
+      metin  : baxemboy
+      duyulan: baxamboy
+  REPLACE  ...land stretching north of
+      metin  : zeelandia
+      duyulan: zealandia
+  REPLACE  ...but dunes and scrub
+      metin  : coyett
+      duyulan: coyet
+  DELETE   ...scrub coyett sent about
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...led by captain thomas
+      metin  : pedel pedel
+      duyulan: peddle peddle
+  REPLACE  ...according to the defense
+      metin  : coyett
+      duyulan: coyet
+  REPLACE  ...whole lot would run
+      metin  : pedel
+      duyulan: peddle
+  REPLACE  ...arrows and muskets the
+      metin  : rout
+      duyulan: route
+  REPLACE  ...flank and rear of
+      metin  : pedel
+      duyulan: peddle
+  REPLACE  ...themselves into the waves
+      metin  : pedel
+      duyulan: peddle
+  DELETE   ...nearly half the unit
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...fortress by boat what
+      metin  : coyett
+      duyulan: coyet
+  REPLACE  ...inherently superior in asia
+      metin  : koxinga
+      duyulan: coxinga
+  REPLACE  ...water and little gunpowder
+      metin  : koxinga
+      duyulan: coxinga
+  ... ve 59 fark daha
+
+metinde olup DUYULMAYAN: 108 kelime | duyulup metinde OLMAYAN: 109
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: history-2026-11-25.duyulan.txt

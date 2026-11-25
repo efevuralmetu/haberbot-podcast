@@ -1,0 +1,55 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-25.mp3
+
+beklenen 1411 kelime | duyulan 1411 kelime | eşleşme %98.5
+sayı ifadesi: metinde 133, duyulanda 123  (sayı kaybı YOK)
+
+=== FARKLAR ===
+  REPLACE  ...da böyle sahneyle sınadı
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...kenneth savitsky ve victoria
+      metin  : medvec
+      duyulan: medvek
+  REPLACE  ...buzlu camın ardındaki bulanık
+      metin  : siluet
+      duyulan: silüet
+  REPLACE  ...çok daha az yakaladı
+      metin  : gilovich
+      duyulan: gilovic
+  REPLACE  ...düşüyoruz cevap duygularımızı nereden
+      metin  : izlediğimizle
+      duyulan: izlediğinizle
+  REPLACE  ...kontrol etmeye çalıştığın küçük
+      metin  : seğirme
+      duyulan: seyirme
+  INSERT   ...en güzel anlatan deneylerden
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...aksilik senin yüzündeki minik
+      metin  : seğirmeyi
+      duyulan: seyirmeyi
+  REPLACE  ...önemsediklerinin ve nereye kadar
+      metin  : esneyebileceklerinin
+      duyulan: esniyebileceklerinin
+  REPLACE  ...göründüğünü izlemekle meşgul oluyor
+      metin  : kenneth
+      duyulan: kennett
+  INSERT   ...savitsky ve thomas gilovich
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...içimizde taşıdığımız şey tek
+      metin  : cümleyle
+      duyulan: cümle ile
+  REPLACE  ...türden olmaz uzun süredir
+      metin  : dinmeyen
+      duyulan: dinleyen
+  REPLACE  ...sefer görünmek senin elinde
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 12 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 5
+
+duyulan metin: psikoloji-2026-11-25.duyulan.txt

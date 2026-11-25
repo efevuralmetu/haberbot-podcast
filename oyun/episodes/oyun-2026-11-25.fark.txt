@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-25.mp3
+
+beklenen 1657 kelime | duyulan 1658 kelime | eşleşme %96.1
+sayı ifadesi: metinde 244, duyulanda 179  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...o koca adam yıllarca
+      metin  : oakland
+      duyulan: auckland
+  REPLACE  ...da kendine ait içinde
+      metin  : yatağı
+      duyulan: yatağa
+  REPLACE  ...ait içinde yatağı ve
+      metin  : mutfağı
+      duyulan: mutfağa
+  INSERT   ...bakarak geçirir bu yolculukların
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...da electronic arts kısaca
+      metin  : ea
+      duyulan: ai
+  REPLACE  ...akla gelen ilk yüzlerden
+      metin  : madden dır madden ın
+      duyulan: maddendir maddenin
+  INSERT   ...teklif için biçilmiş kaftandır
+      metin  : (yok)
+      duyulan: dan e
+  INSERT   ...kaybeden sezon yaşamamış ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kadar anlaşılır kılmak işidir
+      metin  : hawkins
+      duyulan: haykins
+  REPLACE  ...konusunda pazarlık kabul etmez
+      metin  : hawkins
+      duyulan: haykins
+  REPLACE  ...için fazlasıyla ağır yüktür
+      metin  : madden ın
+      duyulan: maddenin
+  REPLACE  ...gelir kişi yoksa madden
+      metin  : da
+      duyulan: de
+  DELETE   ...ve yavaş işlemcisiyle apple
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...şi üstlenen kişi robin
+      metin  : antonick
+      duyulan: antonik
+  INSERT   ...bilgisayar bilimiyle uğraşmaktadır ea
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...işe alır ve önüne
+      metin  : madden ın
+      duyulan: maddenin
+  REPLACE  ...madden ın şartını koyar
+      metin  : antonick
+      duyulan: antonik
+  DELETE   ...önüne getirmek gerekir apple
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...karar vermek üstüne de
+      metin  : madden ın
+      duyulan: maddenin
+  INSERT   ...gibi göründüğünü anlatacaktır sonunda
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...anlatacaktır sonunda john madden
+      metin  : footbal
+      duyulan: futbol
+  INSERT   ...da uyarlanır sahada gerçekten
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...oyuncu vardır oyuncu madden
+      metin  : ın
+      duyulan: in
+  REPLACE  ...başına yüklü pay istemektedir
+      metin  : ea
+      duyulan: ui
+  REPLACE  ...doğru keşfetmek bu bilgiyle
+      metin  : ea
+      duyulan: ai
+  REPLACE  ...aşıldığını gören şirket olarak
+      metin  : ea
+      duyulan: ai
+  REPLACE  ...anlaşma sunar bu pazarlık
+      metin  : ea nın
+      duyulan: ai nin
+  REPLACE  ...açar genesis için yapılacak
+      metin  : madden ı
+      duyulan: maddeni
+  REPLACE  ...yapılacak madden ı ize
+      metin  : ea nın
+      duyulan: ai nin
+  INSERT   ...anlaşılan stüdyo hazırlar oyun
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...pencereler sahayı yukarıdan gösterir
+      metin  : madden ın
+      duyulan: maddenin
+  DELETE   ...oyuncunun kulağına ulaşır apple
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...başlayan iş ay içinde
+      metin  : ea nın
+      duyulan: ai nin
+  INSERT   ...her yıl yeni madden
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...bu yükselişin dönüm noktası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yükselişin dönüm noktası gelir
+      metin  : ea
+      duyulan: va
+  REPLACE  ...rekabetin sonu olarak eleştirilir
+      metin  : ea
+      duyulan: aa
+  REPLACE  ...noktasında o dar apple
+      metin  : ii
+      duyulan: iq
+  REPLACE  ...adama ne olur robin
+      metin  : antonick in ea
+      duyulan: anthony kin ai
+  REPLACE  ...öngörmektedir genesis sürümü çıktığında
+      metin  : antonick
+      duyulan: anthony
+  ... ve 15 fark daha
+
+metinde olup DUYULMAYAN: 62 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 1
+
+duyulan metin: oyun-2026-11-25.duyulan.txt

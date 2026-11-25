@@ -1,0 +1,82 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-25.mp3
+
+beklenen 3295 kelime | duyulan 3296 kelime | eşleşme %99.1
+sayı ifadesi: metinde 80, duyulanda 67  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...anecdote a woman named
+      metin  : fania
+      duyulan: phinea
+  INSERT   ...that does not know
+      metin  : (yok)
+      duyulan: but
+  REPLACE  ...palate this analogy fits
+      metin  : frankfurt
+      duyulan: frankfort
+  REPLACE  ...listener wants to hear
+      metin  : frankfurt
+      duyulan: frankfort
+  REPLACE  ...randomly chosen grandiose words
+      metin  : sentences
+      duyulan: it was
+  REPLACE  ...at the substance the
+      metin  : sophist
+      duyulan: softest
+  REPLACE  ...by contrast places that
+      metin  : very
+      duyulan: vary
+  REPLACE  ...in the surah al
+      metin  : hujurat
+      duyulan: hujrat
+  REPLACE  ...his great work the
+      metin  : ihya
+      duyulan: ahya
+  REPLACE  ...of the tongue s
+      metin  : reins
+      duyulan: reigns
+  REPLACE  ...and a tongue whose
+      metin  : reins
+      duyulan: reigns
+  REPLACE  ...a hadith transmitted by
+      metin  : al tirmidhi
+      duyulan: altermity
+  REPLACE  ...bilig written by yusuf
+      metin  : khass hajib
+      duyulan: qas hajiib
+  INSERT   ...image arrives yor phone
+      metin  : (yok)
+      duyulan: the hosei redis
+  REPLACE  ...an unbeliever a fier
+      metin  : worshipper
+      duyulan: worshiper
+  REPLACE  ...worshipper or an idol
+      metin  : worshipper
+      duyulan: worshiper
+  REPLACE  ...masnavi nor in the
+      metin  : divan e
+      duyulan: devani
+  REPLACE  ...the divan e shams
+      metin  : abdülbaki gölpınarlı
+      duyulan: abdulbaki golpanarla
+  REPLACE  ...poems attributed to abu
+      metin  : sa id
+      duyulan: sayyid
+  REPLACE  ...abu sa id abu
+      metin  : l khayr
+      duyulan: al qayyir
+  REPLACE  ...the ghazals in the
+      metin  : divan e
+      duyulan: divani
+  REPLACE  ...with a single word
+      metin  : khamush
+      duyulan: kamush
+  REPLACE  ...today s episode of
+      metin  : nöron felsefe
+      duyulan: norun felsife
+
+metinde olup DUYULMAYAN: 29 kelime | duyulup metinde OLMAYAN: 30
+bölme/birleşme farkı (hata değil, elendi): 0
+
+duyulan metin: philosophy-2026-11-25.duyulan.txt

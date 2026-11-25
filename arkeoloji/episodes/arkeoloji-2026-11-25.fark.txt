@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-25.mp3
+
+beklenen 2635 kelime | duyulan 2636 kelime | eşleşme %96.4
+sayı ifadesi: metinde 287, duyulanda 224  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...rüzgarın binlerce yılda yığdığı
+      metin  : kilometreye
+      duyulan: km ye
+  REPLACE  ...hilal biçimli kumul uzanıyor
+      metin  : jeologlar
+      duyulan: jeyologlar
+  REPLACE  ...jeologlar bu tür kumullara
+      metin  : lünet
+      duyulan: lunet
+  REPLACE  ...tamamen çekilmiş önce ize
+      metin  : vilandra
+      duyulan: wilandra
+  INSERT   ...katman saklanan geçmiş kalmış
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...haber verdi ertesi yıl
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...john mulvaney galli arkeolog
+      metin  : ris cons
+      duyulan: rhys combs
+  REPLACE  ...kaldırıp bavula yerleştirdiler ve
+      metin  : kanberra
+      duyulan: canberra
+  REPLACE  ...bölgenin geleneksel sahipleri olan
+      metin  : aborijin
+      duyulan: aboricin
+  REPLACE  ...keşif değildi mutti mutti
+      metin  : ngiyampaa
+      duyulan: niyanpa
+  REPLACE  ...mutti mutti ngiyampaa ve
+      metin  : paakantyi
+      duyulan: pakanti
+  INSERT   ...ele vermeye başlamıştı şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...nedeni aşı boyasıydı yani
+      metin  : okr
+      duyulan: okra
+  INSERT   ...tahminler ile yıl arasındaydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...yıl arasındaydı ize alan
+      metin  : thorne
+      duyulan: torn
+  REPLACE  ...roberts nigel spooner ve
+      metin  : jon olley
+      duyulan: john oley
+  INSERT   ...onlarca örnek aldı sonuçlar
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...tartışmanın da merkezine oturdu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...da merkezine oturdu aralarında
+      metin  : thorne
+      duyulan: torn
+  REPLACE  ...mungo adamı nın kemiklerinden
+      metin  : mitokondriyal
+      duyulan: mitokondrial
+  REPLACE  ...elde ettiklerini açıkladı i
+      metin  : ddiaya
+      duyulan: ddiyaya
+  REPLACE  ...bulunmayan soyu tükenmiş dizilimdi
+      metin  : thorne
+      duyulan: torn
+  INSERT   ...belli değildi cevap ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...griffith üniversitesi nden tim
+      metin  : höypink
+      duyulan: hooping
+  REPLACE  ...ekip yeni nesil dizileme
+      metin  : teknolojisiyle
+      duyulan: teknolojisi ile
+  INSERT   ...yeniden inceledi sonuç kesindi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...mutti halkından alice kelly
+      metin  : ydi
+      duyulan: idi
+  REPLACE  ...alice kelly ydi kelly
+      metin  : yetmişlerden
+      duyulan: lerden
+  REPLACE  ...kemikleri mezarlardan çıkarılmış müzeleer
+      metin  : üniversiteleer
+      duyulan: üniversiteteleer
+  REPLACE  ...bu süreçte mutti mutti
+      metin  : ngiyampaa
+      duyulan: nengiyampa
+  REPLACE  ...mutti mutti ngiyampaa ve
+      metin  : paakantyi
+      duyulan: pakanti
+  REPLACE  ...bu arada mutti mutti
+      metin  : ngiyampaa
+      duyulan: nigyan pa
+  REPLACE  ...mutti mutti ngiyampaa ve
+      metin  : paakantyi
+      duyulan: pakanti
+  INSERT   ...durmasından duyduğu rahatsızlığı gizlemedi
+      metin  : (yok)
+      duyulan: kiki te
+  REPLACE  ...sorusu açık kalmıştı kasım
+      metin  : kanberra
+      duyulan: de canberra
+  REPLACE  ...rektörü nobel ödüllü astrofizikçi
+      metin  : brayın şmit
+      duyulan: brian schmidt
+  REPLACE  ...arabası ve izleyen konvoy
+      metin  : kanberra
+      duyulan: canberra
+  INSERT   ...açıkça ve törenle yapıldı
+      metin  : (yok)
+      duyulan: doğun
+  INSERT   ...ve törenle yapıldı kasım
+      metin  : (yok)
+      duyulan: de
+  ... ve 14 fark daha
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 64
+bölme/birleşme farkı (hata değil, elendi): 27
+
+duyulan metin: arkeoloji-2026-11-25.duyulan.txt

@@ -1,0 +1,133 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-25.mp3
+
+beklenen 1734 kelime | duyulan 1738 kelime | eşleşme %96.3
+sayı ifadesi: metinde 221, duyulanda 193  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...yarı yarıya olduğunu düşünürüz
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...köşesiydi köşeyi yazan marilyn
+      metin  : vos savant
+      duyulan: wossavante
+  REPLACE  ...o pazar yayımlanan soru
+      metin  : maryland
+      duyulan: marilyn
+  REPLACE  ...soru maryland den craig
+      metin  : whitaker
+      duyulan: whittaker
+  INSERT   ...uzun soluklu yarışmalarından göndermeydi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...kahkahayı iyi tanıyordu marilyn
+      metin  : vos
+      duyulan: walsh
+  REPLACE  ...ulaştı bunların yaklaşık doktora
+      metin  : unvanı
+      duyulan: ünvanı
+  REPLACE  ...demek ki şans yarı
+      metin  : yarıyaydı
+      duyulan: yarıya idi
+  REPLACE  ...mason üniversitesi nden robert
+      metin  : sachs
+      duyulan: sacks
+  REPLACE  ...georgetown üniversitesi nden e
+      metin  : ray bobo
+      duyulan: rybobo
+  REPLACE  ...katkıda bulunmamasını rica etti
+      metin  : vos savant
+      duyulan: wossavant
+  INSERT   ...kadar büyüdü ki temmuz
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...oysa bu kavganın kökü
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...kökü çok daha eskiydi
+      metin  : california
+      duyulan: te kaliforniya
+  REPLACE  ...sizin kapınız rastgele tahmindi
+      metin  : öteki
+      duyulan: ölökteki
+  REPLACE  ...keçi gösterip teklif yaptığı
+      metin  : varsayımıyla
+      duyulan: varsayımı ile
+  REPLACE  ...teklif yaptığı varsayımıyla doğruydu
+      metin  : matematikteki
+      duyulan: metematikteki
+  REPLACE  ...insanlar ikna olmakta zorlanıyordu
+      metin  : psikologlar
+      duyulan: pesikologlar
+  REPLACE  ...yüzyılın en üretken matematikçilerinden
+      metin  : pol erdöş
+      duyulan: paul erdoş
+  REPLACE  ...matematikçi paul hoffman ın
+      metin  : erdöş
+      duyulan: erdoş
+  REPLACE  ...yazdığı biyografide anlattığına göer
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...göer doksanların ortasında andrew
+      metin  : vajoni
+      duyulan: vajony
+  REPLACE  ...monty hal problemini sordu
+      metin  : erdöş ün
+      duyulan: erdoş un
+  REPLACE  ...değiştirmenin hiçbir farkı yoktu
+      metin  : vajoni
+      duyulan: vajony
+  REPLACE  ...vajoni değiştirmenin kazandırdığını söyleyince
+      metin  : erdöş
+      duyulan: erdoş
+  REPLACE  ...erdöş bunu kabul etmedi
+      metin  : vajoni
+      duyulan: vajony
+  REPLACE  ...saydı olasılık ağaçları çizdi
+      metin  : erdöş
+      duyulan: erdoş
+  REPLACE  ...erdöş ikna olmadı sonunda
+      metin  : vajoni
+      duyulan: vajony
+  REPLACE  ...değiştirenlerin oranında kazandığını gösterdi
+      metin  : erdöş
+      duyulan: erdoş
+  REPLACE  ...son sözü deney söyler
+      metin  : vos
+      duyulan: wolf
+  INSERT   ...en sevimli perdesi ize
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ize washington eyaletindeki whitman
+      metin  : koleji nde
+      duyulan: college inde
+  REPLACE  ...whitman koleji nde açıldı
+      metin  : psikolog
+      duyulan: pesikolog
+  REPLACE  ...nde açıldı psikolog walter
+      metin  : herbranson
+      duyulan: herbrandson
+  REPLACE  ...stratejiyi bulmuşlardı araştırmacılar aynı
+      metin  : düzeneği
+      duyulan: düzeneyi
+  INSERT   ...sonunda bile turların ancak
+      metin  : (yok)
+      duyulan: te si
+  REPLACE  ...ve vazgeçme korkusuyla boğuşuyordu
+      metin  : erdöş ü
+      duyulan: erdoş u
+  REPLACE  ...nasıl tekrarlanan denemelerin soğuk
+      metin  : sayımıysa
+      duyulan: sayımı ize
+  REPLACE  ...matematikçilerinden bilgisayar ekranına baktıran
+      metin  : sonunda
+      duyulan: zonunda
+  REPLACE  ...ne bilerek açık bıraktı
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 41 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: bilim-2026-11-25.duyulan.txt

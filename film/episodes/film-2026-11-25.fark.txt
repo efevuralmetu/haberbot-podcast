@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-25.mp3
+
+beklenen 2234 kelime | duyulan 2237 kelime | eşleşme %96.8
+sayı ifadesi: metinde 258, duyulanda 195  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...
+      metin  : (yok)
+      duyulan: te
+  DELETE   ...aynı şeyi söylüyordu seyirci
+      metin  : buçuk
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...oyunculara bırakırdı disney in
+      metin  : miki faer si
+      duyulan: mickey faresi
+  REPLACE  ...pamuk prenses filmini izlemişti
+      metin  : gösterim
+      duyulan: gözlerim
+  REPLACE  ...vardı kıskançlık zehir ölüm
+      metin  : yas
+      duyulan: yaz
+  REPLACE  ...yas sonunda da kurtuluş
+      metin  : kahkaha ile
+      duyulan: kahkahayla
+  REPLACE  ...baştan yaptırıyordu yeni sanatçılar
+      metin  : işe
+      duyulan: işi
+  REPLACE  ...gelen gelir de bu
+      metin  : deliği
+      duyulan: deliyi
+  REPLACE  ...kredi yetkilisi joseph rosenberg
+      metin  : di
+      duyulan: ti
+  REPLACE  ...güldü ne yorum yaptı
+      metin  : gösterim
+      duyulan: gösteer
+  REPLACE  ...yaptı gösterim bittiğinde walt
+      metin  : la
+      duyulan: ile
+  REPLACE  ...işlerin başındaki mühendis william
+      metin  : garity nin
+      duyulan: garrett inin
+  REPLACE  ...mesafe bırakılarak diziliyordu en
+      metin  : üstte
+      duyulan: üste
+  INSERT   ...önce kısa filmde denedi
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...için sanatçılarını okula gönderdi
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...sanatçılarını okula gönderdi itibaren
+      metin  : chouinard
+      duyulan: schoenart
+  REPLACE  ...öğretmenliği yapan ernest belcher
+      metin  : in
+      duyulan: ın
+  REPLACE  ...marjorie yani daha sonra
+      metin  : marge
+      duyulan: march
+  REPLACE  ...gördü ses tarafında da
+      metin  : walt ın
+      duyulan: walton
+  REPLACE  ...opera eğitimi almış adriana
+      metin  : kazelotti
+      duyulan: cazelotti
+  REPLACE  ...prenses in kendisi oldu
+      metin  : kazelotti
+      duyulan: cazelotti
+  REPLACE  ...sevimli çizgisi biçim verdi
+      metin  : ve walt
+      duyulan: wevold
+  REPLACE  ...için sonraki büyük projesinde
+      metin  : pinokyo
+      duyulan: pinocchio
+  REPLACE  ...kendine koyduğu kuralı özetler
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...frank churchil ile larry
+      metin  : morey nin
+      duyulan: moray ın
+  INSERT   ...çıkarılan ilk örneklerden oldu
+      metin  : (yok)
+      duyulan: nin
+  REPLACE  ...haftalarda gece gündüz çalışıyordu
+      metin  : prömiyer
+      duyulan: premier
+  REPLACE  ...girenler arasında charlie chaplin
+      metin  : marlen ditrih
+      duyulan: marlon dietrich
+  REPLACE  ...aylardır disney in çılgınlığı
+      metin  : esprisini
+      duyulan: espirisini
+  REPLACE  ...yeer yığıldığında ve cüceler
+      metin  : cam
+      duyulan: can
+  REPLACE  ...en deneyimli yıldızları çizilmiş
+      metin  : yas
+      duyulan: yaz
+  INSERT   ...uzun süer alkışladı şubat
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yıl sonra rüzgar gibi
+      metin  : geçti ile
+      duyulan: geçtiyle
+  REPLACE  ...yıl sonra yapıldı şubat
+      metin  : törende
+      duyulan: daki tören de
+  REPLACE  ...sahnede tane normal boyda
+      metin  : oscar heykelciği
+      duyulan: oskar heykelciyi
+  REPLACE  ...basamak dizilmiş tane minyatür
+      metin  : oscar
+      duyulan: oskar
+  REPLACE  ...anlam başarının ödüllendirilmesinden fazlasıydı
+      metin  : akademi
+      duyulan: academy
+  REPLACE  ...da iddialı işleer dönüştü
+      metin  : pinokyo fantazya
+      duyulan: pinocchio fantasia
+  INSERT   ...üzerine kurulmuştu yıl sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...animatörlerin uzun grevi yaşanacaktı
+      metin  : kazelotti
+      duyulan: cazellotti
+  ... ve 4 fark daha
+
+metinde olup DUYULMAYAN: 49 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 13
+
+duyulan metin: film-2026-11-25.duyulan.txt

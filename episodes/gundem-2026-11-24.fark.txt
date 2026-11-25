@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: gundem-2026-11-24.mp3
+
+beklenen 1342 kelime | duyulan 1358 kelime | eşleşme %94.8
+sayı ifadesi: metinde 223, duyulanda 125  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aşamaya geçti i ran
+      metin  : devrim
+      duyulan: devri
+  INSERT   ...bakanlığı da aynı gün
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...sahasına girdi ve bunlardan
+      metin  : kh
+      duyulan: kk
+  REPLACE  ...konseyi varşova nın talebiyle
+      metin  : brüksel
+      duyulan: bruksel
+  REPLACE  ...nato genel sekreteri mark
+      metin  : rüte
+      duyulan: rutte
+  DELETE   ...finlandiya körfezi nde sparta
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...klim değişikliği konferansı yani
+      metin  : copotuz
+      duyulan: cheop
+  REPLACE  ...müzakereler süresini yaklaşık saat
+      metin  : aştı
+      duyulan: açtı
+  INSERT   ...göer bm iklim görüşmeleri
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...aldı yapay zeka tarafında
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...halka arz fiyatının yalnızca
+      metin  : sent
+      duyulan: cent
+  REPLACE  ...yapay zeka çip girişimi
+      metin  : taalas
+      duyulan: thalas
+  REPLACE  ...yaklaşık dolara satın alıyor
+      metin  : taalas
+      duyulan: thalas
+  REPLACE  ...güçlendirmeyi hedefliyor yapay zeka
+      metin  : güvenliğiyle
+      duyulan: güvenliği ile
+  REPLACE  ...erişim anahtarını herkese açık
+      metin  : yazılım
+      duyulan: yazılın
+  REPLACE  ...denetlenmesi tartışmasını yeniden alevlendirdi
+      metin  : abd istihbarat
+      duyulan: ebrisbarat
+  REPLACE  ...toparlanma yaşandı cuma günü
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...dow jones endeksleri zirvelerinden
+      metin  : (yok)
+      duyulan: dan
+  REPLACE  ...ardından çip hisselerinin öncülüğünde
+      metin  : esenpi
+      duyulan: s p
+  INSERT   ...gördü son haftada fiyat
+      metin  : (yok)
+      duyulan: nin
+  INSERT   ...yaklaşık değer kaybetti ve
+      metin  : (yok)
+      duyulan: u
+  REPLACE  ...faiz artırabileceği beklentisi değerli
+      metin  : metalleer
+      duyulan: metaleer
+  REPLACE  ...geldi karar yargıtay da
+      metin  : temyiz
+      duyulan: temiz
+  REPLACE  ...özel temmuz ayında yaklaşık
+      metin  : milletvekiliyle
+      duyulan: milletvekili ile
+  INSERT   ...stratejisinin kararlılıkla uygulandığını söyledi
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...gelişmeleer değindi terörsüz türkiye
+      metin  : süreciyle
+      duyulan: süreci ile
+  REPLACE  ...ize proje üretmemekle eleştirdi
+      metin  : öte yandan
+      duyulan: eretöteyan dan
+  REPLACE  ...pazartesi günü enerji ve
+      metin  : tabii
+      duyulan: tabi
+  REPLACE  ...yükselişi sürdürüp sürdüremeyeceği ve
+      metin  : anthropic
+      duyulan: antropik
+  REPLACE  ...meclisi toplantısı chp davasında
+      metin  : yargıtay
+      duyulan: yargıtayı
+  REPLACE  ...stanbul da bugün aralıklı
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...yer yer gök gürültülü
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...parçalı bulutlu yer yer
+      metin  : sağanak
+      duyulan: sanak
+  REPLACE  ...sizin için nöron değerlendirdi
+      metin  : bilgiyle
+      duyulan: bilgi ile
+  INSERT   ...kalın yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 30 kelime | duyulup metinde OLMAYAN: 44
+bölme/birleşme farkı (hata değil, elendi): 21
+
+duyulan metin: gundem-2026-11-24.duyulan.txt

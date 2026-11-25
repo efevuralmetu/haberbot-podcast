@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-25.mp3
+
+beklenen 2143 kelime | duyulan 2140 kelime | eşleşme %96.5
+sayı ifadesi: metinde 201, duyulanda 178  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...hocalığı yapan harry frankfurt
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...metin yaklaşık yıl sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...anlatmak için anekdota başvurur
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...olmuş hastanede keyifsiz yatıyormuş
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...köpek gibi hissettiğini söylemiş
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...doğmuştu kelimeler bilgiye dayanmıyordu
+      metin  : vitgenştayn
+      duyulan: wittgenstein
+  REPLACE  ...önünde ikna edebilmek güç
+      metin  : demekti
+      duyulan: demektir
+  REPLACE  ...sanat değil dalkavukluk biçimidir
+      metin  : tıbbın
+      duyulan: tıb ın
+  DELETE   ...yaygınlaştığına dair de gözlemde
+      metin  : bulunur
+      duyulan: (YOK — atlanmış)
+  INSERT   ...çalışan araştırmacılar da çıktı
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...çıktı kanadalı psikolog gordon
+      metin  : pennycook
+      duyulan: penicook
+  REPLACE  ...görkemli kelimelerin bilgisayar tarafından
+      metin  : dizilmesiyle
+      duyulan: dizilmesi ile
+  REPLACE  ...akıllı görünen kelimeyi duyduğunda
+      metin  : içeriğe
+      duyulan: içeriye
+  REPLACE  ...içeriğe bakmadan onaylamaya meyilli
+      metin  : sofist
+      duyulan: sophist
+  REPLACE  ...daha var i mam
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...hadis kitabı sahih i
+      metin  : müslim
+      duyulan: müslüm
+  REPLACE  ...başlar bu girişte hazreti
+      metin  : peygamber e
+      duyulan: peygambeer
+  REPLACE  ...aktaracaktır ve bunu yaparken
+      metin  : doğruyla
+      duyulan: doğru ile
+  REPLACE  ...sorumluluktan kurtulamaz frankfurt un
+      metin  : ayrımıyla
+      duyulan: ayrımı ile
+  REPLACE  ...sözün ahlakı yalnızca ne
+      metin  : söylediğinle
+      duyulan: söylediğine
+  REPLACE  ...hakikate ne kadar özen
+      metin  : gösterdiğinle
+      duyulan: gösterdiğine
+  REPLACE  ...nakledilir horasanlı alim abdullah
+      metin  : mübareğe
+      duyulan: mubaer ye
+  REPLACE  ...söz şöyle der i
+      metin  : snad
+      duyulan: snat
+  REPLACE  ...i snad dindendir i
+      metin  : snad
+      duyulan: snat
+  REPLACE  ...dileyen dilediğini söylerdi i
+      metin  : snad
+      duyulan: snat
+  DELETE   ...sonra pişman olabileceklerdir burada
+      metin  : da
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...doğrulamakla yükümlü i mam
+      metin  : gazzali
+      duyulan: gazali
+  INSERT   ...yönden işler büyük eseri
+      metin  : (yok)
+      duyulan: ihya
+  REPLACE  ...işler büyük eseri i
+      metin  : hyaü ulumi d din de
+      duyulan: ulu mi dinde
+  REPLACE  ...gereğinden fazla söz gelir
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...gün mutlaka uçuruma sürer
+      metin  : gazzali
+      duyulan: gazali
+  REPLACE  ...has hacib in yazdığı
+      metin  : kutadgu bilig
+      duyulan: kutat gubilik
+  REPLACE  ...konuşmayı bilgeliğin işareti sayar
+      metin  : i ki
+      duyulan: yıl
+  REPLACE  ...kılıyor ve kuşaklar boyunca
+      metin  : sahih i müslim in
+      duyulan: sahihi müslüman
+  REPLACE  ...zincir oluşuyor bu zincirin
+      metin  : isnadı
+      duyulan: isna adı
+  REPLACE  ...o kamışın iniltisini binlerce
+      metin  : beyit
+      duyulan: beyt
+  INSERT   ...başına gelen şey değil
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...gelen şey değil massachusetts
+      metin  : teknoloji
+      duyulan: technology
+  INSERT   ...yeni boyut da eklendi
+      metin  : (yok)
+      duyulan: ki te
+  INSERT   ...kayıtsızlık var frankfurt un
+      metin  : (yok)
+      duyulan: da
+  ... ve 2 fark daha
+
+metinde olup DUYULMAYAN: 47 kelime | duyulup metinde OLMAYAN: 52
+bölme/birleşme farkı (hata değil, elendi): 14
+
+duyulan metin: felsefe-2026-11-25.duyulan.txt

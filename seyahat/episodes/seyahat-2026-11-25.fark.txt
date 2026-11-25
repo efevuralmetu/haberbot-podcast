@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-25.mp3
+
+beklenen 2070 kelime | duyulan 2061 kelime | eşleşme %92.4
+sayı ifadesi: metinde 223, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yalın kayalık yamaç var
+      metin  : yamacın
+      duyulan: yamaçın
+  REPLACE  ...burası salvador brezilya nın
+      metin  : baia
+      duyulan: baya
+  REPLACE  ...kule birbirine bağlıyor elevador
+      metin  : laserda
+      duyulan: lazarda
+  REPLACE  ...bağlıyor elevador laserda yani
+      metin  : laserda
+      duyulan: lazarda
+  INSERT   ...katın arasında geçiyor salvador
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...soza tarafından kuruldu ve
+      metin  : yüzyıldan
+      duyulan: yıldan
+  INSERT   ...ve yüzyıldan uzun süer
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...sömürgesinin başkenti oldu körfez
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...arasında işleyen ticaretin limanıydı
+      metin  : baia
+      duyulan: baya
+  DELETE   ...tarihçilerin hesaplarına göer yaklaşık
+      metin  : nokta
+      duyulan: (YOK — atlanmış)
+  INSERT   ...afrikalı şehir deniyor nüfusunun
+      metin  : (yok)
+      duyulan: den
+  REPLACE  ...ve onların torunlarının yukarı
+      metin  : şehir in
+      duyulan: şehrin
+  INSERT   ...döşemeler aşağıya doğru akıyor
+      metin  : (yok)
+      duyulan: i ki
+  REPLACE  ...korkuluklar meydanın adı largo
+      metin  : du pelorinyo
+      duyulan: do pelorinho
+  REPLACE  ...türkçesiyle teşhir direği meydanı
+      metin  : pelorinyo portekizcede
+      duyulan: pelorinho portekizce de
+  REPLACE  ...uygulanıyordu ceza korkutma aracıydı
+      metin  : direk de
+      duyulan: direkte
+  REPLACE  ...de tören alanı gibiydi
+      metin  : direk
+      duyulan: direkt
+  REPLACE  ...direk çoktan kaldırıldı ama
+      metin  : ad
+      duyulan: at
+  INSERT   ...direği diye anılıyor burası
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...cepheli kilize yükseliyor nosa
+      metin  : senyora du hozaryu
+      duyulan: senyoradu hosaryu
+  REPLACE  ...ellerinden geldikçe taş taşıyarak
+      metin  : yükselttiği
+      duyulan: yükseltiği
+  INSERT   ...geldi brezilya köleliği ancak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sabahın erken saatleri aşağı
+      metin  : şehir deki konseysaun da
+      duyulan: şehirdeki konseyzaunda
+  REPLACE  ...renkli boncuk kolyeler bunlar
+      metin  : baia
+      duyulan: baya
+  REPLACE  ...baia kadınları yerel adlarıyla
+      metin  : baianalar
+      duyulan: bayanılar
+  REPLACE  ...satıcıları ve binlerce insan
+      metin  : kortej
+      duyulan: kortes
+  REPLACE  ...üstündeki beyaz kiliseye varıyor
+      metin  : i greja du nosu senyor du
+      duyulan: igreja do nosso senor do
+  REPLACE  ...taşındı o günden beri
+      metin  : baianalar
+      duyulan: bayanalar
+  REPLACE  ...inancında başka varlıkla özdeşleşmiş
+      metin  : oşala
+      duyulan: o shala
+  REPLACE  ...ediyor bu katmanın adı
+      metin  : kandomble
+      duyulan: kandombul
+  REPLACE  ...gelen insanların taşıdığı inanç
+      metin  : baia da
+      duyulan: bayada
+  REPLACE  ...yeniden kuruldu kandomble de
+      metin  : orişa
+      duyulan: orisha
+  REPLACE  ...varlıklara tapılıyor denizlerin anası
+      metin  : yemanja
+      duyulan: yemenca
+  REPLACE  ...gürültüsü ve adaletin efendisi
+      metin  : şango
+      duyulan: shango
+  REPLACE  ...suların ve aşkın sahibi
+      metin  : oşun
+      duyulan: oshun
+  REPLACE  ...aşkın sahibi oşun her
+      metin  : orixánın
+      duyulan: orixanın
+  REPLACE  ...var törenlerde davullar belirli
+      metin  : orixáya
+      duyulan: orixaya
+  REPLACE  ...çözüm tanrılarını katolik azizlerle
+      metin  : eşleştirmekti yemanja
+      duyulan: yaptırmaktı yamanca
+  REPLACE  ...başka yöne gidebiliyordu bugün
+      metin  : bahialı
+      duyulan: bahyalı
+  REPLACE  ...tapınakları yöneten baş rahibeleer
+      metin  : mayn di santu
+      duyulan: main de santo
+  ... ve 51 fark daha
+
+metinde olup DUYULMAYAN: 114 kelime | duyulup metinde OLMAYAN: 119
+bölme/birleşme farkı (hata değil, elendi): 23
+
+duyulan metin: seyahat-2026-11-25.duyulan.txt

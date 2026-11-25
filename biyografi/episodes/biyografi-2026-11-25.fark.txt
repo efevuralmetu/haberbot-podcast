@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-25.mp3
+
+beklenen 2820 kelime | duyulan 2837 kelime | eşleşme %95.2
+sayı ifadesi: metinde 414, duyulanda 258  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...yılının ocak ayı piccadilly
+      metin  : terrace taki
+      duyulan: terrassettaki
+  REPLACE  ...gitmeden önce uyandırmıyor araba
+      metin  : leicestershier a
+      duyulan: lester shearer
+  INSERT   ...byron ile annabella ocak
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...sonradan anlattıklarına göer byron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...kulağa yayılıyordu ayrılık çabucak
+      metin  : resmileşti
+      duyulan: resmiyleşti
+  REPLACE  ...yani childe harold un
+      metin  : hac yolculuğu nun
+      duyulan: haç yolculuğunun
+  REPLACE  ...kurdu ada babasına benzememeliydi
+      metin  : lady
+      duyulan: haydi
+  REPLACE  ...babasına benzememeliydi lady byron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...söz edilmezdi sık anlatılan
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...duran şairin portresi yeşil
+      metin  : perdeyle
+      duyulan: perde ile
+  INSERT   ...attığında görebildi byron nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...destek vermek için gittiği
+      metin  : mesolongi
+      duyulan: mesolonghi
+  DELETE   ...kendi uydurduğu ad verdi
+      metin  : uçabilim
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...posta güvercinin diye bitiriyordu
+      metin  : yirmilerin
+      duyulan: lerin
+  INSERT   ...daha ağır şey oldu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...ağır şey oldu ada
+      metin  : kızamığa
+      duyulan: kızamağı
+  REPLACE  ...hem kaçış hem de
+      metin  : dünyayla
+      duyulan: dünya ile
+  REPLACE  ...gittiği anlatılır lady byron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...hocası olan matematikçi william
+      metin  : frend
+      duyulan: friend
+  INSERT   ...değiştirecek adamla karşılaştı haziran
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...huysuz ama son derece
+      metin  : nüktedan matematikçiyle
+      duyulan: nükteden matematikçi ile
+  REPLACE  ...sokağı nda bulunan evi
+      metin  : otuzların londra sında
+      duyulan: ların londrasında
+  REPLACE  ...charles darwin in charles
+      metin  : dickens ın
+      duyulan: dickinson
+  REPLACE  ...çalışıyordu kolu çevirdiğinizde rakamlı
+      metin  : çarklar
+      duyulan: çartlar
+  REPLACE  ...gibi şaşkın şaşkın baktığını
+      metin  : oysa
+      duyulan: doysa
+  REPLACE  ...oysa genç miss byron
+      metin  : ın
+      duyulan: un
+  REPLACE  ...makinenin çizimlerini istedi babbage
+      metin  : a
+      duyulan: e
+  REPLACE  ...sorular sordu mektuplar yazdı
+      metin  : öte
+      duyulan: mahetüvete
+  INSERT   ...başka yönleer de uzanıyordu
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...desenleri delikli kartlarla yöneten
+      metin  : jakar
+      duyulan: jackar
+  REPLACE  ...tezgahını gördü fransız dokumacı
+      metin  : jozef mari jakar
+      duyulan: joseph marie jackar
+  REPLACE  ...de değişiyordu bu makineye
+      metin  : dışarıdan
+      duyulan: dışardan
+  INSERT   ...yeni döneme girdi temmuz
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...saygı gösteren eşti çiftin
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...eşti çiftin oğulları byron
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...kızları anne isabella ve
+      metin  : (yok)
+      duyulan: da
+  INSERT   ...ve oğulları ralph doğdu
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...ralph doğdu william lovelace
+      metin  : kontu
+      duyulan: contu
+  REPLACE  ...ada da artık lovelace
+      metin  : kontesi
+      duyulan: contesi
+  INSERT   ...vakti azalmıştı ama vazgeçmedi
+      metin  : (yok)
+      duyulan: ta
+  ... ve 53 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 115
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: biyografi-2026-11-25.duyulan.txt

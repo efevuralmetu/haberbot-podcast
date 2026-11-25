@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-25.mp3
+
+beklenen 2779 kelime | duyulan 2796 kelime | eşleşme %92.1
+sayı ifadesi: metinde 346, duyulanda 239  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...burçlu kaleye dönüştü ve
+      metin  : zelandiya
+      duyulan: zelandia
+  REPLACE  ...çinli tüccar ve korsan
+      metin  : ceng cılong
+      duyulan: zheng zhilong
+  REPLACE  ...kurduğu dünyayı yerle edecekti
+      metin  : ceng cılong
+      duyulan: zheng zhilong
+  REPLACE  ...roman gençliğinde portekizlilerin elindeki
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...elindeki makao da bulunmuş
+      metin  : hıristiyan
+      duyulan: hristiyan
+  REPLACE  ...anlayınca satın almayı seçti
+      metin  : ceng cılong
+      duyulan: zheng zhilong
+  REPLACE  ...metinler öğretildi delikanlı sonunda
+      metin  : nancing
+      duyulan: nanjing
+  INSERT   ...ize başka yol çizdi
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yeni hanedan ilan ettiler
+      metin  : çing
+      duyulan: qing
+  REPLACE  ...çıkıp direnmeye çalıştı bunlardan
+      metin  : longvu
+      duyulan: longwu
+  REPLACE  ...imparatorluk ailesinin soyadı olan
+      metin  : cu
+      duyulan: cü
+  REPLACE  ...olan cu adını bağışladı
+      metin  : halk
+      duyulan: halkona
+  REPLACE  ...ize asıl adı ceng
+      metin  : çıngkung
+      duyulan: cheng kung
+  REPLACE  ...geçer ama baba ceng
+      metin  : cılong
+      duyulan: cilong
+  REPLACE  ...estiğini başka türlü okudu
+      metin  : çing
+      duyulan: da qing
+  REPLACE  ...vaatlerine kanıp teslim oldu
+      metin  : çing
+      duyulan: ceng
+  REPLACE  ...kısa süer sonra koşinga
+      metin  : konfüçyüs
+      duyulan: konfüçyüz
+  REPLACE  ...çin kıyısının efendisi oldu
+      metin  : şiyamın
+      duyulan: xiam ın
+  REPLACE  ...şiyamın ve kinmen adaları
+      metin  : üssüydü
+      duyulan: üstüydü
+  INSERT   ...gelen ticaret geliriyle besliyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...nehri nden yukarı çıkarak
+      metin  : nancing
+      duyulan: nanjing
+  REPLACE  ...bu sefer felaketle bitti
+      metin  : çing
+      duyulan: çin
+  REPLACE  ...bazılarını kaybederek kıyıya çekildi
+      metin  : çing
+      duyulan: çin
+  REPLACE  ...tayvan dan adam geldi
+      metin  : he
+      duyulan: hebin
+  REPLACE  ...yolsuzluk suçlamalarıyla köşeye sıkışınca
+      metin  : şiyamın e
+      duyulan: da xiam ına
+  REPLACE  ...için hollandalıların önemsemediği deniz
+      metin  : geçidi he
+      duyulan: geçedi hebin
+  REPLACE  ...duymuştu tayvan valisi frederik
+      metin  : koyet
+      duyulan: coyet
+  REPLACE  ...süredir batavia ya yani
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...ya yani şirkedin bugünkü
+      metin  : cakarta
+      duyulan: jakarta
+  INSERT   ...kısmı tarlalarını bırakıp kaçıyordu
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...asıl hedefi portekizlilerin elindeki
+      metin  : makao
+      duyulan: macao
+  REPLACE  ...vakit kaybı gibi geldi
+      metin  : koyet le
+      duyulan: coyet ile
+  REPLACE  ...tartıştı korkaklıkla suçladı ve
+      metin  : şubadında
+      duyulan: şubat ında
+  REPLACE  ...askerlerin kısmı kaldı ama
+      metin  : şirkedin
+      duyulan: şirketin
+  REPLACE  ...bunun yerine kilometer kuzeyde
+      metin  : lu erhmen
+      duyulan: luermen
+  REPLACE  ...anlatıların ısrarla vurguladığı gibi
+      metin  : olağandan
+      duyulan: olağından
+  REPLACE  ...sabahta delinmişti lagüne giren
+      metin  : filo hollanda
+      duyulan: filhollanda
+  REPLACE  ...öbür yanda karşı kıyıda
+      metin  : ana karada saccam
+      duyulan: anakara da sakcam
+  REPLACE  ...çevredeki çinli yerleşimciler yıllardır
+      metin  : şirkede
+      duyulan: şirkete
+  REPLACE  ...varsayım vardı bu varsayım
+      metin  : şirkedin
+      duyulan: şirketin
+  ... ve 89 fark daha
+
+metinde olup DUYULMAYAN: 155 kelime | duyulup metinde OLMAYAN: 167
+bölme/birleşme farkı (hata değil, elendi): 34
+
+duyulan metin: tarih-2026-11-25.duyulan.txt
