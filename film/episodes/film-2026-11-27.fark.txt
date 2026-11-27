@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: film-2026-11-27.mp3
+
+beklenen 1985 kelime | duyulan 1979 kelime | eşleşme %91.9
+sayı ifadesi: metinde 261, duyulanda 176  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...güçlü acımasız ve haklı
+      metin  : çar
+      duyulan: çağrı
+  INSERT   ...çar olacaktı bölümü ödüllendirdi
+      metin  : (yok)
+      duyulan: i kinci
+  REPLACE  ...kadar uzatması gerektiğini anlattı
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  INSERT   ...hiçbir şey kalmadı ocak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...saldırmadan yalnızca ay önce
+      metin  : sergey ayzenştayn
+      duyulan: sergei eisenstein
+  REPLACE  ...işlerine bakan yakın adamı
+      metin  : andrey jdanov du
+      duyulan: andrei jadanovdu
+  REPLACE  ...ı anlatan büyük film
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  REPLACE  ...hem hem de tuzaktı
+      metin  : otuzlarda
+      duyulan: larda
+  REPLACE  ...sürekli açıklamak zorunda kalmıştı
+      metin  : aleksandr
+      duyulan: deki alexander
+  REPLACE  ...aynı yönde yeniden değerlendiriyordu
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  REPLACE  ...yorumun beyazperdedeki karşılığı olacaktı
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  INSERT   ...sonra savaş geldi haziran
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...yerdeydi malzeme kıttı yiyecek
+      metin  : karneyle
+      duyulan: karne ile
+  REPLACE  ...ve boyadan yeniden kuruldu
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  INSERT   ...tamamlayıp onaylattıktan sonra nisan
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...aleksandr nevski de de
+      metin  : başrolü
+      duyulan: başrolu
+  REPLACE  ...de başrolü oynayan nikolay
+      metin  : çerkasov
+      duyulan: cherkasov
+  REPLACE  ...annesinin hırsına mahkum vladimir
+      metin  : staritski yi
+      duyulan: staritsky i
+  REPLACE  ...vladimir staritski yi pavel
+      metin  : kadoçnikov
+      duyulan: kadochnikov
+  REPLACE  ...oynuyordu çariçe anastasya yı
+      metin  : lüdmila tselikovskaya i van
+      duyulan: lyudmila telikovskaya ivan
+  REPLACE  ...adamı malyuta skuratov u
+      metin  : mihail
+      duyulan: mikhail
+  REPLACE  ...ustaya emanetti dış mekanlar
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  REPLACE  ...beri yanında olan eduard
+      metin  : tisse
+      duyulan: hisse
+  REPLACE  ...gölgeyi ressam gibi kullanan
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...andrey moskvin deydi müziği
+      metin  : sergey prokofyev
+      duyulan: sergei prokofiev
+  INSERT   ...bölüm i van ın
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...açılıyor anastasya yla düğününü
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...soylu büyük toprak sahiplerinin
+      metin  : (yok)
+      duyulan: do nun
+  INSERT   ...tam da buydu bölüm
+      metin  : (yok)
+      duyulan: ün
+  REPLACE  ...stalin filmi beğendi ocak
+      metin  : ayzenştayn
+      duyulan: da eisenstein
+  REPLACE  ...eller pençe gibi kıvrılır
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  REPLACE  ...tıpkı ressamın çizgisi gibi
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...bu yöntem oyuncuları zorladı
+      metin  : çerkasov
+      duyulan: cherkasov
+  REPLACE  ...zorladı çerkasov sonradan yazdıklarında
+      metin  : kadrajın
+      duyulan: kadracın
+  REPLACE  ...kapıları alçaktı kemerler basıktı
+      metin  : çerkasov
+      duyulan: cherkasov
+  REPLACE  ...eğilmek zorunda kalıyordu ve
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  REPLACE  ...kapalılık duygusunu en çok
+      metin  : andrey
+      duyulan: andrei
+  REPLACE  ...in ışığı büyütüyordu moskvin
+      metin  : yirmilerde
+      duyulan: lerde
+  REPLACE  ...kendi karanlığı da yutabilir
+      metin  : prokofyev
+      duyulan: prokofiev
+  REPLACE  ...görüntülerle sıkı sıkıya örülmüştü
+      metin  : ayzenştayn
+      duyulan: eisenstein
+  ... ve 48 fark daha
+
+metinde olup DUYULMAYAN: 88 kelime | duyulup metinde OLMAYAN: 112
+bölme/birleşme farkı (hata değil, elendi): 40
+
+duyulan metin: film-2026-11-27.duyulan.txt

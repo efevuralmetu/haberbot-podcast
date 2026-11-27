@@ -1,0 +1,130 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: arkeoloji-2026-11-27.mp3
+
+beklenen 2539 kelime | duyulan 2535 kelime | eşleşme %97.1
+sayı ifadesi: metinde 229, duyulanda 188  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...
+      metin  : oklahoma da
+      duyulan: te oklahomada
+  REPLACE  ...yanına satılmış parçalar kaldı
+      metin  : otuzların
+      duyulan: ların
+  REPLACE  ...oklahoma nın doğu ucunda
+      metin  : arkınso
+      duyulan: arkansas
+  REPLACE  ...arkınso sınırına kilometer mesafede
+      metin  : arkınso nehri nin
+      duyulan: arkansas nehrinin
+  REPLACE  ...sahibi ailenin adıyla craig
+      metin  : höyüğü
+      duyulan: hoyu
+  REPLACE  ...öyle olmadığını biliyordu tarlada
+      metin  : sabanın
+      duyulan: sabahın
+  INSERT   ...vermedi ne var ki
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yerleşimin adıydı ortaklar craig
+      metin  : höyüğü nü
+      duyulan: hoyu nu
+  REPLACE  ...tutmak gerekiyor için craig
+      metin  : höyüğü
+      duyulan: höyü
+  REPLACE  ...kenarına gelmeye başladı craig
+      metin  : höyüğü
+      duyulan: höyü
+  INSERT   ...o yöne doğru ilerledi
+      metin  : (yok)
+      duyulan: e
+  REPLACE  ...toprağın içinde boşluğa açıldı
+      metin  : höyüğün
+      duyulan: höyü n
+  REPLACE  ...belki de tam kavrayamadılar
+      metin  : craig höyüğü
+      duyulan: kraik höyü
+  REPLACE  ...büyük ölüler odası craig
+      metin  : höyüğü
+      duyulan: höyü
+  REPLACE  ...nün ana konisinin tabanında
+      metin  : yüzlerin
+      duyulan: lerin
+  REPLACE  ...kesiminde büyük nehir vadilerinde
+      metin  : mısır
+      duyulan: nısır
+  REPLACE  ...en büyük merkezi bugünkü
+      metin  : sent luis
+      duyulan: st louis
+  REPLACE  ...bugünkü sent luis yakınlarındaki
+      metin  : cahokia ydı
+      duyulan: cahokya idi
+  REPLACE  ...arasında köprü gibi duruyordu
+      metin  : arkınso
+      duyulan: arkansas
+  REPLACE  ...meksika körfezi kıyılarında yaşayan
+      metin  : iri sarmal
+      duyulan: iris harmal
+  REPLACE  ...kabuğu kuzeyden bakır de
+      metin  : arkınso
+      duyulan: arkansas
+  REPLACE  ...dokunun üzerine bağlanmasıyla yapılan
+      metin  : bu giysiler
+      duyulan: bugisiler
+  REPLACE  ...yontulmuştu araştırmalar bu taşın
+      metin  : cahokia
+      duyulan: cahokya
+  REPLACE  ...bunları new york taki
+      metin  : şikago
+      duyulan: chicago
+  REPLACE  ...york lu koleksiyoncu george
+      metin  : heye de
+      duyulan: hayde
+  REPLACE  ...dan önemli parçalar edindi
+      metin  : heye
+      duyulan: haye
+  REPLACE  ...şartı getiren düzenleme yaptı
+      metin  : ve
+      duyulan: in
+  REPLACE  ...olan tahribat yeterince büyüktü
+      metin  : craig
+      duyulan: kiraik
+  REPLACE  ...torunları bugün caddo ve
+      metin  : viçita
+      duyulan: vichita
+  INSERT   ...yasal yol yoktu ancak
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...olarak sık sık anılır
+      metin  : yağma
+      duyulan: yağıma
+  INSERT   ...oklahoma üniversitesi nin araştırmacılarıydı
+      metin  : (yok)
+      duyulan: dan e
+  REPLACE  ...yöntemliydi tünellerle delinmiş craig
+      metin  : höyüğü
+      duyulan: hoyu yu
+  REPLACE  ...çalışmalar sona erdiğinde craig
+      metin  : höyüğü
+      duyulan: hoyu
+  INSERT   ...zamanla yaradan derse dönüştü
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...duruyor arada açık artırma
+      metin  : kataloğunda
+      duyulan: katalogunda
+  REPLACE  ...yeer dönüştü caddo ve
+      metin  : viçita
+      duyulan: vichita
+  REPLACE  ...fırsat vardı kumaşın dokunuşu
+      metin  : tüy pelerinin
+      duyulan: tüpelerinin
+  REPLACE  ...ait olduklarını sormak gerektiği
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 45 kelime | duyulup metinde OLMAYAN: 49
+bölme/birleşme farkı (hata değil, elendi): 16
+
+duyulan metin: arkeoloji-2026-11-27.duyulan.txt

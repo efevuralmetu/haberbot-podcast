@@ -1,0 +1,73 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: bilim-2026-11-27.mp3
+
+beklenen 1682 kelime | duyulan 1693 kelime | eşleşme %97.8
+sayı ifadesi: metinde 200, duyulanda 169  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  INSERT   ...sonra aynı noktaya kilitleniyor
+      metin  : (yok)
+      duyulan: bu
+  INSERT   ...ait ve bu takımın
+      metin  : (yok)
+      duyulan: den
+  INSERT   ...alıcı hücer türü sayısı
+      metin  : (yok)
+      duyulan: ye
+  REPLACE  ...sayısı çıkar bunların kısmı
+      metin  : ultraviyole
+      duyulan: ultraviolet
+  REPLACE  ...bu göz bölgeye ayrılmıştır
+      metin  : üstte yarıküer
+      duyulan: üste yarı küer
+  REPLACE  ...sormaktı avustralya daki queensland
+      metin  : üniversitesi nde hanne thoen
+      duyulan: üniversitesinde hani toane
+  REPLACE  ...karar verdi deneyin kahramanı
+      metin  : haptoskuilla
+      duyulan: haptozkuilla
+  INSERT   ...civarı yeşil civarı sarı
+      metin  : (yok)
+      duyulan: ün
+  INSERT   ...kaymaları bile yakalarız sonuçlar
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...güvenilir biçimde yapamıyordu başka
+      metin  : deyişle
+      duyulan: değişle
+  INSERT   ...yöntemi alıcıya uyguladığınızı düşünün
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...ağır yük getirir üstelik
+      metin  : thoen
+      duyulan: toen
+  REPLACE  ...tanıyarak görüyor olabilir bunu
+      metin  : benzetmeyle
+      duyulan: benzetme ile
+  REPLACE  ...giriyor renk görmeyi sağlayan
+      metin  : bant
+      duyulan: band
+  REPLACE  ...üzerinde gezdirir market kasasındaki
+      metin  : barkod
+      duyulan: barkot
+  REPLACE  ...ilerleyen ışığını düşünebilirsiniz hanne
+      metin  : thoen
+      duyulan: toen
+  REPLACE  ...yönünde kimi zaman tersine
+      metin  : tsyr huei chiou
+      duyulan: de sir huey chiu
+  REPLACE  ...örneğin illinois üniversitesi nde
+      metin  : viktor gruev in
+      duyulan: victor greven
+  INSERT   ...ne kadar yanıltıcı olabileceği
+      metin  : (yok)
+      duyulan: don
+  REPLACE  ...değil dikkatle soru sormakmış
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 21 kelime | duyulup metinde OLMAYAN: 29
+bölme/birleşme farkı (hata değil, elendi): 8
+
+duyulan metin: bilim-2026-11-27.duyulan.txt

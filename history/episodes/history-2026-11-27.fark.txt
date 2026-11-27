@@ -1,0 +1,118 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: history-2026-11-27.mp3
+
+beklenen 4486 kelime | duyulan 4481 kelime | eşleşme %99.2
+sayı ifadesi: metinde 214, duyulanda 166  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...the waters of the
+      metin  : tagus
+      duyulan: tagas
+  REPLACE  ...broad estuary wheer the
+      metin  : tagus
+      duyulan: tagas
+  REPLACE  ...the previous king john
+      metin  : the
+      duyulan: v
+  REPLACE  ...pointed arches spanning the
+      metin  : alcantara
+      duyulan: alcántara
+  REPLACE  ...in his son joseph
+      metin  : the
+      duyulan: i
+  REPLACE  ...and opera beside the
+      metin  : ribeira
+      duyulan: ribera
+  REPLACE  ...a few months the
+      metin  : ribeira
+      duyulan: ribera
+  REPLACE  ...by titian rubens and
+      metin  : correggio
+      duyulan: corrigio
+  REPLACE  ...at the edge of
+      metin  : rossio
+      duyulan: rocio
+  REPLACE  ...some kilometers off cape
+      metin  : saint
+      duyulan: st
+  DELETE   ...of the earthquake between
+      metin  : point
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...in an instant the
+      metin  : ribeira
+      duyulan: ribera
+  REPLACE  ...the priests many people
+      metin  : believed
+      duyulan: believe
+  REPLACE  ...the ruins of the
+      metin  : ribeira
+      duyulan: ribera
+  REPLACE  ...of al saints in
+      metin  : rossio
+      duyulan: rocio
+  REPLACE  ...the shock that josé
+      metin  : the
+      duyulan: i
+  REPLACE  ...charge that man was
+      metin  : sebastião
+      duyulan: sebastián
+  REPLACE  ...sebastião josé de carvalho
+      metin  : e melo
+      duyulan: imello
+  DELETE   ...british parliament set aside
+      metin  : pounds
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...its place the architects
+      metin  : eugénio
+      duyulan: eugenio
+  REPLACE  ...weer limited and the
+      metin  : facades
+      duyulan: façades
+  REPLACE  ...statue of king joseph
+      metin  : the
+      duyulan: i
+  REPLACE  ...born jesuit priest gabriel
+      metin  : malagrida
+      duyulan: malagreta
+  REPLACE  ...a tract published in
+      metin  : malagrida
+      duyulan: malagreta
+  REPLACE  ...the pace of reconstruction
+      metin  : malagrida
+      duyulan: malagreta
+  REPLACE  ...thousands of houses and
+      metin  : storeys
+      duyulan: stories
+  REPLACE  ...an unknown teacher in
+      metin  : königsberg
+      duyulan: konigsberg
+  REPLACE  ...but his approach mattered
+      metin  : an
+      duyulan: and
+  REPLACE  ...the english scientist john
+      metin  : michel
+      duyulan: mitchel
+  REPLACE  ...that earthquakes weer waves
+      metin  : travelling
+      duyulan: traveling
+  REPLACE  ...kant s essays and
+      metin  : michel
+      duyulan: mitchel
+  REPLACE  ...harsh in when joseph
+      metin  : the
+      duyulan: i
+  REPLACE  ...and his daughter maria
+      metin  : the
+      duyulan: i
+  DELETE   ...through the decisions made
+      metin  : and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...today s episode of
+      metin  : nöron tarih
+      duyulan: neurontaer
+
+metinde olup DUYULMAYAN: 37 kelime | duyulup metinde OLMAYAN: 32
+bölme/birleşme farkı (hata değil, elendi): 2
+
+duyulan metin: history-2026-11-27.duyulan.txt

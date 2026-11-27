@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: oyun-2026-11-27.mp3
+
+beklenen 1485 kelime | duyulan 1492 kelime | eşleşme %93.9
+sayı ifadesi: metinde 170, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aslında başka şirketi arıyordu
+      metin  : piter molinyu
+      duyulan: peter molyneux
+  REPLACE  ...veren ilk oyun çıktı
+      metin  : seksenlerin
+      duyulan: lerin
+  REPLACE  ...nin güneyinde guildford kasabasında
+      metin  : piter molinyu
+      duyulan: peter molyneux
+  REPLACE  ...şirket karşı taraftaki ses
+      metin  : molinyu ya
+      duyulan: molyneux a
+  REPLACE  ...ya amiga için yazılım
+      metin  : geliştirmeyle
+      duyulan: geliştirme ile
+  REPLACE  ...bilgisayar göndermeyi teklif ediyordu
+      metin  : molinyu
+      duyulan: molyneux
+  REPLACE  ...fark etti commodoer dakiler
+      metin  : ağ
+      duyulan: a
+  INSERT   ...sonradan anlaşılan şuydu commodoer
+      metin  : (yok)
+      duyulan: a
+  REPLACE  ...anlaşılan şuydu commodoer aslında
+      metin  : torus
+      duyulan: taurus
+  REPLACE  ...commodoer aslında torus adında
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...şirketi arıyordu i ki
+      metin  : ad
+      duyulan: at
+  REPLACE  ...kimse de fark etmemişti
+      metin  : molinyu nun
+      duyulan: molyneux un
+  REPLACE  ...ize karşılığında şey bekliyordu
+      metin  : molinyu ağ
+      duyulan: molyneux a
+  REPLACE  ...makinede alışılmadık üründü ama
+      metin  : molinyu nun
+      duyulan: molyneux un
+  REPLACE  ...herkesi oyun yapmaya kışkırtıyordu
+      metin  : molinyu
+      duyulan: molyneux
+  INSERT   ...kışkırtıyordu molinyu ve edgar
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...adını verdiler ad yani
+      metin  : boğa
+      duyulan: boa
+  DELETE   ...başka firmanın oyunu druid
+      metin  : ii
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...katılan genç grafikçi glenn
+      metin  : corpes
+      duyulan: korps
+  REPLACE  ...çizdiği eğik açılı arazi
+      metin  : molinyu nun
+      duyulan: molyneux un
+  REPLACE  ...bu toprağı doğrudan şekillendirebilseydi
+      metin  : faer ile
+      duyulan: fareyle
+  REPLACE  ...kaleleer dönüşüyordu oyunun adı
+      metin  : populous
+      duyulan: populos
+  INSERT   ...adı populous oldu ve
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...deprem yaratmak bataklıklar açmak
+      metin  : yanardağ
+      duyulan: yanardağı
+  REPLACE  ...savaş için ortada buluşuyordu
+      metin  : populous
+      duyulan: populos
+  REPLACE  ...batıyordu commodoer un yanlışlıkla
+      metin  : ağ
+      duyulan: a
+  REPLACE  ...birbirine bağlayan oyun yapmıştı
+      metin  : basın
+      duyulan: baas ın
+  REPLACE  ...adıydı ve o tür
+      metin  : populous
+      duyulan: populos
+  REPLACE  ...hiç benzemeyen oyunlar üretti
+      metin  : populous
+      duyulan: populos
+  REPLACE  ...kurduğu theme park yani
+      metin  : tema parkı
+      duyulan: thema park ı
+  REPLACE  ...da kötü adam oluyordu
+      metin  : tema parkı
+      duyulan: theme park ı
+  REPLACE  ...yaşındayken tasarımına katkı verdiği
+      metin  : oyundu
+      duyulan: oyundur
+  INSERT   ...yayıncı olmakla yetinmek istemiyordu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...ekiplerinden kendi bünyesine katıyordu
+      metin  : molinyu
+      duyulan: mollinio
+  REPLACE  ...başkan yardımcısı unvanı aldı
+      metin  : ortağı
+      duyulan: ortağa
+  REPLACE  ...ve satış hedeflerini getirdi
+      metin  : molinyu
+      duyulan: mollinio
+  REPLACE  ...olduğunu açıkça anlattı zamanlar
+      metin  : faer ile toprağı
+      duyulan: fareyle toprağa
+  REPLACE  ...içinde kendine yer arıyordu
+      metin  : molinyu
+      duyulan: de mollinio
+  REPLACE  ...örneğiydi ayrılmak üzeer olan
+      metin  : molinyu
+      duyulan: mollinio
+  INSERT   ...kısmıyla birlikte tamamladı oyun
+      metin  : (yok)
+      duyulan: de
+  ... ve 19 fark daha
+
+metinde olup DUYULMAYAN: 68 kelime | duyulup metinde OLMAYAN: 82
+bölme/birleşme farkı (hata değil, elendi): 10
+
+duyulan metin: oyun-2026-11-27.duyulan.txt

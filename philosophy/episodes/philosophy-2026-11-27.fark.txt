@@ -1,0 +1,85 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: philosophy-2026-11-27.mp3
+
+beklenen 3475 kelime | duyulan 3467 kelime | eşleşme %98.7
+sayı ifadesi: metinde 121, duyulanda 92  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...carries a volume of
+      metin  : horace
+      duyulan: horus
+  REPLACE  ...a cel at bourg
+      metin  : la reine
+      duyulan: lorraine
+  REPLACE  ...surrendered themselves to display
+      metin  : and
+      duyulan: in
+  REPLACE  ...language of ottoman intellectuals
+      metin  : terakki
+      duyulan: teraikki
+  REPLACE  ...the roads of exile
+      metin  : ziya
+      duyulan: zia
+  REPLACE  ...from memory today diyar
+      metin  : ı küfrü gezdim beldeler kaşaneler gördüm dolaştım mülk i i slam ı bütün viraneler gördüm
+      duyulan: kufrugezdum bal delar keshan elar girdum dolashtum mulki islamu butunviran elar girdum
+  REPLACE  ...gördüm that is i
+      metin  : traveled
+      duyulan: travelled
+  REPLACE  ...the past the asr
+      metin  : ı saadet
+      duyulan: i sadet
+  REPLACE  ...centuries in the past
+      metin  : ziya
+      duyulan: zia
+  REPLACE  ...not in my world
+      metin  : namık
+      duyulan: nama
+  REPLACE  ...in an article titled
+      metin  : terakki
+      duyulan: taraki
+  REPLACE  ...published in the newspaper
+      metin  : i bret
+      duyulan: ibrett
+  REPLACE  ...of fairy tales but
+      metin  : namık
+      duyulan: nama
+  REPLACE  ...it traces a circle
+      metin  : communities
+      duyulan: cities
+  DELETE   ...journey in generations roughly
+      metin  : a and
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...start of the century
+      metin  : mehmet akif
+      duyulan: mehmed akhav
+  REPLACE  ...the pulpit of the
+      metin  : süleymaniye
+      duyulan: suleymaniyeh
+  INSERT   ...directly from the quran
+      metin  : (yok)
+      duyulan: dot
+  REPLACE  ...today can understand in
+      metin  : akif
+      duyulan: akhav
+  REPLACE  ...that unease swinging between
+      metin  : ziya
+      duyulan: zia
+  REPLACE  ...pasha s lines and
+      metin  : namık
+      duyulan: namek
+  REPLACE  ...knowledge carries a responsibility
+      metin  : ziya pasha
+      duyulan: zeyapasha
+  REPLACE  ...khaldun saw a circle
+      metin  : namık
+      duyulan: namaq
+  REPLACE  ...today s episode of
+      metin  : nöron felsefe
+      duyulan: neuron felsophae
+
+metinde olup DUYULMAYAN: 44 kelime | duyulup metinde OLMAYAN: 37
+bölme/birleşme farkı (hata değil, elendi): 3
+
+duyulan metin: philosophy-2026-11-27.duyulan.txt

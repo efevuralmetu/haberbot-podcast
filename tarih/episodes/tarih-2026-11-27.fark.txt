@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: tarih-2026-11-27.mp3
+
+beklenen 3094 kelime | duyulan 3090 kelime | eşleşme %94.8
+sayı ifadesi: metinde 314, duyulanda 241  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kasım sabahı
+      metin  : lizbon un
+      duyulan: lisbo nun
+  INSERT   ...yarısı dua ediyordu saat
+      metin  : (yok)
+      duyulan: ta
+  REPLACE  ...geri geldi yılının sonbaharında
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...fildişi getiriyordu aynı limandan
+      metin  : atlantiğin
+      duyulan: atlantin in
+  REPLACE  ...taşıyan gemiler de kalkıyordu
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...geliyordu yüzyılın başında minas
+      metin  : jerays
+      duyulan: gerais
+  REPLACE  ...gelir sağlamıştı önceki kral
+      metin  : juaun
+      duyulan: joao un
+  REPLACE  ...bu parayı cömertçe harcamıştı
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...kemeri de döneminin eseriydi
+      metin  : alkantara vadisinin
+      duyulan: alcantara vadisi nin
+  REPLACE  ...devrin mühendisliğinin gururu sayılıyordu
+      metin  : tahta oğlu juze
+      duyulan: de tahtoğlu
+  REPLACE  ...operayı seviyordu nehir kıyısındaki
+      metin  : ribeyra sarayı nın
+      duyulan: ribeira sarayının
+  REPLACE  ...olduğu tahmin ediliyordu duvarlarında
+      metin  : titsiyano
+      duyulan: tiziano
+  REPLACE  ...titsiyano nun rubens in
+      metin  : korecço
+      duyulan: coreccio
+  REPLACE  ...ve şapelin kuleleri yükseliyordu
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...törenler şehrin takvimini belirliyordu
+      metin  : rosiyu
+      duyulan: rossio
+  REPLACE  ...kralın hayatını kurtaracaktı saat
+      metin  : geçe
+      duyulan: u gece
+  REPLACE  ...saint vincent burnu nun
+      metin  : kilometer
+      duyulan: km
+  REPLACE  ...da ağır hasar gördü
+      metin  : lizbon katedrali nin
+      duyulan: lisbon katedralinin
+  REPLACE  ...bayram sabahı kiliselerin içinde
+      metin  : ayin
+      duyulan: ayın
+  REPLACE  ...arka arkaya kez geldi
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...yıkıntıları da beraberinde götürdü
+      metin  : tsunami
+      duyulan: çilsami
+  REPLACE  ...beraberinde götürdü tsunami yalnız
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...hatta okyanusun öbür yakasında
+      metin  : karayipler e
+      duyulan: kara ipleer
+  REPLACE  ...sonra gelen mektuplardan öğreneceklerdi
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...ocak ateşleri devrilmiş ahşap
+      metin  : kirişleer
+      duyulan: girişleer
+  REPLACE  ...böylece sonsuza dek kayboldu
+      metin  : rosiyu meydanı ndaki
+      duyulan: rossio meydanındaki
+  REPLACE  ...yeni panik dalgası yarattı
+      metin  : ölü
+      duyulan: ötü
+  REPLACE  ...yıkıntıların kalmıştı tarihçilerin tahminleri
+      metin  : lizbon
+      duyulan: lisbon
+  INSERT   ...şehirde bu nüfusun kabaca
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...bu nüfusun kabaca ile
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...belem de güvendeydi ama
+      metin  : juze nin
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...ahşap köşklerde yaşadı sonunda
+      metin  : ajuda
+      duyulan: acuda
+  REPLACE  ...üstlenmesi gerekiyordu o kişi
+      metin  : sebastiyau juze dö karvalyu i melu ydu
+      duyulan: sebastiao yuse de carvalho e meluydu
+  INSERT   ...pombal markisi olarak tanıyor
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...de yer yoktu pombal
+      metin  : kilize nin
+      duyulan: kilisenin
+  REPLACE  ...iddialı adımı ize yeniden
+      metin  : inşaydı
+      duyulan: inşa idi
+  REPLACE  ...pombal buna karşı çıktı
+      metin  : lizbon
+      duyulan: lisbon
+  REPLACE  ...krallığın baş mühendisi manuel
+      metin  : da maia
+      duyulan: de maya
+  REPLACE  ...da maia yı görevlendirdi
+      metin  : maia
+      duyulan: maya
+  REPLACE  ...çizilecekti planın ayrıntılarını mimarlar
+      metin  : eujenyu duş
+      duyulan: eugen yuduş
+  ... ve 54 fark daha
+
+metinde olup DUYULMAYAN: 112 kelime | duyulup metinde OLMAYAN: 119
+bölme/birleşme farkı (hata değil, elendi): 29
+
+duyulan metin: tarih-2026-11-27.duyulan.txt

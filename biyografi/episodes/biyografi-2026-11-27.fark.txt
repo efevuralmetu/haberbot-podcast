@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: biyografi-2026-11-27.mp3
+
+beklenen 2628 kelime | duyulan 2666 kelime | eşleşme %94.4
+sayı ifadesi: metinde 407, duyulanda 261  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...adını okur haber kısadır
+      metin  : cenova
+      duyulan: genova
+  REPLACE  ...karşı ayaklanma tertiplemekten yargıladığı
+      metin  : cuzeppe
+      duyulan: giuseppe
+  INSERT   ...kentinde başlar garibaldi temmuz
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bu kent o yıllarda
+      metin  : napolyon
+      duyulan: napoleon
+  REPLACE  ...na bağlıydı yıl sonra
+      metin  : sardinya
+      duyulan: te sardinia
+  REPLACE  ...yeniden karşısına çıkacak babası
+      metin  : domeniko
+      duyulan: domenico
+  REPLACE  ...küçük teknenin sahibiydi annesi
+      metin  : rosa oğlunun
+      duyulan: rozaoğlu nun
+  REPLACE  ...avukat olmasını istiyordu ama
+      metin  : cuzeppe denizden
+      duyulan: giuseppe deniz den
+  INSERT   ...gemiciden fazlası yapan şey
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...yaşandı orada covanni battista
+      metin  : kuneo
+      duyulan: cuneo
+  REPLACE  ...adlı i talyanla tanıştı
+      metin  : kuneo cuzeppe matsini
+      duyulan: cuneo giuseppe mazzini
+  REPLACE  ...cuzeppe matsini den ve
+      metin  : matsini
+      duyulan: mazzini
+  REPLACE  ...nin kurduğu gizli örgüt
+      metin  : covine
+      duyulan: covini
+  DELETE   ...yönettiği orta topraklar güneydeki
+      metin  : i ki
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...krallığı ve garibaldi nin
+      metin  : tabiyeti
+      duyulan: tabiyeci
+  REPLACE  ...aynı yıl marsilya da
+      metin  : matsini
+      duyulan: mazzini
+  INSERT   ...ayaklanmaya destek olacaktı şubat
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...geçme anı geldi ama
+      metin  : matsini
+      duyulan: mazzini
+  REPLACE  ...akın daha başlamadan dağıldı
+      metin  : cenova
+      duyulan: genova
+  INSERT   ...yeri dönebileceği memleketi yoktu
+      metin  : (yok)
+      duyulan: in
+  REPLACE  ...memleketi yoktu sonunda kararla
+      metin  : atlantiği
+      duyulan: atlantı yı
+  REPLACE  ...ve brezilya nın başkenti
+      metin  : riyo
+      duyulan: rio
+  REPLACE  ...nın başkenti riyo de
+      metin  : janeyro
+      duyulan: janeiro
+  INSERT   ...lk yıllar parlak değildi
+      metin  : (yok)
+      duyulan: deki
+  REPLACE  ...ovalarında başka insana dönüştü
+      metin  : gauçolardan
+      duyulan: gaucho lardan
+  REPLACE  ...açık havada uyumayı öğrendi
+      metin  : panço
+      duyulan: pancho
+  INSERT   ...savaşı değil pampanın savaşıydı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...garibaldi gemisinin güvertesinden dürbünle
+      metin  : kıyıyı
+      duyulan: kıyı
+  REPLACE  ...gördü kadının adı ana
+      metin  : mariya
+      duyulan: maria
+  REPLACE  ...adı ana mariya de
+      metin  : jezus ribeyro ydu
+      duyulan: jesus ribeiroydu
+  REPLACE  ...edilen i talyan yurtseveri
+      metin  : çiro
+      duyulan: ciro
+  REPLACE  ...paçavralılar savaşı yavaş yavaş
+      metin  : sönüyordu
+      duyulan: dönüyordu
+  INSERT   ...yavaş yavaş sönüyordu garibaldi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...arjantin in güçlü lideri
+      metin  : huan
+      duyulan: juan
+  INSERT   ...donanmasının komutasını aldı sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...gömlekler ucuza alındı ve
+      metin  : lejyonun
+      duyulan: lejonun
+  REPLACE  ...yılı aşkın simgeye dönüştü
+      metin  : lejyonun
+      duyulan: lejonun
+  INSERT   ...en büyük sınavı şubat
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...kente ulaşmayı başardı haber
+      metin  : atlantiği aştı
+      duyulan: atlantiyi açtı
+  REPLACE  ...paris te londra da
+      metin  : cenova
+      duyulan: genova
+  ... ve 74 fark daha
+
+metinde olup DUYULMAYAN: 104 kelime | duyulup metinde OLMAYAN: 139
+bölme/birleşme farkı (hata değil, elendi): 18
+
+duyulan metin: biyografi-2026-11-27.duyulan.txt

@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: seyahat-2026-11-27.mp3
+
+beklenen 2126 kelime | duyulan 2126 kelime | eşleşme %95.7
+sayı ifadesi: metinde 206, duyulanda 173  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...göer bahçe bahçe dağıtılır
+      metin  : şehir
+      duyulan: beşşehir
+  REPLACE  ...düzlüğe çıkar buraya araplar
+      metin  : çebka
+      duyulan: çepka
+  REPLACE  ...bu kuru vadinin adı
+      metin  : mzab dır
+      duyulan: memzap tır
+  REPLACE  ...belki çok uzaktaki tepeye
+      metin  : yağan
+      duyulan: yağın
+  REPLACE  ...erken döneminde ortaya çıkan
+      metin  : sünni
+      duyulan: sunni
+  REPLACE  ...kendi berberi dilleri olan
+      metin  : tumzabt ı
+      duyulan: tumzaptı
+  REPLACE  ...atef ti yılında ardından
+      metin  : bunura gardaya
+      duyulan: da bunur a te garda ya
+  INSERT   ...gardaya geldi çok sonra
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...çok sonra beni i
+      metin  : sguen
+      duyulan: sküven te
+  REPLACE  ...hafifçe incelen köşeleri yuvarlatılmış
+      metin  : süssüz
+      duyulan: süsüz
+  REPLACE  ...benzer bu mimarinin dili
+      metin  : sadeliktir
+      duyulan: sağ deliktir
+  REPLACE  ...aradığı şeyi bulduğunu düşündü
+      metin  : lö korbüziye
+      duyulan: le corbusier deki
+  REPLACE  ...lö korbüziye ziyaretinden sonra
+      metin  : mzab
+      duyulan: menzap
+  REPLACE  ...korkutucu sellerdi i şte
+      metin  : mzab ın
+      duyulan: menzabın
+  REPLACE  ...yapılmıştı yavaşlayan su yayılır
+      metin  : toprağa
+      duyulan: toprağı
+  REPLACE  ...emanetçileri gardaya hurmalığındaki bu
+      metin  : ağı
+      duyulan: ağ
+  REPLACE  ...kutsal şehri sayılır beni
+      metin  : i sguen
+      duyulan: iskuen
+  REPLACE  ...beni i sguen beni
+      metin  : i sguen
+      duyulan: iskuen
+  REPLACE  ...karanlığıyla birlikte kapandı gece
+      metin  : içeride
+      duyulan: içerde
+  REPLACE  ...başından ayağına beyaz örtüye
+      metin  : sarınmıştır
+      duyulan: sarılmıştır
+  REPLACE  ...günün büyük kısmında beni
+      metin  : i sguen
+      duyulan: iskuen
+  REPLACE  ...şehrin kalbi atmaya başlar
+      metin  : surların
+      duyulan: orların
+  REPLACE  ...hurma ya da yün
+      metin  : battaniyeyle
+      duyulan: battaniye ile
+  REPLACE  ...başıyla ya da kısa
+      metin  : sözle
+      duyulan: sözde
+  REPLACE  ...ve soyları temsil eden
+      metin  : laik
+      duyulan: layık
+  REPLACE  ...bekçisi olarak kalırdı böylece
+      metin  : mzab
+      duyulan: menzap
+  REPLACE  ...aldığı yerdi beni i
+      metin  : sguen
+      duyulan: sküven
+  INSERT   ...hukukun bölüştürdüğü misafir olarak
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...bölüştürdüğü misafir olarak unesco
+      metin  : mzab vadisini
+      duyulan: misab vadisi ni
+  REPLACE  ...vadisini dünya mirası listesi
+      metin  : ne
+      duyulan: ni
+  INSERT   ...artık kendine yer bulamadı
+      metin  : (yok)
+      duyulan: k
+  REPLACE  ...bulamadı yılının ekim gecesi
+      metin  : mzab a
+      duyulan: mezaba
+  REPLACE  ...oturulamaz hale geldi sel
+      metin  : mzab
+      duyulan: minzap
+  REPLACE  ...yapıldı suyun yavaşlayıp toprağa
+      metin  : sineceği
+      duyulan: sineceyi
+  REPLACE  ...modern yapılar insanları büyük
+      metin  : selleer
+      duyulan: celleer
+  REPLACE  ...yönetiliyor bu arada derin
+      metin  : sondaj
+      duyulan: sondaş
+  REPLACE  ...arada derin sondaj kuyuları
+      metin  : yeraltından
+      duyulan: yer
+  REPLACE  ...hala görevlerini sürdürüyor ve
+      metin  : gardaya
+      duyulan: gardaia
+  REPLACE  ...eski paylaşım düzeni bugün
+      metin  : de işliyor
+      duyulan: değişliyor
+  INSERT   ...tek şey su değildi
+      metin  : (yok)
+      duyulan: g
+  ... ve 9 fark daha
+
+metinde olup DUYULMAYAN: 57 kelime | duyulup metinde OLMAYAN: 62
+bölme/birleşme farkı (hata değil, elendi): 20
+
+duyulan metin: seyahat-2026-11-27.duyulan.txt

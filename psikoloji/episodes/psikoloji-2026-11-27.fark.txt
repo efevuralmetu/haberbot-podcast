@@ -1,0 +1,103 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: psikoloji-2026-11-27.mp3
+
+beklenen 1598 kelime | duyulan 1612 kelime | eşleşme %97.4
+sayı ifadesi: metinde 199, duyulanda 153  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...kurabiye dururken çiğ turp
+      metin  : yemeye
+      duyulan: yemeğe
+  REPLACE  ...ve depo ortadan kayboldu
+      metin  : doksanların
+      duyulan: ların
+  REPLACE  ...geliyor onlardan deneyden önce
+      metin  : öğün
+      duyulan: övün
+  REPLACE  ...isim sosyal psikolog roy
+      metin  : baumayster dı
+      duyulan: baumeisterdi
+  INSERT   ...ve çalışmayı ekibiyle birlikte
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...sınavda daha kolay yenilirsin
+      metin  : baumayster
+      duyulan: baumeister
+  INSERT   ...sonra daha erken bırakıyordu
+      metin  : (yok)
+      duyulan: diki da
+  REPLACE  ...sağlam olduğunu söylüyordu sonra
+      metin  : hikayeye
+      duyulan: hikaye
+  REPLACE  ...hikayeye de yakıt eklendi
+      metin  : baumayster
+      duyulan: ki de baumeister
+  REPLACE  ...ın çalışma arkadaşı matthew
+      metin  : gailliot
+      duyulan: gailiott
+  INSERT   ...yazdı daha da ilginci
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...çatlak ize yöntemle ilgiliydi
+      metin  : (yok)
+      duyulan: kibin
+  INSERT   ...daha güçlü etki görür
+      metin  : (yok)
+      duyulan: ki te
+  INSERT   ...öne sürdüler son darbe
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...darbe geldi psikolog martin
+      metin  : hagger
+      duyulan: heger
+  REPLACE  ...titiz sınamada ortaya çıkmadı
+      metin  : baumayster
+      duyulan: baumeister
+  REPLACE  ...meşru bilimsel itirazdı bu
+      metin  : baumayster
+      duyulan: de baumeister
+  REPLACE  ...yakın çalışma arkadaşı kathleen
+      metin  : vohs un
+      duyulan: walsh ın
+  REPLACE  ...hissedeceğimiz türden değildi yani
+      metin  : turp
+      duyulan: türk
+  INSERT   ...yıllarında yapılmış çalışma açmıştı
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...açmıştı stanford üniversitesi nden
+      metin  : veronika yob
+      duyulan: veronica job
+  INSERT   ...tükenme etkisi ortaya çıktı
+      metin  : (yok)
+      duyulan: i kinci
+  REPLACE  ...da şeker meselesine döndüler
+      metin  : glikoz
+      duyulan: glicos
+  REPLACE  ...özetleyen fikirlerden kanadalı psikolog
+      metin  : maykıl i nzliht
+      duyulan: michael inzlith
+  REPLACE  ...maykıl i nzliht ve
+      metin  : brendın şmaykel
+      duyulan: brandon schmeichel
+  REPLACE  ...değil önceliklerin yeniden düzenlenmesidir
+      metin  : i nzliht
+      duyulan: inzlith
+  REPLACE  ...şunu sormayı dene gerçekten
+      metin  : tükendim
+      duyulan: tükendin
+  REPLACE  ...durmadan çalışabilirim diye okumak
+      metin  : yob
+      duyulan: yok
+  REPLACE  ...daha fazla senin elindedir
+      metin  : nöron
+      duyulan: neuron
+  INSERT   ...hikayede yeniden buluşmak üzeer
+      metin  : (yok)
+      duyulan: altyazı m k
+
+metinde olup DUYULMAYAN: 28 kelime | duyulup metinde OLMAYAN: 42
+bölme/birleşme farkı (hata değil, elendi): 4
+
+duyulan metin: psikoloji-2026-11-27.duyulan.txt

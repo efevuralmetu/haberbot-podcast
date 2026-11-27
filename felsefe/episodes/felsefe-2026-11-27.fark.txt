@@ -1,0 +1,134 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: felsefe-2026-11-27.mp3
+
+beklenen 2223 kelime | duyulan 2248 kelime | eşleşme %95.3
+sayı ifadesi: metinde 261, duyulanda 201  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...bizim zamanımızda insanlar daha
+      metin  : dürüsttü
+      duyulan: dürüstü
+  DELETE   ...aynı sofrada kuşak ayrı
+      metin  : çağ
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...soy yani şairin kendi
+      metin  : kuşağı
+      duyulan: kuşu
+  INSERT   ...göstermiyor tanıdık geldi mi
+      metin  : (yok)
+      duyulan: yıl
+  REPLACE  ...sonra romalı şair horatius
+      metin  : da
+      duyulan: ta
+  INSERT   ...da hastalık olarak konmuş
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...de tıp öğrenimini bitiren
+      metin  : yohannes
+      duyulan: johannes
+  REPLACE  ...hep daha parlak görünür
+      metin  : psikologlar
+      duyulan: pesikologlar
+  REPLACE  ...kendi çocuklarını yemeye başlamış
+      metin  : giyotin
+      duyulan: guillotine
+  REPLACE  ...neredeyze her gün çalışıyor
+      metin  : rü
+      duyulan: rue
+  REPLACE  ...çalışıyor rü servandoni de
+      metin  : madam
+      duyulan: madame
+  REPLACE  ...evinde adam saklanıyor adı
+      metin  : nikola dö kondorse
+      duyulan: nicolas de condorce
+  REPLACE  ...te yer almış ama
+      metin  : jakobenlerin
+      duyulan: jacobinlerin
+  REPLACE  ...olduğuna dair acı hesaplaşma
+      metin  : kondorse
+      duyulan: condorce
+  REPLACE  ...için şaşırtıcı derecede aydınlıktır
+      metin  : kondorse
+      duyulan: condorce
+  REPLACE  ...değişir yönü değişmez mart
+      metin  : kondorse
+      duyulan: te condorce
+  INSERT   ...bilinmiyor kitabı ölümünden sonra
+      metin  : (yok)
+      duyulan: te
+  REPLACE  ...dair belki de en
+      metin  : iyimser metin
+      duyulan: iyi imsermetin
+  REPLACE  ...tam kalbinde durur oysa
+      metin  : kondorse
+      duyulan: condorce
+  REPLACE  ...düşünür vardı yazında cenevreli
+      metin  : jan jak
+      duyulan: can jack
+  REPLACE  ...cenevreli jan jak russo
+      metin  : vensen
+      duyulan: wensen
+  INSERT   ...olmuştur russo bu itirazla
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...dünyanın bütün kütüphanelerine erişebiliyoruz
+      metin  : kondorse nin
+      duyulan: condorsen in
+  INSERT   ...önde gelenlerinden ziya paşa
+      metin  : (yok)
+      duyulan: den ye
+  REPLACE  ...cenever yi görür kalan
+      metin  : beyit
+      duyulan: beyt
+  DELETE   ...kaşaneler gördüm dolaştım mülk
+      metin  : i
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...saadet yani mutluluk çağı
+      metin  : hazreti peygamber in
+      duyulan: hz peygamberin
+  REPLACE  ...yanda londra nın gaz
+      metin  : lambalarıyla
+      duyulan: lambaları ile
+  REPLACE  ...neden benim dünyamda değil
+      metin  : namık
+      duyulan: nam ı
+  INSERT   ...soruya dönmez üstüne yürür
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...masal coşkusuyla anlatır ama
+      metin  : namık
+      duyulan: nam ı
+  INSERT   ...afrikalı düşünür i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...düşünür i bn haldun
+      metin  : (yok)
+      duyulan: de
+  INSERT   ...sıkıya bağlıdır i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yavaş gevşetir i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...dağıtan kuşak i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...yakındır ama i bn
+      metin  : (yok)
+      duyulan: i
+  INSERT   ...en karanlık sahnelerinde kullanılacaktı
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...kullanılacaktı genç alman düşünür
+      metin  : valter benyamin
+      duyulan: walter benjamin
+  REPLACE  ...valter benyamin ressam paul
+      metin  : kle
+      duyulan: klee
+  ... ve 23 fark daha
+
+metinde olup DUYULMAYAN: 54 kelime | duyulup metinde OLMAYAN: 80
+bölme/birleşme farkı (hata değil, elendi): 22
+
+duyulan metin: felsefe-2026-11-27.duyulan.txt

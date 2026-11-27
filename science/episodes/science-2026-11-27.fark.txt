@@ -1,0 +1,43 @@
+ASR modeli yükleniyor: medium.en
+  cihaz: CUDA
+çözümleniyor: science-2026-11-27.mp3
+
+beklenen 2427 kelime | duyulan 2431 kelime | eşleşme %99.0
+sayı ifadesi: metinde 116, duyulanda 98  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...of the eye like
+      metin  : an insect s
+      duyulan: in insects
+  REPLACE  ...a team that included
+      metin  : hanne thoen
+      duyulan: hanith owen
+  REPLACE  ...of mantis shrimp called
+      metin  : haptosquilla
+      duyulan: haptoscula
+  REPLACE  ...nervous system subtracts the
+      metin  : cones
+      duyulan: cone
+  REPLACE  ...weak discriminating power that
+      metin  : thoen
+      duyulan: thawin
+  REPLACE  ...its field of view
+      metin  : in
+      duyulan: and
+  REPLACE  ...glass this is why
+      metin  : hanne
+      duyulan: hannie
+  REPLACE  ...clockwize sometimes counterclockwize in
+      metin  : tsyr huei chiou
+      duyulan: tsirhui hu
+  REPLACE  ...the university of illinois
+      metin  : viktor gruev
+      duyulan: victor grueweave
+  REPLACE  ...today s episode of
+      metin  : nöron bilim
+      duyulan: neuron billum
+
+metinde olup DUYULMAYAN: 17 kelime | duyulup metinde OLMAYAN: 15
+bölme/birleşme farkı (hata değil, elendi): 6
+
+duyulan metin: science-2026-11-27.duyulan.txt

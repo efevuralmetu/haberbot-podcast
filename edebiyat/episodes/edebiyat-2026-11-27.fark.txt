@@ -1,0 +1,124 @@
+ASR modeli yükleniyor: medium
+  cihaz: CUDA
+çözümleniyor: edebiyat-2026-11-27.mp3
+
+beklenen 1726 kelime | duyulan 1716 kelime | eşleşme %94.1
+sayı ifadesi: metinde 187, duyulanda 133  !!! SAYI KAYBI OLABİLİR
+
+=== FARKLAR ===
+  REPLACE  ...aynı soruyu soruyordu anton
+      metin  : pavloviç çehov
+      duyulan: pavlovich chehov
+  REPLACE  ...kararı anlamak için önce
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...ettiği de olmuştu yayıncı
+      metin  : aleksey
+      duyulan: alexey
+  REPLACE  ...mektupta bu kendine has
+      metin  : şakayla
+      duyulan: şaka ile
+  REPLACE  ...nikahlı karısı edebiyat ize
+      metin  : metresiymiş
+      duyulan: metvesiymiş
+  REPLACE  ...bu cümlede huzursuzluk saklıdır
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...ağabeyi nikolay veremden ölmüştü
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...saklıyordu de eleştirmenler vardı
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...bu karmaşanın içinden doğdu
+      metin  : çehov suvorin e
+      duyulan: chehov suvorine
+  REPLACE  ...hesaplaşmaydı hazırlık aylar sürdü
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...şeyi okudu kız kardeşi
+      metin  : mariya
+      duyulan: maria
+  REPLACE  ...çıkardı suvorin in gazetesi
+      metin  : novoye vremya
+      duyulan: novoe voremya
+  INSERT   ...bakacaktı o kadar nisan
+      metin  : (yok)
+      duyulan: da
+  DELETE   ...volga ve kama ırmaklarından
+      metin  : perm e
+      duyulan: (YOK — atlanmış)
+  REPLACE  ...diz boyu çamura dönüyordu
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...posta arabaları arabasına çarptı
+      metin  : çehov
+      duyulan: chehov
+  REPLACE  ...sonunda tomsk a oradan
+      metin  : i rkutsk a baykal
+      duyulan: irkutska vaikal
+  REPLACE  ...çıkışından gün sonra temmuz
+      metin  : sahalin in
+      duyulan: da sahalinin
+  REPLACE  ...çehov adanın yöneticisi komutan
+      metin  : kononoviç
+      duyulan: kononovic den
+  REPLACE  ...değil sayım memurunun yapacağı
+      metin  : işti
+      duyulan: işte
+  INSERT   ...evine veriliyordu bu kadınların
+      metin  : (yok)
+      duyulan: çoğu
+  REPLACE  ...el sonka diye andığı
+      metin  : sofya bluvşteyn
+      duyulan: sofia blufstein
+  REPLACE  ...yaşayan gilyaklar yani bugün
+      metin  : nivh
+      duyulan: nif
+  INSERT   ...insanlara nasıl davrandığıyla ölçülür
+      metin  : (yok)
+      duyulan: doğn
+  REPLACE  ...nasıl davrandığıyla ölçülür ekim
+      metin  : sahalin den
+      duyulan: da sahalinden
+  REPLACE  ...kitap ile arasında ruskaya
+      metin  : mısl
+      duyulan: mısı
+  INSERT   ...dergisinde bölümler halinde çıktı
+      metin  : (yok)
+      duyulan: te
+  INSERT   ...sahalin edebiyatını da değiştirdi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...aynı yıl yayımlanan numaralı
+      metin  : koğuş
+      duyulan: kovuş
+  REPLACE  ...hekimin sonunda kendisi o
+      metin  : koğuşa
+      duyulan: kovuşa
+  INSERT   ...yıllar sonra yazdığı oyunlarda
+      metin  : (yok)
+      duyulan: da
+  REPLACE  ...oyunlarda ilk gösterimi petersburg
+      metin  : da
+      duyulan: ta
+  INSERT   ...oldu çehov un veremi
+      metin  : (yok)
+      duyulan: de
+  REPLACE  ...soğutmalı yük vagonunun üzerinde
+      metin  : istiridye
+      duyulan: i stiridya
+  REPLACE  ...dönmesine öfkelendi rus toplumunun
+      metin  : bayağılığını
+      duyulan: bayalığını
+  REPLACE  ...her yerdedir adanın merkezi
+      metin  : yujno sahalinsk te
+      duyulan: yüjno sahalinskite
+  REPLACE  ...değil küçük kartta bulmuştu
+      metin  : nöron
+      duyulan: neuron
+
+metinde olup DUYULMAYAN: 43 kelime | duyulup metinde OLMAYAN: 47
+bölme/birleşme farkı (hata değil, elendi): 36
+
+duyulan metin: edebiyat-2026-11-27.duyulan.txt
